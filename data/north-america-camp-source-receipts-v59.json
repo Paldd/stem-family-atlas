@@ -1,0 +1,268 @@
+{
+  "asof": "2026-10-04",
+  "version": 59,
+  "scope": "Public official programme/FAQ/rates; public registration introduction read without submitting family details. Failure/redirect and archived seasons kept explicit.",
+  "requests": [
+    {
+      "key": "bricklabs",
+      "url": "https://bricklabs.ca/over-night-camp-2026/",
+      "final_url": "https://bricklabs.ca/over-night-camp-2026/",
+      "status": 200,
+      "bytes": 55960,
+      "sha256": "b382c649750b38485476ff3583c2fb2eaa5ce1f43b831d78af48f225fd6d4732"
+    },
+    {
+      "key": "nextrobotics",
+      "url": "https://www.nextrobotics.ca/programs-1",
+      "final_url": "https://www.nextrobotics.ca/programs-1",
+      "status": 200,
+      "bytes": 893038,
+      "sha256": "8833e8058e959d0c36cc28028df2ad94d0a82e23000037df865ee95136285319"
+    },
+    {
+      "key": "yres",
+      "url": "https://www.yorkeducation.org/camp-programs/summer-camp",
+      "final_url": "https://www.yorkeducation.org/camp-programs/summer-camp",
+      "status": 200,
+      "bytes": 2303623,
+      "sha256": "55ec91076c728c432fde3670b8765dc00104436e1fe7609419170c0e45a4cd87"
+    },
+    {
+      "key": "lavner",
+      "url": "https://www.lavnercampsandprograms.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "space-faq",
+      "url": "https://www.rocketcenter.com/Help/FAQ/SpaceCamp/Weeklong",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "space-camp",
+      "url": "https://www.rocketcenter.com/SpaceCamp/Camp",
+      "final_url": "https://rocketcenter.com/spacecamp/space-camp/",
+      "status": 200,
+      "bytes": 213381,
+      "sha256": "a36e09281f09405f5aca285920cc72bd099aaa4ea7fb173f72e3a9a2996cda19"
+    },
+    {
+      "key": "idtech",
+      "url": "https://www.idtech.com/tech-camps",
+      "final_url": "https://www.idtech.com/tech-camps",
+      "status": 200,
+      "bytes": 1151926,
+      "sha256": "a0e1acf418be0d8725c68a783a80f324906bb3536032b1db047a95eb74ae73ae"
+    },
+    {
+      "key": "arowhon-rates",
+      "url": "https://camparowhon.com/programs/rates-dates/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "arowhon-mini",
+      "url": "https://camparowhon.com/programs/mini-camp/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "arowhon-faq",
+      "url": "https://camparowhon.com/ourteam/faq/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "idtech-international",
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students",
+      "final_url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students",
+      "status": 200,
+      "bytes": 25158,
+      "sha256": "7defe365a9e3c62f673a4d6ff031094d0f3ba5ac384f88d503a46243907e1149"
+    },
+    {
+      "key": "idtech-age",
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception",
+      "final_url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception",
+      "status": 200,
+      "bytes": 25158,
+      "sha256": "ad6eff9346d2a3abf9b36e3b64e1599370c21617487ddaf27532957474d88095"
+    },
+    {
+      "key": "tamwood-now",
+      "url": "https://tamwood.com/camps/",
+      "final_url": "https://ilac.com/",
+      "status": 200,
+      "bytes": 229486,
+      "sha256": "d584d39df3c89502c8e3bf2c8257cc8d3d96e7298b74bf18d489ef001299157f"
+    },
+    {
+      "key": "nextrobotics-faq",
+      "url": "https://www.nextrobotics.ca/faq",
+      "final_url": "https://www.nextrobotics.ca/faq",
+      "status": 200,
+      "bytes": 1243908,
+      "sha256": "b44e29709a09dfb95bce215e1abebdfb13df3e4247530c2170a0b6cc8a3ec42b"
+    },
+    {
+      "key": "catalina-rates",
+      "url": "https://catalinaseacamp.org/dates-rates/",
+      "final_url": "https://catalinaseacamp.org/dates-rates/",
+      "status": 200,
+      "bytes": 147521,
+      "sha256": "68304efb6db99a497c4e7e72bb9455fefa70114994af81ed5946ab2e7d8ce9a9"
+    },
+    {
+      "key": "brick-price",
+      "url": "https://bricklabs.ca/book-now",
+      "final_url": "https://bricklabs.ca/book-now/",
+      "status": 200,
+      "bytes": 35076,
+      "sha256": "2c584463d44b2ef990816f4dbb40509e3bdd69a18d19fafece795c004bb5f682"
+    },
+    {
+      "key": "next-camp-register",
+      "url": "https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae",
+      "final_url": "https://robotics.dreamclass.io/pages/admissions-v2/form/AUZGae",
+      "status": 200,
+      "bytes": 63358,
+      "sha256": "cdc3f0e8961547422fee2cc89cf22af7ef6c6e77af4dbf464449f65ba5c0d889"
+    },
+    {
+      "key": "space-new-weeklong",
+      "url": "https://rocketcenter.com/Help/FAQ/camps/weeklong",
+      "final_url": "https://rocketcenter.com/Help/FAQ/camps/weeklong/",
+      "status": 200,
+      "bytes": 249652,
+      "sha256": "6b926e003bab881867676c48f99de89f1862a40ae0b2b8f3a572fc031842ac3c"
+    },
+    {
+      "key": "idtech-contact",
+      "url": "https://www.idtech.com/contact",
+      "final_url": "https://www.idtech.com/contact",
+      "status": 200,
+      "bytes": 452614,
+      "sha256": "63a07fe6df6550ce933d6677b31035961a15cfed2f8b16250c20122cb41c333c"
+    },
+    {
+      "key": "catalina-programme",
+      "url": "https://catalinaseacamp.org/programs/1-week-programs/",
+      "final_url": "https://catalinaseacamp.org/programs/1-week-programs/",
+      "status": 200,
+      "bytes": 132062,
+      "sha256": "a51d85e3db161c23dc15fab14347a30483c407f40182b865e927b2127f22194a"
+    },
+    {
+      "key": "catalina-faq",
+      "url": "https://catalinaseacamp.org/catalina-island-faqs/",
+      "final_url": "https://catalinaseacamp.org/catalina-island-faqs/",
+      "status": 200,
+      "bytes": 115164,
+      "sha256": "b2ee4522b2bc64d6c43e405314b578271dbc235957162054a44f21071dc71885"
+    },
+    {
+      "key": "space-current-catalog",
+      "url": "https://rocketcenter.com/SpaceCamp?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+      "final_url": "https://rocketcenter.com/SpaceCamp/?field_age_group_target_id=All&field_space_camp_program_categor_target_id=2062",
+      "status": 200,
+      "bytes": 205794,
+      "sha256": "75ded636c111f7af59f8b10e93aea9a029e912be119bc85719370455afb624fa"
+    },
+    {
+      "key": "space-robotics",
+      "url": "https://rocketcenter.com/robotics/",
+      "final_url": "https://rocketcenter.com/robotics/",
+      "status": 200,
+      "bytes": 212172,
+      "sha256": "89b2b08150d13907d6ec5e13782d8d82d2e92858658a359020495a37d1901149"
+    }
+  ],
+  "additional_body_reads": [
+    {
+      "url": "https://camparowhon.com/programs/rates-dates/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "2027 packages, CAD/HST, transfer and compulsory two-night changeover; Mini excluded from regular cancellation",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://camparowhon.com/programs/mini-camp/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "Body6–9 / SK–Grade3 overrides SEO6–11; Aug13–16 2027, CAD700, bus100 each way",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://camparowhon.com/ourteam/faq/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "FAQ read; explicit English teaching not found",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://www.lavnercampsandprograms.com/robotics-camp-los-angeles-ca-san-francisco-ca-berkeley-ca-long-island-ny-manhattan-nyc-upper-east-side-miami-fl-seattle-wa-silicon-valley-ann-arbor-mi-houston-tx-cambridge-ma/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "LEGO robotics, internal ROBOWARS, Kindergarten requirement; 2026 policies",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://www.lavnercampsandprograms.com/vex-robotics-camp-los-angeles-ca-long-island-ny-manhattan-nyc-upper-east-side-miami-fl-seattle-wa-ann-arbor-mi-houston-tx-cambridge-ma/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "VEX IQ10–14, mechanics/coding, internal tournament; registration79 in2026 only",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://www.lavnercampsandprograms.com/school-year-camps/",
+      "method": "official page read with web reader; raw request failed406 or403",
+      "result": "Break camp landing has no exact future dates; linked Narberth local page still2025",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/do-you-accept-international-students",
+      "method": "official help article body read via web reader",
+      "result": "All courses English; international students welcome; raw HTML is app shell, article body read via official web reader",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/can-you-make-an-age-exception",
+      "method": "official help article body read via web reader",
+      "result": "Minimum course age by Dec31; stricter courses possible; not automatically applied to overnight",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/are-your-camps-segmented-by-age-21-8-2018",
+      "method": "official help article body read via web reader",
+      "result": "Groups7–9/10–12/13–17, calendar-year course minimum; check November Summer2027",
+      "checked": "2026-10-04"
+    },
+    {
+      "url": "https://idtechcamps.zohodesk.com/portal/en/kb/articles/how-much-time-do-students-spend-on-computers-each-day-at-id-tech-camps",
+      "method": "official help article body read via web reader",
+      "result": "Approx5.5h computer/day, recreational breaks",
+      "checked": "2026-10-04"
+    }
+  ],
+  "public_ui_assets": [
+    {
+      "file": "next-camp-register-visible.txt",
+      "bytes": 2346,
+      "sha256": "2d0d0f29e325db355446972029cf006f932b5cd76f06733483fc147b388f8045",
+      "role": "Public Introduction UI only; no forms/child details submitted; price315 inclGST plus2%card fee"
+    },
+    {
+      "file": "yres-price.png",
+      "bytes": 170050,
+      "sha256": "e7d61f9b6e60a3d18ad09e5e94fa13e714322d2ee606143a97ed3a1a78ddcc22",
+      "role": "Official page price image visually inspected; promo/full week4/5-day and6weekbundle, mealplan/extendedcare; no currency code shown"
+    }
+  ],
+  "conflicts": [
+    "Brick Labs URL2026 has current body2027; use body, not filename.",
+    "YRES price image/heading Oct31 vs KeyDates Sep30; promotional availability must be confirmed.",
+    "YRES7 districts allLocationTBD; six-week window not converted to exact shifts.",
+    "Arowhon Mini6–9 body overrides SEO6–11; separate bus/refund rules.",
+    "Catalina primary Toyon Bay vs example arrivalFoxLanding; final venue must be confirmed.",
+    "Tamwood camps direct redirect to ILAC notice of cessation while search advertises2027; no active Tamwood entry inferred.",
+    "ILAC notice not conflated with distinct ILSC UBC programme.",
+    "Space Robotics fresh body explicitly confirms nine-year-olds current/completedGrade4; earlier uncertainty corrected. Fresh filtered catalogue confirms1799 nextMay30 2027, not a universal future quote."
+  ],
+  "boundaries": [
+    "English site is not direct proof of instruction language.",
+    "Primary prices not treated as a complete family travel budget.",
+    "Age/course/boarding/class gates remain distinct.",
+    "No messages, bookings, legal forms or payments made."
+  ]
+}

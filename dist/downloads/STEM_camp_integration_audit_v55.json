@@ -1,0 +1,66 @@
+{
+  "asof": "2026-10-04",
+  "version": 55,
+  "global_research_status": "active_partial",
+  "events": 1891,
+  "dossier_counts": {
+    "dossiers": 54,
+    "countries": 19,
+    "swiss": 14,
+    "by_status": {
+      "published_2026_27": 2,
+      "published_2027": 18,
+      "partial_2027": 5,
+      "published_2026": 17,
+      "next_unannounced": 12
+    },
+    "source_urls": 88
+  },
+  "integration": {
+    "generated_sessions": 97,
+    "reused_legacy_events": 7,
+    "seasonal_windows": 6,
+    "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
+  },
+  "data_checks": {
+    "original_events_preserved": 1794,
+    "dossiers": 54,
+    "countries": 19,
+    "new_sessions": 97,
+    "sqlite_foreign_keys": "ok",
+    "bridge_idempotency": "ok",
+    "family_calendar_entries": 1281,
+    "new_family_entries": 94
+  },
+  "ui_checks": {
+    "environment": "background local preview; no production browser QA claimed",
+    "map_available_countries": 19,
+    "mouse_CHE_results": 14,
+    "keyboard_AUT_results": 1,
+    "map_SGP_results": 3,
+    "mobile_390px": {
+      "clientWidth": 390,
+      "scrollWidth": 390
+    },
+    "session_price_list_les_elfes": 26,
+    "direct_catalogue_to_dossier": {
+      "slug": "les-elfes",
+      "results": 1,
+      "details_open": true
+    },
+    "browser_warn_error_logs": [],
+    "downloaded_calendar": {
+      "event_id": "CP001-20261212-20261219",
+      "uid": "stem-CP001-20261212-20261219@family-stem.local",
+      "start": "20261212",
+      "exclusive_end": "20261220",
+      "parity": "matches canonical record"
+    }
+  },
+  "limitations": [
+    "Country map does not mark exact campuses.",
+    "Base tariffs are not final family quotes or booking availability.",
+    "Related operator/track links are not identical course admission.",
+    "Full worldwide and uniform regional camp coverage remain incomplete."
+  ]
+}

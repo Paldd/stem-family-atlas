@@ -1,0 +1,104 @@
+{
+  "asof": "2026-10-05",
+  "version": 65,
+  "scope": "Swiss younger day/boarding general programmes2026–27, winter availability and optional robotics.",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "counts": {
+    "new_programme_dossiers": 10,
+    "new_calendar_rows": 55,
+    "new_family_ics": 52,
+    "total_programme_dossiers": 162,
+    "swiss_programme_dossiers": 35,
+    "countries_with_dossiers": 28,
+    "official_dossier_urls": 305
+  },
+  "counting": "Programme dossiers are not unique operators. New winter boarding/day alternatives are separate dossiers. Course windows are not camps or admissions receipts.",
+  "corrections": [
+    {
+      "slug": "la-garenne",
+      "fields": [
+        "programme",
+        "questions",
+        "sources",
+        "checked"
+      ],
+      "reason": "Replace unsupported settled8–9 wording with PDF8–12/menu10–12 conflict. Three associated calendar records update only descriptive evidence; dates/UIDs preserved."
+    }
+  ],
+  "findings": [
+    {
+      "programme": "Collège du Léman Nano",
+      "proof": "4–7; EN/FR spoken;5 actual2026/27 weekday weeks;735/week, options115each; school-family discount conditional."
+    },
+    {
+      "programme": "Lovell Summer Junior",
+      "proof": "English immersion;2 exact3-week2027 sessions;6700 boarding/4300day plus100/50weekly registration/extras deposit; week variants not invented."
+    },
+    {
+      "programme": "Lovell Winter",
+      "proof": "14 published2026/27 weekly windows; day dates calculated by explicit Mon–Fri rule. Boarding2600+100/week, day1900+50;1000credited deposit not double-counted. Jan10–30 boarding unavailable; all3closed rows excluded from familyICS."
+    },
+    {
+      "programme": "Camp Suisse",
+      "proof": "English camp life; boarding7–17 and4exact2027 sessions4400/2wk. Day5–17 has seasonwindow, not a55-day stay,200/day1000/5days. Languagehours15/18 conflict; overnight120 age not assumed."
+    },
+    {
+      "programme": "La Garenne winter",
+      "proof": "SuperSki8–14 with intermediate Swiss red-run gate;2 typo dates omitted. English+Ski8–14 and Integration5–14 each5exactwindows; March secondweek no skiing. From prices are not full all-in budgets."
+    },
+    {
+      "programme": "La Garenne optional robotics",
+      "proof": "8–12PDF vs10–12menu; no independent workshop dates, technicalEN or fee proof.3D speaker,VEX IQ,Python examples; not full robotics intensive or international award."
+    }
+  ],
+  "preservation": {
+    "prior_catalogue_records": 2111,
+    "unchanged": 2108,
+    "descriptive_corrections": 3,
+    "prior_ics_uids_dates": 1467,
+    "exhibition_ics_uids_dates": 104,
+    "prior_dossiers": 152,
+    "unchanged_dossiers": 151,
+    "corrected_dossiers": 1
+  },
+  "remaining": [
+    "Monte Rosa2027 specific documents and other Swiss operators",
+    "More France Spain Europe Taiwan Singapore Korea Japan USA Canada CR Mexico LatinAmerica; no country complete",
+    "Exact camp campuses and coordinates, international younger intake and technical-language proof",
+    "New2027 seats, full contracts/fees and family-cost scenarios",
+    "Global league/competition/exhibition/school/historical-results requirements remain active"
+  ],
+  "external_actions": "Official public research only; no organizer communication, subscriptions, forms, admissions, bookings or payments.",
+  "validation": {
+    "sql_integrity": "ok",
+    "foreign_keys": "ok",
+    "bridge": "idempotent",
+    "old_dates_uids": "preserved",
+    "source_corrections": "only3 LaGarenne descriptions,1 dossier",
+    "closed_boarding_excluded": 3,
+    "calculated_weekday_windows": 14,
+    "ui": {
+      "version": 65,
+      "scenario23_picks": 6,
+      "scenario24_picks": 4,
+      "nano_oscar_en": 1,
+      "nano_both_en": 0,
+      "lovell_en_dossiers": 3,
+      "winter_compare": "2600+100 vs1900+50; EN language lessons role explicit",
+      "visible_closed_boarding_labels": 3,
+      "visible_calculated_day_windows": 14,
+      "robotics_option_matvey": 1,
+      "robotics_option_en": 0,
+      "suisse_both_en": 2,
+      "suisse_both_en_day": 1,
+      "viewport_no_overflow": [
+        1280,
+        390,
+        320
+      ],
+      "mobile_comparison": "verified",
+      "console_errors": []
+    }
+  }
+}

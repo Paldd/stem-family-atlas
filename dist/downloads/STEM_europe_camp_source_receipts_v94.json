@@ -1,0 +1,353 @@
+{
+  "asof": "2026-10-05",
+  "version": 94,
+  "scope": "24 own direct pages/documents; relevant clauses/6PDFs/9visualpages, not every operator/country fully reviewed.",
+  "sources": [
+    {
+      "key": "village-parent",
+      "url": "https://www.villagecamps.com/summer-camp-parent-guide",
+      "final_url": "https://www.villagecamps.com/summer-camp-parent-guide",
+      "status": 200,
+      "bytes": 33171,
+      "sha256": "22d50c7818b55bc277589a93f2c8d21902c7599cd23358c9431f7ec1f7582a9e",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-parent.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own Parent Guide2027 links to travel/conditions/Leysin booklet observed; linking from2027 context does not change PDF metadata2026 into final2027 contract."
+    },
+    {
+      "key": "village-prices",
+      "url": "https://www.villagecamps.com/dates-and-prices-parent-guide",
+      "final_url": "https://www.villagecamps.com/dates-and-prices-parent-guide",
+      "status": 200,
+      "bytes": 47437,
+      "sha256": "564b587b5062e58ed666c3ed652ee2186c1b2778c7058eef00e6ab4e62ed0f85",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-prices.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Current own2027 price table relevant Junior and STEM rows read. Not every operator programme/course independently audited."
+    },
+    {
+      "key": "elfes-summer-form",
+      "url": "https://www.leselfes.com/summer-camp/enrol/",
+      "final_url": "https://www.leselfes.com/summer-camp/enrol/",
+      "status": 200,
+      "bytes": 544994,
+      "sha256": "9c2e687d7b4c8a6798105a718aa650ef75e8a6455b6f521aeae697b95675fc86",
+      "retrieval_method": "direct_http",
+      "raw_filename": "elfes-summer-form.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own enrol page and its actual Summer2027 PDF link retrieved; no fields filled or submission. HTML is not final basket/availability proof."
+    },
+    {
+      "key": "garenne-summer",
+      "url": "https://www.la-garenne.ch/summer-camps/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/",
+      "status": 200,
+      "bytes": 2680404,
+      "sha256": "3a789513c342f8e9cdcef7afafb708c749be97301b9732b88b1fc8e4aaf6d04e",
+      "retrieval_method": "direct_http",
+      "raw_filename": "garenne-summer.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own current2027 menu includes Robotics in5–9 and10–12, resolving old menu10+ conflict. Explicit form/contract8–12 still applies; menu group5–9 does not admit Oscar6–7 to Robotics."
+    },
+    {
+      "key": "ilc-prices",
+      "url": "https://internationallanguagecamps.com/prices",
+      "final_url": "https://internationallanguagecamps.com/prices",
+      "status": 200,
+      "bytes": 143766,
+      "sha256": "74895444aeb58e2867e7cac8f5d2eb7b4f35f77f7be967da06568ea1bd81498b",
+      "retrieval_method": "direct_http",
+      "raw_filename": "ilc-prices.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own undated pricepage itemised FUN/Adrenaline1/2weeks day/board, registration200stay, mandatory70weeklaundry for2weekstay, group350transfer1–2people and options. Two-child formula explicitly conditional; no2027 dated sessions or quote admitted."
+    },
+    {
+      "key": "tecs-kids",
+      "url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+      "final_url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+      "status": 200,
+      "bytes": 139786,
+      "sha256": "a4b06dc7d6af88e9210523307e7d6d42f1e2030df75080d1e15397e7f69a077d",
+      "retrieval_method": "direct_http",
+      "raw_filename": "tecs-kids.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own PuertoKids7–13, progressive English immersion/PBL, upto14dorm, bodydates withoutyear and1730button. Header2027 insufficient to assign year todates/price; no dated2027 rows admitted."
+    },
+    {
+      "key": "village-leysin-booklet",
+      "url": "https://www.villagecamps.com/pdf/Campinformation_Leysin.pdf?v=1534565998",
+      "final_url": "https://www.villagecamps.com/pdf/Campinformation_Leysin.pdf?v=1534565998",
+      "status": 200,
+      "bytes": 10832274,
+      "sha256": "b330f0ae9f89765c7373f9332f09214075bae4dc1af2e93201ef6a2e16cf3bd2",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-leysin-booklet.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual14-page PDF with metadata Camp Information Booklet Switzerland2026. Relevant medical/insurance/supervision clauses read; page12 visually read. Under12 accompaniment has activity-park exception; not continuous1:1. Not all14pages audited or a confirmed2027 contract.",
+      "pdf_metadata": {
+        "Title": "Camp Information Booklet Switzerland 2026",
+        "CreationDate": "Mon Dec  8 06:12:32 2025 CST",
+        "ModDate": "Mon Dec  8 06:12:28 2025 CST",
+        "Pages": "14"
+      }
+    },
+    {
+      "key": "village-travel",
+      "url": "https://www.villagecamps.com/pdf/Travel-Information.pdf",
+      "final_url": "https://www.villagecamps.com/pdf/Travel-Information.pdf",
+      "status": 200,
+      "bytes": 410640,
+      "sha256": "dabcbbb61899f46e4d0679cc3371497636e6ebc3c8b34083e23b5aebb7fbff74",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-travel.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual3-page undated Travel PDF; page2 visually read to resolve columns. Geneva100/200,Lausanne55/110; Salzburg100/200 andMunich150/300EUR. ExtraCHF215childnight. May1/May15 text conflict and form30day rule retained; not registration deadlines/current2027 tariff guarantee.",
+      "pdf_metadata": {
+        "Title": "Travel",
+        "CreationDate": "Fri Oct 10 08:01:46 2025 CST",
+        "ModDate": "Thu Sep 17 02:46:20 2026 CST",
+        "Pages": "3"
+      }
+    },
+    {
+      "key": "village-signup",
+      "url": "https://www.villagecamps.com/sign-up?lang=eng",
+      "final_url": "https://www.villagecamps.com/sign-up",
+      "status": 200,
+      "bytes": 128546,
+      "sha256": "d7f01318bf52d9e02e3ff6567875e39fbec24797166d4518549357569546194d",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-signup.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Read-only public form retrieved; optional accident/illness140CHF perchild/session and travel form≥30days read. English proficiency field not English teacher proof. No child data/Continue/account/submission."
+    },
+    {
+      "key": "village-loyalty",
+      "url": "https://www.villagecamps.com/vc-loyalty-programme",
+      "final_url": "https://www.villagecamps.com/vc-loyalty-programme",
+      "status": 200,
+      "bytes": 28503,
+      "sha256": "71ba614d5ede4b9528a746858792a2f5d7378dc1af8f0cedae1db234938df7b9",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-loyalty.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own household-based loyalty tiers and eligible booking months read. Counts different summers, not numberofchildren/sessions; first summer no loyalty reduction. Manual team application after booking not immediate checkout rebate."
+    },
+    {
+      "key": "tecs-catalogs",
+      "url": "https://www.tecs.es/tecs/catalogos/",
+      "final_url": "https://www.tecs.es/tecs/catalogos/",
+      "status": 200,
+      "bytes": 147131,
+      "sha256": "8ca0a291be7b1dc87f349f608fcf00ef8ef1f52b96b5dfbea57055a445f00e23",
+      "retrieval_method": "direct_http",
+      "raw_filename": "tecs-catalogs.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own current catalog page describes TECS2026 and lead-email/account access to brochure; no public2027 brochure obtained. No form/account/subscription."
+    },
+    {
+      "key": "tecs-discounts",
+      "url": "https://www.tecs.es/tecs/descuentos/",
+      "final_url": "https://www.tecs.es/tecs/descuentos/",
+      "status": 200,
+      "bytes": 101708,
+      "sha256": "d964f876c4f3aac169f26551a92c71cc0eabecbb219bb3c42a90abcc726aaf42",
+      "retrieval_method": "direct_http",
+      "raw_filename": "tecs-discounts.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own discounts: early40until30Apr2026 expired; siblings25each/twochildren and combination mechanics. No automatic2027 applicability, new registrationdeadline or current discount deduction."
+    },
+    {
+      "key": "elfes-summer-pdf",
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/07/2027-Summer-Camp-Registration-Form_Digital_avec-champs.pdf",
+      "final_url": "https://cdn.leselfes.com/wp-content/uploads/2026/07/2027-Summer-Camp-Registration-Form_Digital_avec-champs.pdf",
+      "status": 200,
+      "bytes": 391452,
+      "sha256": "493ff89c2fc3860a182cf85b288ded1f1bdab8ccabb5b8aa1d10ee6022454dc6",
+      "retrieval_method": "direct_http",
+      "raw_filename": "elfes-summer-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual own-linked two-page Summer2027 form/contract; both pages visually read. Six cohorts, compulsory150/120week, included Shelter, optional180Robotics10+, linen/clothes distinction and Summer1000 cancellation deduction read. Winter/Spring conditions not replaced by Summer terms; language fee charging period and transfer unit still unconfirmed.",
+      "pdf_metadata": {
+        "Title": "2027 Summer Camp Registration Form_Digital",
+        "CreationDate": "Thu Jun 25 00:33:39 2026 CST",
+        "ModDate": "Mon Jul 20 06:20:45 2026 CST",
+        "Pages": "2"
+      }
+    },
+    {
+      "key": "village-conditions",
+      "url": "https://www.villagecamps.com/pdf/booking-conditions.pdf?1775656204=",
+      "final_url": "https://www.villagecamps.com/pdf/booking-conditions.pdf?1775656204=",
+      "status": 200,
+      "bytes": 19746,
+      "sha256": "32c3d2a2926fe04f6e80752f517eaebe5e0ab555e9756625317aaee803ee942a",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-conditions.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual1-page own-linked PDF, metadata ParentGuide2026; page1 visually read. Swiss1000credited deposit48h/May1 balance, cancellation phases, specialistprogramme change andcardfees read. Not accepted terms or definitive2027 contract.",
+      "pdf_metadata": {
+        "Title": "Parent Guide 2026",
+        "CreationDate": "Tue Jan 27 04:48:03 2026 CST",
+        "ModDate": "Tue Jan 27 04:48:03 2026 CST",
+        "Pages": "1"
+      }
+    },
+    {
+      "key": "village-stem",
+      "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 31383,
+      "sha256": "1dac1949b24c4ecf9bb1edeee701e3f14c286ab0f909aa65b5b71e62a73634dd",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-stem.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own STEM10–17 page: only two July2027 cohorts5500, SPIKE/gears/sensors/programming/teamwork and internal RobotWars. Kits supplied/remaincamp. Leysin rooms conflict with Salzburg/Austria excursions in samepage; no Austria travel promised. English technical teaching not stated."
+    },
+    {
+      "key": "village-junior",
+      "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 30464,
+      "sha256": "6bc92a4400f3297c8e55d893a973c5a1e07cace03febc971484c469ab249a9a1",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-junior.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own Junior7–9 page: four2027 cohorts5200/5500/5500/5100, general outdoor/adventure, ratio1:4 and staff certification operator claims. Language of instruction not stated. Different programme from STEM10+."
+    },
+    {
+      "key": "ilc-fun",
+      "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+      "final_url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+      "status": 200,
+      "bytes": 208594,
+      "sha256": "1f0a7fc89115936daf6503c3304995791333daebda1c0059e93e10d1345173e2",
+      "retrieval_method": "direct_http",
+      "raw_filename": "ilc-fun.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own FUN6–9/15hweek EN/FR lessons and conversational camp practice, general alpine activities read. Embedded emptycalculator applicationfee0 not final invoice. Technical course not claimed."
+    },
+    {
+      "key": "ilc-terms",
+      "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+      "final_url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+      "status": 200,
+      "bytes": 79741,
+      "sha256": "76ea72ed8449294f8be8d6885bba04d7bda7facb5b8b1d60cafbec1d34ee6f57",
+      "retrieval_method": "direct_http",
+      "raw_filename": "ilc-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own undated terms:1000CHF cancellation retention plus separately listed5/25/100percent, interaction unclear; not automatically summed or calleddeposit. Earlydeparture no refund, operatorcancelrefund stated; actual2027 applicability unresolved."
+    },
+    {
+      "key": "tecs-consumer",
+      "url": "https://www.tecs.es/tecs/informacion-para-el-consumidor/",
+      "final_url": "https://www.tecs.es/tecs/informacion-para-el-consumidor/",
+      "status": 200,
+      "bytes": 95033,
+      "sha256": "fdb8142a191e48ec11c31b54bc393f1c0da9bb45925f0c550a6144034d568e51",
+      "retrieval_method": "direct_http",
+      "raw_filename": "tecs-consumer.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own general consumerinformation identifies TheEnglishCentreSuppliersSL/nonofficialeducation; not a complete camprefundcontract or actual2027 quote."
+    },
+    {
+      "key": "ilc-faq",
+      "url": "https://internationallanguagecamps.com/faq",
+      "final_url": "https://internationallanguagecamps.com/faq",
+      "status": 200,
+      "bytes": 82948,
+      "sha256": "53f51d1910c07b1d4ae035a641fa6d2989e08328ac5dcd0cf76f6e4594abc7a7",
+      "retrieval_method": "direct_http",
+      "raw_filename": "ilc-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own FAQ relevant unaccompanied-minor travel context read; not all airline policy/insurance/availability verified."
+    },
+    {
+      "key": "garenne-form",
+      "url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+      "status": 200,
+      "bytes": 2551881,
+      "sha256": "084e5b706696ee7bb30b225fe84125df1e2178a9f506e908436a4bf10d15d903",
+      "retrieval_method": "direct_http",
+      "raw_filename": "garenne-form.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Read-only own form: Robotics8–12/500/3sessions and insurance/pocket context. No fields/consent/signature/submission. A displayed option not confirmed available place."
+    },
+    {
+      "key": "garenne-conditions",
+      "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "final_url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "status": 200,
+      "bytes": 1074363,
+      "sha256": "114a583a8a6a573e2e16e8f320767ba97f606301afbf7cf1b9632ad749d0b536",
+      "retrieval_method": "direct_http",
+      "raw_filename": "garenne-conditions.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual9-page Summer2027 contract. Relevant age/fee/inclusions and clauses read; pages4/8/9 visually read for500/3/8–12, medical10day, siblings10percent sameformat/session,65-day cancellation and28-day extras. Not all9pages independently audited/accepted; insurance charging-day count still unknown.",
+      "pdf_metadata": {
+        "Title": "Summer Camp 2027 General Conditions",
+        "Pages": "9"
+      }
+    },
+    {
+      "key": "garenne-workshop",
+      "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+      "final_url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+      "status": 200,
+      "bytes": 832801,
+      "sha256": "217deee990f780b35631cabae1847d869f576f4fe6812b69187b177bcad0005f",
+      "retrieval_method": "direct_http",
+      "raw_filename": "garenne-workshop.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Actual4-page workshop PDF. Relevant8–12/possibleVEXIQV5/Python/Tinkercad/Fusion360/3D/speaker read. Page4 visually read: ThreeSessions heading vs twoSessions finalphrase on samepage. Possible projects not all guaranteed completed; no definite technical hours/English instructor/year-specific kit.",
+      "pdf_metadata": {
+        "CreationDate": "Mon Sep 21 08:23:40 2026 CST",
+        "ModDate": "Mon Sep 21 08:23:43 2026 CST",
+        "Pages": "4"
+      }
+    },
+    {
+      "key": "village-overview",
+      "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 49541,
+      "sha256": "e3abd81697e96289b9617bc63ddb96ddc2963cedb6c6c22dce23627352b174c1",
+      "retrieval_method": "direct_http",
+      "raw_filename": "village-overview.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Own current Leysin overview: three-hour morning mainprogramme, age tracks, rooms/meals/activities and admissionfees on excursions read. Does not guarantee30hours STEM or English technical teaching."
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://cdn.leselfes.com/wp-content/uploads/2026/07/2027-Summer-Camp-Registration-Form_Digital_avec-champs.pdf",
+    "https://internationallanguagecamps.com/faq",
+    "https://www.tecs.es/tecs/catalogos/",
+    "https://www.tecs.es/tecs/descuentos/",
+    "https://www.tecs.es/tecs/informacion-para-el-consumidor/",
+    "https://www.villagecamps.com/pdf/Campinformation_Leysin.pdf?v=1534565998",
+    "https://www.villagecamps.com/pdf/Travel-Information.pdf",
+    "https://www.villagecamps.com/pdf/booking-conditions.pdf?1775656204=",
+    "https://www.villagecamps.com/sign-up?lang=eng",
+    "https://www.villagecamps.com/vc-loyalty-programme"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "RawHTML/PDF/renders outsidecheckout; publicexports paraphrases/URLs/hashes only.",
+    "PDFmetadata2026 and current2027link context retained independently. No datedcamp/deadline fromundatedbody or payment/travel/discount deadline.",
+    "Programme, availability, instructionlanguage, agefit andorganiseracceptance are distinct. No allcountry/worldwidecompletion claim."
+  ]
+}

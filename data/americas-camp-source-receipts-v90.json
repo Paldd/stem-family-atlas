@@ -1,0 +1,595 @@
+{
+  "asof": "2026-10-05",
+  "version": 90,
+  "scope": "52 direct HTMLattempts/45HTTP200/7errors;oneprimary browserread with selected observedexcerpts, not fullHTML. No new PDFs. Relevant sections, not wholeworld/operator audits.",
+  "sources": [
+    {
+      "key": "tamwood-current",
+      "url": "https://tamwood.com/camps/",
+      "final_url": "https://ilac.com/",
+      "status": 200,
+      "bytes": 229486,
+      "sha256": "4f693b11b146924e5672c2345d1579ace8d92bfd98a77a908b0975a9d63b16f4",
+      "raw_filename": "tamwood-current.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Live redirect to ILAC closure notice, despite cached Summer2027 offer; no new Tamwood/ILAC programme admitted."
+    },
+    {
+      "key": "ilac-current",
+      "url": "https://ilac.com/",
+      "final_url": "https://ilac.com/",
+      "status": 200,
+      "bytes": 229486,
+      "sha256": "4f693b11b146924e5672c2345d1579ace8d92bfd98a77a908b0975a9d63b16f4",
+      "raw_filename": "ilac-current.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Current own closure notice read; no printed year for FridaySeptember18 inferred."
+    },
+    {
+      "key": "santa-ursula",
+      "url": "https://www.campsantaursula.com/",
+      "final_url": "https://www.campsantaursula.com/",
+      "status": 200,
+      "bytes": 139839,
+      "sha256": "1819c0c641a8829059cbd688f368dcf4bf4b4462908034d687ffb5093513d33d",
+      "raw_filename": "santa-ursula.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "santa-international",
+      "url": "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+      "final_url": "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+      "status": 200,
+      "bytes": 94225,
+      "sha256": "73aa30926a0e41dc439b18aa1181874aa0b9da2b15d93bfede52af0717c5f7db",
+      "raw_filename": "santa-international.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant international/language/admission sections read; not an English bilingual curriculum or every historical cohort."
+    },
+    {
+      "key": "santa-language",
+      "url": "https://www.campsantaursula.com/post/campamento-verano-en-mexico",
+      "final_url": "https://www.campsantaursula.com/post/campamento-verano-en-mexico",
+      "status": 200,
+      "bytes": 88674,
+      "sha256": "ac5007733bbd485cff44cb0cf5a66d007638f061d94d36de73042d3b78119599",
+      "raw_filename": "santa-language.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant first-residential and language/context sections read; no cohort-level EN/ES guarantee inferred."
+    },
+    {
+      "key": "stemrise-home",
+      "url": "https://stemrise.ai/en",
+      "final_url": "https://stemrise.ai/en",
+      "status": 200,
+      "bytes": 640995,
+      "sha256": "f9014ce5fb867978accaef76d0cdf46df187a901861a20a79e482693f9abc086",
+      "raw_filename": "stemrise-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "qwanoes-faq",
+      "url": "https://qwanoes.ca/parent-info/faq/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "real-madrid-cr",
+      "url": "https://frmclinicsavanza.com/",
+      "final_url": "https://frmclinicsavanza.com/",
+      "status": 200,
+      "bytes": 53163,
+      "sha256": "7851123ac329fc200b3efce8320bc976d936c79cb50eeb4ec3bd927194ee0ea4",
+      "raw_filename": "real-madrid-cr.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "ucr-call",
+      "url": "https://www.ucr.ac.cr/actividades/2026/10/01/convocatoria-de-propuestas-del-proyecto-campamentos-de-desarrollo-humano-hacia-el-acceso-universal-de-la-educacion-recinto-de-grecia.html",
+      "final_url": "https://www.ucr.ac.cr/actividades/2026/10/01/convocatoria-de-propuestas-del-proyecto-campamentos-de-desarrollo-humano-hacia-el-acceso-universal-de-la-educacion-recinto-de-grecia.html",
+      "status": 200,
+      "bytes": 80994,
+      "sha256": "62ca175c5f7ad5b7b28ff1d2e34220dea5ccab4862ae89c9760ec517d40bbf0d",
+      "raw_filename": "ucr-call.html",
+      "body_snapshot_retained": true,
+      "content_scope": "October1,2026 call to2027 instructors/facilitators, not a child camp registration."
+    },
+    {
+      "key": "star-camps",
+      "url": "https://www.starkidsafterschool.org/camps",
+      "final_url": "https://www.starkidsafterschool.org/camps",
+      "status": 200,
+      "bytes": 1337236,
+      "sha256": "7f9d93ab64b839c2d8b662f82ef4a8b0e653a3f5050d9564efda85eb48c17e83",
+      "raw_filename": "star-camps.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "star-home",
+      "url": "https://www.starkidsafterschool.org/",
+      "final_url": "https://www.starkidsafterschool.org/",
+      "status": 200,
+      "bytes": 1673141,
+      "sha256": "904acfa880345c83fa2a743ecff14c9e1ee42056049221773554ce9ae5152a7a",
+      "raw_filename": "star-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Provider context only; no country/world ranking or grade admission inferred."
+    },
+    {
+      "key": "steamup-winter",
+      "url": "https://steamupedu.com/camp-winter-stem.php",
+      "final_url": "https://steamupedu.com/camp-winter-stem.php",
+      "status": 200,
+      "bytes": 21165,
+      "sha256": "80e7d877e9cdfec6e9c1374996422ab00dfb5569e8062f93f3526d25cfcefacb",
+      "raw_filename": "steamup-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "snap-greensboro",
+      "url": "https://www.snapology.com/north-carolina-greensboro/blog/day-camp-2026-teacher-work-day-holidays/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "snap-roundrock",
+      "url": "https://www.snapology.com/texas-round-rock/camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "robolabs-camps",
+      "url": "https://www.robolabs.org/camps",
+      "final_url": "https://www.robolabs.org/camps",
+      "status": 200,
+      "bytes": 384242,
+      "sha256": "23dfb9b8fb83a20c12d3fad803a005b909486d831808a8c8fb0640ba6073feac",
+      "raw_filename": "robolabs-camps.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "qwanoes-juniors",
+      "url": "https://qwanoes.ca/summer/juniors/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "funwithbots-camps",
+      "url": "https://funwithbots.com/camps.php",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "kamin-camps",
+      "url": "https://kaminsciencecenter.org/summer-camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "woods-dominicalito",
+      "url": "https://www.woodsoftheworld.net/dominicalito",
+      "final_url": "https://www.woodsoftheworld.net/dominicalito",
+      "status": 200,
+      "bytes": 1227432,
+      "sha256": "288b2a8683ebd250c4066c5a37966c3778d003f0192ab1304d259fc4ff2b5ace",
+      "raw_filename": "woods-dominicalito.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "amora-events",
+      "url": "https://amora.cr/events/",
+      "final_url": "https://amora.cr/events/",
+      "status": 200,
+      "bytes": 123367,
+      "sha256": "0199307886bae14cbbec616b2ae48b048a337fedef39c54bbf2ea21fd0a9027c",
+      "raw_filename": "amora-events.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Index discovery, separately followed actual camp event; not an additional programme dossier."
+    },
+    {
+      "key": "amora-education",
+      "url": "https://amora.cr/education/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "makemake-home",
+      "url": "https://www.campmakemake.com/",
+      "final_url": "https://www.campmakemake.com/",
+      "status": 200,
+      "bytes": 1828148,
+      "sha256": "9c2d08ee01cef3beb93821d6d2191da9ffe040e66cdc481a8f36920db34def30",
+      "raw_filename": "makemake-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Generic6–17 not substituted for actual ClassicGrade2–8 or TeenGrade9–11."
+    },
+    {
+      "key": "makemake-es",
+      "url": "https://es.campmakemake.com/",
+      "final_url": "https://es.campmakemake.com/",
+      "status": 200,
+      "bytes": 1823030,
+      "sha256": "22cd297a9570f809db4ba4846c241ce0381d864307001630677717a9e5c7fb3d",
+      "raw_filename": "makemake-es.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Secondary language website not used as independent teaching proof."
+    },
+    {
+      "key": "star-carbots",
+      "url": "https://www.starkidsafterschool.org/event-details/carbots-2-0",
+      "final_url": "https://www.starkidsafterschool.org/event-details/carbots-2-0",
+      "status": 200,
+      "bytes": 1527364,
+      "sha256": "930cb09e20c66afc41e3d01fd4fa05b028d905b2eef8adc607bad9f5f79c3908",
+      "raw_filename": "star-carbots.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Visible own Event body/date/ticket fees and public JSON-LD read. ShowMore not fully expanded: browser redirected to blocked-page. Hidden programme text not claimed read; date/hour conflicts preserved."
+    },
+    {
+      "key": "star-ecobots",
+      "url": "https://www.starkidsafterschool.org/event-details/ecobots-2-0",
+      "final_url": "https://www.starkidsafterschool.org/event-details/ecobots-2-0",
+      "status": 200,
+      "bytes": 1527314,
+      "sha256": "fb84fc2138f56fc038465e9d740452263d743546f9a1138fd25e8977a4a29899",
+      "raw_filename": "star-ecobots.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Visible own Event body/date/ticket fees and public JSON-LD read. ShowMore not fully expanded: browser redirected to blocked-page. Hidden programme text not claimed read; date/hour conflicts preserved."
+    },
+    {
+      "key": "star-terms",
+      "url": "https://starkidsacademydocs.netlify.app/terms.html",
+      "final_url": "https://starkidsacademydocs.netlify.app/terms.html",
+      "status": 200,
+      "bytes": 21516,
+      "sha256": "d3d54d21a3a07ada5eab96c360459efc8593eca4aa7a767c6569cbc306f3d508",
+      "raw_filename": "star-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "star-robotics",
+      "url": "https://www.starkidsafterschool.org/robotics",
+      "final_url": "https://www.starkidsafterschool.org/robotics",
+      "status": 200,
+      "bytes": 1413169,
+      "sha256": "3e573078f2e210651ce7992277e62a4836426e960d00929c16d367fd6c248640",
+      "raw_filename": "star-robotics.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Operator robotics context; no independent contest achievement attributed to a camp."
+    },
+    {
+      "key": "stemrise-winter",
+      "url": "https://stemrise.ai/en/camps/winter",
+      "final_url": "https://stemrise.ai/en/camps/winter",
+      "status": 200,
+      "bytes": 346858,
+      "sha256": "22a86fb2a4ccef1936e8c252e9d4a22df0fbcb7b2ef2da16007337d49e6c8fc2",
+      "raw_filename": "stemrise-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "stemrise-refund",
+      "url": "https://stemrise.ai/en/refund-policy",
+      "final_url": "https://stemrise.ai/en/refund-policy",
+      "status": 200,
+      "bytes": 253642,
+      "sha256": "fa3b08cddb7cf69b4d653825133ce156ae2e580f970a8ab358c3462bf8969a0b",
+      "raw_filename": "stemrise-refund.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "stemrise-faq",
+      "url": "https://stemrise.ai/en/faq",
+      "final_url": "https://stemrise.ai/en/faq",
+      "status": 200,
+      "bytes": 297221,
+      "sha256": "56f00ce6fe4e5109004d3bbb23ee07e984fce36d059ba086cbf09140bd042f18",
+      "raw_filename": "stemrise-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "santa-summer",
+      "url": "https://www.campsantaursula.com/campamentos-de-verano",
+      "final_url": "https://www.campsantaursula.com/campamentos-de-verano",
+      "status": 200,
+      "bytes": 92651,
+      "sha256": "5fdd112229a2c3684571ed3364d67f645061c0835f0e84f43dd2872ac947548b",
+      "raw_filename": "santa-summer.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "santa-security",
+      "url": "https://www.campsantaursula.com/seguridad",
+      "final_url": "https://www.campsantaursula.com/seguridad",
+      "status": 200,
+      "bytes": 39470,
+      "sha256": "6cba6627a8a662df9938f3af8ca628f8e13243098d885f8b169e52fabb0ba6b4",
+      "raw_filename": "santa-security.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "real-madrid-faq",
+      "url": "https://frmclinicsavanza.com/faq",
+      "final_url": "https://frmclinicsavanza.com/faq",
+      "status": 200,
+      "bytes": 35296,
+      "sha256": "0a31cc61a8a3a4b5fde0eb1b69ce897fb0fcfd391be0d727fcd1f36d9d09b7ca",
+      "raw_filename": "real-madrid-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "santa-terms",
+      "url": "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+      "final_url": "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+      "status": 200,
+      "bytes": 40667,
+      "sha256": "23bc5618abc4d5449df69135737deb250ed14ca120589bcf26c28e042025749e",
+      "raw_filename": "santa-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "santa-rules",
+      "url": "https://www.campsantaursula.com/reglamento",
+      "final_url": "https://www.campsantaursula.com/reglamento",
+      "status": 200,
+      "bytes": 29794,
+      "sha256": "5481384c0b74a134266e843c4fd41d877d61f358d8d60277331c0cafe5ad8d69",
+      "raw_filename": "santa-rules.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "star-anibots",
+      "url": "https://www.starkidsafterschool.org/event-details/anibots-christmas",
+      "final_url": "https://www.starkidsafterschool.org/event-details/anibots-christmas",
+      "status": 200,
+      "bytes": 1528180,
+      "sha256": "19c55e9816492e40e1a3adee96245c5395abc82a81a65ead06041a1a4d087d28",
+      "raw_filename": "star-anibots.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Visible own Event body/date/ticket fees and public JSON-LD read. ShowMore not fully expanded: browser redirected to blocked-page. Hidden programme text not claimed read; date/hour conflicts preserved."
+    },
+    {
+      "key": "star-gamebots",
+      "url": "https://www.starkidsafterschool.org/event-details/robot-gaming-3-0",
+      "final_url": "https://www.starkidsafterschool.org/event-details/robot-gaming-3-0",
+      "status": 200,
+      "bytes": 1530776,
+      "sha256": "c85b034f321a759b565d3e79de382f835371b735e3cb95182eafad34e1e5e9ae",
+      "raw_filename": "star-gamebots.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Visible own Event body/date/ticket fees and public JSON-LD read. ShowMore not fully expanded: browser redirected to blocked-page. Hidden programme text not claimed read; date/hour conflicts preserved."
+    },
+    {
+      "key": "star-battlebots",
+      "url": "https://www.starkidsafterschool.org/event-details/battlebots-2-0",
+      "final_url": "https://www.starkidsafterschool.org/event-details/battlebots-2-0",
+      "status": 200,
+      "bytes": 1527990,
+      "sha256": "042697ba5c39aa228ae8be7fd972a4badb3fa7851953b4239d6e35223f06a776",
+      "raw_filename": "star-battlebots.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Visible own Event body/date/ticket fees and public JSON-LD read. ShowMore not fully expanded: browser redirected to blocked-page. Hidden programme text not claimed read; date/hour conflicts preserved."
+    },
+    {
+      "key": "starcode",
+      "url": "https://starcoderobot.com/",
+      "final_url": "https://starcoderobot.com/",
+      "status": 200,
+      "bytes": 2008950,
+      "sha256": "6b57c57a54c58a008136e9d79823f42ddf301156a2bbb4d5612732338d6d7a5e",
+      "raw_filename": "starcode.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Application22languages includingEN/ES/RU, not evidence of teaching language. No app/account opened."
+    },
+    {
+      "key": "real-madrid-week1",
+      "url": "https://frmclinicsavanza.com/info-30-san-jose-2027",
+      "final_url": "https://frmclinicsavanza.com/info-30-san-jose-2027",
+      "status": 200,
+      "bytes": 38948,
+      "sha256": "e2b308c8d5f2f0106d4aad96fd72cab640ed00b99a4da64fae39af19708d42dc",
+      "raw_filename": "real-madrid-week1.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "real-madrid-week2",
+      "url": "https://frmclinicsavanza.com/info-31-san-jose-2027",
+      "final_url": "https://frmclinicsavanza.com/info-31-san-jose-2027",
+      "status": 200,
+      "bytes": 38948,
+      "sha256": "e38a24221d7399a78b55d2e56aeb0fa82aba0d22ea730b00d0769118588cac40",
+      "raw_filename": "real-madrid-week2.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "real-madrid-legal",
+      "url": "https://frmclinicsavanza.com/legal",
+      "final_url": "https://frmclinicsavanza.com/legal",
+      "status": 200,
+      "bytes": 44117,
+      "sha256": "e9f3cce998568d60647ad8ed115d456129e9822441ab316b7fef85484b001141",
+      "raw_filename": "real-madrid-legal.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant medical/media/cancellation clauses read; no acceptance or education-admission decision."
+    },
+    {
+      "key": "real-madrid-brochure",
+      "url": "https://frmclinicsavanza.com/download-brochure",
+      "final_url": "https://frmclinicsavanza.com/download-brochure",
+      "status": 200,
+      "bytes": 80233,
+      "sha256": "1d9d92d16025612ee89da4fbeb4fcc2f1801af38056d683a0719f912fb9516b1",
+      "raw_filename": "real-madrid-brochure.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Observed brochure link resolves to generic operator page, not a retrieved priced PDF. Fee remains unknown."
+    },
+    {
+      "key": "woods-cr",
+      "url": "https://www.woodsoftheworld.net/costa-rica",
+      "final_url": "https://www.woodsoftheworld.net/costa-rica",
+      "status": 200,
+      "bytes": 1620900,
+      "sha256": "7b3431c1b04c21977c1d67e5faa1ddfe73357588cad1d73256a96a0a74be8f06",
+      "raw_filename": "woods-cr.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Mixed Corcovado ages, three-month research and four-day family tour explicitly separated from JanuaryDominicalito camp."
+    },
+    {
+      "key": "woods-day",
+      "url": "https://www.woodsoftheworld.net/costa-rica/a-day-in-the-life",
+      "final_url": "https://www.woodsoftheworld.net/costa-rica/a-day-in-the-life",
+      "status": 200,
+      "bytes": 1202576,
+      "sha256": "18cf852358711c9b0aadea50d4bc5c25c9e91a7b859a31e983d77cc4ec55a693",
+      "raw_filename": "woods-day.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Sample educational day, not exact January2027 timetable."
+    },
+    {
+      "key": "amora-camp",
+      "url": "https://amora.cr/event/woods-of-the-world-summer-camp/",
+      "final_url": "https://amora.cr/event/woods-of-the-world-summer-camp/",
+      "status": 200,
+      "bytes": 64918,
+      "sha256": "be24db122f929659a00b65b09f2efdc1bf5bf70f98166a1e91d992f5fc5dfacc",
+      "raw_filename": "amora-camp.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "amora-about",
+      "url": "https://amora.cr/about/",
+      "final_url": "https://amora.cr/about/",
+      "status": 200,
+      "bytes": 125506,
+      "sha256": "8ce5173b7b3b12e0e5390141d1a11bef105c5825e9bfbaa08ffc19c4370eea4b",
+      "raw_filename": "amora-about.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Provider/community context; home waitlist is not camp enrolment."
+    },
+    {
+      "key": "makemake-rates",
+      "url": "https://www.campmakemake.com/dates-and-rates",
+      "final_url": "https://www.campmakemake.com/dates-and-rates",
+      "status": 200,
+      "bytes": 916854,
+      "sha256": "d37061f4c2c54658206367bd2faddeb76c0e15bbfb3d3162065934425d784ab6",
+      "raw_filename": "makemake-rates.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "makemake-faq",
+      "url": "https://www.campmakemake.com/everything-you-need-to-know",
+      "final_url": "https://www.campmakemake.com/everything-you-need-to-know",
+      "status": 200,
+      "bytes": 841924,
+      "sha256": "fcd6353f6731cc12f04ea59c0c4da4bd968d6b1307cd00ec7e17200cfa086da5",
+      "raw_filename": "makemake-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "makemake-refund",
+      "url": "https://www.campmakemake.com/refund-policy",
+      "final_url": "https://www.campmakemake.com/refund-policy",
+      "status": 200,
+      "bytes": 792982,
+      "sha256": "a19947207c40974fe4f3aa5c12b79db96081dc9d47a6ea9d76ed596904c573cd",
+      "raw_filename": "makemake-refund.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "steamup-thanks",
+      "url": "https://steamupedu.com/camp-thanksgiving-robotics-and-engineering-stem.php",
+      "final_url": "https://steamupedu.com/camp-thanksgiving-robotics-and-engineering-stem.php",
+      "status": 200,
+      "bytes": 20496,
+      "sha256": "092dd883b63c9dac0e30c3b3299ccb24890ede69bbb5ea84498bbde3b7795f5f",
+      "raw_filename": "steamup-thanks.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    },
+    {
+      "key": "steamup-spring",
+      "url": "https://steamupedu.com/camp-spring-stem.php",
+      "final_url": "https://steamupedu.com/camp-spring-stem.php",
+      "status": 200,
+      "bytes": 32281,
+      "sha256": "a9c919b60536e03b49ff05765d3991bdc1d69dc61579189b587842f73ef04980",
+      "raw_filename": "steamup-spring.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Relevant own programme body, age/date/price/curriculum/conditions read; unknown language, places and complete country coverage not inferred."
+    }
+  ],
+  "browser_primary_reads": [
+    {
+      "url": "https://www.snapology.com/north-carolina-greensboro/blog/day-camp-2026-teacher-work-day-holidays/",
+      "method": "Native IAB accessibility and read-only rendered DOM; FAQ expanded by clicks",
+      "status": "read",
+      "capture_kind": "selected_observed_excerpts_not_full_html",
+      "raw_filename": "snap-greensboro-browser-excerpts.txt",
+      "bytes": 2473,
+      "sha256": "33e7f40b7268cdd164158769b2e13cdcebce5fc608dc4c18f2ec7ae940f362d0",
+      "body_snapshot_retained": false,
+      "scope": "All visible school-year date tables and expanded eligibility/pickup/refund/bring/medication FAQs read. Selected excerpts retained outside checkout; direct HTTP403 separately preserved. No waiver/payment/registration action."
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://amora.cr/event/woods-of-the-world-summer-camp/",
+    "https://frmclinicsavanza.com/",
+    "https://frmclinicsavanza.com/faq",
+    "https://frmclinicsavanza.com/info-30-san-jose-2027",
+    "https://frmclinicsavanza.com/info-31-san-jose-2027",
+    "https://frmclinicsavanza.com/legal",
+    "https://starcoderobot.com/",
+    "https://starkidsacademydocs.netlify.app/terms.html",
+    "https://steamupedu.com/camp-spring-stem.php",
+    "https://steamupedu.com/camp-thanksgiving-robotics-and-engineering-stem.php",
+    "https://steamupedu.com/camp-winter-stem.php",
+    "https://stemrise.ai/en/camps/winter",
+    "https://stemrise.ai/en/faq",
+    "https://stemrise.ai/en/refund-policy",
+    "https://www.campmakemake.com/refund-policy",
+    "https://www.campsantaursula.com/campamentos-de-verano",
+    "https://www.campsantaursula.com/post/un-campamento-con-experiencia-internacional-sin-salir-de-mexico",
+    "https://www.campsantaursula.com/reglamento",
+    "https://www.campsantaursula.com/seguridad",
+    "https://www.campsantaursula.com/terminos-y-condiciones-campamento-de-verano",
+    "https://www.robolabs.org/camps",
+    "https://www.snapology.com/north-carolina-greensboro/blog/day-camp-2026-teacher-work-day-holidays/",
+    "https://www.starkidsafterschool.org/camps",
+    "https://www.starkidsafterschool.org/event-details/anibots-christmas",
+    "https://www.starkidsafterschool.org/event-details/battlebots-2-0",
+    "https://www.starkidsafterschool.org/event-details/carbots-2-0",
+    "https://www.starkidsafterschool.org/event-details/ecobots-2-0",
+    "https://www.starkidsafterschool.org/event-details/robot-gaming-3-0",
+    "https://www.woodsoftheworld.net/costa-rica",
+    "https://www.woodsoftheworld.net/costa-rica/a-day-in-the-life",
+    "https://www.woodsoftheworld.net/dominicalito"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "RawHTML andselectedbrowserexcerpts retained outside checkout; public export onlyparaphrases/URLs/hashes/errors. PartialStarShowMore/blockedpage openlymarked.",
+    "Primary language, optional translation and application language separate; ages/grades/places/fullinvoice never inferred from marketingname. Actualdaycalendars excludeholidays. Worldwidecoverage active."
+  ]
+}

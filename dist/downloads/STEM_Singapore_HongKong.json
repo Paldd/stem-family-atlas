@@ -1,0 +1,636 @@
+{
+  "version": 48,
+  "checked": "2026-10-02",
+  "status": "partial",
+  "title": "Сингапур и Гонконг: лагеря, школьные категории и путь команд",
+  "region_label": "АЗИЯ · СИНГАПУР / ГОНКОНГ",
+  "heading": "Английские программы. Разные пути двум детям.",
+  "family": "Матвей —2017, Оскар —2020 год рождения. Доступны английский, испанский и русский. Точные дни рождения и текущие классы неизвестны: возраст на дату и школьную ступень проверяем отдельно.",
+  "conclusion": "Я бы начал с короткой английской пробы Worklab или Cobo: у обоих детей есть отдельные возрастные группы. Для сезонных наград сначала выяснить классы: Singapore Challenge требует Grade 5, Future 8+ — Grade 4; Hong Kong Winter Challenge привязан к Primary 3 / 6. Переезд оценивать после встречи с действующим младшим наставником. Коста-Рика / Мексика остаются приоритетной базой основного маршрута.",
+  "family_picks_heading": "С чего я бы начал в Сингапуре и Гонконге",
+  "family_picks_note": "Это подбор для вашей семьи по первичным возрастам, языку и опубликованным условиям. Он не является рейтингом всех лагерей / школ Азии; место и уровень после трёх лет соревнований проверяются отдельно.",
+  "limitations": "Частичный проход двух направлений. Карточки недель и дисциплин не равны числу независимых фестивалей. Полный местный и мировой охват не завершён. HKTDC InnoEx / Electronics не отдали доступное тело страницы: новые даты и детские правила по ним не придуманы.",
+  "countries": [
+    {
+      "iso": "SGP",
+      "name": "Сингапур",
+      "verdict": "Сильная учебная проба на английском; классы важнее возраста",
+      "reason": "Worklab прямо указывает технические лагеря на английском. FLL разделяет Founders / Future по классам; NRC и WRO имеют разных национальных организаторов.",
+      "mat": "В 9 лет подходят Worklab Junior / Senior / SPIKE и AI после выбора уровня. Singapore Challenge требует Grade 5, Future 8+ — Grade 4. Explore Grades 1–4 может соответствовать классу, но сложность нужно оценить после трёх лет опыта.",
+      "osc": "Worklab Apprentice 4.5–7. FLL Explore 6–10 / Grades 1–4 или Future 5+ / Grades 1–3 после проверки класса. NRC KUBO 5–6 — правило 2026; в 2027 Оскару исполнится 7.",
+      "camp": "20 новых Worklab-смен: четыре октябрьские недели по пять треков. У Computhink сохранены 22 реальные смены ноября / декабря, но технический язык не подтверждён. Дневное обучение, жильё семьи отдельно.",
+      "school": "SAS: английская Elementary STEAM с kindergarten, затем VEX IQ / FRC / VEX V5 / MATE ROV. Досье Horizon и Rulang сохранены; приём в местную публичную школу — отдельное условие. Мировое лидерство младшей команды SAS не установлено.",
+      "city_route": "Forum / Orchard для AI и Apprentice; UE Square / Coronation для робототехники. SAS в Woodlands для школьного визита. Выбрать конкретный кампус и слот.",
+      "budget": "Worklab: базовые 3 дня Apprentice $449, Junior / Senior $499; 4 дня SPIKE $500, 3 дня AI $425. Валюту и полный счёт подтвердить. Годовой счёт SAS 2026/27 не извлечён.",
+      "results_check": "FLL 2025/26 отдельно награждает школы, частные центры и Overseas. SOR CIRCUIT SHREDDER — WRO Singapore Elementary Champion 2026; школа не установлена. Эти победы не являются мировыми титулами.",
+      "event_ids": [
+        "L425",
+        "L426",
+        "L427",
+        "L428",
+        "L429",
+        "L440",
+        "L441",
+        "L442",
+        "L443",
+        "L444",
+        "L445",
+        "C1106",
+        "C1107",
+        "C1108",
+        "C1109",
+        "C1110",
+        "C1111",
+        "C1112",
+        "C1113",
+        "C1114",
+        "C1115",
+        "C1116",
+        "C1117",
+        "E185",
+        "E186",
+        "E187"
+      ],
+      "school_ids": [
+        "S006",
+        "S007",
+        "S051"
+      ],
+      "profile_ids": [
+        "fll-singapore-bioglow",
+        "nrc-singapore",
+        "wro-singapore-spacefaculty"
+      ],
+      "risk": "По сезонной странице проверяется также школьный класс. Команда зарубежной школы / организации допускается только в Overseas Category и не может представлять Singapore на World Festival. При переезде классификацию реальной местной команды согласовать отдельно."
+    },
+    {
+      "iso": "HKG",
+      "name": "Гонконг",
+      "verdict": "Английские лагеря; школьный remote-конкурс и семейная выставка",
+      "reason": "Cobo прямо пишет Medium of Instruction: English для лагерей Junior 6–8 / Senior 9–11. Winter Challenge допускает индивидуальную видеоподачу; InnoCarnival — бесплатный семейный фестиваль.",
+      "mat": "Cobo Senior 9–11. Winter Lower требует Primary 3 или ниже; Upper Space — Primary 6 или ниже с уточнением нижней ступени. Иностранный школьный эквивалент и допуск семьи неизвестны.",
+      "osc": "Cobo Junior 6–8 подходит по возрасту. Winter Lower зависит от класса и школьного документа. Поступление в Grade 1 AIS не означает место в опубликованной команде Grades 2–4.",
+      "camp": "Cobo: 5–9 / 12–16 / 20–23 / 26–30 октября, слот 10:00–12:00 или 14:00–16:00. Vibe Coding Hackathon для 12–14 — будущая ступень; конкретная тематическая неделя не установлена.",
+      "school": "AIS: American curriculum на английском, Elementary Grades 1–4, VEX GO для Grades 2–4. AIS14 имеет региональные награды Guangzhou 2026. Школе не приписан мировой чемпионский титул.",
+      "city_route": "Wan Chai для Cobo; отдельные Kowloon Tong классы по запросу и AIS. Science Park для InnoCarnival. Winter Challenge — видео из дома, поездка не требуется.",
+      "budget": "Cobo: HKD 4500 за 5 дней или 3600 за 4 дня, по два часа в день. Winter: HKD 390 solo / 720 команда. Опубликованные AIS fees относятся к 2025/26; текущий полный счёт неизвестен.",
+      "results_check": "AIS14: региональные Excellence Award и Skills №1. AIS13: внутрешкольный Champion 10 июня 2026. Сертификаты Winter не являются подтверждённым международным подиумом.",
+      "event_ids": [
+        "L107",
+        "L108",
+        "L113",
+        "L114",
+        "L446",
+        "C1118",
+        "C1119",
+        "C1120",
+        "C1121",
+        "C1122",
+        "C1123",
+        "E078"
+      ],
+      "school_ids": [
+        "S050"
+      ],
+      "profile_ids": [
+        "hongkong-winter-robot"
+      ],
+      "risk": "Иностранный школьный эквивалент, английская подача Winter, места Cobo / AIS и возраст / язык конкретного мастер-класса ещё не подтверждены."
+    }
+  ],
+  "family_picks": [
+    {
+      "kind": "camp",
+      "country": "Сингапур",
+      "title": "Worklab · отдельный робототрек каждому",
+      "why": "Оскару Apprentice, Матвею Senior или SPIKE. Технический английский прямо подтверждён.",
+      "gate": "Перед записью: уровень, день рождения, кампус, приём visiting family и свободное место. Это учебная проба.",
+      "event_ids": [
+        "L425",
+        "L427",
+        "L428",
+        "L440",
+        "L442",
+        "L443"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+        "https://www.worklab.com.sg/robocamp-junior-senior",
+        "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp"
+      ]
+    },
+    {
+      "kind": "league",
+      "country": "Сингапур",
+      "title": "BIOGLOW · сначала точный класс",
+      "why": "Explore для младших. Матвей входит в Challenge / Future 8+ только при подходящем школьном классе.",
+      "gate": "Overseas Category имеет свои местные награды, но не даёт право представлять Сингапур на World Festival.",
+      "event_ids": [
+        "C1106",
+        "C1107",
+        "C1109",
+        "L445"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.firstlegoleague.sg/season/",
+        "https://www.firstlegoleague.sg/frequently-asked-questions-faq/"
+      ]
+    },
+    {
+      "kind": "school",
+      "country": "Сингапур",
+      "title": "SAS · проверить младшего наставника",
+      "why": "STEAM начинается в Elementary; дальше описан путь VEX IQ / FRC / ROV в английской учебной среде.",
+      "gate": "Проверить младшую команду, наставника, assessment / EAL, места обоим и полный текущий счёт.",
+      "event_ids": [],
+      "school_ids": [
+        "S051"
+      ],
+      "source_urls": [
+        "https://www.sas.edu.sg/academics/elementary-school/steam",
+        "https://www.sas.edu.sg/journeys-online/article/~board/schoolwide-journeys/post/sparking-a-circuit-an-sas-robotics-journey",
+        "https://www.sas.edu.sg/admissions/entry-requirements/age-and-grade-placements"
+      ]
+    },
+    {
+      "kind": "camp",
+      "country": "Гонконг",
+      "title": "Cobo · Junior и Senior на английском",
+      "why": "Оба имеют возрастные группы 6–8 / 9–11 и темы роботов, игр и AI на английском.",
+      "gate": "По два часа в день; тему, неделю и кампус подтвердить. Hackathon 12–14 пока рано.",
+      "event_ids": [
+        "L107",
+        "L108",
+        "L113",
+        "L114",
+        "L446"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.coboacademy.com/holiday-camps/index.asp"
+      ]
+    },
+    {
+      "kind": "league",
+      "country": "Гонконг",
+      "title": "Winter Challenge · solo из дома",
+      "why": "Можно заявить одного ребёнка с coach или команду 2–4. Для видеоподачи ехать не нужно.",
+      "gate": "Зарубежные классы и английский не подтверждены. Награды — LEGO-сертификаты с уровнями; World Final не обещан.",
+      "event_ids": [
+        "C1118",
+        "C1119",
+        "C1122",
+        "C1123"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/"
+      ]
+    },
+    {
+      "kind": "school",
+      "country": "Гонконг",
+      "title": "AIS · действующая младшая VEX GO практика",
+      "why": "Школа подтверждает англоязычное Elementary и региональные награды своей команды Grades 2–4.",
+      "gate": "Текущие места, младший coach и fees неизвестны; региональный школьный отчёт не является мировым протоколом.",
+      "event_ids": [],
+      "school_ids": [
+        "S050"
+      ],
+      "source_urls": [
+        "https://www.ais.edu.hk/learning/elementary-school/",
+        "https://www.ais.edu.hk/eagle-engineers-shine-at-guangzhou-regional-robotics-tournament/",
+        "https://www.ais.edu.hk/admissions/applying-to-ais/"
+      ]
+    }
+  ],
+  "season_stops": [
+    {
+      "country": "Сингапур / Гонконг",
+      "date": "05–30.10.2026",
+      "title": "Октябрьские учебные недели на английском",
+      "detail": "Worklab: четыре недели по пять треков, базовые 3 / 4 дня. Cobo: четыре недели, 20–23 октября — четыре дня. Отдельная группа каждому ребёнку.",
+      "event_ids": [
+        "L425",
+        "L426",
+        "L427",
+        "L428",
+        "L429",
+        "L113",
+        "L114"
+      ]
+    },
+    {
+      "country": "Гонконг",
+      "date": "24.10–01.11.2026",
+      "title": "InnoCarnival · семейные технологии",
+      "detail": "Science Park, все активности объявлены бесплатными. Возраст, язык и запись конкретного мастер-класса проверить.",
+      "event_ids": [
+        "E078"
+      ]
+    },
+    {
+      "country": "Гонконг · онлайн",
+      "date": "07.12.2026–24.01.2027",
+      "title": "Winter Robot Challenge · видео",
+      "detail": "Lower: Primary 3 или ниже; Upper: Primary 6 или ниже. Solo: 1 + coach; команда: 2–4 + coach. Иностранный приём и EN ещё неизвестны.",
+      "event_ids": [
+        "C1118",
+        "C1119",
+        "C1123"
+      ]
+    },
+    {
+      "country": "Сингапур",
+      "date": "24–25 /27.03.2027",
+      "title": "BIOGLOW qualifiers и final",
+      "detail": "Challenge: Grades 5–10; Future 8+: Grades 4–10. FAQ закрывает регистрацию 31 января в 10:00 SGT. Overseas без Singapore World Festival квоты.",
+      "event_ids": [
+        "C1107",
+        "C1108",
+        "C1109",
+        "C1110"
+      ]
+    }
+  ],
+  "evidence_cards": [
+    {
+      "kind": "evidence",
+      "country": "Сингапур",
+      "title": "FLL · новый сезон и зарубежная квота",
+      "event_ids": [
+        "C1106",
+        "C1107",
+        "C1109",
+        "L445"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.firstlegoleague.sg/season/",
+        "https://www.firstlegoleague.sg/frequently-asked-questions-faq/",
+        "https://www.firstlegoleague.sg/registration/"
+      ],
+      "detail": "BIOGLOW Founders / Future имеют разные наборы и Grades. FAQ ограничивает международный путь Overseas-команды.",
+      "limit": "Рождения и даты старого registration 2025/26 не применены к новому BIOGLOW."
+    },
+    {
+      "kind": "evidence",
+      "country": "Сингапур",
+      "title": "NRC и WRO · два национальных маршрута",
+      "event_ids": [
+        "C1111",
+        "C1112",
+        "C1113",
+        "C1114",
+        "C1115",
+        "C1116",
+        "C1117"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.science.edu.sg/for-schools/competitions/national-robotics-competition",
+        "https://spacefaculty.asia/world-robot-olympiad/",
+        "https://spacefaculty.asia/wp-content/uploads/2026/06/WRO-SG-2026-RoboMission-General-Rules-1.0-15012026.pdf"
+      ],
+      "detail": "NRC Science Centre имеет KUBO / Lower / Upper / Open / AI. Национальный WRO Singapore теперь у Space Faculty.",
+      "limit": "Правила и даты 2026 не являются будущим сезоном. В 2027 детям исполнится 7 / 10: категории могут измениться."
+    },
+    {
+      "kind": "evidence",
+      "country": "Гонконг",
+      "title": "AIS14 · региональные результаты младших",
+      "event_ids": [],
+      "school_ids": [
+        "S050"
+      ],
+      "source_urls": [
+        "https://www.ais.edu.hk/eagle-engineers-shine-at-guangzhou-regional-robotics-tournament/",
+        "https://www.ais.edu.hk/record-breaking-finish-crowns-ais-vex-go-champions-for-2025-26/"
+      ],
+      "detail": "VEX GO Guangzhou 2026: AIS14 получил Excellence Award и первое место Driving / Autonomous Skills. AIS13 победил во внутреннем турнире AIS.",
+      "limit": "Разные категории и уровни, источник — школьный отчёт. Мировая победа не приписана."
+    },
+    {
+      "kind": "evidence",
+      "country": "Сингапур",
+      "title": "SAS · инженерия начинается в Elementary",
+      "event_ids": [],
+      "school_ids": [
+        "S051"
+      ],
+      "source_urls": [
+        "https://www.sas.edu.sg/academics/elementary-school/steam",
+        "https://www.sas.edu.sg/journeys-online/article/~board/schoolwide-journeys/post/sparking-a-circuit-an-sas-robotics-journey",
+        "https://www.sas.edu.sg/admissions/eal",
+        "https://www.sas.edu.sg/admissions/entry-requirements/language-requirements"
+      ],
+      "detail": "Kindergarten — robotics / coding; Grade 2 — океанские cleanup robots; Grade 3 — delivery robots. Middle School — VEX IQ, High School — FRC / VEX V5 / MATE ROV.",
+      "limit": "Достижения старших не перенесены на Elementary. Граница EAL в двух школьных страницах неоднозначна."
+    },
+    {
+      "kind": "evidence",
+      "country": "Сингапур / Гонконг",
+      "title": "English · прямое обучение и язык сайта",
+      "event_ids": [
+        "L425",
+        "L428",
+        "L107",
+        "L056"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+        "https://www.coboacademy.com/holiday-camps/index.asp",
+        "https://www.computhink.com.sg/holiday-lego-robotics-camp/"
+      ],
+      "detail": "Worklab и Cobo прямо указывают English instruction. Computhink публикует реальные смены без прямого языка технических занятий.",
+      "limit": "22 смены Computhink сохранены, но фильтр подтверждённого EN-преподавания их не включает."
+    },
+    {
+      "kind": "evidence",
+      "country": "Сингапур / Гонконг",
+      "title": "Выставки · семейная и профессиональная",
+      "event_ids": [
+        "E078",
+        "E185",
+        "E186",
+        "E187"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://innocarnival.hk/en/About/",
+        "https://industrial-transformation.com/ticketing-options/",
+        "https://gitexasia.com/"
+      ],
+      "detail": "InnoCarnival семейный; у ITAP детское правило неизвестно; GITEX AI Asia строго для посетителей старше 18.",
+      "limit": "GITEX — взрослый маршрут. Нынешние HKTDC правила в этом проходе не удалось прочитать."
+    }
+  ],
+  "shortlist": [
+    {
+      "title": "Проба без переезда",
+      "detail": "Одна учебная неделя с отдельными задачами обоим и проверкой наставника. Для опытных детей оценивать собственный код, механику и документацию.",
+      "event_ids": [
+        "L425",
+        "L427",
+        "L428",
+        "L107",
+        "L108"
+      ]
+    },
+    {
+      "title": "Сезонный результат по настоящим правилам",
+      "detail": "Сначала класс, дата рождения, иностранный допуск и язык; затем заявка конкретного сезона. Финал требует квалификации и места в команде.",
+      "event_ids": [
+        "C1106",
+        "C1107",
+        "C1109",
+        "C1118",
+        "C1123"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Сопоставить школьные ступени",
+      "detail": "Сопоставить точные даты рождения и фактические классы с FLL Grades и Hong Kong Primary 3 / 6. Возраст сам по себе не определяет класс."
+    },
+    {
+      "title": "Увидеть действующего младшего coach",
+      "detail": "Пробный проект; действующий coach, код команды, частота тренировок, места обоим, самостоятельный детский код и организаторские протоколы результатов."
+    },
+    {
+      "title": "Отделить участие от квоты",
+      "detail": "Overseas-награда и международная квота различаются. WRO и NRC самостоятельны; Winter-сертификат не World Final. Сохранить основной национальный маршрут."
+    },
+    {
+      "title": "Сверить полный бюджет и язык",
+      "detail": "Полный школьный счёт, длительность дневного лагеря, жильё семьи, технический язык, питание / трансфер и правила выставки подтвердить до записи."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Первичный источник · ais_about",
+      "url": "https://www.ais.edu.hk/about/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_apply",
+      "url": "https://www.ais.edu.hk/admissions/applying-to-ais/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_faq",
+      "url": "https://www.ais.edu.hk/admissions/contact/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_fees",
+      "url": "https://www.ais.edu.hk/admissions/tuition-fees/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_go_internal",
+      "url": "https://www.ais.edu.hk/record-breaking-finish-crowns-ais-vex-go-champions-for-2025-26/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_go_result",
+      "url": "https://www.ais.edu.hk/eagle-engineers-shine-at-guangzhou-regional-robotics-tournament/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ais_primary",
+      "url": "https://www.ais.edu.hk/learning/elementary-school/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · cobo_camps",
+      "url": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · computhink_0",
+      "url": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · computhink_1",
+      "url": "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · computhink_2",
+      "url": "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · computhink_3",
+      "url": "https://www.computhink.com.sg/minecraft-holiday-workshops/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fll_challenge_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-schools-first-lego-league-founders-challenge-45832/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fll_explore_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-founders-explore-45833/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fll_future5_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-5-7-45835/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fll_future8_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-8-16-45834/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fll_nonmoe",
+      "url": "https://www.firstlegoleague.sg/registration-for-non-moe-schools/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · gitex",
+      "url": "https://gitexasia.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · hk_winter",
+      "url": "https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · innocarnival",
+      "url": "https://innocarnival.hk/en/About/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · itap",
+      "url": "https://industrial-transformation.com/itap-2026-home/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · itap_ticket",
+      "url": "https://industrial-transformation.com/ticketing-options/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_eal",
+      "url": "https://www.sas.edu.sg/admissions/eal",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_elementary",
+      "url": "https://www.sas.edu.sg/academics/elementary-school",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_fees",
+      "url": "https://www.sas.edu.sg/admissions/tuition-and-fees",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_language",
+      "url": "https://www.sas.edu.sg/admissions/entry-requirements/language-requirements",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_placement",
+      "url": "https://www.sas.edu.sg/admissions/entry-requirements/age-and-grade-placements",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_robotics",
+      "url": "https://www.sas.edu.sg/journeys-online/article/~board/schoolwide-journeys/post/sparking-a-circuit-an-sas-robotics-journey",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sas_steam",
+      "url": "https://www.sas.edu.sg/academics/elementary-school/steam",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_fll",
+      "url": "https://www.firstlegoleague.sg/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_fll_awards",
+      "url": "https://www.firstlegoleague.sg/first-lego-league-singapore-challenge-awards/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_fll_faq",
+      "url": "https://www.firstlegoleague.sg/frequently-asked-questions-faq/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_fll_registration",
+      "url": "https://www.firstlegoleague.sg/registration/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_fll_season",
+      "url": "https://www.firstlegoleague.sg/season/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_nrc_duck",
+      "url": "https://ducklearning.com/pages/nrc-sg",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_nrc_science",
+      "url": "https://www.science.edu.sg/for-schools/competitions/national-robotics-competition",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_worklab_locations",
+      "url": "https://www.worklab.com.sg/contact-us",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sg_wro",
+      "url": "https://spacefaculty.asia/world-robot-olympiad/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · worklab_ai",
+      "url": "https://www.worklab.com.sg/ai-digital-citizenship-camp",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · worklab_apprentice",
+      "url": "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · worklab_junior",
+      "url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · worklab_spike",
+      "url": "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · wro_sg_rules",
+      "url": "https://spacefaculty.asia/wp-content/uploads/2026/06/WRO-SG-2026-RoboMission-General-Rules-1.0-15012026.pdf",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · wro_sg_terms",
+      "url": "https://spacefaculty.asia/wp-content/uploads/2026/07/WROSG-2026-TC.pdf",
+      "checked": "2026-10-02"
+    }
+  ],
+  "season_kicker": "2026 / 2027 · ЛАГЕРЯ, ВИДЕОКОНКУРС И ПОЕЗДКИ"
+}

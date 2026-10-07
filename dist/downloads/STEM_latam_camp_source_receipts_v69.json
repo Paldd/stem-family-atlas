@@ -1,0 +1,332 @@
+{
+  "asof": "2026-10-05",
+  "version": 69,
+  "scope": "Official public HTML and visible CUA programme bodies. No forms/messages/subscriptions/bookings/payments. HTTP success, usable document and active future intake are different evidence states.",
+  "http_attempts": 28,
+  "http200": 26,
+  "visible_browser_bodies": 7,
+  "items": [
+    {
+      "key": "machinecare",
+      "url": "https://machinecareeducation.com.mx/campamento-de-verano-2026/",
+      "final_url": "https://machinecareeducation.com.mx/campamento-de-verano-2026/",
+      "status": 200,
+      "bytes": 245261,
+      "sha256": "236d0db8f50e3a89e0aa10249339cfdefb0c3e49c540906810d29c7a5e478299",
+      "document_verified": true
+    },
+    {
+      "key": "trex",
+      "url": "https://trexeducation.com.mx/verano26/",
+      "error": "HTTP Error 406: Not Acceptable",
+      "document_verified": false
+    },
+    {
+      "key": "irox",
+      "url": "https://www.irox.mx/wp/2026/06/escuela-de-verano-robotica-2026/",
+      "final_url": "https://www.irox.mx/wp/2026/06/escuela-de-verano-robotica-2026/",
+      "status": 200,
+      "bytes": 87795,
+      "sha256": "21b43f60a1a74a53b2afee568b69f479a43cbb8aa76d628cc9a94dcab025244c",
+      "document_verified": true
+    },
+    {
+      "key": "unam",
+      "url": "https://educontinua.fciencias.unam.mx/Pagina2023/talleres/IniciacionAlaRobotica/6taEd_2026/tallerRobo.php",
+      "final_url": "https://educontinua.fciencias.unam.mx/Pagina2023/talleres/IniciacionAlaRobotica/6taEd_2026/tallerRobo.php",
+      "status": 200,
+      "bytes": 44745,
+      "sha256": "e1d691187acc6119070cf4ad9f446f67e6ff11bba0b71f7a73342c70cc65d274",
+      "document_verified": true
+    },
+    {
+      "key": "ucr-pacifico",
+      "url": "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+      "final_url": "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+      "status": 200,
+      "bytes": 591023,
+      "sha256": "8b9a5e21f711beff0bf8e833a8d043c8e4a2ac8567048296d85e3419ab200333",
+      "document_verified": true
+    },
+    {
+      "key": "astranautas",
+      "url": "https://astranautas.com/",
+      "final_url": "https://www.astranautas.com/",
+      "status": 200,
+      "bytes": 299692,
+      "sha256": "72aa75339a78c581d90cf798d7e29961faa8250299599a65ad426f06a1fb62c4",
+      "document_verified": true
+    },
+    {
+      "key": "replago",
+      "url": "https://ww3.replago.com.br/ferias/",
+      "final_url": "https://ww3.replago.com.br/ferias/",
+      "status": 200,
+      "bytes": 48721,
+      "sha256": "3d125eefda2d917019d1d22b0745eeff28259d8a3c5e3305b16a9db4fb9968c1",
+      "document_verified": true
+    },
+    {
+      "key": "international-br",
+      "url": "https://internationalcamp.com.br/",
+      "final_url": "https://internationalcamp.com.br/",
+      "status": 200,
+      "bytes": 32419,
+      "sha256": "bf9c209eb22e93e06e2a96bde46035bd0b4e9e051e7f585875a90dd489f43590",
+      "document_verified": true
+    },
+    {
+      "key": "astra-summer",
+      "url": "https://www.astranautas.com/taller-robotica-verano.php",
+      "final_url": "https://www.astranautas.com/taller-robotica-verano.php",
+      "status": 200,
+      "bytes": 400247,
+      "sha256": "0934b31978031ac4435dcc85d8f057a238fc7bef76b19e356a0f6f444f2b21f1",
+      "document_verified": true
+    },
+    {
+      "key": "astra-faq",
+      "url": "https://www.astranautas.com/faq.php",
+      "final_url": "https://www.astranautas.com/faq.php",
+      "status": 200,
+      "bytes": 110749,
+      "sha256": "2a6c69205abd4e2967f2ff2927e070c141b9c880daa594a4219fdbf1c6195d47",
+      "document_verified": true
+    },
+    {
+      "key": "astra-evkids",
+      "url": "https://www.astranautas.com/taller-robotica.php?q=robotica-evkids",
+      "final_url": "https://www.astranautas.com/taller-robotica.php?q=robotica-evkids",
+      "status": 200,
+      "bytes": 134831,
+      "sha256": "1123cfa83ee8b2de538c1208b2c9be7c82e33e9388687ba1d42a83a8b9291071",
+      "document_verified": true
+    },
+    {
+      "key": "astra-ev3",
+      "url": "https://www.astranautas.com/taller-robotica.php?q=robotica-ev3",
+      "final_url": "https://www.astranautas.com/taller-robotica.php?q=robotica-ev3",
+      "status": 200,
+      "bytes": 113320,
+      "sha256": "fcf62cd4b646ef0f3837cd9741a511086ce65cbf0337a1a7b5a8be852e6e3c70",
+      "document_verified": true
+    },
+    {
+      "key": "astra-arduino",
+      "url": "https://www.astranautas.com/taller-robotica.php?q=robotica-arduino",
+      "final_url": "https://www.astranautas.com/taller-robotica.php?q=robotica-arduino",
+      "status": 200,
+      "bytes": 92294,
+      "sha256": "23eec88850ad5d09c799d46b51feb069be5b10981ed5f2ce646d51c8d42e0a99",
+      "document_verified": true
+    },
+    {
+      "key": "geeks",
+      "url": "https://geeksacademy.mx/product/summer-camp-2026/",
+      "final_url": "https://geeksacademy.mx/summer-camp-2026/",
+      "status": 200,
+      "bytes": 445606,
+      "sha256": "7e29cc1cc2f54ad8a26315e3259fc9659cf9296d814a2a2ccca5375b442dd31a",
+      "document_verified": true
+    },
+    {
+      "key": "llanada-co",
+      "url": "https://co.lallanada.com/",
+      "final_url": "https://co.lallanada.com/",
+      "status": 200,
+      "bytes": 104022,
+      "sha256": "533b92e864b12f3c412f8004cded17c4327a9a5b03fe38b7fa133d55b92bce47",
+      "document_verified": true
+    },
+    {
+      "key": "geeks-full",
+      "url": "https://geeksacademy.mx/summer-camp-2026/",
+      "final_url": "https://geeksacademy.mx/summer-camp-2026/",
+      "status": 200,
+      "bytes": 445608,
+      "sha256": "e9be48a4e754006e4ad3627499ab2022bd8fdd63d4e59ee8da159bfda309c362",
+      "document_verified": true
+    },
+    {
+      "key": "geeks-chihuahua",
+      "url": "https://geeksacademy.mx/summer-camp-chihuahua-2026/",
+      "final_url": "https://geeksacademy.mx/summer-camp-chihuahua-2026/",
+      "status": 200,
+      "bytes": 440440,
+      "sha256": "a8edca35b0e1bd9a58dd9bdbab8047bdeda4f2ab0c2e084d974812ff0b5baee2",
+      "document_verified": true
+    },
+    {
+      "key": "liota",
+      "url": "https://liotacamps.com/",
+      "final_url": "https://liotacamps.com/",
+      "status": 200,
+      "bytes": 368878,
+      "sha256": "c34e2049b8ed4f98f93cfab886b34ba9839a5cdbcbbddbce199ab1a2e0a276e3",
+      "document_verified": false,
+      "note": "HTTP200 but only application shell; no programme syllabus, dates, ages or prices verified."
+    },
+    {
+      "key": "ciberbots",
+      "url": "https://www.ciberbots.com.mx/services",
+      "final_url": "https://www.ciberbots.com.mx/services",
+      "status": 200,
+      "bytes": 175563,
+      "sha256": "95df7802ade02172d1f4dede4538793a97a8a3e9b3f47be3920095f5a84f0c31",
+      "document_verified": true
+    },
+    {
+      "key": "steam-colombia",
+      "url": "https://steamacademy.edu.co/",
+      "final_url": "https://steamacademy.edu.co/",
+      "status": 200,
+      "bytes": 60244,
+      "sha256": "fe91f8c0d14735411bb20e6956f1f6fb4b45c8da67c809edd562a4a370cdb80e",
+      "document_verified": true
+    },
+    {
+      "key": "llanada-receso",
+      "url": "https://co.lallanada.com/receso-octubre/",
+      "final_url": "https://co.lallanada.com/receso-octubre/",
+      "status": 200,
+      "bytes": 132472,
+      "sha256": "ee4cb8e4946e66f065bd81a8a511650e786eded0b0724b63da0e0c91260804de",
+      "document_verified": true
+    },
+    {
+      "key": "llanada-day",
+      "url": "https://co.lallanada.com/daycamp/",
+      "final_url": "https://co.lallanada.com/daycamp/",
+      "status": 200,
+      "bytes": 148588,
+      "sha256": "1d970ad0a365fb7ca8bdc1770a49e9b1b68bda8c073a13fe57ee6190c71ac32e",
+      "document_verified": true
+    },
+    {
+      "key": "llanada-boarding",
+      "url": "https://co.lallanada.com/sleepaway/",
+      "error": "HTTP Error 404: Not Found",
+      "document_verified": false
+    },
+    {
+      "key": "astra-summer-evkids",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=evkids",
+      "final_url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=evkids",
+      "status": 200,
+      "bytes": 214077,
+      "sha256": "fd62d7ecc0ce5ddb41d64304a08ff53e5cd3011905a9537320ba4d37c3050d46",
+      "document_verified": true
+    },
+    {
+      "key": "astra-summer-ev3",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=ev3",
+      "final_url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=ev3",
+      "status": 200,
+      "bytes": 214016,
+      "sha256": "0be2cec0ab04fff45074ecc6b8b9af791a6b229784e33f53d7692b9b0bee0ba4",
+      "document_verified": true
+    },
+    {
+      "key": "astra-summer-arduino",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=arduino",
+      "final_url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=arduino",
+      "status": 200,
+      "bytes": 213976,
+      "sha256": "d5bfa19da92d5cb0fe37da8922c0daba50110e880af946e0c379fe22db11b32a",
+      "document_verified": true
+    },
+    {
+      "key": "astra-summer-electronica",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=electronica",
+      "final_url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=electronica",
+      "status": 200,
+      "bytes": 214007,
+      "sha256": "b099651a50cc9fa39afc70c6f258a5ff0c8132cebd7c8c472e0fc794c0ea6b46",
+      "document_verified": true
+    },
+    {
+      "key": "astra-summer-esp32",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=esp32",
+      "final_url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=esp32",
+      "status": 200,
+      "bytes": 213976,
+      "sha256": "ca415cc25d5f1f24922b7e6afa98bd4755ffdf2c12293f95a3ad5b2625f97f7b",
+      "document_verified": true
+    },
+    {
+      "key": "evkids",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=evkids",
+      "sha256": "93783d8fea9c8b506322ee19a810b622c37123251cc9e4fc8521f2c6a112681a",
+      "bytes": 4118,
+      "method": "visible browser body, no forms used",
+      "dates": "Fechas de Inicio - Verano 2027\nLunes y Miércoles: Lun 04 de Enero\nMartes y Jueves: Mar 05 de Enero\nViernes y Sábados: Vie 08 de Enero\n Solo Sábados: Inicia 09 de Enero\n Solo Domingos: Inicia 10 de Enero\nHorarios disponibles en todas las sedes:\n 09:00 a 10:15\nTURNO MAÑANA\n 10:30 a 11:45\nTURNO MAÑANA\n 12:00 a 01:15\nTURNO MEDIODÍA\n 02:30 a 03:45\nTURNO TARDE\n 04:00 a 05:15\nTURNO TARDE\n 05:30 a 06:45\nTURNO NOCHE",
+      "price": "Octubre, no stated year: 9 classes S/569;15classes S/869. January2027 fee not confirmed.",
+      "document_verified": true
+    },
+    {
+      "key": "ev3",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=ev3",
+      "sha256": "364ab75b429baed49e1b18d7bb6cbd4f5c6794657824ee955eacf164eaa7786e",
+      "bytes": 3849,
+      "method": "visible browser body, no forms used",
+      "dates": "Fechas de Inicio - Verano 2027\nLunes y Miércoles: 04 de Enero\nMartes y Jueves: 05 de Enero\nViernes y Sábados: 08 de Enero\n Solo Sábados: Inicia 09 de Enero\n\nHorarios disponibles: Turnos mañana, tarde y noche en todas las sedes. Cada sesión dura 75 minutos intensivos de práctica guiada.\n\nBeneficios Incluidos\nClases 100% personalizadas (Máx. 8 alumnos)\nAcceso a Intranet exclusivo Astra\nConstancia de participa",
+      "price": "PRECIO PREFERENCIAL • ROBÓTICA EV3 MINDSTORMS\nBÁSICO\nOctubre\n9 CLASES\nS/.\n739\n¡MÁS ELEGIDO! • 2 MESES\nCOMPLETO\nOctubre\n15 CLASES\nS/.\n1,059\n Bono especial\nCADA CLASE DURA 75 MINUTOS • VACANTES LIMITADAS POR TURNO Y SEDE\nRESERVAR VACANTE EV3 AHORA\nVolver a",
+      "document_verified": true
+    },
+    {
+      "key": "arduino",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=arduino",
+      "sha256": "cedf1367aa2001651045bf15ad56e146c52cc0cd0c37af80cebdc946d185c219",
+      "bytes": 3880,
+      "method": "visible browser body, no forms used",
+      "dates": "Fechas de Inicio - Verano 2027\nLunes y Miércoles: 04 de Enero\nMartes y Jueves: 05 de Enero\nViernes y Sábados: 08 de Enero\n Solo Sábados: Inicia 09 de Enero\n\nMetodología de enseñanza: Clases 100% prácticas con 75 minutos continuos guiados por instructores de ingeniería mecatrónica.\n\nBeneficios Incluidos\nClases 100% personalizadas (Máx. 8 alumnos)\nAcceso a Intranet exclusivo Astra\nConstancia de participación ",
+      "price": "PROMOCIÓN OCTUBRE 2026 • ROBÓTICA ARDUINO\nBÁSICO\nOctubre\n9 CLASES\nS/.\n810\n¡MÁS ELEGIDO! • 2 MESES\nCOMPLETO\nOctubre\n15 CLASES\nS/.\n1,280\n Kit Oficial Arduino en Aula + Certificación\nCADA CLASE DURA 75 MINUTOS • VACANTES LIMITADAS POR TURNO Y SEDE\nRESERVAR VACANTE ARDUINO AHORA\nVolv",
+      "document_verified": true
+    },
+    {
+      "key": "electronica",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=electronica",
+      "sha256": "dd900d587ad4e7779c51c878d99579f3549abdd34807d492b5779d81e76fdbb1",
+      "bytes": 3900,
+      "method": "visible browser body, no forms used",
+      "dates": "Fechas de Inicio - Verano 2027\nLunes y Miércoles: 04 de Enero\nMartes y Jueves: 05 de Enero\nViernes y Sábados: 08 de Enero\n Solo Sábados: Inicia 09 de Enero\n\nMetodología de aula: Sesiones 100% interactivas de 75 minutos, combinando física aplicada con experimentos prácticos.\n\nBeneficios Incluidos\nClases 100% personalizadas (Máx. 8 alumnos)\nAcceso a Intranet exclusivo Astra\nConstancia de participación y certi",
+      "price": "PROMOCIÓN OCTUBRE 2026 • ELECTRÓNICA KIDS\nBÁSICO\nOctubre\n9 CLASES\nS/.\n710\n¡MÁS ELEGIDO! • 2 MESES\nCOMPLETO\nOctubre\n15 CLASES\nS/.\n1,095\n Kit de Componentes en Aula + Certificación\nCADA CLASE DURA 75 MINUTOS • VACANTES LIMITADAS POR TURNO Y SEDE\nRESERVAR VACANTE ELECTRÓNICA AHORA\n",
+      "document_verified": true
+    },
+    {
+      "key": "esp32",
+      "url": "https://www.astranautas.com/informacion-taller-robotica-verano.php?nivel=esp32",
+      "sha256": "a72f75350c925d429de13e862f58cde6461da2f33824f3daea30019121096c85",
+      "bytes": 3850,
+      "method": "visible browser body, no forms used",
+      "dates": "Fechas de Inicio - Verano 2027\nLunes y Miércoles: 04 de Enero\nMartes y Jueves: 05 de Enero\nViernes y Sábados: 08 de Enero\n Solo Sábados: Inicia 09 de Enero\n\nMetodología de aprendizaje: 75 minutos intensivos de laboratorio con redes de prueba locales y acceso directo a servidores de control.\n\nBeneficios Incluidos\nClases 100% personalizadas (Grupos de 6 a 8 alumnos)\nAcceso a Intranet exclusivo Astra\nConstanci",
+      "price": "PROMOCIÓN OCTUBRE 2026 • ROBÓTICA ESP32 & IOT\nBÁSICO\nOctubre\n9 CLASES\nS/.\n855\n¡MÁS ELEGIDO! • 2 MESES\nCOMPLETO\nOctubre\n15 CLASES\nS/.\n1,350\n Módulos ESP32 y Sensores IoT en Aula + Certificación\nCADA CLASE DURA 75 MINUTOS • VACANTES LIMITADAS POR TURNO Y SEDE\nRESERVAR VACANTE ESP32 AHORA\nVolver",
+      "document_verified": true
+    },
+    {
+      "key": "trex-visible",
+      "url": "https://trexeducation.com.mx/verano26/",
+      "method": "visible browser body; no forms used",
+      "document_verified": true,
+      "bytes": 10891,
+      "sha256": "0e523e2d472ef4e8c576176d2bd4f69e4ad023bf3f320edcf57c506925d17237",
+      "evidence": "Age-specific 2026 programmes, package prices, nine AstroCamp weeks versus eight-week banner, own FAQ. No 2027 dates assigned."
+    },
+    {
+      "key": "llanada-sleepaway-visible",
+      "url": "https://co.lallanada.com/sleepaway/",
+      "method": "visible browser body; no forms used",
+      "document_verified": false,
+      "bytes": 580,
+      "sha256": "343199ea99322a31c6a7abb0c796c8802d2f285003b78296c180044b2ba63e6f",
+      "evidence": "Current page says No se ha podido encontrar la página. Old indexed FAQ cabin numbers/age gap not accepted as current accommodation evidence. Specific October2026 page remains valid."
+    }
+  ],
+  "limits": [
+    "Astranautas PHP includes all hidden programme panels: own visible selected card used for age/price/date evidence. Search cache prices lag current card.",
+    "Trex direct HTTP406 resolved through visible official browser body.",
+    "Liota HTTP200 exposes only application shell and is not an audited camp document.",
+    "La Llanada old Sleepaway FAQ URL unavailable; current October programme and own homepage used.",
+    "UCR2025 report is historical; not a newly announced2026/27 intake. CampHope international staff mission not treated as child STEM enrolment."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "asof": "2026-10-05",
+  "version": 82,
+  "status": "progress",
+  "scope": "Swiss/French/Spanish general, boarding, family and optional technical programmes; all worldwide blocks and priority countries remain active",
+  "new_dossiers": 17,
+  "new_operators": 8,
+  "updated_dossiers": [],
+  "new_calendar_rows": 39,
+  "new_family_ics": 39,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 432,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 681,
+  "country_dossier_counts": {
+    "CHE": 69,
+    "FRA": 39,
+    "ESP": 31,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "ensr-junior-languages",
+    "ensr-junior-multisport",
+    "cjsa-languages-sports",
+    "cjsa-little-fun",
+    "frilingue-braunwald-language",
+    "frilingue-braunwald-coding",
+    "frilingue-braunwald-family",
+    "altitude-day-junior",
+    "altitude-residential-junior",
+    "bell-geneva-explorer",
+    "british-council-paris-primary",
+    "kidooland-activate",
+    "kidooland-advance",
+    "kidooland-elevate",
+    "englishsummer-tech",
+    "englishsummer-multiactivity",
+    "englishsummer-alive"
+  ],
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v82: ENSR/CJSA Junior2027",
+      "detail": "ENSR сайт2027, форма2026; разные страховые правила, единица transfer fee неизвестна,22периода против88examlessons. CJSA языковой9–17, Junior8–10; шесть недель без1–7августа. Day/board тарифы, FAQ08:30–18, неполные границы отмены; English спорта неизвестен.",
+      "next_action": "Договоры2027, язык выбранных групп, размещение, страховка и полные счета. Швейцария целиком не аудирована.",
+      "url": "https://www.ensr.ch/summer-camp/registration"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v82: Family/Altitude/Bell",
+      "detail": "Braunwald Family6–17 против Junior8–17;500workation не цена семьи, курс ребёнка6–7 неизвестен. CodingEN150/minimum3/ownlaptop без duplicate ICS. Altitude год расписания неизвестен, day6+/board7+. Bell4–10,415half/725full,три даты; web terms не договор лагеря.",
+      "next_action": "Группа6–7/childfee/adultunit/room/Sundayairport для семьи; новый сезонAltitude; Autumnчасы/договорBell.",
+      "url": "https://www.frilingue.ch/en/adults/switzerland-languages/braunwald/family-camp-family-workation"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v82: школьные классы и Kidoo2027",
+      "detail": "BC четыреPrimaryдаты CE1–CM2, не вторыеsecondaryweeks/общаяbrochure3–18; текущаяloyalty50 противPDF80. Kidoo French4–6/6–8/8–14, Englishобычно4–12/немногоleaders12–16. Camp2027comingsoon, weeklyvs3days/Christmasclosure остаются расхождениями.",
+      "next_action": "Классы, новое расписание/брошюра/цена с membership/supplies, закрытые периоды и иностранные медицинские документы.",
+      "url": "https://en.kidooland.com/brochure"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v82: EnglishSummer треки и год",
+      "detail": "TECH8–15/minimum10/WeDo8–11/Mindstorms12–15/15чEN+15чrobotics. FAQ905/8daysбезгода. Общий5–15;Alive6–14vs5–14. Точных2027нет,paymentdeadlines2025,L006linked; языкroboticsнеизвестен.",
+      "next_action": "Каталог2027, смены/campus, EN/ESтехническихзанятий и полные счета; остальные испанские и все приоритетные страны остаются открыты.",
+      "url": "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/"
+    }
+  ],
+  "calendar": {
+    "events": 2780,
+    "learning_records": 1449,
+    "family_ics": 2112,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 986,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "All2741previous events and415dossier IDs/content preserved.17new programme/age/format dossiers for8operators, not17independentcamps.39new calendarrows/39familyICS additions; coding workshop has no second weeklyICS.",
+    "ENSR own2027 dates/prices/Junior8–11 read; linkedPDF visually verified2026. Insurancecurrent EU/EEA/Switzerland vs archivedalloutsideSwitzerland retained. Transferunit ambiguous,22periods/week vs88examlessons not a promisedcertificate. GeneralMultisportEnglish unknown.",
+    "CJSA own language9–17 andJunior8–10 override network8–17. Six2027weeks only, Aug1–7 gap preserved. Board/day prices differ, junior3weekday1500 verified. Dailyattendanceweekdays not invented, FAQ08:30–18 and two-building allocation retained. Cancellationboundaries incomplete, healthcredit notcashrefund.",
+    "Braunwald7starts +publishedSunday/Saturdayrule generate14one-week variants forJunior andFamily; airportSundayreturn notsilentextension. Junior8–17 vsFamily6–17 retained:under8course/supervision/childfee unconfirmed. Adult500workation lacksactivities and is notwholefamilyprice;800/1400/1800packages differ; malformedmultiweektable notinterpreted.",
+    "Braunwald optionalcoding English/minimum3/ownlaptop,3MonWedFribeginnerwebsiteworkshops/+150. Technicaldossier linked tobaseprogramme without duplicateICS. ENcoding does not prove ENallcamp activities orchild6codingadmission.",
+    "Altitude day6–14 vsresidential7–14; own dates/prices lackyear, booking©2025/birthdatewindows do notprove2027. Noinferred2027ICS; insurance notprovided. Day975/950 andboard2950/5550/7750/9950 retained asyearunknown.",
+    "Bell3exactExplorer4–10dates2026/27,half415/full725,lunch stated;Winter/Springhours09–12:30/09–17 butAutumnhours unknown. Webterms are notcampcancellationcontract. BCParis4PrimarydatesCE1–CM2/799, notsecondary8weeks/3–18brochure;birthyear notgrade. ColdlunchBYO,currentloyalty50 vsbroadPDF80 retained.",
+    "KidooLand3tracks4–6/6–8/8–14 vsEnglishordinary4–12/fewleaders12–16; Englishwholeteaching andinternationalholidaymakers confirmed. Newcampbrochurecomingsoon,fees/medicalrequirements retained;weeklyvs3day/Christmasclosures notfilledwithschoolholidaydates.",
+    "EnglishSummerTECH8–15/min10,15hEN+15hrobotics,WeDo8–11/Mindstorms12–15;FAQ905/8days hasnoyear. Multiactivity5–15,Alive6–14vs5–14;paymentpage2025 not2027terms. RelatedL006 unchanged, nonewICS; technicalinstructionEN/ESunknown.",
+    "Fullprevious2073familyICS UID/datepairs and104exhibitionICS preserved. SQLite/publicJSON agree;bridgeidempotent,94familyscenarios,0fullyauditedcountries. Fullworldwidegoal/prioritycountries/all2026–27generalthematicseasons remainactive."
+  ],
+  "next_priority": "Continue Swiss/French/Spanish unresolved operators/new2027catalogues and full Taiwan/Singapore/Korea/Japan/USA/Canada/CostaRica/Mexico/LatinAmerica/Europe programmes, allgeneral/thematicday/boarding/familyseasons, schools/results and leagues/exhibitions"
+}

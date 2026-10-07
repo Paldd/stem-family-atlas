@@ -1,0 +1,326 @@
+{
+  "asof": "2026-10-04",
+  "scope": "France/Spain deep camp pass v57; public official unauthenticated sources. Hashes reference local raw snapshots, not a guarantee of subsequent content. No PDF relied on in this pass.",
+  "http_sources": [
+    {
+      "key": "ilc-fun",
+      "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+      "final_url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+      "status": 200,
+      "bytes": 208594,
+      "sha256": "1f0a7fc89115936daf6503c3304995791333daebda1c0059e93e10d1345173e2"
+    },
+    {
+      "key": "ilc-adrenaline",
+      "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+      "final_url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+      "status": 200,
+      "bytes": 140757,
+      "sha256": "3d5c4a6d1081e5ae347da22d8c3ff9ff6687776dfce98a140c58670fc488df24"
+    },
+    {
+      "key": "ilc-terms",
+      "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+      "final_url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+      "status": 200,
+      "bytes": 79741,
+      "sha256": "76ea72ed8449294f8be8d6885bba04d7bda7facb5b8b1d60cafbec1d34ee6f57"
+    },
+    {
+      "key": "wander-product",
+      "url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
+      "final_url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
+      "status": 200,
+      "bytes": 1790702,
+      "sha256": "2ccac93abefa74311df3feccc9e7ed767061890b522b7c5d03036439f9acf5e6"
+    },
+    {
+      "key": "wander-summer",
+      "url": "https://www.wanderandwonderclub.com/summer-camp",
+      "final_url": "https://www.wanderandwonderclub.com/summer-camp",
+      "status": 200,
+      "bytes": 2339339,
+      "sha256": "ef975156f3cd43559d0090b9b9a2a937b2c60fa8e8decd679498b1944fbf63ba"
+    },
+    {
+      "key": "wander-holiday",
+      "url": "https://www.wanderandwonderclub.com/holiday-camp",
+      "final_url": "https://www.wanderandwonderclub.com/holiday-camp",
+      "status": 200,
+      "bytes": 1974939,
+      "sha256": "6070257b81dc8120a5e8dcd343fe38d38c3714cc9cf5ae30292d74979dc5529b"
+    },
+    {
+      "key": "ermitage-holiday",
+      "url": "https://fr.ermitage.fr/activities/holidaycamp",
+      "final_url": "https://fr.ermitage.fr/activities/holidaycamp",
+      "status": 200,
+      "bytes": 113950,
+      "sha256": "8ec3668fcc2850fc5351a5393f908f4818ad4b9695cccd6118f8172f68c0bd13"
+    },
+    {
+      "key": "ih-holiday",
+      "url": "https://ih.fl-france.com/anglais/day-camp/",
+      "final_url": "https://ih.fl-france.com/anglais/day-camp/",
+      "status": 200,
+      "bytes": 133804,
+      "sha256": "b02e4db55213f94e1720041e7208036e47941820455986993e40c1cc94efe3e9"
+    },
+    {
+      "key": "sis-camp",
+      "url": "https://www.sis.ac/school-life/summer-camps",
+      "final_url": "https://www.sis.ac/school-life/summer-camps",
+      "status": 200,
+      "bytes": 1975,
+      "sha256": "7f75a88cdb1a51a617f37546258bb49aba4b1b9d8c9fd4fc78e3b5db8c87ad64"
+    },
+    {
+      "key": "tecs-root",
+      "url": "https://www.tecs.es/",
+      "final_url": "https://www.tecs.es/tecs/",
+      "status": 200,
+      "bytes": 170657,
+      "sha256": "8801771a1b2d1e098b1b84be3142b0d1649cd79b22bf26297a86b41785c21107"
+    },
+    {
+      "key": "camp-tecnologico",
+      "url": "https://camptecnologico.com/talleres-tecnologicos/",
+      "final_url": "https://camptecnologico.com/talleres-tecnologicos/",
+      "status": 200,
+      "bytes": 407296,
+      "sha256": "f1fbd1abf3df95ee94614100c41632cb2abd70133b878d1ab6f984bdab9df4b0"
+    },
+    {
+      "key": "tecs-camps",
+      "url": "https://www.tecs.es/tecs/campamentos/",
+      "final_url": "https://www.tecs.es/tecs/campamentos/",
+      "status": 200,
+      "bytes": 145943,
+      "sha256": "6bb64bcf249b7fa5bc28e4aaccd2a1819c95c37233f45486c6769ad5640e9a8f"
+    },
+    {
+      "key": "tecs-faq",
+      "url": "https://www.tecs.es/tecs/preguntas-frecuentes-campamentos/",
+      "final_url": "https://www.tecs.es/tecs/preguntas-frecuentes-campamentos/",
+      "status": 200,
+      "bytes": 216863,
+      "sha256": "fec64cc35d35111492fbe5f67f5968c0dc433b7153607af5bd4cdc698854573f"
+    },
+    {
+      "key": "tecs-puerto",
+      "url": "https://www.tecs.es/tecs/campamentos-de-verano/campamento-el-puerto/",
+      "final_url": "https://www.tecs.es/tecs/campamentos-de-verano/campamento-el-puerto/",
+      "status": 200,
+      "bytes": 126612,
+      "sha256": "7169f0d6921cb30be2b69311885f305a0adacccebda77fa21f843f967d6b4db5"
+    },
+    {
+      "key": "kings-main",
+      "url": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "final_url": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "status": 200,
+      "bytes": 2813,
+      "sha256": "f438a37d071ae5818f92e705ecb0b06c34b7632348f1472f159054fd6a4da3c7"
+    },
+    {
+      "key": "kings-academics",
+      "url": "https://www.madrid-soto.kingscollegeschools.org/en/academics-multi-sports",
+      "final_url": "https://www.madrid-soto.kingscollegeschools.org/en/academics-multi-sports",
+      "status": 200,
+      "bytes": 114208,
+      "sha256": "4198edb4d1eddee014d8b9c303374868b94866732160851fd51d489bca418950"
+    },
+    {
+      "key": "rockbotic-summer",
+      "url": "https://rockbotic.com/madrid/actividad/campamento-urbano-tecnologico-verano/",
+      "final_url": "https://rockbotic.com/madrid/actividad/campamento-urbano-tecnologico-verano/",
+      "status": 200,
+      "bytes": 229509,
+      "sha256": "2eeef52d1807687eaf3b6bf4eeffd6ed6c03b1a987d512c1ca43ed037c7275e0"
+    },
+    {
+      "key": "rockbotic-chamberi",
+      "url": "https://campus-chamberi.rockbotic.com/dias-sin-cole",
+      "final_url": "https://campus-chamberi.rockbotic.com/dias-sin-cole",
+      "status": 200,
+      "bytes": 24365,
+      "sha256": "8b99586ef995444d9acac4853c16baf223d56af564027caffab03768e695100a"
+    },
+    {
+      "key": "petits-tech",
+      "url": "https://lespetitsatomes.com/categorie-produit/stages-vacances-enfants-ados-maternelle/stages-robotique-programmation/",
+      "final_url": "https://lespetitsatomes.com/categorie-produit/stages-vacances-enfants-ados-maternelle/stages-robotique-programmation/",
+      "status": 200,
+      "bytes": 103775,
+      "sha256": "a008fbcfd692b7fd8459b6710de5700136a4597df526dd45ba1533f5c6bd8fa6"
+    },
+    {
+      "key": "ilc-prices",
+      "url": "https://internationallanguagecamps.com/prices",
+      "final_url": "https://internationallanguagecamps.com/prices",
+      "status": 200,
+      "bytes": 143766,
+      "sha256": "74895444aeb58e2867e7cac8f5d2eb7b4f35f77f7be967da06568ea1bd81498b"
+    },
+    {
+      "key": "ilc-faq",
+      "url": "https://internationallanguagecamps.com/faq",
+      "final_url": "https://internationallanguagecamps.com/faq",
+      "status": 200,
+      "bytes": 82948,
+      "sha256": "53f51d1910c07b1d4ae035a641fa6d2989e08328ac5dcd0cf76f6e4594abc7a7"
+    },
+    {
+      "key": "camp-navidad",
+      "url": "https://camptecnologico.com/campamentos-navidad/",
+      "final_url": "https://camptecnologico.com/campamentos-navidad/",
+      "status": 200,
+      "bytes": 362884,
+      "sha256": "70bc10ae177e815d11e971d279bc8aa7cb93d2266fb38d1ae5011566468909bb"
+    },
+    {
+      "key": "rockbotic-event",
+      "url": "https://eventos.rockbotic.com/event/1821-actividades-de-verano-en-rockbotic-2026-lunes-a-viernes-de-9-00-a-14-00-horas-luna-tic-design-s-l-arganda-6-28005-madrid-2026-06-22-2026-09-04-1821/register",
+      "final_url": "https://eventos.rockbotic.com/event/1821-actividades-de-verano-en-rockbotic-2026-lunes-a-viernes-de-9-00-a-14-00-horas-luna-tic-design-s-l-arganda-6-28005-madrid-2026-06-22-2026-09-04-1821/register",
+      "status": 200,
+      "bytes": 42286,
+      "sha256": "582b2b5e23a0e30820f6c988ffab33ddb6c51ef9b4853a69a5dfcb8e382d7afc"
+    },
+    {
+      "key": "american-aurabelle",
+      "url": "https://www.americanvillage.fr/centres/american-village-aurabelle",
+      "final_url": "https://www.americanvillage.fr/centres/american-village-aurabelle",
+      "status": 200,
+      "bytes": 210454,
+      "sha256": "7f214ad13a768d90dcd22890fee33b1b871484ece1ea2d7adfba9122081660e5"
+    },
+    {
+      "key": "american-rouatiere",
+      "url": "https://www.americanvillage.fr/centres/american-village/la-rouatiere",
+      "final_url": "https://www.americanvillage.fr/centres/american-village/la-rouatiere",
+      "status": 200,
+      "bytes": 207724,
+      "sha256": "72bf02b37f90e0d026d3e1458fdd0bd7d42dd515c8134bc503186374e71b6d5b"
+    },
+    {
+      "key": "american-faq",
+      "url": "https://www.americanvillage.fr/informations-pratiques/foire-aux-questions",
+      "final_url": "https://www.americanvillage.fr/informations-pratiques/foire-aux-questions",
+      "status": 200,
+      "bytes": 223021,
+      "sha256": "699e54c0b3555b40628991ed56dcbfd60a92150d9effbc7c1170cf73d6d107ec"
+    },
+    {
+      "key": "tecs-kids",
+      "url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+      "final_url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+      "status": 200,
+      "bytes": 139990,
+      "sha256": "29256ee032a49206b52fb0ecb33219b75d9dbccffc3339d4b19c0c3cfaec3102"
+    },
+    {
+      "key": "american-wizard",
+      "url": "https://www.americanvillage.fr/sejour/wizard-school",
+      "final_url": "https://www.americanvillage.fr/sejour/wizard-school",
+      "status": 200,
+      "bytes": 457989,
+      "sha256": "48197c694be4d7dd99be412ad2ae3b0bc319e8eeb5da7a1f1cd3df96633cd1e5"
+    },
+    {
+      "key": "american-wizard-formula",
+      "url": "https://www.americanvillage.fr/formules/wizard-school",
+      "final_url": "https://www.americanvillage.fr/formules/wizard-school",
+      "status": 200,
+      "bytes": 210273,
+      "sha256": "f5823405ad0016d808a6da12fff5c6042415074f327ebde924f19e36e6a840f5"
+    },
+    {
+      "key": "american-aurabelle-list",
+      "url": "https://www.americanvillage.fr/sejours/centre-greoux-les-bains",
+      "final_url": "https://www.americanvillage.fr/sejours/centre-greoux-les-bains",
+      "status": 200,
+      "bytes": 205082,
+      "sha256": "e21f7e0d1725674fcd3ea0921746ad953089ef30d650ed5127b1afece213541d"
+    }
+  ],
+  "rendered_panels": [
+    {
+      "panel": "kings-activities-ui",
+      "source": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "bytes": 1813,
+      "sha256": "4887f56c89f761cec987874dd1156f2d0cede2f8c68042c61a8fd0a7f47d2b79",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "kings-application-ui",
+      "source": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "bytes": 837,
+      "sha256": "34f574b69a873985ae46db9625716c1e2045f078eb7bebbe37f8d0443f29bcb1",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "kings-core-ui",
+      "source": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "bytes": 1647,
+      "sha256": "05af4bee860cbbcf55ff4f0b5309f2f76d4cdf738bf05521a72924eca95a4377",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "kings-fees-ui",
+      "source": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+      "bytes": 3802,
+      "sha256": "79a52efcc0a41668735eae5babade48367ca693518f8883feb097cd88c54efac",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "sis-activities-ui",
+      "source": "https://www.sis.ac/school-life/summer-camps",
+      "bytes": 3105,
+      "sha256": "c8a9dd827fbb7f3c5b7715a38517b3d86014c3c5d177f65cf75a7827b0ad83ec",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "sis-application-ui",
+      "source": "https://www.sis.ac/school-life/summer-camps",
+      "bytes": 830,
+      "sha256": "0c045cc701f0d1e5e76eeb5faf4ab7f73799bdcfaa6f7c33e47b59be18cdf494",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "sis-fees-ui",
+      "source": "https://www.sis.ac/school-life/summer-camps",
+      "bytes": 3460,
+      "sha256": "a5f0c1197a53d61f8c39e7ebb2cc483cf5a6b14101da9cc9685313811900795b",
+      "method": "Native browser rendered tabpanel; no form submission"
+    },
+    {
+      "panel": "sis-mega-ui",
+      "source": "https://www.sis.ac/school-life/summer-camps",
+      "bytes": 1124,
+      "sha256": "f5747fd85060a8720e3241d0de645624986f08f16086e9a54c440af2212d59ae",
+      "method": "Native browser rendered tabpanel; no form submission"
+    }
+  ],
+  "decisions": [
+    {
+      "case": "IH summer",
+      "decision": "Fresh HTML still summer2026 under academic2026/27; cached summer2027 dates rejected pending clarification. Autumn/winter/spring rows retained."
+    },
+    {
+      "case": "Wander spring",
+      "decision": "Literal2017 date excluded; no invented2027 correction."
+    },
+    {
+      "case": "SIS / Kings",
+      "decision": "2026/2027 title does not replace body2026 schedule or old2025 programme page."
+    },
+    {
+      "case": "TECS / ILC",
+      "decision": "Yearless dates and tariffs stay undated; no inferred2027 sessions."
+    },
+    {
+      "case": "Rockbotic",
+      "decision": "Use clean official closed event card; unrelated spam in blog is not followed or treated as instruction."
+    }
+  ]
+}

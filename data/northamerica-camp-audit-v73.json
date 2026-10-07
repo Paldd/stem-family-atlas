@@ -1,0 +1,96 @@
+{
+  "asof": "2026-10-05",
+  "version": 73,
+  "status": "progress",
+  "scope": "14 additional specific North American programmes; all worldwide blocks retained",
+  "new_dossiers": 14,
+  "new_calendar_rows": 55,
+  "new_family_ics": 55,
+  "programme_dossiers": 300,
+  "countries_with_dossiers": 30,
+  "swiss_dossiers": 49,
+  "french_dossiers": 30,
+  "spanish_dossiers": 26,
+  "official_dossier_urls": 487,
+  "programme_slugs": [
+    "emerson-two-weeks",
+    "emerson-awesome-week",
+    "summertech-python",
+    "inventor-laval-junior",
+    "inventor-laval-mechanics",
+    "inventor-laval-middle",
+    "inventor-laval-middle-plus",
+    "inventor-laval-senior",
+    "canadventure-general",
+    "brainstem-winter-little",
+    "brainstem-winter-specialists",
+    "stemotics-winter",
+    "envision-winter-audit",
+    "galileo-irvine"
+  ],
+  "findings": [
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v73: Laval — возраст, язык и ошибочная вторая неделя",
+      "detail": "Пять собственных2027 карточекJumbula прочитаны в браузере после403/ошибкиweb. Juniorheader4.5–6 противdescription4.5–7; Senior11–12header,9–12description,10–12website. Mechanicsweek2July6–10вт–сб противMon–Fri не исправлена предположением; исключена из календаря. Технические темы двухнедельной ротации; EN/FRописания не доказываютEN-группу. RL24не гарантирует налоговую льготу иностранцу.",
+      "next_action": "Получить ответ по конкретнымEN-группам, возрастуSenior, ошибкеweek2 и цене сналогами; ни заявок, ни сообщений не отправляли.",
+      "url": "https://stemschoolinventor.ca/summer-camp-laval/"
+    },
+    {
+      "country": "США / Канада",
+      "iso": "USA",
+      "provider": "v73: международный общий пансион2027",
+      "detail": "Emerson7–15: точные4заезда, автобус200USDeachway/stayover200отдельно; полныйcamp-contract/аванс/питание и явныйENещёнужны. CanadianAdventure7–17: 2/4/6/8weekrates плюсtax; airport895+tax иtuck150отдельно. FooterRichmondHill — офис; лагерьAdventureIslandTemagami. Passport/UM и arrivalза1день описаны, но язык инструктора и позднюю отмену надо согласовать.",
+      "next_action": "Выбирать короткий первый пансион после7-летия Оскара; подтвердитьполныйсемейныйбюджет иcamp-contract. СайтовыеtermsCAC неравныcamp enrollmentcontract.",
+      "url": "https://www.canadianadventurecamp.com/dates-and-rates/"
+    },
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v73: зимние даты и тарифные конфликты",
+      "detail": "BrainSTEM4дня28–31Dec2026:12детейсуммарно, разные часы4–6/7–11, полдня240/full528; optionalfood48,15%cancel/90днейpaymentcredit. STEMOTICSJan1/Dec25отсутствуют вpicker; week1называется3daysпри4днях и week2early239.99вышеregular199.99. Product50%refund противpolicy50%минус35. Envisionmain21–24/28–31Dec2026 противproduct22–24/29–30безгода; picker30, цена неустановлена. Новых датEnvisionвICSнет.",
+      "next_action": "Разрешить тарифы, языкEN, темы по дням и применимыйдоговор; видимыйbuttonbookingне доказывает2026/27место.",
+      "url": "https://stemotics.com/product/winter-break-camp/"
+    },
+    {
+      "country": "США",
+      "iso": "USA",
+      "provider": "v73: закрытый2026 прайс и рекламная шапка2027",
+      "detail": "SummerTechcurrentGrade4–12 исключает обещание Oscar; PythonEnglishsyntaxнеENinstruction. Даты2026 не перенесеныв2027, overnight650этоaddon. GalileoIrvine2027banner противCLOSEDmenu/early28Feb2026; K–8конкретногокампуса важнееgenericK–10. Архивцен480–650противpackage545/565невыбран какновыйтариф.",
+      "next_action": "Новые2027 документы, подтверждённыеклассы, EN икампусы; остальныеприоритетныестраны/Коста-Рика/Мексика/LATAM продолжаются. МироваяцельACTIVE,0fullyaudited.",
+      "url": "https://galileo-camps.com/our-camps/locations/irvine-1/"
+    }
+  ],
+  "calendar": {
+    "inventor_published_rows": 34,
+    "mechanics_week2_excluded": true,
+    "emerson2027_rows": 4,
+    "canadian_adventure2027_packages": 9,
+    "brainstem_daypart_variants": 6,
+    "stemotics_winter_blocks": 2,
+    "holidays_not_added": [
+      "2026-12-25",
+      "2027-01-01"
+    ],
+    "archived_2026_promoted": false,
+    "envision_conflicting_dates_added": false
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": [],
+  "next_priority": "Continue CostaRica/Mexico/LATAM, Switzerland/Europe and all priority countries: actual2027 programmes/contracts, foreign access and languages, full family budgets and exact campuses.",
+  "validation": [
+    "2392 prior events and286 prior dossiers unchanged; leagues/schools/history/family/routes preserved",
+    "Emerson actual2027 sessions and7th birthday gate; common camp science not full robotics",
+    "Inventor5 current booking pages; Junior andSenior age conflicts visible; Mechanicsweek2 TueSat/MonFri excluded",
+    "Laval exactcampus; two-week theme rotation; parent lunches; Prime/Essential age boundary; bilingual webpage not EN instruction",
+    "CanadianAdventure9 actual2027 packages; tax/airport/tuck separate; office notcampus; minimum7 and campcontract gap",
+    "BrainSTEM4day winter AM/PM/full variants with distinct hours; total12 split ages; food48 optional and90day credit",
+    "STEMOTICS Dec25/Jan1 excluded; three/fourday and earlyprice conflicts; expensive kits remain atcamp",
+    "Envision dateless product contradicts2026 main; Galileo2027banner does not update closed2026menu; SummerTech Grade4 and addon650",
+    "55 newcalendar records and55familyICS;1713 priorUID/date pairs and104exhibition contents preserved exceptDTSTAMP",
+    "Bridge idempotence; SQLite integrity/foreignkeys; publicJSON mirrors; four scenarios; unknownEN and grade/birthday conditions",
+    "Browser: four new scenarios, Inventor5/2Oscar/3Matvey and0unprovedEN; comparison/clear;1280/390 no pageoverflow; console errors empty"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "version": 108,
+  "asof": "2026-10-05",
+  "status": "progress",
+  "scope": "Camp planning UX and selected Swiss/French family price components; not all programmes or full country audit.",
+  "new_event_ids": [],
+  "new_dossiers": 0,
+  "budget_scenarios": 9,
+  "budget_providers": 4,
+  "budget_countries": [
+    "CHE",
+    "FRA"
+  ],
+  "events": 3348,
+  "camp_learning_records": 2006,
+  "programme_dossiers": 778,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1215,
+  "family_ics": 2593,
+  "exhibition_ics": 104,
+  "league_profiles": 141,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "primary_retrievals": {
+    "direct_attempts": 10,
+    "http200": 9,
+    "usable_html": 6,
+    "non_specific_shells": 1,
+    "pdfs": 2,
+    "errors": 1,
+    "web_reader_actual_bodies": 1,
+    "web_reader_empty": 1,
+    "selected_visual_page_checks": 7
+  },
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "All3348 event cards,778 programme dossiers,182 editorial scenarios,141 league profiles,schools/results/routes and old SQL rows retained; only camp_planning metadata added. No new dates or deadlines.",
+    "Month intersection, source-date sorting, age-candidate ordering, retained old filters, direct dossier links, and shareable URL filters. An age ordering is not a world quality ranking.",
+    "Nine two-child estimates from four providers in CHE/FRA. LesElfesJune10760/July13780CHF compulsory camp components; Robotics180 onlyMatvey after10. Not a full travel invoice.",
+    "LaGarenne5–12 familybase12445day/13680boardCHF; second-child10percent on base only, same session/format; insurance10/child-day requires confirmed billed days; pocketmoney120/160 dependsMatvey9/10. Deposits not charged twice.",
+    "TASIS8000/9000day scenarios and18400boardCHF. OscarMinnows4–6/day vs CDE7–10/board gated on first-day age. Day insurance price unknown, sibling rooming restricted. Ermitage1220EUR belongsOct2026 only; meals not assumed free.",
+    "Blank or invalid mandatory/trip expenses remain missing; entered estimates separate from published components; no currency conversion or automatic complete invoice.",
+    "Ten direct attempts/nine200 bodies: six usableHTML, one shell, twoPDF; one403 retained. Separate primary reader one actual2026 body/one empty. Seven selected PDF pages visually checked; no whole-country audit.",
+    "Complete portable JSON/SQLite ZIP entries/hash/README and unchanged old CSV/ICS entries verified; all static assets below per-file limit. Worldwide scope active, zero fully audited countries."
+  ],
+  "next_priority": "Continue deep general/thematic/STEM camps2026–27/day/boarding/family EN/ES/RU in CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm: actual cohort programme, EN technical teacher, foreign intake, full invoice/nightcare/gear/refunds/current places and child-specific shortlist. Expand verified family cost scenarios and transparent editorial quality criteria without inventing a world ranking. Preserve competitions/leagues/exhibitions/permanent schools/5–10year results/family routes; resolve existing source/date conflicts. Worldwide objective active;0 fully audited countries.",
+  "complete_database_download": {
+    "schema_version": 1,
+    "download": "STEM_database.zip",
+    "archive_bytes": 3021262,
+    "archive_sha256": "0e785a5130327420457bd4a06d99c3fd994bc16055e7cd9bbaaeeb039f0d9577",
+    "sqlite_entry": "STEM_database.sqlite",
+    "sqlite_bytes": 26418176,
+    "sqlite_sha256": "bfd66faf1f740cee798f49187f786dd1b69f77c88fe9e39da546f06fbfefed52",
+    "raw_download_available": false,
+    "complete_database": true,
+    "instructions": "Распакуйте архив: внутри полная база SQLite и README. Сжатие без удаления записей."
+  },
+  "complete_json_download": {
+    "schema_version": 1,
+    "download": "STEM_database_json.zip",
+    "archive_bytes": 2279693,
+    "archive_sha256": "df9078e2f947fc16bae52ea36a68e70dbef7e163776e0289eaa4a3160019ac16",
+    "json_entry": "STEM_database.json",
+    "json_bytes": 26204654,
+    "json_sha256": "c445930b37886014f589bb22077bdcb43c71e9d818707aa4553338ce65c8a522",
+    "raw_download_available": true,
+    "complete_database": true,
+    "instructions": "Распакуйте ZIP: внутри полная база JSON и README. Все записи сохранены."
+  }
+}

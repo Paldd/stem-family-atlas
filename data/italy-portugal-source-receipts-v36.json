@@ -1,0 +1,476 @@
+{
+  "checked": "2026-10-01",
+  "method": "Первичные страницы прочитаны через web reader и свежие локальные HTTP snapshots; raw HTML вне сайта.",
+  "sources": [
+    {
+      "name": "hf_en_robot8",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/english-robotics-1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 278170,
+      "sha256": "c87042f7cec5037894ea86ed161d9cf253bf5acf5fcefd19feab96a68457136a",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/english-robotics-1"
+    },
+    {
+      "name": "hf_en_robot5",
+      "url": "https://courses.h-farm.com/collections/5-7-y-o-summer-academy-2026/products/english-robotics-copy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 279175,
+      "sha256": "79667f193f26bcfb43600d2388d64b2653f49447f7b6c962647ebaafae3271eb",
+      "resolved": "https://courses.h-farm.com/collections/5-7-y-o-summer-academy-2026/products/english-robotics-copy"
+    },
+    {
+      "name": "hf_arts_board",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/arts-computer-science-sports",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 283311,
+      "sha256": "4be4b5477d55203b87de8e08a8cd00b4dd97ef8a7528ce2821b2b11108486422",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/arts-computer-science-sports"
+    },
+    {
+      "name": "jump_ultimate",
+      "url": "https://www.jumpup.pt/ultimate-challenge-week",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141293,
+      "sha256": "cf4565b27e0ce6aceacc4b8874b32611e205d4cc5cc46a4e8dbf54172acc181d",
+      "resolved": "https://www.jumpup.pt/ultimate-challenge-week"
+    },
+    {
+      "name": "wmf_home",
+      "url": "https://www.wemakefuture.it/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1046015,
+      "sha256": "be337b811eeb9d316d9b0b9391eaa47fb7c594be685f9a7e3bfbc876bfbd5a57",
+      "resolved": "https://www.wemakefuture.it/"
+    },
+    {
+      "name": "wmf_faq",
+      "url": "https://www.wemakefuture.it/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 241278,
+      "sha256": "ec741efbea3fbaa228d9bc633cb39c8159cac735efbdaf87550c51f7afde6567",
+      "resolved": "https://www.wemakefuture.it/faq/"
+    },
+    {
+      "name": "lgw_visit",
+      "url": "https://lisboagamesweek.pt/visitar/",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "ai_festival",
+      "url": "https://www.aifestival.it/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 899078,
+      "sha256": "4e820f185ce09b5f75146b20abc8b3f1a0288dba94835f607c74196d17efe766",
+      "resolved": "https://www.aifestival.it/"
+    },
+    {
+      "name": "it_rcj_home",
+      "url": "https://www.robocupjra.it/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109116,
+      "sha256": "7a3a7a6523e5a9302f69e155e140e23e932a0dd0f9995099fb3a1e3ff44bfd8a",
+      "resolved": "https://www.robocupjra.it/"
+    },
+    {
+      "name": "hf_vicenza_pyp",
+      "url": "https://schools.h-farm.com/en/vicenza/academics/primary-school/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 154397,
+      "sha256": "6136c1ed06c2080432d83efff075deda93cd74db864a472774b91f3023601a40",
+      "resolved": "https://schools.h-farm.com/en/vicenza/academics/primary-school/"
+    },
+    {
+      "name": "ai_faq",
+      "url": "https://www.aifestival.it/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 140163,
+      "sha256": "61daabf9cba8a376fff307ba4dd517ce7a040f446435adb2b9eefa059ea3b253",
+      "resolved": "https://www.aifestival.it/faq/"
+    },
+    {
+      "name": "maker_tickets",
+      "url": "https://makerfairerome.eu/en/tickets/",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "rp_rules",
+      "url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 162048,
+      "sha256": "2876e8043f3e377142bed257c3bb41882aa63996787366010a81b7f06172be3d",
+      "resolved": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf"
+    },
+    {
+      "name": "pt_fnr_rescue_line",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-linha",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60778,
+      "sha256": "4ee704a35d5691aa1b4d64683fdfe1e8680b91b2446a7dd3b827b56534fe8f40",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-linha"
+    },
+    {
+      "name": "pt_fnr_rescue_maze",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-labirinto",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 59553,
+      "sha256": "444e1688d4f12a26f0b5b8ce23a1d61316d1067eb82b6b4c71c151ff5df85b4d",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-labirinto"
+    },
+    {
+      "name": "pt_fnr_maze_entry",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-labirinto-entry",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 59026,
+      "sha256": "27b799947b62663bdaef1c77612e566bcd45b1527e8d3c7f6b227f0ce144884a",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/busca-salvamento-labirinto-entry"
+    },
+    {
+      "name": "pt_fnr_rescue_sim",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/rescue-sim",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 59890,
+      "sha256": "b1ce82911db7ed2d721c61dbd7c3a678c1566b0bf40268a1c067a8a866d99698",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/rescue-sim"
+    },
+    {
+      "name": "pt_fnr_soccer",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/soccer-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60191,
+      "sha256": "98f291e1a7d49e0f570c6827907cb6972dba1ab4b9f905723e02fe3bd6becf45",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/soccer-junior"
+    },
+    {
+      "name": "pt_fnr_factory_junior",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/robot-at-factory-lite-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58942,
+      "sha256": "ac061a7ac8084d7e93ca88f6f4683d4d4f967cc37e461ef0bbbfb6dd30c0845b",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/robot-at-factory-lite-junior"
+    },
+    {
+      "name": "hf_vicenza_admissions",
+      "url": "https://schools.h-farm.com/en/vicenza/admissions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131961,
+      "sha256": "ff10e545fbe77910ae558b4f4d09c1dfbead99efd8e95f1eb1c31a59c524cf12",
+      "resolved": "https://schools.h-farm.com/en/vicenza/admissions/"
+    },
+    {
+      "name": "pt_lagos_ferias",
+      "url": "https://lagos.cienciaviva.pt/394/ferias-com-ciencia",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56502,
+      "sha256": "f254e9c8e09e6003c53a9085192ec9a5b3c2bae978deabbe59a280150427ce14",
+      "resolved": "https://lagos.cienciaviva.pt/394/ferias-com-ciencia"
+    },
+    {
+      "name": "pt_fnr_leagues",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131166,
+      "sha256": "446dfe6602dbb2d589ec7cdc15ac5f59f2b2a4b9754599dcccf026a093afc61a",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas"
+    },
+    {
+      "name": "pt_fnr_first",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/first-challenger",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60203,
+      "sha256": "5808993869aad668c9a15ca99f7dcc6e9fd960f78b9397e1ee7bf5e3352fd64d",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/first-challenger"
+    },
+    {
+      "name": "pt_fnr_free",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/freebots-junior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 56080,
+      "sha256": "9f64c1849dcbaae66e88da711e26d1a9255cdd18f209f86961b3e85a34430d76",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/freebots-junior"
+    },
+    {
+      "name": "pt_fnr_onstage",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/ligas/onstage",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58205,
+      "sha256": "ca8825cb9375114017cd29c3ee92ffd6a452ca6a47d92d7d9437a7e3f1b22e6a",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/ligas/onstage"
+    },
+    {
+      "name": "pt_fnr_registration",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/inscricoes",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 170698,
+      "sha256": "cd8d3e2d39c26c503dd6da139d2652f0d640ecc4acf2884698a7877ec51c47b7",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/inscricoes"
+    },
+    {
+      "name": "pt_fnr_program",
+      "url": "https://www.festivalnacionalrobotica.pt/2027/programa",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 118223,
+      "sha256": "fc5ddcada426a8df72fecd3a35fd3bc72674b520e919105fb7e4c72f19f02ac2",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027/programa"
+    },
+    {
+      "name": "rp_rules",
+      "url": "https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "hf_vicenza_after",
+      "url": "https://schools.h-farm.com/en/afterschool/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 233341,
+      "sha256": "13d4e0a98563833f1b5ec9c9e02523de0f7e152d47f15659dfc8784cc7e26594",
+      "resolved": "https://schools.h-farm.com/en/afterschool/"
+    },
+    {
+      "name": "hf_vicenza_home",
+      "url": "https://schools.h-farm.com/en/vicenza/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 153452,
+      "sha256": "9582280c759d5cae7933f5632d11e70e6c378a4ee189112ba4681a4e7affa3e2",
+      "resolved": "https://schools.h-farm.com/en/vicenza/"
+    },
+    {
+      "name": "iss_home",
+      "url": "https://taguspark.sharingschool.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83423,
+      "sha256": "0deac44f9e6861a66990dd8116316e4250a81214ea02b775a5335f21e5795e1f",
+      "resolved": "https://www.sharingschoollisbon.pt/"
+    },
+    {
+      "name": "fll_it_home",
+      "url": "https://firstlegoleague.it/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71400,
+      "sha256": "ff94ff11408ab734ae74ef93292e910d9f3dd25db6ffd85dde3c769aed6d795d",
+      "resolved": "https://firstlegoleague.it/"
+    },
+    {
+      "name": "fll_it_partecipa",
+      "url": "https://firstlegoleague.it/p/partecipa",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26841,
+      "sha256": "ac40120b4dda70c7928df5df940bc64594127c46e5ea68835e1b864c9762af10",
+      "resolved": "https://firstlegoleague.it/p/partecipa"
+    },
+    {
+      "name": "fll_it_events",
+      "url": "https://firstlegoleague.it/p/eventi",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58559,
+      "sha256": "ef01eb33514b845d986990a12840f3438dd02325e63d1e398faebec0c9fd31ad",
+      "resolved": "https://firstlegoleague.it/p/eventi"
+    },
+    {
+      "name": "fll_it_editions",
+      "url": "https://firstlegoleague.it/p/edizioni",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33778,
+      "sha256": "6923fc3274cc32295975aac6b765b7c99208705a2f2b69e69d210a71e6a5c715",
+      "resolved": "https://firstlegoleague.it/p/edizioni"
+    },
+    {
+      "name": "wro_it_ages",
+      "url": "https://www.worldrobotolympiad.it/fasce-eta/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 209171,
+      "sha256": "29ba59663e3c8509e4a26c7309d7987dc502f142c554c76e285c12b860105657",
+      "resolved": "https://www.worldrobotolympiad.it/fasce-eta/"
+    },
+    {
+      "name": "wro_it_kids",
+      "url": "https://www.worldrobotolympiad.it/categorie-e-sfide/wro-kids/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 198138,
+      "sha256": "50729cf226b9e08e1a9b28d844fc230d3970e118caa26152759e7536a124fe87",
+      "resolved": "https://www.worldrobotolympiad.it/categorie-e-sfide/wro-kids/"
+    },
+    {
+      "name": "wro_it_rules",
+      "url": "https://www.worldrobotolympiad.it/2026-sfide/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 247536,
+      "sha256": "5d894c5d92c09a531faa86a752a1f47d9bf515ed6f6dee68807d6e169c563b63",
+      "resolved": "https://www.worldrobotolympiad.it/2026-sfide/"
+    },
+    {
+      "name": "wro_it_starter",
+      "url": "https://www.worldrobotolympiad.it/regolamenti-starter-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214115,
+      "sha256": "92d9b0b178615845daad5a93981aaf69c74b0c1b7c905ba0dc68b18bb9e18f0c",
+      "resolved": "https://www.worldrobotolympiad.it/regolamenti-starter-2026/"
+    },
+    {
+      "name": "rp_home",
+      "url": "https://www.roboparty.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 11534,
+      "sha256": "ad725bee056a11725a3685928bc60631d177e8ec21b826e10e8ba861c9f12911",
+      "resolved": "https://www.roboparty.org/"
+    },
+    {
+      "name": "rp_price",
+      "url": "https://www.roboparty.org/RPGuimaraes/price.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 176338,
+      "sha256": "a889f4d9b4b060aabab93f9da563c492411a1c2664741e4a79c24776f4f44a1f",
+      "resolved": "https://www.roboparty.org/RPGuimaraes/price.php"
+    },
+    {
+      "name": "hf_robots_day",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/robotics-creativity-sports-daily",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 279902,
+      "sha256": "e598e0d4b54c3c66e88659ac17feda3b8e4a17b5d588b03119ec77ab2e889cd2",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/robotics-creativity-sports-daily"
+    },
+    {
+      "name": "hf_robots_board",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/robotics-creativity-sports-overnight",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 281092,
+      "sha256": "112f348f803be7999940309675f724d3acf799f49a6649805f9775a28d4efa1d",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/robotics-creativity-sports-overnight"
+    },
+    {
+      "name": "hf_ai_board",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/video-game-ai-sports-1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 283049,
+      "sha256": "a9c3bbdd9ebe9d59bfc5643dd3f7d69902092b73721a76acf5e9f2e9f76a8c80",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/video-game-ai-sports-1"
+    },
+    {
+      "name": "hf_arts_day",
+      "url": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/arts-computer-science-sports-1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 280995,
+      "sha256": "9a5cee3b31c75c3c057bab49148fea6222470c3cff1f8dd3bc85fa448b681f2c",
+      "resolved": "https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/arts-computer-science-sports-1"
+    },
+    {
+      "name": "hf_faq",
+      "url": "https://courses.h-farm.com/en/pages/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 233282,
+      "sha256": "5dd03f461bf35ca122111ab4bc73c8560cbd17b4f7c9dc48dd980d52a4dc811d",
+      "resolved": "https://courses.h-farm.com/en/pages/faqs"
+    },
+    {
+      "name": "it_rcj_rules",
+      "url": "https://www.robocupjra.it/regolamenti/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 88196,
+      "sha256": "bb03cce6f96c67e97d5a1ac319317efe1cbd4ba3f34f80495eb8aa3a1ded22de",
+      "resolved": "https://www.robocupjra.it/regolamenti/"
+    },
+    {
+      "name": "jump_clubs",
+      "url": "https://www.jumpup.pt/clubes-de-robtica-e-game-development",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 117725,
+      "sha256": "14487b4f168a29873a82067e4d86b3f7ddc5718d89f246763d0f0bb79ddb3b50",
+      "resolved": "https://www.jumpup.pt/clubes-de-robtica-e-game-development"
+    },
+    {
+      "name": "pt_inventors_lisbon",
+      "url": "https://theinventors.io/shop/campos-de-ferias/verao-2026/lisboab-verao/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 272524,
+      "sha256": "fe326892674729a5d7d2b9955eb9a02322c913434517a8a134f8c2a0097bd28c",
+      "resolved": "https://theinventors.io/shop/campos-de-ferias/verao-2026/lisboab-verao/"
+    },
+    {
+      "name": "pt_inventors_estoril",
+      "url": "https://theinventors.io/en/shop/campos-de-ferias/verao-2026/estoril-dos-6-aos-12/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 243130,
+      "sha256": "644c6b03b283d85f90910d10f76f3aff3cce8463e89ec527f44ea3b85aae87f8",
+      "resolved": "https://theinventors.io/en/shop/campos-de-ferias/verao-2026/estoril-dos-6-aos-12/"
+    },
+    {
+      "name": "pt_fnr_site",
+      "url": "https://www.festivalnacionalrobotica.pt/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 132730,
+      "sha256": "1f1dc1921c4ddb8d1c623975bf7c35ed82228d1e2cfcb98fa2805a55e7c250b5",
+      "resolved": "https://www.festivalnacionalrobotica.pt/2027"
+    },
+    {
+      "name": "mfr_tickets",
+      "url": "https://makerfairerome.eu/biglietti/",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "web_read_primary": [
+    {
+      "url": "https://makerfairerome.eu/en/tickets/",
+      "claim": "Tickets2026/under4/Family price and times"
+    },
+    {
+      "url": "https://lisboagamesweek.pt/visitar/",
+      "claim": "2026 days/hours and school ticket group restrictions"
+    },
+    {
+      "url": "https://makerfairerome.eu/en/",
+      "claim": "Current robotics/AI/kids/games topics and organiser programme links"
+    }
+  ]
+}

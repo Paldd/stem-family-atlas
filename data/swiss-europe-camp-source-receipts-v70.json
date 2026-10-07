@@ -1,0 +1,212 @@
+{
+  "asof": "2026-10-05",
+  "version": 70,
+  "scope": "Official source pages and PDFs, plus visible CLL DOM and HIF image. No forms, messages, subscriptions, bookings or payments. HTTP200 is different from usable programme evidence and actual intake.",
+  "http_attempts": 18,
+  "http200": 16,
+  "visible_browser_bodies": 3,
+  "visual_official_schedule": 1,
+  "pdfs_visually_reviewed": 2,
+  "items": [
+    {
+      "key": "haut-home",
+      "url": "https://haut-lac.ch/camps/",
+      "final_url": "https://haut-lac.ch/camps/",
+      "status": 200,
+      "bytes": 1455962,
+      "sha256": "953bc9086d89cf5c03a6facf7982b6adaa5c55a38afff5a593bdfbf76b2e868e",
+      "document_verified": true
+    },
+    {
+      "key": "haut-prices",
+      "url": "https://haut-lac.ch/camps/prices-and-dates/",
+      "final_url": "https://haut-lac.ch/camps/prices-and-dates/",
+      "status": 200,
+      "bytes": 1238040,
+      "sha256": "6721f4e29023b62bd5f726c380017d429663a04e3296f7a824c3cbd6a8b22ffc",
+      "document_verified": true
+    },
+    {
+      "key": "haut-day",
+      "url": "https://haut-lac.ch/day-camps/",
+      "final_url": "https://haut-lac.ch/day-camps/",
+      "status": 200,
+      "bytes": 975553,
+      "sha256": "93d5f5231da321a03fc7cc0d821ceccfe4fce4d7e410564c733388b42cf58191",
+      "document_verified": true
+    },
+    {
+      "key": "haut-winter-ski",
+      "url": "https://haut-lac.ch/camps/ski-camp/",
+      "final_url": "https://haut-lac.ch/camps/ski-camp/",
+      "status": 200,
+      "bytes": 817690,
+      "sha256": "9ff13d29641d07f295e536731fa25b70673df3770b87c13d406af8cc762885cb",
+      "document_verified": true
+    },
+    {
+      "key": "haut-winter-junior",
+      "url": "https://haut-lac.ch/camps/junior-winter-camp/",
+      "final_url": "https://haut-lac.ch/camps/junior-winter-camp/",
+      "status": 200,
+      "bytes": 821234,
+      "sha256": "48224b534281b9ef72a60d5ff744b16acaf293afdf608379176535c813d2839f",
+      "document_verified": true
+    },
+    {
+      "key": "haut-winter-price",
+      "url": "https://haut-lac.ch/camps/winter-camp-dates-and-prices/",
+      "final_url": "https://haut-lac.ch/camps/winter-camp-dates-and-prices/",
+      "status": 200,
+      "bytes": 852613,
+      "sha256": "40fbcc37044decd34e97778068e7085974b7fdd066d4ccf12b3a8b46b09a096e",
+      "document_verified": true
+    },
+    {
+      "key": "haut-easter",
+      "url": "https://haut-lac.ch/camps/easter-day-camps/",
+      "final_url": "https://haut-lac.ch/camps/easter-day-camps/",
+      "status": 200,
+      "bytes": 894356,
+      "sha256": "334fad56bfcbd0c642e1fdcf0989fe4105c21cefeb1f108fd373699d678df579",
+      "document_verified": true
+    },
+    {
+      "key": "haut-easter-price",
+      "url": "https://haut-lac.ch/camps/spring-camp-dates-and-prices/",
+      "final_url": "https://haut-lac.ch/camps/spring-camp-dates-and-prices/",
+      "status": 200,
+      "bytes": 1011838,
+      "sha256": "80a340d8f1d4ca251224efc180fe7019f4dfc26fc86e1e660af959d01ee7c2ff",
+      "document_verified": true
+    },
+    {
+      "key": "haut-place",
+      "url": "https://haut-lac.ch/camps/location/",
+      "final_url": "https://haut-lac.ch/camps/location/",
+      "status": 200,
+      "bytes": 793084,
+      "sha256": "ce5e5d72aface3bfdfcc54c46ad58798ad91d45fe26b42c820fa8ce9f5e1e6a1",
+      "document_verified": true
+    },
+    {
+      "key": "hif-summer",
+      "url": "https://hif.ch/camps/summer-camp-2027/",
+      "final_url": "https://hif.ch/camps/summer-camp-2027/",
+      "status": 200,
+      "bytes": 362196,
+      "sha256": "b41758da7a7bc562c69de91aa0408ab7da3f98717fbd1cb90d0be53bfd8e67cf",
+      "document_verified": true
+    },
+    {
+      "key": "lemania-school",
+      "url": "https://www.lemania.ch/en/international-summer-camp-en/",
+      "final_url": "https://www.lemania.ch/en/international-summer-camp-en/",
+      "status": 200,
+      "bytes": 154747,
+      "sha256": "de414ddc0a10ca30da71cd9df5eed227b0c3d8e887feac7765a76d2a72ac91c8",
+      "document_verified": true
+    },
+    {
+      "key": "lemania-prices",
+      "url": "https://summercamp.ch/en/the-stay/",
+      "final_url": "https://summercamp.ch/en/the-stay/",
+      "status": 200,
+      "bytes": 280913,
+      "sha256": "dcea32619d59bd56fd4ad3bf1d2e5d723266772f698eb18f31614b01039945e8",
+      "document_verified": true
+    },
+    {
+      "key": "isb-summer",
+      "url": "https://www.isb.be/student-life/camps/summer-camps",
+      "final_url": "https://www.isb.be/student-life/camps/summer-camps",
+      "status": 200,
+      "bytes": 98586,
+      "sha256": "927e0ceb9f6be1476363c3b356ac1606b7e849dc00935624fa58856e7ea53c54",
+      "document_verified": true
+    },
+    {
+      "key": "haut-residential",
+      "url": "https://haut-lac.ch/residential-camps/",
+      "final_url": "https://haut-lac.ch/residential-camps/",
+      "status": 200,
+      "bytes": 1115557,
+      "sha256": "6c93359f3bee77d3968d923dc2e8884e7f5445158bee03e5ec8ad422021d1624",
+      "document_verified": true
+    },
+    {
+      "key": "haut-day-pdf",
+      "url": "https://haut-lac.ch/wp-content/uploads/2025/12/Camps2025-26-prices-daycamps.pdf",
+      "final_url": "https://haut-lac.ch/wp-content/uploads/2025/12/Camps2025-26-prices-daycamps.pdf",
+      "status": 200,
+      "bytes": 72455,
+      "sha256": "fca99a76790e748a836c20a0b2d2b52432d5dbcdae689c17028755a7df94b081",
+      "document_verified": true,
+      "visual_verified": true,
+      "document_year": "2025–26",
+      "not_a_2027_tariff": true
+    },
+    {
+      "key": "haut-sport-pdf",
+      "url": "https://6515779.fs1.hubspotusercontent-na1.net/hubfs/6515779/Summer%20Camps%202026/day%20camps%202026/Camps2026-price-specialist.pdf",
+      "final_url": "https://6515779.fs1.hubspotusercontent-na1.net/hubfs/6515779/Summer%20Camps%202026/day%20camps%202026/Camps2026-price-specialist.pdf",
+      "status": 200,
+      "bytes": 83722,
+      "sha256": "fe31efa2e0159c928121da5c943e89057d5ac809b15b1337f60f6f03fafc59a4",
+      "document_verified": true,
+      "visual_verified": true,
+      "document_year": 2026,
+      "not_a_2027_tariff": true
+    },
+    {
+      "key": "cll-isb",
+      "url": "https://www.cll.be/en/kids/brussels-holiday-camps/",
+      "error": "HTTP Error 403: Forbidden",
+      "document_verified": false
+    },
+    {
+      "key": "hif-schedule-http",
+      "url": "https://hif.ch/wp-content/uploads/2026/09/HIF-Summer-Camp-2027.jpg",
+      "error": "HTTP Error403 from direct download; subsequently opened and visually inspected in CUA",
+      "document_verified": false
+    },
+    {
+      "key": "cll-discoverers-visible",
+      "url": "https://www.cll.be/en/kids/brussels-holiday-camps/discoverers/",
+      "method": "CUA visible DOM",
+      "bytes": 3953,
+      "sha256": "1ca7c182668b2a1205e133121f3f5111e3488e3b99fabf159b6f56c3e4ce739c",
+      "document_verified": true
+    },
+    {
+      "key": "cll-explorers-visible",
+      "url": "https://www.cll.be/en/kids/brussels-holiday-camps/brussels-holiday-camps-explorers/",
+      "method": "CUA visible DOM",
+      "bytes": 4295,
+      "sha256": "46cb1d129338d9984075c19e59b064ded91dbe31f4c7fafce1d71407bbb47129",
+      "document_verified": true
+    },
+    {
+      "key": "cll-linked-search-visible",
+      "url": "https://shop.cll.be/en/shop?audience=K&searchtype=stages&locations%5B%5D=31&dates%5B%5D=1775512800000&dates%5B%5D=1787263200000&hours%5B%5D=12&hours%5B%5D=30&schoollevels%5B%5D=p1&schoollevels%5B%5D=p2&schoollevels%5B%5D=p3&prices%5B%5D=117&prices%5B%5D=299",
+      "method": "CUA visible DOM",
+      "bytes": 1048,
+      "sha256": "d677193515b20e1d84736b7d4b718f4e76f22878000931978233556872defc96",
+      "document_verified": true
+    },
+    {
+      "key": "hif-schedule-visible",
+      "url": "https://hif.ch/wp-content/uploads/2026/09/HIF-Summer-Camp-2027.jpg",
+      "method": "CUA visual inspection of official schedule image",
+      "bytes": 151221,
+      "sha256": "522fee8a916d87c273323cf6bdba8898f5d97c31fb299ee10cfcec2d14b44214",
+      "document_verified": true
+    }
+  ],
+  "limits": [
+    "CLL direct download403; two own age-specific pages successfully read in CUA.",
+    "CLL linked search empty with19Oct2026 filter does not establish worldwide operator availability.",
+    "HIF image HTTP403 but normal CUA navigation displayed the2027 plan, visually checked.",
+    "Older tariff PDFs retained as archives; not prices of2027."
+  ]
+}

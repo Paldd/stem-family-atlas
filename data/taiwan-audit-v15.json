@@ -1,0 +1,354 @@
+{
+  "version": 15,
+  "focus": {
+    "country": "Тайвань",
+    "iso": "TWN",
+    "checked": "2026-10-01",
+    "status": "partial",
+    "family": "Матвей — 2017, Оскар — 2020 год рождения. В 2027 году им исполняется 10 и 7 лет. Оба могут учиться на английском и испанском — подтверждено семьёй. Точные дни рождения и текущие классы пока неизвестны.",
+    "conclusion": "Найдены две будущие зимние STEM-программы с явным английским языком. Общий допуск иностранной команды для обоих детей пока не подтверждён. Календарь Тайваня остаётся частичным.",
+    "routes": [
+      {
+        "name": "Зима 2027 · лагерь и FIRST / MARC",
+        "detail": "The Grove: 25–29 января в Чжубэе. Затем можно рассмотреть переезд в Гаосюн на FLL Explore 30 января или MARC LOM 1 февраля. Возраст в лагере и иностранный конкурсный вход требуют подтверждения. Для LOM оба года рождения подходят; TM исключает Оскара. ERA: заявка и оплата до 22 октября, 09:59 по Коста-Рике.",
+        "ids": [
+          "L143",
+          "C033",
+          "C034",
+          "C035",
+          "C779"
+        ]
+      },
+      {
+        "name": "Матвей · полный день на английском",
+        "detail": "Expedition27: Тайбэй, 21 января — 3 февраля, десять будней. Рекомендуемые 8–12 лет подходят Матвею; Оскар младше диапазона. Английское обучение подходит обоим по сообщению семьи. Полный пакет пересекается с MARC 1 февраля в другом городе; иностранный приём и место в лагере ещё нужно подтвердить.",
+        "ids": [
+          "L142"
+        ]
+      },
+      {
+        "name": "Ближайшие конкурсы 2026 · Taoyuan / Taichung",
+        "detail": "TIRT: 7–8 ноября. Для Sumo и Open Car описан вход иностранных школьных команд, но дедлайны расходятся. TURBOT начинается с 7 лет: Оскар не подходит в ноябре 2026. Junior Botball: 13 декабря; младшие уровни есть, однако точный возраст, набор, язык и зарубежный вход ещё не установлены.",
+        "ids": [
+          "C036",
+          "C780",
+          "C781",
+          "C782",
+          "C783",
+          "C778"
+        ]
+      },
+      {
+        "name": "Семейные и профессиональные выставки",
+        "detail": "Maker Faire: 24–25 октября 2026, POPOP Taipei. Семейный вход подтверждён; бесплатность — младше 6 лет или рост ниже 115 см. Innotech: 14–16 октября 2027, детские правила следующего выпуска уточнить. Smart City: 16–19 марта 2027, Nangang Hall 2, детский пропуск неизвестен. Возрастные запреты TAIREX, TAIROS и Touch Taiwan сохранены.",
+        "ids": [
+          "E027",
+          "E129",
+          "E024",
+          "E020",
+          "E021",
+          "E022",
+          "E023",
+          "E117"
+        ]
+      },
+      {
+        "name": "Подготовка и дальнейшие сезоны",
+        "detail": "TYPA / TAS проверяются по классу, членству и иностранному паспорту; летние смены 2027 не подтверждены. У iROBO есть младшие треки, язык EN / ES неизвестен. GRG разделяет 7–9 и 10–12; путь WRO Taiwan предполагает местный школьный отбор. Даты 2026 не стали новым календарём 2027.",
+        "ids": [
+          "L144",
+          "L145",
+          "L146",
+          "L021",
+          "C784",
+          "C785",
+          "C786",
+          "C787",
+          "C788",
+          "C086"
+        ]
+      }
+    ],
+    "open_questions": [
+      "The Grove: возраст обоих детей, иностранный приём и поддержка без обязательного китайского.",
+      "ERA: иностранная команда, школа / класс, английская защита и право международной квоты.",
+      "TIRT: действующий дедлайн, последние CN / EN регламенты и эквивалент школьной справки.",
+      "TYPA / TAS: реальные смены 2027, английское преподавание и доступ туристической семьи.",
+      "Junior Botball: полный локальный регламент; GRG: даты, возрастное отсечение и конфликт AIMS.",
+      "Выставки: Kaohsiung Smart City 2027, AI EXPO 2027, детские правила COMPUTEX / Innotech 2027 и семейный вход на FRC."
+    ],
+    "language_result": "Английский подтверждён в двух конкретных зимних программах 2027 года. Испанский STEM-лагерь на Тайване в этом проходе не найден; это не доказывает отсутствие всех таких программ.",
+    "rejected_geographies": [
+      {
+        "name": "ENJOY AI · сайт тайваньского провайдера",
+        "actual_country": "Вьетнам",
+        "reason": "Hanoi, 22 августа 2026: зарубежный тур, прошедшее событие."
+      },
+      {
+        "name": "Borneo IRT · сайт тайваньского провайдера",
+        "actual_country": "Малайзия",
+        "reason": "Miri, 6–9 мая 2026: зарубежный тур, прошедшее событие."
+      },
+      {
+        "name": "NTHU IYRC 2026",
+        "actual_country": "США",
+        "reason": "Phoenix, июль 2026: не местное событие на Тайване."
+      }
+    ],
+    "learning_languages": [
+      "EN",
+      "ES"
+    ]
+  },
+  "added_ids": [
+    "C779",
+    "C778",
+    "C780",
+    "C781",
+    "C782",
+    "C783",
+    "C784",
+    "C785",
+    "C786",
+    "C787",
+    "C788",
+    "E129",
+    "L142",
+    "L143",
+    "L144",
+    "L145",
+    "L146"
+  ],
+  "updated_ids": [
+    "C033",
+    "C034",
+    "C035",
+    "C036",
+    "E024",
+    "E027",
+    "L139"
+  ],
+  "source_issues": [
+    {
+      "name": "TIRT2026 · conflicting registration versions",
+      "status": "На event page deadline 18.10.2026, в английском регламенте 25.09.2026 с оговоркой возможного изменения. Не установлен приоритет версий: активный набор подтвердить до покупки перелёта.",
+      "official_alternative": "https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68"
+    },
+    {
+      "name": "GRG Taiwan · AIMS age bands",
+      "status": "Противоречие местной страницы: 7–12 / 13–16 против Primary 9–12 / Secondary 12–17",
+      "official_alternative": "https://global-robotics-games-taiwan.github.io/"
+    },
+    {
+      "name": "Taiwan Innotech · mixed editions",
+      "status": "Homepage14–16Oct2027,но admissionchild≤12сродителемот2026. Venue/childpolicy2027нельзяавтоматическиперенести.",
+      "official_alternative": "https://www.inventaipei.com.tw/zh-tw/menu/9AE53DD53E13DB84D0636733C6861689/info.html"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.era.org.tw/main/2026-2027-first%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b3%bd%e8%87%ba%e7%81%a3%e9%81%b8%e6%8b%94%e8%b3%bd%e5%a0%b1%e5%90%8d%e6%ad%a5%e9%a9%9f%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/",
+      "title": "MARC Taiwan — LOM / TM",
+      "evidence": "Прочитан ERA v4: TM 2015–2019, 2–3 игрока, 01.02.2027, NT$1800; автономный этап до 30 секунд и управление до 90 секунд.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68",
+      "title": "TIRT 2026 — Lightweight Sumo, Elementary",
+      "evidence": "Прочитаны страница категории, 14-страничный EN регламент и 10-страничный EN spec: иностранные школы, максимум 3, Nov8, size / weight / 9V / автономность; конфликт срока сохранён.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://smartcity.org.tw/smartcity.php",
+      "title": "Smart City Summit & Expo 2027",
+      "evidence": "Прочитана первичная Smart City Expo page: 16–19.03.2027, Taipei Nangang Hall2, AI / resilient sustainable cities.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf",
+      "title": "FIRST Taiwan 2026–2027 · регламент v4",
+      "evidence": "Точные годы рождения и запрет двух MARC-дисциплин одному участнику.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://junior-botball-challenge-taiwan.github.io/",
+      "title": "Junior Botball Challenge Taiwan · Taichung · 2026",
+      "evidence": "Прочитана страница SPARK: 13.12.2026, площадка, две части дня, младшие уровни и документы отдельной папкой.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/ca28e72a-26a0-49fc-8bc6-8e26fac27c68/2026%20TIRT%20%E2%80%93%20Lightweight%20Sumo%20Robot%20Competition%20Robot%20Specifications.pdf",
+      "title": "TIRT Sumo · EN technical specifications",
+      "evidence": "Прочитаны 10 страниц: 15–25cm, 2500g, 9V, один controller, автономный ход, модульная основная конструкция.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/ca28e72a-26a0-49fc-8bc6-8e26fac27c68/2026TIRT-Lightweight%20Sumo%20Robots.pdf",
+      "title": "TIRT Sumo · EN competition regulations",
+      "evidence": "Международные школьные команды со справкой; conflicting September25 / October18 deadlines.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Registration/Event/6efc92ac-a3bb-4007-ae58-75839130189d",
+      "title": "TIRT 2026 · Autonomous Vehicle Maker · Open Elementary",
+      "evidence": "Прочитана первичная event page с точной дисциплиной, группой, Nov7/Nov8, площадкой и Oct18. Дополнительно прочитан связанный PDF правил.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Registration/Event/501f8579-ffbb-4d94-9ff5-bd11485ffc4a",
+      "title": "TIRT 2026 · TURBOT AI Smart Driving · Elementary L-1",
+      "evidence": "Прочитана первичная event page с точной дисциплиной, группой, Nov7/Nov8, площадкой и Oct18. Дополнительно прочитан связанный PDF правил.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Registration/Event/59738e20-8d39-4b38-b373-e30cb4be7d5e",
+      "title": "TIRT 2026 · Automation Shipping Challenge · J-2",
+      "evidence": "Прочитана первичная event page с точной дисциплиной, группой, Nov7/Nov8, площадкой и Oct18. Дополнительно прочитан связанный PDF правил.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Registration/Event/54876e6e-aeb1-4d8a-9d9a-201ec0419d8b",
+      "title": "TIRT 2026 · Robot Soccer · Elementary T-1",
+      "evidence": "Прочитана первичная event page с точной дисциплиной, группой, Nov7/Nov8, площадкой и Oct18. Полный technical PDF ещё требует проверки.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/6efc92ac-a3bb-4007-ae58-75839130189d/2026TIRT-Autonomous%20Vehicle%20Maker%20Challenge%20-%20Open%20Group%20-%20Elementary%20School%20Student%20Group.pdf",
+      "title": "TIRT Open Car · EN Elementary rules",
+      "evidence": "Прочитан связанный первичный PDF: состав команды, оснащение и правила именно этой дисциплины.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/501f8579-ffbb-4d94-9ff5-bd11485ffc4a/2026TIRT_AI%E8%BB%8A%E8%BC%9B%E6%8C%91%E6%88%B0%E8%B3%BDV07.pdf",
+      "title": "TIRT TURBOT · V07 rules",
+      "evidence": "Прочитан связанный первичный PDF: состав команды, оснащение и правила именно этой дисциплины.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.tirtpointsrace.org/Files/Docs/EventDoc/59738e20-8d39-4b38-b373-e30cb4be7d5e/2026TIRT-Automation%20Shipping%20Challenge%20%E2%80%93%20Team%20Competition.pdf",
+      "title": "TIRT Shipping · EN team rules",
+      "evidence": "Прочитан связанный первичный PDF: состав команды, оснащение и правила именно этой дисциплины.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://global-robotics-games-taiwan.github.io/",
+      "title": "GRG Taiwan · Mission Robot 1 · следующий местный этап",
+      "evidence": "Прочитаны локальная страница SPARK и сайт глобального GRG: отдельные младшие категории и путь в Singapore; точных локальных дат нет.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://global-robotics-games-taiwan.github.io/rules/mr1_rules_en.html",
+      "title": "GRG MR1: EN task rules",
+      "evidence": "Прочитаны задачи и SPIKE Essential / WeDo; локальный возраст не заменяет международного отсечения.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://global-robotics-games-taiwan.github.io/rules/aims_rules_en.html",
+      "title": "GRG AIMS: EN task rules",
+      "evidence": "Прочитаны vision / picking tasks; конфликт возраста overview остаётся.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.globalroboticsgames.com/",
+      "title": "GRG international organizer",
+      "evidence": "Прочитана первичная глобальная страница: инициатива Developing Innovative Youth, международное событие Singapore; не подтверждает Taiwan dates / квоту иностранца.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.era.org.tw/main/category/game/game-wro/wro-2026/",
+      "title": "WRO Taiwan · локальные отборы / national route · следующий сезон",
+      "evidence": "Прочитан национальный план v3.1 June18,2026, все 5 страниц: пути отбора, birth bands, команды2–3, включение foreign schools и обязательное Taiwan представительство победителей.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.era.org.tw/main/wp-content/uploads/2026/06/2026%E5%B9%B4WRO%E5%9C%8B%E9%9A%9B%E5%A5%A7%E6%9E%97%E5%8C%B9%E4%BA%9E%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%9A%A8MARC-AI%E5%85%A8%E5%9C%8B%E7%B8%BD%E6%B1%BA%E8%B3%BD%E8%A8%88%E5%8A%83%E6%9B%B8_v3.1.pdf",
+      "title": "WRO Taiwan · national plan 2026 v3.1",
+      "evidence": "Birth2014–2018 для Elementary2026; иностранные школы Taiwan,2–3, местный отбор и национальное представительство.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.inventaipei.com.tw/zh-tw/index.html",
+      "title": "Taiwan Innotech Expo · 2027",
+      "evidence": "Прочитаны главная с отдельным приглашением14–16.10.2027 и admission page2026: public visitors, age≤12 with parent, professional foreign route отдельно.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.inventaipei.com.tw/zh-tw/menu/9AE53DD53E13DB84D0636733C6861689/info.html",
+      "title": "Taiwan Innotech Expo · admission2026",
+      "evidence": "Общий публичный вход; age≤12сродителем. Подтверждение2027 требуется.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://steamsquad.io/en/camps/expedition27",
+      "title": "STEAM SQUAD · Expedition27 · English winter camp",
+      "evidence": "Прочитана конкретная Expedition27:21Jan–3Feb2027,10weekdays,EN,recommended8–12,Beitou,09–17:30,тариф и две контрольные даты.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+      "title": "The Grove · Ready to Soar · English STEM winter2027",
+      "evidence": "Прочитаны2027landingpage и связанная публичная форма без заполнения:25–29Jan,09–12,8детей,ENосновной/Chineseпомощь,два тарифа и депозит.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+      "title": "TYPA · Summer Tech Camp · следующий набор",
+      "evidence": "Прочитаны конкретнаяSummerTechpage,brochure2026 и registrationpolicy:группы по классу,прошедшие смены,foreignpassport/membership. Будущих дней2027 и explicitENinstruction не найдено.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/registration-information/",
+      "title": "TYPA · membership / passport rules",
+      "evidence": "Прочитан соответствующийcourse/registrationpage;language instruction остаётся неизвестным.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.irobo.com.tw/summer-camp",
+      "title": "iROBO 光點創意 · AI / LEGO holiday camps · следующий набор",
+      "evidence": "Прочитан текущийSummerCampprimaryHTML:все2026смены очные,Banqiao/Zhongke,младшиеgrades1–3,AI/programming/LEGO иentryFAQ;2027не датировано.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/activities/technology/",
+      "title": "TYPA · регулярная подготовка LEGO / Young Inventors / VEXIQ",
+      "evidence": "Прочитаны TYPAtechnology и отдельныеESM/SPMBasic/YoungInventors/VEXIQcoursepages:строгиеclassbands,тарифы,consent,ноутбук иweeklyschedule.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/activities/technology/lego-esm-early-simple-machines/",
+      "title": "TYPA ESM · Kindergarten",
+      "evidence": "Прочитан соответствующийcourse/registrationpage;language instruction остаётся неизвестным.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/activities/technology/lego-spm-basic-simple-powered-machines/",
+      "title": "TYPA SPM Basic · Grades1–3",
+      "evidence": "Прочитан соответствующийcourse/registrationpage;language instruction остаётся неизвестным.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/activities/technology/young-inventors/",
+      "title": "TYPA Young Inventors · levels1–3",
+      "evidence": "Прочитан соответствующийcourse/registrationpage;language instruction остаётся неизвестным.",
+      "checked": "2026-10-01"
+    },
+    {
+      "url": "https://www.typa.org.tw/course/activities/technology/lego-robot-challenge/",
+      "title": "TYPA VEXIQ · Grades4–8 / instructorconsent",
+      "evidence": "Прочитан соответствующийcourse/registrationpage;language instruction остаётся неизвестным.",
+      "checked": "2026-10-01"
+    }
+  ],
+  "additional_rejected": [
+    {
+      "name": "TCS MapleTechQuest2026",
+      "reason": "ENесть,ноGrades5–7и3–7Aug2026прошли;future2027необъявлен.",
+      "source": "https://tcs.ntpc.edu.tw/student-life/tcs-2026-summer-camp/tcsmapletechquest"
+    },
+    {
+      "name": "TIRT Humanoid Korfball",
+      "reason": "C-3HighSchool/Collegeнедетскаякатегория;футболT-1имеетдругуюстраницу.",
+      "source": "https://www.tirtpointsrace.org/Registration/Event/db5f96f1-4b4d-43a3-a219-b295e07b3c00"
+    }
+  ]
+}

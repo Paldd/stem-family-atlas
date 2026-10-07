@@ -1,0 +1,285 @@
+{
+  "version": 44,
+  "checked": "2026-10-02",
+  "scope": "CHE/ESP/FRA practical family pass",
+  "fetches": [
+    {
+      "name": "tecno_junior",
+      "url": "https://tecnoeduka.es/extraescolar-robotica-programacion-1-2-primaria/",
+      "status": 200,
+      "resolved": "https://tecnoeduka.es/extraescolar-robotica-programacion-1-2-primaria/",
+      "mime": "text/html",
+      "bytes": 208258,
+      "sha256": "4f01f1af2fce5026c15651217b6311cd1db7e2cafa714179c6b15a10a02a4388"
+    },
+    {
+      "name": "tecno_primary",
+      "url": "https://tecnoeduka.es/extraescolar-robotica-programacion-3-4-primaria/",
+      "status": 200,
+      "resolved": "https://tecnoeduka.es/extraescolar-robotica-programacion-3-4-primaria/",
+      "mime": "text/html",
+      "bytes": 207976,
+      "sha256": "599902ff27c3d1a67928ca73ff0aef9df69b1ef8cb65c2c231a9d1e84fd7c247"
+    },
+    {
+      "name": "tecno_index",
+      "url": "https://tecnoeduka.es/actividad-extraescolar-de-robotica/",
+      "status": 200,
+      "resolved": "https://tecnoeduka.es/actividad-extraescolar-de-robotica/",
+      "mime": "text/html",
+      "bytes": 169131,
+      "sha256": "44f5d994bbcaaf1646750b8b585b26bc7cc11bd37cf9e36167e3c459cc7536f0"
+    },
+    {
+      "name": "tecno_fll",
+      "url": "https://tecnoeduka.es/first-lego-league/",
+      "status": 200,
+      "resolved": "https://tecnoeduka.es/first-lego-league/",
+      "mime": "text/html",
+      "bytes": 175016,
+      "sha256": "d2adef97b62bc1f8065380a88f4a4e4b37306ba7abd4bacbd7a1891b3375f74e"
+    },
+    {
+      "name": "tecno_winter",
+      "url": "https://tecnoeduka.es/navidad/",
+      "status": 200,
+      "resolved": "https://tecnoeduka.es/navidad/",
+      "mime": "text/html",
+      "bytes": 182857,
+      "sha256": "32173c1055c96ecc22badc5c6224fe695322fecb999155e79777e605ef947552"
+    },
+    {
+      "name": "first_transition",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "status": 200,
+      "resolved": "https://www.firstinspires.org/programs/k-8",
+      "mime": "text/html",
+      "bytes": 139712,
+      "sha256": "ce5f6c4227ea6a81639c25b6db103d8e239b1b0343428010d80b55a9d121cace"
+    },
+    {
+      "name": "first_end",
+      "url": "https://community.firstinspires.org/first-lego-education-partnership-update",
+      "status": 200,
+      "resolved": "https://community.firstinspires.org/first-lego-education-partnership-update",
+      "mime": "text/html",
+      "bytes": 30507,
+      "sha256": "893de6f4572404953e6737ab7c91327980e89577fef963c4825ccfdd2150aab8"
+    },
+    {
+      "name": "swiss_fll",
+      "url": "https://www.first-lego-league.org/en/faq",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/faq",
+      "mime": "text/html",
+      "bytes": 74481,
+      "sha256": "7670d22560fba8b47dbe955139a2440cc818ed1a066406266debc9c6e289d22b"
+    },
+    {
+      "name": "spain_wro",
+      "url": "https://www.wroboto.es/faqs/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/faqs/",
+      "mime": "text/html",
+      "bytes": 115000,
+      "sha256": "4ce34b700976bb4b014ae1d7fb7a720ec2738e18e9619b90b684fa4d6519f7ac"
+    },
+    {
+      "name": "spain_fll",
+      "url": "https://firstlegoleague.soy/inscripciones-bioglow/",
+      "status": 200,
+      "resolved": "https://firstlegoleague.soy/inscripciones-bioglow/",
+      "mime": "text/html",
+      "bytes": 271981,
+      "sha256": "3a02306f6db57a4836bb8c0a61bbd3fe216cc938865542480960ca6c5d23f75c"
+    },
+    {
+      "name": "isl_home",
+      "url": "https://www.isl.ch/",
+      "status": 200,
+      "resolved": "https://www.isl.ch/",
+      "mime": "text/html",
+      "bytes": 116687,
+      "sha256": "0e5abeb0374e545e1aba373af84675a0f894a07adcd48eb33459a9be0c7eb415"
+    },
+    {
+      "name": "isl_primary",
+      "url": "https://www.isl.ch/learn/primary-school/",
+      "status": 200,
+      "resolved": "https://www.isl.ch/learn/primary-school/",
+      "mime": "text/html",
+      "bytes": 101120,
+      "sha256": "e117947abfc84a4f488e78b188570bc136ba5d545e6d1095a07dc063210c76d8"
+    },
+    {
+      "name": "isl_bilingual",
+      "url": "https://www.isl.ch/learn/primary-school/bilingual-programme",
+      "status": 200,
+      "resolved": "https://www.isl.ch/learn/primary-school/bilingual-programme",
+      "mime": "text/html",
+      "bytes": 87527,
+      "sha256": "dcd4e11e1c12d044be699ade4bd4cc868dfcb54b758d9cb1407e36025d001827"
+    },
+    {
+      "name": "isl_clubs",
+      "url": "https://www.isl.ch/activities-sport/club-and-activities",
+      "status": 200,
+      "resolved": "https://www.isl.ch/activities-sport/club-and-activities",
+      "mime": "text/html",
+      "bytes": 92705,
+      "sha256": "e96d6e4e5f64a11c49d28744b62a22ac0ccf6f912b5eab7688ef49287d54b6e8"
+    },
+    {
+      "name": "isl_hub",
+      "url": "https://www.isl.ch/the-impact-hub",
+      "status": 200,
+      "resolved": "https://www.isl.ch/the-impact-hub",
+      "mime": "text/html",
+      "bytes": 107881,
+      "sha256": "ba9aec4527303fa909848ae61e270a98e1b0d2a730293e62f3ef6f663842a7e2"
+    },
+    {
+      "name": "isl_results",
+      "url": "https://www.isl.ch/blog/isl-represents-switzerland-at-2024-vex-robotics-world-championships",
+      "status": 200,
+      "resolved": "https://www.isl.ch/blog/isl-represents-switzerland-at-2024-vex-robotics-world-championships",
+      "mime": "text/html",
+      "bytes": 126948,
+      "sha256": "2a7be3cb41c622c9c8ca8f243b9f8832a3aca305842f292463d4e1c60c76163b"
+    },
+    {
+      "name": "isl_fees",
+      "url": "https://www.isl.ch/admissions/school-fees/",
+      "status": 200,
+      "resolved": "https://www.isl.ch/admissions/school-fees/",
+      "mime": "text/html",
+      "bytes": 81950,
+      "sha256": "b78b95e776d024c33de87ffddd4207deeb2d2d7e85acb385ec1064441f4843c9"
+    },
+    {
+      "name": "village_current",
+      "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "status": 200,
+      "resolved": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "mime": "text/html",
+      "bytes": 31383,
+      "sha256": "1dac1949b24c4ecf9bb1edeee701e3f14c286ab0f909aa65b5b71e62a73634dd"
+    },
+    {
+      "name": "village_legacy",
+      "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland?page=74",
+      "status": 200,
+      "resolved": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland?page=74",
+      "mime": "text/html",
+      "bytes": 31383,
+      "sha256": "1dac1949b24c4ecf9bb1edeee701e3f14c286ab0f909aa65b5b71e62a73634dd"
+    },
+    {
+      "name": "toulouse_tech",
+      "url": "https://metropole.toulouse.fr/agenda/festival-des-technologies",
+      "status": 200,
+      "resolved": "https://metropole.toulouse.fr/agenda/festival-des-technologies",
+      "mime": "text/html",
+      "bytes": 96512,
+      "sha256": "fbbe184217124f3f98a897a0f36ec1965b0b74578de02f942f7ee5cc3cd98b0f"
+    },
+    {
+      "name": "toulouse_lights",
+      "url": "https://quaidessavoirs.toulouse-metropole.fr/festival-lumieres-sur-le-quai/lumieres-sur-le-quai-2026/",
+      "status": 200,
+      "resolved": "https://quaidessavoirs.toulouse-metropole.fr/festival-lumieres-sur-le-quai/lumieres-sur-le-quai-2026/",
+      "mime": "text/html",
+      "bytes": 296119,
+      "sha256": "8b23ecab3d6d1d33481de4d3d039a3e052e88e8b2c96b44b9b5a557501b64fce"
+    },
+    {
+      "name": "cite_workshops",
+      "url": "https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique",
+      "status": 200,
+      "resolved": "https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/bibliotheque/thematiques/enfants-familles/activites/ateliers-robotique",
+      "mime": "text/html",
+      "bytes": 58763,
+      "sha256": "edcfda5715aa0a62be1b942142668b1caf820dc9f1f4c82a559c4f1d8ae432ae"
+    },
+    {
+      "name": "techspark_lego",
+      "url": "https://online.techsparkacademy.ch/robotics-course/",
+      "status": 200,
+      "resolved": "https://online.techsparkacademy.ch/robotics-course/",
+      "mime": "text/html",
+      "bytes": 391673,
+      "sha256": "b58cc705fac3930b31d9ff7d5a163c39617d73b48c5d778cd901bf09657608d8"
+    },
+    {
+      "name": "techspark_lausanne",
+      "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "status": 200,
+      "resolved": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "mime": "text/html",
+      "bytes": 414270,
+      "sha256": "fb348f7422de8baedefec3f9ec17c5621a30b1d4f9567fa9914471426507df7b"
+    },
+    {
+      "name": "techspark_geneva",
+      "url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "status": 200,
+      "resolved": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "mime": "text/html",
+      "bytes": 377064,
+      "sha256": "768d53684fcd415774b36a6077a0f716b5970102eb993cb36af05a5a44038e21"
+    },
+    {
+      "name": "techspark_zurich",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "resolved": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "mime": "text/html",
+      "bytes": 467889,
+      "sha256": "16d68317c87b96f19bbcd420864fafd0e13abb69554d2fc3efcf25c52f50e7c6"
+    },
+    {
+      "name": "france_discovery",
+      "url": "https://www.robocup.fr/onstage",
+      "status": 200,
+      "resolved": "https://www.robocup.fr/onstage",
+      "mime": "text/html",
+      "bytes": 920521,
+      "sha256": "9b62b98169f714463019df03f76ad949f102c633c4f531dbe132400d197b3153"
+    },
+    {
+      "name": "france_fll",
+      "url": "https://firstlegoleaguefrance.fr/",
+      "status": 200,
+      "resolved": "https://firstlegoleaguefrance.fr/",
+      "mime": "text/html",
+      "bytes": 143847,
+      "sha256": "ae9755e2d43348783ffb0c94cff4ee4467b656eee6dd21f949d28996068facd5"
+    },
+    {
+      "name": "isl_fee_pdf",
+      "url": "https://www.isl.ch/hubfs/School-Fees-2026-2027.pdf",
+      "status": 200,
+      "resolved": "https://www.isl.ch/hubfs/School-Fees-2026-2027.pdf",
+      "mime": "application/pdf",
+      "bytes": 128767,
+      "sha256": "9d2ad5db7f7c1c9bc3cc01f90813155069adb841cc5f2da3f3148ed5fee2d6a4"
+    },
+    {
+      "name": "village_booklet",
+      "url": "https://www.villagecamps.com/pdf/Campinformation_Leysin.pdf?v=1073507444",
+      "status": 200,
+      "resolved": "https://www.villagecamps.com/pdf/Campinformation_Leysin.pdf?v=1073507444",
+      "mime": "application/pdf",
+      "bytes": 10832274,
+      "sha256": "b330f0ae9f89765c7373f9332f09214075bae4dc1af2e93201ef6a2e16cf3bd2"
+    }
+  ],
+  "conflicts": [
+    "Village cached web view showed 2026; current direct HTTP and canonical page show 2027.",
+    "Village linked parent booklet metadata names 2026; not used as full 2027 technical-language conditions.",
+    "TechSpark generic LEGO course vs dated session course lists.",
+    "Tecnoeduka FLL cached overview 2025/26 vs current body 2026/27; birth cutoff 2014 persists."
+  ],
+  "pdf_checks": "ISL two pages visually checked; Village booklet cover and relevant text read.",
+  "remaining": "Exact birthdays/classes, technical language, junior team places, foreign quotas and world coverage."
+}

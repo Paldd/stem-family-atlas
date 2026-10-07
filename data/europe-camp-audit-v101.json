@@ -1,0 +1,131 @@
+{
+  "asof": "2026-10-05",
+  "version": 101,
+  "status": "progress",
+  "scope": "Selected international family boarding/general English camps Italy/UK and French all-English holiday weeks; repeated Spain annualfee/date gaps. NotwholeEurope/world.",
+  "new_dossiers": 9,
+  "new_operator_groups": 6,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "sancelso-general",
+    "socks-general",
+    "englishsport-cavalese",
+    "englishsport-oclini",
+    "aosr-general",
+    "xuk-activity",
+    "bede-little",
+    "bede-future",
+    "canopee-holidays"
+  ],
+  "new_calendar_rows": 25,
+  "new_family_session_ics": 23,
+  "new_family_ics": 23,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 0,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 707,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1111,
+  "country_dossier_counts": {
+    "CHE": 99,
+    "FRA": 59,
+    "ESP": 62,
+    "ITA": 6,
+    "GBR": 8,
+    "TWN": 46,
+    "SGP": 78,
+    "JPN": 45,
+    "KOR": 16,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Италия",
+      "iso": "ITA",
+      "provider": "v101 · младшие пансионы и новые сезоны",
+      "detail": "Sancelso6–17 имеет mandatorysport+60/120, внешниеITинструкторы сENпереводом иархив2026. Socks7+ толькообъявилJan15registration2027, безсмен/прайса. AOSR2027workinprogress/March, closedintakeнеsoldout. Cavaleseперваястрока27–02luglio2027 неявностартуетвпредыдущеммесяце; точныйICSнерассчитан.",
+      "next_action": "Новые2027 invoices/terms/dates/places, иностранныйприём/страховка/экипировка, camp-lifeвсехспортблоков иDOB/готовностьмладшегокночёвке.",
+      "url": "https://www.internationalcamp.it/en/faqs/"
+    },
+    {
+      "country": "Великобритания",
+      "iso": "GBR",
+      "provider": "v101 · Bede2027 против старых полей",
+      "detail": "Новый2027summary:Little5–11day/6–11board,rooms2–5,1775/1125;Future8–13 теперьBurgessHill/rooms1–4. Futureweek6(8–14Aug)отмеченаPDF,webendingAug7;неICS. Terms2027cancel29–55,FAQ29–41устарел. СтарыйWindlesham2026ratio/rooms/1595неперенесены нановыйкампус.",
+      "next_action": "ПодтвердитьFutureпоследнююнеделю/ratio/Burgesssyllabus/места/academies/invoice; сверитьdayattendance vsboardingwindow.",
+      "url": "https://www.bedessummerschool.org/bedes-live-2022/assets/File/2027/Bedes2027_CourseSummary_PRINT.pdf"
+    },
+    {
+      "country": "Великобритания",
+      "iso": "GBR",
+      "provider": "v101 · XUK2027 dates /2026 prices and cancellation",
+      "detail": "Даты2027источниковые, ноPrices/Packages2026 иPDFсотменойMay–July2026. ENstaffcamplifeподтверждён;Activity/Excel/Englishразныеутренниепрограммы. Residential8–17, Day3–6/7–12вЛондоне — другаяплощадка. Owninsuranceобязательна, laundry6/bag, extras/transferотдельно.",
+      "next_action": "Актуальный2027тариф/deposit/terms/refund/ratio/places; electivesиENlessonsпроверятькакдругиепрограммы.",
+      "url": "https://www.xukcamps.com/residential-camp/dates-prices/"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v101 · La Canopée: младшие/старшие темы",
+      "detail": "All-English/externalchildren/lunch/09–17/6точныхокон2026–27 подтверждены. Overviewстаршие6–11, detailedthemes6–10;выше10необещаем. Smallgroupsбезчисловогоratio, точныйадрес/invoice/refund ещёнеустановлены.",
+      "next_action": "DOB/группа/upperage/площадка/ratio/инвойс/места/страховка/отмена; детальныйscienceblockнеподменятьrobotics.",
+      "url": "https://www.ecolelacanopee.fr/?p=1494&lang=en"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v101 · Lacunza / Chester: повторная проверка без выдуманных тарифов",
+      "detail": "Lacunzaновая1526страница2027 всёещёпоказываетplaceholder-цены«-€»/«-€/semana»,seasonJun20–Aug8, неиндивидуальныенедели. ChesterEN2027title8–17,вboardingsection8–18;datesveryshortly/PDFfeesпо-прежнему2026. Обапрежниедосьеоставленыбезновыхцен/смен,конфликтнеобъявленразрешённым.",
+      "next_action": "Новый2027fullinvoice/конкретныеweeks/minboardingage/foreignintake/terms; подтверждение8–17vs8–18невыводитьизверхнегозаголовка.",
+      "url": "https://www.lacunza.es/en/node/1526"
+    }
+  ],
+  "calendar": {
+    "events": 3255,
+    "learning_records": 1924,
+    "family_ics": 2514,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1461,
+    "reused_legacy_events": 69,
+    "season_windows": 42
+  },
+  "primary_retrievals": {
+    "direct_attempts": 34,
+    "http200": 33,
+    "retrieval_errors": 1,
+    "javascript_shells_without_programme_body": 0,
+    "unique_actual_pdfs": 6,
+    "selected_visual_page_checks": 8
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "9newprogramme dossiers/6operatorgroups:5Italy,3UK,1France. Prior698profiles/3230events retained unchanged;707dossiers/37countries/1111dossierURLs/24newURLs. Counts areprogrammes, notindependentworldranking.",
+    "25newexactdate windows:2Cavalese,2Oclini,5XUK,6BedeLittle,4BedeFuture,6Canopée.23newfamilyplanningICS:2Oclini12+excludedforbothcurrentages. NoSocksregistrationdateasdeadline/cohort; noSancelsoorAOSRarchived2026futurecohort.",
+    "Bedeactual2027PDF5day6board/1775board1125day/Little2–5rooms/FuturenewBurgess1–4rooms/class14.800/400depositinprice,balance56days,cancel29–55vsFAQ29–41. FutureAug8–14PDFvswebendingAug7 excluded; oldWindlesham1595/ratio/roomsnotpromised.",
+    "Sancelso6–17ENcamplife withItalianexternalinstructors/ENtranslation,1:10plusyoungintern,4beds/sleepingbag/healthdocuments.2026mandatorysportbase855/1670;withsiblings1670/3280familybeforetravel/pocketmoney. New2027invoice/contractunknown.",
+    "Socks7–10/10–14/musiccreativeENresidential,Jan15registration2027butnosessions/fees. AOSR3–15ENday/openvisitingforeignfamilies/codingrocketsmaker/250450650+175busarchive2026;2027Marchdetailsandclosedintake notsoldout.",
+    "Cavalese10–14/680board340day/2exact2027dates;first27–02luglioambiguousstartmonthexcluded. Oclini12–16/780/2exactdates/fullENtypicalPDF. EnglandScotlandtimetablecolumnsnotcountries;typicalPDFyearunknownnotexact2027syllabus.",
+    "XUK8–17five2027dates/ENstaffcampLife;2026price1160andtermscalendarretainedasarchive. Insuranceextra/laundry6/bag/transfer99way/options separate. Activity/Excel/English andyoungerLondonDay differentprogrammes.",
+    "Canopéesix2026–27daywindows09–17/Englishownteachers/openexternal/lunch5155days2062days;1030or412two. Overview6–11vsthemes6–10 remainsupperagegap. Noinventedrobotics/boarding.",
+    "34directattempts/33HTTP200/oneDNSfailurelaterresolved,6actualPDFs/8selectedvisualpages. Lacunza2027feeplaceholders/Chester8–17vs8–18+2026feePDF unchanged; VillageFranceonlyarchive notnewcamp.",
+    "Independentold-recordpreservation/JSONSQLiteCSVMDICS/bridgeidempotence/interactivefilters/staticfilelimit/JSsyntax checks. RawHTML/PDF/rendersprivate; selectedclauseparaphrases/hashreceipts public. Fullworldscope/prioritycountries active,0fullyaudited; noapplication/consent/booking/payment/message/account."
+  ],
+  "next_priority": "Continue fullworld2026–27 general/thematic/STEM camps and boarding/day/family EN/ES/RU. Prioritize CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatinAmerica with foreignindividualintake/DOB-grade/languageofactualteaching/fullinvoice/contract/gear/ratio/places. NewItalianseasons, Burgess2027lastweek/XUK2027contracts remainunresolved. All leagues/competitions/exhibitions/familyadmission/schools/results5–10years/familyroutes stay fullscope; no countryfullyaudited."
+}

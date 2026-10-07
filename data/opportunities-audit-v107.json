@@ -1,0 +1,99 @@
+{
+  "version": 107,
+  "asof": "2026-10-05",
+  "status": "progress",
+  "scope": "Selected2026–27 competition/category/visitor opportunities; not completecamp/country/world audit.",
+  "new_event_ids": [
+    "C1145",
+    "C1146",
+    "C1147",
+    "C1148",
+    "C1149",
+    "C1150",
+    "C1151",
+    "C1152",
+    "C1153",
+    "C1154",
+    "E189"
+  ],
+  "updated_event_ids": [
+    "C037",
+    "C053",
+    "C082",
+    "C083",
+    "C087"
+  ],
+  "new_competitions": 10,
+  "new_visitor_events": 1,
+  "new_league_profiles": 1,
+  "new_family_ics": 2,
+  "new_deadline_ics": 1,
+  "new_exhibition_ics": 0,
+  "calendar": {
+    "events": 3348,
+    "competitions": 1153,
+    "visitor_events": 189,
+    "camp_learning_records": 2006,
+    "family_ics": 2593,
+    "exhibition_ics": 104,
+    "league_profiles": 141
+  },
+  "programme_dossiers": 778,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1215,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "primary_retrievals": {
+    "attempts": 28,
+    "http200": 25,
+    "selected_html_bodies": 22,
+    "non_specific_shells": 1,
+    "actual_pdfs": 2,
+    "retrieval_errors": 3,
+    "selected_visual_page_checks": 7
+  },
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "10newcompetition categories/1newvisitor race/5updatedoldcards/1newleague profile. Existing3337cards preserved except specified5; all778campdossiers/2006learningcards/schools/results/routes unchanged.",
+    "RoboRAVE Oscar2020 maximum7 throughout2027: aMAZE8–15 excluded; otherdiscipline routes not automatically excluded. ExistingPV/Taiwan/Beijing/Guanajuato/Houston reused;Guanajuato tentative/no fabricatedICS.",
+    "WRL Korea Feb2027TBA/7category cards;Othello≤12/MRCSoccerJunior5–13/grade-basedRoboRAVE/Relaycomingsoon. EN/ESrules not proven judge/teachinglanguage; no independenttop-worldranking.",
+    "WAICY3additionaltracks/one sharedNov29 2026 17ET deadlineICS=22UTC/16CostaRica; separate2026deadline clauses verified. Showcaseold2025/final4–6vs5–7conflicts retained; no fabricatedfinaldaycalendar. LLMolder-target/alllevels/noagegroups visible.",
+    "Robofest ownhost confirmsMay28–31 vs newerinternationalV1stillTENTATIVE; dates remainblank/Explorergrade1–4 separateGamegrade5–8. Nationalqualifying routes not automaticopenWorld admission.",
+    "BeijingrobotmarathonApr18 2027 visitorcandidate only; childtickets/priceunknown. Not countedas majorcompanyexpo;104expoICS unchanged.",
+    "28retrievalattempts/25actualbodies:23HTMLincluding1nonspecificshell and2PDFs/3originalerrors. FailedPDFcert attempt retained and separateordinaryTLS curlsuccess. Selected7PDFpages visually checked, no entirecountry/website audit.",
+    "FullSQLite andJSONZIP verify original bytes/hash/README; no records removed for static filelimits. DataJS/world scope preserved;0fullyauditedcountries."
+  ],
+  "next_priority": "Continue deep top general/thematic/STEM camps2026–27/day/boarding/family EN/ES/RU in CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm. Read actual programmes/full invoices/nightcare/foreign intake/teacher language/refunds/gear/current places and expose child-specific shortlist. Balance leagues/competitions/exhibitions and permanent schools/results5–10years/family routes; resolve WRLdates/finalrules, WAICYyear/finals, Robofesthost-vs-internationaldate conflict. All world requirements stay active;0fullyauditedcountries; never truncate records tofitstaticlimits.",
+  "complete_database_download": {
+    "schema_version": 1,
+    "download": "STEM_database.zip",
+    "archive_bytes": 3017639,
+    "archive_sha256": "ac123b5972604ed99cceccc148017784d5159cc5d36bbfc97ad6386cc7a55203",
+    "sqlite_entry": "STEM_database.sqlite",
+    "sqlite_bytes": 26396672,
+    "sqlite_sha256": "d367b3a318b1b62bac6e6a45ccd89e4f9d7712715dade137bf83d36369161735",
+    "raw_download_available": false,
+    "complete_database": true,
+    "instructions": "Распакуйте архив: внутри полная база SQLite и README. Сжатие без удаления записей."
+  },
+  "complete_json_download": {
+    "schema_version": 1,
+    "download": "STEM_database_json.zip",
+    "archive_bytes": 2275391,
+    "archive_sha256": "e0be79f5d462a0c2e36dc9a12a324b3708043c397ddc92bdb4b07ab8edb13b5a",
+    "json_entry": "STEM_database.json",
+    "json_bytes": 26177754,
+    "json_sha256": "d048f4478a82d799bfb04e86d85033c49f01a89f804aee85639ba519e0e64e0d",
+    "raw_download_available": true,
+    "complete_database": true,
+    "instructions": "Распакуйте ZIP: внутри полная база JSON и README. Все записи сохранены."
+  }
+}

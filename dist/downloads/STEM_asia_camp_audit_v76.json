@@ -1,0 +1,132 @@
+{
+  "asof": "2026-10-05",
+  "version": 76,
+  "status": "progress",
+  "scope": "Detailed Taiwan/Singapore/Japan/Korea programme pass; Europe, North America, CostaRica/Mexico/LATAM and all worldwide blocks retained",
+  "new_dossiers": 25,
+  "updated_dossiers": [],
+  "corrected_legacy_event_ids": [
+    "L143"
+  ],
+  "new_calendar_rows": 67,
+  "new_family_ics": 52,
+  "programme_dossiers": 347,
+  "countries_with_dossiers": 32,
+  "swiss_dossiers": 53,
+  "french_dossiers": 33,
+  "spanish_dossiers": 27,
+  "taiwan_dossiers": 21,
+  "singapore_dossiers": 45,
+  "japan_dossiers": 14,
+  "korea_dossiers": 7,
+  "official_dossier_urls": 532,
+  "programme_slugs": [
+    "empire-kubo",
+    "empire-scratch",
+    "empire-minecraft",
+    "empire-procreate",
+    "empire-roblox",
+    "empire-alvik",
+    "empire-unity",
+    "empire-ml",
+    "empire-prompts",
+    "empire-3d",
+    "empire-post-psle",
+    "lab-ai-young",
+    "lab-ai-mario",
+    "grove-flight",
+    "brown-ai-scientist",
+    "irobo-frozen",
+    "wenzao-drama",
+    "wenzao-languages",
+    "asij-chofu",
+    "asij-roppongi",
+    "aoba-hikarigaoka",
+    "aoba-meguro",
+    "raim-junk",
+    "raim-octo",
+    "raim-ari"
+  ],
+  "findings": [
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v76: Empire — продукт, возраст и полный расход",
+      "detail": "Новая публичная страница: десять курсов, пять недель до 8 января 2027, прямое EN и валюта SGD в собственном JSON-LD. Общее окно 23 ноября–8 января не непрерывная смена. Старый year-end URL ещё показывает Pokémon 2025. Post-PSLE — другой трёхдневный продукт; ранняя цена закончилась 4 октября. Показ проекта и сертификат обучения не международная победа.",
+      "next_action": "Конкретное время и кампус, возраст до/после 7 и 10 лет, устройства и детские аккаунты, налоги, присмотр между курсами, совместимость скидок и итоговый счёт.",
+      "url": "https://empirecode.co/december-holiday-camps-singapore/"
+    },
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v76: The Lab — отдельный AI-проект",
+      "detail": "Два проекта 5–7 / 8–10 лет: Scratch и Teachable Machine, четыре/девять часов. Внешним $230/390, ученикам $210/370; ISO валюты и GST не установлены. Внешние дети разрешены, язык преподавания неизвестен. В датах Mario есть Jurong 2–4 декабря, но список площадок его исключает; спорный вариант не добавлен.",
+      "next_action": "Подтвердить валюту, EN, Jurong, устройства, родительское согласие на сервисы и отмену; членский тариф не цена внешней семьи.",
+      "url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/"
+    },
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "v76: классы, языки и ранний тариф",
+      "detail": "Grove требует начальную школу без числового минимума; английский основной, китайская помощь. Ранний тариф по заявке до 16 октября, оплата не условие. L143 связан без повтора. Brown G1–G3: двуязычный показ не доказывает английский курс. Wenzao: театр A2 полностью EN, English × Japanese A1 — отдельные уроки. iROBO Grades 3–9: язык неизвестен, две фразы об Apple/iOS противоречат друг другу.",
+      "next_action": "Классы и даты рождения, иностранный приём, участие без китайского, устройства, питание, ранний срок Brown и полный договор.",
+      "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/"
+    },
+    {
+      "country": "Япония",
+      "iso": "JPN",
+      "provider": "v76: архив, японский класс и внешний тариф",
+      "detail": "Старое окно COVID 2021 на ASIJ не новая отмена. Таблица 2026 прошла, 2027 нет. Chofu JPY 92/126 тысяч — разные пакеты, Roppongi 86 тысяч + 6 тысяч за обед. Aoba внешним 120 тысяч + 11 тысяч регистрации; доплаты Hikarigaoka не переносятся на Meguro. Meguro-страница закрывает внешний приём, PDF разрешает при наличии. Фото 2024/25 не новая робототехника.",
+      "next_action": "Документы 2027, японский класс на 2 апреля, иностранный тариф и внешний приём, полный расход на питание, автобус, присмотр и отмену.",
+      "url": "https://japaninternationalschool.com/jp/extensions-programs/summer-school"
+    },
+    {
+      "country": "Южная Корея",
+      "iso": "KOR",
+      "provider": "v76: RAIM и Seoul Science Institute — допуск",
+      "detail": "RAIM: три младших инженерных курса Grades 1–3 в 2026, KRW 40/60 тысяч за четыре занятия; 2027 и EN не объявлены. Seoul Science Institute принимает только учеников Seoul Education Office Grades 4–6 / Middle 1. Открытая страница не доказывает международный приём. Университетские и старшие K-culture-программы не детский лагерь 6–10 лет.",
+      "next_action": "Искать новые программы Кореи с английским и иностранным допуском для 6–10. Проверить классы и реальные правила; RAIM пока местная возможность с неизвестным языком.",
+      "url": "https://ssei.sen.go.kr/fus/MI000000000000000302/program/CD00000415/list0010v.do"
+    }
+  ],
+  "calendar": {
+    "events": 2550,
+    "learning_records": 1219,
+    "family_ics": 1857,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 756,
+    "reused_legacy_events": 65,
+    "season_windows": 18
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Other Europe / USA / Canada / CostaRica / Mexico / LATAM; dated2027 contracts, exact locations, actual EN/ES/RU instruction and complete family quotes",
+  "validation": [
+    "All 322 prior dossiers and stable IDs unchanged; all 2482 other prior events unchanged; L143 receives directly published grade, address and early-tariff condition without changing dates",
+    "25 new programme dossiers across Taiwan/Singapore/Japan/Korea; counts are programmes, not 25 operators or independent rankings",
+    "Empire new primary page directly states English-medium, ten age-banded courses and five Mon-Fri weeks; own JSON-LD confirms SGD; 12.5h single course versus two-course full day and device rental kept separate",
+    "October Post-PSLE is a separate three-day product; 4 October early-bird expired; non-PSLE foreign admission and English instruction unknown; regular fees used",
+    "The Lab two AI projects have non-member prices and concrete Nov/Dec2026 dates; 4h versus 9h; English/currency/GST unknown; disputed Jurong excluded from exact calendar",
+    "Grove L143 reused once; primary elementary grade and submission-based early price updated; no payment/deposit required for early tariff; Wenzao drama all-English versus separate language lessons",
+    "Brown Grade1-3 upper gate and bilingual showcase versus unconfirmed instruction; iROBO Grade3-9, three date/campus variants, supplied laptop, conflicting iOS device advice",
+    "ASIJ/Aoba summer2026 and KRW museum2026 prices remain archival without new2027 events; Japanese-grade rule/foreign fees/Meguro conflict and elementary museum grade gates visible",
+    "Aoba own PDF2026 text read and price table visually inspected; 120000+11000 first-time external fee, optional food/bus/after-school kept separate; no2024 robotics transferred",
+    "Seoul Science Institute local EducationOffice Grade4-6/Middle1 restriction prevents treating it as an open international younger camp",
+    "67 new calendar rows; 52 new family ICS entries, 15 both-later teen course rows excluded; all1805 prior UID/date pairs and104 exhibition ICS preserved",
+    "Canonical/public JSON, SQLite integrity/foreignkeys, bridge idempotence; 67 family scenarios,32 dossier countries,0 fully audited; worldwide goal ACTIVE",
+    "Native local UI shows 347 programme dossiers across 32 countries and 532 official dossier URLs",
+    "New Singapore winter scenario 63 opens four distinct programme picks for the two children's age gates",
+    "Empire search returns 11 dossiers; directly-confirmed EN filter returns 10 and excludes the unconfirmed Post-PSLE programme",
+    "Brown plus confirmed EN returns zero; Grove plus confirmed EN returns exactly one dossier",
+    "Read-only WebMCP L143 returns 25-29 January2027, elementary gate, English instruction and submission-based early tariff without required payment/deposit",
+    "Comparing CP323 and CP325 shows two age bands, separate device fees, current2026/27 dates and distinct Matvey/Oscar conditions; clear comparison visibly resets both checkboxes",
+    "Native browser console error log is empty; visual comparison screenshot saved outside the public source tree"
+  ]
+}

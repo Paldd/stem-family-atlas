@@ -1,0 +1,198 @@
+{
+  "asof": "2026-10-04",
+  "version": 60,
+  "scope": "Public first-party programme evidence; no family data entered, no applications/payments/messages.",
+  "rows": [
+    {
+      "key": "pellines",
+      "url": "https://lospellines.cl/campamentos-de-verano/",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_route": "Official programme/product body through web reader; direct HTTP403 and ordinary browser security check. No bypass or submission.",
+      "observed": "2027 programme, exact numeric dates; main7–17. Product prices/promo published; availability and current checkout not verified."
+    },
+    {
+      "key": "pioneros",
+      "url": "https://campamentos.lospellines.cl/producto/campamento-pioneros-2027-3-dias-2-noches/",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_route": "Official programme/product body through web reader; direct HTTP403 and ordinary browser security check. No bypass or submission.",
+      "observed": "2027 programme, exact numeric dates; main7–17. Product prices/promo published; availability and current checkout not verified."
+    },
+    {
+      "key": "exploradores",
+      "url": "https://campamentos.lospellines.cl/producto/campamento-exploradores-2027-4-dias-3-noches/",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_route": "Official programme/product body through web reader; direct HTTP403 and ordinary browser security check. No bypass or submission.",
+      "observed": "2027 programme, exact numeric dates; main7–17. Product prices/promo published; availability and current checkout not verified."
+    },
+    {
+      "key": "aventureros",
+      "url": "https://campamentos.lospellines.cl/producto/campamento-aventureros-2027-6-dias-5-noches/",
+      "error": "HTTP Error 403: Forbidden",
+      "evidence_route": "Official programme/product body through web reader; direct HTTP403 and ordinary browser security check. No bypass or submission.",
+      "observed": "2027 programme, exact numeric dates; main7–17. Product prices/promo published; availability and current checkout not verified."
+    },
+    {
+      "key": "mulas",
+      "url": "https://achibueno.com/camp/es/las-mulas-summer-camp-2/",
+      "final_url": "https://achibueno.com/camp/es/las-mulas-summer-camp-2/",
+      "status": 200,
+      "bytes": 118357,
+      "sha256": "6e2ddda3f905466e189df7774fa3deae22595c47c76c89203c25fabba677e4cd"
+    },
+    {
+      "key": "mulasfaq",
+      "url": "https://achibueno.com/camp/es/summer-camp-frequently-asked-questions/",
+      "final_url": "https://achibueno.com/camp/es/summer-camp-frequently-asked-questions/",
+      "status": 200,
+      "bytes": 113241,
+      "sha256": "5094d36fc2d28f80395a8eb6bfe2f2d6f9316f999d6465a794b71a1adc8e6a33"
+    },
+    {
+      "key": "ojo",
+      "url": "https://www.ojociego.com.mx/verano.html",
+      "final_url": "https://www.ojociego.com.mx/verano.html",
+      "status": 200,
+      "bytes": 54580,
+      "sha256": "d7ba8d8c0b50f88a02b06ffe6b119db72351781932c4e79f3b03fb89da56e67c",
+      "date_conflict": "Direct programme/pricing/FAQ2027 dates18–31July and20,550MXN; web-reader2026 snapshot stale."
+    },
+    {
+      "key": "rancho",
+      "url": "https://www.ranchoaventuramexico.com/campamento-de-verano-26/",
+      "final_url": "https://www.ranchoaventuramexico.com/campamento-de-verano-26/",
+      "status": 200,
+      "bytes": 42055,
+      "sha256": "8c070978c4d91dee645e726b7949d73058bb24768f055ca48c8f5f7d6079b64c"
+    },
+    {
+      "key": "cenfo",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "status": 200,
+      "bytes": 281492,
+      "sha256": "02377efb0ba8ff2881385d52b64e744d55392e563f91613c4b638fc68473bbfc"
+    },
+    {
+      "key": "mountview",
+      "url": "https://www.mountviewcr.com/cs-camp/",
+      "final_url": "https://www.mountviewcr.com/cs-camp/",
+      "status": 200,
+      "bytes": 68268,
+      "sha256": "aad5456ea98e761a347fc03112d02305ae84ec2f01a86c565cc74fdc38bd09dd"
+    },
+    {
+      "key": "robotecnia",
+      "url": "https://www.robotecnia.mx/services-1-1",
+      "final_url": "https://www.robotecnia.mx/services-1-1",
+      "status": 200,
+      "bytes": 1365435,
+      "sha256": "4608c18ca822649dff4af688aac3435d4a42d8c84c969643d6b9c97517105ab6"
+    },
+    {
+      "key": "liota",
+      "url": "https://liotacamps.com/",
+      "final_url": "https://liotacamps.com/",
+      "status": 200,
+      "bytes": 368878,
+      "sha256": "c34e2049b8ed4f98f93cfab886b34ba9839a5cdbcbbddbce199ab1a2e0a276e3",
+      "evidence_route": "Public rendered browser, general age and refund FAQs expanded; winter-specific eligibility/language unresolved."
+    },
+    {
+      "key": "conversa",
+      "url": "https://www.conversa.com.mx/planes_modalidades_verano",
+      "final_url": "https://www.conversa.com.mx/planes_modalidades_verano",
+      "status": 200,
+      "bytes": 77268,
+      "sha256": "25f9aab49f18f74ba0b269f590adae79d4f50833e8c109f2a4ff7e3dcc6dfba7"
+    },
+    {
+      "key": "campo",
+      "url": "https://campoaventuras.com/",
+      "final_url": "https://campoaventuras.com/",
+      "status": 200,
+      "bytes": 127076,
+      "sha256": "2cc622ca0dda6dad03ddf4fa302171680849045e20bcea79ce9744388556bc6e"
+    },
+    {
+      "key": "nr",
+      "url": "https://nr.com.br/ferias",
+      "final_url": "https://nr.com.br/ferias",
+      "status": 200,
+      "bytes": 6159,
+      "sha256": "c72667adfe5a45183147d99cca6e8e47336eb54b38e70afe32ed35223ab90017"
+    },
+    {
+      "key": "ojo-price",
+      "url": "https://www.ojociego.com.mx/fechas-precios.html",
+      "final_url": "https://www.ojociego.com.mx/fechas-precios.html",
+      "status": 200,
+      "bytes": 40958,
+      "sha256": "393f1242dfc0b64c3ee0a0aa2ab7796a69dcd0a1e9ccba4208685a48261e4c7d"
+    },
+    {
+      "key": "ojo-faq",
+      "url": "https://www.ojociego.com.mx/faq.html",
+      "final_url": "https://www.ojociego.com.mx/faq.html",
+      "status": 200,
+      "bytes": 50018,
+      "sha256": "9a7fe8b9485d25f64f11d6d172ea70b34d9b7ae24fc41b493971765d4727a2a3"
+    },
+    {
+      "key": "campo-digital",
+      "url": "https://campoaventuras.com/programas.php?mision=2",
+      "final_url": "https://campoaventuras.com/programas.php?mision=2",
+      "status": 200,
+      "bytes": 72233,
+      "sha256": "aa070bad20eb67659ac4eb1b5ce29e14bfc4115fd3e36f1d461d8f96d83d9b9f"
+    },
+    {
+      "key": "campo-legal",
+      "url": "https://campoaventuras.com/legal.php?seccion=cancelacion",
+      "final_url": "https://campoaventuras.com/legal.php?seccion=cancelacion",
+      "status": 200,
+      "bytes": 91401,
+      "sha256": "4fb52cb01427aeff0c1b3f42d770ca32149ffcdc278ff7bafe6252529760d503"
+    },
+    {
+      "key": "english-kids",
+      "url": "https://www.englishcamp.com.br/programas/kids/",
+      "final_url": "https://www.englishcamp.com.br/programas/kids/",
+      "status": 200,
+      "bytes": 165247,
+      "sha256": "558381e187c17da962c6ca7385bc3c8d64e80dcab96c9b58c62332b944175a6d",
+      "price_conflict": "Direct body October2027-price4,772/4,295BRL; web-reader September4,588/3,900 is stale."
+    },
+    {
+      "key": "english-guest",
+      "url": "https://www.englishcamp.com.br/international-guest/",
+      "final_url": "https://www.englishcamp.com.br/international-guest/",
+      "status": 200,
+      "bytes": 136688,
+      "sha256": "7476e7963a96cbcf456ac66ae0f96c978642675996757b886526c6fca7def044"
+    },
+    {
+      "key": "english-location",
+      "url": "https://www.englishcamp.com.br/localizacao-e-contato/",
+      "final_url": "https://www.englishcamp.com.br/localizacao-e-contato/",
+      "status": 200,
+      "bytes": 133817,
+      "sha256": "784885e8723531dc25219324fc591459f412def199b815762a77650213101931"
+    },
+    {
+      "key": "robotecnia-centre",
+      "url": "https://www.robotecnia.mx/services-4",
+      "final_url": "https://www.robotecnia.mx/services-4",
+      "status": 200,
+      "bytes": 958488,
+      "sha256": "6e2b21cb37158f04b315aa0e3176e0366c3ced8de4614d1f26e1515111d71014"
+    },
+    {
+      "key": "mulas-registration",
+      "url": "https://lasmulas.agendaria.cl/",
+      "final_url": "https://lasmulas.agendaria.cl/",
+      "status": 200,
+      "bytes": 20927,
+      "sha256": "9725c76fa672ebb7ca16ceeb97e7d5fa660c59f0b3997f4ba21a236628411f34"
+    }
+  ]
+}

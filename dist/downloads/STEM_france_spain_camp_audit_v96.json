@@ -1,0 +1,124 @@
+{
+  "asof": "2026-10-05",
+  "version": 96,
+  "status": "progress",
+  "scope": "France/Spain own2026–27general/boarding/dayprogrammes and school-yearonlinesupplement; boundedprogrammeaudit, not completeEurope/world.",
+  "new_dossiers": 14,
+  "new_operator_groups": 6,
+  "deepened_dossiers": 1,
+  "updated_dossiers": [
+    "chester-english"
+  ],
+  "new_calendar_rows": 13,
+  "new_family_ics": 13,
+  "new_registration_deadline_ics": 0,
+  "corrected_existing_event_ids": [],
+  "historical_variants_not_added_as_future": 24,
+  "programme_dossiers": 645,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1021,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 39,
+    "SGP": 78,
+    "JPN": 42,
+    "KOR": 13,
+    "USA": 76,
+    "CAN": 68,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "sswp-jardins",
+    "sswp-pcc-primary",
+    "sswp-racing-primary",
+    "sswp-marymount-primary",
+    "olocau-english-summer",
+    "olocau-fluent",
+    "pueblo-kids",
+    "pueblo-eduplai-online",
+    "vaughan-bravo",
+    "vaughan-mazo",
+    "vaughan-kiriko",
+    "ymca-priego",
+    "ymca-salduero",
+    "chester-mini"
+  ],
+  "findings": [
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v96 · SSWP: брошюры и сайт не всегда совпадают",
+      "detail": "Jardins: PDF €25/day late против сайта €30, февраль 2027 на обложке/HTML против 2026 в бланке; €45 park pass внутри fee. PCC late €110/130 и младший pickup 15:30/16. Racing day €110/120; младший timetable golf на фоне французских golf coaches. Marymount late €110/120. Тарифы не усреднены, новые смены отделены от архива.",
+      "next_action": "Места, итоговый договор, точный язык модулей, время забора, еда/трансфер/страхование и foreign intake.",
+      "url": "https://www.sswp.fr/activites/stages-danglais-pour-enfant/"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v96 · Olocau и Pueblo: дата, языковая цель и цена имеют разную полноту",
+      "detail": "Olocau публикует 31.07–06.08.2027/6–14 и две цели: улучшать английский или Fluent, одна смешанная смена. Цен/полного пакета нет. Общая запись 7 января без года; не превращена в exact deadline. Pueblo Kids июль 2027 скоро, €890 без года, резерв €300 внутри. Оскар только после семи. EduplAI онлайн 8+, не физический camp, demo 12–14, старт 13 октября без года/часового пояса.",
+      "next_action": "Сезонный прайс/договор, места, иностранный индивидуальный приём и конкретная программа; для online младший syllabus и время Costa Rica.",
+      "url": "https://www.albergueolocau.com/programas/campamento/english-summer-camp.html"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v96 · Vaughan / YMCA: подтверждённый архив не доступный сезон 2027",
+      "detail": "Vaughan actual PDF 2026 содержит разные цены площадок и отмену, текущие camp URLs перенаправляют на общий курс. YMCA current teaser2027 содержит даты/возрастные годы/условия2026. Промо до 28.02.2026 истекли. National €100 admin внутри цены, International €500 не применены. Прошлые смены не перенесены в будущий ICS.",
+      "next_action": "Новые camp-specific даты, возрастные таблицы, цены, техническое содержание и language staff 2027, без обещания мирового рейтинга.",
+      "url": "https://aprendeingles.grupovaughan.com/hubfs/Camps/Catalogo-Summer-Camps-Vaughan-2026.pdf?hsLang=es-es"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v96 · Chester: прочитаны image-only fee PDFs разных лет",
+      "detail": "Текущий ES residential age 2027 8–17, EN/архив8–18; MINI current2019–2023 подходит Оскару, не Матвею. EN2026 резерв750/airport60, ES2026 резерв500/airport50. ENdayMay1 vsESboardingJun1. ESdaylinkPDF2025 не сезонный2027прайс. Скидка siblings на младший corefee, не всеextras. Общие/языковые лагеря не доказанная робототехническая лига.",
+      "next_action": "Один актуальный договор/прайс2027 и совпадающие даты MINI/general; места, доплаты, отмена и надзор.",
+      "url": "https://www.chestercollege.org/campamentos/chester-mini-camp/"
+    }
+  ],
+  "calendar": {
+    "events": 3153,
+    "learning_records": 1822,
+    "family_ics": 2414,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1359,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 37,
+    "http200": 37,
+    "general_course_redirects": 2,
+    "actual_pdfs": 12,
+    "selective_visual_observations": 8,
+    "visual_page_checks": 8
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "14newdossiers across6operatorgroups, 1Chesterexistingdossierdeepened.645total/37countries/1021ownURLs, 631priorIDs/order and630unrelateddossiers preserved.",
+    "All3140priorcalendarrecords/leagues/competitions/exhibitions/schools/results/familyroutes retainedexactly.13newfuturecohorts/ICS, 24pastvariantsnotcopiedinto2027. Onlineyearlessstartnotcalendarcohort.",
+    "SSWP11futurecohorts:5Jardins/4PCC/2Racing. JardinsFeb2027cover/HTMLvsform2026 retained;330Dec andpark45insidefee. Late25/30Jardins,110/130PCC,110/120Marymount/day110/120Racing conflicts explicit. GolfFrenchstaffandprimaryafternoonsnotfalsefullEN.",
+    "Olocau6–14/twotracksonecamp31Jul–6Aug2027/250sharedcapacity;FluentforEnglishfluentnotbeginner. Price/contractunknown. GeneralJan7withoutyearnotdeadline. Linenfacilitystatementnotcampinvoiceguarantee.",
+    "PuebloKids7–12/8days7nights/July2027undated/890withoutyear/300insidefee. EduplAI8–18Englishonline10lessons245/420/210, demo12–14bilingualmaterial,13Octwithoutyear/timezone. Distinctonlinefilter; notphysicalcamp/roboticsmedal.",
+    "Vaughanactual31page2026catalogue locationprices880/1590Bravo,1685Mazo,930/1760Kiriko;relevanthousing/cancelclauses. CurrentcampURLsredirectgeneralcourse. YMCA2026birthgates/regularprices/expiredpromos/100nationaladmininsidefeevs500international separated.",
+    "ChesterMINIcurrent2027birth2019–2023 fitsOscar,notMatvey; 2026PDFbirth2018–2022notnewgate. GeneralES2027age8–17vsENarchive8–18. Fiveimage-onlyfeePDFpagesselectedvisually; 750/500reserve,60/50airport andMay/Junbalancesnotaveraged. ESdayPDF2025excludedascurrentprice.",
+    "37directretrievalsHTTP200 include2generalcourseredirects,12actualPDFs withscopedpagechecks and8selectedvisualobservations. No fullPDF/site/countryauditclaim. RawHTML/PDF/forms/renders privateoutsidecheckout;publiconlyparaphrases/URLs/hashes.",
+    "JSONSQLiteCSVJSMDICSconsistency/oldUID/date/deadline preservation/bridgeidempotence/language-child-phase-onlinefilters independentlychecked. Worldwideobjective/requirements retained,0fullyauditedcountries/nativegoalactive."
+  ],
+  "next_priority": "Continue worldwide2026–27 general/thematic/robotics/AI camp/boarding/day/familyprogrammeinventory, deepCHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatinAmerica. Verify programme-specificteachingEN/ES/RU andsupportroles, foreignindividualintake/currentplaces, actualDOB/grade, syllabus/hours/level, completecurrentseasoninvoice/contract, campuscoordinates/map andfamilycomparisons. Keep leagues/competitions/exhibitions/ageadmission/schools/results5–10years/familyroutes active; no country fullyaudited."
+}

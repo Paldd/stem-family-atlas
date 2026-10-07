@@ -1,0 +1,349 @@
+{
+  "version": 34,
+  "checked": "2026-10-01",
+  "scope": "Only primary URLs used in this bounded pass; HTTP200 is retrieval evidence, not eligibility or completeness.",
+  "receipts": [
+    {
+      "title": "newtechkids",
+      "url": "https://newtechkids.com/en/",
+      "resolved": "https://newtechkids.com/en/",
+      "status": 200,
+      "bytes": 90934,
+      "sha256": "d4df9d56767b87cc57e46abf2d35db0674ac560720a99e74d6dcbcec4edcb7b1",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_nl_challenge",
+      "url": "https://firstlegoleague.nl/dit-seizoen/challenge/",
+      "resolved": "https://firstlegoleague.nl/dit-seizoen/challenge/",
+      "status": 200,
+      "bytes": 99979,
+      "sha256": "1c5009444c391ccb24f9f473a2ecfccfdd9be09ab2a8b3ec2f80f4157b17d1a9",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_nl",
+      "url": "https://wro-nederland.nl/Seizoen",
+      "resolved": "https://wro-nederland.nl/Seizoen",
+      "status": 200,
+      "bytes": 12269,
+      "sha256": "e928a0ea7e1acab4cd0489ab4622b044ecf0d8284056975d25b4c7da80357b95",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_nl_team",
+      "url": "https://wro-nederland.nl/Meedoen/Team",
+      "resolved": "https://wro-nederland.nl/Meedoen/Team",
+      "status": 200,
+      "bytes": 6618,
+      "sha256": "44b4c3f9f870190b4cfda66ef240eac36ba207e0371c9df6f8062d55d21e6209",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "voka_timing",
+      "url": "https://www.voka.be/first-lego-league-be/timing",
+      "resolved": "https://www.voka.be/first-lego-league-be/timing",
+      "status": 200,
+      "bytes": 133314,
+      "sha256": "47b3280ac4d909706f485f3632f8157916e8174a6aaca61009534b52c834ee4b",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "tuhh",
+      "url": "https://robotik.tuhh.de/robotikkurse-schueler/kursangebot/robotik-camp/junior-robotik-camp",
+      "resolved": "https://robotik.tuhh.de/robotikkurse-schueler/kursangebot/robotik-camp/junior-robotik-camp",
+      "status": 200,
+      "bytes": 976468,
+      "sha256": "ba17bc7a960979faf51a15c0b869f40e9a91c0239e71a16132041790cc4e1539",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "garna",
+      "url": "https://garnaschool.com/en/summer-camp-en/",
+      "resolved": "https://garnaschool.com/en/summer-camp-en/",
+      "status": 200,
+      "bytes": 181593,
+      "sha256": "594537a46af8b6e7215ce89645fd0501c66307eeac22a0c6735200bbb5e51976",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "machineering",
+      "url": "https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/",
+      "resolved": "https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/",
+      "status": 200,
+      "bytes": 73365,
+      "sha256": "8fb4d849ada038dee5d71eab705c9808f9f2cd6abece93029e3c9df2f21edab7",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "codefever",
+      "url": "https://www.wintercircus.be/en/academy/ai-camp-for-kids",
+      "resolved": "https://www.wintercircus.be/en/academy/ai-camp-for-kids",
+      "status": 200,
+      "bytes": 167276,
+      "sha256": "cb58fcb407392f9154a63df88b784bd5f1010a0885f4cc97e0a2ba564507c669",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "isd",
+      "url": "https://www.isdedu.de/summer-camps",
+      "resolved": "https://www.isdedu.de/summer-camps",
+      "status": 200,
+      "bytes": 60248,
+      "sha256": "9129c41132c2dbce3a63286b378ab2efdc6eb0f21445b4710d2845b71d1c98cd",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_de_season",
+      "url": "https://www.worldrobotolympiad.de/saison-2027/",
+      "resolved": "https://www.worldrobotolympiad.de/saison-2027/",
+      "status": 200,
+      "bytes": 101778,
+      "sha256": "89e1c1ac3746bf4b9a37d43f2ec8df6580d5485755f5b07855b04ac69427dbe7",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_de_starter",
+      "url": "https://www.worldrobotolympiad.de/world-robot-olympiad/starter-programm",
+      "resolved": "https://www.worldrobotolympiad.de/world-robot-olympiad/starter-programm",
+      "status": 200,
+      "bytes": 86836,
+      "sha256": "cd25727efd1f452da9b73e63719cb89d54a1958dfbd6399e3dc438096f893a4e",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_de_sumo",
+      "url": "https://www.worldrobotolympiad.de/world-robot-olympiad/starter-sumo",
+      "resolved": "https://www.worldrobotolympiad.de/world-robot-olympiad/starter-sumo",
+      "status": 200,
+      "bytes": 89991,
+      "sha256": "4c716a3afc90052156b2c2aa166fb14721592c264e1280892e9e92b242724b5b",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_de_mission",
+      "url": "https://www.worldrobotolympiad.de/world-robot-olympiad/robomission",
+      "resolved": "https://www.worldrobotolympiad.de/world-robot-olympiad/robomission",
+      "status": 200,
+      "bytes": 111883,
+      "sha256": "1bd900cf0c52049240f278abd514b29e30fbdbb3f75648be9a38dbcef4fae6f0",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "rcj_de_final",
+      "url": "https://robocup.de/events/junior-finale-2027",
+      "resolved": "https://robocup.de/events/junior-finale-2027",
+      "status": 200,
+      "bytes": 139008,
+      "sha256": "69aa128901aea3d68484b2e901bd3cf32ad9eebb11e1ca4ac8040a968bcc38d8",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "rcj_de_rescue",
+      "url": "https://robocup.de/junior/rescue/",
+      "resolved": "https://robocup.de/junior/rescue/",
+      "status": 200,
+      "bytes": 187359,
+      "sha256": "704e526ca26559c0534840531101302278285781da52fec378d8d121860eaf88",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_dach_explore",
+      "url": "https://www.first-lego-league.org/en/divisions/explore",
+      "resolved": "https://www.first-lego-league.org/en/divisions/explore",
+      "status": 200,
+      "bytes": 56749,
+      "sha256": "f5f49023e81e62770be8ba732acabe17945b1fbc00c657b02db6245a78d2fbed",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_dach_challenge",
+      "url": "https://www.first-lego-league.org/en/divisions/challenge",
+      "resolved": "https://www.first-lego-league.org/en/divisions/challenge",
+      "status": 200,
+      "bytes": 58412,
+      "sha256": "a9cce6748bac011a897bdc1a09d76a65d84fb6b1a891c529d1c8baafd6cabf6b",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_dach_future5",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-5",
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-5",
+      "status": 200,
+      "bytes": 44596,
+      "sha256": "2af02a6445303d925189bbf2de801c688f1bce6bb04cf7d4925cf90d376b6d0b",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_dach_future8",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-8",
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-8",
+      "status": 200,
+      "bytes": 57801,
+      "sha256": "fc4d8036dc84c0a1f97a53b883ba1314da7a8889083a60af2fbc48156a99edd5",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_dach_season",
+      "url": "https://www.first-lego-league.org/en/2026-27-season/bioglow",
+      "resolved": "https://www.first-lego-league.org/en/2026-27-season/bioglow",
+      "status": 200,
+      "bytes": 51422,
+      "sha256": "74581be07a1b89435470b802842623475ccb201ca8289186e4f0e073d22ebcbb",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_nl_explore",
+      "url": "https://firstlegoleague.nl/dit-seizoen/explore/",
+      "resolved": "https://firstlegoleague.nl/dit-seizoen/explore/",
+      "status": 200,
+      "bytes": 88268,
+      "sha256": "3e4915b534e7da8ed346bd634f5328ce9c52b385dc546245093b6a734c8863ca",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_nl_future",
+      "url": "https://firstlegoleague.nl/dit-seizoen/future-8-t-m-14-jaar/",
+      "resolved": "https://firstlegoleague.nl/dit-seizoen/future-8-t-m-14-jaar/",
+      "status": 200,
+      "bytes": 89600,
+      "sha256": "fb73665fff253516cf94cf574efe27893caad619070c3f44df347227b81714e5",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "fll_nl_season",
+      "url": "https://firstlegoleague.nl/seizoen_2026_2027/",
+      "resolved": "https://firstlegoleague.nl/seizoen_2026_2027/",
+      "status": 200,
+      "bytes": 89021,
+      "sha256": "8dbf136d4355edaeb6d57b5655de365aeb3244a595f88d29b0a3340661f6180c",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "isd_primary",
+      "url": "https://www.isdedu.de/elementary-school",
+      "resolved": "https://www.isdedu.de/elementary-school",
+      "status": 200,
+      "bytes": 80862,
+      "sha256": "b1b5adf0a562c542348ff0a946614271d6fa507ee61af3227257aa8a05005f81",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "isd_ib",
+      "url": "https://www.isdedu.de/our-accreditations",
+      "resolved": "https://www.isdedu.de/our-accreditations",
+      "status": 200,
+      "bytes": 68303,
+      "sha256": "d78f97feddd1b10f3d9eb7962326c88b6215cefa6c7fde792ffee7bfc391cbe7",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "wro_de_join",
+      "url": "https://www.worldrobotolympiad.de/mitmachen/als-teilnehmer-im-alter-von-8-bis-19-jahren",
+      "resolved": "https://www.worldrobotolympiad.de/mitmachen/als-teilnehmer-im-alter-von-8-bis-19-jahren",
+      "status": 200,
+      "bytes": 90001,
+      "sha256": "2d3f0454cf3a6f763703e46faba88a4d2d5a0af07ea8af353a0f5ec6b9a78d3a",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "nemo_todo",
+      "url": "https://www.nemosciencemuseum.nl/en/to-do",
+      "resolved": "https://www.nemosciencemuseum.nl/en/to-do",
+      "status": 200,
+      "bytes": 333339,
+      "sha256": "70cb3ab23da49f2e0da87f434ab5af4b7361aa32d9bf0b892e63b24da78e4c30",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "nemo_faq",
+      "url": "https://www.nemosciencemuseum.nl/en/plan-your-visit/frequently-asked-questions",
+      "resolved": "https://www.nemosciencemuseum.nl/en/plan-your-visit/frequently-asked-questions",
+      "status": 200,
+      "bytes": 197188,
+      "sha256": "503a79d76bd292a00ba71264a9e4fa691e48ca5ceafca95798f9ba105ddcabbf",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "technopolis_onoff",
+      "url": "https://www.technopolis.be/en/expositions/on-off/",
+      "resolved": "https://www.technopolis.be/en/expositions/on-off/",
+      "status": 200,
+      "bytes": 75530,
+      "sha256": "f5f1c1daa0a4c73c6c8b8bd1b5da971ac77188e9e21d3db9e4ee1203585a9977",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "technopolis_tickets",
+      "url": "https://www.technopolis.be/en/tickets-bookings/",
+      "resolved": "https://www.technopolis.be/en/tickets-bookings/",
+      "status": 200,
+      "bytes": 52879,
+      "sha256": "90fa56faf2cf453da1523211c802b42426368d880fe8e3bcaca77197115708ca",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "hnf_robots",
+      "url": "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/everything-goes-digital/man-robots-living-with-artificial-intelligence-and-robotics.html",
+      "resolved": "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/everything-goes-digital/man-robots-living-with-artificial-intelligence-and-robotics.html",
+      "status": 200,
+      "bytes": 33891,
+      "sha256": "cefdacb80c96d2a3f55ed10c6638b21027c6b5ac4ac452f7ab36ce5e106cec97",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "hnf_peter",
+      "url": "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/everything-goes-digital/man-robots-living-with-artificial-intelligence-and-robotics/robot-peter.html",
+      "resolved": "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/everything-goes-digital/man-robots-living-with-artificial-intelligence-and-robotics/robot-peter.html",
+      "status": 200,
+      "bytes": 33896,
+      "sha256": "6c22d17f6c40b318b20a973ce89017cf4637a536f98e2505daefc8b2324dbf96",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "gamescom_visitors",
+      "url": "https://www.gamescom.global/en/info/visitors",
+      "resolved": "https://www.gamescom.global/en/info/visitors",
+      "status": 200,
+      "bytes": 316687,
+      "sha256": "2fd7e0bc6ea820557b38f14098c81bcb2da8e46da44c1b47edd45bd2af13c71a",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "gamescom_times",
+      "url": "https://www.gamescom.global/en/info/opening-times",
+      "resolved": "https://www.gamescom.global/en/info/opening-times",
+      "status": 200,
+      "bytes": 305906,
+      "sha256": "d2464077ffb35a6ad6333949cc2cc7593c702a590f6f96a643ed5a34cd648b15",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "hnf_visit",
+      "url": "https://www.hnf.de/en/visiting/general-information/opening-hours-prices-directions.html",
+      "resolved": "https://www.hnf.de/en/visiting/general-information/opening-hours-prices-directions.html",
+      "status": 200,
+      "bytes": 42892,
+      "sha256": "1ff46d93270dd2351a206e564ec767ddb2f3f0d8b1401ef700631f84dea84bdd",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "isd_faq_current",
+      "url": "https://www.isdedu.de/admissions-faqs",
+      "resolved": "https://www.isdedu.de/admissions-faqs",
+      "status": 200,
+      "bytes": 62338,
+      "sha256": "098a64eab82a33fb22523ad1dabeb907feb46795e127a48a550ed75d776f7ced",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "nemo_gameon",
+      "url": "https://www.nemosciencemuseum.nl/en/to-do/exhibition/game-on",
+      "resolved": "https://www.nemosciencemuseum.nl/en/to-do/exhibition/game-on",
+      "status": 200,
+      "bytes": 158547,
+      "sha256": "ccb3f41c99f07f0b6db2d99e0c5f7b93aa6e19d10f57f3a8636e4021dd371f1d",
+      "checked": "2026-10-01"
+    }
+  ]
+}

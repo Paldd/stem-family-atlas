@@ -1,0 +1,221 @@
+{
+  "asof": "2026-10-05",
+  "version": 75,
+  "scope": "Primary HTML/PDF and actual rendered brochure pages; failures retained separately from recovered reads",
+  "sources": [
+    {
+      "key": "aiglon-2027",
+      "url": "https://www.aiglon.ch/2027-summer-camp",
+      "final_url": "https://www.aiglon.ch/2027-summer-camp",
+      "status": 200,
+      "bytes": 100319,
+      "sha256": "e69461fa75f788dba490be31259aa9d684566a5b9a57e8301c34c9a51c4c453e"
+    },
+    {
+      "key": "rosenberg-faq",
+      "url": "https://rosenbergcamps.ch/camps/summer-faqs/",
+      "final_url": "https://rosenbergcamps.ch/camps/summer-faqs/",
+      "status": 200,
+      "bytes": 62788,
+      "sha256": "a2d5b6c9d884db9e11d4592707ab56aa330901d4d57014997732a24ffc238fe1"
+    },
+    {
+      "key": "montana-zug",
+      "url": "https://www.montana-zug.ch/en/summer-camp",
+      "final_url": "https://www.montana-zug.ch/en/summer-camp",
+      "status": 200,
+      "bytes": 435946,
+      "sha256": "3e8494b0e7c5580ce7fbdbd1aa258e8864564d6019e7b45cab784b87bb9ae25b"
+    },
+    {
+      "key": "cdl-summer",
+      "url": "https://www.nordangliaeducation.com/college-du-leman/camps/summer-camp",
+      "final_url": "https://www.nordangliaeducation.com/college-du-leman/camps/summer-camp",
+      "status": 200,
+      "bytes": 93970,
+      "sha256": "9665a40e8d6735525055c77fafb6aea7d956bf8e7673c3a6fcfda2643d21440f"
+    },
+    {
+      "key": "helvetic-2027",
+      "url": "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "babel-holidays",
+      "url": "https://www.babelschool.fr/stages-vacances-anglais/",
+      "final_url": "https://www.babelschool.fr/stages-vacances-anglais/",
+      "status": 200,
+      "bytes": 1228629,
+      "sha256": "9862c6dc8fba52de002e2aa926822dd0dc63fe4cf6bd6048a7fc00563821a6d5"
+    },
+    {
+      "key": "littlebritish-2027",
+      "url": "https://littlebritishschools.com/stages-de-vacances/summer/english-boost-camp-summer-2027/",
+      "final_url": "https://littlebritishschools.com/stages-de-vacances/summer/english-boost-camp-summer-2027/",
+      "status": 200,
+      "bytes": 507528,
+      "sha256": "79821d94447e2983f7807634ca57436a90221eca41a8a7cefee47af0fc60ccfb"
+    },
+    {
+      "key": "costablanca",
+      "url": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "final_url": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "status": 200,
+      "bytes": 86645,
+      "sha256": "538e7142f156b5071834a381d639913b3c2e02748ea12aae6b71eeae1086cf7a"
+    },
+    {
+      "key": "helvetic-kids",
+      "url": "https://www.helveticinstitute.ch/kids-camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-winter",
+      "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-autumn",
+      "url": "https://www.helveticinstitute.ch/autumn-kids-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-spring",
+      "url": "https://www.helveticinstitute.ch/spring-camp-zug-holiday-programmes-by-helvetic-institute/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "navatormes",
+      "url": "https://respiraocio.com/campamentos-de-verano/campamentos-de-verano-ingles-gredos/",
+      "final_url": "https://respiraocio.com/campamentos-de-verano/campamentos-de-verano-ingles-gredos/",
+      "status": 200,
+      "bytes": 543052,
+      "sha256": "d5424f1077e25fb2b1a0c87d8acca7faa7a6eca0271376f4f714c062e913b19d"
+    },
+    {
+      "key": "respira-camps",
+      "url": "https://respiraocio.com/campamentos-de-verano/",
+      "final_url": "https://respiraocio.com/campamentos-de-verano/",
+      "status": 200,
+      "bytes": 449848,
+      "sha256": "8d6b1fa5835990e959640e1bed7acf38d37b5c5b8ee20d07da49318afe9ae9ab"
+    },
+    {
+      "key": "rosenberg-age",
+      "url": "https://rosenbergcamps.ch/application/age-verification/",
+      "final_url": "https://rosenbergcamps.ch/application/age-verification/",
+      "status": 200,
+      "bytes": 64394,
+      "sha256": "36c1e8e18c27abacd2d19e48489047ce9f0dfbbf51c0e15934b30904c6f306e3"
+    },
+    {
+      "key": "rosenberg-focus",
+      "url": "https://rosenbergcamps.ch/camps/summer-focused-courses/",
+      "final_url": "https://rosenbergcamps.ch/camps/summer-focused-courses/",
+      "status": 200,
+      "bytes": 101384,
+      "sha256": "7711ad100579169f74b17c8fc20ff1cf95fd639b94d146d519d9be7293125517"
+    },
+    {
+      "key": "costablanca-facilities",
+      "url": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "final_url": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "status": 200,
+      "bytes": 96639,
+      "sha256": "cd2b19aa53e8762d0e9f9178d0cd8fa2479d7becf132acdafffcd2e08b1aea13"
+    },
+    {
+      "key": "lb-pop",
+      "url": "https://littlebritishschools.com/stages-de-vacances/summer/british-pop/",
+      "final_url": "https://littlebritishschools.com/stages-de-vacances/summer/british-pop/",
+      "status": 200,
+      "bytes": 479913,
+      "sha256": "a4406b5a2c9bfa41488b53901be5a1cf720d69d4e7cd4af6eb7601a9f3505a68"
+    },
+    {
+      "key": "lb-zoo",
+      "url": "https://littlebritishschools.com/stages-de-vacances/summer/off-to-the-zoo/",
+      "final_url": "https://littlebritishschools.com/stages-de-vacances/summer/off-to-the-zoo/",
+      "status": 200,
+      "bytes": 481434,
+      "sha256": "de219e4149b458aafeaea79b1566553ea1d900603b626f28359bf52b1e8d9865"
+    },
+    {
+      "key": "navatormes-brochure",
+      "url": "https://respiraocio.com/wp-content/uploads/2024/05/NAVATORMES-RESPIRA-HOJA-INFORMATIVA.pdf",
+      "final_url": "https://respiraocio.com/wp-content/uploads/2024/05/NAVATORMES-RESPIRA-HOJA-INFORMATIVA.pdf",
+      "status": 200,
+      "bytes": 4976914,
+      "sha256": "a968677c0473f1b53a0b8e13df5da7a73d882b9e72d408cce374cf0375a40df6"
+    }
+  ],
+  "recovered_reads": [
+    {
+      "url": "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
+      "method": "native browser rendered primary page read",
+      "evidence_file": "helvetic-robotics-native.txt",
+      "local_research_only": true,
+      "bytes": 26162,
+      "sha256": "1653cfa1b70adb2daae5cf9e326370d250978676b6e63a845becb1586c8438b8",
+      "http_status_not_inferred": true
+    },
+    {
+      "url": "https://www.helveticinstitute.ch/summer-robotics-camp-zug/",
+      "method": "native browser rendered primary page read",
+      "evidence_file": "helvetic-zug-native.txt",
+      "local_research_only": true,
+      "bytes": 8950,
+      "sha256": "d1306eb2b63dcb8e877a5cad75249af8977a5c7b2d4e6a29930180023721832a",
+      "http_status_not_inferred": true
+    },
+    {
+      "url": "https://www.aiglon.ch/summer-camp-brochure",
+      "final_url": "https://online.fliphtml5.com/meksu/fdzd/",
+      "method": "own brochure link; rendered pages4/7/8 read and pageAssets bundled",
+      "visual_evidence": [
+        {
+          "evidence_file": "aiglon-vex-page4.webp",
+          "local_research_only": true,
+          "bytes": 628466,
+          "sha256": "e954e666a7bbbdecc324eadfb2043a70c08f2fcf0baeca4dd14c353bff822fef"
+        },
+        {
+          "evidence_file": "aiglon-board-page7.webp",
+          "local_research_only": true,
+          "bytes": 500500,
+          "sha256": "e7b4c7e6f510094753c27a04099335513f384f21d69414d676f73e82fe790076"
+        },
+        {
+          "evidence_file": "aiglon-day-page8.webp",
+          "local_research_only": true,
+          "bytes": 477912,
+          "sha256": "482c822eff3ed792c6e340bf327e9a67d88aeb009a4f9b548c4cbb23b7fc668f"
+        }
+      ]
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://littlebritishschools.com/stages-de-vacances/summer/english-boost-camp-summer-2027/",
+    "https://littlebritishschools.com/stages-de-vacances/summer/off-to-the-zoo/",
+    "https://online.fliphtml5.com/meksu/fdzd/",
+    "https://respiraocio.com/campamentos-de-verano/campamentos-de-verano-ingles-gredos/",
+    "https://respiraocio.com/wp-content/uploads/2024/05/NAVATORMES-RESPIRA-HOJA-INFORMATIVA.pdf",
+    "https://rosenbergcamps.ch/application/age-verification/",
+    "https://www.babelschool.fr/stages-vacances-anglais/",
+    "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
+    "https://www.helveticinstitute.ch/summer-robotics-camp-zug/"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "Helvetic directHTTP403 and webtimeout did not become fictitiousHTTP200; actual native primary pages subsequently loaded/read.",
+    "FlipHTML full-publication download did not produce an accessiblePDF; facts came from visible original page assets read at original resolution.",
+    "Navatormes own linkedPDF is titled2026 despite2027 landing; tablepage4 visually inspected; originalPDF SHA256 in receipts.",
+    "No browser inventories, tracking URLs, secrets, family forms or downloaded brochure images included in public files."
+  ]
+}

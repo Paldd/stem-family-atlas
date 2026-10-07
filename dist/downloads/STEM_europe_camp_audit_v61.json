@@ -1,0 +1,139 @@
+{
+  "version": 61,
+  "asof": "2026-10-05",
+  "scope": "Углубление европейских лагерей: Нидерланды, Финляндия, Швеция, Ирландия, Мальта, Чехия и Дания.",
+  "new_dossiers": 10,
+  "new_calendar_entries": 17,
+  "dossiers": 112,
+  "countries": 27,
+  "swiss": 18,
+  "source_urls": 203,
+  "worldwide_complete": false,
+  "country_fully_audited": false,
+  "profiles": [
+    {
+      "slug": "bricks-robots-nl",
+      "id": "CP103",
+      "country": "Нидерланды",
+      "timing": "published_2026",
+      "language": "Основной язык голландский; для английских детей используют оба языка и стараются собрать группы по языку/возрасту. Это подтверждённая поддержка EN, а не полный английский курс.",
+      "price": "Amsterdam EUR 395 / 4 дня; Rotterdam EUR 275 / 4 утра; остальные от EUR 250, пакет требует расчёта."
+    },
+    {
+      "slug": "heureka-science",
+      "id": "CP104",
+      "country": "Финляндия",
+      "timing": "partial_2027",
+      "language": "Летом 2027 прямо объявлены camps in English. Осень 2026 — только финский; английский зимней программы не установлен.",
+      "price": "Прайс английских смен 2027 не опубликован."
+    },
+    {
+      "slug": "arkki-huts",
+      "id": "CP105",
+      "country": "Финляндия",
+      "timing": "next_unannounced",
+      "language": "В выбранных группах 2026 English указан прямо; семейные — FI/EN/SV. Конкретный язык 2027 подтвердить по новой смене.",
+      "price": "Конкретный английский курс 2026: EUR 225 / 4 дня. Общий блок цен расходится с карточками."
+    },
+    {
+      "slug": "arkki-family",
+      "id": "CP106",
+      "country": "Финляндия",
+      "timing": "next_unannounced",
+      "language": "В выбранных группах 2026 English указан прямо; семейные — FI/EN/SV. Конкретный язык 2027 подтвердить по новой смене.",
+      "price": "Конкретные семейные заезды 2026: EUR 245 / 2 человека, дополнительно EUR 60–70; общий блок 235 расходится."
+    },
+    {
+      "slug": "fosc-helsinki",
+      "id": "CP107",
+      "country": "Финляндия",
+      "timing": "published_2027",
+      "language": "Все активности на английском; это общий outdoor-лагерь.",
+      "price": "EUR 60 / ребёнок / день или EUR 10 / час; заявлена скидка 20% при двух детях."
+    },
+    {
+      "slug": "designer-minds",
+      "id": "CP108",
+      "country": "Ирландия",
+      "timing": "next_unannounced",
+      "language": "Язык преподавания прямо не подтверждён; язык сайта не считается доказательством.",
+      "price": "EUR 180 / 20 часов в FAQ; 2027 пока неизвестен."
+    },
+    {
+      "slug": "gowreads-autumn",
+      "id": "CP109",
+      "country": "Швеция",
+      "timing": "published_2026",
+      "language": "English-led; шведская поддержка для тех, кому нужна.",
+      "price": "SEK 3 990 / 4 дня, VAT включён."
+    },
+    {
+      "slug": "bels-family",
+      "id": "CP110",
+      "country": "Мальта",
+      "timing": "published_2026",
+      "language": "Английский языковой курс; не доказательство робототехнического преподавания.",
+      "price": "Семейная цена только по индивидуальному предложению; публичный полный тариф не установлен."
+    },
+    {
+      "slug": "neuslab-solutions",
+      "id": "CP111",
+      "country": "Чехия",
+      "timing": "next_unannounced",
+      "language": "Язык преподавания прямо не подтверждён; язык сайта не считается доказательством.",
+      "price": "CZK 6 700 / недельный дневной интенсив из текущей ссылки 2026; не цена 2027."
+    },
+    {
+      "slug": "ranum-summer",
+      "id": "CP112",
+      "country": "Дания",
+      "timing": "published_2027",
+      "language": "Отдельный English Language School подтверждает EN лагерной жизни. Для выбранного здесь International Summer School язык жизни и science/business ещё подтвердить; это разные пакеты.",
+      "price": "Без датского CPR: с 4 июля 1/2/3/4 недели DKK 5 995 / 10 150 / 14 305 / 18 460; с 18 июля 1/2 недели DKK 5 995 / 10 350."
+    }
+  ],
+  "new_event_ids": [
+    "CP103-20261012-20261015-amsterdam-4days",
+    "CP103-20261019-20261022-denhaag-4days",
+    "CP103-20261019-20261022-rotterdam-4days",
+    "CP103-20261019-20261022-utrecht-4days",
+    "CP103-20261019-20261022-eindhoven-4days",
+    "CP107-20270104-20270106",
+    "CP107-20270222-20270226",
+    "CP107-20270325-20270329",
+    "CP107-20270506-20270507",
+    "CP107-20270607-20270625",
+    "CP109-20261026-20261029",
+    "CP112-20270704-20270710",
+    "CP112-20270704-20270717",
+    "CP112-20270704-20270724",
+    "CP112-20270704-20270731",
+    "CP112-20270718-20270724",
+    "CP112-20270718-20270731"
+  ],
+  "findings": [
+    "Bricks & Robots: Dutch primary / English support; five campuses retain separate variants; Rotterdam fully booked.",
+    "Heureka: summer2027 English announced; autumn2026 Finnish only; English group ages and dates pending.",
+    "Arkki: 7+ independent / 4+ child-parent; selected2026 English sessions,2027 catalogue due December; tariff blocks conflict.",
+    "FOSC: full-day2027 dates and English explicit; general outdoor, independent of IS Helsinki; no evidence of worldwide ranking.",
+    "Designer Minds:6.5+ AND 1st-class gate; broadSTEAM, not coding intensive; EN still unconfirmed.",
+    "GowReads: Oct26–29/2026 English-led,SEK3990 including VAT; packed lunch and two snacks.",
+    "BELS: family English minimum7;2026 operation window does not become an independent boarding session.",
+    "NeusLab: operator links detailed2026 logic course; age and teaching language not established.",
+    "Ranum:13–17, foreign/noCPR prices; Copenhagen conflicts excluded; both brothers below minimum."
+  ],
+  "next_priority": [
+    "European country discovery beyond this release; no country fully audited",
+    "More younger English technical programmes in Korea, Taiwan, Japan and the Americas",
+    "Exact2027 languages, classes, availability, full fee packages and campus coordinates"
+  ],
+  "applications_sent": false,
+  "new_family_calendar_entries": 10,
+  "expired_family_calendar_entries": 12,
+  "family_calendar_count": 1379,
+  "calendar_exclusions": [
+    "Rotterdam closed booking",
+    "Ranum minimum13 for both children",
+    "12prior event/deadline entries ended before5Oct; catalogue objects preserved"
+  ]
+}

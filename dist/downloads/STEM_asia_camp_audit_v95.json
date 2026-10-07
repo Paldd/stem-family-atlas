@@ -1,0 +1,121 @@
+{
+  "asof": "2026-10-05",
+  "version": 95,
+  "status": "progress",
+  "scope": "Own Singapore/Taiwan programme cohorts/contracts, deeper Japan winter timetable, Korea archive exclusion; bounded progress, not complete Asia/world.",
+  "new_dossiers": 9,
+  "new_operator_groups": 4,
+  "deepened_dossiers": 1,
+  "updated_dossiers": [
+    "harrow-appi"
+  ],
+  "new_calendar_rows": 17,
+  "new_family_ics": 17,
+  "new_registration_deadline_ics": 0,
+  "corrected_existing_event_ids": [],
+  "historical_variants_not_added_as_future": 19,
+  "programme_dossiers": 631,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 992,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 49,
+    "ESP": 52,
+    "TWN": 39,
+    "SGP": 78,
+    "JPN": 42,
+    "KOR": 13,
+    "USA": 76,
+    "CAN": 68,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "whizz-lpe",
+    "whizz-nlcs",
+    "whizz-smash",
+    "mind-ai-sprint",
+    "mind-ai-story",
+    "tcs-steam-winter",
+    "ilri-lego",
+    "ilri-minecraft",
+    "ilri-roblox"
+  ],
+  "findings": [
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v95 · Whizz Kidz: новые даты и старое описание",
+      "detail": "LPE публикует смены 2026/2027 для 4–6 и 7–12 лет, но вкладка описания сохраняет июль–август 2026, только 4–6 лет и козью ферму. Список дат 2027 пуст после выбора возраста. Три ссылки главной ведут на одну LPE 2027; правильные отдельные программы найдены в списке программ. Smash подтверждает только сентябрь–октябрь; сторонние даты ноября–декабря в календарь не внесены. Диапазон 340–400 $ не определяет точную цену обычному посетителю. Семейная скидка 50 $ относится к общей сумме. Язык преподавателей и полный счёт неизвестны.",
+      "next_action": "Актуальные программы по возрасту, язык преподавателей, места, валюта, GST, еда, транспорт и договор. Школьный кампус и внутренние игры не подтверждают международные победы или качество робототехнической команды.",
+      "url": "https://whizzkidz.com.sg/programmes-available/"
+    },
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v95 · Mind Theory: время занятий и цены расходятся",
+      "detail": "Два творческих трека с ИИ, десять смен конца 2026. Таблица Story: 10:00–13:00 и 680/600 SGD; общий блок: 14:00–17:00, ранний тариф 680 и после него 800 без срока. Sprint 28–31 декабря: 14:00–16:00 против подписи «4 × 3 часа». Тариф 600 за пять дней не перенесён на четыре дня. Общие даты системы 2025–2028/2030 не означают непрерывный лагерь. Английский сайт и запросы к ИИ не подтверждают язык преподавателя. FAQ исключает денежные возвраты, допускает экстренный перенос оплаты, передачу другому ребёнку и отработку пропуска; применимость к короткой смене нужно проверить. Новые программы публикуют примерно за шесть недель до каникул, точных дат 2027 нет.",
+      "next_action": "Возраст к старту, приём иностранных гостей, язык преподавателей, сложность для опытного ребёнка, программа четырёх дней, часы, цена с GST и договор. Творческое применение ИИ не подтверждает обучение моделей.",
+      "url": "https://www.mindtheory.sg/our-courses/"
+    },
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "v95 · ILRI и TCS: реальные формы, классы и архивы",
+      "detail": "ILRI подтверждает преподавание LEGO на английском и китайском. Английский интерфейс Minecraft/Roblox не подтверждает язык педагога. Формы 2026: переход в 1–9 классы, Roblox с 4-го. Найдено 17 отдельных тематических смен; общие семь недель не относятся к каждому треку. Обычный тариф 13 200 NTD; ранний 9 500 до конца июня истёк. Административные 1 000 уже внутри цены, робот домой платный, возможность паспорта вместо местного ID неизвестна. TCS 2–6 февраля 2026: 5–7 классы, англоязычная среда, Micro: bit/химия, 19 000 NTD уже включают 2 000 материалов и обед. Даты 2027 не объявлены. I Am The Future описывает благотворительные программы 2024 для детей новых жителей и уязвимых групп; открытый туристический лагерь этим не подтверждён.",
+      "next_action": "Фактические классы детей, новые даты и цены, обучение без обязательного китайского, приём иностранцев и паспорт, места и договор. Заявления о NASA и исключительном статусе не проверены; учебный сертификат не подтверждает международную победу.",
+      "url": "https://ilri.info/"
+    },
+    {
+      "country": "Южная Корея",
+      "iso": "KOR",
+      "provider": "v95 · Branksome: найденный летний PDF относится к 2016",
+      "detail": "Собственный шестистраничный PDF создан в 2016 и прямо описывает лето 2016 и учебный год 2016–17. Страница 2 проверена визуально. 25 июля–5 августа нельзя использовать как даты 2026/2027. Подготовительная программа описана для нынешних учениц Branksome/PYP/MYP. Текущая школьная таблица приёма не подтверждает допуск в лагерь и классы наших детей. Подходящая новая смена детям 6/9 этим документом не подтверждена; 13 прежних корейских досье сохранены.",
+      "next_action": "Новые программы 2026/27, приём мальчиков, внешних и иностранных детей, английский язык технических занятий, возраст 6/9, цены дневного формата и пансиона, места. Аудит Кореи и остальных стран остаётся открытым.",
+      "url": "https://www.branksome.asia/uploaded/Portal_Documents/Main_Site_Documents/ENGLISH_KOREAN_INTERACTIVE.pdf"
+    }
+  ],
+  "calendar": {
+    "events": 3140,
+    "learning_records": 1809,
+    "family_ics": 2401,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1346,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 30,
+    "http200": 21,
+    "direct_errors": 9,
+    "soft404": 2,
+    "navigation_only": 2,
+    "selective_browser_observations": 7,
+    "actual_pdfs": 1,
+    "visual_page_checks": 1
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "Nine new programme dossiers across4operatorgroups, not9independent top-ranked operators.631total/37countries/992own-dossierURLs.622priorIDs/order and621unrelated dossiers retained; onlyHarrowAppi existingprofile deepened.",
+    "All3123prior events/leagues/competitions/exhibitions/schools/results/familyroutes preserved exactly.17newfuturecalendarrows/ICS only;19actualpastcampvariants retained in dossiers, not copiedinto2027 or addedasfuturecalendar.",
+    "LPE own2026/27upperdates vs oldsummerDescription/4–6/7–12 conflict preserved;2027selectorempty notplacesproof. WhizzEN/GST/currency unknown. Smash ownOctdates override no secondaryNov/Dec claim; member/public price not invented and family50discount totalnotperchild.",
+    "MindSprint/Story separateage9+/8+ courses;10own2026futurecohorts. StoryAMtable/genericPM and680/600/800 conflicts, Sprint28Dec8or12h conflict andunknown4-dayfee retained. CreativeAI/noexternalinternationalmedal. ENwebsite/prompt not humanEnglishteacher.",
+    "ILRI actual17specificcampus/track variants split8LEGO/5Minecraft/4Roblox; allarchive2026. Grade1gate/Roblox4+ not inferredfrombirthyear or genericage4–18. ConfirmedbilingualENonlyLEGO, gameEnglishinterface notteacher.13200/9500expired/1000insidefee andpaidkit preserved.",
+    "TCS actualFeb2026English-based/G5–7/19000includes2000materials/lunch archive, no new2027date. Actualfamilygrades unknown; no false childeligibility fromDOB. BranksomePDF6pages metadata/body2016/page2visual not2026camp; currentregularschoolgradechart notcampgate.",
+    "Harrow5mornings13h45 includegrouping/tests/races, snow13h20,6nights/7calendar dates,440000JPYpublictaxincluded/352000onlycurrentstudents. No purecodinghour/parentboarding/registrationacceptance claim.",
+    "Allprimaryretrievalmethods/errors/soft404/navigation-only responses and7selectivebrowserobservations recorded honestly. RawHTML/PDF/form/render text outsidecheckout; publicexports only paraphrases/URLs/hashes. No personaldata/formsubmission/cart/payment.",
+    "CanonicalJSON/SQLite/CSV/JS/MD/ICS consistency, stableoldUID/date/deadline, bridgeidempotence andlanguage/age/phase filters independently checked. Allworld requirements/priorities retained,0fullyauditedcountries/nativegoalactive."
+  ],
+  "next_priority": "Continue full Switzerland/France/Spain/Europe, Taiwan/Singapore/Korea/Japan/Asia, USA/Canada/CostaRica/Mexico/LatinAmerica and allworldcountry2026–27 general/thematic/boarding/day/family camp inventory. Verify freshowncohorts, actualDOB/grade, EN/ES/RU teaching/support roles, foreignintake, currentplaces, specificsyllabus/technicallevel,fullseasoninvoice/contract, campusmap andfamilycomparisons. Keep leagues/competitions/exhibitions/admission/schools/results5–10years/familyroutes active; no country fullyaudited."
+}

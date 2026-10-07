@@ -1,0 +1,130 @@
+{
+  "asof": "2026-10-05",
+  "version": 100,
+  "status": "progress",
+  "scope": "Swiss technical programme levels/format/price and French English-family holiday options, with scoped Spain/France archive cross-checks. Not wholeEurope/world.",
+  "new_dossiers": 18,
+  "new_operator_groups": 6,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "cosmo-mornings",
+    "cosmo-full-days",
+    "codecamp-spark",
+    "codecamp-ignite",
+    "codecamp-blast",
+    "codecamp-web",
+    "codecamp-engineers",
+    "codecamp-masters",
+    "codecamp-experts",
+    "codecamp-animation",
+    "codecamp-ai",
+    "issh-techlabs-robots",
+    "issh-techlabs-drones",
+    "forest-paris-holidays",
+    "eib-monceau-preschool",
+    "eib-monceau-science",
+    "beelingue-paris-autumn",
+    "beelingue-levallois-autumn"
+  ],
+  "new_calendar_rows": 25,
+  "new_family_session_ics": 25,
+  "new_family_ics": 25,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 0,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 698,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1087,
+  "country_dossier_counts": {
+    "CHE": 99,
+    "FRA": 58,
+    "ESP": 62,
+    "TWN": 46,
+    "SGP": 78,
+    "JPN": 45,
+    "KOR": 16,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v100 · Cosmo, Code Camp и ISSH: язык/возраст по конкретной программе",
+      "detail": "CosmoPDF уточняет Пасху280 и невозвратные условия, но не camp minimum/EN. CodeFAQ требует13+AI account при9–13, Masters7–12 vs8–13, termsAustralian2018; public listing вернул только JS shell, course/fee/language не доказаны. ISSHroboticsDE/ENenvironment2026, droneEN/2027 не установлены.",
+      "next_action": "Проверить EN/возраст/foreignintake каждого заезда, допустимый младший AI access, точный invoice/Swisscontract, syllabus/gear/ratio/места.",
+      "url": "https://en.codecampworld.ch/faq"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v100 · Florimont / Futurekids: партнёры и языковые границы",
+      "detail": "Florimont2026: Futurekids5–14 half-days robotics/Minecraft, TechSpark9–16 и AlbertSchool15–18 EN; последний только futureage. Futurekids ownpage вернул пустой JS shell без syllabus/fee/language. Autumn19–23Oct4–9CHF810: EN интерфейс не teacherproof. Дубликат TechSpark не создан.",
+      "next_action": "Получить programme-specific own body/EN teaching/полный2027invoice/terms/внешний допуск; AlbertSchool исследовать как будущий entrepreneurshipтрек.",
+      "url": "https://www.florimont.ch/en/summer-camps/"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v100 · Planète Sciences English и школьные недели",
+      "detail": "Grasse Sciences in English7–12,19–23/26–30Oct2026 по190EUR; только title/details, syllabus/часы/полный пакет/boarding не опубликованы. Не объявлен top camp без этих условий. Forest/EIB/BeeLingue добавлены с собственными датами/программами; campcontract ещё нужен.",
+      "next_action": "Подтвердить science teaching language/режим/syllabus/all-in/приём иностранцев и минимальный возраст; новые2027 смены отдельно.",
+      "url": "https://www.planete-sciences.org/mediterranee/sejour-de-vacances/"
+    },
+    {
+      "country": "Испания / Франция",
+      "iso": "ESP",
+      "provider": "v100 · повторная проверка архивов не создаёт новый сезон",
+      "detail": "FAISL PDF визуально вновь не содержит ghost100%EN/grade старого скрытого слоя; прежняя осторожная карточка сохранена. StGeorge robotics2026 прайс/6–10 подтверждены selectedpage9, не2027. Lacunza толькоseason2027/6–13/триформата; ILC dates/prices без года. Все четыре досье без новых доказательств оставлены неизменными.",
+      "next_action": "Новыеprogramme-specific2027dates/prices/teacherlanguage/fullcontracts и youngerboardingintake; не переносить oldprices/form2024/hiddenPDFtext.",
+      "url": "https://www.lacunza.es/es/campamentos/lacunza-camp"
+    }
+  ],
+  "calendar": {
+    "events": 3230,
+    "learning_records": 1899,
+    "family_ics": 2491,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1436,
+    "reused_legacy_events": 69,
+    "season_windows": 42
+  },
+  "primary_retrievals": {
+    "direct_attempts": 39,
+    "http200": 39,
+    "retrieval_errors": 0,
+    "javascript_shells_without_programme_body": 2,
+    "unique_actual_pdfs": 4,
+    "selected_visual_page_checks": 8
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "18newprogramme/format/age/venue dossiers across6operatorgroups:13CHE/5FRA. All680priorprofiles and3205priorrecords retained byte-logically;698dossiers/37countries/1087URL/21newURL.",
+    "25new exactdatedrecords and25familyplanningICS;9Cosmo formatweeks/6CodeAI venuecohorts/6Forest seasonalweeks/2EIB/2BeeLingue. Unknownadmission/language remain TENTATIVE, not confirmedparticipation. No newregistrationdeadline or seasonwindow invented.",
+    "Cosmo2027 actualPDF: morning350/full500/Academyonly10percent/Pascha280vswebTBC, camp age not inheritedfrom8+yearclass, giftmicrobit notpromisedtocamp, Wednesdaypool not15automaticroboticshours/nonrefund/personalinsurance.",
+    "CodeCamp9distincttechnicalprogrammes and progression; cohortlanguageunconfirmed. Masters7–12vs8–13, AI9–13 vs13+account, MinecraftEducation/templicense/foodBYO/50lateequipmentfee, Australian2018terms applicability unresolved. Generic3D copiedtemplates notsyllabus or duration.",
+    "ISSH7–10robot/sensor and11+simulator-toautonomousdrones are2026archive650CHF. DE/ENenvironment onlyyounggroup; no new2027dates/teacherlanguage or schoolboarding assumption.",
+    "Forest ENcampLife2–12/openexternal/six2026–27weeks:450or480+40=490or520, two980or1040. 40summerextendedday/transportunpriced. EIB650lunch primary6–11 vs preschool2.5–5 andexactbirthday unknown.",
+    "BeeLingueParisage3–6and7–10/495full225halfweek/foodBYO/25eachouting;1090two beforeannual30/discount, conditional1070.50 ifsecondtuition10percentandannualfee apply. Lev differentvenue/14–18/225week,EN15–17lessonrole; generalworkshopCGDV notautomaticallycampcontract.",
+    "39directHTTP200retrievals/4actualPDFs/8selectedvisualpages. Codepubliclist andFuturekids JSshell no programmefacts. FlorimontENinterface/Albertfutureage/PlaneteSciencetitle-only/Spanisharchives/ILCyearmissing are opengaps; alloldprofiles retained.",
+    "IndependentJSONSQLiteCSVMDICS/bridgeidempotence/JSfilters/oldUID-dates verification; allstaticfiles below26214400byte/native limit andpage_size1024 retained. RawHTML/PDF/renders private; public factualparaphrases/sourceURLs/hash/scopedreceipts only.",
+    "Fullworldscope/prioritycountries/requirements/goalactive preserved;0countriesfullyaudited. Selection is editorial familyfit, not worldranking; internal medals not international results."
+  ],
+  "next_priority": "Continue fullworld2026–27 general/thematic/technical camps, boarding/day/family andEN/ES/RU instruction byactualprogramme. Prioritize CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatinAmerica; verify currentseason/foreignindividualintake/DOB-grade/language/fullinvoice/contract/gear/ratio/places. DeepSwissgeneralboarding andFrench/Spanishseasonchanges remainactive. Leagues/competitions/exhibitions/childadmission/schools/results5–10years/familyroutes remainfullscope; no countryfullyaudited."
+}

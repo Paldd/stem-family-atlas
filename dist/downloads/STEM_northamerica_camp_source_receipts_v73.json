@@ -1,0 +1,372 @@
+{
+  "asof": "2026-10-05",
+  "version": 73,
+  "scope": "Programme/pricing/FAQ/contracts and actual booking-page reads; failed retrievals remain explicit",
+  "sources": [
+    {
+      "key": "emerson-dates",
+      "url": "https://www.campemerson.com/about-us/dates-fees-faqs/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "emerson-about",
+      "url": "https://www.campemerson.com/about-us/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "emerson-science",
+      "url": "https://www.campemerson.com/about-us/activities/science-adventure/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "summertech-dates",
+      "url": "https://www.summertech.net/dates-pricing/",
+      "final_url": "https://www.summertech.net/dates-pricing/",
+      "status": 200,
+      "bytes": 381575,
+      "sha256": "b502c8e8c6b2ca6d42a1f198ef7b1cb65d26543746464aa48736182eefc59fea"
+    },
+    {
+      "key": "summertech-included",
+      "url": "https://www.summertech.net/whats-included/",
+      "final_url": "https://www.summertech.net/whats-included/",
+      "status": 200,
+      "bytes": 262954,
+      "sha256": "ce8b14c8783885916277a5c0223199fd4abd69620d4a6979883b5c6da72b7b90"
+    },
+    {
+      "key": "summertech-python",
+      "url": "https://www.summertech.net/python/",
+      "final_url": "https://www.summertech.net/python/",
+      "status": 200,
+      "bytes": 320114,
+      "sha256": "1984d82998fd270759003d7d800cc4dcea972e9c2b1ad46013fbe41dad469fb6"
+    },
+    {
+      "key": "inventor-laval",
+      "url": "https://stemschoolinventor.ca/summer-camp-laval/",
+      "final_url": "https://stemschoolinventor.ca/summer-camp-laval/",
+      "status": 200,
+      "bytes": 124585,
+      "sha256": "5c43f20404067ee5023612bc99f85d3996f693fc680187380a6dccd3d2246b52"
+    },
+    {
+      "key": "galileo-home",
+      "url": "https://galileo-camps.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "envision-camps",
+      "url": "https://envisionrobotics.com/stem-camps-for-kids-markham/",
+      "final_url": "https://envisionrobotics.com/stem-camps-for-kids-markham/",
+      "status": 200,
+      "bytes": 164067,
+      "sha256": "606d0f89c156c590c3396bce673ecffe0174644e92839b7a3e273dd3378a9e18"
+    },
+    {
+      "key": "brainstem-winter",
+      "url": "https://www.brainstemlearning.ca/programs/winter-camp",
+      "final_url": "https://www.brainstemlearning.ca/programs/winter-camp",
+      "status": 200,
+      "bytes": 100915,
+      "sha256": "083bc7eaf678c89a1bdfc1a839cc08b5b9979e8d69bd32433ad4bfdc2bfcf953"
+    },
+    {
+      "key": "stemotics-winter",
+      "url": "https://stemotics.com/product/winter-break-camp/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "canadventure-dates",
+      "url": "https://www.canadianadventurecamp.com/dates-and-rates/",
+      "final_url": "https://www.canadianadventurecamp.com/dates-and-rates/",
+      "status": 200,
+      "bytes": 105048,
+      "sha256": "6ec040dd9b4cc399b0dd560071fa96e97b5278fbb60f3780cf3a5df8c5ff6ec7"
+    },
+    {
+      "key": "inventor-faq",
+      "url": "https://stemschoolinventor.ca/camp-faq/",
+      "final_url": "https://stemschoolinventor.ca/camp-faq/",
+      "status": 200,
+      "bytes": 50135,
+      "sha256": "0a265fb1c60415c52360f1f59d5989bfbf59470f933e2836942deb84aabb306a"
+    },
+    {
+      "key": "inventor-jr-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMJuniorMechanicsDayCamp67yearsold",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "inventor-middle-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMMiddleRoboticsDayCamp910yearsold",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "inventor-senior-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMSeniorDayCamp1112yearsold",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "brainstem-faq",
+      "url": "https://www.brainstemlearning.ca/faqs/",
+      "final_url": "https://www.brainstemlearning.ca/faqs",
+      "status": 200,
+      "bytes": 102935,
+      "sha256": "d2cd18b5adeecb34555ab11a32f9dec17c5ea4ccbac51fc6091cd7512f00fe8d"
+    },
+    {
+      "key": "canadventure-international",
+      "url": "https://www.canadianadventurecamp.com/international-campers/",
+      "final_url": "https://www.canadianadventurecamp.com/international-campers/",
+      "status": 200,
+      "bytes": 100356,
+      "sha256": "e9ceca4d65f73ba522bfc3ec0e5af4799a24c938ec9915930aa3edff6366eb0c"
+    },
+    {
+      "key": "canadventure-faq",
+      "url": "https://www.canadianadventurecamp.com/faqs-prospective-families/",
+      "final_url": "https://www.canadianadventurecamp.com/faqs-prospective-families/",
+      "status": 200,
+      "bytes": 118367,
+      "sha256": "c6ebcd1462f4b9be6fc471ddfa306a4dc8610cbd496ecb741bab1194acdc5d85"
+    },
+    {
+      "key": "canadventure-general",
+      "url": "https://www.canadianadventurecamp.com/programs/general-camp-program/",
+      "final_url": "https://www.canadianadventurecamp.com/programs/general-camp-program/",
+      "status": 200,
+      "bytes": 102711,
+      "sha256": "99d0584c6c54159abcf91e7dc0439005551437222943e862536642ab64a2d70d"
+    },
+    {
+      "key": "canadventure-terms",
+      "url": "https://www.canadianadventurecamp.com/terms-and-conditions/",
+      "final_url": "https://www.canadianadventurecamp.com/terms-and-conditions/",
+      "status": 200,
+      "bytes": 121605,
+      "sha256": "25ff02aac57c528d79ad721261d4a95c310461552491745c5459f65ab4eae7e6"
+    },
+    {
+      "key": "envision-winter",
+      "url": "https://envisionrobotics.com/product/winter-stem-camp-markham/",
+      "final_url": "https://envisionrobotics.com/product/winter-stem-camp-markham/",
+      "status": 200,
+      "bytes": 149883,
+      "sha256": "fa465339a4182bdac9430ca19daa9f9c87de1bd68f537a620ad65a6d9a59149e"
+    },
+    {
+      "key": "summertech-main",
+      "url": "https://www.summertech.net/",
+      "final_url": "https://www.summertech.net/",
+      "status": 200,
+      "bytes": 368527,
+      "sha256": "cb3f10bd762673609b326f51ae89f5febb32121af41561db2ac57cc8913de1ad"
+    },
+    {
+      "key": "summertech-terms",
+      "url": "https://www.summertech.net/terms-and-conditions/",
+      "final_url": "https://www.summertech.net/terms-and-conditions/",
+      "status": 200,
+      "bytes": 251206,
+      "sha256": "790b6feddfb5ed5ddeafdd08df9d5b4c7d010e39ad35182ae7af835fa7c85c83"
+    },
+    {
+      "key": "summertech-overnight",
+      "url": "https://www.summertech.net/overnight/",
+      "final_url": "https://www.summertech.net/overnight/",
+      "status": 200,
+      "bytes": 397162,
+      "sha256": "c7790dc7db55339186a573550aaf31cffbd4ffc7a138e1d3b33e5931655fea55"
+    },
+    {
+      "key": "canadventure-airport",
+      "url": "https://www.canadianadventurecamp.com/transportation/airport-service/",
+      "final_url": "https://www.canadianadventurecamp.com/transportation/airport-service/",
+      "status": 200,
+      "bytes": 102175,
+      "sha256": "2957dff3121eff79f5e7b93e97c507951c0d774dea36ab98835a88b52835be2d"
+    },
+    {
+      "key": "galileo-programme",
+      "url": "https://galileo-camps.com/camp-galileo/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "galileo-irvine",
+      "url": "https://galileo-camps.com/our-camps/locations/irvine-1/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "emerson-guide",
+      "url": "https://www.campemerson.com/wp-content/uploads/2025/10/Emerson-Camper-Guide.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "stemotics-faq",
+      "url": "https://stemotics.com/faq/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "stemotics-refund",
+      "url": "https://stemotics.com/cancellation-refund-policy/",
+      "error": "HTTP Error 406: Not Acceptable"
+    }
+  ],
+  "recovered_reads": [
+    {
+      "key": "inventor-junior-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMJuniorLEGODayCamp456yearsold",
+      "method": "native browser accessibility read; full programme card",
+      "bytes": 9439,
+      "sha256": "12f926da99f5ef3e5aac23868a28252a63f0683d9b55d596a8aa7df2ee85f46f",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Schedules opened/read without registration, account creation or submission."
+    },
+    {
+      "key": "inventor-jr-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMJuniorMechanicsDayCamp67yearsold",
+      "method": "native browser accessibility read; full programme card",
+      "bytes": 9835,
+      "sha256": "96f5807277cc86ca033c2c5030fbf8630e90409377b09599a8ae05502dad2756",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Schedules opened/read without registration, account creation or submission."
+    },
+    {
+      "key": "inventor-middle89-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMMiddleRoboticsDayCamp89yearsold",
+      "method": "native browser accessibility read; full programme card",
+      "bytes": 10086,
+      "sha256": "052c7063dbe7fb48eedb977a3f591e3e90b029d97774b79179ae86f9bf9d15d4",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Schedules opened/read without registration, account creation or submission."
+    },
+    {
+      "key": "inventor-middle-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMMiddleRoboticsDayCamp910yearsold",
+      "method": "native browser accessibility read; full programme card",
+      "bytes": 10028,
+      "sha256": "55e9045260436bcbd7a683117cd6d9b6a3f6519829123771b8473f5546bd0ea8",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Schedules opened/read without registration, account creation or submission."
+    },
+    {
+      "key": "inventor-senior-booking",
+      "url": "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMSeniorDayCamp1112yearsold",
+      "method": "native browser accessibility read; full programme card",
+      "bytes": 9816,
+      "sha256": "f8cdc09a96cc39e0300d165363a88f8e291dcac9a81beb28d0a6ad91d3bbe38a",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Schedules opened/read without registration, account creation or submission."
+    },
+    {
+      "key": "emerson-dates",
+      "url": "https://www.campemerson.com/about-us/dates-fees-faqs/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "2027 four sessions, fees, minimum7 and elective model; direct403"
+    },
+    {
+      "key": "emerson-about",
+      "url": "https://www.campemerson.com/about-us/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "General international overnight camp; direct403"
+    },
+    {
+      "key": "emerson-science",
+      "url": "https://www.campemerson.com/about-us/activities/science-adventure/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Modelrockets/CO2cars/science; no robotics intensive proved; direct403"
+    },
+    {
+      "key": "stemotics-winter",
+      "url": "https://stemotics.com/product/winter-break-camp/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "8bookable dates and age course descriptions; tariff/refund conflicts; direct406"
+    },
+    {
+      "key": "stemotics-faq",
+      "url": "https://stemotics.com/faq/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Kits stay at instructor, not takehome; direct406"
+    },
+    {
+      "key": "stemotics-refund",
+      "url": "https://stemotics.com/cancellation-refund-policy/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "35fee also deducted from50percent; direct406"
+    },
+    {
+      "key": "galileo-programme",
+      "url": "https://galileo-camps.com/camp-galileo/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "Day STEAM by grade, not every course robotics; direct403"
+    },
+    {
+      "key": "galileo-irvine",
+      "url": "https://galileo-camps.com/our-camps/locations/irvine-1/",
+      "method": "web primary-page open/read",
+      "status": "read",
+      "checked": "2026-10-05",
+      "note": "2027banner vs closedlocal2026calendar; exactIrvinecampus; direct403"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://envisionrobotics.com/product/winter-stem-camp-markham/",
+    "https://envisionrobotics.com/stem-camps-for-kids-markham/",
+    "https://galileo-camps.com/camp-galileo/",
+    "https://galileo-camps.com/our-camps/locations/irvine-1/",
+    "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMJuniorLEGODayCamp456yearsold",
+    "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMJuniorMechanicsDayCamp67yearsold",
+    "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMMiddleRoboticsDayCamp89yearsold",
+    "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMMiddleRoboticsDayCamp910yearsold",
+    "https://inventor-camps.jumbula.com/SUMMERLAVAL2027/STEMSeniorDayCamp1112yearsold",
+    "https://stemotics.com/cancellation-refund-policy/",
+    "https://stemotics.com/faq/",
+    "https://stemotics.com/product/winter-break-camp/",
+    "https://stemschoolinventor.ca/camp-faq/",
+    "https://stemschoolinventor.ca/summer-camp-laval/",
+    "https://www.brainstemlearning.ca/faqs/",
+    "https://www.brainstemlearning.ca/programs/winter-camp",
+    "https://www.campemerson.com/about-us/",
+    "https://www.campemerson.com/about-us/activities/science-adventure/",
+    "https://www.campemerson.com/about-us/dates-fees-faqs/",
+    "https://www.canadianadventurecamp.com/dates-and-rates/",
+    "https://www.canadianadventurecamp.com/faqs-prospective-families/",
+    "https://www.canadianadventurecamp.com/international-campers/",
+    "https://www.canadianadventurecamp.com/programs/general-camp-program/",
+    "https://www.canadianadventurecamp.com/transportation/airport-service/",
+    "https://www.summertech.net/",
+    "https://www.summertech.net/dates-pricing/",
+    "https://www.summertech.net/overnight/",
+    "https://www.summertech.net/python/",
+    "https://www.summertech.net/terms-and-conditions/",
+    "https://www.summertech.net/whats-included/"
+  ],
+  "external_actions": [],
+  "notes": [
+    "Direct HTTP status and native-browser/web recovery are separate; no invented200 or hash for web-only retrieval.",
+    "Emerson camperguide PDF was inaccessible403 and not read; not claimed as evidence.",
+    "No EN instruction confirmed merely byEnglish website, EN/FRtranslation, programming-language syntax or hostedtestimonials.",
+    "CAC site terms are generic website terms, not the camp enrollment contract. Enrollment/payment not performed.",
+    "Envision no-year product, Galileo closed menu and SummerTech2026dates not promoted to2027."
+  ]
+}

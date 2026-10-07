@@ -1,0 +1,236 @@
+{
+  "asof": "2026-10-05",
+  "version": 76,
+  "scope": "Direct primary HTML/PDF reads and native rendered new Empire page; errors retained without inventing successful reads",
+  "sources": [
+    {
+      "key": "empire-post",
+      "url": "https://empirecode.co/post-psle-camps/",
+      "final_url": "https://empirecode.co/post-psle-camps/",
+      "status": 200,
+      "bytes": 404372,
+      "sha256": "f0818a0cbbc6c5312833532e610e19f7bcfe797cfd3e9ed3e6261a19caf8464d"
+    },
+    {
+      "key": "lab-holidays",
+      "url": "https://www.thelab.sg/holiday-programs/",
+      "final_url": "https://www.thelab.sg/holiday-programs/",
+      "status": 200,
+      "bytes": 151884,
+      "sha256": "d855f6dada7fc72c6462cda9de55a6ad2c5d77a26247f17a4a7ea5bcc47ebeb4"
+    },
+    {
+      "key": "lab-faq",
+      "url": "https://www.thelab.sg/faq/",
+      "final_url": "https://www.thelab.sg/faq/",
+      "status": 200,
+      "bytes": 202519,
+      "sha256": "5231e9e5657cc713119d04260cd7501e9cc79ceb1d4e4713a1ee03152202f75f"
+    },
+    {
+      "key": "asij-main",
+      "url": "https://sdc.asij.ac.jp/",
+      "final_url": "https://sdc.asij.ac.jp/",
+      "status": 200,
+      "bytes": 32272,
+      "sha256": "8a9490992cd829133adb5d9cc72ddf669e34942dbd714b0b30a98c97b2388ef9"
+    },
+    {
+      "key": "aoba-main",
+      "url": "https://japaninternationalschool.com/jp/extensions-programs/summer-school",
+      "final_url": "https://japaninternationalschool.com/jp/extensions-programs/summer-school",
+      "status": 200,
+      "bytes": 236773,
+      "sha256": "30c5c3d0e8f41cf4c7b7de6a71b3bc2647fa2038baedace6dbcc99d3ea8ca952"
+    },
+    {
+      "key": "aoba-flyer",
+      "url": "https://admin.japaninternationalschool.com/uploads/Flyer_English_Version_a7489db53d.pdf",
+      "final_url": "https://admin.japaninternationalschool.com/uploads/Flyer_English_Version_a7489db53d.pdf",
+      "status": 200,
+      "bytes": 6678452,
+      "sha256": "247b4886b390a17aaaa2f1bfbf77aa58166146369ff607f77c4c553f96f75549"
+    },
+    {
+      "key": "seoul-museum",
+      "url": "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2606240001&key=2304100020",
+      "final_url": "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2606240001&key=2304100020",
+      "status": 200,
+      "bytes": 1637706,
+      "sha256": "4ffcb5dad731ccc09bdde0633b77560f2f54d8500fc2dead4f2b64e62d318dc4"
+    },
+    {
+      "key": "seoul-institute",
+      "url": "https://ssei.sen.go.kr/fus/MI000000000000000302/program/CD00000415/list0010v.do",
+      "final_url": "https://ssei.sen.go.kr/fus/MI000000000000000302/program/CD00000415/list0010v.do",
+      "status": 200,
+      "bytes": 62864,
+      "sha256": "be122e20c62ac976c4977ac1682e72757b4fda4e5b5352e80660b3e755cc4790"
+    },
+    {
+      "key": "empire-dec",
+      "url": "https://empirecode.co/december-holiday-camps-singapore/",
+      "final_url": "https://empirecode.co/december-holiday-camps-singapore/",
+      "status": 200,
+      "bytes": 381050,
+      "sha256": "8c1c6f794e7378368f614d447196531719cd2b9f7961e0b2c42d9a74a5054dc5"
+    },
+    {
+      "key": "empire-faq",
+      "url": "https://empirecode.co/faq/",
+      "final_url": "https://empirecode.co/faq/",
+      "status": 200,
+      "bytes": 147017,
+      "sha256": "e53b48d98fe44c38bf3d4dfca28e2d3fc72d8795c561fe037287941744ce8df1"
+    },
+    {
+      "key": "lab-young",
+      "url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-5-7/",
+      "final_url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-5-7/",
+      "status": 200,
+      "bytes": 156102,
+      "sha256": "bfee7db486c97dec807f8defc82239f6e861b9cb77d1ef0d85c8c69e158d4364"
+    },
+    {
+      "key": "lab-middle",
+      "url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/",
+      "final_url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/",
+      "status": 200,
+      "bytes": 156808,
+      "sha256": "709b7c8e6a1d3e32ca90ba722726240918a7840bf0a4831fb2e89336ee25b54c"
+    },
+    {
+      "key": "asij-chofu",
+      "url": "https://sdc.asij.ac.jp/sdc-at-chofu",
+      "final_url": "https://sdc.asij.ac.jp/sdc-at-chofu",
+      "status": 200,
+      "bytes": 44441,
+      "sha256": "06cf9b646a8ee3615d6f2505988e734727a30e397e121b579d40ae0986c909ca"
+    },
+    {
+      "key": "asij-roppongi",
+      "url": "https://sdc.asij.ac.jp/sdc-at-roppongi",
+      "final_url": "https://sdc.asij.ac.jp/sdc-at-roppongi",
+      "status": 200,
+      "bytes": 28198,
+      "sha256": "6e0934ab2341633cef08da14b636bc0c5761d0b64bd29a2445ecd61fd7051ae3"
+    },
+    {
+      "key": "asij-faq",
+      "url": "https://sdc.asij.ac.jp/faqs",
+      "final_url": "https://sdc.asij.ac.jp/faqs",
+      "status": 200,
+      "bytes": 14236,
+      "sha256": "dc713bd6123b74b6d5dae1326cb8d14252e3a0f54a014401fb8f305336f819b3"
+    },
+    {
+      "key": "grove-winter",
+      "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+      "final_url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+      "status": 200,
+      "bytes": 35616,
+      "sha256": "019bfd2314b1683a4ef28a8af4a305604ebc1c0a8cec7a068686230f10a06916"
+    },
+    {
+      "key": "brown-ai",
+      "url": "https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/",
+      "final_url": "https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/",
+      "status": 200,
+      "bytes": 88390,
+      "sha256": "0b29006e1ba1c5a3b5655f9824053e02425d4c67506d94b8484e0af2245fcd18"
+    },
+    {
+      "key": "irobo-frozen",
+      "url": "https://www.irobo.com.tw/spike-ev3-camp-theme2",
+      "final_url": "https://www.irobo.com.tw/spike-ev3-camp-theme2",
+      "status": 200,
+      "bytes": 2022592,
+      "sha256": "2faf5bbc7250f0b330d5c8cf67a92b1486bb4137dc341ce82a6ca756861f18c8"
+    },
+    {
+      "key": "wenzao-winter",
+      "url": "https://a001.wzu.edu.tw/article/530275",
+      "final_url": "https://a001.wzu.edu.tw/article/530275",
+      "status": 200,
+      "bytes": 47465,
+      "sha256": "c7e329478d015ad11a3de2c5c066142f89708329ff305213566a7a15ccd3d519"
+    },
+    {
+      "key": "empire-terms",
+      "url": "https://empirecode.co/terms-and-conditions",
+      "final_url": "https://empirecode.co/terms-and-conditions/",
+      "status": 200,
+      "bytes": 95514,
+      "sha256": "61d3d9bb2b0de4ac3d0539f9d67f68c004ff74fc9ed5725c2fe8966533523964"
+    },
+    {
+      "key": "lab-terms",
+      "url": "https://www.thelab.sg/terms-conditions/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "empire-old-yearend",
+      "url": "https://empirecode.co/year-end-camps/",
+      "final_url": "https://empirecode.co/year-end-camps/",
+      "status": 200,
+      "bytes": 372360,
+      "sha256": "27716753c1b924626e266b290eed6398905ded95929e7a9615d64452497c288b"
+    },
+    {
+      "key": "aoba-jp-flyer",
+      "url": "https://admin.japaninternationalschool.com/uploads/Flyer_Japanese_Version0501_7901c5400c.pdf",
+      "final_url": "https://admin.japaninternationalschool.com/uploads/Flyer_Japanese_Version0501_7901c5400c.pdf",
+      "status": 200,
+      "bytes": 8033931,
+      "sha256": "81f82eb3f48abdc6498a9eff0afb59611c18123253eb4c20580f11ad187c9bde"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://a001.wzu.edu.tw/article/530275",
+    "https://admin.japaninternationalschool.com/uploads/Flyer_English_Version_a7489db53d.pdf",
+    "https://elementaryschool.ltbrown.hcc.edu.tw/announcement-detail/44/",
+    "https://empirecode.co/december-holiday-camps-singapore/",
+    "https://empirecode.co/faq/",
+    "https://empirecode.co/post-psle-camps/",
+    "https://japaninternationalschool.com/jp/extensions-programs/summer-school",
+    "https://science.seoul.go.kr/RAIM/bbsctt/view.do?bbscttSn=2606240001&key=2304100020",
+    "https://sdc.asij.ac.jp/",
+    "https://sdc.asij.ac.jp/sdc-at-chofu",
+    "https://sdc.asij.ac.jp/sdc-at-roppongi",
+    "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+    "https://www.irobo.com.tw/spike-ev3-camp-theme2",
+    "https://www.thelab.sg/faq/",
+    "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-5-7/",
+    "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/"
+  ],
+  "visual_evidence": [
+    {
+      "evidence_file": "aoba-fees.png",
+      "local_research_only": true,
+      "bytes": 385923,
+      "sha256": "246a66618eacefa43cc77166b9d709f3913dc624d848f8e96b6ba7f81ea460d7",
+      "method": "Own EnglishPDF2026 page3 rendered and visually read: external tuition/registration/lunch/bus/after-school and nonrefundable clause"
+    }
+  ],
+  "native_rendered_reads": [
+    {
+      "url": "https://empirecode.co/december-holiday-camps-singapore/",
+      "method": "Native browser public page observed: current2026/27 five weeks, age bands, English-medium and pricing visible",
+      "no_registration": true
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "Empire new page ownJSON-LD saysSGD430/500, and programme table gives five distinct weeks. Broad structured-data23Nov–8Jan was not converted into one continuous session.",
+    "Empire oldyear-end page retained as separate contradictory2025 product; testimonials do not prove programme language or international results.",
+    "Labterms ownlink returned404; refund/currency/English were left unknown. RawHTTP succeeded for museum/institute pages after webtool failures; primary content actually read.",
+    "Aoba original EN/JP PDFs downloaded; ENpage3 fee table visually inspected. Operators brochure images and children data are not included in public downloads.",
+    "No form filling, GoogleForms submission, accounts, messages, bookings, subscriptions or payments."
+  ]
+}

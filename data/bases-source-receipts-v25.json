@@ -1,0 +1,157 @@
+{
+  "version": 25,
+  "checked": "2026-10-01",
+  "scope": "Family strategy refinement and current-year school fees; world event inventory unchanged",
+  "receipts": [
+    {
+      "key": "asfm-fees",
+      "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "final_url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "status": 200,
+      "bytes": 69027,
+      "sha256": "ed18b37c622258cac2063e0f92b02b10f520f08ffbf387233496582aa5d9120a",
+      "text_length": 9065,
+      "claim": "2026–27 K–5 tuition Child 1 / Child 2+ and one-time registration / entrance fees; first-year calculation for two children.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "asfm-admission",
+      "url": "https://www.asfm.edu.mx/admissions/application-process",
+      "final_url": "https://www.asfm.edu.mx/admissions/application-process",
+      "status": 200,
+      "bytes": 56727,
+      "sha256": "0b6090ef5a4da13071db76e45243b6f21efb08782b09ed0b89290f4ac11aa5b0",
+      "text_length": 6719,
+      "claim": "January 2027 application window and K–G11 2027–28 October 2026 applications.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "asfm-robotics",
+      "url": "https://www.asfm.edu.mx/extended-learning",
+      "final_url": "https://www.asfm.edu.mx/extended-learning",
+      "status": 200,
+      "bytes": 70545,
+      "sha256": "c42c28a7f132bb994f16bc769004bb32e1ba8b6de4b92865150c7f62d60a2e2c",
+      "text_length": 7411,
+      "claim": "Elementary FLL Explore and older FTC; no current junior seat promised.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "isp-stem",
+      "url": "https://isp.edu.pa/es/aprendizaje-stem/",
+      "final_url": "https://isp.edu.pa/es/aprendizaje-stem/",
+      "status": 200,
+      "bytes": 277111,
+      "sha256": "3099d52e6ad09236626d061a7b3284c8823fbd0f53d1d0c1526574a2f7e4c309",
+      "text_length": 10244,
+      "claim": "Grade1–5 weekly STEM; VEX teams Grade3–12.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "first-mex",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "bytes": 70283,
+      "sha256": "d99cf04ea989a3c48bb9843a22939623e59afb216077b6117e75fbfe44e2e2e6",
+      "text_length": 22836,
+      "claim": "Independent teams permitted; Founders Explore 6–10 demonstration and Challenge 9–16.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "tas-fees",
+      "url": "https://www.tas.edu.tw/admissions/tuition-fees",
+      "final_url": "https://www.tas.edu.tw/admissions/tuition-fees",
+      "status": 200,
+      "bytes": 99823,
+      "sha256": "ce64cb7cc0a15078bef08107b81ffd8aba7a488dc8f731a15c652ca4ae946659",
+      "text_length": 17093,
+      "claim": "2026–27 PK–G5 tuition includes deposit; building / capital / application fees, no sibling discount.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "tas-program",
+      "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "final_url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "status": 200,
+      "bytes": 161086,
+      "sha256": "9bec3148022ae8afe45ebf04076f27e91ea2a8ea831f5cf0a21fe13e35768301",
+      "text_length": 20190,
+      "claim": "Lower School robotics and separate senior laboratories / VEX / FRC provision.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "tas-admission",
+      "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "final_url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "status": 200,
+      "bytes": 112320,
+      "sha256": "82b0dd61e066790ca1cdcf2f52b131132cd13f03a8ad01219eada45ecbb80385",
+      "text_length": 23163,
+      "claim": "Foreign nationality and Greater Taipei residence with parent / guardian; 2027–28 open; exact class / place not established.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "key": "isp-admission",
+      "url": "https://isp.edu.pa/admissions/",
+      "final_url": "https://isp.edu.pa/admissions/",
+      "status": 200,
+      "bytes": 346611,
+      "sha256": "3970b7ab66ef4dc91cd97f406129111280797bb3892df22b47b614aefc57bbdd",
+      "text_length": 19056,
+      "claim": "2026–27 PK4–G5 tariff, Non-Institutional annual registration, capital payment in two stages; stale processing sentence 2025–26.",
+      "checked": "2026-10-01",
+      "read_method": "Saved primary HTML and extracted text; key passages cross-read with web tool"
+    },
+    {
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+      "checked": "2026-10-01",
+      "read_method": "web open turn409view0, lines410–411",
+      "claim": "Mexico appears in the E-2 treaty list; this does not establish family approval."
+    },
+    {
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+      "checked": "2026-10-01",
+      "read_method": "web open turn411view4 / turn412view6–7",
+      "claim": "Nonimmigrant investor route requires treaty nationality, substantial investment and a real operating enterprise; dependent spouse / unmarried children under21 may apply."
+    },
+    {
+      "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
+      "checked": "2026-10-01",
+      "published": "2025-01-18",
+      "read_method": "web open turn416view0, lines65–89",
+      "claim": "NIA general dependent ARC route for Gold Card family; no individual eligibility, current fees or school admission inferred."
+    }
+  ],
+  "source_issues": [
+    {
+      "key": "gold-family",
+      "url": "https://goldcard.nat.gov.tw/en/faq/now-that-i-have-obtained-the-employment-gold-card-how-do-i-apply-for-an-arc-for-my-spouse-and-children/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "gold-benefits",
+      "url": "https://goldcard.nat.gov.tw/en/faq/what-are-the-special-benefits-of-the-employment-gold-card/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "e2-rules",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "e2-countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "private_family_statuses_omitted": true
+}

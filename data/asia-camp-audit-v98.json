@@ -1,0 +1,123 @@
+{
+  "asof": "2026-10-05",
+  "version": 98,
+  "status": "progress",
+  "scope": "Japan/Taiwan/Korea programme, price, school-category and language evidence; Philippines linked winter boarding. Bounded additions, not complete Asia/world.",
+  "new_dossiers": 16,
+  "new_operator_groups": 5,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "laurus-winter-prek",
+    "laurus-winter-primary",
+    "laurus-winter-secondary",
+    "taas-adventurer1",
+    "taas-adventurer2",
+    "taas-pathfinder",
+    "alv-taipei-winter",
+    "alv-shilin-winter",
+    "alv-banqiao-winter",
+    "alv-kaohsiung-winter",
+    "alv-manila-winter",
+    "smis-jeju-winter",
+    "tenten-clark-english",
+    "tenten-clark-maths",
+    "tenten-korea-six",
+    "tenten-korea-speech"
+  ],
+  "new_calendar_rows": 21,
+  "new_family_session_ics": 20,
+  "new_family_ics": 21,
+  "new_registration_deadline_ics": 1,
+  "new_season_windows": 3,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 680,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1066,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 46,
+    "SGP": 78,
+    "JPN": 45,
+    "KOR": 16,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Япония",
+      "provider": "v98 · Laurus: конкретная зима, общий маркетинг и реальные доплаты",
+      "url": "https://www.laurus-school.com/winter-events/",
+      "detail": "Три возрастных формата и7 Pre-K кампусов добавлены отдельно. Musashi-Shinjo не работает. Non-Laurus цена, вступительный сбор и правила siblings проверены; Primary и Pre-K в разные недели. Подробный Pre-K сайт содержит старый summer абзац. Нет подтверждения недельного syllabus/полного пакета Primary/Secondary и мест.",
+      "next_action": "Точный кампус/группа/дни, класс Оскара, полная смета, медицинская страховка, weekly projects/hours/платформы и договор выбранного формата."
+    },
+    {
+      "country": "Тайвань",
+      "provider": "v98 · ALV и TAAS: текущие брошюры против архивных тарифов",
+      "url": "https://kidscamp.com.tw/tw/",
+      "detail": "ALV четыре2027 адреса/брошюры: Grade1–3/4–6, английский, театр/опыты, NTD9800+500. Скидка8折 означает80% tuition, не8% и не скидка на meal. TAAS Grade1–6/41500 относятся к2026; окно2027 из школьногоPDF не три открытые смены. Refund policy TAAS dated2020; не новый контракт. BC Taiwan EN/ZH прямые попытки истекли по timeout, существующие досье сохранены.",
+      "next_action": "Фактические классы обоих, иностранный индивидуальный приём/места, новый TAAS прайс/контракт, ALV discount/refund границы. Координаты площадок и полный аудит страны ещё не закрыты."
+    },
+    {
+      "country": "Южная Корея / Филиппины",
+      "provider": "v98 · SMIS / Tenten / ALV Manila: grade gates и английский по роли",
+      "url": "https://mguhak.com/smisjeju",
+      "detail": "SMIS актуальная зима2027:390만원=3,9млнKRW с уроками/пансионом/едой/страховкой/выездами; билет/100000карманных отдельно. Tenten startingGrade4+, Clark99%EN заявлен, Korean-stylegrammar/math язык отдельно не доказан. ALV Manila Jan23–Feb1/58800元,10days7nights и возраст не расшифрованы; buddy1:1 не teacher1:1. Не обещаем подходящий пансион Оскару или иностранный допуск.",
+      "next_action": "Школьные категории/национальность, language каждого предмета/бытовой среды, currency/ночи/rooms/full invoice/SSP, транспорт/отмена/места; независимая репутация и качество не подтверждены."
+    },
+    {
+      "country": "Япония / Южная Корея",
+      "provider": "v98 · LTL и Branksome: не считать любой coding camp открытым EN лагерем",
+      "url": "https://summercampjapan.com/",
+      "detail": "LTL2027 Tokyo/Osaka: Japanese20h/неделю, kidsday7–11, residence11–17, USD456from без конкретного пакета; нет точных смен/EN преподавания. Поэтому не добавлен в подтверждённые EN лагеря. Branksome Game Jam/VEXGO/Arduino — текущие школьные занятия, не внешний holiday camp с датами/ценой. Существующие программы/школы сохранены.",
+      "next_action": "Текущие внешние каникулы для мальчиков6/9, EN support/teaching и приём, программа/даты/price. Продолжать всю Швейцарию/Францию/Испанию/Европу и Америки: ни одна страна не объявлена полностью исследованной."
+    }
+  ],
+  "calendar": {
+    "events": 3205,
+    "learning_records": 1874,
+    "family_ics": 2466,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1411,
+    "reused_legacy_events": 69,
+    "season_windows": 42
+  },
+  "primary_retrievals": {
+    "direct_attempts": 27,
+    "http200": 24,
+    "retrieval_errors": 3,
+    "unique_actual_pdfs": 6,
+    "selected_visual_page_checks": 24
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "16newprogramme/venue/formatdossiers across5operators;all664priorIDs/order/content and3184priorrecords unchanged.680dossiers/37countries/1066dossierURLs;20newURLs.",
+    "21newcalendarrecords:9Laurusvenue/formats,4ALVTaiwan,1ALVManila,2SMIS,5Tenten. FamilyICS gains20sessions and1deduplicatedLaurusdeadline; Secondaryfutureage excluded.3TAASseasonwindows not cohortICS.",
+    "Laurus7activePreKcampuses/notMusashiShinjo;nonLaurus13/17kfrom vsweeklyPrimary85/100k andSecondary104k,6000entryrules. PreKDec14deadline/5000transfer/1000canceladmin/740busrestrictions. Weeklyspecificsyllabus/inclusions unresolved; older summer copy not programme proof.",
+    "ALV four2027imagebrochures: exactJan25–29/Grade1–6/ENclasses/timetable/address/9800+500. Registration500alreadyincluded,2Minsurancecoverage notfee.80%tuition early1–2tillOct20 gives8340/16680 conditional; promo deadline not registrationdeadline.",
+    "TAAS2027schoolwindowJul5–30 not weeklycohort or tuition2027. Three gradecourses/41500/currentUI are2026archive; refunddated2020 notcurrentcontract. Chapel and ENlanguage-lessonsrole visible; foreigngrade/intake not inferred.",
+    "SMIS current2027winter againststalecachedsummer:390만원=3900000KRW/Grade3+/19nights/2cohorts/completebasepackage;technicalEN/intake/refund unknown. TentenGrade4+/29calendardatesClark/secondspeech20days, Koreanstylemath unknownlanguage/foreignfit; earlyfeeconditions unresolved.",
+    "ALVManilaall6PDFpages: Jan23–Feb1,10days7nights conflict;currency/gradeunpublished. FullENandpeerbuddy notteacher1:1; flights/visasexcluded/internalcertificate notinternationalmedal.",
+    "27directattempts24HTTP200/3errors;6actualPDFs and24selectedvisualpagechecks, notfullsites/countryaudit. LTL Japanese/Englishunconfirmed andBranksomeschoolGameJam notnewENcamp. BCtimeoutsdidnotreplaceexistingdossiers.",
+    "IndependentJSONSQLiteCSVMDJSICS checks, stableoldUID/dates/deadlines, bridgeidempotence andfamily/language/phasefilters. Fullworldobjective/requirements preserved,0countriesfullyaudited/nativegoalactive.",
+    "SQLite storage layout compacted after native per-file size rejection; complete logical SQL dump equals originally pushed v98 export, schema/alltables/allrows retained. Every static file checked against26214400byte limit; new native publication receipt separate."
+  ],
+  "next_priority": "Continue deepCHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatinAmerica within fullworld2026–27 general/thematic/robotics/coding/AI/day/residential/family inventory. VerifycurrentseasonteachingEN/ES/RU/campLife/supportroles, individualforeignintake/places/actualDOB-grade, syllabus/hours/levels/kit, fullinvoice/contract/transport, exactcampusmap andfamilycomparisons. Leagues/competitions/exhibitions/childadmission/schools/results5–10years/familyroutes remainactive; no countryfullyaudited."
+}

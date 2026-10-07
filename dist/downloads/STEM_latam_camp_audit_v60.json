@@ -1,0 +1,42 @@
+{
+  "asof": "2026-10-04",
+  "version": 60,
+  "status": "progress",
+  "worldwide_complete": false,
+  "prior_events": 1986,
+  "prior_events_unchanged": 1986,
+  "prior_dossiers_unchanged": 88,
+  "new_dossiers": 14,
+  "new_calendar_entries": 11,
+  "dossiers": 102,
+  "countries": 20,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 182,
+  "family_ical_entries": 1381,
+  "exhibition_ical_entries": 104,
+  "source_receipt": "STEM_latam_camp_source_receipts_v60.json",
+  "checks": {
+    "prior_ids_and_dates": "preserved",
+    "prior_objects": "unchanged",
+    "CENFOTEC": "10–12 excludes both inDecember2026; L139 reused without duplicate; USD+IVA direct schema",
+    "MountView": "2–8 external admission; Matvey excluded",
+    "Conversa": "Flex without robotics vs CompletoPlus; all tariffs archive2026",
+    "OjoCiego": "direct2027 beats stale2026 cache; week boundaries not invented; Oscar7+gate",
+    "Rancho": "2027waitlist only; no dates or prices",
+    "Liota": "19days vs4weeks unresolved; no dated event/ICS and winter language/age unknown",
+    "Pellines": "three duration programmes of one operator; general7–17; official reader fallback explicitly labelled",
+    "LasMulas": "2027dates vs2026FAQ; EN+ES camplife; tuition2027unknown",
+    "EnglishCampBrazil": "October tariff beats September cache; paidKids8–12 distinct from freeGuest12–16",
+    "CampoAventuras": "closed intake; Digital part of30days; no new duplicate/ICS; hotel and financial terms unresolved",
+    "NR": "domestic public holiday main body missing; EnglishAction school-group not carried over",
+    "sqlite": "passed: integrity_check /foreign_key_check",
+    "bridge": "passed: idempotent /prior IDs and objects preserved",
+    "browser": "passed: Brazil/Chile language filters, comparison, full reset, closedColombia badge,14scenarios,390/320 no document overflow; no console errors",
+    "publication": "native save/deploy receipt separately required"
+  },
+  "remaining": [
+    "Other Europe and Asia; Korea external younger holiday programmes",
+    "More LatinAmerican technical camps, exact2027groups, EN/ES and total packages",
+    "Country discovery worldwide, exact campus map and live availability; no country fully audited"
+  ]
+}

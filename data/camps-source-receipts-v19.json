@@ -1,0 +1,680 @@
+{
+  "checked": "2026-10-01",
+  "method": "Direct primary URL retrieval; relevant public text and structured FAQ answers inspected. Specific PDFs text-extracted. HTTP success alone does not confirm relevant content or admission.",
+  "receipts": [
+    {
+      "key": "stgeorges-en",
+      "url": "https://www.stgeorges.ch/camps/summer-camps",
+      "final_url": "https://www.stgeorges.ch/camps/summer-camps",
+      "status": 200,
+      "bytes": 1905,
+      "sha256": "0b7da601effddf11e78230a9218428dab29a3913bb8e57fbd5b15b3eb89a8e44"
+    },
+    {
+      "key": "stgeorges-fr",
+      "url": "https://www.stgeorges.ch/fr/camps/summer-camps",
+      "final_url": "https://www.stgeorges.ch/fr/camps/summer-camps",
+      "status": 200,
+      "bytes": 242750,
+      "sha256": "7e5ca9d0aaa8e4a423488b49b8abfa8d715dc328dce04a8d3333c0d5b460ebe9"
+    },
+    {
+      "key": "brillantmont-tech",
+      "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+      "final_url": "https://summer.brillantmont.ch/mornings/tech-academy",
+      "status": 200,
+      "bytes": 10809,
+      "sha256": "f6a6c8fb42db2e1eb4f9dcbd223717d12a3829b268e43c95ec89d605133cd325"
+    },
+    {
+      "key": "brillantmont-faq",
+      "url": "https://summer.brillantmont.ch/questions",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "lyceum",
+      "url": "https://www.lyceum-alpinum.ch/en/summercamp/",
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    {
+      "key": "lyceum-digital",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2024/10/Factsheet-Digital-Skills.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2024/10/Factsheet-Digital-Skills.pdf",
+      "status": 200,
+      "bytes": 257392,
+      "sha256": "048ebe53eaf6c0b4060fe77744cad4b310b1c6005fdafd7f4c44a8f4d2edc337"
+    },
+    {
+      "key": "lyceum-2026",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf",
+      "status": 200,
+      "bytes": 1992603,
+      "sha256": "ba17606a21098cea297be155cb8b28a35b0bc3cb5e3fe0f85c3bd898f33a4165"
+    },
+    {
+      "key": "aalto",
+      "url": "https://www.aalto.fi/en/aalto-university-junior/camps",
+      "final_url": "https://www.aalto.fi/en/aalto-university-junior/camps",
+      "status": 200,
+      "bytes": 92018,
+      "sha256": "cebe866495b2ca2361098b4511bb60c8d1a4c8cfc30824473b8d0a29bcef99cd"
+    },
+    {
+      "key": "sotogrande",
+      "url": "https://www.sis.ac/school-life/summer-camps",
+      "final_url": "https://www.sis.ac/school-life/summer-camps",
+      "status": 200,
+      "bytes": 1975,
+      "sha256": "7f75a88cdb1a51a617f37546258bb49aba4b1b9d8c9fd4fc78e3b5db8c87ad64"
+    },
+    {
+      "key": "trainjunior",
+      "url": "https://trainthefuture.de/en/kurse/robotics-junior/",
+      "final_url": "https://trainthefuture.de/en/kurse/robotics-junior/",
+      "status": 200,
+      "bytes": 101406,
+      "sha256": "ecd61538cc8fe35af50ba22cc78d69cb87b1d3fc6d5bf03536d4eeb5e539d2ea"
+    },
+    {
+      "key": "xcltech",
+      "url": "https://xclcamps.com/the-techie/",
+      "final_url": "https://xclcamps.com/the-techie/",
+      "status": 200,
+      "bytes": 246155,
+      "sha256": "9b16f6f4f4d219a1141bcd58ea01fa0e1ff7c6cc014a6ea233e710724e81f2c3"
+    },
+    {
+      "key": "xclfaq",
+      "url": "https://xclcamps.com/faq/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uwcthailand",
+      "url": "https://www.uwcthailand.ac.th/beyond-the-classroom/summer-camps-2026",
+      "final_url": "https://www.uwcthailand.ac.th/beyond-the-classroom/summer-camps-2026",
+      "status": 200,
+      "bytes": 66428,
+      "sha256": "c36744cb7675cbefc1f01d0a8a89942584074e68490c5d3643e60e25dbed92ef"
+    },
+    {
+      "key": "ikcc-rules",
+      "url": "https://www.ikcc.info/en/rules-pag3",
+      "final_url": "https://www.ikcc.info/en/rules-pag3",
+      "status": 200,
+      "bytes": 224131,
+      "sha256": "94c1fafca6c8d42f97ab229be79de4ae9a48b54fc39d2aee1b4cc500eb94503b"
+    },
+    {
+      "key": "ikcc-calendar",
+      "url": "https://www.ikcc.info/en/calendar-pag18",
+      "final_url": "https://www.ikcc.info/en/calendar-pag18",
+      "status": 200,
+      "bytes": 188350,
+      "sha256": "c0c851e0cecd4bf552e555309608f53c035d66d58d08115f2648e0becd4ebb7b"
+    },
+    {
+      "key": "escuelab-camps",
+      "url": "https://www.escuelab.es/familia/que-hacemos/campamentos/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "waicy2026",
+      "url": "https://www.waicy.org/waicy-2026",
+      "final_url": "https://www.waicy.org/waicy-2026/",
+      "status": 200,
+      "bytes": 93373,
+      "sha256": "841755cfe0d5ddaebcf52dae2d4524341da13055dd9906c5a6f97cdf2a7bad4e"
+    },
+    {
+      "key": "codeavour8",
+      "url": "https://codeavour.org/",
+      "final_url": "https://codeavour.org/",
+      "status": 200,
+      "bytes": 323470,
+      "sha256": "87b1b5901af79d2c66d1ddcb885eb9434efa21d085ec23ddf6f00e99fdeb8c9f"
+    },
+    {
+      "key": "xclhome",
+      "url": "https://xclcamps.com/",
+      "final_url": "https://xclcamps.com/",
+      "status": 200,
+      "bytes": 266010,
+      "sha256": "fe9157e2de904e46fb28f6cb9226ee1f27ed44b859d4b730dc57c8f78b66d059"
+    },
+    {
+      "key": "tokyo-code",
+      "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-summer-camp",
+      "final_url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-summer-camp-session-1/",
+      "status": 200,
+      "bytes": 122717,
+      "sha256": "cf356c64f4470eb7b00434215a34e21c88146fd3b09adf34ddc84581814a7c6d"
+    },
+    {
+      "key": "ikcc",
+      "url": "https://www.ikcc.info/",
+      "final_url": "https://www.ikcc.info/",
+      "status": 200,
+      "bytes": 278114,
+      "sha256": "677e309bff0fa07099663ffc06712e5e62a0c7316d84c51eda82badc9c19b119"
+    },
+    {
+      "key": "penang",
+      "url": "https://penangmathplatform.com/event/icode-math-hackathon/",
+      "final_url": "https://penangmathplatform.com/event/icode-math-hackathon/",
+      "status": 200,
+      "bytes": 70662,
+      "sha256": "9606eede5592586de0d9efb64b9dbb75efc892537175dd6941d4a2fd11407749"
+    },
+    {
+      "key": "lsc",
+      "url": "https://www.lsc-challenge.org/lsc2026",
+      "final_url": "https://www.lsc-challenge.org/lsc2026",
+      "status": 200,
+      "bytes": 2682901,
+      "sha256": "b806c47e61fc04038e2d1560d0942699716ef933e83e04d874e5d28c5c37048d"
+    },
+    {
+      "key": "techcamp",
+      "url": "https://www.techcamp.org.uk/",
+      "final_url": "https://www.techcamp.org.uk/",
+      "status": 200,
+      "bytes": 54687,
+      "sha256": "5c940218e9cd8a37b882b66b489375270ebd42e6e3460e304794374730cfb2aa"
+    },
+    {
+      "key": "funtech",
+      "url": "https://funtech.co.uk/find-a-camp",
+      "final_url": "https://funtech.co.uk/find-a-camp",
+      "status": 200,
+      "bytes": 69280,
+      "sha256": "50b7f84074101b4150da007d261114efe60a2ec22016049949468f1c15c94fee"
+    },
+    {
+      "key": "englishsummer",
+      "url": "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/",
+      "final_url": "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/",
+      "status": 200,
+      "bytes": 328506,
+      "sha256": "9a1aa5264bc9fc9893999701b2e8496207e38f0521e71646edfba5705bec187e"
+    },
+    {
+      "key": "sanpatricio",
+      "url": "https://www.colegiosanpatriciotoledo.com/summer-camps",
+      "final_url": "https://www.colegiosanpatriciotoledo.com/",
+      "status": 200,
+      "bytes": 244381,
+      "sha256": "24b4567f76b211570a13f746485534d83180a7ee779596d74f878daf87dbcd87"
+    },
+    {
+      "key": "brillantmont-dates",
+      "url": "https://summer.brillantmont.ch/apply-dates",
+      "final_url": "https://summer.brillantmont.ch/apply-dates",
+      "status": 200,
+      "bytes": 11367,
+      "sha256": "acb7377cacac29795b124e4ac54ca70a432b8e12090e180c5adfe06eafca6101"
+    },
+    {
+      "key": "brillantmont-questions",
+      "url": "https://summer.brillantmont.ch/apply/questions",
+      "final_url": "https://summer.brillantmont.ch/apply/questions",
+      "status": 200,
+      "bytes": 15780,
+      "sha256": "fd0ca3b68da9ff0958c7e4fee28644d0e3b6002007aa1127f17a7a2ae62ae5a8"
+    },
+    {
+      "key": "xclfaq-real",
+      "url": "https://xclcamps.com/about-us/faqs/",
+      "final_url": "https://xclcamps.com/about-us/faqs/",
+      "status": 200,
+      "bytes": 250250,
+      "sha256": "a71f2f9dbde106504b2980d35664f35d6255302406514316d6a091d9906787b6"
+    },
+    {
+      "key": "xcl-schedule",
+      "url": "https://xclcamps.com/camps-schedule/",
+      "final_url": "https://xclcamps.com/camps-schedule/",
+      "status": 200,
+      "bytes": 283293,
+      "sha256": "2f037f65ecfa1aceca5a7bf88ee52cbab2ad5bb9a035ca0233e903345ccad7dc"
+    },
+    {
+      "key": "xcl-robotics",
+      "url": "https://xclcamps.com/the-techie/robotics/",
+      "final_url": "https://xclcamps.com/the-techie/robotics/",
+      "status": 200,
+      "bytes": 240959,
+      "sha256": "0ae932a23d01c2c08980c7692eb293cf2b3f3885b328c538974c6f381a5cf90d"
+    },
+    {
+      "key": "xcl-code",
+      "url": "https://xclcamps.com/the-techie/code-academy/",
+      "final_url": "https://xclcamps.com/the-techie/code-academy/",
+      "status": 200,
+      "bytes": 250420,
+      "sha256": "c029bf9de3c354701ba277a557615646ac4545dda603fbbac4e01379e3cc5c24"
+    },
+    {
+      "key": "xcl-stemjunior",
+      "url": "https://xclcamps.com/the-scholar/stem-juniors/",
+      "final_url": "https://xclcamps.com/the-scholar/stem-juniors/",
+      "status": 200,
+      "bytes": 245410,
+      "sha256": "52dcc70c24006bb4d3d072806b620a75fb5e88fbabea4cf87d83b00d4c88cd86"
+    },
+    {
+      "key": "traincamps",
+      "url": "https://trainthefuture.de/en/camps/",
+      "final_url": "https://trainthefuture.de/en/camps/",
+      "status": 200,
+      "bytes": 97038,
+      "sha256": "7bec523351535ecef686737f67b491c1fdfe14ba7014a2fc1c38d717ed25f205"
+    },
+    {
+      "key": "trainlego",
+      "url": "https://trainthefuture.de/en/kurse/lego-robotics-foundations/",
+      "final_url": "https://trainthefuture.de/en/kurse/lego-robotics-foundations/",
+      "status": 200,
+      "bytes": 101362,
+      "sha256": "02ada1809296015d23920d8f31b27eb79e2dac14b8c8cc1dfd783b72ac992502"
+    },
+    {
+      "key": "newtonmy",
+      "url": "https://newtonshow.my/",
+      "final_url": "https://newtonshow.my/",
+      "status": 200,
+      "bytes": 147327,
+      "sha256": "c59a216f859685ad0dbfdd60484ca472b1c1cfddf53e6d92bc22a86346eb5989"
+    },
+    {
+      "key": "newtonthai",
+      "url": "https://www.newtonshow.co.th/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "newtonsg",
+      "url": "https://www.newtonshowcamp.com/",
+      "final_url": "https://www.newtonshowcamp.com/",
+      "status": 200,
+      "bytes": 1907657,
+      "sha256": "5784afb962f0a4e5e36b93e8a7458c20b3abd7a37c02a9cd2b3c105db49f29b2"
+    },
+    {
+      "key": "newtonhk",
+      "url": "https://www.newtonshow.hk/",
+      "final_url": "https://newtonshow.hk/",
+      "status": 200,
+      "bytes": 165329,
+      "sha256": "3ea8e86a2ff1beecb1ff6d0ed3fefcb94807df0c195a8d9615b7db9521ff0ce6"
+    },
+    {
+      "key": "englishclub",
+      "url": "https://theenglishclub.es/fun-weeks-2026/",
+      "final_url": "https://theenglishclub.es/fun-weeks-2026/",
+      "status": 200,
+      "bytes": 129517,
+      "sha256": "d6286f5939bc912320b11c192a04352a6117432a18434718d7cc34fd8b216920"
+    },
+    {
+      "key": "asv",
+      "url": "https://asvalencia.org/es/programas-verano-asv-2026-matricula-abierta/",
+      "final_url": "https://asvalencia.org/es/programas-verano-asv-2026-matricula-abierta/",
+      "status": 200,
+      "bytes": 127016,
+      "sha256": "743861f67e6730bc9e065589d35f6a5712d17a1f0b79ca9c5305699c5481b53b"
+    },
+    {
+      "key": "costablanca",
+      "url": "https://www.costablancacamp.com/campamento-de-ingles-y-robotica-en-espana/",
+      "final_url": "https://www.costablancacamp.com/campamento-de-ingles-y-robotica-en-espana/",
+      "status": 200,
+      "bytes": 85657,
+      "sha256": "a5219d3b3f9f338ca5c4f987f6986434d7ccbaf69a5d3c043d3dd45aaf2296f7"
+    },
+    {
+      "key": "newtonmy-winter",
+      "url": "https://newtonshow.my/winter-camp",
+      "final_url": "https://newtonshow.my/winter-camp",
+      "status": 200,
+      "bytes": 176908,
+      "sha256": "151803b29589136ba08ae2164c54d2b450787346f7b9937b9613a8bb2d830679"
+    },
+    {
+      "key": "newtonmy-faq",
+      "url": "https://newtonshow.my/faq",
+      "final_url": "https://newtonshow.my/faq",
+      "status": 200,
+      "bytes": 68187,
+      "sha256": "653480ac58ffe5c8d037a38df031255123f40341e316aa9705d1b33e2cca0025"
+    },
+    {
+      "key": "newtonhk-winter",
+      "url": "https://www.newtonshow.hk/winter-camp",
+      "final_url": "https://newtonshow.hk/winter-camp",
+      "status": 200,
+      "bytes": 195149,
+      "sha256": "f386803b9644849777792202462a2c47c1645edcdb225cde5f5b3561c8ec30b7"
+    },
+    {
+      "key": "newtonhk-faq",
+      "url": "https://www.newtonshow.hk/faq",
+      "final_url": "https://newtonshow.hk/faq",
+      "status": 200,
+      "bytes": 67716,
+      "sha256": "fe84f43592477abb8fab5ad65c3a2c07b13728fa70874c339b41f3710afa749f"
+    },
+    {
+      "key": "newtonsg-winter",
+      "url": "https://www.newtonshowcamp.com/winter-camp",
+      "final_url": "https://www.newtonshowcamp.com/winter-camp",
+      "status": 200,
+      "bytes": 1692125,
+      "sha256": "2a63ff04335027d311d12b1512bbc4b6371472a5c01ae042369f3ae29d416725"
+    },
+    {
+      "key": "newtonsg-robot",
+      "url": "https://www.newtonshowcamp.com/robotics-camp",
+      "final_url": "https://www.newtonshowcamp.com/robotics-camp",
+      "status": 200,
+      "bytes": 1007123,
+      "sha256": "4214603d79d4c1ae4f8fc38bf2b2377aba69748deddb68204d105e15c829b082"
+    },
+    {
+      "key": "newtonsg-faq",
+      "url": "https://www.newtonshowcamp.com/more-information-about-camp",
+      "final_url": "https://www.newtonshowcamp.com/more-information-about-camp",
+      "status": 200,
+      "bytes": 1099905,
+      "sha256": "91d76c33d84d90becb4e63a1581af06f155f8fba54a12aebc582159ffa955ca9"
+    },
+    {
+      "key": "trainrobotcamp",
+      "url": "https://trainthefuture.de/en/camps/robotics/",
+      "final_url": "https://trainthefuture.de/en/camps/robotics/",
+      "status": 200,
+      "bytes": 99742,
+      "sha256": "e0f8a4c63f1a060925e54c349bbe9a4e1912cfbdb550eeb765f8094ae92fe606"
+    },
+    {
+      "key": "trainwebcamp",
+      "url": "https://trainthefuture.de/en/camps/website-animation-game-design/",
+      "final_url": "https://trainthefuture.de/en/camps/website-animation-game-design/",
+      "status": 200,
+      "bytes": 99798,
+      "sha256": "1f8ceb23e6c1928f53d76c2cd08b64af7d58a23cf1abb9e076687b75097c4be8"
+    },
+    {
+      "key": "wondercamp",
+      "url": "https://www.lifeprojecteducation.org/wondercamp-july-2026",
+      "final_url": "https://www.lifeprojecteducation.org/wondercamp-july-2026",
+      "status": 200,
+      "bytes": 325442,
+      "sha256": "5d270fa3d89ba6c221967e44517b8b4e81e0d6061934536592200bb0ea41865d"
+    },
+    {
+      "key": "conversa-index",
+      "url": "https://www.conversa.com.mx/05/curso_verano/index.asp",
+      "final_url": "https://www.conversa.com.mx/05/curso_verano/index.asp",
+      "status": 200,
+      "bytes": 141452,
+      "sha256": "98f179cd84229075e8a48eeb3642ad81221009e63c6423a7ffc8156b1d77e7d9"
+    },
+    {
+      "key": "conversa-plans",
+      "url": "https://www.conversa.com.mx/planes_modalidades_verano",
+      "final_url": "https://www.conversa.com.mx/planes_modalidades_verano",
+      "status": 200,
+      "bytes": 77268,
+      "sha256": "25f9aab49f18f74ba0b269f590adae79d4f50833e8c109f2a4ff7e3dcc6dfba7"
+    },
+    {
+      "key": "camptec",
+      "url": "https://camptecnologico.com/",
+      "final_url": "https://camptecnologico.com/robotica-educativa/",
+      "status": 200,
+      "bytes": 331282,
+      "sha256": "8e9c6fa6b00223fb09005d090dd7edf3df965d1fcb35ce8ab9ab3eee4257c1b2"
+    },
+    {
+      "key": "camptec-les",
+      "url": "https://camptecnologico.com/campamentos-internos-en-les/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "techcamp-res",
+      "url": "https://www.techcamp.org.uk/residential-camps/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "brillantmont-home",
+      "url": "https://summer.brillantmont.ch/",
+      "final_url": "https://summer.brillantmont.ch/",
+      "status": 200,
+      "bytes": 19537,
+      "sha256": "47ba5931f3968dab8b8a67db6f778917db5342600bb6a3460ddac8a1a55829f7"
+    },
+    {
+      "key": "embassy",
+      "url": "https://embassy.camp/",
+      "final_url": "https://embassy.camp/",
+      "status": 200,
+      "bytes": 657731,
+      "sha256": "b15878bcb8d73c3f3d89853b25973a07a38130b6d4ab0f731985a7e28ead1d91"
+    },
+    {
+      "key": "asv-steam",
+      "url": "https://asvalencia.org/summerprogram/steam-summerland/",
+      "final_url": "https://asvalencia.org/summerprogram/steam-summerland/",
+      "status": 200,
+      "bytes": 153083,
+      "sha256": "1ec360e8fb5577d5621737e6a4c6cf32607ee445e0b0058b5ab7284240fd6c3f"
+    },
+    {
+      "key": "sotogrande-old",
+      "url": "https://www.es.sis.ac/school-life/summer-camps",
+      "final_url": "https://www.es.sis.ac/school-life/summer-camps",
+      "status": 200,
+      "bytes": 180121,
+      "sha256": "a27df9c82849b393378d5b2e6eae6df5e926cf58b5c8c62863f32abedd98989c"
+    },
+    {
+      "key": "camptec-les-real",
+      "url": "https://camptecnologico.com/campamento-interno-tecnologico-en-les/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "camptec-navidad",
+      "url": "https://camptecnologico.com/campamentos-navidad/",
+      "final_url": "https://camptecnologico.com/campamentos-navidad/",
+      "status": 200,
+      "bytes": 362884,
+      "sha256": "608f46027a390b1b3cd661940973e583a943d666656e2424d9560ba004def594"
+    },
+    {
+      "key": "brillantmont-fees",
+      "url": "https://summer.brillantmont.ch/apply/fees",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "brillantmont-fees-real",
+      "url": "https://summer.brillantmont.ch/apply-fees",
+      "final_url": "https://summer.brillantmont.ch/apply-fees",
+      "status": 200,
+      "bytes": 13544,
+      "sha256": "59b65d8bdd3da18f9c5928ecce2efea87b69334f9ca9914d378a74c56d066c2e"
+    },
+    {
+      "key": "berlitz-korea",
+      "url": "https://www.berlitztaiwan.com/pages/berlitz-study-abroad-korea",
+      "final_url": "https://www.berlitztaiwan.com/pages/berlitz-study-abroad-korea",
+      "status": 200,
+      "bytes": 190757,
+      "sha256": "0bfffb162133e52f29307ee2d587492420d94473a666a33f2df60dcbccc759c1"
+    },
+    {
+      "key": "dcampskorea",
+      "url": "https://www.dcampskorea.com/location",
+      "final_url": "https://www.dcampskorea.com/location",
+      "status": 200,
+      "bytes": 936208,
+      "sha256": "e6992f2f929195294e0a78769b027028268e9e57eb48dc963812356155f29850"
+    },
+    {
+      "key": "embassy-smart",
+      "url": "https://embassy.camp/smart-camp/",
+      "final_url": "https://embassy.camp/smart-skills-camp-in-malaysia/",
+      "status": 200,
+      "bytes": 556153,
+      "sha256": "9782adaf1fdefbe2211e1156d1466fd970e02bdc381b4085750065c6eed9a93c"
+    },
+    {
+      "key": "nasa",
+      "url": "https://www.spaceappschallenge.org/2026/",
+      "final_url": "https://www.spaceappschallenge.org/2026/",
+      "status": 200,
+      "bytes": 87275,
+      "sha256": "19a0d41b28af2725c83779b8323ee6ea5a290b1c4fa73fd5dc8b18c099f3c574"
+    },
+    {
+      "key": "nasa-faq",
+      "url": "https://www.spaceappschallenge.org/resources/frequently-asked-questions/",
+      "final_url": "https://www.spaceappschallenge.org/resources/frequently-asked-questions/",
+      "status": 200,
+      "bytes": 39051,
+      "sha256": "53dc2aae4b29e62810949eb05b00a29921d8e9116f1ffcc6e05d2e6df7b6916a"
+    },
+    {
+      "key": "coolest-help",
+      "url": "https://online.coolestprojects.org/help",
+      "final_url": "https://online.coolestprojects.org/help",
+      "status": 200,
+      "bytes": 23358,
+      "sha256": "45a39d204647dbde7cd41b376d2db5b9d73efeb77571ea3e28c826df7b515c07"
+    },
+    {
+      "key": "coolest-home",
+      "url": "https://coolestprojects.org/",
+      "final_url": "https://online.coolestprojects.org/",
+      "status": 200,
+      "bytes": 37699,
+      "sha256": "517186623a0ca03aa0a46329d351347018377e4e252b1636260587cf450c2fc1"
+    },
+    {
+      "key": "embassy-smart-real",
+      "url": "https://embassy.camp/smart-skills-camp-in-malaysia/",
+      "final_url": "https://embassy.camp/smart-skills-camp-in-malaysia/",
+      "status": 200,
+      "bytes": 556153,
+      "sha256": "9782adaf1fdefbe2211e1156d1466fd970e02bdc381b4085750065c6eed9a93c"
+    },
+    {
+      "key": "embassy-ai",
+      "url": "https://embassy.camp/ai-future-camp/",
+      "final_url": "https://embassy.camp/ai-future-camp/",
+      "status": 200,
+      "bytes": 569427,
+      "sha256": "f21f65c418b689fa607120ac82641213f796b7831539e0bb53a6f17a3e627de6"
+    },
+    {
+      "key": "techcamp-res-real",
+      "url": "https://www.techcamp.org.uk/info/residential-camps",
+      "final_url": "https://www.techcamp.org.uk/info/residential-camps",
+      "status": 200,
+      "bytes": 40752,
+      "sha256": "9cd9ed79ffeebcd06e170b83f1cd0e5656222316d250441d63bc2a9c59ff42e7"
+    },
+    {
+      "key": "techcamp-overseas",
+      "url": "https://www.techcamp.org.uk/info/overseas-campers",
+      "final_url": "https://www.techcamp.org.uk/info/overseas-campers",
+      "status": 200,
+      "bytes": 36591,
+      "sha256": "013abb288e057dc80675ea045f2fd58e4c12a8dd38fe0d92c5d6ad1206584f78"
+    },
+    {
+      "key": "techcamp-faq",
+      "url": "https://www.techcamp.org.uk/info/faqs",
+      "final_url": "https://www.techcamp.org.uk/info/faqs",
+      "status": 200,
+      "bytes": 173241,
+      "sha256": "6bb79440aa110b508d8e998940247f2ab17c3f44fd97f7aad7bd80402b9de9a9"
+    },
+    {
+      "key": "englishsummer-faq",
+      "url": "https://www.englishsummer.com/preguntas-frecuentes/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "escuelab",
+      "url": "https://www.escuelab.es/actividades-educativas-innovadoras/",
+      "final_url": "https://www.escuelab.es/actividades-educativas-innovadoras/",
+      "status": 200,
+      "bytes": 99909,
+      "sha256": "64ff6e3e8040beaffa80508219f4ccf976a48e13c447e098c375b51f9cb2e381"
+    },
+    {
+      "key": "life-tech",
+      "url": "https://lifeschool.es/es/tech-summer-camp/",
+      "final_url": "https://lifeschool.es/es/tech-summer-camp/",
+      "status": 200,
+      "bytes": 138650,
+      "sha256": "609d3ad49e8733d4bd81783fc5d3c6fc3f52169cd0b9870f487eb4dfd09818bb"
+    },
+    {
+      "key": "ironscholars",
+      "url": "https://ironscholars.com/upcoming-events/",
+      "final_url": "https://ironscholars.com/upcoming-events/",
+      "status": 200,
+      "bytes": 124498,
+      "sha256": "688f127ca8b0ffaeb15e0155ce2f450be5665a3698b630dc2e61bf048fcbf9da"
+    },
+    {
+      "key": "camptec-les",
+      "url": "https://camptecnologico.com/les-alojamiento/",
+      "final_url": "https://camptecnologico.com/les-alojamiento/",
+      "status": 200,
+      "bytes": 402708,
+      "sha256": "281a9a450d5adefce3a9763fd79f1d87f3f1bfc51d3ed8f29f0f7e31dc4005fe"
+    },
+    {
+      "key": "extremadura",
+      "url": "https://campamentoderobotica.es/",
+      "final_url": "https://campamentoderobotica.es/",
+      "status": 200,
+      "bytes": 59661,
+      "sha256": "66b2c04066234e2474ea4eda76edfdec7a11649715897f88de13f38faddf0955"
+    },
+    {
+      "key": "codeyetu",
+      "url": "https://hackathon.codeyetu.org/",
+      "final_url": "https://hackathon.codeyetu.org/",
+      "status": 200,
+      "bytes": 159848,
+      "sha256": "033e0548263fecd714b41ce05a61167cd40d582b5b06fba679c792f6c434bb98"
+    },
+    {
+      "key": "escuelab-family",
+      "url": "https://www.escuelab.es/familia/que-hacemos/",
+      "final_url": "https://www.escuelab.es/familia/que-hacemos/",
+      "status": 200,
+      "bytes": 139401,
+      "sha256": "2cc4495776644efcd1011fa2d1fc3ff7a6c8b6a0cd8cb7c896dc8d0b3f956e4c"
+    },
+    {
+      "key": "escuelab-faq",
+      "url": "https://www.escuelab.es/preguntas-frecuentes/",
+      "final_url": "https://www.escuelab.es/preguntas-frecuentes/",
+      "status": 200,
+      "bytes": 66331,
+      "sha256": "1b1d19732317ce18cab0f832fb5b849c723747be74aabe28ea5eea839e5c65c7"
+    },
+    {
+      "key": "lsc-guide",
+      "url": "https://www.lsc-challenge.org/_files/ugd/d9f7f5_14a1e38fd76a46d3a2cb48932af66feb.pdf",
+      "final_url": "https://www.lsc-challenge.org/_files/ugd/d9f7f5_14a1e38fd76a46d3a2cb48932af66feb.pdf",
+      "status": 200,
+      "bytes": 202151,
+      "sha256": "ab9b76a616ba81ac953d8f305aeb6891ef329a4a4b6de45e66daddd39ed206f7"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "version": 62,
+  "asof": "2026-10-05",
+  "scope": "Углубление официальных программ Сингапура, Тайваня, Японии, Южной Кореи и Таиланда; остальные приоритеты продолжаются.",
+  "new_dossiers": 13,
+  "new_calendar_entries": 27,
+  "reused_worklab_dates": 20,
+  "dossiers": 125,
+  "countries": 28,
+  "swiss": 18,
+  "source_urls": 231,
+  "worldwide_complete": false,
+  "country_fully_audited": false,
+  "profiles": [
+    {
+      "slug": "worklab-apprentice",
+      "id": "CP113",
+      "country": "Сингапур",
+      "timing": "published_2026",
+      "language": "Все занятия прямо объявлены на английском, включая PDF расписания.",
+      "price": "$449 / 3 дня; $499 / 4; $549 / 5. Валюта и налог окончательного счёта требуют подтверждения."
+    },
+    {
+      "slug": "worklab-junior",
+      "id": "CP114",
+      "country": "Сингапур",
+      "timing": "published_2026",
+      "language": "Все занятия прямо объявлены на английском, включая PDF расписания.",
+      "price": "$499 / 3 дня; $549 / 4; $599 / 5. Валюта и налог окончательного счёта требуют подтверждения."
+    },
+    {
+      "slug": "worklab-senior",
+      "id": "CP115",
+      "country": "Сингапур",
+      "timing": "published_2026",
+      "language": "Все занятия прямо объявлены на английском, включая PDF расписания.",
+      "price": "$499 / 3 дня; $549 / 4; $599 / 5. Валюта и налог окончательного счёта требуют подтверждения."
+    },
+    {
+      "slug": "worklab-spike",
+      "id": "CP116",
+      "country": "Сингапур",
+      "timing": "published_2026",
+      "language": "Все занятия прямо объявлены на английском, включая PDF расписания.",
+      "price": "$500 / 4 полудня. Валюта и налог окончательного счёта требуют подтверждения."
+    },
+    {
+      "slug": "worklab-ai",
+      "id": "CP117",
+      "country": "Сингапур",
+      "timing": "published_2026",
+      "language": "Все занятия прямо объявлены на английском, включая PDF расписания.",
+      "price": "$425 / 3 полудня. Валюта и налог окончательного счёта требуют подтверждения."
+    },
+    {
+      "slug": "lighthouse-winter",
+      "id": "CP118",
+      "country": "Тайвань",
+      "timing": "published_2026_27",
+      "language": "Оператор прямо указывает преподавание coding, STEM и других предметов на английском. Для language arts нужен опыт чтения/письма на EN; остальные курсы допускают разные уровни.",
+      "price": "5 дней: обычный полный TWD 20 000 / половинный 11 000; с VEX GO 22 500 / 13 500. 4 дня: обычный 16 000 / 8 800; с GO 18 000 / 10 800."
+    },
+    {
+      "slug": "lighthouse-junior",
+      "id": "CP119",
+      "country": "Тайвань",
+      "timing": "partial_2026_27",
+      "language": "Оператор прямо указывает преподавание coding, STEM и других предметов на английском. Для language arts нужен опыт чтения/письма на EN; остальные курсы допускают разные уровни.",
+      "price": "Пакет standard: TWD 11 000 / 5 полудней или 20 000 / полный; 8 800 / 4 полудня или 16 000 / полный. Конкретный полный день может включать другую тему."
+    },
+    {
+      "slug": "lighthouse-vexgo",
+      "id": "CP120",
+      "country": "Тайвань",
+      "timing": "partial_2026_27",
+      "language": "Оператор прямо указывает преподавание coding, STEM и других предметов на английском. Для language arts нужен опыт чтения/письма на EN; остальные курсы допускают разные уровни.",
+      "price": "TWD 13 500 / 5 полудней или 22 500 / полный; 10 800 / 4 полудня или 18 000 / полный. Залог TWD 2 000 отдельно."
+    },
+    {
+      "slug": "lighthouse-vexiq",
+      "id": "CP121",
+      "country": "Тайвань",
+      "timing": "next_unannounced",
+      "language": "Оператор прямо указывает преподавание coding, STEM и других предметов на английском. Для language arts нужен опыт чтения/письма на EN; остальные курсы допускают разные уровни.",
+      "price": "Общая таблица: TWD 15 000 / 5 полудней или 25 500 / полный; 12 000 / 4 полудня или 20 400 / полный. Наличие самого IQ-курса в нужную смену не подтверждено."
+    },
+    {
+      "slug": "elev8-tokyo",
+      "id": "CP122",
+      "country": "Япония",
+      "timing": "published_2026_27",
+      "language": "Coding-страница: fully in English; Terms прямо подтверждают programming и maths primarily in English. Японский — отдельный выбираемый языковой модуль.",
+      "price": "JPY 23 000 + 10% tax = 25 300 / день. При 5+ днях: 109 250 + 10% = 120 175 / 5 дней. 28–31 декабря: без пакетной скидки 101 200 с tax / 4 дня."
+    },
+    {
+      "slug": "dwight-seoul-junior",
+      "id": "CP123",
+      "country": "Южная Корея",
+      "timing": "next_unannounced",
+      "language": "Английское преподавание в прочитанных camp-материалах прямо не подтверждено. English PDF и школьный язык не доказывают язык этого лагеря.",
+      "price": "Архив 2025 Preschool–Grade6: KRW 720 000 / неделю, early bird 650 000 (уже завершён). Это не тариф 2026/27."
+    },
+    {
+      "slug": "bisp-lower",
+      "id": "CP124",
+      "country": "Таиланд",
+      "timing": "next_unannounced",
+      "language": "English прямо указан основным языком преподавания; дополнительная языковая поддержка доступна.",
+      "price": "Архив: THB 22 550 / неделю; 45 100 / 2, 67 650 / 3, 90 200 / 4 недели. Пансион младшей группы не предлагается."
+    },
+    {
+      "slug": "bisp-main",
+      "id": "CP125",
+      "country": "Таиланд",
+      "timing": "next_unannounced",
+      "language": "English прямо указан основным языком преподавания; дополнительная языковая поддержка доступна.",
+      "price": "Архив: THB 22 550 / неделю день; Main Full Camp 29 400 / неделю. 2/3/4 недели: день 45 100 / 67 650 / 90 200; Full 58 800 / 88 200 / 117 600."
+    }
+  ],
+  "new_event_ids": [
+    "CP118-20261214-20261218",
+    "CP118-20261221-20261224",
+    "CP118-20261228-20261231",
+    "CP118-20270125-20270129",
+    "CP122-20261012-20261016",
+    "CP122-20261019-20261023",
+    "CP122-20261026-20261030",
+    "CP122-20261109-20261113",
+    "CP122-20261123-20261127",
+    "CP122-20261214-20261218",
+    "CP122-20261221-20261225",
+    "CP122-20261228-20261231",
+    "CP122-20270104-20270108",
+    "CP122-20270125-20270129",
+    "CP122-20270201-20270205",
+    "CP122-20270208-20270212",
+    "CP122-20270215-20270219",
+    "CP122-20270222-20270226",
+    "CP122-20270308-20270312",
+    "CP122-20270315-20270319",
+    "CP122-20270322-20270326",
+    "CP122-20270329-20270402",
+    "CP122-20270405-20270409",
+    "CP122-20270412-20270416",
+    "CP122-20270419-20270423",
+    "CP122-20270426-20270430",
+    "CP122-20270503-20270507"
+  ],
+  "family_calendar_count": 1406,
+  "exhibition_calendar_count": 104,
+  "applications_sent": false,
+  "findings": [
+    "Worklab:five explicitEN tracks;20October legacy cards linked without duplicate dates; November/yearend StayTuned,2027 notpublished.",
+    "Worklab:first-day birthday gates;Junior8–9 vsSenior9–13(page)/9+(PDF),SPIKE9+,AI7.5+.Exactcampuses differ;equipmentnotkept.",
+    "Lighthouse:4generalwinter sessions;5–7 Junior and8–12GO; individualcourse hours/dates not confirmed, so no course-calendar clones.",
+    "Lighthouse:IQ10–14 oncourse pageoverridesmenu8–12; notlistedcurrentwinterthemes despiteIQpricecolumn; no IQ calendar date.",
+    "Lighthouse:priceimage visuallyread;5/4days,full/half,VEXGO/IQ separate;optional lunch220/day,GO refundable2000securitydeposit;min4class.",
+    "Elev8:23dated weeklywindows through7May2027;codingEnglish verified,modulesandWednesdayswideexcursion distinguished.",
+    "Elev8:10%tax included in calculated25300daily/120175for5days/101200for4days;chaperonefree butpublictransportfare extra.",
+    "Elev8:terms3daypayment21+daysahead vs24hoursnearer;cancelrefund tiers;credit180days distinctfromcashrefund.",
+    "DwightSeoul:2026headline links2025PDFs;lowerprogrammegeneral/STEAM/design/film,roboticsnotproved;externaladmission/EN unknown;refund2024typo visible.",
+    "BISP:Englishinstruction explicit;6–8day vs9–15day/boarding;2026pricesarchival,2027 notpublished;minimumovernight9/olderthan9 conflict.",
+    "BISP:sibling15% requires sameprogramme/period;mustnotautomaticallyapplyto different agegroups;earlybird20/28Feb discrepancy.",
+    "All2014prior event objects,112prior dossierobjects and1379prior familycalendar UIDdatepairs preserved;104exhibitioncalendar preserved."
+  ],
+  "next_priority": [
+    "Broaden and refresh Switzerland/France/Spain/Europe,USA/Canada andLatinAmerica per global scope; no country fully audited",
+    "Younger international English Korea programmes and Taiwan summer2027; class and course gates",
+    "New2027 prices,actual seats, exact course dates and full family budgets"
+  ],
+  "validation": {
+    "catalogue_preservation": "passed",
+    "sqlite": "integrity and FK passed",
+    "calendar": "1379 old UID/date pairs preserved;27 new;104 expo preserved",
+    "desktop_filters": "country/language/child filters checked in rendered DOM;Dwight omitted from EN filter",
+    "mobile": "390px and320px without horizontal overflow",
+    "js_errors": [],
+    "click_automation": "Unconfirmed: mouse/keyboard clicks were not delivered as page events by browser controls in background or visible test tab. Comparison/scenario handlers unchanged apart from added data and eligibility label; no claim of completed click QA."
+  }
+}

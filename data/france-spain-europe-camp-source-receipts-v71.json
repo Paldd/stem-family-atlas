@@ -1,0 +1,213 @@
+{
+  "asof": "2026-10-05",
+  "version": 71,
+  "scope": "Own camp programmes, archived years, current dates/tariffs and admission gates; not a complete country inventory",
+  "sources": [
+    {
+      "key": "av-formules",
+      "url": "https://www.americanvillage.fr/formules",
+      "final_url": "https://www.americanvillage.fr/formules",
+      "status": 200,
+      "bytes": 232125,
+      "sha256": "011c9e9611e59c4674545e86de191eb39573f14a6fe250e656706744738592a9"
+    },
+    {
+      "key": "av-original",
+      "url": "https://www.americanvillage.fr/formules/american-village-the-original",
+      "final_url": "https://www.americanvillage.fr/formules/american-village-the-original",
+      "status": 200,
+      "bytes": 228076,
+      "sha256": "2418865b676afa85f2c97c119fea63ffe349eb9e9dc1168bbb54581f941abd3b"
+    },
+    {
+      "key": "av-wizard",
+      "url": "https://www.americanvillage.fr/formules/wizard-school",
+      "final_url": "https://www.americanvillage.fr/formules/wizard-school",
+      "status": 200,
+      "bytes": 209594,
+      "sha256": "b931396f934b7607ce1d78efe8efead6327346491129df02ddd859df6e0961ec"
+    },
+    {
+      "key": "av-faq",
+      "url": "https://www.americanvillage.fr/informations-pratiques/foire-aux-questions",
+      "final_url": "https://www.americanvillage.fr/informations-pratiques/foire-aux-questions",
+      "status": 200,
+      "bytes": 222342,
+      "sha256": "504d30e816e8796a52d0ef120d7f7ab448160480d8d2a049406e439d71f800c2"
+    },
+    {
+      "key": "av-brochure",
+      "url": "https://www.americanvillage.fr/informations-pratiques/brochure-en-ligne",
+      "final_url": "https://www.americanvillage.fr/informations-pratiques/brochure-en-ligne",
+      "status": 200,
+      "bytes": 200275,
+      "sha256": "5cfbdf2b4da9879644332678ebc1dc16a12d1f22130452f02630d72dd4298c10"
+    },
+    {
+      "key": "casita-christmas",
+      "url": "https://lacasitadeingles.com/evento/campamento-de-navidad/",
+      "final_url": "https://lacasitadeingles.com/evento/campamento-de-navidad/",
+      "status": 200,
+      "bytes": 167789,
+      "sha256": "38404a6b929da3e6e8dd3c1dd6c309acb438a3cc94e044a3e342228d0186a20a"
+    },
+    {
+      "key": "keiko-christmas",
+      "url": "https://keikosdream.net/the-christmas-wizard-academy/",
+      "final_url": "https://keikosdream.net/the-christmas-wizard-academy/",
+      "status": 200,
+      "bytes": 118925,
+      "sha256": "4c1fa450458d2743d032cc8548fee08e24275cf38ccb19293511ee0b97e12df1"
+    },
+    {
+      "key": "tecnoeduka-christmas",
+      "url": "https://tecnoeduka.es/navidad/",
+      "final_url": "https://tecnoeduka.es/navidad/",
+      "status": 200,
+      "bytes": 182857,
+      "sha256": "306cbb15da1c7e20dab7850c72bf4b3d9b4031e6df15bce75c0eff505668f10b"
+    },
+    {
+      "key": "funtech-christmas",
+      "url": "https://funtech.academy/actividades/campamentos/campamento-navidad/",
+      "final_url": "https://funtech.academy/actividades/campamentos/campamento-navidad/",
+      "status": 200,
+      "bytes": 167199,
+      "sha256": "80f70831c1e251c46bb8b9792f674915fc70fde13628abf24d52691a4c9c4d11"
+    },
+    {
+      "key": "cimes-stays",
+      "url": "https://www.campdescimes.com/sejours",
+      "final_url": "https://www.campdescimes.com/sejours",
+      "status": 200,
+      "bytes": 248721,
+      "sha256": "d52960045ea1670b31fbce8afebb0d062a6d38b05fdd951ee2ffc4f652bc08e6"
+    },
+    {
+      "key": "cimes-volunteers",
+      "url": "https://en.campdescimes.com/summer-2027",
+      "final_url": "https://en.campdescimes.com/summer-2027",
+      "status": 200,
+      "bytes": 264694,
+      "sha256": "7f48ba5ec3cf7002ffff60abeed441225cf3fd693cc4f7d0195be983f577f845"
+    },
+    {
+      "key": "kaleidoscope-autumn",
+      "url": "https://www.ecole-kaleidoscope.com/en/club-wednesday-holidays/toussaint-2026/",
+      "final_url": "https://www.ecole-kaleidoscope.com/en/club-wednesday-holidays/toussaint-2026/",
+      "status": 200,
+      "bytes": 165241,
+      "sha256": "1ea602949cf089efe050bec3fa8ac7cd9516b6d877624fe1f9bd5c73b412d423"
+    },
+    {
+      "key": "native-camps",
+      "url": "https://www.letsgonative.com/camps",
+      "final_url": "https://www.letsgonative.com/camps",
+      "status": 200,
+      "bytes": 1240716,
+      "sha256": "c0e6e38341ef8d977c3b73d834ad409079a3c7332e17e3d30262aa9f4c8a2dbe"
+    },
+    {
+      "key": "unicaja-camps",
+      "url": "https://www.fundacionunicaja.com/campus/",
+      "final_url": "https://www.fundacionunicaja.com/campus/",
+      "status": 200,
+      "bytes": 379333,
+      "sha256": "28d40cff71c6a027b53a478b4bdda89278e30cc8169e1b3c591ad0e5c9b7f706"
+    },
+    {
+      "key": "av-stays",
+      "url": "https://www.americanvillage.fr/sejours/formule-the-original",
+      "final_url": "https://www.americanvillage.fr/sejours/formule-the-original",
+      "status": 200,
+      "bytes": 232258,
+      "sha256": "a91f8613870bb2d8f132df60ab398e07b7f249b2bedf772fe2f4ca5adbc2c6fd"
+    },
+    {
+      "key": "av-spring",
+      "url": "https://www.americanvillage.fr/sejour/printemps",
+      "final_url": "https://www.americanvillage.fr/sejour/printemps",
+      "status": 200,
+      "bytes": 852409,
+      "sha256": "8aa578f47bf7376fc90732cc79145aac20984d5d3873ce9f5b772cef18c4082d"
+    },
+    {
+      "key": "av-autumn",
+      "url": "https://www.americanvillage.fr/sejour/tour-de-buis-easter",
+      "final_url": "https://www.americanvillage.fr/sejour/tour-de-buis-easter",
+      "status": 200,
+      "bytes": 860155,
+      "sha256": "480d7136e24301ca925461cb4cc10a397fcf3a883ef5b3253c90a8f982b4ee62"
+    },
+    {
+      "key": "av-summer",
+      "url": "https://www.americanvillage.fr/sejour/tour-de-buis-summer",
+      "final_url": "https://www.americanvillage.fr/sejour/tour-de-buis-summer",
+      "status": 200,
+      "bytes": 998837,
+      "sha256": "055296815cb9ad43a07af392b46cc527cb05d3fe3f710f062ca89e1c7b070fa2"
+    },
+    {
+      "key": "native-goirle",
+      "url": "https://www.letsgonative.com/winter-english-camp-goirle",
+      "final_url": "https://www.letsgonative.com/winter-english-camp-goirle",
+      "status": 200,
+      "bytes": 1360997,
+      "sha256": "a956f0a846938ba82a6297d790a5a098e73bc576189631715201d2841342e921"
+    },
+    {
+      "key": "native-salamanca",
+      "url": "https://www.letsgonative.com/english-easter-camp-salamanca",
+      "final_url": "https://www.letsgonative.com/english-easter-camp-salamanca",
+      "status": 200,
+      "bytes": 1373496,
+      "sha256": "686487d3cc63c07325b345ffcf90bd9a42d93ea69d759bf0f1d6ba4376bc1e07"
+    },
+    {
+      "key": "unicaja-tech",
+      "url": "https://www.fundacionunicaja.com/campus/tech-play/",
+      "final_url": "https://www.fundacionunicaja.com/campus/tech-play/",
+      "status": 200,
+      "bytes": 263738,
+      "sha256": "a2698a124d2269ecb8de5ee1e451bf9d6292f479bf41f68940ab43b3faf53082"
+    },
+    {
+      "key": "unicaja-english",
+      "url": "https://www.fundacionunicaja.com/campus/english/",
+      "final_url": "https://www.fundacionunicaja.com/campus/english/",
+      "status": 200,
+      "bytes": 263705,
+      "sha256": "423803e3534f5c7667b32c70cc1b169d7befdb4af69251816b02e12d19f96a19"
+    },
+    {
+      "key": "av-spring-ui",
+      "url": "https://www.americanvillage.fr/sejour/printemps",
+      "method": "Read-only browser visible body including live departure cards; no form submitted",
+      "status": 200,
+      "bytes": 10935,
+      "sha256": "e0752f96c42ee0233f48b810b8bd3217652eed72af76dd17f581c3a09a27d2e5"
+    },
+    {
+      "key": "av-autumn-ui",
+      "url": "https://www.americanvillage.fr/sejour/tour-de-buis-easter",
+      "method": "Read-only browser visible body including live departure cards; no form submitted",
+      "status": 200,
+      "bytes": 11450,
+      "sha256": "dff0a7593b86f1d5c0c69e788bc0cb4f9267e2ab576754211b3bfd735e279ee3"
+    },
+    {
+      "key": "av-summer-ui",
+      "url": "https://www.americanvillage.fr/sejour/tour-de-buis-summer",
+      "method": "Read-only browser visible body including live departure cards; no form submitted",
+      "status": 200,
+      "bytes": 12864,
+      "sha256": "6434f2160865d5dfd6d376176dad6a866d26b7e766cfea63af94c209c2999b40"
+    }
+  ],
+  "external_actions": "No messages, forms, bookings, subscriptions or payments",
+  "notes": [
+    "Three American Village live departure card snapshots verify own season/year, not the search URL slug.",
+    "Direct official HTML and its cleaned text read; no English site inferred to mean English robotics.",
+    "All source archives kept outside the public site; public receipts contain source URLs and digests."
+  ]
+}

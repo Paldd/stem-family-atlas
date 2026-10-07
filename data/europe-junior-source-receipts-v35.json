@@ -1,0 +1,306 @@
+{
+  "checked": "2026-10-01",
+  "method": "Primarypagesreadviawebandlocalsnapshot;rawHTMLkeptoutsidepublishedsite.",
+  "sources": [
+    {
+      "name": "swiss_vex_iq",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4448.html",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "union_parent",
+      "url": "https://unionschool.paris/en/information-request/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138696,
+      "sha256": "46cd87931f9986d2e9e39ec1559072ae0c9183d46e5e7e859c8e6918f746f7d6",
+      "resolved": "https://unionschool.paris/en/information-request/"
+    },
+    {
+      "name": "geneva_tsa",
+      "url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 377064,
+      "sha256": "768d53684fcd415774b36a6077a0f716b5970102eb993cb36af05a5a44038e21",
+      "resolved": "https://leman.techsparkacademy.ch/geneva-day-camps/"
+    },
+    {
+      "name": "lausanne_tsa",
+      "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 414270,
+      "sha256": "fb348f7422de8baedefec3f9ec17c5621a30b1d4f9567fa9914471426507df7b",
+      "resolved": "https://leman.techsparkacademy.ch/lausanne-camps/"
+    },
+    {
+      "name": "zug_tsa",
+      "url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 282493,
+      "sha256": "c43e6472e02c2396256851142657b10879250e861d63fad0b729c878397cb1a5",
+      "resolved": "https://zurich.techsparkacademy.ch/zug-day-camps/"
+    },
+    {
+      "name": "union_home",
+      "url": "https://unionschool.paris/en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 168732,
+      "sha256": "6c0dd1daae953d28eda3fd10fca3e78191c48ebd085632e23080af620359820d",
+      "resolved": "https://unionschool.paris/en/"
+    },
+    {
+      "name": "lespetits_robot",
+      "url": "https://lespetitsatomes.com/produit/stage-coding-robotique-pour-enfants/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 117609,
+      "sha256": "c58dc7e4be92a6c9c6824bf70e63098710f6ab3574a2225175aa3d9692203e73",
+      "resolved": "https://lespetitsatomes.com/produit/stage-coding-robotique-pour-enfants/"
+    },
+    {
+      "name": "fll_locations",
+      "url": "https://www.first-lego-league.org/en/2026-27-season/locations",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37956,
+      "sha256": "86fcb70df9156311b1a6a0468875d9d64a3c746297ecec3895923c29e4e06b5c",
+      "resolved": "https://www.first-lego-league.org/en/2026-27-season/locations"
+    },
+    {
+      "name": "smart_faq",
+      "url": "https://www.smartcityexpo.com/exhibitor-faqs/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 567165,
+      "sha256": "8f5dc670613eb31442e893f26cc50669350483908767a69bad718d3376dbaac6",
+      "resolved": "https://www.smartcityexpo.com/exhibitor-faqs/"
+    },
+    {
+      "name": "ecolint_oct_junior",
+      "url": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 30207,
+      "sha256": "2c3043bd866eff3832082cf9215e247691332f7dbf1f575d79de3d7084d820eb",
+      "resolved": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10"
+    },
+    {
+      "name": "techlabs_battle",
+      "url": "https://app1.edoobox.com/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34356,
+      "sha256": "1650f708e461f71f4a9b00ce815129b6a5c31672758351920100c94e2810c243",
+      "resolved": "https://app1.edoobox.com/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/?edref=techlabs"
+    },
+    {
+      "name": "fll_faq",
+      "url": "https://www.first-lego-league.org/en/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 74438,
+      "sha256": "d54a2e1477777b44e7be6acac568aee976e12a7406be82e502e1d618178bc6e8",
+      "resolved": "https://www.first-lego-league.org/en/faq"
+    },
+    {
+      "name": "coupe_access",
+      "url": "https://www.coupederobotique.fr/horaires-et-acces/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109886,
+      "sha256": "f5e6a68a9de1ac7f6340ceb6f46070491f4a8d54c105bf4b5c042772911a83ab",
+      "resolved": "https://www.coupederobotique.fr/infos-pratiques/horaires-et-acces/"
+    },
+    {
+      "name": "coupe_family",
+      "url": "https://www.coupederobotique.fr/we-r-tech/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108603,
+      "sha256": "dfd21900753bb7e27caad506d033586925cefe2888c93a3af53f3f38e9bb09ec",
+      "resolved": "https://www.coupederobotique.fr/we-r-tech/"
+    },
+    {
+      "name": "coupe_2027",
+      "url": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 98871,
+      "sha256": "31137484dd825556c12703485b55d0605ad867f2d9179f910f4fd1abe634bea7",
+      "resolved": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-2027/"
+    },
+    {
+      "name": "smart_topic",
+      "url": "https://www.smartcityexpo.com/tracks-scewc/enabling-technologies/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 689269,
+      "sha256": "1a72cbdf60323892b95560fca717d1e467fcd4e3ab0f7fed95de9563599f0abc",
+      "resolved": "https://www.smartcityexpo.com/tracks-scewc/enabling-technologies/"
+    },
+    {
+      "name": "techlabs_battle0",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/Z%C3%BCrich%20%20TechLabs/Camp.ed.4cafc357c147_5988853171.ZH%20%20Battle%20Bot%20Robotics%20Camp%20%20Age%208-14%20%20Oct%205-9?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27367,
+      "sha256": "11f7b18c51c87ae68207dfe4ae4f1a33ba9c8d2c6da347c2ff8ee49e1ff38d25",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/Z%C3%BCrich%20%20TechLabs/Camp.ed.4cafc357c147_5988853171.ZH%20%20Battle%20Bot%20Robotics%20Camp%20%20Age%208-14%20%20Oct%205-9?edref=techlabs"
+    },
+    {
+      "name": "techlabs_battle1",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/Z%C3%BCrich%20%20TechLabs/Camp.ed.3ef91e58e0ac_7734247087.ZH%20%20Battle%20Bot%20Robotics%20Camp%20%20Age%208-14%20%20Oct%2012-16?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27374,
+      "sha256": "39d3a4424ddc6d84e1628063c37c954917ed24841c8bde9b8077840c179074a4",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/Z%C3%BCrich%20%20TechLabs/Camp.ed.3ef91e58e0ac_7734247087.ZH%20%20Battle%20Bot%20Robotics%20Camp%20%20Age%208-14%20%20Oct%2012-16?edref=techlabs"
+    },
+    {
+      "name": "techlabs_invent0",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Junior%20STEAM%20Inventors%20Camp/Zurich%20%20TechLabs/Camp.ed.bf45c8972145_7467594379.ZH%20%20Junior%20STEM%20Inventors%20Camp%20%20%20Age%205-9%20%20Oct%205-9?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23854,
+      "sha256": "a830f85e36da05f125af31e547b1d3f5c9cba702ce108e38c07f634586d983cc",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Junior%20STEAM%20Inventors%20Camp/Zurich%20%20TechLabs/Camp.ed.bf45c8972145_7467594379.ZH%20%20Junior%20STEM%20Inventors%20Camp%20%20%20Age%205-9%20%20Oct%205-9?edref=techlabs"
+    },
+    {
+      "name": "techlabs_invent1",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Junior%20STEAM%20Inventors%20Camp/Zurich%20%20TechLabs/Camp.ed.af69e8b719e3_7736661121.ZH%20%20Junior%20STEM%20Inventors%20Camp%20%20%20Age%205-9%20%20Oct%2012-16?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23864,
+      "sha256": "c427a094483c471f97bd6e3ba2276d028b872386821ba7be90a4ec8f6479d777",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Junior%20STEAM%20Inventors%20Camp/Zurich%20%20TechLabs/Camp.ed.af69e8b719e3_7736661121.ZH%20%20Junior%20STEM%20Inventors%20Camp%20%20%20Age%205-9%20%20Oct%2012-16?edref=techlabs"
+    },
+    {
+      "name": "fll_future8",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 57798,
+      "sha256": "3846a222aab88225284dca325ebf478d01fd050b0c511b24651abe297763d21e",
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-8"
+    },
+    {
+      "name": "fll_future5",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-5",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44497,
+      "sha256": "41379143118f4f868902ed956198908329a4639d6719f390e083a15d5bb1312a",
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-5"
+    },
+    {
+      "name": "asc_club",
+      "url": "https://alsalirdelcole.es/first-lego-league-intercoles-challenge-asc/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 157891,
+      "sha256": "1a2da4fb94ee87f58b3a9cdf16771fae319c313fd132d32b7e1b474f7cfa5e26",
+      "resolved": "https://alsalirdelcole.es/first-lego-league-intercoles-challenge-asc/"
+    },
+    {
+      "name": "robotics_tsa",
+      "url": "https://online.techsparkacademy.ch/robotics-course/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 391673,
+      "sha256": "b58cc705fac3930b31d9ff7d5a163c39617d73b48c5d778cd901bf09657608d8",
+      "resolved": "https://online.techsparkacademy.ch/robotics-course/"
+    },
+    {
+      "name": "zurich_tsa",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 467889,
+      "sha256": "16d68317c87b96f19bbcd420864fafd0e13abb69554d2fc3efcf25c52f50e7c6",
+      "resolved": "https://zurich.techsparkacademy.ch/zurich-day-camps/"
+    },
+    {
+      "name": "ecolint_home",
+      "url": "https://www.ecolint-camps.ch/en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52308,
+      "sha256": "d67b8bd48f6bd7b170fc832a07762bcf4c27650376a7673ae68aa1cd998ba699",
+      "resolved": "https://www.ecolint-camps.ch/en"
+    },
+    {
+      "name": "ecolint_older",
+      "url": "https://www.ecolint-camps.ch/fr/camps/robotique-10",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 30730,
+      "sha256": "53b4378a0d6a5707d888d33116b7ea499b1c1cfaf1b8f174e264ec24ced5004d",
+      "resolved": "https://www.ecolint-camps.ch/fr/camps/robotique-10"
+    },
+    {
+      "name": "union_english",
+      "url": "https://unionschool.paris/en/academy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 309517,
+      "sha256": "e570ea71e7a9035f8a0adad52e99758734ac3e36cebe61fc08c19df543079be2",
+      "resolved": "https://unionschool.paris/en/academy/"
+    },
+    {
+      "name": "union_french",
+      "url": "https://unionschool.paris/fr/activites/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 300267,
+      "sha256": "57ed226f837ebe650fa8637066056ccb54f7f38ba92f57617fa8b9578f175dc5",
+      "resolved": "https://unionschool.paris/fr/activites/"
+    },
+    {
+      "name": "union_admission",
+      "url": "https://unionschool.paris/en/information-request/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138696,
+      "sha256": "19977b156e61902883f71f0d6f1135777ab608391950b74230a39d990ee90ab9",
+      "resolved": "https://unionschool.paris/en/information-request/"
+    },
+    {
+      "name": "tandem_pdf",
+      "url": "https://www.tandem-ims.ch/hubfs/Flyer_ASC_A4_STEAM%2020252026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 408389,
+      "sha256": "dc5f9f83aad2153ba53f67cf8580c057244a3ef8661e433b3e6b2f5461810a10",
+      "resolved": "https://www.tandem-ims.ch/hubfs/Flyer_ASC_A4_STEAM%2020252026.pdf"
+    },
+    {
+      "name": "issh_camp",
+      "url": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1076045,
+      "sha256": "c19e8892a41b95d48bfa2081c3e7c942a3a939f7e8d3a3f5319aebba51825bdc",
+      "resolved": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/"
+    },
+    {
+      "name": "asti_home",
+      "url": "https://astichallenge.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 124098,
+      "sha256": "143f45d057791a7826da001f9c323d0d68934c74b20ac4dda7e7f98d79a1cfcd",
+      "resolved": "https://astichallenge.com/"
+    }
+  ],
+  "web_read_primary": [
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4448.html",
+      "claim": "Non-Swissteambarred;EUR110;registration8Jan2027;payment1Jan2027"
+    }
+  ]
+}

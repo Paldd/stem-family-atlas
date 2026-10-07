@@ -1,0 +1,235 @@
+{
+  "asof": "2026-10-05",
+  "version": 79,
+  "scope": "24 direct HTTP attempts /18 successful HTML bodies; failed HTTP preserved. Own operator pages with raw403 additionally read using web reader; no inferred successful raw fetch.",
+  "sources": [
+    {
+      "key": "see-future",
+      "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "see-engineering",
+      "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "nullspace-home",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/",
+      "status": 200,
+      "bytes": 288735,
+      "sha256": "2d10b6619dca0c895884608fcdc97a9c19e95b32149c0a5e0b62cd5e66b8a6bd"
+    },
+    {
+      "key": "outdoor-home",
+      "url": "https://www.ntucfirstcampus.com/outdoorschool/holiday-camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "sfs-home",
+      "url": "https://www.seoulforeign.org/camp-sfs",
+      "final_url": "https://www.seoulforeign.org/camp-sfs",
+      "status": 200,
+      "bytes": 50748,
+      "sha256": "1169a3693aaeedbdb8a2e6ecbc3bd88f2edf22e9e15a26dd347c38b02fa4b0e7"
+    },
+    {
+      "key": "sfs-elementary",
+      "url": "https://www.seoulforeign.org/camp-sfs/elementary-school-programs",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/elementary-school-programs",
+      "status": 200,
+      "bytes": 72773,
+      "sha256": "3bf8eec311afeb9a7c9fa555e91af09fae6aee010204e303a92f6dd6dbefbc99"
+    },
+    {
+      "key": "sfs-policy",
+      "url": "https://www.seoulforeign.org/camp-sfs/on-campus-policy",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/on-campus-policy",
+      "status": 200,
+      "bytes": 72803,
+      "sha256": "8b1aa9f8e5ef04e6eb79c8698de089d794444708f59cad75476225373f81a708"
+    },
+    {
+      "key": "sfs-grade",
+      "url": "https://www.seoulforeign.org/camp-sfs/grade-conversion",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/grade-conversion",
+      "status": 200,
+      "bytes": 53382,
+      "sha256": "8aee944ca03c098af0e51aa2fb8014c1b8d71aa84f78c4bc49ac8f911d92f904"
+    },
+    {
+      "key": "oyis",
+      "url": "https://external.oyis.org/intensives/",
+      "final_url": "https://external.oyis.org/intensives/",
+      "status": 200,
+      "bytes": 233939,
+      "sha256": "f6f69fbc50a84a794e931a450686fa8f82056d29b3f45429e26c598bac8c8ba1"
+    },
+    {
+      "key": "ea-summer",
+      "url": "https://www.english-adventure.org/en/summer/",
+      "final_url": "https://www.english-adventure.org/en/summer/",
+      "status": 200,
+      "bytes": 115872,
+      "sha256": "c81899f354bbcb3c297488aa40d1da544ec5bf910431b6fd0da12a750ad7872a"
+    },
+    {
+      "key": "myoko-home",
+      "url": "https://myokoenglishexplorers.com/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "nullspace-ev3",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/",
+      "status": 200,
+      "bytes": 188725,
+      "sha256": "7e76265944ec77e5784cfa7825ba832e46e199f54560e71c5bc7784f59ec539e"
+    },
+    {
+      "key": "nullspace-ai",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/",
+      "status": 200,
+      "bytes": 196215,
+      "sha256": "6cf93dff1170d98e734ed7102823ecdc4156612ef4429c11b64b4f7bdf277db4"
+    },
+    {
+      "key": "nullspace-policy",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/",
+      "status": 200,
+      "bytes": 165219,
+      "sha256": "1bc1891092cbe99c508bf54b1369e4aca47b9e2b82a3d9c928dde70b4af48b3b"
+    },
+    {
+      "key": "see-policy",
+      "url": "https://seecamp.com.tw/precautions/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "nullspace-stem",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/stem-explorer-class-7-8/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/stem-explorer-class-7-8/",
+      "status": 200,
+      "bytes": 224611,
+      "sha256": "7ad1fb880a5ed2a3d55efb07894d0d8f589271e3a39f3bd6a1a24f1b30a172cc"
+    },
+    {
+      "key": "nullspace-minecraft",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/",
+      "status": 200,
+      "bytes": 186822,
+      "sha256": "d7a3bf083710b452854512b9353fdb0f03da05e09f81712da6f43c6b2dd36e64"
+    },
+    {
+      "key": "nullspace-3d",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/",
+      "status": 200,
+      "bytes": 187302,
+      "sha256": "f6b2d40ebee0d26e72fd5353c856a15761825a452684b543ef91d742f29892f2"
+    },
+    {
+      "key": "nullspace-competition",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+      "final_url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+      "status": 200,
+      "bytes": 264993,
+      "sha256": "89ea74e0ccd0f830c63ab1ea3b68bbce5c67388762059801d52beeec62b0a312"
+    },
+    {
+      "key": "sfs-eligibility",
+      "url": "https://www.seoulforeign.org/camp-sfs/eligibility",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/eligibility",
+      "status": 200,
+      "bytes": 53680,
+      "sha256": "bce8cd1d65180f1b62eadbd6ba904ff8088aceb6c16f34de6565b451683216c5"
+    },
+    {
+      "key": "ea-immersion",
+      "url": "https://www.english-adventure.org/en/immersion/",
+      "final_url": "https://www.english-adventure.org/en/immersion/",
+      "status": 200,
+      "bytes": 84519,
+      "sha256": "3c4f088997e23794e71c74b14ae87460df14147902d4d1b953c7e732f7146879"
+    },
+    {
+      "key": "nullspace-contact",
+      "url": "https://sg.nullspace.co/contact-us/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "ntub-address",
+      "url": "https://som.ntub.edu.tw/index.php?Lang=en",
+      "final_url": "https://som.ntub.edu.tw/index.php?Lang=en",
+      "status": 200,
+      "bytes": 18227,
+      "sha256": "f47951869fc0a59dd937ab77af23a7c3a88c13feff14bda0cc7a9ffd6e8065fb"
+    },
+    {
+      "key": "sfs-transport",
+      "url": "https://www.seoulforeign.org/camp-sfs/transportation",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/transportation",
+      "status": 200,
+      "bytes": 52050,
+      "sha256": "abee39130a3e95fe3a273d046b78b02f6f023da7be8b53effbd00232f4e4ace3"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://external.oyis.org/intensives/",
+    "https://seecamp.com.tw/precautions/",
+    "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+    "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+    "https://sg.nullspace.co/centre-for-robotics-learning/stem-explorer-class-7-8/",
+    "https://sg.nullspace.co/contact-us/",
+    "https://som.ntub.edu.tw/index.php?Lang=en",
+    "https://www.english-adventure.org/en/immersion/",
+    "https://www.english-adventure.org/en/summer/",
+    "https://www.seoulforeign.org/camp-sfs/grade-conversion",
+    "https://www.seoulforeign.org/camp-sfs/transportation"
+  ],
+  "web_reader_reads": [
+    {
+      "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+      "method": "Official product read: grades, three variants, English, price and dated discount"
+    },
+    {
+      "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+      "method": "Official product read: G3–6/G1–2 exception, Fu Jen, curriculum, price and English"
+    },
+    {
+      "url": "https://seecamp.com.tw/precautions/",
+      "method": "Own registration/refund/day-insurance terms read; no payment/account/form action"
+    },
+    {
+      "url": "https://sg.nullspace.co/contact-us/",
+      "method": "Own centre addresses read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://www.ntucfirstcampus.com/outdoorschool/holiday-camps/",
+      "method": "Own landing read; dynamic detailed camp list not returned, no programme or date fabricated"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "Successful fetch alone is not full programme audit; claims use actual read primary content, including course duration, venue, year and admission contradictions.",
+    "Raw HTML stays outside the public repository; public exports contain fact summaries/source links/error receipts, not provider images or personal child media.",
+    "18 successful HTTP bodies plus web reader reads do not establish complete coverage of any country. Editorial selections are family candidates, not external world rankings.",
+    "No future sessions from old2026 brochures; no live vacancy, registration acceptance, foreign eligibility or full invoice claimed."
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "asof": "2026-10-05",
+  "version": 103,
+  "status": "progress",
+  "scope": "SelectedUSA/Canada/Mexico2026winterand2027general/thematic/STEM programmes;CostaRicaandclosed/specialintakegaps. NotcompleteAmericas/world.",
+  "new_dossiers": 15,
+  "new_operator_groups": 8,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "pipiol-summer-one",
+    "pipiol-summer-two",
+    "bc-mexico-innovators",
+    "sw-little-wonders",
+    "sw-curious-creators",
+    "sw-field-science",
+    "techknow-pokemon",
+    "techknow-minecraft",
+    "laurus-youth",
+    "roboiq-holidays",
+    "eli-toronto-primary",
+    "eli-montreal-junior",
+    "eli-toronto-family",
+    "langmobile-younger",
+    "langmobile-older"
+  ],
+  "new_calendar_rows": 13,
+  "new_family_session_ics": 13,
+  "new_family_ics": 13,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 4,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 745,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1158,
+  "country_dossier_counts": {
+    "CHE": 99,
+    "FRA": 59,
+    "ESP": 62,
+    "ITA": 6,
+    "GBR": 8,
+    "CHN": 8,
+    "HKG": 6,
+    "FIN": 5,
+    "TWN": 53,
+    "SGP": 78,
+    "JPN": 46,
+    "KOR": 16,
+    "USA": 81,
+    "CAN": 94,
+    "CRI": 13,
+    "MEX": 34,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "США",
+      "iso": "USA",
+      "provider": "v103 · закрытый Kupugani / нерабочие ссылки Swift",
+      "detail": "Собственный Kupugani прямо permanently closed несмотря на старые цены. Ссылается на Swift6–17, но актуальный Swift homepage6–15, даты/прайс/first-timer/international/FAQ по собственным ссылкам HTTP404. Архив2025 и поисковые цены не считаем доступным2027 лагерем. Новых dossiers из этих обещаний нет.",
+      "next_action": "Рабочие собственные ссылки Swift, реальные даты/полный прайс и EN support; не записываться через старые Kupugani формы.",
+      "url": "https://campkupugani.com/dates-and-tuition-rates/"
+    },
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v103 · Holland Bloorview FIRST: специальный приём",
+      "detail": "Фактическое тело Winter2027:SPIKE Essential6–10Jan20–Feb24/weeklyevenings, не лагерь на6недель; условная snow makeup не обычная смена. March15–19 2027 CAD475+HST: headline9–14, eligibility8–14/readiness. Общая Programme Description требует formal diagnosis и может потребовать собственную1:1поддержку; intake/45-minute inperson meet. Marchpageмягче, диагноз relevant ifany: явное противоречие. ENteacher/foreignintakeunknown. Не добавлено как обычный открытый familycamp/ICS.",
+      "next_action": "Применимость диагноза, конкретные условия курса/возраст/HST/язык/foreignintake и действующий cancellation policy. Медицинские потребности семьи не предполагаем.",
+      "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description"
+    },
+    {
+      "country": "Коста-Рика / Латинская Америка",
+      "iso": "CRI",
+      "provider": "v103 · возраст, пол и формат важнее найденного слова camp",
+      "detail": "Rooted Life CostaRica2027 June28–Aug1 USD15000 — только girls14–18/therapeutic5weeks, перелёт/страховка исключены; нашим двум мальчикам не подходит. College retreat, миссионерская поездка и schoolcalendar startingday не детский открытый лагерь. Новых подтверждённых публичных младших смен EN/ES из этого поиска не найдено; сохранены13CRI dossiers, не объявлено полное покрытие ЛатАм.",
+      "next_action": "Продолжать CRI/MEX/BRA/CHL/ARG/COL/PER/PAN и остальную ЛатАм, реальные зимние/летние2027 младшие EN/ES/RU программы, договоры и открытый индивидуальный приём.",
+      "url": "https://rootedlifeadventures.com/costa-rica/"
+    },
+    {
+      "country": "Канада / Мексика / США",
+      "iso": "CAN",
+      "provider": "v103 · календарь, язык и бюджет",
+      "detail": "Не переносим архив2026 на2027. ScienceWorld admission по году рождения, Grade лишь ориентир;2027 сетка не выведена. TechKnowHow новый kids-domain Winter2026 и актуальный прайс важнее старого .com2025/онлайн FAQ. Pipiol ES site не языковой инструктаж; ROBOIQ Englishlesson не ENrobotics; Laurus bilingual не гарантируетENтехнический tutor. EliMontreal brochure12+ не Toronto handbook7+;Toronto $250 не добавочный fee. Langmobile HTTP403: webreader удалось прочитать, один свежий снимок2027 заменяет устаревшее2026specialty. Даты окна не выдуманные недельные смены.",
+      "next_action": "Полные invoices, DOB/классы, допустимый язык, места, ночной надзор/страхование и возвраты каждого выбранного пакета. Все мировые лагеря/школы/лиги/соревнования/выставки/маршруты остаются активной целью;0полностью проверенных стран.",
+      "url": "https://elicamps.com/our-programs"
+    }
+  ],
+  "calendar": {
+    "events": 3287,
+    "learning_records": 1956,
+    "family_ics": 2543,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1493,
+    "reused_legacy_events": 69,
+    "season_windows": 46
+  },
+  "primary_retrievals": {
+    "direct_attempts": 44,
+    "http200": 36,
+    "retrieval_errors": 8,
+    "unique_actual_pdfs": 3,
+    "selected_visual_page_checks": 4,
+    "primary_web_reader_fallbacks": 1
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "15 new programme dossiers across 8 operator groups; old730dossiers/3274events unchanged. 745total/39countries/1158dossierURLs/26newURLs. Not a global ranking or fully audited country.",
+    "13exactnewdates:2PipiolJuly2027/4TechKnowDecember2026/7Langmobile5–6weeks2027.13familyplanningICS,4newflexibleseasonwindowsnotmadeintoevents. Archive2026ScienceWorld/BCMexico not rolledinto2027.",
+    "Pipiol actual84000/78400MXN,6–16coursebuthomepage7–15and4–17; Spanishsite not explicitteacherlanguage. Meals/accommodation/accidentpolicy included,transportconditional; cancellation21–29daygap retained. MiniKids mentionnotnew2027cohort.",
+    "TechKnowHow newWinter2026currentcampus/pricing overold.com2025and2020FAQ;CodeyRocky5–8/Minecraft6–9,separateaddresses/3vs4days/355or465,aftercare80or105/ownmeals/kitsnotgift;teacherENstillunconfirmed. 25percentdepositinprice/Dec4balance,Dec1refundcreditchange not registrationdeadline.",
+    "ScienceWorld actualbirthyearadmission2026:Oscar2020Little/Mat2017Curious; schoolgradeguideline not inferredfamilygrade. Englishmandatory; oneweekeachtype,Fielddifferentcurriculum. 2027dates/groupsunknown/WinterreturningFallheadline not datedcamp.",
+    "Eli Toronto7+and Montreal12+ separated; TorontoPrimary15lessons45min,firstdayorientation/holidayactivities,250depositinprice/21daybalance; handbooklinkedfromMontrealactuallyToronto. Montrealownbrochure15Juniorcorrects20genericwebinclusions,onewashdryincvsTorontolaundryextra. Familyunder7discussionnotacceptance.",
+    "Langmobile direct403, primarywebreaderfreshbody2027actualweeks;earliercachedbody2026notfuturecurriculum. HeaderAug14versuslastweekAug13;7–12specialtyTBAandJanuaryregistration;from305currencyunmarked. Laurus5–11bilingual75minSTAs butnewpricingdatesunannounced;ROBOIQEnglishlessonnotEnglishrobotics.",
+    "Kupuganiownpermanentlyclosed,Swiftownlinks404; noavailabilityfromoldsearch. HollandBloorviewformaldiagnosis/1:1/intakeconditionsandcourseageconflicts;weeklyeveningsnotholidaycamp, no genericfamily recommendation. Rootedgirls14–18notourboys.",
+    "44directattempts36actualbodies(33HTML/3PDF)8failures;1freshprimarywebreaderfallbackafter403;4selectedvisualPDFpages. Selectedclausesnotwholewebsiteaudit. Preservation/SQLschema/SQLrecords/CSV/ICS/filter/JS/maxfileindependentverification. Goal active0fullyaudited."
+  ],
+  "next_priority": "Continue all worldwide 2026–27 general/thematic/STEM camps, day/boarding/family EN/ES/RU; deepen CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm and all remaining countries. Real programme dates/fullinvoices/age-currentgrade/foreignindividualadmission/teaching-vs-language-lessons-support/gear/nightcare/refunds/availability. All schools/results5–10years/leagues/competitions/exhibitions/familyroutes retained. No country fully audited."
+}

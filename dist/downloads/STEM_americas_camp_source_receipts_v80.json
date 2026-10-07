@@ -1,0 +1,385 @@
+{
+  "asof": "2026-10-05",
+  "version": 80,
+  "scope": "36 direct HTTP attempts:30successful including one operator rate image and one PDF;6failedHTTP kept. Own VGC/RobotAcademy pages additionally read via web reader; own Liota/STEM4Kids read in browser without forms.",
+  "sources": [
+    {
+      "key": "muskoka-rates",
+      "url": "https://www.campmuskoka.com/summercamp/2027-dates-rates",
+      "final_url": "https://www.campmuskoka.com/summercamp/2027-dates-rates",
+      "status": 200,
+      "bytes": 358552,
+      "sha256": "f83a2ba6a25b9b2dc573f83f952c3ff101eb043df5916711088d1c8e212180c7"
+    },
+    {
+      "key": "muskoka-home",
+      "url": "https://www.campmuskoka.com/",
+      "final_url": "https://www.campmuskoka.com/",
+      "status": 200,
+      "bytes": 306500,
+      "sha256": "9b0811a2ad0be105794f6dfe5917455154af65cb204043260b1abf09945f0246"
+    },
+    {
+      "key": "woods-home",
+      "url": "https://muskokawoods.com/",
+      "final_url": "https://muskokawoods.com/",
+      "status": 200,
+      "bytes": 578692,
+      "sha256": "89613a62575492612b525a1ff8a0d31e8f1aa182fb537e027a2062f63e9322d8"
+    },
+    {
+      "key": "robot-academy",
+      "url": "https://robot-academy.com/summer-camps-columbus/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "liota-home",
+      "url": "https://liotacamps.com/",
+      "final_url": "https://liotacamps.com/",
+      "status": 200,
+      "bytes": 368878,
+      "sha256": "c34e2049b8ed4f98f93cfab886b34ba9839a5cdbcbbddbce199ab1a2e0a276e3"
+    },
+    {
+      "key": "hope-cr",
+      "url": "https://www.camphopeworldwide.org/costaricafaq",
+      "final_url": "https://www.camphopeworldwide.org/costaricafaq",
+      "status": 200,
+      "bytes": 102905,
+      "sha256": "3fff2ff545737125ed41786a06a2aa0e279147f05549c24f0536c460285c774e"
+    },
+    {
+      "key": "robin-faq",
+      "url": "https://www.camprobinhood.ca/faq/",
+      "final_url": "https://www.camprobinhood.ca/faq/",
+      "status": 200,
+      "bytes": 587844,
+      "sha256": "5a402c9f7a099bff40e3acd60c71083d98e4247be736e62b886858a361d825ef"
+    },
+    {
+      "key": "robin-register",
+      "url": "https://www.camprobinhood.ca/apply_now/",
+      "final_url": "https://www.camprobinhood.ca/apply_now/",
+      "status": 200,
+      "bytes": 527296,
+      "sha256": "b8996aa01635ca2100bab565a673e9554d68d244f9c22add49a91b7765981432"
+    },
+    {
+      "key": "woods-rates",
+      "url": "https://muskokawoods.com/rates-and-dates-for-overnight-summer-camp-in-ontario/",
+      "final_url": "https://muskokawoods.com/rates-and-dates-for-overnight-summer-camp-in-ontario/",
+      "status": 200,
+      "bytes": 247134,
+      "sha256": "876c16f32c065a4b2b1de9c96bdacda27be4ed041bf7b697fc80ff0128c57f88"
+    },
+    {
+      "key": "woods-wild",
+      "url": "https://muskokawoods.com/wild-overnight-summer-camp-for-kids-aged-6-8/",
+      "final_url": "https://muskokawoods.com/wild-overnight-summer-camp-for-kids-aged-6-8/",
+      "status": 200,
+      "bytes": 283301,
+      "sha256": "fca7175db64a43794ba8b14b99b544bad8fbb24a72f8ea55b480d9774544f6cd"
+    },
+    {
+      "key": "woods-venture",
+      "url": "https://muskokawoods.com/venture-overnight-summer-camp-for-kids-ages-9-10/",
+      "final_url": "https://muskokawoods.com/venture-overnight-summer-camp-for-kids-ages-9-10/",
+      "status": 200,
+      "bytes": 304963,
+      "sha256": "a2075f7f26cec7f1c8661bdf699b7c7d0612ddb7f9eb639ccb5a9e0d15fdc31d"
+    },
+    {
+      "key": "woods-faq",
+      "url": "https://muskokawoods.com/frequently-asked-questions/",
+      "final_url": "https://muskokawoods.com/frequently-asked-questions/",
+      "status": 200,
+      "bytes": 205556,
+      "sha256": "9f1b78cefc5ea42d156f19a83bd49f1dc3d366dd2ec724946a1f8ce67bfab6b3"
+    },
+    {
+      "key": "woods-terms",
+      "url": "https://muskokawoods.com/terms-and-conditions/",
+      "final_url": "https://muskokawoods.com/terms-and-conditions/",
+      "status": 200,
+      "bytes": 163874,
+      "sha256": "9fedf4d6c0a2718d28529e29aeb1870369fdbf7d7ac4a8bd77ea5a7035125034"
+    },
+    {
+      "key": "muskoka-experience",
+      "url": "https://www.campmuskoka.com/summercamp/the-experience",
+      "final_url": "https://www.campmuskoka.com/summercamp/the-experience",
+      "status": 200,
+      "bytes": 298559,
+      "sha256": "630ccabe16e6cea843cef06e4fa8c4ec012ae12d026a285abec49662d9db8b87"
+    },
+    {
+      "key": "robin-rates",
+      "url": "https://www.camprobinhood.ca/rates-apply/",
+      "final_url": "https://www.camprobinhood.ca/rates-apply/",
+      "status": 200,
+      "bytes": 506657,
+      "sha256": "165b5c24034a15dd810134c69d9ea6724101b3fe7076a87934bdd3f271446b00"
+    },
+    {
+      "key": "stem4-robotics",
+      "url": "https://www.stem4kids.co/camps/robotics",
+      "final_url": "https://www.stem4kids.co/camps/robotics",
+      "status": 200,
+      "bytes": 297085,
+      "sha256": "871a4824c22dd46171c212769b582f1486da78f9b40e4f46520d0f0dfb0b3eca"
+    },
+    {
+      "key": "aibeyond-rates",
+      "url": "https://www.aiandbeyondacademy.com/index.php/dates-and-rates-2027",
+      "final_url": "https://www.aiandbeyondacademy.com/index.php/dates-and-rates-2027",
+      "status": 200,
+      "bytes": 25825,
+      "sha256": "c6a127b2fef76451067076440565659927e0ea4faf5d4a636afa0055f6223fb0"
+    },
+    {
+      "key": "lincoln-cr",
+      "url": "https://www.lincoln.ed.cr/es/innovacion/campamento-de-verano",
+      "final_url": "https://www.lincoln.ed.cr/es/innovacion/campamento-de-verano",
+      "status": 200,
+      "bytes": 211367,
+      "sha256": "703a4183971d01bcd76b855aec50ae42fabb0fbbc91ba53656f15533829a2700"
+    },
+    {
+      "key": "biblioteca-heredia",
+      "url": "https://agenda.mcj.go.cr/evento/taller-de-programacion-y-robotica-desde-el-juego-biblioteca-publica-de-heredia",
+      "final_url": "https://agenda.mcj.go.cr/evento/taller-de-programacion-y-robotica-desde-el-juego-biblioteca-publica-de-heredia",
+      "status": 200,
+      "bytes": 272182,
+      "sha256": "77a375e5959250b58c31b446a7a39945a78fada1a3acf6aea5f899804c1a3d20"
+    },
+    {
+      "key": "stem4-builders",
+      "url": "https://www.stem4kids.co/camps/lego-robotics-builders",
+      "final_url": "https://www.stem4kids.co/camps/lego-robotics-builders",
+      "status": 200,
+      "bytes": 242175,
+      "sha256": "05a79c3dd3d177b158c4771eef586f80f4ba845b50ac72eddf6a59bc9f5865b5"
+    },
+    {
+      "key": "stem4-challengers",
+      "url": "https://www.stem4kids.co/camps/lego-robotics-challengers",
+      "final_url": "https://www.stem4kids.co/camps/lego-robotics-challengers",
+      "status": 200,
+      "bytes": 238459,
+      "sha256": "014b6b9cd5f24244e0a207fa151ebfaf436d7d82658821ee8b9008b28a9b413f"
+    },
+    {
+      "key": "stem4-engineers",
+      "url": "https://www.stem4kids.co/camps/vex-robotics-engineers",
+      "final_url": "https://www.stem4kids.co/camps/vex-robotics-engineers",
+      "status": 200,
+      "bytes": 231693,
+      "sha256": "0fbb2e8a6b3b5b39125f4d081fa29644473c2cdc117f5c129f83945848cf61f4"
+    },
+    {
+      "key": "stem4-rookies",
+      "url": "https://www.stem4kids.co/camps/vex-robotics-rookies",
+      "final_url": "https://www.stem4kids.co/camps/vex-robotics-rookies",
+      "status": 200,
+      "bytes": 231791,
+      "sha256": "bd6b0ecda0cee92dc7b263c308f3d2b0674f853f2b5dae5a0eef31e0ed33cb8d"
+    },
+    {
+      "key": "stem4-policy",
+      "url": "https://www.stem4kids.co/policies",
+      "final_url": "https://www.stem4kids.co/policies",
+      "status": 200,
+      "bytes": 49017,
+      "sha256": "c3ea8f66887b0bf7edf459d5f266cd04958fa47b647ca9ce8a4eb9758ad4bfe3"
+    },
+    {
+      "key": "stem4-faq",
+      "url": "https://www.stem4kids.co/faq",
+      "final_url": "https://www.stem4kids.co/faq",
+      "status": 200,
+      "bytes": 97843,
+      "sha256": "c24f60b1cdbbe7dca8e44bbf68b1f8d91281bb1e57437a7a869408396ded7df5"
+    },
+    {
+      "key": "aibeyond-home",
+      "url": "https://www.aiandbeyondacademy.com/",
+      "final_url": "https://www.aiandbeyondacademy.com/",
+      "status": 200,
+      "bytes": 30045,
+      "sha256": "e4ee64667524b7babdf3acf6d3830eb2b047d8cbda8f71fbca81c5a25455c51b"
+    },
+    {
+      "key": "ymca-camp",
+      "url": "https://ymcacolombia.org/campamento-en-ingles-para-ninos-y-jovenes/",
+      "final_url": "https://ymcacolombia.org/campamento-en-ingles-para-ninos-y-jovenes/",
+      "status": 200,
+      "bytes": 354626,
+      "sha256": "c81071c216d16041b3cf32b1ae86f621e56308849b17c86c891bf257fecc27c7"
+    },
+    {
+      "key": "ymca-2026",
+      "url": "https://experiencias.ymcacolombia.org/InscripcioncampamentosColombia2026",
+      "final_url": "https://experiencias.ymcacolombia.org/InscripcioncampamentosColombia2026",
+      "status": 200,
+      "bytes": 103984,
+      "sha256": "dd2cfee78f3a61956a8585e1c0e9c75283fc3adf3339b9e419901b2a6f60f028"
+    },
+    {
+      "key": "vgc-family",
+      "url": "https://vgc.ca/english-programs-and-schedule/family-program/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "vgc-junior",
+      "url": "https://vgc.ca/english-programs-and-schedule/the-camps-junior-program/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "vgc-price",
+      "url": "https://vgc.ca/price-list/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "vgc-price-pdf",
+      "url": "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf",
+      "final_url": "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf",
+      "status": 200,
+      "bytes": 3092192,
+      "sha256": "8e4f3a25f6e2bc5fbc17a85990e3fd279aebf2bb3419cba77d2bb3044d2f3000"
+    },
+    {
+      "key": "robot-westerville",
+      "url": "https://robot-academy.com/westerville-summer-robotics-camp-page/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "robot-lewis",
+      "url": "https://robot-academy.com/lewis-center-delaware-camp-page/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "stem4-spring",
+      "url": "https://www.stem4kids.co/camps/robotics?location=cupertino-ca&season=spring-camp-2027#season",
+      "final_url": "https://www.stem4kids.co/camps/robotics?location=cupertino-ca&season=spring-camp-2027#season",
+      "status": 200,
+      "bytes": 182804,
+      "sha256": "d211a8c4d2d7360a85ebb1f03a2c01aa2f920aba9e5c6b066b40c6def227125d"
+    },
+    {
+      "key": "robin-rates-image",
+      "url": "https://www.camprobinhood.ca/wp-content/uploads/2027-REG-RATES-Oct-1-819x1024.png",
+      "status": 200,
+      "bytes": 377261,
+      "sha256": "20dff345ecce182e4e002a27b3518dcc682dd17922d26968e698687e70fad81f"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://experiencias.ymcacolombia.org/InscripcioncampamentosColombia2026",
+    "https://muskokawoods.com/",
+    "https://muskokawoods.com/frequently-asked-questions/",
+    "https://muskokawoods.com/rates-and-dates-for-overnight-summer-camp-in-ontario/",
+    "https://muskokawoods.com/terms-and-conditions/",
+    "https://muskokawoods.com/venture-overnight-summer-camp-for-kids-ages-9-10/",
+    "https://muskokawoods.com/wild-overnight-summer-camp-for-kids-aged-6-8/",
+    "https://robot-academy.com/lewis-center-delaware-camp-page/",
+    "https://robot-academy.com/summer-camps-columbus/",
+    "https://robot-academy.com/westerville-summer-robotics-camp-page/",
+    "https://vgc.ca/english-programs-and-schedule/family-program/",
+    "https://vgc.ca/english-programs-and-schedule/the-camps-junior-program/",
+    "https://vgc.ca/price-list/",
+    "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf",
+    "https://www.campmuskoka.com/",
+    "https://www.campmuskoka.com/summercamp/2027-dates-rates",
+    "https://www.campmuskoka.com/summercamp/the-experience",
+    "https://www.camprobinhood.ca/apply_now/",
+    "https://www.camprobinhood.ca/faq/",
+    "https://www.camprobinhood.ca/rates-apply/",
+    "https://www.camprobinhood.ca/wp-content/uploads/2027-REG-RATES-Oct-1-819x1024.png",
+    "https://www.lincoln.ed.cr/es/innovacion/campamento-de-verano",
+    "https://www.stem4kids.co/camps/lego-robotics-builders",
+    "https://www.stem4kids.co/camps/lego-robotics-challengers",
+    "https://www.stem4kids.co/camps/robotics?location=cupertino-ca&season=spring-camp-2027#season",
+    "https://www.stem4kids.co/camps/vex-robotics-engineers",
+    "https://www.stem4kids.co/camps/vex-robotics-rookies",
+    "https://www.stem4kids.co/faq",
+    "https://www.stem4kids.co/policies",
+    "https://ymcacolombia.org/campamento-en-ingles-para-ninos-y-jovenes/"
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://www.camprobinhood.ca/wp-content/uploads/2027-REG-RATES-Oct-1-819x1024.png",
+      "method": "Own2027 price image read visually: sessions, early deadline, shortened session and bus charges"
+    },
+    {
+      "url": "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf",
+      "pages": [
+        8,
+        9
+      ],
+      "method": "Own PDF rendered with Poppler and visually read: both2027 price titles, individual packages and mandatory accompanying adult"
+    }
+  ],
+  "browser_reads": [
+    {
+      "url": "https://liotacamps.com/",
+      "method": "Dynamicwintersection and expandedage/refundFAQs read; summer-only age rule/19day-vs4weeks conflict corroborated, no application"
+    },
+    {
+      "url": "https://www.stem4kids.co/camps/lego-robotics-builders",
+      "method": "Public table10summerweeks/twocampuses/springCupertino/date/price/platforms inspected; Open+OpensNov1 ambiguous, no live vacancy"
+    }
+  ],
+  "web_reader_reads": [
+    {
+      "url": "https://vgc.ca/english-programs-and-schedule/family-program/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://vgc.ca/english-programs-and-schedule/the-camps-junior-program/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://vgc.ca/price-list/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://robot-academy.com/summer-camps-columbus/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://robot-academy.com/westerville-summer-robotics-camp-page/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    },
+    {
+      "url": "https://robot-academy.com/lewis-center-delaware-camp-page/",
+      "method": "Own primary programme page read; rawHTTP403 retained"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.camphopeworldwide.org/costaricafaq",
+      "reason": "Staff/volunteer mission trip, not ordinary juniorcamp offer"
+    },
+    {
+      "url": "https://agenda.mcj.go.cr/evento/taller-de-programacion-y-robotica-desde-el-juego-biblioteca-publica-de-heredia",
+      "reason": "January2026 archivedworkshop, no2027dates"
+    },
+    {
+      "url": "https://www.aiandbeyondacademy.com/index.php/dates-and-rates-2027",
+      "reason": "Earlyprices explicitly closed14August2026; platform-specific age/venue/ordinarycurrentprice not yet read. Not claimed as ready foreign familycourse"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "All source summaries use read content, including year/programme/admission conflicts. Search snippets and successfulHTTP alone do not establish complete audits.",
+    "Provider raw HTML/PDF/image and child photos remain outside public repository; only fact summaries and provenance/error receipts are published.",
+    "Different course/age/campus/format dossiers are not independent campoperators; editorial candidates are not an external worldranking.",
+    "Published price/session does not establish live vacancy, international acceptance, English teaching, final tax/insurance invoice or legal admission. Full worldwide goal remains active."
+  ]
+}

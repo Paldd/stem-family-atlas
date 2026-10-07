@@ -1,0 +1,452 @@
+{
+  "version": 45,
+  "checked": "2026-10-02",
+  "scope": "CHE/ESP/FRA public season and family gates",
+  "fetches": [
+    {
+      "name": "hot_locations",
+      "url": "https://www.first-lego-league.org/en/2026-27-season/locations",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/2026-27-season/locations",
+      "mime": "text/html",
+      "bytes": 37988,
+      "sha256": "0eebf01924f26d2d5f8b05ec9a395d264623d459d2b194f9006b9c1430bfa0e0"
+    },
+    {
+      "name": "hot_join",
+      "url": "https://join.hands-on-technology.org/",
+      "status": 200,
+      "resolved": "https://join.hands-on-technology.org/",
+      "mime": "text/html",
+      "bytes": 1378,
+      "sha256": "aba64d10f6cfa8109b1b6ba27dcd810d3e085d79cc5dde6897aee9def4e28e07"
+    },
+    {
+      "name": "hot_faq",
+      "url": "https://www.first-lego-league.org/en/faq",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/faq",
+      "mime": "text/html",
+      "bytes": 74452,
+      "sha256": "33c1d3a0e6b30433fc9db9d767a6031c68e3ef3b460a9ab1106dadc8a52e7d44"
+    },
+    {
+      "name": "swiss_starter",
+      "url": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "status": 200,
+      "resolved": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "mime": "text/html",
+      "bytes": 134709,
+      "sha256": "64312dcc5fe74eea74941784c551da1d4f66f5bea41a2bbab99a855f181e6979"
+    },
+    {
+      "name": "fr_home",
+      "url": "https://firstlegoleaguefrance.fr/",
+      "status": 200,
+      "resolved": "https://firstlegoleaguefrance.fr/",
+      "mime": "text/html",
+      "bytes": 143847,
+      "sha256": "540a6c82f7eaec0752528de9095c90333a234d02b2e5ff4d297cb37bd421a27a"
+    },
+    {
+      "name": "fr_festival",
+      "url": "https://fll2027.fr/",
+      "status": 200,
+      "resolved": "https://fll2027.fr/",
+      "mime": "text/html",
+      "bytes": 34391,
+      "sha256": "3bd5e60124fd43f4cb1b487814ec7c346f73372726eca1fc82d4c7d87a4b8600"
+    },
+    {
+      "name": "fr_faq",
+      "url": "https://fll2027.fr/infos/",
+      "status": 200,
+      "resolved": "https://fll2027.fr/infos/",
+      "mime": "text/html",
+      "bytes": 41208,
+      "sha256": "b325bd7be1176c649c42b393c4d91cd72154fb546ace5b998ba5803a1c98c3bd"
+    },
+    {
+      "name": "fr_planning",
+      "url": "https://fll2027.fr/planning/",
+      "status": 200,
+      "resolved": "https://fll2027.fr/planning/",
+      "mime": "text/html",
+      "bytes": 22721,
+      "sha256": "bc1d4300e8914fe9daa9beec04a4a033fb4057c0ed36414a584994354d98ce55"
+    },
+    {
+      "name": "fr_spaces",
+      "url": "https://fll2027.fr/espaces/",
+      "status": 200,
+      "resolved": "https://fll2027.fr/espaces/",
+      "mime": "text/html",
+      "bytes": 24103,
+      "sha256": "3bd9bc9a96b82185988db476d94c8f4f345e275990cf909dc7eb2805b8bea148"
+    },
+    {
+      "name": "fr_about",
+      "url": "https://fll2027.fr/about/",
+      "status": 200,
+      "resolved": "https://fll2027.fr/about/",
+      "mime": "text/html",
+      "bytes": 21599,
+      "sha256": "513386833c74e9bda187ba4e6b2fcb92f2aae36d6fef0d37a93f681201bf22af"
+    },
+    {
+      "name": "jaen",
+      "url": "https://www.ujaen.es/servicios/ucc/eventos/firstr-legor-league",
+      "status": 200,
+      "resolved": "https://www.ujaen.es/servicios/ucc/eventos/firstr-legor-league",
+      "mime": "text/html",
+      "bytes": 70039,
+      "sha256": "ef4061ac1c49b91a02d343ee3f1a88ec842d18c45233b0e532759a7152d48dfe"
+    },
+    {
+      "name": "es_home",
+      "url": "https://firstlegoleague.soy/",
+      "status": 200,
+      "resolved": "https://firstlegoleague.soy/",
+      "mime": "text/html",
+      "bytes": 335080,
+      "sha256": "27cc533bc350f196664fa5c057ca7234cf1343eab70863fe7eb02234d0a98e4c"
+    },
+    {
+      "name": "es_registration",
+      "url": "https://firstlegoleague.soy/inscripciones-bioglow/",
+      "status": 200,
+      "resolved": "https://firstlegoleague.soy/inscripciones-bioglow/",
+      "mime": "text/html",
+      "bytes": 271912,
+      "sha256": "f6586d8470969c78c6a30b93ef780d77c0b2e39800f6386b812e8135e8c33d19"
+    },
+    {
+      "name": "lmo_camp",
+      "url": "https://www.lmo-lyon.com/stage-robotique-octobre-2026",
+      "status": 200,
+      "resolved": "https://www.lmo-lyon.com/stage-robotique-octobre-2026",
+      "mime": "text/html",
+      "bytes": 357272,
+      "sha256": "c9b9c2e6566046373b4b6a01676023a09e06462b6a5d4b7024d10d19d6c3d996"
+    },
+    {
+      "name": "lmo_general",
+      "url": "https://www.lmo-lyon.com/stages-robotique",
+      "status": 200,
+      "resolved": "https://www.lmo-lyon.com/stages-robotique",
+      "mime": "text/html",
+      "bytes": 429028,
+      "sha256": "62fd091593ca5733b1b2fdbf916de3022e2cd714b695d4230b71297a67f478e6"
+    },
+    {
+      "name": "lmo_fees",
+      "url": "https://www.lmo-lyon.com/tarifs",
+      "status": 200,
+      "resolved": "https://www.lmo-lyon.com/tarifs",
+      "mime": "text/html",
+      "bytes": 307904,
+      "sha256": "92489fe4b18980f405f2618fe00b5f40f5ca34ed37d773367784ec07c7404eac"
+    },
+    {
+      "name": "life_camp",
+      "url": "https://lifeschool.es/es/tech-summer-camp/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/es/tech-summer-camp/",
+      "mime": "text/html",
+      "bytes": 138650,
+      "sha256": "0b6779541be9d626484fb55c321039f6856e7167ed0d70fbfdb84f928f35d081"
+    },
+    {
+      "name": "beelingue",
+      "url": "https://www.beelingueacademy.com/autumn-camp",
+      "status": 200,
+      "resolved": "https://www.beelingueacademy.com/autumn-camp",
+      "mime": "text/html",
+      "bytes": 39217,
+      "sha256": "66915d4341a01bb00acd2d522883390734f0778775b30c83742048e35fe03f34"
+    },
+    {
+      "name": "hot_swiss_0",
+      "url": "https://handson.tools/chur",
+      "status": 200,
+      "resolved": "https://handson.tools/chur",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_1",
+      "url": "https://handson.tools/freiamt-aargau",
+      "status": 200,
+      "resolved": "https://handson.tools/freiamt-aargau",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_2",
+      "url": "https://handson.tools/jura",
+      "status": 200,
+      "resolved": "https://handson.tools/jura",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_3",
+      "url": "https://handson.tools/lausanne",
+      "status": 200,
+      "resolved": "https://handson.tools/lausanne",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_4",
+      "url": "https://handson.tools/windisch",
+      "status": 200,
+      "resolved": "https://handson.tools/windisch",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_5",
+      "url": "https://handson.tools/yverdon",
+      "status": 200,
+      "resolved": "https://handson.tools/yverdon",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_6",
+      "url": "https://handson.tools/zu-hause-ch",
+      "status": 200,
+      "resolved": "https://handson.tools/zu-hause-ch",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_7",
+      "url": "https://handson.tools/zuhause-ch",
+      "status": 200,
+      "resolved": "https://handson.tools/zuhause-ch",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "hot_swiss_8",
+      "url": "https://handson.tools/zuerich",
+      "status": 200,
+      "resolved": "https://handson.tools/zuerich",
+      "mime": "text/html",
+      "bytes": 1227,
+      "sha256": "a2dd4b5ed2f48de07a0f7ee5c5e986a062b0f0c258bf34433165c3f4acce193f"
+    },
+    {
+      "name": "fr_lab",
+      "url": "https://www.helloasso.com/associations/le-lab-st-gervais/adhesions/adhesion-saison-2026-2027",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "fr_botfest",
+      "url": "https://botfestnantes.fr/programme",
+      "status": 200,
+      "resolved": "https://botfestnantes.fr/programme",
+      "mime": "text/html",
+      "bytes": 8686,
+      "sha256": "330b590601dd134db828a7d557b0b09f82874b6a6fbd6b9ce229f8e2972e0591"
+    },
+    {
+      "name": "hot_5",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-5",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-5",
+      "mime": "text/html",
+      "bytes": 44596,
+      "sha256": "ad095ac4cd8996b8ff1068709c72df6d893096bc324959ed25c6f1279331bd30"
+    },
+    {
+      "name": "hot_8",
+      "url": "https://www.first-lego-league.org/en/divisions/future-edition-8",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/divisions/future-edition-8",
+      "mime": "text/html",
+      "bytes": 57829,
+      "sha256": "4f7bee6da9f3bc7fb3a07ca3f244b319a8131ca8c053e6d881988d885dabd087"
+    },
+    {
+      "name": "hot_explore",
+      "url": "https://www.first-lego-league.org/en/divisions/explore",
+      "status": 200,
+      "resolved": "https://www.first-lego-league.org/en/divisions/explore",
+      "mime": "text/html",
+      "bytes": 56773,
+      "sha256": "e8ec80b716a01257610cd52b4257c5f39ba576322fe36eef7b5472a4414ed038"
+    },
+    {
+      "name": "fr_botfest_info",
+      "url": "https://botfestnantes.fr/infos-pratiques",
+      "status": 200,
+      "resolved": "https://botfestnantes.fr/infos-pratiques",
+      "mime": "text/html",
+      "bytes": 20445,
+      "sha256": "f85a3a322379839a1b4da0207ebd615a0e3d777e3eb9926686f949b461765f27"
+    },
+    {
+      "name": "fr_lab_info",
+      "url": "https://lelab.club/first-lego-league/",
+      "status": 200,
+      "resolved": "https://lelab.club/first-lego-league/",
+      "mime": "text/html",
+      "bytes": 29266,
+      "sha256": "46321924bb92fefab225d3d033f25e8993113f8bb27bacc5800432b1c557c452"
+    },
+    {
+      "name": "life_home",
+      "url": "https://lifeschool.es/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/",
+      "mime": "text/html",
+      "bytes": 384283,
+      "sha256": "598333c1cf968e0eb7615598cdc213db0b68105a5b0121574c59da6daf0faf35"
+    },
+    {
+      "name": "life_fees",
+      "url": "https://lifeschool.es/es/precios/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/es/precios/",
+      "mime": "text/html",
+      "bytes": 205576,
+      "sha256": "4ad140cc42572bc5b1693b407176dd52299bb1b27a1e07a2a666952718bab4ce"
+    },
+    {
+      "name": "nejapa",
+      "url": "https://site.educa.madrid.org/cp.ciudaddenejapa.trescantos/index.php/tecnologia-robotica/",
+      "status": "failed",
+      "error": "<urlopen error [Errno 54] Connection reset by peer>"
+    },
+    {
+      "name": "life_academic",
+      "url": "https://lifeschool.es/academic-program/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/academic-program/",
+      "mime": "text/html",
+      "bytes": 166483,
+      "sha256": "eea9c9106ebcee83c2da86ecfaed6ea501f8551063756dc16816489f4aaa71a3"
+    },
+    {
+      "name": "life_faq",
+      "url": "https://lifeschool.es/frequently-asked-questions/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/frequently-asked-questions/",
+      "mime": "text/html",
+      "bytes": 156374,
+      "sha256": "b61c598f5eee4e533e0666d6af364e9b5fc48a407d6eb823453667e2fc7227bf"
+    },
+    {
+      "name": "life_admissions",
+      "url": "https://lifeschool.es/admissions/",
+      "status": 200,
+      "resolved": "https://lifeschool.es/admissions/",
+      "mime": "text/html",
+      "bytes": 158094,
+      "sha256": "8f2510146a162cf56e7042ea95ec17522a93097daad2e0ac8de8b49e487a6945"
+    },
+    {
+      "name": "nejapa_language",
+      "url": "https://site.educa.madrid.org/cp.ciudaddenejapa.trescantos/index.php/plurilinguismo/",
+      "status": "failed",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "name": "nejapa_admissions",
+      "url": "https://site.educa.madrid.org/cp.ciudaddenejapa.trescantos/index.php/secretaria/",
+      "status": "failed",
+      "error": "<urlopen error [Errno 54] Connection reset by peer>"
+    }
+  ],
+  "public_browser": {
+    "url": "https://join.hands-on-technology.org/",
+    "rows": [
+      {
+        "text": "SA\n28\nNOV\nChur\nCH\n5 / 12 Teams\nFuture 8+",
+        "url": "https://join.hands-on-technology.org/e/chur?src=https://handson.tools/chur&title=Chur"
+      },
+      {
+        "text": "SA\n28\nNOV\nChur\nCH\n8 / 10 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/chur?src=https://handson.tools/chur&title=Chur"
+      },
+      {
+        "text": "SA\n28\nNOV\nChur\nCH\n7 / 12 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/chur?src=https://handson.tools/chur&title=Chur"
+      },
+      {
+        "text": "SA\n13\nMÄR\nFreiamt Aargau\nCH\n0 / 6 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/freiamt-aargau?src=https://handson.tools/freiamt-aargau&title=Freiamt+Aargau"
+      },
+      {
+        "text": "SA\n23\nJAN\nJura\nCH\n1 / 3 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/jura?src=https://handson.tools/jura&title=Jura"
+      },
+      {
+        "text": "SA\n23\nJAN\nJura\nCH\n12 / 12 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/jura?src=https://handson.tools/jura&title=Jura"
+      },
+      {
+        "text": "SA\n12\nDEZ\nLausanne\nCH\n3 / 12 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/lausanne?src=https://handson.tools/lausanne&title=Lausanne"
+      },
+      {
+        "text": "SA\n12\nDEZ\nLausanne\nCH\n8 / 16 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/lausanne?src=https://handson.tools/lausanne&title=Lausanne"
+      },
+      {
+        "text": "SA\n16\nJAN\nWindisch\nCH\n15 / 16 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/windisch?src=https://handson.tools/windisch&title=Windisch"
+      },
+      {
+        "text": "SA\n28\nNOV\nYverdon\nCH\n6 / 6 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/yverdon?src=https://handson.tools/yverdon&title=Yverdon"
+      },
+      {
+        "text": "SA\n28\nNOV\nYverdon\nCH\n10 / 16 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/yverdon?src=https://handson.tools/yverdon&title=Yverdon"
+      },
+      {
+        "text": "Zu Hause - CH\nCH\n0 / 35 Teams\nChallenge",
+        "url": "https://join.hands-on-technology.org/e/zu-hause-ch?src=https://handson.tools/zu-hause-ch&title=Zu+Hause+-+CH"
+      },
+      {
+        "text": "FR\n30\nAPR\nZuhause - CH\nCH\n1 / 10 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/zuhause-ch?src=https://handson.tools/zuhause-ch&title=Zuhause+-+CH"
+      },
+      {
+        "text": "SA\n20\nMÄR\nZürich\nCH\n5 / 8 Teams\nExplore",
+        "url": "https://join.hands-on-technology.org/e/zuerich?src=https://handson.tools/zuerich&title=Z%C3%BCrich"
+      }
+    ],
+    "sha256": "f358ae1b597840f8689e8bd36681c70221a6ec56626e9f4a3759ed249533aad0",
+    "interpretation": "12on-site entries in7locations. Two AtHomeentries excluded; month/day plus2026/27season yields dates. Individual handson.toolsviews did not load reliably; no extra claims based on their HTTP200shell."
+  },
+  "source_limitations": [
+    "HelloAssodirectfetch403; current organiser2026/27form read throughweb.",
+    "EducaMadridrobotics/language/admissionsdirectfetches failed; primary bodies read throughweb.",
+    "JOINseats are a snapshot, not held places; no application submitted.",
+    "School statements are programme evidence; no independently verified world title inferred."
+  ],
+  "conflicts": [
+    "Future5+:FAQtwo /divisiononeCS&AIkit per4children; hardwarepurchase unresolved.",
+    "Future5+:divisionno /FAQfew ornoofficialevents2026/27; noSwissdatedevent found.",
+    "Explore:FAQ6–9 /division6–10; cutoff not resolved.",
+    "FranceNational9–16 /Nanteslocal11–16; localgate retained.",
+    "LMO26–30October2026endweekday saysWednesdaybut30isFriday; weekwindow preserved, no daily slots inferred.",
+    "Franceoldnationalpage2026versusdedicatednew2027festival.",
+    "AtHomeChallenge1970andExploreheader30April/localdate29April; neither invented as on-site competition."
+  ],
+  "remaining": "Exact birthdays/classes, current mentors/places, technical-language exceptions, foreign quota, full national and worldwide coverage."
+}

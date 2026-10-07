@@ -1,0 +1,109 @@
+{
+  "asof": "2026-10-05",
+  "version": 80,
+  "status": "progress",
+  "scope": "USA/Canada/Latin America programme, admission, price and calendar primary pass; full worldwide competition/exhibition/school/camp objective remains active",
+  "new_dossiers": 13,
+  "updated_dossiers": [],
+  "new_calendar_rows": 110,
+  "new_family_ics": 110,
+  "programme_dossiers": 402,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 634,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "camp-muskoka-general",
+    "muskoka-woods-wild",
+    "muskoka-woods-venture",
+    "robin-hood-day",
+    "robin-hood-home-away",
+    "vgc-junior-family",
+    "robot-academy-full-day",
+    "stem4-builders",
+    "stem4-challengers",
+    "stem4-engineers",
+    "stem4-rookies",
+    "ymca-colombia-ycamp",
+    "lincoln-epic-archive"
+  ],
+  "findings": [
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v80: первичный прайс и условия 2027",
+      "detail": "Muskoka Woods: WILD 2019–21 / Venture 2017–18; язык не подтверждён. Международному ребёнку обязателен взрослый, забирающий за шесть часов. Проверить HST, ISO валюты и 14 против 15 дней отмены транспорта. Robin Hood: изображение прайса 2027 содержит 1855/1680; текущий bus 280/190 против старых 265/180 в поиске. Early до 31 октября — не крайний срок приёма.",
+      "next_action": "Подтвердить язык, валюту/налог, внешний допуск, готовность Оскара и итоговый счёт. Остальные запрошенные страны остаются в работе.",
+      "url": "https://muskokawoods.com/terms-and-conditions/"
+    },
+    {
+      "country": "США",
+      "iso": "USA",
+      "provider": "v80: STEM4Kids / Robot Academy",
+      "detail": "78 вариантов курса/кампуса STEM4Kids 2027, а не 78 операторов. Таблица Open / Opens Nov1 не доказывает свободное место. Учебные платформы, возраст и комплект в лагере подтверждены; язык неизвестен. Robot Academy: календарь 2027 при некоторых ссылках регистрации 2026, полная цена неизвестна. Лагерные награды не являются мировыми победами.",
+      "next_action": "Проверить договор, язык/возраст, цену/оборудование/праздники, конкретную площадку и задания опытным детям; продолжать остальные USA/CAN программы.",
+      "url": "https://www.stem4kids.co/camps/robotics"
+    },
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v80: VGC 2027 внутри PDF 2026",
+      "detail": "Визуально прочитаны страницы 8–9: Summer/Winter 2027; Junior CAD 2845–6550 без жилья / 4585–9640 homestay. Это индивидуальные тарифы; семейный расчёт отдельно. Junior 9–12 обязательно с взрослым; unaccompanied-minor fee не исключение. Окна сезона и еженедельные старты не превращены в непрерывную смену.",
+      "next_action": "Проверить пользу языка для свободного английского, даты ночей/заезда, семейное жильё/прайс, договор и детскую программу Оскару.",
+      "url": "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf"
+    },
+    {
+      "country": "Коста-Рика / Мексика / Колумбия",
+      "iso": "CRI",
+      "provider": "v80: будущие даты и настоящий адрес",
+      "detail": "YMCA FinAño 2026 проходит в Bochica/Santandercito; старый общий список La Vega не текущая площадка. COP и 100% EN указаны прямо; Summer 2027 пока лист уведомления. Lincoln EPIC января 2026 только Grades 8–12. Liota Winter: 17 декабря–4 января против четырёх недель; летний FAQ не доказывает зимний допуск. Camp Hope — поездка команды волонтёров; Heredia января 2026 — архив.",
+      "next_action": "Найти новые зимние младшие смены CRI/MEX, прочитать договор YMCA и цены новых LATAM сезонов. Формы, сообщения и платежи не отправляли.",
+      "url": "https://experiencias.ymcacolombia.org/InscripcioncampamentosColombia2026"
+    }
+  ],
+  "calendar": {
+    "events": 2731,
+    "learning_records": 1400,
+    "family_ics": 2066,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 937,
+    "reused_legacy_events": 66,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "validation": [
+    "All 2621 previous events and all 389 dossier IDs/content preserved; 13 new programme/age/season/format dossiers, not 13 independent operators.",
+    "Camp Muskoka is separate from Muskoka Woods. Its eight weeklong2027 sessions/CAD1695/tax/cancellation are primary; language and foreign eligibility remain unknown.",
+    "Muskoka Woods2027 WILD2019–2021 / Venture2017–2018 match the children by explicit cohorts. Eight weeks each with different prices; Christian Cabin Chat, insurance and mandatory adult pickup within six hours documented. ISO currency and 14-vs15-day transport cancellation conflict retained.",
+    "Robin Hood Canada2027 own price image visually read: four sessions, third nine attendance days; early new-family1855/1680 through31October. Current bus280/190 differs from stale search265/180. Home&Away separate completedGrades2–4/three-night programme; neither school grade inferred from birthyear.",
+    "VGC PDF filename2026 contains real Summer/Winter2027 tables on pages8–9, both rendered/read. Junior individual rates, adult rates and unknown Family bundle separated. Junior9–12 must travel with adult despite generic unaccompanied-minorfee. Two season windows produce no exact-session ICS.",
+    "STEM4Kids78 course/campus/date variants:21Builders and19each other. Actual product table dates independently parsed from primary cachedHTML; spring4courses12–16April onlyCupertino. Nov1/Open labels are not live vacancies; English/ISO/taxes not inferred. Robotkits stay atcamp.",
+    "STEM4Kids OscarGO only afterseventh birthday; MatveyBuilders/Rookies only while9. SPIKEEssential/Prime,GO/IQ course-specific gates and actual cancellation/full-payment rules retained.",
+    "RobotAcademy2027 Westerville andLewis-area dates tied to detailed own full-day programme pages. Age4–7/8–13,optionalTakeHomeRobot,bringlunch,unknownfullprice/English. Four-week refund counts from registration, not start; internalmedals not worldchampionships.",
+    "YMCA Colombia29November–4December2026 atBochica/Santandercito,COP1950000,100%English,YCAMP8–13. EarliergenericLaVega/undatedmini variants not newvenue/date evidence;2027 notification form not bookeddate. Oscarbelow8.",
+    "LincolnEPICGrades8–12/EN&ESJanuary2026 archive,notJunior2027. LiotaWinter19days-vs4weeks/summer-only ageFAQ remains unresolved. CampHopevolunteerteam andHerediaJanuary2026 workshops excluded as ordinary future familycamps.",
+    "110 new calendar rows/familyICS; prior1956 UID/datepairs preserved;104 exhibitionICS unchanged. SQLite/publicJSON agree,bridge idempotent,86family scenarios and0fullyauditedcountries."
+  ],
+  "next_priority": "Continue requested European/Asian/American countries and full league/exhibition/school scope; primary2027 junior CRI/MEX winter programmes, English course proof, complete contracts and family invoices remain open"
+}

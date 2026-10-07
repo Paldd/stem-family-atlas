@@ -1,0 +1,110 @@
+{
+  "asof": "2026-10-05",
+  "version": 75,
+  "status": "progress",
+  "scope": "Switzerland / France / Spain detailed programme documents; all worldwide blocks and priority countries retained",
+  "new_dossiers": 8,
+  "updated_dossiers": [
+    "aiglon",
+    "rosenberg",
+    "cdl"
+  ],
+  "corrected_legacy_event_ids": [
+    "L222"
+  ],
+  "new_calendar_rows": 32,
+  "newly_dated_legacy_rows": 1,
+  "new_family_ics": 33,
+  "programme_dossiers": 322,
+  "countries_with_dossiers": 32,
+  "swiss_dossiers": 53,
+  "french_dossiers": 33,
+  "spanish_dossiers": 27,
+  "official_dossier_urls": 516,
+  "programme_slugs": [
+    "aiglon-classic-board",
+    "aiglon-classic-day",
+    "helvetic-zug-summer",
+    "helvetic-zurich-summer",
+    "babel-holiday-english",
+    "littlebritish-boost",
+    "littlebritish-zoo",
+    "navatormes-english"
+  ],
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "Aiglon · младший Robotics и недельные программы",
+      "detail": "Брошюра 2027 прочитана визуально: пансион 8–16; дневная таблица Robotics 7–16, а описание и основная страница 8–16. Пять day-недель и шесть boarding-пакетов имеют собственные тарифы. Каждый курс одна неделя; длинные пакеты выбирают несколько программ, а не гарантируют три недели VEX.",
+      "next_action": "Подтвердить младший допуск, язык, часы/уровень VEX и полный пакет; переносить среднюю цену на другую программу нельзя.",
+      "url": "https://www.aiglon.ch/2027-summer-camp"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "Helvetic · подробная карточка против overview",
+      "detail": "Summer Zug прямо 12–16 июля 2027 вместо ошибочных 13–16 в overview; CHF 730/неделя, 1 460/2 недели; packed lunch. Технический intro 7+, summer overview 4–12, подробный Zug рассчитан на 6–11. Язык общего camp не доказательство EN Robotics; условия Zug не переносим на Zürich.",
+      "next_action": "Получить точный летний адрес, EN/DE группу, минимальный возраст, materials fee и отмену. L222 обновлена из недатированной спорной записи; другие старые записи сохранены и связаны без повторов.",
+      "url": "https://www.helveticinstitute.ch/summer-robotics-camp-zug/"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "Rosenberg / College du Léman · возраст курса и тарифный год",
+      "detail": "Rosenberg age form подтверждает только общий camp 6–18 и 6 лет к приезду, не минимум Robotics / AI. CDL публикует три смены 2027, регистрацию с ноября, но цену явно 2026. Afternoon VEX AIM 12+; startup 10+, drones 11+. Разные modules и pool-party Wednesday влияют на техчасов.",
+      "next_action": "Проверить EN/минимум выбранного курса и полный прайс/договор 2027; age verification не выполнялась.",
+      "url": "https://rosenbergcamps.ch/application/age-verification/"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "Babel / Little British · летний год и класс",
+      "detail": "Babel летний заголовок 2027 против body 2026, поэтому summer исключён. Little British Boost 5–9 июля2027 требует Primaire; Zoo12–16 июля2027 группа3–6. British POP по-прежнему 13–17 июля2026; соседняя реклама зимы2027 не обновляет его. Пять площадок не пять операторов, 2,5 часа не полный день.",
+      "next_action": "Подтвердить классы/уровни детей, утро/день, питание, скидки/отмену и исправление summer Babel.",
+      "url": "https://www.babelschool.fr/stages-vacances-anglais/"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "Navatormes / Costa Blanca · жильё, язык и архив",
+      "detail": "Navatormes landing «Próximamente2027», собственный PDF2026 подтверждает EUR618,2–14июля,7–17,tipis6–8 и EN всех активностей. FAQ говорит albergue: housing/2027 ещё нужны; нет новых точных дат. Costa Blanca описывает12 sessions, не12 часов, и презентации EN/ES, не весь технический инструктаж; ещё summer2026.",
+      "next_action": "Датированные 2027 документы, иностранный допуск и полные расходы; не называть tipis школьным пансионом и не выдавать английскую презентацию за EN Robotics.",
+      "url": "https://respiraocio.com/campamentos-de-verano/campamentos-de-verano-ingles-gredos/"
+    }
+  ],
+  "calendar": {
+    "events": 2483,
+    "learning_records": 1152,
+    "family_ics": 1805,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 689,
+    "reused_legacy_events": 64,
+    "season_windows": 18
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Other Europe / Asia / North America / LATAM priority gaps,2027 contracts, exact venues and complete family budgets; current goal staysACTIVE",
+  "validation": [
+    "2450 prior events unchanged; L222 retains ID and receives directly stated July12–16/2027 date, source and packed-lunch details",
+    "All314 prior dossier IDs preserved; only Aiglon/Rosenberg/CDL updated;311 other dossiers unchanged",
+    "Aiglon2027 original brochure price/age tables visually read; six boarding packages and five day weeks; day7+ versus main8+ Robotics conflict visible",
+    "Rosenberg general age6–18 never transferred to unknown FocusCourse minima; no age-verification submission",
+    "CDL three2027 sessions coexist with explicit2026 prices; VEX AIM12+, startup10+, registration beginsNovember",
+    "Helvetic own Zug detail resolves week2 to12–16July; six existing equivalent weeks reused; no assumed English instruction",
+    "Babel autumn/winter/spring full/morning packages; inconsistent summer2026/27 excluded; meal inclusion unknown",
+    "LittleBritish primary grade gate and Zoo3–6 maximum preserved; five campuses are variants of two courses, not ten operators",
+    "Navatormes linkedPDF2026 read and table visually inspected; EUR618 is historical; tipis6–8 versus landingalbergue explicit; no2027 calendar row",
+    "32 new dated catalogue rows plus one formerly undated L222;33 additional familyICS dates; all1772 prior UID/datepairs preserved",
+    "Worldwide leagues/schools/results/routes unchanged;104 exhibitionICS unchanged exceptDTSTAMP; SQLite integrity/foreignkeys and bridge idempotence",
+    "Canonical/publicJSON mirrors,63 scenarios,32 dossier countries,0 fullyaudited countries; worldwide goal remainsACTIVE",
+    "Native browserQA: scenario59 three correct picks; Aiglon filter3 and comparison2/4; comparisonclear0; Aiglon+confirmedEN0; Babel+confirmedEN1; WebMCP L22212–16July; consoleerrors0; local comparison screenshot saved"
+  ]
+}

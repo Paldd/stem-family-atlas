@@ -1,0 +1,637 @@
+{
+  "asof": "2026-10-05",
+  "version": 100,
+  "scope": "39directselectedretrievals/4PDF/8selectedvisualpages only. Notwholewebsites/countries;rawHTML/PDF/renders remainprivate.",
+  "sources": [
+    {
+      "key": "cosmo",
+      "url": "https://www.cosmorobotics.ch/en/academy",
+      "final_url": "https://www.cosmorobotics.ch/en/academy",
+      "status": 200,
+      "bytes": 1020218,
+      "sha256": "b0319795ec659251f36f84629d6aae5b7d1633fe316d13201944349704d77efd",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own classes8+ separate from camp age unknown; microbit/Maqueen/camp dates and format. EN website not ENteacher evidence; giftboard for yearclass not automatically camp.",
+      "body_snapshot_retained": true,
+      "raw_filename": "cosmo.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-camps",
+      "url": "https://en.codecampworld.ch/unsere-camps",
+      "final_url": "https://en.codecampworld.ch/unsere-camps",
+      "status": 200,
+      "bytes": 94316,
+      "sha256": "4e316bf5b4fad2d7a0564a1e1d10e5c4ae77a88a8c8d0a1940222f35add7e9ee",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own9 programme levels and agegates; Masters8–13 menu conflicts with7–12 owncourse. Spring/Summer2027registration opening notice not exactcohorts.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-camps.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-home",
+      "url": "https://en.codecampworld.ch/",
+      "final_url": "https://en.codecampworld.ch/",
+      "status": 200,
+      "bytes": 111909,
+      "sha256": "fa333471e36722bb0f371db81de5e89ccb48c7bcca3b12497ad265f1c0bebff1",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own current course-menu/season-opening notices. Winter starts Dec2026, not invented Dec2027. Voucher range not programme fee; sponsors not independent ranking.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "florimont",
+      "url": "https://www.florimont.ch/en/summer-camps/",
+      "final_url": "https://www.florimont.ch/en/summer-camps/",
+      "status": 200,
+      "bytes": 214145,
+      "sha256": "d63760d81935c82edd6e276665b39d583eeac5b9993345774d553e2ec2e05e86",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026 four types: Albert15–18EN/Futurekids5–14halfday/TechSpark9–16; Englishinterface not allcampteacher language. ExistingTechSpark preserved, no duplicatebrandcamp.",
+      "body_snapshot_retained": true,
+      "raw_filename": "florimont.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "issh-techlabs",
+      "url": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+      "final_url": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+      "status": 200,
+      "bytes": 1076045,
+      "sha256": "7c219a999571cccd7178923774856a3d3aeaa7682e37884cd25c2e270b982113",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own archivedJul13–17 2026/9–16/CHF650 each7–10robotics and11+drones; specific robot/sensor and simulator-toautonomous missions. DE/ENenvironment only7–10; no2027cohort or schoolboarding transfer.",
+      "body_snapshot_retained": true,
+      "raw_filename": "issh-techlabs.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "techspark-zurich",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "bytes": 468019,
+      "sha256": "b1b172dbb02617cf5ac54081bc37fbf5740176b81f9f0c96b8f84ffe760974ec",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown full citydate/course menu/ENinstruction/gear/fees; allalreadycovered25games+Python andLEGO unknowncohort. No duplicate datedrows or fakeLEGO availability.",
+      "body_snapshot_retained": true,
+      "raw_filename": "techspark-zurich.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "lacunza",
+      "url": "https://www.lacunza.es/es/campamentos/lacunza-camp",
+      "final_url": "https://www.lacunza.es/es/campamentos/lacunza-camp",
+      "status": 200,
+      "bytes": 55406,
+      "sha256": "babf9803669d7870e29df40ea5c76d02dacf8cc5e2c9248e2ec0353d7286c9b2",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownseason2027Jun20–Aug8/6–13/threeformats; still no new full2027invoice/individualweeks. Existingdossier unchanged.",
+      "body_snapshot_retained": true,
+      "raw_filename": "lacunza.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "fais-pdf",
+      "url": "https://www.faisl.com/wp-content/uploads/2026/05/TRIPTICO-CAMPAMENTO-TECNOLOGICO-2026.pdf",
+      "final_url": "https://www.faisl.com/wp-content/uploads/2026/05/TRIPTICO-CAMPAMENTO-TECNOLOGICO-2026.pdf",
+      "status": 200,
+      "bytes": 259035,
+      "sha256": "a361e4491d22fa045d6a4d555ace6bb371b703385b40738530ce5afa3bca1e7d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actual2page2026PDF bothpages viewed; phantomhiddenEnglish/grade/date text not visible andnot camp evidence. Priorcorrectdossier retained, no2027guess.",
+      "body_snapshot_retained": true,
+      "raw_filename": "fais-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "cosmo-camp-form",
+      "url": "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+      "final_url": "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+      "status": 200,
+      "bytes": 144837,
+      "sha256": "8473f3224c67db6ecf0027f0544f2b3d5ac37b93842bd3185a83518e59312ad0",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actual3page2027PDF: p1/3 selected visually, other text read; six morning intervals/three summer fulldays/Easter280 vs webTBC/Academy-only10percent/insurance/nonrefund/paymentfirstday/operatorcancel5days. Blankform not filled; banking data omitted from paraphrases.",
+      "body_snapshot_retained": true,
+      "raw_filename": "cosmo-camp-form.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "code-faq",
+      "url": "https://en.codecampworld.ch/faq",
+      "final_url": "https://en.codecampworld.ch/faq",
+      "status": 200,
+      "bytes": 124159,
+      "sha256": "a7f4e414d07f1166c7abe3ef2f43033ce427d41cfd791c2af5a640b4a8ba1afc",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected own language-by-cohort/dayformat/priceapprox120CHF/siblingunknown/foodBYO/device/license/rental50late/partialrefund clauses. AI9–13 programme vs demanded13+account conflict, no account created; no change of age or providerpolicy verification.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-faq.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-winter",
+      "url": "https://en.codecampworld.ch/unsere-camps-winter-ferien",
+      "final_url": "https://en.codecampworld.ch/unsere-camps-winter-ferien",
+      "status": 200,
+      "bytes": 216101,
+      "sha256": "3ca418a7d20de090d5abb4436a47baa051d7697a622ab06f099dc353b32e9fff",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own exactstarts/durations/venues winter2026–27; programme/language/price bycohort not readable here. No campus-week multiplied into9 course calendars.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-winter.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-spark",
+      "url": "https://en.codecampworld.ch/camps/spark",
+      "final_url": "https://en.codecampworld.ch/camps/spark",
+      "status": 200,
+      "bytes": 92055,
+      "sha256": "b3fdddd7b8457b1c9c7dd941e5ce4b2fb769d0fc7dd3afc6ebd4f8c99695a40d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own7–12/blockgame/basiclogic/3dayexample/projectcontinuation. Genericdailyexample not confirmed2027cohort. Internalmedal not internationalaward.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-spark.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-ai",
+      "url": "https://en.codecampworld.ch/camps/ai-camp",
+      "final_url": "https://en.codecampworld.ch/camps/ai-camp",
+      "status": 200,
+      "bytes": 99679,
+      "sha256": "ad7481682b04c1c3d15b3ad786ab7292804bbe25c1e8673b3b422e06ed8361c0",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own9–13/twodaygenerativeAI/computervision/comic; six actual intervals in sixmunicipalities2026–27 admitted with keyedvenues; teachinglanguage/price/minoraccount unresolved.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-ai.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-roadmap",
+      "url": "https://en.codecampworld.ch/camps/code-camp-roadmap",
+      "final_url": "https://en.codecampworld.ch/camps/code-camp-roadmap",
+      "status": 200,
+      "bytes": 105081,
+      "sha256": "ca8bc33cad6a39781580b0916d822b5227108a3b717363f51c2c4a865f7e3b23",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own learning progression, not internationalqualification. No rigid age-inferred mastery or guarantee of teacherEnglish.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-roadmap.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-byod",
+      "url": "https://en.codecampworld.ch/byod",
+      "final_url": "https://en.codecampworld.ch/byod",
+      "status": 200,
+      "bytes": 75630,
+      "sha256": "a0241dcc1f99ebae95e33901f48b026c1e83a43588e24f496fd8011d2d0fb83c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own pointer to per-course device requirements; FAQ contains concrete restrictions. No external app installation/account/signup.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-byod.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-terms",
+      "url": "https://en.codecampworld.ch/terms-conditions",
+      "final_url": "https://en.codecampworld.ch/terms-conditions",
+      "status": 200,
+      "bytes": 85002,
+      "sha256": "a8c1fd93618f7b674cffc96d85062342fd9aa8871f8987ac89f10d88998f469c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected publicly displayed terms show Australianlaw/AUD/footer2018 vs Swissaddress; current Swisscontract applicability unknown, not legalvalidation.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-terms.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "issh-stem",
+      "url": "https://www.issh.ch/holiday-camps/stem-camp",
+      "final_url": "https://www.issh.ch/holiday-camps/stem-camp",
+      "status": 200,
+      "bytes": 1014568,
+      "sha256": "e40a204123e98f98fb885a2686cc30de29f6f0fe67f87216a535fe6d7757ebf1",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own schoolSTEMcamp background not newdated2027camp. No form entered, schooladmission not inferred.",
+      "body_snapshot_retained": true,
+      "raw_filename": "issh-stem.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "fais-home",
+      "url": "https://www.faisl.com/",
+      "final_url": "https://www.faisl.com/",
+      "status": 200,
+      "bytes": 176031,
+      "sha256": "4a4178c0ce2251fe32bee03912e4ec8706d8c367b46d538b449230d0ffde1511",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own generaleducation/technology/Englishofferings not proof technicalcamp EN. Archivedcamp dossier unchanged.",
+      "body_snapshot_retained": true,
+      "raw_filename": "fais-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ilc-home",
+      "url": "https://internationallanguagecamps.com/",
+      "final_url": "https://internationallanguagecamps.com/",
+      "status": 200,
+      "bytes": 57071,
+      "sha256": "8ab40e29d43aed3a4ab075674bbcfb49c64ed97289441c8c2b8783b49b088883",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown2027headline but no newlyfoundconfirmedannualdatedcourse; existingdossier not upgraded from headline.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ilc-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ilc-prices",
+      "url": "https://internationallanguagecamps.com/prices",
+      "final_url": "https://internationallanguagecamps.com/prices",
+      "status": 200,
+      "bytes": 143766,
+      "sha256": "74895444aeb58e2867e7cac8f5d2eb7b4f35f77f7be967da06568ea1bd81498b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown prices/dates withoutyear still; priorcarefulinvoice/transfer/laundry dossier unchanged, no new2027cohorts.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ilc-prices.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "forest-fr",
+      "url": "https://forest-international.com/fr/stages-vacances/",
+      "final_url": "https://forest-international.com/fr/stages-vacances/",
+      "status": 200,
+      "bytes": 49229,
+      "sha256": "872cf3b3526e14b72b6fb1953ca4090901316b86fa101b5f3cd7c1b41f494632",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026–27 openexternal2–12/Englishcampdays/six exactweeks/450or480+40meals/40summerextendedhour/transportunpriced, nature/projects/pool; no inventedrobotics.",
+      "body_snapshot_retained": true,
+      "raw_filename": "forest-fr.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "eib-camps",
+      "url": "https://www.eibparis.com/extrascolaire/camps",
+      "final_url": "https://www.eibparis.com/extrascolaire/camps",
+      "status": 200,
+      "bytes": 99072,
+      "sha256": "786db4ca4f61a2db59c2e4ca8c5733c162ef8d7c41b9ca198ee5aa703c250f07",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnMonceau twoOct19–23 2026 programmes:2.5–5castle and6–11primarysciencecoding/fullEN/8.5–17/650lunch/externalkids. Grades/DOB/internationalintake/contracts not assumed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "eib-camps.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "beelingue-autumn",
+      "url": "https://www.beelingueacademy.com/autumn-camp",
+      "final_url": "https://www.beelingueacademy.com/autumn-camp",
+      "status": 200,
+      "bytes": 39217,
+      "sha256": "69bc80846cf825b719ab00c384106a99c6419a673a2d7fec99cf7d139479e2a4",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnOct19–23Paris3–10/Oct26–30Levallois5–10/differentvenues/halfday/partnermove. EN all-neededblocks ofpartnercamp separatelyunknown.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-autumn.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-mediterranean",
+      "url": "https://www.planete-sciences.org/mediterranee/sejour-de-vacances/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/sejour-de-vacances/",
+      "status": 200,
+      "bytes": 82889,
+      "sha256": "7d96ec9201c371561e26de6a591700523d2e44e0599e63bc7b8b343e327f188a",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026–27 listedtwoOctoberScienceEnglish7–12 androbotics8+ separately; no detailedscience curriculum/format/fullpackage yet, gap only.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-mediterranean.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "stgeorge-barcelona-pdf",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "final_url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "status": 200,
+      "bytes": 39727781,
+      "sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actual13page2026PDF selectedpage9 visually and robotics paragraph read;6–10/Jul6–31/3306459501240/Igniterobotics3D. Existingdossier unchanged; not whole13page seasonalprogramme audit.",
+      "body_snapshot_retained": true,
+      "raw_filename": "stgeorge-barcelona-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "futurekids",
+      "url": "https://futurekids.io/activities/stages-vacances?city=Gen%C3%A8ve&online=",
+      "final_url": "https://futurekids.io/activities/stages-vacances?city=Gen%C3%A8ve&online=",
+      "status": 200,
+      "bytes": 37155,
+      "sha256": "b505457f25508603bddd3d10a03da1579496586c14315c3372dfca0f583967b9",
+      "retrieval_method": "direct_http",
+      "content_scope": "Directreturned JS shell withtitle, no owncurriculum/date/fee/languagebody. Florimontclaim not provider-fullsiteaudit.",
+      "body_snapshot_retained": true,
+      "raw_filename": "futurekids.html",
+      "content_status": "javascript_shell_no_programme_body"
+    },
+    {
+      "key": "florimont-autumn",
+      "url": "https://www.florimont.ch/en/autumn-camps/",
+      "final_url": "https://www.florimont.ch/en/autumn-camps/",
+      "status": 200,
+      "bytes": 184795,
+      "sha256": "e5ff9f3d6adf8bacc8a6c9ee7e9abb7fc30e4183f7808c7842efd5eb5678fa0a",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnOct19–23 2026/4–9/day8–17/CHF810/multiactivity; ENteacher not established. No newconfirmedENdossier.",
+      "body_snapshot_retained": true,
+      "raw_filename": "florimont-autumn.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "beelingue-pdf",
+      "url": "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+      "final_url": "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+      "status": 200,
+      "bytes": 2115640,
+      "sha256": "5213c463116fa5e45eb96b7b827f0b32de9b0d9d240756327630772ebd13d13b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actual6pagePDF selected3/4/5visual: Paris3–6and7–10timetable/495day225halfweek/25outing50two/foodBYO/10percentsecondconditional; Lev14–18/225week50day/15ludotheque, role15–17EN only directlyspecified.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "beelingue-terms",
+      "url": "https://www.beelingueacademy.com/cgdv",
+      "final_url": "https://www.beelingueacademy.com/cgdv",
+      "status": 200,
+      "bytes": 23428,
+      "sha256": "aa0a6d303d0e93417e80e109daf72b28e287adce819333ca54a5039e94e1ed15",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnworkshopCGDV annual30family/48hcancellation/late-norefund/photooptout. Applicability tocamp/partnerinvoice not proven; no acceptance.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-terms.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-english1",
+      "url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure-2/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure-2/",
+      "status": 200,
+      "bytes": 73965,
+      "sha256": "8360eb2c44beeef310cc3a4acfe762b1fd709ab1774db6817a76befc7eac75da",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnOct19–23 title7–12/190EUR/address11rueSansPeurGrasse06130; detailedtimes/boarding/inclusions not provided. No newtopdossier from title alone.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-english1.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-english2",
+      "url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure/",
+      "status": 200,
+      "bytes": 73765,
+      "sha256": "eb63ef30f7e0debdc7928aa649aa0dc43eae9e355cb7e4952cd32bf6da41b708",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnOct26–30 same titleage/190EUR/Grasseaddress; selecteddetails no newdetailedprogramme or2027dates.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-english2.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-list",
+      "url": "https://my.codecampworld.ch/camp/list",
+      "final_url": "https://my.codecampworld.ch/camp/list",
+      "status": 200,
+      "bytes": 6479,
+      "sha256": "9cda23cf72bda2554bf93578da088a76967999c7c5ccb1ecd6d856fd45e2eff7",
+      "retrieval_method": "direct_http",
+      "content_scope": "Direct public listing returned JS shell, not programme/language/price body. Embedded client identifiers/keys not used or copied to public receipt. No signup opened/entered.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-list.html",
+      "content_status": "javascript_shell_no_programme_body"
+    },
+    {
+      "key": "code-ignite",
+      "url": "https://en.codecampworld.ch/camps/ignite",
+      "final_url": "https://en.codecampworld.ch/camps/ignite",
+      "status": 200,
+      "bytes": 85453,
+      "sha256": "9655cc068522d6d4f475a69dbe38bca127c4e2b7ef7f9ee1b626b805180ebdf4",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own7–12/priorSparkorequivalent/twodgame/blocktofirstJavaScript, usually3days. Game via commonCodeCamp app not guaranteed independentstore app.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-ignite.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-blast-3d",
+      "url": "https://en.codecampworld.ch/camps/blast-3d",
+      "final_url": "https://en.codecampworld.ch/camps/blast-3d",
+      "status": 200,
+      "bytes": 85898,
+      "sha256": "83e138aad80da64199670a0a0bd0c632aff9cdecfc102063359ead87201fa69d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own8–13/pureJavaScript3D/priorlearning/keyboardcomfort, variable3dayexample. Operatorfirstworldwide claim not independently verified.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-blast-3d.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-web-builders",
+      "url": "https://en.codecampworld.ch/camps/web-builders",
+      "final_url": "https://en.codecampworld.ch/camps/web-builders",
+      "status": 200,
+      "bytes": 86527,
+      "sha256": "0ddae2fffda8dac68138cd3e815cba02201e88d247c1394371ebe983cff9ed55",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own8–13/HTMLCSSJavaScript/multipageproject/layout/navigation, keyboard requirement andtypical3days. EN teaching not confirmed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-web-builders.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-engineers",
+      "url": "https://en.codecampworld.ch/camps/minecraft-engineers",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-engineers",
+      "status": 200,
+      "bytes": 89697,
+      "sha256": "b64147dd14f737ae067d1031c2445c91e8a013e1d25189dd6ed892fde8354d75",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own7–12/three-dayrollercoaster/Redstone/commandblocks/MinecraftEducation license forcourse only. Exactnewcohort not proven.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-engineers.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-masters",
+      "url": "https://en.codecampworld.ch/camps/minecraft-masters",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-masters",
+      "status": 200,
+      "bytes": 90254,
+      "sha256": "c18f2d5bcac80233ff38b929091714150ed330180891445076f66c0fc0d4608f",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own7–12 conflictsmenu8–13; requiresEngineers, spyHQ/Redstone/parkour/NPC/escaperoom. GenericBlast3D/GameOver lower template not selectedMinecraftsyllabus.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-masters.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-experts",
+      "url": "https://en.codecampworld.ch/camps/minecraft-experts",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-experts",
+      "status": 200,
+      "bytes": 92029,
+      "sha256": "899f5b71028fa79a7eadf8b4e3ec5705f26a4aaecb0c417dbc61bded71bc125b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own8–13/atleastoneMinecraftcamp/commandblocks/MakeCode/adventuremap/Elytra/arena. Generic3D lower template not actualMinecraftdailyproof.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-experts.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-animation",
+      "url": "https://en.codecampworld.ch/camps/animation",
+      "final_url": "https://en.codecampworld.ch/camps/animation",
+      "status": 200,
+      "bytes": 88636,
+      "sha256": "b0d782a991e0d54b2426726022558d16423db41b76357ed6e1449882ebb34aa9",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own7–10/two-daystopmotion/storyboard/pairedshooting/editing, ownclassprose used. Genericthree-day3D template not course duration.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-animation.html",
+      "content_status": "html_selected_programme_clauses"
+    }
+  ],
+  "visual_pdf_checks": [
+    {
+      "key": "fais-pdf",
+      "pages_total": 2,
+      "selected_pages": [
+        1,
+        2
+      ],
+      "pages_visual_checked": 2,
+      "pdf_sha256": "a361e4491d22fa045d6a4d555ace6bb371b703385b40738530ce5afa3bca1e7d",
+      "renders": [
+        {
+          "filename": "fais-1.png",
+          "sha256": "5d5e4d1ed205ee9c78b77584e1076a2962bc3f7e27dae80ea4d22be3356959fc"
+        },
+        {
+          "filename": "fais-2.png",
+          "sha256": "91fb61883af6009166a20ee5d01975f73528645e26d061b079f2678735a99e32"
+        }
+      ],
+      "scope": "Selected programme/tariff/terms pages only; form not entered or submitted. Private originals/renders, public factual paraphrase only."
+    },
+    {
+      "key": "cosmo-camp-form",
+      "pages_total": 3,
+      "selected_pages": [
+        1,
+        3
+      ],
+      "pages_visual_checked": 2,
+      "pdf_sha256": "8473f3224c67db6ecf0027f0544f2b3d5ac37b93842bd3185a83518e59312ad0",
+      "renders": [
+        {
+          "filename": "cosmo-camp-1.png",
+          "sha256": "eafaa69980c18cef0420141b0a988e095de34044500a1ba3d60cb22e048cf614"
+        },
+        {
+          "filename": "cosmo-camp-3.png",
+          "sha256": "229857b89dc30e1cb6e20895069ed6119b163a4cdbae1224f525aff654006a3c"
+        }
+      ],
+      "scope": "Selected programme/tariff/terms pages only; form not entered or submitted. Private originals/renders, public factual paraphrase only."
+    },
+    {
+      "key": "beelingue-pdf",
+      "pages_total": 6,
+      "selected_pages": [
+        3,
+        4,
+        5
+      ],
+      "pages_visual_checked": 3,
+      "pdf_sha256": "5213c463116fa5e45eb96b7b827f0b32de9b0d9d240756327630772ebd13d13b",
+      "renders": [
+        {
+          "filename": "beelingue-3.png",
+          "sha256": "9da2a553ca339cf5366a4e7963e53284d48b82b7629111c65990ecf3ea52d790"
+        },
+        {
+          "filename": "beelingue-4.png",
+          "sha256": "59b42c441d3986c5fb17c9e3d46ea3bb9817ebc5332276a9598691ca43843f2a"
+        },
+        {
+          "filename": "beelingue-5.png",
+          "sha256": "a73316dd44059c418969c3b779a4cacd61faf6a763c5e3a77507756afe7abb37"
+        }
+      ],
+      "scope": "Selected programme/tariff/terms pages only; form not entered or submitted. Private originals/renders, public factual paraphrase only."
+    },
+    {
+      "key": "stgeorge-barcelona-pdf",
+      "pages_total": 13,
+      "selected_pages": [
+        9
+      ],
+      "pages_visual_checked": 1,
+      "pdf_sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1",
+      "renders": [
+        {
+          "filename": "stgeorge-9.png",
+          "sha256": "94c027b7598ef53d5e816afaf8a7e5f9a9b9eb34b9af544229f5c86fb9041bc5"
+        }
+      ],
+      "scope": "Selected programme/tariff/terms pages only; form not entered or submitted. Private originals/renders, public factual paraphrase only."
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://en.codecampworld.ch/camps/ai-camp",
+    "https://en.codecampworld.ch/camps/animation",
+    "https://en.codecampworld.ch/camps/blast-3d",
+    "https://en.codecampworld.ch/camps/ignite",
+    "https://en.codecampworld.ch/camps/minecraft-engineers",
+    "https://en.codecampworld.ch/camps/minecraft-experts",
+    "https://en.codecampworld.ch/camps/minecraft-masters",
+    "https://en.codecampworld.ch/camps/spark",
+    "https://en.codecampworld.ch/camps/web-builders",
+    "https://en.codecampworld.ch/faq",
+    "https://en.codecampworld.ch/terms-conditions",
+    "https://en.codecampworld.ch/unsere-camps",
+    "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+    "https://forest-international.com/fr/stages-vacances/",
+    "https://www.beelingueacademy.com/autumn-camp",
+    "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+    "https://www.beelingueacademy.com/cgdv",
+    "https://www.cosmorobotics.ch/en/academy",
+    "https://www.eibparis.com/extrascolaire/camps",
+    "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+    "https://www.issh.ch/holiday-camps/stem-camp"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "notes": [
+    "TwoJSshells no programmebody; publicclient identifiers not used/copied. No form/signup/consent/message/payment/account.",
+    "ENinterface/support/campLife/teacher language separate; typedPDFghostEnglish andgeneric3D templates not accepted asprogramme evidence.",
+    "Dossier count is formats/programmes/agegroups, not uniquebrands or independentranking. Futureintake/places/all-in unknown explicit."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "version": "v10",
+  "checked": "2026-09-30",
+  "baseline_records": 971,
+  "added_records": 6,
+  "updated_ids": [
+    "C687",
+    "C688",
+    "C689",
+    "C690",
+    "C691",
+    "C692",
+    "C693",
+    "C694",
+    "C695",
+    "C696",
+    "C697",
+    "C698",
+    "C699",
+    "C700",
+    "C701",
+    "C702",
+    "C703",
+    "C704",
+    "C705",
+    "C706",
+    "C707"
+  ],
+  "new_ids": [
+    "C760",
+    "C761",
+    "E095",
+    "L119",
+    "L120",
+    "L121"
+  ],
+  "sources": [
+    {
+      "url": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+      "title": "MEP Manual FCTI 2026",
+      "evidence": "Прочитаны категории, допуск, школьные этапы, календарь, язык ES и бесплатная регистрация; таблицы 1 и 2 визуально проверены."
+    },
+    {
+      "url": "https://micitt.go.cr/el-sector-informa/invitacion-para-participar-como-juez-en-la-feria-nacional-de-ciencia-tecnologia-e",
+      "title": "MICITT — национальное судейство FCTI 2026",
+      "evidence": "Виртуальная защита 10 ноября; дневники 10–21 октября; дедлайн заявки судей 25 сентября не перенесён на детские заявки."
+    },
+    {
+      "url": "https://www.mountviewcr.com/cs-camp/",
+      "title": "Mount View Christmas / Summer Camp",
+      "evidence": "Прочитаны внешние дети, 2–8, декабрь/январь, 08–12 и технологии; конкретные смены/язык не объявлены."
+    },
+    {
+      "url": "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+      "title": "UCR Pacífico — первый робототехнический camp 2025",
+      "evidence": "Историческая первичная новость; нового набора 2026/2027 не установлено."
+    },
+    {
+      "url": "https://www.conversa.com.mx/planes_modalidades_verano",
+      "title": "Conversa Future Skills Summer Camp 2026",
+      "evidence": "Прочитаны прошедшие сроки/возраст/тарифы и English lessons; новый сезон и язык STEM не установлены."
+    },
+    {
+      "url": "https://registro.wropanama.com/",
+      "title": "WRO Panamá — регистрационный портал 2026",
+      "evidence": "Прочитан 30.09; 3 региональных этапа против maximum 2 в подписываемом PDF; не обещан допуск 2027."
+    }
+  ],
+  "findings": [
+    "Costa Rica school cycle determines national access; preescolar is institutional activity, not competition.",
+    "National Nov10 is virtual judging, not a public family exhibition; Oct3 is qualified project registration, Sep25 is judges only.",
+    "Panama portal3 vs signing PDF2 regionales recorded as unresolved;2026 fee not promised for2027.",
+    "MountView2–8 admits external children; current camp language/dates not confirmed;Matvey9 excluded.",
+    "UCR2025 andConversa2026 historical camp evidence retained without inventing future dates or EnglishSTEM instruction."
+  ],
+  "unavailable": [
+    "FOD upcoming child holiday-camp slots not found in targeted official search.",
+    "Liota page extracted empty through web tool and direct HTTP; no eligibility or dates imported.",
+    "Nicaragua current page/date/rules reread; Google registration form content still unavailable. Existing WeDo7–10 vsRoboBasic6–10 conflict retained.",
+    "UCR Pacífico nextcamp not found; past2025 attendance is not open2026registration."
+  ],
+  "remaining": [
+    "Full worldwide three-block research remains active; no country fully audited.",
+    "DOB/month and school grades pending; do not publish child dates of birth.",
+    "CR school recognition/grade/selection and possible alto potencial CCR admission need family-specific confirmation.",
+    "MountView actual2026–2027camp dates/ESENlanguage;Conversa newseason and STEM teaching language;UCR newcamp.",
+    "Panama updated national result/date and2027 conditions;Nicaragua/Honduras foreign entry.",
+    "Remaining VEX detail records and other national/regional leagues; global camp/event coverage."
+  ],
+  "validation": {
+    "ui": "passed",
+    "all_catalog_rows": 977,
+    "school_routes": 3,
+    "mixed_format_union": [
+      "individual",
+      "team"
+    ],
+    "judging_ics_entries": 2,
+    "judge_deadline_not_imported": true,
+    "undated_camps_no_export": true,
+    "mountview_matvey_excluded": true,
+    "historical_programs": 2,
+    "panama_conflict_visible": true,
+    "major_exhibitions": 36,
+    "adult_exhibitions": 8,
+    "mobile_no_overflow": [
+      390,
+      320
+    ],
+    "page_errors": [],
+    "database": "passed",
+    "records": 977,
+    "baseline_ids_preserved": 971,
+    "dated_cards": 783,
+    "static_ical_entries": 768,
+    "exhibition_ical_entries": 27,
+    "countries_with_records": 61,
+    "fully_audited_countries": 0,
+    "league_routes": 46,
+    "three_blocks": {
+      "Соревнования": 761,
+      "События": 95,
+      "Лагеря": 121
+    },
+    "version": "v10",
+    "research_status": "active"
+  }
+}

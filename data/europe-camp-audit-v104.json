@@ -1,0 +1,138 @@
+{
+  "asof": "2026-10-05",
+  "version": 104,
+  "status": "progress",
+  "scope": "SelectedCHE/FRA/ESP2026autumnand2027winter/spring/summer programmes; programme/contract/date/language conflicts. NotcompleteEurope/world.",
+  "new_dossiers": 13,
+  "new_operator_groups": 7,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "ensr-lausanne-holidays",
+    "ensr-futuremakers",
+    "spark-deep-freeze",
+    "spark-science-sport",
+    "xlabs-geneva-engineers",
+    "xlabs-geneva-forensic",
+    "hif-spring-journey",
+    "eisb-english-summer",
+    "eisb-spanish-summer",
+    "eisb-chess-robotics",
+    "eisb-scientific-talent",
+    "ecolem-english-summer",
+    "iab-youth-summer"
+  ],
+  "new_calendar_rows": 22,
+  "new_family_session_ics": 21,
+  "new_family_ics": 21,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 0,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 758,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1180,
+  "country_dossier_counts": {
+    "CHE": 106,
+    "FRA": 60,
+    "ESP": 67,
+    "ITA": 6,
+    "GBR": 8,
+    "CHN": 8,
+    "HKG": 6,
+    "FIN": 5,
+    "TWN": 53,
+    "SGP": 78,
+    "JPN": 46,
+    "KOR": 16,
+    "USA": 81,
+    "CAN": 94,
+    "CRI": 13,
+    "MEX": 34,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v104 · Tandem IMS только своим ученикам",
+      "detail": "Даты2027:15–19/22–26февраля,26–30апреля/3–5мая,19–23июля;4–10,командаEN/DE/FR. Оператор прямо camps only attending TandemIMS. Поэтому не добавлено как открытый приезжий лагерь; при переезде/зачислении может стать школьным маршрутом. Flyerexample ещё2022/24/25, не2027договор.",
+      "next_action": "При обсуждении постоянной школы проверять camp admission после реального зачисления и полную оплату, а приезжим выбирать открытых операторов.",
+      "url": "https://www.tandem-ims.ch/en/holiday-camps"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v104 · Spark/HIF: новые заголовки и старые договоры",
+      "detail": "Spark FAQ мягче нового договора/карточки:100/70/50% vs100CHF/50%/no refund; hold48vs72часа/max20vs24spots. ScienceSport2027индекс ведёт наJuly2026программу. Superheroes detailApril2026,bookliststartApril5 2027 без проверенного конца: не выдумана новая пятидневная смена. HIFENApril10–30vsDEMarch30–April10/20ночейvs14+7;12+обоимпозже, точногоICSнет.",
+      "next_action": "Одна подтверждённая редакция дат/договора/ночей/цены и конкретный flight itinerary; наличиеBookNow не бронь.",
+      "url": "https://www.sparkscience.ch/terms-and-conditions"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v104 · язык и календарь важнее слова robotics",
+      "detail": "ÉcoleM100%EN/3–7/внешние дети с5–16июля2027, но цены ещёJuly6–10/13–17 и care16vs16:30;4днявторая неделя без указания пропуска. L’ÉcoleDuNumérique Campus26LePuy:robot8–14/60EUR/3дня14:30–16:30 с26–28Oct/28–30Dec2026/15–17Feb/12–14Apr2027; CodeGaming11+60EUR1день. УчительEN/ES/RU не установлен, не добавлено в семейный календарь как подходящий языковой лагерь.",
+      "next_action": "Согласовать2027прайсÉcoleM/конкретныйcampus; дляCampus26проверить реальный EN технический инструктор до рекомендации.",
+      "url": "https://www.lecoledunumerique.fr/activites/stages-vacances/"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v104 · EISB/IAB/San Patricio: год прайса и внешние дети",
+      "detail": "EISB2027coursesсbirthcohorts/внешними семьями, priceimage2026иearlybirdJun1 2026 не2027тариф. IABиндекс2027аdetail2026, sibling/afternoonнепереносим. SanPatriciohomeлинкsummerредиректит в2114byteInspiredSummerCamps без тела программы;PDF2022иагентскаястраница неустанавливают2027смену. Новых подтверждённых2027SanPatricioусловий нет.",
+      "next_action": "Свои2027PDF/прайсы/даты/форматы/возвраты, включая индивидуальныйforeignintake и EN каждого технического класса.",
+      "url": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/"
+    },
+    {
+      "country": "Европа / мир",
+      "iso": "CHE",
+      "provider": "v104 · покрытие и следующий углублённый проход",
+      "detail": "Новые карточки дополняют ранее проверенные европейские пансионы; не заменяют их и не означают все лагеря всех стран. Повторный TechSparkLEGORobotics6+прямоEN/Arduino12+CHF100kitнеустанавливает новые datedLEGO2027 смены. Сохраняются все азиатские/американские/латинские лагеря, школы и результаты5–10лет, лиги/соревнования/выставки/семейные маршруты;0полностью проверенных стран.",
+      "next_action": "Продолжать приоритетные CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm, реальные подробные программы и invoices2026–27; публиковать неопределённость, не искусственный мировой рейтинг.",
+      "url": "https://online.techsparkacademy.ch/robotics-course/"
+    }
+  ],
+  "calendar": {
+    "events": 3309,
+    "learning_records": 1978,
+    "family_ics": 2564,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1515,
+    "reused_legacy_events": 69,
+    "season_windows": 46
+  },
+  "primary_retrievals": {
+    "direct_attempts": 29,
+    "http200": 26,
+    "selected_html_bodies": 25,
+    "unusable_programme_shells": 1,
+    "retrieval_errors": 3,
+    "unique_actual_pdfs": 0,
+    "selected_visual_page_checks": 0,
+    "primary_web_reader_fallbacks": 3
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "13 new dossiers across7operatorgroups/22exactcalendarrows/21familyplanningICS/0newdeadline/0newseasonwindow; old745dossiers/3287events preserved.758total/39countries/1180URLs/22newURLs;not globalranking orcompletecountry.",
+    "ENSRonefamilygeneralcampwithtwoagegroups/10datesnotduplicated;formsautumn135young140older/95morning60afternoon,insuranceandcancellation2026not2027.EntirelyEnglishonlyFutureMakers13–18/1250max12min6;excludedfamilyICS. GenericFrench/EnglishformnotteacherEN.",
+    "SparkEnglish5–11/Feb15–19 2027CHF750/Apr26–30CHF795;oneprogramme2026detailcontradiction. Strictterms/bookingcancel100CHF/50percent/no14dvssoftFAQ;hold48vs72h/max20vs24spots. Availabilitysnapshotnotconfirmedbooking. Superheroes2027startalone not future5dayevent.",
+    "XLabsGeneva8–12/bilingualFREN/375half595full/ownlunch25care/PPEcert;actual5dayengineeringordetectivecurriculum. NotEnglishonly guarantee. Camp5b2019refund differsworkshoprule/admin50andexact10ambiguous;foreignadmissionnotassumed.",
+    "EISBEnglish/Spanishbothbirth2017and2020;robotics/science2012–2019onlyMatvey. ScienceENexplicitdoesnotproveroboticsEN. July2027only/no inventedweeks;2026priceimageandearlybirdnotcurrentfee. Acampadaoneactivitynotfullresidentialcamp.",
+    "ÉcoleM3–7/EN100percent/openexternal/2027weeks5–9/12–16second4daysunknownexcludedday;price395335stillJul6–10/13–17/care90hourmismatch/ownlunch. IAB2027index5weeks/EN/6–17but210Summer2026/detail2026siblingsafternoonnotcurrent2027promise.",
+    "HIF12–17/6985/20nightsvs14+7/ENApr10–30vsDEMar30–Apr10/flightsincludedscopeand300pickupextra: no exactICS. Tandemonlyschoolpupils not opencamp;Campus26roboticsFrenchpage no ENESRUteacher;SanPatricioredirectshelland2022PDFnot2027programme.",
+    "29directattempts/26HTTP200(25selectedHTMLclauses+1titleonlyshell)/3errors/3primarywebreaderfallbackpages retainedoneprivate response. NoPDFthispass. AlloldJSON/SQLschemaandrelationalrows/CSV/ICS/JSfilters/staticlimit independently checked. Allworldobjectiveactive0fullyaudited."
+  ],
+  "next_priority": "Continue worldwide2026–27 general/thematic/STEM camps,day/boarding/family EN/ES/RU, especially CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm. Realfullinvoices/ageDOBandgrades/foreignindividualadmission/teacherlanguagevslessons/life/support/gear/nightcare/refunds/currentplaces. Schools/results5–10years/leagues/competitions/exhibitions/familyroutes remain active;no country fully audited."
+}

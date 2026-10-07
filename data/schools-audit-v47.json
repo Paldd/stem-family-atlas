@@ -1,0 +1,1898 @@
+{
+  "checked": "2026-10-02",
+  "version": 47,
+  "status": "partial",
+  "family": "Матвей — 2017, Оскар — 2020; оба могут учиться на английском и испанском. Точные дни рождения и классы неизвестны.",
+  "conclusion": "49 школьных досье. EISB — Cambridge Primary / PY1 65% English; Aiglon WonderYears EN подтверждён. Младшие мировые школьные титулы не приписаны по программе / независимой команде.",
+  "methodology": [
+    "Сильный результат команды отделён от общего STEM-маркетинга, лаборатории и начального кружка.",
+    "Division Champion, Excellence / Champion’s Award, национальная победа и участие описываются буквально; они не заменяют друг друга.",
+    "FIRST-протоколы имеют отдельную отметку. Новости школы — первичный рассказ участника, но не независимое подтверждение организатора.",
+    "IB candidate отличается от авторизованной программы. Проверка авторизации относится к программе и кампусу.",
+    "Младшая школа, соревновательная команда, язык занятий и возраст пансиона проверяются отдельно.",
+    "Англоязычный сайт не считается доказательством EN преподавания. Язык DP не переносится на junior.",
+    "Государственная школа может требовать адрес, статус, распределение или тест. Наличие сайта не означает международный свободный приём.",
+    "Для детей с трёхлетним соревновательным опытом нужно отдельно проверить наставника, уровень группы и путь на отборный этап.",
+    "Школа — постоянная организация, а не календарная карточка; дедлайны без точного дня не превращаются в события."
+  ],
+  "routes": [
+    {
+      "name": "Начать рядом",
+      "ids": [
+        "S001",
+        "S002"
+      ],
+      "detail": "Lincoln: проверить действующую младшую команду и язык. ASFM: подтверждены Elementary FLL Explore и старшая FTC; проверить уровень для обоих, новый сезон FIRST и полную цену."
+    },
+    {
+      "name": "Тайвань и Азия",
+      "ids": [
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S020"
+      ],
+      "detail": "TAS: реальный Lower → Middle путь с результатом старших; иностранный паспорт и English assessment. Xiugang — будущая secondary. Shanghai и Singapore требуют отдельного иностранного допуска."
+    },
+    {
+      "name": "Дневная школа и будущий пансион",
+      "ids": [
+        "S009",
+        "S010",
+        "S011",
+        "S014"
+      ],
+      "detail": "Возраст школы не равен возрасту пансиона: Aiglon по Year, Ermitage с 11, Barker с Year 10. Для 6 / 9 сначала проверять day и проживание с семьёй."
+    },
+    {
+      "name": "Будущая сильная команда",
+      "ids": [
+        "S008",
+        "S012",
+        "S014",
+        "S015",
+        "S017",
+        "S018",
+        "S019"
+      ],
+      "detail": "QE, Bellarmine, Barker и SESI имеют результаты старших. Построить младший маршрут, доказать собственный вклад ребёнка и проверить отбор; титул команды не обещает титул новому ученику."
+    },
+    {
+      "name": "Европа · три разных младших пути",
+      "ids": [
+        "S023",
+        "S024",
+        "S025",
+        "S009",
+        "S010",
+        "S011"
+      ],
+      "detail": "Basel: путь по классам и национальные награды старших. St PETER’S: английский / IB, но Robotics в последнем PDF только Y 1–Y 2. ABI: двуязычная младшая школа и конкретные STEAM-смены; соревновательное лидерство не доказано. Возраст пансиона Aiglon и Ermitage проверяется отдельно."
+    },
+    {
+      "name": "Европа · реальные младшие результаты и двуязычный вход",
+      "ids": [
+        "S026",
+        "S027",
+        "S028",
+        "S023",
+        "S024",
+        "S025"
+      ],
+      "detail": "Lar: Elementary podium 2026 по сообщению школы, organizerteamnames отдельно. Highlands: местное первое место FI в 2024 по организатору. Bordeaux: FR/ENPrimary и партнёр по кодингу, выигравшая league team не установлена. Basel остаётся кандидатом школы на английском; старшие результаты не доказывают силу младшего наставника."
+    },
+    {
+      "name": "Германия · английская школа и отдельный конкурсный наставник",
+      "ids": [
+        "S029"
+      ],
+      "detail": "ISD даёт English IB и начальные coding robots / maker space. До переезда требуется конкретный coach, junior teamcodes и протоколы; программа не доказательство мирового лидерства. Проживание с родителем требуется школьным FAQ."
+    },
+    {
+      "name": "Париж · проба английского coding до выбора школы",
+      "ids": [
+        "S030",
+        "S025",
+        "S028"
+      ],
+      "detail": "Union Academy допускает внешних учеников, поэтому школьный переезд не обязателен для знакомства с Englishcoding. Школа FR/EN, assessment и competitionmentor требуютотдельнойпроверки. ABI и Bordeaux сохранены."
+    },
+    {
+      "name": "Vicenza · школа и возрастной клуб",
+      "ids": [
+        "S031"
+      ],
+      "detail": "Сначала определить PYP grade: Y 3 Intro, Y 4–5 RoboQuest. Пансион Roncade Summer Academy не перенесён на Vicenza."
+    },
+    {
+      "name": "Lisbon / Oeiras · английская школа и отдельный наставник",
+      "ids": [
+        "S032"
+      ],
+      "detail": "IB на английском и robotics provider подтверждены; нужен конкретный coach, команда и протоколы до решения о переезде."
+    },
+    {
+      "name": "CHE / ESP / FRA · начальная школа и отдельный team gate",
+      "ids": [
+        "S033",
+        "S034",
+        "S035",
+        "S036"
+      ],
+      "detail": "ISZL, Nations и Nice — кандидаты для английского школьного обучения. Lorca — государственная двуязычная Primary с новой FLL-командой. Школьное место, младшая команда и национальная квота требуют отдельных подтверждений; проверить класс и действующего наставника."
+    },
+    {
+      "name": "Швейцария / Франция · EN база и отдельный младший наставник",
+      "ids": [
+        "S037",
+        "S038"
+      ],
+      "detail": "TASIS: действующая VEX Middle School команда, младший доступ отдельно. Marymount: FabLab и STEM по классу/ триместру, подтверждённых мировых наград 6/9 нет."
+    }
+  ],
+  "gaps": [
+    "32 школьных досье; полный мировой и национальный школьный аудит не завершён.",
+    "Нет полного обзора школ Costa Rica / México, других стран LatAm, Taiwan primary campuses, Hong Kong, Japan, Korea, India, Middle East и Европы.",
+    "Для большинства отсутствуют язык роботокоманды, junior league age, недели нагрузки, текущий набор, тариф и результаты трёх сезонов.",
+    "Доступ к AI у 6 / 9 лет почти нигде не подтверждён. Продвинутый Upper / Secondary курс не считается младшей AI-программой.",
+    "Сеть SESI требует уточнения кампуса; IB-статусы по сообщениям школы дополнительно сверять с registry.",
+    "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
+  ],
+  "counts": {
+    "records": 49,
+    "countries": 22,
+    "public": 10,
+    "private": 39,
+    "boarding": 4,
+    "world_result": 10,
+    "organizer_protocol": 8,
+    "fully_audited_countries": 0
+  },
+  "coverage": [
+    {
+      "iso": "DZA",
+      "country": "Алжир",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "EGY",
+      "country": "Египет",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LBY",
+      "country": "Ливия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MAR",
+      "country": "Марокко",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SDN",
+      "country": "Судан",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TUN",
+      "country": "Тунис",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ESH",
+      "country": "Западная Сахара",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IOT",
+      "country": "Британская территория в Индийском океане",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BDI",
+      "country": "Бурунди",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "COM",
+      "country": "Коморские Острова",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "DJI",
+      "country": "Джибути",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ERI",
+      "country": "Эритрея",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ETH",
+      "country": "Эфиопия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ATF",
+      "country": "Южные земли (французская заморская территория)",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KEN",
+      "country": "Кения",
+      "region": "Африка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "MDG",
+      "country": "Мадагаскар",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MWI",
+      "country": "Малави",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MUS",
+      "country": "Маврикий",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MYT",
+      "country": "Остров Майотта",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MOZ",
+      "country": "Мозамбик",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "REU",
+      "country": "Реюньон",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "RWA",
+      "country": "Руанда",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SYC",
+      "country": "Сейшельские Острова",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SOM",
+      "country": "Сомали",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SSD",
+      "country": "Южный Судан",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "UGA",
+      "country": "Уганда",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TZA",
+      "country": "Объединенная Республика Танзания",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ZMB",
+      "country": "Замбия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ZWE",
+      "country": "Зимбабве",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "AGO",
+      "country": "Ангола",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CMR",
+      "country": "Камерун",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CAF",
+      "country": "Центральноафриканская Республика",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TCD",
+      "country": "Чад",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "COG",
+      "country": "Конго",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "COD",
+      "country": "Демократическая Республика Конго",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GNQ",
+      "country": "Экваториальная Гвинея",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GAB",
+      "country": "Габон",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "STP",
+      "country": "Сан-Томе и Принсипи",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BWA",
+      "country": "Ботсвана",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SWZ",
+      "country": "Эсватини",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LSO",
+      "country": "Лесото",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NAM",
+      "country": "Намибия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ZAF",
+      "country": "Южная Африка",
+      "region": "Африка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "BEN",
+      "country": "Бенин",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BFA",
+      "country": "Буркина-Фасо",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CPV",
+      "country": "Кабо-Верде",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CIV",
+      "country": "Кот-д'Ивуар",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GMB",
+      "country": "Гамбия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GHA",
+      "country": "Гана",
+      "region": "Африка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "GIN",
+      "country": "Гвинея",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GNB",
+      "country": "Гвинея-Бисау",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LBR",
+      "country": "Либерия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MLI",
+      "country": "Мали",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MRT",
+      "country": "Мавритания",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NER",
+      "country": "Нигер",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NGA",
+      "country": "Нигерия",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SHN",
+      "country": "Остров Святой Елены",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SEN",
+      "country": "Сенегал",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TGO",
+      "country": "Того",
+      "region": "Африка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "AIA",
+      "country": "Ангилья",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ATG",
+      "country": "Антигуа и Барбуда",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ABW",
+      "country": "Аруба",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BHS",
+      "country": "Багамские Острова",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BRB",
+      "country": "Барбадос",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BES",
+      "country": "Бонайре, Синт-Эстатиус и Саба",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VGB",
+      "country": "Британские Виргинские острова",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CYM",
+      "country": "Кайман острова",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CUB",
+      "country": "Куба",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CUW",
+      "country": "Кюрасао",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "DMA",
+      "country": "Доминика",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "DOM",
+      "country": "Доминиканская Республика",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GRD",
+      "country": "Гренада",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GLP",
+      "country": "Гваделупа",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "HTI",
+      "country": "Гаити",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "JAM",
+      "country": "Ямайка",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MTQ",
+      "country": "Мартиника",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MSR",
+      "country": "Монтсеррат",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PRI",
+      "country": "Пуэрто-Рико",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BLM",
+      "country": "Сен-Бартелеми",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KNA",
+      "country": "Сент-Китс и Невис",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LCA",
+      "country": "Сент-Люсия",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MAF",
+      "country": "Сен-Мартен (французская часть)",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VCT",
+      "country": "Сент-Винсент и Гренадины",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SXM",
+      "country": "Синт-Мартен (нидерландская часть)",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TTO",
+      "country": "Тринидад и Тобаго",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TCA",
+      "country": "Острова Теркс и Кайкос",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VIR",
+      "country": "Виргинские острова Соединенных Штатов",
+      "region": "Карибский регион",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BLZ",
+      "country": "Белиз",
+      "region": "Центральная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CRI",
+      "country": "Коста-Рика",
+      "region": "Центральная Америка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "SLV",
+      "country": "Сальвадор",
+      "region": "Центральная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GTM",
+      "country": "Гватемала",
+      "region": "Центральная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "HND",
+      "country": "Гондурас",
+      "region": "Центральная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MEX",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "NIC",
+      "country": "Никарагуа",
+      "region": "Центральная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PAN",
+      "country": "Панама",
+      "region": "Центральная Америка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "ARG",
+      "country": "Аргентина",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BOL",
+      "country": "Боливия (Многонациональное Государство)",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BVT",
+      "country": "Остров Буве",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BRA",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "CHL",
+      "country": "Чили",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "COL",
+      "country": "Колумбия",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ECU",
+      "country": "Эквадор",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FLK",
+      "country": "Фолклендские (Мальвинские) острова",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GUF",
+      "country": "Французская Гвиана",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GUY",
+      "country": "Гайана",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PRY",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PER",
+      "country": "Перу",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SGS",
+      "country": "Южная Джорджия и Южные Сандвичевы острова",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SUR",
+      "country": "Суринам",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "URY",
+      "country": "Уругвай",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VEN",
+      "country": "Венесуэла (Боливарианская Республика)",
+      "region": "Южная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BMU",
+      "country": "Бермудские острова",
+      "region": "Северная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CAN",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GRL",
+      "country": "Гренландия",
+      "region": "Северная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SPM",
+      "country": "Сен-Пьер и Микелон",
+      "region": "Северная Америка",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "USA",
+      "country": "Соединенные Штаты Америки",
+      "region": "Северная Америка",
+      "records": 5,
+      "status": "partial"
+    },
+    {
+      "iso": "ATA",
+      "country": "Антарктике",
+      "region": "Антарктика",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KAZ",
+      "country": "Казахстан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KGZ",
+      "country": "Кыргызстан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TJK",
+      "country": "Таджикистан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TKM",
+      "country": "Туркменистан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "UZB",
+      "country": "Узбекистан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CHN",
+      "country": "Китай",
+      "region": "Азия",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "HKG",
+      "country": "Китай, Специальный административный район Гонконг",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MAC",
+      "country": "Китай, Специальный административный район Макао",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PRK",
+      "country": "Корейская Народно-Демократическая Республика",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "JPN",
+      "country": "Япония",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MNG",
+      "country": "Монголия",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KOR",
+      "country": "Республика Корея",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BRN",
+      "country": "Бруней-Даруссалам",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KHM",
+      "country": "Камбоджа",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IDN",
+      "country": "Индонезия",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LAO",
+      "country": "Лаосская Народно-Демократическая Республика",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MYS",
+      "country": "Малайзия",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MMR",
+      "country": "Мьянма",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PHL",
+      "country": "Филиппины",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SGP",
+      "country": "Сингапур",
+      "region": "Азия",
+      "records": 2,
+      "status": "partial"
+    },
+    {
+      "iso": "THA",
+      "country": "Таиланд",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TLS",
+      "country": "Тимор-Лешти",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VNM",
+      "country": "Вьетнам",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "AFG",
+      "country": "Афганистан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BGD",
+      "country": "Бангладеш",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BTN",
+      "country": "Бутан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IND",
+      "country": "Индия",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IRN",
+      "country": "Иран (Исламская Республика)",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MDV",
+      "country": "Мальдивские Острова",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NPL",
+      "country": "Непал",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PAK",
+      "country": "Пакистан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LKA",
+      "country": "Шри-Ланка",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ARM",
+      "country": "Армения",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "AZE",
+      "country": "Азербайджан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BHR",
+      "country": "Бахрейн",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CYP",
+      "country": "Кипр",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GEO",
+      "country": "Грузия",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IRQ",
+      "country": "Ирак",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ISR",
+      "country": "Израиль",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "JOR",
+      "country": "Иордания",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KWT",
+      "country": "Кувейт",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LBN",
+      "country": "Ливан",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "OMN",
+      "country": "Оман",
+      "region": "Азия",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "QAT",
+      "country": "Катар",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SAU",
+      "country": "Саудовская Аравия",
+      "region": "Азия",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "PSE",
+      "country": "Государство Палестина",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SYR",
+      "country": "Сирийская Арабская Республика",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TUR",
+      "country": "Турция",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ARE",
+      "country": "Объединенные Арабские Эмираты",
+      "region": "Азия",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "YEM",
+      "country": "Йемен",
+      "region": "Азия",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BLR",
+      "country": "Беларусь",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BGR",
+      "country": "Болгария",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CZE",
+      "country": "Чехия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "HUN",
+      "country": "Венгрия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "POL",
+      "country": "Польша",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MDA",
+      "country": "Республика Молдова",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ROU",
+      "country": "Румыния",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "RUS",
+      "country": "Российская Федерация",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SVK",
+      "country": "Словакия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "UKR",
+      "country": "Украина",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ALA",
+      "country": "Аландских островов",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "DNK",
+      "country": "Дания",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "EST",
+      "country": "Эстония",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FRO",
+      "country": "Фарерские острова",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FIN",
+      "country": "Финляндия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GGY",
+      "country": "Гернси",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ISL",
+      "country": "Исландия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IRL",
+      "country": "Ирландия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "IMN",
+      "country": "Остров Мэн",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "JEY",
+      "country": "Джерси",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LVA",
+      "country": "Латвия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LTU",
+      "country": "Литва",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NOR",
+      "country": "Норвегия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SJM",
+      "country": "Острова Свальбард и Ян-Майен",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SWE",
+      "country": "Швеция",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GBR",
+      "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "region": "Европа",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "ALB",
+      "country": "Албания",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "AND",
+      "country": "Андорра",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BIH",
+      "country": "Босния и Герцеговина",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "HRV",
+      "country": "Хорватия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GIB",
+      "country": "Гибралтар",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GRC",
+      "country": "Греция",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VAT",
+      "country": "Святой Престол",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ITA",
+      "country": "Италия",
+      "region": "Европа",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "MLT",
+      "country": "Мальта",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MNE",
+      "country": "Черногория",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MKD",
+      "country": "Северная Македония",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PRT",
+      "country": "Португалия",
+      "region": "Европа",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "SMR",
+      "country": "Сан-Марино",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SRB",
+      "country": "Сербия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SVN",
+      "country": "Словения",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ESP",
+      "country": "Испания",
+      "region": "Европа",
+      "records": 10,
+      "status": "partial"
+    },
+    {
+      "iso": "AUT",
+      "country": "Австрия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "BEL",
+      "country": "Бельгия",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FRA",
+      "country": "Франция",
+      "region": "Европа",
+      "records": 7,
+      "status": "partial"
+    },
+    {
+      "iso": "DEU",
+      "country": "Германия",
+      "region": "Европа",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "LIE",
+      "country": "Лихтенштейн",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "LUX",
+      "country": "Люксембург",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MCO",
+      "country": "Монако",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NLD",
+      "country": "Нидерланды (Королевство)",
+      "region": "Европа",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CHE",
+      "country": "Швейцария",
+      "region": "Европа",
+      "records": 6,
+      "status": "partial"
+    },
+    {
+      "iso": "AUS",
+      "country": "Австралия",
+      "region": "Океания",
+      "records": 1,
+      "status": "partial"
+    },
+    {
+      "iso": "CXR",
+      "country": "остров Рождества",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "CCK",
+      "country": "Кокосовых (Килинг) островов",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "HMD",
+      "country": "Остров Херд и острова Макдональд",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NZL",
+      "country": "Новая Зеландия",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NFK",
+      "country": "Остров Норфолк",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FJI",
+      "country": "Фиджи",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NCL",
+      "country": "Новая Каледония",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PNG",
+      "country": "Папуа-Новая Гвинея",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "SLB",
+      "country": "Соломоновы Острова",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "VUT",
+      "country": "Вануату",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "GUM",
+      "country": "Гуам",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "KIR",
+      "country": "Кирибати",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MHL",
+      "country": "Маршалловы Острова",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "FSM",
+      "country": "Микронезия (Федеративные Штаты)",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NRU",
+      "country": "Наоэро",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "MNP",
+      "country": "Северные Марианские острова",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PLW",
+      "country": "Палау",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "UMI",
+      "country": "Внешние малые острова Соединенных Штатов",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "ASM",
+      "country": "Американское Самоа",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "COK",
+      "country": "Острова Кука",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PYF",
+      "country": "Французская Полинезия",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "NIU",
+      "country": "Ниуэ",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "PCN",
+      "country": "Питкэрн",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "WSM",
+      "country": "Самоа",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TKL",
+      "country": "Токелау",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TON",
+      "country": "Тонга",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TUV",
+      "country": "Тувалу",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "WLF",
+      "country": "Острова Уоллис и Футуна",
+      "region": "Океания",
+      "records": 0,
+      "status": "unresearched"
+    },
+    {
+      "iso": "TWN",
+      "country": "Тайвань",
+      "region": "Азия",
+      "records": 3,
+      "status": "partial"
+    }
+  ]
+}

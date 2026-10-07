@@ -1,0 +1,58 @@
+{
+  "checked": "2026-09-30",
+  "league": "VEX IQ 2026–27 Level Up",
+  "source_filter": "country_id=*, seasonId=203, grade_level_id=1, from_date=2026-09-30",
+  "pages_read": 26,
+  "page_counts": [
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    20,
+    11
+  ],
+  "unique_event_codes": 511,
+  "new_records": 508,
+  "existing_records_updated": [
+    "C025",
+    "C026",
+    "C027"
+  ],
+  "deduplication": "By exact event code / existing venue and date; C024 remains league overview, not an event duplicate.",
+  "detail_pages_read": 22,
+  "catalog_only_records": 489,
+  "limits": "This is the returned Elementary / blended directory, not every VEX program. A listing confirms published dates and location, not the admission of this family. Source filter may include a Middle entry; exact division is checked only in detailed pages. Not an atomic snapshot or automatic monitor.",
+  "detail_followups": [
+    {
+      "checked": "2026-09-30",
+      "event_codes": [
+        "RE-VIQRC-26-5095",
+        "RE-VIQRC-26-5337",
+        "RE-VIQRC-26-5099",
+        "RE-VIQRC-26-5336",
+        "RE-VIQRC-26-5321"
+      ],
+      "corrected_date_conflict": "C607"
+    }
+  ]
+}

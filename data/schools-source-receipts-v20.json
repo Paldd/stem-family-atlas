@@ -1,0 +1,461 @@
+{
+  "version": 20,
+  "checked": "2026-10-01",
+  "scope": "Public school sources only; availability receipts are not admissions confirmation.",
+  "receipts": [
+    {
+      "url": "https://frc-events.firstinspires.org/2025/team/4613",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://frc-events.firstinspires.org/2025/team/4613",
+      "bytes": 137116,
+      "sha256": "58b24a3d8761816609485bf6b1d3b51f03d5cd26fab25e2656fef77800244617",
+      "title": "FRC Event Web : Team 4613 (2025)",
+      "readable_html": true
+    },
+    {
+      "url": "https://frc-events.firstinspires.org/2026/team/254",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://frc-events.firstinspires.org/2026/team/254",
+      "bytes": 173602,
+      "sha256": "d4c73913ad2b6014917e6554bbca2d87122caea20af66b276f4637b3d883fe0e",
+      "title": "FRC Event Web : Team 254 (2026)",
+      "readable_html": true
+    },
+    {
+      "url": "https://hawaiipublicschools.org/schools/manoa-elementary/",
+      "checked": "2026-10-01",
+      "error": "HTTPError",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://ibo.org/school/006328/",
+      "checked": "2026-10-01",
+      "error": "HTTPError",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://jundiai.sesisp.org.br/processo-seletivo",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://jundiai.sesisp.org.br/processo-seletivo",
+      "bytes": 57484,
+      "sha256": "74bf424de263267ac265f6dbf73dbd7ab4e36702b2bc10028f77f45d31a5abac",
+      "title": "SESI - Jundiaí - Processo Seletivo",
+      "readable_html": true
+    },
+    {
+      "url": "https://jundiai.sesisp.org.br/robotica-educacional-na-escola",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://jundiai.sesisp.org.br/robotica-educacional-na-escola",
+      "bytes": 55175,
+      "sha256": "61049c43610c679b0678a714399ac1114475d628f214ff2eeb49b832aab27d13",
+      "title": "SESI - Jundiaí - Robótica Educacional",
+      "readable_html": true
+    },
+    {
+      "url": "https://news.kcis.ntpc.edu.tw/vex-robotics-2024-fall-xiuguan-taiwan-open/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://news.kcis.ntpc.edu.tw/vex-robotics-2024-fall-xiuguan-taiwan-open/",
+      "bytes": 230998,
+      "sha256": "11fe55bd98e1f84d8a6de659fd9175bba8f95f54d3393b9b982d7156828326ca",
+      "title": "VEX Robotics 2024 Fall: Xiuguan Team Shines at Taiwan Open | Vibrant Student Life | Xiugang Campus – Kang Chiao International School",
+      "readable_html": true
+    },
+    {
+      "url": "https://shanghai-pudong.dulwich.org/admissions/apply-now",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://shanghai-pudong.dulwich.org/admissions/apply-now",
+      "bytes": 1034,
+      "sha256": "fe8b8b11f9a1e7e9edb085d2a7f0d5e6d13d66eae6762ce3e76d08b076672cff",
+      "title": "Error",
+      "readable_html": true
+    },
+    {
+      "url": "https://shanghai-pudong.dulwich.org/admissions/apply/frequently-asked-questions",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://shanghai-pudong.dulwich.org/admissions/apply/frequently-asked-questions",
+      "bytes": 1034,
+      "sha256": "fe8b8b11f9a1e7e9edb085d2a7f0d5e6d13d66eae6762ce3e76d08b076672cff",
+      "title": "Error",
+      "readable_html": true
+    },
+    {
+      "url": "https://shanghai-pudong.dulwich.org/learning/holistic-education/stem",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://shanghai-pudong.dulwich.org/learning/holistic-education/stem",
+      "bytes": 1034,
+      "sha256": "fe8b8b11f9a1e7e9edb085d2a7f0d5e6d13d66eae6762ce3e76d08b076672cff",
+      "title": "Error",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.aiglon.ch/juniorschool",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.aiglon.ch/juniorschool",
+      "bytes": 69163,
+      "sha256": "9287a22d2dba79e06c93dfd5f6ab1cd8e8df3d395282f376a3af50834f519bdb",
+      "title": "Junior School - Aiglon College",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.aiglon.ch/learning",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.aiglon.ch/learning",
+      "bytes": 58757,
+      "sha256": "788008a4c16ee691ce0d797a36696f36193fa55a722db2f4f9168c38ae0bf752",
+      "title": "Learning - Aiglon College",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.asfm.edu.mx/admissions",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.asfm.edu.mx/admissions",
+      "bytes": 64164,
+      "sha256": "7057ce5a891ea8b530d02a9a8c5d872597669ca75db039fa35fc4d3b0bf7fb03",
+      "title": "Admissions - American School Foundation of Monterrey",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.asfm.edu.mx/admissions/application-process",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.asfm.edu.mx/admissions/application-process",
+      "bytes": 56727,
+      "sha256": "4db3716ad737db73fe572fa81240c7904d714e7d397bf9daf21d6c33ed3b032b",
+      "title": "Admission Process - American School Foundation of Monterrey",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "bytes": 69027,
+      "sha256": "7bc7e4f5c1a1d6123d70f2347bdd44343af70474b67ad14613b3d4e42980be49",
+      "title": "Tuition Fees - American School Foundation of Monterrey",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.asfm.edu.mx/extended-learning",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.asfm.edu.mx/extended-learning",
+      "bytes": 70545,
+      "sha256": "9a801295cca225ceb3c59e27c93582175ec491f28b6c7307a53b41b8093e94d8",
+      "title": "Extended Learning  - American School Foundation of Monterrey",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.asfm.edu.mx/work-at-asfm",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.asfm.edu.mx/work-at-asfm",
+      "bytes": 63905,
+      "sha256": "56ad05e2e8f616d6985a6f4e2616b60e36ee4e4a0aa0f7ec403735b68b337200",
+      "title": "Work at ASFM - American School Foundation of Monterrey",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.barker.college/co-curricular/barker-robotics/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.barker.college/co-curricular/barker-robotics/",
+      "bytes": 87980,
+      "sha256": "6416611e5be29a795da7ecffe87f5a9b4693ac0c43078b4eb85a6b7b6ed798e4",
+      "title": "An internationally recognised robotics program. - Barker College",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.barker.college/enrolments/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.barker.college/enrolments/",
+      "bytes": 90416,
+      "sha256": "a2cfbda484c969014f532c2b827a51d1264f9cdfb5a36c55c814045910dee8a8",
+      "title": "Enrolling your Child - Barker College",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.bcp.org/admissions",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.bcp.org/admissions",
+      "bytes": 90605,
+      "sha256": "a4060a97083e3cb342bb540b78c105fa80c42b64c84f75bc79f514e3f8470218",
+      "title": "Admissions at Bellarmine College Preparatory | Best Bay Area All-Boys High School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.bcp.org/p/~board/bellarmine-college-preparatory-news/post/bellarmine-robotics-closes-out-another-successful-season",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.bcp.org/p/~board/bellarmine-college-preparatory-news/post/bellarmine-robotics-closes-out-another-successful-season",
+      "bytes": 39487,
+      "sha256": "0c1f9c9f8d32aeb120a29b3f43a0912b4879964b94e09984333661d6bc52b2d2",
+      "title": "Bellarmine Robotics Closes Out Another Successful Season | Post Details",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.bcp.org/student-life/robotics",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.bcp.org/student-life/robotics",
+      "bytes": 57157,
+      "sha256": "5fb43ec640bc2899540fff91d256f3f529caeb64cb08695f1cd52c3d71d84746",
+      "title": "Robotics - Bellarmine College Preparatory",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.colegiobrains.com/colegios/la-moraleja/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.colegiobrains.com/colegios/la-moraleja/",
+      "bytes": 293968,
+      "sha256": "c04e34a3dc3ae70439cc7ab519923253005e1d6861f5d2dc54fb275e5c3d1a22",
+      "title": "Colegio internacional en La Moraleja Alcobendas | Colegios Brains",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.ermitage.fr/boarding",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.ermitage.fr/boarding",
+      "bytes": 117736,
+      "sha256": "0de265a746121651906a4020846708053dc5c9ccaff709eb64a8bb8f97e4cf00",
+      "title": "Boarding | Ermitage International School Paris",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.ermitage.fr/ib-programs/ib-extracurricular-activities",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.ermitage.fr/ib-programs/ib-extracurricular-activities",
+      "bytes": 95532,
+      "sha256": "c990bad8db2e14f79b2dee613aec1cf15555b8672e6225dac8321eca48679b21",
+      "title": "IB Extracurricular Activities | Ermitage School Paris",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.ermitage.fr/ib-programs/ib-pyp",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.ermitage.fr/ib-programs/ib-pyp",
+      "bytes": 57628,
+      "sha256": "e2660fd3295dd72ea2db6907a11e36d5e1ecef2febc739b661ca82d6935f9591",
+      "title": "IB Primary Years Programme | Ermitage Paris Ages 5-11",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.horizonpri.moe.edu.sg/our-pride/achievements/achievements-2025/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.horizonpri.moe.edu.sg/our-pride/achievements/achievements-2025/",
+      "bytes": 518312,
+      "sha256": "225c44d65b6849c04477f28f5deea4515e9c770729bea08fd7ac4ea4442b0f5d",
+      "title": "Achievements 2025 | Horizon Primary School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.kcis.com.tw/EN/AboutUs.html",
+      "checked": "2026-10-01",
+      "error": "URLError",
+      "message": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.kcis.com.tw/EN/JH.html",
+      "checked": "2026-10-01",
+      "error": "URLError",
+      "message": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.kcis.com.tw/EN/SH.html",
+      "checked": "2026-10-01",
+      "error": "URLError",
+      "message": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.lincoln.ed.cr/en/academics/elementary",
+      "checked": "2026-10-01",
+      "error": "URLError",
+      "message": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://www.lincoln.ed.cr/en/academics/ib-program",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.lincoln.ed.cr/en/academics/ib-program",
+      "bytes": 216256,
+      "sha256": "73807306be01c85664671bff1c861a816e2e6d1b237575e5592d75370488750d",
+      "title": "Lincoln School - IB Program",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.lincoln.ed.cr/en/admissions/apply-now",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.lincoln.ed.cr/en/admissions/apply-now",
+      "bytes": 195866,
+      "sha256": "52f4b47d464259f6e6591f9d44ebbbe944b52709911a4db89ceaa09b155b4c4f",
+      "title": "Lincoln School - Apply Now",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.lincoln.ed.cr/en/services/technology",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.lincoln.ed.cr/en/services/technology",
+      "bytes": 225490,
+      "sha256": "dcd8e8900d007ccfd8226e65d39e4993c0d6a332b9f8f53bd4b11b82307a4705",
+      "title": "Lincoln School - Technology",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.manoaschool.com/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.manoaschool.com/",
+      "bytes": 45261,
+      "sha256": "a0466a33982e495b50b697ac3f99dd99c9f443b255d982da5ac3fe7cd1035479",
+      "title": "Mānoa Elementary",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.manoaschool.com/apps/pages/index.jsp?uREC_ID=2890263&type=d&pREC_ID=2333150",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.manoaschool.com/apps/pages/index.jsp?uREC_ID=2890263&type=d&pREC_ID=2333150",
+      "bytes": 39591,
+      "sha256": "ad9b18ed0574638081e9de7963dc3c94b842839e0aa11873767294804b5d5f48",
+      "title": "Register – About Us – Mānoa Elementary",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.northlandsprimary.co.za/apply",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.northlandsprimary.co.za/apply",
+      "bytes": 112693,
+      "sha256": "8c4cb535e3f0032d415859a65a08d4f55624e40f3252651d1291292caa4b17ab",
+      "title": "Apply Now | Northlands Primary School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.northlandsprimary.co.za/department/specialist-learning",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.northlandsprimary.co.za/department/specialist-learning",
+      "bytes": 119929,
+      "sha256": "8e0305db3c94d3ea8c028374cf556022ba3a015adec2cc3073ce5524890100c7",
+      "title": "Specialist Learning Areas | Northlands Primary School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.qebarnet.co.uk/admissions-information/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.qebarnet.co.uk/admissions-information/",
+      "bytes": 258846,
+      "sha256": "3637797ce8b4060ed91bb2a0affa948653c97689e6e6dd87c59e236f57cdb6e1",
+      "title": "Admissions information - Queen Elizabeth's School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.qebarnet.co.uk/beyond-the-classroom/clubs-extra-curricular/robotics-showcase/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.qebarnet.co.uk/beyond-the-classroom/clubs-extra-curricular/robotics-showcase/",
+      "bytes": 252650,
+      "sha256": "ab1018ecc34ce38d4d40982153209d01340d6b7f9d3a4d49cee638d928681a39",
+      "title": "Robotics - Queen Elizabeth's School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.qebarnet.co.uk/ready-to-take-on-the-world/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.qebarnet.co.uk/ready-to-take-on-the-world/",
+      "bytes": 290213,
+      "sha256": "2706f64fba62c682a9d3ec09c8f62e9ad09528024fa8ffe51ac236060d66b821",
+      "title": "Ready to take on the world! - Queen Elizabeth's School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/",
+      "bytes": 310375,
+      "sha256": "4e3923eeb6fcc53b1dcd8397c6a65c6fda939480eb11564b33fc2219e5eadfd2",
+      "title": "Rulang learning experiences | Rulang Primary School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/accelerated-education-programme-aep/",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/accelerated-education-programme-aep/",
+      "bytes": 312770,
+      "sha256": "fc16e6d3119331d734537b48e273611fbe5a2fade541923e9ed0ad657294db61",
+      "title": "Accelerated Education Programme (AEP) | Rulang Primary School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+      "bytes": 57380,
+      "sha256": "e6166a57e60c5f1678722df94df2c1cb41add608fcb32339dc36c18168a7d72f",
+      "title": "SESI - Portal - Sesi-SP brilha no Mundial de Robótica nos EUA e conquista o maior prêmio com equipe de Jundiaí",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "bytes": 161086,
+      "sha256": "abb87d72b3086345d96b9dc5353d323b0694f14d91334544b53f239046bc922a",
+      "title": "The Tech Cube Program - Taipei American School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "bytes": 112320,
+      "sha256": "5e78e04b5dad715be9080c910b5c7ac154a52ed2faa9caf483b835d64c00b7bd",
+      "title": "How to Apply - Taipei American School",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/middle-school-robotics-team-terminus-makes-history-at-vex-world-championship",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/middle-school-robotics-team-terminus-makes-history-at-vex-world-championship",
+      "bytes": 104141,
+      "sha256": "eeac81e72a498ff065935644753a28de85b3f03e9620158aea9e491158501d86",
+      "title": "Middle School Robotics Team “Terminus” Makes History at VEX World Championship | News Story Page",
+      "readable_html": true
+    },
+    {
+      "url": "https://www.treasury.gov.za/documents/provincial%20budget/2008/Allocations/KwaZulu-Natal%20-%20Transfers%20to%20Schools.pdf",
+      "checked": "2026-10-01",
+      "status": 200,
+      "final_url": "https://www.treasury.gov.za/documents/provincial%20budget/2008/Allocations/KwaZulu-Natal%20-%20Transfers%20to%20Schools.pdf",
+      "bytes": 298562,
+      "sha256": "1125c20a1fba4d1042e366585c84db53ea880a7c6d0b5afe108db3531975860e"
+    }
+  ]
+}

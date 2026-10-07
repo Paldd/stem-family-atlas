@@ -1,0 +1,109 @@
+{
+  "asof": "2026-10-05",
+  "version": 91,
+  "status": "progress",
+  "scope": "Switzerland/France/Spain deeper programme/contract/age/language evidence, including visible PDF versus stale textlayer. Worldwide task remains active.",
+  "new_dossiers": 7,
+  "new_operator_groups": 4,
+  "operator_groups_including_existing_deepening": 7,
+  "new_calendar_rows": 4,
+  "new_family_ics": 4,
+  "updated_dossiers": [
+    "las",
+    "prefleuri",
+    "natuk-robotics"
+  ],
+  "corrected_existing_event_ids": [
+    "CP013-20270627-20270716",
+    "CP013-20270718-20270806"
+  ],
+  "programme_dossiers": 601,
+  "countries_with_dossiers": 36,
+  "official_dossier_urls": 918,
+  "country_dossier_counts": {
+    "CHE": 85,
+    "FRA": 49,
+    "ESP": 52,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 35,
+    "SGP": 69,
+    "JPN": 40,
+    "KOR": 12,
+    "MYS": 4,
+    "USA": 71,
+    "CAN": 67,
+    "CRI": 12,
+    "MEX": 28,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "las-ai-python",
+    "ischool-constructors",
+    "ischool-creators",
+    "ischool-minecraft",
+    "technomatic-english-tech",
+    "faisl-salamanca-summer",
+    "action-american-saint-pardoux"
+  ],
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v91 · LAS возраст, Python и год договора",
+      "detail": "Прочитан flyer Summer2027: Junior9–12/Senior13–16, morning09–12. Current AI&Python содержит своёприложение/sourcecode, но prerequisites/точный junior/ENtechnicalhours и AIdepthunknown. Register2027 Coming Soon, bookingterms ведут к 2026 PDF с balance15 May2026/nonrefund/UM150, не новый contract. Family Program — детская counselorgroup, не camp дляродителей. Préfleuri2026 fee/reductions не 2027; summer/Ski60–45/minus1000 vswinter60 boundary, cashrefund не обещан.",
+      "next_action": "Получить реальный 2027 cohort/contract/invoice, languagepertrack, младшиегруппы, preciseinstructiondays и обязательные extra. Worldauditactive.",
+      "url": "https://summer.las.ch/dates-and-prices"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v91 · видимый PDF и реальная цена техники",
+      "detail": "FAI2026 PDF визуальнонепоказывает old English/Primaria1–3/July–August строки из textlayer; camp EN/grades недоказаны. Web>6,08–14 vs PDF08–15, web2025 intro/2026 bodyconflict, blank SEPAform/refundunknown. Technomatic ENrobotics2026/dateprice not2027; VEXcaption без event/year не schoolleaderproof. i School139/239/335 general vs125/225/320 affiliatetiers, actualcamprefund нет: termsannualcourse. NATUK2026 собственный Trainera Spain подтверждён; Euro Skioldcard неотдельнаяАндорра, roboticsafternoon16–19/минимум 4/2026 priceformula855/905/980, transportdates29–19 vs28–18.",
+      "next_action": "Новые 2027 dates/techlanguage/foreignadmission/campcontracts, fullprice/room/venue и visitor Day. Архивы не перенесены в будущий календарь.",
+      "url": "https://www.faisl.com/wp-content/uploads/2026/05/TRIPTICO-CAMPAMENTO-TECNOLOGICO-2026.pdf"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v91 · Action ближайшие смены и старые предложения",
+      "detail": "American Saint Pardoux actual October2026 table8–10/11–14 против card7–14. Price personalized, EN без traditionalclasses, Wizard5 halfdaysoption некаждому. Linkedprogramme PDF2025 не 2026 dates, CGVbaseline2019 vscurrentflexibleweb1 monthoffer конфликт. Bretagne/Santec, Winter Auvergne и Roches/Chamberetownpages прямо no séjour en ce moment: не добавленыкак open2027 programmes. Mission Robotique740 EUR из secondary неперенесён в verifiedcamp.",
+      "next_action": "Camp-specificcurrentcontract/quote/age/foreigncohort, далее 2027 seasonoffers и прочие France/Europe. Полный мировой scope/Asia/Americas/школы/лиги/выставкисохранён.",
+      "url": "https://www.action-sejours.com/sejour-linguistique-adolescent-et-enfant/france/american-camp-in-saint-pardoux/"
+    }
+  ],
+  "calendar": {
+    "events": 3075,
+    "learning_records": 1744,
+    "family_ics": 2324,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1281,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "7 new programme/track dossiers across4 newoperators (iSchool,Technomatic,FAI,Action) plus existingLAStrack;3 existingdossiers deepened (LAS,Préfleuri,NATUK). All594priorIDs/order and591completeprofiles unchanged. All3071prior events retained;only2LASrows updated in age/language/course/contract. Existing dates/IDs preserved.",
+    "LAS own2027 flyer visiblyJunior9–12/Senior13–16; morning09–12 is a dailyblock, not15hoursPython/AI perweek. CurrentAI&Python track builds owninteractivePythonapp/sourcecode, prerequisite/junioravailability/technicalENunknown. ResidentialFamilies are childgroups, not a parentcamp. RegisterComingSoon, ownprice9500CHF3weeks/16750two sessions, Leadership+500, optionalEurope+1500, offdateGeneva+350. Linkedterms are2026/non-refundable/2000deposit/15May2026balance/UM150 perflight, not confirmed2027 contract. Mainstay andAItrack alternatives, not2operators/trips.",
+    "Préfleuri current fees still2026:5–14board5550/8150/9990/12235/14400 for2–6weeks, day3250/4770/6240/7650/9000. 10percent4weeks included vs secondchild10percent, onlyone reduction. EN/FRlessons from6, not fullcampEnglish. Terms1000deposit vsfullreservationpayment conflict; summer60–45fee1000/<45full, winter>60fee1000/<60full; exactboundaries and summer>60unknown. Medicaltravel/death creditfuture notcashrefund; daymeal/insurance separate.",
+    "NATUK/HES existingoperator, actuallocationTraineraEsterriLleidaSpain from2026ownlocation/catalogue, oldEuroSki notseparateAndorra. Robotics6–16, afternoon16–19sample; minimum4 orreplacement, not17robots perchild/week. HES2026formula150registration+base655/1195/1750+robotics50/week+morning:oneweek855Englishclasses/905Discovery/980ActiveAdventure. Not2027 orall-in. Airport70/140minimum4, laundryincludedvs5/load, hotelroom2–4vs3–6, transport29–19vsbrochure28–18 conflicts preserved;dayresidentsonly.",
+    "iSchool Constructores6–8/12capacity, Creadores9+/recommended9–12/10capacity, Minecraft8+intermediate/16capacity are distinctage/content programmes, not3operators. 25hours/09–14/free08–15care; numericpopupgeneral139/239/335 vsaffiliate125/225/320. Annual405/423terms notsummerfee/refund. Internalcombatrobotleague andWROcollaboration notworldmedals. OwnpageSpanish notteachingES/EN; no2027 dates.",
+    "TechnomaticMálaga own2026creativecamp6–17 explicitallENincludingrobotics, alllevels withoptionalB1/B2/C1 examgroups;27–31July/3–7Aug archival. Half95/170one/twoweeks, full125/215;second50/70perweek =>145/195twochildrenoneweek, two-weekstackingunknown. Extraafternoon10/day; lunch/VAT/refund/hardwaregiftunknown. CaptionregionalVEX1st not independentlyverifiedresult/qualifier.",
+    "FAI/RockboticSalamanca ownvisible2026PDF/form:40EUR2days/70EURweek, sixpastblocks25June–31July,08–15PDFvs08–14web. PDF hiddenolderEnglish/Primaria1–3/July–August lines absentvisually, notcampteaching/admission/date evidence. Webstrict>6, mininclusive6/upperageunknown; Spanishsite/OxfordexamcentrenotEnglishcamp. WeeklySEPA/media/parkconsent read butnotaccepted; futuredateprice/refundunknown. All8pastTechnomatic/FAI intervalsexcludedfromfuturecatalogue/ICS.",
+    "ActionSaintPardoux live18–24/25–31Oct2026 table8–10/11–14 vscard7–14;Matveyconditional/Oscarlater. FullEnglishcreativeimmersionwithouttraditionalclasses; Wizard5halfdaysoption noteveryone. Ownpricequote, aggregatorMissionRobotique740EURexcluded. Chabannes59beds/3–4rooms/4meals/staff24h, possibleMeymac. LinkedPDF2025, CGVeconomicbaseline2019 versuscurrentflexibleweb1month/noairtransport/freecancellation/balance1month; currentcohortcontractunknown. Bretagne/WinterAuvergne/Roches saynocurrentstay; notopen2027.",
+    "601dossiers/36countries/918unique dossierURLs,85Swiss/49French/52Spanish;132familycomparisons.4newfuturecataloguerows/4familyICS;3075events/1744camp-learningrows/2324familyICS/104exhibitionICS.1281manageddated/69legacyreuse/39windows.43directattempts42HTTP200/1error,8actualPDFs (relevantscopes and12visualpagechecks, not8wholecontracts).249worldcountries/82withrecords/0fullyaudited. Worldwideexpandedgoal active; noexternalmessages/forms/accounts/payments/automations."
+  ],
+  "next_priority": "Continue allEurope/Switzerland/France/Spain, Taiwan/Singapore/Korea/Japan/Asia, USA/Canada/CostaRica/Mexico/LatinAmerica and allworld2026–27 general/technical camps; actualDOB/grades/language/foreignintake/availability/fullinvoice/contracts, schools/results/history, competitions/leagues/exhibitions and familyroutes."
+}

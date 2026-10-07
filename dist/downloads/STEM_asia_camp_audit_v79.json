@@ -1,0 +1,110 @@
+{
+  "asof": "2026-10-05",
+  "version": 79,
+  "status": "progress",
+  "scope": "Taiwan/Singapore/Japan/Korea programme-level primary pass; full worldwide competition/exhibition/school/camp objective remains active",
+  "new_dossiers": 13,
+  "updated_dossiers": [
+    "nullspace",
+    "camp-sfs"
+  ],
+  "new_calendar_rows": 17,
+  "new_family_ics": 17,
+  "programme_dossiers": 389,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 604,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 33,
+    "CAN": 45,
+    "CRI": 6,
+    "MEX": 24
+  },
+  "programme_slugs": [
+    "see-future-dreamers",
+    "see-esl-engineering",
+    "nullspace-ev3-holiday",
+    "nullspace-ai-comic",
+    "nullspace-ai-game",
+    "nullspace-stem-holiday",
+    "nullspace-minecraft-holiday",
+    "nullspace-3d-holiday",
+    "nullspace-fll-novice",
+    "oyis-winter-intensive",
+    "ea-summer-immersion-junior",
+    "ea-summer-immersion-primary",
+    "sfs-sailing"
+  ],
+  "findings": [
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "v79: S.E.E.2027",
+      "detail": "Future Dreamers: senior kindergarten–G4; Engineering: G3–6, исключение для G1–2 после оценки английского. Английский всех активностей заявлен прямо. Адрес Taipei 321 Jinan Road подтверждён университетом; партнёрские школы имеют отдельные цены. Прямой HTTP дал 403, страницы оператора прочитаны через web reader.",
+      "next_action": "Письменный иностранный/школьный допуск, прайс после 11 октября, финальный договор и семейные расходы дневной поездки.",
+      "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/"
+    },
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v79: Nullspace course и FLL pathway",
+      "detail": "EV3 в декабре 2026 и AI 12–13 октября имеют точные даты; Minecraft в июне и 3D в сентябре — архив. Английский не подтверждён. Валюта $ без ISO; 3D 9–16 против меню 9–12, EV3 9–13 против заголовка 9–12. STEM: 5 дней в программе против 4 в FAQ. Explore: 15 или 20 занятий. Novice: 30 часов без опыта; Main: 45 часов после Advanced.",
+      "next_action": "Язык, иностранный допуск, валюта, новые даты, классы и национальный путь FLL. Динамический каталог Outdoor School и Myoko с HTTP 406 ещё требуют чтения конкретных программ.",
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/"
+    },
+    {
+      "country": "Япония",
+      "iso": "JPN",
+      "provider": "v79: OYIS / English Adventure",
+      "detail": "OYIS Winter 2026: две недели, запись с 20 октября; flyer и цена ещё неизвестны. Старый winter PDF с 2024 в URL подписан 2025 — это не текущий документ. English Adventure Summer 2026: общий английский пансион, все группы в lodge по исправлению страницы, доставка багажа отдельно. Лето 2027 не объявлено.",
+      "next_action": "Новый зимний flyer и счёт OYIS после 20 октября, English Adventure Summer 2027; настоящие классы детей, расписание, сложность и условия ночёвок.",
+      "url": "https://external.oyis.org/intensives/"
+    },
+    {
+      "country": "Южная Корея",
+      "iso": "KOR",
+      "provider": "v79: Camp SFS admission nuance",
+      "detail": "Внешний тариф не доказывает принятие семьи. Квота 75% SFS / 25% non-English school не объясняет другие англоязычные школы. Класс определяется по школе в September 2026, без пересчёта по рождению. Sailing G2–5 и тарифы 2026 — архив; английский водного партнёра не подтверждён.",
+      "next_action": "Проспект 2027, категория семьи, зарубежный приём, язык партнёрского курса, прайс и страховка. Продолжать Jeju, Busan и другие международные младшие лагеря.",
+      "url": "https://www.seoulforeign.org/camp-sfs/eligibility"
+    }
+  ],
+  "calendar": {
+    "events": 2621,
+    "learning_records": 1290,
+    "family_ics": 1956,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 827,
+    "reused_legacy_events": 66,
+    "season_windows": 25
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Continue primary programme/price/language audits in all requested countries; dynamic Singapore outdoor and new Korea/Jeju/Busan programmes; USA/Canada/LATAM plus full league and exhibition coverage",
+  "validation": [
+    "All 2604 previous events preserved; all 376 dossier IDs stable. Only Nullspace and Camp SFS dossiers deepened; 13 new programme/age/format dossiers, not 13 independent operators.",
+    "S.E.E. 25–29 January 2027: Future Dreamers 3 venues / senior kindergarten–G4; Engineering only Fu Jen / G3–6, G1–2 only after English evaluation. Primary English declaration and fee/insurance/refund rules read; university independently confirms Taipei 321 Jinan Road.",
+    "S.E.E. individual/group discount through 11 October 2026 is not an application closing date. Partner-school pricing and foreign admission remain unknown; no purchase/form submission.",
+    "Nullspace EV3 5 venue/theme variants on 21–24 / 28–31 December; 4 actual attendance weekdays. AI 6 October12–13 venue/topic workshops; October2 already past and excluded.",
+    "Nullspace English and currency ISO remain unconfirmed. EV3 age9–12 vs9–13, 3D9–12 vs9–16, STEM5days vs FAQ4 preserved. MinecraftJune2026 and3DSeptember2026 archives generate no future calendar dates.",
+    "FLL Novice30hours/12sessions/no experience distinguished from Main45hours/18sessions/SPIKE Advanced. Explore15 vs20 sessions retained; club listed2027 tournament dates are not training sessions or proof of international eligibility.",
+    "OYIS Winter14–18 /21–25 December2026, PreK–G6, full English and Japan/abroad children. Registration opens20October; winter fees/flyer unknown; old winter PDF not reused as current.",
+    "English Adventure Summer2026 archive split Grades1–2/3–6; no2027 dates invented. Immersion fluency/English-only policy, lodging correction, baggage extras and cancellation separated from winter birthday cutoff.",
+    "Camp SFS class is registered September2026 grade, not recalculated birthdate.75/25 school category does not establish this family admission. SailingG2–5 partner English/fees uncertain; all2026 dates archive.",
+    "17 new calendar rows/17 familyICS; prior1939 UID/date pairs preserved;104 exhibitionICS unchanged. SQLite/public JSON agree, bridge idempotent,82 scenarios and0 fullyaudited countries."
+  ]
+}

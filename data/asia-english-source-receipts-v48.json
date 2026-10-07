@@ -1,0 +1,564 @@
+{
+  "version": 48,
+  "checked": "2026-10-02",
+  "sources": [
+    {
+      "name": "sg_fll",
+      "url": "https://www.firstlegoleague.sg/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/",
+      "mime": "text/html",
+      "bytes": 222287,
+      "sha256": "39aa4a8a08b974fc4854a9a2a258a6e854577d0bd23cb18922931e7bde03825e",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_fll_faq",
+      "url": "https://www.firstlegoleague.sg/frequently-asked-questions-faq/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/frequently-asked-questions-faq/",
+      "mime": "text/html",
+      "bytes": 116574,
+      "sha256": "31791f047c541f762dd58aa3c331f813f1cc0e5cf109a56578099f3c0c61367b",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_fll_registration",
+      "url": "https://www.firstlegoleague.sg/registration/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/registration/",
+      "mime": "text/html",
+      "bytes": 160213,
+      "sha256": "1e99d2a47d0fbc3b226e230894cee92767b41a21f3ad346f5a86fe4e608865ab",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_fll_awards",
+      "url": "https://www.firstlegoleague.sg/first-lego-league-singapore-challenge-awards/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/first-lego-league-singapore-challenge-awards/",
+      "mime": "text/html",
+      "bytes": 209132,
+      "sha256": "34b34ca4b6dc07821b2c879719e1e8c24a422ab3a41a1a99e31017ae3e29b2fc",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_fll_season",
+      "url": "https://www.firstlegoleague.sg/season/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/season/",
+      "mime": "text/html",
+      "bytes": 128069,
+      "sha256": "113303af73f422b941af23a50c0758982f426a1b64aa132d8cd328a43d793724",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_nrc_science",
+      "url": "https://www.science.edu.sg/for-schools/competitions/national-robotics-competition",
+      "status": 200,
+      "resolved": "https://www.science.edu.sg/whats-on/for-schools/competitions/national-robotics-competition",
+      "mime": "text/html",
+      "bytes": 94146,
+      "sha256": "fb808c4002378378e9e81d063a76f5c15180c70c10bcf0670f5d405af7b5482c",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_nrc_duck",
+      "url": "https://ducklearning.com/pages/nrc-sg",
+      "status": 200,
+      "resolved": "https://ducklearning.com/pages/nrc-sg",
+      "mime": "text/html",
+      "bytes": 394088,
+      "sha256": "5dd07863833a9793640da268e129512f35ad8db9bf247163aa7b7180462c1c14",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_wro",
+      "url": "https://spacefaculty.asia/world-robot-olympiad/",
+      "status": 200,
+      "resolved": "https://spacefaculty.asia/world-robot-olympiad/",
+      "mime": "text/html",
+      "bytes": 449067,
+      "sha256": "d8feb6fe99e8254e0e92c92125c6433aac7ce98c47941c8aeb998e2f407f2b52",
+      "primary_body_read": true
+    },
+    {
+      "name": "worklab_apprentice",
+      "url": "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+      "status": 200,
+      "resolved": "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+      "mime": "text/html",
+      "bytes": 1126315,
+      "sha256": "c0cf54ab2d9f54913d267cc53b95a5e0f01848682b8618459bc71d93cecb3800",
+      "primary_body_read": true
+    },
+    {
+      "name": "worklab_junior",
+      "url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "status": 200,
+      "resolved": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "mime": "text/html",
+      "bytes": 1124666,
+      "sha256": "f370040a4702bfc38032653cc7ec1aae2a6351fe4a184321e8d5f1fe3c76e67f",
+      "primary_body_read": true
+    },
+    {
+      "name": "worklab_spike",
+      "url": "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp",
+      "status": 200,
+      "resolved": "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp",
+      "mime": "text/html",
+      "bytes": 1124519,
+      "sha256": "eb4ae3acf75c19e378da84a1988af4ee94b6e42004ff595dc417aa65453bbb3c",
+      "primary_body_read": true
+    },
+    {
+      "name": "worklab_ai",
+      "url": "https://www.worklab.com.sg/ai-digital-citizenship-camp",
+      "status": 200,
+      "resolved": "https://www.worklab.com.sg/ai-digital-citizenship-camp",
+      "mime": "text/html",
+      "bytes": 896965,
+      "sha256": "30ccbaf8bbc1815e3f40e2ac8e5cd373b9ade60b5fcbaebfbfef1d13125a5e50",
+      "primary_body_read": true
+    },
+    {
+      "name": "sg_worklab_locations",
+      "url": "https://www.worklab.com.sg/contact-us",
+      "status": 200,
+      "resolved": "https://www.worklab.com.sg/contact-us",
+      "mime": "text/html",
+      "bytes": 894012,
+      "sha256": "54b45ba4ad2de446edb6380cd86202ac7ab6b073ac00bcf6989be318cce89ac1",
+      "primary_body_read": true
+    },
+    {
+      "name": "cobo_camps",
+      "url": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "status": 200,
+      "resolved": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "mime": "text/html",
+      "bytes": 91264,
+      "sha256": "63c3b95e19a2066261a78e18fd722c9e6cffe8f58b6ece6da2d2d76a155513ba",
+      "primary_body_read": true
+    },
+    {
+      "name": "hk_winter",
+      "url": "https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/",
+      "status": 200,
+      "resolved": "https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/",
+      "mime": "text/html",
+      "bytes": 233385,
+      "sha256": "f87401c45ea4982d07b34a0e2362710d96b588ae1e53969ec8658cc030871d58",
+      "primary_body_read": true
+    },
+    {
+      "name": "computhink_0",
+      "url": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "status": 200,
+      "resolved": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "mime": "text/html",
+      "bytes": 667988,
+      "sha256": "778c7575f08010c7b7bac672668cfeb09f3159501e3e723640d65c111c980551",
+      "primary_body_read": true
+    },
+    {
+      "name": "computhink_1",
+      "url": "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+      "status": 200,
+      "resolved": "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+      "mime": "text/html",
+      "bytes": 673025,
+      "sha256": "32ae014adc8489089271de6d28b6485afd2773acbe6a8139848b9739d79becd1",
+      "primary_body_read": true
+    },
+    {
+      "name": "computhink_2",
+      "url": "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+      "status": 200,
+      "resolved": "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+      "mime": "text/html",
+      "bytes": 667454,
+      "sha256": "683ccaa848037f2a16db0683ba078266221131d3adc8a5ae12595dad47521436",
+      "primary_body_read": true
+    },
+    {
+      "name": "computhink_3",
+      "url": "https://www.computhink.com.sg/minecraft-holiday-workshops/",
+      "status": 200,
+      "resolved": "https://www.computhink.com.sg/minecraft-holiday-workshops/",
+      "mime": "text/html",
+      "bytes": 674756,
+      "sha256": "0ddf28a54009f183ef459782adbf6976ecba66311170b1da31ccb6e8d65eb490",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_primary",
+      "url": "https://www.ais.edu.hk/learning/elementary-school/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/learning/elementary-school/",
+      "mime": "text/html",
+      "bytes": 319282,
+      "sha256": "dfbe609f5049cb9730be6bde261329668124ada65bc69bfafa88bc3e6be2463f",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_go_result",
+      "url": "https://www.ais.edu.hk/eagle-engineers-shine-at-guangzhou-regional-robotics-tournament/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/eagle-engineers-shine-at-guangzhou-regional-robotics-tournament/",
+      "mime": "text/html",
+      "bytes": 321367,
+      "sha256": "6a9b179cd335e1babab3bc92b1c863f6d74897948fa35478a946fe6c523ff98a",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_go_internal",
+      "url": "https://www.ais.edu.hk/record-breaking-finish-crowns-ais-vex-go-champions-for-2025-26/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/record-breaking-finish-crowns-ais-vex-go-champions-for-2025-26/",
+      "mime": "text/html",
+      "bytes": 334114,
+      "sha256": "398b08e3d1b0fea57734ee51a51db08960b49c477ded103175c815b1d73e73d7",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_faq",
+      "url": "https://www.ais.edu.hk/admissions/contact/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/admissions/contact/",
+      "mime": "text/html",
+      "bytes": 325194,
+      "sha256": "e29c194ee6a891f6e3e22828771ef950f06f7a11b72cea690d68fc48389ec6e5",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_about",
+      "url": "https://www.ais.edu.hk/about/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/about/",
+      "mime": "text/html",
+      "bytes": 402104,
+      "sha256": "390442fa9cde34a8d6adafc336f271e453b9d4305e0b2aede105c864de89fbaf",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_robotics",
+      "url": "https://www.sas.edu.sg/journeys-online/article/~board/schoolwide-journeys/post/sparking-a-circuit-an-sas-robotics-journey",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/journeys-online/article/~board/schoolwide-journeys/post/sparking-a-circuit-an-sas-robotics-journey",
+      "mime": "text/html",
+      "bytes": 55978,
+      "sha256": "e71c2183d4313361981579dcd4e5784075502f4af858910a3d49c62a54eacfce",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_eal",
+      "url": "https://www.sas.edu.sg/admissions/eal",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/admissions/eal",
+      "mime": "text/html",
+      "bytes": 78277,
+      "sha256": "ddd3b656cce0b5d8fcbfb61a538994ccf27b8dccf6e8f84737ddf8c6891b916e",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_elementary",
+      "url": "https://www.sas.edu.sg/academics/elementary-school",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/academics/elementary-school",
+      "mime": "text/html",
+      "bytes": 69410,
+      "sha256": "9ab90ed65665c87443b5d6f117e73a1fa4a0ae8cc86baf19270030c3f0c10f29",
+      "primary_body_read": true
+    },
+    {
+      "name": "innocarnival",
+      "url": "https://innocarnival.hk/en/About/",
+      "status": 200,
+      "resolved": "https://innocarnival.hk/en/About/",
+      "mime": "text/html",
+      "bytes": 43553,
+      "sha256": "242a5c33af02951b1a6cee3bf1ae81e601ea915500d4c18be881ebd96bd6f763",
+      "primary_body_read": true
+    },
+    {
+      "name": "itap",
+      "url": "https://industrial-transformation.com/itap-2026-home/",
+      "status": 200,
+      "resolved": "https://industrial-transformation.com/itap-2026-home/",
+      "mime": "text/html",
+      "bytes": 158768,
+      "sha256": "7ce92be10e464b718d13f17b99fec5c605d34996adb6c207e2e4338ce3cd3a96",
+      "primary_body_read": true
+    },
+    {
+      "name": "itap_ticket",
+      "url": "https://industrial-transformation.com/ticketing-options/",
+      "status": 200,
+      "resolved": "https://industrial-transformation.com/ticketing-options/",
+      "mime": "text/html",
+      "bytes": 240312,
+      "sha256": "ca264743ba61cb6b27bb469c9128288dd80ec378f4e4beb58352223d282861f3",
+      "primary_body_read": true
+    },
+    {
+      "name": "gitex",
+      "url": "https://gitexasia.com/",
+      "status": 200,
+      "resolved": "https://gitexasia.com/",
+      "mime": "text/html",
+      "bytes": 498221,
+      "sha256": "f623421a434c1c32e6b2469d453c2d9d9d21493c6b15855e4a3e1221d1fdc2a4",
+      "primary_body_read": true
+    },
+    {
+      "name": "worklab_chart_0",
+      "url": "https://static.wixstatic.com/media/4223d1_da94fc15612948c7b714ae6c320407a6~mv2.jpg/v1/fill/w_954,h_617,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Apprentice%201.jpg",
+      "status": 200,
+      "resolved": "https://static.wixstatic.com/media/4223d1_da94fc15612948c7b714ae6c320407a6~mv2.jpg/v1/fill/w_954,h_617,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Apprentice%201.jpg",
+      "mime": "image/jpeg",
+      "bytes": 94382,
+      "sha256": "0191889e504cd320c0dd2362ad97a5787b139ac90f119e250d115eeb63424bb1",
+      "primary_body_read": false,
+      "visual_read": true,
+      "scope": "October2026week/date/age/time/pricechartsvisuallyinspected"
+    },
+    {
+      "name": "worklab_chart_1",
+      "url": "https://static.wixstatic.com/media/4223d1_517f544492274d4e949cd9068ad7a289~mv2.jpg/v1/fill/w_954,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Apprentice%202.jpg",
+      "status": 200,
+      "resolved": "https://static.wixstatic.com/media/4223d1_517f544492274d4e949cd9068ad7a289~mv2.jpg/v1/fill/w_954,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Apprentice%202.jpg",
+      "mime": "image/jpeg",
+      "bytes": 72348,
+      "sha256": "d6dc9fb582983901f971d9c9adc6dc2a045b6350b0aa0b1adc71bbf1c794ee44",
+      "primary_body_read": false,
+      "visual_read": true,
+      "scope": "October2026week/date/age/time/pricechartsvisuallyinspected"
+    },
+    {
+      "name": "worklab_chart_2",
+      "url": "https://static.wixstatic.com/media/4223d1_760431d1c8e24ccead91f2199f78f440~mv2.jpg/v1/fill/w_945,h_457,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Jr%20Sr.jpg",
+      "status": 200,
+      "resolved": "https://static.wixstatic.com/media/4223d1_760431d1c8e24ccead91f2199f78f440~mv2.jpg/v1/fill/w_945,h_457,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20RoboCamp%20Jr%20Sr.jpg",
+      "mime": "image/jpeg",
+      "bytes": 55338,
+      "sha256": "c3083e3a34c7b973e6f30efffe9a8ba69f05dd31f5bcf7c98191b4fe405be931",
+      "primary_body_read": false,
+      "visual_read": true,
+      "scope": "October2026week/date/age/time/pricechartsvisuallyinspected"
+    },
+    {
+      "name": "worklab_chart_3",
+      "url": "https://static.wixstatic.com/media/4223d1_08f8954dbe68415eac0d64bec4af700e~mv2.jpg/v1/fill/w_942,h_402,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20SPIKE%20PRIME%20Camp.jpg",
+      "status": 200,
+      "resolved": "https://static.wixstatic.com/media/4223d1_08f8954dbe68415eac0d64bec4af700e~mv2.jpg/v1/fill/w_942,h_402,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20and%20Robotics%20Connection%20Sep_Oct%20Camp%202026%20SPIKE%20PRIME%20Camp.jpg",
+      "mime": "image/jpeg",
+      "bytes": 53131,
+      "sha256": "34d18ecabedefa77e60ee4a16d06141b3355fb62c44ca86667c84b1cf631b904",
+      "primary_body_read": false,
+      "visual_read": true,
+      "scope": "October2026week/date/age/time/pricechartsvisuallyinspected"
+    },
+    {
+      "name": "worklab_chart_4",
+      "url": "https://static.wixstatic.com/media/4223d1_0a119ecfef0544ab8d23bbf37553a291~mv2.jpg/v1/fill/w_953,h_432,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20Sep_Oct%20Camp%202026%20AI%20and%20Digital%20Citizenship.jpg",
+      "status": 200,
+      "resolved": "https://static.wixstatic.com/media/4223d1_0a119ecfef0544ab8d23bbf37553a291~mv2.jpg/v1/fill/w_953,h_432,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Children's%20Worklab%20Sep_Oct%20Camp%202026%20AI%20and%20Digital%20Citizenship.jpg",
+      "mime": "image/jpeg",
+      "bytes": 53124,
+      "sha256": "2aff7cf3df5361448d246dffdcb08718363f058f751e4ff74dd922585d3919aa",
+      "primary_body_read": false,
+      "visual_read": true,
+      "scope": "October2026week/date/age/time/pricechartsvisuallyinspected"
+    },
+    {
+      "name": "fll_nonmoe",
+      "url": "https://www.firstlegoleague.sg/registration-for-non-moe-schools/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/registration-for-non-moe-schools/",
+      "mime": "text/html",
+      "bytes": 125112,
+      "sha256": "b2937ddbc75cdc6ad6b7a06b7310a730b2917e5469d89d47a302c29f5ef20cc0",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_fees",
+      "url": "https://www.ais.edu.hk/admissions/tuition-fees/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/admissions/tuition-fees/",
+      "mime": "text/html",
+      "bytes": 301078,
+      "sha256": "ba2f8d210b40cb33e7360abd8cc78575f6121a26c54e0726f52049387d015792",
+      "primary_body_read": true
+    },
+    {
+      "name": "ais_apply",
+      "url": "https://www.ais.edu.hk/admissions/applying-to-ais/",
+      "status": 200,
+      "resolved": "https://www.ais.edu.hk/admissions/applying-to-ais/",
+      "mime": "text/html",
+      "bytes": 317855,
+      "sha256": "d491cfc268ec46decea5eac9d75c1cd77a07efd1cfe5a6fe667617f94c68398e",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_steam",
+      "url": "https://www.sas.edu.sg/academics/elementary-school/steam",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/academics/elementary-school/steam",
+      "mime": "text/html",
+      "bytes": 222426,
+      "sha256": "a82f0cbd229619500682495ba71db17f93146f7dfb73059f01d0b2a614aa17fa",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_language",
+      "url": "https://www.sas.edu.sg/admissions/entry-requirements/language-requirements",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/admissions/entry-requirements/language-requirements",
+      "mime": "text/html",
+      "bytes": 48755,
+      "sha256": "81cbfd2d7bcae4bc9dd116681c98117061a3fd9eb6278c25a6a014304a065b56",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_placement",
+      "url": "https://www.sas.edu.sg/admissions/entry-requirements/age-and-grade-placements",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/admissions/entry-requirements/age-and-grade-placements",
+      "mime": "text/html",
+      "bytes": 60531,
+      "sha256": "69f0a24e40e45f6ab1e6c5df8dd33ce2cdf46102b2abdd1186a9ccfd2c7f28e9",
+      "primary_body_read": true
+    },
+    {
+      "name": "sas_fees",
+      "url": "https://www.sas.edu.sg/admissions/tuition-and-fees",
+      "status": 200,
+      "resolved": "https://www.sas.edu.sg/admissions/tuition-and-fees",
+      "mime": "text/html",
+      "bytes": 48939,
+      "sha256": "c4a2945c90af5585288cb432fc60db84f3c88291ba9d9f6b6d275724b5f32dd7",
+      "primary_body_read": true,
+      "limitation": "Primarypagebodyread;actual2026/27feesPDFnotextracted"
+    },
+    {
+      "name": "gitex_terms",
+      "url": "https://gitexasia.com/terms-and-conditions",
+      "status": 200,
+      "resolved": "https://gitexasia.com/terms-and-conditions",
+      "mime": "text/html",
+      "bytes": 323012,
+      "sha256": "c8da9a14e4f36717ab2d46e46cd8e3887412f96fa7da2d1101ccfab0080aa81e",
+      "primary_body_read": false,
+      "limitation": "UnusedtermsURL;admissionverifiedonprimaryhomepagefooter"
+    },
+    {
+      "name": "wro_sg_terms",
+      "url": "https://spacefaculty.asia/wp-content/uploads/2026/07/WROSG-2026-TC.pdf",
+      "status": 200,
+      "resolved": "https://spacefaculty.asia/wp-content/uploads/2026/07/WROSG-2026-TC.pdf",
+      "mime": "application/pdf",
+      "bytes": 170878,
+      "sha256": "3daba3316f3cbe3737417025ed9c408f79bd1e92a5900ba8db75d91dd02b81d4",
+      "primary_body_read": true,
+      "read_scope": "One-pagetermsfullyreadandvisuallyinspected"
+    },
+    {
+      "name": "wro_sg_rules",
+      "url": "https://spacefaculty.asia/wp-content/uploads/2026/06/WRO-SG-2026-RoboMission-General-Rules-1.0-15012026.pdf",
+      "status": 200,
+      "resolved": "https://spacefaculty.asia/wp-content/uploads/2026/06/WRO-SG-2026-RoboMission-General-Rules-1.0-15012026.pdf",
+      "mime": "application/pdf",
+      "bytes": 713152,
+      "sha256": "62766c09aaf436eb1a624be986b82fffbff9bdf328d0f3fe22a07e4c42466d39",
+      "primary_body_read": true,
+      "read_scope": "GeneralRulesage/team/ownworktextandpage4visual"
+    },
+    {
+      "name": "fll_explore_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-founders-explore-45833/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-founders-explore-45833/",
+      "mime": "text/html",
+      "bytes": 153194,
+      "sha256": "e311c2370d80546549882ad096b910b150ee5ba82381595636b12c5343deaa28",
+      "primary_body_read": true
+    },
+    {
+      "name": "fll_challenge_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-schools-first-lego-league-founders-challenge-45832/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/product/registration-for-non-moe-schools-first-lego-league-founders-challenge-45832/",
+      "mime": "text/html",
+      "bytes": 168435,
+      "sha256": "48eb875cd5b3bf1e245683f8c86e3ec87fac5b3956eb52cae22c73a28fe4f69f",
+      "primary_body_read": true
+    },
+    {
+      "name": "fll_future8_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-8-16-45834/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-8-16-45834/",
+      "mime": "text/html",
+      "bytes": 171819,
+      "sha256": "c4f27d15f8d0298be0c6cf57e9687318365e89c9c2fcbaea29f9f919ae305e0a",
+      "primary_body_read": true
+    },
+    {
+      "name": "fll_future5_current",
+      "url": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-5-7-45835/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleague.sg/product/registration-for-non-moe-school-first-lego-league-future-ages-5-7-45835/",
+      "mime": "text/html",
+      "bytes": 145511,
+      "sha256": "b6abd66d5dd7ba2d4b9125cfae6ba5bf8eadebec0edeabf626b90ce4680cbce5",
+      "primary_body_read": true
+    }
+  ],
+  "issues": [
+    {
+      "name": "FLLregistrationoldseason",
+      "status": "Registrationpage2025/26birthcutoffsнеперенесенынаBIOGLOW2026/27;FAQ2027timeиseasonGradesотдельно.",
+      "official_alternative": "https://www.firstlegoleague.sg/registration/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "NRCgeneralversusLowerhardware",
+      "status": "LowerWeDo/Essentiallisted;generalcontrollerlistothermodels. Categorypackneeded;2023awardstableне2026.",
+      "official_alternative": "https://www.science.edu.sg/for-schools/competitions/national-robotics-competition",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "ComputhinkEnglishnotstated",
+      "status": "22реальныеNovember/Decembercohortsсохранены;ENinstructiontagснятдопрямогоподтверждения.",
+      "official_alternative": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "SASEALpolicyinconsistency",
+      "status": "DetailedEALG4/G5TransitionversusgeneralbeyondGrade4wording;newchildassessmentneeded.",
+      "official_alternative": "https://www.sas.edu.sg/admissions/entry-requirements/language-requirements",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "AISfeesoldyear",
+      "status": "Tuitionpageexplicit2025/26не2026/27;неиспользоватьстарыйfeeкакновый.",
+      "official_alternative": "https://www.ais.edu.hk/admissions/tuition-fees/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "HKTDCaccessfailure",
+      "status": "Webopenнеполучилbody;предыдущийHTTP20013bytesForbiddenнепризнанпрочитаннымsource. InnoEx/Electronics2027newdate/childpolicyunknown.",
+      "official_alternative": "https://www.hktdc.com/event/innoex/en/fair-information",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "Winterforeigngradeandcertificates",
+      "status": "Foreignequivalent/ENunknown. GradedcertificatesнеWorldFinalquota;submissionwindowнеочнаяпоездка.",
+      "official_alternative": "https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/",
+      "checked": "2026-10-02"
+    }
+  ]
+}

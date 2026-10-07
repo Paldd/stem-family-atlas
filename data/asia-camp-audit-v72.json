@@ -1,0 +1,82 @@
+{
+  "asof": "2026-10-05",
+  "version": 72,
+  "status": "progress",
+  "scope": "13 additional specific Asian holiday programmes; all worldwide blocks retained",
+  "new_dossiers": 13,
+  "new_calendar_rows": 37,
+  "new_family_ics": 37,
+  "programme_dossiers": 286,
+  "countries_with_dossiers": 30,
+  "swiss_dossiers": 49,
+  "french_dossiers": 30,
+  "spanish_dossiers": 26,
+  "official_dossier_urls": 457,
+  "programme_slugs": [
+    "computhink-lego",
+    "computhink-scratch",
+    "computhink-agent",
+    "computhink-redstone",
+    "bc-sg-early",
+    "bc-sg-p12",
+    "bc-sg-p34",
+    "bc-sg-winter-primary",
+    "bc-tw-early",
+    "bc-tw-primary",
+    "steamsquad-expedition",
+    "codinglab-japan",
+    "lfs-seoul"
+  ],
+  "findings": [
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "v72: реальные зимние варианты и диагностический поток",
+      "detail": "Computhink 22 действующих датированных полудневных варианта; курс7+ исключает Оскара в2026, EN и refund пока не доказаны. British Council K1–K2 толькоweek4Napier; P1–2/P3–4 — разные меню. Зима2027 7+, поток назначается после диагностики: модель горок или science не обещается каждому. Feb5/8 закрыто. SGD805 не пересчитываем автоматически на четыре дня. §5.2refund75% и §5.6no-refund противоречат; письменное разрешение ещё нужно.",
+      "next_action": "Точный класс/день рождения, иностранный допуск, EN технического курса, полный счёт и действующий договор. Заявки и сообщения не отправлялись.",
+      "url": "https://www.britishcouncil.sg/english-courses/camps/study"
+    },
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "v72: текущая страница2027 и единые10дней",
+      "detail": "Поисковый кэш BC ещё2026, собственная страница уже2027: сюжет/LEGO иToontastic, не робототехника. Primary6–12 требуетGrade1+, 4–6 только до7-летия; точные дни/тариф отсутствуют. Timmy3–5 обоим уже не подходит в2027. STEAMSQUAD21Jan–3Feb — одно бронирование10буднихдней, выходные свободны; ценаNT27000 за весь курс, транспортEasyCardпримерно200/день отдельно. Нижняя рекомендуемая граница8 исключает обещание Оскару.",
+      "next_action": "Новые счета/места, класс, точные кампусы и языковой ведущий; полный семейный бюджет. Не подменять старым взрослым прайсом новый детский курс.",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course"
+    },
+    {
+      "country": "Япония / Южная Корея",
+      "iso": "JPN",
+      "provider": "v72: архив и документы внешнего ребёнка",
+      "detail": "CodingLabMarch2026headline противwintertext/no-events: новых смен нет, Ebisuoffice не classroom. LFS6–16Jul2026 толькоархив, foreignparent не заменяет ARC ребёнка/родителя. ENязыковые уроки не равныENтехническому интенсиву. BranksomeSummerSeriesWeeblyбезгода, актуальной цены/дат и доказанной официальной привязки: не включён в новые проверенные досье.",
+      "next_action": "Продолжить первичные материалы2027, реальный внешний допуск и пансионы. Полный мировой scope сохраняется,0fully audited countries; заявок/подписок/сообщений/оплат не было.",
+      "url": "https://lfseoul.org/en/lfs-summer-camp-2026/"
+    }
+  ],
+  "calendar": {
+    "computhink_variants": 22,
+    "british_sg_novdec_rows": 9,
+    "british_sg_winter_rows": 5,
+    "steamsquad_whole_course": 1,
+    "archived_2026_promoted": false,
+    "closures_excluded": [
+      "2027-02-05",
+      "2027-02-08"
+    ],
+    "boarding_new_verified": 0
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": [],
+  "next_priority": "Continue Switzerland/Europe, USA/Canada, CostaRica/Mexico/LATAM and all priority countries: current2027 documents, genuine boarding/foreign access, full family budgets and exact campuses.",
+  "validation": [
+    "2355prior events and273prior dossiers unchanged; league/school/history/family/route blocks preserved",
+    "Computhink22 distinct half-day variants; 7-year minimum excludes Oscar2026; unprovedEN not promoted",
+    "BCSingapore Kindergarten onlyDec14–18Napier; Primary classes separate; winter7-year gate and diagnostic streams explicit",
+    "Feb5/8 closures excluded; short-week805 basis not automatically prorated; contradictory refund clauses visible",
+    "TaiwanGrade1+ gate; STEAMSQUADone10weekday package with separatetransport; Japan/Korea archive not promoted",
+    "37new calendar records and37familyICS; priorUID/date pairs and104exhibition contents preserved exceptDTSTAMP",
+    "Bridge idempotence; SQLite integrity/foreignkeys; publicJSON mirrors; four new scenarios and unknownEN/under7 filters",
+    "Two-course comparison andclear;1280/390 no pageoverflow; table internallyscrolls; consoleerrors empty"
+  ]
+}

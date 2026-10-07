@@ -1,0 +1,39 @@
+{
+  "asof": "2026-10-04",
+  "version": 57,
+  "status": "progress",
+  "worldwide_complete": false,
+  "preserved_events": 1931,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "ilc",
+    "american-village",
+    "camp-tecnologico"
+  ],
+  "new_calendar_entries": 21,
+  "dossiers": 68,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 122,
+  "family_ical_entries": 1336,
+  "exhibition_ical_entries": 104,
+  "checks": {
+    "prior_event_objects": "unchanged",
+    "prior_family_calendar_uids_and_dates": "preserved",
+    "ih_three_campuses_same_autumn_dates": "unique IDs, distinct venue and price",
+    "year_conflicts": "rejected future conversion",
+    "day_camp_windows": "weekday labels; multiweek periods are windows",
+    "sqlite": "integrity and foreign-key checks",
+    "bridge": "idempotent",
+    "publications": "native save/deploy receipt required separately"
+  },
+  "source_receipt": "STEM_europe_camp_source_receipts_v57.json",
+  "remaining": [
+    "New2027 Spain school camps and full tariffs",
+    "IH summer2027 and corrected Wander spring year",
+    "ILC/TECS exact tariff seasons",
+    "English technical instruction for French/Spanish candidates",
+    "Further Europe and all priority Asian/American countries",
+    "Exact campus map, comparison, complete family budgets and actual admission confirmation"
+  ]
+}

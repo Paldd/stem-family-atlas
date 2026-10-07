@@ -1,0 +1,41 @@
+{
+  "asof": "2026-10-05",
+  "version_scope": "North America programme review v64",
+  "status": "ongoing",
+  "world_complete": false,
+  "global_goal_status": "active",
+  "new_dossiers": 11,
+  "new_calendar_rows": 34,
+  "new_family_ical_rows": 31,
+  "dossiers_total": 152,
+  "countries_total": 28,
+  "swiss_total": 25,
+  "official_urls_total": 291,
+  "findings": [
+    "AstroCamp current2027 minimum7; upperage12/13 andAug1/2 conflict. Only3uncontestedsessions calendared; generic scientific adventure, not roboticsintensive. EN/internationalentry unresolved.",
+    "FrenchWoods ENcamp-life/internationalcampers established. Four3wk,combination6/9/12wk and1wkTrial dates2027. Session3 early8800/late8400 preserved aspriceconflict; Trialdeposit250vs1750 unresolved.",
+    "TIC7–15 requirescompletedGrade1 andreading; gradeboundaries varybycampus. LEGO beforeVEX recommended. No2027dates/price/ENproof, noinventedcalendar.",
+    "Ponacka2027PDF: oneweekGrade1inSeptember2026; twoweekage7–9/firsttime10onJuly1; fourweek8–15. HSTextras; deposit1000includes300admin. Internationalhistory doesnot proveEnglish.",
+    "DestinationCanada10–17: ENlessonsandactivities;2027USD3910/5425/6625 notCAD. Optionaltours/laundryextra; genericinsurance100000andairporttransfer need2027contract.",
+    "Swallowdale8–14ForestSchool2027windowJuly11–31;2–3weeks doesnot proveonespecificstay. CISS AI12–16/Entrepreneurs14–18 EN20h,actual2027sessions,feeunknown; bothfutureageexcludedfromfamilyICS.",
+    "CISS Future-Ready2026CircuitStream isnot AILab2027. PricehelpURLserves2022registrationarticle; nobackfilling fromagentprices."
+  ],
+  "preservation_checks": "scripts/verify-northamerica-camps-v64.py",
+  "ui_verification": {
+    "status": "passed_local_preview",
+    "checks": [
+      "23scenarios; actual clicks onUS/Canada newscenarios render3/7 correctprogramme cards",
+      "FrenchWoods artisticfilter renders2; both+ENkeeps2; checkboxcomparison rendersdistincttrial/regularprices andconditions",
+      "Ponacka+Oscar returns2grade/ageconditionaltracks; addingEN returns0; AI CISS both returns0futureage",
+      "Desktop1280,mobile390and320 no documenthorizontaloverflow;390comparisonvisible",
+      "No browserconsoleerrors; data-ui-version64 andnew152/28/25/291overview visuallyverified"
+    ],
+    "screenshot": "northamerica-camps-v64-preview.png"
+  },
+  "remaining_scope": [
+    "Other worldwide priority operators and newlypublished2027documents",
+    "Current EN/ES/RU/grade/outsider/priceconditions for unannouncedprogrammes",
+    "Precise campusemap, completefamilyscenariocosts and transparenteditorialranking",
+    "No country fullyaudited; globalgoal active"
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "version": 113,
+  "asof": "2026-10-06",
+  "scope": "Selected own Kajuyali2027 boarding brochures in Colombia/Panama, TalenttecCostaRica archive, deeper ProgramableArgentina syllabus and comparisons of existing Mexican holiday operators; not a complete country/world audit.",
+  "sources": [
+    {
+      "key": "robotiki-camp",
+      "url": "https://www.robotiki.com.ar/campamentos-tecnologicos-vacaciones-caba",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_body"
+    },
+    {
+      "key": "talenttec-holiday",
+      "url": "https://talenttec.net/talleres/",
+      "final_url": "https://talenttec.net/talleres/",
+      "status": 200,
+      "bytes": 363181,
+      "sha256": "535cca60d307616151506a809e68588188c258ea892cfb92092e8e3c6b4b0f3a",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "talenttec-holiday.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "talenttec-main",
+      "url": "https://talenttec.net/",
+      "final_url": "https://talenttec.net/",
+      "status": 200,
+      "bytes": 266995,
+      "sha256": "7445b1dc42bd1a0904eb6c314bb377f0e721a3526738c6fc23c84a6a3bfab365",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "talenttec-main.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "kajuyali-main",
+      "url": "https://www.kajuyali.com/",
+      "final_url": "https://www.kajuyali.com/",
+      "status": 200,
+      "bytes": 253387,
+      "sha256": "648d154f7befa69efc994926fe15f618c1e1875fcb4a20d94ff08557c6a0cbda",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kajuyali-main.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "kuita",
+      "url": "https://www.kajuyali.com/sedes/los-llanos",
+      "final_url": "https://www.kajuyali.com/sedes/los-llanos",
+      "status": 200,
+      "bytes": 386321,
+      "sha256": "4364d98cf8a93120b4a025263c3e509b1eeb1b40516efbfeddc1e4c3cbfca591",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kuita.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "aluna",
+      "url": "https://www.kajuyali.com/sedes/la-guajira",
+      "final_url": "https://www.kajuyali.com/sedes/la-guajira",
+      "status": 200,
+      "bytes": 380354,
+      "sha256": "c5e406010caeaf1cb3a339b613bec7c0c9dc0d9d30d7ea4cb15f8238713da513",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "aluna.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "yubarka",
+      "url": "https://www.kajuyali.com/sedes/pacifico",
+      "final_url": "https://www.kajuyali.com/sedes/pacifico",
+      "status": 200,
+      "bytes": 391324,
+      "sha256": "0ead95865cbd257917100d5283f538ce924eee2603e21e205f4c04ed6701c560",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "yubarka.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "kiribati",
+      "url": "https://www.kajuyali.com/sedes/isla-fuerte",
+      "final_url": "https://www.kajuyali.com/sedes/isla-fuerte",
+      "status": 200,
+      "bytes": 376962,
+      "sha256": "db1be04e103db2b9e3cefffd1c3bd7aeba0f2c2360ddfc23ad674165948b8802",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kiribati.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "yakaro",
+      "url": "https://www.kajuyali.com/sedes/bocas-del-toro",
+      "final_url": "https://www.kajuyali.com/sedes/bocas-del-toro",
+      "status": 200,
+      "bytes": 385898,
+      "sha256": "cfae1a6ef54849ad6072cac8aa1eef2ce7d5dfb1d58b4eb8daa0e126e2b530be",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "yakaro.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "kaju-registration",
+      "url": "https://inscripciones.kajuyali.com/",
+      "final_url": "https://inscripciones.kajuyali.com/",
+      "status": 200,
+      "bytes": 660,
+      "sha256": "25defdaaa6854d119afd5b7c2cf2fa2f46054ad02809773d0dcffb2e7a71ccab",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kaju-registration.html",
+      "body_snapshot_retained": true,
+      "content_status": "registration_shell_not_price_or_admission"
+    },
+    {
+      "key": "robotecnia-holiday",
+      "url": "https://www.robotecnia.mx/services-1-1",
+      "final_url": "https://www.robotecnia.mx/services-1-1",
+      "status": 200,
+      "bytes": 1363776,
+      "sha256": "a45467c649a20349aa4a76a067d79f99e8f6c1715d46ef142bbeb0d4f1e8e0da",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "robotecnia-holiday.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "ciberbots-services",
+      "url": "https://www.ciberbots.com.mx/services",
+      "final_url": "https://www.ciberbots.com.mx/services",
+      "status": 200,
+      "bytes": 175563,
+      "sha256": "95df7802ade02172d1f4dede4538793a97a8a3e9b3f47be3920095f5a84f0c31",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "ciberbots-services.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "kuita-brochure",
+      "url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Kuita2027.pdf",
+      "final_url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Kuita2027.pdf",
+      "status": 200,
+      "bytes": 8842934,
+      "sha256": "b88b7965089176ca7fcdf61e419fd4dd58e11a63b2adb37cdb15164da020301b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kuita-brochure.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_visual_pdf_pages_full_text_extracted"
+    },
+    {
+      "key": "aluna-brochure",
+      "url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Aluna2027.pdf",
+      "final_url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Aluna2027.pdf",
+      "status": 200,
+      "bytes": 11041538,
+      "sha256": "cf5bb70e5e66285f1971e9490af7b45be80565d6e5e8b63c0a97ed3fa6cd0bf2",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "aluna-brochure.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_visual_pdf_pages_full_text_extracted"
+    },
+    {
+      "key": "yubarka-brochure",
+      "url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Yubarka2027.pdf",
+      "final_url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Yubarka2027.pdf",
+      "status": 200,
+      "bytes": 4738389,
+      "sha256": "7b064bf8d4adeb6522d01f7287c792e9e1ba17f2d81f320b6097fe5b43cfbeed",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "yubarka-brochure.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_visual_pdf_pages_full_text_extracted"
+    },
+    {
+      "key": "kiribati-brochure",
+      "url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Kiribat%C3%AD2027.pdf",
+      "final_url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Kiribat%C3%AD2027.pdf",
+      "status": 200,
+      "bytes": 6641536,
+      "sha256": "4d39bee9ba40bd0665b6a4fb0aedce8902dbac22f3f49055bfdbe42ca473370e",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "kiribati-brochure.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_visual_pdf_pages_full_text_extracted"
+    },
+    {
+      "key": "yakaro-brochure",
+      "url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Yakar%C3%B32027.pdf",
+      "final_url": "https://camps.kajuyali.com/hubfs/Brochures%20Camps%202027/Yakar%C3%B32027.pdf",
+      "status": 200,
+      "bytes": 19980331,
+      "sha256": "7f5246196ed18959bdb671d14bfd34b0fbed7ee05e79c8115123d23f13c673aa",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "yakaro-brochure.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_visual_pdf_pages_full_text_extracted"
+    },
+    {
+      "key": "programable",
+      "url": "https://programable.com.ar/colonia-tecno-2027/",
+      "final_url": "https://programable.com.ar/colonia-tecno-2027/",
+      "status": 200,
+      "bytes": 574093,
+      "sha256": "803e2acfec6cf3cf010b87a8c9a5e9331fdffcdfcdb49ca1d25bf046719f3040",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "programable.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "global-youth",
+      "url": "https://globalyouth.mx/summer-camp-toronto/",
+      "final_url": "https://globalyouth.mx/summer-camp-toronto/",
+      "status": 200,
+      "bytes": 176497,
+      "sha256": "a8268a3684f1b11590145b69efbf21f9cb909404c8c35055b103340bb2ae1246",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected public programme/policy clauses or comparison with an existing dossier; not a complete site/country audit.",
+      "raw_filename": "global-youth.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    }
+  ],
+  "visual_review": {
+    "version": 113,
+    "new_visual_pdf_checks": 39,
+    "scope": "39 full selected pages visually inspected across five 2027 own brochures; text extracted from all 90 PDF pages. Four rendered history pages were not counted as visual checks. Not a complete website, admission or contract audit.",
+    "documents": {
+      "kuita-brochure": {
+        "pdf_sha256": "b88b7965089176ca7fcdf61e419fd4dd58e11a63b2adb37cdb15164da020301b",
+        "rendered_page_sha256": {
+          "4": "d47014a8187a1536f1e21f1a3e33fcb5b779e22fa6e3786c0a6e6f1fe1897527",
+          "6": "f0e6bb4c850b833b6a76601db183c50e9e0d86f8c68b6e3a372b7cc2f511141c",
+          "7": "1b9a2699146bf6a1bedf8dd4c7a76ebbb91179b922d4c122ca17f5ed8decc4c1",
+          "8": "405d13b786a0e90bdbe95fefdee0c34f256bae75571fa187be273e502a0d0729",
+          "9": "77563977d099ff9996628001816e42747ff209bccd0c0b46833d4caf0299ef35",
+          "15": "47940eca9f9361ebb54642aa63ae355a644f67e08269107e436761cd4516643d",
+          "16": "52058a4b72110743eb0dc48d87946a21fd34dcd10a16ef3b71848be65a43cee7"
+        },
+        "checked_pages": [
+          4,
+          6,
+          7,
+          8,
+          9,
+          15,
+          16
+        ]
+      },
+      "aluna-brochure": {
+        "pdf_sha256": "cf5bb70e5e66285f1971e9490af7b45be80565d6e5e8b63c0a97ed3fa6cd0bf2",
+        "rendered_page_sha256": {
+          "4": "96daebc7925d975b8c629a8c2e3b18a1caa20aaca9ed202d3cb874a331856992",
+          "6": "cde4dc19bdb2dd76015a396a9577d740aad04bd121a5fdd9e835fe99096d4b95",
+          "7": "c25b85c5ecf71d719238010651ad27b0eef46ac4d4ac0c2626f2787b06b26b4a",
+          "8": "71eb531752c69479cb421908d1a84781c68865425313e04302b77947dd88ead8",
+          "9": "bc8bafec395ffc022d3caccdf60432505909f369fa6d58eeea04c3434db43596",
+          "15": "c3e91ef33c6bb0852249f663194b2097409435c720cc2f9651af689607672bc5",
+          "16": "dd88700d8619c995f842c9e2ac67627a5c6b21b7f7195a015fa3435adb795c02"
+        },
+        "checked_pages": [
+          4,
+          6,
+          7,
+          8,
+          9,
+          15,
+          16
+        ]
+      },
+      "yubarka-brochure": {
+        "pdf_sha256": "7b064bf8d4adeb6522d01f7287c792e9e1ba17f2d81f320b6097fe5b43cfbeed",
+        "rendered_page_sha256": {
+          "4": "3ba92b25de87b20b2b5c90bcce3ec507b1505b8f7a937590e8bd9e290d4699d6",
+          "6": "efe222909a3ae7ab5343a28121d4ab1f674f288122f5946669c20f18a144adb5",
+          "7": "602fcd7181b9ecb7a0d8a8d7c2bff9be7d19456049b369743f1e872216fc00c5",
+          "8": "a69d49ab78ad42e6261f524e2e1245c0ae0adc20a7333647b7c04e4234f802cf",
+          "9": "6290260658ffb5003055073031053a902b376f794544dc1874113cfbefae4df5",
+          "14": "b7192d2e09135a840c3b5a092e98372ee45f2c1e2d330c3057e5f62b1ca7b959",
+          "15": "db877212a20c1ce02971d669365cc5729a8c082aab94a37b3bb00f7377587a77"
+        },
+        "checked_pages": [
+          4,
+          6,
+          7,
+          8,
+          9,
+          14,
+          15
+        ]
+      },
+      "kiribati-brochure": {
+        "pdf_sha256": "4d39bee9ba40bd0665b6a4fb0aedce8902dbac22f3f49055bfdbe42ca473370e",
+        "rendered_page_sha256": {
+          "1": "d75d9f3095a1a18165f04c0aede5935a3d0965d6c01f566a0265c8c7f5051d59",
+          "4": "263199266d84ebdafb8852dca0588847325e8e3a00977d72262d02b524b6ae79",
+          "6": "54e118412bebe257cded44de990f6abd98f3ed4f3ca0c129be36669db896c961",
+          "7": "5f35fe985dde4bbdf2b3d660a29085080c909e5c16173afaa03b40124da040b2",
+          "8": "af7dfe91f8300b18c370c57bf63aa1b2d8dbd11aefddda072b7a29ef4ebba238",
+          "9": "de31958ce474b45a4c0c5b2daaf112212f40ed1b74ca6931a031b6fb5e35009f",
+          "13": "44acc834d3efa057bd93751b1298b78cf904702fb4fd22f686a31ed8e1e89dd7",
+          "16": "9f5c4c3682ad09c0d93f124d4c3134dc4ee14b816df2879173d62fbf6bcc7040",
+          "17": "27fa2ff094123d12bb523f924a38633bcb3c558860152b05f94efb54d04afaaf"
+        },
+        "checked_pages": [
+          1,
+          4,
+          6,
+          7,
+          8,
+          9,
+          13,
+          16,
+          17
+        ]
+      },
+      "yakaro-brochure": {
+        "pdf_sha256": "7f5246196ed18959bdb671d14bfd34b0fbed7ee05e79c8115123d23f13c673aa",
+        "rendered_page_sha256": {
+          "4": "3c0bcf9e9b9d545053068788273f42a03233b500bfa84db3ae6e9f6ecc2f57a5",
+          "6": "9087e43cce08bf99a4b3faff2cc366fa23f7c1301ccd202dda194f52f3004639",
+          "7": "2b9a53fb58cdbf64d7bb740770b6baced5e954e13b098b046c39f4710d534daa",
+          "8": "019df53bdd3734bce344936ed7999873b11ed5556d42e4d5f4be9e0fa5ec0d1a",
+          "9": "88aaa2eba1e896a0e26bbfa82c5752e462a93bfd8f0a3d6f7e0e3f174f257994",
+          "13": "9cd499caeada723768ef6719656bec7ddde63a9f764e66a8d670bf1cf6f3e34b",
+          "14": "5a8423c01864c4cc11826ced1da444c801dc15da0c1c2ad4c89355062797f592",
+          "15": "e6920d754de6d3c384902f7459619eb98f0b0d983ef78506442eda4382317e44",
+          "16": "0b60d9ce86a6473523b1e10eae47c9e3411c2541b1485aebdd87c54f0bb220ca"
+        },
+        "checked_pages": [
+          4,
+          6,
+          7,
+          8,
+          9,
+          13,
+          14,
+          15,
+          16
+        ]
+      }
+    }
+  },
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "primary_reader_limits": "Public reader independently read Kajuyali/Programable. Talenttec reader timeout while directHTTP200bodyread. GlobalYouth linkedDrivebrochure not read. Additional CPIC/MEP facts are previous primary-reader comparisons, not claimed as new retainedHTTP bodies."
+}

@@ -1,0 +1,418 @@
+{
+  "asof": "2026-10-05",
+  "version": 78,
+  "scope": "43 directprimaryfetch attempts:42successful,1Robotics404 retained;2PDFtables visually read;Montana publicform andIssy nativepage read without submission",
+  "sources": [
+    {
+      "key": "montana",
+      "url": "https://www.montana-zug.ch/en/summer-camp",
+      "final_url": "https://www.montana-zug.ch/en/summer-camp",
+      "status": 200,
+      "bytes": 435946,
+      "sha256": "3e8494b0e7c5580ce7fbdbd1aa258e8864564d6019e7b45cab784b87bb9ae25b"
+    },
+    {
+      "key": "alpadia-leysin",
+      "url": "https://www.alpadia.com/fr/camp-ete/suisse/leysin",
+      "final_url": "https://www.alpadia.com/fr/camp-ete/suisse/leysin",
+      "status": 200,
+      "bytes": 361057,
+      "sha256": "e6ca2554a2f32427a441eb2caf83ac5df693b7bb553fc36f8fae18dbd0947749"
+    },
+    {
+      "key": "bedes-eastbourne",
+      "url": "https://www.bedessummerschool.org/centres/eastbourne",
+      "final_url": "https://www.bedessummerschool.org/centres/eastbourne",
+      "status": 200,
+      "bytes": 56423,
+      "sha256": "da13ca9c3d5c7aca6b6c5ff354cc38f23591d771b2f86f356551bf4887f008e6"
+    },
+    {
+      "key": "bedes-home",
+      "url": "https://www.bedessummerschool.org/",
+      "final_url": "https://www.bedessummerschool.org/",
+      "status": 200,
+      "bytes": 42118,
+      "sha256": "57c1a7b9c0a55f151fdfe4bf1ebe02386417c89f93c97e01a2b47821f55e1978"
+    },
+    {
+      "key": "lpb-issy",
+      "url": "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/",
+      "final_url": "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/",
+      "status": 200,
+      "bytes": 246873,
+      "sha256": "c625d4b16689718f2ee182f0805bbac732231256f29830e9ba51af357fb89c5f"
+    },
+    {
+      "key": "samiad-home",
+      "url": "https://www.samiad.com/",
+      "final_url": "https://www.samiad.com/",
+      "status": 200,
+      "bytes": 577712,
+      "sha256": "30e70327e543906106c79355a86c6e298179d03583a1df91c1a781a65b825b19"
+    },
+    {
+      "key": "ecolint-find",
+      "url": "https://www.ecolint-camps.ch/en/find-camp?f%5B0%5D=age%3A3&f%5B1%5D=age%3A6&f%5B2%5D=location%3A3&page=1&tid_1=3",
+      "final_url": "https://www.ecolint-camps.ch/en/find-camp?f%5B0%5D=age%3A3&f%5B1%5D=age%3A6&f%5B2%5D=location%3A3&page=1&tid_1=3",
+      "status": 200,
+      "bytes": 49895,
+      "sha256": "b2c049544edc60f1339cda03b4df01083f7c5125860e7fe5582dd9049506e990"
+    },
+    {
+      "key": "montana-pdf",
+      "url": "https://www.montana-zug.ch/hubfs/Summer%20Camp%20Presentation%202026.pdf",
+      "final_url": "https://www.montana-zug.ch/hubfs/Summer%20Camp%20Presentation%202026.pdf",
+      "status": 200,
+      "bytes": 4126267,
+      "sha256": "6387be57c26b534dbd61f741023eafa3b26ce967231f4ff8bb02c7be4db71843"
+    },
+    {
+      "key": "lpb-calendar",
+      "url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/Calendrier-IDF-Organisation-stages-vacances-2026-2027-v300926-Google-Sheets.pdf",
+      "final_url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/Calendrier-IDF-Organisation-stages-vacances-2026-2027-v300926-Google-Sheets.pdf",
+      "status": 200,
+      "bytes": 248462,
+      "sha256": "9a3abe5a54e201108266c76472ffa145c8aaa1856c6c0ba0c144e20f01001930"
+    },
+    {
+      "key": "lpb-movers",
+      "url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Movers-October-2026-Four-Days.pdf",
+      "final_url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Movers-October-2026-Four-Days.pdf",
+      "status": 200,
+      "bytes": 243351,
+      "sha256": "9b6bff1c8d31010a277487ec5b986be35a12cff2adb4bbdda8f5cd8bb149a58f"
+    },
+    {
+      "key": "lpb-juniors",
+      "url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Juniors-October-2026-Four-Days.pdf",
+      "final_url": "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Juniors-October-2026-Four-Days.pdf",
+      "status": 200,
+      "bytes": 262274,
+      "sha256": "2fa01d6f4e8035a66659ae6399bc350fba76d9a4131bf43cf805b99802ec6629"
+    },
+    {
+      "key": "samiad-robotics",
+      "url": "https://www.samiad.com/?page_id=3233",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "samiad-faq",
+      "url": "https://www.samiad.com/faqs/",
+      "final_url": "https://www.samiad.com/faqs/",
+      "status": 200,
+      "bytes": 492153,
+      "sha256": "56b5c2f3f60945c0955a5d81ab58b15866fef6fb211f16f8817f436618e6324c"
+    },
+    {
+      "key": "stgeorge-winter",
+      "url": "https://www.stgeorges.ch/camps/winter-camp",
+      "final_url": "https://www.stgeorges.ch/camps/winter-camp",
+      "status": 200,
+      "bytes": 138534,
+      "sha256": "c2df69bf0dc21247c9c0249382a936a4b582fec71d79de187811beaa84ddc452"
+    },
+    {
+      "key": "stgeorge-summer",
+      "url": "https://www.stgeorges.ch/camps/summer-camps",
+      "final_url": "https://www.stgeorges.ch/camps/summer-camps",
+      "status": 200,
+      "bytes": 1905,
+      "sha256": "0b7da601effddf11e78230a9218428dab29a3913bb8e57fbd5b15b3eb89a8e44"
+    },
+    {
+      "key": "ecolint-all",
+      "url": "https://www.ecolint-camps.ch/en/find-camp",
+      "final_url": "https://www.ecolint-camps.ch/en/find-camp",
+      "status": 200,
+      "bytes": 71400,
+      "sha256": "c81a2d5c1f3702b71c462a3a560d4c40915b7a21361492dfa40ef012e2368bf6"
+    },
+    {
+      "key": "ecolint-about",
+      "url": "https://www.ecolint-camps.ch/en/our-camps",
+      "final_url": "https://www.ecolint-camps.ch/en/our-camps",
+      "status": 200,
+      "bytes": 34780,
+      "sha256": "f46eef2e8d220a650b42362147cafd184062ea73daf942187cb6eeabdd182f47"
+    },
+    {
+      "key": "ecolint-p2",
+      "url": "https://www.ecolint-camps.ch/en/find-camp?page=1",
+      "final_url": "https://www.ecolint-camps.ch/en/find-camp?page=1",
+      "status": 200,
+      "bytes": 71846,
+      "sha256": "1e104016679b77146bc6c8c93865764ef3d72a80d3959cf0905fb8423c045a27"
+    },
+    {
+      "key": "ecolint-p3",
+      "url": "https://www.ecolint-camps.ch/en/find-camp?page=2",
+      "final_url": "https://www.ecolint-camps.ch/en/find-camp?page=2",
+      "status": 200,
+      "bytes": 70974,
+      "sha256": "b9bfcafaa35c7050e04b6f19099779f50fa191f200e14bad8e18f633bc5bc1f7"
+    },
+    {
+      "key": "ecolint-terms",
+      "url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+      "final_url": "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+      "status": 200,
+      "bytes": 138543,
+      "sha256": "72e2861d121635c1997d875ca101fee310f6f8254dc5b99d9cbfda5564a70df3"
+    },
+    {
+      "key": "samiad-multi",
+      "url": "https://www.samiad.com/programmes/multi-activity/",
+      "final_url": "https://www.samiad.com/programmes/multi-activity/",
+      "status": 200,
+      "bytes": 509593,
+      "sha256": "809c2cdd26ddec2fcdc3e5363cddd41d97d6022c532d003c5676b9144b48ce5f"
+    },
+    {
+      "key": "samiad-programmes",
+      "url": "https://www.samiad.com/programmes/",
+      "final_url": "https://www.samiad.com/programmes/",
+      "status": 200,
+      "bytes": 546848,
+      "sha256": "aca85cf66698d95f88ab8ca81fe87c2f2cb014a1c315b0ef552fcd200fae188a"
+    },
+    {
+      "key": "samiad-terms",
+      "url": "https://www.samiad.com/terms-and-conditions/",
+      "final_url": "https://www.samiad.com/terms-and-conditions/",
+      "status": 200,
+      "bytes": 485852,
+      "sha256": "63193eb6cc13494f178d45ba0a57516ceec8c0201afd42607a88ee14eaf80364"
+    },
+    {
+      "key": "samiad-oratory",
+      "url": "https://www.samiad.com/the-oratory-school/",
+      "final_url": "https://www.samiad.com/the-oratory-school/",
+      "status": 200,
+      "bytes": 532860,
+      "sha256": "f01a656e5cb66b1ba077d3f2af7c81a5e98895b8469ee9aecde22ecd5334f3b4"
+    },
+    {
+      "key": "samiad-rgs",
+      "url": "https://www.samiad.com/rgs-surrey-hills/",
+      "final_url": "https://www.samiad.com/rgs-surrey-hills/",
+      "status": 200,
+      "bytes": 523965,
+      "sha256": "e46754a6e0bd5dbabc10bc57c7731785bb31156e43c713b1dff45fffe19153c5"
+    },
+    {
+      "key": "lpb-terms",
+      "url": "https://www.lespetitsbilingues.com/conditions-generales-de-ventes/",
+      "final_url": "https://www.lespetitsbilingues.com/conditions-generales-de-ventes/",
+      "status": 200,
+      "bytes": 251380,
+      "sha256": "c2c76ecdfaf87a26d954860e917b3e0e2d52a86044e3a692f5a17234864141df"
+    },
+    {
+      "key": "madrid-chess2027",
+      "url": "https://ajedrezblancoynegro.com/event/campamento-de-verano-piscina-2027/",
+      "final_url": "https://ajedrezblancoynegro.com/event/campamento-de-verano-piscina-2027/",
+      "status": 200,
+      "bytes": 177310,
+      "sha256": "69e4e47358bf9baf783696dee026cd5e30b28a49765615eec312c76cd5ced3bd"
+    },
+    {
+      "key": "ecolint-robot",
+      "url": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10?v=5416",
+      "final_url": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10?v=5416",
+      "status": 200,
+      "bytes": 31120,
+      "sha256": "7c0773f6bdea24c87f82fa5d80c416529c443068544ee518fb0c5ce0e30bf641"
+    },
+    {
+      "key": "ecolint-science",
+      "url": "https://www.ecolint-camps.ch/en/camps/science-15?v=5431",
+      "final_url": "https://www.ecolint-camps.ch/en/camps/science-15?v=5431",
+      "status": 200,
+      "bytes": 30790,
+      "sha256": "ec1a2bd2f3ebe06c0f3b633469fe91b0279d1c7bd282a7067e1110a4fbc9e91d"
+    },
+    {
+      "key": "ecolint-film",
+      "url": "https://www.ecolint-camps.ch/en/camps/film-making-photo-13?v=5407",
+      "final_url": "https://www.ecolint-camps.ch/en/camps/film-making-photo-13?v=5407",
+      "status": 200,
+      "bytes": 30775,
+      "sha256": "29871f249e62938d44387943b7eadda3d5739ad6c934b9afc7c8fe13da804105"
+    },
+    {
+      "key": "ecolint-multi",
+      "url": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-31?v=5437",
+      "final_url": "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-31?v=5437",
+      "status": 200,
+      "bytes": 30948,
+      "sha256": "f8a409452b798ead1d5238ccc84d68b2069b6277dcccfd4b893d690644275443"
+    },
+    {
+      "key": "madrid-manga",
+      "url": "https://ajedrezblancoynegro.com/campamento-comic-manga-anime-madrid-2027/",
+      "final_url": "https://ajedrezblancoynegro.com/campamento-comic-manga-anime-madrid-2027/",
+      "status": 200,
+      "bytes": 162010,
+      "sha256": "826dba39af7de60b7782498b0c3cea397bc63e223b2683de6c5cc2220d601248"
+    },
+    {
+      "key": "madrid-main",
+      "url": "https://www.campamentodeajedrez.com/",
+      "final_url": "https://www.campamentodeajedrez.com/",
+      "status": 200,
+      "bytes": 72834,
+      "sha256": "e1d68a86ac87963d20efad6e89141dc90fb452b599d27b05cefbc30fd9b0cf7c"
+    },
+    {
+      "key": "funtech-dates",
+      "url": "https://funtech.co.uk/camps/dates",
+      "final_url": "https://funtech.co.uk/camps/dates",
+      "status": 200,
+      "bytes": 69296,
+      "sha256": "e69eb9b4f2e64b19672b17f18d2a7878f9fc2b5d440536f47119a1aa34fafd0d"
+    },
+    {
+      "key": "funtech-faq",
+      "url": "https://funtech.co.uk/faqs",
+      "final_url": "https://funtech.co.uk/faqs",
+      "status": 200,
+      "bytes": 56403,
+      "sha256": "965222d116b630088f574e4ae233646a0410d289592f4c1a019fbe2dcf6d3272"
+    },
+    {
+      "key": "funtech-residential",
+      "url": "https://funtech.co.uk/residential-kids-coding-camps",
+      "final_url": "https://funtech.co.uk/residential-kids-coding-camps",
+      "status": 200,
+      "bytes": 58421,
+      "sha256": "98e8f53a93e8689f6c83e73c0e2fa7491dacee87f86d9aa106cf0e40dd507dfa"
+    },
+    {
+      "key": "funtech-mod-virtual",
+      "url": "https://funtech.co.uk/virtual_camp_types/v2/minecraft-with-mods",
+      "final_url": "https://funtech.co.uk/virtual_camp_types/v2/minecraft-with-mods",
+      "status": 200,
+      "bytes": 98153,
+      "sha256": "582dc0411793120068da3c0ec182800858443c24561360aace48b54f3b202e93"
+    },
+    {
+      "key": "funtech-red-virtual",
+      "url": "https://funtech.co.uk/virtual_camp_types/v2/minecraft-redstone",
+      "final_url": "https://funtech.co.uk/virtual_camp_types/v2/minecraft-redstone",
+      "status": 200,
+      "bytes": 97575,
+      "sha256": "1351a0367249efbf81aa57a2a945bdcc41ca19698e486e3e993282ab27c95aed"
+    },
+    {
+      "key": "funtech-mod-day",
+      "url": "https://funtech.co.uk/camp_types/v2/minecraft-with-mods",
+      "final_url": "https://funtech.co.uk/camp_types/v2/minecraft-with-mods",
+      "status": 200,
+      "bytes": 89271,
+      "sha256": "5e4b9b63c8471fae8acaa9cad4d21476ca4e5e35cdc45cb8bdeec3100cbe32a3"
+    },
+    {
+      "key": "funtech-red-day",
+      "url": "https://funtech.co.uk/camp_types/view/minecraft-redstone",
+      "final_url": "https://funtech.co.uk/camp_types/v2/minecraft-redstone",
+      "status": 200,
+      "bytes": 89557,
+      "sha256": "1b0ea08cc2c0e2dcc96e1e11e68b90ffd7688ce7b628ac88bd1b80b8fec779f5"
+    },
+    {
+      "key": "stgeorge-old-terms",
+      "url": "https://www.stgeorges.ch/sites/school76/files/2023-05/St-Georges-Summer-Camp-TCs-002.pdf",
+      "final_url": "https://www.stgeorges.ch/sites/school76/files/2023-05/St-Georges-Summer-Camp-TCs-002.pdf",
+      "status": 200,
+      "bytes": 153231,
+      "sha256": "edd230a672b4c249435dfe7a65660f04b75e891def9eee808c428f5d1ec5a887"
+    },
+    {
+      "key": "funtech-terms",
+      "url": "https://funtech.co.uk/terms/holiday-camps",
+      "final_url": "https://funtech.co.uk/terms/holiday-camps",
+      "status": 200,
+      "bytes": 50393,
+      "sha256": "90e79898f5ee50e8632e7fe30cfbbfc7551d00bcde3a5cb58777e8de4e265d6c"
+    },
+    {
+      "key": "ecolint-home",
+      "url": "https://www.ecolint-camps.ch/en",
+      "final_url": "https://www.ecolint-camps.ch/en",
+      "status": 200,
+      "bytes": 52306,
+      "sha256": "fe773e2fca2ae265c58c88ba9e69b60919cc3bb576fa8d079c5e9a1fb4ac2a02"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://ajedrezblancoynegro.com/campamento-comic-manga-anime-madrid-2027/",
+    "https://ajedrezblancoynegro.com/event/campamento-de-verano-piscina-2027/",
+    "https://funtech.co.uk/camp_types/v2/minecraft-with-mods",
+    "https://funtech.co.uk/camp_types/view/minecraft-redstone",
+    "https://funtech.co.uk/camps/dates",
+    "https://funtech.co.uk/faqs",
+    "https://funtech.co.uk/residential-kids-coding-camps",
+    "https://funtech.co.uk/terms/holiday-camps",
+    "https://www.ecolint-camps.ch/en",
+    "https://www.ecolint-camps.ch/en/camps/film-making-photo-13?v=5407",
+    "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10?v=5416",
+    "https://www.ecolint-camps.ch/en/camps/multi-activity-half-day-31?v=5437",
+    "https://www.ecolint-camps.ch/en/camps/science-15?v=5431",
+    "https://www.ecolint-camps.ch/en/our-camps",
+    "https://www.ecolint-camps.ch/sites/camps/files/assets/10-general/cgv-camps.pdf",
+    "https://www.lespetitsbilingues.com/conditions-generales-de-ventes/",
+    "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/",
+    "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/Calendrier-IDF-Organisation-stages-vacances-2026-2027-v300926-Google-Sheets.pdf",
+    "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Juniors-October-2026-Four-Days.pdf",
+    "https://www.lespetitsbilingues.com/wp-content/uploads/2026/09/POSTER-Stage-Movers-October-2026-Four-Days.pdf",
+    "https://www.montana-zug.ch/hubfs/Summer%20Camp%20Presentation%202026.pdf",
+    "https://www.samiad.com/",
+    "https://www.samiad.com/faqs/",
+    "https://www.samiad.com/programmes/multi-activity/",
+    "https://www.samiad.com/rgs-surrey-hills/",
+    "https://www.samiad.com/terms-and-conditions/",
+    "https://www.samiad.com/the-oratory-school/",
+    "https://www.stgeorges.ch/camps/winter-camp",
+    "https://www.stgeorges.ch/sites/school76/files/2023-05/St-Georges-Summer-Camp-TCs-002.pdf"
+  ],
+  "local_evidence": [
+    {
+      "evidence_file": "montana-price-05.png",
+      "local_research_only": true,
+      "bytes": 139619,
+      "sha256": "64c756030cf3c2ba4c9864698ad92ab9d5c12f2efc1d4b1a0a73adbc4344e0e5",
+      "method": "Poppler rendering visually read:2/3weeks day/boarding prices and2027date;filename2026 notseasonproof"
+    },
+    {
+      "evidence_file": "lpb-calendar-render-1.png",
+      "local_research_only": true,
+      "bytes": 209222,
+      "sha256": "7dc4e608a51b2dd998af0509311385407a4eaa318d5bd1e99bbfb4cb9ab81b76",
+      "method": "Poppler rendering visually read:IssyAM/PM,October5half-days259,December4half-days199,pack699/July2027expiry"
+    }
+  ],
+  "native_observations": [
+    {
+      "url": "https://www.montana-zug.ch/en/summer-camp",
+      "method": "Blank public form:minimum2weeks,Week1+2(4–17July2027)orWeek1+2+3(4–24July);no personalfieldsfilled/noagreementaccepted"
+    },
+    {
+      "url": "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/",
+      "method": "NativeAX:3–10years199EUR/4x3h;pack549/useby30Apr2027;100%English andIssy57bisGallieni. Conflictswithowncalendar retained"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "Private providerHTML/PDF/screenshots remain local; publicdata containfacts/links/hashes/uncertainty,not copiedproviderimages orchildrenphotos.",
+    "Programmewindows do not guaranteechosen sessions,places orforeignadmission;unknown2027rates remainunknown. Noautomaticcurrencyconversion.",
+    "Englishcamp-life/language-lessons/bilingual policy distinguishedfromcourse-specificEnglishinstruction;websiteEnglish notproof.",
+    "Editorialcountry/theme shortlist isnot independently verifiedworldranking;newdossiers maybelongtosameoperator."
+  ]
+}

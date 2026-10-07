@@ -1,0 +1,129 @@
+{
+  "asof": "2026-10-05",
+  "version": 86,
+  "status": "progress",
+  "scope": "Japan/Taiwan/Singapore primary programme/price/grade/language/format audit;Malaysia winter/spring2027 and AIentrepreneurship;Korea incomplete leads;all authorised regions/worldwide work active",
+  "new_dossiers": 18,
+  "operators_covered": 5,
+  "updated_dossiers": [],
+  "new_calendar_rows": 7,
+  "new_family_ics": 7,
+  "future_age_rows_excluded_from_family_ics": 0,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 505,
+  "countries_with_dossiers": 35,
+  "official_dossier_urls": 771,
+  "country_dossier_counts": {
+    "CHE": 78,
+    "FRA": 41,
+    "ESP": 43,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 29,
+    "SGP": 61,
+    "JPN": 28,
+    "KOR": 10,
+    "MYS": 4,
+    "USA": 44,
+    "CAN": 57,
+    "CRI": 10,
+    "MEX": 25,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "canadian-academy-summer-experience",
+    "canadian-academy-summer-discovery",
+    "canadian-academy-inspirit-ai",
+    "canadian-academy-ai-from-scratch",
+    "canadian-academy-ib-math-mastery",
+    "tais-junior-board",
+    "tais-junior-day",
+    "tais-teen-board",
+    "tais-teen-day",
+    "codinglab-sg-junior-partner",
+    "codinglab-sg-scratch-camp",
+    "codinglab-sg-app-camp",
+    "codinglab-sg-python-camp",
+    "graphite-sg-roblox-code-avengers",
+    "gep-winter-board",
+    "gep-winter-day",
+    "gep-spring-board",
+    "gep-wild-minds-board"
+  ],
+  "findings": [
+    {
+      "country": "Япония",
+      "iso": "JPN",
+      "provider": "v86 · Canadian Academy / Nishimachi: архив и школьный класс",
+      "detail": "У Canadian Academy прочитаны пять собственных программ 2026, цены/часы/классы и ограничение внешнего Pre-K. Аккаунт для 2027 не подтверждает даты 2027. Семейный Oyako de Ryugaku виден только в закрытом каталоге: полного плана/цены/жилья нет. Nishimachi Summer Explorers страница представляет форму оплаты с противоречивыми недатированными пакетами; год и учебный план не доказаны. Школьный пансион не равен пансиону лагеря.",
+      "next_action": "Новые первичные программы 2027, реальный класс/возраст модулей/язык, внешнее зачисление и полный семейный счёт.",
+      "url": "https://www.canacad.ac.jp/experiencing/summer"
+    },
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "v86 · TAIS 2027 / TYAS: предварительные формы и ограничения",
+      "detail": "TAIS junior форма 2027 8–11/G1–5 против архивного body 2026 8–12/G1–6; две/три недели NT35 000/58 000 предварительно, дат нет. Teen 12–17, пятницы домой, credit classes только своим; цена трёх недель «62,00» не исправлена на 62 000. Day для Puli/Yuchi, вегетарианская еда/нет матраса, foreign admission отдельно. TYAS own2026 AppsScript HTTP200 — только 34-символьный JS shell, возраст/цена/полный план не прочитаны.",
+      "next_action": "Окончательные расписания/договоры 2027, полный внешний/дневной/выходной приём, язык и техчасы; TYAS rendered programme. Формы только прочитаны, не отправлены.",
+      "url": "https://tais.tw/en/summer-camp/"
+    },
+    {
+      "country": "Сингапур / Япония",
+      "iso": "SGP",
+      "provider": "v86 · Coding Lab / Graphite / Minecraft Cup: курс, часы и официальный допуск",
+      "detail": "Coding Lab подтверждает holiday format, курсы и GST, но не язык преподавания; Junior partner-preschool-only. 12/21 часа пребывания не все часы кода. Graphite 23–25Nov/7–9Dec без года, подпись1,5ч против09:30–12. Coaching Minecraft Cup 2026 за SGD975,55 с GST — для собственных Coding Lab students7–18 с P102/P202+P206/S112 и обязательной подготовкой; не обычный лагерь. Страница тренера считает возраст на1Apr2026, официальный PDF 8-го Cup — на1Apr2027 и допускает дошкольников в junior/1–40 человек. Официальный конкурс организует Digital Manufacturing Council, а не один Microsoft; entry2026 уже завершился7Sep. Соревнование имеет overseas block; язык/защита для иностранной команды требуют проверки. Результаты тренера за2019–25 пока самозаявление, не независимый рейтинг.",
+      "next_action": "Подтвердить язык новых camps, даты/прайс/иностранцев; отдельная проверка official2027 Minecraft Cup, перевод/защита, международный доступ и результатов/школ, без переноса prerequisites тренера на официальный допуск.",
+      "url": "https://mccup.jp/pdf/minecraftcup_guidelines_2026.pdf"
+    },
+    {
+      "country": "Южная Корея",
+      "iso": "KOR",
+      "provider": "v86 · Chadwick Songdo / Rayul Jeju / NLCS / Branksome: недостаточные документы",
+      "detail": "Chadwick Songdo ownpage перечисляет чтение, robots/game design сPre-K, но не актуальную смену/цену/возрастной потолок/язык/внешний приём. Американский Chadwick School — другой оператор/кампус, его тариф не переносится. Rayul calendar2026–27 помечает Spring29Mar–2Apr и Summer5–30Jul2027; homepage English-life не доказывает открытый camp visitor admission. ECAnews URL404 сохранён. Branksome2017 brochure и Weebly2019 не программа2027; NLCS current schoolhandbook не внешний летний camp.",
+      "next_action": "Текущие отдельные camp brochures, полный curriculum/age/price/English, иностранный допуск, выходные/boarding. Эти школы пока не добавлены как проверенные смены2027.",
+      "url": "https://www.chadwickinternational.org/student-life/summer-programs"
+    },
+    {
+      "country": "Малайзия",
+      "iso": "MYS",
+      "provider": "v86 · GEP / Epsom: официальный календарь, опекун и год договора",
+      "detail": "Winter9–14 Jan10–22/Jan22–Feb3/combined25days2027: RM10 000/20 000boarding vsRM9 100/18 200day. Spring9–16 Mar26–Apr2 RM7 326; laptop required против общих ограничений устройств. Договормая2026 требует местного guardian/3h, при услугеRM800/day. RM2 000security относитсяBSS, неавтоматическивсем camps. Cancellation >60businessdays RM1 000, позже conditionalcredit, послеstartnone; force majeure credit1year, не cashrefund. Wild11–17/B1 с internalairfare, международныеflightsexcluded,2026soldout. Current downloadbrochure2026, product brochureplaceholderнеполучен; неназначенные2027Wildcohortsнесозданы.",
+      "next_action": "Новый договор/полная смета2027, guardian для временно живущих родителей, часы техники/ENуровень/устройства/transfer/availability; школа Bandar Enstek по своему contactpage.",
+      "url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf"
+    }
+  ],
+  "calendar": {
+    "events": 2966,
+    "learning_records": 1635,
+    "family_ics": 2240,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1172,
+    "reused_legacy_events": 69,
+    "season_windows": 35
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "All2959 previous events and487 complete dossier records/IDs preserved;18 new programme/format dossiers across5 operators/4 countries, not18 independently ranked camps. Korean/TYAS/Nishimachi incomplete leads retained as gaps, not verified2027 cohorts.",
+    "CanadianAcademy5 own2026 programme pages: ExperiencePreK–G6/VEX elective/English communication/JPY75000week140000fortnight+3500registration;DiscoveryPreK–G12/no language requirement/PreKownstudents only/118000+8000lunch+3500registration. Two-child sums independently checked. Schoolboarding not inherited by summerdaycourses.",
+    "CAInspiritAI G6–12 USD1200;JapaneseAIFromScratch G8–12 JPY60000 with explicitENtranslation, not childrenScratch. IBMathG9–11/G10–11 and3.5teachinghours/day. Birthyears2017/2020 do not establish schoolgrades; grade-limited eligibility unknown until actualgrade supplied. No2027 dates guessed from account pre-registration.",
+    "TAIS own2027 forms read without submission:junior8–11/G1–5,2or3weeks35000/58000NTD preliminary+2000deposit,no dates;2026body8–12/G1–6 retained. Teen12–17 provisional1week25000/2week48000/4week70000,3week62,00 typo not silently repaired. TeenFridayhome not continuous7-dayboarding;dayPuli/Yuchi,vegetarianmeals/ownmattress,creditclassownstudents.",
+    "CodingLab course-specific GST/format/equipment/ratio verified:Scratch474.15/528.65/921.05;App/Python512.30/866.55/942.85SGD.10/17.5learningformat vs12/21fulldaypresence not all codinghours. Juniorpartnerpreschool-only;6yoScratchPrimary1 condition andPythonplacement alternative preserved. No Englishinstruction assumed from website language, no invented holidaycohorts.",
+    "Graphite Roblox6+ body:Nov23–25/Dec7–9 withoutyear,Septemberheading/comingsoon and1.5h vs09:30–12 conflict retained;noICS. Operatorclaims/participationcertificates/internalhackathons not internationalcompetition/results.",
+    "Minecraft official2026PDF independently read:DigitalManufacturingCouncil organiser,agecutoff1Apr2027/1–40juniorinclpreschool/overseasblock,Sep7entryclosed/finalFeb14,2027. CodingLabtrainingpackage975.55SGD GST/18coachinghours/ownstudents/prereqs and cutoff1Apr2026 differ;not officialentryrestriction or futureopen camp. Historical awards remain operatorclaims pending primaryresults.",
+    "GEPWinter2027 independently parsed boarding10000/10000/20000 vsday9100/9100/18200RM,Jan10–22/Jan22–Feb3/combined25days. SpringMar26–Apr2,9–16,7326RM. Matveyagefits9minimum/Oscarbelow9;all7calendar/ICS additions currentfamilyconditional,day3 rows labelledwindow without invented weekdays.",
+    "GEPMay2026 contract guardian3hours/RM800dayconditional,60businessdaycancellation/RM1000,force-majeureyearcredit and BSS-specific2000deposit retained. Contract2027/currentfullinvoice not obtained. Springlaptop vsgenericdevicepolicy unresolved. EpsomownaddressBandarEnstek notKLcentre. WildMinds11–17/B1,soldout2026/9400RM/internalflightincluded/externalflightnotincluded;no2027cohorts.",
+    "ENtranslation is separate confirmed_support_languages;pureENinstruction filter excludes JAprimaryAIFromScratch,EN-support includes it;RUinstruction option restored. Concrete filter cases verified in Node, JavaScript syntax checked.",
+    "2966events/1635camp-learningrecords,505dossiers/35countries/771dossierURLs,111family scenarios,2240familyICS/104exhibitionICS.7newdatedrows/7ICS;all priorUID/dates preserved,SQLite/publicJSON agreement and bridgeidempotence.0 fullyauditedcountries;worldwidegoal and all priorityregions remain active."
+  ],
+  "next_priority": "Continue Switzerland/France/Spain/Europe,Taiwan/Singapore/Korea/Japan,USA/Canada/CostaRica/Mexico/LatinAmerica and remaining world:all top general/technical26–27 seasonal camps,day/boarding/family,realEN/ES/RU/secondarysupport,fullfees,ages/grades/foreignadmission;schools/results/routes/leagues/exhibitions remain in scope"
+}

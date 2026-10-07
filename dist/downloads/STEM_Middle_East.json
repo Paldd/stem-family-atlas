@@ -1,0 +1,428 @@
+{
+  "version": 43,
+  "checked": "2026-10-02",
+  "title": "ОАЭ, Оман, Катар и Саудовская Аравия: маршруты семьи",
+  "region_label": "БЛИЖНИЙ ВОСТОК · ЧЕТЫРЕ НАПРАВЛЕНИЯ",
+  "heading": "Школьный отбор, учебная проба и выставки.",
+  "family": "Матвей —2017, Оскар —2020 год рождения. Доступны английский, испанский и русский. Точные дни рождения и текущие классы неизвестны: возраст на дату и школьную ступень проверяем отдельно.",
+  "conclusion": "Для короткой пробы на английском я бы сначала проверил Fun Robotics в Дубае. Для младшей соревновательной практики обоих — WRO Kids в Омане, с отдельным Elementary для Матвея. SISD имеет прямо заявленный английский Primary STEAM, но текущая младшая роботокоманда требует проверки. Приоритетный маршрут Коста-Рика / Мексика сохранён.",
+  "countries": [
+    {
+      "iso": "ARE",
+      "name": "ОАЭ",
+      "verdict": "Учебная проба на английском и дневная школа",
+      "reason": "В Fun Robotics прямо заявлены технические программы на арабском и английском. Международные выставки полезны взрослым, право входа детей 6/9 уточняется.",
+      "mat": "Общий диапазон Fun Robotics6–16 подходит. Fun Club7–9 и 3D8+ описаны в старом блоке TERM2: нынешнюю группу сначала подтвердить. JIC определяется фактическим классом местной школы.",
+      "osc": "Общий диапазон Fun Robotics6–16 подходит; SPIKE Essential6–7 описан в старом блоке. Pure Minds4–6 — регулярный кандидат с не подтверждённым техническим языком.",
+      "camp": "La Folie12–16 октября: две сессии робототехники по 45 мин в смешанной смене. English у большинства сотрудников означает языковую поддержку; преподавание Robotics на EN отдельно. Летние 2026 смены других операторов — архив.",
+      "school": "SISD Primary6–11: английский STEAM-поток подтверждён прямо. Пансион с Grade6; мировой результат младшей роботокоманды не установлен.",
+      "city_route": "Дубай: Al Jaddaf для школьной пробы, Al-Wasl Centre для клуба. Абу-Даби: AI Everything6–7 октября 2026, детский вход неизвестен.",
+      "budget": "La Folie: AED2835 с VAT за двоих / полную неделю; робототехники 90 мин. Персональный школьный счёт SISD пока не получен.",
+      "results_check": "JIC требует школьной номинации; сертификат лагеря и предложение готовиться к FLL не доказывают мировой победы.",
+      "event_ids": [
+        "L387",
+        "L392",
+        "L393",
+        "L394",
+        "L395",
+        "C1078",
+        "C1079",
+        "C1080",
+        "C1088",
+        "E018",
+        "E173",
+        "E174",
+        "E176",
+        "L039",
+        "L040",
+        "L388",
+        "L389",
+        "L390",
+        "L391"
+      ],
+      "profile_ids": [
+        "jic-uae"
+      ],
+      "school_ids": [
+        "S043"
+      ],
+      "risk": "Место, класс, язык конкретного потока и право иностранной национальной квоты ещё проверяются. Маркетинговое название STEM и наличие лаборатории не доказывают мировой рейтинг школы."
+    },
+    {
+      "iso": "OMN",
+      "name": "Оман",
+      "verdict": "WRO Kids для обоих; мировой отбор отдельно",
+      "reason": "Местный Kids6–9 подходит по возрасту обоим. Матвей отдельно рассматривает Elementary8–12; следующий сезон и иностранный национальный допуск неизвестны.",
+      "mat": "RoboMission / Future Innovators Elementary8–12 либо местный Kids6–9. Для мировой квоты нужны подтверждённые национальные условия.",
+      "osc": "Kids6–9 — местная практика. Эта категория прямо не является официальной международной и не имеет пути в World Final; Elementary2026 слишком рано.",
+      "camp": "Будущая датированная смена с подтверждённым техническим EN / ES в этом проходе не установлена.",
+      "school": "Cheltenham Muscat приняла National2026. Победа FI Junior относится к Grade9; младший наставник, нынешняя Elementary-команда и язык обучения требуют проверки.",
+      "city_route": "Маскат: пробное занятие у младшего наставника и визит в школу. Сезон 2027 планировать после выхода национального пакета.",
+      "budget": "WRO2026: OMR10 за участника; будущий взнос неизвестен. Школьный пример Grade1+4: OMR10530 tuition, если классы подтвердятся; тарифный год и дополнения отдельно.",
+      "results_check": "TriAxis — первое FI Junior; ABA DigiBulls — первое Elementary на National2026. Источник сообщает мировую квалификацию, а не мировой титул.",
+      "event_ids": [
+        "C1081",
+        "C1082",
+        "C1083"
+      ],
+      "profile_ids": [
+        "wro-oman"
+      ],
+      "school_ids": [
+        "S042"
+      ],
+      "risk": "Место, класс, язык конкретного потока и право иностранной национальной квоты ещё проверяются. Маркетинговое название STEM и наличие лаборатории не доказывают мировой рейтинг школы."
+    },
+    {
+      "iso": "QAT",
+      "name": "Катар",
+      "verdict": "Сначала школа и состав команды",
+      "reason": "Explore / Discovery / FLL требуют, чтобы не менее половины команды были катарцами. Технический PDF уточняет числовые возрасты других категорий.",
+      "mat": "VEX IQ8–14; Sumo9–12; Line8–12; Ball8–13. Explore зависит от Grade2–6; FLL — от исполненных 9 лет на дату и школьного состава.",
+      "osc": "Discovery возможен при KG / Grade1 и катарском составе. Explore — только с Grade2. Beginner технических турниров начинается с 8 или 9; Innovation с 10.",
+      "camp": "Будущий технический EN / ES-лагерь и приём туристической семьи в этом проходе не подтверждены.",
+      "school": "Проверен канал Qatar Scientific Club, но отдельное досье постоянной школы с младшим мировым результатом пока не установлено.",
+      "city_route": "Доха: сначала класс, школа и национальный допуск. Web Summit31 января–3 февраля 2027 — местный FAQ18+; детское исключение неизвестно.",
+      "budget": "Национальные взносы, текущие билеты и школьная смета семье не установлены.",
+      "results_check": "Обзор категорий не является протоколом результатов. PDF уточняет возраст и платформы; право мировой квоты требует отдельного подтверждения.",
+      "event_ids": [
+        "C1069",
+        "C1070",
+        "C1071",
+        "C1072",
+        "C1073",
+        "C1074",
+        "C1075",
+        "C1076",
+        "C1077",
+        "E175"
+      ],
+      "profile_ids": [
+        "qatar-robotics-ai"
+      ],
+      "school_ids": [],
+      "risk": "Место, класс, язык конкретного потока и право иностранной национальной квоты ещё проверяются. Маркетинговое название STEM и наличие лаборатории не доказывают мировой рейтинг школы."
+    },
+    {
+      "iso": "SAU",
+      "name": "Саудовская Аравия",
+      "verdict": "Будущий Elementary Матвею; LEAP взрослым",
+      "reason": "Mawhiba описывает национальный путь WRO. Набор 2026 закрыт, иностранная квота не установлена.",
+      "mat": "Elementary8–12 подходит по возрасту. Физические категории:2 ученика + coach; местная виртуальная:1+coach. Следующий набор и иностранный допуск отдельно.",
+      "osc": "В найденных WRO категориях минимум 8 лет; младший технический EN / ES-поток в этом проходе не подтверждён.",
+      "camp": "Будущий подходящий EN / ES-лагерь для обоих не установлен.",
+      "school": "Ранее добавленное досье Misk сохранено. Новый школьный кандидат с подтверждённой младшей мировой победой в этом проходе не найден.",
+      "city_route": "Следующий национальный пакет после анонса. LEAP12–15 апреля 2027, RECC Malham: последнее опубликованное правило 18+.",
+      "budget": "Новый взнос WRO, школьное место и билет LEAP семье не подтверждены.",
+      "results_check": "Местные Sumo / Virtual и университетская ветка не представлены как младшие дисциплины World Final. Национальный результат не означает мировой титул.",
+      "event_ids": [
+        "C1084",
+        "C1085",
+        "C1086",
+        "C1087",
+        "E108"
+      ],
+      "profile_ids": [
+        "wro-saudi"
+      ],
+      "school_ids": [
+        "S021"
+      ],
+      "risk": "Место, класс, язык конкретного потока и право иностранной национальной квоты ещё проверяются. Маркетинговое название STEM и наличие лаборатории не доказывают мировой рейтинг школы."
+    }
+  ],
+  "shortlist": [
+    {
+      "title": "Двое детей: проба технического английского",
+      "detail": "Fun Robotics: текущий TERM1 предлагает Arabic / English для 6–16. Старые часы TERM2 не использованы как текущая запись. Согласовать две группы и сложность после трёх лет опыта.",
+      "event_ids": [
+        "L387"
+      ]
+    },
+    {
+      "title": "Проверить реальную долю робототехники",
+      "detail": "La Folie × HandPrint12–16 октября 2026: две сессии по 45 мин в смешанной неделе. English сотрудников — поддержка; язык конкретного технического занятия отдельно.",
+      "event_ids": [
+        "L392"
+      ]
+    },
+    {
+      "title": "Крупные площадки и детский допуск",
+      "detail": "AI Abu Dhabi6–7 октября; GITEX8–11 и Expand North Star8–10 декабря. Вход 6/9 не установлен. Web Summit Qatar имеет местное правило 18+, LEAP — опубликованный запрет детям. Museum of the Future — семейная альтернатива.",
+      "event_ids": [
+        "E174",
+        "E018",
+        "E173",
+        "E175",
+        "E108",
+        "E176"
+      ]
+    }
+  ],
+  "evidence_cards": [
+    {
+      "title": "Катар: PDF уточняет общее слово Primary",
+      "detail": "Поправки 2026: стр.51 — Sumo9–12; стр.89 — Line8–12 и mBot; стр.69 — Ball8–13; стр.43 — Innovation10–14. Братья пока не проходят в одну техническую команду.",
+      "limit": "Пакет следующего сезона и иностранный школьный допуск неизвестны. Discovery / Explore имеют отдельные правила классов и катарского состава.",
+      "event_ids": [
+        "C1073",
+        "C1074",
+        "C1075",
+        "C1076",
+        "C1070"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://robotics.qa/wp-content/uploads/2025/10/Qatara-robotics-AI-18.pdf",
+        "https://robotics.qa/competition/"
+      ]
+    },
+    {
+      "title": "Оман: национальная победа и мировая квалификация",
+      "detail": "TriAxis Cheltenham Grade9 — первое FI Junior; ABA DigiBulls — первое Elementary на National2026. Источник — отчёт принимающей школы; это национальные результаты.",
+      "limit": "World2026 qualification не равна мировой победе. Kids6–9 не ведёт в World Final; иностранная квота неизвестна.",
+      "event_ids": [
+        "C1081",
+        "C1082",
+        "C1083"
+      ],
+      "school_ids": [
+        "S042"
+      ],
+      "source_urls": [
+        "https://cheltenhammuscat.com/school-news/world-robot-olympiad-oman-2026/",
+        "https://roboticktick.com/media/wro/session/guide/WRO2026_OMAN_National_Competition.pdf"
+      ]
+    },
+    {
+      "title": "Английская школа и роботокоманда — две проверки",
+      "detail": "SISD прямо предлагает английский Primary STEAM для 6–11, пансион с Grade6. JIC требует номинации школы UAE; приём 2026 закрыт.",
+      "limit": "Место, тариф и младший соревновательный наставник не подтверждены. IB PYP указан школой; призовой протокол не установлен.",
+      "event_ids": [
+        "C1078",
+        "C1079",
+        "C1080"
+      ],
+      "school_ids": [
+        "S043"
+      ],
+      "source_urls": [
+        "https://www.nordangliaeducation.com/sisd-dubai/academic-excellence/primary",
+        "https://www.nordangliaeducation.com/sisd-dubai/boarding/boarding-options",
+        "https://challengeon.atrc.ae/en/challenges/jic2026/agreements?lang=en"
+      ]
+    },
+    {
+      "title": "Катар: общий Youth Ticket не даёт местного допуска",
+      "detail": "Местный Venue FAQ говорит 18+. Общие Terms§5.1 допускают Youth4–17 условно; §5.1.3 оставляет решение организатору для каждого события, года и места.",
+      "limit": "Подтверждённого исключения Qatar2027 для детей 6/9 нет. Семейный календарь исключает эту запись; взрослый выставочный сохраняет дату.",
+      "event_ids": [
+        "E175",
+        "E108"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://qatar.websummit.com/essentials/venue/",
+        "https://qatar.websummit.com/terms-and-conditions/",
+        "https://onegiantleap.com/faq"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Начать с пробного уровня",
+      "detail": "После трёх лет соревнований проверить самостоятельное программирование, механику и журнал испытаний. Выбрать пробное занятие каждому ребёнку; уточнить сложность и реального наставника."
+    },
+    {
+      "title": "Проверить школу и команду отдельно",
+      "detail": "Класс, школьное место и английское обучение не гарантируют робототехнического наставника или соревновательный состав. У национального маршрута уточнить гражданство / резидентство, команду и страну представительства."
+    },
+    {
+      "title": "Выбрать конкретный выпуск, смену и билет",
+      "detail": "Даты лагеря 2026 не переносятся в 2027. Visitor / student badge не подтверждает вход детей 6/9. Установить правила нужного выпуска, затем планировать поездку."
+    }
+  ],
+  "limitations": "Это частичный проход четырёх стран. Бахрейн, Кувейт, Иордания, Израиль, Турция и другие страны региона, новые лагеря и полный школьный рейтинг за 5–10 лет ещё требуют проверки. Количество карточек не означает полный мировой охват.",
+  "sources": [
+    {
+      "title": "Первичный источник · ai_everything",
+      "url": "https://www.aieverythingabudhabi.com/home",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · ai_faq",
+      "url": "https://www.aieverythingabudhabi.com/faqs",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · cheltenham_curriculum",
+      "url": "https://cheltenhammuscat.com/curriculum/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · cheltenham_fees",
+      "url": "https://cheltenhammuscat.com/fees/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · cheltenham_results",
+      "url": "https://cheltenhammuscat.com/school-news/world-robot-olympiad-oman-2026/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · fun_term",
+      "url": "https://www.fun-robotics.com/term2/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · gitex",
+      "url": "https://www.gitex.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · gitex_terms",
+      "url": "https://www.gitex.com/terms-and-conditions",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · jic_brief",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · jic_faq",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/faq?lang=en",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · jic_rules",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/agreements?lang=en",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · jic_tasks",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/challenge-statement?lang=en",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · lafolie_camp",
+      "url": "https://lafolie.me/camps.html?location=handprint",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · leap",
+      "url": "https://onegiantleap.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · leap_faq",
+      "url": "https://onegiantleap.com/faq",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · museum_visit",
+      "url": "https://prod-origin.museumofthefuture.ae/en/plan-your-visit",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · northstar",
+      "url": "https://expandnorthstar.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · oman_guide",
+      "url": "https://roboticktick.com/media/wro/session/guide/WRO2026_OMAN_National_Competition.pdf",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · oman_season",
+      "url": "https://www.roboticktick.com/wro/season/11/2026",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · pma_hack",
+      "url": "https://puremindsacademy.com/pma-boeing-ai-hackathon-2026",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · pma_saturday",
+      "url": "https://puremindsacademy.com/stem-saturdays-in-dubai-weekend-classes-and-programs",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · pure_summer",
+      "url": "https://puremindsacademy.com/stem-for-kids-summer-camps-in-dubai",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · qatar_categories",
+      "url": "https://robotics.qa/competition/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · qatar_guide",
+      "url": "https://robotics.qa/wp-content/uploads/2025/10/Qatara-robotics-AI-18.pdf",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · qatar_venue",
+      "url": "https://qatar.websummit.com/essentials/venue/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · qatar_websummit",
+      "url": "https://qatar.websummit.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · qatar_websummit_terms",
+      "url": "https://qatar.websummit.com/terms-and-conditions/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · robogenz_camp",
+      "url": "https://www.robogenz.ae/summer-camp-s2",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · robogenz_events",
+      "url": "https://www.robogenz.ae/events",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · saudi_mawhiba",
+      "url": "https://app-prd-backend2-umbracoportal-uaenorth-gjd3amf6hhfkb2bh.uaenorth-01.azurewebsites.net/discover-mawhiba/competitions/world-robot-olympiad/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sisd_boarding",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/boarding/boarding-options",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sisd_facilities",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/campus/facilities",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · sisd_primary",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/academic-excellence/primary",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · uwr_faq",
+      "url": "https://summer.uwr.ae/faq",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · uwr_spring",
+      "url": "https://uniqueworldrobotics.com/course/future-tech-spring-camp-dubai-2026-ai-robotics-for-kids/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Первичный источник · uwr_summer",
+      "url": "https://summer.uwr.ae/",
+      "checked": "2026-10-02"
+    }
+  ]
+}

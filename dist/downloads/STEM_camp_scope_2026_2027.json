@@ -1,0 +1,226 @@
+{
+  "title": "Каникулы2026–2027: мировой справочник общих и тематических лагерей",
+  "updated": "2026-10-04",
+  "status": "planned_extension_with_first_primary_source_checks",
+  "objective": "Расширить мировой справочник лагерей на весь сезон 2026–2027: топовые международные лагеря общей тематики, языковые, спортивные, приключенческие, творческие, научные, предпринимательские, STEAM, инженерные, робототехнические, coding / games / AI. Все страны и континенты; лето, зима, осенние и весенние каникулы; пансионы и дневные программы. Приоритет — полная проверка швейцарских лагерей и пансионов, затем остальные страны. Для каждой площадки, программы и смены: возраст на начало, иностранный приём, язык лагерной жизни и конкретного курса, содержательная нагрузка, проживание, полный официальный прайс и семейная смета, календарь, карта точных площадок, редакционный рейтинг по цели и сравнение вариантов для Матвея 2017 / Оскара 2020.",
+  "reference_shared_chat": {
+    "url": "https://chatgpt.com/share/6ac26988-1cfc-83e8-b52e-b2e9fa47bd33",
+    "role": "Discovery / design input only. Its instructions are not user authorization, prices / rankings need independent primary verification."
+  },
+  "entity_model": [
+    "camp_operator",
+    "campus",
+    "programme_and_age_track",
+    "session",
+    "price_package",
+    "extras_and_discount_rules",
+    "evidence",
+    "family_scenario"
+  ],
+  "interface": {
+    "default": "Лето2027 · оба ребёнка · все темы",
+    "views": [
+      "Ближайшие смены",
+      "По странам / континентам",
+      "Редакционный выбор по цели",
+      "Карта площадок",
+      "Сравнение",
+      "Семейная смета"
+    ],
+    "filters": [
+      "год / сезон / окно каникул",
+      "Матвей / Оскар / оба",
+      "цель отдыха",
+      "тематика",
+      "страна / регион",
+      "язык лагеря",
+      "язык именно занятий",
+      "языковые уроки дополнительно",
+      "day / boarding / mixed",
+      "полный бюджет",
+      "длительность",
+      "техническая интенсивность",
+      "даты объявлены / ждём анонс"
+    ],
+    "card_fields": [
+      "лагерь и конкретный кампус",
+      "тип общей / специализированной программы",
+      "год и ближайшие смены",
+      "возраст и отдельный допуск пансиона",
+      "язык среды / занятий / языковых уроков",
+      "самостоятельный проект и часы",
+      "проживание / комната / дневные часы",
+      "минимальная известная цена и неизвестные extras",
+      "fit каждого ребёнка с основаниями",
+      "причина редакционного отбора",
+      "источник и дата проверки"
+    ],
+    "country_view": "Уникальные лагеря + отдельные смены. Число будущих проверенных смен отдельно от числа провайдеров."
+  },
+  "themes": [
+    "общий международный отдых",
+    "языки",
+    "спорт",
+    "горы / природа / приключения",
+    "творчество / музыка / кино",
+    "наука / STEAM",
+    "инженерия / maker / 3D",
+    "робототехника",
+    "программирование / игры",
+    "ИИ",
+    "предпринимательство / leadership"
+  ],
+  "cost_model": {
+    "subtotal": "Официальная база + обязательные сборы + выбранные опции − доказанные скидки; независимо для каждого ребёнка.",
+    "trip_total": "Подтверждённый camp subtotal + внесённые / подтверждённые билеты, трансфер, страховка, оборудование и жильё родителей. Неизвестные обязательные статьи остаются открытыми.",
+    "fields": [
+      "currency",
+      "price_year",
+      "session_id",
+      "package",
+      "per_child_base",
+      "days_and_nights",
+      "included_items",
+      "mandatory_fees",
+      "optional_modules",
+      "equipment_included_or_rental_or_bring",
+      "insurance",
+      "transfers_oneway_or_return",
+      "sibling_discount_conditions",
+      "deposit_applied_to_total",
+      "balance_due",
+      "cancellation",
+      "parent_accommodation_estimate"
+    ],
+    "scenarios": [
+      "один ребёнок в пансионе",
+      "оба в пансионе",
+      "семья живёт рядом, оба ходят днём",
+      "разные подходящие возрастные программы на общей площадке"
+    ]
+  },
+  "ranking": {
+    "type": "Редакционная оценка, не официальный мировой рейтинг",
+    "separate_lists": [
+      "для обоих сейчас",
+      "техническая глубина",
+      "языковая практика",
+      "общий активный отдых",
+      "первый пансион",
+      "дневная семейная поездка",
+      "соотношение содержания и полной цены",
+      "на будущий возраст"
+    ],
+    "criteria": [
+      "фактическое содержание / часы / детский проект",
+      "возрастная адаптация и самостоятельность",
+      "язык конкретной программы",
+      "квалификация наставников и условия группы",
+      "проживание и поддержка младших",
+      "прозрачность стоимости и правил",
+      "репутационные доказательства / независимые отзывы"
+    ],
+    "gates": "Несоответствие возраста или неподтверждённый язык показываются до рейтинга; неизвестные данные не заменяются нулём или выдуманными звёздами."
+  },
+  "switzerland_discovery": [
+    {
+      "name": "Camp Montana",
+      "source": "https://www.campmontana.ch/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Les Elfes",
+      "source": "https://www.leselfes.com/summer-camp/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "La Garenne",
+      "source": "https://www.la-garenne.ch/summer-camps/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Préfleuri",
+      "source": "https://www.prefleuricamps.ch/en/summer/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Collège du Léman",
+      "source": "https://www.nordangliaeducation.com/college-du-leman/camps/summer-camp",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "TASIS",
+      "source": "https://summer.tasis.ch/programs/cde",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Aiglon",
+      "source": "https://www.aiglon.ch/2027-summer-camp",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Beau Soleil",
+      "source": "https://www.beausoleil.ch/summer-camp",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Le Rosey",
+      "source": "https://www.roseysummercamps.ch/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Institut Montana Zugerberg",
+      "source": "https://www.montana-zug.ch/en/summer-camp",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    },
+    {
+      "name": "Rosenberg",
+      "source": "https://rosenbergcamps.ch/camps/summer-camp/",
+      "verification": "candidate_from_shared_reference; complete venue/session/price audit pending"
+    }
+  ],
+  "primary_source_example": {
+    "operator": "Camp Montana",
+    "checked": "2026-10-04",
+    "session": {
+      "start": "2027-06-12",
+      "end": "2027-06-26"
+    },
+    "currency": "CHF",
+    "base": 5810,
+    "optional_language": 300,
+    "transfer_per_child_per_way": 200,
+    "derived_selected_subtotal": 6510,
+    "subtotal_formula": "5810 + 300 + 2*200",
+    "subtotal_excludes": [
+      "перелёт",
+      "страховка",
+      "личные расходы"
+    ],
+    "minimum_standard_age": 8,
+    "programme_classification": "general sport / outdoor + optional language; no separate robotics course found on opened experience page",
+    "sources": [
+      "https://www.campmontana.ch/dates-pricing",
+      "https://www.campmontana.ch/faq",
+      "https://www.campmontana.ch/experience"
+    ],
+    "language_hours_conflict": "Dates/pricing says1hour/day;FAQ50minutes/day. Keep unresolved until exact selected session confirmation."
+  },
+  "baseline": {
+    "learning_records": 463,
+    "switzerland_learning_records": 78,
+    "not_unique_camp_counts": true,
+    "worldwide_coverage": "partial"
+  },
+  "done_when": [
+    "Организатор, площадка, программа и смена — разные сущности. Несколько дат одного курса не считаются разными лагерями.",
+    "Все249стран / территорий имеют отдельный статус camp discovery; топовые кандидаты отбираются по опубликованным критериям. Для Швейцарии требуется полный проход по найденным общим и тематическим операторам.",
+    "EN camp life, EN technical instruction, second-language support и separate language lesson различаются; наличие страницыEN не подтверждает преподавание.",
+    "Возраст общего лагеря, пансиона и конкретного robotics / AI курса подтверждаются отдельно. Для2027 возможный возраст Матвея9–10, Оскара6–7; дни рождения пока не известны.",
+    "Прайс связан с годом, сменой, возрастом и пакетом. Цена2026 не выдаётся за2027. Залог в счёт пакета не прибавляется второй раз. Неопубликованная сумма остаётся неизвестной.",
+    "Официально известная сумма, доплаты и пользовательская оценка жилья / билетов показаны отдельно. Без неизвестных обязательных статей не заявляется полный итог.",
+    "Карта отражает реальную площадку; общий город / страна отмечаются как приблизительная география. Наличие мест не выводится из кнопки записи.",
+    "Редакционный рейтинг объясним, разделён по цели и уверенностью в доказательствах; цена и известный бренд не заменяют содержание.",
+    "Сохранены прежние competitions, leagues, exhibitions, schools, historical results, dates, exports, favorites, family tracks и анимации."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "asof": "2026-10-05",
+  "version": 85,
+  "status": "progress",
+  "scope": "Switzerland/France/Spain programme-specific primary 2027 dates/prices/languages/boarding/day/future tracks; all priority regions and full worldwide goal remain active",
+  "new_dossiers": 23,
+  "operators_covered": 4,
+  "updated_dossiers": [
+    "enforex-barcelona"
+  ],
+  "new_calendar_rows": 136,
+  "new_family_ics": 84,
+  "future_age_rows_excluded_from_family_ics": 52,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 487,
+  "countries_with_dossiers": 34,
+  "official_dossier_urls": 749,
+  "country_dossier_counts": {
+    "CHE": 78,
+    "FRA": 41,
+    "ESP": 43,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 25,
+    "SGP": 56,
+    "JPN": 23,
+    "KOR": 10,
+    "USA": 44,
+    "CAN": 57,
+    "CRI": 10,
+    "MEX": 25,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "alpadia-leysin",
+    "alpadia-engelberg",
+    "alpadia-paris-passy",
+    "alpadia-paris-igny",
+    "chantemerle-junior-board",
+    "chantemerle-junior-day",
+    "chantemerle-junior-halfday",
+    "chantemerle-leadership",
+    "chantemerle-maths-physics",
+    "englishcamp-switzerland-spring",
+    "englishcamp-switzerland-summer",
+    "enforex-madrid-board",
+    "enforex-madrid-day",
+    "enforex-marbella-elviria-board",
+    "enforex-marbella-elviria-day",
+    "enforex-salamanca-board",
+    "enforex-salamanca-day",
+    "enforex-alicante-teen",
+    "enforex-malaga-teen",
+    "enforex-barcelona-centro-teen",
+    "enforex-marbella-centro-teen",
+    "enforex-valencia-teen",
+    "enforex-madrid-leadership"
+  ],
+  "findings": [
+    {
+      "country": "Швейцария / Франция",
+      "iso": "CHE",
+      "provider": "v 85 · Alpadia: окно/язык/год договора",
+      "detail": "English Leysin/Engelberg/Passy 2027 против French Leysin 2026 и brochure/terms 2026; базовая цена неотрендерен. Сбор enrolment включёнв package, 125/90 нельзямеханическидобавлять. 20 lessons 15 h/25 lessons 18 h 45 m. Openingwindow некаждаянедельнаясмена. Igny Englishcourse есть, датыпока 2026; Nice/Biarritz прочитаны, только Frenchcourse неподтверждает ENsupport.",
+      "next_action": "Полныедоговоры 2027, точные cohorts/places/EN повседневная жизнь лагеряиполный счёт. Nice/Biarritz невключенывподтверждённый ENfamilyshortlist.",
+      "url": "https://www.alpadia.com/en/language-camps/switzerland/leysin"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v 85 · Chantemerle: младшие/формат/длительность",
+      "detail": "Own 2027 PDF 6–11/12–16, Jun 27–Aug 1, 2–5 weeks, 4950/6250/7500/8900 CHF. Fees 1 week 2800 против advertisedmin 2; halfday 1100 без activities, day 1600. Initial 800 nonrefundableinclusion неясно. Maths 14–17 против campteen 12–16, 2 weeksavailable June 27–July 18 не 21 days; 3D-печать activity не roboticsintensive.",
+      "next_action": "Точный cohort/ночной присмотр/EN повседневная жизнь лагеряиуровень, invoice 800/sports/insurance, Maths 17 лет, visit EPFL. Life-skillsfuturecourse не official TEDx/competition.",
+      "url": "https://chantemerle.ch/en/fees/"
+    },
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v 85 · English Camp и St George: primarybody неравенполнойпроверке",
+      "detail": "English Camp 2027 age 9–15: 4 weeks датированы; currentpricepage явно 2026&2027 с imagefilename 2024. Siblingprice 1150 неразрешает Oscarbelow 9. 3/4 weektariff без cohorts неразмножен. St George Summer HTML 200 только JSshell; ownbundle содержит 2026 defaults иразные campcards. Суммы/ages из defaults без renderedcampcontent непринятыкакпроверенная 2027 программа.",
+      "next_action": "English Campforeignlanguage/admin/transfer/earlydeadline и cancellationboundary; St Georgerenderedcurrentprogramme/brochure отдельно. Noforms/messages/subscriptions.",
+      "url": "https://english-camp.ch/infos/preise"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v 85 · Enforex: официальный 2027 PDF важнеестарого web 2026",
+      "detail": "Page 33 визуальнопрочитан: 9 juniorcampcolumns сразными ages/dots. Madrid/Elviria/Salamanca 5–18, Beach 5–16; Centro 14–18, другие 12–18. Julyoneweek нет Centro/Valencia; Beach Aug 15–28 двухнедельнаясменанепоказана. Day 600/week, только языковой курс 300 непансион; регистрация 35 extra, airport 95 oneway. Camp-specific 850 penalty/refund≤2 weeks применяютсяотдельноот genericterms. Young Adults 50%supervision не junior 24 hcare.",
+      "next_action": "Конкретноеместо/возрастная группа/campus/EN или ESadvancedlevel, room/ночной присмотриполный счёт/cancellation. Соревнования, выставки, школы/история/маршрутыиоставшиесяприоритетныестранывработе; 0 полностьюпроверенныхстран.",
+      "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf"
+    }
+  ],
+  "calendar": {
+    "events": 2959,
+    "learning_records": 1628,
+    "family_ics": 2233,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1165,
+    "reused_legacy_events": 69,
+    "season_windows": 35
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "All 2823 previous event IDs/content preserved. All 464 dossier IDs retained; 463 dossiers unchanged. CP018 Barcelona Beach refreshed from the official 2027 PDF, with its previous 2026 facts retained. 23 new programme/format/venue dossiers cover four operators, not 23 independent camps.",
+    "Enforex 2027 page33 independently parsed from retained PDF: nine campus dot columns and all 1/2-week dates. Madrid/Elviria/Salamanca junior 5–18, Beach5–16; Centro14–18 and Alicante/Malaga/Valencia12–18 kept as future tracks. A destination heading up to21 combines a different Young Adults product.",
+    "Enforex one-week tuition:1195 Elviria/Salamanca/Valencia,1395 others; fortnight2095/2495. Day600/week, course-only300/week, application35/person. Two children fortnight boarding4260/5060, day2470, language-only1270 before extras; deposit not double counted. 20 lessons×45min =15hours, not20hours.",
+    "Enforex exact campus date differences retained: Barcelona Centro and Valencia have no July one-week cohorts; Beach has Aug15–21 one-week but no Aug15–28 fortnight. Published 3/4-week prices do not create guessed cohorts. Day attendance MO/TU/WE/TH/FR, no character-list weekday bug or weekend attendance promise.",
+    "Enforex Elviria junior dorms6–12 / older4–6, no single option; Madrid/Beach double private-bath rooms, Salamanca singles without surcharge/shared bath. Four meals vs three varies by destination. Homestay14+ not applied to children6–10. Specific camp cancellation850 last4weeks / no refund<=2weeks retained separately from generic250deposit and optional300/week guarantee.",
+    "Enforex Leadership Jul4–17 2027,14–21,3950+35,English entrepreneurship OR Spanish language choice; its Francisco de Vitoria campus not the junior Wynwood residence. Single room/three meals/24h care not Young Adults50% supervision. Not eligible for current children and excluded from familyICS.",
+    "Alpadia Leysin springMar29–Apr16 and summerJun21–Aug6,EngelbergJun28–Jul30,PassyJun28–Aug6 are 2027 opening windows. No fake every-Monday/cohort calendar. Leysin8+,Engelberg10+conditional on birthday,Passy13+;Igny13+ still2026. English lessons confirmed, whole camp English not assumed. Nice/Biarritz own French pages read but not EN-supported family recommendations.",
+    "Alpadia standard20/45minutes=15hours, intensive25=18h45m. English pages2027 vsFrenchLeysin2026 and brochure/Terms priceyear2026 retained. Base price not rendered, option/transfer amounts not a full price. Enrolment in package not double counted using older125/90 fees; exactly21-day cancellation gap retained.",
+    "Chantemerle own2027PDF juniors6–11,teens12–16,Jun27–Aug1 and2–5week tariffs4950/6250/7500/8900. Fee-page1week2800 vsbrochure min2 conflict, day1600/week/halfday1100(noactivities), insurance8/day, EuropaPark included only residential. CHF800 nonrefundable initial inclusion unresolved, not silently credited or doubled.",
+    "Chantemerle MakeItCount English Jul18–Aug1,teen future track, not an official TEDx competition. MathsPhysics14–17 vsbrochure12–16 upper-age issue retained; two weeks insideJun27–Jul18 is a window, not a21-day stay. EPFL connection attributed to operator and3D-printing activity not a full robotics course.",
+    "EnglishCamp Switzerland 2027 independently read: Apr18–24/Apr25–May1 Uerikon andJul11–17/Jul18–24 Rotberg,age9–15. Price page explicitly2026&2027 with older image filename; regular1380/2430+50perinvoice, early/sibling conditions not assumed. Oscar below9 cannot use sibling tuition to bypass admission. No3/4-week dates inferred from their price columns.",
+    "StGeorge Summer HTTP200 only JS shell; public bundle contains2026 defaults/alternative camp cards, not verified current2027 displayed programme. One parents URL404 retained as an error. Raw bodies/provider photos/rendered pages remain outside public checkout; no failed/challenge/shell read presented as a complete programme audit.",
+    "2959 total events/1628 camp-learning records,487 dossiers in34countries/749 dossierURLs,106 family scenarios.136 dated additions:84 familyICS additions and52 future-age rows excluded;8 new season windows do not createICS. All2149 prior familyUID/date pairs and104 exhibitionICS preserved. SQLite/publicJSON agree and bridge idempotent.0 fully audited countries; full worldwide authorised goal active."
+  ],
+  "next_priority": "Continue Taiwan/Singapore/Japan/Korea,USA/Canada/CostaRica/Mexico/LatinAmerica and Europe junior/general/technical2026–27 day/boarding/family programmes with full prices/languages/grades/admission/availability; schools/results/routes and worldwide leagues/exhibitions remain in scope"
+}

@@ -1,0 +1,408 @@
+{
+  "checked": "2026-10-02",
+  "method": "Primary HTML/PDF read; raw downloads outside repository. Programme dates / languages / school reports scoped separately.",
+  "sources": [
+    {
+      "name": "biber_about",
+      "url": "https://www.informatik-biber.ch/was-ist-der-informatik-biber/",
+      "status": 200,
+      "bytes": 69034,
+      "sha256": "fe7559f5225486c4b4e7ed5b67e71a7aa53b8994af4e41d0d0ea617d12ed7b7d"
+    },
+    {
+      "name": "biber_current",
+      "url": "https://www.informatik-biber.ch/vor-wettbewerb-2026/",
+      "status": 200,
+      "bytes": 77761,
+      "sha256": "5b82859c347522fb4636056e70db85a34e7f0d15a728d00da60dbb3d846af2be"
+    },
+    {
+      "name": "ecolint_nations",
+      "url": "https://www.ecolint.ch/en/campus-des-nations/primary-school",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85608,
+      "sha256": "b9c82b3670161ec44da1f00719cc1e9e1269fab9b077c9fd5c7c85b739080f2f",
+      "resolved": "https://www.ecolint.ch/en/campus-des-nations/primary-school"
+    },
+    {
+      "name": "lorca_home",
+      "url": "https://www.lorcaboadilla.es/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 173062,
+      "sha256": "cc5fa68cbf74e04c758a4db80ea49254c16bc89b8161ae97df78f08d59592b5e",
+      "resolved": "https://www.lorcaboadilla.es/"
+    },
+    {
+      "name": "lorca_bilingual",
+      "url": "https://www.lorcaboadilla.es/planes-y-proyectos/educacion-bilingue/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76973,
+      "sha256": "178d625af1a7cc8bc960dce9657827f932955d672edaf7bc35181eb059c1472b",
+      "resolved": "https://www.lorcaboadilla.es/planes-y-proyectos/educacion-bilingue/"
+    },
+    {
+      "name": "lorca_results",
+      "url": "https://www.lorcaboadilla.es/wp-content/uploads/2026/03/No52.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 14685695,
+      "sha256": "2e2c808149e4a43fc744360982377eb8e60b10dc19b42cfbeb1202d06948c5c7",
+      "resolved": "https://www.lorcaboadilla.es/wp-content/uploads/2026/03/No52.pdf"
+    },
+    {
+      "name": "isn_results",
+      "url": "https://www.isn-nice.com/news-and-events/news/news-details/~board/posts/post/isn-robotics-team-wins-first-place-at-globeducate-france-challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46596,
+      "sha256": "b1ec40ccfb2516bfffc730297258998fe5cf1f5c3c189d9c16432bd77c520f61",
+      "resolved": "https://www.isn-nice.com/news-and-events/news/news-details/~board/posts/post/isn-robotics-team-wins-first-place-at-globeducate-france-challenge"
+    },
+    {
+      "name": "siae_directory",
+      "url": "https://www.siae.fr/en/the-show/list-of-exhibitors/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45891,
+      "sha256": "f9979e06a84cabbf5eb27ae106b148cb11fbc45338116dfe7f13b97699b52b9e",
+      "resolved": "https://www.siae.fr/en/the-show/list-of-exhibitors/"
+    },
+    {
+      "name": "robolympics_pdf",
+      "url": "https://www.robolympics.ch/wp-content/uploads/2026/06/Hauptreglement_2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1125475,
+      "sha256": "5b475b33850e402a5348d38d4c26de7408c4da827561db742b28015e20767a70",
+      "resolved": "https://www.robolympics.ch/wp-content/uploads/2026/06/Hauptreglement_2026.pdf"
+    },
+    {
+      "name": "vexclass0",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/Junior%20Robotics%20Lab/Basel%20%7C%20Academia/Course.ed.85a15bd9913c_7683180463.Academia%20%20Monday%20%20Junior%20Robotics%20Lab%20%207-9%20years?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22028,
+      "sha256": "96fb07fa449f79c613314e61017edf9465e410574eaed6baba542587a5150c6e",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/Junior%20Robotics%20Lab/Basel%20%7C%20Academia/Course.ed.85a15bd9913c_7683180463.Academia%20%20Monday%20%20Junior%20Robotics%20Lab%20%207-9%20years?edref=techlabs"
+    },
+    {
+      "name": "vexclass1",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.4048c2de9c97_7615276459.BS%20%20Wednesday%20%20VEX%20IQ%20Robotics%20Lab%20%20Age%209?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22795,
+      "sha256": "50ff125a843c1598a288845159f8227f2a0b00bebd8b0cb05bf2d9344d896e23",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.4048c2de9c97_7615276459.BS%20%20Wednesday%20%20VEX%20IQ%20Robotics%20Lab%20%20Age%209?edref=techlabs"
+    },
+    {
+      "name": "vexclass2",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.d56a804e207e_7615310269.BS%20%20Friday%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%20Age%209-14?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26518,
+      "sha256": "37665e476f0f268891f59fb24c73e6bf33e6584514fdb75f0d606365a58e59bf",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.d56a804e207e_7615310269.BS%20%20Friday%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%20Age%209-14?edref=techlabs"
+    },
+    {
+      "name": "vexclass3",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Z%C3%BCrich%20%7C%20TechLabs/Course.ed.c5716b639b27_7651831831.ZH%20%20Sat%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%209-14%20years?edref=techlabs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26210,
+      "sha256": "9a3910d5fe13abc161aa636262c3d6ac7a529faf1ba507107f6af5008f84eeeb",
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Z%C3%BCrich%20%7C%20TechLabs/Course.ed.c5716b639b27_7651831831.ZH%20%20Sat%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%209-14%20years?edref=techlabs"
+    },
+    {
+      "name": "hispa_erw_current",
+      "url": "https://erw.hisparob.es/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 250189,
+      "sha256": "34095efdb1d3c3a84d05202fd1db2fa1f142f36f95582a0143e0c7106ac5a8e4",
+      "resolved": "https://erw.hisparob.es/"
+    },
+    {
+      "name": "siae",
+      "url": "https://www.siae.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41048,
+      "sha256": "31ab871334a28d31fe70e352e5f92432e69d597c7af19d34ae4be28268cb191f",
+      "resolved": "https://www.siae.fr/"
+    },
+    {
+      "name": "siae_public",
+      "url": "https://www.siae.fr/en/general-public/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 54088,
+      "sha256": "01d8d5ee467ad02493304ed47adeb956dc29a9553fc0ab6def9c5de3818f0d3c",
+      "resolved": "https://www.siae.fr/en/general-public/"
+    },
+    {
+      "name": "techfest",
+      "url": "https://www.tech-fest.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 496246,
+      "sha256": "9d9921a470f3d46eba45aeda7c3251a5454bed543c5e4402e315509344da89ff",
+      "resolved": "https://www.tech-fest.fr/"
+    },
+    {
+      "name": "isn_primary",
+      "url": "https://www.isn-nice.com/academic-life/primary-school",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81003,
+      "sha256": "30773acac9b41509a99001b70a92a666e1522da5b6ce1c8d3ead58f6187150cc",
+      "resolved": "https://www.isn-nice.com/academic-life/primary-school"
+    },
+    {
+      "name": "first_k8",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 139712,
+      "sha256": "ce5f6c4227ea6a81639c25b6db103d8e239b1b0343428010d80b55a9d121cace",
+      "resolved": "https://www.firstinspires.org/programs/k-8"
+    },
+    {
+      "name": "kids_contact",
+      "url": "https://kidsrobots.fr/contact/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120984,
+      "sha256": "43644270d50cf077f16005b36c0de14528262adee4aa225fd0466212fd24733a",
+      "resolved": "https://kidsrobots.fr/contact/"
+    },
+    {
+      "name": "robocampeones",
+      "url": "https://sites.google.com/view/robocampeonesfuenlabrada/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138145,
+      "sha256": "1c9bf72a3145b12424140c4cf83a08d6251d08d2dfc0620a15fcb1b2a3c5def6",
+      "resolved": "https://sites.google.com/view/robocampeonesfuenlabrada/"
+    },
+    {
+      "name": "techlabs_vex",
+      "url": "https://www.techlabs.ch/vex-events-products",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 224493,
+      "sha256": "9c3f50d34412483c11d6f8d3173885d0e633930fcda355a80b588bd403ef96ee",
+      "resolved": "https://www.techlabs.ch/vex-events-products"
+    },
+    {
+      "name": "nube7",
+      "url": "https://www.nube7.es/campamento-pascua/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 59710,
+      "sha256": "62b52cb454f76db7c0adde159d499e7d75b31a5a86c3175c12698719e03e25c9",
+      "resolved": "https://www.nube7.es/campamento-pascua/"
+    },
+    {
+      "name": "lamiranda_camp",
+      "url": "https://www.lamiranda.eu/campamentos-de-verano",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 181407,
+      "sha256": "6f87cea2727c85b9eb53385f63fd5831c35e287ec55a295875db6f3a2565d687",
+      "resolved": "https://www.lamiranda.eu/campamentos-de-verano"
+    },
+    {
+      "name": "granada_camp",
+      "url": "https://granada-college.agorainternationalschool.es/vida-escolar/summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62994,
+      "sha256": "d45480d7f7fe324e966c407ed0e98ed3b873143c5dd4fa3de642fa13c21e7534",
+      "resolved": "https://granada-college.agorainternationalschool.es/vida-escolar/summer-camp"
+    },
+    {
+      "name": "iszl_primary",
+      "url": "https://www.iszl.ch/primary-school/academic/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 146037,
+      "sha256": "e32df4d990e87825d59df26717103eef662f8b54161283082b12c16e45620a81",
+      "resolved": "https://www.iszl.ch/primary-school/academic/"
+    },
+    {
+      "name": "iszl_admission",
+      "url": "https://www.iszl.ch/admissions/admissions-process/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141025,
+      "sha256": "e83a6f1e226d24244376a6bef321654f808ee7910d924e45a9acb989f37dc76a",
+      "resolved": "https://www.iszl.ch/admissions/admissions-process/"
+    },
+    {
+      "name": "iszl_fees",
+      "url": "https://www.iszl.ch/admissions/fees/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 158955,
+      "sha256": "2f870ca11e1c4ceb62730e4fca32d87120f9d1d74089e8325342c67d4e880ec1",
+      "resolved": "https://www.iszl.ch/admissions/fees/"
+    },
+    {
+      "name": "techshow",
+      "url": "https://www.techshowmadrid.es/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 823084,
+      "sha256": "6d06c18833b5fc28202d84c5511d2adf4da2e7d4979c4bf7577b3a07a97552fc",
+      "resolved": "https://www.techshowmadrid.es/"
+    },
+    {
+      "name": "hispa_med",
+      "url": "https://www.hisparob.es/hisparob-techtalks-abordara-el-impacto-de-la-ia-en-la-cirugia-robotizada/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63931,
+      "sha256": "fed0d7ea5dedd3cf18f26656609f50ad7b326c46e4443060aa8968531676639c",
+      "resolved": "https://www.hisparob.es/hisparob-techtalks-abordara-el-impacto-de-la-ia-en-la-cirugia-robotizada/"
+    },
+    {
+      "name": "logix5_summer",
+      "url": "https://roboticaeducativa.logix5.com/escuela-de-verano/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 241030,
+      "sha256": "246b6ad0e8d98b8d9f664168e32c3dde9e9c1d0b1fe0244c15d18e379c1813a4",
+      "resolved": "https://roboticaeducativa.logix5.com/escuela-de-verano/"
+    },
+    {
+      "name": "logix5_regular",
+      "url": "https://roboticaeducativa.logix5.com/extraescolares-escuela/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 248783,
+      "sha256": "4da85546856941324dea7e09e7a20231ad4714529b641f0505e13b0430cd50be",
+      "resolved": "https://roboticaeducativa.logix5.com/extraescolares-escuela/"
+    },
+    {
+      "name": "algora_6",
+      "url": "https://www.algora-grandouest.fr/produit/stage-robot-run-6-9-ans/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108126,
+      "sha256": "cc48112f36f6e740773c690b9977f1d0e65e4c4dcac1bdba27cd97c5b00182b7",
+      "resolved": "https://www.algora-grandouest.fr/produit/stage-robot-run-6-9-ans/"
+    },
+    {
+      "name": "algora_9",
+      "url": "https://www.algora-grandouest.fr/produit/stage-robot-run-9-14-ans/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 107721,
+      "sha256": "b3e3a5cd739a1ff68a3a8a207e313eb28cf194bcf62143390f6e236aebea442a",
+      "resolved": "https://www.algora-grandouest.fr/produit/stage-robot-run-9-14-ans/"
+    },
+    {
+      "name": "algora_ai",
+      "url": "https://www.algora-grandouest.fr/produit/stage-ia-9-16-ans/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 107889,
+      "sha256": "a3fd459c5729b86a44ba02b6a97e35dcd3d5ba5fc3b651726c89b6c184bd65a3",
+      "resolved": "https://www.algora-grandouest.fr/produit/stage-ia-9-16-ans/"
+    },
+    {
+      "name": "bebras_spain",
+      "url": "https://bebras.ehu.eus/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 570449,
+      "sha256": "baeb34396ccf9acb889620f5367f44a3bb7cadc4351ca9d80801fa2ef69755a9",
+      "resolved": "https://bebras.ehu.eus/"
+    },
+    {
+      "name": "bebras_cat",
+      "url": "https://bebras.cat/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26692,
+      "sha256": "2735445aa35806df6282d904a55128284a7f343bbe324305533c3158095e7f48",
+      "resolved": "https://bebras.cat/"
+    },
+    {
+      "name": "castor",
+      "url": "https://www.castor-informatique.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15335,
+      "sha256": "650f6aca70ee187343b7bc9c449757285b5a9d11fe98a0a28213f64c59ad44b9",
+      "resolved": "https://www.castor-informatique.fr/"
+    },
+    {
+      "name": "lego_new",
+      "url": "https://www.education.lego.com/en-us/lego-league/program-update/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131041,
+      "sha256": "128e34520a8962f17e28e7f58cf22e870e8864dd4684dae8b71324bcc1f66da7",
+      "resolved": "https://www.education.lego.com/en-us/lego-league/program-update/"
+    },
+    {
+      "name": "robolympics",
+      "url": "https://www.robolympics.ch/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63913,
+      "sha256": "4b4a9e27640032a7ee5d2567458c0356eec8724390503807583d6b1107655c25",
+      "resolved": "https://www.robolympics.ch/"
+    },
+    {
+      "name": "robotix",
+      "url": "https://www.coiias.es/cursos-y-jornadas/campamento-verano-2026-robotix",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 289956,
+      "sha256": "8fc772f87d3816dc6fbfb41947145f22eb72317661fd64eda2abe394680d23b8",
+      "resolved": "https://www.coiias.es/cursos-y-jornadas/campamento-verano-2026-robotix"
+    },
+    {
+      "name": "kidsrobots",
+      "url": "https://kidsrobots.fr/about/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108764,
+      "sha256": "42bafdfa466bffd055e9bcc2b0210533163215f06f5b7d7de53a90d7167cd15f",
+      "resolved": "https://kidsrobots.fr/about/"
+    },
+    {
+      "name": "iszl_support",
+      "url": "https://www.iszl.ch/support-iszl/support-us/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 277437,
+      "sha256": "d6066bb32e03fb4cd8f2e0a903f869e5dc873f993e309dca63d632407e02d5c6",
+      "resolved": "https://www.iszl.ch/support-iszl/support-us/"
+    },
+    {
+      "name": "ecolint_ecas",
+      "url": "https://www.ecolint.ch/fr/file-download/download/public/2886",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 91343,
+      "sha256": "d0aed40ff4ecdcebfc66d9866917c60b1e695ce3dfa24a4098de0c6ff80f5249",
+      "resolved": "https://www.ecolint.ch/fr/file-download/download/public/2886"
+    }
+  ],
+  "web_read_primary": [
+    {
+      "url": "https://www.iszl.ch/news-events/news/embracing-languages-multilingualism-in-the-early-years/",
+      "claim": "English main language of instruction"
+    },
+    {
+      "url": "https://www.isn-nice.com/admissions/faq",
+      "claim": "English instruction / French / FAQ age conflict"
+    }
+  ]
+}

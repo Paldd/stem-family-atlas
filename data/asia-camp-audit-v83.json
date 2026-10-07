@@ -1,0 +1,118 @@
+{
+  "asof": "2026-10-05",
+  "version": 83,
+  "status": "progress",
+  "scope": "Programme-specific Japan/Taiwan/Singapore/Korea and Cebu packages; all priority regions and full worldwide goal remain active",
+  "new_dossiers": 16,
+  "operators_covered": 7,
+  "updated_dossiers": [],
+  "new_calendar_rows": 17,
+  "new_family_ics": 16,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 448,
+  "countries_with_dossiers": 34,
+  "official_dossier_urls": 703,
+  "country_dossier_counts": {
+    "CHE": 69,
+    "FRA": 39,
+    "ESP": 31,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 25,
+    "SGP": 56,
+    "JPN": 23,
+    "KOR": 10,
+    "PHL": 2,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "ugaku-nasu-winter",
+    "ugaku-nasukashi-spring",
+    "ugaku-chatan-winter",
+    "ugaku-onna-spring",
+    "ugaku-wakayama-spring",
+    "ugaku-cebu-winter",
+    "ugaku-cebu-spring",
+    "myoko-adventure-culture",
+    "see-discover-japan",
+    "see-world-games",
+    "srt-little-elf",
+    "srt-stage-younger",
+    "srt-stage-older",
+    "voca-power-popstars",
+    "kisas-ai-music",
+    "embassy-korea-spring"
+  ],
+  "findings": [
+    {
+      "country": "Япония",
+      "iso": "JPN",
+      "provider": "U-GAKU / Myoko",
+      "detail": "U-GAKU school grade и Japanese family administration требуют иностранного подтверждения; winter/spring premises различаются. /wakayama/ HTTP200 пустая, /kansai/ содержит настоящий2027camp. Общий spring news всё ещё priceTBA/NasuTochigi, новые campus pages уже price/Фукусима. MyokoPDF2026 не2027.",
+      "next_action": "Иностранный приём, точные классы, English parents/medical support, актуальный договор и final invoice; прочитать Myoko2027 при публикации.",
+      "url": "https://u-gaku.jp/english-camps/"
+    },
+    {
+      "country": "Тайвань",
+      "iso": "TWN",
+      "provider": "S.E.E. / NTUE CLEC",
+      "detail": "SEE grades, ранние individual/group discounts и отдельные площадки сохранены. PalauFamily primary недоступна: headline price range не тариф семьи. NTUE28Dec2026–8Jan2027 Mandarin6–15, NTD36000/early34000; English guide — перевод, EN занятий не доказан.1Jan нет занятий: не создан EN ICS.",
+      "next_action": "SEE foreign grades/refund, Palau полный пакет/даты/язык; NTUE beginners/EN teaching support выяснить отдельно, не путать English guide с bilingual camp.",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw"
+    },
+    {
+      "country": "Сингапур",
+      "iso": "SGP",
+      "provider": "SRT / Kids Space / VOCA",
+      "detail": "SRT язык/возраст/проданность каждой недели различаются;4–7 English Stage closed. KidsSpace annualPDF14–18Dec против конкретной SRT14–16Dec: выбраны3дня конкретного курса. AnnualPDF без полного age/price/language, весь год не размножен в ICS. VOCA EN не доказан;450+50 до скидки, non-refundable;6-летие младшего проверить.",
+      "next_action": "Конкретная EN группа, admissions/refund, quotation и место; KidsSpace dated programme вместо годового themed poster.",
+      "url": "https://www.srt.com.sg/stagecamp"
+    },
+    {
+      "country": "Южная Корея",
+      "iso": "KOR",
+      "provider": "KISAS / Embassy Korea",
+      "detail": "KISAS next January2027 date/venue/length/fee TBA и age10/Grade4, English humanities отдельно от AI/music. KoreaSpring age10–19; Twin$2780 и breakfast only, family parent offer не допуск Оскара. Boarding school curriculum не внешняя holiday programme.",
+      "next_action": "Матвей DOB/Grade4, English technical teaching, внешний admission и конкретный2027contract/hotel/child-parent invoice; младшие external camps продолжают исследоваться.",
+      "url": "https://kisas.co.kr/en"
+    }
+  ],
+  "calendar": {
+    "events": 2797,
+    "learning_records": 1466,
+    "family_ics": 2128,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1003,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "All 2780 previous events and 432 programme dossiers retain their IDs and content. 16 new programme/season/age dossiers cover 7 operators, including an existing Taiwan operator and an Embassy network already in the legacy calendar; not 16 independent camps.",
+    "U-GAKU 7 specific winter/spring boarding packages. School-grade eligibility retained, foreign/English-only family admission unknown. Winter Nasu/Chatan and spring Fukushima/Onna are separate venues; Wakayama uses /kansai/, while /wakayama/ is an HTTP200 empty listing.",
+    "U-GAKU base139800/159800/199800 +30000 first contract fee, repeats waived. Short camps do not meet 4+week refund-guarantee condition. Cancellation thresholds overlap, not simplified to free cancellation. Spring/news TBA/NasuTochigi conflicts with current campus fee/Fukushima preserved.",
+    "Myoko own2026 brochure visually read: 6–15, advanced–native English,130000/5days4nights,Tokyo rail+20000. Four2026 sessions are historical; no invented2027 dates or copied future price. Accommodation Buna House in sample itinerary, future contract/room/night-care unknown.",
+    "SEE DiscoverJapan2days and WorldGames5days are in Taiwan, senior kindergarten–Grade4, two parallel Taipei/Xindian campuses, fullEnglish confirmed. Grade5+ enquiry and foreign-grade equivalence retained. Regular/individual/3+/6+ early fees separated; two children do not receive automatic group3+ discount.",
+    "SRT LittleElf specific programme14–16Dec differs from annual KidsSpace poster14–18Dec: use3days, optional1–3attendance, English4–7/max12/lunch, member prices separate. Yearlyposter alone not multiplied into fullyverified calendar programmes.",
+    "SRT Stage: November Mandarin,7–11Dec English. Younger4–7 sold out, excluded from family ICS; older8–12 limited according to source, real seat not confirmed.400+6booking and expired4Oct early bird retained, no fake English-November sessions.",
+    "VOCA two3day dates,6–12,450+50registration,10% tuition-only early total455 and no stacking/no refunds. Whole-course English unknown: not placed in confirmed EN filter, younger6birthday conditional.",
+    "KISAS Grade4–9 and age10–15, nextJanuary2027 dates/length/venue/fee TBA. Cohort1 10days/9nights/staff/insurance are not verified2027 commitments. English humanities direct proof, full AI/music/residence English unknown, not an Oxford-certified course.",
+    "Embassy Korea21–30Mar2027 age10–19 and parent programme; Matvey conditional10birthday, Oscar below minimum. Twin$2780 currency/unit/parent fee unresolved, only breakfast included. General USD200security/refundUSD100 and cancellation thresholds require current Korea contract confirmation.",
+    "NTUE English guide visually read: Mandarin programme28Dec2026–8Jan2027,1Jan no class,NTD36000/early34000. English translation does not prove English teaching; no EN dossier/ICS added. Palau primary403/cache miss kept as gap, no homepage-price guess.",
+    "17 new calendar rows and16 new family ICS entries; all previous2112family UID/datepairs and104exhibition entries preserved. SQLite/publicJSON agree, bridge idempotent,98family scenarios,0fullyaudited countries; complete worldwide goal remains active."
+  ],
+  "next_priority": "Continue Swiss/French/Spanish/Europe,USA/Canada/CostaRica/Mexico/LatinAmerica and Asian junior/general/technical2026–27 day/boarding/family programmes, full prices/languages/grade/admission/availability, plus schools/results/routes and worldwide leagues/exhibitions"
+}

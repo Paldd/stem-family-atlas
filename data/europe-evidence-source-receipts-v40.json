@@ -1,0 +1,270 @@
+{
+  "checked": "2026-10-02",
+  "method": "Primary HTML read; raw material outside repo. Failed guesses retained as fetch gaps, not confirmed sources.",
+  "sources": [
+    {
+      "name": "roborave_host",
+      "url": "https://roborave53.fr/",
+      "status": 200,
+      "resolved": "https://roborave53.fr/",
+      "mime": "text/html",
+      "bytes": 21372,
+      "sha256": "b69c9a02f3b536cf01c1a92b79e98eaa02131f78eb116d137f3c33ce4de86ae4"
+    },
+    {
+      "name": "roborave_int",
+      "url": "https://www.roboraveinternational.org/eventos/roborave-francia",
+      "status": 200,
+      "resolved": "https://www.roboraveinternational.org/eventos/roborave-francia",
+      "mime": "text/html",
+      "bytes": 64131,
+      "sha256": "5aed03910e478ecbc30471fbe0acbe364310e96bd3138f3724331b331eaed081"
+    },
+    {
+      "name": "swiss_results",
+      "url": "https://wro.swiss/schweizer-finale-2026-ergebnisse/",
+      "status": 200,
+      "resolved": "https://wro.swiss/schweizer-finale-2026-ergebnisse/",
+      "mime": "text/html",
+      "bytes": 125714,
+      "sha256": "bc7ba51d6e03207a20ed09fb6bd3d4fe6ac488a9ce1b90c3decc0ed5f3bcc49a"
+    },
+    {
+      "name": "robomatik_sport",
+      "url": "https://www.robomatik.ch/home/sport-robotik/",
+      "status": 200,
+      "resolved": "https://www.robomatik.ch/home/sport-robotik/",
+      "mime": "text/html",
+      "bytes": 86425,
+      "sha256": "306916114e0038e6d60b002a3a639563fc5cd0ebb0985e2b28d173e66f9f0c2b"
+    },
+    {
+      "name": "robomatik_faq",
+      "url": "https://www.robomatik.ch/fragen-und-antworten/robo-matik-schule-faqs/",
+      "status": 200,
+      "resolved": "https://www.robomatik.ch/fragen-und-antworten/robo-matik-schule-faqs/",
+      "mime": "text/html",
+      "bytes": 86921,
+      "sha256": "a311fbb7221ada0c0a403c9803d90c809c7a84917f8fa924f342369d317c6d12"
+    },
+    {
+      "name": "robomatik_hours",
+      "url": "https://www.robomatik.ch/stundenplan/",
+      "status": 200,
+      "resolved": "https://www.robomatik.ch/stundenplan/",
+      "mime": "text/html",
+      "bytes": 91940,
+      "sha256": "af9fe9fd03674597f61547ad2a306d16b5206b08be81e91715f49674fb602686"
+    },
+    {
+      "name": "robomatik_module0",
+      "url": "https://www.robomatik.ch/home/modul-0/",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "tasis_result",
+      "url": "https://www.tasis.ch/about/blog/blog-article/~board/blog/post/tasis-middle-school-robotics-team-ranks-first-at-2026-vex-iq-robotics-qualifying-tournament",
+      "status": 200,
+      "resolved": "https://www.tasis.ch/about/blog/blog-article/~board/blog/post/tasis-middle-school-robotics-team-ranks-first-at-2026-vex-iq-robotics-qualifying-tournament",
+      "mime": "text/html",
+      "bytes": 77676,
+      "sha256": "221917e2c8fbb71485214a4aee10f12ad2cb9f4db617f34773dd19494ec6c071"
+    },
+    {
+      "name": "tasis_elementary",
+      "url": "https://www.tasis.ch/academics/es",
+      "status": 200,
+      "resolved": "https://www.tasis.ch/academics/es",
+      "mime": "text/html",
+      "bytes": 151186,
+      "sha256": "cbd8141f905138dee940d45ace5e2b992b6ad2d1f41db6a5c89e64613d05a658"
+    },
+    {
+      "name": "tasis_fees",
+      "url": "https://www.tasis.ch/admissions/tuition-and-fees",
+      "status": 200,
+      "resolved": "https://www.tasis.ch/admissions/tuition-and-fees",
+      "mime": "text/html",
+      "bytes": 65641,
+      "sha256": "2b05e3a2f350133f8826fc6b80ec2840963f6ae9434765253cdc22763d5e949c"
+    },
+    {
+      "name": "spain_results",
+      "url": "https://www.wroboto.es/torneos/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/torneos/",
+      "mime": "text/html",
+      "bytes": 139373,
+      "sha256": "f7d0f729a1644041b486cd9d78b534ab4e3fb54eb342fc40567e34a57766ff0b"
+    },
+    {
+      "name": "tecnistem_results",
+      "url": "https://tecnistem.es/competiciones-internacionales-robotica/exito-wro-2026-robotica-caceres/",
+      "status": 200,
+      "resolved": "https://tecnistem.es/competiciones-internacionales-robotica/exito-wro-2026-robotica-caceres/",
+      "mime": "text/html",
+      "bytes": 237185,
+      "sha256": "4539ff4fdf3cd5516c78afb5bc195e5c4ad96bf56916560c5ffd5cc7dfe24a11"
+    },
+    {
+      "name": "tecnistem_home",
+      "url": "https://tecnistem.es/",
+      "status": 200,
+      "resolved": "https://tecnistem.es/",
+      "mime": "text/html",
+      "bytes": 277792,
+      "sha256": "bd88e6739564431e38b5ca9a9a363523d4b5da7109808cd369396e6580da5d9d"
+    },
+    {
+      "name": "palencia",
+      "url": "https://playcodeacademy.com/campus-tecnologico-uva-palencia/",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "marymount_fablab",
+      "url": "https://marymount.fr/academics/digital-learning",
+      "status": 200,
+      "resolved": "https://marymount.fr/academics/digital-learning",
+      "mime": "text/html",
+      "bytes": 36676,
+      "sha256": "2b97491640b9672297e447c4affb47c6dd16f15caadc1d5bfa2e178904369dcb"
+    },
+    {
+      "name": "marymount_services",
+      "url": "https://www.marymount.fr/student-life/student-services",
+      "status": 200,
+      "resolved": "https://www.marymount.fr/student-life/student-services",
+      "mime": "text/html",
+      "bytes": 33071,
+      "sha256": "eb7dcd13e856ff39f1acc12ed6084b16696039c805c1d6cb78dc71b5d5b4253b"
+    },
+    {
+      "name": "marymount_asa",
+      "url": "https://marymount.fr/student-life/after-school-activities",
+      "status": 200,
+      "resolved": "https://marymount.fr/student-life/after-school-activities",
+      "mime": "text/html",
+      "bytes": 81738,
+      "sha256": "614dc3a4961484078997aeaa94a59a3d9ad875f1d3a8575db09583f64327fd3e"
+    },
+    {
+      "name": "marymount_elementary",
+      "url": "https://marymount.fr/academics/elementary-school",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "marymount_fees",
+      "url": "https://marymount.fr/admissions/tuition-fees",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "kids5",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-ans-niveau-1/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-ans-niveau-1/",
+      "mime": "text/html",
+      "bytes": 719810,
+      "sha256": "d496042bfbed6f4b6f8e6324ee426d9f5ef4bd8b879bc10e29b31b9301ae6d57"
+    },
+    {
+      "name": "kids7",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-ans-niveau-1/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-ans-niveau-1/",
+      "mime": "text/html",
+      "bytes": 750345,
+      "sha256": "43815b0b0fcc1862eeb7973b1835d7c8b9623972b095798141025d6425fe2947"
+    },
+    {
+      "name": "tecnistem_regular",
+      "url": "https://tecnistem.es/actividades-extraescolares-caceres/robotica-lego-education/",
+      "status": 200,
+      "resolved": "https://tecnistem.es/actividades-extraescolares-caceres/robotica-lego-education/",
+      "mime": "text/html",
+      "bytes": 285991,
+      "sha256": "4230e9d19026100b5a29b3e692c1503482484d21566b8c86e9ca43e351ea215d"
+    },
+    {
+      "name": "tecnistem_competition",
+      "url": "https://tecnistem.es/competiciones-internacionales-robotica/",
+      "status": 200,
+      "resolved": "https://tecnistem.es/competiciones-internacionales-robotica/",
+      "mime": "text/html",
+      "bytes": 468665,
+      "sha256": "400a9c7747f30a8e121f6f2a45dbe9c49b1bffa608411aa334c3c0a97552c79b"
+    },
+    {
+      "name": "marymount_elementary_current",
+      "url": "https://www.marymount.fr/academics/curriculum-elementary-school",
+      "status": 200,
+      "resolved": "https://www.marymount.fr/academics/curriculum-elementary-school",
+      "mime": "text/html",
+      "bytes": 44145,
+      "sha256": "82dac848b0eb6521c8f856440f221cac9fa736baa993bc1e829077a2cb5730ff"
+    },
+    {
+      "name": "marymount_early",
+      "url": "https://www.marymount.fr/academics/curriculum-early-learners",
+      "status": 200,
+      "resolved": "https://www.marymount.fr/academics/curriculum-early-learners",
+      "mime": "text/html",
+      "bytes": 43805,
+      "sha256": "25abe57b4c357f68af3d36cebfd1ecab12160a3ffbf0c7f3af70a1ee0d1e4cd2"
+    },
+    {
+      "name": "robomatik_zero",
+      "url": "https://www.robomatik.ch/home/modul-0-chindsgi-kiga/",
+      "status": 200,
+      "resolved": "https://www.robomatik.ch/home/modul-0-chindsgi-kiga/",
+      "mime": "text/html",
+      "bytes": 83990,
+      "sha256": "e3c3b3689cb02bcc88672c6d031f46efd854ff71b1ced27eb296c980ab05a201"
+    },
+    {
+      "name": "biel_2025",
+      "url": "https://www.bfh.ch/de/aktuell/news/2025/2025-wro-world-robotic-olympics-rueckblick/",
+      "status": 200,
+      "resolved": "https://www.bfh.ch/de/aktuell/news/2025/2025-wro-world-robotic-olympics-rueckblick/",
+      "mime": "text/html",
+      "bytes": 72261,
+      "sha256": "1db12db33d5ae2316b8875cfcf7c28aa56750023e0d0baefd09046134c18b250"
+    },
+    {
+      "name": "palencia_retry",
+      "url": "https://playcodeacademy.com/campus-tecnologico-uva-palencia/",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "name": "kids_camps",
+      "url": "https://www.techkidsacademy.com/toussaint/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/toussaint/",
+      "mime": "text/html",
+      "bytes": 424344,
+      "sha256": "1a04c491c6d45d8eba3297719c76a17d36f0ca27aa3c8faeeb0975c8226bb438"
+    },
+    {
+      "name": "mpt_camps",
+      "url": "https://www.mjc-mpt-gresivaudan.fr/events/stage-multi-robots-toussaint-2026/",
+      "status": 200,
+      "resolved": "https://www.mjc-mpt-gresivaudan.fr/events/stage-multi-robots-toussaint-2026/",
+      "mime": "text/html",
+      "bytes": 223351,
+      "sha256": "8ce06439c57e9fbfbabdb0d62e03020f9a9f2b2e85dba630e2c537d46046e70b"
+    },
+    {
+      "name": "kids_stage",
+      "url": "https://www.techkidsacademy.com/stages/stage-robotique-lego-enfants/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/stages/stage-robotique-lego-enfants/",
+      "mime": "text/html",
+      "bytes": 804253,
+      "sha256": "24ae15ee2b82508aed2434f7d6bab57f901134f9ffe65bfa6cd310e3f4fca050"
+    }
+  ]
+}

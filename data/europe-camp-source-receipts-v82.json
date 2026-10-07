@@ -1,0 +1,415 @@
+{
+  "asof": "2026-10-05",
+  "version": 82,
+  "scope": "36directHTTPattempts,33successfulHTML/PDF,3timeoutsretained;32successfulrawbodiesretained,oneearlierbodyoverwrittenbyreusedresearchkeywithoriginalmetadataonly. Separateownpagewebreader succeeded forBCPrimary andcached2pagePDF, PDFscreenshotfailedcachemiss",
+  "sources": [
+    {
+      "key": "ensr",
+      "url": "https://www.ensr.ch/summer-camp/summer-camp",
+      "final_url": "https://www.ensr.ch/summer-camp/summer-camp",
+      "status": 200,
+      "bytes": 198993,
+      "sha256": "a877bd75dd3792056d3dbf5b607dc78462123ea27981dfffc9f70a15336bc0c0",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr.html"
+    },
+    {
+      "key": "cjsa",
+      "url": "https://camp-sport.ch/en/fr/camps-d-ete/langues-et-sports/",
+      "final_url": "https://camp-sport.ch/en/fr/camps-d-ete/langues-et-sports/",
+      "status": 200,
+      "bytes": 161290,
+      "sha256": "84f6b4a0db2028e511c722467808372a9ec03398b6e961fa25a061f71f036c87",
+      "body_snapshot_retained": true,
+      "raw_filename": "cjsa.html"
+    },
+    {
+      "key": "frilingue",
+      "url": "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth",
+      "final_url": "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth",
+      "status": 200,
+      "bytes": 149259,
+      "sha256": "bb7c5be0f96fa20c85289fa7dff04702ddc35bf71f2e0509e0072d14ccb1aa52",
+      "body_snapshot_retained": true,
+      "raw_filename": "frilingue.html"
+    },
+    {
+      "key": "englishsummer",
+      "url": "https://www.englishsummer.com/",
+      "final_url": "https://www.englishsummer.com/",
+      "status": 200,
+      "bytes": 330985,
+      "sha256": "5dfce43e2605949114a40d334e6a993053edb9db8ec4ef0f9bf91179ee2cfb93",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishsummer.html"
+    },
+    {
+      "key": "englishsummer-tech",
+      "url": "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/",
+      "final_url": "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/",
+      "status": 200,
+      "bytes": 328511,
+      "sha256": "d5568d7690c0424b1b92a0ded1f0f0118f254349e12e3ff5541ed3b9f0592982",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishsummer-tech.html"
+    },
+    {
+      "key": "bc-france",
+      "url": "https://www.britishcouncil.fr/anglais/enfants/secondaire/stages",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "kidooland",
+      "url": "https://www.kidooland.com/",
+      "final_url": "https://www.kidooland.com/",
+      "status": 200,
+      "bytes": 938890,
+      "sha256": "007067a8f70e7f3d5bff1b02fb48e1779027d4cccd2a4a058b876e3fa196b7a8",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidooland.html"
+    },
+    {
+      "key": "bell",
+      "url": "https://www.bell-school.ch/",
+      "final_url": "https://www.bell-school.ch/en/",
+      "status": 200,
+      "bytes": 141159,
+      "sha256": "6a554ed27c47cdc81abdaeac1fbd2f6a6316d5caf504fc67ca8ed0f661b1eb44",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell.html"
+    },
+    {
+      "key": "ensr-languages",
+      "url": "https://www.ensr.ch/summer-camp/language-studies-sports-and-leisure",
+      "final_url": "https://www.ensr.ch/summer-camp/language-studies-sports-and-leisure",
+      "status": 200,
+      "bytes": 144032,
+      "sha256": "75f30d06459898e857b67da7d8ea15637e350d121f8e6b76c07647533c2ad618",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr-languages.html"
+    },
+    {
+      "key": "ensr-multisport",
+      "url": "https://www.ensr.ch/summer-camp/multisports-and-leisure",
+      "final_url": "https://www.ensr.ch/summer-camp/multisports-and-leisure",
+      "status": 200,
+      "bytes": 169666,
+      "sha256": "767bee04b6a59bf7b8b37dc59ecb48512cfe923bd0d3df4bb7cab0e4ca106aee",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr-multisport.html"
+    },
+    {
+      "key": "ensr-registration",
+      "url": "https://www.ensr.ch/summer-camp/registration",
+      "final_url": "https://www.ensr.ch/summer-camp/registration",
+      "status": 200,
+      "bytes": 123406,
+      "sha256": "a74178efd53f4295d9b470b4f98702bf5715e654795e07929fa2581b152e69a2",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr-registration.html"
+    },
+    {
+      "key": "cjsa-faq",
+      "url": "https://camp-sport.ch/en/fr/faq/",
+      "final_url": "https://camp-sport.ch/en/fr/faq/",
+      "status": 200,
+      "bytes": 129588,
+      "sha256": "5205c208a014d8aa32a0a8b5be3b13f4d648074789dd52e22be98da3d6c5184b",
+      "body_snapshot_retained": true,
+      "raw_filename": "cjsa-faq.html"
+    },
+    {
+      "key": "cjsa-junior",
+      "url": "https://camp-sport.ch/en/fr/camps-d-ete/little-fun-sport/",
+      "final_url": "https://camp-sport.ch/en/fr/camps-d-ete/little-fun-sport/",
+      "status": 200,
+      "bytes": 156066,
+      "sha256": "e9cb6309183212e57cd6f01cb099682f40f1f17e2b2b5e81cc96a5a11614af4b",
+      "body_snapshot_retained": true,
+      "raw_filename": "cjsa-junior.html"
+    },
+    {
+      "key": "frilingue-braunwald",
+      "url": "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/braunwald/summer-camp-in-braunwald",
+      "final_url": "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/braunwald/summer-camp-in-braunwald",
+      "status": 200,
+      "bytes": 406683,
+      "sha256": "75ded8e5a8111de096fa1e77bf8d3acdd3657b5635420b6296beae90832abe36",
+      "body_snapshot_retained": true,
+      "raw_filename": "frilingue-braunwald.html"
+    },
+    {
+      "key": "bell-holidays",
+      "url": "https://www.bell-school.ch/en/young-learners/holiday-camps/",
+      "final_url": "https://www.bell-school.ch/en/young-learners/holiday-camps/",
+      "status": 200,
+      "bytes": 128572,
+      "sha256": "e4c34ed9a29158519479d76f5a638e076814bfd4199252b75d1674e05adbdf6d",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell-holidays.html"
+    },
+    {
+      "key": "bell-terms",
+      "url": "https://www.bell-school.ch/en/terms-conditions/",
+      "final_url": "https://www.bell-school.ch/en/terms-conditions/",
+      "status": 200,
+      "bytes": 121382,
+      "sha256": "9675e868084c7375a1142452b76efda9bafb6bd1eb7eafe28b2bc7ab9bf8c69d",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell-terms.html"
+    },
+    {
+      "key": "bc-primary",
+      "url": "https://www.britishcouncil.fr/anglais/enfants/primaire-stages",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "kidooland-holidays",
+      "url": "https://en.kidooland.com/stages-vacances-4-16-ans",
+      "final_url": "https://en.kidooland.com/stages-vacances-4-16-ans",
+      "status": 200,
+      "bytes": 1532880,
+      "sha256": "2a4ce5dda1de73b2426f7484751a20c56171237b1d48756fd2c886c47ed05828",
+      "body_snapshot_retained": false,
+      "raw_filename": null,
+      "snapshot_note": "Earlier kidooland-holidays key body overwritten by later /holidays read; original HTTP/hash receipt retained, but original bytes unavailable. French page also independently read under kidooland key; not a byte-equivalence claim."
+    },
+    {
+      "key": "altitude",
+      "url": "https://www.altitude-camps.com/",
+      "final_url": "https://www.altitude-camps.com/",
+      "status": 200,
+      "bytes": 91286,
+      "sha256": "aac40f7f6447a82968abc2c93f735ff117b6c2ade1109e691fb70ece0abd0a0e",
+      "body_snapshot_retained": true,
+      "raw_filename": "altitude.html"
+    },
+    {
+      "key": "altitude-residential",
+      "url": "https://www.altitude-camps.com/residential-camp/",
+      "final_url": "https://www.altitude-camps.com/residential-camp/",
+      "status": 200,
+      "bytes": 144127,
+      "sha256": "136fafb50f61d936dda8c3edce8dd505edc6f329e3edcbaf986f435c2959a672",
+      "body_snapshot_retained": true,
+      "raw_filename": "altitude-residential.html"
+    },
+    {
+      "key": "ensr-pdf",
+      "url": "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/69a572f1eb362d7af8bf982f_summer_camp_application_form_2026.pdf",
+      "final_url": "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/69a572f1eb362d7af8bf982f_summer_camp_application_form_2026.pdf",
+      "status": 200,
+      "bytes": 204103,
+      "sha256": "c0917c30cb9aa2603b7c6b2b51f8977e1ae85aac55d2f874c879d4776ad237b9",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr-pdf.pdf"
+    },
+    {
+      "key": "bc-dates",
+      "url": "https://www.britishcouncil.fr/sites/default/files/stages_anglais_2026_2027_web.pdf",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "kidooland-prices",
+      "url": "https://en.kidooland.com/brochure",
+      "final_url": "https://en.kidooland.com/brochure",
+      "status": 200,
+      "bytes": 845676,
+      "sha256": "3ddd665c47ef09bfcb562b5162c08f1edb04f24cc088dacba882b0c6e395bf60",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidooland-prices.html"
+    },
+    {
+      "key": "kidooland-terms",
+      "url": "https://en.kidooland.com/conditions-d-inscription",
+      "final_url": "https://en.kidooland.com/conditions-d-inscription",
+      "status": 200,
+      "bytes": 840633,
+      "sha256": "7c6cc7c9e2281081779122f46cf8a5ec520dc2da86c99a95885bf0eff687c003",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidooland-terms.html"
+    },
+    {
+      "key": "englishsummer-general",
+      "url": "https://www.englishsummer.com/campamentos-de-verano-ingles/idiomas/",
+      "final_url": "https://www.englishsummer.com/campamentos-de-verano-ingles/idiomas/",
+      "status": 200,
+      "bytes": 311502,
+      "sha256": "e3075ea44dd5901374db3159ca545a357a2b9f04d209b3db63985b71e99c4a8d",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishsummer-general.html"
+    },
+    {
+      "key": "englishsummer-payment",
+      "url": "https://www.englishsummer.com/informacion-campamentos-verano-ingles/como-reservar/",
+      "final_url": "https://www.englishsummer.com/informacion-campamentos-verano-ingles/como-reservar/",
+      "status": 200,
+      "bytes": 282707,
+      "sha256": "3ec0ab601900a037346bfafb8a03e73289663c67c003765c2cec83b0bbf053d2",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishsummer-payment.html"
+    },
+    {
+      "key": "bell-autumn",
+      "url": "https://www.bell-school.ch/en/courses/autumn-explorer/",
+      "final_url": "https://www.bell-school.ch/en/courses/autumn-explorer/",
+      "status": 200,
+      "bytes": 134655,
+      "sha256": "32ef76e70f7cb89140b86f48cc2fbf085cf1dc48cb9264ddf0e5b7db6c75eaa2",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell-autumn.html"
+    },
+    {
+      "key": "bell-winter",
+      "url": "https://www.bell-school.ch/en/courses/winter-explorer/",
+      "final_url": "https://www.bell-school.ch/en/courses/winter-explorer/",
+      "status": 200,
+      "bytes": 134664,
+      "sha256": "8137273f7e745e1c5d848251988d980d1d216821d309da8a26ba4d0c6bd9f0ba",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell-winter.html"
+    },
+    {
+      "key": "bell-spring",
+      "url": "https://www.bell-school.ch/en/courses/spring-explorer/",
+      "final_url": "https://www.bell-school.ch/en/courses/spring-explorer/",
+      "status": 200,
+      "bytes": 134770,
+      "sha256": "807646cdd70ff009797346198b371549dc4373a54987b7aa12060eddb53003f5",
+      "body_snapshot_retained": true,
+      "raw_filename": "bell-spring.html"
+    },
+    {
+      "key": "frilingue-family",
+      "url": "https://www.frilingue.ch/en/adults/switzerland-languages/braunwald/family-camp-family-workation",
+      "final_url": "https://www.frilingue.ch/en/adults/switzerland-languages/braunwald/family-camp-family-workation",
+      "status": 200,
+      "bytes": 245608,
+      "sha256": "4ab1cf033edf7acd43e816cf003531a0a14d63785bd730a9caffc1b631a4d087",
+      "body_snapshot_retained": true,
+      "raw_filename": "frilingue-family.html"
+    },
+    {
+      "key": "frilingue-terms",
+      "url": "https://www.frilingue.ch/en/language-camps-switzerland/terms-conditions",
+      "final_url": "https://www.frilingue.ch/en/language-camps-switzerland/terms-conditions",
+      "status": 200,
+      "bytes": 152918,
+      "sha256": "991b1b7bff0d2ae33cc1572371b2b011ce111d47a4f7226db1d01b1cf09d784e",
+      "body_snapshot_retained": true,
+      "raw_filename": "frilingue-terms.html"
+    },
+    {
+      "key": "altitude-day",
+      "url": "https://www.altitude-camps.com/day-camp/",
+      "final_url": "https://www.altitude-camps.com/day-camp/",
+      "status": 200,
+      "bytes": 132080,
+      "sha256": "d22d961199de75dc54a1b5fe7f10554960aa6d215666337ea1ad4a4153f124f6",
+      "body_snapshot_retained": true,
+      "raw_filename": "altitude-day.html"
+    },
+    {
+      "key": "altitude-booking",
+      "url": "https://www.altitude-camps.com/booking",
+      "final_url": "https://www.altitude-camps.com/booking/",
+      "status": 200,
+      "bytes": 356403,
+      "sha256": "ef4f6a7169e530e357d8ef06732f2f5027085ba85d8054e39feb8248ca5b70ab",
+      "body_snapshot_retained": true,
+      "raw_filename": "altitude-booking.html"
+    },
+    {
+      "key": "altitude-terms",
+      "url": "https://www.altitude-camps.com/terms-privacy-policy/",
+      "final_url": "https://www.altitude-camps.com/terms-privacy-policy/",
+      "status": 200,
+      "bytes": 77507,
+      "sha256": "12ce25f8d5f29bb4c5f6dead72dc6d85d8129c0a65123bdca28baf32ed87512e",
+      "body_snapshot_retained": true,
+      "raw_filename": "altitude-terms.html"
+    },
+    {
+      "key": "kidooland-holidays",
+      "url": "https://en.kidooland.com/holidays",
+      "final_url": "https://en.kidooland.com/holidays",
+      "status": 200,
+      "bytes": 813099,
+      "sha256": "c9ddfce5d4508a8255a080bb987661b45cea0615f441bec87b8ee3c0a1c5d287",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidooland-holidays.html"
+    },
+    {
+      "key": "ensr-brochure",
+      "url": "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/6981cce174c506dbb45dd2ed_ENSR%20Summer%20Camp%20Brochure.pdf",
+      "final_url": "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/6981cce174c506dbb45dd2ed_ENSR%20Summer%20Camp%20Brochure.pdf",
+      "status": 200,
+      "bytes": 8091555,
+      "sha256": "8275a3d985b753579d2b8c82656556b4102823a9dd87edbce83774795dcecae5",
+      "body_snapshot_retained": true,
+      "raw_filename": "ensr-brochure.pdf"
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://camp-sport.ch/en/fr/camps-d-ete/langues-et-sports/",
+    "https://camp-sport.ch/en/fr/camps-d-ete/little-fun-sport/",
+    "https://camp-sport.ch/en/fr/faq/",
+    "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/69a572f1eb362d7af8bf982f_summer_camp_application_form_2026.pdf",
+    "https://en.kidooland.com/brochure",
+    "https://en.kidooland.com/conditions-d-inscription",
+    "https://en.kidooland.com/holidays",
+    "https://en.kidooland.com/stages-vacances-4-16-ans",
+    "https://www.altitude-camps.com/booking",
+    "https://www.altitude-camps.com/day-camp/",
+    "https://www.altitude-camps.com/residential-camp/",
+    "https://www.altitude-camps.com/terms-privacy-policy/",
+    "https://www.bell-school.ch/en/courses/autumn-explorer/",
+    "https://www.bell-school.ch/en/courses/spring-explorer/",
+    "https://www.bell-school.ch/en/courses/winter-explorer/",
+    "https://www.bell-school.ch/en/terms-conditions/",
+    "https://www.britishcouncil.fr/anglais/enfants/primaire-stages",
+    "https://www.britishcouncil.fr/sites/default/files/stages_anglais_2026_2027_web.pdf",
+    "https://www.englishsummer.com/campamentos-de-verano-ingles/idiomas/",
+    "https://www.englishsummer.com/campamentos-de-verano-ingles/tematicos-deportivos/tecnologico/",
+    "https://www.englishsummer.com/informacion-campamentos-verano-ingles/como-reservar/",
+    "https://www.ensr.ch/summer-camp/language-studies-sports-and-leisure",
+    "https://www.ensr.ch/summer-camp/multisports-and-leisure",
+    "https://www.ensr.ch/summer-camp/registration",
+    "https://www.ensr.ch/summer-camp/summer-camp",
+    "https://www.frilingue.ch/en/adults/switzerland-languages/braunwald/family-camp-family-workation",
+    "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/braunwald/summer-camp-in-braunwald",
+    "https://www.frilingue.ch/en/language-camps-switzerland/terms-conditions"
+  ],
+  "web_reader_sources": [
+    {
+      "url": "https://www.britishcouncil.fr/anglais/enfants/primaire-stages",
+      "method": "Ownprogramme webreader text cached outsidepublicrepo; directHTTPtimeout notconvertedto200"
+    },
+    {
+      "url": "https://www.britishcouncil.fr/sites/default/files/stages_anglais_2026_2027_web.pdf",
+      "method": "Linkedown2pagePDF cachedreader;directPDFopenfailed,clickreaderworked;tablescreenshotcachemiss, no visualtableclaim"
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://cdn.prod.website-files.com/6964c7b4ab6723b37f5f5366/69a572f1eb362d7af8bf982f_summer_camp_application_form_2026.pdf",
+      "pages": [
+        1
+      ],
+      "method": "Poppler renderedandread:body2026dates,notnew2027contract"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "notes": [
+    "Raw providerHTML/PDF/childphotos andrenderedimages stayoutsidepublicrepo;onlyfacts/provenance/errors public.",
+    "17dossiers cover8operators andmultipleage/format/coursechoices;noexternalworldranking/comprehensivecountryclaim.",
+    "Noassignedcourse,confirmedvacancy,application,booking/payment ororganizercommunication.",
+    "Family6–17providerstatementisconditionalchildprogrammeeligibility;schoolgradeandexactbirthdateunknown. Optionalcoding isnotwholecamprobotics.",
+    "Fullauthorizedworldwidegoalpreserved;0fullyauditedcountries."
+  ]
+}

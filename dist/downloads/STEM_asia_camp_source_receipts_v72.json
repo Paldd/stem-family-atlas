@@ -1,0 +1,244 @@
+{
+  "asof": "2026-10-05",
+  "version": 72,
+  "scope": "Asia: programme-specific winter dates, grade gates, prices and instruction evidence",
+  "sources": [
+    {
+      "key": "codinglab-japan-camp",
+      "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+      "final_url": "https://codinglab.jp/holiday-coding-tech-camp/",
+      "status": 200,
+      "bytes": 304996,
+      "sha256": "07d0095cd7f003b5cc291d7fc5c887c7c236bd69e81a4f2b89c54d80dd5a4b93"
+    },
+    {
+      "key": "computhink-camps",
+      "url": "https://www.computhink.com.sg/holiday-coding-camps-for-kids/",
+      "final_url": "https://www.computhink.com.sg/holiday-coding-camps-for-kids/",
+      "status": 200,
+      "bytes": 625787,
+      "sha256": "158e5edbf76b22848952f9c2f42ecef4bf4ac2fa18254f410f9bd414f2f530c0"
+    },
+    {
+      "key": "british-sg-holiday",
+      "url": "https://www.britishcouncil.sg/english-courses/camps/holiday",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "steamsquad-expedition",
+      "url": "https://steamsquad.io/en/camps/expedition27",
+      "final_url": "https://steamsquad.io/en/camps/expedition27",
+      "status": 200,
+      "bytes": 314908,
+      "sha256": "601869f3f9cf2f039d1b8a5a8866f7d4f922b6b68b23167ab0c44f678dfdf2c3"
+    },
+    {
+      "key": "lfs-camp",
+      "url": "https://lfseoul.org/en/lfs-summer-camp-2026/",
+      "final_url": "https://lfseoul.org/en/lfs-summer-camp-2026/",
+      "status": 200,
+      "bytes": 158508,
+      "sha256": "66a1afff0366558b721a28ae566b2a7e988cb9c39bfe8c69a762f45a5f008db3"
+    },
+    {
+      "key": "branksome-home",
+      "url": "https://www.branksome.asia/",
+      "final_url": "https://www.branksome.asia/",
+      "status": 200,
+      "bytes": 60188,
+      "sha256": "1cf92cf96dfd6dc53972cade4f39b417b9135354e913dbd49fd03392b5cd4675"
+    },
+    {
+      "key": "branksome-curriculum",
+      "url": "https://bhasummerseries.weebly.com/curriculum.html",
+      "final_url": "https://bhasummerseries.weebly.com/curriculum.html",
+      "status": 200,
+      "bytes": 32698,
+      "sha256": "33e0601e26864fc15528d95b6b8b8e76b21ac5807ceab032f2452940c3f6fc43"
+    },
+    {
+      "key": "computhink-lego",
+      "url": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "final_url": "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+      "status": 200,
+      "bytes": 668251,
+      "sha256": "61cc71abffbe1ea51c5b8e9fd923519731f3df7436e3e830f87e26a34787fa3f"
+    },
+    {
+      "key": "computhink-scratch",
+      "url": "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+      "final_url": "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+      "status": 200,
+      "bytes": 667548,
+      "sha256": "a4c280b1770d3e414d5b15744a239bf4913883e43cc0d2732778acbe2b2b61e0"
+    },
+    {
+      "key": "computhink-minecraft",
+      "url": "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+      "final_url": "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+      "status": 200,
+      "bytes": 673119,
+      "sha256": "54a256e5c6fe8e805a4090302239ae234284e555e9cd7a0ec71905c320f50f6a"
+    },
+    {
+      "key": "computhink-redstone",
+      "url": "https://www.computhink.com.sg/minecraft-holiday-workshops/",
+      "final_url": "https://www.computhink.com.sg/minecraft-holiday-workshops/",
+      "status": 200,
+      "bytes": 674850,
+      "sha256": "98f66e06747a30942dfe9cc65a671a0b4200a426678d11a026d338ee9ae3e10b"
+    },
+    {
+      "key": "computhink-guide",
+      "url": "https://www.computhink.com.sg/coding-robotics-holiday-camps-singapore/",
+      "final_url": "https://www.computhink.com.sg/coding-robotics-holiday-camps-singapore/",
+      "status": 200,
+      "bytes": 142203,
+      "sha256": "c3f709e5ebb240f90f95c4a062b15204d399b0afabd5992b561457aac46833c8"
+    },
+    {
+      "key": "bc-taiwan-winter",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "codinglab-japan-faq",
+      "url": "https://codinglab.jp/faq/",
+      "final_url": "https://codinglab.jp/faq/",
+      "status": 200,
+      "bytes": 275729,
+      "sha256": "082994577f2e6d635c6b3fe596a72065513542bd139382a5f8edeb67251fa5cd"
+    },
+    {
+      "key": "bc-sg-winter",
+      "url": "https://www.britishcouncil.sg/english-courses/camps/study",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-sg-early-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_earlyyears_k1-k2_final.pdf",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-sg-p12-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p1-p2_final.pdf",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-sg-p34-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p3-p4_final.pdf",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-sg-winter-primary-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/winter_2027_camps_-_learning_outcomes_-_primary.pdf",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-taiwan-zh",
+      "url": "https://www.britishcouncil.org.tw/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "bc-sg-terms",
+      "url": "https://www.britishcouncil.sg/english-courses/register/terms-conditions",
+      "error": "The read operation timed out"
+    }
+  ],
+  "recovered_reads": [
+    {
+      "key": "bc-sg-early-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_earlyyears_k1-k2_final.pdf",
+      "method": "official-page link downloadMedia, pdftotext -layout and rendered page inspection",
+      "bytes": 101069,
+      "sha256": "6f13b258ed226247badb2d9848b862e43df8ac769010fc70196735fa6aa96a38",
+      "read_status": "read",
+      "pages": 1
+    },
+    {
+      "key": "bc-sg-p12-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p1-p2_final.pdf",
+      "method": "official-page link downloadMedia, pdftotext -layout and rendered page inspection",
+      "bytes": 133341,
+      "sha256": "bc9f6a354585aa14849a67adaed713d0430dc4510633c27e21551f45ff532dc3",
+      "read_status": "read",
+      "pages": 8
+    },
+    {
+      "key": "bc-sg-p34-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p3-p4_final.pdf",
+      "method": "official-page link downloadMedia, pdftotext -layout and rendered page inspection",
+      "bytes": 135523,
+      "sha256": "21e58d9f5397827a219fffe876285e9d19cc6f073dbe7a3ff9661542e1cdc0ab",
+      "read_status": "read",
+      "pages": 8
+    },
+    {
+      "key": "bc-sg-winter-primary-pdf",
+      "url": "https://www.britishcouncil.sg/sites/default/files/winter_2027_camps_-_learning_outcomes_-_primary.pdf",
+      "method": "official-page link downloadMedia, pdftotext -layout and rendered page inspection",
+      "bytes": 242418,
+      "sha256": "8a2258e1d1463f4c7eb210349e7879080db0bea5983cf9e81c83528dd3f4a075",
+      "read_status": "read",
+      "pages": 20
+    },
+    {
+      "key": "bc-sg-holiday-ui",
+      "url": "https://www.britishcouncil.sg/english-courses/camps/holiday",
+      "method": "browser visible page; Singapore fees/dates disclosures expanded",
+      "bytes": 4651,
+      "sha256": "fa8886e829bdc0d89bc8acd91fd93d86e295dbd95aec6ca045d536289723477b",
+      "read_status": "read",
+      "note": "Exact dated table read; no registration form submitted"
+    },
+    {
+      "key": "bc-sg-winter-ui",
+      "url": "https://www.britishcouncil.sg/english-courses/camps/study",
+      "method": "browser visible page; Singapore fees/dates disclosures expanded",
+      "bytes": 4874,
+      "sha256": "308a810e72ceb054d6580adc1f3b2323e30229002afeca42084166179ed206d0",
+      "read_status": "read",
+      "note": "Exact dated table read; no registration form submitted"
+    },
+    {
+      "key": "bc-taiwan-ui",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+      "method": "browser visible page; Singapore fees/dates disclosures expanded",
+      "bytes": 8470,
+      "sha256": "028ab25b62bfeca6a0d5ded2ac70b6ff51c147296367c7565e8d7bfe2f0744c1",
+      "read_status": "read",
+      "note": "Taiwan Grade1+ and centres additionally read via web open; not visible in empty browser tab panel"
+    },
+    {
+      "key": "bc-sg-terms-web",
+      "url": "https://www.britishcouncil.sg/english-courses/register/terms-conditions",
+      "method": "web open official terms",
+      "read_status": "read",
+      "note": "§5.2 gives75% withdrawal before commencement;§5.6 nonrefund wording conflicts. No accepted terms or payment."
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://codinglab.jp/faq/",
+    "https://codinglab.jp/holiday-coding-tech-camp/",
+    "https://lfseoul.org/en/lfs-summer-camp-2026/",
+    "https://steamsquad.io/en/camps/expedition27",
+    "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+    "https://www.britishcouncil.sg/english-courses/camps/holiday",
+    "https://www.britishcouncil.sg/english-courses/camps/study",
+    "https://www.britishcouncil.sg/english-courses/register/terms-conditions",
+    "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_earlyyears_k1-k2_final.pdf",
+    "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p1-p2_final.pdf",
+    "https://www.britishcouncil.sg/sites/default/files/2026_novdecholidaycamps_learning_outcomes_p3-p4_final.pdf",
+    "https://www.britishcouncil.sg/sites/default/files/winter_2027_camps_-_learning_outcomes_-_primary.pdf",
+    "https://www.computhink.com.sg/holiday-lego-robotics-camp/",
+    "https://www.computhink.com.sg/holiday-minecraft-coding-camp/",
+    "https://www.computhink.com.sg/holiday-scratch-coding-camp/",
+    "https://www.computhink.com.sg/minecraft-holiday-workshops/"
+  ],
+  "external_actions": [],
+  "notes": [
+    "Original HTTP timeouts remain in sources; browser/PDF/web recovery is recorded separately.",
+    "Branksome Weebly has no current year or established official-link authority: gap only.",
+    "Four British Council PDFs downloaded from observed official links, read and visually checked. Raw third-party text remains in private research scratch; public receipts contain metadata only."
+  ]
+}

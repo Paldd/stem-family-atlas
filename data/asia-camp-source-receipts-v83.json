@@ -1,0 +1,381 @@
+{
+  "asof": "2026-10-05",
+  "version": 83,
+  "scope": "31 directHTML/PDF attempts:22successful bodies retained/9HTTPerrors. Four NTUE guide images independently downloaded/hashed/visually read. Four retained own web-reader snapshots; HTTP403 and Palau cache miss not relabelled as successful programme reads.",
+  "sources": [
+    {
+      "key": "ugaku-main",
+      "url": "https://u-gaku.jp/english-camps/",
+      "final_url": "https://u-gaku.jp/english-camps/",
+      "status": 200,
+      "bytes": 149225,
+      "sha256": "5ce7dcb3a7618519039ffd349f245a5f60620f51472d5ff47bc6dcd192549452",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-main.html"
+    },
+    {
+      "key": "myoko-main",
+      "url": "https://myokoenglishexplorers.com/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "myoko-program",
+      "url": "https://myokoenglishexplorers.com/summer-camps-japan/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "myoko-pdf",
+      "url": "https://myokoenglishexplorers.com/wp-content/uploads/2026/03/2026-EE-Adventure-Culture-Camp-overview.pdf",
+      "final_url": "https://myokoenglishexplorers.com/wp-content/uploads/2026/03/2026-EE-Adventure-Culture-Camp-overview.pdf",
+      "status": 200,
+      "bytes": 21000737,
+      "sha256": "349158362574a88928178dee4cd811c41bd63895e45bf8ce53e9231e8b33a051",
+      "body_snapshot_retained": true,
+      "raw_filename": "myoko-pdf.pdf"
+    },
+    {
+      "key": "kidsspace-main",
+      "url": "https://www.kidsspace.sg/kids-programme/camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "kidsspace-pdf",
+      "url": "https://www.kidsspace.sg/wp-content/uploads/2025/12/2026-CAMPS-CALENDAR.pdf",
+      "final_url": "https://www.kidsspace.sg/wp-content/uploads/2025/12/2026-CAMPS-CALENDAR.pdf",
+      "status": 200,
+      "bytes": 12471638,
+      "sha256": "e83292ac98314e6a4c316fb392a25311970aa0e95ff371c16c3b9a4295b6cb6e",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidsspace-pdf.pdf"
+    },
+    {
+      "key": "srt-dec",
+      "url": "https://www.srt.com.sg/srt-kidsspace-dec",
+      "final_url": "https://www.srt.com.sg/srt-kidsspace-dec",
+      "status": 200,
+      "bytes": 38098,
+      "sha256": "4a8dc1163142d66eb94bdee9d3fc34e38d7ddd068f2cc9fa62182f717d8d68e3",
+      "body_snapshot_retained": true,
+      "raw_filename": "srt-dec.html"
+    },
+    {
+      "key": "ntue-winter",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+      "final_url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+      "status": 200,
+      "bytes": 79882,
+      "sha256": "3d2ad0159f099520a47983c29f46a27fb9a3298b750bd0ec121d1e0b0b35caa4",
+      "body_snapshot_retained": true,
+      "raw_filename": "ntue-winter.html"
+    },
+    {
+      "key": "ugaku-nasu",
+      "url": "https://u-gaku.jp/english-camps/nasu/",
+      "final_url": "https://u-gaku.jp/english-camps/nasu/",
+      "status": 200,
+      "bytes": 99651,
+      "sha256": "6f3411f3f4b1130af4fb225ae8b436bfd8829363f3edf14c76b3da47c7bbb7ef",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-nasu.html"
+    },
+    {
+      "key": "ugaku-okinawa",
+      "url": "https://u-gaku.jp/english-camps/okinawa/",
+      "final_url": "https://u-gaku.jp/english-camps/okinawa/",
+      "status": 200,
+      "bytes": 89679,
+      "sha256": "de68da4853c97ff2e911ef409e974bf1a3550762493b6d540979197b54bf461c",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-okinawa.html"
+    },
+    {
+      "key": "ugaku-cebu",
+      "url": "https://u-gaku.jp/english-camps/cebu/",
+      "final_url": "https://u-gaku.jp/english-camps/cebu/",
+      "status": 200,
+      "bytes": 96986,
+      "sha256": "ab286a5b819a01b74877d617ea492e888399ca099f3f64c795f2c9ed7563bc78",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-cebu.html"
+    },
+    {
+      "key": "ugaku-wakayama",
+      "url": "https://u-gaku.jp/english-camps/wakayama/",
+      "final_url": "https://u-gaku.jp/english-camps/wakayama/",
+      "status": 200,
+      "bytes": 50694,
+      "sha256": "856ccac8f49cc5c911ae889bd2c6a90994f4ee0b15179b73729ab84343a54032",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-wakayama.html"
+    },
+    {
+      "key": "ugaku-spring",
+      "url": "https://u-gaku.jp/news/spring-gw-english-camp/",
+      "final_url": "https://u-gaku.jp/news/spring-gw-english-camp/",
+      "status": 200,
+      "bytes": 58417,
+      "sha256": "777405a4fa06691ccf2c9ad676475f0be288b502ffba776caca413c897509442",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-spring.html"
+    },
+    {
+      "key": "see-home",
+      "url": "https://seecamp.com.tw/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "voca-camp",
+      "url": "https://vocaacademy.co/holcamp26/",
+      "final_url": "https://vocaacademy.co/holcamp26/",
+      "status": 200,
+      "bytes": 109336,
+      "sha256": "4d3e445dc060832715cda27276981b2ccbf1182b40848ed88f1cd686f8fce4d4",
+      "body_snapshot_retained": true,
+      "raw_filename": "voca-camp.html"
+    },
+    {
+      "key": "ugaku-kansai",
+      "url": "https://u-gaku.jp/english-camps/kansai/",
+      "final_url": "https://u-gaku.jp/english-camps/kansai/",
+      "status": 200,
+      "bytes": 86173,
+      "sha256": "f5be9160a8d928a6c011b8306e80ef4c1399f51e3c6aa3d9b7a6de89560c1e07",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-kansai.html"
+    },
+    {
+      "key": "ugaku-cancel",
+      "url": "https://u-gaku.jp/company/cancel-policy",
+      "final_url": "https://u-gaku.jp/company/cancel-policy",
+      "status": 200,
+      "bytes": 53543,
+      "sha256": "25056c8d791f77e48e8b086cc1a0baeab44be0188169f982acdb181917c8c04f",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-cancel.html"
+    },
+    {
+      "key": "ugaku-refund",
+      "url": "https://u-gaku.jp/company/refund-policy",
+      "final_url": "https://u-gaku.jp/company/refund-policy",
+      "status": 200,
+      "bytes": 54239,
+      "sha256": "f8d979503c4de91ce8ec7cdbce4b091a00617ee6281ab156159e157f3242ca67",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-refund.html"
+    },
+    {
+      "key": "ugaku-minor",
+      "url": "https://u-gaku.jp/company/minor-policy",
+      "final_url": "https://u-gaku.jp/company/minor-policy",
+      "status": 200,
+      "bytes": 58081,
+      "sha256": "126d943c6ed935810c103f0c6a732590e82490264537e27e1ac5bbbee59a69bc",
+      "body_snapshot_retained": true,
+      "raw_filename": "ugaku-minor.html"
+    },
+    {
+      "key": "see-japan",
+      "url": "https://seecamp.com.tw/product/2027see-winter-discover-japan-2d/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "kisas-main",
+      "url": "https://kisas.co.kr/en",
+      "final_url": "https://kisas.co.kr/en",
+      "status": 200,
+      "bytes": 361683,
+      "sha256": "7c99f86e90c44ff98ce30bfd2ad89661081283a5fa424d058817bbcc1d4fadfa",
+      "body_snapshot_retained": true,
+      "raw_filename": "kisas-main.html"
+    },
+    {
+      "key": "embassy-korea",
+      "url": "https://embassy.camp/camp-in-korea/",
+      "final_url": "https://embassy.camp/camp-in-korea/",
+      "status": 200,
+      "bytes": 559204,
+      "sha256": "266eff4391a6c631899c214dd1bf0a0bf46bb9d198bea1653dd28e801585409b",
+      "body_snapshot_retained": true,
+      "raw_filename": "embassy-korea.html"
+    },
+    {
+      "key": "srt-stage",
+      "url": "https://www.srt.com.sg/stage-camp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "see-world",
+      "url": "https://seecamp.com.tw/product/2027see-winter-world-games-5d/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "see-palau",
+      "url": "https://seecamp.com.tw/product/2027see-winter-palau-family-camp-6d/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "voca-faq",
+      "url": "https://vocaacademy.co/faq/",
+      "final_url": "https://vocaacademy.co/faq/",
+      "status": 200,
+      "bytes": 102931,
+      "sha256": "c2df955af42cb82b905a99a837ff016771cbc39fdeeb9f6fa6d8f5deab7c9a09",
+      "body_snapshot_retained": true,
+      "raw_filename": "voca-faq.html"
+    },
+    {
+      "key": "embassy-terms",
+      "url": "https://embassy.camp/terms-and-conditions/",
+      "final_url": "https://embassy.camp/terms-and-conditions/",
+      "status": 200,
+      "bytes": 390602,
+      "sha256": "20b16fd8a4906660fc16a751acb0c926c2b45b179851ad2e0a12defa79e4c7a1",
+      "body_snapshot_retained": true,
+      "raw_filename": "embassy-terms.html"
+    },
+    {
+      "key": "srt-stage2",
+      "url": "https://www.srt.com.sg/stagecamp",
+      "final_url": "https://www.srt.com.sg/stagecamp",
+      "status": 200,
+      "bytes": 54463,
+      "sha256": "c4534fc6991f08899776bdfc0692a06218d8fd9ac55d0b4abdeea8bec8b0d89a",
+      "body_snapshot_retained": true,
+      "raw_filename": "srt-stage2.html"
+    },
+    {
+      "key": "kisas-programme",
+      "url": "https://kisas.co.kr/en/programme",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "kisas-life",
+      "url": "https://kisas.co.kr/en/camp-life",
+      "final_url": "https://kisas.co.kr/en/camp-life",
+      "status": 200,
+      "bytes": 168677,
+      "sha256": "f422bc338404c4a58094444c909ac0f08812ae4f66fe8df8bef8a4be4225c0b1",
+      "body_snapshot_retained": true,
+      "raw_filename": "kisas-life.html"
+    },
+    {
+      "key": "kisas-program",
+      "url": "https://kisas.co.kr/en/program",
+      "final_url": "https://kisas.co.kr/en/program",
+      "status": 200,
+      "bytes": 206661,
+      "sha256": "17352e5ae342630ccf0c863644a6cb4e8abd0971715f85a65ed5c7c53d0cfc61",
+      "body_snapshot_retained": true,
+      "raw_filename": "kisas-program.html"
+    }
+  ],
+  "image_sources": [
+    {
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10939_727428727762.png",
+      "file": "ntue-guide-1.png",
+      "bytes": 483380,
+      "sha256": "901703183bd9d7d4d2597a4ccae43f5618587e52c75457f91e2b7e9d8b20a4a8"
+    },
+    {
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10940_140790527762.png",
+      "file": "ntue-guide-2.png",
+      "bytes": 603025,
+      "sha256": "1f02b5f281049a9ada54dedf9494112314d349442431a80a1a2d02ff43718ab6"
+    },
+    {
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10941_180449827762.png",
+      "file": "ntue-guide-3.png",
+      "bytes": 657334,
+      "sha256": "cbaf22799fd81ffe8c6b976c5700fe66a01ee24bdd0a5b8a97f61e7b8757131f"
+    },
+    {
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10942_971737427763.png",
+      "file": "ntue-guide-4.png",
+      "bytes": 433426,
+      "sha256": "c732dd6df0da68ea615b477a52a23d5b22459b056f848d3a393c4a3584a0041f"
+    }
+  ],
+  "web_reader_sources": [
+    {
+      "url": "https://seecamp.com.tw/",
+      "method": "Own web reader: homepage. Direct HTTP403 retained.",
+      "snapshot_sha256": "6cb5f6c487471c8e0e939f5cbac53f2003eb5c0c83c5521cdebd78bd963159e4",
+      "snapshot_bytes": 5430
+    },
+    {
+      "url": "https://seecamp.com.tw/product/2027see-winter-discover-japan-2d/",
+      "method": "Own web reader: complete programme/grade/price/locations. Direct HTTP403 retained.",
+      "snapshot_sha256": "82fd829ada2d1f8087ac68d6bacf01352824758ded7730b5bae9e5b1cf69ea0e",
+      "snapshot_bytes": 12683
+    },
+    {
+      "url": "https://seecamp.com.tw/product/2027see-winter-world-games-5d/",
+      "method": "Own web reader: complete World Games. Same response retains Palau cache miss; no Palau programme added.",
+      "snapshot_sha256": "a793dfe847b06808f6d59122f51526e72eb48ca59ccd0488a0c318b4b32cc996",
+      "snapshot_bytes": 12325
+    },
+    {
+      "url": "https://www.srt.com.sg/stagecamp",
+      "method": "Own web reader independently agrees with retained direct200 source; week/age/language-specific availability.",
+      "snapshot_sha256": "ae8b40f625c578dab9883984dd8cd816a710fe3cb498393a636f88c9faf94619",
+      "snapshot_bytes": 14503
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://embassy.camp/camp-in-korea/",
+    "https://embassy.camp/terms-and-conditions/",
+    "https://kisas.co.kr/en",
+    "https://kisas.co.kr/en/camp-life",
+    "https://kisas.co.kr/en/program",
+    "https://myokoenglishexplorers.com/",
+    "https://myokoenglishexplorers.com/wp-content/uploads/2026/03/2026-EE-Adventure-Culture-Camp-overview.pdf",
+    "https://seecamp.com.tw/product/2027see-winter-discover-japan-2d/",
+    "https://seecamp.com.tw/product/2027see-winter-world-games-5d/",
+    "https://u-gaku.jp/company/cancel-policy",
+    "https://u-gaku.jp/company/minor-policy",
+    "https://u-gaku.jp/company/refund-policy",
+    "https://u-gaku.jp/english-camps/",
+    "https://u-gaku.jp/english-camps/cebu/",
+    "https://u-gaku.jp/english-camps/kansai/",
+    "https://u-gaku.jp/english-camps/nasu/",
+    "https://u-gaku.jp/english-camps/okinawa/",
+    "https://vocaacademy.co/faq/",
+    "https://vocaacademy.co/holcamp26/",
+    "https://www.kidsspace.sg/wp-content/uploads/2025/12/2026-CAMPS-CALENDAR.pdf",
+    "https://www.srt.com.sg/srt-kidsspace-dec",
+    "https://www.srt.com.sg/stagecamp"
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://myokoenglishexplorers.com/wp-content/uploads/2026/03/2026-EE-Adventure-Culture-Camp-overview.pdf",
+      "pages": [
+        3,
+        5
+      ],
+      "method": "Poppler rendered and read age/English and dates/price table"
+    },
+    {
+      "url": "https://www.kidsspace.sg/wp-content/uploads/2025/12/2026-CAMPS-CALENDAR.pdf",
+      "pages": [
+        1
+      ],
+      "method": "Poppler rendered and read year/theme/date poster; no full programme age/fee proof"
+    },
+    {
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+      "method": "Four linked English guide images visually read; translation does not establish EN teaching"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "notes": [
+    "RawHTML/PDF/provider child photographs, rendered images and web-reader bodies stay outside public repository; public facts/provenance/errors only.",
+    "A sourced date is not a confirmed place, booked course, accepted foreign grade or whole-family quote.",
+    "No applications, bookings, payments, organizer messages or new automations.",
+    "Full worldwide authorised scope preserved;0fullyaudited countries."
+  ]
+}

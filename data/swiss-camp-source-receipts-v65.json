@@ -1,0 +1,299 @@
+{
+  "asof": "2026-10-05",
+  "version": 65,
+  "attempted_urls": 27,
+  "http_200": 26,
+  "pdf_visual_review": [
+    {
+      "url": "https://lovellcamps.ch/wp-content/uploads/2026/08/Session-Application-202627.pdf",
+      "pages": [
+        1,
+        2
+      ],
+      "findings": "14 actual weeks, no boarding weeks5–7, prices, weekdays, included/excluded and credited deposit"
+    },
+    {
+      "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "findings": "Age8–12 vs website10–12, actual VEX/3D/Python examples,3 vs2 sessions and completion certificate"
+    }
+  ],
+  "sources": [
+    {
+      "key": "lovell-home",
+      "url": "https://lovellcamps.ch/",
+      "final_url": "https://lovellcamps.ch/",
+      "status": 200,
+      "bytes": 77411,
+      "sha256": "278c5d19dadf87717c77da6be81d14a7e0bd2972143877afe36365637e39592f",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-home",
+      "url": "https://www.campsuisse.com/",
+      "final_url": "https://www.campsuisse.com/front-page/",
+      "status": 200,
+      "bytes": 66065,
+      "sha256": "757c6ea65d14cb4d3781b2eb4a38bf4a7b606bb7a2e9bd6b14eac482ef022551",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "monterosa-home",
+      "url": "https://www.monterosa.ch/",
+      "final_url": "https://www.monterosa.ch/",
+      "status": 200,
+      "bytes": 48581,
+      "sha256": "b7a1397b10e0202e8909ef5ba699af7a79fd80fbed7971acf891ad2918abd410",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier.",
+      "limitation": "Image-heavy page: no verified2027 fee/session table in extracted text; not a new validated2027 programme."
+    },
+    {
+      "key": "nano-en",
+      "url": "https://www.nordangliaeducation.com/college-du-leman/camps/nano-camp",
+      "final_url": "https://www.nordangliaeducation.com/college-du-leman/camps/nano-camp",
+      "status": 200,
+      "bytes": 79036,
+      "sha256": "28c69c0c32c53d10dfbd392aa60b6fe8505abc8d6c712561fecabe0615810576",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "nano-fr",
+      "url": "https://www.nordangliaeducation.com/fr/college-du-leman/camps/nano-camp",
+      "final_url": "https://www.nordangliaeducation.com/fr/college-du-leman/camps/nano-camp",
+      "status": 200,
+      "bytes": 83398,
+      "sha256": "ef479f9a53db8ad5d3eb589b9540744812d796bf23180053e8a85b4cbe118565",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "rosenberg-home",
+      "url": "https://rosenbergcamps.ch/",
+      "final_url": "https://rosenbergcamps.ch/",
+      "status": 200,
+      "bytes": 70284,
+      "sha256": "dbaf139ac9453ed993231fb407aab3e9c598e64e18d7cb300d6acf0a612ca5ed",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "garenne-home",
+      "url": "https://www.la-garenne.ch/summer-camps/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/",
+      "status": 200,
+      "bytes": 2680404,
+      "sha256": "437547c6d4ac6e6c8e98affa05b66283e76cf114d67a04712a8f814fbcbc6a02",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "prefleuri-home",
+      "url": "https://www.prefleuricamps.ch/",
+      "final_url": "https://www.prefleuricamps.ch/",
+      "status": 200,
+      "bytes": 283278,
+      "sha256": "1587cffe458cfafdce12a090beff2272912f4f202fe9292ef42dc24b465a7d44",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "rosey-home",
+      "url": "https://www.roseysummercamps.ch/",
+      "final_url": "https://www.roseysummercamps.ch/",
+      "status": 200,
+      "bytes": 143279,
+      "sha256": "18ce9b6195301cd1a4090ae923804804946f4248359ddd98b42e6ff34fe588a4",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "lovell-summer",
+      "url": "https://lovellcamps.ch/summer-camp/",
+      "final_url": "https://lovellcamps.ch/summer-camp/",
+      "status": 200,
+      "bytes": 107155,
+      "sha256": "b7132b8f4009e65b6ed49833bfc9f913a67ff8d9a47c110e4ab1bd3daa03313c",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "lovell-winter",
+      "url": "https://lovellcamps.ch/winter-camp/",
+      "final_url": "https://lovellcamps.ch/winter-camp/",
+      "status": 200,
+      "bytes": 89471,
+      "sha256": "29d8168582abae50de5a5b28c1866e6c1feb20076209c7195c99b1c3b614e5c9",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "lovell-pdf",
+      "url": "https://lovellcamps.ch/wp-content/uploads/2026/08/Session-Application-202627.pdf",
+      "final_url": "https://lovellcamps.ch/wp-content/uploads/2026/08/Session-Application-202627.pdf",
+      "status": 200,
+      "bytes": 501554,
+      "sha256": "6944c98123e9c962f8cd3071c1d650b63eccf6561e2e5cdf9f01ef785b72afea",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "lovell-academy",
+      "url": "https://lovellcamps.ch/wp-content/uploads/2025/02/Academy_Application_Forms_2026-.pdf",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier.",
+      "limitation": "404 older academy application; winter academy2027 header alone does not prove full admissions/fee contract."
+    },
+    {
+      "key": "suisse-rates",
+      "url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+      "final_url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+      "status": 200,
+      "bytes": 65783,
+      "sha256": "761b51568d2a118d1b34ed812d5db320911b74775f8226ed79540b005d54e3ee",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-program",
+      "url": "https://www.campsuisse.com/summer-camp/",
+      "final_url": "https://www.campsuisse.com/summer-camp/",
+      "status": 200,
+      "bytes": 73482,
+      "sha256": "cf474564b0f763359629cb0dde9723867888af15f4ffc087652361d561dd4827",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-faq",
+      "url": "https://www.campsuisse.com/summer-camp/faq/",
+      "final_url": "https://www.campsuisse.com/summer-camp/faq/",
+      "status": 200,
+      "bytes": 82882,
+      "sha256": "8d5f6a78365df6e1adf589a409ca0330d708bd851eb4171c18a463e0d410a8a3",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-day",
+      "url": "https://www.campsuisse.com/summer-day-camp/",
+      "final_url": "https://www.campsuisse.com/summer-day-camp/",
+      "status": 200,
+      "bytes": 64633,
+      "sha256": "4d0a9a2ad6aee76bfa28d3b1e4d8c2e49f78e27725bcf4bd103e35085cab0453",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-day-rates",
+      "url": "https://www.campsuisse.com/day-camp-dates-prices/",
+      "final_url": "https://www.campsuisse.com/day-camp-dates-prices/",
+      "status": 200,
+      "bytes": 63657,
+      "sha256": "0861427e2bc31a361d4c641e004b56b0cdacfaddee6ea57b06b165885a4c248e",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-downloads",
+      "url": "https://www.campsuisse.com/summer-camp/downloads/",
+      "final_url": "https://www.campsuisse.com/summer-camp/downloads/",
+      "status": 200,
+      "bytes": 58865,
+      "sha256": "e59eb95fe814db3af75c4d79910c45abd5692cb49147a13781174e225a2cb020",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "monterosa-summer",
+      "url": "https://www.monterosa.ch/en/Summer-School.html",
+      "final_url": "https://www.monterosa.ch/en/Summer-School/Discover/Summer-camp.html",
+      "status": 200,
+      "bytes": 49428,
+      "sha256": "89ae4315b0e9ff81474bb8b4b3341d1b96555aedd9b3b6f5b34b841a667cfb8f",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier.",
+      "limitation": "Image-heavy page: no verified2027 fee/session table in extracted text; not a new validated2027 programme."
+    },
+    {
+      "key": "monterosa-winter",
+      "url": "https://www.monterosa.ch/en/Winter-School.html",
+      "final_url": "https://www.monterosa.ch/en/Winter-School/Discover/Discover.html",
+      "status": 200,
+      "bytes": 53419,
+      "sha256": "98b509c41ab879c92b0e380a6e9740aff8354a8e60673dbf38639766caaf806f",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier.",
+      "limitation": "Image-heavy page: no verified2027 fee/session table in extracted text; not a new validated2027 programme."
+    },
+    {
+      "key": "monterosa-faq",
+      "url": "https://www.monterosa.ch/en/The-school/FAQ/Summer-Winter-School.html",
+      "final_url": "https://www.monterosa.ch/en/The-school/FAQ/Summer-Winter-School/Summer-Winter-School.html",
+      "status": 200,
+      "bytes": 47515,
+      "sha256": "8fe82a86ca7bc7cab67a8035878b5e7de8ff0d39653d639bf3e6d5f2bbef1228",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier.",
+      "limitation": "Image-heavy page: no verified2027 fee/session table in extracted text; not a new validated2027 programme."
+    },
+    {
+      "key": "garenne-winter",
+      "url": "https://www.la-garenne.ch/winter-camps/",
+      "final_url": "https://www.la-garenne.ch/winter-camps/",
+      "status": 200,
+      "bytes": 2417376,
+      "sha256": "ea8dd170eb2947a9c70b2d469e7358a1a4109a1f9f11c8019811f43020ed6347",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "garenne-robotics",
+      "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+      "final_url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+      "status": 200,
+      "bytes": 832801,
+      "sha256": "217deee990f780b35631cabae1847d869f576f4fe6812b69187b177bcad0005f",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "garenne-faq",
+      "url": "https://www.la-garenne.ch/summer-camps-faqs/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/faqs/",
+      "status": 200,
+      "bytes": 2417282,
+      "sha256": "6802805ae83c169d75a2afb421f727f789582a6a66a43bd7f450c93d2f105d39",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-language",
+      "url": "https://www.campsuisse.com/activities/languages-at-camp-suisse/",
+      "final_url": "https://www.campsuisse.com/activities/languages-at-camp-suisse/",
+      "status": 200,
+      "bytes": 66157,
+      "sha256": "9c2a0794303fcb74a741f886a5569787e395090cf33bce9c7ad064a3c63b0c96",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    },
+    {
+      "key": "suisse-locations",
+      "url": "https://www.campsuisse.com/locations-2/",
+      "final_url": "https://www.campsuisse.com/locations-2/",
+      "status": 200,
+      "bytes": 88045,
+      "sha256": "fdb9e0057ae45d8a1712d9f29032688d5061c3dda5784defd2f6b19ec930ba24",
+      "checked": "2026-10-05",
+      "proof_scope": "Retrieval status only; current programme/year/age/fees separately assessed in dossier."
+    }
+  ]
+}

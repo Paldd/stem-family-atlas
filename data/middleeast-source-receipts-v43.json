@@ -1,0 +1,450 @@
+{
+  "version": 43,
+  "checked": "2026-10-02",
+  "scope": "ARE/OMN/QAT/SAU primary-source bounded pass",
+  "fetches": [
+    {
+      "name": "qatar_home",
+      "url": "https://robotics.qa/en/",
+      "status": 200,
+      "resolved": "https://robotics.qa/en/",
+      "mime": "text/html",
+      "bytes": 766826,
+      "sha256": "4b893a131592a6276d7e8753e4277eb25b127a1120cfe1ced835b825867a350a"
+    },
+    {
+      "name": "qatar_categories",
+      "url": "https://robotics.qa/competition/",
+      "status": 200,
+      "resolved": "https://robotics.qa/competition/",
+      "mime": "text/html",
+      "bytes": 651397,
+      "sha256": "b778e1f61d9b66fa11b969af33012395c87f063f4789da4888839011de16a4c9"
+    },
+    {
+      "name": "jic_brief",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026",
+      "status": 200,
+      "resolved": "https://challengeon.atrc.ae/en/challenges/jic2026",
+      "mime": "text/html",
+      "bytes": 48431,
+      "sha256": "ef6640280678ce45c5f52a9e8ab3ae652d382b3ab788b340b1c9cffe5085cad2"
+    },
+    {
+      "name": "jic_rules",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/agreements?lang=en",
+      "status": 200,
+      "resolved": "https://challengeon.atrc.ae/en/challenges/jic2026/agreements?lang=en",
+      "mime": "text/html",
+      "bytes": 34334,
+      "sha256": "2f89b44928dea2c33efd445c1b659e51a78813ccb6676eb1f94ae9b546cee947"
+    },
+    {
+      "name": "jic_tasks",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/challenge-statement?lang=en",
+      "status": 200,
+      "resolved": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/challenge-statement?lang=en",
+      "mime": "text/html",
+      "bytes": 44265,
+      "sha256": "1307889a989a41d51eb58b1e901dc0cc0cf467d5143a2b8bfd307025043e213c"
+    },
+    {
+      "name": "jic_faq",
+      "url": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/faq?lang=en",
+      "status": 200,
+      "resolved": "https://challengeon.atrc.ae/en/challenges/jic2026/pages/faq?lang=en",
+      "mime": "text/html",
+      "bytes": 38843,
+      "sha256": "cd3a0532eec410973defdb05a6ad8b50ebb5646e8044f85ea89d4596e1ab2673"
+    },
+    {
+      "name": "oman_season",
+      "url": "https://www.roboticktick.com/wro/season/11/2026",
+      "status": 200,
+      "resolved": "https://www.roboticktick.com/wro/season/11/2026",
+      "mime": "text/html",
+      "bytes": 178931,
+      "sha256": "d4005cc81a675006449d7102e05fe4d1ce439dc9b0def19f5f24a628a041ab91"
+    },
+    {
+      "name": "oman_guide",
+      "url": "https://roboticktick.com/media/wro/session/guide/WRO2026_OMAN_National_Competition.pdf",
+      "status": 200,
+      "resolved": "https://roboticktick.com/media/wro/session/guide/WRO2026_OMAN_National_Competition.pdf",
+      "mime": "application/pdf",
+      "bytes": 547525,
+      "sha256": "e5070217e5526dd14b7558c5e343212af3203ef05c7ec242593262c1a30b17b1"
+    },
+    {
+      "name": "saudi_news",
+      "url": "https://www.spa.gov.sa/en/N2660474",
+      "status": 200,
+      "resolved": "https://www.spa.gov.sa/en/N2660474",
+      "mime": "text/html",
+      "bytes": 166794,
+      "sha256": "699180d193e499af1c8d566945b48b6debe1d2f7cbd44cfb1cd55d3e9bddec83"
+    },
+    {
+      "name": "saudi_wro",
+      "url": "https://wrosaudi.com/",
+      "status": 200,
+      "resolved": "https://wrosaudi.com/",
+      "mime": "text/html",
+      "bytes": 14203,
+      "sha256": "5f5e23ae5bdcd4437f879b64e5e326cca95b853bfd67c662f69ec9ab1d5a38e5"
+    },
+    {
+      "name": "saudi_mawhiba",
+      "url": "https://app-prd-backend2-umbracoportal-uaenorth-gjd3amf6hhfkb2bh.uaenorth-01.azurewebsites.net/discover-mawhiba/competitions/world-robot-olympiad/",
+      "status": 200,
+      "resolved": "https://app-prd-backend2-umbracoportal-uaenorth-gjd3amf6hhfkb2bh.uaenorth-01.azurewebsites.net/discover-mawhiba/competitions/world-robot-olympiad/",
+      "mime": "text/html",
+      "bytes": 127885,
+      "sha256": "4a57f261c747d94b7e41ef1a9bee34b12ebb070be95d96cfa8bb4060df3507f3"
+    },
+    {
+      "name": "fun_home",
+      "url": "https://www.fun-robotics.com/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "fun_term",
+      "url": "https://www.fun-robotics.com/term2/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "robogenz_camp",
+      "url": "https://www.robogenz.ae/summer-camp-s2",
+      "status": 200,
+      "resolved": "https://www.robogenz.ae/summer-camp-s2",
+      "mime": "text/html",
+      "bytes": 25353,
+      "sha256": "5f835e714e68426d77c7a099a89112a4f895e676334ff8408655b92a27440ea4"
+    },
+    {
+      "name": "robogenz_events",
+      "url": "https://www.robogenz.ae/events",
+      "status": 200,
+      "resolved": "https://www.robogenz.ae/events",
+      "mime": "text/html",
+      "bytes": 24354,
+      "sha256": "5d7419c7fe602b4f0473d79033342818422442ad20f4de0952498f1645cfc945"
+    },
+    {
+      "name": "uwr_spring",
+      "url": "https://uniqueworldrobotics.com/course/future-tech-spring-camp-dubai-2026-ai-robotics-for-kids/",
+      "status": 200,
+      "resolved": "https://uniqueworldrobotics.com/course/future-tech-spring-camp-dubai-2026-ai-robotics-for-kids/",
+      "mime": "text/html",
+      "bytes": 134171,
+      "sha256": "04632e0dc619913d87a51567b2b60c1fdecf039b9c54ad66305a2b3b70ab689f"
+    },
+    {
+      "name": "uwr_summer",
+      "url": "https://summer.uwr.ae/",
+      "status": 200,
+      "resolved": "https://summer.uwr.ae/",
+      "mime": "text/html",
+      "bytes": 27380,
+      "sha256": "32acaa18149c604a7ca0cfea2606f18a2874467e1390a01ddd5e6dfcd21d84cf"
+    },
+    {
+      "name": "pure_summer",
+      "url": "https://puremindsacademy.com/stem-for-kids-summer-camps-in-dubai",
+      "status": 200,
+      "resolved": "https://puremindsacademy.com/stem-for-kids-summer-camps-in-dubai",
+      "mime": "text/html",
+      "bytes": 251842,
+      "sha256": "81028f519e9c75c952bbf5da602da6d1c619bcabe0b21f5d3e314397f017924c"
+    },
+    {
+      "name": "lafolie_camp",
+      "url": "https://lafolie.me/camps.html?location=handprint",
+      "status": 200,
+      "resolved": "https://lafolie.me/camps.html?location=handprint",
+      "mime": "text/html",
+      "bytes": 153112,
+      "sha256": "db86dc429981dafddafbd852d48a4cf5718d5e656a32aa14076e2a13ab6e7b62"
+    },
+    {
+      "name": "gitex",
+      "url": "https://www.gitex.com/",
+      "status": 200,
+      "resolved": "https://www.gitex.com/",
+      "mime": "text/html",
+      "bytes": 149164,
+      "sha256": "8cf807ecf05ab5b0620b30a9b7f1cf2bd33b686ff5e28775d131e74eab5984f0"
+    },
+    {
+      "name": "gitex_terms",
+      "url": "https://www.gitex.com/terms-and-conditions",
+      "status": 200,
+      "resolved": "https://www.gitex.com/terms-and-conditions",
+      "mime": "text/html",
+      "bytes": 48811,
+      "sha256": "4e2d70917c3f5f9facfc59bcddc5c4d9905dca1e0371d762fc0e3f410a1b297c"
+    },
+    {
+      "name": "ai_everything",
+      "url": "https://www.aieverythingabudhabi.com/home",
+      "status": 200,
+      "resolved": "https://www.aieverythingabudhabi.com/home",
+      "mime": "text/html",
+      "bytes": 271171,
+      "sha256": "a53197e651da5a61056011623abdcb13b07ccc4d26edce1a0fddebb02cc9a967"
+    },
+    {
+      "name": "northstar",
+      "url": "https://expandnorthstar.com/",
+      "status": 200,
+      "resolved": "https://expandnorthstar.com/",
+      "mime": "text/html",
+      "bytes": 324828,
+      "sha256": "e8d06fdb38d4f8f50dca296c3f5b3a54a2c8411f867f5895c2e69f622b2cd3ff"
+    },
+    {
+      "name": "qatar_websummit",
+      "url": "https://qatar.websummit.com/",
+      "status": 200,
+      "resolved": "https://qatar.websummit.com/",
+      "mime": "text/html",
+      "bytes": 382440,
+      "sha256": "db1148fb60471833c591edd1873a4c7603ae4680b54a26af1e03abd944b73392"
+    },
+    {
+      "name": "qatar_websummit_terms",
+      "url": "https://qatar.websummit.com/terms-and-conditions/",
+      "status": 200,
+      "resolved": "https://qatar.websummit.com/terms-and-conditions/",
+      "mime": "text/html",
+      "bytes": 197598,
+      "sha256": "592c73f0fedc6866c197738fd694972e9a6e58cffea9a414eeec843df8dde622"
+    },
+    {
+      "name": "leap",
+      "url": "https://onegiantleap.com/",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "leap_faq",
+      "url": "https://onegiantleap.com/faq",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "museum_visit",
+      "url": "https://prod-origin.museumofthefuture.ae/en/plan-your-visit",
+      "status": 200,
+      "resolved": "https://prod-origin.museumofthefuture.ae/en/plan-your-visit",
+      "mime": "text/html",
+      "bytes": 164575,
+      "sha256": "2a2f1969152b28d9775f54ab904ef7d802ad33b1d824357606fc4df58dc610aa"
+    },
+    {
+      "name": "cheltenham_results",
+      "url": "https://cheltenhammuscat.com/school-news/world-robot-olympiad-oman-2026/",
+      "status": 200,
+      "resolved": "https://cheltenhammuscat.com/school-news/world-robot-olympiad-oman-2026/",
+      "mime": "text/html",
+      "bytes": 120173,
+      "sha256": "1f810ac781149ea5e56f23e0c07c4817c637cddaaddfffeff7f4a27eb35b1ed5"
+    },
+    {
+      "name": "sisd_home",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai",
+      "status": 200,
+      "resolved": "https://www.nordangliaeducation.com/sisd-dubai",
+      "mime": "text/html",
+      "bytes": 169520,
+      "sha256": "0085b84da4121e9e17930f39e98b3bf147642f792e72fd242c3a8690861e14ad"
+    },
+    {
+      "name": "qatar_guide",
+      "url": "https://robotics.qa/wp-content/uploads/2025/10/Qatara-robotics-AI-18.pdf",
+      "status": 200,
+      "resolved": "https://robotics.qa/wp-content/uploads/2025/10/Qatara-robotics-AI-18.pdf",
+      "mime": "application/pdf",
+      "bytes": 223127493,
+      "sha256": "8251b7ee4de55767d8436aef1b5f75de6061246119a12c30011ab2938feb0fa3"
+    },
+    {
+      "name": "qatar_venue",
+      "url": "https://qatar.websummit.com/essentials/venue/",
+      "status": 200,
+      "resolved": "https://qatar.websummit.com/essentials/venue/",
+      "mime": "text/html",
+      "bytes": 102883,
+      "sha256": "9f772048d4e756470bdcf3c0cce750f638398711be495062cc28afe662677698"
+    },
+    {
+      "name": "sisd_primary",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/academic-excellence/primary",
+      "status": 200,
+      "resolved": "https://www.nordangliaeducation.com/sisd-dubai/academic-excellence/primary",
+      "mime": "text/html",
+      "bytes": 135935,
+      "sha256": "ea1edc01ac63e99652a14f08b1871e8a87b96b1711afb91fe2058c8a4e3b40db"
+    },
+    {
+      "name": "sisd_boarding",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/boarding/boarding-options",
+      "status": 200,
+      "resolved": "https://www.nordangliaeducation.com/sisd-dubai/boarding/boarding-options",
+      "mime": "text/html",
+      "bytes": 120926,
+      "sha256": "454ec00e29845b5b5a2b88c8aeea4c4e8252c97e73437c5c753842c68dfdc30d"
+    },
+    {
+      "name": "sisd_facilities",
+      "url": "https://www.nordangliaeducation.com/sisd-dubai/campus/facilities",
+      "status": 200,
+      "resolved": "https://www.nordangliaeducation.com/sisd-dubai/campus/facilities",
+      "mime": "text/html",
+      "bytes": 124424,
+      "sha256": "2cec1adcd7ef960fe95f443ce62a7f326869b19a66065be0d1f17aef0bad32fc"
+    },
+    {
+      "name": "cheltenham_curriculum",
+      "url": "https://cheltenhammuscat.com/curriculum/",
+      "status": 200,
+      "resolved": "https://cheltenhammuscat.com/curriculum/",
+      "mime": "text/html",
+      "bytes": 133809,
+      "sha256": "6dba99b019b60d371621ea0a25074e9440f5f5deff3c0636978de634456f79b4"
+    },
+    {
+      "name": "cheltenham_fees",
+      "url": "https://cheltenhammuscat.com/fees/",
+      "status": 200,
+      "resolved": "https://cheltenhammuscat.com/fees/",
+      "mime": "text/html",
+      "bytes": 129409,
+      "sha256": "fe0b6a8ba3b52281f41a1f2188601ca6d9fe7cba3b4897bfeec3df8e1ed8d18c"
+    },
+    {
+      "name": "ai_faq",
+      "url": "https://www.aieverythingabudhabi.com/faqs",
+      "status": 200,
+      "resolved": "https://www.aieverythingabudhabi.com/faqs",
+      "mime": "text/html",
+      "bytes": 143888,
+      "sha256": "3e6b71ac5fbebd905450263142e4c27a7ea9c93866bb85986ecafb8222204901"
+    },
+    {
+      "name": "pma_hack",
+      "url": "https://puremindsacademy.com/pma-boeing-ai-hackathon-2026",
+      "status": 200,
+      "resolved": "https://puremindsacademy.com/pma-boeing-ai-hackathon-2026",
+      "mime": "text/html",
+      "bytes": 142734,
+      "sha256": "78f420f6551e3f15a366dfef2c442f5ccb0f324be1ccca5e447ca60460775818"
+    },
+    {
+      "name": "pma_saturday",
+      "url": "https://puremindsacademy.com/stem-saturdays-in-dubai-weekend-classes-and-programs",
+      "status": 200,
+      "resolved": "https://puremindsacademy.com/stem-saturdays-in-dubai-weekend-classes-and-programs",
+      "mime": "text/html",
+      "bytes": 157245,
+      "sha256": "6b5c1d439828a6043e4cb779fdd4637c4e2c523657eacfd33fd853a16657d233"
+    },
+    {
+      "name": "uwr_faq",
+      "url": "https://summer.uwr.ae/faq",
+      "status": 200,
+      "resolved": "https://summer.uwr.ae/faq",
+      "mime": "text/html",
+      "bytes": 12490,
+      "sha256": "7dfc6e13e80ab3acc674f55fe246a16b90ac24ca3dd4507c43065f99b4ad3c0b"
+    }
+  ],
+  "used_names": [
+    "ai_everything",
+    "ai_faq",
+    "cheltenham_curriculum",
+    "cheltenham_fees",
+    "cheltenham_results",
+    "fun_term",
+    "gitex",
+    "gitex_terms",
+    "jic_brief",
+    "jic_faq",
+    "jic_rules",
+    "jic_tasks",
+    "lafolie_camp",
+    "leap",
+    "leap_faq",
+    "museum_visit",
+    "northstar",
+    "oman_guide",
+    "oman_season",
+    "pma_hack",
+    "pma_saturday",
+    "pure_summer",
+    "qatar_categories",
+    "qatar_guide",
+    "qatar_venue",
+    "qatar_websummit",
+    "qatar_websummit_terms",
+    "robogenz_camp",
+    "robogenz_events",
+    "saudi_mawhiba",
+    "sisd_boarding",
+    "sisd_facilities",
+    "sisd_primary",
+    "uwr_faq",
+    "uwr_spring",
+    "uwr_summer"
+  ],
+  "alternate_web_opened": [
+    {
+      "name": "fun_term",
+      "url": "https://www.fun-robotics.com/term2/",
+      "read_via": "web.run opened full page; failed direct HTTP retained"
+    },
+    {
+      "name": "leap",
+      "url": "https://onegiantleap.com/",
+      "read_via": "web.run opened full page; failed direct HTTP retained"
+    },
+    {
+      "name": "leap_faq",
+      "url": "https://onegiantleap.com/faq",
+      "read_via": "web.run opened full page; failed direct HTTP retained"
+    }
+  ],
+  "pdf_review": {
+    "url": "https://robotics.qa/wp-content/uploads/2025/10/Qatara-robotics-AI-18.pdf",
+    "pages": 99,
+    "relevant_pages": [
+      3,
+      43,
+      51,
+      69,
+      89
+    ],
+    "cover_copyright": 2025,
+    "amendments": 2026,
+    "visual_pages": [
+      1,
+      43,
+      51,
+      69,
+      89
+    ]
+  },
+  "conflicts": [
+    "Qataroverviewvs2026PDFage/team/platform",
+    "QatarArm10–18PDFvs12–18overview",
+    "WebSummitQatarlocal18+vsconditionalglobalYouthTicket",
+    "FuncurrentTERM1vsoldTERM2/Ramadan",
+    "PMAcurrentTERM12026vsTERMII2025/NCFE2024",
+    "AIexpoFAQtitle5–7vsbody/home6–7Oct2026",
+    "GITEXcurrentDecvslegacyNovPDF",
+    "LEAP2027homepagevs2026FAQbody"
+  ],
+  "remaining": "Foreign national quotas, actual cohorts/languages/places, rest of Middle East and full world scope"
+}

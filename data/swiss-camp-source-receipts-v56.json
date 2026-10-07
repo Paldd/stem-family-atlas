@@ -1,0 +1,118 @@
+{
+  "asof": "2026-10-04",
+  "rows": [
+    {
+      "key": "regent-home-v56",
+      "url": "https://www.regentcamps.ch/",
+      "final_url": "https://www.regentcamps.ch/",
+      "status": 200,
+      "bytes": 662821,
+      "sha256": "906a8ad6814222767bd51d79c0eaf9df0428e749a1739353068623fc6da90a52",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "regent-faq-v56",
+      "url": "https://www.regentcamps.ch/copy-of-faq",
+      "final_url": "https://www.regentcamps.ch/copy-of-faq",
+      "status": 200,
+      "bytes": 602044,
+      "sha256": "3126879cfbb40c74be9228d003c9d3ed6d2b6038e54c45558960f3115e1b10bc",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "regent-enrol-v56",
+      "url": "https://www.regentcamps.ch/enrolment",
+      "final_url": "https://www.regentcamps.ch/enrolment",
+      "status": 200,
+      "bytes": 586446,
+      "sha256": "81640b4390676e33b138593346b3d251ed6bb2e6ffe650d8128b264e4cb69e21",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "jfk-home-v56",
+      "url": "https://www.swissoutdoorcamp.ch/",
+      "final_url": "https://www.swissoutdoorcamp.ch/",
+      "status": 200,
+      "bytes": 53231,
+      "sha256": "d7d469d1a853b8f894dfda537a64982d6bf13fc49e7456124a659aeb74b9c838",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "jfk-2027-v56",
+      "url": "https://www.swissoutdoorcamp.ch/applicationnew.html",
+      "final_url": "https://www.swissoutdoorcamp.ch/applicationnew.html",
+      "status": 200,
+      "bytes": 19249,
+      "sha256": "ee1e601bc5914d358fd47bbc8f03ca7364c2f71fd91828139075fec9b508e18f",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "jfk-enrol-v56",
+      "url": "https://jfkswissoutdoorcamp.campmanagement.com/enroll",
+      "final_url": "https://jfkswissoutdoorcamp.campmanagement.com/p/request_for_info_m.php?action=enroll",
+      "status": 200,
+      "bytes": 175991,
+      "sha256": "370276795db1858d2f18a6f7904040bba5f2d175fa1bcedf77b496cedf167f01",
+      "checked": "2026-10-04",
+      "evidence_role": "account-creation form only; no programme/fee or submission proved"
+    },
+    {
+      "key": "jfk-admissions-v56",
+      "url": "https://swissoutdoorcamp.ch/admissions.html",
+      "final_url": "https://swissoutdoorcamp.ch/admissions.html",
+      "status": 200,
+      "bytes": 22595,
+      "sha256": "aeac5673fa598f4b0c75e1f14f6a804d5d1dd8c0017e0f3348a91cb36c1b3f1a",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "jfk-school-camps-v56",
+      "url": "https://jfk.ch/camps/",
+      "final_url": "https://jfk.ch/camps/",
+      "status": 200,
+      "bytes": 545107,
+      "sha256": "139101c927a384c52886fef7ed1f2511197dfd0ca8339966df5667437c1690d4",
+      "checked": "2026-10-04",
+      "evidence_role": "official page retrieved and read"
+    },
+    {
+      "key": "jfk-conditions-v56",
+      "url": "https://swissoutdoorcamp.ch/downloads/JFK%20Camp%20fees%20conditions%202027.pdf",
+      "final_url": "https://swissoutdoorcamp.ch/downloads/JFK%20Camp%20fees%20conditions%202027.pdf",
+      "status": 200,
+      "bytes": 1264682,
+      "sha256": "141029c4b9a4df61aa2aa525ddf365ca4a452f46954fbbdf81624750a93616da",
+      "checked": "2026-10-04",
+      "evidence_role": "live PDF downloaded and rendered both pages"
+    }
+  ],
+  "counts": {
+    "retrieved": 9,
+    "pdf_rendered": 1,
+    "public_form_only": 1
+  },
+  "resolved_extraction_conflict": {
+    "source": "https://swissoutdoorcamp.ch/downloads/JFK%20Camp%20fees%20conditions%202027.pdf",
+    "current_pdf_sha256": "141029c4b9a4df61aa2aa525ddf365ca4a452f46954fbbdf81624750a93616da",
+    "finding": "Live rendered PDF prices match current HTML. Earlier web-reader extraction returned old fees, transfers and refund terms; rejected for current facts."
+  },
+  "remaining_conflicts": [
+    "JFK admissions HTML excludes private liability; current live 2027 PDF includes it.",
+    "JFK school camps has 6–14 in header and 6–13 in one body passage.",
+    "Régent homepage is 2027, while FAQ and cancellation dates in enrolment still include 2026."
+  ],
+  "not_established": [
+    "JFK camp-specific EN instruction",
+    "Régent STEM-specific EN instruction and current 2027 financial conditions",
+    "Camp places or admission",
+    "JFK security deposit amount",
+    "Whether Régent CHF 1,000 application fee is included in headline tariff"
+  ],
+  "no_external_submission": true
+}

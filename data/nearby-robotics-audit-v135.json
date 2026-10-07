@@ -1,0 +1,186 @@
+{
+  "version": 135,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Exact host-announced TMR2027 dates, current Bebras grade/deadline discrepancy, ten RobofestLATAM discipline watches, two BajaBot grade scenarios and nine FeriaMaker workshops. Worldwide scope retained.",
+  "events": 3829,
+  "competition_records": 1168,
+  "exhibition_records": 207,
+  "event_records": 207,
+  "exhibition_records_unit": "Mixed Events block, not number of major world company exhibitions.",
+  "camp_learning_records": 2454,
+  "programme_dossiers": 1102,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1648,
+  "editorial_scenarios": 256,
+  "budget_scenarios": 57,
+  "new_dossiers": 0,
+  "new_calendar_rows": 21,
+  "new_competition_rows": 11,
+  "new_event_rows": 10,
+  "new_dated_workshop_windows": 8,
+  "new_undated_rule_watches": 12,
+  "new_undated_workshop_rows": 1,
+  "updated_event_ids": [
+    "C043",
+    "C064"
+  ],
+  "unchanged_event_objects": 3806,
+  "new_calendar_ids": [
+    "C1159",
+    "C1160",
+    "C1161",
+    "C1162",
+    "C1163",
+    "C1164",
+    "C1165",
+    "C1166",
+    "C1167",
+    "C1168",
+    "C1169",
+    "E191",
+    "E192",
+    "E193",
+    "E194",
+    "E195",
+    "E196",
+    "E197",
+    "E198",
+    "E199",
+    "E200"
+  ],
+  "unchanged_dossiers": 1102,
+  "unchanged_budget_objects": 57,
+  "unchanged_family_review_candidates": 64,
+  "family_review_countries": 16,
+  "league_profiles": 144,
+  "new_league_profiles": [
+    "robofest-latam",
+    "bajabot"
+  ],
+  "updated_guide_ids": [
+    "tmr",
+    "robofest"
+  ],
+  "unchanged_guide_profiles": 140,
+  "source_retrieval_attempts": 30,
+  "direct_http200_bodies": 27,
+  "http_error_bodies": 1,
+  "direct_timeouts": 2,
+  "retained_body_receipts": 28,
+  "pdf_files": 7,
+  "pdf_pages_retained": 80,
+  "presentation_files": 1,
+  "presentation_slides_retained": 16,
+  "source_limits": "Seven PDF files/80pages and one16slide presentation retained; selected age/team/hardware/awards clauses read. Not80 independently audited pages or30 complete organiser sites. Two TMR timeouts supplemented by full web primary reader; Pachuca bulletin404. Three HTML JS shells not programme evidence. Public JSON is served content, not live acceptance/availability.",
+  "family_ical": 3033,
+  "new_family_ical_entries": 8,
+  "old_family_ical_blocks_byte_identical": 3023,
+  "old_bebras_ical_blocks_updated_check_date": 2,
+  "exhibition_ical": 104,
+  "mobile_qa": false,
+  "production_browser_qa": false,
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "publication": {
+    "status": "prepared_local_not_published",
+    "project_id": "appgprj_6abd44bca1348191809b7260dcb46d87",
+    "reason": "Fresh v135 native get_site for manifest project returned NOT_FOUND/project_not_found404. No source push, saved version or deployment; existing project/audience retained.",
+    "last_confirmed_published_version": 125,
+    "last_confirmed_deployment_id": "appgdep_6ac4ff3f3c7481918fe3d668d24574b0",
+    "last_confirmed_success_at": "2026-10-06T14:02:09.803197+00:00",
+    "production_browser_qa": false
+  },
+  "verification": {
+    "independent-check": {
+      "version": 135,
+      "status": "passed",
+      "baseline_commit": "6806c09f1c27be9c2d6b4f39b0e5271e01cf45d2",
+      "unchanged_event_objects": 3806,
+      "updated_event_ids": [
+        "C043",
+        "C064"
+      ],
+      "new_rows": 21,
+      "unchanged_dossiers": 1102,
+      "unchanged_budget_objects": 57,
+      "unchanged_school_history_routes": true,
+      "unchanged_guide_profiles": 140,
+      "new_guide_ids": [
+        "robofest-latam",
+        "bajabot"
+      ],
+      "source_receipts": 30,
+      "retained_body_hashes_verified": 28,
+      "pdf_pages_retained": 80,
+      "old_ics_blocks_byte_identical": 3023,
+      "old_bebras_dates_and_uids_preserved": 2,
+      "new_ics_entries": 8,
+      "complete_json_verified": true,
+      "complete_sqlite_verified": true,
+      "sqlite_integrity": "ok",
+      "exhibition_ics_byte_identical": true,
+      "unannounced_seasons_undated": true,
+      "no_duplicate_category_id": true,
+      "no_external_actions": true,
+      "worldwide_complete": false,
+      "fully_audited_countries": 0
+    },
+    "functional-check": {
+      "version": 135,
+      "status": "passed",
+      "checks": [
+        {
+          "name": "family_eight_options",
+          "passed": true
+        },
+        {
+          "name": "oscar_six_options_without_bebras_or_grade4_sumo",
+          "passed": true
+        },
+        {
+          "name": "matvey_eight_options_with_school_gate",
+          "passed": true
+        },
+        {
+          "name": "tmr_dialog_exact_host_dates",
+          "passed": true
+        },
+        {
+          "name": "cross_section_league_link_opens_leagues_and_ten_local_categories",
+          "passed": true,
+          "initial_issue": "Unversioned league script stayed cached; fixed versioned asset URL and verified visible navigation."
+        },
+        {
+          "name": "bajabot_search_and_two_grade_categories",
+          "passed": true
+        },
+        {
+          "name": "bajabot_award_conflict_and_museum_kit_visible",
+          "passed": true
+        },
+        {
+          "name": "current_profile_methodology_count",
+          "passed": true
+        }
+      ],
+      "console_error_count": 0,
+      "production_browser_qa": false,
+      "mobile_qa": false,
+      "screenshot_status": "unavailable_zero_width_background_thread; open_in_codex_queued",
+      "screenshots_saved": false,
+      "personal_plans_modified": false,
+      "url": "http://127.0.0.1:8863/#leagues"
+    }
+  }
+}

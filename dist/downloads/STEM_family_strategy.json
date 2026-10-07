@@ -1,0 +1,1181 @@
+{
+  "version": 26,
+  "checked": "2026-10-01",
+  "kind": "editorial_family_recommendation",
+  "title": "Одна база. Два собственных маршрута.",
+  "conclusion": "Главное сравнение для следующей постоянной базы — Мексика и Тайвань: Monterrey / ASFM плюс независимая команда, либо Taipei / TAS и Taichung / AST. Мексика — первый практический визит; Тайвань — первый азиатский кандидат. США можно выбирать уже сейчас, если бизнес семьи, смета и конкретная младшая команда совпадут. Коста-Рика сохраняет регулярную практику на время выбора.",
+  "rationale": "Переезд должен давать ежедневную инженерную среду: сильные ровесники, взрослый наставник, доступ к полю и собственная работа детей. Награда подростковой команды или известность страны сама по себе не подтверждает этот доступ в 6 / 9 лет.",
+  "assumptions": [
+    "Матвей2017, Оскар2020; EN / ES доступны для полного дня, RU добавлен семьёй как допустимый язык.",
+    "Семья сообщает около трёх лет участия; самостоятельный технический уровень каждого ещё не измерен.",
+    "Семья готова к переезду и рассматривает несколько оснований проживания. Для выбора принята практическая доступность текущей базы и Мексики; другие основания — рассматриваемые варианты. Индивидуальное миграционное право этим исследованием не установлено.",
+    "Бюджет, точные классы / дни рождения, предпочтение детей и желаемая дата переезда неизвестны. Рекомендация условная, без сметы и обещаний поступления."
+  ],
+  "decision": "Одна постоянная база на 2–3 сезона, отдельная команда и роль каждому ребёнку. Сравнивать доступ к школе, младшей команде и наставнику вместе с проживанием семьи и первым годом расходов.",
+  "bases": [
+    {
+      "iso": "MEX",
+      "name": "Мексика · Monterrey",
+      "role": "Первый практический визит и основной вариант в Латинской Америке",
+      "verdict": "Первый практический визит",
+      "recommendation": "При доступности жизни в Мексике я бы начинал сравнение с Monterrey. ASFM — кандидат на общую школу обоим, а для Матвея параллельно проверять независимую Challenge / WRO / VEX IQ команду. Школьная младшая Explore сама по себе может не дать ему достаточной сложности после трёх лет опыта.",
+      "verified": "ASFM сообщает младшую FLL Explore и Middle / High FTC. FLL México допускает независимые команды, поэтому школа не единственный вход.",
+      "gates": [
+        "ASFM: поступление, места, младшая лига, реальная сложность и язык команды отдельно.",
+        "Explore имеет демонстрационный формат; признание в Explore не считать титулом Challenge.",
+        "Национальное представительство, квоты и иностранные / независимые команды сверять у организатора каждой лиги."
+      ],
+      "next": "Сравнить ASFM с независимой командой подходящего возраста. На 2027–28 K–G11 школа объявляет начало приёма в октябре 2026; оценка и место обязательны.",
+      "school_ids": [
+        "S002"
+      ],
+      "sources": [
+        {
+          "title": "ASFM · extended learning",
+          "url": "https://www.asfm.edu.mx/extended-learning",
+          "claim": "School reports elementary FLL Explore recognition and middle / high FTC nationals. Not a verified overall world title.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ASFM · admission process",
+          "url": "https://www.asfm.edu.mx/admissions/application-process",
+          "claim": "January 2027 applications from Sep 4, 2026; K–G11 2027–28 applications from October 2026; evaluation required.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; independent teams; Explore is a demonstration. Future edition and national allocation have distinct conditions.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ASFM · tuition 2026–27",
+          "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+          "claim": "K–5 tuition with sibling rate; registration and entrance are stated as one-time first-enrolment fees. Two-child arithmetic is editorial.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Первым проверять Challenge либо WRO / VEX IQ у сильного тренера. Explore может оказаться недостаточным по уровню.",
+        "osc": "Explore / младший инженерный кружок может дать команду и собственную роль; медаль показа отличать от конкурсного места."
+      }
+    },
+    {
+      "iso": "TWN",
+      "name": "Тайвань · Taipei / Taichung",
+      "role": "Первый азиатский кандидат для постоянной инженерной среды",
+      "verdict": "Главный азиатский кандидат",
+      "recommendation": "TAS — наиболее цельный найденный азиатский кандидат для обучения обоих от младшей робототехники к старшим лабораториям; AST — второй вариант. Проверять одновременно с Мексикой. Переезд выбирать после мест обоим, текущего junior-тренера и понятной сложности, а не только по наличию Gold Card или наградам старших.",
+      "verified": "TAS описывает Lower School coding, робототехнику и задачи с датчиками; продвинутые лаборатории и VEX / FRC относятся к другим ступеням. AST описывает elementary–high school; Worlds 2023 — Grades 5–12.",
+      "gates": [
+        "Нужны реальные места обоим в школе и подходящем кружке / команде.",
+        "TAS: иностранное гражданство ребёнка, документы и проживание Greater Taipei с родителем; Основание проживания родителя не является решением admissions.",
+        "Проверить EN в младшей команде, часы, тренера, смету и семейное проживание. Mandarin можно развивать дополнительно, не рассчитывать на него как на готовый язык занятий.",
+        "Employment Gold Card и зависимый ARC семьи — отдельный путь проживания. TAS независимо требует иностранное гражданство ребёнка, проживание с родителем / опекуном в Greater Taipei и решение admissions."
+      ],
+      "next": "Сначала TAS Lower School и AST: документы / оценка, посещение мастерской и пробное занятие, если школа его разрешит. Выбирать переезд на учебный год после сравнительной проверки.",
+      "school_ids": [
+        "S003",
+        "S020"
+      ],
+      "sources": [
+        {
+          "title": "TAS · Tech Cube",
+          "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+          "claim": "Lower School robotics and sensor projects; separate middle / upper provision, VEX and FRC.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "TAS · admissions",
+          "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+          "claim": "Foreign child nationality, Greater Taipei residence with parent, documents and placement; 2027–28 applications open.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "AST Taichung · robotics",
+          "url": "https://www.astaichung.com/robotics",
+          "claim": "Elementary through high school programme; 2023 Worlds students grades 5–12. School report; not proof of grade 1–4 competitive admission.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "AST · admission procedures",
+          "url": "https://www.astaichung.com/policies_procedures",
+          "claim": "Foreign passport restrictions, English / math assessment, G1 age cutoff August 31 and admission committee.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "TAS · tuition and fees 2026–27",
+          "url": "https://www.tas.edu.tw/admissions/tuition-fees",
+          "claim": "Pre-K–5 tariff, capital / building / application fees; deposit part of tuition, no sibling discount. Two-child arithmetic is editorial.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "Taiwan NIA · Gold Card family residency",
+          "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
+          "claim": "NIA article of 18 January 2025 describes separate dependent ARC applications for spouse / children. It is general background, not a current individual approval or school place.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Нужна junior-команда и сложность после трёх лет опыта; наличие Upper School FRC ещё не даёт место в ней.",
+        "osc": "Нужна группа для своего класса с конструированием и coding. Мировые команды старших не переносятся на возраст 6 лет."
+      }
+    },
+    {
+      "iso": "USA",
+      "name": "США · город под конкретную команду",
+      "role": "Полноценный вариант сейчас при подходящем бизнесе и младшей команде",
+      "verdict": "Команда + бизнес + смета",
+      "recommendation": "США не нужно автоматически откладывать до подросткового возраста. Если семья планирует действующий бизнес там и найдёт подходящую junior-команду обоим, это полноценный вариант уже сейчас. При отсутствии такой команды — целевые лагеря / турниры; в 12–18 лет отдельно сравнивать FTC / FRC. Наш нынешний список американских школ не доказывает, что место обоим в младшей команде уже есть.",
+      "verified": "FIRST публикует FTC для 12–18 / Grades 7–12 и FRC для 14–18 / Grades 9–12. Найденные повторные FRC-победы американских школ относятся к старшей ступени.",
+      "gates": [
+        "В нашем текущем списке нет подтверждённого места обоим детям в сильной американской junior-команде.",
+        "Возможность проживания семьи не устанавливает поступление, школьный округ или место в команде.",
+        "Нужны адрес, подходящая начальная школа / community-команда, наставник, смета; лагерь и постоянная команда — разные услуги.",
+        "E-2 — неиммиграционный инвесторский путь: гражданство страны договора, существенная инвестиция и действующее предприятие проверяются отдельно. Наличие страны в договорном списке не является одобрением семьи."
+      ],
+      "next": "Для пробной поездки выбрать возрастную смену и проверить её сложность / язык / иностранный вход. Для переезда сначала находить junior-команду; Bellarmine и Madera рассматривать позже.",
+      "school_ids": [
+        "S013",
+        "S012",
+        "S017"
+      ],
+      "sources": [
+        {
+          "title": "FIRST Tech Challenge",
+          "url": "https://www.firstinspires.org/programs/ftc/",
+          "claim": "12–18, grades 7–12. Team engineering and outreach.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Robotics Competition",
+          "url": "https://www.firstinspires.org/programs/frc/",
+          "claim": "14–18, grades 9–12. Team engineering, fundraising and communication.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "US Department of State · treaty countries",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+          "claim": "Mexico is in the E-2 treaty list; treaty nationality is only one eligibility condition. No individual family approval established.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "US Department of State · E-2 requirements",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+          "claim": "Nonimmigrant investor visa: nationality, substantial investment, real operating enterprise; spouse and unmarried children under 21 may apply as dependents.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "В 9 лет — младшая программа / команда. FTC 12+ и FRC 14+ являются будущими ориентирами, не текущей заявкой.",
+        "osc": "Нужен поток для 6 лет: часть coding-лагерей начинается с 7–8. Проверить конкретную смену до бронирования."
+      }
+    },
+    {
+      "iso": "PAN",
+      "name": "Панама · Panamá",
+      "role": "Третий конкретный вариант для визита",
+      "verdict": "Серьёзный резерв",
+      "recommendation": "ISP стоит включить в очное сравнение с ASFM: найден младший STEM и переход к VEX. Возможность жить в стране не заменяет проверку обучения.",
+      "verified": "ISP публикует еженедельный STEM в Grades 1–5 и VEX-команды Grades 3–12. Старший Innovation / Entrepreneurship Diploma — Grades 11–12.",
+      "gates": [
+        "Класс Матвея неизвестен; Grade 3+ — отдельный порог для VEX.",
+        "Для Оскара младший STEM подтверждён как программа, место в соревновательной команде не установлено.",
+        "Подтвердить EN в технических занятиях, admissions, действующего тренера и результаты; школьная страница не протокол побед."
+      ],
+      "next": "Посетить ISP и попросить расписание junior VEX, самостоятельную пробную задачу Матвею и STEM-занятие Оскару.",
+      "school_ids": [
+        "S022"
+      ],
+      "sources": [
+        {
+          "title": "ISP · STEM curriculum",
+          "url": "https://isp.edu.pa/es/aprendizaje-stem/",
+          "claim": "Weekly STEM in grades 1–5; VEX teams grades 3–12; older innovation and entrepreneurship programme. School programme description, not a medal protocol.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ISP · admissions",
+          "url": "https://isp.edu.pa/admissions/",
+          "claim": "K–G5 English assessment, grades placement and foreign study validation; waiting pool possible.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Условный кандидат в VEX при Grade 3+ и фактическом наборе; нельзя определить класс только из года рождения.",
+        "osc": "Кандидат в начальный STEM; опубликованная VEX-ступень начинается с Grade 3."
+      }
+    },
+    {
+      "iso": "CRI",
+      "name": "Коста-Рика · действующая семейная база",
+      "role": "Непрерывность и проверка прогресса",
+      "verdict": "Продолжать во время выбора",
+      "recommendation": "Сохранить занятия и команду на время сравнения стран. Если удаётся найти стабильного сильного тренера и ровесников, жить здесь и выезжать на отборные программы остаётся рабочим сценарием.",
+      "verified": "Lincoln описывает Innovation Center с робототехникой; младший соревновательный набор, часы и многолетние протоколы в этом проходе не подтверждены.",
+      "gates": [
+        "Текущая школа / тренер детей неизвестны. Сначала оценить их, затем искать замену.",
+        "Подходящий возраст не даёт автоматически национальную квоту. Исключения младшего допуска получать до оплаты / поездки."
+      ],
+      "next": "Провести самостоятельную техническую диагностику и сравнить действующего тренера с 2–3 кандидатами; установить постоянные занятия и выбранную лигу.",
+      "school_ids": [
+        "S001"
+      ],
+      "sources": [
+        {
+          "title": "Lincoln · Innovation Center",
+          "url": "https://www.lincoln.ed.cr/en/services/technology",
+          "claim": "Robotics programme exists. Current junior team, training hours and results not confirmed.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Сохранить регулярную сложную практику. Нужен партнёр подходящего возраста, пока Оскар младше WRO.",
+        "osc": "Сохранить собственную младшую группу и право выбирать проекты; домашняя совместная мастерская допустима."
+      }
+    },
+    {
+      "iso": "BRA",
+      "name": "Бразилия · São Paulo / Jundiaí",
+      "role": "Учиться у сильных команд; отдельные турниры",
+      "verdict": "Условный специальный маршрут",
+      "recommendation": "Бразилию я бы проверял для тренерского обмена / целевого турнира. Переезд имеет смысл после подтверждения младшего приёма, языка и доступа в конкретную команду.",
+      "verified": "SESI-SP сообщает Champion’s Award Heroes Jundiaí на FLL World Festival 2025. Это сообщение оператора школы; доступ иностранной семьи в Heroes не установлен.",
+      "gates": [
+        "EN / ES в роботокоманде не подтверждены; нужен соответствующий поток либо готовность к португальскому.",
+        "Проверить кампус, школьный отбор, приоритеты приёма и место обоим детям. Возможность проживания семьи не означает доступ в SESI-команду."
+      ],
+      "next": "Запросить условия младшей группы / языка и сверить школьный результат с протоколом. Без этого оставить как поездку и источник методики.",
+      "school_ids": [
+        "S015"
+      ],
+      "sources": [
+        {
+          "title": "SESI-SP · Heroes 2025",
+          "url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+          "claim": "School operator reports Heroes Jundiaí FLL Champion’s Award at Houston World Festival 2025. Not confirmation of foreign junior entry.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Возрастной путь FLL интересен; место в Heroes и язык не установлены.",
+        "osc": "Младший возраст / класс, язык и регулярная программа требуют отдельного подтверждения."
+      }
+    },
+    {
+      "iso": "RUS",
+      "name": "РФ · город под наставника",
+      "role": "Дополнительная математическая и инженерная подготовка",
+      "verdict": "Выбирать по специальной задаче",
+      "recommendation": "Можно рассматривать занятия / лагеря с конкретным сильным наставником и задачи по математике, алгоритмам, механике. Для непрерывного EN / ES и выбранной международной лиги я бы сначала проверял TAS, ASFM и ISP.",
+      "verified": "Официальный RoboFinist описывает младшие локальные категории. Их возрастные правила и победы не устанавливают квалификацию на мировой финал другой лиги.",
+      "gates": [
+        "Русский добавлен семьёй как допустимый язык. Конкретная младшая команда, самостоятельный технический уровень и школа остаются непроверенными.",
+        "Найти конкретную школу / тренера и проверить международный путь текущего сезона. В этой стратегии такая школа для обоих пока не подтверждена."
+      ],
+      "next": "Использовать краткую программу по понятной задаче и подходящему языку, если будет найден реальный наставник; постоянную базу сравнивать теми же критериями.",
+      "school_ids": [],
+      "sources": [
+        {
+          "title": "RoboFinist 2026 · official categories",
+          "url": "https://robofinist.org/event/info/competitions/id/1600",
+          "claim": "Local junior categories exist. Local ages and results are distinct from international league qualification.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Подойдут дополнительные алгоритмические / инженерные задачи при подходящем языке и самостоятельном участии.",
+        "osc": "Нужна младшая группа с подходящим языком. Допуск одной категории фестиваля не означает допуск всех дисциплин."
+      }
+    }
+  ],
+  "tracks": [
+    {
+      "id": "engineer",
+      "name": "Инженерия и робототехника",
+      "detail": "Механизмы → датчики → управление → надёжный автономный робот. Математика, измерения и журнал испытаний идут вместе с конструированием.",
+      "mat": "Основной трек сейчас: одна командная лига, самостоятельная сборка / код, повторяемые прогоны и объяснение ошибок.",
+      "osc": "Механизмы, последовательности, события, простые датчики; законченный маленький робот и понятное объяснение, что он делает.",
+      "proof": "Робот выполняет задачу без подсказок; ребёнок меняет решение после нового условия и объясняет проверку."
+    },
+    {
+      "id": "software",
+      "name": "Программирование и ИИ",
+      "detail": "Логика и алгоритмы → собственные приложения / игры → работа с данными. Начинать с понятных проверяемых задач; текстовый код добавлять по готовности.",
+      "mat": "Блоковое программирование с переходом к текстовому по диагностике; собственная игра / приложение. В AI — свои примеры, отдельная проверка и ошибки модели.",
+      "osc": "Блоки, циклы и условия через игру; небольшая программа, которую он сам может изменить. AI — классификация знакомых предметов с учителем.",
+      "proof": "Ребёнок объясняет алгоритм, находит ошибку и демонстрирует собственную часть. Проектные конкурсы допускают только заявленный состав и авторство."
+    },
+    {
+      "id": "product",
+      "name": "Продукт и предпринимательство",
+      "detail": "Наблюдать проблему → поговорить с пользователем → сделать прототип → проверить пользу → посчитать детали / стоимость → рассказать о решении.",
+      "mat": "Один полезный прототип за цикл: например, напоминатель о поливе или игра для младших. Собрать отзывы и улучшить следующую версию.",
+      "osc": "Самостоятельная небольшая роль: придумать интерфейс / механизм, собрать, проверить с пользователем и показать результат.",
+      "proof": "Есть пользователь, обратная связь, две версии и объяснение пользы. Доход и инвестиции не являются обязательной целью в 6 / 9 лет."
+    }
+  ],
+  "children": {
+    "mat": {
+      "name": "Матвей",
+      "birth_year": 2017,
+      "default": "FLL Challenge текущего сезона, если есть сильная доступная команда. WRO RoboMission либо VEX IQ — альтернативный основной трек при лучшей реальной среде.",
+      "detail": "FLL сочетает робототехнику, исследование, innovation-проект и защиту; я бы выбрал это для связки инженерии и предпринимательства. WRO — если больше нравится автономная инженерная задача. Платформу и сложность выбирать после самостоятельной диагностики.",
+      "current": [
+        "Одна основная команда / лига на сезон. У неё есть ровесники, тренер и поле для регулярных испытаний.",
+        "Параллельно один собственный полезный проект, математика и объяснение решений на EN / ES.",
+        "При трёх годах опыта beginner-camp выбирать только если диагностика показывает пробелы; искать подходящие задачи, а не возраст на рекламе."
+      ],
+      "proof": "Через сезон: самостоятельно собранный / запрограммированный робот, дневник испытаний, личная роль на защите, официальный результат или честно измеримый прогресс.",
+      "sources": [
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; independent teams; Explore is a demonstration. Future edition and national allocation have distinct conditions.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST K–8 · 2027 and beyond",
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "claim": "FIRST announces a replacement of FLL from 2027; SPIKE compatibility planned through 2028–29. Future details remain pending.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    "osc": {
+      "name": "Оскар",
+      "birth_year": 2020,
+      "default": "FLL Explore текущего сезона либо подходящая младшая инженерная команда. Соревновательные категории с 6 лет проверять отдельно по правилам.",
+      "detail": "Главная задача — самостоятельность, понятная роль и интерес. Explore в México — демонстрационный формат с признанием участия; его медаль не считать конкурсным местом. В RoboMission текущая Elementary начинается с 8 лет.",
+      "current": [
+        "Собственная возрастная группа и небольшие завершённые роботы / программы.",
+        "Домашние проекты с братом возможны; вклад и выбранная сложность каждого отдельные.",
+        "Дополнительный online-проект — только при понятном авторстве и правилах конкретной программы."
+      ],
+      "proof": "Может собрать свою часть, изменить последовательность, проверить результат и объяснить идею. Не требуется догонять старшего по наградам.",
+      "sources": [
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; independent teams; Explore is a demonstration. Future edition and national allocation have distinct conditions.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+          "checked": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "horizons": [
+    {
+      "id": "now",
+      "name": "2026–2027 · выбрать среду",
+      "mat": "Текущий Challenge / WRO / VEX IQ после диагностики и допуска; один полезный продукт.",
+      "osc": "Текущий Explore / младший STEM; одна своя программа / машина.",
+      "base": "Коста-Рика на время проверки → главное сравнение Мексики и Тайваня; США при совпадении бизнеса и junior-команды, Панама как резерв. Переезд после реальных мест обоим.",
+      "decision": "После посещений и пробных задач сравнить тренеров, ровесников, занятия, язык, документы, commute и смету."
+    },
+    {
+      "id": "siblings",
+      "name": "2028–2029 · возможная команда братьев",
+      "mat": "В календарные годы исполнится 11 / 12.",
+      "osc": "В календарные годы исполнится 8 / 9.",
+      "base": "Одна стабильная база, выбранный национальный путь и целевые международные поездки после отбора.",
+      "decision": "Если WRO сохранит нынешние правила Elementary 8–12, оба смогут рассмотреть одну команду из 2–3 детей. Это расчёт по правилам 2026, не опубликованный допуск 2028–29; ежегодно проверить.",
+      "sources": [
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "older",
+      "name": "2030–2033 · углублять по интересу",
+      "mat": "В 2030 исполнится 13: WRO Junior / подходящий VEX; FTC по возрасту и классу. FRC — позже, по текущему ориентиру 14+.",
+      "osc": "В 2030 исполнится 10: младшая лига по правилам сезона; собственная роль и проекты.",
+      "base": "Сравнить оставшуюся школу с конкретной подростковой командой США / Тайваня / Мексики. Переезд только если даёт доказуемое усиление.",
+      "decision": "В 2030 Матвей выйдет за текущий максимум WRO Elementary 12, хотя Оскар ещё внутри. В другой категории общую команду проверять отдельно. Названия FIRST K–8 с 2027 меняются.",
+      "sources": [
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Tech Challenge",
+          "url": "https://www.firstinspires.org/programs/ftc/",
+          "claim": "12–18, grades 7–12. Team engineering and outreach.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Robotics Competition",
+          "url": "https://www.firstinspires.org/programs/frc/",
+          "claim": "14–18, grades 9–12. Team engineering, fundraising and communication.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST K–8 · 2027 and beyond",
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "claim": "FIRST announces a replacement of FLL from 2027; SPIKE compatibility planned through 2028–29. Future details remain pending.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "name": "14–18 лет каждого · специализация",
+      "mat": "Мехатроника / software / AI / продукт по интересу; FTC, FRC, подходящий VEX или WRO, личная инженерная ответственность.",
+      "osc": "Позже тот же выбор в его возрасте, без автоматического копирования пути старшего.",
+      "base": "Школьная среда, сильные наставники и дальнейшее обучение; страна и вуз выбираются ближе к этапу по программе и доступу.",
+      "decision": "Результаты лиги — часть портфолио. Код, документация, собственные прототипы, командная работа и математика сохраняют значение при смене платформы."
+    }
+  ],
+  "actions": [
+    {
+      "period": "Первые 2 недели",
+      "title": "Измерить уровень каждого",
+      "detail": "Новая посильная задача без готового решения: сборка, код, датчик, объяснение и изменение условия. Зафиксировать пробелы, интерес и личный вклад; собрать текущие школьные документы / работы."
+    },
+    {
+      "period": "Недели 2–6",
+      "title": "Сравнить реальные места",
+      "detail": "Сравнить ASFM с независимой командой и TAS / AST; ISP — резерв. Классы и места обоим, текущий junior robotics тренер, часы, проба если разрешена, протоколы и язык. США включать в тот же цикл, если найдены конкретный бизнес и младшая команда. Никакие обращения этим обновлением не отправлены."
+    },
+    {
+      "period": "Недели 4–8",
+      "title": "Выбрать базу и одну лигу",
+      "detail": "Разделить recurring расходы и разовые вступительные взносы. Получить полную семейную смету на первый и следующие годы; выбрать тренера, команду, национальное представительство и оборудование по правилам. До этого сохранять регулярную практику в Коста-Рике."
+    },
+    {
+      "period": "Недели 6–12",
+      "title": "Закончить полезный прототип",
+      "detail": "Найти понятного пользователя, сделать первую версию, получить обратную связь, проверить вторую. Зафиксировать работу детей, стоимость деталей и короткую защиту EN / ES."
+    },
+    {
+      "period": "Через 90 дней",
+      "title": "Проверить, что среда работает",
+      "detail": "Появились самостоятельные решения, регулярная команда, сложные задачи и желание продолжать. Если нет — менять методику / наставника. Международный выезд выбирать после допуска и понятной цели."
+    }
+  ],
+  "selection": [
+    "Названный junior-тренер, его расписание и доступность в течение сезона.",
+    "Ровесники подходящего уровня; у обоих есть собственная техническая роль.",
+    "Регулярное время с роботом и полем / мастерской; оборудование доступно младшему классу.",
+    "Реальные протоколы команды за несколько сезонов с возрастом, лигой, категорией и видом награды.",
+    "Поступление в школу и место в команде подтверждаются отдельно.",
+    "EN / ES относится к занятиям и защите, не только к сайту.",
+    "Полная семейная смета: школа, сборы, клуб, техника, поездки, жильё, транспорт и поддержка языка.",
+    "Занятия оставляют время на отдых, друзей и другие интересы; ребёнок хочет продолжать.",
+    "IB / AP / пансион — особенности программы; робототехническую среду проверять непосредственно. В этом возрасте предпочёл бы дневную школу с семьёй."
+  ],
+  "gaps": [
+    "Это персональная редакционная стратегия по частично проверенному каталогу, не рейтинг стран или гарантия инженерной карьеры / наград.",
+    "Сильная американская junior-команда, лучший действующий тренер в Costa Rica или доступный подходящий campus способны изменить приоритет.",
+    "Нужны бюджет, точные классы / дни рождения, текущая школа и тренер, образцы самостоятельной работы, предпочтения детей и дата переезда.",
+    "Приём в школы, места в командах, национальные квоты, английский в конкретном кружке и индивидуальное право жить / учиться не подтверждены. Тарифы трёх школ на 2026–27 проверены, но стоимость нужного 2027–28 учебного года и полный семейный бюджет пока неизвестны.",
+    "Родители и наставники помогают организационно и советами. Для WRO сборка / код принадлежат детям; для проектных конкурсов декларировать состав и авторство по их правилам.",
+    "Первый выбранный комплект не должен связывать семью на годы: FIRST K–8 меняется с 2027, совместимость SPIKE заявлена как план до 2028–29; правила будущих сезонов перепроверить.",
+    "Портфолио различает участие, оценённую награду, место, квоту и мировой финал. Количество поездок / грамот не измеряет самостоятельную инженерную работу.",
+    "Общие источники E-2 и Gold Card не проверяют семейные документы. Возможные основания проживания в Бразилии / Панаме приняты как условие семьи и не обозначены как одобренный ПМЖ / ВНЖ."
+  ],
+  "sources": [
+    {
+      "title": "FIRST LEGO League México · FAQ",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "claim": "Founders Explore 6–10, Challenge 9–16; independent teams; Explore is a demonstration. Future edition and national allocation have distinct conditions.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST K–8 · 2027 and beyond",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "claim": "FIRST announces a replacement of FLL from 2027; SPIKE compatibility planned through 2028–29. Future details remain pending.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "WRO RoboMission · rules 2026",
+      "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+      "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST Tech Challenge",
+      "url": "https://www.firstinspires.org/programs/ftc/",
+      "claim": "12–18, grades 7–12. Team engineering and outreach.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST Robotics Competition",
+      "url": "https://www.firstinspires.org/programs/frc/",
+      "claim": "14–18, grades 9–12. Team engineering, fundraising and communication.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · Tech Cube",
+      "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "claim": "Lower School robotics and sensor projects; separate middle / upper provision, VEX and FRC.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · admissions",
+      "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "claim": "Foreign child nationality, Greater Taipei residence with parent, documents and placement; 2027–28 applications open.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "AST Taichung · robotics",
+      "url": "https://www.astaichung.com/robotics",
+      "claim": "Elementary through high school programme; 2023 Worlds students grades 5–12. School report; not proof of grade 1–4 competitive admission.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "AST · admission procedures",
+      "url": "https://www.astaichung.com/policies_procedures",
+      "claim": "Foreign passport restrictions, English / math assessment, G1 age cutoff August 31 and admission committee.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · extended learning",
+      "url": "https://www.asfm.edu.mx/extended-learning",
+      "claim": "School reports elementary FLL Explore recognition and middle / high FTC nationals. Not a verified overall world title.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · admission process",
+      "url": "https://www.asfm.edu.mx/admissions/application-process",
+      "claim": "January 2027 applications from Sep 4, 2026; K–G11 2027–28 applications from October 2026; evaluation required.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Lincoln · Innovation Center",
+      "url": "https://www.lincoln.ed.cr/en/services/technology",
+      "claim": "Robotics programme exists. Current junior team, training hours and results not confirmed.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ISP · STEM curriculum",
+      "url": "https://isp.edu.pa/es/aprendizaje-stem/",
+      "claim": "Weekly STEM in grades 1–5; VEX teams grades 3–12; older innovation and entrepreneurship programme. School programme description, not a medal protocol.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ISP · admissions",
+      "url": "https://isp.edu.pa/admissions/",
+      "claim": "K–G5 English assessment, grades placement and foreign study validation; waiting pool possible.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "SESI-SP · Heroes 2025",
+      "url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+      "claim": "School operator reports Heroes Jundiaí FLL Champion’s Award at Houston World Festival 2025. Not confirmation of foreign junior entry.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RoboFinist 2026 · official categories",
+      "url": "https://robofinist.org/event/info/competitions/id/1600",
+      "claim": "Local junior categories exist. Local ages and results are distinct from international league qualification.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · tuition 2026–27",
+      "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "claim": "K–5 tuition with sibling rate; registration and entrance are stated as one-time first-enrolment fees. Two-child arithmetic is editorial.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · tuition and fees 2026–27",
+      "url": "https://www.tas.edu.tw/admissions/tuition-fees",
+      "claim": "Pre-K–5 tariff, capital / building / application fees; deposit part of tuition, no sibling discount. Two-child arithmetic is editorial.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "US Department of State · treaty countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+      "claim": "Mexico is in the E-2 treaty list; treaty nationality is only one eligibility condition. No individual family approval established.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "US Department of State · E-2 requirements",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+      "claim": "Nonimmigrant investor visa: nationality, substantial investment, real operating enterprise; spouse and unmarried children under 21 may apply as dependents.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Taiwan NIA · Gold Card family residency",
+      "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
+      "claim": "NIA article of 18 January 2025 describes separate dependent ARC applications for spouse / children. It is general background, not a current individual approval or school place.",
+      "checked": "2026-10-01"
+    }
+  ],
+  "confidence": "Средняя: младшие программы найдены, но свободные места, текущие тренеры и самостоятельный уровень детей ещё не подтверждены.",
+  "scenarios": [
+    {
+      "id": "fast",
+      "name": "Быстрый переход",
+      "iso": "MEX",
+      "title": "Коста-Рика → сравнение в Monterrey → одна база",
+      "detail": "Проверить ASFM и независимую команду в одной поездке. Если сильный тренер доступен вне школы, выбрать школу по общему качеству и благополучию, а робототехнику — по фактической команде.",
+      "mat": "Challenge / WRO / VEX IQ у подходящего наставника; школьная Explore не заменяет проверку сложности.",
+      "osc": "Собственная младшая группа: Explore / конструирование / код; личная работа и объяснение проекта.",
+      "steps": [
+        "Сейчас: сохранить занятия в Коста-Рике и измерить уровень каждого.",
+        "Ближайшее сравнение: ASFM и внешняя команда; январский приём 2027 указан школой, K–G11 на 2027–28 — с октября 2026.",
+        "После подтверждения мест и тренера: выбрать один учебный год и один основной соревновательный сезон."
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "Инженерная база в Азии",
+      "iso": "TWN",
+      "title": "Taipei / TAS против Taichung / AST",
+      "detail": "Сравнить полноценную младшую программу и конкретные кружки обоим; старшие AI / fabrication / VEX / FRC показывают дальнейший путь, но их оборудование и команды не обещаются детям 6 / 9 лет.",
+      "mat": "Задача с датчиками, собственный код и испытания; junior-команда и её возраст / класс отдельно.",
+      "osc": "Младшие механизмы и coding; сверить класс по точному дню рождения, а не только 2020 году.",
+      "steps": [
+        "До поездки: проверить школьные места, документы и подходящие технические группы.",
+        "Очное сравнение: урок / мастерская, действующий тренер, расписание, работы ровесников.",
+        "Постоянная база: только когда решены семейное проживание, приём обоих и полная смета; TAS принимает заявки на 2027–28."
+      ]
+    },
+    {
+      "id": "business",
+      "name": "США и семейный бизнес",
+      "iso": "USA",
+      "title": "Выбрать город по доступной младшей команде",
+      "detail": "Если действующий бизнес семьи и обучение совпадают в одном месте, США могут выиграть уже на нынешнем этапе. Пока город и junior-команда не выбраны, нельзя сделать этот вариант победителем только по масштабу страны.",
+      "mat": "Начальная школа / community-команда FLL, WRO или VEX IQ; FTC / FRC — по отдельному возрастному и школьному допуску.",
+      "osc": "Поток для 6 лет и собственная роль; лагерь 7–8+ не подходит автоматически.",
+      "steps": [
+        "Сначала: определить подходящий бизнес семьи и 2–3 реальные junior-команды.",
+        "Сравнить: школьный округ / частный приём, расписание, тренера и первый год расходов.",
+        "После подтверждения: одна постоянная команда; поездки и будущие FTC / FRC подбирать по правилам сезона."
+      ]
+    }
+  ],
+  "cost_comparison": {
+    "school_year": "2026–2027",
+    "note": "Расчёты ниже — ориентир по опубликованным тарифам 2026–27 для двух новых учеников младшей ступени. Классы и счёт школы ещё не определены. Тарифы 2027–28 не объявляются равными этим; валюты не пересчитываются. Жильё, переезд, питание, транспорт, поездки и дополнительные технические занятия в суммы не включены.",
+    "schools": [
+      {
+        "school_id": "S002",
+        "name": "ASFM · Monterrey",
+        "iso": "MEX",
+        "annual": "MXN 631 290 · обучение обоих",
+        "entry": "MXN 65 520 + USD 19 100 · разовые взносы обоих",
+        "first": "MXN 696 810 + USD 19 100 · обучение и указанные разовые взносы",
+        "formula": "K–Grade 5: 334 620 + 296 670 MXN (старший Child 1, младший Child 2+). Registration 32 760 MXN и entrance USD 9 550 на нового ученика — разовые по странице школы.",
+        "components": {
+          "tuition_two_mxn": 631290,
+          "registration_two_mxn": 65520,
+          "entrance_two_usd": 19100,
+          "first_mxn": 696810
+        },
+        "url": "https://www.asfm.edu.mx/admissions/tuition-fees"
+      },
+      {
+        "school_id": "S003",
+        "name": "TAS · Taipei",
+        "iso": "TWN",
+        "annual": "NT$1 926 540 · обучение и building fee обоих",
+        "entry": "NT$720 000 · capital fee и новые заявки обоих",
+        "first": "NT$2 646 540 + расходы по классу · первый год",
+        "formula": "Pre-K–Grade 5: 956 770 × 2 + building fee 6 500 × 2. Capital 350 000 × 2 и application 10 000 × 2. Enrollment deposit 50 000 уже входит в годовую tuition; повторно не прибавлен. Скидки siblings нет. Обязательный outdoor fee зависит от класса и здесь не включён.",
+        "components": {
+          "tuition_two_ntd": 1913540,
+          "building_two_ntd": 13000,
+          "capital_two_ntd": 700000,
+          "application_two_ntd": 20000,
+          "annual_ntd": 1926540,
+          "first_ntd": 2646540
+        },
+        "url": "https://www.tas.edu.tw/admissions/tuition-fees"
+      },
+      {
+        "school_id": "S022",
+        "name": "ISP · Panamá",
+        "iso": "PAN",
+        "annual": "USD 33 168 · обучение и ежегодная registration обоих",
+        "entry": "USD 32 500 · полное обязательство capital и новые заявки обоих",
+        "first": "USD 65 668 · годовой ориентир с полным capital обязательством",
+        "formula": "PK4–Grade 5, Non-Institutional (семья платит без возмещения работодателем): tuition 15 584 × 2 + annual registration 1 000 × 2. Application 250 × 2, capital 16 000 × 2. Capital оплачивается двумя этапами: USD 16 000 на обоих при приёме, ещё USD 16 000 при следующем re-enrollment в марте; USD 65 668 — не единовременный платёж. Для employer-supported семьи другая registration. На странице есть устаревшая строка обработки заявок 2025–26 рядом с тарифами 2026–27; текущий приём и счёт уточняются.",
+        "components": {
+          "tuition_two_usd": 31168,
+          "registration_two_usd": 2000,
+          "application_two_usd": 500,
+          "capital_two_usd": 32000,
+          "capital_first_stage_two_usd": 16000,
+          "capital_second_stage_two_usd": 16000,
+          "annual_usd": 33168,
+          "full_commitment_usd": 65668
+        },
+        "url": "https://isp.edu.pa/admissions/"
+      }
+    ]
+  },
+  "nearby_participation_v118": {
+    "version": 118,
+    "checked": "2026-10-06",
+    "status": "editorial_plan_with_unconfirmed_admission",
+    "title": "Ближайшие старты · Коста-Рика и Мексика",
+    "scope": "Выбранные варианты октября 2026–февраля 2027 и сезонные команды. Не полный региональный или мировой календарь.",
+    "age_note": "2017 /2020: в 2026 это 8–9 /5–6, в 2027 —9–10 /6–7. День рождения и класс неизвестны; фиксированные 9/6 нельзя переносить на каждую дату.",
+    "conclusion": "Рекомендованный первый международный выезд: MakeX CDMX, Оскар — mTiny + Матвей — Codey. VEX IQ 24 октября полезен только при уже готовой команде/роботе. На 2027: регулярная FLL/VEX подготовка с наставником; маршрут не гарантирует награды.",
+    "items": [
+      {
+        "id": "C078",
+        "title": "TecPro · местный старт 08 октября",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "До события 2 дня; готовый проект, школа, партнёр и возрастная отсечка ещё требуют проверки.",
+        "step": "Оскар — Artifact при 6; Матвей — Game при 9 либо Artifact при 8. Документация 07.10; даты виртуальной подачи уже прошли."
+      },
+      {
+        "id": "C001",
+        "title": "LUVÁ · проверка уже оформленного участия",
+        "children": [
+          "matvey"
+        ],
+        "mode": "existing_only",
+        "gate": "Публичный набор закрыт. Sumo LEGO Secundaria; младшее исключение не подтверждено.",
+        "step": "Сверить письменный допуск, школьную справку и техническую готовность; запись/платёж не доказывают возрастное исключение."
+      },
+      {
+        "id": "C180",
+        "title": "VEX IQ · Museo Acertijo · 24 октября",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "Одна семейная команда возможна по возрастной рамке; зарубежный/школьный допуск и самостоятельность отдельно.",
+        "step": "Портал 06.10:24/30 мест, FREE. Проверить аккаунт команды, Level Up робот и бумажный notebook; срок 23.10 22:00 Коста-Рика."
+      },
+      {
+        "id": "C662",
+        "title": "Robotifest UCR · 24–26 октября",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "visitor",
+        "gate": "Конкурсная заявка до 30.09 уже закрыта; младший конкурсный допуск не доказан.",
+        "step": "Уточнить семейное посещение/детский вход. Для новой команды нужно исключение, не обычная открытая регистрация."
+      },
+      {
+        "id": "C608",
+        "title": "MakeX · mTiny для Оскара",
+        "children": [
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "4–6 на 01.01.2026: 2020 г.р. проходит. Один ребёнок + взрослый; Матвей исключён.",
+        "step": "Подтвердить заявку/coach,6-минутную самостоятельную миссию, собственный mTiny и цену 2026. Не покупать вторую регистрацию для Матвея."
+      },
+      {
+        "id": "C609",
+        "title": "MakeX · Codey для Матвея",
+        "children": [
+          "matvey"
+        ],
+        "mode": "check",
+        "gate": "6–9 на 01.01.2026: 2017 г.р. проходит. Оскар только при DOB 01.01.2020; это не подтверждено.",
+        "step": "Проверить Codey + expansion, актуальную форму и счёт. Техника и арена не входят в отдельную регистрацию."
+      },
+      {
+        "id": "C614",
+        "title": "MakeX · Inspire · два отдельных участника",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "DOB 02.01.2013–31.12.2020 включает обоих, но командный состав 1 ребёнок + 1 mentor.",
+        "step": "Оценить сложность миссий и подготовку каждого; правило DOB не равно наличию мест и международному отбору."
+      },
+      {
+        "id": "C615",
+        "title": "MakeX · Starter · возможная общая команда",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "DOB 02.01.2012–31.12.2020 включает обоих; PDF 1–2 ученика + 1–2 mentor.",
+        "step": "Рассматривать после диагностики уровня, местного подтверждения состава и полной цены mBot / поля. Не выбирать только ради общей команды."
+      },
+      {
+        "id": "C082",
+        "title": "RoboRAVE · Puerto Vallarta · 25–28 февраля 2027",
+        "children": [
+          "matvey"
+        ],
+        "mode": "prepare",
+        "gate": "a-MAZE-ing 8–15: Матвей подходит, Оскар 2020 до 8 не дорастёт в 2027.",
+        "step": "Найти 2–4 учеников и отдельный младший формат для Оскара. Лимит 60 не остаток мест,580 USD не проверенная семейная смета."
+      },
+      {
+        "id": "C1127",
+        "title": "FLL México · Founders Explore · сезонная практика",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "prepare",
+        "gate": "6–10; обоим в 2027 по возрастной рамке. Местный состав/школа/квота отдельно; дат следующего события нет.",
+        "step": "Регулярная команда,10 уроков, модель + защита. Explore — демонстрационный фестиваль; медаль каждому не равна победе."
+      },
+      {
+        "id": "C1128",
+        "title": "FLL México · Challenge · соревновательный трек Матвея",
+        "children": [
+          "matvey"
+        ],
+        "mode": "prepare",
+        "gate": "9–16; Оскар ниже 9. SPIKE Prime/EV3 и отдельная команда, даты события ещё не объявлены.",
+        "step": "Тренировать робота, проект и Core Values; независимая семейная команда возможна по FAQ, местную квоту / состав / счёт подтвердить."
+      },
+      {
+        "id": "C1124",
+        "title": "LATI / LTRC · Junior · Sumo LEGO · первая jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "Расчётный deadline 04.10 уже прошёл; школьная справка и автономность в pits обязательны.",
+        "step": "Только ранее оформленный вход, подтверждённое позднее исключение или следующий этап. Старые 15 см/1 кг vs 20 см/2 кгв Sumo остаются конфликтом."
+      },
+      {
+        "id": "C1125",
+        "title": "LATI / LTRC · Junior · Seguidor de línea Kits · первая jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "Расчётный deadline 04.10 уже прошёл; школьная справка и автономность в pits обязательны.",
+        "step": "Только ранее оформленный вход, подтверждённое позднее исключение или следующий этап. Старые 15 см/1 кг vs 20 см/2 кгв Sumo остаются конфликтом."
+      },
+      {
+        "id": "C1126",
+        "title": "LATI / LTRC · Junior · Car Race · первая jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "Расчётный deadline 04.10 уже прошёл; школьная справка и автономность в pits обязательны.",
+        "step": "Только ранее оформленный вход, подтверждённое позднее исключение или следующий этап. Старые 15 см/1 кг vs 20 см/2 кгв Sumo остаются конфликтом."
+      }
+    ],
+    "prices": [
+      {
+        "id": "mtiny-registration",
+        "currency": "MXN",
+        "amount": 1999.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-registration",
+        "currency": "MXN",
+        "amount": 1999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-robot",
+        "currency": "MXN",
+        "amount": 6999.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-arena",
+        "currency": "MXN",
+        "amount": 7499.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-bundle",
+        "currency": "MXN",
+        "amount": 16499.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-robot",
+        "currency": "MXN",
+        "amount": 3999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-arena",
+        "currency": "MXN",
+        "amount": 7999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata магазина(priceCurrency/price), а не подтверждённый счёт. В части карточек цена скрыта за запросом информации.",
+        "invoice_confirmed": false
+      }
+    ],
+    "budget_scenarios": [
+      {
+        "id": "both-have-equipment",
+        "title": "Если техника уже есть · взносы обоим",
+        "amount": 3999.98,
+        "items": [
+          "mtiny-registration",
+          "codey-registration"
+        ],
+        "children": [
+          "oscar",
+          "matvey"
+        ],
+        "complete": false,
+        "detail": "Оскар — mTiny 1999.99 + Матвей — Codey 1999.99. Не включает недостающую технику, условия coach, посетителей, налоги, доставку, перелёт и отель."
+      },
+      {
+        "id": "oscar-start",
+        "title": "Оскар · mTiny + арена с 1 регистрацией",
+        "amount": 14499.98,
+        "items": [
+          "mtiny-robot",
+          "mtiny-arena"
+        ],
+        "children": [
+          "oscar"
+        ],
+        "complete": false,
+        "detail": "6999.99 +7499.99. В цену арены уже входит 1 регистрация: отдельный взнос не прибавляем. Применимость XII 2026 и полный счёт уточнить."
+      },
+      {
+        "id": "matvey-minimum",
+        "title": "Матвей · Codey + регистрация · неполный комплект",
+        "amount": 5999.98,
+        "items": [
+          "codey-robot",
+          "codey-registration"
+        ],
+        "children": [
+          "matvey"
+        ],
+        "complete": false,
+        "detail": "3999.99 +1999.99. Обязательная expansion имеет битую ссылку / цена неизвестна. Практическая arena 7999.99 отдельно; все услуги / поездка вне расчёта."
+      }
+    ],
+    "closed_ids": [
+      "C1124",
+      "C1125",
+      "C1126"
+    ],
+    "sources": [
+      "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "https://www.torneoluva.com",
+      "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5410.html",
+      "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "https://www.creativakids.com/makexmtinytreasuretrail.php",
+      "https://www.creativakids.com/makexcodey.php",
+      "https://www.creativakids.com/makexinspire.php",
+      "https://www.creativakids.com/makexstarter_signal_rise.php",
+      "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena"
+    ],
+    "price_limits": "Структурированные цены магазина проверены 06.10; актуальный счёт ещё нужен. Комплект mTiny 16499.99: один робот, арена и две регистрации; описание XI противоречит XII 2026 — не добавляем автоматически. Ссылки Codey pack / expansion возвращают 404. Формы магазина и категории различаются; товар в наличии не означает свободное место на турнире. Полный счёт, налоги, доставка, возврат, билеты сопровождающих и ночёвки ещё не установлены.",
+    "next_steps": [
+      "Показать наставнику текущие проекты обоих и проверить самостоятельность.",
+      "Выбрать один ближайший старт, получить правила возраста / команды и полный счёт 2026.",
+      "Подготовить 6–8 недель практики: миссии, журнал итераций, видео и двухминутную защиту.",
+      "Для 2027 развести FLL Explore Оскара и Challenge / VEX Матвея, сохранив совместный семейный проект.",
+      "Лагерь выбирать под недостающий навык и каникулы; язык, возраст, пансион и реальный результат проверять по досье."
+    ]
+  },
+  "nearby_participation_v132": {
+    "version": 132,
+    "checked": "2026-10-06",
+    "status": "editorial_plan_unconfirmed_admission",
+    "scope": "Дополнение местной базы и отдельных мексиканских категорий; прежний план v118 сохранён.",
+    "local_base": "Curious Heredia 3+ условно обоим: сначала уровень, язык, расписание и цена. Cerebritos Playa mini camps — возраст/дни ещё неизвестны.",
+    "future": "CENFOTEC Makers 10–12, Cyber 13–15, IA 14–16. Декабрьские 2026 курсы не подходят братьям по возрасту.",
+    "first_competition_ids": [
+      "C180",
+      "C513",
+      "C514",
+      "C597"
+    ],
+    "additional_category_ids": [
+      "C1155",
+      "C1156",
+      "C1157",
+      "C1158"
+    ],
+    "limitation": "Elementary карточки не удалось заново прочитать в этом проходе: их прежние checked/facts сохранены. Новые Middle/V5 страницы не подтверждают места Elementary или Worlds квоту.",
+    "route": [
+      "Подобрать регулярную команду/наставника, определить самостоятельный уровень каждого.",
+      "Для общего старта проверить IQ Elementary 2+ и VEX-ID; оборудование Level Up и детский notebook.",
+      "Сравнить существующие Elementary выезды Chihuahua/Juárez/Puebla; подтвердить приглашение, международный допуск, цену и отбор.",
+      "Middle/V5 выбирать после готовности и местного согласования категории; международный заголовок не гарантирует награды."
+    ]
+  },
+  "nearby_participation_v135": {
+    "version": 135,
+    "checked": "2026-10-06",
+    "title": "Следующие дисциплины и октябрьские мастерские",
+    "status": "editorial_plan_unconfirmed_admission",
+    "scope": "Новые local routes не заменяют текущий план v 118, VEX/FLL и полный мировой поиск.",
+    "conclusion": "Сейчас — школьный Bebras до 16 октября и семейные мастерские Feria Maker 17–18 октября. На 2027 — TMR 3–6 марта, а RoboParade/BottleSumo LATAM только после нового анонса. BajaBot выбирать по школьному классу и виду результата.",
+    "items": [
+      {
+        "id": "C064",
+        "title": "Bebras · сначала регистрация школы",
+        "children": [
+          "matvey"
+        ],
+        "gate": "До 16 октября; 3–6 классы регламента,2-й требует разрешения.",
+        "step": "Проверить класс Матвея и регистрацию школы в Costa Rica; возраст 9 не заменяет 3 класс."
+      },
+      {
+        "id": "E193",
+        "title": "3D фигурка · общий семейный опыт",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "5+,17–18 октября; 70 без указанной валюты, слоты 11/14 уточнить.",
+        "step": "Проверить слот, язык, полный вход/занятие; сделать и сохранить собственный предмет."
+      },
+      {
+        "id": "E197",
+        "title": "OctoStudio · истории и первый цифровой проект",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "Для детей без numeric age; 17–18 октября, мастерская 0 в каталоге,2 часа.",
+        "step": "Подтвердить minimum age и родительский телефон, слот и язык; результат — проект, не медаль."
+      },
+      {
+        "id": "C043",
+        "title": "TMR · точные даты на 2027",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "3–6 марта 2027 в Zacatecas. Младшие категории ещё неизвестны.",
+        "step": "Дождаться 2027 convocatoria, подтвердить детей, команду, бюджет и нужную дисциплину до бронирования."
+      },
+      {
+        "id": "C1165",
+        "title": "RoboParade · младший scored проект",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "Local 2026: 6–14,1–5; даты/правила 2027 ещё неизвестны.",
+        "step": "Подготовить автономную линию, остановку, скорость на экране и роли детей. Местный возраст и LTU Explorer grade отдельно."
+      },
+      {
+        "id": "C1161",
+        "title": "BottleSumo · самостоятельный LEGO/VEX",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "Local 2026: 6–14, до 3; overview grade 5–8 расходится.",
+        "step": "Согласовать новую младшую группу и robot kit. Unknown task и собственный код важнее взрослой готовой сборки."
+      },
+      {
+        "id": "E191",
+        "title": "BajaBot · первый показ,1–3 классы",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "2–3 ученика 1–3 классов; музейный kit; новый набор неизвестен.",
+        "step": "Проверить школьный уровень обоих. Diploma не призовая победа; противоречивые поощрения manualp 8 согласовать."
+      },
+      {
+        "id": "C1169",
+        "title": "BajaBot · Mini Sumo,4–6 классы",
+        "children": [
+          "matvey"
+        ],
+        "gate": "2–3 ученика 4–6 классов, собственный автономный LEGO.",
+        "step": "Для Матвея рассмотреть только при нужном классе. Общее участие братьев вэтой категории пока не установлено."
+      }
+    ],
+    "category_ids": [
+      "C1159",
+      "C1160",
+      "C1161",
+      "C1162",
+      "C1163",
+      "C1164",
+      "C1165",
+      "C1166",
+      "C1167",
+      "C1168",
+      "E191",
+      "C1169"
+    ],
+    "workshop_ids": [
+      "E192",
+      "E193",
+      "E194",
+      "E195",
+      "E196",
+      "E197",
+      "E198",
+      "E199",
+      "E200"
+    ],
+    "limits": [
+      "Новый LATAM/BajaBot 2027 календарь не выведен из 2026; эти карточки остаются без дат и не попадают в ICS.",
+      "Workshop 0 / kitprovided не означают бесплатную полную поездку. Язык занятий/судейства новых вариантов пока не подтверждён.",
+      "Сохранены мировой охват, лагеря EN/ES/RU, пансионы, школы, история результатов и долгие инженерные маршруты. Полностью изученных стран 0."
+    ]
+  }
+}

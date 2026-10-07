@@ -1,0 +1,41 @@
+{
+  "asof": "2026-10-05",
+  "version_scope": "Europe programmes v63",
+  "status": "ongoing",
+  "world_complete": false,
+  "new_dossiers": 16,
+  "new_calendar_rows": 36,
+  "legacy_campus_rows_reused": 22,
+  "dossiers_total": 141,
+  "countries_total": 28,
+  "swiss_total": 25,
+  "official_urls_total": 262,
+  "global_goal_status": "active",
+  "findings": [
+    "TechSpark:25 campus windows; game25, Python24. LEGO6+ has no proved dated Junior-menu offer. Python Zurich6–9Oct2026 sold out;11–14Oct2027 not offered. Campus-specific legacy IDs keep Geneva/Pully/Zurich same-date rows separate.",
+    "Lyceum2027: Digital Skills10–17 EN directly in2027PDF; Junior6–9 general language day. Four-week total12800 and separately400 not double-counted.",
+    "Champittet Leadership11+; partner Senior workshops not transferred toJunior. TechSpark atChampittet is different programme.",
+    "Roches AI11+ EN archive2026; FrenchClassic9+ is different programme. JMA Paris5–7/8–9/10–12 separated;2027 May applications not fixed camp dates.",
+    "Saint-Denis2026 cancelled;2027 unknown. Saint-Charles new page no age/year; old2026 price and conditions not promised future.",
+    "Spain LIFE VEX10–14 EN; StGeorge6–10 EN price330/645/950/1240 archive2026;200credited fee. Chester2027 banner links2026 fee PDFs; registrationDecember2026, nofuture dates. Alicante2027 future ages/EN/venue/timetable/price stillunknown."
+  ],
+  "preservation_checks": "scripts/verify-europe-camps-v63.py",
+  "ui_verification": {
+    "status": "passed_local_preview",
+    "checks": [
+      "21 scenarios including Switzerland2027 selected by actual semantic click; correct four picks and age-route reason visible",
+      "Two Lyceum programmes selected with checkboxes; rendered comparison shows different ages, real prices, EN and lodging",
+      "France / Jeannine / Oscar filter returns only Juniors; both filter returns0 because disjoint age groups",
+      "1280,390,320px have no document horizontal overflow;390px comparison active",
+      "No browser error logs"
+    ],
+    "screenshot": "europe-camps-v63-preview.png",
+    "prior_limitation": "v62 click input delivery remained unconfirmed. Fresh v63 tab actual semantic clicks and checkbox checks succeeded; no DOM mutation or scripted dispatch used."
+  },
+  "remaining_scope": [
+    "Окончательные смены, языки, цены и допуск2027 неопубликованных программ",
+    "Другие топовые операторы и зимние/летние программы в приоритетных странах",
+    "Площадочные координаты, полные family-cost scenarios и редакционный рейтинг по цели",
+    "Ни одна страна не признана полностью проверенной; мировая цель активна"
+  ]
+}

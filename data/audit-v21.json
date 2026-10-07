@@ -1,0 +1,5326 @@
+{
+  "version": 21,
+  "checked": "2026-10-01",
+  "status": "partial",
+  "conclusion": "Мировой охват частичный. Все лагеря, соревнования и выставки по всем странам пока не собраны; неизвестные даты, языки и допуски отмечены явно.",
+  "scope": "Мировой календарь, лиги, выставки, лагеря и отдельный каталог постоянных школ. v20 добавляет первый школьный проход; прежние 1170 событий сохранены.",
+  "baseline": {
+    "cards": 1135,
+    "competition_cards": 839,
+    "event_cards": 131,
+    "camp_cards": 165,
+    "league_profiles": 67,
+    "major_exhibition_cards": 78,
+    "vex_cards": 465,
+    "countries_with_records": 64,
+    "fully_audited_countries": 0
+  },
+  "counts": {
+    "cards": 1170,
+    "competition_cards": 845,
+    "event_cards": 131,
+    "camp_cards": 194,
+    "league_profiles": 67,
+    "major_exhibition_cards": 78,
+    "vex_cards": 465,
+    "countries_with_records": 65,
+    "fully_audited_countries": 0
+  },
+  "continents": [
+    {
+      "name": "Северная Америка",
+      "regions": [
+        "Северная Америка",
+        "Центральная Америка",
+        "Карибский регион"
+      ],
+      "total": 546,
+      "countries_with_records": 10,
+      "competitions": 477,
+      "events": 32,
+      "major_exhibitions": 10,
+      "camps": 37,
+      "status": "Частично исследовано",
+      "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
+    },
+    {
+      "name": "Южная Америка",
+      "regions": [
+        "Южная Америка"
+      ],
+      "total": 152,
+      "countries_with_records": 9,
+      "competitions": 122,
+      "events": 9,
+      "major_exhibitions": 6,
+      "camps": 21,
+      "status": "Частично исследовано",
+      "remaining": "Много карточек Ecuador и региональных маршрутов Chile; Brazil, Perú и другие страны требуют местных этапов, квот и календарей."
+    },
+    {
+      "name": "Европа",
+      "regions": [
+        "Европа"
+      ],
+      "total": 120,
+      "countries_with_records": 19,
+      "competitions": 41,
+      "events": 32,
+      "major_exhibitions": 18,
+      "camps": 47,
+      "status": "Частично исследовано",
+      "remaining": "Есть мировые финалы и ведущие выставки. Национальные FIRST / WRO / RoboCup и независимые школьные турниры по всем странам не перечислены полностью."
+    },
+    {
+      "name": "Африка",
+      "regions": [
+        "Африка"
+      ],
+      "total": 67,
+      "countries_with_records": 7,
+      "competitions": 49,
+      "events": 6,
+      "major_exhibitions": 3,
+      "camps": 12,
+      "status": "Частично исследовано",
+      "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
+    },
+    {
+      "name": "Азия",
+      "regions": [
+        "Азия"
+      ],
+      "total": 217,
+      "countries_with_records": 17,
+      "competitions": 99,
+      "events": 47,
+      "major_exhibitions": 39,
+      "camps": 71,
+      "status": "Частично исследовано",
+      "remaining": "China, Taiwan, Japan, Korea и ряд сетей представлены. Не все дисциплины WRC / FIRA и этапы India / Southeast Asia / Middle East исследованы."
+    },
+    {
+      "name": "Океания",
+      "regions": [
+        "Океания"
+      ],
+      "total": 33,
+      "countries_with_records": 2,
+      "competitions": 25,
+      "events": 3,
+      "major_exhibitions": 2,
+      "camps": 5,
+      "status": "Частично исследовано",
+      "remaining": "Есть Australia / New Zealand и младший маршрут RCJ Australia. Нет полного списка local tournaments / university events / Pacific islands."
+    }
+  ],
+  "league_inventory": [
+    {
+      "id": "wro",
+      "name": "WRO",
+      "group": "core",
+      "event_ids": [
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010",
+        "C011",
+        "C012",
+        "C013",
+        "C014",
+        "C015",
+        "C016",
+        "C017",
+        "C018",
+        "C019",
+        "C095",
+        "C687",
+        "C688",
+        "C689",
+        "C690",
+        "C691",
+        "C692",
+        "C693",
+        "C694",
+        "C695",
+        "C696",
+        "C697",
+        "C698",
+        "C699",
+        "C700",
+        "C701",
+        "C702",
+        "C703",
+        "C704",
+        "C705",
+        "C706",
+        "C707",
+        "C708",
+        "C709",
+        "C710",
+        "C711",
+        "C712",
+        "C715",
+        "C716",
+        "C717",
+        "C718",
+        "C719",
+        "C720",
+        "C721",
+        "C722",
+        "C723",
+        "C724",
+        "C725",
+        "C726",
+        "C727",
+        "C728",
+        "C729",
+        "C730",
+        "C731",
+        "C732",
+        "C733",
+        "C734",
+        "C735",
+        "C736",
+        "C737",
+        "C738",
+        "C739",
+        "C740",
+        "C741",
+        "C742",
+        "C743",
+        "C744",
+        "C745",
+        "C746",
+        "C747",
+        "C748",
+        "C749",
+        "C750",
+        "C788"
+      ],
+      "cards": 78,
+      "future_dated": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro-association.org/competition/categories/",
+      "new": false
+    },
+    {
+      "id": "first",
+      "name": "FIRST",
+      "group": "core",
+      "event_ids": [
+        "C003",
+        "C004",
+        "C005",
+        "C032",
+        "C033",
+        "C034",
+        "C061",
+        "C270",
+        "C462",
+        "C682",
+        "C683",
+        "C713",
+        "C714",
+        "C756",
+        "C757",
+        "C758",
+        "C789",
+        "C790",
+        "C791",
+        "C792",
+        "C793",
+        "C794",
+        "C795",
+        "C796",
+        "C797",
+        "C798",
+        "C799",
+        "C800",
+        "C835",
+        "C836"
+      ],
+      "cards": 30,
+      "future_dated": 17,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.firstinspires.org/programs/fll/",
+      "new": false
+    },
+    {
+      "id": "vex",
+      "name": "VEX Robotics",
+      "group": "core",
+      "event_ids": [
+        "C024",
+        "C025",
+        "C026",
+        "C027",
+        "C028",
+        "C100",
+        "C101",
+        "C102",
+        "C103",
+        "C104",
+        "C105",
+        "C106",
+        "C107",
+        "C108",
+        "C109",
+        "C110",
+        "C111",
+        "C112",
+        "C113",
+        "C114",
+        "C115",
+        "C116",
+        "C117",
+        "C118",
+        "C119",
+        "C120",
+        "C122",
+        "C124",
+        "C125",
+        "C126",
+        "C127",
+        "C128",
+        "C129",
+        "C130",
+        "C131",
+        "C133",
+        "C134",
+        "C135",
+        "C136",
+        "C137",
+        "C138",
+        "C140",
+        "C141",
+        "C142",
+        "C143",
+        "C144",
+        "C145",
+        "C146",
+        "C147",
+        "C148",
+        "C149",
+        "C150",
+        "C151",
+        "C152",
+        "C153",
+        "C154",
+        "C155",
+        "C156",
+        "C157",
+        "C158",
+        "C159",
+        "C160",
+        "C161",
+        "C162",
+        "C163",
+        "C164",
+        "C165",
+        "C166",
+        "C167",
+        "C168",
+        "C169",
+        "C170",
+        "C171",
+        "C172",
+        "C173",
+        "C174",
+        "C175",
+        "C176",
+        "C177",
+        "C178",
+        "C179",
+        "C180",
+        "C181",
+        "C182",
+        "C183",
+        "C184",
+        "C185",
+        "C186",
+        "C187",
+        "C188",
+        "C189",
+        "C190",
+        "C191",
+        "C192",
+        "C193",
+        "C194",
+        "C195",
+        "C196",
+        "C197",
+        "C198",
+        "C201",
+        "C202",
+        "C203",
+        "C204",
+        "C205",
+        "C206",
+        "C207",
+        "C208",
+        "C209",
+        "C210",
+        "C211",
+        "C212",
+        "C213",
+        "C214",
+        "C215",
+        "C216",
+        "C217",
+        "C218",
+        "C219",
+        "C221",
+        "C222",
+        "C223",
+        "C224",
+        "C225",
+        "C226",
+        "C227",
+        "C229",
+        "C230",
+        "C231",
+        "C233",
+        "C235",
+        "C236",
+        "C237",
+        "C238",
+        "C239",
+        "C240",
+        "C241",
+        "C242",
+        "C243",
+        "C245",
+        "C246",
+        "C247",
+        "C248",
+        "C249",
+        "C250",
+        "C251",
+        "C252",
+        "C253",
+        "C255",
+        "C256",
+        "C257",
+        "C258",
+        "C259",
+        "C260",
+        "C262",
+        "C263",
+        "C264",
+        "C265",
+        "C266",
+        "C267",
+        "C268",
+        "C269",
+        "C271",
+        "C273",
+        "C274",
+        "C275",
+        "C276",
+        "C278",
+        "C279",
+        "C280",
+        "C281",
+        "C282",
+        "C283",
+        "C284",
+        "C285",
+        "C286",
+        "C287",
+        "C288",
+        "C289",
+        "C290",
+        "C291",
+        "C292",
+        "C293",
+        "C294",
+        "C295",
+        "C296",
+        "C297",
+        "C298",
+        "C299",
+        "C300",
+        "C301",
+        "C302",
+        "C303",
+        "C304",
+        "C305",
+        "C306",
+        "C307",
+        "C308",
+        "C309",
+        "C310",
+        "C311",
+        "C312",
+        "C313",
+        "C314",
+        "C315",
+        "C316",
+        "C317",
+        "C318",
+        "C319",
+        "C320",
+        "C321",
+        "C322",
+        "C323",
+        "C324",
+        "C325",
+        "C326",
+        "C327",
+        "C328",
+        "C330",
+        "C331",
+        "C332",
+        "C333",
+        "C334",
+        "C335",
+        "C336",
+        "C337",
+        "C338",
+        "C339",
+        "C340",
+        "C341",
+        "C342",
+        "C343",
+        "C344",
+        "C345",
+        "C346",
+        "C347",
+        "C348",
+        "C349",
+        "C350",
+        "C351",
+        "C352",
+        "C353",
+        "C354",
+        "C356",
+        "C357",
+        "C358",
+        "C359",
+        "C360",
+        "C361",
+        "C362",
+        "C363",
+        "C364",
+        "C365",
+        "C366",
+        "C367",
+        "C368",
+        "C369",
+        "C370",
+        "C371",
+        "C372",
+        "C373",
+        "C374",
+        "C375",
+        "C376",
+        "C377",
+        "C378",
+        "C379",
+        "C380",
+        "C381",
+        "C382",
+        "C383",
+        "C384",
+        "C385",
+        "C386",
+        "C387",
+        "C388",
+        "C390",
+        "C391",
+        "C393",
+        "C394",
+        "C395",
+        "C396",
+        "C397",
+        "C398",
+        "C399",
+        "C400",
+        "C401",
+        "C402",
+        "C404",
+        "C405",
+        "C406",
+        "C407",
+        "C409",
+        "C411",
+        "C412",
+        "C413",
+        "C414",
+        "C416",
+        "C417",
+        "C418",
+        "C419",
+        "C420",
+        "C421",
+        "C422",
+        "C423",
+        "C424",
+        "C425",
+        "C426",
+        "C428",
+        "C429",
+        "C430",
+        "C431",
+        "C432",
+        "C433",
+        "C434",
+        "C436",
+        "C437",
+        "C439",
+        "C440",
+        "C441",
+        "C442",
+        "C443",
+        "C444",
+        "C445",
+        "C446",
+        "C449",
+        "C450",
+        "C451",
+        "C452",
+        "C453",
+        "C454",
+        "C456",
+        "C457",
+        "C458",
+        "C459",
+        "C460",
+        "C462",
+        "C463",
+        "C464",
+        "C465",
+        "C466",
+        "C467",
+        "C468",
+        "C469",
+        "C470",
+        "C471",
+        "C472",
+        "C473",
+        "C476",
+        "C477",
+        "C478",
+        "C479",
+        "C480",
+        "C481",
+        "C482",
+        "C483",
+        "C484",
+        "C485",
+        "C486",
+        "C487",
+        "C488",
+        "C489",
+        "C490",
+        "C491",
+        "C492",
+        "C493",
+        "C494",
+        "C495",
+        "C497",
+        "C498",
+        "C499",
+        "C500",
+        "C501",
+        "C502",
+        "C503",
+        "C504",
+        "C505",
+        "C506",
+        "C507",
+        "C508",
+        "C509",
+        "C510",
+        "C511",
+        "C512",
+        "C515",
+        "C516",
+        "C517",
+        "C518",
+        "C519",
+        "C520",
+        "C521",
+        "C522",
+        "C523",
+        "C524",
+        "C525",
+        "C526",
+        "C527",
+        "C528",
+        "C529",
+        "C530",
+        "C531",
+        "C532",
+        "C534",
+        "C535",
+        "C536",
+        "C537",
+        "C538",
+        "C539",
+        "C540",
+        "C542",
+        "C543",
+        "C544",
+        "C545",
+        "C547",
+        "C548",
+        "C549",
+        "C550",
+        "C551",
+        "C552",
+        "C553",
+        "C554",
+        "C556",
+        "C557",
+        "C558",
+        "C559",
+        "C560",
+        "C561",
+        "C562",
+        "C564",
+        "C565",
+        "C566",
+        "C568",
+        "C569",
+        "C570",
+        "C571",
+        "C572",
+        "C573",
+        "C575",
+        "C578",
+        "C579",
+        "C580",
+        "C582",
+        "C583",
+        "C584",
+        "C585",
+        "C586",
+        "C587",
+        "C588",
+        "C589",
+        "C590",
+        "C591",
+        "C592",
+        "C593",
+        "C594",
+        "C595",
+        "C596",
+        "C598",
+        "C599",
+        "C600",
+        "C601",
+        "C602",
+        "C603",
+        "C604",
+        "C605",
+        "C837"
+      ],
+      "cards": 465,
+      "future_dated": 462,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.vexrobotics.com/official-path",
+      "new": false
+    },
+    {
+      "id": "rcj",
+      "name": "RoboCupJunior",
+      "group": "core",
+      "event_ids": [
+        "C041",
+        "C042",
+        "C046",
+        "C775"
+      ],
+      "cards": 4,
+      "future_dated": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://junior.robocup.org/",
+      "new": false
+    },
+    {
+      "id": "makex",
+      "name": "MakeX",
+      "group": "international",
+      "event_ids": [
+        "C020",
+        "C021",
+        "C022",
+        "C023",
+        "C608",
+        "C609",
+        "C610",
+        "C611",
+        "C612",
+        "C613",
+        "C614",
+        "C615",
+        "C616",
+        "C617",
+        "C618"
+      ],
+      "cards": 15,
+      "future_dated": 12,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.makex.cc/en/2026-makex",
+      "new": false
+    },
+    {
+      "id": "recf",
+      "name": "RECF Robotics",
+      "group": "international",
+      "event_ids": [
+        "C029"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://recf.org/teams/recf-robotics-competition/",
+      "new": false
+    },
+    {
+      "id": "drone",
+      "name": "RECF Aerial Drone",
+      "group": "international",
+      "event_ids": [
+        "C031"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ",
+      "new": false
+    },
+    {
+      "id": "wer",
+      "name": "WER",
+      "group": "international",
+      "event_ids": [
+        "C044"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.wermexico.com/competencia",
+      "new": false
+    },
+    {
+      "id": "matrix",
+      "name": "RoboMatrix / Infomatrix",
+      "group": "international",
+      "event_ids": [
+        "C002",
+        "C045"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robomatrix.org/",
+      "new": false
+    },
+    {
+      "id": "roborave",
+      "name": "RoboRAVE",
+      "group": "international",
+      "event_ids": [
+        "C052",
+        "C082",
+        "C083",
+        "C084",
+        "C085",
+        "C086",
+        "C087",
+        "C808"
+      ],
+      "cards": 8,
+      "future_dated": 6,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.roboraveinternational.org/eventos",
+      "new": false
+    },
+    {
+      "id": "robofest",
+      "name": "Robofest · LTU",
+      "group": "international",
+      "event_ids": [
+        "C053",
+        "C054"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robofest.net/index.php/current-competitions/main-page",
+      "new": false
+    },
+    {
+      "id": "robotex",
+      "name": "Robotex International",
+      "group": "international",
+      "event_ids": [
+        "C055"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robotex.international/lego-sumo",
+      "new": false
+    },
+    {
+      "id": "robotchallenge",
+      "name": "RobotChallenge",
+      "group": "international",
+      "event_ids": [
+        "C056"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robotchallenge.org.cn/competition-RobotSumo.html",
+      "new": false
+    },
+    {
+      "id": "enjoy",
+      "name": "ENJOY AI",
+      "group": "international",
+      "event_ids": [
+        "C057",
+        "C058",
+        "C059",
+        "C097"
+      ],
+      "cards": 4,
+      "future_dated": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.enjoyaiglobal.org/",
+      "new": false
+    },
+    {
+      "id": "juniorbotball",
+      "name": "Junior Botball Challenge",
+      "group": "international",
+      "event_ids": [
+        "C060",
+        "C778"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.kipr.org/junior-botball-challenge",
+      "new": false
+    },
+    {
+      "id": "iro",
+      "name": "International Robot Olympiad",
+      "group": "international",
+      "event_ids": [
+        "C067",
+        "C652",
+        "C653",
+        "C654",
+        "C655",
+        "C656",
+        "C657",
+        "C658",
+        "C659",
+        "C660",
+        "C661"
+      ],
+      "cards": 11,
+      "future_dated": 11,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.iroc.org/home?l=ko&s=10280",
+      "new": false
+    },
+    {
+      "id": "iyrc",
+      "name": "IYRC",
+      "group": "international",
+      "event_ids": [
+        "C068"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.myrobotacademy.ai/iyrcasean2026",
+      "new": false
+    },
+    {
+      "id": "irc",
+      "name": "International Robot Challenge · Egypt",
+      "group": "international",
+      "event_ids": [
+        "C069"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.international-robotchallenge.org/competition/",
+      "new": false
+    },
+    {
+      "id": "technoxian",
+      "name": "TechnoXian",
+      "group": "international",
+      "event_ids": [
+        "C088",
+        "C089",
+        "C090",
+        "C091",
+        "C092"
+      ],
+      "cards": 5,
+      "future_dated": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.technoxian.com/events",
+      "new": false
+    },
+    {
+      "id": "azrobofest",
+      "name": "Robofest · Azerbaijan",
+      "group": "international",
+      "event_ids": [
+        "C096"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robofestinternational.org/sumo-strike-junior-6-10-yas/",
+      "new": false
+    },
+    {
+      "id": "waicy",
+      "name": "WAICY",
+      "group": "ai",
+      "event_ids": [
+        "C037"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.waicy.org/waicy-2026/",
+      "new": false
+    },
+    {
+      "id": "codeavour",
+      "name": "Codeavour",
+      "group": "ai",
+      "event_ids": [
+        "C038"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://codeavour.org/",
+      "new": false
+    },
+    {
+      "id": "coolest",
+      "name": "Coolest Projects",
+      "group": "ai",
+      "event_ids": [
+        "C039"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://online.coolestprojects.org/help",
+      "new": false
+    },
+    {
+      "id": "bebras",
+      "name": "Bebras",
+      "group": "ai",
+      "event_ids": [
+        "C040",
+        "C064"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.bebras.org/countries",
+      "new": false
+    },
+    {
+      "id": "acsl",
+      "name": "ACSL",
+      "group": "ai",
+      "event_ids": [
+        "C071"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.acsl.org/get-started/divisions",
+      "new": false
+    },
+    {
+      "id": "tmr",
+      "name": "Torneo Mexicano de Robótica",
+      "group": "regional",
+      "event_ids": [
+        "C043"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones",
+      "new": false
+    },
+    {
+      "id": "tjr",
+      "name": "TJR Mini / RoboLeague",
+      "group": "regional",
+      "event_ids": [
+        "C065"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.torneiojrobotica.org/TJR-MINI/",
+      "new": false
+    },
+    {
+      "id": "itr",
+      "name": "ITR Brazil",
+      "group": "regional",
+      "event_ids": [
+        "C066"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://internationaltournamentofrobots.org/BRAZIL/",
+      "new": false
+    },
+    {
+      "id": "tecpro",
+      "name": "TecPro Challenge · LATAM / Virtual",
+      "group": "regional",
+      "event_ids": [
+        "C078",
+        "C079",
+        "C080",
+        "C081",
+        "C801",
+        "C802",
+        "C803",
+        "C804",
+        "C805",
+        "C806"
+      ],
+      "cards": 10,
+      "future_dated": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "new": false
+    },
+    {
+      "id": "ceibal",
+      "name": "Ceibal · Uruguay",
+      "group": "regional",
+      "event_ids": [
+        "C674",
+        "C675",
+        "C676",
+        "C677",
+        "C678",
+        "C679",
+        "C680",
+        "C681",
+        "C682",
+        "C683",
+        "C684",
+        "C686"
+      ],
+      "cards": 12,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/",
+      "new": false
+    },
+    {
+      "id": "robojam",
+      "name": "RoboJam",
+      "group": "regional",
+      "event_ids": [
+        "C685"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robojam.live/",
+      "new": false
+    },
+    {
+      "id": "roboliga",
+      "name": "RoboLiga · Argentina",
+      "group": "regional",
+      "event_ids": [
+        "C663",
+        "C664",
+        "C665",
+        "C666",
+        "C667",
+        "C668",
+        "C669",
+        "C670",
+        "C671",
+        "C672",
+        "C673"
+      ],
+      "cards": 11,
+      "future_dated": 11,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
+      "new": false
+    },
+    {
+      "id": "stemlab",
+      "name": "STEMLab Sumo League",
+      "group": "regional",
+      "event_ids": [
+        "C751",
+        "C752",
+        "C753",
+        "C754",
+        "C755"
+      ],
+      "cards": 5,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://stemlab.co.za/sumo-robotics-league/",
+      "new": false
+    },
+    {
+      "id": "fcti",
+      "name": "FCTI · Costa Rica",
+      "group": "regional",
+      "event_ids": [
+        "C760",
+        "C761"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf",
+      "new": false
+    },
+    {
+      "id": "luva",
+      "name": "LUVÁ · Costa Rica",
+      "group": "regional",
+      "event_ids": [
+        "C001",
+        "C002"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.torneoluva.com",
+      "new": false
+    },
+    {
+      "id": "pokemon",
+      "name": "Play! Pokémon",
+      "group": "games",
+      "event_ids": [
+        "C070"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://championships.pokemon.com/en-us/about/2027-season-changes/",
+      "new": false
+    },
+    {
+      "id": "botball",
+      "name": "Botball",
+      "group": "advanced",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://www.kipr.org/botball",
+      "new": false
+    },
+    {
+      "id": "robomaster",
+      "name": "RoboMaster · University",
+      "group": "advanced",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://www.robomaster.com/en-US/robo/rm",
+      "new": false
+    },
+    {
+      "id": "ioai",
+      "name": "IOAI · Олимпиада по ИИ",
+      "group": "advanced",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf",
+      "new": false
+    },
+    {
+      "id": "ioi",
+      "name": "IOI · Олимпиада по информатике",
+      "group": "advanced",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://ioinformatics.org/files/regulations24-web.pdf",
+      "new": false
+    },
+    {
+      "id": "isef",
+      "name": "Regeneron ISEF",
+      "group": "advanced",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/",
+      "new": false
+    },
+    {
+      "id": "firstglobal",
+      "name": "FIRST Global Challenge",
+      "group": "advanced",
+      "event_ids": [
+        "C762",
+        "C839"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://first.global/fgc/",
+      "new": false
+    },
+    {
+      "id": "fira",
+      "name": "FIRA RoboWorld Cup / Youth",
+      "group": "international",
+      "event_ids": [
+        "C763"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/",
+      "new": false
+    },
+    {
+      "id": "urc",
+      "name": "Universal Robotics Challenge (URC)",
+      "group": "international",
+      "event_ids": [
+        "C764"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.urc21.org/en/overview.php",
+      "new": false
+    },
+    {
+      "id": "wrc",
+      "name": "World Robot Contest (CIE)",
+      "group": "international",
+      "event_ids": [
+        "C765"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.worldrobotconference.com/contest/regulations/2632.html",
+      "new": false
+    },
+    {
+      "id": "iaio",
+      "name": "IAIO · International Artificial Intelligence Olympiad",
+      "group": "advanced",
+      "event_ids": [
+        "C766"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://iaio-official.org/",
+      "new": false
+    },
+    {
+      "id": "seaperch",
+      "name": "SeaPerch / RoboNation",
+      "group": "international",
+      "event_ids": [
+        "C767"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://seaperch.org/programs/2027-challenge/",
+      "new": false
+    },
+    {
+      "id": "mate",
+      "name": "MATE ROV Competition",
+      "group": "international",
+      "event_ids": [
+        "C768",
+        "C769"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://materovcompetition.org/scout",
+      "new": false
+    },
+    {
+      "id": "icys",
+      "name": "ICYS · Young Scientists",
+      "group": "advanced",
+      "event_ids": [
+        "C770"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://icysconference.com/",
+      "new": false
+    },
+    {
+      "id": "parc",
+      "name": "PARC · Pan-African Robotics Competition",
+      "group": "regional",
+      "event_ids": [
+        "C771"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.parcrobotics.org/",
+      "new": false
+    },
+    {
+      "id": "abu",
+      "name": "ABU Robocon",
+      "group": "advanced",
+      "event_ids": [
+        "C772"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/",
+      "new": false
+    },
+    {
+      "id": "roboone",
+      "name": "ROBO-ONE / Light / auto / Beginners",
+      "group": "international",
+      "event_ids": [
+        "C773"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robo-one.com/en/",
+      "new": false
+    },
+    {
+      "id": "robocupmajor",
+      "name": "RoboCup Major · Soccer / Rescue / @Home / Industrial",
+      "group": "advanced",
+      "event_ids": [
+        "C774"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.robocup.org/",
+      "new": false
+    },
+    {
+      "id": "marc",
+      "name": "MARC Taiwan",
+      "group": "regional",
+      "event_ids": [
+        "C035",
+        "C779"
+      ],
+      "cards": 2,
+      "future_dated": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf",
+      "new": false
+    },
+    {
+      "id": "tirt",
+      "name": "TIRT Taiwan",
+      "group": "regional",
+      "event_ids": [
+        "C036",
+        "C780",
+        "C781",
+        "C782",
+        "C783"
+      ],
+      "cards": 5,
+      "future_dated": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68",
+      "new": false
+    },
+    {
+      "id": "brazil",
+      "name": "OBR / CBR / LARC · Brazil",
+      "group": "regional",
+      "event_ids": [
+        "C046",
+        "C820",
+        "C821",
+        "C822",
+        "C823",
+        "C824",
+        "C825",
+        "C826",
+        "C827",
+        "C828",
+        "C829",
+        "C830",
+        "C831",
+        "C832",
+        "C833",
+        "C834"
+      ],
+      "cards": 16,
+      "future_dated": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robotica.robocup.org.br/",
+      "new": false
+    },
+    {
+      "id": "chile",
+      "name": "Liga Robótica Chile",
+      "group": "regional",
+      "event_ids": [
+        "C047",
+        "C048",
+        "C049",
+        "C050",
+        "C051",
+        "C807"
+      ],
+      "cards": 6,
+      "future_dated": 5,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.torneorobotica.cl/",
+      "new": false
+    },
+    {
+      "id": "technovation",
+      "name": "Technovation Girls",
+      "group": "ai",
+      "event_ids": [
+        "C062"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://technovationchallenge.org/",
+      "new": false
+    },
+    {
+      "id": "rcube",
+      "name": "Rcube Robotics League",
+      "group": "regional",
+      "event_ids": [
+        "C093"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.technoxian.com/rcube-robotic-league",
+      "new": false
+    },
+    {
+      "id": "bafta-ygd",
+      "name": "BAFTA Young Game Designers",
+      "group": "games",
+      "event_ids": [
+        "C776"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.bafta.org/programmes/young-game-designer/",
+      "new": false
+    },
+    {
+      "id": "visionrover-cenfotec",
+      "name": "VisionRover Challenge · CENFOTEC",
+      "group": "advanced",
+      "event_ids": [
+        "C777"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://ucenfotec.ac.cr/expocenfo/",
+      "new": false
+    },
+    {
+      "id": "grg",
+      "name": "Global Robotics Games · GRG",
+      "group": "international",
+      "event_ids": [
+        "C784",
+        "C785",
+        "C786",
+        "C787"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.globalroboticsgames.com/",
+      "new": false
+    },
+    {
+      "id": "lnr-argentina",
+      "name": "Liga Nacional de Robótica · Argentina",
+      "group": "regional",
+      "event_ids": [
+        "C809",
+        "C810",
+        "C811",
+        "C812",
+        "C813",
+        "C814",
+        "C815",
+        "C816",
+        "C817",
+        "C818"
+      ],
+      "cards": 10,
+      "future_dated": 10,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://lnr-argentina.com.ar/",
+      "new": false
+    },
+    {
+      "id": "obr-brazil",
+      "name": "Olimpíada Brasileira de Robótica · OBR",
+      "group": "regional",
+      "event_ids": [
+        "C820",
+        "C821",
+        "C822",
+        "C823",
+        "C824",
+        "C825",
+        "C826"
+      ],
+      "cards": 7,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://obr.robocup.org.br/wp-content/uploads/2026/03/OBR2026_MP_Manual-de-Inscricao.pdf%20",
+      "new": false
+    },
+    {
+      "id": "cbr-brazil",
+      "name": "Competição Brasileira de Robótica · CBR Petrobras",
+      "group": "regional",
+      "event_ids": [
+        "C827",
+        "C828",
+        "C829",
+        "C830"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://cbr.robocup.org.br/index.php/categorias/",
+      "new": false
+    },
+    {
+      "id": "mnr-brazil",
+      "name": "Mostra Nacional de Robótica · MNR",
+      "group": "regional",
+      "event_ids": [
+        "C831",
+        "C832",
+        "C833",
+        "C834"
+      ],
+      "cards": 4,
+      "future_dated": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://mnr.robocup.org.br/cronograma/",
+      "new": false
+    },
+    {
+      "id": "lnr-paraguay",
+      "name": "Liga Nacional de Robótica · Paraguay / VEX",
+      "group": "regional",
+      "event_ids": [
+        "C837"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5257.html",
+      "new": false
+    }
+  ],
+  "exhibition_inventory": [
+    {
+      "id": "E009",
+      "name": "Maker Faire Shenzhen 2026",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.shenzhenmakerfaire.com/2026/06/30/maker-faire-shenzhen-2026-now-call-for-makers%EF%BC%81entering-the-era-of-opc-creators",
+      "new": false
+    },
+    {
+      "id": "E010",
+      "name": "ROBOTWORLD 2026",
+      "country": "Южная Корея",
+      "region": "Азия",
+      "start": "2026-11-04",
+      "end": "2026-11-07",
+      "visitor_policy": "family",
+      "source": "https://eng.robotworld.or.kr/visitors/information.php",
+      "new": false
+    },
+    {
+      "id": "E011",
+      "name": "RoboNext 2026",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-12-02",
+      "end": "2026-12-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://robonext.nikkan.co.jp?lang=en",
+      "new": false
+    },
+    {
+      "id": "E012",
+      "name": "iREX International Robot Exhibition 2027",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://irex.nikkan.co.jp/",
+      "new": false
+    },
+    {
+      "id": "E013",
+      "name": "RoboCup 2027 — visitor days + Family Day",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-06-17",
+      "end": "2027-06-20",
+      "visitor_policy": "family",
+      "source": "https://2027.robocup.org/visit/visitors",
+      "new": false
+    },
+    {
+      "id": "E014",
+      "name": "Hannover Messe 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-04-05",
+      "end": "2027-04-08",
+      "visitor_policy": "family",
+      "source": "https://www.hannovermesse.de/en/for-visitors/tickets/index-2",
+      "new": false
+    },
+    {
+      "id": "E015",
+      "name": "IFA Berlin 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-09-03",
+      "end": "2027-09-07",
+      "visitor_policy": "family",
+      "source": "https://www.ifa-berlin.com/faq",
+      "new": false
+    },
+    {
+      "id": "E016",
+      "name": "CES 2027",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-01-06",
+      "end": "2027-01-09",
+      "visitor_policy": "adults_only",
+      "source": "https://www.ces.tech/attendee-guides/registration-information",
+      "new": false
+    },
+    {
+      "id": "E017",
+      "name": "MWC Barcelona 2027",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "adults_only",
+      "source": "https://www.mwcbarcelona.com/virtual-assistance/va-venue-information",
+      "new": false
+    },
+    {
+      "id": "E018",
+      "name": "GITEX Global 2026 — выставка",
+      "country": "ОАЭ",
+      "region": "Азия",
+      "start": "2026-12-08",
+      "end": "2026-12-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gitex.com/",
+      "new": false
+    },
+    {
+      "id": "E019",
+      "name": "automatica 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2027-06-22",
+      "end": "2027-06-25",
+      "visitor_policy": "confirm_children",
+      "source": "https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines",
+      "new": false
+    },
+    {
+      "id": "E020",
+      "name": "TAIREX 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "visitor_policy": "adults_only",
+      "source": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
+      "new": false
+    },
+    {
+      "id": "E021",
+      "name": "TAIROS / Automation Taipei 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-08-04",
+      "end": "2027-08-07",
+      "visitor_policy": "adults_only",
+      "source": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
+      "new": false
+    },
+    {
+      "id": "E022",
+      "name": "Touch Taiwan 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-04-21",
+      "end": "2027-04-23",
+      "visitor_policy": "adults_only",
+      "source": "https://www.touchtaiwan.com/visitor.asp",
+      "new": false
+    },
+    {
+      "id": "E023",
+      "name": "COMPUTEX 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-06-01",
+      "end": "2027-06-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html",
+      "new": false
+    },
+    {
+      "id": "E024",
+      "name": "Smart City Summit & Expo 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-03-16",
+      "end": "2027-03-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://smartcity.org.tw/smartcity.php",
+      "new": false
+    },
+    {
+      "id": "E025",
+      "name": "AI EXPO Taiwan 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://ai-expo.tw/about_2026.html",
+      "new": false
+    },
+    {
+      "id": "E027",
+      "name": "Maker Faire Taipei 2026",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "visitor_policy": "family",
+      "source": "https://makerfaire.com/upcoming-faires/",
+      "new": false
+    },
+    {
+      "id": "E028",
+      "name": "World Robot Conference / World Robot Expo — Пекин, следующее издание",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.worldrobotconference.com/",
+      "new": false
+    },
+    {
+      "id": "E029",
+      "name": "WAIC — World Artificial Intelligence Conference, Шанхай · следующее издание",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.worldaic.com.cn/",
+      "new": false
+    },
+    {
+      "id": "E034",
+      "name": "gamescom Cologne — 2027",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://www.gamescom.global/en/info/visitors",
+      "new": false
+    },
+    {
+      "id": "E035",
+      "name": "gamescom latam 2027",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "visitor_policy": "family",
+      "source": "https://latam.gamescom.global/en/",
+      "new": false
+    },
+    {
+      "id": "E036",
+      "name": "Paris Games Week 2026 — Family",
+      "country": "Франция",
+      "region": "Европа",
+      "start": "2026-10-22",
+      "end": "2026-10-25",
+      "visitor_policy": "family",
+      "source": "https://www.parisgamesweek.com/fr",
+      "new": false
+    },
+    {
+      "id": "E037",
+      "name": "Tokyo Game Show — следующий Family Game Park",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://tgs.cesa.or.jp/2026/en/fgp/",
+      "new": false
+    },
+    {
+      "id": "E038",
+      "name": "Brasil Game Show 2026 — публичные дни",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-10-10",
+      "end": "2026-10-12",
+      "visitor_policy": "family",
+      "source": "https://www.brasilgameshow.com.br/ingressos/",
+      "new": false
+    },
+    {
+      "id": "E039",
+      "name": "PAX Aus 2026",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2026-10-09",
+      "end": "2026-10-11",
+      "visitor_policy": "family",
+      "source": "https://aus.paxsite.com/en-us/info/faq.html",
+      "new": false
+    },
+    {
+      "id": "E040",
+      "name": "GAMERGY Madrid 2026",
+      "country": "Испания",
+      "region": "Европа",
+      "start": "2026-12-18",
+      "end": "2026-12-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ifema.es/gamergy",
+      "new": false
+    },
+    {
+      "id": "E059",
+      "name": "Maker Faire Guangzhou 2026",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "visitor_policy": "confirm_children",
+      "source": "https://guangzhou.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E079",
+      "name": "Lisboa Games Week 2026",
+      "country": "Португалия",
+      "region": "Европа",
+      "start": "2026-11-19",
+      "end": "2026-11-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.fil.pt/wp-content/uploads/2026/01/Calendario_Elevadores_2026_vs-5-Jan-2026.pdf",
+      "new": false
+    },
+    {
+      "id": "E080",
+      "name": "GITEX AI Asia 2027",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2027-04-29",
+      "end": "2027-04-30",
+      "visitor_policy": "confirm_children",
+      "source": "https://gitexasia.com/",
+      "new": false
+    },
+    {
+      "id": "E081",
+      "name": "GITEX AI Europe — следующее издание",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gitexeurope.com/faqs",
+      "new": false
+    },
+    {
+      "id": "E082",
+      "name": "GITEX Africa — следующее издание",
+      "country": "Марокко",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "adults_only",
+      "source": "https://gitexafrica.com/faqs",
+      "new": false
+    },
+    {
+      "id": "E083",
+      "name": "CIIF 2026 — Robotics Show / Industrial Automation Show",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.ciif-expo.com/",
+      "new": false
+    },
+    {
+      "id": "E084",
+      "name": "AWE 2027 — AI, домашние и сервисные роботы",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-03-17",
+      "end": "2027-03-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.awe.com.cn/contents/161/15509.html",
+      "new": false
+    },
+    {
+      "id": "E085",
+      "name": "SPS — Smart Production Solutions Shenzhen 2027 (ранее Guangzhou)",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-09-01",
+      "end": "2027-09-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://spsinchina.cn.messefrankfurt.com/shenzhen/en.html",
+      "new": false
+    },
+    {
+      "id": "E086",
+      "name": "Guangzhou Industrial Technology — следующее издание",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://gitfair.hk.messefrankfurt.com/guangzhou/en.html",
+      "new": false
+    },
+    {
+      "id": "E087",
+      "name": "AIE 2026 — Global Artificial Intelligence Machines and Electronics Expo · Макао",
+      "country": "Китай, Специальный административный район Макао",
+      "region": "Азия",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.aie-expo.com/en",
+      "new": false
+    },
+    {
+      "id": "E088",
+      "name": "AIE 2026 — Global Artificial Intelligence Machines and Electronics Expo · Чжухай",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.aie-expo.com/en",
+      "new": false
+    },
+    {
+      "id": "E089",
+      "name": "Industrial Transformation ASIA-PACIFIC / ITAP 2026",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2026-10-21",
+      "end": "2026-10-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://industrial-transformation.com/itap-2026-home/",
+      "new": false
+    },
+    {
+      "id": "E090",
+      "name": "Industrial Transformation ASIA-PACIFIC / ITAP 2027",
+      "country": "Сингапур",
+      "region": "Азия",
+      "start": "2027-07-20",
+      "end": "2027-07-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://industrial-transformation.com/itap-2026-home/",
+      "new": false
+    },
+    {
+      "id": "E091",
+      "name": "RoboBusiness 2026",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2026-10-20",
+      "end": "2026-10-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.robobusiness.com/",
+      "new": false
+    },
+    {
+      "id": "E092",
+      "name": "Robotics Summit & Expo 2027",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-06-02",
+      "end": "2027-06-03",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.roboticssummit.com/",
+      "new": false
+    },
+    {
+      "id": "E093",
+      "name": "Canton Fair 140 — фаза 1, Service Robots / Advanced Manufacturing",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-10-15",
+      "end": "2026-10-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.cantonfair.org.cn/en-US",
+      "new": false
+    },
+    {
+      "id": "E094",
+      "name": "Automate 2027 — robotics / automation",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-05-10",
+      "end": "2027-05-13",
+      "visitor_policy": "adults_only",
+      "source": "https://www.automateshow.com/",
+      "new": false
+    },
+    {
+      "id": "E096",
+      "name": "Expo Manufactura 2027",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2027-02-23",
+      "end": "2027-02-25",
+      "visitor_policy": "adults_only",
+      "source": "https://expomanufactura.com.mx/",
+      "new": false
+    },
+    {
+      "id": "E097",
+      "name": "Smart Technology Expo 2026",
+      "country": "Мексика",
+      "region": "Северная Америка",
+      "start": "2026-11-18",
+      "end": "2026-11-20",
+      "visitor_policy": "confirm_children",
+      "source": "https://smarttechnologyexpo.mx/",
+      "new": false
+    },
+    {
+      "id": "E098",
+      "name": "EXPOMAFE 2027",
+      "country": "Brazil",
+      "region": "Южная Америка",
+      "start": "2027-05-04",
+      "end": "2027-05-08",
+      "visitor_policy": "adults_only",
+      "source": "https://www.expomafe.com.br/",
+      "new": false
+    },
+    {
+      "id": "E099",
+      "name": "Australian Manufacturing Week 2027",
+      "country": "Австралия",
+      "region": "Океания",
+      "start": "2027-05-11",
+      "end": "2027-05-14",
+      "visitor_policy": "family",
+      "source": "https://australianmanufacturingweek.com.au/visit2027/",
+      "new": false
+    },
+    {
+      "id": "E100",
+      "name": "Africa Tech Festival 2026",
+      "country": "ЮАР",
+      "region": "Африка",
+      "start": "2026-11-17",
+      "end": "2026-11-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://africatechfestival.com/",
+      "new": false
+    },
+    {
+      "id": "E101",
+      "name": "AI Expo Africa 2026",
+      "country": "ЮАР",
+      "region": "Африка",
+      "start": "2026-10-28",
+      "end": "2026-10-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://aiexpoafrica.com/ai-expo-africa-2026-faq/",
+      "new": false
+    },
+    {
+      "id": "E102",
+      "name": "VivaTech 2027",
+      "country": "France",
+      "region": "Европа",
+      "start": "2027-06-16",
+      "end": "2027-06-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://vivatech.com/",
+      "new": false
+    },
+    {
+      "id": "E103",
+      "name": "World Summit AI Amsterdam 2026",
+      "country": "Netherlands",
+      "region": "Европа",
+      "start": "2026-10-07",
+      "end": "2026-10-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://worldsummit.ai/",
+      "new": false
+    },
+    {
+      "id": "E104",
+      "name": "World AI Cannes Festival 2027",
+      "country": "France",
+      "region": "Европа",
+      "start": "2027-02-10",
+      "end": "2027-02-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://waicf.com/",
+      "new": false
+    },
+    {
+      "id": "E105",
+      "name": "SPS Smart Production Solutions 2026",
+      "country": "Германия",
+      "region": "Европа",
+      "start": "2026-11-24",
+      "end": "2026-11-26",
+      "visitor_policy": "adults_only",
+      "source": "https://sps.mesago.com/nuernberg/en/expo.html",
+      "new": false
+    },
+    {
+      "id": "E106",
+      "name": "AI EXPO KOREA 2027",
+      "country": "Южная Корея",
+      "region": "Азия",
+      "start": "2027-04-14",
+      "end": "2027-04-16",
+      "visitor_policy": "adults_only",
+      "source": "https://aiexpo.co.kr/전시회-개요/",
+      "new": false
+    },
+    {
+      "id": "E107",
+      "name": "Automation Expo India 2027",
+      "country": "India",
+      "region": "Азия",
+      "start": "2027-06-02",
+      "end": "2027-06-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.automationindiaexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E108",
+      "name": "LEAP / DeepFest 2027",
+      "country": "Saudi Arabia",
+      "region": "Азия",
+      "start": "2027-04-12",
+      "end": "2027-04-15",
+      "visitor_policy": "adults_only",
+      "source": "https://onegiantleap.com/",
+      "new": false
+    },
+    {
+      "id": "E109",
+      "name": "Web Summit Lisbon 2026",
+      "country": "Portugal",
+      "region": "Европа",
+      "start": "2026-11-09",
+      "end": "2026-11-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://websummit.com/",
+      "new": false
+    },
+    {
+      "id": "E110",
+      "name": "Web Summit Rio 2027",
+      "country": "Brazil",
+      "region": "Южная Америка",
+      "start": "2027-06-14",
+      "end": "2027-06-17",
+      "visitor_policy": "confirm_children",
+      "source": "https://rio.websummit.com/",
+      "new": false
+    },
+    {
+      "id": "E111",
+      "name": "NexTech Week Tokyo · AI EXPO Autumn 2026",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2026-11-11",
+      "end": "2026-11-13",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.nextech-week.jp/hub/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E112",
+      "name": "NexTech Week Tokyo · AI EXPO Spring 2027",
+      "country": "Япония",
+      "region": "Азия",
+      "start": "2027-04-21",
+      "end": "2027-04-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.nextech-week.jp/hub/en-gb.html",
+      "new": false
+    },
+    {
+      "id": "E113",
+      "name": "PAX Unplugged Philadelphia 2026",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "visitor_policy": "family",
+      "source": "https://unplugged.paxsite.com/philly/en-us.html",
+      "new": false
+    },
+    {
+      "id": "E114",
+      "name": "PAX Unplugged Houston 2027",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-06-25",
+      "end": "2027-06-27",
+      "visitor_policy": "confirm_children",
+      "source": "https://unplugged.paxsite.com/houston/en-us.html",
+      "new": false
+    },
+    {
+      "id": "E115",
+      "name": "PAX East Boston 2027",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-04-22",
+      "end": "2027-04-25",
+      "visitor_policy": "family",
+      "source": "https://east.paxsite.com/en-us/info/faq.html",
+      "new": false
+    },
+    {
+      "id": "E116",
+      "name": "gamescom asia Thailand 2026 · публичные дни",
+      "country": "Таиланд",
+      "region": "Азия",
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "visitor_policy": "family",
+      "source": "https://gamescom.asia/ent/b2c-faqs",
+      "new": false
+    },
+    {
+      "id": "E117",
+      "name": "Taipei Game Show 2027 · B2C public zone",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-01-21",
+      "end": "2027-01-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://tgs.tca.org.tw/?p=event_info_e",
+      "new": false
+    },
+    {
+      "id": "E118",
+      "name": "G-STAR Busan 2026 · BTC exhibition",
+      "country": "Южная Корея",
+      "region": "Азия",
+      "start": "2026-11-19",
+      "end": "2026-11-22",
+      "visitor_policy": "confirm_children",
+      "source": "https://gstar.or.kr/gstar/gstar_info.do",
+      "new": false
+    },
+    {
+      "id": "E120",
+      "name": "AI & Big Data Expo Global / TechEx · 2027",
+      "country": "Великобритания",
+      "region": "Европа",
+      "start": "2027-02-03",
+      "end": "2027-02-04",
+      "visitor_policy": "adults_only",
+      "source": "https://www.ai-expo.net/global/visitor-faqs/",
+      "new": false
+    },
+    {
+      "id": "E121",
+      "name": "AI & Big Data Expo Europe / TechEx · 2026",
+      "country": "Нидерланды",
+      "region": "Европа",
+      "start": "2026-10-19",
+      "end": "2026-10-20",
+      "visitor_policy": "adults_only",
+      "source": "https://www.ai-expo.net/europe/visitor-faqs/",
+      "new": false
+    },
+    {
+      "id": "E122",
+      "name": "AI & Big Data Expo North America / TechEx · 2027",
+      "country": "США",
+      "region": "Северная Америка",
+      "start": "2027-06-16",
+      "end": "2027-06-17",
+      "visitor_policy": "adults_only",
+      "source": "https://www.ai-expo.net/northamerica/visitor-faqs/",
+      "new": false
+    },
+    {
+      "id": "E123",
+      "name": "Tech Show London · 2027",
+      "country": "Великобритания",
+      "region": "Европа",
+      "start": "2027-03-10",
+      "end": "2027-03-11",
+      "visitor_policy": "adults_only",
+      "source": "https://www.techshowlondon.co.uk/attending/visitor-faqs",
+      "new": false
+    },
+    {
+      "id": "E124",
+      "name": "HRIE Shanghai · Humanoid Robot & Robotics Industry Chain · 2026",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2026-12-09",
+      "end": "2026-12-11",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.humanoidrobotfair.cn/",
+      "new": false
+    },
+    {
+      "id": "E125",
+      "name": "SIEAR Shanghai · Intelligent Robotics Industry Chain · 2027",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.siearexpo.com/",
+      "new": false
+    },
+    {
+      "id": "E126",
+      "name": "SIA Shanghai · Automation & Robotics · 2027 · даты расходятся",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.asia-sia.com/",
+      "new": false
+    },
+    {
+      "id": "E127",
+      "name": "CHITEC Beijing · следующая China Beijing High-Tech Expo",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.chitec.cn/web/",
+      "new": false
+    },
+    {
+      "id": "E129",
+      "name": "Taiwan Innotech Expo · 2027",
+      "country": "Тайвань",
+      "region": "Азия",
+      "start": "2027-10-14",
+      "end": "2027-10-16",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.inventaipei.com.tw/zh-tw/index.html",
+      "new": false
+    },
+    {
+      "id": "E130",
+      "name": "Robótica 2026 · публичное посещение фестиваля",
+      "country": "Бразилия",
+      "region": "Южная Америка",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "visitor_policy": "confirm_children",
+      "source": "https://robotica.robocup.org.br/",
+      "new": false
+    },
+    {
+      "id": "E131",
+      "name": "MuCi San Cosmos · цифровой планетарий / семейный STEM визит",
+      "country": "Парагвай",
+      "region": "Южная Америка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://muci.org/",
+      "new": false
+    }
+  ],
+  "known_backlog": [
+    {
+      "kind": "Лиги / соревнования",
+      "name": "MILSET Expo-Sciences / science project networks",
+      "reason": "Разделить выставку проекта, оценённый конкурс и путь national delegation. Проверить технологии / robotics categories и школьный возраст.",
+      "url": "https://milset.org/"
+    },
+    {
+      "kind": "Лиги / соревнования",
+      "name": "RoboNation RoboSub / RoboBoat / RobotX; EU robotics challenges",
+      "reason": "Старшие автономные системы и отдельные финалы ещё не проаудированы. SeaPerch не заменяет эти лиги.",
+      "url": "https://robonation.org/"
+    },
+    {
+      "kind": "Лиги / соревнования",
+      "name": "BattleBots / NHRL / combat robotics circuits",
+      "reason": "Открытые турниры, весовые классы, возраст оператора и безопасность не покрыты полностью.",
+      "url": "https://www.nhrl.io/"
+    },
+    {
+      "kind": "Лиги / соревнования",
+      "name": "Все национальные FIRST / WRO / VEX / RCJ qualifiers",
+      "reason": "Наличие глобальной сети и national organizer не равно полному списку турниров каждой страны.",
+      "url": "https://wro-association.org/about-wro/member-countries/"
+    },
+    {
+      "kind": "Выставки",
+      "name": "Industrial Transformation México (ITM)",
+      "reason": "Источник IGECO показывает Smart Technology Expo; старые ITM-каталоги дают другие даты. ITM не приравнен к STE без подтверждения.",
+      "url": "https://www.igeco.mx/"
+    },
+    {
+      "kind": "Выставки",
+      "name": "ICRA / IROS exhibitions, MWC Shanghai / Doha, другие выпуски GITEX",
+      "reason": "Конференции, выставочные зоны и отдельные города имеют разные visitor policies и календарные выпуски; полный сезонный ряд ещё не закрыт.",
+      "url": ""
+    },
+    {
+      "kind": "Страны",
+      "name": "Caribbean, Pacific islands и страны без конкретных карточек",
+      "reason": "Справочник стран — карта дальнейшего исследования. Не найдено в базе не означает, что соревнований в стране нет.",
+      "url": ""
+    },
+    {
+      "kind": "Лагеря",
+      "name": "Costa Rica / México: будущие ES/EN каникулы",
+      "reason": "CENFOTEC Makers 7–11.12.2026 подтверждён очно, но только для 10–12 лет; EN / ES не подтверждён. Ciberbots / Cerebritos: точные дни неизвестны; у Liota зимний период из 19 дней назван четырьмя неделями. Допуск обоих детей и иностранный приём требуют дальнейшей проверки.",
+      "url": "https://www.ciberbots.com.mx/services"
+    },
+    {
+      "kind": "Выставки",
+      "name": "ChinaJoy / оставшиеся PAX / национальные игровые шоу",
+      "reason": "Общий игровой бренд не заменяет список всех изданий; будущие даты, child gates и возраст турниров проверяются отдельно.",
+      "url": ""
+    },
+    {
+      "kind": "Лагеря",
+      "name": "Испанские региональные STEM-провайдеры",
+      "reason": "TechLabKids / FunTech: будущая смена, возраст, ES versus Catalan и фактические места ещё не подтверждены.",
+      "url": "https://techlabkids.com/campamentos/"
+    },
+    {
+      "kind": "Выставки",
+      "name": "CIROS Shanghai: действующий организатор / следующий выпуск",
+      "reason": "Старая CIROS invitation / агрегаторные даты не подтверждают новый выпуск. SIA, SIEAR и HRIE — другие бренды и не закрывают CIROS.",
+      "url": ""
+    },
+    {
+      "kind": "Выставки",
+      "name": "Shanghai SIA и Beijing CHITEC: будущие точные даты / детский допуск",
+      "reason": "SIA2027: две официальные страницы дают разные дни. CHITEC: организатор установлен, 2026 прошло, следующий выпуск не объявлен. Оба исключены из календарного экспорта до подтверждения дат.",
+      "url": "https://www.chitec.cn/web/"
+    },
+    {
+      "kind": "Тайвань",
+      "name": "Тайвань: оставшиеся местные правила и иностранный вход",
+      "reason": "The Grove: возраст обоих детей, иностранный приём и поддержка без обязательного китайского.; ERA: иностранная команда, школа / класс, английская защита и право международной квоты.; TIRT: действующий дедлайн, последние CN / EN регламенты и эквивалент школьной справки.; TYPA / TAS: реальные смены 2027, английское преподавание и доступ туристической семьи.; Junior Botball: полный локальный регламент; GRG: даты, возрастное отсечение и конфликт AIMS.; Выставки: Kaohsiung Smart City 2027, AI EXPO 2027, детские правила COMPUTEX / Innotech 2027 и семейный вход на FRC.",
+      "url": "https://www.era.org.tw/main/2026-2027-first%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b3%bd%e8%87%ba%e7%81%a3%e9%81%b8%e6%8b%94%e8%b3%bd%e5%a0%b1%e5%90%8d%e6%ad%a5%e9%a9%9f%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/"
+    },
+    {
+      "kind": "Коста-Рика / Мексика",
+      "name": "Независимый допуск, зимние смены и FTC правила нового сезона",
+      "reason": "Допуск независимых семейных команд TecPro Costa Rica, возрастные партнёры и места на 8 октября.; Точные даты рождения для январского отсечения MakeX; категории и день выступления внутри 27–29 ноября.; Классы обоих детей для школьных лиг и лагерей; год рождения не заменяет класс.; Зимние группы México / Costa Rica: фактические дни занятий, возраст, EN / ES, оборудование, уровень после трёх лет соревнований.; FTC México 2026–2027: правила иностранной команды, HOME EVENT, национальная / международная квалификация и детские посетители.",
+      "url": "https://tdrobotica.co/tecpro-challenge-2026-2027"
+    },
+    {
+      "kind": "Южная Америка",
+      "name": "Детский / иностранный приём и новые смены",
+      "reason": "Точные дни рождения для Programable 9 / 10 и CampoAventuras 9 на день старта; школьные классы для Chile / RoboRAVE.; Programable / Troonic: преподавание ES / EN, окончательное расписание, foreign visitors и материалы / питание.; LNR: точный набор дисциплин каждой sede, детский оператор и consent, иностранная зона / сезонный зачёт; status CREADO не означает регистрацию.; Chile: текущие team maxima / Maipú categories и час OPEN; новая international convocatoria.; Colombia / Ecuador: новые December / January shifts, actual teaching language и возраст, без переноса старых летних оферт.; Продолжить остальные страны Южной Америки и местные FIRST / WRO / VEX / независимые турниры; этот проход не завершает страновые аудиты.",
+      "url": "https://programable.com.ar/colonia-tecno-2027/"
+    },
+    {
+      "kind": "Южная Америка",
+      "name": "Новые потоки и иностранный допуск в четырёх странах",
+      "reason": "Бразилия: иностранный допуск garage / школы, класс и граница OBR 8-го класса, индивидуальные дни финала, язык ES / EN. MNR Mato Grosso: допуск иностранного проекта и региональные условия.; Парагвай: действующие FLL BIOGLOW тарифы, наборы, возрастное отсечение, дата финала и иностранная квота; следующие этапы VEX LNR.; MOT Halloween: места, язык занятий, конкретная цифровая программа; новые летние даты 2026–2027 без переноса старого сезона.; Уругвай / Боливия: следующие каникулярные потоки, классы, минимальный возраст, язык и документы иностранного ребёнка; Sucre–Bot — конкретные международные квоты и правила.; MNR: HTML содержит посторонние SEO-вставки, локальные дни перепроверить. MuCi: старый Astra 14 октября не принят за новый анонс 2026.",
+      "url": "https://robotica.robocup.org.br/"
+    },
+    {
+      "kind": "Camps",
+      "name": "Полнота лагерей / пансионов и детских хакатонов",
+      "reason": "Латинская Америка: местные программы и Argentina / Peru 2027 уже есть, но EN / ES не выводится из языка сайта. English robotics, открытые международные пансионы и иностранный допуск в Бразилии / Центральной Америке пока покрыты недостаточно.; Европа: дополнены Швейцария, Великобритания, Германия, Испания и Финляндия. Другие страны, пансионы и реальные наборы 2027 ещё требуют проверки.; Азия: дополнены Сингапур, Гонконг, Малайзия, Таиланд и Корея; предыдущая проверка Тайваня сохранена. Япония, Китай, Индия, Вьетнам и остальные страны имеют частичный охват лагерей и языковой поддержки.; Международный детский hackathon не означает допуск в 6 лет: многие программы начинаются с 12+, high school или университета. Национальный конкурс не назван открытым международным без правил.; Дата сезона, место, язык технических уроков, возраст на старт и услуги пансиона подтверждаются для выбранной смены. Прошедшие программы не получают выдуманных будущих дней.",
+      "url": "https://www.stgeorges.ch/fr/camps/summer-camps"
+    },
+    {
+      "name": "Постоянные школы и junior команды",
+      "reason": "Первый проход 16 школ / 13 стран; нужен более широкий аудит кампусов, языка, результатов последних сезонов и иностранного приёма.",
+      "url": ""
+    }
+  ],
+  "new_ids": [],
+  "new_profiles": [],
+  "updated_ids": [
+    "L006",
+    "L003",
+    "L013",
+    "L121",
+    "C039",
+    "C037",
+    "C038"
+  ],
+  "caveats": [
+    "Число карточек включает отдельные дисциплины, этапы, выпуски и площадки; это не число независимых мировых лиг или уникальных фестивалей.",
+    "Большая доля VEX не означает полноту остальных направлений или США.",
+    "Карточка с датой не доказывает открытую регистрацию, возрастной допуск или национальную квоту.",
+    "Антарктида: релевантный местный календарь не найден в рамках этого исследования; это не доказательство отсутствия всех мероприятий.",
+    "TechSpark LEGO Junior 6+ в общем каталоге не гарантирует робототехнику на каждой датированной неделе Zürich: проверенные недели Game Design начинаются с 7 лет.",
+    "Kids badge / бесплатный детский вход определяется конкретным изданием и возрастом на день визита, иногда ростом; правила разных PAX и разных лет не взаимозаменяемы.",
+    "Публичные дни выставки отделены от business/media days. Билет посетителя не регистрирует ребёнка в отдельный турнир.",
+    "EN/NL двуязычный bootcamp не гарантирует полное обучение только на EN; иностранный приём, язык и наличие места требуют подтверждения.",
+    "В v14 добавлены восемь карточек профильных / крупных выставок и одно местное событие; это издания / площадки, а не восемь доказанно крупнейших мировых брендов.",
+    "Четыре новые профессиональные выставки исключают детей 6 / 9. Они есть в отдельном выставочном календаре, но отсутствуют в семейном ICS.",
+    "Прогноз количества компаний и площади не равен подтверждённому списку будущих стендов. Co-located направления учитываются одной городской выставкой.",
+    "CENFOTEC Makers 10–12: текущий возраст Матвея 9 не доказывает допуск на декабрь. Новые кандидаты лагерей не имеют подтверждённого языка EN / ES.",
+    "Следующее CHITEC и конфликтующий SIA не получили вымышленных будущих дат. Liota holiday window не стал календарём ежедневных занятий.",
+    "Годы рождения сообщены пользователем: 2017 / 2020. Точные дни рождения и классы неизвестны. Обучение на английском и испанском подходит обоим детям — семья подтвердила.",
+    "В v15 найдены две будущие зимние программы на EN. The Grove не публикует возраст; Expedition27 рекомендует 8–12. Перевод сайта не является испанским преподаванием.",
+    "TAS и TYPA — разные программы. Регулярные занятия отделены от каникул; летние смены 2026 не перенесены в 2027.",
+    "MARC LOM и TM разделены: Оскар 2020 подходит по году рождения только LOM. Один ребёнок выбирает одну MARC-дисциплину.",
+    "Тайваньские провайдеры ENJOY / Borneo / NTHU описывают зарубежные события во Вьетнаме / Малайзии / США. Место провайдера не определяет место турнира.",
+    "v16: 12 FTC карточек — 11 региональных и 1 национальная. Это отдельные этапы одной сети; дети 2017 / 2020 сейчас младше FTC.",
+    "Будущие TecPro Match 2 карточки не имеют точных дней; dates / формы Match 1 не перенесены. Очные Artifact / Game — отдельные дисциплины одного C078.",
+    "Испанский сайт не доказывает преподавание на ES: для двух учебных кандидатов language tags исправлены. Языки семьи и языка программы хранятся отдельно.",
+    "Programable age tracks — две группы одной программы, 30 фактических учебных дней у каждой, не два независимых фестиваля.",
+    "LNR 10 records включают 3 PRE SEDE и final. Возраст без общего минимума, местный иностранный допуск и право на национальный сезонный титул различаются.",
+    "Camp windows Troonic сохранены как объявленные дни смены с видимым конфликтом структуры; daily sessions не придуманы. Closed CampoAventuras исключён из семейного ICS.",
+    "33 новые карточки включают возрастные треки, филиалы и дисциплины; это не число независимых фестивалей.",
+    "Региональный проект MNR, запись VEX-команды, национальный отбор и бесплатный посетительский вход имеют разные условия. Почётное упоминание, публикация и мировой титул различаются.",
+    "Новые учебные программы не получили ES / EN только по языку сайта.",
+    "Новые карточки включают треки, форматы и смены; их число не равно количеству независимых лагерей или операторов.",
+    "Native English персонал или English сайт не приравнены к полному техническому курсу на EN; основной язык, помощь и языковые уроки разделены.",
+    "activity_start напоминает объявленное начало конкурса / приёма, не полный период; camp_window не означает ежедневное пребывание весь сезон."
+  ],
+  "source_issues": [
+    {
+      "name": "ROBO-ONE LATAM",
+      "status": "Старый домен перенаправляет на посторонний gambling-сайт; не использовать как регистрационный.",
+      "official_alternative": "https://www.robo-one.com/en/"
+    },
+    {
+      "name": "SeaPerch 2027",
+      "status": "Handbook содержит смешанные заголовки сезона и разные сроки публикации regionals; версия класса требует уточнения.",
+      "official_alternative": "https://seaperch.org/programs/2027-challenge/"
+    },
+    {
+      "name": "FIRA qualification",
+      "status": "Описание двухстраничной заявки и таблица шестистраничного TDP расходятся; подтвердить Youth category.",
+      "official_alternative": "https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/"
+    },
+    {
+      "name": "Повторный доступ к старым источникам",
+      "status": "Некоторые страницы Brazil / Chile / iREX и CIROS не прочитались. Старые проверенные факты не получили новую фиктивную дату.",
+      "official_alternative": ""
+    },
+    {
+      "name": "gamescom Cologne 2027",
+      "status": "Opening-times / visitors повторно дали только заголовок. Поисковый фрагмент не использован как подтверждённая дата; карточка остаётся без точных дней.",
+      "official_alternative": "https://www.gamescom.global/en/info/opening-times"
+    },
+    {
+      "name": "PAX Aus: ровно 6 лет",
+      "status": "FAQ допускает бесплатный вход до 6 включительно; Terms требуют badge с 6. Противоречие подтверждено повторным чтением, не снято.",
+      "official_alternative": "https://aus.paxsite.com/en-us/terms-and-conditions.html"
+    },
+    {
+      "name": "PAX Unplugged Philadelphia: Kids days",
+      "status": "FAQ пишет Sunday-only, а buy-badges предлагает Kids 3-Day / Fri / Sat / Sun. Уточнить действующий вариант до покупки.",
+      "official_alternative": "https://unplugged.paxsite.com/philly/en-us/registration/buy-badges.html"
+    },
+    {
+      "name": "Helvetic Institute Zug / TechLabKids Barcelona",
+      "status": "Агрегатор / общий каталог не подтвердил точную будущую STEM-смену и язык. Не добавлены вымышленные даты или бесплатный тариф 0€ из placeholder.",
+      "official_alternative": ""
+    },
+    {
+      "name": "SIA Shanghai 2027: официальный конфликт дат",
+      "status": "Главная: 16–18 июня 2027; заголовок регистрации: 1–3 июля 2027. Конфликт не разрешён: точных дней нет в календаре.",
+      "official_alternative": "https://www.asia-sia.com/article/vistform/k/1.html"
+    },
+    {
+      "name": "TechEx North America: смешанные годы",
+      "status": "Дни 16–17.06.2027 и площадка подтверждены FAQ. Speakers 2026 / California 2026 не использованы как состав 2027.",
+      "official_alternative": "https://www.ai-expo.net/northamerica/visitor-faqs/"
+    },
+    {
+      "name": "TechEx Student Policy и Tech Show London child gate",
+      "status": "Каждый TechEx FAQ исключает студентов из expo / theatres; Tech Show просит не приводить детей. Четыре карточки только для взрослых не обещают семейный вход.",
+      "official_alternative": "https://www.techshowlondon.co.uk/attending/visitor-faqs"
+    },
+    {
+      "name": "Liota Winter Camp: период против длительности",
+      "status": "Период 17.12.2026–04.01.2027 содержит 19 календарных дней, но назван четырьмя неделями. Возраст и язык конкретной смены неизвестны; период не экспортирован в ICS.",
+      "official_alternative": "https://liotacamps.com/"
+    },
+    {
+      "name": "CENFOTEC Makers modality / соседний AI course",
+      "status": "Текущая страница Makers: очно, 10–12 лет; поисковый кэш с virtual не принят. Explorador IA: 14–16 лет, не подходит детям 6 / 9. Перевод сайта не доказывает язык занятий.",
+      "official_alternative": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/"
+    },
+    {
+      "name": "TIRT2026 · conflicting registration versions",
+      "status": "На event page deadline 18.10.2026, в английском регламенте 25.09.2026 с оговоркой возможного изменения. Не установлен приоритет версий: активный набор подтвердить до покупки перелёта.",
+      "official_alternative": "https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68"
+    },
+    {
+      "name": "GRG Taiwan · AIMS age bands",
+      "status": "Противоречие местной страницы: 7–12 / 13–16 против Primary 9–12 / Secondary 12–17",
+      "official_alternative": "https://global-robotics-games-taiwan.github.io/"
+    },
+    {
+      "name": "Taiwan Innotech · mixed editions",
+      "status": "Главная объявила 14–16 октября 2027, но семейное правило для детей до 12 включительно со взрослым относится к 2026. Площадку и детский допуск 2027 нужно подтвердить.",
+      "official_alternative": "https://www.inventaipei.com.tw/zh-tw/menu/9AE53DD53E13DB84D0636733C6861689/info.html"
+    },
+    {
+      "name": "TecPro Virtual · Entornos Inteligentes",
+      "status": "В виртуальном PDF v1.0 таблица на стр. 6 даёт Entornos Inteligentes 13–18, а раздел 3.4.4 на стр. 17 — 15–18. Приоритет версии / границу уточнить. У Animaciones 5–9 и Videojuegos 8–12 такого расхождения не найдено.",
+      "official_alternative": "https://drive.google.com/file/d/1UQ-IF-hHl0svWxMTaNlo9qI2H_29MxNi/preview?usp=drive_link"
+    },
+    {
+      "name": "FTC México · разные поколения правил",
+      "status": "Календарь и регистрация указывают 2026–2027; lineamientos по прежнему URL озаглавлены 2025–2026, v080925. Их HOME EVENT, исключения и квоты не считаются текущим регламентом 2026–2027. На старой странице тарифы MX$6 960 / 3 500; Costo y Registro с ссылкой на сезон 2026–2027 показывает MX$7 500 / 3 750. Для оплаты нужен действующий счёт; прошлые суммы не применены.",
+      "official_alternative": "https://www.first.org.mx/fm/lineamientos-oficiales-para-la-participacion-en-regionales-y-clasificacion-al-nacional-de-ftc-temporada-2024-2025-de-mexico/"
+    },
+    {
+      "name": "Liga Chile · перенос и размеры команды",
+      "status": "Текущий calendar переносит OPEN на Santiago 30 октября, старая individual page Concepción 9 октября остаётся. Escolar 4 ученика + tutor против 6 лиц; Maipú Futbol против строки Sumo. Время OPEN 11:00 / 12:00 расходится.",
+      "official_alternative": "https://torneorobotica.cl/"
+    },
+    {
+      "name": "Puerto Montt · 13 / 20 ноября",
+      "status": "Использовано 13 ноября по individual page и текущему homepage; ранняя апрельская новость даёт 20 ноября. Второй фиктивный этап не создан.",
+      "official_alternative": "https://torneorobotica.cl/torneos/inacap-puertomontt-2026/"
+    },
+    {
+      "name": "Troonic Camp · смешанные редакции",
+      "status": "2027 header даёт две Mon–Thu группы; далее пятничные автобусы и masterclasses, regular FAQ 2024 / offer 2023. Только объявленные 4-дневные окна; пятницы / почасовой курс не выдуманы.",
+      "official_alternative": "https://troonic.com/troonic-camp-2027/"
+    },
+    {
+      "name": "RoboRAVE Chile · manual generation",
+      "status": "Filename V6.1 против внутри V6.2; обложка Japan 2026 против раздела Houston 2027. ES 8–11 прочитан на связанном портале, возрастного исключения Oscar 6 не найдено.",
+      "official_alternative": "https://roborave.cl/wp-content/uploads/2026/09/Rules-RoboRAVE-International-Challenges-02-09-2026-V6.1-ES.pdf"
+    },
+    {
+      "name": "После даты остаётся Inscripciones abiertas",
+      "status": "INTERCON page относится к 12–13 августа 2026; Umake live course к апрелю 2024. Наличие формы / корзины не подтверждает новый набор.",
+      "official_alternative": "https://www.intercon.org.pe/concurso-robotica/"
+    },
+    {
+      "name": "LMAC и TechLab Kids · историчность / доступ",
+      "status": "LMAC summer page содержит start 2025 против programme 2026. TechLab Kids page сейчас timeout; повторное чтение не заявлено, неподтверждённый teaching ES tag снят.",
+      "official_alternative": "https://www.lmac-roboticaeducativa.com/vacaciones2026"
+    },
+    {
+      "name": "OBR 2026 · классы и даты",
+      "status": "Nível 1 в регистрационном PDF — 1–8-й класс, Nível 2 с 8-го: перекрытие. PDF даёт финал 23–27 ноября, новость — 23–29 ноября. Возраст не заменяет класс.",
+      "official_alternative": "https://obr.robocup.org.br/wp-content/uploads/2026/03/OBR2026_MP_Manual-de-Inscricao.pdf%20"
+    },
+    {
+      "name": "CBR 2026 · первичная заявка и оплата",
+      "status": "Подача закрылась 24 августа. Оплата Early до 29 октября / Regular до 15 ноября относится к принятым командам; иностранный Major-тариф не перенесён на Junior.",
+      "official_alternative": "https://cbr.robocup.org.br/index.php/inscricoes/"
+    },
+    {
+      "name": "MNR · качество первичного HTML",
+      "status": "На официальном домене видны посторонние SEO-вставки. Прочитаны календарь и FAQ; Robótica отдельно подтверждает общий фестиваль. Локальные дни и иностранные правила перепроверить. Сканированный manual загружен, полное чтение OCR не заявлено.",
+      "official_alternative": "https://robotica.robocup.org.br/"
+    },
+    {
+      "name": "FLL Paraguay · разные версии сезона",
+      "status": "BIOGLOW 2026–2027 анонсирован отдельно. Основные страницы сохраняют SUBMERGED 2024–2025 и EV3, регистрация — 2025–2026. Новые тарифы, разрешённые наборы и даты не перенесены из старой версии.",
+      "official_alternative": "https://fll.robotica.com.py/temporada-2026-2027/"
+    },
+    {
+      "name": "MOT · новая площадка",
+      "status": "Общая страница сохраняет Mayor Rivarola 465; текущая страница второго полугодия даёт Austria 2400 с 1 августа 2026. Halloween 31 октября на новой площадке; старое лето не принято за 2027.",
+      "official_alternative": "https://www.mindsoftomorrowparaguay.com/colonia-s2-2026"
+    },
+    {
+      "name": "WeCode / UMSA / Jopoi · исторические даты",
+      "status": "WeCode — февраль 2026, UMSA — прошедшее окно 2 августа–25 сентября с несогласованным началом / часами. У Jopoi robotics нет года, summer FAQ явно 2024 и посвящён природе / искусству.",
+      "official_alternative": "https://www.wecode.edu.uy/verano"
+    },
+    {
+      "name": "MuCi · закрытый TatakuaLab",
+      "status": "Старый Astra 14 октября и выставки 2022–2023 остаются на главной; актуальный текст закрывает TatakuaLab с марта 2026 и планирует новый музей примерно на 2028. San Cosmos рассматривается отдельно.",
+      "official_alternative": "https://muci.org/"
+    },
+    {
+      "name": "Brillantmont: даты 2027 и старый текст Tech Academy",
+      "status": "Fees / Apply прямо указывают 3–17 и 17–31 июля 2027. В описании курса остались старые даты 4–18 июля / 18 июля–1 августа. Использованы конкретные Fees 2027.",
+      "official_alternative": "https://summer.brillantmont.ch/apply-fees"
+    },
+    {
+      "name": "Основной язык, помощь и языковые уроки",
+      "status": "Berlin regular имеет DE + EN помощь; German holiday camp этого не обещает. English Summer / UWC / Conversa предлагают English уроки, что не доказывает весь robotics на EN. Newton staff / XCL FAQ дают EN кандидата с условием подтверждения.",
+      "official_alternative": "https://trainthefuture.de/en/camps/robotics/"
+    },
+    {
+      "name": "Пансион: отдельный минимальный возраст",
+      "status": "St George’s Junior STEAM 8+, Brillantmont / Zuoz 10+, TechCamp 9 по календарному году, Berlitz 8+, Embassy 9+. UWC day 4–14 не открывает boarding 12–18. Zuoz Junior Day 6–9 — языковая / outdoor программа.",
+      "official_alternative": "https://www.uwcthailand.ac.th/beyond-the-classroom/summer-camps-2026"
+    },
+    {
+      "name": "Newtonshow: зимнее окно и старая Robotics страница",
+      "status": "Локальные страницы дают 23 ноября 2026–29 января 2027 как выбор дней / недель. Pure Robotics SG имеет конфликт 5–12 / 5–13 и даты без года. Новое зимнее предложение не превращено в доказанную отдельную LEGO смену.",
+      "official_alternative": "https://www.newtonshowcamp.com/robotics-camp"
+    },
+    {
+      "name": "Хакатоны: формат и календарные фазы",
+      "status": "Penang final требует прошедшего отбора. Iron Scholars November hackathon 2025 закрыт, October workshop 2026 выделен отдельно. LSC 2 декабря — начало, 21 декабря — результаты. IKCC конкретный January 3, 2027 имеет приоритет над generic January 1.",
+      "official_alternative": "https://www.lsc-challenge.org/lsc2026"
+    },
+    {
+      "name": "Исторические / неподтверждённые кандидаты",
+      "status": "Aalto 2026 закрыт; Zuoz PDF, Spain summer и WONDER 2026 не перенесены на 2027. Embassy Smart Skills 2027 не робототехника. English camp Young Engineers Berlin пока найден лишь в агрегаторе; Panama OEI 2021 tender не текущая семейная смена.",
+      "official_alternative": "https://embassy.camp/smart-skills-camp-in-malaysia/"
+    }
+  ],
+  "interregional_cards": 35,
+  "promoted_exhibition_ids": [],
+  "focused_country": {
+    "country": "Тайвань",
+    "iso": "TWN",
+    "checked": "2026-10-01",
+    "status": "partial",
+    "family": "Матвей — 2017, Оскар — 2020 год рождения. В 2027 году им исполняется 10 и 7 лет. Оба могут учиться на английском и испанском — подтверждено семьёй. Точные дни рождения и текущие классы пока неизвестны.",
+    "conclusion": "Найдены две будущие зимние STEM-программы с явным английским языком. Общий допуск иностранной команды для обоих детей пока не подтверждён. Календарь Тайваня остаётся частичным.",
+    "routes": [
+      {
+        "name": "Зима 2027 · лагерь и FIRST / MARC",
+        "detail": "The Grove: 25–29 января в Чжубэе. Затем можно рассмотреть переезд в Гаосюн на FLL Explore 30 января или MARC LOM 1 февраля. Возраст в лагере и иностранный конкурсный вход требуют подтверждения. Для LOM оба года рождения подходят; TM исключает Оскара. ERA: заявка и оплата до 22 октября, 09:59 по Коста-Рике.",
+        "ids": [
+          "L143",
+          "C033",
+          "C034",
+          "C035",
+          "C779"
+        ]
+      },
+      {
+        "name": "Матвей · полный день на английском",
+        "detail": "Expedition27: Тайбэй, 21 января — 3 февраля, десять будней. Рекомендуемые 8–12 лет подходят Матвею; Оскар младше диапазона. Английское обучение подходит обоим по сообщению семьи. Полный пакет пересекается с MARC 1 февраля в другом городе; иностранный приём и место в лагере ещё нужно подтвердить.",
+        "ids": [
+          "L142"
+        ]
+      },
+      {
+        "name": "Ближайшие конкурсы 2026 · Taoyuan / Taichung",
+        "detail": "TIRT: 7–8 ноября. Для Sumo и Open Car описан вход иностранных школьных команд, но дедлайны расходятся. TURBOT начинается с 7 лет: Оскар не подходит в ноябре 2026. Junior Botball: 13 декабря; младшие уровни есть, однако точный возраст, набор, язык и зарубежный вход ещё не установлены.",
+        "ids": [
+          "C036",
+          "C780",
+          "C781",
+          "C782",
+          "C783",
+          "C778"
+        ]
+      },
+      {
+        "name": "Семейные и профессиональные выставки",
+        "detail": "Maker Faire: 24–25 октября 2026, POPOP Taipei. Семейный вход подтверждён; бесплатность — младше 6 лет или рост ниже 115 см. Innotech: 14–16 октября 2027, детские правила следующего выпуска уточнить. Smart City: 16–19 марта 2027, Nangang Hall 2, детский пропуск неизвестен. Возрастные запреты TAIREX, TAIROS и Touch Taiwan сохранены.",
+        "ids": [
+          "E027",
+          "E129",
+          "E024",
+          "E020",
+          "E021",
+          "E022",
+          "E023",
+          "E117"
+        ]
+      },
+      {
+        "name": "Подготовка и дальнейшие сезоны",
+        "detail": "TYPA / TAS проверяются по классу, членству и иностранному паспорту; летние смены 2027 не подтверждены. У iROBO есть младшие треки, язык EN / ES неизвестен. GRG разделяет 7–9 и 10–12; путь WRO Taiwan предполагает местный школьный отбор. Даты 2026 не стали новым календарём 2027.",
+        "ids": [
+          "L144",
+          "L145",
+          "L146",
+          "L021",
+          "C784",
+          "C785",
+          "C786",
+          "C787",
+          "C788",
+          "C086"
+        ]
+      }
+    ],
+    "open_questions": [
+      "The Grove: возраст обоих детей, иностранный приём и поддержка без обязательного китайского.",
+      "ERA: иностранная команда, школа / класс, английская защита и право международной квоты.",
+      "TIRT: действующий дедлайн, последние CN / EN регламенты и эквивалент школьной справки.",
+      "TYPA / TAS: реальные смены 2027, английское преподавание и доступ туристической семьи.",
+      "Junior Botball: полный локальный регламент; GRG: даты, возрастное отсечение и конфликт AIMS.",
+      "Выставки: Kaohsiung Smart City 2027, AI EXPO 2027, детские правила COMPUTEX / Innotech 2027 и семейный вход на FRC."
+    ],
+    "language_result": "Английский подтверждён в двух конкретных зимних программах 2027 года. Испанский STEM-лагерь на Тайване в этом проходе не найден; это не доказывает отсутствие всех таких программ.",
+    "rejected_geographies": [
+      {
+        "name": "ENJOY AI · сайт тайваньского провайдера",
+        "actual_country": "Вьетнам",
+        "reason": "Hanoi, 22 августа 2026: зарубежный тур, прошедшее событие."
+      },
+      {
+        "name": "Borneo IRT · сайт тайваньского провайдера",
+        "actual_country": "Малайзия",
+        "reason": "Miri, 6–9 мая 2026: зарубежный тур, прошедшее событие."
+      },
+      {
+        "name": "NTHU IYRC 2026",
+        "actual_country": "США",
+        "reason": "Phoenix, июль 2026: не местное событие на Тайване."
+      }
+    ],
+    "learning_languages": [
+      "EN",
+      "ES"
+    ]
+  },
+  "local_focus": {
+    "checked": "2026-10-01",
+    "status": "partial",
+    "name": "Коста-Рика и Мексика",
+    "family": "Матвей 2017 и Оскар 2020. Оба могут учиться весь день на английском и испанском — подтверждено семьёй. Точные дни рождения и классы неизвестны.",
+    "conclusion": "Ближайший очный TecPro требует разных команд. Для ноября есть младшие MakeX-маршруты; зимние лагеря проверяются по конкретной смене. FTC добавлен для дальнейшего возраста, детский зрительский доступ не подтверждён.",
+    "routes": [
+      {
+        "name": "8 октября · местный старт TecPro",
+        "detail": "San José, Pueblo Antiguo: Оскару Artifact 6–8, Матвею Game 9–12. Каждому нужен возрастной партнёр, собственный готовый проект и подходящий набор. Приём независимой семейной команды и свободные места ещё не подтверждены. 7 октября — срок документации по общему регламенту, а не установленный срок регистрации.",
+        "ids": [
+          "C078",
+          "C805",
+          "C806"
+        ]
+      },
+      {
+        "name": "27–29 ноября · младшие MakeX в CDMX",
+        "detail": "Оскару прежде всего mTiny; общие возрастные варианты для братьев есть в Soccer, Inspire / Starter по отдельным правилам. Codey для Матвея подходит по возрасту. Оскар 2020 проходит минимум 6 на 1 января 2026 только при дне рождения 1 января; его нынешние 6 не доказывают допуск.",
+        "ids": [
+          "C020",
+          "C608",
+          "C609",
+          "C613",
+          "C614",
+          "C615"
+        ]
+      },
+      {
+        "name": "Каникулы · только конкретные смены",
+        "detail": "Mount View публикует 2–8: Матвей 9 не проходит, Оскару возраст подходит; будущие дни и язык не объявлены. CENFOTEC 7–11 декабря рассчитан на 10–12: оба не подходят в 2026. RoboTecnia и Cerebritos описывают зимние лагеря без будущих точных дней, возраста и языка. Liota имеет конфликт периода и числа недель; планировать обучение по этому окну нельзя.",
+        "ids": [
+          "L119",
+          "L139",
+          "L028",
+          "L140",
+          "L141"
+        ]
+      },
+      {
+        "name": "Подготовка рядом с домом и онлайн 2027",
+        "detail": "Curious Lab Minds в Heredia: регулярная LEGO-робототехника 3+, часы / язык и тренера для конкретной лиги уточнить. TecPro Match 2: для Оскара Animaciones, для Матвея Videojuegos или после отсечения Automatización. Для общей Animaciones команды в 2027 нужно уточнение: Матвею исполняется 10. Точные дни Match 2 не объявлены.",
+        "ids": [
+          "L023",
+          "C079",
+          "C801",
+          "C802",
+          "C803"
+        ]
+      },
+      {
+        "name": "FTC México · следующий возрастной уровень",
+        "detail": "Первичные страницы перечисляют 11 региональных этапов с ноября 2026 по февраль 2027 и национальный 12–13 февраля в CDMX. FTC рассчитан на 12–18 / Grades 7–12: сейчас оба младше. Для семейного ознакомительного посещения нужно отдельное подтверждение; дата турнира не даёт детский пропуск или мировую квоту.",
+        "ids": [
+          "C789",
+          "C790",
+          "C791",
+          "C792",
+          "C793",
+          "C794",
+          "C795",
+          "C796",
+          "C797",
+          "C798",
+          "C799",
+          "C800"
+        ]
+      }
+    ],
+    "language_result": "Доступные семье EN / ES сохранены. У Curious Lab Minds и RoboTecnia убраны подтверждённые ES-теги: язык преподавания в прочитанных страницах не указан. Тайваньские Expedition27 и The Grove с явным английским сохранены.",
+    "open_questions": [
+      "Допуск независимых семейных команд TecPro Costa Rica, возрастные партнёры и места на 8 октября.",
+      "Точные даты рождения для январского отсечения MakeX; категории и день выступления внутри 27–29 ноября.",
+      "Классы обоих детей для школьных лиг и лагерей; год рождения не заменяет класс.",
+      "Зимние группы México / Costa Rica: фактические дни занятий, возраст, EN / ES, оборудование, уровень после трёх лет соревнований.",
+      "FTC México 2026–2027: правила иностранной команды, HOME EVENT, национальная / международная квалификация и детские посетители."
+    ]
+  },
+  "south_america_focus": {
+    "name": "Южная Америка · два первичных прохода",
+    "checked": "2026-10-01",
+    "status": "partial",
+    "isos": [
+      "ARG",
+      "CHL",
+      "COL",
+      "PER",
+      "ECU",
+      "BRA",
+      "URY",
+      "PRY",
+      "BOL"
+    ],
+    "family": "Матвей 2017, Оскар 2020. Оба могут учиться на EN / ES весь день; точные дни рождения и классы неизвестны.",
+    "conclusion": "Добавлены Бразилия, Уругвай, Парагвай и Боливия. В Бразилии разделены бесплатное посещение, школьный отбор OBR, дисциплины CBR и проекты MNR. В Парагвае объявлен день Creative Tech 31 октября; будущие смены и иностранный допуск ещё уточняются.",
+    "language_result": "Язык семьи не заменяет язык программы. Новые Programable / Troonic / LMAC / MyRoboTech и текущий Ecuador camp не включены в ES / EN фильтр без прямого языка преподавания доказательства. Umake явно ES, но прочитан прошедший поток 2024, будущая дата неизвестна.",
+    "routes": [
+      {
+        "name": "Аргентина · 6 учебных недель января / февраля",
+        "detail": "Programable: 4 января–12 февраля 2027, отдельные недели и утренние / вечерние занятия. Оскару Júnior 6–9; Матвею Júnior до 10-летия либо Sénior 10–13 после него. Точный язык занятий / иностранный приём подтвердить. В календаре только 30 учебных дней каждого возрастного потока.",
+        "ids": [
+          "L147",
+          "L148"
+        ]
+      },
+      {
+        "name": "Перу · объявленные окна и старый конкурс",
+        "detail": "Troonic: 4–7 января и 1–4 февраля, camp Robótica 6–11. У обоих возраст подходит, однако распределение занятий между Lima / Pachacámac и пятничными поездками не согласована; ES / EN и реальную длительность уточнить. INTERCON page всё ещё показывает приём после августа: будущий старт без даты.",
+        "ids": [
+          "L149",
+          "L150",
+          "C819"
+        ]
+      },
+      {
+        "name": "Чили · OPEN и escolar различаются",
+        "detail": "OPEN теперь Santiago Maipú 30 октября; по нижнему детскому возрасту и иностранцам нет подтверждения. Escolar Puerto Montt: 13 ноября по текущей странице этапа против старой новости 20 ноября. RoboRAVE Santiago: 19 ноября, ES 8–11 для Матвея; Оскар 6 младше опубликованного уровня.",
+        "ids": [
+          "C807",
+          "C049",
+          "C808",
+          "C047",
+          "C048",
+          "C051"
+        ]
+      },
+      {
+        "name": "LNR Argentina · личный старт и сезонный титул",
+        "detail": "Добавлены все 10 видимых будущих этапов в публичном календаре площадок: 6 zonal, 3 PRE SEDE без чемпионатных очков и final 7 ноября. Общий регламент не различает возраст; новый робот требует проверки. Иностранный допуск zonal и родительское согласие подтвердить. Только финал не даёт национальный титул без предыдущего участия.",
+        "ids": [
+          "C809",
+          "C810",
+          "C811",
+          "C812",
+          "C813",
+          "C814",
+          "C815",
+          "C816",
+          "C817",
+          "C818"
+        ]
+      },
+      {
+        "name": "Колумбия / Эквадор · открытая страница не равна набору",
+        "detail": "LMAC и Ecuador Roboticamp описывают прошедшее лето; будущие даты не перенесены. MyRoboTech подтверждает holiday courses, но без новых дней / возрастов. CampoAventuras 15 декабря–13 января: уже все места заняты, 9+ на старт; Digital всего 7 дней внутри общего 30-дневного пакета. Umake ES course прошлый, не зимняя смена.",
+        "ids": [
+          "L151",
+          "L152",
+          "L153",
+          "L154",
+          "L050"
+        ]
+      },
+      {
+        "name": "Бразилия · посетить фестиваль или заявить команду",
+        "detail": "Robótica 23–29 ноября в João Pessoa объявляет бесплатный вход; детские правила нужно уточнить. Первичная подача CBR закрылась 24 августа, окна оплаты не открывают новые заявки. Junior Entry 12–16 и Soccer 14–19 братьям пока не подходят. RCB Challenge не ограничивает возраст, но сохраняет требования учреждения и срока.",
+        "ids": [
+          "E130",
+          "C827",
+          "C828",
+          "C829",
+          "C830"
+        ]
+      },
+      {
+        "name": "Бразилия · школьная OBR и оценка проекта MNR",
+        "detail": "OBR определяет уровень школьным классом. Resgate 0 для 1–3-го классов заканчивается региональным / штатным стартом; практический наставник garage разрешён. Национальная подача MNR закрыта: виртуальные защиты 28–30 октября, очные 26–28 ноября. Регион Mato Grosso 22–24 октября публикует срок 4 октября; иностранный допуск уточнить.",
+        "ids": [
+          "C823",
+          "C824",
+          "C820",
+          "C821",
+          "C833",
+          "C831",
+          "C832"
+        ]
+      },
+      {
+        "name": "Парагвай · отдельные пути FLL и VEX",
+        "detail": "Explore 6–10 лет и местная команда 3–6: братьям нужен третий ребёнок. Challenge 9–16 и 3–10: Матвей после проверки допуска; Оскар младше 9. BIOGLOW анонсирован без найденной национальной даты. LNR Парагвая использует VEX. Старт 5 сентября прошёл, следующие дни и иностранные квоты уточнить.",
+        "ids": [
+          "C835",
+          "C836",
+          "C837"
+        ]
+      },
+      {
+        "name": "Парагвай · конкретный день и будущие каникулы",
+        "detail": "MOT объявляет Creative Tech 31 октября для 5–12 лет: 09:00–15:30 или полдня. Новая площадка Austria 2400 с августа 2026. Язык и робототехника именно этого дня не подтверждены. Будущая недельная смена пока без дат. San Cosmos — семейный цифровой планетарий; TatakuaLab закрыт, новый музей планируется примерно на 2028.",
+        "ids": [
+          "L162",
+          "L161",
+          "E131"
+        ]
+      },
+      {
+        "name": "Уругвай / Боливия · проверить следующий набор",
+        "detail": "Летние WeCode по робототехнике, ИИ и Minecraft для 2–3 / 4–6-го классов всё ещё описывают февраль 2026. Курс UMSA 9–14 закончился 25 сентября; у Jopoi 8–12 не указан год. CiberneTICs Kids и Sucre–Bot подтверждены как направления, но следующий детский / иностранный допуск и даты ещё неизвестны.",
+        "ids": [
+          "L155",
+          "L156",
+          "L157",
+          "L158",
+          "L159",
+          "L160",
+          "L163",
+          "L164",
+          "L165",
+          "C838",
+          "C839"
+        ]
+      }
+    ],
+    "open_questions": [
+      "Точные дни рождения для Programable 9 / 10 и CampoAventuras 9 на день старта; школьные классы для Chile / RoboRAVE.",
+      "Programable / Troonic: преподавание ES / EN, окончательное расписание, приём детей из-за рубежа и материалы / питание.",
+      "LNR: точный набор дисциплин каждой sede, детский оператор и consent, иностранная зона / сезонный зачёт; status CREADO не означает регистрацию.",
+      "Chile: текущие team maxima / Maipú categories и час OPEN; новая international convocatoria.",
+      "Colombia / Ecuador: новые December / January shifts, реальный язык занятий и возраст, без переноса старых летних оферт.",
+      "Продолжить остальные страны Южной Америки и местные FIRST / WRO / VEX / независимые турниры; этот проход не завершает страновые аудиты.",
+      "Бразилия: иностранный допуск garage / школы, класс и граница OBR 8-го класса, индивидуальные дни финала, язык ES / EN. MNR Mato Grosso: допуск иностранного проекта и региональные условия.",
+      "Парагвай: действующие FLL BIOGLOW тарифы, наборы, возрастное отсечение, дата финала и иностранная квота; следующие этапы VEX LNR.",
+      "MOT Halloween: места, язык занятий, конкретная цифровая программа; новые летние даты 2026–2027 без переноса старого сезона.",
+      "Уругвай / Боливия: следующие каникулярные потоки, классы, минимальный возраст, язык и документы иностранного ребёнка; Sucre–Bot — конкретные международные квоты и правила.",
+      "MNR: HTML содержит посторонние SEO-вставки, локальные дни перепроверить. MuCi: старый Astra 14 октября не принят за новый анонс 2026."
+    ]
+  },
+  "camp_focus": {
+    "version": 19,
+    "checked": "2026-10-01",
+    "conclusion": "Все лагеря мира не собраны. Добавлены новые первичные программы Европы и Азии, engineering-альтернатива в Коста-Рике и детские проектные соревнования. По странам сохраняются пробелы, по старым сменам — ожидание нового набора.",
+    "family": "Матвей — 2017, Оскар — 2020; оба могут учиться весь день на EN / ES. Точные дни рождения и классы неизвестны. Возраст пансиона, язык технических уроков и иностранный допуск проверяются отдельно.",
+    "added_ids": [
+      "L166",
+      "L167",
+      "L168",
+      "L169",
+      "L170",
+      "L171",
+      "L172",
+      "L173",
+      "L174",
+      "L175",
+      "L176",
+      "L177",
+      "L178",
+      "L179",
+      "L180",
+      "L181",
+      "L182",
+      "L183",
+      "L184",
+      "L185",
+      "L186",
+      "L188",
+      "L189",
+      "L187",
+      "L190",
+      "L191",
+      "L192",
+      "L193",
+      "L194",
+      "C840",
+      "C841",
+      "C842",
+      "C843",
+      "C844",
+      "C845"
+    ],
+    "updated_ids": [
+      "L006",
+      "L003",
+      "L013",
+      "L121",
+      "C039",
+      "C037",
+      "C038"
+    ],
+    "carried_forward_ids": [
+      "C820",
+      "C821",
+      "C822",
+      "C823",
+      "C824",
+      "C825",
+      "C826",
+      "C827",
+      "C828",
+      "C829",
+      "C830",
+      "C831",
+      "C832",
+      "C833",
+      "C834",
+      "C835",
+      "C836",
+      "C837",
+      "C838",
+      "C839",
+      "L155",
+      "L156",
+      "L157",
+      "L158",
+      "L159",
+      "L160",
+      "L161",
+      "L162",
+      "L163",
+      "L164",
+      "L165",
+      "E130",
+      "E131"
+    ],
+    "hack_event_ids": [
+      "C037",
+      "C038",
+      "C039",
+      "C840",
+      "C841",
+      "C842",
+      "C843",
+      "C844",
+      "C845"
+    ],
+    "routes": [
+      {
+        "name": "Оба ребёнка · разные группы одного оператора",
+        "detail": "Newtonshow SG / HK / MY опубликовали зимнее окно 23 ноября 2026–29 января 2027. По возрасту оба кандидаты; конкретную неделю, язык robotics / maker и место подтвердить. XCL имеет Robotics 7–10 для Матвея и Junior Coding 6–8 / STEM 4–7 для Оскара; новые даты пока неизвестны.",
+        "ids": [
+          "L186",
+          "L188",
+          "L189",
+          "L183",
+          "L184",
+          "L185"
+        ]
+      },
+      {
+        "name": "Европа · технический курс на английском",
+        "detail": "St George’s Junior STEAM 8+: Матвей кандидат, Оскару пока рано. TechCamp с 9 по календарному году, EN / B1: подобрать курс 9+, дневной или пансион Winchester. Fun Weeks Valladolid 3–13 имеет EN robotics 1–2 дня в неделю внутри смешанного лагеря. Новые даты этих программ ожидаются.",
+        "ids": [
+          "L166",
+          "L167",
+          "L182",
+          "L013",
+          "L178",
+          "L179"
+        ]
+      },
+      {
+        "name": "Оскар · помощь на EN или engineering на ES",
+        "detail": "Berlin Robotics Junior 5–7: основной немецкий, помощь на EN заявлена, формат регулярный. Foundations ориентирован на немецкие 1–3-й классы. WONDER в Ojochal принимает visiting families: Spanish immersion и engineering для 6–12; новые даты неизвестны, robotics / AI не заявлены.",
+        "ids": [
+          "L175",
+          "L176",
+          "L193"
+        ]
+      },
+      {
+        "name": "Пансионы 2027 · возраст на приезд",
+        "detail": "Brillantmont Tech: 3–17 или 17–31 июля, 10–16 лет, EN, CHF 7000 за две недели. Матвею нужно исполниться 10 к прибытию, Оскару рано. Embassy AI Future: 4–24 июля, 9–19, hotel package; Матвей кандидат, язык и AI группу 9–10 уточнить. Zuoz Digital начинается с 10, AI модуль с 12; новые даты неизвестны.",
+        "ids": [
+          "L168",
+          "L169",
+          "L192",
+          "L170",
+          "L171",
+          "L172"
+        ]
+      },
+      {
+        "name": "Детские проекты · конкурс и международный результат",
+        "detail": "WAICY прямо принимает 6–18 из всего мира, включая remote: оба ребёнка возрастные кандидаты, финальные дни спорны. Codeavour 8.0 Elementary 7–10 подходит Матвею; Оскару пока рано, обязателен PictoBlox и региональный / национальный путь. Coolest Projects 2027 — показ проектов для обоих до 18, даты ожидаются. IKCC начало 3 января / 1 сентября 2027: от 7 на первый день регистрации и документ школы. LSC U10 с 2 декабря: самостоятельный Scratch за 120 минут без AI; иностранный remote допуск уточнить. Penang final требует прежнего отбора.",
+        "ids": [
+          "C037",
+          "C038",
+          "C039",
+          "C843",
+          "C844",
+          "C842",
+          "C840"
+        ]
+      },
+      {
+        "name": "Тематические события · отдельный путь посещения",
+        "detail": "Крупные выставки остаются в отдельном разделе с правилами семейного / взрослого входа. Местный Build Zone Iron Scholars 3–4 октября — одночасовой детский workshop. Старый Global Games hackathon 2025 закрыт. Показ проекта, участие в workshop и место в мировом финале фиксируются как разные достижения.",
+        "ids": [
+          "L194",
+          "E130"
+        ]
+      }
+    ],
+    "gaps": [
+      "Латинская Америка: местные программы и Argentina / Peru 2027 уже есть, но EN / ES не выводится из языка сайта. English robotics, открытые международные пансионы и иностранный допуск в Бразилии / Центральной Америке пока покрыты недостаточно.",
+      "Европа: дополнены Швейцария, Великобритания, Германия, Испания и Финляндия. Другие страны, пансионы и реальные наборы 2027 ещё требуют проверки.",
+      "Азия: дополнены Сингапур, Гонконг, Малайзия, Таиланд и Корея; предыдущая проверка Тайваня сохранена. Япония, Китай, Индия, Вьетнам и остальные страны имеют частичный охват лагерей и языковой поддержки.",
+      "Международный детский hackathon не означает допуск в 6 лет: многие программы начинаются с 12+, high school или университета. Национальный конкурс не назван открытым международным без правил.",
+      "Дата сезона, место, язык технических уроков, возраст на старт и услуги пансиона подтверждаются для выбранной смены. Прошедшие программы не получают выдуманных будущих дней."
+    ],
+    "source_issues": [
+      {
+        "name": "Brillantmont: даты 2027 и старый текст Tech Academy",
+        "status": "Fees / Apply прямо указывают 3–17 и 17–31 июля 2027. В описании курса остались старые даты 4–18 июля / 18 июля–1 августа. Использованы конкретные Fees 2027.",
+        "official_alternative": "https://summer.brillantmont.ch/apply-fees"
+      },
+      {
+        "name": "Основной язык, помощь и языковые уроки",
+        "status": "Berlin regular имеет DE + EN помощь; German holiday camp этого не обещает. English Summer / UWC / Conversa предлагают English уроки, что не доказывает весь robotics на EN. Newton staff / XCL FAQ дают EN кандидата с условием подтверждения.",
+        "official_alternative": "https://trainthefuture.de/en/camps/robotics/"
+      },
+      {
+        "name": "Пансион: отдельный минимальный возраст",
+        "status": "St George’s Junior STEAM 8+, Brillantmont / Zuoz 10+, TechCamp 9 по календарному году, Berlitz 8+, Embassy 9+. UWC day 4–14 не открывает boarding 12–18. Zuoz Junior Day 6–9 — языковая / outdoor программа.",
+        "official_alternative": "https://www.uwcthailand.ac.th/beyond-the-classroom/summer-camps-2026"
+      },
+      {
+        "name": "Newtonshow: зимнее окно и старая Robotics страница",
+        "status": "Локальные страницы дают 23 ноября 2026–29 января 2027 как выбор дней / недель. Pure Robotics SG имеет конфликт 5–12 / 5–13 и даты без года. Новое зимнее предложение не превращено в доказанную отдельную LEGO смену.",
+        "official_alternative": "https://www.newtonshowcamp.com/robotics-camp"
+      },
+      {
+        "name": "Хакатоны: формат и календарные фазы",
+        "status": "Penang final требует прошедшего отбора. Iron Scholars November hackathon 2025 закрыт, October workshop 2026 выделен отдельно. LSC 2 декабря — начало, 21 декабря — результаты. IKCC конкретный January 3, 2027 имеет приоритет над generic January 1.",
+        "official_alternative": "https://www.lsc-challenge.org/lsc2026"
+      },
+      {
+        "name": "Исторические / неподтверждённые кандидаты",
+        "status": "Aalto 2026 закрыт; Zuoz PDF, Spain summer и WONDER 2026 не перенесены на 2027. Embassy Smart Skills 2027 не робототехника. English camp Young Engineers Berlin пока найден лишь в агрегаторе; Panama OEI 2021 tender не текущая семейная смена.",
+        "official_alternative": "https://embassy.camp/smart-skills-camp-in-malaysia/"
+      }
+    ],
+    "counts": {
+      "records": 194,
+      "holiday": 169,
+      "regular": 22,
+      "boarding": 13,
+      "en_es_instruction": 15,
+      "en_es_support": 2,
+      "language_lessons": 4,
+      "language_unclassified": 161,
+      "countries": 29
+    },
+    "validation": {
+      "status": "passed",
+      "version": "v19",
+      "all_catalog_rows": 1170,
+      "new_cards": 35,
+      "new_learning": 29,
+      "camp_records": 194,
+      "league_profiles": 67,
+      "major_exhibitions": 78,
+      "countries_with_records": 65,
+      "language_support_distinct_from_instruction": true,
+      "boarding_minimum_separate": true,
+      "projects_curated": 9,
+      "local_taiwan_south_preserved": true,
+      "closed_historical_excluded_from_calendar": true,
+      "static_dynamic_calendar_matching": 939,
+      "mobile_no_overflow": [
+        390,
+        320
+      ],
+      "page_errors": []
+    }
+  },
+  "validation": {
+    "status": "passed",
+    "version": "v19",
+    "all_catalog_rows": 1170,
+    "new_cards": 35,
+    "new_learning": 29,
+    "camp_records": 194,
+    "league_profiles": 67,
+    "major_exhibitions": 78,
+    "countries_with_records": 65,
+    "language_support_distinct_from_instruction": true,
+    "boarding_minimum_separate": true,
+    "projects_curated": 9,
+    "local_taiwan_south_preserved": true,
+    "closed_historical_excluded_from_calendar": true,
+    "static_dynamic_calendar_matching": 939,
+    "mobile_no_overflow": [
+      390,
+      320
+    ],
+    "page_errors": []
+  },
+  "new_school_ids": [
+    "S001",
+    "S002",
+    "S003",
+    "S004",
+    "S005",
+    "S006",
+    "S007",
+    "S008",
+    "S009",
+    "S010",
+    "S011",
+    "S012",
+    "S013",
+    "S014",
+    "S015",
+    "S016"
+  ],
+  "school_focus": {
+    "checked": "2026-10-01",
+    "version": 21,
+    "status": "partial",
+    "family": "Матвей — 2017, Оскар — 2020; оба могут учиться на английском и испанском. Точные дни рождения и классы неизвестны.",
+    "conclusion": "Каталог расширен и добавлена ретроспектива 2017–2026. Полный школьный мировой аудит не завершён; возрастная кандидатура не подтверждает приём / команду.",
+    "methodology": [
+      "Сильный результат команды отделён от общего STEM-маркетинга, лаборатории и начального кружка.",
+      "Division Champion, Excellence / Champion’s Award, национальная победа и участие описываются буквально; они не заменяют друг друга.",
+      "FIRST-протоколы имеют отдельную отметку. Новости школы — первичный рассказ участника, но не независимое подтверждение организатора.",
+      "IB candidate отличается от авторизованной программы. Проверка авторизации относится к программе и кампусу.",
+      "Младшая школа, соревновательная команда, язык занятий и возраст пансиона проверяются отдельно.",
+      "Англоязычный сайт не считается доказательством EN преподавания. Язык DP не переносится на junior.",
+      "Государственная школа может требовать адрес, статус, распределение или тест. Наличие сайта не означает международный свободный приём.",
+      "Для детей с трёхлетним соревновательным опытом нужно отдельно проверить наставника, уровень группы и путь на отборный этап.",
+      "Школа — постоянная организация, а не календарная карточка; дедлайны без точного дня не превращаются в события."
+    ],
+    "routes": [
+      {
+        "name": "Начать рядом",
+        "ids": [
+          "S001",
+          "S002"
+        ],
+        "detail": "Lincoln: проверить действующую младшую команду и язык. ASFM: подтверждены Elementary FLL Explore и старшая FTC; проверить уровень для обоих, новый сезон FIRST и полную цену."
+      },
+      {
+        "name": "Тайвань и Азия",
+        "ids": [
+          "S003",
+          "S004",
+          "S005",
+          "S006",
+          "S007",
+          "S020"
+        ],
+        "detail": "TAS: реальный Lower → Middle путь с результатом старших; иностранный паспорт и English assessment. Xiugang — будущая secondary. Shanghai и Singapore требуют отдельного иностранного допуска."
+      },
+      {
+        "name": "Дневная школа и будущий пансион",
+        "ids": [
+          "S009",
+          "S010",
+          "S011",
+          "S014"
+        ],
+        "detail": "Возраст школы не равен возрасту пансиона: Aiglon по Year, Ermitage с 11, Barker с Year 10. Для 6 / 9 сначала проверять day и проживание с семьёй."
+      },
+      {
+        "name": "Будущая сильная команда",
+        "ids": [
+          "S008",
+          "S012",
+          "S014",
+          "S015",
+          "S017",
+          "S018",
+          "S019"
+        ],
+        "detail": "QE, Bellarmine, Barker и SESI имеют результаты старших. Построить младший маршрут, доказать собственный вклад ребёнка и проверить отбор; титул команды не обещает титул новому ученику."
+      }
+    ],
+    "gaps": [
+      "21 школа в 14 странах; мировой справочник 249 стран и территорий. Полностью проаудированных стран по школам: 0.",
+      "Нет полного обзора школ Costa Rica / México, других стран LatAm, Taiwan primary campuses, Hong Kong, Japan, Korea, India, Middle East и Европы.",
+      "Для большинства отсутствуют язык роботокоманды, junior league age, недели нагрузки, текущий набор, тариф и результаты трёх сезонов.",
+      "Доступ к AI у 6 / 9 лет почти нигде не подтверждён. Продвинутый Upper / Secondary курс не считается младшей AI-программой.",
+      "Сеть SESI требует уточнения кампуса; IB-статусы по сообщениям школы дополнительно сверять с registry.",
+      "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
+    ],
+    "counts": {
+      "records": 21,
+      "countries": 14,
+      "public": 8,
+      "private": 13,
+      "boarding": 3,
+      "world_result": 10,
+      "organizer_protocol": 7,
+      "fully_audited_countries": 0
+    },
+    "coverage": [
+      {
+        "iso": "DZA",
+        "country": "Алжир",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "EGY",
+        "country": "Египет",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LBY",
+        "country": "Ливия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MAR",
+        "country": "Марокко",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SDN",
+        "country": "Судан",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TUN",
+        "country": "Тунис",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ESH",
+        "country": "Западная Сахара",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IOT",
+        "country": "Британская территория в Индийском океане",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BDI",
+        "country": "Бурунди",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "COM",
+        "country": "Коморские Острова",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "DJI",
+        "country": "Джибути",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ERI",
+        "country": "Эритрея",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ETH",
+        "country": "Эфиопия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ATF",
+        "country": "Южные земли (французская заморская территория)",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KEN",
+        "country": "Кения",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MDG",
+        "country": "Мадагаскар",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MWI",
+        "country": "Малави",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MUS",
+        "country": "Маврикий",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MYT",
+        "country": "Остров Майотта",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MOZ",
+        "country": "Мозамбик",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "REU",
+        "country": "Реюньон",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "RWA",
+        "country": "Руанда",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SYC",
+        "country": "Сейшельские Острова",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SOM",
+        "country": "Сомали",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SSD",
+        "country": "Южный Судан",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "UGA",
+        "country": "Уганда",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TZA",
+        "country": "Объединенная Республика Танзания",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ZMB",
+        "country": "Замбия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ZWE",
+        "country": "Зимбабве",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "AGO",
+        "country": "Ангола",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CMR",
+        "country": "Камерун",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CAF",
+        "country": "Центральноафриканская Республика",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TCD",
+        "country": "Чад",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "COG",
+        "country": "Конго",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "COD",
+        "country": "Демократическая Республика Конго",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GNQ",
+        "country": "Экваториальная Гвинея",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GAB",
+        "country": "Габон",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "STP",
+        "country": "Сан-Томе и Принсипи",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BWA",
+        "country": "Ботсвана",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SWZ",
+        "country": "Эсватини",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LSO",
+        "country": "Лесото",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NAM",
+        "country": "Намибия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ZAF",
+        "country": "Южная Африка",
+        "region": "Африка",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "BEN",
+        "country": "Бенин",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BFA",
+        "country": "Буркина-Фасо",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CPV",
+        "country": "Кабо-Верде",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CIV",
+        "country": "Кот-д'Ивуар",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GMB",
+        "country": "Гамбия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GHA",
+        "country": "Гана",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GIN",
+        "country": "Гвинея",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GNB",
+        "country": "Гвинея-Бисау",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LBR",
+        "country": "Либерия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MLI",
+        "country": "Мали",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MRT",
+        "country": "Мавритания",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NER",
+        "country": "Нигер",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NGA",
+        "country": "Нигерия",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SHN",
+        "country": "Остров Святой Елены",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SEN",
+        "country": "Сенегал",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SLE",
+        "country": "Сьерра-Леоне",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TGO",
+        "country": "Того",
+        "region": "Африка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "AIA",
+        "country": "Ангилья",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ATG",
+        "country": "Антигуа и Барбуда",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ABW",
+        "country": "Аруба",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BHS",
+        "country": "Багамские Острова",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BRB",
+        "country": "Барбадос",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BES",
+        "country": "Бонайре, Синт-Эстатиус и Саба",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VGB",
+        "country": "Британские Виргинские острова",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CYM",
+        "country": "Кайман острова",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CUB",
+        "country": "Куба",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CUW",
+        "country": "Кюрасао",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "DMA",
+        "country": "Доминика",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "DOM",
+        "country": "Доминиканская Республика",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GRD",
+        "country": "Гренада",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GLP",
+        "country": "Гваделупа",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "HTI",
+        "country": "Гаити",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "JAM",
+        "country": "Ямайка",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MTQ",
+        "country": "Мартиника",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MSR",
+        "country": "Монтсеррат",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PRI",
+        "country": "Пуэрто-Рико",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BLM",
+        "country": "Сен-Бартелеми",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KNA",
+        "country": "Сент-Китс и Невис",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LCA",
+        "country": "Сент-Люсия",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MAF",
+        "country": "Сен-Мартен (французская часть)",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VCT",
+        "country": "Сент-Винсент и Гренадины",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SXM",
+        "country": "Синт-Мартен (нидерландская часть)",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TTO",
+        "country": "Тринидад и Тобаго",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TCA",
+        "country": "Острова Теркс и Кайкос",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VIR",
+        "country": "Виргинские острова Соединенных Штатов",
+        "region": "Карибский регион",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BLZ",
+        "country": "Белиз",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CRI",
+        "country": "Коста-Рика",
+        "region": "Центральная Америка",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "SLV",
+        "country": "Сальвадор",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GTM",
+        "country": "Гватемала",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "HND",
+        "country": "Гондурас",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MEX",
+        "country": "Мексика",
+        "region": "Северная Америка",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "NIC",
+        "country": "Никарагуа",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PAN",
+        "country": "Панама",
+        "region": "Центральная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ARG",
+        "country": "Аргентина",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BOL",
+        "country": "Боливия (Многонациональное Государство)",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BVT",
+        "country": "Остров Буве",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BRA",
+        "country": "Бразилия",
+        "region": "Южная Америка",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "CHL",
+        "country": "Чили",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "COL",
+        "country": "Колумбия",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ECU",
+        "country": "Эквадор",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FLK",
+        "country": "Фолклендские (Мальвинские) острова",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GUF",
+        "country": "Французская Гвиана",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GUY",
+        "country": "Гайана",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PRY",
+        "country": "Парагвай",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PER",
+        "country": "Перу",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SGS",
+        "country": "Южная Джорджия и Южные Сандвичевы острова",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SUR",
+        "country": "Суринам",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "URY",
+        "country": "Уругвай",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VEN",
+        "country": "Венесуэла (Боливарианская Республика)",
+        "region": "Южная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BMU",
+        "country": "Бермудские острова",
+        "region": "Северная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CAN",
+        "country": "Канада",
+        "region": "Северная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GRL",
+        "country": "Гренландия",
+        "region": "Северная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SPM",
+        "country": "Сен-Пьер и Микелон",
+        "region": "Северная Америка",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "USA",
+        "country": "Соединенные Штаты Америки",
+        "region": "Северная Америка",
+        "records": 5,
+        "status": "partial"
+      },
+      {
+        "iso": "ATA",
+        "country": "Антарктике",
+        "region": "Антарктика",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KAZ",
+        "country": "Казахстан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KGZ",
+        "country": "Кыргызстан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TJK",
+        "country": "Таджикистан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TKM",
+        "country": "Туркменистан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "UZB",
+        "country": "Узбекистан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CHN",
+        "country": "Китай",
+        "region": "Азия",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "HKG",
+        "country": "Китай, Специальный административный район Гонконг",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MAC",
+        "country": "Китай, Специальный административный район Макао",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PRK",
+        "country": "Корейская Народно-Демократическая Республика",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "JPN",
+        "country": "Япония",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MNG",
+        "country": "Монголия",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KOR",
+        "country": "Республика Корея",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BRN",
+        "country": "Бруней-Даруссалам",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KHM",
+        "country": "Камбоджа",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IDN",
+        "country": "Индонезия",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LAO",
+        "country": "Лаосская Народно-Демократическая Республика",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MYS",
+        "country": "Малайзия",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MMR",
+        "country": "Мьянма",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PHL",
+        "country": "Филиппины",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SGP",
+        "country": "Сингапур",
+        "region": "Азия",
+        "records": 2,
+        "status": "partial"
+      },
+      {
+        "iso": "THA",
+        "country": "Таиланд",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TLS",
+        "country": "Тимор-Лешти",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VNM",
+        "country": "Вьетнам",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "AFG",
+        "country": "Афганистан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BGD",
+        "country": "Бангладеш",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BTN",
+        "country": "Бутан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IND",
+        "country": "Индия",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IRN",
+        "country": "Иран (Исламская Республика)",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MDV",
+        "country": "Мальдивские Острова",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NPL",
+        "country": "Непал",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PAK",
+        "country": "Пакистан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LKA",
+        "country": "Шри-Ланка",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ARM",
+        "country": "Армения",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "AZE",
+        "country": "Азербайджан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BHR",
+        "country": "Бахрейн",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CYP",
+        "country": "Кипр",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GEO",
+        "country": "Грузия",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IRQ",
+        "country": "Ирак",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ISR",
+        "country": "Израиль",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "JOR",
+        "country": "Иордания",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KWT",
+        "country": "Кувейт",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LBN",
+        "country": "Ливан",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "OMN",
+        "country": "Оман",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "QAT",
+        "country": "Катар",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SAU",
+        "country": "Саудовская Аравия",
+        "region": "Азия",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "PSE",
+        "country": "Государство Палестина",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SYR",
+        "country": "Сирийская Арабская Республика",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TUR",
+        "country": "Турция",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ARE",
+        "country": "Объединенные Арабские Эмираты",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "YEM",
+        "country": "Йемен",
+        "region": "Азия",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BLR",
+        "country": "Беларусь",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BGR",
+        "country": "Болгария",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CZE",
+        "country": "Чехия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "HUN",
+        "country": "Венгрия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "POL",
+        "country": "Польша",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MDA",
+        "country": "Республика Молдова",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ROU",
+        "country": "Румыния",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "RUS",
+        "country": "Российская Федерация",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SVK",
+        "country": "Словакия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "UKR",
+        "country": "Украина",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ALA",
+        "country": "Аландских островов",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "DNK",
+        "country": "Дания",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "EST",
+        "country": "Эстония",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FRO",
+        "country": "Фарерские острова",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FIN",
+        "country": "Финляндия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GGY",
+        "country": "Гернси",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ISL",
+        "country": "Исландия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IRL",
+        "country": "Ирландия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "IMN",
+        "country": "Остров Мэн",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "JEY",
+        "country": "Джерси",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LVA",
+        "country": "Латвия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LTU",
+        "country": "Литва",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NOR",
+        "country": "Норвегия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SJM",
+        "country": "Острова Свальбард и Ян-Майен",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SWE",
+        "country": "Швеция",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GBR",
+        "country": "Соединенное Королевство Великобритании и Северной Ирландии",
+        "region": "Европа",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "ALB",
+        "country": "Албания",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "AND",
+        "country": "Андорра",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BIH",
+        "country": "Босния и Герцеговина",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "HRV",
+        "country": "Хорватия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GIB",
+        "country": "Гибралтар",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GRC",
+        "country": "Греция",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VAT",
+        "country": "Святой Престол",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ITA",
+        "country": "Италия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MLT",
+        "country": "Мальта",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MNE",
+        "country": "Черногория",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MKD",
+        "country": "Северная Македония",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PRT",
+        "country": "Португалия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SMR",
+        "country": "Сан-Марино",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SRB",
+        "country": "Сербия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SVN",
+        "country": "Словения",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ESP",
+        "country": "Испания",
+        "region": "Европа",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "AUT",
+        "country": "Австрия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "BEL",
+        "country": "Бельгия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FRA",
+        "country": "Франция",
+        "region": "Европа",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "DEU",
+        "country": "Германия",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LIE",
+        "country": "Лихтенштейн",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "LUX",
+        "country": "Люксембург",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MCO",
+        "country": "Монако",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NLD",
+        "country": "Нидерланды (Королевство)",
+        "region": "Европа",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CHE",
+        "country": "Швейцария",
+        "region": "Европа",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "AUS",
+        "country": "Австралия",
+        "region": "Океания",
+        "records": 1,
+        "status": "partial"
+      },
+      {
+        "iso": "CXR",
+        "country": "остров Рождества",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "CCK",
+        "country": "Кокосовых (Килинг) островов",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "HMD",
+        "country": "Остров Херд и острова Макдональд",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NZL",
+        "country": "Новая Зеландия",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NFK",
+        "country": "Остров Норфолк",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FJI",
+        "country": "Фиджи",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NCL",
+        "country": "Новая Каледония",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PNG",
+        "country": "Папуа-Новая Гвинея",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "SLB",
+        "country": "Соломоновы Острова",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "VUT",
+        "country": "Вануату",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "GUM",
+        "country": "Гуам",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "KIR",
+        "country": "Кирибати",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MHL",
+        "country": "Маршалловы Острова",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "FSM",
+        "country": "Микронезия (Федеративные Штаты)",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NRU",
+        "country": "Наоэро",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "MNP",
+        "country": "Северные Марианские острова",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PLW",
+        "country": "Палау",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "UMI",
+        "country": "Внешние малые острова Соединенных Штатов",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "ASM",
+        "country": "Американское Самоа",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "COK",
+        "country": "Острова Кука",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PYF",
+        "country": "Французская Полинезия",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "NIU",
+        "country": "Ниуэ",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "PCN",
+        "country": "Питкэрн",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "WSM",
+        "country": "Самоа",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TKL",
+        "country": "Токелау",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TON",
+        "country": "Тонга",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TUV",
+        "country": "Тувалу",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "WLF",
+        "country": "Острова Уоллис и Футуна",
+        "region": "Океания",
+        "records": 0,
+        "status": "unresearched"
+      },
+      {
+        "iso": "TWN",
+        "country": "Тайвань",
+        "region": "Азия",
+        "records": 3,
+        "status": "partial"
+      }
+    ]
+  },
+  "school_history": {
+    "status": "partial",
+    "period": [
+      2017,
+      2026
+    ],
+    "results": 116,
+    "frc_championship_winner_rows": 44,
+    "frc_main_judged_winner_rows": 11,
+    "wro_selected_first_places": 28,
+    "limit": "Полнота относится к указанным FRC категориям; школы и другие лиги исследованы частично."
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "asof": "2026-09-30",
+  "baseline_records": 898,
+  "added": 61,
+  "new_ids": [
+    "E052",
+    "E053",
+    "E054",
+    "E055",
+    "E056",
+    "E057",
+    "E058",
+    "E059",
+    "E060",
+    "E061",
+    "E062",
+    "E063",
+    "E064",
+    "E065",
+    "E066",
+    "E067",
+    "E068",
+    "E069",
+    "E070",
+    "E071",
+    "E072",
+    "E073",
+    "E074",
+    "E075",
+    "E076",
+    "E077",
+    "E078",
+    "E079",
+    "E080",
+    "E081",
+    "E082",
+    "C759",
+    "L090",
+    "L091",
+    "L092",
+    "L093",
+    "L094",
+    "L095",
+    "L096",
+    "L097",
+    "L098",
+    "L099",
+    "L100",
+    "L101",
+    "L102",
+    "L103",
+    "L104",
+    "L105",
+    "L106",
+    "L107",
+    "L108",
+    "L109",
+    "L110",
+    "L111",
+    "L112",
+    "L113",
+    "L114",
+    "L115",
+    "L116",
+    "L117",
+    "L118"
+  ],
+  "updated_ids": [
+    "E005",
+    "E027",
+    "E018",
+    "L016"
+  ],
+  "opened_primary_sources": [
+    {
+      "url": "https://makerfaire.com/upcoming-faires/",
+      "title": "Maker Faire — upcoming network directory",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": "30 listed editions; 24 new cards, Rome and Taipei rechecked; this is one network, not all world exhibitions"
+    },
+    {
+      "url": "https://malta.makerfaire.com/",
+      "title": "Maker Faire Malta 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://happyvalley.makerfaire.com/",
+      "title": "Happy Valley Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://rocklin.makerfaire.com/",
+      "title": "Rocklin Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://france.makerfaire.com/",
+      "title": "Maker Faire Leroy Merlin France 2026 — прочитанная локальная страница",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://makerfaire.cz/ceske-budejovice/",
+      "title": "Maker Faire České Budějovice 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://electriccity.makerfaire.com/",
+      "title": "Electric City Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://guangzhou.makerfaire.com/",
+      "title": "Maker Faire Guangzhou 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://ki-maker.space/angebote/events/makerfaire-tuebingen-2025-1",
+      "title": "Maker Faire Tübingen 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://batonrouge.makerfaire.com/",
+      "title": "Baton Rouge Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://louisville.makerfaire.com/",
+      "title": "Louisville Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://makerfaire.cz/brno/",
+      "title": "Maker Faire Brno 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://luxembourg.makerfaire.com/",
+      "title": "Maker Faire Luxembourg 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://downtowncolumbia.makerfaire.com/",
+      "title": "Downtown Columbia Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://www.innovactiongym.biz/itera",
+      "title": "ITERA TEC — Maker Faire México 2026, конфликт дат — прочитанная локальная страница",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://www.makerdays.at/",
+      "title": "Maker Days Salzburg 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://makerspace-myk.de/makerfaire/",
+      "title": "Maker Faire Mittleres Rheintal 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://makerfaire.cz/olomouc/",
+      "title": "Maker Faire Olomouc 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://rochester.makerfaire.com/",
+      "title": "Rochester Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://www.iamas.ac.jp/news/ogaki-mini-maker-faire-2026/",
+      "title": "Ogaki Mini Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://www.makeramai.com/",
+      "title": "Sarawak Maker Faire 2026 — прочитанная локальная страница",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://tinkerhub.org/",
+      "title": "Kochi Maker Faire 2027 — прочитанная локальная страница",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://buffalo.makerfaire.com/",
+      "title": "Buffalo Maker Faire — Summer 2027 — прочитанная локальная страница",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": ""
+    },
+    {
+      "url": "https://makerfairerome.eu/biglietti/",
+      "title": "Maker Faire Rome 2026 — tickets",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "23–25 October; online-only tickets; under18/student tariff8EUR; family tariff not a whole-family total"
+    },
+    {
+      "url": "https://taipei.makerfaire.com/",
+      "title": "Maker Faire Taipei — current page",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": "Current page mostly images; detailed visitor rules not read"
+    },
+    {
+      "url": "https://maker-faire.de/hannover/",
+      "title": "Maker Faire Hannover 2027",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "21–22 August2027; HCC; family event; new tickets not yet published"
+    },
+    {
+      "url": "https://pisf.pscpen.com/",
+      "title": "Penang Science Cluster — PISF2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "SPICE venue and programs; some competition subpages still2025"
+    },
+    {
+      "url": "https://www.mypenang.gov.my/view_events.php?id=SEFjMEtKdm9qTlVzK004WkJZM3NhUT09",
+      "title": "Penang Global Tourism — PISF2026 date",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "21–22Nov2026;09–17;SPICEArenaConcourse"
+    },
+    {
+      "url": "https://pisf.pscpen.com/public/",
+      "title": "PISF — public admission",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "No public registration required; walk-in09–17; workshop and competition rules separate"
+    },
+    {
+      "url": "https://innocarnival.hk/en/About//",
+      "title": "InnoCarnival Hong Kong2026 — About",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Oct24–Nov1;SciencePark;all activities free; public exhibits no admission registration"
+    },
+    {
+      "url": "https://innocarnival.hk/en/About/FAQ/Details/225",
+      "title": "InnoCarnival — family account / workshops",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "TypeA families/smallgroups/individuals; quota booking for workshops"
+    },
+    {
+      "url": "https://innocarnival.hk/en/About/FAQ/Details/220",
+      "title": "InnoCarnival — general public access",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Public exhibit access distinct from workshop bookings"
+    },
+    {
+      "url": "https://www.fil.pt/wp-content/uploads/2026/01/Calendario_Elevadores_2026_vs-5-Jan-2026.pdf",
+      "title": "FIL official2026 calendar — Lisboa Games Week",
+      "evidence": "catalog",
+      "checked": "2026-09-30",
+      "findings": "November19–22; public event; calendar subject to changes"
+    },
+    {
+      "url": "https://www.gitex.com/",
+      "title": "GITEX Global2026 — current dates",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "SummitDec7;ExpoDec8–11; current2026 child visitor gate not established"
+    },
+    {
+      "url": "https://www.gitex.com/terms-and-conditions",
+      "title": "GITEX Global — terms page",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Readable text insufficient for current child visitor policy"
+    },
+    {
+      "url": "https://gitexasia.com/",
+      "title": "GITEX AI Asia2027 — current edition",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "29–30April2027,MarinaBaySands; child policy2027 not found"
+    },
+    {
+      "url": "https://event.gitexasia.com/registration-confirmed",
+      "title": "GITEX Asia2026 — historical admission notice",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Historical2026 notice trade/business professionals18+; not transferred as confirmed2027 policy"
+    },
+    {
+      "url": "https://www.gitexeurope.com/faqs",
+      "title": "GITEX AI Europe — current FAQ",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "2026 trade/business18+; nextedition dates not announced; old21+ cache not current"
+    },
+    {
+      "url": "https://gitexafrica.com/faqs",
+      "title": "GITEX Africa — admission FAQ",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Trade/business18+;16–17 only school/faculty;2027 dates not yet found"
+    },
+    {
+      "url": "https://gitexafrica.com/",
+      "title": "GITEX Africa — nextedition announcement",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "2027 context without exact future days"
+    },
+    {
+      "url": "https://makerfaire.cz/maker-challenge/",
+      "title": "Maker Challenge Brno2026 — competition rules",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Oct17 jury13–15;upcycle3Dparts;40x30x15cm;Prusa prize; age/team/foreign rules not stated"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/",
+      "title": "Nullspace LEGO Robotics Engineer — Dec2026 groups",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Five Dec21–24/Dec28–31 groups09:30–12;primary current page9–13;10hSGD520; no teaching-language confirmation"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/",
+      "title": "Nullspace Generative AI — Oct2026 workshops",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Nine single-day sessionsOct2/12/13;09:30–12;age9–14;SGD137.50"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/",
+      "title": "Nullspace — centre policy",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Equipment provided; cancellation72h;credit/refund conditions; no teaching-language confirmation"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/stem-little-explorer-class-5-6/",
+      "title": "Nullspace Little Explorer — weekly5–6 FAQ",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Weekly1h;10sessionsSGD520;holiday-week camps specifically not offered;trial$5promotion/$55 conflict"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/minecraft-holiday-camp/",
+      "title": "Nullspace — Minecraft Coding Holiday Camp",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Опубликованы только прошедшие June 2026; следующий поток не объявлен"
+    },
+    {
+      "url": "https://sg.nullspace.co/centre-for-robotics-learning/buildup-series-3d-print-design-holiday-camp/",
+      "title": "Nullspace — 3D Print Design Holiday Camp",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Опубликованы только прошедшие September 2026; следующий поток не объявлен"
+    },
+    {
+      "url": "https://www.coboacademy.com/holiday-camps/index.asp",
+      "title": "Cobo Academy — October2026 English camps",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "English explicitly stated;four windowsOct5–9/12–16/20–23/26–30;ages6–8 and9–11;HKD4500/3600;chosen2hslot"
+    },
+    {
+      "url": "https://www.logiscool.com/mx/programs/lego-wedo-future",
+      "title": "Logiscool México — LEGO WeDo camp6–9",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Ages6–9;in-person;equipmentprovided;nopreviousknowledge;futurecampdates/campus/language not stated"
+    },
+    {
+      "url": "https://www.ciberbots.com.mx/services",
+      "title": "Ciberbots Toluca — current holiday-program windows",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "ChristmasDec2026,Easter2027,Summer2027;exactdays/ages/fees not published;regularcourse competitions restrictedschoolcourse"
+    }
+  ],
+  "corrections": [
+    "GITEX Global expo dates corrected from Dec7–11 to Dec8–11; SummitDec7 distinguished",
+    "Rome ticket tariffs and online-only booking; family8EUR not whole-family total; TaipeiOct24–25 network dates",
+    "ITERA networkOct29–30 vs localNov19–20 without year: no confirmed calendar date",
+    "Maker network dates are catalog evidence where host does not corroborate; failed hosts not labelled read",
+    "Nullspace LEGO current page9–13;weekly5–6 not holidaycamp;English instruction not confirmed by English website",
+    "Cobo explicit English and Junior6–8/Senior9–11; four actual weeks without invented topic/campus/slot combinations",
+    "Penang2025 competition rules not rolled to2026; GITEX Asia2026 gate not claimed as2027 policy;Europe FAQ18+ not old21+",
+    "Mexico holiday windows retained without invented exact dates, camp ages or Spanish teaching confirmation"
+  ],
+  "unresolved": [
+    {
+      "topic": "Maker Faire Vientiane / South Dallas",
+      "status": "Host links failed; network dates only",
+      "sources": [
+        "https://makerfaire.com/upcoming-faires/"
+      ]
+    },
+    {
+      "topic": "ITERA México",
+      "status": "Date conflict; organizer confirmation required",
+      "sources": [
+        "https://makerfaire.com/upcoming-faires/",
+        "https://www.innovactiongym.biz/itera"
+      ]
+    },
+    {
+      "topic": "Lisboa Games Week",
+      "status": "FIL date read; child ticket / program not accessible",
+      "sources": [
+        "https://www.fil.pt/wp-content/uploads/2026/01/Calendario_Elevadores_2026_vs-5-Jan-2026.pdf"
+      ]
+    },
+    {
+      "topic": "Nullspace and Mexican camps",
+      "status": "Specific teaching language and foreign short-stay admission not confirmed",
+      "sources": [
+        "https://sg.nullspace.co/centre-for-robotics-learning/lego-robotics-camp/",
+        "https://sg.nullspace.co/centre-for-robotics-learning/generative-ai/",
+        "https://www.logiscool.com/mx/programs/lego-wedo-future",
+        "https://www.ciberbots.com.mx/services"
+      ]
+    },
+    {
+      "topic": "Exhibition games/AI contests",
+      "status": "Visitor admission is not competition acceptance; child rules vary by activity",
+      "sources": [
+        "https://makerfaire.cz/maker-challenge/",
+        "https://pisf.pscpen.com/"
+      ]
+    }
+  ],
+  "limits": "Counts include providers, editions, age tracks and actual sessions; not independent world festivals. No country is fully audited. All three worldwide research blocks remain in progress.",
+  "validation": {
+    "version": "v8",
+    "records": 959,
+    "dated_cards": 771,
+    "countries_with_records": 61,
+    "fully_audited_countries": 0,
+    "static_ical_entries": 756,
+    "baseline_ids_preserved": 898,
+    "ui": "passed",
+    "database": "passed",
+    "research_status": "active",
+    "ui_checks": {
+      "ui": "passed",
+      "all_rows": 959,
+      "cobo_english_options": 8,
+      "oscar_junior": 4,
+      "matvey_senior": 4,
+      "conflict_not_exported": true,
+      "regular_not_camp": true,
+      "mobile_no_overflow": true,
+      "page_errors": []
+    }
+  }
+}

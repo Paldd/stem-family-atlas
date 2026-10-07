@@ -1,0 +1,313 @@
+{
+  "asof": "2026-10-05",
+  "scope": "Public official programme pages, price/contract pages and brochures; no forms submitted.",
+  "attempts": 37,
+  "http200": 35,
+  "items": [
+    {
+      "key": "garenne-form",
+      "url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+      "status": 200,
+      "bytes": 2551905,
+      "sha256": "71f35989f47adb09751d377ff26396a5e6a609b169cbb164b72cc13348da0fdf"
+    },
+    {
+      "key": "kidsrobots-workshops",
+      "url": "https://kidsrobots.fr/about/",
+      "final_url": "https://kidsrobots.fr/about/",
+      "status": 200,
+      "bytes": 108764,
+      "sha256": "42bafdfa466bffd055e9bcc2b0210533163215f06f5b7d7de53a90d7167cd15f"
+    },
+    {
+      "key": "kidsrobots-home",
+      "url": "https://kidsrobots.fr/",
+      "final_url": "https://kidsrobots.fr/",
+      "status": 200,
+      "bytes": 132497,
+      "sha256": "b59ce33f8a12cb5c62460c94eb4d4fe7a2d8dfc899e108c5628055f664aa2a67"
+    },
+    {
+      "key": "activebrain",
+      "url": "https://activebrainbordeaux.com/?lang=fr",
+      "final_url": "https://activebrainbordeaux.com/?lang=fr",
+      "status": 200,
+      "bytes": 152547,
+      "sha256": "f5f7514e2794723d4f52bdb5308b83872540e2f1d351b770de03fbb683673a1b"
+    },
+    {
+      "key": "hes-robotics",
+      "url": "https://www.hescamps.com/campamentos-12",
+      "final_url": "https://www.hescamps.com/campamentos-12",
+      "status": 200,
+      "bytes": 81311,
+      "sha256": "68c4dcb9066087830f54811803db764c9eb3772c65f54f907cfa59c860627470"
+    },
+    {
+      "key": "hes-home",
+      "url": "https://www.hescamps.com/",
+      "final_url": "https://www.hescamps.com/",
+      "status": 200,
+      "bytes": 96830,
+      "sha256": "623b15b3f012b1f6df8a5492b7a4a5f8912f0ce8fe92f794c776aa3056a001e4"
+    },
+    {
+      "key": "costa-robotics",
+      "url": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "final_url": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "status": 200,
+      "bytes": 86645,
+      "sha256": "ac3ca8210ed166f86e467de974be2809052382af042a1e57cc4c72cd6b30ef7a"
+    },
+    {
+      "key": "costa-home",
+      "url": "https://www.costablancacamp.com/en/",
+      "final_url": "https://www.costablancacamp.com/en/",
+      "status": 200,
+      "bytes": 136121,
+      "sha256": "06eeb6e66581a8e995a84bac40e7f09eb38084f48a8f1fa4aa87b0380fc80226"
+    },
+    {
+      "key": "logiscool-wedo",
+      "url": "https://www.logiscool.com/en-es/programs/lego-wedo-future",
+      "final_url": "https://www.logiscool.com/en-es/programs/lego-wedo-future",
+      "status": 200,
+      "bytes": 744454,
+      "sha256": "5a3e466a4ce77b2de4f68718f53c3187c7f3dac6f44a2b00e60062bf9f504544"
+    },
+    {
+      "key": "roches-pdf",
+      "url": "https://www.ecoledesroches.com/wp-content/uploads/2026/03/Summer-Camp-12-Feb-2026.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "ibs-camps",
+      "url": "https://ibsofprovence-camps.com/",
+      "final_url": "https://www.ibsofprovence-camps.com/",
+      "status": 200,
+      "bytes": 842292,
+      "sha256": "6e64b54527bfab7cfa0ccc82482f1953be9ba22397419507399ef142fa04d9a8"
+    },
+    {
+      "key": "lacunza-camp",
+      "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+      "final_url": "https://www.lacunza.es/en/camps/lacunza-camp",
+      "status": 200,
+      "bytes": 43822,
+      "sha256": "48fcfab46e3cc634752d709bfc8a13a857016e404f01375feb993bc7d82caf32"
+    },
+    {
+      "key": "ausias-camp",
+      "url": "https://ausiasmarch.com/cursos-de-verano-2026/",
+      "final_url": "https://ausiasmarch.com/cursos-de-verano-2026/",
+      "status": 200,
+      "bytes": 107638,
+      "sha256": "d74902a901ed73fd3d7aae04ea8077b0290b7bac1b466c7ba7e3d128e08b4e3e"
+    },
+    {
+      "key": "cmef-junior",
+      "url": "https://www.cmef-monaco.fr/en/programmes/junior-summer/",
+      "final_url": "https://www.cmef-monaco.fr/en/programmes/junior-summer/",
+      "status": 200,
+      "bytes": 237912,
+      "sha256": "670de8644a9688afa87c1262dfea84e8ba36405d115a5169f2bcd688e34a1c61"
+    },
+    {
+      "key": "cervantes-barcelona",
+      "url": "https://www.cervantes.to/barcelona/summer_programs.html",
+      "final_url": "https://www.cervantes.to/barcelona/summer_programs.html",
+      "status": 200,
+      "bytes": 64921,
+      "sha256": "6e63fcd569dd38222162f7951f58ab8791b70b8b2e01e54ed32453b3943b6c27"
+    },
+    {
+      "key": "chess-madrid",
+      "url": "https://www.campamentodeajedrez.com/",
+      "final_url": "https://www.campamentodeajedrez.com/",
+      "status": 200,
+      "bytes": 72834,
+      "sha256": "e1d68a86ac87963d20efad6e89141dc90fb452b599d27b05cefbc30fd9b0cf7c"
+    },
+    {
+      "key": "ibs-kids",
+      "url": "https://www.ibsofprovence-camps.com/kids-camps-bilingual-7-8yo",
+      "final_url": "https://www.ibsofprovence-camps.com/kids-camps-bilingual-7-8yo",
+      "status": 200,
+      "bytes": 648896,
+      "sha256": "91f75b176dd51ab31b1f670cf40b630daa003bd5f09ddb33fee8730cc093c416"
+    },
+    {
+      "key": "ibs-baby",
+      "url": "https://www.ibsofprovence-camps.com/bilingual-summer-camps-for-kids-4-6-year-olds",
+      "final_url": "https://www.ibsofprovence-camps.com/bilingual-summer-camps-for-kids-4-6-year-olds",
+      "status": 200,
+      "bytes": 631338,
+      "sha256": "bc5bcc44d4f53623c135ce935ff303071985c53a79c44e1e19a1542f0ac4e508"
+    },
+    {
+      "key": "ibs-core",
+      "url": "https://www.ibsofprovence-camps.com/copie-de-9-17ans",
+      "final_url": "https://www.ibsofprovence-camps.com/copie-de-9-17ans",
+      "status": 200,
+      "bytes": 638991,
+      "sha256": "f055a8ae2eeb38e7b03e462a713e3d46abd826270830aaf448faf3ef13404146"
+    },
+    {
+      "key": "ibs-prices",
+      "url": "https://www.ibsofprovence-camps.com/dates-fee",
+      "final_url": "https://www.ibsofprovence-camps.com/dates-fee",
+      "status": 200,
+      "bytes": 626078,
+      "sha256": "757e21cea9c306bd1f23a90b8da8558cdcbdd7c7fb7bd1625e8bab5649f3ae45"
+    },
+    {
+      "key": "ibs-board",
+      "url": "https://www.ibsofprovence-camps.com/boarding-students-ibs-summer-camp",
+      "final_url": "https://www.ibsofprovence-camps.com/boarding-students-ibs-summer-camp",
+      "status": 200,
+      "bytes": 673502,
+      "sha256": "395312c320d0b62d7ef16e905f2a8c78de04ebf0678dc9fdb38455ea00c9acba"
+    },
+    {
+      "key": "ibs-before",
+      "url": "https://www.ibsofprovence-camps.com/to-know-before-arrival",
+      "final_url": "https://www.ibsofprovence-camps.com/to-know-before-arrival",
+      "status": 200,
+      "bytes": 628723,
+      "sha256": "2fc1917949671699674b3c20fa7f24634e378e1f0e3ce1fda30f18b972545bf9"
+    },
+    {
+      "key": "lacunza-register",
+      "url": "https://www.lacunza.es/en/camps/camp-enrolment",
+      "final_url": "https://www.lacunza.es/en/camps/camp-enrolment",
+      "status": 200,
+      "bytes": 52633,
+      "sha256": "eccbe7908ba3f59ebf455a05dd4f75c080ce098eeafacc3bf40ba42803cad6cd"
+    },
+    {
+      "key": "kidsrobots-contact",
+      "url": "https://kidsrobots.fr/contact/",
+      "final_url": "https://kidsrobots.fr/contact/",
+      "status": 200,
+      "bytes": 120984,
+      "sha256": "43644270d50cf077f16005b36c0de14528262adee4aa225fd0466212fd24733a"
+    },
+    {
+      "key": "hes-rates",
+      "url": "https://www.hescamps.com/precios-y-transportes",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "costa-detail",
+      "url": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "final_url": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "status": 200,
+      "bytes": 96639,
+      "sha256": "8d7e0923c9f0a7c787613d0fa359f83bf988003138fea413c7360f6ee35d5cb4"
+    },
+    {
+      "key": "natuk-robotics",
+      "url": "https://www.natukcamps.com/robotics-camp",
+      "final_url": "https://www.natukcamps.com/robotics-camp",
+      "status": 200,
+      "bytes": 185685,
+      "sha256": "8cf986b8a9050798f4909d4daf030f3d1936d1b41cad0370c28a96f40467705a"
+    },
+    {
+      "key": "natuk-downloads",
+      "url": "https://www.natukcamps.com/descargas/",
+      "final_url": "https://www.natukcamps.com/descargas/",
+      "status": 200,
+      "bytes": 116536,
+      "sha256": "fb18908ef9ab75e587bad77a2e1b5a6baf75df7756bcbf024c776bdd9ddce481"
+    },
+    {
+      "key": "hes-board",
+      "url": "https://www.hescamps.com/campamentos-internacionales-en-los-pirineos",
+      "final_url": "https://www.hescamps.com/campamentos-internacionales-en-los-pirineos",
+      "status": 200,
+      "bytes": 74940,
+      "sha256": "4cb4bdab202633e9433cb8e471f5edff786b0645a64d305896b6016ce38f0fcf"
+    },
+    {
+      "key": "hes-day",
+      "url": "https://www.hescamps.com/campus-en-los-pirineos",
+      "final_url": "https://www.hescamps.com/campus-en-los-pirineos",
+      "status": 200,
+      "bytes": 55881,
+      "sha256": "462466517ec3fe9755ee5421c6b81c5eac9ca007012f0289199d263422a73fc3"
+    },
+    {
+      "key": "lacunza-pdf",
+      "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+      "final_url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+      "status": 200,
+      "bytes": 2008665,
+      "sha256": "eafe9e6856916a409e7993f1400163fac13e8ba0e1682d73c42fb0cf13323634"
+    },
+    {
+      "key": "cervantes-terms",
+      "url": "https://www.cervantes.to/barcelona/terms_and_conditions.html",
+      "final_url": "https://www.cervantes.to/barcelona/terms_and_conditions.html",
+      "status": 200,
+      "bytes": 31395,
+      "sha256": "fff61bb461c0ad2844648c3de0da66de41a8158feb60c54f6631d886c3a16db8"
+    },
+    {
+      "key": "chess-robotics",
+      "url": "https://www.campamentodeajedrez.com/summer-tech-camp-robotics-and-video-games/",
+      "final_url": "https://www.campamentodeajedrez.com/summer-tech-camp-robotics-and-video-games/",
+      "status": 200,
+      "bytes": 63926,
+      "sha256": "160d50f218ec4d28f4b4d769a98b803b67ad43ea829253c9f2b6873bf59afafd"
+    },
+    {
+      "key": "natuk-prices",
+      "url": "https://www.natukcamps.com/precios",
+      "final_url": "https://www.natukcamps.com/precios",
+      "status": 200,
+      "bytes": 94016,
+      "sha256": "b66bbed0dbfc4ed328c8ac3a096cf4d4c84e589d8fa81392f13e33b3b6f261d4"
+    },
+    {
+      "key": "garenne-conditions",
+      "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "final_url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "status": 200,
+      "bytes": 1074363,
+      "sha256": "114a583a8a6a573e2e16e8f320767ba97f606301afbf7cf1b9632ad749d0b536"
+    },
+    {
+      "key": "robotic4kids",
+      "url": "https://robotic4kids.com/camparobotica/",
+      "final_url": "https://robotic4kids.com/camparobotica/",
+      "status": 200,
+      "bytes": 135150,
+      "sha256": "70ca6246e7f99eb389aeddd17dc210982e8e735ea79fc9cd409de307db57baad"
+    },
+    {
+      "key": "natuk-2026-pdf",
+      "url": "https://www.natukcamps.com/descargas/",
+      "status": 200,
+      "bytes": 5327493,
+      "sha256": "a7e21391a3c669ae4c4751c27865e3e2d1b92fd3b33e51b3982c8ad439bee509",
+      "download_evidence": "English2026 brochure link observed on official downloads page; transient signed URL omitted."
+    }
+  ],
+  "pdf_visual_review": {
+    "lacunza-pdf": [
+      4
+    ],
+    "garenne-conditions": [
+      3,
+      4
+    ],
+    "natuk-2026-pdf": [
+      25,
+      27,
+      28
+    ]
+  },
+  "unavailable_sources": "Two guessed old PDF/fee URLs returned404 and are not programme evidence."
+}

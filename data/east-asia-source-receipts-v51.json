@@ -1,0 +1,581 @@
+{
+  "version": 51,
+  "checked": "2026-10-02",
+  "sources": [
+    {
+      "name": "asij_activities",
+      "url": "https://www.asij.ac.jp/activities-at-asij/activities-arts-athletics",
+      "status": 200,
+      "resolved": "https://www.asij.ac.jp/activities-at-asij/activities-arts-athletics",
+      "mime": "text/html",
+      "bytes": 61348,
+      "sha256": "5e3abfc5b2cf6173c153f951918a017c4d4e368fa9167ef954edc9140515b6c8",
+      "primary_body_read": true
+    },
+    {
+      "name": "asij_spaces",
+      "url": "https://www.asij.ac.jp/our-spaces/creative-spaces",
+      "status": 200,
+      "resolved": "https://www.asij.ac.jp/our-spaces/creative-spaces",
+      "mime": "text/html",
+      "bytes": 53235,
+      "sha256": "1a0d1fe12b4d3b380e57fcd77340c6c2e630f48008c6e0a69ec50c50c82cc231",
+      "primary_body_read": true
+    },
+    {
+      "name": "asij_es",
+      "url": "https://www.asij.ac.jp/learning-at-asij/elementary-school",
+      "status": 200,
+      "resolved": "https://www.asij.ac.jp/learning-at-asij/elementary-school",
+      "mime": "text/html",
+      "bytes": 68175,
+      "sha256": "6c3e096da0955e14fbb7aa40fa762ea95868daaee2ea777d03707402b04b1740",
+      "primary_body_read": false
+    },
+    {
+      "name": "asij_camp",
+      "url": "https://sdc.asij.ac.jp/sdc-at-chofu",
+      "status": 200,
+      "resolved": "https://sdc.asij.ac.jp/sdc-at-chofu",
+      "mime": "text/html",
+      "bytes": 44441,
+      "sha256": "06cf9b646a8ee3615d6f2505988e734727a30e397e121b579d40ae0986c909ca",
+      "primary_body_read": true
+    },
+    {
+      "name": "asij_camp_home",
+      "url": "https://sdc.asij.ac.jp/",
+      "status": 200,
+      "resolved": "https://sdc.asij.ac.jp/",
+      "mime": "text/html",
+      "bytes": 32272,
+      "sha256": "8a9490992cd829133adb5d9cc72ddf669e34942dbd714b0b30a98c97b2388ef9",
+      "primary_body_read": true
+    },
+    {
+      "name": "doxa",
+      "url": "https://www.doxarobotics.com/home",
+      "status": 200,
+      "resolved": "https://www.doxarobotics.com/home",
+      "mime": "text/html",
+      "bytes": 200980,
+      "sha256": "629031b8a401630c25c0e56aea18f3ba0cbb54197886b1cbf798fd94c78c8728",
+      "primary_body_read": true
+    },
+    {
+      "name": "caj",
+      "url": "https://caj.ac.jp/",
+      "status": 200,
+      "resolved": "https://caj.ac.jp/",
+      "mime": "text/html",
+      "bytes": 216641,
+      "sha256": "ae91ec086c5ea7c57e3514c7dc85fbab3feb8d0fd8073995cec0b97f0a118534",
+      "primary_body_read": false
+    },
+    {
+      "name": "happi",
+      "url": "https://www.harrowappi.jp/",
+      "status": 200,
+      "resolved": "https://www.harrowappi.jp/",
+      "mime": "text/html",
+      "bytes": 415624,
+      "sha256": "9d70d9ff88c41696996cbd69c145c4cb58aeb028103c9cd72db5574ce40405ad",
+      "primary_body_read": true
+    },
+    {
+      "name": "happi_faq",
+      "url": "https://www.harrowappi.jp/admissions/admissions-faqs/",
+      "status": 200,
+      "resolved": "https://www.harrowappi.jp/admissions/admissions-faqs/",
+      "mime": "text/html",
+      "bytes": 269187,
+      "sha256": "1c764e0ab9e253a3b34629272dff2dd2ce9b7c5dc6cddcf2901e87fda845c505",
+      "primary_body_read": true
+    },
+    {
+      "name": "happi_camp",
+      "url": "https://winter.harrowappi.jp/",
+      "status": 200,
+      "resolved": "https://winter.harrowappi.jp/",
+      "mime": "text/html",
+      "bytes": 94989,
+      "sha256": "b4958df3f07c0cc564aeb303d7df08bbf50bacae0c4fb67a3d113637ad1662b8",
+      "primary_body_read": true
+    },
+    {
+      "name": "hengqin",
+      "url": "https://www.harrowzhuhai.cn/the-school/",
+      "status": 200,
+      "resolved": "https://www.harrowzhuhai.cn/the-school/",
+      "mime": "text/html",
+      "bytes": 197563,
+      "sha256": "625681fe19021a17c89bf6712bd0e991ea04490e07b931cb5e491a584f6d20b4",
+      "primary_body_read": true
+    },
+    {
+      "name": "hengqin_board",
+      "url": "https://www.harrowzhuhai.cn/holistic-education/pastoral-boarding/boarding/",
+      "status": 200,
+      "resolved": "https://www.harrowzhuhai.cn/holistic-education/pastoral-boarding/boarding/",
+      "mime": "text/html",
+      "bytes": 200116,
+      "sha256": "3b661404fd8a90c8be3469752687d04dea237fad224f8225292c356d34f9f9a4",
+      "primary_body_read": true
+    },
+    {
+      "name": "swis",
+      "url": "https://www.swis.cn/",
+      "status": 200,
+      "resolved": "https://www.swis.cn/",
+      "mime": "text/html",
+      "bytes": 34160,
+      "sha256": "1923f629fcf7e19e3de06594ad0a61dbab670e6c1b625c30f2528b20f3898d74",
+      "primary_body_read": false
+    },
+    {
+      "name": "swis_about",
+      "url": "https://www.swis.cn/about/",
+      "status": 200,
+      "resolved": "https://www.swis.cn/about/",
+      "mime": "text/html",
+      "bytes": 41529,
+      "sha256": "811a757c17a4a8534b6789c44c85bef11e0d7c7bc4212ff129982076e6af5145",
+      "primary_body_read": false
+    },
+    {
+      "name": "swis_admit",
+      "url": "https://www.swis.cn/admissions/",
+      "status": 200,
+      "resolved": "https://www.swis.cn/admissions/",
+      "mime": "text/html",
+      "bytes": 35134,
+      "sha256": "164acb138acbce1ae1c42a8c16f847cfa5c7666e5d9fd1b7277afad31fb5dc65",
+      "primary_body_read": false
+    },
+    {
+      "name": "swis_pyp",
+      "url": "https://www.swis.cn/pyp/",
+      "status": 200,
+      "resolved": "https://www.swis.cn/pyp/",
+      "mime": "text/html",
+      "bytes": 35182,
+      "sha256": "e5c70502b64d24ffd686f8c5921dd0798970ac88694421d36b9f1d127fc0ef80",
+      "primary_body_read": false
+    },
+    {
+      "name": "yca_camp",
+      "url": "https://youngcodersacademy.net/summer2026/",
+      "status": 200,
+      "resolved": "https://youngcodersacademy.net/summer2026/",
+      "mime": "text/html",
+      "bytes": 7680,
+      "sha256": "19e48157bbf4af5ce8c5c22b8336a5acf3e44b8a5aa97fc465e9b304d9942278",
+      "primary_body_read": false,
+      "limitation": "Current page Coming soon; cached full programme not confirmed live."
+    },
+    {
+      "name": "yca_weekends",
+      "url": "https://youngcodersacademy.net/weekend-classes/",
+      "status": 200,
+      "resolved": "https://youngcodersacademy.net/weekend-classes/",
+      "mime": "text/html",
+      "bytes": 7680,
+      "sha256": "b2f38ad3d77866c4650e775b047e3b087477367dbab0536910f2ad1f2b6f12e9",
+      "primary_body_read": false,
+      "limitation": "Current page Coming soon; cached full programme not confirmed live."
+    },
+    {
+      "name": "yca_home",
+      "url": "https://youngcodersacademy.net/",
+      "status": 200,
+      "resolved": "https://youngcodersacademy.net/",
+      "mime": "text/html",
+      "bytes": 7680,
+      "sha256": "09e476ff5118b86b55597f8f467715d62c6daa84c4d40adb8435090890e1ef79",
+      "primary_body_read": false,
+      "limitation": "Current page Coming soon; cached full programme not confirmed live."
+    },
+    {
+      "name": "ycis_camp",
+      "url": "https://www.ycis-bj.com/en/article/upcoming-events/ycis-beijing-2026-summer-camps-registration",
+      "status": 200,
+      "resolved": "https://www.ycis-bj.com/en/article/upcoming-events/ycis-beijing-2026-summer-camps-registration",
+      "mime": "text/html",
+      "bytes": 581027,
+      "sha256": "f874f58ba852ba96de104a586eff0471abaa38bac63a7c818e6290a6ca7c461c",
+      "primary_body_read": true
+    },
+    {
+      "name": "morrison_admit",
+      "url": "https://www.ma.org.tw/admissions/",
+      "status": 200,
+      "resolved": "https://www.ma.org.tw/admissions/",
+      "mime": "text/html",
+      "bytes": 249996,
+      "sha256": "a1d6d39ca130720b2dc17eb63f25be4bb626d44bd6b9e83744cd811a102ace92",
+      "primary_body_read": true
+    },
+    {
+      "name": "morrison_innovation",
+      "url": "https://www.ma.org.tw/academics/innovation/",
+      "status": 200,
+      "resolved": "https://www.ma.org.tw/academics/innovation/",
+      "mime": "text/html",
+      "bytes": 95874,
+      "sha256": "0cbc8c9a229492c8033afc73532c7716c21141d6fc710ff950d7d51e536d9529",
+      "primary_body_read": false
+    },
+    {
+      "name": "morrison_es",
+      "url": "https://www.ma.org.tw/academics/elementary-school/",
+      "status": 200,
+      "resolved": "https://www.ma.org.tw/academics/elementary-school/",
+      "mime": "text/html",
+      "bytes": 100595,
+      "sha256": "abd4965bd2453f995b00b56977e30656e248c620614c21826c8d68ecc39f481d",
+      "primary_body_read": true
+    },
+    {
+      "name": "tes_cca",
+      "url": "https://www.tes.tp.edu.tw/student-life/co-curricular-activities",
+      "status": 200,
+      "resolved": "https://www.tes.tp.edu.tw/student-life/co-curricular-activities",
+      "mime": "text/html",
+      "bytes": 63987,
+      "sha256": "c377e60555b0d26b0f312ba56ae357a568f73b496329880befdc0c47236bd4de",
+      "primary_body_read": true
+    },
+    {
+      "name": "first_jp",
+      "url": "https://firstjapan.jp/",
+      "status": 200,
+      "resolved": "https://firstjapan.jp/",
+      "mime": "text/html",
+      "bytes": 35620,
+      "sha256": "cae0fad6577c31455ae78a36671bd2826d3990569ae68f956f98236929e32848",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_jp",
+      "url": "https://www.wroj.org/",
+      "status": 200,
+      "resolved": "https://www.wroj.org/",
+      "mime": "text/html",
+      "bytes": 48570,
+      "sha256": "62a2b015f3bd63a08b6524f9f69667086dcd2c02cda632fe7129adaed809db1c",
+      "primary_body_read": false
+    },
+    {
+      "name": "vex_academy",
+      "url": "https://www.vex-academy.com/en/",
+      "status": 200,
+      "resolved": "https://www.vex-academy.com/en/",
+      "mime": "text/html",
+      "bytes": 136029,
+      "sha256": "79419ba407859d9860c4ee74a49435444938f1e98ebc1523802c9e21f2ceaa6e",
+      "primary_body_read": false
+    },
+    {
+      "name": "swis_old",
+      "url": "https://innovation.swis.cn/",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao",
+      "url": "https://www.ykpaoschool.cn/",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "kcis_es",
+      "url": "https://web.kcislk.ntpc.edu.tw/en/es/",
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)>",
+      "primary_body_read": false
+    },
+    {
+      "name": "jp_vex_iq",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4837.html",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "primary_body_read": false
+    },
+    {
+      "name": "jp_explore",
+      "url": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "status": 200,
+      "resolved": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "mime": "text/html",
+      "bytes": 46035,
+      "sha256": "b0ab29acc4037d93f7398ae02f808596b68e41d5ced283c0e872dd45e88c81f4",
+      "primary_body_read": true
+    },
+    {
+      "name": "jp_challenge",
+      "url": "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+      "status": 200,
+      "resolved": "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+      "mime": "text/html",
+      "bytes": 42766,
+      "sha256": "9a83411d0cc418c5f2904bbeb11c3282c07b0acd61db834a910c2dff8c905b3b",
+      "primary_body_read": true
+    },
+    {
+      "name": "jp_future",
+      "url": "https://firstjapan.jp/events/fll-future-edition-8/",
+      "status": 200,
+      "resolved": "https://firstjapan.jp/events/fll-future-edition-8/",
+      "mime": "text/html",
+      "bytes": 45002,
+      "sha256": "e86f47d55450aa18a137bb6f5324a864cd66c95ae02adcf462af8c723c54de9e",
+      "primary_body_read": true
+    },
+    {
+      "name": "caj_admit",
+      "url": "https://caj.ac.jp/admissions/eligibility.php",
+      "status": 200,
+      "resolved": "https://caj.ac.jp/admissions/eligibility.php",
+      "mime": "text/html",
+      "bytes": 122713,
+      "sha256": "484d8a507aecc0b42826583f942ed73fe9a3c324fa639dd43d82334b3cc3f40d",
+      "primary_body_read": true
+    },
+    {
+      "name": "swis_ib",
+      "url": "https://ibo.org/en/school/050023",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao_news2025",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao_news2023",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/850",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao_cs",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/839",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao_faq",
+      "url": "https://www.ykpaoschool.cn/Admission/FAQs",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "ypao_admit",
+      "url": "https://www.ykpaoschool.cn/Admission/Overview",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": false
+    },
+    {
+      "name": "hengqin_fee",
+      "url": "https://www.harrowzhuhai.cn/wp-content/uploads/2026/03/Harrow-Lide-School-Hengqin-School-Fees-Standard-and-Discount-Policy-for-2026-27.pdf",
+      "status": 200,
+      "resolved": "https://www.harrowzhuhai.cn/wp-content/uploads/2026/03/Harrow-Lide-School-Hengqin-School-Fees-Standard-and-Discount-Policy-for-2026-27.pdf",
+      "mime": "application/pdf",
+      "bytes": 667369,
+      "sha256": "21f700be65cf27468202131450e65328e095015e6d747d716f9ed097fd7b57c4",
+      "primary_body_read": true
+    },
+    {
+      "name": "tes_apply",
+      "url": "https://www.tes.tp.edu.tw/admissions/apply",
+      "status": 200,
+      "resolved": "https://www.tes.tp.edu.tw/admissions/apply",
+      "mime": "text/html",
+      "bytes": 102303,
+      "sha256": "65a3a412f4d79da45c25c08d25232d8d7c30081cf32dd824ba18880d356dcf65",
+      "primary_body_read": true
+    },
+    {
+      "name": "tes_bps",
+      "url": "https://www.tes.tp.edu.tw/the-british-section/heads-welcome",
+      "status": 200,
+      "resolved": "https://www.tes.tp.edu.tw/the-british-section/heads-welcome",
+      "mime": "text/html",
+      "bytes": 82438,
+      "sha256": "2ee5c019a1c5aba8894a89b0211e358371c96a712488646c86b26f74e509ee51",
+      "primary_body_read": true
+    },
+    {
+      "name": "tes_faq",
+      "url": "https://www.tes.tp.edu.tw/admissions/faq",
+      "status": 200,
+      "resolved": "https://www.tes.tp.edu.tw/admissions/faq",
+      "mime": "text/html",
+      "bytes": 128594,
+      "sha256": "c60b07f5fc7bdaa886ef7ac39f8a12d360b6c998d64f5a16a2732179b6f681da",
+      "primary_body_read": true
+    },
+    {
+      "name": "isb_campus",
+      "url": "https://www.isb.cn/about/campus-map",
+      "status": 200,
+      "resolved": "https://www.isb.cn/about/campus-map",
+      "mime": "text/html",
+      "bytes": 73613,
+      "sha256": "12cdf09791af29a08db60a6963dff44dae6edc85a510c07b72537cbfa15639ec",
+      "primary_body_read": true
+    },
+    {
+      "name": "isb_admit",
+      "url": "https://www.isb.cn/admissions",
+      "status": 200,
+      "resolved": "https://www.isb.cn/admissions",
+      "mime": "text/html",
+      "bytes": 96568,
+      "sha256": "4ae10f44f68b4ed821647b5dfb732bab6a91de62ec301af0a190b7411c62f225",
+      "primary_body_read": false
+    },
+    {
+      "name": "scis_camp",
+      "url": "https://www.scis-china.org/community/news/news-details/~board/news-stories/post/scis-summer-camp-2026-a-summer-to-grow-on",
+      "status": 200,
+      "resolved": "https://www.scis-china.org/community/news/news-details/~board/news-stories/post/scis-summer-camp-2026-a-summer-to-grow-on",
+      "mime": "text/html",
+      "bytes": 56806,
+      "sha256": "9734ab61c35b164b711b8dcee3066bf6347310e8b826fd5ff6b5c4b509f3b59d",
+      "primary_body_read": false
+    },
+    {
+      "name": "ycyw_primary",
+      "url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+      "status": 200,
+      "resolved": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+      "mime": "text/html",
+      "bytes": 818824,
+      "sha256": "f8355c87cca29e203bcb289e5c392636c85deba6f42ceca5ffcda9d75167d48a",
+      "primary_body_read": true
+    }
+  ],
+  "additional_primary_reads": [
+    {
+      "name": "sq_ccm",
+      "url": "https://steamsquad.io/en/courses/computer-controlled-machines",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "sq_esm",
+      "url": "https://steamsquad.io/en/courses/k3-esm",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "sq_code",
+      "url": "https://steamsquad.io/en/courses/code-club",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "jp_vex_es",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "asij_admit",
+      "url": "https://www.asij.ac.jp/admissions/admissions-home",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "asij_faq",
+      "url": "https://www.asij.ac.jp/admissions/admissions-faq",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "asij_guidelines",
+      "url": "https://www.asij.ac.jp/admissions/admissions-guidelines",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "isb_criteria",
+      "url": "https://www.isb.cn/admissions/application-process/admissions-criteria-policies",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "swis_ib",
+      "url": "https://ibo.org/en/school/050023",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "kcis_es",
+      "url": "https://web.kcislk.ntpc.edu.tw/en/es/",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "ypao_cs",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/839",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "ypao_news2023",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/850",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "ypao_news2025",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "ypao_board",
+      "url": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/723",
+      "channel": "web_primary_page",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    },
+    {
+      "name": "ypao_admit",
+      "url": "https://www.ykpaoschool.cn/Admission/Admissions-Criteria-and-Process",
+      "channel": "web_primary_indexed_text",
+      "checked": "2026-10-02",
+      "limitation": "See scoped claim / source issues"
+    }
+  ],
+  "visually_inspected_pdf_pages": {
+    "hengqin_fee": [
+      1
+    ]
+  }
+}

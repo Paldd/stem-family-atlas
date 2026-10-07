@@ -1,0 +1,405 @@
+{
+  "checked": "2026-10-01",
+  "method": "FreshprimaryHTTPpages/images/PDFsread;imagebannersvisuallyinspected;governmentreportreadwithwebreader. Rawfilesoutsidepublicrepo.",
+  "sources": [
+    {
+      "name": "my_itex",
+      "url": "https://itex.com.my/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 403989,
+      "sha256": "5044960eb2d700a75d1a915f54cfc049149edb8c431f692a9aa595440bbfea3a",
+      "resolved": "https://itex.com.my/"
+    },
+    {
+      "name": "my_itex_faq",
+      "url": "https://itex.com.my/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 92687,
+      "sha256": "f2b91fd0b662b25c2866e4a799b2ee27eba75c5a7ca0f9a71feae179d34f5bbd",
+      "resolved": "https://itex.com.my/faq/"
+    },
+    {
+      "name": "id_manufacturing",
+      "url": "https://www.manufacturingindonesia.com/visiting/visitors-faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131309,
+      "sha256": "c026b247a5d1f4dcb08eee48a7f2806467d443ab9355e640b80a928785056df1",
+      "resolved": "https://www.manufacturingindonesia.com/visiting/visitors-faq/"
+    },
+    {
+      "name": "id_inti",
+      "url": "https://robot.inti.asia/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80762,
+      "sha256": "340bbd03149e4ab514f13e44efff9046f2b861a88a06175481319e9471c4a270",
+      "resolved": "https://robot.inti.asia/about"
+    },
+    {
+      "name": "vn_ictcomm",
+      "url": "https://ictcomm.vn/en/about-ictcomm/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 127637,
+      "sha256": "afdf3fe81c1125ca57681cbe2c43dfd50b5764f7b5a25d6b4eb2d5d0ccaecc56",
+      "resolved": "https://ictcomm.vn/en/about-ictcomm/"
+    },
+    {
+      "name": "vn_engage_scrimmage",
+      "url": "https://recfevents.org/Events/Details/760",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36628,
+      "sha256": "76cafef1efd2543677a0c58e4c9d6741cc5011552d930a6e0eec1c63125c91ba",
+      "resolved": "https://recfevents.org/Events/Details/760"
+    },
+    {
+      "name": "vn_engage_hanoi",
+      "url": "https://recfevents.org/Events/Details/178",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65625,
+      "sha256": "a5e90c7fade1b6348bbf60f9fc05aeff819f728fecd499749e9d3f37f172f2a4",
+      "resolved": "https://recfevents.org/Events/Details/178"
+    },
+    {
+      "name": "vn_engage_remote",
+      "url": "https://recfevents.org/Events/Details/611",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36838,
+      "sha256": "1126c80b563e772d3a65847038c974f09e695e8ec6f98978bcb629ecdc9b3149",
+      "resolved": "https://recfevents.org/Events/Details/611"
+    },
+    {
+      "name": "vn_engage_open",
+      "url": "https://recfevents.org/Events/Details/177",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 47614,
+      "sha256": "37e531533f4b57a9e77f081ebc761adaab70775b0d887fcbbb574cb60e053730",
+      "resolved": "https://recfevents.org/Events/Details/177"
+    },
+    {
+      "name": "my_nroc_schedule_data",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/155",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 4487,
+      "sha256": "04b0049d30fc7b88bb81ab6a0412ac1706786861badfabb043ffeae611b2a4cb",
+      "resolved": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/155"
+    },
+    {
+      "name": "my_nrc_rules",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/52",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 25518,
+      "sha256": "4beed09786894545be7446e2af80164d12862999f546435ce5b97d361d41bc45",
+      "resolved": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/52"
+    },
+    {
+      "name": "id_wro_registration",
+      "url": "https://wroindonesia.org/infoDaftar_00.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22203,
+      "sha256": "82a567eecdc0e58f4e5d435398595823b0c58f41b6a81117385b4256c141e971",
+      "resolved": "https://wroindonesia.org/infoDaftar_00.html"
+    },
+    {
+      "name": "vn_engage_directory",
+      "url": "https://recfevents.org/Events/ApprovedEvents?ProgramTypeId=1&RegionId=109",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40906,
+      "sha256": "471105ec7984c73ee19e2fd787cae52cead5db6b8098e61a48c3d1856a8556a5",
+      "resolved": "https://recfevents.org/Events/ApprovedEvents?ProgramTypeId=1&RegionId=109"
+    },
+    {
+      "name": "my_nroc_description",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/153",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 5016,
+      "sha256": "85a5fe662b48c1c7ac4adcea98b2f120db6f6169aeae0b67b9f0f15b889af65c",
+      "resolved": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/153"
+    },
+    {
+      "name": "my_nroc_rules",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/181",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 12934,
+      "sha256": "be6471e0f528f5235f2271677edf8c15f5db3e9a9e050a993e73003569c78cbf",
+      "resolved": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/181"
+    },
+    {
+      "name": "vn_hec_camp_js",
+      "url": "https://hanoienglish.com/camp/assets/index-D6WUE6um.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 14779,
+      "sha256": "732d592cfedaaf728d7c2fc915b603a125cca081f26dbaca33ee2cfae3723784",
+      "resolved": "https://hanoienglish.com/camp/assets/index-D6WUE6um.js"
+    },
+    {
+      "name": "id_wro_category",
+      "url": "https://wroindonesia.org/kategori_00.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 76160,
+      "sha256": "b41c8f30fd004cd53ac9dc1dc8db4446f62eebf5f88c0a12b38204485a30a38f",
+      "resolved": "https://wroindonesia.org/kategori_00.html"
+    },
+    {
+      "name": "id_iyrc_poster",
+      "url": "https://iyra-indonesia.id/wp-content/uploads/2026/03/IYRC-Indonesia-2026-1-724x1024.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 954580,
+      "sha256": "97d245faf79b05cff0dd669cf3ef3538edc3fa4f8c01a2c7f1549a558dfb3fdc",
+      "resolved": "https://iyra-indonesia.id/wp-content/uploads/2026/03/IYRC-Indonesia-2026-1-724x1024.png"
+    },
+    {
+      "name": "id_iyrc",
+      "url": "https://iyra-indonesia.id/iyrc-indonesia-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 197616,
+      "sha256": "d4d3b807235cf292fabf2d0018f8ba2876648a8e835db6bc936788e88d85162e",
+      "resolved": "https://iyra-indonesia.id/iyrc-indonesia-2026/"
+    },
+    {
+      "name": "my_nroc_comp",
+      "url": "https://nroc.sasbadi.com/competition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14494,
+      "sha256": "50c4b3d0a3a85fd558e07806c979be28bb27b28cd3e533d93999795d5fd1f1c4",
+      "resolved": "https://nroc.sasbadi.com/competition"
+    },
+    {
+      "name": "my_nroc_schedule",
+      "url": "https://nroc.sasbadi.com/schedule",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14493,
+      "sha256": "aa36cba809f7417aa51d1395440f59269277c27d82e453dcbe96d1fd3793e956",
+      "resolved": "https://nroc.sasbadi.com/schedule"
+    },
+    {
+      "name": "my_nrc_comp",
+      "url": "https://nrc.sasbadi.com/competition",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14602,
+      "sha256": "223a82b28b9c264fea19e5bd30e580cf6d6b535698f7d3a49f8ea99780823068",
+      "resolved": "https://nrc.sasbadi.com/competition"
+    },
+    {
+      "name": "ph_pro_reg",
+      "url": "https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 420643,
+      "sha256": "dbe69150886051a203f8c0ae9bbd91fe5d97f73d3e42bca4be77b292c287ca58",
+      "resolved": "https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf"
+    },
+    {
+      "name": "ph_pro_schedule",
+      "url": "https://felta.ph/pro/files/2026/FELTA%20SCHEDULE%20OF%20ACTIVITIES%202026_version%208.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 716795,
+      "sha256": "4213643faf2bc5651b16f0e07a887a88d71c2e488cf1f17a2cead050f3fc2364",
+      "resolved": "https://felta.ph/pro/files/2026/FELTA%20SCHEDULE%20OF%20ACTIVITIES%202026_version%208.pdf"
+    },
+    {
+      "name": "vn_robotacon",
+      "url": "https://steamsolutions.com.vn/san-choi/robotacon/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212523,
+      "sha256": "864329246e4db15280d0ba245bedf1e8dde46d7c90f51b43a13d98d432825520",
+      "resolved": "https://steamsolutions.com.vn/san-choi/robotacon/"
+    },
+    {
+      "name": "vn_fll",
+      "url": "https://steamsolutions.com.vn/san-choi/first-lego-league-viet-nam/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 209933,
+      "sha256": "5bdeb492d61714cf73727e99dcbaeede3af21e54903c71173497f65e36d3e2fc",
+      "resolved": "https://steamsolutions.com.vn/san-choi/first-lego-league-viet-nam/"
+    },
+    {
+      "name": "vn_wro_portal",
+      "url": "https://edu.steamsolutions.com.vn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63296,
+      "sha256": "a8f3de4f4b0dcbda4d757d11a8f4521d7486e6a84ddc6f229746d1d2bd6db26b",
+      "resolved": "https://edu.steamsolutions.com.vn/"
+    },
+    {
+      "name": "vn_hec_camp",
+      "url": "https://hanoienglish.com/camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8661,
+      "sha256": "a4d6bf7d6620f172cb5dca7ec63462b8462b05d725419c309d42e937d03577d2",
+      "resolved": "https://hanoienglish.com/camp/"
+    },
+    {
+      "name": "my_itex_banner",
+      "url": "https://itex.com.my/wp-content/uploads/2026/05/Web_banner_Main_Website_Desktop_2561_x_10681-scaled.jpg",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 402284,
+      "sha256": "ed3d19f9b0d6dc3d502fa39ae6d643877b7c53e99dfdabc79b5cf192e8d29a97",
+      "resolved": "https://itex.com.my/wp-content/uploads/2026/05/Web_banner_Main_Website_Desktop_2561_x_10681-scaled.jpg"
+    },
+    {
+      "name": "my_itex_competition",
+      "url": "https://itex.com.my/competition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 113902,
+      "sha256": "53e751b761c6ba1808cd4e6a96132d671f93c6b86d584c6c020125cec6055d3e",
+      "resolved": "https://itex.com.my/competition/"
+    },
+    {
+      "name": "engage_rules",
+      "url": "https://games.recf.org/engage/2.0",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 472441,
+      "sha256": "002ba74d5453e49031f570b85e3a72d367a1640c3e7316483c585bb5f0d23b73",
+      "resolved": "https://games.recf.org/engage/2.0"
+    },
+    {
+      "name": "vn_wro",
+      "url": "https://skhcn.gialai.gov.vn/Home/ChiTietTin/?tin=NjQxNA%3D%3D",
+      "status": "failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "name": "vn_hec",
+      "url": "https://hanoienglish.com/robotics.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14857,
+      "sha256": "48088ea77f72a1cd62478dcaa73617b2e4fa9e2c7122a7f563288833c3bf96c8",
+      "resolved": "https://hanoienglish.com/robotics.html"
+    },
+    {
+      "name": "vn_hanoi_camp",
+      "url": "https://summercamp.hanoiacademy.edu.vn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 246085,
+      "sha256": "f7165d362c12671111dc27fc8b658cd90920bd6534c62d27a18a8daf36bb3134",
+      "resolved": "https://summercamp.hanoiacademy.edu.vn/"
+    },
+    {
+      "name": "id_kn_home",
+      "url": "https://www.kodingnext.com/en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2163461,
+      "sha256": "2c8b8639b21ce11db7242625c4f524f9ca1e6e9491de0c7d5b6d1b53b455662f",
+      "resolved": "https://www.kodingnext.com/en"
+    },
+    {
+      "name": "id_kn_camp",
+      "url": "https://www.kodingnext.com/holiday-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 2198761,
+      "sha256": "8193f64243c103543b87a7a46c637160eebdf43f3b8a3c2dede311b3d5f77d68",
+      "resolved": "https://www.kodingnext.com/holiday-camp"
+    },
+    {
+      "name": "id_kn_ric",
+      "url": "https://www.kodingnext.com/ric2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1850554,
+      "sha256": "e86b977750ce9b24fc100df5d4a53094bda4bcb30ca9dec7d3144719af803425",
+      "resolved": "https://www.kodingnext.com/ric2026"
+    },
+    {
+      "name": "ph_felta",
+      "url": "https://felta.ph/pro/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15998,
+      "sha256": "00103b656bf8d3ef24e82c7db19629cc1e71ef359723d82c7d0cf58e952d01cc",
+      "resolved": "https://felta.ph/pro/"
+    },
+    {
+      "name": "ph_kibo",
+      "url": "https://philsa.gov.ph/news/7th-kibo-robot-programming-challenge/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87515,
+      "sha256": "8cc90a55cfa01e899fdf1eeefc564aafa8fa78e4036ac98e98daf8c0858d40c8",
+      "resolved": "https://philsa.gov.ph/news/7th-kibo-robot-programming-challenge/"
+    },
+    {
+      "name": "my_iyrc",
+      "url": "https://www.myrobotacademy.ai/iyrcasean2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 977554,
+      "sha256": "1a62e7afd00f295a78ebc898fcfe9be6892e4470cda0dae6ea978ac66fb5cc4f",
+      "resolved": "https://www.myrobotacademy.ai/iyrcasean2026"
+    },
+    {
+      "name": "my_drabot",
+      "url": "https://www.drabot.com.my/programs-workshops/drabot-robotics-holiday-camp-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 216878,
+      "sha256": "5319719c743497fab8745971e67f6f1cf687c00a589ca9d2623fa2f2a0a15962",
+      "resolved": "https://www.drabot.com.my/programs-workshops/drabot-robotics-holiday-camp-2026"
+    },
+    {
+      "name": "my_soleh_camp",
+      "url": "https://solehacademy.com/3-days-robotics-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 176868,
+      "sha256": "26c799744965dc60801cbaa0a82c384297f5efc09759b8c96d6d70d9895a1ded",
+      "resolved": "https://solehacademy.com/3-days-robotics-camp"
+    },
+    {
+      "name": "id_iismex",
+      "url": "https://iismex.com/visitor/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97208,
+      "sha256": "2dde1b9ab7bdeff4af9309cc9f3abcdf97a2b5839cba076fc7b2b0580b9d0b15",
+      "resolved": "https://iismex.com/visitor/"
+    },
+    {
+      "name": "id_inatronics",
+      "url": "https://www.inatronics-exhibition.net/event-fact-sheet",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 99509,
+      "sha256": "f215280e42d205a5c7a1376ee224c3de945a614144ddc933f02ff49d645f9d37",
+      "resolved": "https://www.inatronics-exhibition.net/event-fact-sheet"
+    }
+  ],
+  "web_read_primary": [
+    {
+      "url": "https://skhcn.gialai.gov.vn/Home/ChiTietTin/?tin=NjQxNA%3D%3D",
+      "claim": "ROBOTACON22–23Aug2026nationalfinal,foreignguestsandVietnamesequotas"
+    }
+  ]
+}

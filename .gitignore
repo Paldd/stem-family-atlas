@@ -1,0 +1,8 @@
+.DS_Store
+.sites-runtime/
+*.log
+__pycache__/
+.openai/
+.env
+.env.*
+dist/release.json

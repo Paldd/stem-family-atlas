@@ -1,0 +1,374 @@
+{
+  "asof": "2026-10-05",
+  "version": 84,
+  "scope": "31 directHTML/PDF attempts:29successful bodies retained/2HTTP403errors. Two own-reader snapshots retained; one2027Intercultura pricePDF visuallyread.403s not relabelled successful programme reads.",
+  "sources": [
+    {
+      "key": "walt-home",
+      "url": "https://www.campwalt.com/",
+      "final_url": "https://www.campwalt.com/",
+      "status": 200,
+      "bytes": 171963,
+      "sha256": "67acbca65636c2a0de0a1c5fc4896ba683f1930b81824047f63ba31fba64f33b",
+      "body_snapshot_retained": true,
+      "raw_filename": "walt-home.html"
+    },
+    {
+      "key": "walt-preparing",
+      "url": "https://www.campwalt.com/current-families/preparing/",
+      "final_url": "https://www.campwalt.com/current-families/preparing/",
+      "status": 200,
+      "bytes": 153317,
+      "sha256": "c510433500c594e8a928d5cb1e336b41b2187b08772c1f00d833d0ca40d0f291",
+      "body_snapshot_retained": true,
+      "raw_filename": "walt-preparing.html"
+    },
+    {
+      "key": "walden-rates",
+      "url": "https://www.campwalden.ca/rates-and-dates/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "champions-home",
+      "url": "https://campchampions.com/",
+      "final_url": "https://campchampions.com/",
+      "status": 200,
+      "bytes": 250056,
+      "sha256": "039e54a66f6015e21bc53dd8721526188498529eb12d659d893805b30aed4d7b",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-home.html"
+    },
+    {
+      "key": "nominingue-home",
+      "url": "https://nominingue.com/",
+      "final_url": "https://nominingue.com/",
+      "status": 200,
+      "bytes": 62864,
+      "sha256": "69174f1feca56cf7bbfcd8e8d5d1adc9c58dcb1e483576eade17a570d609b256",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-home.html"
+    },
+    {
+      "key": "nominingue-rates",
+      "url": "https://nominingue.com/sessions-rates-dates/",
+      "final_url": "https://nominingue.com/sessions-rates-dates/",
+      "status": 200,
+      "bytes": 112242,
+      "sha256": "03a38ef58c8fa1418f215dc679950fde7c8046a396d8568af7ff2a8a8271e796",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-rates.html"
+    },
+    {
+      "key": "ico-kids",
+      "url": "https://www.icomexico.com/kids-spanish-summer-camp",
+      "final_url": "https://www.icomexico.com/kids-spanish-summer-camp",
+      "status": 200,
+      "bytes": 854249,
+      "sha256": "b58a69af6eff25b4627b267704a7013380a34d022874c32a4da32631c443af8f",
+      "body_snapshot_retained": true,
+      "raw_filename": "ico-kids.html"
+    },
+    {
+      "key": "wildroots",
+      "url": "https://www.wildrootsworldschool.com/camp-info",
+      "final_url": "https://www.wildrootsworldschool.com/camp-info",
+      "status": 200,
+      "bytes": 883682,
+      "sha256": "0e448bcd5b025d127517beb36ed6d3bebed93462ce08a10f1e201ebbd1e06069",
+      "body_snapshot_retained": true,
+      "raw_filename": "wildroots.html"
+    },
+    {
+      "key": "makemake-rates",
+      "url": "https://es.campmakemake.com/general-6",
+      "final_url": "https://es.campmakemake.com/dates-and-rates",
+      "status": 200,
+      "bytes": 911405,
+      "sha256": "a8548e5499db09d1dba149ff1144189786875f66268fd6c2d7fee874f15d28f9",
+      "body_snapshot_retained": true,
+      "raw_filename": "makemake-rates.html"
+    },
+    {
+      "key": "walt-pioneer",
+      "url": "https://www.campwalt.com/pioneer-camp/",
+      "final_url": "https://www.campwalt.com/pioneer-camp/",
+      "status": 200,
+      "bytes": 131046,
+      "sha256": "21ec49bf32510171375a60f72aeb72292c6eaf8756fd8193dc1664a40edc0881",
+      "body_snapshot_retained": true,
+      "raw_filename": "walt-pioneer.html"
+    },
+    {
+      "key": "walt-family",
+      "url": "https://www.campwalt.com/family-camp/",
+      "final_url": "https://www.campwalt.com/family-camp/",
+      "status": 200,
+      "bytes": 132637,
+      "sha256": "84cc2402fd884cb6ceec9f62e584a238a0174b2a1dea3c9158017d65e9633bbf",
+      "body_snapshot_retained": true,
+      "raw_filename": "walt-family.html"
+    },
+    {
+      "key": "walt-faq",
+      "url": "https://www.campwalt.com/about/faqs/",
+      "final_url": "https://www.campwalt.com/about/faqs/",
+      "status": 200,
+      "bytes": 169425,
+      "sha256": "0e3ea48acf858a6bb79634842c3cac7bcd0e7bc4ad74d0ab12a8807affe3db5f",
+      "body_snapshot_retained": true,
+      "raw_filename": "walt-faq.html"
+    },
+    {
+      "key": "champions-rates",
+      "url": "https://campchampions.com/dates-rates",
+      "final_url": "https://campchampions.com/dates-rates",
+      "status": 200,
+      "bytes": 216476,
+      "sha256": "86b5df1bfbdf9fcadb7c5ae087850d6f53afe1d2d62f55ffddb827f6b6d0f5c5",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-rates.html"
+    },
+    {
+      "key": "champions-faq",
+      "url": "https://campchampions.com/prospective-families/first-time-families/your-first-summer/parent-camper-faqs",
+      "final_url": "https://campchampions.com/prospective-families/first-time-families/your-first-summer/parent-camper-faqs",
+      "status": 200,
+      "bytes": 236751,
+      "sha256": "933dce69dd3cd63f5b130d67754cef99d9ba09d9700869467f02878ad5f66600",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-faq.html"
+    },
+    {
+      "key": "champions-international",
+      "url": "https://campchampions.com/prospective-families/what-makes-cc-special/camper-life-and-traditions/international-community",
+      "final_url": "https://campchampions.com/prospective-families/what-makes-cc-special/camper-life-and-traditions/international-community",
+      "status": 200,
+      "bytes": 201959,
+      "sha256": "c062227565e873c5db3cddcb9f264667e019a3a81256ffb011f867dfa252ae65",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-international.html"
+    },
+    {
+      "key": "nominingue-family",
+      "url": "https://nominingue.com/family-camp/",
+      "final_url": "https://nominingue.com/family-camp/",
+      "status": 200,
+      "bytes": 96759,
+      "sha256": "7cca6ff3b4db5f40825f7d9798364a591f7f0bbd2f044143a512cbb55299e961",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-family.html"
+    },
+    {
+      "key": "nominingue-faq",
+      "url": "https://nominingue.com/faq/",
+      "final_url": "https://nominingue.com/faq/",
+      "status": 200,
+      "bytes": 92703,
+      "sha256": "4911987bed7499722c2e43d678e55105c816cd4703272d8e74c2efb26ba588ca",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-faq.html"
+    },
+    {
+      "key": "intercultura-prices",
+      "url": "https://interculturacostarica.com/prices/",
+      "final_url": "https://interculturacostarica.com/prices/",
+      "status": 200,
+      "bytes": 192909,
+      "sha256": "a28276232ac95eb7d833feafe7bbfd5fba0801f711e67b60d0321c322f3f7290",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-prices.html"
+    },
+    {
+      "key": "intercultura-teen",
+      "url": "https://interculturacostarica.com/spanish-summer-camp/",
+      "final_url": "https://interculturacostarica.com/spanish-summer-camp/",
+      "status": 200,
+      "bytes": 456090,
+      "sha256": "a34e18ea351f2ddbcb06f9e94832e9c204da754633e9d9570100e85ff8fa9fbf",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-teen.html"
+    },
+    {
+      "key": "nominingue-calendar",
+      "url": "https://nominingue.com/summer-calendar/",
+      "final_url": "https://nominingue.com/summer-calendar/",
+      "status": 200,
+      "bytes": 58325,
+      "sha256": "87d5b855afd7630717b73de960553b41a00e485347dea29578ec64f2cf12d3e5",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-calendar.html"
+    },
+    {
+      "key": "champions-family",
+      "url": "https://campchampions.com/prospective-families/first-time-families/meet-us-in-person/family-camp",
+      "final_url": "https://campchampions.com/prospective-families/first-time-families/meet-us-in-person/family-camp",
+      "status": 200,
+      "bytes": 204918,
+      "sha256": "7d011d3e05249f5342b787cfecaa29c92ca5fa54b3e14273ef68210b8425c440",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-family.html"
+    },
+    {
+      "key": "intercultura-family",
+      "url": "https://interculturacostarica.com/family-spanish-immersion-program/",
+      "final_url": "https://interculturacostarica.com/family-spanish-immersion-program/",
+      "status": 200,
+      "bytes": 297789,
+      "sha256": "9a94a01f08e06093ee9c688c73061c9c0222675daba5cdecc8f65ae253969613",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-family.html"
+    },
+    {
+      "key": "intercultura-terms",
+      "url": "https://interculturacostarica.com/terms-and-conditions/",
+      "final_url": "https://interculturacostarica.com/terms-and-conditions/",
+      "status": 200,
+      "bytes": 193095,
+      "sha256": "e5be01e7d6180d2e3e5a7035ca02fa0c05f6554a9d5cf39fc629ec1dce3209d2",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-terms.html"
+    },
+    {
+      "key": "intercultura-apartments",
+      "url": "https://interculturacostarica.com/student-apartments/",
+      "final_url": "https://interculturacostarica.com/student-apartments/",
+      "status": 200,
+      "bytes": 213856,
+      "sha256": "f86ce6f59d741b1a45237b75b7fcf6bdff7f6d4f1149a2088e15c693f1edab8c",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-apartments.html"
+    },
+    {
+      "key": "intercultura-2027-pdf",
+      "url": "https://interculturacostarica.com/wp-content/uploads/2026/06/2027-Price-List-Intercultura-Costa-Rica.pdf",
+      "final_url": "https://interculturacostarica.com/wp-content/uploads/2026/06/2027-Price-List-Intercultura-Costa-Rica.pdf",
+      "status": 200,
+      "bytes": 348379,
+      "sha256": "f96a20c02c6c3583e174db4d5b3e9f54d314f8a801503503d5ab0e89692dca32",
+      "body_snapshot_retained": true,
+      "raw_filename": "intercultura-2027-pdf.pdf"
+    },
+    {
+      "key": "ico-calendar",
+      "url": "https://www.icomexico.com/calendar",
+      "final_url": "https://www.icomexico.com/calendar",
+      "status": 200,
+      "bytes": 1469413,
+      "sha256": "85e267e9a9bc44aef9afd3b3f9998e7802dd2e0e304fc24a4315a00a3474af41",
+      "body_snapshot_retained": true,
+      "raw_filename": "ico-calendar.html"
+    },
+    {
+      "key": "timbalaia-home",
+      "url": "https://timbalaia.com.br/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "acampark-holidays",
+      "url": "https://edutretenimento.acampark.com.br/acampamento-de-ferias",
+      "final_url": "https://edutretenimento.acampark.com.br/acampamento-de-ferias",
+      "status": 200,
+      "bytes": 188091,
+      "sha256": "8b8f7e9fc452967f0f04d5d195394f2ccfc2cc8a10455dd20faf5b1c14810130",
+      "body_snapshot_retained": true,
+      "raw_filename": "acampark-holidays.html"
+    },
+    {
+      "key": "nominingue-2026-calendar-pdf",
+      "url": "https://nominingue.com/wp-content/uploads/2026/03/summer-2026.pdf",
+      "final_url": "https://nominingue.com/wp-content/uploads/2026/03/summer-2026.pdf",
+      "status": 200,
+      "bytes": 2006337,
+      "sha256": "79036b75089741744629d5b5638ad53eec304b0f97e3f57527bf00993f6519c8",
+      "body_snapshot_retained": true,
+      "raw_filename": "nominingue-2026-calendar-pdf.pdf"
+    },
+    {
+      "key": "champions-current-families",
+      "url": "https://campchampions.com/current-families",
+      "final_url": "https://campchampions.com/current-families",
+      "status": 200,
+      "bytes": 274594,
+      "sha256": "d8173deba3a72da21d824bc6445a0167813e1e3eb66203984a0a12b7fd7f2372",
+      "body_snapshot_retained": true,
+      "raw_filename": "champions-current-families.html"
+    },
+    {
+      "key": "ico-faq",
+      "url": "https://www.icomexico.com/faq",
+      "final_url": "https://www.icomexico.com/frequently-asked-questions",
+      "status": 200,
+      "bytes": 1170976,
+      "sha256": "290959e71d84b5f13620951289d1f011eb512e2ab9cef7aab36257fc30d58a2f",
+      "body_snapshot_retained": true,
+      "raw_filename": "ico-faq.html"
+    }
+  ],
+  "web_reader_sources": [
+    {
+      "urls": [
+        "https://www.campwalden.ca/rates-and-dates/"
+      ],
+      "method": "Own reader: complete rates/grade/availability/terms. Direct403 retained as error.",
+      "snapshot_sha256": "7d83e897243b0bad69e28c7e537b801e306bab724221689c8c2a710dc5a4ac70",
+      "snapshot_bytes": 15215
+    },
+    {
+      "urls": [
+        "https://timbalaia.com.br/",
+        "https://www.campwalden.ca/rates-and-dates/",
+        "https://www.icomexico.com/faq"
+      ],
+      "method": "Own reader response retained. Timbalaia primary dates/fee/age read; direct403 remains an error. ICO FAQ independently read by retained direct200 redirect body.",
+      "snapshot_sha256": "6ca4c17e18bf631c166f0613a499dc2880fbce11c5ddfaf639ca1274e30ae26b",
+      "snapshot_bytes": 26736
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://interculturacostarica.com/wp-content/uploads/2026/06/2027-Price-List-Intercultura-Costa-Rica.pdf",
+      "page": 1,
+      "method": "Poppler rendered and visually read header, campus columns, kid/adult/teen/lodging/transfer/discount units.",
+      "render_sha256": "2454932fd65b5d8dcf291455a60d69919c63a70faf960028ec30b60f2c9ea8b0",
+      "render_bytes": 414060
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://campchampions.com/current-families",
+    "https://campchampions.com/dates-rates",
+    "https://campchampions.com/prospective-families/first-time-families/meet-us-in-person/family-camp",
+    "https://campchampions.com/prospective-families/first-time-families/your-first-summer/parent-camper-faqs",
+    "https://campchampions.com/prospective-families/what-makes-cc-special/camper-life-and-traditions/international-community",
+    "https://interculturacostarica.com/family-spanish-immersion-program/",
+    "https://interculturacostarica.com/prices/",
+    "https://interculturacostarica.com/spanish-summer-camp/",
+    "https://interculturacostarica.com/student-apartments/",
+    "https://interculturacostarica.com/terms-and-conditions/",
+    "https://interculturacostarica.com/wp-content/uploads/2026/06/2027-Price-List-Intercultura-Costa-Rica.pdf",
+    "https://nominingue.com/family-camp/",
+    "https://nominingue.com/faq/",
+    "https://nominingue.com/sessions-rates-dates/",
+    "https://nominingue.com/summer-calendar/",
+    "https://nominingue.com/wp-content/uploads/2026/03/summer-2026.pdf",
+    "https://www.campwalden.ca/rates-and-dates/",
+    "https://www.campwalt.com/about/faqs/",
+    "https://www.campwalt.com/current-families/preparing/",
+    "https://www.campwalt.com/family-camp/",
+    "https://www.campwalt.com/pioneer-camp/",
+    "https://www.icomexico.com/calendar",
+    "https://www.icomexico.com/frequently-asked-questions",
+    "https://www.icomexico.com/kids-spanish-summer-camp"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "notes": [
+    "RawHTML/PDF/provider photographs/web bodies/rendered source images remain outside public repository; public facts/provenance/errors only.",
+    "Published dates/grades/fees are not admissions, confirmed places, bookings or full family invoices.",
+    "No applications, bookings, payments, organizer messages, subscriptions or new automations.",
+    "Full worldwide authorised scope remains active;0fullyauditedcountries."
+  ]
+}

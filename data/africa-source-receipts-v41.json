@@ -1,0 +1,804 @@
+{
+  "version": 41,
+  "checked": "2026-10-02",
+  "scope": "Africa primary sources",
+  "fetches": [
+    {
+      "name": "ke_comp",
+      "url": "https://www.stemimpactcenterkenya.org/programs/school/competitions",
+      "status": 200,
+      "resolved": "https://www.stemimpactcenterkenya.org/programs/school/competitions",
+      "mime": "text/html",
+      "bytes": 40734,
+      "sha256": "ee46de59d0e3d70296206adac4689ad7006036dc99b199aae31d960716853393"
+    },
+    {
+      "name": "ke_robotech",
+      "url": "https://robotech.co.ke/",
+      "status": 200,
+      "resolved": "https://robotech.co.ke/",
+      "mime": "text/html",
+      "bytes": 987,
+      "sha256": "19eb5bf58aa42e296e3551fbdfb98f03f51a0769ff7304eba617cb5aa8130139"
+    },
+    {
+      "name": "ke_enjoy",
+      "url": "https://www.enjoyai.co.ke/2026-season",
+      "status": 200,
+      "resolved": "https://www.enjoyai.co.ke/2026-season",
+      "mime": "text/html",
+      "bytes": 6155,
+      "sha256": "98f0ac4c6825b21de6f3851afefb2bb4d2eb68df79279f136f22a7d75ff64fe7"
+    },
+    {
+      "name": "ke_stemtrix",
+      "url": "https://stemtrix.co.ke/robotics-tournament/",
+      "status": 200,
+      "resolved": "https://stemtrix.co.ke/robotics-tournament/",
+      "mime": "text/html",
+      "bytes": 4200,
+      "sha256": "a213342724d62d545dde7012fdb8a6d97603c7cbe46ee7d367a4b27e723a36a2"
+    },
+    {
+      "name": "ke_logic",
+      "url": "https://www.logiclabs.co.ke/",
+      "status": 200,
+      "resolved": "https://www.logiclabs.co.ke/",
+      "mime": "text/html",
+      "bytes": 50241,
+      "sha256": "3b4d15ceeeac850cc7f7f0bfd43e8a3f55d00fdb68507c7e51a3dbceec06350b"
+    },
+    {
+      "name": "ke_elimu",
+      "url": "https://elimushop.com/STEMCAMP2026",
+      "status": 200,
+      "resolved": "https://elimushop.com/STEMCAMP2026",
+      "mime": "text/html",
+      "bytes": 1982,
+      "sha256": "7719f0f24bf582419dec51a7084101babc1bd86fb13dc499eb9bf519d49df966"
+    },
+    {
+      "name": "gh_makers",
+      "url": "https://makersplacegh.com/",
+      "status": 200,
+      "resolved": "https://makersplacegh.com/",
+      "mime": "text/html",
+      "bytes": 230429,
+      "sha256": "e68bb9960c753436fbb4ddd6aaf908759ae49bbbadc6b6c2d41a1cbc0fcb4182"
+    },
+    {
+      "name": "gh_enjoy",
+      "url": "https://makersplacegh.com/enjoyai-2026/",
+      "status": 200,
+      "resolved": "https://makersplacegh.com/enjoyai-2026/",
+      "mime": "text/html",
+      "bytes": 144370,
+      "sha256": "82641b53857878b9fa343e79a05fd2279d6f7b4f1a0a2335cef1a8651b75cae4"
+    },
+    {
+      "name": "gh_codeaugs",
+      "url": "https://www.codeaugs.com/summer-camp",
+      "status": 200,
+      "resolved": "https://www.codeaugs.com/summer-camp",
+      "mime": "text/html",
+      "bytes": 21827,
+      "sha256": "8a27bdcbc465f2c4a6751a5a267dbc3ef38fcfcd7166bf0562d8e2eccc9df4b2"
+    },
+    {
+      "name": "gh_coasted_summer",
+      "url": "https://www.coastedcode.com/summer-school",
+      "status": 200,
+      "resolved": "https://www.coastedcode.com/summer-school",
+      "mime": "text/html",
+      "bytes": 100641,
+      "sha256": "a115d7d5a92df0559ed0cc45203f984b84797ad2fde21c0324d9165fef3d2160"
+    },
+    {
+      "name": "gh_coasted_explore",
+      "url": "https://www.coastedcode.com/programs/explorers-coding-robotics",
+      "status": 200,
+      "resolved": "https://www.coastedcode.com/programs/explorers-coding-robotics",
+      "mime": "text/html",
+      "bytes": 97264,
+      "sha256": "4305fe497be737f1a6480e3ee8fc91d4d838673439088b127028196b1de70a8f"
+    },
+    {
+      "name": "gh_gis_camp",
+      "url": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/home",
+      "status": 200,
+      "resolved": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/home",
+      "mime": "text/html",
+      "bytes": 208261,
+      "sha256": "f952216083e3eaa1ab178e515c6a8e8753432a2323e59fc5dc50cc7c2af1d9ef"
+    },
+    {
+      "name": "gh_nyansapo",
+      "url": "https://www.nyansapoinstitute.com/",
+      "status": 200,
+      "resolved": "https://www.nyansapoinstitute.com/",
+      "mime": "text/html",
+      "bytes": 894892,
+      "sha256": "37268e07f1944d6604688f69ac1151dc9994ffba67ab430377dc15cf1fbb25fe"
+    },
+    {
+      "name": "gh_graf",
+      "url": "https://foundation.ghanarobotics.org/",
+      "status": 200,
+      "resolved": "https://foundation.ghanarobotics.org/",
+      "mime": "text/html",
+      "bytes": 170869,
+      "sha256": "de812b4c3f572b609c30fb7c9e4f4c1487172e9222dfa7ca3c72a35cba5608d2"
+    },
+    {
+      "name": "ng_arclights",
+      "url": "https://arclightsfoundationng.com/wro",
+      "status": 200,
+      "resolved": "https://arclightsfoundationng.com/wro/",
+      "mime": "text/html",
+      "bytes": 44048,
+      "sha256": "6f3e6df5ffd5cae2d85669417ed862030cfac4238242a959f761b4f9294c420a"
+    },
+    {
+      "name": "rw_creativity",
+      "url": "https://creativity.rw",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "rw_rules",
+      "url": "https://creativity.rw/assets/doc/general_rules_robotics_challenge.pdf",
+      "status": 200,
+      "resolved": "https://creativity.rw/assets/doc/general_rules_robotics_challenge.pdf",
+      "mime": "application/pdf",
+      "bytes": 270788,
+      "sha256": "8d9641368f579ab7a51590a0b647df2d57224db45e5a4c3a5ae8e370aa407ae6"
+    },
+    {
+      "name": "ng_gov_fll",
+      "url": "https://fmino.gov.ng/fg-deepens-investment-in-robotics-ai-as-nigerias-young-innovators-shine-at-national-robotics-championship/",
+      "status": 200,
+      "resolved": "https://fmino.gov.ng/fg-deepens-investment-in-robotics-ai-as-nigerias-young-innovators-shine-at-national-robotics-championship/",
+      "mime": "text/html",
+      "bytes": 282547,
+      "sha256": "89544e4376c28a4d5e132e389880894bf9523b627e411dcf95a701af252beeb4"
+    },
+    {
+      "name": "gh_gov_robofest",
+      "url": "https://moc.gov.gh/2026/06/10/minister-pledges-support-after-young-robotics-team-wins-international-title/",
+      "status": 200,
+      "resolved": "https://moc.gov.gh/2026/06/10/minister-pledges-support-after-young-robotics-team-wins-international-title/",
+      "mime": "text/html",
+      "bytes": 119875,
+      "sha256": "169f3ce4ff6f61b5c9e680ade9acea27823cca8ab82485179778788da07ffa81"
+    },
+    {
+      "name": "ke_wro_reg",
+      "url": "https://wrokenya.stemimpactcenterkenya.org/register",
+      "status": 200,
+      "resolved": "https://wrokenya.stemimpactcenterkenya.org/register",
+      "mime": "text/html",
+      "bytes": 64318,
+      "sha256": "e1e6220a37adf17af85d1aed00e40b544630722a968c3314ad74671dd102fcea"
+    },
+    {
+      "name": "ke_wro_cat",
+      "url": "https://wrokenya.stemimpactcenterkenya.org/competition",
+      "status": 200,
+      "resolved": "https://wrokenya.stemimpactcenterkenya.org/competition",
+      "mime": "text/html",
+      "bytes": 38903,
+      "sha256": "0eced08e751c864828af2b76fb4c43b6fc1d13c961bcb03af056b6d655661d20"
+    },
+    {
+      "name": "ke_wro_events",
+      "url": "https://wrokenya.stemimpactcenterkenya.org/tournaments",
+      "status": 200,
+      "resolved": "https://wrokenya.stemimpactcenterkenya.org/tournaments",
+      "mime": "text/html",
+      "bytes": 33779,
+      "sha256": "2bb87c545c056c9e8ed6b44e046f673f25b295e0c08638e0c861c0bdd93093b3"
+    },
+    {
+      "name": "ke_wro_faq",
+      "url": "https://wrokenya.stemimpactcenterkenya.org/faq",
+      "status": 200,
+      "resolved": "https://wrokenya.stemimpactcenterkenya.org/faq",
+      "mime": "text/html",
+      "bytes": 9360,
+      "sha256": "f70a70170d02519e4ede7e1a7b4c6ed8529af0c26a042979dedc4c7741efc8a1"
+    },
+    {
+      "name": "ke_wro_results",
+      "url": "https://wrokenya.stemimpactcenterkenya.org/competition/2026/results",
+      "status": 200,
+      "resolved": "https://wrokenya.stemimpactcenterkenya.org/competition/2026/results",
+      "mime": "text/html",
+      "bytes": 78157,
+      "sha256": "a5be77739a48f213b270a69dadc095291d1abb84c1fd4f5297bf68dc2dcb6cb6"
+    },
+    {
+      "name": "ng_starter",
+      "url": "https://arclightsfoundationng.com/wro/robo-starter",
+      "status": 200,
+      "resolved": "https://arclightsfoundationng.com/wro/robo-starter",
+      "mime": "text/html",
+      "bytes": 29145,
+      "sha256": "3ade3f9e3fd0da2d6d4b2b133d9698e286590b37aecde9d5d62b7ebf92208a18"
+    },
+    {
+      "name": "ng_categories",
+      "url": "https://arclightsfoundationng.com/wro/categories",
+      "status": 200,
+      "resolved": "https://arclightsfoundationng.com/wro/categories",
+      "mime": "text/html",
+      "bytes": 24414,
+      "sha256": "da97d6f16be2e55949c39de18809b9cc805786cdcbe8280ce80b02893bdd28f9"
+    },
+    {
+      "name": "ng_season",
+      "url": "https://arclightsfoundationng.com/wro/2026-season",
+      "status": 200,
+      "resolved": "https://arclightsfoundationng.com/wro/2026-season",
+      "mime": "text/html",
+      "bytes": 44998,
+      "sha256": "5d90f41c1e2e6b7be04c69b0ee171dc550f0df65a12e8df3b86955d45da02003"
+    },
+    {
+      "name": "ng_coderina",
+      "url": "https://coderina.org/",
+      "status": 200,
+      "resolved": "https://www.coderina.org/",
+      "mime": "text/html",
+      "bytes": 24739,
+      "sha256": "3634454e6655a3a15d95737f11b41878f7a939c955b6dc71310a050e24a951da"
+    },
+    {
+      "name": "gh_gis_faq",
+      "url": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/faq",
+      "status": 200,
+      "resolved": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/faq",
+      "mime": "text/html",
+      "bytes": 247215,
+      "sha256": "747d7d15a45370c992a96d7dc204ccf04bd0d1ddb0e95903dad5262a17199a0c"
+    },
+    {
+      "name": "gh_gis_little",
+      "url": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/little-explorers-programme",
+      "status": 200,
+      "resolved": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/little-explorers-programme",
+      "mime": "text/html",
+      "bytes": 205020,
+      "sha256": "13b00ee0a482fc2a1410150de28bbe7e9ef332ab7cff2de96245256d0c1e0eed"
+    },
+    {
+      "name": "gh_gis_adventure",
+      "url": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/adventure-enrichment-programme",
+      "status": 200,
+      "resolved": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/adventure-enrichment-programme",
+      "mime": "text/html",
+      "bytes": 248727,
+      "sha256": "c4c440267ec1b5a6d40f472a256a27461fc2aef2e334be732084fdfa23e365ee"
+    },
+    {
+      "name": "gh_gis_schedule",
+      "url": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/scheduletimetable",
+      "status": 200,
+      "resolved": "https://sites.google.com/gis.edu.gh/gis-summer-day-camp-2026/programmesactivities/scheduletimetable",
+      "mime": "text/html",
+      "bytes": 174393,
+      "sha256": "4ae24ef97ddb7dace08240a69d34b9a14d0f04a7e5d56e5520958fdd75a7d70c"
+    },
+    {
+      "name": "gh_code_courses",
+      "url": "https://www.codeaugs.com/courses",
+      "status": 200,
+      "resolved": "https://www.codeaugs.com/courses",
+      "mime": "text/html",
+      "bytes": 25981,
+      "sha256": "e892f0286b300cbcca7fb43d74577a3da88bb6015d543af654705521563ad23f"
+    },
+    {
+      "name": "gh_coast_online",
+      "url": "https://www.coastedcode.com/programs/online-summer-school",
+      "status": 200,
+      "resolved": "https://www.coastedcode.com/programs/online-summer-school",
+      "mime": "text/html",
+      "bytes": 89471,
+      "sha256": "3813734c17682843f0036eff7b9e67c3fab1fd412a72b4c0d8d182cdfdd90b22"
+    },
+    {
+      "name": "gh_maker_regular",
+      "url": "https://makersplacegh.com/our-courses/weekend-and-after-school-robotic-classes/",
+      "status": 200,
+      "resolved": "https://makersplacegh.com/our-courses/weekend-and-after-school-robotic-classes/",
+      "mime": "text/html",
+      "bytes": 81147,
+      "sha256": "b7ae847c8e333a02eed613bdf69e0e9890957e58453df257b92a232307b68fc1"
+    },
+    {
+      "name": "gh_maker_robots",
+      "url": "https://makersplacegh.com/our-courses/robotics/",
+      "status": 200,
+      "resolved": "https://makersplacegh.com/our-courses/robotics/",
+      "mime": "text/html",
+      "bytes": 87519,
+      "sha256": "84915380fad164aa195c7bcc3a9f188e64606733cfb430f93e98982e30409c6f"
+    },
+    {
+      "name": "rw_comp",
+      "url": "https://www.creativity.rw/cmpetitions",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "gh_gis_admissions",
+      "url": "https://gis.edu.gh/admissions/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "ng_coderina_what",
+      "url": "https://www.coderina.org/what",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "ng_drone_visit",
+      "url": "https://www.nisecexpo.com/visit",
+      "status": 200,
+      "resolved": "https://www.nisecexpo.com/visit",
+      "mime": "text/html",
+      "bytes": 208947,
+      "sha256": "948d5896d6e8378732840393cd0dfb69646839b5351444dd1c81037f123f03cc"
+    },
+    {
+      "name": "ng_drone_exhibitors",
+      "url": "https://www.nisecexpo.com/exhibitors",
+      "status": 200,
+      "resolved": "https://www.nisecexpo.com/exhibitors",
+      "mime": "text/html",
+      "bytes": 196420,
+      "sha256": "6bffe03b8e72c0eeda0de99dff8980e1ac542c6d7e59d00579c7096658a9591b"
+    },
+    {
+      "name": "ng_gitex_2027",
+      "url": "https://gitexnigeria.ng/?trk=article-ssr-frontend-pulse_little-text-block",
+      "status": 200,
+      "resolved": "https://gitexnigeria.ng/?trk=article-ssr-frontend-pulse_little-text-block",
+      "mime": "text/html",
+      "bytes": 709871,
+      "sha256": "f48d2348c456699184718d55fc8be613a0250c482c1e87e43aa1314481485ff1"
+    },
+    {
+      "name": "ke_tech_register",
+      "url": "https://www.africatechsummit.com/nairobi/register/",
+      "status": 200,
+      "resolved": "https://www.africatechsummit.com/nairobi/register/",
+      "mime": "text/html",
+      "bytes": 98357,
+      "sha256": "7a15a12ed06ac084810998df3466e03f7d180c32666009985fe2d086dd2c8fdd"
+    },
+    {
+      "name": "robofest_2026_awards",
+      "url": "https://www.robofest.net/images/2526/WC_2026_Sat_AwardList.pdf",
+      "status": 200,
+      "resolved": "https://www.robofest.net/images/2526/WC_2026_Sat_AwardList.pdf",
+      "mime": "application/pdf",
+      "bytes": 313435,
+      "sha256": "f2e7576171445015c8f6d672c25703c329873c7f569e38d109a979f8017ea7a9"
+    },
+    {
+      "name": "robofest_2026_rules",
+      "url": "https://www.robofest.net/images/2526/General2026_V1.pdf",
+      "status": 200,
+      "resolved": "https://www.robofest.net/images/2526/General2026_V1.pdf",
+      "mime": "application/pdf",
+      "bytes": 363537,
+      "sha256": "fb1f0a2e66874baf361b28ce2a2fa5c4746deeab2acce22ff18f67b9f138de4d"
+    },
+    {
+      "name": "robofest_teams26",
+      "url": "https://www.robofest.net/rms/sites/2026/World_Champ_Game/teams",
+      "status": 200,
+      "resolved": "https://www.robofest.net/rms/sites/2026/World_Champ_Game/teams",
+      "mime": "text/html",
+      "bytes": 50610,
+      "sha256": "8cfd2abf6dca936cd9c92dd797cb64ab6def1c162f085a0423684f1ee80e641d"
+    },
+    {
+      "name": "gh_gis_school",
+      "url": "https://gis.edu.gh/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "ng_gitex",
+      "url": "https://gitexnigeria.ng/",
+      "status": 200,
+      "resolved": "https://gitexnigeria.ng/",
+      "mime": "text/html",
+      "bytes": 709818,
+      "sha256": "a267ca6615a750c7249296c7ceb4dc06150a9f5a959c221569b71a440611c09f"
+    },
+    {
+      "name": "ng_drone",
+      "url": "https://www.nisecexpo.com/",
+      "status": 200,
+      "resolved": "https://www.nisecexpo.com/",
+      "mime": "text/html",
+      "bytes": 323229,
+      "sha256": "4bbca821972670a9966cf17e30e1e63e386b16aebbb645558fe71b786654b3e0"
+    },
+    {
+      "name": "gh_maker_good",
+      "url": "https://makersplacegh.com/competitions/robotics-for-good-youth-challenge/",
+      "status": 200,
+      "resolved": "https://makersplacegh.com/competitions/robotics-for-good-youth-challenge/",
+      "mime": "text/html",
+      "bytes": 94890,
+      "sha256": "5328331701d4b49719a27143267de010363ba4f78e0821e101477516516b413a"
+    },
+    {
+      "name": "gh_maker_fll",
+      "url": "https://makersplacegh.com/competitions/first-lego-league/",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "ke_enjoy_home",
+      "url": "https://www.enjoyai.co.ke/",
+      "status": 200,
+      "resolved": "https://www.enjoyai.co.ke/",
+      "mime": "text/html",
+      "bytes": 6155,
+      "sha256": "98f0ac4c6825b21de6f3851afefb2bb4d2eb68df79279f136f22a7d75ff64fe7"
+    },
+    {
+      "name": "ke_techsummit",
+      "url": "https://www.africatechsummit.com/nairobi/",
+      "status": 200,
+      "resolved": "https://www.africatechsummit.com/nairobi/",
+      "mime": "text/html",
+      "bytes": 172158,
+      "sha256": "fc59c275b22c6ac8dd084002ffd6ef0e1dd30517dc8c2900f3695a9900e167bc"
+    },
+    {
+      "name": "gitex_morocco",
+      "url": "https://gitexafrica.com/future-manufacturing-robotics",
+      "status": 200,
+      "resolved": "https://gitexafrica.com/future-manufacturing-robotics",
+      "mime": "text/html",
+      "bytes": 55598,
+      "sha256": "a59e0835d7131c7a077e302f0410674b9c95741e501c8c83b67b49295fe6db2a"
+    },
+    {
+      "name": "gitex_morocco_faq",
+      "url": "https://gitexafrica.com/faqs",
+      "status": 200,
+      "resolved": "https://gitexafrica.com/faqs",
+      "mime": "text/html",
+      "bytes": 66268,
+      "sha256": "0d0b20aaef8681b2a7054f9824f9eb538c7c41d0525bf45f8d94db5ab2d20b5b"
+    },
+    {
+      "name": "kigwa",
+      "url": "https://kigwaridgeschool.com/",
+      "status": 200,
+      "resolved": "https://kigwaridgeschool.com/",
+      "mime": "text/html",
+      "bytes": 118837,
+      "sha256": "f857ce6f493b13143c7c3e7a4dc231a701c3e50ff277b5cddfde065cd28f1e47"
+    },
+    {
+      "name": "kigwa_robotics",
+      "url": "https://kigwaridgeschool.com/club/coding-and-robotics",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "robofest_2027_rules",
+      "url": "https://www.robofest.net/images/2627/General2027.pdf",
+      "status": 200,
+      "resolved": "https://www.robofest.net/images/2627/General2027.pdf",
+      "mime": "application/pdf",
+      "bytes": 663813,
+      "sha256": "d3277253fe36567eb176c73b2205c5f469ac4ef776765e849416bba9e7717d30"
+    },
+    {
+      "name": "ke_growth_dec",
+      "url": "https://www.growthfluential.org/programs/kids-youth-camp-december-2026",
+      "status": 200,
+      "resolved": "https://www.growthfluential.org/programs/kids-youth-camp-december-2026",
+      "mime": "text/html",
+      "bytes": 43316,
+      "sha256": "2338c9d5ab77cd6c27fcf77a639f169da05a15f70d0000b1b420cda153b1f34e"
+    },
+    {
+      "name": "ke_growth_programs",
+      "url": "https://www.growthfluential.org/programs",
+      "status": 200,
+      "resolved": "https://www.growthfluential.org/programs",
+      "mime": "text/html",
+      "bytes": 45919,
+      "sha256": "ab99ba394b776e4735f9bed708626e1ac3c3abbf45b8620194f6ba0c261ae1b5"
+    },
+    {
+      "name": "ke_kyrios",
+      "url": "https://www.kyrioslearn.com/robocon",
+      "status": 200,
+      "resolved": "https://www.kyrioslearn.com/robocon",
+      "mime": "text/html",
+      "bytes": 148595,
+      "sha256": "95bc19e14ea5c7ca2459003d16d40d2938bdabc037dd4e3b92e09eefdf1a6c8e"
+    },
+    {
+      "name": "ke_kyrios_rules",
+      "url": "https://www.kyrioslearn.com/robocon/policies",
+      "status": 200,
+      "resolved": "https://www.kyrioslearn.com/robocon/policies",
+      "mime": "text/html",
+      "bytes": 80190,
+      "sha256": "d8fa4ff9e0cfe57f9426e93762b35d8eba0e87e48ca658d8b2c89d2ad50a8639"
+    },
+    {
+      "name": "ng_robotchallenge",
+      "url": "https://www.robotchallenge.ng/",
+      "status": 200,
+      "resolved": "https://www.robotchallenge.ng/",
+      "mime": "text/html",
+      "bytes": 81155,
+      "sha256": "f198844844a7980bb6721f1108880a37d4c5cabe961080cf7cf20d40f67c5170"
+    },
+    {
+      "name": "ng_robotchallenge_reg",
+      "url": "https://www.robotchallenge.ng/nationalcahllengeregistration/",
+      "status": 200,
+      "resolved": "https://www.robotchallenge.ng/nationalcahllengeregistration/",
+      "mime": "text/html",
+      "bytes": 48955,
+      "sha256": "e2bb1b6ea1c9d3adb75b805a8890a048c3574c7dcdc7bcfdbd9b8c9f708a4d42"
+    },
+    {
+      "name": "ng_robotchallenge_faq",
+      "url": "https://www.robotchallenge.ng/faq/",
+      "status": 200,
+      "resolved": "https://www.robotchallenge.ng/faq/",
+      "mime": "text/html",
+      "bytes": 38036,
+      "sha256": "27792b861390c70f30d2a6313fa6a0520acb46067d49cf6619ca2d3c574c9fdd"
+    },
+    {
+      "name": "za_sheen",
+      "url": "https://www.sheen.bot/academy",
+      "status": 200,
+      "resolved": "https://www.sheen.bot/academy",
+      "mime": "text/html",
+      "bytes": 282028,
+      "sha256": "646cff1aa908f8d2a1708d207c005e0a7269c86a3690b6674277951e760ec68b"
+    },
+    {
+      "name": "za_sheen_camps",
+      "url": "https://www.sheen.bot/academy/workshops/WSH8",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "za_stemlab",
+      "url": "https://stemlab.co.za/holiday-camp/",
+      "status": 200,
+      "resolved": "https://stemlab.co.za/holiday-camp/",
+      "mime": "text/html",
+      "bytes": 639214,
+      "sha256": "754f328ce6d125e087272f1a8dab5f9193738f52355cb495e438729090371989"
+    },
+    {
+      "name": "rw_intermediate",
+      "url": "https://creativity.rw/leveltwo",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "rw_junior",
+      "url": "https://creativity.rw/levelone",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "rw_challenge",
+      "url": "https://creativity.rw/cmpetitions",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "rw_bootcamp",
+      "url": "https://creativity.rw/afterschool",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "ke_kigwa_admission",
+      "url": "https://kigwaridgeschool.com/admissions",
+      "status": 200,
+      "resolved": "https://kigwaridgeschool.com/admissions",
+      "mime": "text/html",
+      "bytes": 86740,
+      "sha256": "e1fd9378f1f8bf70558faf14d89be44ef6b40c9fbd7dafc12ba37e9ac57b99a4"
+    },
+    {
+      "name": "ke_kigwa_fees",
+      "url": "https://kigwaridgeschool.com/admissions/fees",
+      "status": 200,
+      "resolved": "https://kigwaridgeschool.com/admissions/fees",
+      "mime": "text/html",
+      "bytes": 71140,
+      "sha256": "ac31afec709c7269a285614ba530b33afb036f40559f11fc154f0cacc666c879"
+    },
+    {
+      "name": "ke_kigwa_ks1",
+      "url": "https://kigwaridgeschool.com/learning/key-stage-1",
+      "status": 200,
+      "resolved": "https://kigwaridgeschool.com/learning/key-stage-1",
+      "mime": "text/html",
+      "bytes": 85171,
+      "sha256": "9114c783c7db8c8af6216d3e213310a685affb32d0c4f17e8acece758ea822ed"
+    },
+    {
+      "name": "ke_kigwa_ks2",
+      "url": "https://kigwaridgeschool.com/learning/key-stage-2",
+      "status": 200,
+      "resolved": "https://kigwaridgeschool.com/learning/key-stage-2",
+      "mime": "text/html",
+      "bytes": 85553,
+      "sha256": "5545cbc29cc5ff761e75ac24ed2f458f46929bc281255a1a1d5454cb6a657bb2"
+    },
+    {
+      "name": "ke_results_school",
+      "url": "https://www.linkedin.com/posts/stem-impact-center-kenya_wrokenya2026-robotsmeetculture-stemkenya-activity-7478311665424592896-Y8j8",
+      "status": 200,
+      "resolved": "https://www.linkedin.com/posts/stem-impact-center-kenya_wrokenya2026-robotsmeetculture-stemkenya-activity-7478311665424592896-Y8j8",
+      "mime": "text/html",
+      "bytes": 106193,
+      "sha256": "3602957d7145fed6c8c335434f756ef03913e61ed998a1f284432bd568bfd3b4"
+    },
+    {
+      "name": "gh_gis_about",
+      "url": "https://gis.edu.gh/about-ghana-international-school/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "gh_gis_infant",
+      "url": "https://gis.edu.gh/infant-school/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "gh_gis_junior",
+      "url": "https://gis.edu.gh/junior-school/",
+      "status": "failed",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "name": "ng_drone_admission",
+      "url": "https://www.nisecexpo.com/about",
+      "status": 200,
+      "resolved": "https://www.nisecexpo.com/about",
+      "mime": "text/html",
+      "bytes": 165189,
+      "sha256": "4548340953effbbb8c9e86d983a5851f0f96d3481cf916441fbbe349afbaea43"
+    },
+    {
+      "name": "ng_rccode",
+      "url": "https://www.robotchallenge.ng/rccoderegistration/",
+      "status": 200,
+      "resolved": "https://www.robotchallenge.ng/rccoderegistration/",
+      "mime": "text/html",
+      "bytes": 30834,
+      "sha256": "5de71440ef741ac8806c859a44f38683ead04b5c165c0da11c0a4e0f738a90d1"
+    },
+    {
+      "name": "za_workshops",
+      "url": "https://www.sheen.bot/academy/workshops",
+      "status": 200,
+      "resolved": "https://www.sheen.bot/academy/workshops",
+      "mime": "text/html",
+      "bytes": 101001,
+      "sha256": "14ec6ce7b45387e8b2496e90bd4f7303755bb8682dbd2f510942ba31fc54fc8b"
+    },
+    {
+      "name": "ke_growth_nov",
+      "url": "https://www.growthfluential.org/programs/kids-youth-camp-november-2026",
+      "status": 200,
+      "resolved": "https://www.growthfluential.org/programs/kids-youth-camp-november-2026",
+      "mime": "text/html",
+      "bytes": 46716,
+      "sha256": "028a7f7f4d0c01bd6166bc137aab0e2446b75e5162f54f99419ee1a931e0ff15"
+    }
+  ],
+  "used_names": [
+    "gh_coast_online",
+    "gh_coasted_explore",
+    "gh_code_courses",
+    "gh_codeaugs",
+    "gh_enjoy",
+    "gh_gis_about",
+    "gh_gis_adventure",
+    "gh_gis_faq",
+    "gh_gis_infant",
+    "gh_gis_junior",
+    "gh_gis_little",
+    "gh_graf",
+    "gitex_morocco",
+    "ke_comp",
+    "ke_growth_dec",
+    "ke_growth_nov",
+    "ke_growth_programs",
+    "ke_kigwa_ks1",
+    "ke_kigwa_ks2",
+    "ke_logic",
+    "ke_results_school",
+    "ke_tech_register",
+    "ke_techsummit",
+    "ke_wro_cat",
+    "ke_wro_reg",
+    "ke_wro_results",
+    "kigwa",
+    "ng_categories",
+    "ng_drone",
+    "ng_drone_admission",
+    "ng_drone_exhibitors",
+    "ng_gitex",
+    "ng_rccode",
+    "ng_robotchallenge_faq",
+    "ng_robotchallenge_reg",
+    "ng_season",
+    "ng_starter",
+    "robofest_2026_awards",
+    "robofest_2027_rules",
+    "rw_bootcamp",
+    "rw_challenge",
+    "rw_intermediate",
+    "rw_junior",
+    "rw_rules",
+    "za_sheen",
+    "za_workshops"
+  ],
+  "alternate_web_opened": [
+    {
+      "name": "rw_intermediate",
+      "url": "https://creativity.rw/leveltwo",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "rw_junior",
+      "url": "https://creativity.rw/levelone",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "rw_challenge",
+      "url": "https://creativity.rw/cmpetitions",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "rw_bootcamp",
+      "url": "https://creativity.rw/afterschool",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "gh_gis_about",
+      "url": "https://gis.edu.gh/about-ghana-international-school/",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "gh_gis_infant",
+      "url": "https://gis.edu.gh/infant-school/",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    },
+    {
+      "name": "gh_gis_junior",
+      "url": "https://gis.edu.gh/junior-school/",
+      "read_via": "web.run open / click; direct HTTP406 retained"
+    }
+  ],
+  "remaining": "Actualforeignadmission, campinstruction/cohorts, restofAfrica andworldremainincomplete."
+}

@@ -1,0 +1,364 @@
+{
+  "version": 50,
+  "checked": "2026-10-02",
+  "sources": [
+    {
+      "name": "mx_fll",
+      "url": "https://www.firstlegoleagues.mx/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleagues.mx/",
+      "mime": "text/html",
+      "bytes": 52699,
+      "sha256": "17b5de2b22604399faa3ed077d071414f8cc7e6f5ce1d0727dbd5150a5b1d34b",
+      "primary_body_read": false
+    },
+    {
+      "name": "mx_fll_faq",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "resolved": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "mime": "text/html",
+      "bytes": 70283,
+      "sha256": "172b2961bdb98267b92d954c23051488e6cc095f366f578729c91d3cc0f44764",
+      "primary_body_read": true
+    },
+    {
+      "name": "cr_fll",
+      "url": "https://www.firstlegoleaguecr.com/",
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>",
+      "primary_body_read": false
+    },
+    {
+      "name": "tecpro",
+      "url": "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "status": 200,
+      "resolved": "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "mime": "text/html",
+      "bytes": 118600,
+      "sha256": "560c8e7a754faeff5e402b120972725d78750d4222dca0430872c8dfe1c8c4af",
+      "primary_body_read": false
+    },
+    {
+      "name": "luva",
+      "url": "https://www.torneoluva.com/",
+      "status": 200,
+      "resolved": "https://www.torneoluva.com/",
+      "mime": "text/html",
+      "bytes": 1692,
+      "sha256": "ad1e555945e376a76df4d0ef243d4c7422a72e4134b207105f1a924ea4604fe3",
+      "primary_body_read": false,
+      "limitation": "HTTP shell alone does not establish current programme content."
+    },
+    {
+      "name": "lati_home",
+      "url": "https://laliga.lati.mx/",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/",
+      "mime": "text/html",
+      "bytes": 128856,
+      "sha256": "9aa5b943f802937eddf76b600b858995baab5efd7352354b9050a7d6e5d9f98b",
+      "primary_body_read": true
+    },
+    {
+      "name": "lati_categories",
+      "url": "https://laliga.lati.mx/categorias/",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/categorias/",
+      "mime": "text/html",
+      "bytes": 110344,
+      "sha256": "2c22581af50c71c1e0c7271eda41e67fa6d1a64abcc4ba077644ef90eed505e7",
+      "primary_body_read": true
+    },
+    {
+      "name": "fmr_events",
+      "url": "https://femexrobotica.org/fmr/eventos/",
+      "status": 200,
+      "resolved": "https://femexrobotica.org/fmr/eventos/",
+      "mime": "text/html",
+      "bytes": 76852,
+      "sha256": "d8ae98117bccb3a75328745428ccecdbb7a89a5370b8e27900194cf615db864e",
+      "primary_body_read": true
+    },
+    {
+      "name": "roborave_events",
+      "url": "https://www.roboraveinternational.org/eventos",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "primary_body_read": false
+    },
+    {
+      "name": "roborave_pv",
+      "url": "https://www.roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "status": 200,
+      "resolved": "https://www.roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "mime": "text/html",
+      "bytes": 66343,
+      "sha256": "4f12bf43e563f89266d854e35b6102ab7daccaff89e5c052209eb5bf6cc48cfb",
+      "primary_body_read": false
+    },
+    {
+      "name": "roborave_gto",
+      "url": "https://www.roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+      "status": "failed",
+      "error": "The read operation timed out",
+      "primary_body_read": false
+    },
+    {
+      "name": "maker_activities",
+      "url": "https://feriamaker.mx/actividades.html",
+      "status": 200,
+      "resolved": "https://feriamaker.mx/actividades",
+      "mime": "text/html",
+      "bytes": 11549,
+      "sha256": "8f7fbf47fd4f634f037b38ff61fdb485e0d9dfad7e68d529a81877ce4a11e8c8",
+      "primary_body_read": false
+    },
+    {
+      "name": "maker_home",
+      "url": "https://feriamaker.mx/",
+      "status": 200,
+      "resolved": "https://feriamaker.mx/",
+      "mime": "text/html",
+      "bytes": 32892,
+      "sha256": "8324852f4dc4fa168289dd371b1d36a0ebd6086bcd265b854486a918276e599c",
+      "primary_body_read": false
+    },
+    {
+      "name": "cenfo_makers",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "status": 200,
+      "resolved": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "mime": "text/html",
+      "bytes": 281492,
+      "sha256": "4fd03f33348063e9b16b130bcfbabe8d4e4cbbcf6ce235aee4a2b3dbc4bb033a",
+      "primary_body_read": true
+    },
+    {
+      "name": "mountview",
+      "url": "https://www.mountviewcr.com/cs-camp/",
+      "status": 200,
+      "resolved": "https://www.mountviewcr.com/cs-camp/",
+      "mime": "text/html",
+      "bytes": 68268,
+      "sha256": "40ff1418e1770bb0be10dfd347d4614f3a9fd79c26270db78a87a5bcaa1391ab",
+      "primary_body_read": true
+    },
+    {
+      "name": "ciberbots",
+      "url": "https://www.ciberbots.com.mx/services",
+      "status": 200,
+      "resolved": "https://www.ciberbots.com.mx/services",
+      "mime": "text/html",
+      "bytes": 175563,
+      "sha256": "95df7802ade02172d1f4dede4538793a97a8a3e9b3f47be3920095f5a84f0c31",
+      "primary_body_read": true
+    },
+    {
+      "name": "liota",
+      "url": "https://liotacamps.com/",
+      "status": 200,
+      "resolved": "https://liotacamps.com/",
+      "mime": "text/html",
+      "bytes": 368878,
+      "sha256": "c34e2049b8ed4f98f93cfab886b34ba9839a5cdbcbbddbce199ab1a2e0a276e3",
+      "primary_body_read": false,
+      "limitation": "HTTP shell alone does not establish current programme content."
+    },
+    {
+      "name": "robotecnia",
+      "url": "https://www.robotecnia.mx/services-1-1",
+      "status": 200,
+      "resolved": "https://www.robotecnia.mx/services-1-1",
+      "mime": "text/html",
+      "bytes": 1365410,
+      "sha256": "0edc8066da9dee4541cc0ec38b4abc9f39749769843befa514953a323d0f35ec",
+      "primary_body_read": false
+    },
+    {
+      "name": "robotifest",
+      "url": "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "status": 200,
+      "resolved": "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "mime": "text/html",
+      "bytes": 101255,
+      "sha256": "43883e151bf40c0a2cf107d4d0c8d9f7dcc5ed65167885d6a2fec91160df2744",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_mx",
+      "url": "https://wromexico.org/",
+      "status": 200,
+      "resolved": "https://wromexico.org/",
+      "mime": "text/html",
+      "bytes": 38542,
+      "sha256": "45a17b1bf79dc1586e6ed3984ff9c28b587da0d5646d027304b17f5e9c70a2e8",
+      "primary_body_read": true
+    },
+    {
+      "name": "lati_call",
+      "url": "https://laliga.lati.mx/convocatoria/",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/convocatoria/",
+      "mime": "text/html",
+      "bytes": 87078,
+      "sha256": "657631cf4f35cd432443585b3f5de3459f85552f26fec18bf28b3cb75878555f",
+      "primary_body_read": true
+    },
+    {
+      "name": "lati_pdf",
+      "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "mime": "application/pdf",
+      "bytes": 435186,
+      "sha256": "d35bc79aacc2b335fb0539f4cee4e11ad18626f64605f110188ec9f79de5ccc6",
+      "primary_body_read": true
+    },
+    {
+      "name": "lati_sumopdf",
+      "url": "https://laliga.lati.mx/wp-content/uploads/2025/05/Reglas_SumoLego_LTRC.pdf",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/wp-content/uploads/2025/05/Reglas_SumoLego_LTRC.pdf",
+      "mime": "application/pdf",
+      "bytes": 334754,
+      "sha256": "26606db2c86b6324bbee54081bf575e97bdfe3c0e01480ef35dcefc663423f3e",
+      "primary_body_read": true
+    },
+    {
+      "name": "lati_sumo",
+      "url": "https://laliga.lati.mx/reglas-sumo-lego/",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/reglas-sumo-lego/",
+      "mime": "text/html",
+      "bytes": 86241,
+      "sha256": "d6a0925c37c8ba0f170e81398e6c29ad8d085cc781a040703c0b7c9149fbd86a",
+      "primary_body_read": false
+    },
+    {
+      "name": "lati_dates_old",
+      "url": "https://laliga.lati.mx/fechas-y-sedes/",
+      "status": 200,
+      "resolved": "https://laliga.lati.mx/fechas-y-sedes/",
+      "mime": "text/html",
+      "bytes": 83736,
+      "sha256": "0a6d76edca5bee2caf518dc87e795a5b702b9dd9649b1de3c0d68375d79fd673",
+      "primary_body_read": false
+    },
+    {
+      "name": "maker_activities_current",
+      "url": "https://www.feriamaker.mx/actividades",
+      "status": 200,
+      "resolved": "https://www.feriamaker.mx/actividades",
+      "mime": "text/html",
+      "bytes": 11549,
+      "sha256": "8f7fbf47fd4f634f037b38ff61fdb485e0d9dfad7e68d529a81877ce4a11e8c8",
+      "primary_body_read": true
+    },
+    {
+      "name": "maker_ajolote",
+      "url": "https://www.feriamaker.mx/3d",
+      "status": 200,
+      "resolved": "https://www.feriamaker.mx/3d",
+      "mime": "text/html",
+      "bytes": 13167,
+      "sha256": "6f5e230af9b742b817d9fff57a1e60e9df683414aef9921adb5fcfdec98f74a0",
+      "primary_body_read": true
+    },
+    {
+      "name": "maker_workshops",
+      "url": "https://www.feriamaker.mx/talleres",
+      "status": 200,
+      "resolved": "https://www.feriamaker.mx/talleres",
+      "mime": "text/html",
+      "bytes": 24716,
+      "sha256": "bf5df7dd32db5cdd641e25f256e05a8ac39d31104d543dba03860535ddecc93c",
+      "primary_body_read": false
+    },
+    {
+      "name": "mexcir",
+      "url": "https://femexrobotica.org/mexcir2027/",
+      "status": 200,
+      "resolved": "https://femexrobotica.org/mexcir2027/",
+      "mime": "text/html",
+      "bytes": 86144,
+      "sha256": "57263e7ddd83b3f650eed2f0a2d8e15660380463decb198270533dd4f1fa4a77",
+      "primary_body_read": true
+    },
+    {
+      "name": "robotifest_main",
+      "url": "https://robotifest.com/",
+      "status": 200,
+      "resolved": "https://robotifest.com/",
+      "mime": "text/html",
+      "bytes": 241153,
+      "sha256": "6cec38516dd7993e43114cc41d74b3384d57b329042e38c1635703ad65000821",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_categories",
+      "url": "https://wromexico.org/categorias/",
+      "status": 200,
+      "resolved": "https://wromexico.org/categorias/",
+      "mime": "text/html",
+      "bytes": 51534,
+      "sha256": "831f01e64d9cfd01732a4dba239c07e029c8de656dac8e8fbac0ca5ba12dd7bf",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_schedule",
+      "url": "https://wromexico.org/cronograma/",
+      "status": 200,
+      "resolved": "https://wromexico.org/cronograma/",
+      "mime": "text/html",
+      "bytes": 23345,
+      "sha256": "fc6139842cf5d86b844c74f0b8c32092fd99cb182e83cde2fcff88a5fd66e58f",
+      "primary_body_read": true
+    },
+    {
+      "name": "robotifest_form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe3mSSLduPrKspGFJr5N0_WLfwAgzLMCHyMdewG20bGUSwdJA/viewform",
+      "status": 200,
+      "resolved": "https://docs.google.com/forms/d/e/1FAIpQLSe3mSSLduPrKspGFJr5N0_WLfwAgzLMCHyMdewG20bGUSwdJA/viewform",
+      "mime": "text/html",
+      "bytes": 112677,
+      "sha256": "364cd7ed0ec49c33d6c77b9341188f8fc3e30a2a848f415acccf17dc82193973",
+      "primary_body_read": true
+    }
+  ],
+  "visually_inspected_pdf_pages": {
+    "lati_pdf": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "lati_sumopdf": [
+      2,
+      3
+    ]
+  },
+  "issues": [
+    {
+      "name": "LATI: новая convocatoria / старый Sumo PDF",
+      "status": "Общая convocatoria от 01.09.2026: 15 см / 1 кг; связанный технический PDF от 19.05.2025: 20 см / 2 кг. Действующие пределы homologación требуется письменно уточнить: старую техническую таблицу нельзя считать правилом 2026.",
+      "official_alternative": "https://laliga.lati.mx/convocatoria/"
+    },
+    {
+      "name": "LATI: segunda jornada / regional RoboMatrix",
+      "status": "Первый день 9 октября подтверждён; второй день не установлен. Homepage / convocatoria называют следующий регион по-разному; географию подтвердить.",
+      "official_alternative": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf"
+    },
+    {
+      "name": "FIRST LEGO League Costa Rica: свежая страница недоступна",
+      "status": "Новый запрос остановился на истёкшем SSL-сертификате. Прежние сведения не выданы за свежие подтверждённые правила.",
+      "official_alternative": "https://www.firstlegoleaguecr.com/"
+    },
+    {
+      "name": "MEXCIR2027: четыре даты / три программных дня",
+      "status": "Header11–14 мая, body three-day; программа ещё содержит placeholders. Даты обозначены окном, не четырьмя установленными сессиями.",
+      "official_alternative": "https://femexrobotica.org/mexcir2027/"
+    }
+  ]
+}

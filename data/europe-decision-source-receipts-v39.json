@@ -1,0 +1,105 @@
+{
+  "checked": "2026-10-02",
+  "method": "Primary HTML read; raw sources outside repo. Inference and arithmetic labelled, no registration.",
+  "sources": [
+    {
+      "name": "l168",
+      "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+      "status": 200,
+      "resolved": "https://summer.brillantmont.ch/mornings/tech-academy",
+      "mime": "text/html",
+      "bytes": 10809,
+      "sha256": "f6a6c8fb42db2e1eb4f9dcbd223717d12a3829b268e43c95ec89d605133cd325"
+    },
+    {
+      "name": "brillantmont_fees",
+      "url": "https://summer.brillantmont.ch/apply-fees",
+      "status": 200,
+      "resolved": "https://summer.brillantmont.ch/apply-fees",
+      "mime": "text/html",
+      "bytes": 13544,
+      "sha256": "59b65d8bdd3da18f9c5928ecce2efea87b69334f9ca9914d378a74c56d066c2e"
+    },
+    {
+      "name": "l230",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "status": 200,
+      "resolved": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "mime": "text/html",
+      "bytes": 122975,
+      "sha256": "4104eadb0444b72936f942ae143030a6e4edf31254059f094d7ba5414c08a280"
+    },
+    {
+      "name": "l331",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Z%C3%BCrich%20%7C%20TechLabs/Course.ed.c5716b639b27_7651831831.ZH%20%20Sat%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%209-14%20years?edref=techlabs",
+      "status": 200,
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Z%C3%BCrich%20%7C%20TechLabs/Course.ed.c5716b639b27_7651831831.ZH%20%20Sat%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%209-14%20years?edref=techlabs",
+      "mime": "text/html",
+      "bytes": 26202,
+      "sha256": "8964c4c72a86b7126d7bc0929ee9932131cf1ac03de28f2efbf997c79f9ea1cb"
+    },
+    {
+      "name": "spain",
+      "url": "https://www.wroboto.es/competicion/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/competicion/",
+      "mime": "text/html",
+      "bytes": 144378,
+      "sha256": "ce0b4d18f9209c327b50d8bcd1f91c59be7d0935820c9fb4ed502912452c4feb"
+    },
+    {
+      "name": "spain_faq",
+      "url": "https://www.wroboto.es/faqs/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/faqs/",
+      "mime": "text/html",
+      "bytes": 115000,
+      "sha256": "4ce34b700976bb4b014ae1d7fb7a720ec2738e18e9619b90b684fa4d6519f7ac"
+    },
+    {
+      "name": "swiss",
+      "url": "https://wro.swiss/teilnahmebedingungen/",
+      "status": 200,
+      "resolved": "https://wro.swiss/teilnahmebedingungen/",
+      "mime": "text/html",
+      "bytes": 131503,
+      "sha256": "8bb4b355145682e8af18f76722af8d93ad1e6a4487d0c494ed7170fec473223e"
+    },
+    {
+      "name": "starter",
+      "url": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "status": 200,
+      "resolved": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "mime": "text/html",
+      "bytes": 134709,
+      "sha256": "8f8dc794cb6aaa791d7493dc9dec570600124d7b1174086237a248d981e2f7cc"
+    },
+    {
+      "name": "france",
+      "url": "https://www.coupederobotique.fr/participer-a-la-coupe-junior/",
+      "status": 200,
+      "resolved": "https://www.coupederobotique.fr/participer-a-la-coupe-junior/",
+      "mime": "text/html",
+      "bytes": 125288,
+      "sha256": "51667965b0296321fb1bfc45883315efef4b6eef955330a471d86764e0d3c881"
+    },
+    {
+      "name": "grenoble",
+      "url": "https://www.planete-sciences.org/aura/animations/individuel/a-grenoble/stages/",
+      "status": 200,
+      "resolved": "https://www.planete-sciences.org/aura/animations/individuel/a-grenoble/stages/",
+      "mime": "text/html",
+      "bytes": 100847,
+      "sha256": "6d198c3741c7bad1586ac975c2413137c8e89fd4582a34afba5a54971441007c"
+    },
+    {
+      "name": "vendee",
+      "url": "https://www.planete-sciences.org/vendee/clubs/",
+      "status": 200,
+      "resolved": "https://www.planete-sciences.org/vendee/clubs/",
+      "mime": "text/html",
+      "bytes": 69447,
+      "sha256": "ba91c14e245655553d62f09829a93a02b053c7d6971de3e924aad97548fe7efc"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "asof": "2026-10-05",
+  "version": 93,
+  "status": "progress",
+  "scope": "DeeperCostaRica/Mexico/USA/Canada programmes2026–27 and boundedBrazil/Argentina evidence gaps; priorEurope/Asia/worldwideworkpreserved, notglobalcompletion.",
+  "new_dossiers": 10,
+  "new_operator_groups": 3,
+  "existing_operator_new_tracks": 1,
+  "new_calendar_rows": 24,
+  "new_family_ics": 35,
+  "new_registration_deadline_ics": 11,
+  "updated_dossiers": [
+    "ciberbots"
+  ],
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 621,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 965,
+  "country_dossier_counts": {
+    "CHE": 85,
+    "FRA": 49,
+    "ESP": 52,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 35,
+    "SGP": 73,
+    "JPN": 42,
+    "KOR": 13,
+    "MYS": 4,
+    "PHL": 3,
+    "AUS": 2,
+    "USA": 76,
+    "CAN": 68,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "tamarindo-elementary",
+    "coyote-short",
+    "coyote-junior",
+    "coyote-pro",
+    "cube-winter-makers",
+    "icc-young-drone",
+    "icc-young-engineering",
+    "icc-young-vex",
+    "icc-young-ai",
+    "icc-young-raspberry"
+  ],
+  "findings": [
+    {
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "provider": "v93 · Tamarindo: разные годы договора; Harmony и Oaktree",
+      "detail": "Tamarindo текущие 2027 weeks подтверждены видимой страницей, hidden2026 weeks не использованы; terms прямо заканчиваются сезоном 2026. Lodging $155/170/205,6 nightminimum отдельно, без доказанного all-inquote. Harmonydirect403/cached2025, но реально отображённая собственная страница даёт July5–16,2027 без цены/возраста/формата/языка: не допущен как проверенный дневной/пансион. Oaktree PDFCalendar2026 визуально: Christmas7–11/14–18 Dec2026, Summerstart4 Jan2027;1 Febschoolstart не campend. Services прес chool, campage/внешний приём/EN/цена не подтверждены, новое досье не создано.",
+      "next_action": "Текущие campcontracts/язык/места/actualage и семейная смета; не подставлять regularschoolage/hours или архив 2025 fees. Другие CRoperators/2027 продолжают проверяться.",
+      "url": "https://learnspanishsummercamp.com/kids-summer-camp-ws"
+    },
+    {
+      "country": "Мексика",
+      "iso": "MEX",
+      "provider": "v93 · Coyote динамические данные / Ciberbots будущие сезоны",
+      "detail": "Coyote initial HTML7100/5300/Easter TBD против render8500/6500/29 Mar–3 Apr2027; у Pascua осталось REF2026/waitlist. Summerexactdaysunknown.3 новых досье одного оператора, не 3 компании. Short4000/3300, winterearly2805 until20 Nov не registrationdeadline.2 siblings7200/5940, скидки не складываются; cancel30%retained/excessvoucher6 mo. Room4–6 versus3–4 и packingconflict сохранены. Ciberbots Christmas Dec2026/Summer/Easter2027 объявлены без дней/цен/holidayage; regularcoursesage не campintake, FIT обоих unknown.",
+      "next_action": "Точные DOB/ENor ESteaching/места/currentseasoncontract исемейный all-inquote; другие Mexicooperators не завершены.",
+      "url": "https://www.campcoyote.mx/"
+    },
+    {
+      "country": "США / Канада",
+      "iso": "USA",
+      "provider": "v93 · ICC curriculum конфликт и Cube gradegate",
+      "detail": "ICC11 летних карточек 2027 прочитаны:5 тем oneoperator,5–14,429/419,70 lunch+60 AM+99 PM. Ownheadingtech против Bollydancebody/category; technicalsyllabus невыдуман. English/Spanishportal не EN/ESteaching. Emptyrefund/FAQ не no-refundpromise. Deadline10 AMfirstday против 09:30 campstart. Cube Winter21–23 Dec2026,255/275+112.50+HST; separate42 meal не доплата к 275 package. Grade2 asof Sep2026, March2026 exception не Wintergate. Beginners может быть недостаточно трёхлетнему competitionexperience.",
+      "next_action": "Точный syllabus/язык/fullinvoice/actualgrade, потом оценка пользы и места; ICC пока не familytoptechnicalshortlist.",
+      "url": "https://www.ultracamp.com/Info/upcomingsessions.aspx?campcode=&idCamp=80&lang=en-Us"
+    },
+    {
+      "country": "Бразилия / Аргентина / США",
+      "iso": "BRA",
+      "provider": "v93 · NR контракт без базового прайса; недоступные страницы",
+      "detail": "NR current/ferias HTTP200 пустая оболочка и видимый header/footer: cached Kids Jan dates/ages не подтверждены. Legacyhomologacao selfsignedcertificate не обходился. Own2027 contract PDF: Dobra R$8617.50/9048.50/9257 только дополнительная 2-я неделя после заезда, не initialcampfee. Insuranceaccident10 k/dental300 и foreignpassport не admission. Refundcredit/cashretention20/50/75%, noshow100%; не fullcontractaudit. Robotiki Camp URL404, Snap Round Rock403; без новых дат/цен из cachedsnippet.",
+      "next_action": "Текущие прямые programmes с реальными 2027 days/basefee/age/language/intake; Brazil/Lat Am и globalcountrycoverage остаются активной целью.",
+      "url": "https://nr.com.br/ferias"
+    }
+  ],
+  "calendar": {
+    "events": 3121,
+    "learning_records": 1790,
+    "family_ics": 2382,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1327,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 37,
+    "http200": 29,
+    "errors": 8,
+    "additional_rendered_primary_observations": 3,
+    "actual_pdfs": 2,
+    "visual_page_checks": 3,
+    "retained_page_renders": 3
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "10newdossiers across3newoperatorgroups:Explornatura1/Coyote3/ICC5 plusCube1existingoperatornewWintertrack.1Ciberbotsdeepened;all611priorIDs/order/all610otherprofiles/all3097priorevents unchanged.24newfutureprogrammerows and11actualregistrationdeadlineICS produce35newfamilyICS; exhibition104unchanged.",
+    "TamarindoElementary5–10/10hSpanish/$797/nineexplicitMondaystarts2027,M–F08–14. Fridayendscalculatedpublishedrule; hiddenold2026weeksnotcurrentcalendar. ENstaff/website notENcampteaching; ESrolelanguage_lessons. Unit155/170/205/min6nights optionalfamilyhousing separate, provisional2kids+6nights155=2524assumingcurrencyequal excludesfees/tax/registration; notfinalall-in. Terms2026 not2027contract;10050percentregistrationnotdefinitivefullfee.",
+    "Coyote actualrenderedupdates8500/6500 andEaster29Mar–3Apr2027 againstinitialHTML7100/5300/TBD; ref2026/waitlistretained. SummerJuly/Augustunknownexactdaysnotinvented. Short4000/3300/early2805until20Nov,2siblings7200/5940notstackearly;deposits1200/990priceparts. Room4–6vs3–4/packingconflict and30percentretained/excessvoucher6mo included. Individual6–14notprivategroup5–18;Oscar2026needs6birthday. EN/ESactualteachingunconfirmed.",
+    "ICC11directdetailcards:fiveowntechheadings,all5–14,429/419 and70+60+99optional=658/weekchild;noautomaticdouble10siblingsdiscount. OwnBollydancebody/category conflict meansactualtechnicalsyllabus/projects/hardwareunknown;notverified15hrobotics/toprecommendation. PortalUIEnglish/Spanishnotinstruction. Emptyrefund/FAQnotpolicy. Ownopeningsnotacceptedchild/guaranteedplace. Actualdeadline10AMfirstdayagainstcamp09:30 recorded,notUTCinferred.",
+    "CubeWinter21–23Dec2026/Beaches65GlenManor/notoldJulyWesleyfooter.255/275+112.50+HST,fullmealcare387.50+HST;42mealaddonnotagainon275. Grade2asofSep2026notbirthyear;March2026exceptionnotWinter. Allbeginnersnotadvancedindividualcurriculum; languageunknown; refunds65fee and10/20dayboundariesretained.",
+    "CiberbotsChristmasmonth2026/SummerEaster2027 labelsnotexactdates;holidaydurations/contentadded,regularschoolagegatesnotcampintake;bothFITunknown. HarmonyactualrenderJuly5–16,2027butmissingage/price/format/teaching;OaktreePDFdates/startonlywithoutcampconditions;recordedgapsnotverifiedprofiles. NRcontractDobraonlysecondweekextra notcampbaseprice;currentholidaysshell/cache/TLSfail/notwholeBrazilcovered.",
+    "37directattempts/29HTTP200/8errors;3separaterenderedprimaryobservationswithmethodexplicit;2actualPDFs/relevantsectionsread/3visualpagechecks/3renders. Rawoutsidecheckout,publiconlyparaphrases/URLs/hashes/errors; noform/account/message/payment/subscription/automation. FailedDOMlocatornotcontentreadclaim; CoyoteactualFAQdiscount/cancelexpanded,packingnotexpanded.",
+    "621dossiers/37countries/965distinctdossierURLs,140familycomparisons;3121events/1790camp-learningrows/2382familyICS/104exhibitICS.1327manageddated/69legacyreuse/39seasonwindows.249worldcountries/82withrecords/0fullyaudited. Expandedworldwidegoal remainsactive;league/competition/exhibit/school/history/familyroute scopeunchanged."
+  ],
+  "next_priority": "ContinueSwitzerland/France/Spain/Europe andTaiwan/Singapore/Korea/Japan/Asia,USA/Canada/CostaRica/Mexico/LatinAmerica/allworld2026–27 general/technical/boarding/day/familycamps: primaryprogrammes/currentseasoncontracts/fullinvoice/age/actualgrade/teachinglanguage/foreignintake/currentplaces. League/competition/exhibitadmission/schools/results5–10years/familyroutes preserved;0countriesfullyaudited."
+}

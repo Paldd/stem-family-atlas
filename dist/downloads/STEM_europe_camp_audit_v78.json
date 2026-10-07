@@ -1,0 +1,117 @@
+{
+  "asof": "2026-10-05",
+  "version": 78,
+  "status": "progress",
+  "scope": "Switzerland/France/Spain/UK programme-specific primary pass; every prior worldwide block retained",
+  "new_dossiers": 13,
+  "updated_dossiers": [
+    "montana-zug",
+    "madrid-chess-robotics"
+  ],
+  "new_calendar_rows": 15,
+  "new_family_ics": 15,
+  "programme_dossiers": 376,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 587,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "TWN": 21,
+    "SGP": 45,
+    "JPN": 14,
+    "KOR": 7,
+    "USA": 33,
+    "CAN": 45,
+    "CRI": 6,
+    "MEX": 24,
+    "PAN": 5,
+    "ECU": 1
+  },
+  "programme_slugs": [
+    "ecolint-intro-robotics",
+    "ecolint-science",
+    "ecolint-film",
+    "ecolint-multiactivity-half",
+    "stgeorge-winter-day",
+    "stgeorge-winter-board",
+    "lpb-issy-movers",
+    "lpb-issy-juniors",
+    "samiad-multiactivity",
+    "funtech-mod-day",
+    "funtech-redstone-day",
+    "funtech-tonbridge-board",
+    "madrid-manga"
+  ],
+  "findings": [
+    {
+      "country": "Швейцария",
+      "iso": "CHE",
+      "provider": "v78: возраст, договор и техническая глубина",
+      "detail": "Institut Montana: filename PDF2026, содержание и таблица2027; визуально сверены цены, в публичной форме только04–17/24июля. CHF1000 дополнительно, не аванс. Ecolint: booking5–7 против описания5–6, английский/французский подтверждены; конкретный дедлайн16октября15:00 расходится с общим Thursday before. St George’s Winter2027 ссылается на договор Summer2023; его аванс/отмену не переносим.",
+      "next_action": "Точный язык ведущего, часы, возраст на начало, оба трансфера, новый договор и полный счёт до заявки. Полностью проверенных стран пока0.",
+      "url": "https://www.stgeorges.ch/camps/winter-camp"
+    },
+    {
+      "country": "Франция",
+      "iso": "FRA",
+      "provider": "v78: длительность и стоимость Les Petits Bilingues",
+      "detail": "Native-страница Issy: EUR199/4дня, пакет549 до30апреля2027. Её календарь: октябрь259/5полудней, пакет699 до31июля2027; декабрь199/4полудня. Октябрьский учебный poster описывает4дня, пятый блок не раскрыт. Эти смены относятся к2026. Условия отмены и точный прайс подтвердить конкретному центру.",
+      "next_action": "Устранить4/5дней, пакетный прайс и срок; подобрать сложность детям, новый сезон2027 и полный дневной пакет.",
+      "url": "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/"
+    },
+    {
+      "country": "Великобритания",
+      "iso": "GBR",
+      "provider": "v78: будущий сезон и старые страницы",
+      "detail": "Samiad Robotics в меню ведёт на404. Multi Activity2027 — общий английский лагерь; старые campus3500/3600 расходятся с новым3650/3850. Правило Sunday arrival не объясняет Tuesday/Wednesday у двух площадок. FunTech: деньJuly2027 без смен, тариф695 без года; пансионAugust2026/таблица2020 не2027. Bede: баннер2027 против detail2026 и разных цен — новый сезон не подтверждён.",
+      "next_action": "Новые программы/даты2027, конкретные14ночей Samiad, полный прайс, английский технического курса и договор; проверить Bede2027 prospectus.",
+      "url": "https://funtech.co.uk/camps/dates"
+    },
+    {
+      "country": "Испания",
+      "iso": "ESP",
+      "provider": "v78: Blanco y Negro2027",
+      "detail": "Все активности на испанском и приезжающие дети подтверждены оператором. Manga с1ºPrimaria+, материалы включены; год рождения не доказывает класс. Event21июня–30июля2027 против текста22июня–31июля, обновлениеFebruary/March. Примерные EUR300/400 для club members и общего лагеря не универсальная цена robotics/manga.",
+      "next_action": "Новый календарь и договор, возрастные уровни, сочетание параллельных мастерских и индивидуальный счёт. Продолжать остальные страны Европы, Азии и Америки.",
+      "url": "https://ajedrezblancoynegro.com/event/campamento-de-verano-piscina-2027/"
+    }
+  ],
+  "calendar": {
+    "events": 2604,
+    "learning_records": 1273,
+    "family_ics": 1939,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 810,
+    "reused_legacy_events": 66,
+    "season_windows": 25
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Continue deeperEurope2027contracts andTaiwan/Singapore/Korea/Japan/USA/Canada/LatinAmerica; exactinstructionlanguage/fullquotes/age-grade gates",
+  "validation": [
+    "All2589 prior events and363 stable dossierIDs retained;361 dossiers unchanged,onlyMontanaZug/MadridES details explicitly deepened. Worldwide leagues/schools/routes andAmerica/Asia retained.",
+    "13 new programme dossiers,not13 independent operators/rankings;376 dossiers in33 countries and587 unique officialdossierURLs.",
+    "Montana PDF filename2026 contains2027 facts andfees;price table visually read. Public blankform permitsonly04–17or04–24July/minimum2weeks;2calendarrows. CHF1000 additionalreturnabledeposit separatefromtuition.",
+    "Ecolint bilingualEN/FR policy read directly;Introduction5–7booking/body5–6 linkedtoexistingL296 withoutduplicate. Science7–11,Film9–13 andMultiActivityHalf5–6 separated;MatveyFilm requires9birthday inOct2026.",
+    "Ecolint camp-specific16Oct15:00vs genericThursday deadline retained;April2026Frenchcontract governs,credits forillness notordinarycashrefund,foreigninsurance required.",
+    "StGeorge13–20Feb2027 exactday8+/1790CHF andboard10+/3490. Matveyboardingonlyafter10birthday;Oscarunder8. LinkedTerms areSummer2023,notWinter2027;English notinferred.",
+    "LPB Issy nativepage199/4days/pack549 conflictslinkedcalendarOctober259/5half-days/pack699;December199/4half-days. Calendar visuallyread;4dayposter not proof fifthdaycancelled. JuniorOscar5–6 in2026 markedlater.",
+    "SamiadENcamp-life/MultiActivity6+/2027fees3550–4000GBP;6 campus seasonwindows never14night confirmedsessions. CampusoldfeesandTue/WedwindowvsSundayFAQ conflictsretained;Roboticsmenu404 not2027 roboticscourse.",
+    "FunTechdayMod7–10/Redstone9–12 andboard8–16 separated;695GBP/yearunknown,ownlaptop/rental70/setup55/extended30+30. BoardAugust2026/modal2020 not2027;noexactdates orEnglishconfirmationinvented.",
+    "Madridoperator directlystatesallactivitiesSpanish andforeignchildren. Roboticsdossier updatedES;Manga1ºPrimaria+ andmaterials ownproduct. Date21Jun–30Julvs22Jun–31Jul andFeb/Marchrefresh preventexactsessioncreation.",
+    "15 newcalendarrows/familyICS;1924 prior UID/datepairs preserved,104 exhibitioncalendarunchanged. Bridgeidempotent,canonical/publicJSON/SQLite agree;78familyscenarios and0fullyauditedcountries.",
+    "LocalnativeUI shows376dossiers/33countries/59Swiss/587sources andsixnewfamilyscenarios.",
+    "Geneva scenario selectsfourprogrammepicks. Ecolint+CHE+EN+Oscar filtering returnsIntroductionRobotics/MultiActivityHalf;Science/Film excluded.",
+    "Montana scenariopick resetsfilters andopensCP006 details;2/3week fourprices/deposit1000 shown;expandedvariantlist has04–17and04–24July2027.",
+    "Samiad scenariopick shows6+/14night2027fees andexplicitseasonwindow explanation;noformsubmitted orplanssaved."
+  ]
+}

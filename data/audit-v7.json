@@ -1,0 +1,413 @@
+{
+  "asof": "2026-09-30",
+  "baseline_records": 811,
+  "added": 87,
+  "new_ids": [
+    "C687",
+    "C688",
+    "C689",
+    "C690",
+    "C691",
+    "C692",
+    "C693",
+    "C694",
+    "C695",
+    "C696",
+    "C697",
+    "C698",
+    "C699",
+    "C700",
+    "C701",
+    "C702",
+    "C703",
+    "C704",
+    "C705",
+    "C706",
+    "C707",
+    "C708",
+    "C709",
+    "C710",
+    "C711",
+    "C712",
+    "E049",
+    "C713",
+    "C714",
+    "C715",
+    "C716",
+    "C717",
+    "C718",
+    "C719",
+    "C720",
+    "C721",
+    "C722",
+    "C723",
+    "C724",
+    "C725",
+    "C726",
+    "C727",
+    "C728",
+    "C729",
+    "C730",
+    "C731",
+    "C732",
+    "C733",
+    "C734",
+    "C735",
+    "C736",
+    "C737",
+    "C738",
+    "C739",
+    "C740",
+    "C741",
+    "C742",
+    "C743",
+    "C744",
+    "C745",
+    "C746",
+    "C747",
+    "C748",
+    "C749",
+    "C750",
+    "E050",
+    "C751",
+    "C752",
+    "C753",
+    "C754",
+    "C755",
+    "C756",
+    "C757",
+    "C758",
+    "L078",
+    "L079",
+    "L080",
+    "L081",
+    "L082",
+    "L083",
+    "L084",
+    "L085",
+    "L086",
+    "L087",
+    "L088",
+    "L089",
+    "E051"
+  ],
+  "updated_ids": [
+    "C008",
+    "C016",
+    "L037",
+    "L038"
+  ],
+  "opened_primary_sources": [
+    {
+      "url": "https://wropanama.com/",
+      "title": "WRO Panamá — calendario y categorías 2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "12 regionales con fechas propias; categorías y equipos; fecha nacional no establecida aquí"
+    },
+    {
+      "url": "https://fundesteam.nyc3.cdn.digitaloceanspaces.com/WRO2026-Reglas/Registro/WRO%20Panama%202026%20-%20Terminos%20y%20Condiciones%20-%20ver.%2006032026.pdf",
+      "title": "WRO Panamá — términos 06.03.2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Independientes admitidos; 2–3 alumnos, coach mayor de 18; B/.150; hasta dos regionales; calendario PDF difiere de página actual"
+    },
+    {
+      "url": "https://fundesteam.nyc3.cdn.digitaloceanspaces.com/WRO2026-Reglas/MisionesRoboticas/WRO-2026-RoboMission-General-Rules-Final%20General%20Espa%C3%B1ol.pdf",
+      "title": "WRO Panamá — RoboMission general 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Años de nacimiento; 2–3 estudiantes; robot 250³ mm, libre elección de plataforma y límites técnicos"
+    },
+    {
+      "url": "https://wronicaragua.com/",
+      "title": "WRO Nicaragua — nacional 2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "9ª Olimpiada 03.10.2026, Parque Japonés Managua; WeDo, Elementary, Junior, Senior"
+    },
+    {
+      "url": "https://wronicaragua.com/robotica-nicaragua-wedo/",
+      "title": "Nicaragua WeDo",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Página 7–10 años; enlaza misión RoboBasic, conflicto con PDF de 6–10"
+    },
+    {
+      "url": "https://wronicaragua.com/wp-content/uploads/2026/02/WRO-2026-Descripcion-de-la-mision-RoboBasic.pdf",
+      "title": "Nicaragua RoboBasic — misión 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "PDF descargado y texto leído: 6–10; 1 controlador, 2 puertos, 250³ mm; reglas RoboMission con adaptaciones"
+    },
+    {
+      "url": "https://wronicaragua.com/wp-content/uploads/2026/02/WRO-2026-RoboMission-Reglas-generales.pdf",
+      "title": "Nicaragua RoboMission general 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "PDF descargado y texto leído: 2–3 alumnos; edades por año natural; modificaciones nacionales deben comprobarse"
+    },
+    {
+      "url": "https://wronicaragua.com/robotica-nicaragua-elementary/",
+      "title": "Nicaragua Elementary",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "8–12 y misión de festival musical 2026"
+    },
+    {
+      "url": "https://wronicaragua.com/robotica-nicaragua-juniors/",
+      "title": "Nicaragua Junior",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "11–15; Heritage Heroes"
+    },
+    {
+      "url": "https://wronicaragua.com/robotica-nicaragua-senior/",
+      "title": "Nicaragua Senior",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "14–19; Mosaic Masters"
+    },
+    {
+      "url": "https://firsthonduras.org/",
+      "title": "FIRST Honduras — официальный организатор",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Honduras STEM Foundation и страницы Explore/Challenge"
+    },
+    {
+      "url": "https://firsthonduras.org/explore",
+      "title": "FIRST Honduras Explore BIOGLOW",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "6–10, до 6 участников, season 2026–2027; participation diploma/medal"
+    },
+    {
+      "url": "https://firsthonduras.org/challenge",
+      "title": "FIRST Honduras Challenge BIOGLOW",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "9–16, до 8 участников; страница подписана 2025–2026 несмотря на BIOGLOW"
+    },
+    {
+      "url": "https://www.wrosa.co.za/",
+      "title": "WRO South Africa 2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Физические этапы 2026 завершены; provincial -> national -> возможный мировой отбор; Explorer/In-House не имеют международного финала"
+    },
+    {
+      "url": "https://www.wrosa.co.za/rules-2025",
+      "title": "WRO South Africa — страница правил текущей навигации",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Возрастные группы, свободная аппаратура RoboMission; Explorer Lite 8–12 / Prime 11–16; отдельные In-House условия отличаются"
+    },
+    {
+      "url": "https://www.wrosa.co.za/wrosadates2026",
+      "title": "WRO South Africa — календарь 2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "23 отдельных дня региональных/национальных/онлайн мероприятий; зрители приветствуются; In-House score 01–31.10.2026"
+    },
+    {
+      "url": "https://www.wrosa.co.za/explorer-rules",
+      "title": "WRO SA Explorer 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Lite 8–12 / Prime 11–16, LEGO, готовый chassis без кода; национальный финал без мирового финала"
+    },
+    {
+      "url": "https://www.wrosa.co.za/in-houseregistration",
+      "title": "WRO SA In-House registration",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "1–3, 6–19, R350 за школу/клуб, цифровые сертификаты и 3 уровня; формы не отправлены"
+    },
+    {
+      "url": "https://www.wrosa.co.za/explorer-in-house",
+      "title": "WRO SA In-House page",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Некоторые строки всё ещё 2025; общая страница 2–3 отличается от специфической 1–3"
+    },
+    {
+      "url": "https://www.wrosa.co.za/_files/ugd/e63a66_a24ffedf98f442858f41f8a9b1b8c6f1.pdf",
+      "title": "WRO SA In-House General Rules 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "6–19, одиночный допустим / рекомендовано 2–3; любой робот, Junior Heritage Heroes mat; PDF содержит старые 2025 registration/payment deadlines"
+    },
+    {
+      "url": "https://www.wrosa.co.za/_files/ugd/e63a66_2012911a9ccb4f2181218c7245b401f6.pdf",
+      "title": "WRO SA In-House Level 1 Research Ready 2026",
+      "evidence": "rules",
+      "checked": "2026-09-30",
+      "findings": "Миссии research site; 3 часа перепрограммирования, локальные адаптации; нет международного финала"
+    },
+    {
+      "url": "https://stemlab.co.za/sumo-robotics-league/",
+      "title": "STEMLab Sumo Robotics League",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "6–18; группы 6–8 / 9–11 / 12–14 / 15–18; kits/tools provided; registration dates soon"
+    },
+    {
+      "url": "https://www.sheen.bot/academy",
+      "title": "Sheen Academy — программы и FAQ",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "6–18; R280/lesson; materials/laptops provided; monthly entry; FIRST pathways 2026"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/competition",
+      "title": "Sheen Academy FIRST pathways 2026",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Explore 6–10 и Challenge 9–16 для уже enrolled; FLL additional fee free, FTC 12–18 R11500/squad10; 90% attendance; даты FIRST SA TBC"
+    },
+    {
+      "url": "https://ceti.uanl.mx/taller-de-robotica-y-videojuegos-i/",
+      "title": "CETI UANL Robótica y Videojuegos I",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "6–11 and reading, Saturday 13:30–17:30 32h min8; tentative Aug22 start, no end; EV3/Construct2"
+    },
+    {
+      "url": "https://ceti.uanl.mx/taller-de-robotica-y-videojuegos-ii-2/",
+      "title": "CETI UANL Robótica y Videojuegos II",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "6–11, reading and Level I, Saturday 13–17 32h min8; start TBA; EV3/Construct2/Blender"
+    },
+    {
+      "url": "https://mexico.nova-academy.mx/it-camp",
+      "title": "NOVA Academy México IT Camp",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Summer2025 July21 and 5 thematic weeks, 8–12/12–15, Spanish explicit; future2026/27 not announced"
+    },
+    {
+      "url": "https://robotics-league.co.za/",
+      "title": "Robotics League South Africa",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Holiday camps 4–18, half/full day; dates/fees quote; locations Randburg/Kyalami general, not fixed camp venue"
+    },
+    {
+      "url": "https://www.robothink.co.za/robothink-holiday-camp/",
+      "title": "RoboThink South Africa Holiday Camp",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "BlastOfftoMars Winter, ages6–14; no year/date/fee; published Saturday venue blocks are after-school program"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/workshops/WSH6",
+      "title": "Sheen Winter Holiday2026",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Past July1–3 / July8–10, Junior6–8 15–17; Future9–18 10–13; R780/3days"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/workshops",
+      "title": "Sheen — current holidays and archive",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "SpringSept29–Oct1 current 2026; separate games9–18 and SmartCity6–8; older workshops listed as archive"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/workshops/WSH7",
+      "title": "Sheen Game Development Spring2026",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Sept29–Oct1, age9–18, R650, choose morning09–12 OR afternoon14–17; GDevelop and computers provided"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/workshops/WSH7BSC",
+      "title": "Sheen Smart City Spring2026",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Sept29–Oct1, age6–8,10–12,R650, materials included"
+    },
+    {
+      "url": "https://www.sheen.bot/academy/workshops/WSH6ESD",
+      "title": "Sheen SkyOps — past2026",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "July13–15,9–18,12seats,R860,mornings10–13; Day1CenturyCity,Day2/3Milnerton; internal tournament/certificates"
+    },
+    {
+      "url": "https://stemlab.co.za/holiday-camp/",
+      "title": "STEMLab current2026 holiday camp",
+      "evidence": "program",
+      "checked": "2026-09-30",
+      "findings": "Sep28–Oct2,09–14,R2250,Claremont/Tygervalley,6–15 split6–9/10–12/13–15"
+    },
+    {
+      "url": "https://makeafrica.tech/appel-a-participation-2026/",
+      "title": "MakeAfrica2026 — official call",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "23–28Nov2026 Dakar Senegal, makers/FabLabs/technology workshops/exhibition; organiser footerBenin is not event country"
+    },
+    {
+      "url": "https://makeafrica.tech/participer-2026/",
+      "title": "MakeAfrica festivalier/conference registration",
+      "evidence": "event_page",
+      "checked": "2026-09-30",
+      "findings": "Visitor/speaker application before15Oct2026; packages after application, minors and EN/ES unknown"
+    }
+  ],
+  "corrections": [
+    "Nicaragua Oct3 date separated from unknown admission; WeDo page7–10 vs PDF6–10 conflict retained",
+    "Panama12 historical regional days; independentteams and fee; oldPDF date/deadline conflicts retained",
+    "HondurasFLL local6/8 maxteam and BIOGLOW season conflict",
+    "WROSA23 historical days; InHouse1–3 allowed; stale2025 registration deadlines in2026PDF; no international win claims",
+    "CETI courses are regularSaturday classes, not camps; no computed enddate",
+    "STEMLab existing camps updated without duplicate records; Sheen current workshops distinguish AM/PM and6–8 vs9–18",
+    "MakeAfricaDakar Senegal not footerBenin; minor access/EN/ES unknown",
+    "StaticICS regenerated from same canonical database rather than45-record baseline"
+  ],
+  "unresolved": [
+    {
+      "country": "Коста-Рика",
+      "topic": "FOD holiday tech camps",
+      "status": "No concrete future camp established",
+      "sources": [
+        "https://fod.ac.cr/",
+        "https://fod.ac.cr/oferta-formativa/"
+      ],
+      "note": "Primary pages read; no published child holiday slot on those pages. Empty WP search does not prove no camps exist."
+    },
+    {
+      "country": "Белиз",
+      "topic": "Kids Can Code BZ summer camp",
+      "status": "Secondary candidate, not promoted to verified calendar",
+      "source": "https://www.bonvi.events/events/stem-robotics-summer-camp-belize/",
+      "reported_dates": "2026-06-29/2026-07-02",
+      "reported_age": "7–12",
+      "note": "Aggregator read; primary organizer not yet verified; reported $100 currency unknown, 2026 dates passed."
+    },
+    {
+      "country": "Южная Африка",
+      "topic": "WROSA InHouse Levels2/3",
+      "status": "Linked PDFs inaccessible in this pass; technical missions not audited",
+      "sources": [
+        "https://www.wrosa.co.za/_files/ugd/e63a66_45c175c0dfb74d15afcd06669a85b285.pdf",
+        "https://www.wrosa.co.za/_files/ugd/e63a66_63eb09f5e00340ee858a96c7b03f286d.pdf"
+      ],
+      "note": "Do not invent names or promote their detailed technical rules."
+    },
+    {
+      "country": "Гондурас",
+      "topic": "Other WRO national2026 and camps/exhibitions",
+      "status": "Not fully audited",
+      "sources": [
+        "https://hondurasstemfoundation.org/",
+        "https://linktr.ee/hondurasstemfoundation"
+      ],
+      "note": "Organizer links established, dynamic foundation homepage text insufficient for exact WRO dates; secondary Sep25/26 claim not promoted."
+    }
+  ],
+  "limits": "Records count editions, entry routes, categories and camp sessions; not independent world events. Foreign admission, actual availability and exact teaching languages remain unconfirmed where stated. Countries are partial; global goal remains active."
+}

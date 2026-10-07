@@ -1,0 +1,333 @@
+{
+  "version": 46,
+  "checked": "2026-10-02",
+  "status": "partial",
+  "sources": [
+    {
+      "name": "cosmo",
+      "url": "https://www.cosmorobotics.ch/en/academy",
+      "status": 200,
+      "resolved": "https://www.cosmorobotics.ch/en/academy",
+      "mime": "text/html",
+      "bytes": 1020198,
+      "sha256": "c283beb6b214701b5e9babb2e52ff57154a8183fefc0aa9a56186e1ab09a1917"
+    },
+    {
+      "name": "costa",
+      "url": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "status": 200,
+      "resolved": "https://www.costablancacamp.com/en/spanish-english-robotics-summer-camp-in-spain/",
+      "mime": "text/html",
+      "bytes": 86645,
+      "sha256": "db9b0cdf19be55e836331e600db9c8fe368f03e228c1df38e137c2ef1cd7a2f3"
+    },
+    {
+      "name": "robotschool",
+      "url": "https://robotschool.es/servicios/tecnocamp-robots-school",
+      "status": 200,
+      "resolved": "https://robotschool.es/servicios/tecnocamp-robots-school",
+      "mime": "text/html",
+      "bytes": 38632,
+      "sha256": "ad948dfb9e00186467dcd1e655f010b658355052f2d3144b4381a17f9bcc38a3"
+    },
+    {
+      "name": "techspark_robotics",
+      "url": "https://online.techsparkacademy.ch/robotics-course/",
+      "status": 200,
+      "resolved": "https://online.techsparkacademy.ch/robotics-course/",
+      "mime": "text/html",
+      "bytes": 391673,
+      "sha256": "b58cc705fac3930b31d9ff7d5a163c39617d73b48c5d778cd901bf09657608d8"
+    },
+    {
+      "name": "first_world",
+      "url": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "status": 200,
+      "resolved": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "mime": "text/html",
+      "bytes": 58128,
+      "sha256": "8568ee2daacb1694592234d23b996b6ea2e76ac1ace633d4068e2c4a62bd68ae"
+    },
+    {
+      "name": "robotech",
+      "url": "https://www.robotech.cat/english",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "ics_news",
+      "url": "https://www.icsparis.fr/news-events",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/news-events",
+      "mime": "text/html",
+      "bytes": 845370,
+      "sha256": "f1dd7f57b1690b1934ab7fb4aead4e5be4448099c5e673e50f971cf0e8afd339"
+    },
+    {
+      "name": "asv",
+      "url": "https://asvalencia.org/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/",
+      "mime": "text/html",
+      "bytes": 219503,
+      "sha256": "201dd52b0da03d6ed9880d96318062b0fa45d33f900662be1b5deaaa050ae1bc"
+    },
+    {
+      "name": "isp",
+      "url": "https://www.isparis.edu/",
+      "status": 200,
+      "resolved": "https://www.isparis.edu/",
+      "mime": "text/html",
+      "bytes": 71503,
+      "sha256": "feb8f5d78ec41c13aa2f3947a7642963fe78e18049e7238e4dd106d9a0fa634e"
+    },
+    {
+      "name": "robotx",
+      "url": "https://robotx.ethz.ch/education/summer-school.html",
+      "status": 200,
+      "resolved": "https://robotx.ethz.ch/education/summer-school.html",
+      "mime": "text/html",
+      "bytes": 45451,
+      "sha256": "e042c9e4f73a240dfdc1c6566db043169dbc475b6868e0b99ca39374a037ac07"
+    },
+    {
+      "name": "wro_spain",
+      "url": "https://www.wroboto.es/competicion/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/competicion/",
+      "mime": "text/html",
+      "bytes": 144378,
+      "sha256": "ce0b4d18f9209c327b50d8bcd1f91c59be7d0935820c9fb4ed502912452c4feb"
+    },
+    {
+      "name": "wro_ch",
+      "url": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "status": 200,
+      "resolved": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "mime": "text/html",
+      "bytes": 134709,
+      "sha256": "a86585dc5b81b8379db86cec3286320d7956f9980d3a80ccc72c850bc5df4c76"
+    },
+    {
+      "name": "abi",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "status": 200,
+      "resolved": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "mime": "text/html",
+      "bytes": 122783,
+      "sha256": "57ba0b15ad32fb9ab05df9a2ee331c18066aac75574ab7fe80ca05c189f912ea"
+    },
+    {
+      "name": "ecolint",
+      "url": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10",
+      "status": 200,
+      "resolved": "https://www.ecolint-camps.ch/en/camps/introduction-robotics-10",
+      "mime": "text/html",
+      "bytes": 30206,
+      "sha256": "99d13773ce203e04c600a889afe89534c7e8402410231083789a373d679b930e"
+    },
+    {
+      "name": "robotlabsch",
+      "url": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.d56a804e207e_7615310269.BS%20%20Friday%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%20Age%209-14?edref=techlabs",
+      "status": 200,
+      "resolved": "https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.d56a804e207e_7615310269.BS%20%20Friday%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%20Age%209-14?edref=techlabs",
+      "mime": "text/html",
+      "bytes": 26524,
+      "sha256": "239e20eb14cbd63be684a2433ba1774f26f5580d0f2b991e712ee3bfed4fbf13"
+    },
+    {
+      "name": "natuk",
+      "url": "https://www.hescamps.com/campamentos-12",
+      "status": 200,
+      "resolved": "https://www.hescamps.com/campamentos-12",
+      "mime": "text/html",
+      "bytes": 81311,
+      "sha256": "836570ae6bb73d862c96af07bf1a5cdddcc9acd59dda24f61e6d8c00040d9833"
+    },
+    {
+      "name": "isbasel",
+      "url": "https://www.isbasel.ch/learn/overview/robotics",
+      "status": 200,
+      "resolved": "https://www.isbasel.ch/learn/overview/robotics",
+      "mime": "text/html",
+      "bytes": 87588,
+      "sha256": "5893a2a279a5c66b2e20d95809c954b471af87f33f0808a470d7eb1929ec1556"
+    },
+    {
+      "name": "lar",
+      "url": "https://colegiolar.es/",
+      "status": 200,
+      "resolved": "https://colegiolar.es/",
+      "mime": "text/html",
+      "bytes": 771707,
+      "sha256": "a4570c313b2db6fe37c363c1a912a47effbfa3436d1c7606d7de835a51abb82c"
+    },
+    {
+      "name": "stmary",
+      "url": "https://www.marymount.fr/student-life/student-services",
+      "status": 200,
+      "resolved": "https://www.marymount.fr/student-life/student-services",
+      "mime": "text/html",
+      "bytes": 33071,
+      "sha256": "eb7dcd13e856ff39f1acc12ed6084b16696039c805c1d6cb78dc71b5d5b4253b"
+    },
+    {
+      "name": "ics_primary",
+      "url": "https://www.icsparis.fr/our-curriculum/primary-school",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/our-curriculum/primary-school",
+      "mime": "text/html",
+      "bytes": 75143,
+      "sha256": "ff1d642ee67c41feece6dbaf6afccd71bbe579af35fedf4267f29019071cc279"
+    },
+    {
+      "name": "ics_steam",
+      "url": "https://www.icsparis.fr/academic-life/steam",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/academic-life/steam",
+      "mime": "text/html",
+      "bytes": 63058,
+      "sha256": "ab49d90cc7c1b762d558d53bbe546f1135b6515fb3f261a750278e9b74347d49"
+    },
+    {
+      "name": "ics_faq",
+      "url": "https://www.icsparis.fr/admissions/faq",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/admissions/faq",
+      "mime": "text/html",
+      "bytes": 61996,
+      "sha256": "a1513cb985a3f981c1ac36872619115f58c71ebe9186980bf4e7c80370ab7478"
+    },
+    {
+      "name": "ics_fees",
+      "url": "https://www.icsparis.fr/admissions/fees",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/admissions/fees",
+      "mime": "text/html",
+      "bytes": 93495,
+      "sha256": "62c9ccb0dfbd2319f62ba333edeeac2181e62a40598f14fd4befb43faa534aa4"
+    },
+    {
+      "name": "ics_camps",
+      "url": "https://www.icsparis.fr/student-life/ics-camps",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/student-life/ics-camps",
+      "mime": "text/html",
+      "bytes": 96044,
+      "sha256": "5c00843c7cfce9789ca64604052e985beafcff986e736bc7cff3a7c5415e6989"
+    },
+    {
+      "name": "asv_primary",
+      "url": "https://asvalencia.org/elementary-school/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/academics/elementary-school/",
+      "mime": "text/html",
+      "bytes": 140930,
+      "sha256": "09b9b92a25ef24c12ca25fcabb41fecd7f398039ba38d0f20e5fe68029416644"
+    },
+    {
+      "name": "asv_cocurricular",
+      "url": "https://asvalencia.org/co-curricular-programs/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/difference/co-curricular-programs/",
+      "mime": "text/html",
+      "bytes": 143529,
+      "sha256": "7e06c5c9017cb4b5572a047471413d67a7493e7f99ef773279cf97dcaa1af639"
+    },
+    {
+      "name": "asv_fees",
+      "url": "https://asvalencia.org/tuition-and-fees/",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "costa_facility",
+      "url": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "status": 200,
+      "resolved": "https://www.costablancacamp.com/en/spanish-and-english-summer-camp-in-elche-alicante/",
+      "mime": "text/html",
+      "bytes": 96639,
+      "sha256": "644e80a7c22e392755e3c2989edc4b41ffb5320627996e9288584867477f37db"
+    },
+    {
+      "name": "zurich_camps",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "resolved": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "mime": "text/html",
+      "bytes": 468633,
+      "sha256": "c03d132b366c4306e07f7ecb02384ae78b0e1563130b842611d09f5436cd3058"
+    },
+    {
+      "name": "lausanne_camps",
+      "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "status": 200,
+      "resolved": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "mime": "text/html",
+      "bytes": 414883,
+      "sha256": "0cf0534a632bdcc3015e603dba259d5bc7ca4ce8162a4fd16e3f8b68deef2b80"
+    },
+    {
+      "name": "ics_robotics",
+      "url": "https://www.icsparis.fr/news-events/news-details/~board/news-en/post/globeducate-robotics-challenge-2026",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/news-events/news-details/~board/news-en/post/globeducate-robotics-challenge-2026",
+      "mime": "text/html",
+      "bytes": 46840,
+      "sha256": "8a23d6a2aaaba1a546e4bb418060ece90944b0050a0239b360acccf94f1be5fb"
+    },
+    {
+      "name": "asv_fees_live",
+      "url": "https://asvalencia.org/admissions/tuition-fees/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/admissions/tuition-fees/",
+      "mime": "text/html",
+      "bytes": 125226,
+      "sha256": "98ade7c19b48de136249bc21df9c134c0778353f5d95bdda755c945d93769394"
+    },
+    {
+      "name": "techy",
+      "url": "https://robotschool.es/servicios/techyenglish-robotschool",
+      "status": 200,
+      "resolved": "https://robotschool.es/servicios/techyenglish-robotschool",
+      "mime": "text/html",
+      "bytes": 40946,
+      "sha256": "665a1e5cc7c3de0b541083892b9ed6c9ac4b03c2bbc3fe3f30cc2ec5266c807d"
+    },
+    {
+      "name": "costa_home",
+      "url": "https://www.costablancacamp.com/en/",
+      "status": 200,
+      "resolved": "https://www.costablancacamp.com/en/",
+      "mime": "text/html",
+      "bytes": 136121,
+      "sha256": "fbc56d7ee751a84c4412c2f8d3e914fb968e076c7ea957a61a38b7e58bfc4ed6"
+    },
+    {
+      "name": "asv_admission",
+      "url": "https://asvalencia.org/admissions/admission-process/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/admissions/admission-process/",
+      "mime": "text/html",
+      "bytes": 134180,
+      "sha256": "4effa4c95618d54d132edff4f857ae665e8b9fe0fe6e791fc6527bbf65c2f2e9"
+    },
+    {
+      "name": "asv_summer",
+      "url": "https://asvalencia.org/asv-summer-programs-registration-for-2026-open/",
+      "status": 200,
+      "resolved": "https://asvalencia.org/asv-summer-programs-registration-for-2026-open/",
+      "mime": "text/html",
+      "bytes": 125071,
+      "sha256": "31ddb31439d4270955b9789ebecc8200db23d7d4ee8a3ad542ba84c27c21069f"
+    }
+  ],
+  "unresolved": [
+    "Cosmo: EN website does not establish teaching language or separate camp age.",
+    "TechSpark LEGO 6+ absent from dated Zurich/Lausanne course menus.",
+    "Costa Blanca 12 sessions / 12 hours conflict; teaching language not established.",
+    "English-Techy is 2025; no 2027 TecnoCamp dates.",
+    "School affiliation and current junior intake of ROBOTECH / mindfactory unresolved.",
+    "ICS FabLab Grades 6–9 not ages 6–9."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "version": 119,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Selected Swiss day/boarding winter2026–27 and summer2027 family-budget scenarios. Existing programme dossier and calendar objects unchanged. Not a complete Switzerland or worldwide audit.",
+  "events": 3555,
+  "competition_records": 1153,
+  "exhibition_records": 189,
+  "camp_learning_records": 2213,
+  "programme_dossiers": 890,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1398,
+  "editorial_scenarios": 215,
+  "coverage_gaps": 240,
+  "league_profiles": 141,
+  "budget_scenarios": 35,
+  "budget_providers": 19,
+  "budget_programme_dossiers": 25,
+  "new_budget_scenarios": 8,
+  "new_budget_ids": [
+    "suisse-day-five",
+    "suisse-board-matvey",
+    "suisse-board-both-seven",
+    "lovell-winter-day",
+    "lovell-winter-board",
+    "lyceum-junior-week",
+    "garenne-winter-integration-day",
+    "garenne-winter-integration-board"
+  ],
+  "new_budget_brands": [
+    "Camp Suisse",
+    "Lovell",
+    "Lyceum Alpinum"
+  ],
+  "published_budget_components": [
+    {
+      "id": "suisse-day-five",
+      "currency": "CHF",
+      "amount": 2000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "suisse-board-matvey",
+      "currency": "CHF",
+      "amount": 4400,
+      "children": [
+        "matvey"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "suisse-board-both-seven",
+      "currency": "CHF",
+      "amount": 8800,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lovell-winter-day",
+      "currency": "CHF",
+      "amount": 3900,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lovell-winter-board",
+      "currency": "CHF",
+      "amount": 5400,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lyceum-junior-week",
+      "currency": "CHF",
+      "amount": 2000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "garenne-winter-integration-day",
+      "currency": "CHF",
+      "amount": 15000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": true,
+      "complete": false
+    },
+    {
+      "id": "garenne-winter-integration-board",
+      "currency": "CHF",
+      "amount": 15900,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": true,
+      "complete": false
+    }
+  ],
+  "new_dossiers": 0,
+  "updated_dossier_slugs": [],
+  "new_event_ids": [],
+  "updated_event_ids": [],
+  "unchanged_dossier_objects": 890,
+  "unchanged_event_objects": 3555,
+  "unchanged_prior_budget_objects": 27,
+  "source_retrieval_attempts": 20,
+  "direct_successful_bodies": 19,
+  "retrieval_errors": 1,
+  "pdfs_downloaded": 4,
+  "pdf_pages_text_extracted": 13,
+  "new_visual_pdf_checks": 5,
+  "family_ical": 2770,
+  "exhibition_ical": 104,
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "checks": [
+    "Camp Suisse day2027:5–17;200/day or1000/five weekdays;21Jun–13Aug seasonwindow notonepackage. Returnminibus20/day/child:2000bothbase or2200includingfive-daybothbus. Lunchactivitiesexcursions included; full languagecourse notinferred. Overnight120 notofferedwithoutyoungchildsleepovereligibility.",
+    "Camp Suisse board2027:7–17,4400/two weeks. Matvey-only4400 excludesOscarcare; both8800 conditionalOscaralready7. FourSaturday-to-Saturdaysessions,15inclusivecalendardates not14nightsasserted. Childtransferonlyofficialhours/days. Parent100/adultGeneva→camp→Aigle notairportreturn.",
+    "Camp Suisse500depositinbase notaddedagain,4weekbalance. Insuranceincludedclaim notaccepted2027coverage; currentlylinkedIPIDin2025folder requireshome-country GP registration andcoversspecifiedinsured-events, not everycancellation. Fullpolicyafterregistration,2018termsstilllinked; CostaRicaresidence/MexRFcitizenshipapplicabilityunknown. NoinventedUK-onlyexclusion.",
+    "Lovell2026/27 PDF5–16/allnationalities,websiteboard5–15 upperconflictdoesnotchangecurrentchildrenlowergate. Day1900+50registration=3900both;board2600+100=5400bothperweek. 1000advanceperchildinsidebase,notextra. Medicalcertificateandbalance30days;registrationnonrefund;written30daycancellationdepositrule, withdrawalnoratediscount.",
+    "Lovellboardweeks5–7(10–30Jan)explicitnoboarding:excludedfrom11boardperiods;day14MoFrweeksseparate. IncludedlessonsskipassENorFR/supply/excursiontransport; personalgearinsuranceairportsdoorbusnotincluded. Languageversusafternoonchoice, PDFTshirtexcludedvswebincluded,dayendtimeconflictretained. Nofulldualprogramme/gearpriceorSTEMintensiveinvented.",
+    "LyceumJunior6–9 only:Oscar6–7candidate,Matvey9–10conditionalwhile9. FourJuly2027MoFrweeks,1000perweek/child=2000both;16EN/DElessons,lunch/materials08:30–16. Localpick-upserviceclaimedincludedbutroute/withwithoutconfirm; noairporttransferorDigitalSkillsboardinginferred. Parentsprovidehealthaccidentliabilityinsurance;30/29–15/14dayrefundrules.",
+    "LaGarenneWinterIntegration5–14:from7500day/7950board minimum2weeks =>from15000/15900both. Fivepublishedblocks;dayonlyMoFr,last7–19Marshorterthan14calendardaysandnosecondweekski. Ordinaryschoolintegrationandminimum2ski/week,notEnglish+Ski8+/SuperSki8+. Winterextrasfulltermsnightcarelanguageplacementunknown;nosummer10%siblingdiscountor500depositreused.",
+    "Altitude own serverdaybookingJune2027withstartable28Jun and6–14label,daypageyearless28Jun–13Aug975/950; residentialyearless2950/5550/etc. Calendar notproof of seats or year-boundprice. No new2027budget or datedeventcreated from ambiguous association. Termsinsuranceabsent,20%deposit/May31balance/cancellation30/14 boundaries stayconditional.",
+    "All3555events890profiles27priorbudgetobjects,leagues/exhibitions/schools/history/routes preserved. Eightpartialscenariosfourbrands(three newlybudgetedbrands),nooverallcampqualityranking. Structured unknowns empty≠zero; depositsnotdoubled; frompricesvisiblymarked;seasonwindowdistinguished. Worldwideobjectiveactive;0fullyauditedcountries."
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "version": 37,
+  "checked": "2026-10-01",
+  "status": "partial",
+  "title": "Юго-Восточная Азия · возраст, язык и условия участия",
+  "heading": "Четыре страны. Свой путь каждому ребёнку.",
+  "region_label": "ЮГО-ВОСТОЧНАЯ АЗИЯ · ВОЗРАСТ, ЯЗЫК И ОТБОР",
+  "family": "Матвей — 2017 год, Оскар — 2020 год. Оба могут учиться весь день на английском и испанском; русский тоже подходит. Точные классы и дни рождения неизвестны.",
+  "conclusion": "Самый конкретный международный выезд этого прохода — Vietnam Open 19–21 февраля 2027 года: организатор предусматривает зарубежные команды, а места на мировой финал проверяются отдельно. Remote 18 октября возможен после рекомендации и приглашения. KodingNext подтверждает двуязычное обучение на индонезийском и английском, но новые даты лагерей пока неизвестны.",
+  "limitations": "Первый ограниченный проход четырёх стран. Остальные операторы, школы, национальные квоты и язык судейства ещё требуют проверки. Английский сайт не доказывает английское преподавание, прошедшие смены не стали календарём 2027. Полный мировой охват не достигнут.",
+  "shortlist": [
+    {
+      "title": "Без перелёта · сначала приглашение",
+      "detail": "Vietnam Solo Remote 18 октября 2026: зарегистрированная команда Engage, своё поле, робот и камеры. Оператор рассматривает команды из мест без очных событий; нужны рекомендация и приглашение, время согласуется отдельно.",
+      "event_ids": [
+        "C1040",
+        "C029"
+      ]
+    },
+    {
+      "title": "Ханой · международный зимний кандидат",
+      "detail": "Vietnam Open 19–21 февраля 2027, приём открывается 20 октября. Оба ребёнка проходят максимальный возраст 12U; класс, окончательные дни программы и английское интервью ещё нужно подтвердить.",
+      "event_ids": [
+        "C1041",
+        "L323",
+        "L324"
+      ]
+    },
+    {
+      "title": "Каникулы и свои инженерные проекты",
+      "detail": "KodingNext: Оскару RoboCare 4–7, Матвею BioLab / AI 8–11; английский преподавателя конкретной группы проверить. ITEX: выставка 27–28 мая 2027, награждение 29 мая. Детский пропуск и правила конкурса нового выпуска пока условны.",
+      "event_ids": [
+        "L319",
+        "L320",
+        "L321",
+        "E157",
+        "C1025"
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "iso": "MYS",
+      "name": "Малайзия",
+      "verdict": "Матвей: школьный Junior; Оскар: отдельный младший формат",
+      "reason": "NROC Junior допускает годы рождения 2017–2019 и назначен на 14 ноября 2026. IYRC имеет Foundation 4–7 и отдельные международные правила, но следующий выпуск ещё не датирован.",
+      "mat": "NROC Junior подходит в 2026 после проверки школы и иностранного допуска. В 2027 Матвею исполняется 10: нужна новая Primary категория и её правила. WYIE Primary до 12 лет — условный проектный вариант.",
+      "osc": "IYRC Foundation 4–7 по 2026; новый сезон неизвестен. NRC / NROC начинаются с 7, Soleh Camp — тоже с 7.",
+      "camp": "Newtonshow и Embassy уже есть в базе. Soleh 7–17 не подтвердил английское техническое преподавание. DRABOT — онлайн с 10 лет, а не очный лагерь для обоих.",
+      "school": "Для постоянной базы нужна конкретная школа с младшей командой, наставником и протоколами. Нового досье с доказанным мировым лидерством этот проход не дал.",
+      "city_route": "Куала-Лумпур / Petaling Jaya: проба наставника, NROC и ITEX. Учебный центр My-Robot в Johor — отдельная площадка от соревнования.",
+      "budget": "У ITEX прошлый FAQ предлагает бесплатный публичный / ученический вход; условия детей 2027 уточнить. Взносы NROC, комплект и школа отдельно. Цена Soleh не опубликована.",
+      "results_check": "Сверить точную категорию и протокол NRC / NROC. Выставочные медали WYIE не являются местом в мировой роботолиге.",
+      "risk": "Ученик международной школы Малайзии и приезжая зарубежная команда имеют разные условия. NRC и NROC отличаются составом; язык судейства и мировые квоты ещё неизвестны.",
+      "event_ids": [
+        "C1021",
+        "C1022",
+        "C1023",
+        "C1024",
+        "C1025",
+        "C068",
+        "L189",
+        "L192",
+        "L326",
+        "L327",
+        "E157"
+      ],
+      "profile_ids": [
+        "sasbadi-malaysia",
+        "iyrc-asean-malaysia"
+      ],
+      "school_ids": []
+    },
+    {
+      "iso": "IDN",
+      "name": "Индонезия",
+      "verdict": "Двуязычное обучение подтверждено; конкурсный допуск условен",
+      "reason": "KodingNext прямо подтверждает обучение на индонезийском и английском. IYRC делит младшие категории по школьным классам. WRO Elementary и Entry Level начинаются с 8.",
+      "mat": "WRO 8–12 и IYRC Grade 3–6 после проверки класса. RoboNext Junior Builder 8–12 получает младший приз, а поездка Beijing относится к старшим 13–19.",
+      "osc": "RoboCare 4–7; IYRC Kinder / Brickspeed после определения TK или Grade 1–2. Entry Level WRO не подходит в 6 лет.",
+      "camp": "Четыре содержательных курса KodingNext: робот, AI classifier и разработка игры. Два дня по три часа. Новых дат нет; физическая робототехника только в шести названных филиалах, Bali не обещан.",
+      "school": "Протокол IYRC 2026 содержит школы и награды, но один сезон и несколько Gold в категории не доказывают мировое лидерство школы за десять лет.",
+      "city_route": "Jakarta / Kemayoran / Puri для лагеря; YARSI — площадка прошлого IYRC. Surabaya — национальный WRO после обязательного регионального отбора.",
+      "budget": "По 2026: IDR 800 000 за один курс, 1 300 000 за два. Новый счёт нужен. Три B2B выставки доступны только взрослым; семейная поездка не рассчитана.",
+      "results_check": "Использовать первичный протокол IYRF с дисциплиной и уровнем награды. Gold в Creative может быть наградной группой, а не единственным победителем.",
+      "risk": "Иностранный школьный класс, команда и язык оценки требуют согласования. INATRONICS, IISMEX и Manufacturing Indonesia не допускают детей до 18.",
+      "event_ids": [
+        "C1026",
+        "C1027",
+        "C1028",
+        "C1029",
+        "C1030",
+        "C1031",
+        "C1032",
+        "C1033",
+        "C1034",
+        "L319",
+        "L320",
+        "L321",
+        "L322",
+        "E158",
+        "E159",
+        "E160",
+        "E162"
+      ],
+      "profile_ids": [
+        "wro-indonesia",
+        "iyrf-indonesia"
+      ],
+      "school_ids": []
+    },
+    {
+      "iso": "VNM",
+      "name": "Вьетнам",
+      "verdict": "Конкретный международный Open и условный дистанционный этап",
+      "reason": "Vietnam Open 19–21 февраля 2027 предусматривает приезд зарубежных команд. Hanoi 17 октября — квалификатор, Remote 18 октября — по приглашению. Это самостоятельный маршрут RECF.",
+      "mat": "Engage Elementary 12U после школьной категории. WRO Elementary 8–12; FLL Challenge 9–16 по обзору национального оператора. Квота представлять Вьетнам не обещана.",
+      "osc": "Максимальный возраст Engage 12U подходит, но младший школьный допуск нужно подтвердить. FLL Explore 6–9 по обзору. Scrimmage 9 октября предназначен для Middle School.",
+      "camp": "HEC прямо заявляет English STEAM и all-English summer engineering; формальный возраст и будущие даты пока неизвестны. Hanoi Academy 5–16 предлагает English practice, язык технической части не доказан.",
+      "school": "До решения о переезде нужны школа, английская программа, конкретная младшая команда, наставник, часы и результаты. Этот проход нового школьного досье не добавил.",
+      "city_route": "Ханой: RECF и пробное занятие HEC. Ho Chi Minh City: ICTCOMM 29 июня–1 июля 2027; Education Zone включает родителей и учеников, детский билет пока нужно уточнить.",
+      "budget": "RECF: Hanoi $60, Remote $20, Open $90 за команду; сезонный взнос и оборудование отдельно. 210 000₫ за занятие на витрине HEC — не полная стоимость лагеря.",
+      "results_check": "Государственный отчёт подтверждает финал ROBOTACON 2026, иностранных гостей и 44 вьетнамские квоты после отбора. RECF требует своего утверждённого распределения мест.",
+      "risk": "Приглашение Remote нельзя заменить кнопкой заявки. Даты и двухдневная повестка Hanoi / Open расходятся; окончательное расписание и язык интервью согласовать.",
+      "event_ids": [
+        "C1035",
+        "C1036",
+        "C1037",
+        "C1038",
+        "C1039",
+        "C1040",
+        "C1041",
+        "C1042",
+        "L323",
+        "L324",
+        "L325",
+        "E161"
+      ],
+      "profile_ids": [
+        "recf",
+        "robotacon-vietnam"
+      ],
+      "school_ids": []
+    },
+    {
+      "iso": "PHL",
+      "name": "Филиппины",
+      "verdict": "Школьный PRO с 8 лет; Kibo требует другой паспорт",
+      "reason": "Форма FELTA подтверждает PRO Elementary 8–12 и необходимые документы. Календарь 2026 содержит противоречия; будущий финал не назначен. PhilSA Kibo требует филиппинского гражданства.",
+      "mat": "PRO Elementary 8–12 после допуска иностранной школы. Новая местная категория FLL ещё не установлена. Philippine Kibo не подходит по заявленному гражданству семьи.",
+      "osc": "PRO начинается с 8. Конкретный новый FLL Explore или другой шестилетний конкурс в этом проходе не подтверждён. Kibo исключён по гражданству.",
+      "camp": "Подтверждённый английский роботолагерь с конкретной группой 6/9 этот проход не установил. Рекламный CodeCraft пакет не заменяет возраст, язык и даты лагеря.",
+      "school": "DLSZ Vermosa указан как площадка FLL 2026. Это ещё не доказательство лучшей школы или приёма зарубежных детей; новые школьные досье не добавлены.",
+      "city_route": "Metro Manila / Quezon City для FELTA после проверки школы и команды. Переезд требует отдельной проверки наставника и учебной программы.",
+      "budget": "Новые взносы PRO / FLL и комплект неизвестны. Денежный приз Philippine Kibo не доступен семье без требуемого гражданства.",
+      "results_check": "Проверять первичный протокол с точной дисциплиной, командой и наградой. Принимающая площадка FLL не становится победившей школой автоматически.",
+      "risk": "Kibo требует Filipino citizenship даже для учеников зарубежных школ. PRO запрашивает медицинский документ, authenticated birth copy, подписи родителя и директора.",
+      "event_ids": [
+        "C1043",
+        "C1044",
+        "C1045",
+        "C1046",
+        "C1047"
+      ],
+      "profile_ids": [
+        "felta-philippines"
+      ],
+      "school_ids": []
+    }
+  ],
+  "steps": [
+    {
+      "title": "Подтвердить класс и категорию",
+      "detail": "Получить школьный класс обоих, возрастную отсечку нового сезона, наставника и допуск зарубежной команды. Названия Junior и 12U не заменяют условия конкретного события."
+    },
+    {
+      "title": "Выбрать одну конкурсную систему",
+      "detail": "Сначала пробный наставник и один проект, затем совместимый комплект. После трёх лет соревнований нужно проверить, даст ли начальный лагерь достаточно сложную задачу. Инженерный дневник и код должны оставаться работой детей."
+    },
+    {
+      "title": "Проверить смену отдельно от школы",
+      "detail": "Запросить дату, возрастную группу, технические часы и язык именно robotics. У KodingNext курс занимает шесть часов; у HEC формальный возраст и новая летняя смена ещё неизвестны. Это пока кандидаты, а не основание переезда."
+    },
+    {
+      "title": "Согласовать допуск до поездки",
+      "detail": "Нужны подтверждённое место, площадка, детский пропуск и итоговый тариф. Для международной награды проверить конкретный протокол и число квалификационных мест. INATRONICS, IISMEX и Manufacturing Indonesia запрещают посещение до 18 лет."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NROC Malaysia · RoboMission Junior · 14 ноября 2026",
+      "url": "https://nroc.sasbadi.com/competition",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Календарь национального этапа",
+      "url": "https://nroc.sasbadi.com/schedule",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Содержимое правил, загружаемое официальной страницей",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/181",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Содержимое календаря официальной страницы",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/155",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Оператор: школы и общий состав",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/153",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "NRC Malaysia · RoboMission Junior · следующий сезон",
+      "url": "https://nrc.sasbadi.com/competition",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Правила, подгружаемые официальной страницей NRC",
+      "url": "https://wpsls.sasbadi.com/wp-json/wp/v2/posts/52",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "WYIE / ITEX Malaysia 2027 · Primary inventors",
+      "url": "https://itex.com.my/competition/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Баннер 2027: два выставочных дня и отдельное награждение",
+      "url": "https://itex.com.my/wp-content/uploads/2026/05/Web_banner_Main_Website_Desktop_2561_x_10681-scaled.jpg",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Главная нового выпуска",
+      "url": "https://itex.com.my/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "WRO Indonesia · RoboMission Elementary · следующий цикл",
+      "url": "https://wroindonesia.org/kategori_00.html",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Обязательная региональная ступень и национальная дата 2026",
+      "url": "https://wroindonesia.org/infoDaftar_00.html",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "IYRC Indonesia · Kinder Mission / Brickspeed · Junior A/B/C · следующий выпуск",
+      "url": "https://iyra-indonesia.id/iyrc-indonesia-2026/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Официальный постер с датой и онлайн / очными дисциплинами",
+      "url": "https://iyra-indonesia.id/wp-content/uploads/2026/03/IYRC-Indonesia-2026-1-724x1024.png",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RoboNext Innovation Challenge · RoboExplorer · следующий набор",
+      "url": "https://www.kodingnext.com/ric2026",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ROBOTACON WRO Vietnam · RoboMission Elementary · следующий цикл",
+      "url": "https://edu.steamsolutions.com.vn/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Отчёт государственного ведомства о финале 2026 и гостях",
+      "url": "https://skhcn.gialai.gov.vn/Home/ChiTietTin/?tin=NjQxNA%3D%3D",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Описание национального оператора",
+      "url": "https://steamsolutions.com.vn/san-choi/robotacon/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ROBOTACON FLL Vietnam · Explore · следующий сезон",
+      "url": "https://steamsolutions.com.vn/san-choi/first-lego-league-viet-nam/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FELTA: календарь Vietnam Championship 2026",
+      "url": "https://felta.ph/pro/files/2026/FELTA%20SCHEDULE%20OF%20ACTIVITIES%202026_version%208.pdf",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RECF Engage · Hanoi Qualifying Tournament",
+      "url": "https://recfevents.org/Events/Details/178",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Manual2.0: возраст, команда, взрослый и permitted parts",
+      "url": "https://games.recf.org/engage/2.0",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Четыре опубликованных Vietnam events",
+      "url": "https://recfevents.org/Events/ApprovedEvents?ProgramTypeId=1&RegionId=109",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RECF Engage · Vietnam Solo Remote · по приглашению",
+      "url": "https://recfevents.org/Events/Details/611",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RECF Engage · Vietnam Open · международный Signature Event",
+      "url": "https://recfevents.org/Events/Details/177",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RECF Engage · Hanoi Scrimmage · Middle School only",
+      "url": "https://recfevents.org/Events/Details/760",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Philippine Robotics Olympiad · RoboMission Elementary · следующий цикл",
+      "url": "https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Оператор PRO",
+      "url": "https://felta.ph/pro/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Kibo Robot Programming Challenge · Philippines · Beginner",
+      "url": "https://philsa.gov.ph/news/7th-kibo-robot-programming-challenge/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "KodingNext Holiday Camp · RoboCare Lab · следующий набор",
+      "url": "https://www.kodingnext.com/holiday-camp",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FAQ: прямо указан язык обучения, оборудование и уровни",
+      "url": "https://www.kodingnext.com/en",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "HEC Hanoi · English STEAM & Robotics · регулярная группа",
+      "url": "https://hanoienglish.com/robotics.html",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "HEC Hanoi · all-English summer engineering · кандидат нового лета",
+      "url": "https://hanoienglish.com/camp/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Официальный текст витрины, загружаемый приложением",
+      "url": "https://hanoienglish.com/camp/assets/index-D6WUE6um.js",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Hanoi Academy · NextGen Summer Camp · кандидат нового набора",
+      "url": "https://summercamp.hanoiacademy.edu.vn/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Soleh Academy · 3 Days Robotics Camp",
+      "url": "https://solehacademy.com/3-days-robotics-camp",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "DRABOT Malaysia · robotics online intensive · будущая ступень 10+",
+      "url": "https://www.drabot.com.my/programs-workshops/drabot-robotics-holiday-camp-2026",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FAQ: audience / tickets старого выпуска",
+      "url": "https://itex.com.my/faq/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "INATRONICS2027 · electronics / components / technology",
+      "url": "https://www.inatronics-exhibition.net/event-fact-sheet",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "IISMEX2027 · smart-city technology",
+      "url": "https://iismex.com/visitor/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Manufacturing Indonesia2026 · industrial technology",
+      "url": "https://www.manufacturingindonesia.com/visiting/visitors-faq/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Vietnam ICTCOMM2027 · AI / IoT / EdTech",
+      "url": "https://ictcomm.vn/en/about-ictcomm/",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "INTI Robotics & Automation Expo · следующий выпуск",
+      "url": "https://robot.inti.asia/about",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "IYRC ASEAN — младшие лиги, следующий сезон",
+      "url": "https://www.myrobotacademy.ai/iyrcasean2026",
+      "checked": "2026-10-01"
+    }
+  ]
+}

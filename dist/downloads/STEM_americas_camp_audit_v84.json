@@ -1,0 +1,121 @@
+{
+  "asof": "2026-10-05",
+  "version": 84,
+  "status": "progress",
+  "scope": "USA/Canada/CostaRica/Mexico programme-specific general/family/boarding/Spanish camps; all priority regions and full worldwide goal remain active",
+  "new_dossiers": 16,
+  "operators_covered": 6,
+  "updated_dossiers": [],
+  "new_calendar_rows": 26,
+  "new_family_ics": 21,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 464,
+  "countries_with_dossiers": 34,
+  "official_dossier_urls": 727,
+  "country_dossier_counts": {
+    "CHE": 69,
+    "FRA": 39,
+    "ESP": 31,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 25,
+    "SGP": 56,
+    "JPN": 23,
+    "KOR": 10,
+    "PHL": 2,
+    "USA": 44,
+    "CAN": 57,
+    "CRI": 10,
+    "MEX": 25,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "walt-whitman-pioneer",
+    "walt-whitman-regular",
+    "walt-whitman-family",
+    "champions-one-week",
+    "champions-regular",
+    "champions-family",
+    "walden-regular",
+    "walden-explorer",
+    "walden-long-weekend",
+    "nominingue-junior",
+    "nominingue-regular",
+    "nominingue-family",
+    "ico-oaxaca-kids",
+    "intercultura-heredia-kids",
+    "intercultura-samara-kids",
+    "intercultura-teen-adventure"
+  ],
+  "findings": [
+    {
+      "country": "США",
+      "iso": "USA",
+      "provider": "Whitman / Camp Champions: grade и язык",
+      "detail": "Даты 2027 первично подтверждены, но EN сайтов не доказательство whole-course EN. Grade1/2 Pioneer, one-week Champions maxGrade3/8 и lower-bound unknown;2/4weeks K–11,3/5/6weeks Grade2+. Current-family header 2027 с текстом 2026/Campanion automatic против rates optional.",
+      "next_action": "Текущий invoice/English, actual completed grades, питание, app fee/airport costs и cancellation contract; внешние сообщения не отправлены.",
+      "url": "https://campchampions.com/dates-rates"
+    },
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "Walden / Nominingue: закрытая регистрация и год программы",
+      "detail": "Walden Summer 2027 RegistrationClosed/waitlist; 13%HST/3%card, outsideCanada/US tariff mayvary, CAN/US accepted. LongWeekend full-payment exception,3days vs4days labels; refundtiers vs blanketnon-refundable contradiction. Nominingue English confirmed, SummerCalendar explicitly 2026 and rates unlabelled:2027 dates/fees не придуманы.",
+      "next_action": "Реальный admission/English/final foreign quote Walden; датированный 2027 brochure Nominingue и current currency/tax/insurance/cancellation.",
+      "url": "https://www.campwalden.ca/rates-and-dates/"
+    },
+    {
+      "country": "Коста-Рика / Мексика",
+      "iso": "CRI",
+      "provider": "Intercultura / ICO: прайс не дата и не пансион",
+      "detail": "Intercultura 2027 PDF365/380 USD kids,8–12;Oscar ниже 8/Heredia apartments under8 запрещены. Family page ещё 2026 prices; fixedHeredia/alternatingSamara, deposit150/250 vsTeen20%, adult/housing отдельно. ICO 2026 JuneAug5–12/cap6/100%ES,5thweekpricegap;55deposit/refundgeneralFAQ применимость проверить.",
+      "next_action": "Польза детям с уверенным Spanish, реальные 2027 availability/campdates, quotedrefund/total и жильёсемьи; не генерировать 52weeks без фактических campcohorts.",
+      "url": "https://interculturacostarica.com/family-spanish-immersion-program/"
+    },
+    {
+      "country": "Бразилия / Чили / Мексика",
+      "iso": "BRA",
+      "provider": "Timbalaia / Acampark и повторная сверка существующих операторов",
+      "detail": "Timbalaia Jan 2027 age6–17 и packsBRL2940/2450/5130 прочитаны ownwebreader, прямой 403 сохранён; school-languagegroups не доказывают EN holidaycamp. Acampark Jan17–23/17–20 2027 age5–16, board/5meals/busSãoPaulo/terms primary, но EN/ES и цена неизвестны: не добавлен в ENshortlist. WildRoots/Makemake уже существуют; новыедубликаты не созданы.",
+      "next_action": "Текущая международная EN/ES holiday cohort, stafflanguage/total вместо вывода из PT сайта или schoolgroups; другие LatinAmerica/Europe/Asia приоритеты продолжаются.",
+      "url": "https://edutretenimento.acampark.com.br/acampamento-de-ferias"
+    }
+  ],
+  "calendar": {
+    "events": 2823,
+    "learning_records": 1492,
+    "family_ics": 2149,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1029,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "All 2797 previous event IDs/content and 448 programme dossiers preserved.16 new programme/grade/format dossiers cover6 operators, not16 independent camps; 26 explicitly dated rows,21 familyICS additions.",
+    "Whitman Pioneer2027 July25–31/$2000: finishingGrade1/2 only. Matvey age9–10 is not proof of grade1/2 admission. Regular Full/First/Second source prices17600/12150/9400; short-session grades2/3 and limited4–7 preserved, Second dates not stretched to four weeks.",
+    "Whitman Family Aug16–20 2027: adult1000,child4–17 500,<=3free;2adults+2children>=4 arithmetic3000 before unknown food/fees. Own English webpage not a whole-course language guarantee; no EN-confirmed flag.",
+    "Champions 2027 HTML rates parsed independently:5 one-week terms,5 two-week,4 four-week,TriplePlay3-week and Combo5-week. One-week maxGrade3/8 differs; lower one-week bound not copied from K–11 two/four-week. Longer3/5/6 weeks Grade2–11. Six-week combine-any-three rule not expanded into guessed calendar dates.",
+    "Champions tuition/deposit:2450/400,4750/800,7250/800,6350/800,8995/800,10500/800. No double-counted deposit. Current-families heading2027/text2026 and automatic Campanion opt-out conflict with rates optional; unconfirmed2026 transport amounts not promoted to2027.",
+    "Champions Family Sep25–27 2026 archive only, not2027. Family rates differ by attendance/age; own linen, whole-cabin only6+ group/499.50 deposit; family of4 not assumed to receive private cabin. No family2027ICS.",
+    "Walden Ontario Summer2027 RegistrationClosed/waitlist:5 dated catalogue rows all closed and excluded from familyICS. Grade2–10 regular/2–5 six-week,Grade2-onlyExplorer,Grade1-onlyLongWeekend; finishingSK explicitly not thisyear. DAY1 decoration not day-camp mode.",
+    "Walden foreign rates outsideCanada/US mayvary, fees payableCAN/USD,13%HST/3%card. General2000deposit but explicitFAQLongWeekend full-payment exception retained. Rates3days vsjourney4days label; actualJul30–Aug2 unchanged. Tiered refund vs blanket non-refundable paragraph conflict retained, not free-cancellation promise.",
+    "Nominingue camp operates inEnglish directly stated inFAQ; French exposure not mandatory bilingual instruction. Boys7+ and age/grade-specific durations, junior rates7–10 vsFAQ7–9 upper bound conflict; Oscar only after7birthday. Calendar explicitly2026/PDF2026 agrees; unlabelled rates not proof of2027 or future vacancies/currency/tax.",
+    "Nominingue Family Aug19–23 2026 tents/meals,adult150/day520/full,child100/day350/full,<=3free; unit currency/tax unknown. General boys EN proof not automatically wholefamilyEN. No invented2027 dates or medical insurance2018 fee reused ascurrent.",
+    "ICO Oaxaca Kids5–12,groups5/6–8/9–12,max6,100%Spanish,June1–Aug21 2026,20hoursMonFri9–13. Price300/560/780/960USD1–4weeks;5thweek gap retained. Deposit55/14day generalFAQ credit rules scoped toKids confirmation. No copied52Monday camp sessions or2027 dates.",
+    "Intercultura own2027PDF visuallyread: kids365Heredia/380Samara perweek,adult345/3651–4weeks separately;teen3650two-week all-inclusive. Family page older345/365not treated2027. Ages8–12,Oscar below8;private hourly rate not proof ofunder8camp admission. Heredia schoolapartments forbidunder8;family housingquote separate.",
+    "Intercultura Heredia fixedAM/PM vsSamara alternatingAM/PM,parents priority notguaranteed;20hours includesbreaks. Standard150/250nonrefundabledeposit vsgroup/teen20% and cancellation schedules retained. Teen13–17 futuretrack only;price2027 notdate2027, no rolling-session calendar invention.",
+    "Brazil Timbalaia ownreader Jan2027 6–17/BRL2940,2450,5130;HTTP403 retained. Acampark direct2027 age5–16/date/package/cancel read,English/Spanish programme and price notknown: no fakeENshortlist. ExistingWildRoots/Makemake bodyrevalidated withoutduplicate dossiers.",
+    "SQLite/publicJSON agree, calendar bridge idempotent,104exhibitionICS and all previous2128familyUID/datepairs preserved.102family scenarios,34dossiercountries,0fullyauditedcountries; complete authorised worldwide goal remains active."
+  ],
+  "next_priority": "Continue Swiss/French/Spanish/Europe,USA/Canada/CostaRica/Mexico/LatinAmerica,Taiwan/Singapore/Japan/Korea junior/general/technical2026–27 day/boarding/family programmes with full prices/languages/grade/admission/availability; schools/results/routes and worldwide leagues/exhibitions remain in scope"
+}

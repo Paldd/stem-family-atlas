@@ -1,0 +1,522 @@
+{
+  "asof": "2026-10-05",
+  "version": 102,
+  "scope": "33selecteddirectattempts/31HTML/2CTD404/0PDF/4publicproductofferchecks,notwholewebsites/countries. RawHTMLprivate.",
+  "sources": [
+    {
+      "key": "dulwich-camps",
+      "url": "https://www.dulwich.org/world/camps",
+      "final_url": "https://www.dulwich.org/world/camps",
+      "status": 200,
+      "bytes": 240758,
+      "sha256": "fb60c5cef04dc21ba42eb34fcf490c83841b3c166acb6b895d3beb7f91361f17",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected current winter LITA11–17/English/14800/12850/two6daydates, Finlandfamily6–17/3dates/40800indicativeunitunknown/flightsexcluded and ongoingOctAIfilmG4–6/EN/650010800/max30. NotwholeEIMxpartners/worldcampaudit.",
+      "body_snapshot_retained": true,
+      "raw_filename": "dulwich-camps.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ycyw-primary",
+      "url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+      "final_url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+      "status": 200,
+      "bytes": 818824,
+      "sha256": "81a73b86bdf3a3a422e840d37dfa1a0c0f1020cd4648dfe47ffc23e234cec1db",
+      "retrieval_method": "direct_http",
+      "content_scope": "Selected own2026ShanghaiEN/PBL6–14Y1–8and8–10Y4–6/10800;BeijingVEX8–13Y4–9/9500,VEXIQG4–9/13800,TongxiangG4–12/dayboardfees/externalssameprice. No2027datesorEnglishVEXteacherstatementfound.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ycyw-primary.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ctd-shanghai",
+      "url": "https://www.seedasdan.com/en/ctd-offline-en/",
+      "error": "HTTP Error 404: Not Found",
+      "retrieval_method": "direct_http",
+      "content_scope": "DirectEnglishURL404/noactualbody. Searchprimarycachedsnippetnotfullsource/current2027programmeproof; noCTDdossierinvented.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_body"
+    },
+    {
+      "key": "korea-ltl",
+      "url": "https://summercampkorea.com/",
+      "final_url": "https://summercampkorea.com/",
+      "status": 200,
+      "bytes": 95946,
+      "sha256": "c675c5648806e1e41aea8f90802d71cd87f01a746e054a73511f27e5c52a1917",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027headline7–17,Koreanclasses20h/KidsDay7–11/Residence11–17/Homestay12–17/HalfDay7–17,USD377fromunitpackageunknown. Englishsite/EnglishdoctorsnotEnglishinstruction/support; copiedHalfDayinclusioncontradictionretained.",
+      "body_snapshot_retained": true,
+      "raw_filename": "korea-ltl.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "mandarin-inn",
+      "url": "https://www.mandarininn.cn/chinese-summer-camp-shanghai",
+      "final_url": "https://www.mandarininn.cn/chinese-summer-camp-shanghai",
+      "status": 200,
+      "bytes": 177936,
+      "sha256": "e865b4f01188d24cffdf8c8c45a80c92d1707f139015386863199a43cc956af8",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026bilingualENMandarin8–12/culture9–16/fees380072201026012920/noincludedlunch/ownparentdropoff/12class/outings1:6. Fourweekdescriptionvseightformweeksnotresolved; no2027copy.",
+      "body_snapshot_retained": true,
+      "raw_filename": "mandarin-inn.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ltl-taiwan",
+      "url": "https://summercamptaiwan.com/",
+      "final_url": "https://summercamptaiwan.com/",
+      "status": 200,
+      "bytes": 90064,
+      "sha256": "71f9d5f7f772118ec6b25c268bc6a1b1098d111ebd0f60ee9dfab7e8125116db",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027headline/Mandarintraditional20h/7–11dayparents/11–17residence/12–17homestay/class5–8max12. Noactualexact2027cohort/fullfee/Englishstaffsupportfound inselectedbody; halfdaylistcontradictsprose.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ltl-taiwan.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ltl-japan",
+      "url": "https://summercampjapan.com/",
+      "final_url": "https://summercampjapan.com/",
+      "status": 200,
+      "bytes": 98383,
+      "sha256": "7068543b1102937b6e63800cf652d252ed08f9498f4a64501d5c78b09a1e19b5",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnTokyo/OsakaJapanese20h/2027headline/day7–11/board11or12plus/max12/parentsallowed. Noexact2027dates/fullprice/ENstaffsupportfromselectedbody. TeamLabtournottechnicalteachingcamp.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ltl-japan.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ltl-generic",
+      "url": "https://ltl-school.com/summer-camps/",
+      "final_url": "https://ltl-school.com/summer-camps/",
+      "status": 200,
+      "bytes": 162490,
+      "sha256": "235aced69b31e6d72ae4b04f29a030ecff8a6b7f070954525448a00735dc4fff",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownfamilyaccompaniment/5percentsibling/classmax12/doctorEnglish/preloadedtransitlimitedfirsttrips. EnglishdoctornotENcamplife; popupprice/startbuttonsnotreadactualdatedfees.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ltl-generic.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tinycode-home",
+      "url": "https://www.tinycode.hk/in-home-camps/",
+      "final_url": "https://www.tinycode.hk/in-home-camps/",
+      "status": 200,
+      "bytes": 205459,
+      "sha256": "acb0330d24d0f95194258df8ec8748ff292a4f458a192fc7da0070ea1baf399e",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownarchive2026inhomeEN10h/courseagegates6–8,7–11,body8–12vsFAQ8–10,10plus;5280single3432EACHgroup2–3/laptop/software/hardwareonlyrobotlab/projectreportcertificate16classroadmapnot16paidclasses.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tinycode-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-hk-circuit",
+      "url": "https://aisloutdoor.com/products/circuit-champs-day-camp-2026",
+      "final_url": "https://aisloutdoor.com/products/circuit-champs-day-camp-2026",
+      "status": 200,
+      "bytes": 330768,
+      "sha256": "06bed00a6802ebfb08eac1f6815f9cfc10fc7c0d559f4260c8147a8de2409d86",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownarchive2026English9–11/JuneJulydates/8980smartcar/laptopnoiPad. Notnew2027capacity/date/fee; priorwintercoursefactsfromnewactualcards.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-hk-circuit.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ycyw-index",
+      "url": "https://www.ycyw-edu.com/en/summer-programme-2026",
+      "final_url": "https://www.ycyw-edu.com/en/summer-programme-2026",
+      "status": 200,
+      "bytes": 602903,
+      "sha256": "425657d186ba0191d475c7e0f456275491e65cd082f27b37dd74da91c920308e",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownnetworkopenall2–18/bilingualmarketingdoesnotoverridecoursegrade/ageorproveENVEX. Noformsubmission orpassporteligibilityapproval.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ycyw-index.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ycyw-early",
+      "url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-early-childhood-programme",
+      "final_url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-early-childhood-programme",
+      "status": 200,
+      "bytes": 711022,
+      "sha256": "7a2ede8dfead2546ab7573bf006d0a7f9e260c5d942d3fb0423cc5b635f5a412",
+      "retrieval_method": "direct_http",
+      "content_scope": "SelectedownarchiveECE2–5English/880015800 andKLT4–6STEAM2400. Notnew2027agegate; notextraEOscar6–7dossierfrom2–5archive.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ycyw-early.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-winter",
+      "url": "https://aisloutdoor.com/collections/stem-winter-camp-26-hong-kong",
+      "final_url": "https://aisloutdoor.com/collections/stem-winter-camp-26-hong-kong",
+      "status": 200,
+      "bytes": 288769,
+      "sha256": "0fc489de9b6dc527dee614eac7abda516930a0af7469896d70f56c0e6c1a4421",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnwinterSTEMcollectionwiththreeactualproductlinks,Englishmarketing. GuangzhouproductlocatedMainlandChina despiteHKcollection; geographyreadactualproductvenue.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-winter.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-winter-japan",
+      "url": "https://aisloutdoor.com/collections/adventures-winter-camp-26-myoko-japan",
+      "final_url": "https://aisloutdoor.com/collections/adventures-winter-camp-26-myoko-japan",
+      "status": 200,
+      "bytes": 268014,
+      "sha256": "1dcf1c16bff898e2132ba9260b8777541a0e7e9efc2d3f032550d8cfb91ac1e6",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnwinterMyokocollection/productlink; exactage10–16/fee/gearfromactualproductnotcollectionheading.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-winter-japan.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tinycode-terms",
+      "url": "https://www.tinycode.hk/terms-and-conditions/",
+      "final_url": "https://www.tinycode.hk/terms-and-conditions/",
+      "status": 200,
+      "bytes": 195883,
+      "sha256": "ed22148d3017b064872f33b600c6fd974ae881b3895b787e9b3096482962f523",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualApril2026selectedfullpayment/nonrefund/nofeeorstudenttransfer/7daysreschedmax1monthly/weatherT8BlackRainresched. Notlegalreview/new2027contract.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tinycode-terms.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tc-home",
+      "url": "https://tctimewalk.com/en",
+      "final_url": "https://tctimewalk.com/en",
+      "status": 200,
+      "bytes": 149277,
+      "sha256": "ff1f0becd920a4309f1b240b2d765df44dfb800dd75f13bc66b46165957fa82b",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnEN9–15/5days4nights/bilingual/2027prebookinglink. Coretour4languagesnot4languagecampinstruction.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tc-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tc-camp",
+      "url": "https://tctimewalk.com/pro-courses/summercamp",
+      "final_url": "https://tctimewalk.com/pro-courses/summercamp",
+      "status": 200,
+      "bytes": 57787,
+      "sha256": "34faeba4c5e013a3c33f51e62b4dbab49c4a762376fe70eb10ee3124e9448e50",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownarchive2026Aug22–26/grades9–15incoming3to10/20900early18999two17500each/inclusionhostelmealsinsurance/publictransport. Own1:7guideactivityvs1:1tasknotoverallratio; no2027pricefromarchive.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tc-camp.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tc-2027",
+      "url": "https://tctimewalk.com/blog/junior-city-ambassador-camp-taichung",
+      "final_url": "https://tctimewalk.com/blog/junior-city-ambassador-camp-taichung",
+      "status": 200,
+      "bytes": 57055,
+      "sha256": "c24c4ada1be86e83a4f55e3cdb4da831d67935ae375954bcc39e9373751542e2",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnSep2026blog2027prebooking1000deposit,priceunannounced,7dayspostpricefullrefundifreject. Noactual2027dates/fullfee/fullrefundafterthatwindowinferred.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tc-2027.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine",
+      "url": "https://www.jgroup.com.tw/summer-back-in-taiwan/",
+      "final_url": "https://www.jgroup.com.tw/summer-back-in-taiwan/",
+      "status": 200,
+      "bytes": 50744,
+      "sha256": "0989215ca36c66e73e9ee62ebea8bd1b1fef0281a59c39463d21008ad6e8c091",
+      "retrieval_method": "direct_http",
+      "content_scope": "Ownactual2027nine-sessiontable/fees13800–19800/currentgradeatregistration/optionalnightcosts/noduplicatewaterboarding/rail3nights4500;AXCENledwithChinesepeers,NOLAMandarinprimary+ENcriticalcontact/parentENsupport.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "kdw-home",
+      "url": "https://parentportal.kidsdiscoveryworks.com/",
+      "final_url": "https://parentportal.kidsdiscoveryworks.com/",
+      "status": 200,
+      "bytes": 46032,
+      "sha256": "16f71ce9f53038ad0637c668c56e8382de66c2157948fe19f5bb7fc79a067488",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnBishanoperator/curriculaSpikePrimeScratch/BattlebotsRescueRovers/kindergartenprimarycourseheadings. Languageofactualinstruction andfulldatedpricetableunconfirmed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "kdw-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ctd-cn",
+      "url": "https://www.seedasdan.com/ctd-offline/",
+      "error": "HTTP Error 404: Not Found",
+      "retrieval_method": "direct_http",
+      "content_scope": "DirectChineseURL404/noactualbody; cachedsearchnotusedasfullcurrentprogrammeaudit.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_body"
+    },
+    {
+      "key": "harrow-ecobot",
+      "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "final_url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "status": 200,
+      "bytes": 337795,
+      "sha256": "a4e213c1ecdeee849d89243b8196737721a4452c452d61958644905756a33de7",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualEnglish6–8/Dec21–24/09–16/8980/materialslunchsnacks/robotmotorssensorstablet/safety/sustainability;publicproductofferInStock/variantavailabletrue ratherthanhiddengenericSoldoutlabel. Noacceptedregistrationproof.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-ecobot.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-auto",
+      "url": "https://aisloutdoor.com/products/future-automotive-construction-academy",
+      "final_url": "https://aisloutdoor.com/products/future-automotive-construction-academy",
+      "status": 200,
+      "bytes": 339411,
+      "sha256": "f70e9c02acfc2a131c9890146bbccf68b06c1f25f04430d6d69d41550f34e897",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualGuangzhouMainlandvenue8–13/Dec21–26/12500HKDtaxinc/English/residential/kartengineeringbrandingbusiness/fullmeals/PLI. F1-inspirednotofficialF1licence/worldroboticscompetition. Rooms/ratio/foreignintakeunknown.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-auto.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-sleigh",
+      "url": "https://aisloutdoor.com/products/santa-s-sleigh-lab",
+      "final_url": "https://aisloutdoor.com/products/santa-s-sleigh-lab",
+      "status": 200,
+      "bytes": 343361,
+      "sha256": "aeaeb810f86ed83318abe23dc9ad9319a81e7783fe8afcfc66c538f6fde96b74",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualEnglish9–12/Dec21–24/8980/lunchsnacks/materials/basicEN/engineeringphysicsprototype/ownfinalchallenge,notguaranteedroboticssoftwareplatform.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-sleigh.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-ski",
+      "url": "https://aisloutdoor.com/products/myoko-ski-winter-camp",
+      "final_url": "https://aisloutdoor.com/products/myoko-ski-winter-camp",
+      "status": 200,
+      "bytes": 426093,
+      "sha256": "c6dbab6a2ad6f2ca530e7de0ee20f5f8d90c2bfd50acad4c50d6bbb368fe5ef1",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualMyokoJapan10–16/Dec21–26/23800English/5nights/4lessons/lift/rentalhelmetboots/airportescorts included;winterclothes/medicalwinterinsurance/flights/evacuationexcluded.1:5ownclaim/WMAassessmentcertificateconditionnotinternationalaward.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-ski.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-calendar",
+      "url": "https://www.jgroup.com.tw/%E5%A4%8F%E4%BB%A4%E7%87%9F/",
+      "final_url": "https://www.jgroup.com.tw/%E5%A4%8F%E4%BB%A4%E7%87%9F/",
+      "status": 200,
+      "bytes": 136509,
+      "sha256": "d1af8ee625c20d25cf2a4d0c5dae90285ac3c77bd732c6252ddf9d84c18cfc3f",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualChinese2027ninecourses/currentgradeNOTrisinggrade/13800–19800/hostelbreakfastnotdinner/waterlunchdinnertransitextra/railnightnotdoublecounted,30AXC/24formingNOLA1:6–8claimed;coursecurriculumtypedseparatelynotallcoding.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-calendar.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "kdw-program",
+      "url": "https://parentportal.kidsdiscoveryworks.com/camp_program",
+      "final_url": "https://parentportal.kidsdiscoveryworks.com/camp_program",
+      "status": 200,
+      "bytes": 22223,
+      "sha256": "4386c814b1378149ed1eb60d579654a80018ece6519f9e5038e53ab72c1dbd80",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnSepOct2026headline/fullhalfday/lunchsnacksfull/Bishan/20percentdeadlineAug31archive; actualparsedbodylacksdatedsessionfee/explicitENinstruction. Noportalaccount/cart/form opened.",
+      "body_snapshot_retained": true,
+      "raw_filename": "kdw-program.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "harrow-policies",
+      "url": "https://aisloutdoor.com/pages/policies-and-guidelines",
+      "final_url": "https://aisloutdoor.com/pages/policies-and-guidelines",
+      "status": 200,
+      "bytes": 255757,
+      "sha256": "f757cc232c24f08bc0d90fbbb6ea159fc6457f22587f20aeddabdec319600523",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actual2026winterpolicyselectedpayment/7daycoolingoffonlyuntilSep30/HKMainlandOct40percentminus4fee,Novnonrefundable;overseasOct1nonrefundable/nochanges;operatorgroupcancelrefund/emergencylocalphone/weatherrefundlimits. Noagreementaccepted/legaladvice.",
+      "body_snapshot_retained": true,
+      "raw_filename": "harrow-policies.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-block",
+      "url": "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%AF%A6%E9%AB%94%E5%B7%A5%E5%9D%8A/",
+      "final_url": "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%AF%A6%E9%AB%94%E5%B7%A5%E5%9D%8A/",
+      "status": 200,
+      "bytes": 72388,
+      "sha256": "a29ca724047342feb617bf87a46c9418bb23175cc8c9f0646d2bc22c8c24c5fc",
+      "retrieval_method": "direct_http",
+      "content_scope": "ActualJan21–22/Grade1–5/currentgrade/physicalpaperwoodworkshopNOTMinecraftcoding/EN-ledChineseTA/max30/6800early6300untilOct16/lunchinsurance/shirt300/late400firstfree,no2daywholelateplan. Discountendnotregistrationdeadline.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-block.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-build",
+      "url": "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%86%92%E9%9A%AA%E5%AD%B8%E9%99%A2/",
+      "final_url": "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%86%92%E9%9A%AA%E5%AD%B8%E9%99%A2/",
+      "status": 200,
+      "bytes": 71346,
+      "sha256": "16b2f139c5ab1fcd0ae8aef596ed05157477c8d4de07174260d52e98ed8ecba0",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027Jul5–9Grade2–4/currentgrade/physicalpaperwoodrecycledbuildNOTcomputerMinecraftcoding/noexperience/ENledtaskswithChineseTA/30/13800/full-daystructure/gearextras.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-build.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-shop",
+      "url": "https://www.jgroup.com.tw/%E5%B7%A5%E4%BD%9C%E4%B8%96%E7%95%8C/",
+      "final_url": "https://www.jgroup.com.tw/%E5%B7%A5%E4%BD%9C%E4%B8%96%E7%95%8C/",
+      "status": 200,
+      "bytes": 64365,
+      "sha256": "d77f5e4c8169d9651a2bc865c4600d0ccf2c2aefdd034fab67b107f35d234e75",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027Jul12–16Grade4–7/pricinginventorycashier/pupilcustomersNOTpublicparentcustomers;ENcounterphrasesbutChinesebusinessreasoning. Lunchmaterialsinsurance/shirt300/late1000;legacypriceOctoberwaitlisttextnotdeclaredresolved.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-shop.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-discovery",
+      "url": "https://www.jgroup.com.tw/%E7%99%BC%E7%8F%BE%E5%AE%B6/",
+      "final_url": "https://www.jgroup.com.tw/%E7%99%BC%E7%8F%BE%E5%AE%B6/",
+      "status": 200,
+      "bytes": 66369,
+      "sha256": "9e26df725378194d30488254ea8e110f40dc5d6760985bcf72646e7afb4f04ef",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027Jul19–23Grade4–7/designobserveprototypeusertest/reiterate/NTUEstudioNTUfield/13800/ENtaskquestionsChinesecomplexreflection/3foreignteachersclassnotboardingratio/gear.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-discovery.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "jasmine-micro",
+      "url": "https://www.jgroup.com.tw/%E9%A1%AF%E5%BE%AE%E7%87%9F/",
+      "final_url": "https://www.jgroup.com.tw/%E9%A1%AF%E5%BE%AE%E7%87%9F/",
+      "status": 200,
+      "bytes": 70788,
+      "sha256": "f71b63a6c262e7de9eb3a45d504f6211fb66b4def7d2a81c2ed28ce245f1db91",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027Aug2–6Grade2–4/oneweekonewaterresearchquestion/individualmicroscope/faircounts/testing/5perworktable/notstaffratio/13800/lunchmaterialsinsurance. ENresearchinstructionsChinesefairmethodrules;notwaterpotabilitytest.",
+      "body_snapshot_retained": true,
+      "raw_filename": "jasmine-micro.html",
+      "content_status": "html_selected_programme_clauses"
+    }
+  ],
+  "public_product_offer_checks": [
+    {
+      "key": "harrow-ecobot",
+      "source_sha256": "a4e213c1ecdeee849d89243b8196737721a4452c452d61958644905756a33de7",
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 8980.0,
+          "priceCurrency": "HKD",
+          "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city?variant=55084613992747"
+        }
+      ],
+      "source_scope": "Actual publicly embedded product offers; hidden template Sold out labels do not override available=true/InStock. Not confirmed enrolment."
+    },
+    {
+      "key": "harrow-auto",
+      "source_sha256": "f70e9c02acfc2a131c9890146bbccf68b06c1f25f04430d6d69d41550f34e897",
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 12500.0,
+          "priceCurrency": "HKD",
+          "url": "https://aisloutdoor.com/products/future-automotive-construction-academy?variant=55627378393387"
+        }
+      ],
+      "source_scope": "Actual publicly embedded product offers; hidden template Sold out labels do not override available=true/InStock. Not confirmed enrolment."
+    },
+    {
+      "key": "harrow-sleigh",
+      "source_sha256": "aeaeb810f86ed83318abe23dc9ad9319a81e7783fe8afcfc66c538f6fde96b74",
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 8980.0,
+          "priceCurrency": "HKD",
+          "url": "https://aisloutdoor.com/products/santa-s-sleigh-lab?variant=55083246420267"
+        }
+      ],
+      "source_scope": "Actual publicly embedded product offers; hidden template Sold out labels do not override available=true/InStock. Not confirmed enrolment."
+    },
+    {
+      "key": "harrow-ski",
+      "source_sha256": "c6dbab6a2ad6f2ca530e7de0ee20f5f8d90c2bfd50acad4c50d6bbb368fe5ef1",
+      "offers": [
+        {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 23800.0,
+          "priceCurrency": "HKD",
+          "url": "https://aisloutdoor.com/products/myoko-ski-winter-camp?variant=55084616089899"
+        }
+      ],
+      "source_scope": "Actual publicly embedded product offers; hidden template Sold out labels do not override available=true/InStock. Not confirmed enrolment."
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://aisloutdoor.com/pages/policies-and-guidelines",
+    "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+    "https://aisloutdoor.com/products/future-automotive-construction-academy",
+    "https://aisloutdoor.com/products/myoko-ski-winter-camp",
+    "https://aisloutdoor.com/products/santa-s-sleigh-lab",
+    "https://tctimewalk.com/blog/junior-city-ambassador-camp-taichung",
+    "https://tctimewalk.com/en",
+    "https://tctimewalk.com/pro-courses/summercamp",
+    "https://www.dulwich.org/world/camps",
+    "https://www.jgroup.com.tw/%E5%A4%8F%E4%BB%A4%E7%87%9F/",
+    "https://www.jgroup.com.tw/%E5%B7%A5%E4%BD%9C%E4%B8%96%E7%95%8C/",
+    "https://www.jgroup.com.tw/%E7%99%BC%E7%8F%BE%E5%AE%B6/",
+    "https://www.jgroup.com.tw/%E9%A1%AF%E5%BE%AE%E7%87%9F/",
+    "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%86%92%E9%9A%AA%E5%AD%B8%E9%99%A2/",
+    "https://www.jgroup.com.tw/%E9%BA%A5%E5%A1%8A%E7%87%9F/%E5%AF%A6%E9%AB%94%E5%B7%A5%E5%9D%8A/",
+    "https://www.jgroup.com.tw/summer-back-in-taiwan/",
+    "https://www.mandarininn.cn/chinese-summer-camp-shanghai",
+    "https://www.tinycode.hk/in-home-camps/",
+    "https://www.tinycode.hk/terms-and-conditions/",
+    "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+    "https://www.ycyw-edu.com/en/summer-programme-2026"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "notes": [
+    "PublicofferInStocknotacceptedregistration;hiddenSoldouttemplateisnotclosedproof. ActualcourseChinese/Englishsupportseparated. CTDcachedsnippetnotdirectsourcebody.",
+    "Familiesbirthyearsnotgrades/DOB. Programmegroupsnotbrands/ranking;archivalfeesnot2027invoice. Noforms/accounts/messages/payments/consent."
+  ]
+}

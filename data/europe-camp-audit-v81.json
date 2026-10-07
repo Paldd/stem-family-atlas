@@ -1,0 +1,110 @@
+{
+  "asof": "2026-10-05",
+  "version": 81,
+  "status": "progress",
+  "scope": "European programme-specific general/technical boarding/day camps; full worldwide leagues/competitions/exhibitions/schools/familyroutes remain active",
+  "new_dossiers": 13,
+  "updated_dossiers": [],
+  "new_calendar_rows": 10,
+  "new_family_ics": 7,
+  "reused_existing_calendar_rows": 3,
+  "programme_dossiers": 415,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 653,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "salem-kids-2027",
+    "landheim-general-2027",
+    "landheim-ai-future",
+    "stgis-general-2027",
+    "stgis-robotics-ai-2027",
+    "yoyo-fez-july",
+    "yoyo-fez-august",
+    "yoyo-steglitz-2027",
+    "yoyo-ruppin-autumn",
+    "yoyo-ruppin-spanish",
+    "newtech-autumn-art",
+    "newtech-christmas-film",
+    "newtech-christmas-art"
+  ],
+  "findings": [
+    {
+      "country": "Германия",
+      "iso": "DEU",
+      "provider": "v81: Salem/Landheim младшие пансионы",
+      "detail": "SalemKids2027 9–11 EUR3650, запись1November; BasicEnglishнеязыкMiniUni. Landheim2027form9–14/EUR2750/transfer; brochureпо-прежнему2026/9–13. ForeignstudentsGermanrule конфликтует сENвыбором; Robotics/AIопциональны. AIcamp14–17August2027 безновыхexactdates.",
+      "next_action": "Язык конкретнойscience/robot/AI и foreignEnglishgates, назначенныйкурс/комната/договор/смета; Swiss/France/Spain и прочиеpriorityстраны остаются открыты.",
+      "url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf"
+    },
+    {
+      "country": "Германия",
+      "iso": "DEU",
+      "provider": "v81: YoYo возраст датированной недели и soldout",
+      "detail": "ВстроеннаяоператоромBookacampFEZJuly6–12 противAugust8–13; Steglitz8–12 противgeneral6–14; Spanish12–14 противgeneral11–15. От429/419/659 иBaldbuchbarнеготовоебронирование. Autumn18–24Oct2026от699soldout, конкретныйSaturdaydeparture противgeneralFAQFriday. AGBJan2026ясны, граница15днейдвусмысленна.",
+      "next_action": "ПодтвердитьобычныйSoliпрайс, familyforeignadmission/места/страховку, birthday/cohort, сборысемьи/transport иrefundграницу; считать конкретную группу первичной.",
+      "url": "https://www.yoyocamps.de/agb"
+    },
+    {
+      "country": "Австрия",
+      "iso": "AUT",
+      "provider": "v81: StGIS конкретныйRoboticsgate2027",
+      "detail": "Общий10–15 не минимумRobotics12–15/B2. MorningoptionsпривязаныCampI/II/III. EUR4180base+400Robotics, focusedafternoon+200/500/900 поотдельнымсменам. Application2027сейчас404; ссылкаbrochure2027остаётсяPDF2026. Персоналworkvisaразделнеусловиедопускадетей.",
+      "next_action": "Актуальная2027форма/договор/ценаexactoption, английскийArts/всяжизнь, internationalchildaccess и birthday10; продолжаемallpriorityстраны.",
+      "url": "https://www.stgis.at/camps/"
+    },
+    {
+      "country": "Нидерланды",
+      "iso": "NLD",
+      "provider": "v81: NewTechKids multilingualrobotics",
+      "detail": "3bootcamps2026linkedL132–134безduplicateICS; programme8–12 Dutch+English, не отдельныйENпоток. Короткиeregistrationlinks403, цена/часы/kit неизвестны; subsidyStadspasнеобщийтарифдлязарубежнойсемьи.",
+      "next_action": "Прочитатьконкретнуюдоступнуюprice/termscard, внешнийдопуск/ENsupport, точныйaddress/time и новый2027набор. AdultAIeducationevent не добавленкакcampдетям.",
+      "url": "https://newtechkids.com/en/"
+    }
+  ],
+  "calendar": {
+    "events": 2741,
+    "learning_records": 1410,
+    "family_ics": 2073,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 947,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "All2731previous events and402dossier IDs/content preserved.13new programme/age/format dossiers, not13independentoperators.10new exactcalendarrows;7familyICS additions. ClosedAutumn and bothchildren-ineligibleoldertracks are excluded from familyICS.",
+    "YoYo own embeddedBookacamp cards independently read: FEZJuly6–12 vsAugust8–13, Steglitz8–12, Spanish12–14. General6–14/11–15 pages do not override datedcohorts. Bald buchbar and displayed10+/4female/4male counts are not openbookings or confirmedvacancies.",
+    "YoYoAutumn18–24Oct2026 Ausgebucht; Saturdaydeparture specificcamp vs generalFAQFriday. Pricefrom699 retained and closedflag reaches calendar. AGBJan2026 EUR25day/EUR50boarddeposit and cancellation/optionalguarantee recorded; fifteen-dayboundary ambiguous. Soli±15/25 means pricesfrom are not final ordinaryfamilyinvoice.",
+    "SalemKids2027 own9–11 cohort/EUR3650/24July–7August/1Novemberopening. BasicEnglish instruction is not EnglishMiniUni or wholecamp. No guaranteedrobotics course claimed.",
+    "Landheimform2027 visually read pages2–3: internationalstudentsGermanrule, LEGOrobotics and AIagents optionalactivities, feeEUR2750 inclMunichtransfer, signedcontract+fullpaymentneeded. Mainpage2027/9–14 vs linkedbrochure2026/9–13. Generalcamp calendar retainsgeneral themes despite optionaltechnicalchoices.",
+    "LandheimAI14–17 separatefuturetrack: August2027 announcement and promised1October documents stilllinked2026. No inventedexactsession/price/ICS, no inference thatEnglishmodule provesEnglishAImodule.",
+    "StGIS own2027 pages: general10–15 vsRobotics12–15/B2. CampI languages/sustainability;CampIIarts;CampIIIrobotics. EUR4180base+400robotics=4580, optionalGolf500/Horse900 extra. Application2027HTTP404 retained;2026terms not transplanted. Staffworkvisa conditions are not camperadmissionconditions.",
+    "NewTechKids3own8–12 bilingualNL/ENbootcamps link existingL132/L133/L134 without duplicatedcalendar/ICS. Three actualshortlinks returned403; prices/hours/foreignadmission remainunknown. SubsidizedStadspas is not a generalforeignfamilyprice.",
+    "Allprevious2066familyICS UID/datepairs and104exhibitionICS preserved. SQLite/publicJSON agree; bridge idempotent,90family scenarios,0fullyauditedcountries; full worldwidegoal remainsactive."
+  ],
+  "next_priority": "Continue full Swiss/French/Spanish operators and priority Asian/American junior programmes, allcountry general2026–27 camps, schoolresults and league/exhibitioncoverage; confirm exactforeign/ENgates and fullfamilyinvoices"
+}

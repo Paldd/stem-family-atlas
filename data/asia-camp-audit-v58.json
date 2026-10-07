@@ -1,0 +1,40 @@
+{
+  "asof": "2026-10-04",
+  "version": 58,
+  "status": "progress",
+  "worldwide_complete": false,
+  "preserved_events": 1952,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "camp-taiwan",
+    "camp-sfs"
+  ],
+  "new_calendar_entries": 17,
+  "dossiers": 78,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 140,
+  "family_ical_entries": 1353,
+  "exhibition_ical_entries": 104,
+  "checks": {
+    "prior_event_objects": "unchanged",
+    "prior_dossier_ids": "stable",
+    "prior_family_calendar_uids_and_dates": "preserved",
+    "CampAsia": "October Robotics6–8 only; other course banners rejected as availability",
+    "TaiwanFamily": "conflicting weekend dates kept undated;40-person regular group gate",
+    "EnglishAdventure": "2026/27 exact2sessions, Oscar cutoff01.04.2020",
+    "LCCL": "7published future batches per junior course; age conflict visible; teaching language unknown",
+    "Hakuba": "grades6–9 not ages6–9;2027 heading has2026 body",
+    "sqlite": "integrity and foreign-key checks",
+    "bridge": "idempotent",
+    "publication": "native save/deploy receipt required separately"
+  },
+  "source_receipt": "STEM_asia_camp_source_receipts_v58.json",
+  "remaining": [
+    "English technical teaching for Singapore holiday programmes",
+    "Exact birthdays, grades, admission and places",
+    "Asia summer2027 full tariffs and other external boarding candidates",
+    "USA/Canada and CostaRica/Mexico/LatinAmerica next deep pass",
+    "Other Europe and worldwide camp coverage, exact campus map and family budgets"
+  ]
+}

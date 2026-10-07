@@ -1,0 +1,242 @@
+{
+  "version": 42,
+  "checked": "2026-10-02",
+  "scope": "CHE/ESP/FRA current family routes",
+  "fetches": [
+    {
+      "name": "swiss_faq",
+      "url": "https://wro.swiss/en/faq/",
+      "status": 200,
+      "resolved": "https://wro.swiss/en/faq/",
+      "mime": "text/html",
+      "bytes": 449026,
+      "sha256": "4943d5fbc0613eda9fae9bdfc532c5e152da5eda04139ac49629d7f22075e57e"
+    },
+    {
+      "name": "swiss_results",
+      "url": "https://wro.swiss/wp-content/uploads/2026/06/Rangliste-CH-WRO-FINAL-20.06.2026.pdf",
+      "status": 200,
+      "resolved": "https://wro.swiss/wp-content/uploads/2026/06/Rangliste-CH-WRO-FINAL-20.06.2026.pdf",
+      "mime": "application/pdf",
+      "bytes": 120368,
+      "sha256": "78429148aab5a62e6c2c84acbef110fd509c680f475a1bc2e57b0b7a1f04a33a"
+    },
+    {
+      "name": "spain_faq",
+      "url": "https://www.wroboto.es/faqs/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/faqs/",
+      "mime": "text/html",
+      "bytes": 115000,
+      "sha256": "4ce34b700976bb4b014ae1d7fb7a720ec2738e18e9619b90b684fa4d6519f7ac"
+    },
+    {
+      "name": "sgb_camp",
+      "url": "https://www.stgeorgebarcelona.com/en/news-events/summer-school-barcelona",
+      "status": 200,
+      "resolved": "https://www.stgeorgebarcelona.com/en/news-events/summer-school-barcelona",
+      "mime": "text/html",
+      "bytes": 281096,
+      "sha256": "4212b485423003618ca983c31ce06d2d8f34fcf203a05e61fa1b4e329405ff70"
+    },
+    {
+      "name": "sgb_brochure",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "status": 200,
+      "resolved": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "mime": "application/pdf",
+      "bytes": 39727781,
+      "sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1"
+    },
+    {
+      "name": "sgb_fees",
+      "url": "https://www.stgeorgebarcelona.com/en/admissions/tuition-fees",
+      "status": 200,
+      "resolved": "https://www.stgeorgebarcelona.com/en/admissions/tuition-fees",
+      "mime": "text/html",
+      "bytes": 274936,
+      "sha256": "5b20965728e7222036803328be93c4de0847dfcc0e66ac58958edacf6e34df1f"
+    },
+    {
+      "name": "sgb_primary",
+      "url": "https://www.stgeorgebarcelona.com/en/learning/primary-school",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "robbo_home",
+      "url": "https://robboclub.es/",
+      "status": 200,
+      "resolved": "https://robboclub.es/",
+      "mime": "text/html",
+      "bytes": 400942,
+      "sha256": "ca4e8ba47b6e367dae9be8a55f4a9240de5c34cecc339f2fc1e6ca171a6d3371"
+    },
+    {
+      "name": "robbo_camp",
+      "url": "https://robboclub.es/barcelona/campverano26",
+      "status": 200,
+      "resolved": "https://robboclub.es/barcelona/campverano26",
+      "mime": "text/html",
+      "bytes": 260990,
+      "sha256": "234082d253acd1c8e7cb7f7060101a95cc189aee57b9fb4f28ffa7563c1f9a31"
+    },
+    {
+      "name": "robbo_fees",
+      "url": "https://robboclub.es/barcelona/es/precios",
+      "status": 200,
+      "resolved": "https://robboclub.es/barcelona/es/precios",
+      "mime": "text/html",
+      "bytes": 365992,
+      "sha256": "f72e9aed1e7074ca1bdbdfeb71e752bfd7a5ff878b56936cef1690eaa64a386a"
+    },
+    {
+      "name": "robbo_faq",
+      "url": "https://robboclub.es/barcelona/es/faq",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "pu_camp",
+      "url": "https://petitunivers.org/future-school-lab",
+      "status": 200,
+      "resolved": "https://petitunivers.org/future-school-lab",
+      "mime": "text/html",
+      "bytes": 49225,
+      "sha256": "b0ac130022a46c4333644d9a2dfbf7c78db933fdc50d3db5810058f1676dae5c"
+    },
+    {
+      "name": "pu_planning",
+      "url": "https://petitunivers.org/Planning",
+      "status": 200,
+      "resolved": "https://petitunivers.org/Planning",
+      "mime": "text/html",
+      "bytes": 48842,
+      "sha256": "32f3090b3eeedb87fa56fd10a2f211bdec98d4054d33f2d31fb7689b00e6bf34"
+    },
+    {
+      "name": "pu_courses",
+      "url": "https://petitunivers.org/robotique-ia",
+      "status": 200,
+      "resolved": "https://petitunivers.org/robotique-ia",
+      "mime": "text/html",
+      "bytes": 48760,
+      "sha256": "2b2201514d9b41a40875920d2bc16116a89032fc8494a818e1478e4df4d42e3a"
+    },
+    {
+      "name": "pu_home",
+      "url": "https://petitunivers.org/Home",
+      "status": 200,
+      "resolved": "https://petitunivers.org/Home",
+      "mime": "text/html",
+      "bytes": 48648,
+      "sha256": "6f18144b955c6235f2cd873e1a41ca6662ee3f5d5127ce413e0950d310aae1ab"
+    },
+    {
+      "name": "jis_home",
+      "url": "https://www.zis.ch/learning/lower-school",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "global_industrie",
+      "url": "https://www.global-industrie.com/en",
+      "status": 200,
+      "resolved": "https://www.global-industrie.com/en",
+      "mime": "text/html",
+      "bytes": 295894,
+      "sha256": "2507061f402778a5219def778d56ce3c1d13521ca9b54d9c2bb57f2d11afebbb"
+    },
+    {
+      "name": "sido",
+      "url": "https://www.sido-lyon.com/en/",
+      "status": 200,
+      "resolved": "https://www.sido-lyon.com/en/",
+      "mime": "text/html",
+      "bytes": 165809,
+      "sha256": "44677761186217fd9e9ce93564ad94907012e8cc17cf5391fb04a2ba2c8edafd"
+    },
+    {
+      "name": "advanced_factories",
+      "url": "https://www.advancedfactories.com/en/visit/faqs/",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "swiss_robotics_day",
+      "url": "https://swissroboticsday.ch/",
+      "status": 200,
+      "resolved": "https://swissroboticsday.ch/",
+      "mime": "text/html",
+      "bytes": 263359,
+      "sha256": "9d7c02a4559daa1fb3626c6361b9bbe34bf4f970abe3e664542974ac8740d5ef"
+    },
+    {
+      "name": "sgb_primary_actual",
+      "url": "https://www.stgeorgebarcelona.com/en/learning-journey/primary-school-barcelona",
+      "status": 200,
+      "resolved": "https://www.stgeorgebarcelona.com/en/learning-journey/primary-school-barcelona",
+      "mime": "text/html",
+      "bytes": 328292,
+      "sha256": "0c0e5b8357871f9f036cd2b6fb9ef57aa32140b88b8d42b6494411a2dc99c9b6"
+    },
+    {
+      "name": "sgb_fee_pdf",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_NewEnrolments_TuitionFees_2026-2027.pdf",
+      "status": 200,
+      "resolved": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_NewEnrolments_TuitionFees_2026-2027.pdf",
+      "mime": "application/pdf",
+      "bytes": 3735574,
+      "sha256": "01cc4c481293d6a21373ed653ae73a04a8d25f445a687fb5dd1a9fe0f8ea7e30"
+    },
+    {
+      "name": "ai_camp",
+      "url": "https://aikidsclub.org/en/ai-summer-camp-alicante",
+      "status": 200,
+      "resolved": "https://aikidsclub.org/en/ai-summer-camp-alicante",
+      "mime": "text/html",
+      "bytes": 83911,
+      "sha256": "77b4b59c047595ecb820f389a7c9d8a6631e2d3eec7211ab9f6efd3c1a395399"
+    },
+    {
+      "name": "sido_french",
+      "url": "https://www.sido-lyon.com/",
+      "status": 200,
+      "resolved": "https://www.sido-lyon.com/",
+      "mime": "text/html",
+      "bytes": 168073,
+      "sha256": "01328734ee2fafa3b471fadf1a6f3e5f01a948be9d47372c7f84d6164f5a7e61"
+    },
+    {
+      "name": "sido_rules",
+      "url": "https://www.sido-lyon.com/fr/visiter/conditions-d-entree",
+      "status": 200,
+      "resolved": "https://www.sido-lyon.com/fr/visiter/conditions-d-entree",
+      "mime": "text/html",
+      "bytes": 122476,
+      "sha256": "1f201da83787d68b48c26289a090768ec1ef74c53659385cefb9e754ca664db5"
+    },
+    {
+      "name": "ai_home",
+      "url": "https://aikidsclub.org/en",
+      "status": 200,
+      "resolved": "https://aikidsclub.org/en",
+      "mime": "text/html",
+      "bytes": 119900,
+      "sha256": "99e9f12592cf22019be1cad2e3a924d9dbcbd83969a14576dd7af9de7683547c"
+    }
+  ],
+  "web_opened": [
+    {
+      "url": "https://www.advancedfactories.com/en/visit/faqs/",
+      "note": "Direct HTTP403; web.open succeeded. Latest professional/student FAQ read."
+    }
+  ],
+  "conflicts": [
+    "StGeorgeHTMLYear3–6vsPDFYear5–6",
+    "SIDOFrench2027date/venuevsEnglish2026; entryrulesstill2026",
+    "ROBBOcurrent2026/27vslegacy2025/26andoldaddress",
+    "AIKidsweeklyOct7/campvsOnlineLabscomingsoon"
+  ],
+  "remaining": "Foreign team quotas, actual school/team places, future camps and complete5–10yearschoolranking"
+}

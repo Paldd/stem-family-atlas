@@ -1,0 +1,128 @@
+{
+  "asof": "2026-10-05",
+  "version": 97,
+  "status": "progress",
+  "scope": "Canada/USA ownprogramme/age/fee/year evidence and boundedBrazil/Argentina/Alberta rechecks; not completeAmericas/world.",
+  "new_dossiers": 19,
+  "new_operator_groups": 5,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "new_calendar_rows": 31,
+  "new_family_ics": 31,
+  "new_registration_deadline_ics": 0,
+  "corrected_existing_event_ids": [],
+  "historical_variants_not_added_as_future": 16,
+  "programme_dossiers": 664,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1046,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 39,
+    "SGP": 78,
+    "JPN": 42,
+    "KOR": 13,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "pali-general",
+    "pali-mini",
+    "pali-robotics",
+    "wenonah-regular",
+    "wenonah-one",
+    "wenonah-five",
+    "wenonah-wee",
+    "sciencequest-kinder",
+    "sciencequest-junior",
+    "sciencequest-engineering",
+    "sciencequest-robotics",
+    "sfu-elite-engineers",
+    "sfu-brick-builders",
+    "sfu-digital-defenders",
+    "sfu-wattson",
+    "calgary-early-engineering",
+    "calgary-early-technology",
+    "calgary-engineering101",
+    "calgary-winter"
+  ],
+  "findings": [
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v97 · Wenonah: возраст на конец года и полный сезонный счёт",
+      "detail": "12futurevariants2027:6regular/4One/1Five/1Wee. Возраст31Dec2027; Wee такжеminimum5настарте. Явный teachingEnglish/international intake, Spanishнеобещан. Regularprices6350/3650/1960/1300/500 плюсHST13%;priorityOct1истёк. Fee currencyнепрописана, processingfeeнеизвестен. Wee75/100авансconflict;homepagebody8–15/5–6vs2027table9–15/5–7. Siblings3годаapartнеsamecabinrequest18months.",
+      "next_action": "Валюта/счёт/processingfee, краткие трансферы/ранняя ночь, ночной надзор/питание/медицинские условия и отмена на пограничные даты.",
+      "url": "https://campwenonah.com/2027-dates-fees/"
+    },
+    {
+      "country": "США",
+      "iso": "USA",
+      "provider": "v97 · Pali: Mini, общий лагерь и Robotics — разные условия",
+      "detail": "18futurevariants2027изdates/news/Mini. General8–16семьдней6ночей;Mini6–8четыредня3ночи, отдельныйfeeunknown. RoboticsVEXcode8–16спецтрекбезspecificweeks. Promo2750perregularsessionнеMini;October23безгода,September28expired. FAQinsurance150/нед/ребёнок/отмена2027,неавтоматическийMinicontract. ПереведённыеES/RUстраницысаминазывают2023,неcurrentteachingSpanish/Russian.",
+      "next_action": "Сезонный счёт обоих форматов, Roboticsдаты/часы/платформа/язык, internationaltransport и готовность к разным окончаниям/пансиону.",
+      "url": "https://paliadventures.com/mini-camp/"
+    },
+    {
+      "country": "Канада",
+      "iso": "CAN",
+      "provider": "v97 · Queen’s / SFU / Calgary: класс, язык и год важнее интерфейса",
+      "detail": "Queen’s4/SFU4досье и16pastvariants2026небудущиеICS. SFUforbidsoldergrade, Burnaby322fromнеSurrey186. Calgary3engineeringnoofferings; generic2027filterнеweekproof. MiniUexact21–23Dec2026/260/classGr3–5vsentering4/5/6. Actualfamilygradesunknown; Englishwebsiteнетeacherproof, полноценныйcurrentinvoiceвездеещёнужен.",
+      "next_action": "Даты/цены2027, actualgrade/individualforeignintake/teachinglanguage, advancedsyllabus и полный договор; wintergradeconflict.",
+      "url": "https://activelivingportal.ucalgary.ca/Browse/All/Camps"
+    },
+    {
+      "country": "Латинская Америка",
+      "iso": "BRA",
+      "provider": "v97 · повторная проверка: тариф уже был внесён; shell/403 не новый syllabus",
+      "detail": "EnglishCampBrazilKidsOctoberpromoянварь2027совпалсCP101,досье/календарьнепродублированы. LiotaHTTP200лишьJSshellбезпрочитаннойprogrammebody;AlbertaDiscoverEdirect403,неновыйverifieddossier. ПоCostaRica/Mexico/LatinAmericaобщийаудитостаётсяактивным,неполноепокрытие.",
+      "next_action": "Новые сезонные страницы/счета для2027,EN/ES/RUteaching и иностранный индивидуальный приём; не подменять сайт поисковым сниппетом.",
+      "url": "https://www.englishcamp.com.br/programas/kids/"
+    }
+  ],
+  "calendar": {
+    "events": 3184,
+    "learning_records": 1853,
+    "family_ics": 2445,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1390,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 25,
+    "http200": 22,
+    "http_errors": 3,
+    "http200_javascript_shells": 1,
+    "scoped_web_tool_sources": 7,
+    "aggregate_tool_return_files": 1,
+    "actual_pdfs": 0,
+    "visual_page_checks": 0
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "19newprogramme/formatdossiers across5operators, noexistingdossiercorrection;664total/37countries/1046ownURLs. All645priorIDs/order/dossiercontent preserved.",
+    "All3153priorcalendarrecords/leagues/competitions/exhibitions/schools/results/familyroutes retainedexactly.31newfuturecohorts/ICS:18Pali/12Wenonah/1CalgaryWinter.16pastvariantsnotfutureICS.",
+    "PaliGeneral8–16/9seven-daycohorts andMini6–8/9four-daycohorts separated;2027MiniyearownNews. General2750promo notMiniquote. Robotics8–16/VEXcode/sensors/autonomousmaze specificoption withoutweekavailability,not9duplicatecohorts. ES/RU2023notcurrentteacherlanguageproof.",
+    "Wenonah12futurevariants withDec31 2027age;Weealso5atstart. PeriodFivefitsbothbirthyears. HST13%andregularfees calculated;expiredOct1prioritynotapplied, dollarfeecurrencyunconfirmed. Wee100/75deposit andhomebodyageconflicts explicit; siblings3yearsapartnotcabinmate≤18months.",
+    "Queen’s4gradeprogrammes/archive2026fees/cancel/holidayweeks;youngeralgorithmsphysicalnotcomputer. SFUBurnaby4tracks/8pastweeks/gradegate/noolderlevel/322fromvsSurrey186 separated. Englishinterfaceandbirthyearnotteachlanguageoractualgradeproof.",
+    "Calgary3engineeringprogrammes noofferings, generic2027filter not exactsessionproof. Winter21–23Dec2026/260/Gr3–5againstsidebarentering4/5/6;13placesretrievalsnapshotnotreservation.",
+    "25directattempts:22HTTP200 including1JSshell,3HTTPerrors;7web-toolscopedsourceobservations inoneaggregate retainedreturn. NoPDF/visualchecks/fullsite/countryauditclaim. BrazilOctoberpricealreadyCP101/no duplicate;Liotashell/Alberta403notnewprogrammeproof.",
+    "JSONSQLiteCSVJSMDICSconsistency/oldUID/date/deadline preservation/bridgeidempotence/child/language/phasefilters independentlyverified. Worldwideobjective/requirements retained,0fullyauditedcountries/nativegoalactive."
+  ],
+  "next_priority": "Continue worldwide2026–27 general/thematic/robotics/AI/day/residential/familycampinventory, deepCHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatinAmerica. Verify programmecurrentseasonteachingEN/ES/RU andsupportroles, individualforeignintake/currentplaces/actualDOB-grade, detailedsyllabus/hours/levels, completeinvoice/contract/transport, campuscoordinates/map andfamilycomparisons. Keep leagues/competitions/exhibitions/admission/schools/results5–10years/familyroutes active; no country fullyaudited."
+}

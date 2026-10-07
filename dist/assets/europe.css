@@ -1,0 +1,78 @@
+.europe-intro{background:linear-gradient(130deg,#f2eddd,#e8efea)}
+.europe-probe{margin:30px 0 40px;padding:24px;border:1px solid #bccfc3;border-radius:20px;background:linear-gradient(135deg,#edf2e9,#fbf4e6);min-width:0}
+.europe-probe h4{font-family:var(--serif);font-size:28px;margin:8px 0 16px}
+.europe-probe h5{font-size:17px;line-height:1.45;margin:8px 0}
+.europe-probe h4,.europe-probe h5,.europe-probe .taiwan-route-links button{overflow-wrap:anywhere}
+.europe-probe p{font-size:14px;line-height:1.65;color:#485d57;overflow-wrap:anywhere}
+.europe-probe-tabs{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.europe-probe-tabs button{border:1px solid #a7bfb0;border-radius:100px;padding:11px 16px;background:#fffef8;color:#244b3c;font:inherit;font-size:13px;cursor:pointer}
+.europe-probe-tabs button[aria-pressed="true"]{background:#244b3c;color:#fffef8}
+.europe-probe-tabs button:focus-visible{outline:3px solid #bd9257;outline-offset:3px}
+.europe-probe .europe-shortlist-grid>article{padding:20px;border-radius:16px;background:#fffef8;min-width:0}
+.europe-probe>.europe-options{margin-top:20px}
+@media(max-width:600px){.europe-probe{padding:16px}.europe-probe-tabs button{border-radius:14px;text-align:left;max-width:100%}}
+.europe-base-comparison{margin:36px 0}
+.europe-base-comparison h4{font-family:var(--serif);font-size:28px;margin:8px 0 16px}
+.europe-base-comparison p{font-size:14px;line-height:1.7;color:#485d57}
+.europe-base-comparison dl{margin:18px 0}
+.europe-base-comparison dt{font-size:12px;font-weight:700;margin:15px 0 5px}
+.europe-base-comparison dd{margin:0;font-size:14px;line-height:1.6;color:#485d57;overflow-wrap:anywhere}
+.europe-base-comparison .europe-decision[open]{background:#e8efea;border-color:#a7bfb0}
+.europe-decisions,.europe-age-routes,.europe-selection{margin:36px 0}
+.europe-decisions h4,.europe-age-routes h4,.europe-selection h4{font-family:var(--serif);font-size:28px;margin:8px 0 16px}
+.europe-decision-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:start}
+.europe-decision{border:1px solid #d4ddd7;border-radius:16px;background:#f5f7f0;min-width:0}
+.europe-decision summary{padding:22px;cursor:pointer;list-style:none;display:grid;gap:9px}
+.europe-decision summary>span{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#54786b;font-weight:700}
+.europe-decision summary strong{font-size:18px;line-height:1.4}
+.europe-decision summary small,.europe-age-grid summary small{font-size:12px;color:#526b61}
+.europe-decision>div{padding:0 22px 22px}
+.europe-decisions p,.europe-age-routes p,.europe-selection p{font-size:14px;line-height:1.7;color:#485d57}
+.europe-decisions dl,.europe-age-routes dl{margin:18px 0}
+.europe-decisions dt,.europe-age-routes dt{font-size:12px;font-weight:700;margin:15px 0 5px}
+.europe-decisions dd,.europe-age-routes dd{margin:0;font-size:14px;line-height:1.6;color:#485d57;overflow-wrap:anywhere}
+.europe-source-links{display:grid;gap:8px;margin-top:16px;font-size:12px}
+.europe-source-links a{overflow-wrap:anywhere}
+.europe-age-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;align-items:start}
+.europe-age-grid details{border:1px solid #d4ddd7;border-radius:14px;background:#fbfbf5;min-width:0}
+.europe-age-grid details[open]{background:#e8efea;border-color:#a7bfb0}
+.europe-age-grid summary{display:grid;gap:6px;padding:18px;list-style:none;cursor:pointer}
+.europe-age-grid summary strong{font-family:var(--serif);font-size:28px}
+.europe-age-grid summary span{font-size:13px}
+.europe-age-grid details>div{padding:0 18px 18px}
+.europe-selection>div{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.europe-selection article{padding:20px;border-left:3px solid #a7bfb0;background:#f5f7f0;border-radius:0 12px 12px 0}
+.europe-selection h5{font-size:16px;margin:0 0 8px}
+.europe-selection p{margin:0}
+.europe-decision summary:focus-visible,.europe-age-grid summary:focus-visible{outline:2px solid #54786b;outline-offset:4px;border-radius:10px}
+@media(max-width:1200px){.europe-age-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:900px){.europe-decision-grid{grid-template-columns:1fr}.europe-age-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.europe-age-grid,.europe-selection>div{grid-template-columns:1fr}}
+.europe-shortlist{margin:30px 0 36px}
+.europe-shortlist>h4{font-family:var(--serif);font-size:28px;margin:8px 0 20px}
+.europe-shortlist-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.europe-shortlist article{min-width:0;padding:24px;border:1px solid #d4ddd7;border-radius:16px;background:#f5f7f0}
+.europe-shortlist h5{font-size:17px;line-height:1.4;margin:0 0 12px}
+.europe-shortlist p{font-size:14px;line-height:1.7;color:#485d57;overflow-wrap:anywhere}
+@media(max-width:900px){.europe-shortlist-grid{grid-template-columns:1fr}}
+.europe-routes{grid-template-columns:repeat(3,minmax(0,1fr))}
+.europe-routes article{min-width:0}
+.europe-routes>article:first-child{grid-column:auto}
+.europe-routes dl{margin:22px 0}
+.europe-routes dt{font-weight:700;font-size:12px;letter-spacing:.035em;margin:18px 0 5px}
+.europe-routes dd{margin:0;color:#485d57;font-size:14px;line-height:1.6;overflow-wrap:anywhere}
+.europe-options{border-top:1px solid #d4ddd7;margin-top:20px;padding-top:16px}
+.europe-options summary{cursor:pointer;font-size:13px;font-weight:600;line-height:1.6}
+.europe-options .taiwan-route-links{padding-top:15px}
+.europe-plan{margin:36px 0}
+.europe-plan>h4{font-family:var(--serif);font-size:28px}
+.europe-plan article{display:grid;grid-template-columns:34px minmax(0,1fr);gap:18px;padding:18px 0;border-bottom:1px solid #d4ddd7}
+.europe-plan h5{font-size:16px;margin:0 0 8px}
+.europe-plan p{font-size:14px;line-height:1.7;margin:0;color:#485d57}
+@media(max-width:1200px){.europe-routes{grid-template-columns:1fr}.europe-routes article{padding:24px}}
+
+@media(min-width:1201px){.europe-routes.two-countries{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:1201px){.europe-routes.four-countries{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.europe-family-picks label{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:18px 0;color:#294f43;font-size:14px}
+.europe-family-picks select{max-width:100%;border:1px solid #a7c3b8;border-radius:12px;padding:12px;background:#fff;color:#294f43;font:inherit}
+[data-europe-pick-kind][hidden]{display:none}

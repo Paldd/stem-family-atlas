@@ -1,0 +1,277 @@
+{
+  "version": 62,
+  "checked": "2026-10-05",
+  "purpose": "Public primary-source body/PDF/image receipts; HTTP200 alone is not verification of all claims",
+  "receipts": [
+    {
+      "key": "dwight",
+      "url": "https://dwight.or.kr/student-life/summer-academy/",
+      "final_url": "https://dwight.or.kr/student-life/summer-academy/",
+      "status": 200,
+      "bytes": 212350,
+      "sha256": "9d2d25f1521bc3402968a8e215dd37f89597be043573eb53b4db5a68c7dba042"
+    },
+    {
+      "key": "worklab",
+      "url": "https://www.worklab.com.sg/holiday-camps",
+      "final_url": "https://www.worklab.com.sg/holiday-camps",
+      "status": 200,
+      "bytes": 965745,
+      "sha256": "28fe8fbb8c1f9c00e958fb8db4748cef6c0c2a8a2523850a56c33cec29f81921"
+    },
+    {
+      "key": "worklab-apprentice",
+      "url": "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+      "final_url": "https://www.worklab.com.sg/robocamp-apprentice-holiday-camp",
+      "status": 200,
+      "bytes": 1126315,
+      "sha256": "c0cf54ab2d9f54913d267cc53b95a5e0f01848682b8618459bc71d93cecb3800"
+    },
+    {
+      "key": "elev8",
+      "url": "https://www.elev8.co.jp/",
+      "final_url": "https://www.elev8.co.jp/",
+      "status": 200,
+      "bytes": 2508299,
+      "sha256": "6cb54f200d5bd9b4aa32c8656fd2386f08aee9d307f2c9e2241a5303222461d2"
+    },
+    {
+      "key": "elev8-winter",
+      "url": "https://www.elev8.co.jp/winter-camp",
+      "final_url": "https://www.elev8.co.jp/winter-camp",
+      "status": 200,
+      "bytes": 2480458,
+      "sha256": "165dcabcac8356d04a5616aa16b14dd7f5b43046c836af1dc65c8d99e6d7b610"
+    },
+    {
+      "key": "codinglab",
+      "url": "https://codinglab.jp/summer-holiday-coding-tech-camp/",
+      "final_url": "https://codinglab.jp/summer-holiday-coding-tech-camp/",
+      "status": 200,
+      "bytes": 255094,
+      "sha256": "cacc555c0a69c46c256583bf76d162aa5714fe029be833fb1b6a040d5be219f6"
+    },
+    {
+      "key": "worklab-pdf",
+      "url": "https://www.worklab.com.sg/_files/ugd/4223d1_0fd7b76941cd40c5b24b79009906b5b9.pdf",
+      "final_url": "https://63bef5a5-f2ae-41d1-bd46-5470999df228.filesusr.com/ugd/4223d1_0fd7b76941cd40c5b24b79009906b5b9.pdf",
+      "status": 200,
+      "bytes": 243282,
+      "sha256": "caedc3fc006296685a04c767b5f82ed5fce7ed7619fad1261a653b31971d382a"
+    },
+    {
+      "key": "worklab-jrsr",
+      "url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "final_url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "status": 200,
+      "bytes": 1124666,
+      "sha256": "f370040a4702bfc38032653cc7ec1aae2a6351fe4a184321e8d5f1fe3c76e67f"
+    },
+    {
+      "key": "worklab-spike",
+      "url": "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp",
+      "final_url": "https://www.worklab.com.sg/spike-prime-lego-robotics-holiday-camp",
+      "status": 200,
+      "bytes": 1124519,
+      "sha256": "eb4ae3acf75c19e378da84a1988af4ee94b6e42004ff595dc417aa65453bbb3c"
+    },
+    {
+      "key": "worklab-ai",
+      "url": "https://www.worklab.com.sg/ai-digital-citizenship-camp",
+      "final_url": "https://www.worklab.com.sg/ai-digital-citizenship-camp",
+      "status": 200,
+      "bytes": 896965,
+      "sha256": "30ccbaf8bbc1815e3f40e2ac8e5cd373b9ade60b5fcbaebfbfef1d13125a5e50"
+    },
+    {
+      "key": "elev8-spring",
+      "url": "https://www.elev8.co.jp/spring-camp",
+      "final_url": "https://www.elev8.co.jp/spring-camp",
+      "status": 200,
+      "bytes": 2332204,
+      "sha256": "883aeaf00fda47ff60f9d747f64488786237c93e7df44ee79bb3939c2257a2b5"
+    },
+    {
+      "key": "elev8-coding",
+      "url": "https://www.elev8.co.jp/coding-summer-camp",
+      "final_url": "https://www.elev8.co.jp/coding-summer-camp",
+      "status": 200,
+      "bytes": 1726090,
+      "sha256": "55cc8e87866726110222486678ae5488fdeae3868fed3f9c75fb4f7fda005157"
+    },
+    {
+      "key": "elev8-terms",
+      "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+      "final_url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+      "status": 200,
+      "bytes": 1587877,
+      "sha256": "430ef3de18c657b9267d01a4d63cecb7b66583e51028221a7c13e38eacd93c2d"
+    },
+    {
+      "key": "dwight-fees",
+      "url": "https://dwight.or.kr/wp-content/uploads/2025/05/PoliciesandPrices-2025SummerAcademy.pdf",
+      "final_url": "https://dwight.or.kr/wp-content/uploads/2025/05/PoliciesandPrices-2025SummerAcademy.pdf",
+      "status": 200,
+      "bytes": 188824,
+      "sha256": "2f8f13667f628fc23c9ad1e1266a7a99d477bca8049d74c8b4ab27fae84458ee"
+    },
+    {
+      "key": "dwight-g12",
+      "url": "https://dwight.or.kr/wp-content/uploads/2025/05/SA_G1-2Programs2025_20250516.pdf",
+      "final_url": "https://dwight.or.kr/wp-content/uploads/2025/05/SA_G1-2Programs2025_20250516.pdf",
+      "status": 200,
+      "bytes": 561252,
+      "sha256": "945d7084ac2aa7f76b3ce2628e279411317fa0a0ca5b600cb75d724aad2ef56c"
+    },
+    {
+      "key": "dwight-g34",
+      "url": "https://dwight.or.kr/wp-content/uploads/2025/05/SA_G3-4Programs2025_20250516.pdf",
+      "final_url": "https://dwight.or.kr/wp-content/uploads/2025/05/SA_G3-4Programs2025_20250516.pdf",
+      "status": 200,
+      "bytes": 430480,
+      "sha256": "aba417085205f4ae579f1a0b13f7f73789161b6fae95b528aa86f20ca73939d6"
+    },
+    {
+      "key": "lighthouse",
+      "url": "https://www.lighthousecamps.com/",
+      "final_url": "https://www.lighthousecamps.com/",
+      "status": 200,
+      "bytes": 196313,
+      "sha256": "fd37ccf57fe9f3a1b550208f5f141568bbeb09ed4449ad27facced96e74ddcf8"
+    },
+    {
+      "key": "lighthouse-schedule",
+      "url": "https://www.lighthousecamps.com/schedule",
+      "final_url": "https://www.lighthousecamps.com/schedule",
+      "status": 200,
+      "bytes": 170412,
+      "sha256": "963d765143a38b98a38ed93227a7f017eb006d2c8cfb288912ce08eacbaee272"
+    },
+    {
+      "key": "lighthouse-faq",
+      "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+      "final_url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+      "status": 200,
+      "bytes": 214292,
+      "sha256": "6b6a01d55bd2cbf1a7ce30aaa9b05a0b2a9723af026fdbfe9e1920dd56f5a35d"
+    },
+    {
+      "key": "lighthouse-junior",
+      "url": "https://www.lighthousecamps.com/junior-techs",
+      "final_url": "https://www.lighthousecamps.com/junior-techs",
+      "status": 200,
+      "bytes": 212722,
+      "sha256": "61d5823e33a984cedd85b11d0150b0cf18657afe484c07580c9ca1340245208a"
+    },
+    {
+      "key": "lighthouse-vexgo",
+      "url": "https://www.lighthousecamps.com/introduction-to-vex-go",
+      "final_url": "https://www.lighthousecamps.com/introduction-to-vex-go",
+      "status": 200,
+      "bytes": 154160,
+      "sha256": "10ab281523f7e849550fcf3ea713fe8fa6430665a78650a64be37d4e0e898f7b"
+    },
+    {
+      "key": "lighthouse-vexiq",
+      "url": "https://www.lighthousecamps.com/vex-iq",
+      "final_url": "https://www.lighthousecamps.com/vex-iq",
+      "status": 200,
+      "bytes": 153955,
+      "sha256": "59a77c0d2625f160f844820cec3d4b46072edc3b7f92e8420708c2f559f8555b"
+    },
+    {
+      "key": "worklab-jrsr-pdf",
+      "url": "https://www.worklab.com.sg/_files/ugd/4223d1_814042cccede4311b488f0b3627e8169.pdf",
+      "final_url": "https://63bef5a5-f2ae-41d1-bd46-5470999df228.filesusr.com/ugd/4223d1_814042cccede4311b488f0b3627e8169.pdf",
+      "status": 200,
+      "bytes": 215454,
+      "sha256": "91132751cedb17ba9e7979b8881d95764cbe2409a8b969a3a4a2acf1e3e03b40"
+    },
+    {
+      "key": "worklab-spike-pdf",
+      "url": "https://www.worklab.com.sg/_files/ugd/4223d1_1667da98e933409cb4524351ea093d2d.pdf",
+      "final_url": "https://63bef5a5-f2ae-41d1-bd46-5470999df228.filesusr.com/ugd/4223d1_1667da98e933409cb4524351ea093d2d.pdf",
+      "status": 200,
+      "bytes": 178435,
+      "sha256": "4a6ca89fe1a770e57c43376b963f06e1bb60df09cd9874457e111018bf957427"
+    },
+    {
+      "key": "worklab-ai-pdf",
+      "url": "https://www.worklab.com.sg/_files/ugd/4223d1_2d69c2b429ea4ecead230896e1818d08.pdf",
+      "final_url": "https://63bef5a5-f2ae-41d1-bd46-5470999df228.filesusr.com/ugd/4223d1_2d69c2b429ea4ecead230896e1818d08.pdf",
+      "status": 200,
+      "bytes": 232125,
+      "sha256": "cbb699834ee8c76ef3ae7cfaf68d76f7afc8566114cbedabd527b40165b7eca9"
+    },
+    {
+      "key": "bisp-tracks",
+      "url": "https://www.bisphuket.ac.th/summer/tracks/",
+      "final_url": "https://www.bisphuket.ac.th/summer/tracks/",
+      "status": 200,
+      "bytes": 86625,
+      "sha256": "41241af5f753bb1d18f57faefded17c4353dc77bedb68034c53b51036273558c"
+    },
+    {
+      "key": "bisp-fees",
+      "url": "https://www.bisphuket.ac.th/summer/schedule-costs/",
+      "final_url": "https://www.bisphuket.ac.th/summer/schedule-costs/",
+      "status": 200,
+      "bytes": 85432,
+      "sha256": "0acb8dcf3fc2567f6ebc70d107e8ff8bcf0f3161a8516e57f35c30bcac4a9773"
+    },
+    {
+      "key": "bisp-faq",
+      "url": "https://www.bisphuket.ac.th/summer/process-of-enrollment-further-information-terms-and-conditions/",
+      "final_url": "https://www.bisphuket.ac.th/summer/process-of-enrollment-further-information-terms-and-conditions/",
+      "status": 200,
+      "bytes": 88314,
+      "sha256": "47d811de7e529154d62eea9cef6196b97b2c5be531d62d66de08335811da274e"
+    },
+    {
+      "key": "bisp-coding",
+      "url": "https://www.bisphuket.ac.th/summer/tracks/coding-kiberone/",
+      "final_url": "https://www.bisphuket.ac.th/summer/tracks/coding-kiberone/",
+      "status": 200,
+      "bytes": 82049,
+      "sha256": "6017f524c274728a145964bd93956ecc4d66970b77065e6df7eedb20746c7612"
+    },
+    {
+      "key": "winter",
+      "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/winter_camp6ab36d4969239.png?w=1080",
+      "sha256": "77396d13fd2f25d8650fb5e3b07e6a55334e3218cc61dfbac20bc8bf5dc5f40f",
+      "bytes": 97232,
+      "status": 200
+    },
+    {
+      "key": "fees",
+      "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+      "sha256": "613acd87327749f2302cd46666009afc95780d35842e3b1243543a00e9ec9b6c",
+      "bytes": 103518,
+      "status": 200
+    }
+  ],
+  "visual_checks": [
+    "WorklabApprenticePDFpages1–2",
+    "WorklabJuniorSeniorPDFpage1",
+    "WorklabSPIKEPDFpage1",
+    "WorklabAIpdfpage1",
+    "Dwightfees2025PDFpage1",
+    "DwightGrades3–4PDFpage2",
+    "LighthouseWinter2026/27poster",
+    "Lighthousefeegrid"
+  ],
+  "uncertainties": [
+    "Worklab:five explicitEN tracks;20October legacy cards linked without duplicate dates; November/yearend StayTuned,2027 notpublished.",
+    "Worklab:first-day birthday gates;Junior8–9 vsSenior9–13(page)/9+(PDF),SPIKE9+,AI7.5+.Exactcampuses differ;equipmentnotkept.",
+    "Lighthouse:4generalwinter sessions;5–7 Junior and8–12GO; individualcourse hours/dates not confirmed, so no course-calendar clones.",
+    "Lighthouse:IQ10–14 oncourse pageoverridesmenu8–12; notlistedcurrentwinterthemes despiteIQpricecolumn; no IQ calendar date.",
+    "Lighthouse:priceimage visuallyread;5/4days,full/half,VEXGO/IQ separate;optional lunch220/day,GO refundable2000securitydeposit;min4class.",
+    "Elev8:23dated weeklywindows through7May2027;codingEnglish verified,modulesandWednesdayswideexcursion distinguished.",
+    "Elev8:10%tax included in calculated25300daily/120175for5days/101200for4days;chaperonefree butpublictransportfare extra.",
+    "Elev8:terms3daypayment21+daysahead vs24hoursnearer;cancelrefund tiers;credit180days distinctfromcashrefund.",
+    "DwightSeoul:2026headline links2025PDFs;lowerprogrammegeneral/STEAM/design/film,roboticsnotproved;externaladmission/EN unknown;refund2024typo visible.",
+    "BISP:Englishinstruction explicit;6–8day vs9–15day/boarding;2026pricesarchival,2027 notpublished;minimumovernight9/olderthan9 conflict.",
+    "BISP:sibling15% requires sameprogramme/period;mustnotautomaticallyapplyto different agegroups;earlybird20/28Feb discrepancy.",
+    "All2014prior event objects,112prior dossierobjects and1379prior familycalendar UIDdatepairs preserved;104exhibitioncalendar preserved."
+  ]
+}

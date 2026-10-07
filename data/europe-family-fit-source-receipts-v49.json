@@ -1,0 +1,263 @@
+{
+  "version": 49,
+  "checked": "2026-10-02",
+  "sources": [
+    {
+      "name": "ros_home",
+      "url": "https://rosenbergcamps.ch/",
+      "status": 200,
+      "resolved": "https://rosenbergcamps.ch/",
+      "mime": "text/html",
+      "bytes": 70284,
+      "sha256": "60714bd96fa1693204cbb683d43d6c8b797b313b679bafd5d72ce5473bd0240d",
+      "primary_body_read": true
+    },
+    {
+      "name": "ros_camp",
+      "url": "https://rosenbergcamps.ch/camps/summer-camp/",
+      "status": 200,
+      "resolved": "https://rosenbergcamps.ch/camps/summer-camp/",
+      "mime": "text/html",
+      "bytes": 94414,
+      "sha256": "92113328f880154dd9b4c7f868cf50929426dcb5e870eaed1ae7547af51caa3b",
+      "primary_body_read": true
+    },
+    {
+      "name": "ros_focus",
+      "url": "https://rosenbergcamps.ch/camps/summer-focused-courses/",
+      "status": 200,
+      "resolved": "https://rosenbergcamps.ch/camps/summer-focused-courses/",
+      "mime": "text/html",
+      "bytes": 101384,
+      "sha256": "ff198c675d74a0afb8963ee8e31a469624dc342b9ea3d8be6cc70a621fb735a3",
+      "primary_body_read": true
+    },
+    {
+      "name": "ros_faq",
+      "url": "https://rosenbergcamps.ch/camps/summer-faqs/",
+      "status": 200,
+      "resolved": "https://rosenbergcamps.ch/camps/summer-faqs/",
+      "mime": "text/html",
+      "bytes": 62788,
+      "sha256": "0a068493ffd49c0d67134533eb504118225adcf040140425ef2c265bccea3dfd",
+      "primary_body_read": true
+    },
+    {
+      "name": "ros_primary",
+      "url": "https://instrosenberg.ch/academics/primary-school/",
+      "status": 200,
+      "resolved": "https://instrosenberg.ch/academics/primary-school/",
+      "mime": "text/html",
+      "bytes": 91630,
+      "sha256": "07406891d61bd01baf52c3ea74195f1dc25f81462f7413dae56a382bf5809849",
+      "primary_body_read": false,
+      "limitation": "Relevant content is JavaScript-rendered; see rendered receipt, not HTTP status alone."
+    },
+    {
+      "name": "ros_cocurricular",
+      "url": "https://instrosenberg.ch/talent/co-curricular/",
+      "status": 200,
+      "resolved": "https://instrosenberg.ch/talent/co-curricular/",
+      "mime": "text/html",
+      "bytes": 101653,
+      "sha256": "85353d9c707eafd69fc33174b206ec55f6d520b3658ddc682ba77ead2f7406da",
+      "primary_body_read": false,
+      "limitation": "Relevant content is JavaScript-rendered; see rendered receipt, not HTTP status alone."
+    },
+    {
+      "name": "wro_es_basic",
+      "url": "https://www.wroboto.es/robobasic/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/robobasic/",
+      "mime": "text/html",
+      "bytes": 114633,
+      "sha256": "441a678bc4e8b3ad4e13e7dd6d472a9d7f8691b67fa517527eb795cafddf8e63",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_es_faq",
+      "url": "https://www.wroboto.es/faqs/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/faqs/",
+      "mime": "text/html",
+      "bytes": 115086,
+      "sha256": "ba1312a7a4e499bdaafd26bdc867a4a8a1ae29b19085d129a87cf4d29cb356e8",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_es_tournaments",
+      "url": "https://www.wroboto.es/torneos/",
+      "status": 200,
+      "resolved": "https://www.wroboto.es/torneos/",
+      "mime": "text/html",
+      "bytes": 139459,
+      "sha256": "aea061cecde84ba1a1d8b7cbdbb8c11776e11d03e21e5603a82190ff6b61349a",
+      "primary_body_read": false
+    },
+    {
+      "name": "wro_ch_starter",
+      "url": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "status": 200,
+      "resolved": "https://wro.swiss/informationen/kategorien-und-altersklassen/wro-starter/",
+      "mime": "text/html",
+      "bytes": 134709,
+      "sha256": "cd894e1cc3e3307bbf6b36d8b551825ce360911271de5182f9acbbc347e6e230",
+      "primary_body_read": false
+    },
+    {
+      "name": "wro_ch_faq",
+      "url": "https://wro.swiss/en/faq/",
+      "status": 200,
+      "resolved": "https://wro.swiss/en/faq/",
+      "mime": "text/html",
+      "bytes": 449026,
+      "sha256": "cc15f7ea66bf0147459121f021a9146b1b99fa79e152bf6107e146f39faf8a64",
+      "primary_body_read": false
+    },
+    {
+      "name": "robotech_home",
+      "url": "https://www.robotech.cat/espa%C3%B1ol/inicio",
+      "status": 200,
+      "resolved": "https://www.robotech.cat/espa%C3%B1ol/inicio",
+      "mime": "text/html",
+      "bytes": 196241,
+      "sha256": "5960f986cc8c895baafbf56d4fa8b9ff342610e8eee6d8ff1b7d4d98956e9d51",
+      "primary_body_read": true
+    },
+    {
+      "name": "robotech_history",
+      "url": "https://www.robotech.cat/espa%C3%B1ol/historia",
+      "status": 200,
+      "resolved": "https://www.robotech.cat/espa%C3%B1ol/historia",
+      "mime": "text/html",
+      "bytes": 192801,
+      "sha256": "178cd9ea1c7ceea5084111fb84c9de4d1a14d752b003e866526680d637fcd6af",
+      "primary_body_read": true
+    },
+    {
+      "name": "robotech_share",
+      "url": "https://www.robotech.cat/espa%C3%B1ol/compartir",
+      "status": 200,
+      "resolved": "https://www.robotech.cat/espa%C3%B1ol/compartir",
+      "mime": "text/html",
+      "bytes": 258129,
+      "sha256": "76a2ac37374d0bf0d7308f9b633637c30e2a8a6d32e45c600f3b2411b1d02571",
+      "primary_body_read": true
+    },
+    {
+      "name": "first_2026",
+      "url": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "status": 200,
+      "resolved": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "mime": "text/html",
+      "bytes": 58128,
+      "sha256": "8568ee2daacb1694592234d23b996b6ea2e76ac1ace633d4068e2c4a62bd68ae",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_abi",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "status": 200,
+      "resolved": "https://docs.google.com/forms/d/e/1FAIpQLSfQnlO-xclspypTx6a76X4ZOAWR7cQYj82XDeutOsS6RXZ77w/viewform",
+      "mime": "text/html",
+      "bytes": 122703,
+      "sha256": "e7825f01cdc9fdc6d792aa81d697b189cdbbce66ef1e2d5e2fee8a804746a497",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_tka_junior",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-ans-niveau-1/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-ans-niveau-1/",
+      "mime": "text/html",
+      "bytes": 719810,
+      "sha256": "351253c2cbad1e8b65fcfd64a34c75afff6baa1d325a45f75a769c8d24d17cb3",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_tka_primary",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-ans-niveau-1/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-ans-niveau-1/",
+      "mime": "text/html",
+      "bytes": 750345,
+      "sha256": "f1a5a41107d7276009be51303cf266af075c77036d27c6de4dacf11509aba74b",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_coupe_junior",
+      "url": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/",
+      "status": 200,
+      "resolved": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/",
+      "mime": "text/html",
+      "bytes": 114629,
+      "sha256": "2df7e686078dacccde674dec5a4daa2c6c64aa90779c99e4043a66ccc17ef891",
+      "primary_body_read": false
+    },
+    {
+      "name": "fr_ics_primary",
+      "url": "https://www.icsparis.fr/our-curriculum/primary-school",
+      "status": 200,
+      "resolved": "https://www.icsparis.fr/our-curriculum/primary-school",
+      "mime": "text/html",
+      "bytes": 75143,
+      "sha256": "4b2b72faaa5cc4a97be3e197b1ba1edfb2bf813ab38e17b2b2622c314366ea14",
+      "primary_body_read": false
+    },
+    {
+      "name": "fr_tka_junior2",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-n2/5-6-ans-niveau-2/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/5-6-n2/5-6-ans-niveau-2/",
+      "mime": "text/html",
+      "bytes": 767759,
+      "sha256": "f1348460c8cb4645ce174be51acd91559058d8f0be20e4eb9939cc44914285e4",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_tka_primary2",
+      "url": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-n2/7-9-ans-niveau-2/",
+      "status": 200,
+      "resolved": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-n2/7-9-ans-niveau-2/",
+      "mime": "text/html",
+      "bytes": 791018,
+      "sha256": "10d034ae48e04d89199771da2c5194f3581cdf2a376924a28733efc331a7980e",
+      "primary_body_read": true
+    }
+  ],
+  "rendered_sources": [
+    {
+      "name": "ros_primary",
+      "url": "https://instrosenberg.ch/academics/primary-school/",
+      "status": 200,
+      "read": true,
+      "bytes": 1719,
+      "sha256": "1566ab01e5802de8590f6a78c7b9847c3d795bb3cf3c7cfad6e8fa238a91b07e"
+    },
+    {
+      "name": "ros_cocurricular",
+      "url": "https://instrosenberg.ch/talent/co-curricular/",
+      "status": 200,
+      "read": true,
+      "bytes": 3873,
+      "sha256": "055bf8ae7ee103ecb0f46982fb4efe60ebaff4d7cd6362ea435c46cd21d93a2d"
+    }
+  ],
+  "issues": [
+    {
+      "name": "Rosenberg primary JavaScript content",
+      "status": "HTTP 200 source shell lacks body; primary pages rendered in anonymous Chrome, EN Primary and Junior Robotics read there.",
+      "official_alternative": "https://instrosenberg.ch/academics/primary-school/"
+    },
+    {
+      "name": "Rosenberg camp language / weekly track",
+      "status": "General 6–18 and 2027 window do not prove each junior technical focus, its language or actual chosen weeks; no guessed dates exported.",
+      "official_alternative": "https://rosenbergcamps.ch/camps/summer-faqs/"
+    },
+    {
+      "name": "Tech Kids advanced language",
+      "status": "7–9 Niveau 1 offers EN / FR, but Niveau 2 explicitly only FR. 5–6 Niveau 2 remains bilingual and has grade / prior-level conditions.",
+      "official_alternative": "https://www.techkidsacademy.com/ateliers-numeriques/7-9-n2/7-9-ans-niveau-2/"
+    }
+  ]
+}

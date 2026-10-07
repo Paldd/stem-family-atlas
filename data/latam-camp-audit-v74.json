@@ -1,0 +1,102 @@
+{
+  "asof": "2026-10-05",
+  "version": 74,
+  "status": "progress",
+  "scope": "14 additional specific Latin American programmes; all worldwide blocks retained",
+  "new_dossiers": 14,
+  "new_calendar_rows": 4,
+  "new_family_ics": 4,
+  "programme_dossiers": 314,
+  "countries_with_dossiers": 32,
+  "swiss_dossiers": 49,
+  "french_dossiers": 30,
+  "spanish_dossiers": 26,
+  "official_dossier_urls": 507,
+  "programme_slugs": [
+    "seacamp-panama",
+    "llanada-panama-board",
+    "llanada-panama-valle",
+    "llanada-panama-city",
+    "sek-cr-space",
+    "tecnobotrix-summer",
+    "robotpunk-summer",
+    "troonic-robotics-camp",
+    "wecode-pocitos-lab",
+    "wecode-pocitos-ia",
+    "wecode-pocitos-minecraft",
+    "british-chile-young-a",
+    "british-chile-young-b",
+    "norte-chile-summer"
+  ],
+  "findings": [
+    {
+      "country": "Панама",
+      "iso": "PAN",
+      "provider": "v74: SeaCamp — две февральские даты",
+      "detail": "Основной список19–22 февраля2027 расходится с регистрационной ссылкой и заголовком реальной формы11–14. Ни один спорный февральский интервал не добавлен в календарь. Формы ES/EN не доказывают язык инструктора. Январь7–10 и март25–28 согласованы на странице.",
+      "next_action": "Подтвердить февраль, язык, плавание, медицинские условия/отмену и7-летие Оскара. Сообщения и заявки не отправлены.",
+      "url": "https://www.sailingclubpanama.com/campamentos-verano-panama/"
+    },
+    {
+      "country": "Панама",
+      "iso": "PAN",
+      "provider": "v74: La Llanada — новый2027 PDF против старых деталей",
+      "detail": "Sleepaway24–31января,7–16;1290/1352USD. DayElValle25–29января400USD: PDF6–10 против homepage6–12, оба детям подходят по году. ОсновнойES подтверждён, EN только помощь. Footerгородскогоbus не перенесён вElValle. ГородскиеPDF2026 и отмена2026 не объявляются документами2027.",
+      "next_action": "Новое приложение отмены, точные площадки, места, иностранный допуск и полный счёт; городской прайс2027 и летние даты ещё в работе.",
+      "url": "https://pty.lallanada.com/"
+    },
+    {
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "provider": "v74: FOD — реальные курсы, каникулярный сезон не доказан первично",
+      "detail": "Первичный сайт и собственная ссылка на форму подтверждают Infantil6–8, Juvenil9–12 и Biónica13–17; каждый конкретный курс пока«Se anunciará una próxima fecha». Robotics20ч и prerequisite уровней — регулярные курсы, не подтверждённая сменаDec2026/Jan2027. Вторичная перепечатка LíderesdelFuturo не заменяет официальный camp-прайс. WoodsOfTheWorld вAmora объявлен с4января2027, но конец/возраст/прайс/язык не установлены; полноценное досье не создано.",
+      "next_action": "Новый официальный каникулярный планFOD и подробная программаWoods; внешних сообщений/форм не отправляли.",
+      "url": "https://fod.ac.cr/oferta-formativa/"
+    },
+    {
+      "country": "Коста-Рика / Мексика",
+      "iso": "CRI",
+      "provider": "v74: архивация2026 и неизвестный минимальный возраст",
+      "detail": "SEKSpaceAcademy29Jun–10Jul2026: числового возраста нет,142800/86700CRC сIVA; транспорт51980 период неизвестен. Tecnobotrix20Jul–21Aug2026:7+,6детей, цена не раскрыта. RobotPunk29Jun–7Aug2026: возраст/прайс не установлены. МissiontripCampHope, отборUWC и январские музейные workshops не включены как детские STEMпансионы.",
+      "next_action": "Новые2027 документы, языки, реальные часы техники/счета. Не переносить прошлые dates/discounts и саморекламу чемпионств.",
+      "url": "https://sekcostarica.com/vacaciones-activas/"
+    },
+    {
+      "country": "Перу / Уругвай / Чили",
+      "iso": "PER",
+      "provider": "v74: учебный курс, начало сезона и настоящий лагерь различаются",
+      "detail": "Troonic700USD: заголовок04–07Jan/01–04Feb2027 против MonThu(revisar)/Fridaybus, не создаём смены. WeCodeFeb2026: grade2–3/4–6 и8ч важнее homepage3встречи/неделю; Minecraft laptoprequirements противgenericFAQ. BritishCouncilJan2026 не2027. NorteJan2027 имеет72ч/2месячныхуровня, PDF2024 и противоречивую рассрочку; точных дней нет.",
+      "next_action": "Получить реальные даты/полный объём/язык/прайс; технические и начальные ENпрограммы оценивать по пользе детям. Остальные мировые приоритеты продолжаются, полнота0 стран.",
+      "url": "https://troonic.com/troonic-camp-2027/"
+    }
+  ],
+  "calendar": {
+    "events": 2451,
+    "learning_records": 1120,
+    "family_ics": 1772,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 657,
+    "season_windows": 18
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "next_priority": "Other priority countries, exact venues/maps, 2027 contracts and complete family budgets; the worldwide goal remains ACTIVE.",
+  "validation": [
+    "2447 prior events and300 dossiers unchanged; worldwide leagues, schools, results and family routes preserved",
+    "La Llanada2027 PDFs read and price tables visually inspected; day6–10 versus homepage6–12 visible; Spanish main withEnglish help only",
+    "SeaCamp Jan/Mar exact; February19–22 versus11–14 main/form excluded;200advance in650 notextra",
+    "Troonic2027 contradictions preserved, no invented boarding/fullsession; member-only clubs and kit scope explicit",
+    "SEK/RobotPunk/Tecnobotrix/BritishCouncil/WeCode2026 never rolled into2027; no mission/admissions selection classified as holidaycamp",
+    "WeCode specificgrade/curriculum/laptop and duration differ from genericFAQ; currencyISO unresolved, no inventedUSD",
+    "Norte2027 January start is notexactsession; stale2024PDF and instalment contradictions visible; beginnerEN not robotics",
+    "Fournewdatedrows/familyICS;1768 prior UID/datepairs and104exhibition contents preserved exceptDTSTAMP",
+    "Bridge idempotence; SQLite integrity/foreignkeys; canonical/publicJSON mirrors;59scenarios;0fullyaudited countries",
+    "Browser: Panama4 dossiers / Spanish3 / English0; scenario55 actual3picks; comparisontwooffers andclear verified; consolelogs empty."
+  ]
+}

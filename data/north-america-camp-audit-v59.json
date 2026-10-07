@@ -1,0 +1,44 @@
+{
+  "asof": "2026-10-04",
+  "version": 59,
+  "status": "progress",
+  "worldwide_complete": false,
+  "prior_events": 1969,
+  "prior_events_unchanged": 1942,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "id-tech",
+    "space-camp",
+    "space-robotics"
+  ],
+  "corrected_prior_calendar_entries": 27,
+  "new_calendar_entries": 17,
+  "dossiers": 88,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 159,
+  "family_ical_entries": 1370,
+  "exhibition_ical_entries": 104,
+  "source_receipt": "STEM_north_america_camp_source_receipts_v59.json",
+  "checks": {
+    "prior_dossier_ids": "stable",
+    "prior_family_uid_date_pairs": "preserved",
+    "source_evidence": "official body / image / public introduction",
+    "YRES": "season window not duplicate shifts",
+    "Arowhon": "Mini and regular gates/prices separated; long stay interruption explicit",
+    "BrickLabs": "technical and creative stay separated",
+    "NextRobotics": "Grade3–6 inSep2027; price315+2%card, not monthly club tariff",
+    "iDTech": "direct EN and calendar-year age policy; strict courses/overnight separate",
+    "SpaceCamp": "fresh weeklong FAQ: fluentEnglish / transfer / refund; Robotics body directlyGrade4 for9-year-olds and VEX/underwater/RealFlight",
+    "Tamwood": "redirect conflict excluded from current shortlist; no assertion of specific 2027 operation",
+    "sqlite": "passed: integrity_check and foreign_key_check",
+    "bridge": "passed: idempotent",
+    "publication": "native save/deploy receipt required separately",
+    "browser": "passed:10Canada dossiers, YRES comparison, new scenario,390/320 no document overflow; no console errors"
+  },
+  "remaining": [
+    "CostaRica/Mexico/LatinAmerica next deeper general/technical camp pass",
+    "Full year2027 tariffs, English proof and precise venues for remaining programmes",
+    "Other Europe/Asia and global discovery; no country marked completely audited"
+  ]
+}

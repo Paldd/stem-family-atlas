@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://globalappathon.org/registration-submission/",
+    "name": "appathon-submission",
+    "status": 200,
+    "final_url": "https://globalappathon.org/registration-submission/",
+    "sha256": "e8aa6f49f9ac5960ebd76594224129376421e388c6faedce901ddd77e736fe86",
+    "bytes": 248246,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://astro-pi.org/mission-zero/eligibility",
+    "name": "astro-eligibility",
+    "status": 200,
+    "final_url": "https://astro-pi.org/mission-zero/eligibility",
+    "sha256": "4d94e0d702f07e2070482ce2d900112a5cdc76b6e0e2b78ef693f87545209606",
+    "bytes": 19837,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://astro-pi.org/mission-zero/",
+    "name": "astro-zero",
+    "status": 200,
+    "final_url": "https://astro-pi.org/mission-zero/",
+    "sha256": "c6183258108507210f105d9c10fbb7b5228ec019574117008d356fec8e9aaa86",
+    "bytes": 33650,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://astro-pi.org/mission-space-lab/",
+    "name": "astro-lab",
+    "status": 200,
+    "final_url": "https://astro-pi.org/mission-space-lab/",
+    "sha256": "9a38fa98ff8a52974e2d2a5f073788793a37f14ff99390ce6828ba031da77836",
+    "bytes": 32682,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://learn.gamesforchange.org/student-challenge",
+    "name": "g4c-main",
+    "status": 200,
+    "final_url": "https://learn.gamesforchange.org/student-challenge",
+    "sha256": "459f4e3549350ec5908961525396a151a5bab36f8870e10a7bfb585c04fb5564",
+    "bytes": 97883,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://learn.gamesforchange.org/student-challenge/competition",
+    "name": "g4c-competition",
+    "status": 200,
+    "final_url": "https://learn.gamesforchange.org/student-challenge/competition",
+    "sha256": "a2ed384700fa30e167229bca05d471a0966f1749d2c7a8d1d766a814568463e5",
+    "bytes": 75969,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://learn.gamesforchange.org/programs/student-challenge-game-jams",
+    "name": "g4c-jams",
+    "status": 200,
+    "final_url": "https://learn.gamesforchange.org/programs/student-challenge-game-jams",
+    "sha256": "91fc0606d3cf28d25136b09de84166cb0a4aff63f3ca4facbc5cda539e0c5756",
+    "bytes": 74621,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://fosdem.org/2027/",
+    "name": "fosdem-2027",
+    "status": 200,
+    "final_url": "https://fosdem.org/2027/",
+    "sha256": "d5f5547f7df35c5423c959464188588ec383274a8322fc6b4932698c3b20f9d5",
+    "bytes": 4180,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://fosdem.org/2026/news/2025-11-09-junior/",
+    "name": "fosdem-junior-2026",
+    "status": 200,
+    "final_url": "https://archive.fosdem.org/2026/news/2025-11-09-junior/",
+    "sha256": "cd942be1f243e6829c3a9823bea3e74cc88c7a1fc006413b45fbb85eefaf632e",
+    "bytes": 8992,
+    "checked": "2026-10-01",
+    "limit": "Retrieval receipt; facts also read separately, not proof of family admission."
+  },
+  {
+    "url": "https://globalappathon.org/",
+    "name": "appathon-home",
+    "status": 200,
+    "sha256": "8ece3d5364ffdeab062b44d140e563edc2abb8dfc8d9b56b326cb5d017c425ac",
+    "bytes": 390729,
+    "checked": "2026-10-01",
+    "limit": "Primary HTML text read; discrepancies with FAQ retained."
+  },
+  {
+    "url": "https://globalappathon.org/faq/",
+    "name": "appathon-faq",
+    "status": 200,
+    "sha256": "ff4f6a0c4f256b2fa4902fe62f38b86262e8d7ac77ac20c7139ad5e912685f71",
+    "bytes": 286102,
+    "checked": "2026-10-01",
+    "limit": "Primary HTML text read; discrepancies with FAQ retained."
+  }
+]

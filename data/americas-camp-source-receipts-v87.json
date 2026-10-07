@@ -1,0 +1,574 @@
+{
+  "asof": "2026-10-05",
+  "version": 87,
+  "scope": "44directHTML/PDFattempts,42HTTP200 inclNRJSshell;1HTTP404and1TLSfailure.2ownfullposters and4PDFvisualreads retained. These are not44 complete programmeaudits.",
+  "sources": [
+    {
+      "key": "cu-summer",
+      "url": "https://www.colorado.edu/sciencediscovery/programs/k-12-summer-camps-and-high-school-classes",
+      "final_url": "https://www.colorado.edu/sciencediscovery/programs/k-12-summer-camps-and-high-school-classes",
+      "status": 200,
+      "bytes": 33384,
+      "sha256": "a8114835c50607f7f325e3e550238e02737687fc7cb5daf29a70ec15b8057687",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-summer.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-esq",
+      "url": "https://uwaterloo.ca/engineering-outreach/programs/engineering-science-quest",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/programs/engineering-science-quest",
+      "status": 200,
+      "bytes": 75727,
+      "sha256": "0e106f9865bd04bb12f559ba28ecab8690b6620fbadfd6763f2bdf4aff2d00d4",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-esq.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "western-summer",
+      "url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/index.html",
+      "final_url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/index.html",
+      "status": 200,
+      "bytes": 21977,
+      "sha256": "25231a500a0e737ac2be60617d368f6bbface0e9a56f7907f71634070568866c",
+      "body_snapshot_retained": true,
+      "raw_filename": "western-summer.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-toy",
+      "url": "https://lawrencehallofscience.org/programs/toy-builders/",
+      "final_url": "https://lawrencehallofscience.org/programs/toy-builders/",
+      "status": 200,
+      "bytes": 148750,
+      "sha256": "3989a026a5b2c383394afddb4daf203660f8c2d19daa51d5cbb15a065edeb7fb",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-toy.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "cu-2026-catalog",
+      "url": "https://www.colorado.edu/sciencediscovery/media/1461",
+      "final_url": "https://www.colorado.edu/sciencediscovery/media/1461",
+      "status": 200,
+      "bytes": 1034192,
+      "sha256": "e440e2f9d18b2208317337fce41cf6de3f3e14792ec150243e0079e5330435df",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-2026-catalog.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-summer",
+      "url": "https://uwaterloo.ca/engineering-outreach/programs/engineering-science-quest/summer-camps",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/programs/engineering-science-quest/summer-camps",
+      "status": 200,
+      "bytes": 120398,
+      "sha256": "9ce7c2907623f182ab3ab48f5dee82a254aa3451b0350104b8e5f950eedf2eac",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-summer.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-senior",
+      "url": "https://uwaterloo.ca/engineering-outreach/esqsenior26sneaktxt",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/esqsenior26sneaktxt",
+      "status": 200,
+      "bytes": 80286,
+      "sha256": "c502bb3c5591e6e0009965148d271c6abc82974f07b0734dcc77090b2de8f148",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-senior.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "cu-faq",
+      "url": "https://www.colorado.edu/sciencediscovery/programs/science-discovery-faqs",
+      "final_url": "https://www.colorado.edu/sciencediscovery/programs/science-discovery-faqs",
+      "status": 200,
+      "bytes": 53832,
+      "sha256": "22a88692753d11078b964baeedf9d92e51ebaf1eb9f0a558c44dffbaa20ac21b",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-faq.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "western-general",
+      "url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/general-information.html",
+      "final_url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/general-information.html",
+      "status": 200,
+      "bytes": 27662,
+      "sha256": "ca680f03fa4deb4abc26d9e808a16d7dc5405fab121db2579cc01204f6008d3f",
+      "body_snapshot_retained": true,
+      "raw_filename": "western-general.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "western-faq",
+      "url": "https://www.eng.uwo.ca/outreach/pre-university-programs/faq.html",
+      "final_url": "https://www.eng.uwo.ca/outreach/pre-university-programs/faq.html",
+      "status": 200,
+      "bytes": 69990,
+      "sha256": "b54493d6cf341a36e969425df4e65d3a405969f47ec8bb743c1a3fbb84ed783a",
+      "body_snapshot_retained": true,
+      "raw_filename": "western-faq.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-camps",
+      "url": "https://lawrencehallofscience.org/visitors/summer-camps/",
+      "final_url": "https://lawrencehallofscience.org/visitors/summer-camps/",
+      "status": 200,
+      "bytes": 226857,
+      "sha256": "0d792a810b741317f5310205462c615c5fa3a84ba4fc468764e762ddbe473e4a",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-camps.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-all-programs",
+      "url": "https://lawrencehallofscience.org/programs/",
+      "final_url": "https://lawrencehallofscience.org/programs/",
+      "status": 200,
+      "bytes": 177944,
+      "sha256": "8ac177daf6dffe70d4516057a0b85502125e70e47ce255c90ba0bd13ce555685",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-all-programs.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "mex-robotitos",
+      "url": "https://www.robotitos.mx/verano/",
+      "final_url": "https://www.robotitos.mx/verano/",
+      "status": 200,
+      "bytes": 238913,
+      "sha256": "f2fbb858ca2a46ecc0d25f7ed5bb9bde3620085375636187c9e7c350a54aa83d",
+      "body_snapshot_retained": true,
+      "raw_filename": "mex-robotitos.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "mex-roboticsstore",
+      "url": "https://www.roboticsstore.com.mx/NUESTROS-SERVICIOS/Curso-de-Verano-2026/",
+      "final_url": "https://www.roboticsstore.com.mx/NUESTROS-SERVICIOS/Curso-de-Verano-2026/",
+      "status": 200,
+      "bytes": 30708,
+      "sha256": "d0263fcbc287d98f98aa8db598f38045d4f5a5d8c72fdd79a6a485dfed88b8f2",
+      "body_snapshot_retained": true,
+      "raw_filename": "mex-roboticsstore.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "mex-robotix-closed",
+      "url": "https://www.soyrobotix.com/talleres/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "nr-english",
+      "url": "https://site.homologacao.nr.com.br/english/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
+    },
+    {
+      "key": "sloane-rates",
+      "url": "https://campsloane.org/dates-and-rates",
+      "final_url": "https://campsloane.org/dates-and-rates",
+      "status": 200,
+      "bytes": 43891,
+      "sha256": "7d4c14290bb72f3ec951d59a60cc1c63fb8c7e9a84b44d61756ba1d22faccadf",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-rates.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-overnight",
+      "url": "https://campsloane.org/overnight-camp",
+      "final_url": "https://campsloane.org/overnight-camp",
+      "status": 200,
+      "bytes": 48412,
+      "sha256": "1ed96fe678767516c477fd10d09d193013f6d6ac626f8e567c30c4731428c421",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-overnight.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "cu-catalog-full",
+      "url": "https://www.colorado.edu/sciencediscovery/media/1460",
+      "final_url": "https://www.colorado.edu/sciencediscovery/media/1460",
+      "status": 200,
+      "bytes": 60391,
+      "sha256": "92880f03824f5c74c46d8b7b6155349364f4fcd07acca0943064b42399a5ce3b",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-catalog-full.pdf",
+      "content_scope": "K8 schedule matrix PDF, not full course catalogue; full catalogue is media/1461"
+    },
+    {
+      "key": "cu-parent-en",
+      "url": "https://www.colorado.edu/sciencediscovery/media/1450",
+      "final_url": "https://www.colorado.edu/sciencediscovery/media/1450",
+      "status": 200,
+      "bytes": 307666,
+      "sha256": "306e009f0faabfb4e305f5f1065048439f98b1d6d1c42924c93a5be884c95cda",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-parent-en.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "cu-parent-es",
+      "url": "https://www.colorado.edu/sciencediscovery/media/1500",
+      "final_url": "https://www.colorado.edu/sciencediscovery/media/1500",
+      "status": 200,
+      "bytes": 243698,
+      "sha256": "f92f70d6b744fde31a42f465431804c1c81512cb4751e886f2194b38a37528bd",
+      "body_snapshot_retained": true,
+      "raw_filename": "cu-parent-es.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "nr-home",
+      "url": "https://nr.com.br/",
+      "final_url": "https://nr.com.br/",
+      "status": 200,
+      "bytes": 7427,
+      "sha256": "b1117493a87b56da6d699a222be21fe7443720b0c82713bfa97c9234ebc32c3e",
+      "body_snapshot_retained": true,
+      "raw_filename": "nr-home.html",
+      "content_scope": "JavaScript shell, no full curriculum"
+    },
+    {
+      "key": "berkeley-arcade",
+      "url": "https://lawrencehallofscience.org/programs/arcade-makers/",
+      "final_url": "https://lawrencehallofscience.org/programs/arcade-makers/",
+      "status": 200,
+      "bytes": 148755,
+      "sha256": "65660aaa37c929e9bc9c4aafdea6a299ee73ca1cd0334c906eb9a326a25b7565",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-arcade.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-contraptions",
+      "url": "https://lawrencehallofscience.org/programs/creative-contraptions/",
+      "final_url": "https://lawrencehallofscience.org/programs/creative-contraptions/",
+      "status": 200,
+      "bytes": 149029,
+      "sha256": "48b5b067e17fb8167bd25095f61ab70e88a8a288dc255101df99d83cacb3589e",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-contraptions.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-nano",
+      "url": "https://lawrencehallofscience.org/programs/coding-and-engineering-nano-satellites-for-space-exploration/",
+      "final_url": "https://lawrencehallofscience.org/programs/coding-and-engineering-nano-satellites-for-space-exploration/",
+      "status": 200,
+      "bytes": 206833,
+      "sha256": "968132bce7b5e9dc830f2e407f66c1e9384f3bc4ccdabcaeb94672bd196a15f3",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-nano.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-ai",
+      "url": "https://lawrencehallofscience.org/programs/artificial-intelligence-for-real-life-problem-solving/",
+      "final_url": "https://lawrencehallofscience.org/programs/artificial-intelligence-for-real-life-problem-solving/",
+      "status": 200,
+      "bytes": 208056,
+      "sha256": "60b97153c8ac4d20df318cbf8a5576cdc7f24d0f363c21b7f339e8ccd9feea17",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-ai.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "berkeley-residential",
+      "url": "https://lawrencehallofscience.org/programs/residential-addon/",
+      "final_url": "https://lawrencehallofscience.org/programs/residential-addon/",
+      "status": 200,
+      "bytes": 199629,
+      "sha256": "3ecaed1c75abe15a27953558e7e02a5e3eff5feba94f881bee701fd41525d9bc",
+      "body_snapshot_retained": true,
+      "raw_filename": "berkeley-residential.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-day",
+      "url": "https://campsloane.org/day-camp",
+      "final_url": "https://campsloane.org/day-camp",
+      "status": 200,
+      "bytes": 31614,
+      "sha256": "45ed068d5400a996b9e3d3cc8c0de5ec5e7bbddbafaca486edffa49140a88862",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-day.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-faq",
+      "url": "https://campsloane.org/parents-faq",
+      "final_url": "https://campsloane.org/parents-faq",
+      "status": 200,
+      "bytes": 50073,
+      "sha256": "2a6590ec8af57d3430eb79e66b94dcab26484b9a00f37d699a7e1dea7215c392",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-faq.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-handbook",
+      "url": "https://campsloane.org/parent-handbook",
+      "final_url": "https://campsloane.org/parent-handbook",
+      "status": 200,
+      "bytes": 27887,
+      "sha256": "d1dea9df475b905bdacdb0c3a350dfca4239d5ffe4a32acadc8173d7b2fe1750",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-handbook.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-curiosity-a",
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-a-2026-sneak-peek_0.pdf",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-a-2026-sneak-peek_0.pdf",
+      "status": 200,
+      "bytes": 1689901,
+      "sha256": "0cd92e190b70a6a03081b685156ef9ab3881d56136e1a1b40b3e5a9dd56c941d",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-curiosity-a.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-curiosity-b",
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-b-2026-sneak-peek.pdf",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-b-2026-sneak-peek.pdf",
+      "status": 200,
+      "bytes": 1663608,
+      "sha256": "efa047905f328029e0f14102b6b9ff622b49f89230768e8fef7abb61fa610fe4",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-curiosity-b.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-curiosity-c",
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-c-2026-sneak-peek.pdf",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-c-2026-sneak-peek.pdf",
+      "status": 200,
+      "bytes": 1726483,
+      "sha256": "3ffff8f445c4124fab19ea44253a0cfaf20339a90a0e1fd122e045ce7a40c022",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-curiosity-c.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-discovery-b",
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-b-2026-sneak-peek.pdf",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-b-2026-sneak-peek.pdf",
+      "status": 200,
+      "bytes": 1634321,
+      "sha256": "8ef3f02848b0fa8156358181a2c248d598f99c1463a0e22549c190e3b19e9d69",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-discovery-b.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-discovery-c",
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-c-2026-sneak-peek.pdf",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-c-2026-sneak-peek.pdf",
+      "status": 200,
+      "bytes": 1563500,
+      "sha256": "f3fa3f0d756dfb6875c875d39732de8cb51c0e34049dc3930aaae793ab9d17d3",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-discovery-c.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "waterloo-paid-policy",
+      "url": "https://uwaterloo.ca/engineering-outreach/registration/paid-programs",
+      "final_url": "https://uwaterloo.ca/engineering-outreach/registration/paid-programs",
+      "status": 200,
+      "bytes": 94598,
+      "sha256": "b7800d74079a1e1a40d0237bc05e17c52be7ed317befa21b604df569de19ab68",
+      "body_snapshot_retained": true,
+      "raw_filename": "waterloo-paid-policy.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-international",
+      "url": "https://campsloane.org/international-campers",
+      "final_url": "https://campsloane.org/international-campers",
+      "status": 200,
+      "bytes": 34921,
+      "sha256": "6cf54c7b5ef3c9b03a41f9ca391a7d67b73c3dc8bb85d71205b6e4b174dc82cd",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-international.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-activities",
+      "url": "https://campsloane.org/activities",
+      "final_url": "https://campsloane.org/activities",
+      "status": 200,
+      "bytes": 49507,
+      "sha256": "6bb7891aa402eb064755a430b3eefdeea571aa8708a37e20cfcb693e84a5bff3",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-activities.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-family",
+      "url": "https://campsloane.org/family-camp",
+      "final_url": "https://campsloane.org/family-camp",
+      "status": 200,
+      "bytes": 34302,
+      "sha256": "359206c171c39e1d5e87a3fa7e6195e710bc6cb1315ab1aad9e2a0771df198da",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-family.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "western-themes",
+      "url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/themes-and-schedule.html",
+      "final_url": "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/themes-and-schedule.html",
+      "status": 200,
+      "bytes": 38383,
+      "sha256": "2c9d91bd251189f15a21765a04630db2e3f771fd505826ab84ade22867246e48",
+      "body_snapshot_retained": true,
+      "raw_filename": "western-themes.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "robotix-faq",
+      "url": "https://www.soyrobotix.com/preguntas-frecuentes/",
+      "final_url": "https://www.soyrobotix.com/preguntas-frecuentes/",
+      "status": 200,
+      "bytes": 53135,
+      "sha256": "b07018e6145aebd721d72c329d64dd58227cd8855d2d9ff244b77700111bebd5",
+      "body_snapshot_retained": true,
+      "raw_filename": "robotix-faq.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-day-handbook",
+      "url": "https://campsloane.org/client_media/files/pdf/2027%20DC%20Handbook.pdf",
+      "final_url": "https://campsloane.org/client_media/files/pdf/2027%20DC%20Handbook.pdf",
+      "status": 200,
+      "bytes": 12329719,
+      "sha256": "51cc171eba74819f1e0eaaf1dc229ce0f464af228a69bec687235e562997f50d",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-day-handbook.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "sloane-board-handbook",
+      "url": "https://campsloane.org/client_media/files/pdf/2027%20OC%20Handbook.pdf",
+      "final_url": "https://campsloane.org/client_media/files/pdf/2027%20OC%20Handbook.pdf",
+      "status": 200,
+      "bytes": 12535161,
+      "sha256": "5bff3d4ed5f47e998474c624e1fb5d4d511b59c957541a9bc4f290b30fada68b",
+      "body_snapshot_retained": true,
+      "raw_filename": "sloane-board-handbook.pdf",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    },
+    {
+      "key": "western-policies",
+      "url": "https://www.eng.uwo.ca/outreach/pre-university-programs/Policies-and-Procedures.html",
+      "final_url": "https://www.eng.uwo.ca/outreach/pre-university-programs/Policies-and-Procedures.html",
+      "status": 200,
+      "bytes": 25765,
+      "sha256": "87d05c536f2f1df4080366614d537dd365d456d22276f2dc83a5429da37c516d",
+      "body_snapshot_retained": true,
+      "raw_filename": "western-policies.html",
+      "content_scope": "Retained primary HTML/PDF; read depth and uncertainties in dossier/audit"
+    }
+  ],
+  "image_sources": [
+    {
+      "url": "https://www.roboticsstore.com.mx/.cm4all/uproc.php/0/.Cartel%20anversol%20Curso%20de%20Verano%202026.png/picture-1600?_=19e9a4c00a1",
+      "status": 200,
+      "bytes": 444665,
+      "sha256": "f701412506c5f5b89b26e3b6fbce032f56bfb6581f0ea633c808af9fb0f8ad67",
+      "file": "mex-course-poster-large.png",
+      "content_scope": "Own full poster visually inspected: seven modules/age/hours or address and operator claims; not independent accreditation"
+    },
+    {
+      "url": "https://www.roboticsstore.com.mx/.cm4all/uproc.php/0/.curso%20verano%201.png/picture-1600?_=19e9b5b6270",
+      "status": 200,
+      "bytes": 2958046,
+      "sha256": "f5e2919194e65ab83183bbea68a164567394204488382d2ad26c3328d68da64e",
+      "file": "mex-course-details.png",
+      "content_scope": "Own full poster visually inspected: seven modules/age/hours or address and operator claims; not independent accreditation"
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://www.colorado.edu/sciencediscovery/media/1461",
+      "page": 4,
+      "method": "Read Grade2–3 Robot Playground USD330, platforms/activities and early Friday release; archive2026.",
+      "render_sha256": "18415a4b5b4350f9c0684d196759d7314830da785c9107e5959c99cfdddf2dc2",
+      "render_bytes": 710595
+    },
+    {
+      "url": "https://www.colorado.edu/sciencediscovery/media/1461",
+      "page": 8,
+      "method": "Read Grade7–8 AI330/Arduino370, TeachableMachine/microbit and take-homeGroveKit; archive2026.",
+      "render_sha256": "7cd6030cb48b5d423e85f2ae43e68db2de8e1411811472fd1cefd0794544bf11",
+      "render_bytes": 714784
+    },
+    {
+      "url": "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-b-2026-sneak-peek.pdf",
+      "page": 3,
+      "method": "Read teamLEGO SPIKEPrime, TinkerCAD, shortweek exclusions; curricula not every-hour robotics.",
+      "render_sha256": "61637bc49eedcd2e6031df131ab16998e813a4f476e099083683caa7ebb70b44",
+      "render_bytes": 435580
+    },
+    {
+      "url": "https://campsloane.org/client_media/files/pdf/2027%20DC%20Handbook.pdf",
+      "page": 23,
+      "method": "Read dayMar1 finalbalance/nonrefundabledeposit, medical exception, insurance not included. Filename2027 not assumed all undated clauses newly issued.",
+      "render_sha256": "25599cfab99866309444b6d8ca6d2d4e0641eb74999b7e732b80ee1e424a8445",
+      "render_bytes": 645541
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://campsloane.org/activities",
+    "https://campsloane.org/client_media/files/pdf/2027%20DC%20Handbook.pdf",
+    "https://campsloane.org/client_media/files/pdf/2027%20OC%20Handbook.pdf",
+    "https://campsloane.org/dates-and-rates",
+    "https://campsloane.org/day-camp",
+    "https://campsloane.org/international-campers",
+    "https://campsloane.org/overnight-camp",
+    "https://campsloane.org/parents-faq",
+    "https://lawrencehallofscience.org/programs/arcade-makers/",
+    "https://lawrencehallofscience.org/programs/artificial-intelligence-for-real-life-problem-solving/",
+    "https://lawrencehallofscience.org/programs/coding-and-engineering-nano-satellites-for-space-exploration/",
+    "https://lawrencehallofscience.org/programs/creative-contraptions/",
+    "https://lawrencehallofscience.org/programs/residential-addon/",
+    "https://lawrencehallofscience.org/programs/toy-builders/",
+    "https://lawrencehallofscience.org/visitors/summer-camps/",
+    "https://uwaterloo.ca/engineering-outreach/esqsenior26sneaktxt",
+    "https://uwaterloo.ca/engineering-outreach/programs/engineering-science-quest/summer-camps",
+    "https://uwaterloo.ca/engineering-outreach/registration/paid-programs",
+    "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-a-2026-sneak-peek_0.pdf",
+    "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-b-2026-sneak-peek.pdf",
+    "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/curiosity-c-2026-sneak-peek.pdf",
+    "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-b-2026-sneak-peek.pdf",
+    "https://uwaterloo.ca/engineering-outreach/sites/default/files/uploads/documents/discovery-c-2026-sneak-peek.pdf",
+    "https://www.colorado.edu/sciencediscovery/media/1450",
+    "https://www.colorado.edu/sciencediscovery/media/1461",
+    "https://www.colorado.edu/sciencediscovery/programs/k-12-summer-camps-and-high-school-classes",
+    "https://www.colorado.edu/sciencediscovery/programs/science-discovery-faqs",
+    "https://www.eng.uwo.ca/outreach/pre-university-programs/Policies-and-Procedures.html",
+    "https://www.eng.uwo.ca/outreach/pre-university-programs/faq.html",
+    "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/general-information.html",
+    "https://www.eng.uwo.ca/outreach/pre-university-programs/summer-camp/themes-and-schedule.html",
+    "https://www.roboticsstore.com.mx/NUESTROS-SERVICIOS/Curso-de-Verano-2026/",
+    "https://www.robotitos.mx/verano/"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "Primary snapshots/largePDF/posterimages/renders retained outside public checkout;paraphrased programme facts and hashes/errors only published.",
+    "Currentprice/dates do not establish places/admission/finalinvoice/globalranking. OfficialPDFfilename2027 not proof all undated policyclauses newlydated.",
+    "Universitygrade/English/foreignadmission pending, Sloaneprice/date discrepancies preserved;full worldwide scope active."
+  ]
+}

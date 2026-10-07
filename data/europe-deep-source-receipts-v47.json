@@ -1,0 +1,420 @@
+{
+  "version": 47,
+  "checked": "2026-10-02",
+  "sources": [
+    {
+      "name": "hif",
+      "url": "https://hif.ch/camps/summer-camp-2027/",
+      "status": 200,
+      "resolved": "https://hif.ch/camps/summer-camp-2027/",
+      "mime": "text/html",
+      "bytes": 362034,
+      "sha256": "f595d3e9e9191d805b111979d241b9626177e6fffb03aceec3409e9367738c65",
+      "primary_body_read": true
+    },
+    {
+      "name": "aiglon",
+      "url": "https://www.aiglon.ch/2027-summer-camp",
+      "status": 200,
+      "resolved": "https://www.aiglon.ch/2027-summer-camp",
+      "mime": "text/html",
+      "bytes": 100319,
+      "sha256": "c6e4aada4c65007cf1233191460ee84f8e8052c2e1e52c02b49a45d788b221d9",
+      "primary_body_read": true
+    },
+    {
+      "name": "aiglon_brochure",
+      "url": "https://online.fliphtml5.com/meksu/fdzd/",
+      "status": 200,
+      "resolved": "https://online.fliphtml5.com/meksu/fdzd/",
+      "mime": "text/html",
+      "bytes": 4828,
+      "sha256": "4c3ce5f6cee7ff0e45b3189495efb12c40ce699daa615a434980b78af40e691d",
+      "primary_body_read": false,
+      "limitation": "HTTP200 flipbook shell only; brochure contents / prices not verified."
+    },
+    {
+      "name": "eisb_camps",
+      "url": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/",
+      "mime": "text/html",
+      "bytes": 134114,
+      "sha256": "0daa041f6a8ba6924c875c9203cb39274ff86b56d00295c71e9c065b4daa151c",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_robotics",
+      "url": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/",
+      "mime": "text/html",
+      "bytes": 148176,
+      "sha256": "1c72dd60c27f06dd2ab3bf2a04153e3377822b999a8859c7aa1ec313480af5c7",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_science",
+      "url": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/scientific-talent-summer-camp/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/scientific-talent-summer-camp/",
+      "mime": "text/html",
+      "bytes": 156084,
+      "sha256": "76f5ebc0692668eb36ee407b0e25b47691601a81299bd981277bb73eb7988f1a",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_primary",
+      "url": "https://eisbarcelona.com/primary-school/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/primary-school/",
+      "mime": "text/html",
+      "bytes": 185401,
+      "sha256": "0d49393dad97ade35b65fd8cdd7a7a0ac56c5e5842125fe8708d2ac70bb1d3e7",
+      "primary_body_read": true
+    },
+    {
+      "name": "logiscool",
+      "url": "https://www.logiscool.com/en-es/programs/lego-wedo-future",
+      "status": 200,
+      "resolved": "https://www.logiscool.com/en-es/programs/lego-wedo-future",
+      "mime": "text/html",
+      "bytes": 744681,
+      "sha256": "4e147cc452119363ec6b06aa0644da55b1b6d8cfaa4aaccab20b3e83865c0c09",
+      "primary_body_read": true
+    },
+    {
+      "name": "robotech_history",
+      "url": "https://www.robotech.cat/english/history",
+      "status": 200,
+      "resolved": "https://www.robotech.cat/english/history",
+      "mime": "text/html",
+      "bytes": 192645,
+      "sha256": "2d227f6cf11d625d797a7409c916e7738fff88cd6d86d7f9dccdc5cf32612f58",
+      "primary_body_read": true
+    },
+    {
+      "name": "first_2025",
+      "url": "https://community.firstinspires.org/teams-from-around-the-world-made-a-splash-at-firstchamp",
+      "status": 200,
+      "resolved": "https://community.firstinspires.org/teams-from-around-the-world-made-a-splash-at-firstchamp",
+      "mime": "text/html",
+      "bytes": 97605,
+      "sha256": "2ad69abdcf1bc8397a03d83e3cf6421487e9b0fe4e2658cebcbd30eb7b852f4d",
+      "primary_body_read": true
+    },
+    {
+      "name": "first_2026",
+      "url": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "status": 200,
+      "resolved": "https://community.firstinspires.org/teams-from-around-the-world-made-history-at-firstchamp",
+      "mime": "text/html",
+      "bytes": 58128,
+      "sha256": "8568ee2daacb1694592234d23b996b6ea2e76ac1ace633d4068e2c4a62bd68ae",
+      "primary_body_read": true
+    },
+    {
+      "name": "fll_spain_2026",
+      "url": "https://www.ubu.es/noticias/robotica-ciencia-y-creatividad-la-final-nacional-de-la-firstr-legor-league-corona-legotronic-beavers",
+      "status": 200,
+      "resolved": "https://www.ubu.es/noticias/robotica-ciencia-y-creatividad-la-final-nacional-de-la-firstr-legor-league-corona-legotronic-beavers",
+      "mime": "text/html",
+      "bytes": 134604,
+      "sha256": "414a1c7e6e5b10c5a0816dbcb0392e9be70e2b350ca47760fa9df74f85382a8d",
+      "primary_body_read": true
+    },
+    {
+      "name": "fsingenium_school",
+      "url": "https://iesnavarrovilloslada.educacion.navarra.es/web/blog/2023/05/02/fsingenium-team-equipo-navarro-de-la-first-lego-league-ha-sido-el-primer-clasificado-en-el-world-festival-en-houston/",
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "primary_body_read": true,
+      "alternate_read": "Primary body read with web tool after local HTTP failure."
+    },
+    {
+      "name": "wro_swiss_results",
+      "url": "https://wro.swiss/en/2026-swiss-finals-results/",
+      "status": 200,
+      "resolved": "https://wro.swiss/en/2026-swiss-finals-results/",
+      "mime": "text/html",
+      "bytes": 126195,
+      "sha256": "defd2638163bac38f7345fefcd9dab33129aabb2e55146fe768d7ee921de8f3e",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_swiss_2026",
+      "url": "https://wro.swiss/saison-2026/",
+      "status": 200,
+      "resolved": "https://wro.swiss/saison-2026/",
+      "mime": "text/html",
+      "bytes": 126518,
+      "sha256": "799c26b69db3237685d1682e12db8c976212da093f8868137b4d7ebda701b37c",
+      "primary_body_read": true
+    },
+    {
+      "name": "wro_swiss_2027",
+      "url": "https://wro.swiss/saison-2027/",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found",
+      "primary_body_read": false
+    },
+    {
+      "name": "mjc",
+      "url": "https://www.mjc-arts-blagnac.com/ateliers/robotique/",
+      "status": 200,
+      "resolved": "https://www.mjc-arts-blagnac.com/ateliers/robotique/",
+      "mime": "text/html",
+      "bytes": 67926,
+      "sha256": "bc5e19a85b72bd0ae06a520567e7906507a1f73e174e7f965312a63ffea24896",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_regional_results",
+      "url": "https://www.planete-sciences.org/occitanie/web/retour-sur-la-33e-edition-de-la-coupe-de-france-de-robotique-junior-en-occitanie/",
+      "status": 200,
+      "resolved": "https://www.planete-sciences.org/occitanie/web/retour-sur-la-33e-edition-de-la-coupe-de-france-de-robotique-junior-en-occitanie/",
+      "mime": "text/html",
+      "bytes": 129465,
+      "sha256": "fd858819a8aafd643e4a7c6ed276f55745eb4232750e1e2c265eb3a639a3dbb7",
+      "primary_body_read": true
+    },
+    {
+      "name": "fr_regional_protocol",
+      "url": "https://www.planete-sciences.org/robot/poolzor/results/coupe-jr-occitanie-2026",
+      "status": 200,
+      "resolved": "https://www.planete-sciences.org/robot/poolzor/results/coupe-jr-occitanie-2026",
+      "mime": "text/html",
+      "bytes": 16975,
+      "sha256": "d04c8176fbc89bb7829b4ec168390b069758a0676d5633037c82411452dbc02a",
+      "primary_body_read": true
+    },
+    {
+      "name": "roborave",
+      "url": "https://www.roboraveinternational.org/en/events",
+      "status": 200,
+      "resolved": "https://www.roboraveinternational.org/en/events",
+      "mime": "text/html",
+      "bytes": 77006,
+      "sha256": "5b8d3fcb90a0ca0d74d3bb7bfc5ef81c20a757c42a6d356ce9bfff1c81a4ae47",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_extras",
+      "url": "https://eisbarcelona.com/extracurricular-activities/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/extracurricular-activities/",
+      "mime": "text/html",
+      "bytes": 198582,
+      "sha256": "d697aec08ab2d73d7ac42182dad232156860dfcfaf3b8d01d179f11f34bdc487",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_admission",
+      "url": "https://eisbarcelona.com/admissions/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/admissions/",
+      "mime": "text/html",
+      "bytes": 185413,
+      "sha256": "462c6d795990b973ea9900e9f467949c3f413605fc9e883368d3e26a51c0fec8",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_ib",
+      "url": "https://eisbarcelona.com/international-baccalaureate/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/international-baccalaureate/",
+      "mime": "text/html",
+      "bytes": 191076,
+      "sha256": "3d540009bd636e3e121c66e8609b0a6a465133d271cb390403f5c138d1d09da8",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_languages",
+      "url": "https://eisbarcelona.com/academic-excellence/",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/academic-excellence/",
+      "mime": "text/html",
+      "bytes": 303886,
+      "sha256": "345bd1115de2a3e24013583a73e38c348d67fb127e61718f28a2a1ba3fa7e080",
+      "primary_body_read": true
+    },
+    {
+      "name": "eisb_prices_2026",
+      "url": "https://eisbarcelona.com/wp-content/uploads/Summer-Camp/2026%20CASTE.webp",
+      "status": 200,
+      "resolved": "https://eisbarcelona.com/wp-content/uploads/Summer-Camp/2026%20CASTE.webp",
+      "mime": "image/webp",
+      "bytes": 104382,
+      "sha256": "fc8dc8cc2eac10a53e09fce8fbf30f8c1ccc4a57d17e2747ef372c7dac91850c",
+      "primary_body_read": true,
+      "alternate_read": "Image visually inspected; header explicitly2026, not reused as2027 prices."
+    },
+    {
+      "name": "mjc_2026_result",
+      "url": "https://www.mjc-arts-blagnac.com/retour-sur-la-coupe-de-france-robotique-junior-2026/",
+      "status": 200,
+      "resolved": "https://www.mjc-arts-blagnac.com/retour-sur-la-coupe-de-france-robotique-junior-2026/",
+      "mime": "text/html",
+      "bytes": 107535,
+      "sha256": "f931baa5c35bf55918a44a43f92a1370c40c749d16904f34acb805ad9ddffbe5",
+      "primary_body_read": true
+    },
+    {
+      "name": "advanced_madrid",
+      "url": "https://www.advancedmanufacturingmadrid.com/es/entradas/",
+      "status": 200,
+      "resolved": "https://www.advancedmanufacturingmadrid.com/es/entradas/",
+      "mime": "text/html",
+      "bytes": 140859,
+      "sha256": "f8d888c0f55c845c315e0847d7699e7ee2e7d92cd7819d743fdabe2c31d8736f",
+      "primary_body_read": true
+    },
+    {
+      "name": "siams",
+      "url": "https://www.siams.ch/Practical-information",
+      "status": 200,
+      "resolved": "https://www.siams.ch/Practical-information",
+      "mime": "text/html",
+      "bytes": 28808,
+      "sha256": "4a78f2759f497a8ad99c438b3815a257327614da74a6ffea54e932474b41af01",
+      "primary_body_read": true
+    },
+    {
+      "name": "siams_about",
+      "url": "https://www.siams.ch/Impressum",
+      "status": 200,
+      "resolved": "https://www.siams.ch/Impressum",
+      "mime": "text/html",
+      "bytes": 22937,
+      "sha256": "c7e45a6aa97530ae9ec3c60caa708f759f235830ae769714a3e4a456a7c74c42",
+      "primary_body_read": true
+    },
+    {
+      "name": "swiss_ai",
+      "url": "https://www.swissaisummit.com/",
+      "status": 200,
+      "resolved": "https://www.swissaisummit.com/",
+      "mime": "text/html",
+      "bytes": 198007,
+      "sha256": "16aa9cfb8ef8770e22fe2a477642be3be0114ce589d256c0a8f07610d7e81a5e",
+      "primary_body_read": true
+    },
+    {
+      "name": "swiss_ai_terms",
+      "url": "https://www.swissaisummit.com/terms-and-conditions",
+      "status": 200,
+      "resolved": "https://www.swissaisummit.com/terms-and-conditions",
+      "mime": "text/html",
+      "bytes": 89223,
+      "sha256": "3226fc6dafc3423d6660fc071acbdb0491c6cbb40e03fe6c0b56fd1b1d8370e4",
+      "primary_body_read": true
+    },
+    {
+      "name": "swiss_ai_tickets",
+      "url": "https://www.swissaisummit.com/tickets",
+      "status": 200,
+      "resolved": "https://www.swissaisummit.com/tickets",
+      "mime": "text/html",
+      "bytes": 66280,
+      "sha256": "a63a98b7bded87d0fadea385fda54081ffceadfae627aa56dd467720b1dcff6c",
+      "primary_body_read": true
+    },
+    {
+      "name": "vivatech_b2b",
+      "url": "https://vivatech.com/b2b-passes-terms-conditions",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "primary_body_read": true,
+      "alternate_read": "Primary body read with web tool after local HTTP failure."
+    },
+    {
+      "name": "vivatech_public",
+      "url": "https://vivatech.com/general-public-day",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "primary_body_read": true,
+      "alternate_read": "Primary body read with web tool after local HTTP failure."
+    },
+    {
+      "name": "vivatech_public_faq",
+      "url": "https://vivatech.com/grand-public/faq",
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "primary_body_read": false
+    },
+    {
+      "name": "aiglon_junior",
+      "url": "https://www.aiglon.ch/juniorschool",
+      "status": 200,
+      "resolved": "https://www.aiglon.ch/juniorschool",
+      "mime": "text/html",
+      "bytes": 69163,
+      "sha256": "7dcc4656291b472c0816d9c412b66ab64e8a5b572d99a5f36b45b9bb71dc2feb",
+      "primary_body_read": true
+    },
+    {
+      "name": "aiglon_wonder",
+      "url": "https://www.aiglon.ch/learning/wonder-years",
+      "status": 200,
+      "resolved": "https://www.aiglon.ch/learning/wonder-years",
+      "mime": "text/html",
+      "bytes": 59264,
+      "sha256": "aadaf1d78e8284da04863098cd7f7e608904e99a489fda59ee53af67b0202fb3",
+      "primary_body_read": true
+    },
+    {
+      "name": "occitanie_2027",
+      "url": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/",
+      "status": 200,
+      "resolved": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/",
+      "mime": "text/html",
+      "bytes": 114629,
+      "sha256": "2df7e686078dacccde674dec5a4daa2c6c64aa90779c99e4043a66ccc17ef891",
+      "primary_body_read": true
+    }
+  ],
+  "issues": [
+    {
+      "name": "EISB camp year / cutoff",
+      "status": "July2027 headers coexist with 2026 earlybird and price chart; birth2012–2019 excludes2020; exactweeks androbotics EN unknown.",
+      "official_alternative": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "VivaTech current public day versus old family copy",
+      "status": "2027 terms specify June19 public day; general-public body has older Saturday June17/18. Child tickets / min age 2027 unconfirmed.",
+      "official_alternative": "https://vivatech.com/b2b-passes-terms-conditions",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "Club month versus official regional date",
+      "status": "MJC says April2027; organizer says March27. Official day retained; masterclass8–11 differs from team12+.",
+      "official_alternative": "https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "FIRST 2025 list ordinals",
+      "status": "RobotPerformance disjoint HTML lists carry data-aria-posinset 2/3; rendered text restarts at1. Original ordinal verified.",
+      "official_alternative": "https://community.firstinspires.org/teams-from-around-the-world-made-a-splash-at-firstchamp",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "Swiss WRO participant-count inconsistency",
+      "status": "Total and age-subcategory participant counts conflict; podium / world routing used, no invented participant total.",
+      "official_alternative": "https://wro.swiss/en/2026-swiss-finals-results/",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "Aiglon junior / camp minimums",
+      "status": "Junior introduction7–11 versus panel6–11 persists; overall daycamp7 differs from robotics8. WonderYears English explicit.",
+      "official_alternative": "https://www.aiglon.ch/juniorschool",
+      "checked": "2026-10-02"
+    },
+    {
+      "name": "WRO guessed 2027 path",
+      "status": "Guessed saison-2027 path returned404. This is not proof that 2027 events do not exist; no dates inferred.",
+      "official_alternative": "https://wro.swiss/saison-2027/",
+      "checked": "2026-10-02"
+    }
+  ]
+}

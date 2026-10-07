@@ -1,0 +1,463 @@
+{
+  "asof": "2026-10-05",
+  "version": 98,
+  "scope": "27directretrievalattempts only;6uniquePDFs/24selectedvisualpages. Notfullsite/countryaudit. RawHTML/PDF/renders/privateparaphrase-notes stayoutsidecheckout.",
+  "sources": [
+    {
+      "key": "laurus-index",
+      "url": "https://www.laurus-school.com/winter-events/",
+      "final_url": "https://www.laurus-school.com/winter-events/",
+      "status": 200,
+      "bytes": 1202535,
+      "sha256": "d23206d1843fecac36a9d709a6caf36b576795ce14dbf247b0f7ae0a66194ca9",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026 three age formats/dates/nonLaurus weeklyfees/6000siblingsrules/externalforeignintake/basicEN/insurance; Primary syllabus/address/fullpackage unresolved. Secondary upperage11–16 vs11–15 conflict. No forms entered.",
+      "body_snapshot_retained": true,
+      "raw_filename": "laurus-index.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "laurus-prek",
+      "url": "https://www.laurus-school.com/ja/winter-camp/2026",
+      "final_url": "https://www.laurus-school.com/ja/winter-camp/2026",
+      "status": 200,
+      "bytes": 900546,
+      "sha256": "2ed224f78b98b0af07174624e3577c37aed738b49dac9967d16999d355a69ecf",
+      "retrieval_method": "direct_http",
+      "content_scope": "Japanese ownWinter2026 page/seven activecampus addresses/MusashiShinjo unavailable; programme/fee/terms sections only, not wholecampusschool audit.",
+      "body_snapshot_retained": true,
+      "raw_filename": "laurus-prek.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "bc-taiwan-zh",
+      "url": "https://www.britishcouncil.org.tw/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out",
+      "retrieval_method": "direct_http",
+      "content_scope": "Directtimeout; no ownbody retained/read through this attempt, no newcurrentfee/date claim. Existing dossier unchanged.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_complete_body"
+    },
+    {
+      "key": "bc-taiwan-en",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out",
+      "retrieval_method": "direct_http",
+      "content_scope": "Directtimeout; no ownbody retained/read through this attempt, no newcurrentfee/date claim. Existing dossier unchanged.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_complete_body"
+    },
+    {
+      "key": "branksome-gamejam",
+      "url": "https://www.branksome.asia/academics/junior-school",
+      "final_url": "https://www.branksome.asia/academics/junior-school",
+      "status": 200,
+      "bytes": 58315,
+      "sha256": "ffe00d072cd2f153f9c7ed84d5d1aced16debb5e3d2dfd93b08750903cd98674",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown junior-school enrichment GameJam, not externalholidaycamp/date/price/admissionproof. Existing school/camps not replaced.",
+      "body_snapshot_retained": true,
+      "raw_filename": "branksome-gamejam.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "branksome-robotics",
+      "url": "https://www.branksome.asia/signature-programs/design-technology/design-in-the-junior-school",
+      "final_url": "https://www.branksome.asia/signature-programs/design-technology/design-in-the-junior-school",
+      "status": 200,
+      "bytes": 90212,
+      "sha256": "feab2b91535ce10219fa44f9367db707dc42d6cffe3e87d8b62fb8887e78624d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown juniorcurriculum BeeBot/Dash/VEXGO/Arduino, not openexternalholidaycamp proof. No newcampcohort.",
+      "body_snapshot_retained": true,
+      "raw_filename": "branksome-robotics.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "tenten",
+      "url": "https://tentencamp.kr/",
+      "final_url": "https://tentencamp.kr/",
+      "status": 200,
+      "bytes": 93672,
+      "sha256": "e0584de3231dc03e6439c5795beded06e43e06ac68c7b530519e55d930ea9823",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown2027 specific4 programmes/gradegates/5datedvariants/regularvsconditionalearlyfees; ClarkEnglish1:1 andcampLifeclaimvsKoreanstylegrammarmaths, domesticENlessons. SSP/insurance/extras excluded, grade/foreignintake/contracts unresolved.",
+      "body_snapshot_retained": true,
+      "raw_filename": "tenten.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ltl-japan",
+      "url": "https://summercampjapan.com/",
+      "final_url": "https://summercampjapan.com/",
+      "status": 200,
+      "bytes": 98383,
+      "sha256": "faafcc396186092a90490d55d04aae46834db2fdd2e78fefd8bd392f1c2ced8e",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027 TokyoOsakaJapaneselanguage/kidsday7–11/residence11–17/20hJapanese/456USDfrom without chosenformat. No exactcohort/teacherEN/fullinvoice; not newconfirmedENcamp.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ltl-japan.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "laurus-prek-en",
+      "url": "https://www.laurus-school.com/winter-camp/2026",
+      "final_url": "https://www.laurus-school.com/winter-camp/2026",
+      "status": 200,
+      "bytes": 861252,
+      "sha256": "9c7d03bf7a60183797e387c5372b28dff649b9dad45a69c31bc5a033f1cde139",
+      "retrieval_method": "direct_http",
+      "content_scope": "SpecificEnglish2026 PreK/daywindows/Englishinstruction/scientistthemes/13000or17000from/6000entry/5000internationaltransfer/lunchmaterialsinsurance/740buslimits/Dec14deadline/Dec15nonrefund/1000admin. Oldsummer sentence conflict retained.",
+      "body_snapshot_retained": true,
+      "raw_filename": "laurus-prek-en.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-summer-home",
+      "url": "https://taassummer.com/",
+      "final_url": "https://taassummer.com/",
+      "status": 200,
+      "bytes": 73909,
+      "sha256": "f357277169ce205b99b5533a7ab208b3819cbc9d6c15700fd80a90ae944a85fb",
+      "retrieval_method": "direct_http",
+      "content_scope": "Owncompleted2026 programmes; currentopening/waitlist UI not2027intake guarantee. Dailylanguage/class curriculum separatelyread.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-summer-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-lv1",
+      "url": "https://taassummer.com/course/adventurer-lv1/",
+      "final_url": "https://taassummer.com/course/adventurer-lv1/",
+      "status": 200,
+      "bytes": 80359,
+      "sha256": "459b14946058dbfb8712fcb2d1b3bc4c72b70acc739bafbfb25fc0919b2fb7ac",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026 Grade1–2 Augustgate/July6–31/NT41500/Englishclasses/art/scoutthemes; no2027coursefee or inferredfamilygrade.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-lv1.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-lv2",
+      "url": "https://taassummer.com/course/adventurer-lv2/",
+      "final_url": "https://taassummer.com/course/adventurer-lv2/",
+      "status": 200,
+      "bytes": 79332,
+      "sha256": "28659c6e51b3c0f8704bd0a0f80f99949bf5e498d28c2fac6ef5901acc2ccf7c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026 Grade3–4/41500/language/buildfly/technology/rocket andwater activities; nextyearcourse not announced.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-lv2.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-lv3",
+      "url": "https://taassummer.com/course/pathfinder/",
+      "final_url": "https://taassummer.com/course/pathfinder/",
+      "status": 200,
+      "bytes": 79601,
+      "sha256": "7371751f75f825b973a46fe3d708d073dc1de10997e79b01ef42faac36a87aaf",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2026 Grade5–6/41500/modelrockets/bridges/photography/art; notRoboticsintensive or2027fee.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-lv3.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-schedule",
+      "url": "https://taassummer.com/summer-school-class-schedule/",
+      "final_url": "https://taassummer.com/summer-school-class-schedule/",
+      "status": 200,
+      "bytes": 59976,
+      "sha256": "84545d06b0772692ea1834170e887f8273d9ad83e4619ef0c4f785c9a920074b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own09–1530/chapel/PE/music/swim/Fridaytrips timetable; not allsubjectsEnglishguarantee.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-schedule.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-faq",
+      "url": "https://taassummer.com/faq/",
+      "final_url": "https://taassummer.com/faq/",
+      "status": 200,
+      "bytes": 75255,
+      "sha256": "82e1ee7aa3a9fa0b42ec6c0ba6ef35b87f5811e373d5ce3a8d7dd74214293072",
+      "retrieval_method": "direct_http",
+      "content_scope": "Wholemonthonly, textbooks/lunchandbusseparate, packedlunch/typhoonnoMakeup/absence. Not current2027contract or foreignpassportcampintake.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-faq.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-policy",
+      "url": "https://taassummer.com/policy/",
+      "final_url": "https://taassummer.com/policy/",
+      "status": 200,
+      "bytes": 61318,
+      "sha256": "fe816119eafd9934ab277d6c81ac8da09f3795fb96005a71214e9478eb3d1ef7",
+      "retrieval_method": "direct_http",
+      "content_scope": "Refund90/70/0 footer explicitlyMarch1–July31 2020; stale not2027contract. Behaviourdismissal/noRefund separate. No consent entered.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-policy.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "taas-calendar",
+      "url": "https://www.taas.tw/editoruploads/files/TAAS%202026-2027%20Student%20Calendar.pdf",
+      "final_url": "https://www.taas.tw/editoruploads/files/TAAS%202026-2027%20Student%20Calendar.pdf",
+      "status": 200,
+      "bytes": 159611,
+      "sha256": "092bc5d3b77d301e577aa1f132466ea7980e531c6793d2b3c3c17a223b01c674",
+      "retrieval_method": "direct_http",
+      "content_scope": "Actualonepage school2026–27PDF, selectedfooterreadvisually:2027SummerSchoolJuly5–30 only seasonwindow, not threeconfirmedgradedcohorts.",
+      "body_snapshot_retained": true,
+      "raw_filename": "taas-calendar.pdf",
+      "content_status": "actual_pdf"
+    },
+    {
+      "key": "smis-jeju",
+      "url": "https://mguhak.com/smisjeju",
+      "final_url": "https://mguhak.com/smisjeju",
+      "status": 200,
+      "bytes": 887155,
+      "sha256": "0ca49070bb8be517686d07ef9ddd00b5362f956aa5316c41ae5509ddb0f1459b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Directown2027 currentwinter20days19nights/2intervals/Grade3–Middle2/3900000KRW completebasepackage/100000pocketmoney/rooms2–4/EnglishESL/AI-STEAMday/humanities; technicalteaching/campLifeEN/foreignintake/refund unresolved.",
+      "body_snapshot_retained": true,
+      "raw_filename": "smis-jeju.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "kidscamp-home",
+      "url": "https://www.kidscamp.com.tw/",
+      "final_url": "https://kidscamp.com.tw/tw/",
+      "status": 200,
+      "bytes": 33416,
+      "sha256": "d7e981d7f50e2f08b75100af16736f715c1b2f4fb097a0cdca5add9135ed7466",
+      "retrieval_method": "direct_http",
+      "content_scope": "Owncurrent2027 fourTaiwanvenues andManila PDFlinks/tuition9800+meal500/Oct20early8折for1–2. Discountiscalculated80percent tuition only, finalinvoice/intakeunconfirmed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "kidscamp-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "alv-manila",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%E5%B9%B4%E5%AF%92%E5%81%87%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1SMS-%E7%84%A1%E4%B8%AD%E6%96%87%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%B8%E7%BF%920518%20%281%29.pdf",
+      "final_url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%E5%B9%B4%E5%AF%92%E5%81%87%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1SMS-%E7%84%A1%E4%B8%AD%E6%96%87%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%B8%E7%BF%920518%20%281%29.pdf",
+      "status": 200,
+      "bytes": 5741871,
+      "sha256": "9c7862426e01fe3453238bcefd0a4cfcb6c0ab9e0a432bee43ec7a9ba68f9787",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027image-only6pagebrochure all6viewed:Jan23–Feb1/10days7nights conflict/58800yuancurrencyunexplicit/ENcampandbuddy NOTteacher1:1. Age/foreignintakeunknown, fullincluded/extras paraphrased.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-manila.pdf",
+      "content_status": "actual_pdf"
+    },
+    {
+      "key": "alv-taipei",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%8C%97%E5%95%86-1%E6%A0%A1.pdf",
+      "final_url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%8C%97%E5%95%86-1%E6%A0%A1.pdf",
+      "status": 200,
+      "bytes": 5504919,
+      "sha256": "49cfa345719a2f601c580ac667b9cb57d1571f62c39ec0546f52cf3f2536540c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027image-only5pagebrochure all5pagesviewed;Jan25–29/Grade1–3and4–6/NT9800+500/feecomponents/EnglishOnly/timetable/address. Generaltheatre/science, notroboticsintensive.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-taipei.pdf",
+      "content_status": "actual_pdf"
+    },
+    {
+      "key": "alv-shilin",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%A3%AB%E6%9E%97%E6%B3%B0%E5%8C%97-1%E6%A0%A1.pdf",
+      "error": "IncompleteRead(5471707 bytes read, 25117 more expected)",
+      "retrieval_method": "direct_http",
+      "content_scope": "FirstattemptIncompleteRead/noPDFsaved; retryHTTP200 image-only5pagebrochure p1/2/4/5viewed: exactvenue/date/grade/fee/English/timetable, p3notviewed.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_no_complete_body"
+    },
+    {
+      "key": "alv-banqiao",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E6%9D%BF%E6%A9%8B-1%E6%A0%A1.pdf",
+      "final_url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E6%9D%BF%E6%A9%8B-1%E6%A0%A1.pdf",
+      "status": 200,
+      "bytes": 5498884,
+      "sha256": "c0a179d0d0438974c9d1f057aaadded0dbfc816fefbb177b9d58929c11085aff",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027image-only5pagebrochure p1/2/4/5viewed: exactvenue/date/grade/fee/English/timetable, p3notviewed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-banqiao.pdf",
+      "content_status": "actual_pdf"
+    },
+    {
+      "key": "alv-kaohsiung",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E9%AB%98%E9%9B%84-1%E6%A0%A1.pdf",
+      "final_url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E9%AB%98%E9%9B%84-1%E6%A0%A1.pdf",
+      "status": 200,
+      "bytes": 5499224,
+      "sha256": "e2ba43d7a5609bc62b9c9dc07778d55402135122dbbbdc484de60fb1de9efddb",
+      "retrieval_method": "direct_http",
+      "content_scope": "Own2027image-only5pagebrochure p1/2/4/5viewed: exactvenue/date/grade/fee/English/timetable, p3notviewed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-kaohsiung.pdf",
+      "content_status": "actual_pdf"
+    },
+    {
+      "key": "alv-policy",
+      "url": "https://kidscamp.com.tw/tw/policy.php",
+      "final_url": "https://kidscamp.com.tw/tw/policy.php",
+      "status": 200,
+      "bytes": 20138,
+      "sha256": "0df2f6fdb142531779471f46dd5ce7ca93602ebee949115e5f77a8480ddabff5",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnTaiwanandabroad refundclauses includingoverlapping7dayboundary/500fee/mealonlyabsence/typhoonSaturdaymakeup andphoto-rightclause. No contractual acceptance or legalvalidation.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-policy.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "alv-english",
+      "url": "https://kidscamp.com.tw/en/",
+      "final_url": "https://kidscamp.com.tw/en/",
+      "status": 200,
+      "bytes": 24338,
+      "sha256": "2a58d5ac7292e4598775fb860be73e61a88a99d988610b49bfc7352d6f2df4a5",
+      "retrieval_method": "direct_http",
+      "content_scope": "OwnEnglishsite/generalimmersiondescription; newprogrammeEN proof taken from each2027PDF, not siteinterface.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-english.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "alv-shilin",
+      "url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%A3%AB%E6%9E%97%E6%B3%B0%E5%8C%97-1%E6%A0%A1.pdf",
+      "final_url": "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%A3%AB%E6%9E%97%E6%B3%B0%E5%8C%97-1%E6%A0%A1.pdf",
+      "status": 200,
+      "bytes": 5496824,
+      "sha256": "e8e91c04466a88e5287850ebc883992bf8b3fa88ee9d2bf5e0d97aafb8dd578d",
+      "retrieval_method": "direct_http",
+      "content_scope": "FirstattemptIncompleteRead/noPDFsaved; retryHTTP200 image-only5pagebrochure p1/2/4/5viewed: exactvenue/date/grade/fee/English/timetable, p3notviewed.",
+      "body_snapshot_retained": true,
+      "raw_filename": "alv-shilin.pdf",
+      "content_status": "actual_pdf"
+    }
+  ],
+  "visual_pdf_checks": [
+    {
+      "key": "alv-taipei",
+      "pdf_sha256": "49cfa345719a2f601c580ac667b9cb57d1571f62c39ec0546f52cf3f2536540c",
+      "selected_pages_one_based": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "pages_visual_checked": 5,
+      "paraphrase": "Own image-only 2027 PDF: Jan25–29;Grade1–3/4–6;NT$9800 plusmeal500;feeincludesregistration500/materials/miscand2Mcoverage;location321JinanRdSec1. FullEnglishinstruction/EnglishOnlytokenrules;21–25children;0820–1700timetable;parentdrop0740–0820/pick1710/1730/1750. Storytheatre/art/science/puzzle/camera/3CexamplesnotRoboticsintensive.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    },
+    {
+      "key": "alv-shilin",
+      "pdf_sha256": "e8e91c04466a88e5287850ebc883992bf8b3fa88ee9d2bf5e0d97aafb8dd578d",
+      "selected_pages_one_based": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "pages_visual_checked": 4,
+      "paraphrase": "Own2027imagePDF p1/2/4/5: sameJan25–29/grade1–6/NT$9800+500,TaibeiBilingualSchool240FulinRdSec1;EnglishOnly andspecifictimetablecheckedseparately. p3marketingnotvisuallychecked.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    },
+    {
+      "key": "alv-banqiao",
+      "pdf_sha256": "c0a179d0d0438974c9d1f057aaadded0dbfc816fefbb177b9d58929c11085aff",
+      "selected_pages_one_based": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "pages_visual_checked": 4,
+      "paraphrase": "Own2027imagePDF p1/2/4/5: sameJan25–29/grade1–6/NT$9800+500,ChihleeUniversity313WenhuaRdSec1;EnglishOnly/timetable independentlychecked. p3notviewed.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    },
+    {
+      "key": "alv-kaohsiung",
+      "pdf_sha256": "e2ba43d7a5609bc62b9c9dc07778d55402135122dbbbdc484de60fb1de9efddb",
+      "selected_pages_one_based": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "pages_visual_checked": 4,
+      "paraphrase": "Own2027imagePDF p1/2/4/5: sameJan25–29/grade1–6/NT$9800+500,NKNUAffiliatedHighSchool89Kaixuan2ndRd;EnglishOnly/timetable independentlychecked. p3notviewed.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    },
+    {
+      "key": "alv-manila",
+      "pdf_sha256": "9c7862426e01fe3453238bcefd0a4cfcb6c0ab9e0a432bee43ec7a9ba68f9787",
+      "selected_pages_one_based": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "pages_visual_checked": 6,
+      "paraphrase": "Own2027imagePDF all6pages: Jan23–Feb1/10calendar days but printed10days7nights;grade/ageabsent.58800yuan currency notexplicitNT$;tuitionmaterials/lodging/3meals/localtransport/tickets/laundry/insuranceincluded;flights/visa/Taiwanairporttransferexcluded. FullEnglishcampandESL/culturewithpeerbuddy1:1 NOTteacher1:1;40Taiwanparticipants+40Filipinobuddies+8PNUteachers operatorclaim,foreignindividualintakeunknown. Certificate/ceremony notworldmedal.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    },
+    {
+      "key": "taas-calendar",
+      "pdf_sha256": "092bc5d3b77d301e577aa1f132466ea7980e531c6793d2b3c3c17a223b01c674",
+      "selected_pages_one_based": [
+        1
+      ],
+      "pages_visual_checked": 1,
+      "paraphrase": "Ownschool1page2026–27PDF: SummerSchool2027July5–30. This isseasonwindow,notthreegradedprogrammeintakes/pricesorweeklycohorts. Visuallycheckedfooter.",
+      "scope": "Selected primary programme/fee/language/calendar facts only; no fullcontract or independentquality/ranking audit"
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://kidscamp.com.tw/tw/",
+    "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%8C%97%E5%95%86-1%E6%A0%A1.pdf",
+    "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E5%A3%AB%E6%9E%97%E6%B3%B0%E5%8C%97-1%E6%A0%A1.pdf",
+    "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E6%9D%BF%E6%A9%8B-1%E6%A0%A1.pdf",
+    "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%20WINTER%20%E7%87%9F%E9%9A%8A5D%E5%A5%87%E5%A2%83%E6%8E%A2%E7%B4%A2%E7%B0%A1%E7%AB%A0-%E9%AB%98%E9%9B%84-1%E6%A0%A1.pdf",
+    "https://kidscamp.com.tw/tw/CKEdit/images/news/files/2027%E5%B9%B4%E5%AF%92%E5%81%87%E5%9C%8B%E9%9A%9B%E5%AD%B8%E6%A0%A1SMS-%E7%84%A1%E4%B8%AD%E6%96%87%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%AD%B8%E7%BF%920518%20%281%29.pdf",
+    "https://kidscamp.com.tw/tw/policy.php",
+    "https://mguhak.com/smisjeju",
+    "https://taassummer.com/",
+    "https://taassummer.com/course/adventurer-lv1/",
+    "https://taassummer.com/course/adventurer-lv2/",
+    "https://taassummer.com/course/pathfinder/",
+    "https://taassummer.com/faq/",
+    "https://taassummer.com/policy/",
+    "https://taassummer.com/summer-school-class-schedule/",
+    "https://tentencamp.kr/",
+    "https://www.laurus-school.com/ja/winter-camp/2026",
+    "https://www.laurus-school.com/winter-camp/2026",
+    "https://www.laurus-school.com/winter-events/",
+    "https://www.taas.tw/editoruploads/files/TAAS%202026-2027%20Student%20Calendar.pdf"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "notes": [
+    "ShilinfirstIncompleteRead andretrysuccesskeptseparate;BCEN/ZHtimeouts notbodyproof.",
+    "Image-onlyALVPDFtext extraction empty;selectedprogramme/fee/language/timetable pages readvisually, notallpagesofeachPDF.",
+    "EN rolecampLife/language_lessons/primary separated; schoolgrade notinferredfrombirthyear. TAAS2020refund/2026fees not2027contracts.",
+    "Programme/venue/formatdossiercount not uniquebrands or independentworldranking; foreignacceptance/places not guaranteed."
+  ]
+}
