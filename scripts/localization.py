@@ -159,7 +159,9 @@ def english_pool():
             for k,v in value.items():walk(v,k)
     for p in [ROOT/'data/catalog.json',*(ROOT/'dist/downloads').glob('*.json')]:walk(json.loads(p.read_text()))
     walk(json.loads((ROOT/'dist/assets/data.js').read_text().removeprefix('window.STEM_DATA=').rstrip(';\n')))
-    return pool-names-codes
+    # The frozen inventory can contain old hashes/paths from an earlier export.
+    # They remain machine values even when a later build produces different hashes.
+    return {value for value in pool-names-codes if not machine_value(value) and not protected(value)}
 
 if __name__=='__main__':
     pool=collect_pool()
