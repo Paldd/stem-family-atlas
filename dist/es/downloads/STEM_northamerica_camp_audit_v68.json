@@ -1,0 +1,219 @@
+{
+  "asof": "2026-10-05",
+  "version": 68,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "scope": "Embarque oficial de Estados Unidos/Canadá2027; ruta real de los talleres infantiles de DigiPen; ingreso de ciencias invernal canadienses, calificaciones escolares, entradas agotadas y contradictorias.",
+  "counts": {
+    "new_programme_dossiers": 23,
+    "new_calendar_rows": 41,
+    "new_family_ics": 39,
+    "total_events": 2295,
+    "learning_camp_records": 964,
+    "total_programme_dossiers": 221,
+    "countries_with_dossiers": 28,
+    "swiss_dossiers": 35,
+    "french_dossiers": 23,
+    "spanish_dossiers": 19,
+    "official_dossier_urls": 391,
+    "managed_calendar_rows": 501,
+    "season_windows": 12,
+    "family_ical": 1624,
+    "exhibition_ical": 104,
+    "closed_workshops_excluded": 2,
+    "openworld_course_future_dates_unannounced": 6
+  },
+  "counting": "Los expedientes del programa son pistas de edad/format específicos, no operadores únicos o clasificaciones globales. Las opciones completas/corto/novato y de duración combinada comparten un operador. Dos registros de Homeschool agotados se conservan como cerrados y excluidos de la familia ICS.",
+  "new_dossiers": [
+    {
+      "id": "CP199",
+      "slug": "cody-general",
+      "provider": "Camp Cody · pensión general",
+      "country": "Estados Unidos",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP200",
+      "slug": "birch-hill",
+      "provider": "Camp Birch Hill · pensión general",
+      "country": "Estados Unidos",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP201",
+      "slug": "weequahic-general",
+      "provider": "Camp Weequahic · pensión con electives STEM",
+      "country": "Estados Unidos",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP202",
+      "slug": "manitou-long",
+      "provider": "Camp Manitou Ontario · pensión habitual",
+      "country": "Canadá",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP203",
+      "slug": "manitou-first-short",
+      "provider": "Camp Manitou Ontario · 1st Short · Sólo que 2019–2020",
+      "country": "Canadá",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP204",
+      "slug": "manitou-second-short",
+      "provider": "Camp Manitou Ontario · 2nd Short · primera llegada de ambos",
+      "country": "Canadá",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP205",
+      "slug": "manitou-rookie-day",
+      "provider": "Camp Manitou Ontario · Rookie Day · conocer el campamento",
+      "country": "Canadá",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP206",
+      "slug": "openworld-explore-robotics",
+      "provider": "Open World by DigiPen · Exploring Robotics and Engineering",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP207",
+      "slug": "openworld-explore-games",
+      "provider": "Open World by DigiPen · Exploring Sci-Fi Game Development",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP208",
+      "slug": "openworld-vehicle",
+      "provider": "Open World by DigiPen · Creating an Autonomous Vehicle",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP209",
+      "slug": "openworld-robots",
+      "provider": "Open World by DigiPen · Building Robots with Friends",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP210",
+      "slug": "openworld-game-jam",
+      "provider": "Open World by DigiPen · Creative Game Jam",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP211",
+      "slug": "openworld-python",
+      "provider": "Open World by DigiPen · Python Programming Unlocked",
+      "country": "Estados Unidos",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP212",
+      "slug": "robotfun-camps",
+      "provider": "Robotfun Academy · LEGO/VEX camps",
+      "country": "Estados Unidos",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP213",
+      "slug": "rns-steam",
+      "provider": "Rothesay Netherwood School · S.T.E.A.M.",
+      "country": "Canadá",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP214",
+      "slug": "rns-junior-coding",
+      "provider": "Rothesay Netherwood School · Junior Coding",
+      "country": "Canadá",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP215",
+      "slug": "rns-senior-coding",
+      "provider": "Rothesay Netherwood School · Senior Coding",
+      "country": "Canadá",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP216",
+      "slug": "science-north-sudbury",
+      "provider": "Science North · Sudbury · vacaciones de invierno y escolares",
+      "country": "Canadá",
+      "timing_status": "published_2026_27",
+      "price_year": 2026
+    },
+    {
+      "id": "CP217",
+      "slug": "science-north-thunder",
+      "provider": "Science North · Thunder Bay · vacaciones de invierno y escolares",
+      "country": "Canadá",
+      "timing_status": "published_2026_27",
+      "price_year": 2026
+    },
+    {
+      "id": "CP218",
+      "slug": "science-north-robo-ready",
+      "provider": "Science North · Robo Ready 6–8",
+      "country": "Canadá",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP219",
+      "slug": "science-north-beebots",
+      "provider": "Science North · Homeschool Bee-Bot",
+      "country": "Canadá",
+      "timing_status": "published_2026",
+      "price_year": null
+    },
+    {
+      "id": "CP220",
+      "slug": "science-north-cubetto",
+      "provider": "Science North · Homeschool Code with Cubetto",
+      "country": "Canadá",
+      "timing_status": "published_2026",
+      "price_year": null
+    },
+    {
+      "id": "CP221",
+      "slug": "science-north-robokids",
+      "provider": "Science North · RoboKids after-school",
+      "country": "Canadá",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    }
+  ],
+  "preservation": {
+    "prior_events": 2254,
+    "prior_dossiers": 198,
+    "school_league_family_route_blocks": "unchanged"
+  },
+  "remaining": "Las regiones prioritarias y los campamentos, competiciones/ligues/exposiciones, escuelas/historias y rutas familiares de todo el mundo siguen siendo activos."
+}

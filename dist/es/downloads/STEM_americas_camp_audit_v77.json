@@ -1,0 +1,117 @@
+{
+  "asof": "2026-10-05",
+  "version": 77,
+  "status": "progress",
+  "scope": "Pases de programa primario de Estados Unidos/Canadá/Costa Rica/México/Panama/Ecuador; se han conservado todos los bloques de Europa/Asia y de todo el mundo",
+  "new_dossiers": 16,
+  "updated_dossiers": [],
+  "new_calendar_rows": 39,
+  "new_family_ics": 67,
+  "programme_dossiers": 363,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 558,
+  "country_dossier_counts": {
+    "CHE": 53,
+    "FRA": 33,
+    "ESP": 27,
+    "TWN": 21,
+    "SGP": 45,
+    "JPN": 14,
+    "KOR": 7,
+    "USA": 33,
+    "CAN": 45,
+    "CRI": 6,
+    "MEX": 24,
+    "PAN": 5,
+    "ECU": 1
+  },
+  "programme_slugs": [
+    "olympia-regular",
+    "olympia-spark",
+    "winaukee-regular",
+    "winaukee-rookie",
+    "eagle-ridge-leadership",
+    "cedar-regular",
+    "cedar-mini",
+    "cuddles-winter",
+    "integem-junior",
+    "integem-young",
+    "wildroots-marine",
+    "ucr-pacific-archive",
+    "utp-tecnocamp-archive",
+    "galileo-cuenca",
+    "cube-grade1",
+    "cube-grade45"
+  ],
+  "findings": [
+    {
+      "country": "Estados Unidos / Canadá",
+      "iso": "USA",
+      "provider": "v77: nuevas pensiones  edad, moneda y contrato",
+      "detail": "Olympia2027SPARK6–9 Matvey se cierra después de10; WinaukeeRookie requiereGrade1–4 y la primera temporada. Eagle120/125cancel-conflict. Cedar2027datesNo tiene precio,6–15vs7–16; payment/bus¿Qué más ?2026. los que se han ido30Sep/1Oct descuentos no corrientes.",
+      "next_action": "las nuevas all-inquotes/EN/internationaladmission y la edad para el inicio concreto; las fuentes no son iguales al lugar confirmado.",
+      "url": "https://cedarridgecamp.ca/dates-rates/"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v77: Cuddles/Cube  otro producto y precisión",
+      "detail": "Cuddleswinter-window22Dec2Jan no es una lista de días laborables; la ISO-valuta no existe y el descuento de 2 días es erróneo. Cubeweekly8×75min con dos sábados pasados,no pensión/campamento; Grade3winter tiene conflicto2026/2027,Grade2end yGrade6time también son discutidos, no se añaden con exactitud.",
+      "next_action": "Determine las clases/días de trabajo reales, la moneda, el equipo y el contrato del producto elegido.",
+      "url": "https://cubestemcamps.ca/classes"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "V77: Holland Bloorview  disponibilidad especial",
+      "detail": "March15–19.03.2027,$475+HST; Título de la página9–14vseligibility8–14. Program-description requiereformaldiagnosishasta el inicio; March-page se formula de otra manera. Juniorwinter6–10 ¿Qué hay?, Pero las reglas no demuestran que haya una recepción internacional habitual.. No se diagnostica/permiso para la familia.",
+      "next_action": "especificar la disponibilidad/agepolicy de la operadora sin transferir datos médicos; no incluir como una oferta familiar abierta habitual.",
+      "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description"
+    },
+    {
+      "country": "Costa Rica / Panamá / México / Ecuador",
+      "iso": "CRI",
+      "provider": "v77: archivo y promesas contradictorias",
+      "detail": "UCRde la tecnología de la robótica08–16Jul2025 No , no .2027; UTP19–27Jan2026 con uno6política de verano no de edad. WildRootsspring22–28Mar2027 vs5días, moneda de la Unión Europea/no se fija la edad;CDMX23–27Nov2026 producto separado. GalileoweekdayNo coinciden2027. EN/ES/RUno es el idioma de instrucción.",
+      "next_action": "Nuevos2027 los contratos iniciales/detalles; la primera primavera en disputaGalileo/WildRoots se excluye de las fechas exactas. la recolección mundial continúa, de los países totalmente verificados0.",
+      "url": "https://cegalileo.com/escuela-de-robotica-educativa/"
+    }
+  ],
+  "calendar": {
+    "events": 2589,
+    "learning_records": 1258,
+    "family_ics": 1924,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 795,
+    "reused_legacy_events": 65,
+    "season_windows": 19
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Europa/Suiza/Francia/España y Asia/América Latina primaria2027 contratos, lenguajes de instrucción verdaderos, cotizaciones completas y edad/grado de admisión",
+  "validation": [
+    "Todos los 2550 eventos anteriores,347 expedientes/establesIDs y 1857 familiares anterioresICS UID/pares de fechas conservados;104 exhibicionesICS inalteradas; se conservan todas las ligas/escuelas/bloques de rutas en todo el mundo",
+    "16 nuevos expedientes de programas,no 16 operadores/ranquillas independientes;363 expedientes en 33 países,558 documentos oficiales únicos;Ecuador recién representado",
+    "Olympia2027 regular y SPARK6–9 separados; Matvey sólo antes10 para SPARK; El novato de Winaukee7+/Grado1–4/primera temporada; expiración30Sep/1Oct descuentos excluidos",
+    "Regular de águila1–7week precios utilizados; disponibilidad30Sep es una instantánea;120/125 discrepancia de cancelación explícitamente visible",
+    "Cedar nuevo2027 sesiones pero no2027 precio;6–15vs7–16 conflicto de edad;2026 pagos/Autobuses no2027; Campo inglés-la vida apoyada por separado de las lecciones",
+    "Cogiendo en invierno22Dec–2Jan es una ventana de temporada,No los días de campamento exacto; moneda desconocida,2day descuento20vs21 Conflito; después de la escuela FAQ no silenciosamente contrato de invierno",
+    "Integrem nativeexpandedFAQ confirma directamente el inglés, las bandas de edad/grado, el programa y los kits de robótica de 1/2/3 de semana siguen siendo propiedad del operador; no se han inventado tarifas/fechas de 2027 o certificados de NVIDIA más jóvenes",
+    "Raíces silvestres cuatro consistentes5day periodos importados; primera primavera22–28Marvs5days excluidos; edad/moneda/lengua desconocida y se ha conservado el requisito previo de natación",
+    "UCR2025 y UTP2026 permanece en el archivo; uno6yearold Anécdota no política; UCR vinculada a L120 sin duplicados eventos; Galileo2027 El conflicto de los días laborables crea una noexacción",
+    "Grado de cubo1/4–5 Los cursos son8 Las clases separadas del sábado/término;13Feb/22May excluidos; Canadá CAD275+HST y el Sept2026gradegate; Grado en conflicto2/3/6 y los valores de los valores retenidos como huecos",
+    "El conflicto entre el diagnóstico y la política de edad en Holanda sigue siendo una brecha; no se deduce la salud familiar/elegibilidad; no hay formularios/mensajes/subscripciones/pagos",
+    "39 nuevos calendarios, 67 nuevas entradas en el ICS de la familia ((35 sesiones de campamento+32 lecciones individuales); puente de oportunidad; canónico/públicoJSON/SQLite válido;72 escenarios y0 países auditados completos",
+    "NativeUI hace 363dossiers/33países/558URLs y72escenarios; nueva ruta de banda de edad de USA seleccionable",
+    "El filtro ConfirmedEN másIntegem devuelve exactamenteJunior yYoung; especificación de origen/grado/costos desconocidos visibles",
+    "Cubo muestra detalles16 Las fechas de separación2terms,8 cada uno; Febrero13/El uno de mayo22 excluidos y Toronto Times visible; No hay invención continua en el día de la campaña",
+    "NativeQA browsererrorlog vacío; capturas de pantalla guardadas localmente; noexternalform/message/entry/registration"
+  ]
+}

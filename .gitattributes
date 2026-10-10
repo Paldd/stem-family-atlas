@@ -1,0 +1,3 @@
+# Preserve CSV content and the CRLF/folding required by exported calendars.
+*.csv -text whitespace=cr-at-eol,-blank-at-eol
+*.ics -text whitespace=cr-at-eol,-blank-at-eol

@@ -17,5 +17,9 @@ record = dict(source_commit=commit, ui_version=version,
               branch=os.environ.get('GITHUB_REF_NAME', 'main'),
               built_at_utc=datetime.now(timezone.utc).isoformat(),
               research_asof=json.loads((ROOT / 'data/catalog.json').read_text())['asof'])
+if (ROOT/'dist/es/index.html').is_file():
+    record['languages'] = ['ru','es']
+    record['translation_coverage'] = json.loads((ROOT/'data/i18n/coverage.json').read_text())
+    (ROOT/'dist/es/release.json').write_text(json.dumps({**record,'language':'es'},ensure_ascii=False,indent=2)+'\n')
 (ROOT / 'dist/release.json').write_text(json.dumps(record, ensure_ascii=False, indent=2) + '\n')
 print(json.dumps(record))

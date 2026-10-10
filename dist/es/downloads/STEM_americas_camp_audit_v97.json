@@ -1,0 +1,128 @@
+{
+  "asof": "2026-10-05",
+  "version": 97,
+  "status": "progress",
+  "scope": "Canadá/Estados Unidos propio programa/edad/tarifa/año de prueba y revisiones limitadas de Brasil/Argentina/Alberta; no completaAmérica/mundo.",
+  "new_dossiers": 19,
+  "new_operator_groups": 5,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "new_calendar_rows": 31,
+  "new_family_ics": 31,
+  "new_registration_deadline_ics": 0,
+  "corrected_existing_event_ids": [],
+  "historical_variants_not_added_as_future": 16,
+  "programme_dossiers": 664,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1046,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 39,
+    "SGP": 78,
+    "JPN": 42,
+    "KOR": 13,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "pali-general",
+    "pali-mini",
+    "pali-robotics",
+    "wenonah-regular",
+    "wenonah-one",
+    "wenonah-five",
+    "wenonah-wee",
+    "sciencequest-kinder",
+    "sciencequest-junior",
+    "sciencequest-engineering",
+    "sciencequest-robotics",
+    "sfu-elite-engineers",
+    "sfu-brick-builders",
+    "sfu-digital-defenders",
+    "sfu-wattson",
+    "calgary-early-engineering",
+    "calgary-early-technology",
+    "calgary-engineering101",
+    "calgary-winter"
+  ],
+  "findings": [
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v97 · Wenonah: edad al final del año y cuentas estacionales completas",
+      "detail": "12 variantes futuras2027:6 regular/4 One/1 Five/1 Wee. Edad al31 Dec2027; Wee también exige mínimo5 al inicio. Enseñanza en inglés y admisión internacional explícitas; español sin confirmar. Precios regular6350/3650/1960/1300/500 más HST13%; prioridad Oct1 vencida. Moneda de la tarifa y comisión de gestión desconocidas. Wee: adelanto75/100 contradictorio; cuerpo de web8–15/5–6 frente a tabla2027:9–15/5–7. Hermanos con3 años de diferencia no cumplen la solicitud de misma cabaña limitada a18 meses.",
+      "next_action": "moneda/cuenta/processingfee, transferencias cortas/noche temprana, vigilancia nocturna/alimentación/condiciones médicas y cancelación para las fechas fronterizas.",
+      "url": "https://campwenonah.com/2027-dates-fees/"
+    },
+    {
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "provider": "v97 · Pali: Mini, campamento común y Robotics  diferentes condiciones",
+      "detail": "18futurevariants2027de ladates/news/Mini. General8–16de la séptima6de noche;Mini6–8la cuarta3de noche, de la mismafeeunknown. RoboticsVEXcode8–16de la misma manera quespecificweeks. Promo2750perregularsessionNo , no .Mini;October23sin agua,September28expired. FAQinsurance150/de la tierra/el niño/cancelación2027,no automáticoMinicontract. traducidosES/RUlas páginas se están sincronizando2023,No , no .currentteachingSpanish/Russian.",
+      "next_action": "la cuenta estacional de ambos formatos, Roboticsdatas/horas/plataforma/lenguaje, internationaltransport y preparación para diferentes finales/pensiones.",
+      "url": "https://paliadventures.com/mini-camp/"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v97 · Queen’s / SFU / Calgary: clase, idioma y año son más importantes que la interfaz",
+      "detail": "Queen’s4/SFU4el archivo y16pastvariants2026no futurasICS. SFUforbidsoldergrade, Burnaby322fromNo , no .Surrey186. Calgary3engineeringnoofferings; generic2027filterNo , no .weekproof. MiniUexact21–23Dec2026/260/classGr3–5vsentering4/5/6. Actualfamilygradesunknown; EnglishwebsiteNo , no .eacherproof, de la misma formacurrentinvoiceEn todas partes se ha hecho.",
+      "next_action": "fechas/precios2027, actualgrade/individualforeignintake/teachinglanguage, advancedsyllabus y contrato completo; wintergradeconflict.",
+      "url": "https://activelivingportal.ucalgary.ca/Browse/All/Camps"
+    },
+    {
+      "country": "América Latina",
+      "iso": "BRA",
+      "provider": "v97 · revisión: el precio ya se ha introducido; shell/403 no es un nuevo syllabus",
+      "detail": "EnglishCampBrazilKidsOctoberpromo enero2027 se han reproducido los archivos/calendarios de CP101. LiotaHTTP200sólo JSshell sin leer el programa;AlbertaDiscoverEdirect403, no se han verificado los datos. en CostaRica/Mexico/LatinAmerica el auditoría general se mantiene activa, no se ha cubierto completamente.",
+      "next_action": "las nuevas páginas/cuentas de temporada para2027,EN/ES/RUteaching y la recepción individual extranjera; no sustituir el sitio por un snippet de búsqueda.",
+      "url": "https://www.englishcamp.com.br/programas/kids/"
+    }
+  ],
+  "calendar": {
+    "events": 3184,
+    "learning_records": 1853,
+    "family_ics": 2445,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1390,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 25,
+    "http200": 22,
+    "http_errors": 3,
+    "http200_javascript_shells": 1,
+    "scoped_web_tool_sources": 7,
+    "aggregate_tool_return_files": 1,
+    "actual_pdfs": 0,
+    "visual_page_checks": 0
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "19newprogramme/archivos de formato a través5operators, No existe corrección del expediente;664total/37countries/1046ownURLs. Todos los demás645priorIDs/orden/Documento contenido conservado.",
+    "Todos los 3153 registros anteriores/liga/concurso/exhibición/escuelas/resultados/itineraciones familiares se conservan con exactitud.31nuevos grupos futuros/ICS:18Pali/12Wenonah/1CalgaryInverno.16variantes pasadasno futurosICS.",
+    "Pali General8–16/9seven-cohorts de día y Mini6–8/9four-las cohorts separadas;2027MiniyearownNews. General2750promo No Miniquote. Robotics8–16/Código VEX/sensores/Autónoma, pero especifica la opción sin una disponibilidad,No9duplicatecohorts. ES/RU2023notcurrentteacherlanguageproof.",
+    "El de la ciudad12futurevariants con dec31 2027age;También5atstart. Periodo Cinco años de nacimiento. HST13%Las tarifas regulares calculadas;expirado Oct1prioritynotapplied, dólar, moneda no confirmada. ¡Qué bueno !100/75deposit y de los conflictos de los hogares explícitos; hermanos3yearsapartnotcabinmate≤18months.",
+    "Reyes s4gradoprogramas/archivo2026fees/cancelaciones/semanas de vacaciones;joven algoritmos físico no computadora.SFUBurnaby4tracks/8pasadossemanas/grado/nivel de mediados/322devsSurrey186 separado.Inglésinterfaz y años de nacimiento no tienen prueba de nivel de lenguaje.",
+    "Calgary3engineeringprogrammes Ofertas, genéricos2027filter No es prueba de exactidumbre. Invierno21–23Dec2026/260/Gr3–5againstsidebarentering4/5/6;13placesretrievalsnapshotnotreservation.",
+    "25directattempts:22HTTP200 incluidos1JSshell,3HTTPerrors;7web-Las observaciones de las fuentes de información fueron copiadas en un solo conjunto de retorno retenido.. No hay PDF/control visual/sitio completo/Reclamo de auditoría nacional. Brasil octubrePrecio ya CP101/No hay duplicados;Cárpido de litio/Alberta403notnewprogrammeproof.",
+    "JSONSQLite CSVJSMDICSConsistencia/el número de identificación de identidad/fecha/conservación de los plazos/Puente de capacidad/niño/lenguaje/filtros de fase verificados de forma independiente. Objetivo mundial/requisitos retenidos,0fullyauditedcountries/nativo y activo."
+  ],
+  "next_priority": "Continúa en todo el mundo2026–27 general/Temática/robotica/AI/día/residencial/Inventario de la familia, profundidad de la CHE/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/América Latina. Verificar el programa de enseñanza de la temporada actual EN/ES/RU y roles de apoyo, Ingreso extranjero individual/lugares actuales/DOB real-grado, Detalles del ciclo de trabajo/horas/niveles, factura completa/contrato/transporte, Coordenadas del campus/Mapa y comparaciones familiares. Mantenga las ligas/Concursiones/exposiciones/Admisión/escuelas/resultados5–10years/rutas familiares activas; No se ha realizado una auditoría completa."
+}

@@ -1,0 +1,148 @@
+{
+  "asof": "2026-10-04",
+  "scope": "Recibos de recuperación incremental de v55; recibos anteriores de v54 guardados por separado. El éxito de HTTP por sí solo no prueba el contenido del programa o la inscripción.",
+  "rows": [
+    {
+      "key": "village-tech",
+      "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 31383,
+      "sha256": "1dac1949b24c4ecf9bb1edeee701e3f14c286ab0f909aa65b5b71e62a73634dd",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-junior",
+      "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 30464,
+      "sha256": "6bc92a4400f3297c8e55d893a973c5a1e07cace03febc971484c469ab249a9a1",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-price",
+      "url": "https://www.villagecamps.com/dates-and-prices-parent-guide",
+      "final_url": "https://www.villagecamps.com/dates-and-prices-parent-guide",
+      "status": 200,
+      "bytes": 47437,
+      "sha256": "9fefeb1ba86c6cfcd98fcbf1f7bd6831483cbb694a96d8c5467c8edd474022aa",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-ch",
+      "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+      "final_url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+      "status": 200,
+      "bytes": 49541,
+      "sha256": "e3abd81697e96289b9617bc63ddb96ddc2963cedb6c6c22dce23627352b174c1",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-at",
+      "url": "https://www.villagecamps.com/summer-camp-programmes-in-zell-am-see-austria",
+      "final_url": "https://www.villagecamps.com/summer-camp-programmes-in-zell-am-see-austria",
+      "status": 200,
+      "bytes": 48500,
+      "sha256": "8eaa1c3ac9f209d11eb31a9b2e234b5e4c75efa6c5c31f208e7a292588f45605",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-pt",
+      "url": "https://www.villagecamps.com/summer-camp-programmes-in-santa-cruz-portugal",
+      "final_url": "https://www.villagecamps.com/summer-camp-programmes-in-santa-cruz-portugal",
+      "status": 200,
+      "bytes": 44230,
+      "sha256": "c67f76cc6e8d10a4f1b37fd3b7fe31e78d37a00dbe8d24c090ae3ee391ebf73e",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "village-parent",
+      "url": "https://www.villagecamps.com/summer-camp-parent-guide",
+      "final_url": "https://www.villagecamps.com/summer-camp-parent-guide",
+      "status": 200,
+      "bytes": 33171,
+      "sha256": "c0f669004b59dd59051ad08fc911b29a8f0184b8b630cb659df5ccadf24f3775",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "geeringfaq-current",
+      "url": "https://geeringup.apsc.ubc.ca/camps/in-person-camps/faq/",
+      "final_url": "https://geeringup.apsc.ubc.ca/camps/in-person-camps/faq/",
+      "status": 200,
+      "bytes": 31093,
+      "sha256": "299e7cc48e0f2bb36f08fbfa577ad2abe8f5c8e3b4e692cced355a0655713a51",
+      "checked": "2026-10-04",
+      "content_access": "browser_verification_wrapper; hechos de las preguntas frecuentes se leen por separado utilizando lector web"
+    },
+    {
+      "key": "elfes-price",
+      "url": "https://www.leselfes.com/dates-and-pricing/",
+      "final_url": "https://www.leselfes.com/dates-and-pricing/",
+      "status": 200,
+      "bytes": 968418,
+      "sha256": "96a55663889c1914d4a910997a9edd496226c126a0cc85a586dcf8f32ca38c80",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "elfes-spring",
+      "url": "https://www.leselfes.com/spring-camp/",
+      "final_url": "https://www.leselfes.com/spring-camp/",
+      "status": 200,
+      "bytes": 1089176,
+      "sha256": "a62e6ab7bf1f545169b630cae9d3a912fbe11bc37d5ad6bdb5f3c3a52425f205",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "rosey-overview",
+      "url": "https://www.roseysummercamps.ch/",
+      "final_url": "https://www.roseysummercamps.ch/",
+      "status": 200,
+      "bytes": 143279,
+      "sha256": "93696b435784870c5648bc05ace06a691647e3a6654bfb5fc6ba509b1041d17f",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    },
+    {
+      "key": "rosey-family",
+      "url": "https://www.roseysummercamps.ch/our-camps/my-family/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/my-family/",
+      "status": 200,
+      "bytes": 226747,
+      "sha256": "0abaec452cf7606c528ad93029ffc0d18c840d693360800673ba4d10c2408b2c",
+      "checked": "2026-10-04",
+      "content_access": "official_page_body_retrieved_and_read"
+    }
+  ],
+  "counts": {
+    "retrieved": 12,
+    "programme_bodies": 11,
+    "wrappers": 1
+  },
+  "primary_conflicts": [
+    {
+      "provider": "Village Camps Leysin",
+      "source": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+      "issue": "La página técnica incluye nombres de excursiones austriacas copiados; una descripción general suiza utilizada para la ubicación suiza y la logística del programa."
+    },
+    {
+      "provider": "Le Rosey My Family",
+      "source": "https://www.roseysummercamps.ch/",
+      "issue": "Página de inicio repite CHF 13,200 / 13,500 durante tres semanas. Estados de la página del programa CHF 13,200; el conflicto revelado."
+    }
+  ],
+  "uncertainties": [
+    "No se han establecido fechas, tarifas y instrucciones de EN de UBC GeeringUp 2027",
+    "Las clases de idiomas de Village Camps no establecen instrucciones de EN para cada curso de actividades STEM.",
+    "No se han confirmado lugares para el campamento, solicitudes o números totales de reservas."
+  ]
+}

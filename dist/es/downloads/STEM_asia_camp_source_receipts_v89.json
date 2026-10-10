@@ -1,0 +1,594 @@
+{
+  "asof": "2026-10-05",
+  "version": 89,
+  "scope": "42 HTML directo/Intentos de PDF,40 HTTP200/2 fallas;9 archivos PDF descargados. Cinco guias originales PNGs de lectura visual y cinco PDF adicionales-Lecturas visuales de la página. Programa completo pertinente/organismos contratistas, No42 auditorías completadas del operador.",
+  "sources": [
+    {
+      "key": "gsa-season",
+      "url": "https://school.gsacademy.com/en/season_en/",
+      "final_url": "https://school.gsacademy.com/en/season_en/",
+      "status": 200,
+      "bytes": 71883,
+      "sha256": "5d1e5f378a7dc141c1c76f9a98cb6a830b7b6edd0d8a96440b08e334fbe6bf1f",
+      "raw_filename": "gsa-season.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "sor-holiday",
+      "url": "https://www.sor.com.sg/september-holiday-program-2026",
+      "final_url": "https://www.sor.com.sg/september-holiday-program-2026",
+      "status": 200,
+      "bytes": 1768036,
+      "sha256": "38191a54e92686469b5857416cc6e665b1a641c520bcf421237e89ef55aaf0bb",
+      "raw_filename": "sor-holiday.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "computhink-holiday",
+      "url": "https://www.computhink.com.sg/holiday-coding-camps-for-kids/",
+      "final_url": "https://www.computhink.com.sg/holiday-coding-camps-for-kids/",
+      "status": 200,
+      "bytes": 625787,
+      "sha256": "158e5edbf76b22848952f9c2f42ecef4bf4ac2fa18254f410f9bd414f2f530c0",
+      "raw_filename": "computhink-holiday.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-camp",
+      "url": "https://www.irobo.com.tw/camp",
+      "final_url": "https://www.irobo.com.tw/camp",
+      "status": 200,
+      "bytes": 1317788,
+      "sha256": "195b1eb4db768daeceea1f33512e6f9bb840ac9bb1e6b4ab048a4ecd309d2145",
+      "raw_filename": "irobo-camp.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El índice de programas se lee por separado de cinco páginas completas de cursos de invierno2027; no hay un archivo duplicado del índice."
+    },
+    {
+      "key": "typa-magazine",
+      "url": "https://www.typa.org.tw/wp-content/uploads/2026/03/TYPA-2026-27-Magazine_20260319-update.pdf",
+      "final_url": "https://www.typa.org.tw/wp-content/uploads/2026/03/TYPA-2026-27-Magazine_20260319-update.pdf",
+      "status": 200,
+      "bytes": 12852845,
+      "sha256": "684517c66c0084d5598ff1a6d878ce4adedfbe594a884cbbd7c6b65f7bb70d0f",
+      "raw_filename": "typa-magazine.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "rotary-taiwan",
+      "url": "https://www.tryemp.org/wp-content/uploads/2025/12/2026-summer-camp1.pdf",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tryemp.org'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "ntue-winter",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+      "final_url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+      "status": 200,
+      "bytes": 79882,
+      "sha256": "3d2ad0159f099520a47983c29f46a27fb9a3298b750bd0ec121d1e0b0b35caa4",
+      "raw_filename": "ntue-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "arc-holiday",
+      "url": "https://www.autism.org.sg/holiday-programmes",
+      "final_url": "https://www.autism.org.sg/holiday-programmes",
+      "status": 200,
+      "bytes": 108487,
+      "sha256": "b37469a3212edab8c71ea208ab9a0a9649cc92c423085a6e52d60baa71466a8b",
+      "raw_filename": "arc-holiday.html",
+      "body_snapshot_retained": true,
+      "content_scope": "La página de vacaciones propia para personas con autismo permite a los participantes de 7 a 18 años de edad que no sean de Pathlight. Admisión externa especial/apoyo no resuelto por completo; brecha de descubrimiento, no hay nuevo expediente de programa."
+    },
+    {
+      "key": "gsa-elementary",
+      "url": "https://school.gsacademy.com/en/season_en/tachikawa_e_en/",
+      "final_url": "https://school.gsacademy.com/en/season_en/tachikawa_e_en/",
+      "status": 200,
+      "bytes": 157273,
+      "sha256": "22d23563a6f592c1dc83687d3bbe2caab433b484214403d3717581d3915dbfb8",
+      "raw_filename": "gsa-elementary.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "gsa-kindergarten",
+      "url": "https://school.gsacademy.com/en/season_en/tachikawa_k_en/",
+      "final_url": "https://school.gsacademy.com/en/season_en/tachikawa_k_en/",
+      "status": 200,
+      "bytes": 160528,
+      "sha256": "df5b75d4d60144c42100e2035aa826573f2e7e84e21cc5afa921f06f62901ff7",
+      "raw_filename": "gsa-kindergarten.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "evergreen-summer",
+      "url": "https://www.evergreen-hakuba.com/summer-camps/",
+      "final_url": "https://www.evergreen-hakuba.com/summer-camps/",
+      "status": 200,
+      "bytes": 190030,
+      "sha256": "50067ef10334c8395c1b0ee936e9305f764f866670f55aa74deac4d544bc8521",
+      "raw_filename": "evergreen-summer.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "evergreen-info",
+      "url": "https://www.evergreen-hakuba.com/camp-information/",
+      "final_url": "https://www.evergreen-hakuba.com/camp-information/",
+      "status": 200,
+      "bytes": 95690,
+      "sha256": "d090f6bac665360a8f348394f2ff7f516f3913d793890d0173ae470878c7f044",
+      "raw_filename": "evergreen-info.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Información general del campamento junto con pruebas individuales de programas y contratos; no se cuenta con operadores independientes."
+    },
+    {
+      "key": "evergreen-faq",
+      "url": "https://www.evergreen-hakuba.com/faq/",
+      "final_url": "https://www.evergreen-hakuba.com/faq/",
+      "status": 200,
+      "bytes": 366909,
+      "sha256": "40b9de18093d418b8685c5bd38a7ef9f3cf9bdc94e61bdd74e44ff4c72a8c06f",
+      "raw_filename": "evergreen-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "sor-home",
+      "url": "https://www.sor.com.sg/",
+      "final_url": "https://www.sor.com.sg/",
+      "status": 200,
+      "bytes": 1635951,
+      "sha256": "04da468abfb12a084637dc84b1994bb8c543efd7bdbed09d668c3dabcc77c399",
+      "raw_filename": "sor-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "sor-terms",
+      "url": "https://www.sor.com.sg/terms-and-conditions",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "computhink-roblox",
+      "url": "https://www.computhink.com.sg/holiday-roblox-game-developer-coding-camp/",
+      "final_url": "https://www.computhink.com.sg/holiday-roblox-game-developer-coding-camp/",
+      "status": 200,
+      "bytes": 673326,
+      "sha256": "e90e5c595f5b6bc68a14ae5b3e9ec4a19295e4ddddac4acf93c05cbfc1e53d1e",
+      "raw_filename": "computhink-roblox.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "computhink-python",
+      "url": "https://www.computhink.com.sg/holiday-python-minecraft-coding-camp/",
+      "final_url": "https://www.computhink.com.sg/holiday-python-minecraft-coding-camp/",
+      "status": 200,
+      "bytes": 669717,
+      "sha256": "a1bcb454771f2b0325dd5f152fa2065ef7f3267da6f6caf58119d3b77a034580",
+      "raw_filename": "computhink-python.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "computhink-ai",
+      "url": "https://www.computhink.com.sg/ai-coding-camp-for-teens/",
+      "final_url": "https://www.computhink.com.sg/ai-coding-camp-for-teens/",
+      "status": 200,
+      "bytes": 665453,
+      "sha256": "db1e644b28a3080afc852a780c96f18198891c6d2bd9ee6555bfc78e3a8a7272",
+      "raw_filename": "computhink-ai.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "computhink-g3",
+      "url": "https://www.computhink.com.sg/holiday-o-level-computing/",
+      "final_url": "https://www.computhink.com.sg/holiday-o-level-computing/",
+      "status": 200,
+      "bytes": 692147,
+      "sha256": "e8b54cb1d182abefed7b34c6785bc365854b4c4bb69313f6451838ed53eb75cd",
+      "raw_filename": "computhink-g3.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-winter",
+      "url": "https://www.irobo.com.tw/winter-camp",
+      "final_url": "https://www.irobo.com.tw/winter-camp",
+      "status": 200,
+      "bytes": 1264380,
+      "sha256": "fefb35310336c08cf9885873e0e35a25fbacf38b9f9f0d15ca83d5770126eb68",
+      "raw_filename": "irobo-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "intercamp-korea",
+      "url": "https://www.intercamp-korea.com/programs/winter-language-camp-in-seoul",
+      "final_url": "https://www.intercamp-korea.com/programs/winter-language-camp-in-seoul",
+      "status": 200,
+      "bytes": 172833,
+      "sha256": "bcbb88410feffd8e929639b3e6b0b39be4dc7868197e78a9fadcb1c2d6292d0e",
+      "raw_filename": "intercamp-korea.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "korea-steam",
+      "url": "https://kle.ewha.ac.kr/kle/notice/notice.do?articleNo=799162&mode=view",
+      "final_url": "https://kle.ewha.ac.kr/kle/notice/notice.do?articleNo=799162&mode=view",
+      "status": 200,
+      "bytes": 50195,
+      "sha256": "78b679498d6e1a212e55609d2765a65d18b2a07c364b60701d764fe745413481",
+      "raw_filename": "korea-steam.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Invierno propio de Ewha2027 notificación: El patrimonio coreano/objetivo lingüístico, Grados2–6 y mínimo40. No admitido como inglés libre-campamento de patrimonio."
+    },
+    {
+      "key": "evergreen-winter",
+      "url": "https://www.evergreen-hakuba.com/winter-kids-camps/",
+      "final_url": "https://www.evergreen-hakuba.com/winter-kids-camps/",
+      "status": 200,
+      "bytes": 134567,
+      "sha256": "2d25c6d0d632854b9c6b7ad5e930b517faba42188d42abdce0b4171e9c926485",
+      "raw_filename": "evergreen-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "evergreen-winter-pack",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/Winter-Camp-Welcome-Pack-26_27.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/Winter-Camp-Welcome-Pack-26_27.pdf",
+      "status": 200,
+      "bytes": 4931555,
+      "sha256": "90dc7f89c2275f57c7fd2287c318fd715aac074db02406ff0f64481de066758d",
+      "raw_filename": "evergreen-winter-pack.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "evergreen-terms",
+      "url": "https://www.evergreen-hakuba.com/terms-and-conditions/",
+      "final_url": "https://www.evergreen-hakuba.com/terms-and-conditions/",
+      "status": 200,
+      "bytes": 102360,
+      "sha256": "127fdb58952bcc84132c6655f0ac28763345fcb65b81230e0a416d329e6b1b25",
+      "raw_filename": "evergreen-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-spm",
+      "url": "https://www.irobo.com.tw/spm-camp-theme2",
+      "final_url": "https://www.irobo.com.tw/spm-camp-theme2",
+      "status": 200,
+      "bytes": 2009557,
+      "sha256": "174b74e0355ba9335d861f23694d00085c7604d54ea2890d40be6445f4cf874f",
+      "raw_filename": "irobo-spm.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-boost1",
+      "url": "https://www.irobo.com.tw/boost-camp",
+      "final_url": "https://www.irobo.com.tw/boost-camp",
+      "status": 200,
+      "bytes": 1998538,
+      "sha256": "4decb68da3acef5ba972579a335e3301ca0888557169465d1e2b5524221d7c7c",
+      "raw_filename": "irobo-boost1.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-boost2",
+      "url": "https://www.irobo.com.tw/boost-camp-theme2",
+      "final_url": "https://www.irobo.com.tw/boost-camp-theme2",
+      "status": 200,
+      "bytes": 1994902,
+      "sha256": "873876b5453a30b0174830ab404ede4fc481a05185b573297bb4a5cd73ff1e09",
+      "raw_filename": "irobo-boost2.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-spike",
+      "url": "https://www.irobo.com.tw/spike-ev3-camp",
+      "final_url": "https://www.irobo.com.tw/spike-ev3-camp",
+      "status": 200,
+      "bytes": 2017122,
+      "sha256": "d4142b7abe720fd83b4960f204af8c92fc228492b0bab8479bc45772485e75b7",
+      "raw_filename": "irobo-spike.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "irobo-python",
+      "url": "https://www.irobo.com.tw/python-basic-camp",
+      "final_url": "https://www.irobo.com.tw/python-basic-camp",
+      "status": 200,
+      "bytes": 1785920,
+      "sha256": "f7ddd88f850dd065c291a6a49807cc1227cd7d5d978c7e5f16a9e08a42dc29c7",
+      "raw_filename": "irobo-python.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "evergreen-ninja-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/NN_5_Day_Timetable_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/NN_5_Day_Timetable_2026.pdf",
+      "status": 200,
+      "bytes": 252655,
+      "sha256": "85890c862dfff048c6445e555a35afe296b5361ba43bd2c51d3339ca73a34fa3",
+      "raw_filename": "evergreen-ninja-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-mountain-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/MM_5_Day_Timetable_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/MM_5_Day_Timetable_2026.pdf",
+      "status": 200,
+      "bytes": 215351,
+      "sha256": "66df104c80cdb4f1e5e8defe9a7e0926c14c454468e27ed6c2964c1a1df9f40b",
+      "raw_filename": "evergreen-mountain-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-water-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/WW_5_Day_Timetable_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/WW_5_Day_Timetable_2026.pdf",
+      "status": 200,
+      "bytes": 197972,
+      "sha256": "3fce302c3700af287193c6c702c1920a74d344ed5c5f6c9bf3c6b309d5703dd0",
+      "raw_filename": "evergreen-water-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-earth-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/EE_5_Day_Timetable_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/EE_5_Day_Timetable_2026.pdf",
+      "status": 200,
+      "bytes": 251287,
+      "sha256": "41e19b82fac57966efb4972df5b08fa5f2e812f05889c00315604dea0b6de5e3",
+      "raw_filename": "evergreen-earth-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-leader-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/JA_5_Days_Time_Table_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/JA_5_Days_Time_Table_2026.pdf",
+      "status": 200,
+      "bytes": 298327,
+      "sha256": "545971fa7fd41594297eaadb7e10a956257ba8bdf1ebfb8105be0e8cd097ec8f",
+      "raw_filename": "evergreen-leader-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-expedition-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/JA_12_Days_Time_Table_2026.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/JA_12_Days_Time_Table_2026.pdf",
+      "status": 200,
+      "bytes": 305818,
+      "sha256": "4673543973b44eb1825a06182b83b38028d5cfae505acd7d1f6685b23a7e3fda",
+      "raw_filename": "evergreen-expedition-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "evergreen-day-sample",
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/Day-Camps-Timetables.pdf",
+      "final_url": "https://www.evergreen-hakuba.com/wp-content/uploads/Day-Camps-Timetables.pdf",
+      "status": 200,
+      "bytes": 486920,
+      "sha256": "e607ba54278c972169d73bf4efa9b771584beb9fb6c434665ca443728525b860",
+      "raw_filename": "evergreen-day-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Se lee el calendario de muestras de verano2026 vinculado; solo datos de archivo/muestras, no una cohorte de 2027 anunciada."
+    },
+    {
+      "key": "intercamp-home",
+      "url": "https://www.intercamp-korea.com/",
+      "final_url": "https://www.intercamp-korea.com/",
+      "status": 200,
+      "bytes": 256726,
+      "sha256": "efdcabfd5753059995b4f0bea905458952ca237a6d2c85d17972b8e2e2ffce25",
+      "raw_filename": "intercamp-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "ntue-faq",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57259.php?Lang=zh-tw",
+      "final_url": "https://clec.ntue.edu.tw/p/404-1018-57259.php?Lang=zh-tw",
+      "status": 200,
+      "bytes": 59560,
+      "sha256": "d28e3b5ae92890e8df01e8b6943a90ba00f8fa0df35b2b27bb07d39f4a8f0324",
+      "raw_filename": "ntue-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "ntue-housing",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57631.php?Lang=zh-tw",
+      "final_url": "https://clec.ntue.edu.tw/p/404-1018-57631.php?Lang=zh-tw",
+      "status": 200,
+      "bytes": 59214,
+      "sha256": "1511283be7ff27d9726b3bbfc70bbc5872ec99b70005a11f2f2ada80fe402be0",
+      "raw_filename": "ntue-housing.html",
+      "body_snapshot_retained": true,
+      "content_scope": "La página de vivienda propia distingue un dormitorio de corto curso separado del campamento de niños sin vivienda."
+    },
+    {
+      "key": "wolko-register",
+      "url": "https://wolko.org/camp-register/",
+      "final_url": "https://wolko.org/camp-register/",
+      "status": 200,
+      "bytes": 86429,
+      "sha256": "1a5cfb503910b6e895f0a224525c805a1393e5ec29509e55d23152f0215c5fb8",
+      "raw_filename": "wolko-register.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    },
+    {
+      "key": "wolko-camp",
+      "url": "https://wolko.org/camp/",
+      "final_url": "https://wolko.org/camp/",
+      "status": 200,
+      "bytes": 53334,
+      "sha256": "47d629a627f8e490ee4879cedbe7d54d8ce571409569421d757d9874968cc349",
+      "raw_filename": "wolko-camp.html",
+      "body_snapshot_retained": true,
+      "content_scope": "El sistema de estudios, las fechas, las edades, la documentación lingüística, las tarifas y las condiciones de lectura; el expediente y la auditoría conservan límites no resueltos."
+    }
+  ],
+  "image_primary_reads": [
+    {
+      "key": "ntue-guide-p1",
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10929_582548864313.png",
+      "status": 200,
+      "bytes": 688738,
+      "sha256": "b19a0eca37aa7b988fa006b1bf3fa42bff411142cdbddc6ef1a4b6ce3ddf0091",
+      "format": "image/png",
+      "raw_filename": "ntue-guide-p1.png",
+      "read_scope": "Página original de guía en inglés de lectura visual; el documento en inglés no establece la enseñanza o el apoyo al inglés."
+    },
+    {
+      "key": "ntue-guide-p2",
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10939_727428727762.png",
+      "status": 200,
+      "bytes": 483380,
+      "sha256": "901703183bd9d7d4d2597a4ccae43f5618587e52c75457f91e2b7e9d8b20a4a8",
+      "format": "image/png",
+      "raw_filename": "ntue-guide-p2.png",
+      "read_scope": "Página original de guía en inglés de lectura visual; el documento en inglés no establece la enseñanza o el apoyo al inglés."
+    },
+    {
+      "key": "ntue-guide-p3",
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10940_140790527762.png",
+      "status": 200,
+      "bytes": 603025,
+      "sha256": "1f02b5f281049a9ada54dedf9494112314d349442431a80a1a2d02ff43718ab6",
+      "format": "image/png",
+      "raw_filename": "ntue-guide-p3.png",
+      "read_scope": "Página original de guía en inglés de lectura visual; el documento en inglés no establece la enseñanza o el apoyo al inglés."
+    },
+    {
+      "key": "ntue-guide-p4",
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10941_180449827762.png",
+      "status": 200,
+      "bytes": 657334,
+      "sha256": "cbaf22799fd81ffe8c6b976c5700fe66a01ee24bdd0a5b8a97f61e7b8757131f",
+      "format": "image/png",
+      "raw_filename": "ntue-guide-p4.png",
+      "read_scope": "Página original de guía en inglés de lectura visual; el documento en inglés no establece la enseñanza o el apoyo al inglés."
+    },
+    {
+      "key": "ntue-guide-p5",
+      "url": "https://clec.ntue.edu.tw/var/file/18/1018/pictures/579/m/mcen1500x1500_large10942_971737427763.png",
+      "status": 200,
+      "bytes": 433426,
+      "sha256": "c732dd6df0da68ea615b477a52a23d5b22459b056f848d3a393c4a3584a0041f",
+      "format": "image/png",
+      "raw_filename": "ntue-guide-p5.png",
+      "read_scope": "Página original de guía en inglés de lectura visual; el documento en inglés no establece la enseñanza o el apoyo al inglés."
+    }
+  ],
+  "visual_pdf_reads": [
+    {
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/Winter-Camp-Welcome-Pack-26_27.pdf",
+      "pdf_page": 1,
+      "read_scope": "Invierno2026–27 dos parejas de citas; Esquí todos los niveles y snowboard preguntar.",
+      "render_sha256": "a676b6caa6ea1025b133b747b4b93f859f64bfb867652144865ca195aac1820f",
+      "render_bytes": 1596364
+    },
+    {
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/Winter-Camp-Welcome-Pack-26_27.pdf",
+      "pdf_page": 9,
+      "read_scope": "Las llamadas telefónicas personales solo los días 1/3 a las 17:30-18; los teléfonos del personal no prestados.",
+      "render_sha256": "6f60ee16fdd6cc3662a2839f41588d0b22f7a44b253c47ed296453192ad88c7b",
+      "render_bytes": 374571
+    },
+    {
+      "url": "https://www.evergreen-hakuba.com/wp-content/uploads/JA_12_Days_Time_Table_2026.pdf",
+      "pdf_page": 1,
+      "read_scope": "Muestra2026: JA Aventura dentro de la anterior3 años; unirse en el día5 y llegada independiente a la estación de Omachi. No se desplazó a2027.",
+      "render_sha256": "d99510efb00c9c9cbdadc3f382d6d8e0a9f5efa61c5f87071c17097a68a7e91a",
+      "render_bytes": 824725
+    },
+    {
+      "url": "https://www.typa.org.tw/wp-content/uploads/2026/03/TYPA-2026-27-Magazine_20260319-update.pdf",
+      "pdf_page": 78,
+      "read_scope": "Página 76: programa de estudios de grado ascendente, horas, almuerzo y NT$25000/semana separados; no la robótica idéntica para todos.",
+      "render_sha256": "13d0b07396e8e5beb3553ba751d9d7851bbac3dea796520a1e01dd8fb3cec829",
+      "render_bytes": 874101
+    },
+    {
+      "url": "https://www.typa.org.tw/wp-content/uploads/2026/03/TYPA-2026-27-Magazine_20260319-update.pdf",
+      "pdf_page": 79,
+      "read_scope": "Página impresa77: verano real2026 semana2 es15–18June, cuatro días. Título de la revista2026–27 No anuncia el verano2027.",
+      "render_sha256": "405c66cff6a694be5d81512d21689f661be0b29f22ee5e2506a521a3fe8e0999",
+      "render_bytes": 377067
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw",
+    "https://clec.ntue.edu.tw/p/404-1018-57259.php?Lang=zh-tw",
+    "https://school.gsacademy.com/en/season_en/",
+    "https://school.gsacademy.com/en/season_en/tachikawa_e_en/",
+    "https://school.gsacademy.com/en/season_en/tachikawa_k_en/",
+    "https://wolko.org/camp-register/",
+    "https://wolko.org/camp/",
+    "https://www.computhink.com.sg/ai-coding-camp-for-teens/",
+    "https://www.computhink.com.sg/holiday-coding-camps-for-kids/",
+    "https://www.computhink.com.sg/holiday-o-level-computing/",
+    "https://www.computhink.com.sg/holiday-python-minecraft-coding-camp/",
+    "https://www.computhink.com.sg/holiday-roblox-game-developer-coding-camp/",
+    "https://www.evergreen-hakuba.com/faq/",
+    "https://www.evergreen-hakuba.com/summer-camps/",
+    "https://www.evergreen-hakuba.com/terms-and-conditions/",
+    "https://www.evergreen-hakuba.com/winter-kids-camps/",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/Day-Camps-Timetables.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/EE_5_Day_Timetable_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/JA_12_Days_Time_Table_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/JA_5_Days_Time_Table_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/MM_5_Day_Timetable_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/NN_5_Day_Timetable_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/WW_5_Day_Timetable_2026.pdf",
+    "https://www.evergreen-hakuba.com/wp-content/uploads/Winter-Camp-Welcome-Pack-26_27.pdf",
+    "https://www.intercamp-korea.com/",
+    "https://www.intercamp-korea.com/programs/winter-language-camp-in-seoul",
+    "https://www.irobo.com.tw/boost-camp",
+    "https://www.irobo.com.tw/boost-camp-theme2",
+    "https://www.irobo.com.tw/python-basic-camp",
+    "https://www.irobo.com.tw/spike-ev3-camp",
+    "https://www.irobo.com.tw/spm-camp-theme2",
+    "https://www.sor.com.sg/september-holiday-program-2026",
+    "https://www.typa.org.tw/wp-content/uploads/2026/03/TYPA-2026-27-Magazine_20260319-update.pdf"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "HTML/PDF/imágenes/rendimientos en bruto conservados fuera de la caja pública. La exportación pública contiene hechos parafraseados, enlaces de origen, hashes y errores, sin documentos/fotos de origen completos.",
+    "El idioma de los documentos/espacios de trabajo en inglés está separado de la enseñanza primaria confirmada, la enseñance bilingüe, el apoyo secundario, las clases de idiomas o la vida en campamento.",
+    "Las fechas/tarifas anunciadas no establecen un lugar, admisión, factura final o clasificación mundial."
+  ]
+}

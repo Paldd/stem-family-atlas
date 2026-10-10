@@ -1,0 +1,217 @@
+{
+  "version": 136,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Se han seleccionado 16 programas de invierno de la ISA, un nuevo programa científico de la AXC de Taiwán, una variante de NOLA de invierno vinculada a un expediente existente, una clarificación de la restitución del taller de jóvenes existente y una exclusión de la lengua/patrimonio de STEAM coreano.",
+  "events": 3847,
+  "competition_records": 1168,
+  "event_records": 207,
+  "exhibition_records": 207,
+  "exhibition_records_unit": "Bloqueo de eventos mixtos, no número de exposiciones de empresas importantes del mundo.",
+  "camp_learning_records": 2472,
+  "programme_dossiers": 1119,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1669,
+  "editorial_scenarios": 258,
+  "budget_scenarios": 59,
+  "new_dossiers": 17,
+  "new_dossier_operator_count": 2,
+  "new_operators_in_catalogue": 1,
+  "updated_dossier_slugs": [
+    "jasmine-nola",
+    "jasmine-winter-block"
+  ],
+  "unchanged_dossiers": 1100,
+  "new_calendar_rows": 18,
+  "new_budget_scenarios": 2,
+  "unchanged_event_objects": 3823,
+  "updated_event_ids": [
+    "CP729-20270705-20270709-time",
+    "CP729-20270712-20270716-campus",
+    "CP729-20270719-20270723-water",
+    "CP729-20270726-20270730-rail",
+    "CP729-20270802-20270806-wild",
+    "CP730-20270121-20270122-winter"
+  ],
+  "updated_event_scope": "Sólo seis registros de CP729/CP730: fecha/referencias/período total verificada y la nota de reembolso real del CP730.",
+  "dossier_ids": [
+    "CP1103",
+    "CP1104",
+    "CP1105",
+    "CP1106",
+    "CP1107",
+    "CP1108",
+    "CP1109",
+    "CP1110",
+    "CP1111",
+    "CP1112",
+    "CP1113",
+    "CP1114",
+    "CP1115",
+    "CP1116",
+    "CP1117",
+    "CP1118",
+    "CP1119"
+  ],
+  "new_calendar_ids": [
+    "CP1103-20261226-20261226",
+    "CP1104-20261227-20261227",
+    "CP1105-20261226-20261226",
+    "CP1106-20261227-20261227",
+    "CP1107-20261226-20261228",
+    "CP1108-20261228-20261228",
+    "CP1109-20270104-20270105",
+    "CP1110-20261225-20261227",
+    "CP1111-20261226-20261228",
+    "CP1112-20270104-20270106",
+    "CP1113-20270104-20270106",
+    "CP1114-20270104-20270106",
+    "CP1115-20270104-20270106",
+    "CP1116-20270109-20270111",
+    "CP1117-20261230-20261231",
+    "CP1118-20261225-20261228",
+    "CP1119-20270125-20270129",
+    "CP729-20270125-20270129-winter-rail"
+  ],
+  "family_review_candidates": 66,
+  "family_review_countries": 16,
+  "source_retrieval_attempts": 27,
+  "direct_http200_bodies": 25,
+  "retrieval_errors": 2,
+  "retained_body_receipts": 25,
+  "pdf_files": 1,
+  "pdf_pages_retained": 4,
+  "blank_docx_files_read": 1,
+  "primary_png_files_visually_read": 1,
+  "family_ical": 3064,
+  "new_family_ical_entries": 31,
+  "old_family_ical_blocks_byte_identical": 3027,
+  "old_family_ical_updated_blocks": 6,
+  "excluded_new_family_rows": [
+    "CP729-20270125-20270129-winter-rail",
+    "CP1117-20261230-20261231"
+  ],
+  "exhibition_ical": 104,
+  "league_profiles": 144,
+  "ui_changes": "El texto de la clase escolar ya no recibe un sufijo de años; el programa específico de la sesión, el alojamiento, los extras, la cancelación y las preguntas son visibles en los detalles de la variante.",
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "publication": {
+    "status": "prepared_local_not_published",
+    "project_id": "appgprj_6abd44bca1348191809b7260dcb46d87",
+    "reason": "Reciente v136 get_site nativo para el proyecto_id sin cambios devuelto NOT_FOUND/project_not_found404. No empuje de fuente, versión guardada, implementación o proyecto de reemplazo.",
+    "last_confirmed_published_version": 125,
+    "last_confirmed_deployment_id": "appgdep_6ac4ff3f3c7481918fe3d668d24574b0",
+    "last_confirmed_success_at": "2026-10-06T14:02:09.803197+00:00",
+    "production_browser_qa": false
+  },
+  "verification": {
+    "independent-check": {
+      "version": 136,
+      "status": "passed",
+      "baseline_commit": "bf1931dc4ba4d621b6e2a30cc2662f84f0841584",
+      "unchanged_event_objects": 3823,
+      "updated_event_objects": 6,
+      "unchanged_dossiers": 1100,
+      "unchanged_budget_objects": 57,
+      "unchanged_guide_profiles": 144,
+      "new_dossiers": 17,
+      "new_calendar_rows": 18,
+      "new_budget_scenarios": 2,
+      "source_bodies_hash_verified": 25,
+      "old_ics_blocks_byte_identical": 3027,
+      "old_updated_ics_dates_and_uids_preserved": 6,
+      "new_ics_entries": 31,
+      "exhibition_ics_byte_identical": true,
+      "complete_sqlite_bytes": 32412672,
+      "complete_json_matches_catalog": true,
+      "old_sqlite_entity_rows_preserved_except_six_scoped_events_and_two_dossiers": true,
+      "school_grade_not_birth_year": true,
+      "drama_date_correction_and_deadline_conflict_preserved": true,
+      "kyoto_weekend_dates_included": true,
+      "magic_english_teaching_bilingual_environment": true,
+      "early_not_sibling_discount": true,
+      "nola_one_included_night_not_extra_summer_price": true,
+      "nola_mandarin_and_grade5_hills_not_in_family_ics": true,
+      "korea_steam_title_not_english_robotics_proof": true,
+      "unchanged_worldwide_goal_scope": true,
+      "goal": "active",
+      "worldwide_complete": false,
+      "publication": "prepared_local_not_published"
+    },
+    "functional-check": {
+      "version": 136,
+      "status": "passed",
+      "method": "native_cua_ax_inputs_and_read_only_rendered_dom",
+      "tab_id": "12",
+      "local_url": "http://127.0.0.1:8863/",
+      "checks": [
+        {
+          "name": "early25600",
+          "passed": true
+        },
+        {
+          "name": "earlyshirts26200",
+          "passed": true
+        },
+        {
+          "name": "standard27600andoptionsreset",
+          "passed": true
+        },
+        {
+          "name": "standardshirts28200",
+          "passed": true
+        },
+        {
+          "name": "DramaoneNightanddeadlineconflict",
+          "passed": true
+        },
+        {
+          "name": "Japan16newISAallcards",
+          "passed": true
+        },
+        {
+          "name": "bothChildrenexcludesGrade2ISA",
+          "passed": true
+        },
+        {
+          "name": "NOLAwinteroneNightandMandarinSupport",
+          "passed": true
+        },
+        {
+          "name": "oldWorkshopActualRefund",
+          "passed": true
+        },
+        {
+          "name": "winterOwnTermsNoGradeYearsSuffix",
+          "passed": true
+        },
+        {
+          "name": "MagicClassEnglishBilingualAndDescriptionConflict",
+          "passed": true
+        },
+        {
+          "name": "report136LinkVisible",
+          "passed": true
+        }
+      ],
+      "console_errors": [],
+      "production_browser_qa": false,
+      "mobile_responsive_qa": false,
+      "screenshot_available": false,
+      "screenshot_limitation": "Obtención de pantalla nativa: No se puede tomar una captura de pantalla con ancho 0.",
+      "interaction_recovery": "Clica y seleccione errores de localización recuperados a través de AX fresco y clica/setValue nativo; no hay globes de navegador ni mutación directa del estado de la aplicación.",
+      "scope": "Datos existentes, calculadora, filtros de país y de niños, expediente y enlaces de origen."
+    }
+  }
+}

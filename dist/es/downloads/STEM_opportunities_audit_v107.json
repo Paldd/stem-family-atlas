@@ -1,0 +1,99 @@
+{
+  "version": 107,
+  "asof": "2026-10-05",
+  "status": "progress",
+  "scope": "Seleccionado2026–27 Competencia/categoría/oportunidades de visitantes; no completocamp/país/Auditoría mundial.",
+  "new_event_ids": [
+    "C1145",
+    "C1146",
+    "C1147",
+    "C1148",
+    "C1149",
+    "C1150",
+    "C1151",
+    "C1152",
+    "C1153",
+    "C1154",
+    "E189"
+  ],
+  "updated_event_ids": [
+    "C037",
+    "C053",
+    "C082",
+    "C083",
+    "C087"
+  ],
+  "new_competitions": 10,
+  "new_visitor_events": 1,
+  "new_league_profiles": 1,
+  "new_family_ics": 2,
+  "new_deadline_ics": 1,
+  "new_exhibition_ics": 0,
+  "calendar": {
+    "events": 3348,
+    "competitions": 1153,
+    "visitor_events": 189,
+    "camp_learning_records": 2006,
+    "family_ics": 2593,
+    "exhibition_ics": 104,
+    "league_profiles": 141
+  },
+  "programme_dossiers": 778,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1215,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "primary_retrievals": {
+    "attempts": 28,
+    "http200": 25,
+    "selected_html_bodies": 22,
+    "non_specific_shells": 1,
+    "actual_pdfs": 2,
+    "retrieval_errors": 3,
+    "selected_visual_page_checks": 7
+  },
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "10nuevas categorías de competición/1nueva carrera de visitantes/5actualizadas las viejas cartas/1nUEva liga.3337 cartas existentes conservadas excepto las especificadas5; todas las 778 expedientes de campamento/2006cartas de aprendizaje/escuelas/resultados/rutas sin cambios.",
+    "RoboRAVE: Oscar2020 tendrá máximo7 durante2027; aMAZE8–15 excluido; otras disciplinas no excluidas automáticamente. Reutilizados PV/Taiwan/Beijing/Guanajuato/Houston existentes; Guanajuato tentativo, sin ICS inventado.",
+    "RRN Corea Feb2027TBA/7category tarjetas;Othello≤12/MRCSoccer Junior5–13/grado-basado en Robo RAVE/Relíquame pronto. EN/ESregulas no probadas juez/enseñanza de lenguaje; No hay una superficie independiente-ranking mundial.",
+    "WAICY3additionaltracks/un Novembre compartido29 2026 17ET plazo ICS=22UTC/16CostaRica; separados2026deadline cláusulas verificadas. Venta de la vitrina2025/final4–6vs5–7conflicts retenidos; No se fabricó el día final del calendario. LLMolder-objetivo/todos los niveles/No hay grupos visibles.",
+    "Robofest OwnHost confirma que el mes de mayo28–31 V y la nueva internacional1stillTENTATIVE; Las fechas siguen en blanco/El grado de explorador1–4 Separado Gamegrade5–8. Rutas nacionales de calificación no automáticas abren admisión mundial.",
+    "Maratón de robots de BeijingApr 18 2027 solo visitantesCandidato; billetes infantiles/precio desconocido.No se incluye en las principales empresas de la exposición; 104 exposiciones IECS sin cambios.",
+    "28tempos de recuperación/25corpos reales:23HTMLincluyendo1errores de captura y2PDF/3originales.Faltó el intento de recuperar el PDF y separó el éxito normal de la curva de TLS.Se seleccionaron7 páginas del PDF revisadas visualmente, sin auditoría de todo el país/sitio web.",
+    "SQLite completo y JSONZIP verificar los bytes originales/el hachís/RECONDACIÓN; No se han eliminado registros para los límites de archivos estáticos. Datos JS/el alcance mundial conservado;0fullyauditedcountries."
+  ],
+  "next_priority": "Continúa en la profundidad general/Temática/STEM los campos2026–27/día/embarque/familia EN/ES/RU en CHE/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/- Sí , lo sé .. Leer programas reales/facturas completas/Cuidad nocturna/Ingesta extranjera/lenguaje del maestro/Las restituciones/equipo/lugares actuales y expone al niño-lista específica. Liga de equilibrio/Concursiones/exposiciones y escuelas permanentes/resultados5–10years/rutas familiares; resolver las fechas de WRL/reglas finales, Año de espera/finales, Robofesthost-contra-Conflito de datos internacionales. Todos los requisitos mundiales permanecen activos;0fullyauditedcountries; Nunca truncate los registros para adaptarse a los climas estatales.",
+  "complete_database_download": {
+    "schema_version": 1,
+    "download": "STEM_database.zip",
+    "archive_bytes": 3017639,
+    "archive_sha256": "ac123b5972604ed99cceccc148017784d5159cc5d36bbfc97ad6386cc7a55203",
+    "sqlite_entry": "STEM_database.sqlite",
+    "sqlite_bytes": 26396672,
+    "sqlite_sha256": "d367b3a318b1b62bac6e6a45ccd89e4f9d7712715dade137bf83d36369161735",
+    "raw_download_available": false,
+    "complete_database": true,
+    "instructions": "Desempaque el archivo: dentro de la base de datos SQLite y README."
+  },
+  "complete_json_download": {
+    "schema_version": 1,
+    "download": "STEM_database_json.zip",
+    "archive_bytes": 2275391,
+    "archive_sha256": "e0be79f5d462a0c2e36dc9a12a324b3708043c397ddc92bdb4b07ab8edb13b5a",
+    "json_entry": "STEM_database.json",
+    "json_bytes": 26177754,
+    "json_sha256": "d048f4478a82d799bfb04e86d85033c49f01a89f804aee85639ba519e0e64e0d",
+    "raw_download_available": true,
+    "complete_database": true,
+    "instructions": "Deseleccione ZIP: dentro de la base completa de JSON y README. Todos los registros están guardados."
+  }
+}

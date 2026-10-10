@@ -1,0 +1,44 @@
+{
+  "asof": "2026-10-04",
+  "version": 59,
+  "status": "progress",
+  "worldwide_complete": false,
+  "prior_events": 1969,
+  "prior_events_unchanged": 1942,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "id-tech",
+    "space-camp",
+    "space-robotics"
+  ],
+  "corrected_prior_calendar_entries": 27,
+  "new_calendar_entries": 17,
+  "dossiers": 88,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 159,
+  "family_ical_entries": 1370,
+  "exhibition_ical_entries": 104,
+  "source_receipt": "STEM_north_america_camp_source_receipts_v59.json",
+  "checks": {
+    "prior_dossier_ids": "stable",
+    "prior_family_uid_date_pairs": "preserved",
+    "source_evidence": "Organismo oficial / imagen / introducción pública",
+    "YRES": "ventana de temporada no duplicados de turnos",
+    "Arowhon": "Mini y puertas regulares/precios separados; interrupción de larga estancia explícita",
+    "BrickLabs": "permanencia técnica y creativa separada",
+    "NextRobotics": "Grado3–6 en septiembre2027; precio315+2%tarjeta, No tarifa mensual de club",
+    "iDTech": "política de edad de EN y año calendario directa; cursos estrictos/noches separados",
+    "SpaceCamp": "Frecuencias frecuentes de una semana: fluidoInglés / transferencia / reembolso; cuerpo robótico directamenteGrado 4 para niños de 9 años y VEX/bajo el agua/RealFlight",
+    "Tamwood": "Conflicto de redirección excluido de la lista corta actual; no se afirma una operación específica para 2027",
+    "sqlite": "Pasado: verificación de integridad y verificación de teclas extranjeras",
+    "bridge": "passed: idempotent",
+    "publication": "recibo de almacenamiento/despliegue nativo requerido por separado",
+    "browser": "Pasado: 10dossiles canadienses, comparación de YRES, nuevo escenario,390/320 no se ha superado el documento; no se han producido errores en la consola"
+  },
+  "remaining": [
+    "Costa Rica/México/América Latina próximo paso general/técnico más profundo",
+    "Tarifas para todo el año 2027, prueba de inglés y lugares precisos para los programas restantes",
+    "Otros países de Europa/Asia y descubrimientos globales; ningún país marcado ha sido completamente auditado"
+  ]
+}

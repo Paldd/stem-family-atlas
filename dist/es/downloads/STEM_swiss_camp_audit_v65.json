@@ -1,0 +1,104 @@
+{
+  "asof": "2026-10-05",
+  "version": 65,
+  "scope": "El día de los jóvenes suizos/programas generales de embarque2026–27, disponibilidad en invierno y robótica opcional.",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "counts": {
+    "new_programme_dossiers": 10,
+    "new_calendar_rows": 55,
+    "new_family_ics": 52,
+    "total_programme_dossiers": 162,
+    "swiss_programme_dossiers": 35,
+    "countries_with_dossiers": 28,
+    "official_dossier_urls": 305
+  },
+  "counting": "Los expedientes de los programas no son operadores únicos. Las nuevas alternativas de embarque/día de invierno son expedientes separados.",
+  "corrections": [
+    {
+      "slug": "la-garenne",
+      "fields": [
+        "programme",
+        "questions",
+        "sources",
+        "checked"
+      ],
+      "reason": "Remplazar los pagos no compatibles8–9 redacción con PDF8–12/menú10–12 Conflito. Tres registros de calendario asociados actualizan sólo la evidencia descriptiva; fechas/Identificación de usuario conservada."
+    }
+  ],
+  "findings": [
+    {
+      "programme": "Colegio de Léman Nano",
+      "proof": "4–7; EN/FR hablado;5 de hecho2026/27 Semanas de día de la semana;735/semana, opciones115cada uno; escuela-descuento familiar condicional."
+    },
+    {
+      "programme": "Lovell Summer Junior",
+      "proof": "Inmersión en inglés; 2 sesiones exactas de 3 semanas en 2027; 6700 embarques/4300 días más 100/50 inscripciones/depósitos adicionales semanales; no se han inventado variantes semanales."
+    },
+    {
+      "programme": "Lovell Winter",
+      "proof": "14 publicado2026/27 ventanas semanales; fechas de día calculadas por Mon explícito–Regla libre. Boarding2600+100/semana, día1900+50;1000depósito creditado no doble-contables. El día de hoy10–30 No se puede abordar; todos3filas cerradas excluidas de las CIC de la familia."
+    },
+    {
+      "programme": "Camp Suisse",
+      "proof": "La vida en el campo inglés; embarque7–17 y4exacto2027 sesiones4400/2el tiempo. Día de la fiesta5–17 tiene ventana de temporada, No es un55-estancia de día,200/día1000/5días. Horarios de idiomas15/18 Conflito; durante la noche120 edad no asumida."
+    },
+    {
+      "programme": "La Garenne winter",
+      "proof": "Super esquí8–14 con rojo suizo intermedio-puerta de ejecución;2 Datos de error omitidos. Inglés+Esquí8–14 y integración5–14 cada uno5ventanas exactas; Segunda semana de marzo, no esquiar. Desde los precios no están llenos todos-en los presupuestos."
+    },
+    {
+      "programme": "Robótica opcional de La Garenne",
+      "proof": "8–12PDF vs.10–12menú; No hay fechas de taller independientes, prueba técnica de EN o de honorarios.3D altavoces,VEX IQ,Ejemplos de Python; no completo robotica intensiva o premio internacional."
+    }
+  ],
+  "preservation": {
+    "prior_catalogue_records": 2111,
+    "unchanged": 2108,
+    "descriptive_corrections": 3,
+    "prior_ics_uids_dates": 1467,
+    "exhibition_ics_uids_dates": 104,
+    "prior_dossiers": 152,
+    "unchanged_dossiers": 151,
+    "corrected_dossiers": 1
+  },
+  "remaining": [
+    "Documentación específica Monte Rosa2027 y otros operadores suizos",
+    "Más Francia España Europa Taiwán Singapur Corea Japón Estados Unidos Canadá CR México América Latina; ningún país completo",
+    "Campus y coordenadas exactas, admisión internacional de jóvenes y prueba técnica de lenguaje",
+    "Nuevos asientos2027, contratos completos/tarifas y escenarios de costes familiares",
+    "Los requisitos de liga/concurso/exposición/escuela/resultados históricos continúan activos"
+  ],
+  "external_actions": "Solo investigación pública oficial; no se puede comunicar con el organizador, no se pueden realizar suscripciones, formularios, admisiones, reservas ni pagos.",
+  "validation": {
+    "sql_integrity": "ok",
+    "foreign_keys": "ok",
+    "bridge": "idempotent",
+    "old_dates_uids": "preserved",
+    "source_corrections": "Sólo3 Descripciones de LaGarenne,1 expediente",
+    "closed_boarding_excluded": 3,
+    "calculated_weekday_windows": 14,
+    "ui": {
+      "version": 65,
+      "scenario23_picks": 6,
+      "scenario24_picks": 4,
+      "nano_oscar_en": 1,
+      "nano_both_en": 0,
+      "lovell_en_dossiers": 3,
+      "winter_compare": "2600+100 vs 1900+50; papel explícito de las clases de lenguaje EN",
+      "visible_closed_boarding_labels": 3,
+      "visible_calculated_day_windows": 14,
+      "robotics_option_matvey": 1,
+      "robotics_option_en": 0,
+      "suisse_both_en": 2,
+      "suisse_both_en_day": 1,
+      "viewport_no_overflow": [
+        1280,
+        390,
+        320
+      ],
+      "mobile_comparison": "verified",
+      "console_errors": []
+    }
+  }
+}

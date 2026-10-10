@@ -1,0 +1,139 @@
+{
+  "version": 61,
+  "asof": "2026-10-05",
+  "scope": "Profundización de los campamentos europeos: Países Bajos, Finlandia, Suecia, Irlanda, Malta, República Checa y Dinamarca.",
+  "new_dossiers": 10,
+  "new_calendar_entries": 17,
+  "dossiers": 112,
+  "countries": 27,
+  "swiss": 18,
+  "source_urls": 203,
+  "worldwide_complete": false,
+  "country_fully_audited": false,
+  "profiles": [
+    {
+      "slug": "bricks-robots-nl",
+      "id": "CP103",
+      "country": "Países Bajos",
+      "timing": "published_2026",
+      "language": "La lengua principal es holandesa; para los niños ingleses, utilizan ambas lenguas y tratan de reunir grupos de idiomas/edad.",
+      "price": "Amsterdam EUR 395 / 4 de día; Rotterdam EUR 275 / 4 de mañana; el resto de EUR 250, el paquete requiere un cálculo."
+    },
+    {
+      "slug": "heureka-science",
+      "id": "CP104",
+      "country": "Finlandia",
+      "timing": "partial_2027",
+      "language": "en el verano de 2027 se anunciaron directamente campos en inglés. otoño de 2026  sólo finlandés; el programa de invierno inglés no se ha establecido.",
+      "price": "El precio de los turnos de inglés 2027 no ha sido publicado."
+    },
+    {
+      "slug": "arkki-huts",
+      "id": "CP105",
+      "country": "Finlandia",
+      "timing": "next_unannounced",
+      "language": "en los grupos seleccionados 2026 English se indican directamente; los familiares  FI/EN/SV. la lengua específica 2027 se confirmen por el nuevo turno.",
+      "price": "el curso de inglés específico 2026: EUR 225 / 4 días. el bloque de precios general se diferencia con las tarjetas."
+    },
+    {
+      "slug": "arkki-family",
+      "id": "CP106",
+      "country": "Finlandia",
+      "timing": "next_unannounced",
+      "language": "en los grupos seleccionados 2026 English se indican directamente; los familiares  FI/EN/SV. la lengua específica 2027 se confirmen por el nuevo turno.",
+      "price": "Las carreras familiares concretas 2026: EUR 245 / 2 de la persona, más EUR 60–70; bloque general 235 se desvía."
+    },
+    {
+      "slug": "fosc-helsinki",
+      "id": "CP107",
+      "country": "Finlandia",
+      "timing": "published_2027",
+      "language": "todas las actividades en inglés; es un campamento general al aire libre.",
+      "price": "EUR 60 / el niño / día o EUR 10 / hora; se ha declarado un descuento 20% con dos hijos."
+    },
+    {
+      "slug": "designer-minds",
+      "id": "CP108",
+      "country": "Irlanda",
+      "timing": "next_unannounced",
+      "language": "El idioma de la enseñanza no está directamente confirmado; el idioma del sitio no se considera prueba.",
+      "price": "EUR 180 / 20 horas en FAQ; 2027 aún no se sabe."
+    },
+    {
+      "slug": "gowreads-autumn",
+      "id": "CP109",
+      "country": "Suecia",
+      "timing": "published_2026",
+      "language": "Inglés-led; apoyo sueco para quienes lo necesitan.",
+      "price": "SEK 3 990 / 4 días, VAT enciende."
+    },
+    {
+      "slug": "bels-family",
+      "id": "CP110",
+      "country": "Malta",
+      "timing": "published_2026",
+      "language": "curso de inglés; no prueba de enseñanza robótica.",
+      "price": "el precio familiar solo es por oferta individual; no se establece el precio público completo."
+    },
+    {
+      "slug": "neuslab-solutions",
+      "id": "CP111",
+      "country": "Chequia",
+      "timing": "next_unannounced",
+      "language": "El idioma de la enseñanza no está directamente confirmado; el idioma del sitio no se considera prueba.",
+      "price": "CZK 6 700 / semana de intenso diario de la referencia actual 2026; no el precio 2027."
+    },
+    {
+      "slug": "ranum-summer",
+      "id": "CP112",
+      "country": "Dinamarca",
+      "timing": "published_2027",
+      "language": "Una escuela de inglés independiente confirma la EN de la vida campestre. para la International Summer School seleccionada aquí la lengua de vida y la ciencia/negocio también confirmar; son diferentes paquetes.",
+      "price": "sin CPR danés: a partir del 4 de julio 1/2/3/4 de la semana DKK 5 995 / 10 150 / 14 305 / 18 460; a partir del 18 de julio 1/2 de la semana DKK 5 995 / 10 350."
+    }
+  ],
+  "new_event_ids": [
+    "CP103-20261012-20261015-amsterdam-4days",
+    "CP103-20261019-20261022-denhaag-4days",
+    "CP103-20261019-20261022-rotterdam-4days",
+    "CP103-20261019-20261022-utrecht-4days",
+    "CP103-20261019-20261022-eindhoven-4days",
+    "CP107-20270104-20270106",
+    "CP107-20270222-20270226",
+    "CP107-20270325-20270329",
+    "CP107-20270506-20270507",
+    "CP107-20270607-20270625",
+    "CP109-20261026-20261029",
+    "CP112-20270704-20270710",
+    "CP112-20270704-20270717",
+    "CP112-20270704-20270724",
+    "CP112-20270704-20270731",
+    "CP112-20270718-20270724",
+    "CP112-20270718-20270731"
+  ],
+  "findings": [
+    "Bricks & Robots: apoyo primario holandés / inglés; cinco campus conservan variantes separadas; Rotterdam totalmente reservado.",
+    "Heureka: verano2027 Inglés anunciado; otoño2026 solo finlandés; edades y fechas pendientes del grupo de inglés.",
+    "Arkki: 7+ padres independientes / 4+ hijos; seleccionadas2026 sesiones en inglés; catálogo de 2027, que se celebrará en diciembre; conflictos de bloques arancelarios.",
+    "FOSC: fechas de todo el día2027 y inglés explícito; general al aire libre, independiente de IS Helsinki; ninguna evidencia de clasificación mundial.",
+    "Pensamientos de diseñadores:6.5+ Y 1st-puerta de clase; amplio vapor, no intensivo en codificación; EN todavía no confirmado.",
+    "La Gow lee: Oct26–29/2026 Inglés-conducido,SEK3990 incluidos VAT; un almuerzo y dos bocadillos.",
+    "BELS: familia inglés mínimo7; la ventana de operación 2026 no se convierte en una sesión de embarque independiente.",
+    "NeusLab: el operador enlaza el curso de lógica detallado2026; edad y lenguaje de enseñanza no se han establecido.",
+    "Ranum:13–17, extranjeros/No hay precios de RCP; Copenhague excluidos de los conflictos; Los dos hermanos por debajo del mínimo."
+  ],
+  "next_priority": [
+    "Descubrimiento de países europeos después de esta publicación; ningún país ha sido completamente auditado",
+    "Programas técnicos en inglés más jóvenes en Corea, Taiwán, Japón y las Américas",
+    "Exact2027 idiomas, clases, disponibilidad, paquetes de honorarios completos y coordenadas del campus"
+  ],
+  "applications_sent": false,
+  "new_family_calendar_entries": 10,
+  "expired_family_calendar_entries": 12,
+  "family_calendar_count": 1379,
+  "calendar_exclusions": [
+    "Reserva cerrada en Rotterdam",
+    "Ranum mínimo13 para ambos niños",
+    "12Entradas anteriores/datas terminadas antes de 5 de octubre; objetos del catálogo conservados"
+  ]
+}

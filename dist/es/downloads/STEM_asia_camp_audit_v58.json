@@ -1,0 +1,40 @@
+{
+  "asof": "2026-10-04",
+  "version": 58,
+  "status": "progress",
+  "worldwide_complete": false,
+  "preserved_events": 1952,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "camp-taiwan",
+    "camp-sfs"
+  ],
+  "new_calendar_entries": 17,
+  "dossiers": 78,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 140,
+  "family_ical_entries": 1353,
+  "exhibition_ical_entries": 104,
+  "checks": {
+    "prior_event_objects": "unchanged",
+    "prior_dossier_ids": "stable",
+    "prior_family_calendar_uids_and_dates": "preserved",
+    "CampAsia": "Octubre Robótica6–8 sólo; otras pancartas de cursos rechazadas como disponibilidad",
+    "TaiwanFamily": "Las fechas de fin de semana contradictorias se mantienen sin fecha; Puerta de grupo regular de 40 personas",
+    "EnglishAdventure": "2026/27 2 sesiones exactas, Oscar cortado01.04.2020",
+    "LCCL": "7 publicados futuros lotes por curso de primaria; conflicto de edad visible; lenguaje de enseñanza desconocido",
+    "Hakuba": "Grados6–9 No las edades6–9;2027 el título tiene2026 cuerpo",
+    "sqlite": "controles de integridad y de clave extranjera",
+    "bridge": "idempotent",
+    "publication": "recibo de almacenamiento/despliegue nativo requerido por separado"
+  },
+  "source_receipt": "STEM_asia_camp_source_receipts_v58.json",
+  "remaining": [
+    "Enseñanza técnica de inglés para programas de vacaciones en Singapur",
+    "Nacimiento exacto, calificaciones, admisión y lugares",
+    "Asia verano2027 Tarifas completas y otros candidatos a embarque externo",
+    "Estados Unidos/Canadá y Costa Rica/México/América Latina el próximo paso profundo",
+    "Otras zonas de Europa y de todo el mundo, mapa exacto del campus y presupuestos familiares"
+  ]
+}

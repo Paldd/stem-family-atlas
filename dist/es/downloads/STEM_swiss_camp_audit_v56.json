@@ -1,0 +1,54 @@
+{
+  "version": 56,
+  "checked": "2026-10-04",
+  "status": "local_validation_passed",
+  "scope": "Dossiers de programas suizos y variantes del catálogo fechadas",
+  "preserved_events": 1891,
+  "new_events": 40,
+  "total_events": 1931,
+  "programme_dossiers": 58,
+  "swiss_programme_dossiers": 18,
+  "countries_with_dossiers": 19,
+  "unique_official_dossier_urls": 96,
+  "new_programmes": [
+    "regent-labs",
+    "regent-leadership",
+    "regent-pre-university",
+    "jfk-outdoor"
+  ],
+  "dated_bridge_cards": 137,
+  "new_family_calendar_entries": 34,
+  "family_calendar_entries": 1315,
+  "exhibition_calendar_entries": 104,
+  "checks": {
+    "old_events_unchanged": true,
+    "other_catalogue_blocks_unchanged": true,
+    "canonical_json_and_database_agree": true,
+    "sqlite_integrity_and_foreign_keys": "ok",
+    "bridge_idempotent": true,
+    "javascript_syntax": "ok",
+    "desktop_dossier_and_scenario": "passed",
+    "mobile_390px_no_horizontal_overflow": true,
+    "shared_catalogue_day_window_and_modal": "passed",
+    "calculated_date_labels_explicit": true
+  },
+  "source_review": {
+    "receipts": "STEM_swiss_camp_source_receipts_v56.json",
+    "jfk_pdf_current_download_visually_read_pages": [
+      1,
+      2
+    ],
+    "stale_web_pdf_extraction_rejected": true,
+    "real_liability_insurance_conflict_retained": true,
+    "programme_language_unknowns_retained": true,
+    "2026_terms_not_transferred_to_2027": true
+  },
+  "limits": [
+    "18 expedientes suizos son programas, no 18 operadores distintos.",
+    "30 variantes de JFK son duradas/formatos alternativos calculados a partir de la regla semanal publicada, no 30 campos distintos.",
+    "Una nueva tarjeta es un recordatorio de apertura de la solicitud, no una sesión de enseñanza.",
+    "La instrucción de inglés de JFK no está confirmada.",
+    "La cobertura mundial sigue siendo incompleta; los polígonos de los países no son ubicaciones exactas de los campus."
+  ],
+  "applications_submitted": false
+}

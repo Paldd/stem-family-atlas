@@ -1,0 +1,263 @@
+{
+  "asof": "2026-10-05",
+  "version": 67,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "scope": "Japón invierno/asistencia general; Singapur real ofrecido ingreso; Taiwán inglés/embarque/puertas de clase; Corea de la identidad de reserva-canal.",
+  "counts": {
+    "new_programme_dossiers": 19,
+    "new_calendar_rows": 36,
+    "new_family_ics": 35,
+    "total_events": 2254,
+    "learning_camp_records": 923,
+    "total_programme_dossiers": 198,
+    "countries_with_dossiers": 28,
+    "swiss_dossiers": 35,
+    "french_dossiers": 23,
+    "spanish_dossiers": 19,
+    "official_dossier_urls": 351,
+    "managed_calendar_rows": 460,
+    "season_windows": 12,
+    "family_ical": 1585,
+    "exhibition_ical": 104,
+    "uwc_description_only_profiles": 6,
+    "uwc_offered_profiles": 3,
+    "uwc_offered_rows": 4,
+    "uwc_future_rows_excluded_family_ics": 1,
+    "ayla_named_weeks": 23,
+    "ayla_calendar_parts": 24
+  },
+  "counting": "Los programas específicos no son operadores o clasificaciones únicas. KOA tres paquetes de esquí, nueve planes de estudios de la UWC y los campus/formatos CiTOP son distintos. Ayla24 partes son 23 semanas con el miércoles 11 de agosto explícitamente excluidos.",
+  "new_dossiers": [
+    {
+      "id": "CP180",
+      "slug": "koa-classic",
+      "provider": "KOA Japan · Classic Winter",
+      "country": "Japón",
+      "timing_status": "published_2026_27",
+      "price_year": 2026
+    },
+    {
+      "id": "CP181",
+      "slug": "koa-aire",
+      "provider": "KOA Japan · SKI PLUS · AIRE",
+      "country": "Japón",
+      "timing_status": "published_2026_27",
+      "price_year": 2026
+    },
+    {
+      "id": "CP182",
+      "slug": "koa-english-ski",
+      "provider": "KOA Japan · SKI PLUS · KOA English",
+      "country": "Japón",
+      "timing_status": "published_2026_27",
+      "price_year": 2026
+    },
+    {
+      "id": "CP183",
+      "slug": "ayla-tokyo",
+      "provider": "Camp Ayla · vacaciones diurnas comunes",
+      "country": "Japón",
+      "timing_status": "published_2026_27",
+      "price_year": 2027
+    },
+    {
+      "id": "CP184",
+      "slug": "shhk-spike-claw",
+      "provider": "SHHK Cultural Academy / The Lab · SPIKE Claw Machine",
+      "country": "Singapur",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP185",
+      "slug": "uwc-dover-codequest",
+      "provider": "UWCSEA Dover / Create Lab · CodeQuest Robotics & Adventure",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP186",
+      "slug": "uwc-dover-robospace",
+      "provider": "UWCSEA Dover / Create Lab · Mission Robospace",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP187",
+      "slug": "uwc-dover-sciencecraft",
+      "provider": "UWCSEA Dover / Create Lab · Science Craft",
+      "country": "Singapur",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP188",
+      "slug": "uwc-dover-buildverse",
+      "provider": "UWCSEA Dover / Create Lab · AI Buildverse",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP189",
+      "slug": "uwc-dover-scratch-ai",
+      "provider": "UWCSEA Dover / Create Lab · AI with Scratch",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP190",
+      "slug": "uwc-dover-python-ml",
+      "provider": "UWCSEA Dover / Create Lab · Create AI with Python",
+      "country": "Singapur",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP191",
+      "slug": "uwc-dover-minecraft",
+      "provider": "UWCSEA Dover / Create Lab · Minecraft ThinkLab",
+      "country": "Singapur",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP192",
+      "slug": "uwc-dover-python",
+      "provider": "UWCSEA Dover / Create Lab · Python Bootcamp",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP193",
+      "slug": "uwc-dover-speedtech",
+      "provider": "UWCSEA Dover / Create Lab · SpeedTech Race Car",
+      "country": "Singapur",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP194",
+      "slug": "ishou-international",
+      "provider": "I-Shou International School · Languages / STEM / Culture",
+      "country": "Taiwán",
+      "timing_status": "partial_2027",
+      "price_year": null
+    },
+    {
+      "id": "CP195",
+      "slug": "citop-day",
+      "provider": "CiTOP / CiStudy · English Day Network",
+      "country": "Taiwán",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP196",
+      "slug": "citop-uch",
+      "provider": "CiTOP / CiStudy · UCH Residential",
+      "country": "Taiwán",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP197",
+      "slug": "citop-eda",
+      "provider": "CiTOP / CiStudy · E-Da Residential",
+      "country": "Taiwán",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP198",
+      "slug": "cistudy-jeju-seoul",
+      "provider": "CiStudy booking · Jeju / Seoul English & Culture",
+      "country": "Corea del Sur",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    }
+  ],
+  "findings": [
+    "El clásico KOA98k/AIRE117k/Inglés125k impuestosincluidos; folleto combinado por paquete. FAQ6–15 Visión de la información1–9 requieren una puerta de clase. Camping inglés vsski japonés exceptuando el inglés. Seis y más bloques de lecciones no significan dos veces cada día completo de viaje. El propio Black Diamond Level no es una pista negra universal.",
+    "Ayla23namedweeks/24calendarparts cubierta2026–27. Cerrado11Aug excluidos a través de publicaciones-división de las reglas.10percenttax y no reembolso declarado; Matvey sólo hasta10birthday. ENJP establecida para la escuela pero el lenguaje del campo no probado directamente; No ENfilter.",
+    "La UWC se abrió explícitamente a la toma externa de la prioridad de la Dover actual,10percent Cargo adicional. Cuadro visible actual ofrece Ciencia/Minecraft/Python ML; Seis otras descripciones ausencia impide la fecha/Transferencia de precios. El día completo requiere dos actividades más la supervisión obligatoria del almuerzo. Los certificados y las carreras finales no son de derecho internacional.",
+    "¡SHOCK SPIKE Primero dos!2daycampuswindows,7–12/Primary1–6,420GSTmaterials. En desconocido;Fuente PDF Privacidad/denunciando el contrato de nuestro fondo. El Earlybird20offNov20 No se puede recortar la aplicación.",
+    "El nombre de la empresa10–16 archivo2026 Y que vendrá pronto2027; VEX/automatización/historia de juegos probado pero el calendario futuro/precio desconocido. Inglés completointeracción no instrucción técnica. Aquarium nocturno noproof every nocturneboarding contrato.",
+    "Ci TOP completo inglés general/PBL; día G2–7 contra el tablero G3–9. UCH1500mealextra,El artículo uno1000; HSRshuttlefree sólo UCH. Precioexplicador es mercado artículo no campamento.15plusprivategroup Noindividualdicha publicada.",
+    "Estudio de la Ciencia de Corea10–18 Archivo de Jeju Seúl2026 Enseñanzas generales; Operador receptor desconocido, No es Branksome/Campo de Chadwick. ChadwickpublicsummerDescripción/En el caso de los campamentos, el curso de formación es insuficiente./año/prueba de ingreso extranjero."
+  ],
+  "preservation": {
+    "prior_catalogue_records": 2218,
+    "unchanged_prior_records": 2218,
+    "prior_dossiers": 179,
+    "unchanged_prior_dossiers": 179,
+    "prior_family_ical_uids_dates": 1550,
+    "prior_exhibition_ical_uids_dates": 104,
+    "league_school_route_blocks": "unchanged"
+  },
+  "remaining": [
+    "Suiza Francia España Europa: restantes operadores, estaciones, contenido de temas principales, inventarios de países",
+    "Taiwan Singapur Corea del Sur Japón EE.UU. Canadá Costa Rica México América Latina alcance de prioridad de profundidad",
+    "Realidad2027 Disponibilidad/clase/nacimiento/ingreso en el extranjero y técnicaEN/ES/RU",
+    "Factura familiar completa con honorarios obligatorios desconocidos, mapas precisos del campus y clasificaciones editoriales específicas de objetivos",
+    "Competiciones/ligaciones/exhibiciones/escuelas/líderes históricos y rutas familiares en todo el mundo; no auditadas plenamente"
+  ],
+  "external_actions": "Solo investigación oficial pública; no hay contactos, formularios, suscripciones, reservas o pagos.",
+  "validation": {
+    "status": "se aprobó; la publicación nativa sigue",
+    "prior2218events_and179dossiers": "unchanged",
+    "sqlite": "ok",
+    "foreign_keys": "ok",
+    "bridge": "idempotent",
+    "old1550family_and104expo_uids_dates": "preserved",
+    "new_family_ical": 35,
+    "excluded_future_grade5plus_row": 1,
+    "no_august11_ayla_calendar_event": true,
+    "node_syntax": "passed",
+    "diff_whitespace": "passed",
+    "ui": {
+      "version": 67,
+      "new_scenario_picks": [
+        4,
+        4,
+        4
+      ],
+      "uwc_dossiers": 9,
+      "uwc_en_dossiers": 0,
+      "uwc_oscar_dossiers": 3,
+      "uwc_both_dossiers": 0,
+      "uwc_description_only_label_and_no_transferred_price": true,
+      "uwc_current_price_visible": true,
+      "koa_both_en_dossiers": 3,
+      "koa_price_and_language_comparison": "98,000 Clásico vs. 125,000 KOA Inglés; vida en campamento vs. papel de lección visible",
+      "ayla_both_2027_dossiers": 1,
+      "ayla_en_dossiers": 0,
+      "ayla_visible_variants": 24,
+      "ayla_two_matsuri_parts_visible": true,
+      "ayla_tax_and_age_limit_visible": true,
+      "citop_en_dossiers": 3,
+      "citop_both_dossiers": 0,
+      "citop_unknown_base_and_separate_meal_supplements_visible": true,
+      "shhk_matvey_dossiers": 1,
+      "shhk_oscar_dossiers": 0,
+      "shhk_2027_dossiers": 0,
+      "ishou_en_partial2027_dossiers": 1,
+      "viewport_no_overflow": [
+        1280,
+        390,
+        320
+      ],
+      "comparison_local_scroll_320": {
+        "client": 254,
+        "scroll": 650,
+        "page": 320
+      },
+      "console_errors": []
+    }
+  }
+}

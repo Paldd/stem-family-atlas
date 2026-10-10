@@ -1,0 +1,110 @@
+{
+  "asof": "2026-10-05",
+  "version": 75,
+  "status": "progress",
+  "scope": "Suiza / Francia / España documentación detallada del programa; se conservan todos los bloques y países prioritarios de todo el mundo",
+  "new_dossiers": 8,
+  "updated_dossiers": [
+    "aiglon",
+    "rosenberg",
+    "cdl"
+  ],
+  "corrected_legacy_event_ids": [
+    "L222"
+  ],
+  "new_calendar_rows": 32,
+  "newly_dated_legacy_rows": 1,
+  "new_family_ics": 33,
+  "programme_dossiers": 322,
+  "countries_with_dossiers": 32,
+  "swiss_dossiers": 53,
+  "french_dossiers": 33,
+  "spanish_dossiers": 27,
+  "official_dossier_urls": 516,
+  "programme_slugs": [
+    "aiglon-classic-board",
+    "aiglon-classic-day",
+    "helvetic-zug-summer",
+    "helvetic-zurich-summer",
+    "babel-holiday-english",
+    "littlebritish-boost",
+    "littlebritish-zoo",
+    "navatormes-english"
+  ],
+  "findings": [
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "Aiglon · Junior Robotics y programas semanales",
+      "detail": "de la guía 2027 Leído visualmente: el pensión 8–16; el cuadro diario Robotics 7–16, y la descripción y la página principal 8–16. cinco day-semana y seis boarding-los paquetes tienen sus propios tarifas. Cada curso es de una semana.; los paquetes largos seleccionan varios programas, No garantizan tres semanas. VEX.",
+      "next_action": "confirmar la entrada menor, el idioma, el reloj/nivel VEX y el paquete completo; no se puede transferir el precio medio a otro programa.",
+      "url": "https://www.aiglon.ch/2027-summer-camp"
+    },
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "Helvetic · tarjeta detallada contra la visión general",
+      "detail": "Summer Zug En directo 12–16 de julio 2027 en lugar de los errores 13–16 en el overview; CHF 730/la semana, 1 460/2 las semanas; packed lunch. de la Comisión intro 7+, summer overview 4–12, el detalle Zug se calcula en 6–11. lengua común camp No es una prueba EN Robotics; condiciones Zug No se puede llevar a Zürich.",
+      "next_action": "L222 se ha actualizado de un registro no datado en disputa; otros registros antiguos se han conservado y se han vinculado sin repeticiones.",
+      "url": "https://www.helveticinstitute.ch/summer-robotics-camp-zug/"
+    },
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "Rosenberg / College du Léman · edad del curso y año de tarifa",
+      "detail": "Rosenberg age form sólo confirma el general camp 6–18 y 6 años antes de llegar, No lo menos . Robotics / AI. CDL publicará tres cambios 2027, registro desde noviembre, Pero el precio es evidente. 2026. Afternoon VEX AIM 12+; startup 10+, drones 11+. de las diferentes modules y pool-party Wednesday influyen en las horas técnicas.",
+      "next_action": "comprobar el EN/minimo del curso elegido y el precio/contracto completo de 2027; no se ha realizado la verificación de edad.",
+      "url": "https://rosenbergcamps.ch/application/age-verification/"
+    },
+    {
+      "country": "Francia",
+      "iso": "FRA",
+      "provider": "Babel / Little British · año de verano y clase",
+      "detail": "Babel Título de verano 2027 contra body 2026, Por eso summer se excluye. Little British Boost 5–9 de julio2027 requiere Primaire; Zoo12–16 de julio2027 grupo3–6. British POP por-de la antigua 13–17 de julio2026; la publicidad de invierno de la vecindad2027 no lo actualiza. cinco plataformas no cinco operadores, 2,5 hora no es un día completo.",
+      "next_action": "confirmar las clases/niveles de los niños, mañana/día, alimentación, descuentos/revocaciones y corrección summer Babel.",
+      "url": "https://www.babelschool.fr/stages-vacances-anglais/"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "Navatormes / Costa Blanca · vivienda, lengua y archivo",
+      "detail": "Navatormes landing «Próximamente2027», su propio PDF2026 confirma EUR618,2–14de julio,7–17,tipis6–8 y EN de todas las actividades. FAQ dice albergue: housing/2027 - ¿Qué? - ¿Qué?; No hay nuevas fechas exactas.. Costa Blanca describe12 sessions, No , no .12 horas, y presentaciones EN/ES, No toda la instrucción técnica; ¿Qué más? summer2026.",
+      "next_action": "documentos fechados para 2027, admisión extranjera y gastos completos; no llamar a tipis un alojamiento escolar y no emitir una presentación en inglés para EN Robotics.",
+      "url": "https://respiraocio.com/campamentos-de-verano/campamentos-de-verano-ingles-gredos/"
+    }
+  ],
+  "calendar": {
+    "events": 2483,
+    "learning_records": 1152,
+    "family_ics": 1805,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 689,
+    "reused_legacy_events": 64,
+    "season_windows": 18
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Otras brechas de prioridad en Europa / Asia / América del Norte / LATAM,2027 contratos, lugares exactos y presupuestos familiares completos; el objetivo actual se mantiene ACTIVO",
+  "validation": [
+    "2450 eventos anteriores sin cambios; El222 conserva la identificación y recibe directamente declarado julio12–16/2027 fecha, fuente y empaquetado-detalles del almuerzo",
+    "Se conservan todas las identificaciones de los documentos anteriores 314; sólo se actualizan Aiglon/Rosenberg/CDL 311 otros documentos sin cambios",
+    "Aiglon2027 original de la brochure precio/edad tablas de lectura visual; seis paquetes de embarque y cinco semanas de día; día7+ frente a principal8+ conflicto de robótica visible",
+    "Rosenberg edad general6–18 nunca se transfirió a un mínimo de curso de enfoque desconocido; No hay edad-presentación de la verificación",
+    "CDL tres sesiones2027 coexisten con precios explícitos2026; VEX AIM12+, startup10+, inicio de la inscripciónNovembro",
+    "El detalle de Zug de Helvetic se resuelve la semana pasada.2 de la12–16July; seis semanas equivalentes existentes reutilizadas; No se ha asumido instrucción en inglés",
+    "Paquetes de otoño/invierno/primavera/matinada; no incluidos los paquetes de verano de 2026/27; no se conoce la inclusión de las comidas",
+    "Pequeña puerta de la escuela primaria británica y el zoológico3–6 máxima conservada; cinco campus son variantes de dos cursos, no diez operadores",
+    "Navatormes enlazado PDF2026 lectura y tabla inspeccionadas visualmente; EUR618 Es histórico; de los tipis6–8 contra landingalbergue explícito; No lo hace2027 fila de calendario",
+    "32 nuevas filas de catálogo con fecha más una L222 sin fecha anterior; 33 fechas ICS adicionales de la familia; se conservan todas las 1772 parejas de UID/datas anteriores",
+    "Las ligas/escuelas/resultados/routes mundiales no han cambiado;104 exhibiciónICS no han modificado excepto DTSTAMP; integridad SQLite/chaves extranjeras e idempotencia de puente",
+    "Espejos canónicos/públicosJSON,63 escenarios,32 países del expediente,0 países auditados completos; objetivo mundial sigue siendo ACTIVO",
+    "QA del navegador nativo: escenario59 tres escogidas correctas; Filtro de aglon3 y comparación2/4; comparación clara0; Aiglon+EN confirmada0; Babel+EN confirmada1; MCP web L22212–16July; consoleerrors0; capturas de pantalla de comparación local guardadas"
+  ]
+}

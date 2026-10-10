@@ -1,0 +1,1181 @@
+{
+  "version": 26,
+  "checked": "2026-10-01",
+  "kind": "editorial_family_recommendation",
+  "title": "Una base, dos rutas propias.",
+  "conclusion": "La comparación principal para la siguiente base permanente  México y Taiwan: Monterrey / ASFM más un equipo independiente, o Taipei / TAS y Taichung / AST. México  primera visita práctica; Taiwan  primer candidato asiático. Estados Unidos se puede elegir ya ahora si el negocio familiar, la estimación y el equipo menor concreto coinciden. Costa Rica mantiene la práctica regular para el momento de la elección.",
+  "rationale": "el traslado debe dar un entorno de ingeniería diario: los hombres de su edad., un maestro adulto, acceso al campo y el trabajo propio de los niños. El premio de un equipo juvenil o la fama del país por sí mismo no confirma este acceso a 6 / 9 años.",
+  "assumptions": [
+    "Matvey2017, Oscar2020; EN / ES están disponibles para todo el día, RU agregado por la familia como lengua permitida.",
+    "La familia informa que han estado involucrados durante tres años; el nivel técnico independiente de cada uno aún no se ha medido.",
+    "la familia está lista para mudarse y considera varias razones de residencia. para elegir se ha adoptado la disponibilidad práctica de la base actual y la México; otras razones  las opciones en cuestión. el derecho migratorio individual no se ha establecido con este estudio.",
+    "El presupuesto, las clases/días de nacimiento, la preferencia de los niños y la fecha deseada de traslado son desconocidos."
+  ],
+  "decision": "una base permanente en 2–3 de la temporada, equipo y papel para cada niño. comparar el acceso a la escuela, al equipo menor y al mentor junto con la residencia de la familia y el primer año de gastos.",
+  "bases": [
+    {
+      "iso": "MEX",
+      "name": "México · Monterrey",
+      "role": "primera visita práctica y la principal opción en América Latina",
+      "verdict": "primera visita práctica",
+      "recommendation": "Si la vida fuera accesible en México, empezaría a comparar con Monterrey. ASFM — candidato a la escuela común de ambos, y para Matvey para verificar en paralelo independiente Challenge / WRO / VEX IQ el equipo. la menor de la escuela Explore Ella misma puede no darle suficiente dificultad después de tres años de experiencia..",
+      "verified": "ASFM informa a la FLL Explore Junior y a la FTC Middle / High.",
+      "gates": [
+        "ASFM: entradas, lugares, ligas menores, complejidad real y lenguaje del equipo por separado.",
+        "Explore tiene un formato de demostración; el reconocimiento en Explore no es un título de Challenge.",
+        "las representaciones nacionales, las cuotas y los equipos extranjeros / independientes comparar con el organizador de cada liga."
+      ],
+      "next": "comparar ASFM con un equipo independiente de edad adecuada. en el 2027–28 K–G11 La escuela anuncia el inicio de la recepción en octubre 2026; la evaluación y el lugar son obligatorios.",
+      "school_ids": [
+        "S002"
+      ],
+      "sources": [
+        {
+          "title": "ASFM · extended learning",
+          "url": "https://www.asfm.edu.mx/extended-learning",
+          "claim": "La escuela informa de reconocimiento de FLL Explore elemental y nacionales de la FTC medianos / altos.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ASFM · admission process",
+          "url": "https://www.asfm.edu.mx/admissions/application-process",
+          "claim": "uno de enero 2027 solicitudes de septiembre 4, 2026; C.–G11 2027–28 solicitudes de octubre 2026; evaluación requerida.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; equipos independientes; Explorar es una demostración. La futura edición y la asignación nacional tienen condiciones distintas.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ASFM · tuition 2026–27",
+          "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+          "claim": "C.–5 Cuota de matrícula con tasa de hermanos; el registro y la entrada se declaran como una-primera vez-tarifas de matrícula. Dos .-la aritmética infantil es editorial.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Primero, comprobar el Challenge o el IQ WRO/VEX de un entrenador fuerte.",
+        "osc": "Explore / el círculo de ingenieros más joven puede dar a un equipo y su propio papel; la medalla muestra a distinguir del lugar de la competencia."
+      }
+    },
+    {
+      "iso": "TWN",
+      "name": "Taiwán · Taipei / Taichung",
+      "role": "primer candidato asiático para el entorno de ingeniería permanente",
+      "verdict": "el candidato principal de Asia",
+      "recommendation": "TAS  el candidato asiático más completo encontrado para enseñar a ambos desde la robótica junior hasta los laboratorios mayores; AST  la segunda opción. comprobar al mismo tiempo con México. trasladarse a elegir después de los puestos de ambos, el junior-entrenador actual y la complejidad comprensible, y no solo por la presencia de Gold Card o los premios de los mayores.",
+      "verified": "TAS describe Lower School coding, robótica y tareas con sensores; laboratorios avanzados y VEX / FRC pertenecen a otros niveles. AST describe elementary–high school; Worlds 2023 — Grades 5–12.",
+      "gates": [
+        "Necesitamos lugares reales para ambos en la escuela y para un grupo/equipo adecuado.",
+        "TAS: la nacionalidad extranjera del niño, los documentos y la residencia en el Taipei con el padre; la base de la residencia del padre no es una decisión de admisión.",
+        "En el caso de los estudiantes de primer nivel, el mandarim es un idioma que se puede aprender de forma complementaria sin contar con el aprendizaje de un idioma.",
+        "El TAS requiere independientemente la ciudadanía extranjera del niño, la residencia con el padre / tutor en el Gran Taipei y la decisión de admisión."
+      ],
+      "next": "Primero TAS Lower School y AST: documentos/evaluación, asistencia al taller y prueba de curso, si la escuela lo permite.",
+      "school_ids": [
+        "S003",
+        "S020"
+      ],
+      "sources": [
+        {
+          "title": "TAS · Tech Cube",
+          "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+          "claim": "Proyectos de robótica y sensores de la Escuela Baja; provisión media / superior separada, VEX y FRC.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "TAS · admissions",
+          "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+          "claim": "Nacionalidad del niño extranjero, Residencia en Taipei con padres, documentos y colocación; 2027–28 las solicitudes abiertas.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "AST Taichung · robotics",
+          "url": "https://www.astaichung.com/robotics",
+          "claim": "Programa de primaria a secundaria; 2023 Las calificaciones de los estudiantes del mundo 5–12. Informe de la escuela; no prueba de calificación 1–4 Admisión competitiva.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "AST · admission procedures",
+          "url": "https://www.astaichung.com/policies_procedures",
+          "claim": "Restricciones de pasaportes extranjeros, evaluación de inglés / matemáticas, límite de edad G1 31 de agosto y comité de admisión.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "TAS · tuition and fees 2026–27",
+          "url": "https://www.tas.edu.tw/admissions/tuition-fees",
+          "claim": "Tarifa pre-K5, capital / edificio / tasas de solicitud; depósito de parte de la matrícula, no descuento para hermanos.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "Taiwan NIA · Gold Card family residency",
+          "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
+          "claim": "El artículo de la NIA de 18 de enero de 2025 describe las solicitudes separadas de ARC dependientes para cónyuge / hijos.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Necesitamos un equipo junior y una complejidad después de tres años de experiencia; la existencia de la FRC de la Escuela Superior aún no da lugar a ello.",
+        "osc": "Necesitas un grupo para tu clase con diseño y codificación. Los equipos mundiales de mayores no se transfieren a los 6 años."
+      }
+    },
+    {
+      "iso": "USA",
+      "name": "Estados Unidos · ciudad bajo un comando concreto",
+      "role": "una opción completa ahora con un negocio adecuado y un equipo menor",
+      "verdict": "equipo + negocio + estimado",
+      "recommendation": "no hay que retrasar automáticamente hasta la adolescencia. si la familia planea un negocio allí y encuentra una buena junior-el equipo de ambos, Es una opción completa ahora.. en ausencia de tal equipo — campamentos de trabajo / los torneos; en el 12–18 comparar los años por separado FTC / FRC. Nuestra lista actual de escuelas estadounidenses no prueba, que ambos ya tienen lugar en el equipo menor.",
+      "verified": "FIRST publicará FTC para el 12–18 / Grades 7–12 y FRC para el 14–18 / Grades 9–12. las repeticiones encontradas FRC-Las victorias de las escuelas estadounidenses se refieren a la etapa superior.",
+      "gates": [
+        "No hay ninguna lista de los dos niños en el equipo de junior estadounidense.",
+        "la posibilidad de que la familia viva no establece la matrícula, el distrito escolar o el puesto en el equipo.",
+        "Se necesita una dirección adecuada para la escuela primaria / equipo comunitario, un mentor, un cometa; un campamento y un equipo permanente  diferentes servicios.",
+        "E-2  Inversionista no inmigrante: la ciudadanía del país del contrato, la inversión significativa y la empresa en curso se comprueban por separado."
+      ],
+      "next": "para el viaje de prueba, elegir un cambio de edad y comprobar su dificultad / idioma / entrada extranjera. para mudarse primero encontrar un equipo junior; Bellarmine y Madera considerar más tarde.",
+      "school_ids": [
+        "S013",
+        "S012",
+        "S017"
+      ],
+      "sources": [
+        {
+          "title": "FIRST Tech Challenge",
+          "url": "https://www.firstinspires.org/programs/ftc/",
+          "claim": "12–18, Grados 7–12. Ingeniería de equipo y divulgación.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Robotics Competition",
+          "url": "https://www.firstinspires.org/programs/frc/",
+          "claim": "14–18, Grados 9–12. Ingeniería de equipo, recaudación de fondos y comunicación.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "US Department of State · treaty countries",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+          "claim": "México está en la lista de tratados E-2, la nacionalidad del tratado es sólo una condición de elegibilidad.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "US Department of State · E-2 requirements",
+          "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+          "claim": "Visado de inversor no inmigrante: nacionalidad, inversión sustancial, empresa operativa real; cónyuge y hijos solteros menores de 21 años pueden solicitarse como dependientes.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "En 9 años  programa / equipo menor. FTC 12+ y FRC 14+ son orientaciones futuras, no una solicitud actual.",
+        "osc": "Necesitamos un flujo para 6 años: la parte coding-los campamentos comienza con 7–8. comprobar el turno concreto antes de reservar."
+      }
+    },
+    {
+      "iso": "PAN",
+      "name": "panamá · Panamá",
+      "role": "tercera opción concreta para la visita",
+      "verdict": "un gran número de reservas",
+      "recommendation": "El ISP debe incluir en la comparación de día con ASFM: se ha encontrado un menor STEM y la transición a VEX. la posibilidad de vivir en el país no reemplaza la verificación de la educación.",
+      "verified": "ISP publica el diario semanal STEM en el Grades 1–5 y VEX-de los equipos Grades 3–12. el mayor Innovation / Entrepreneurship Diploma — Grades 11–12.",
+      "gates": [
+        "Matvey clase desconocida; Grade 3+  un umbral separado para VEX.",
+        "para Oscar, el STEM Junior está confirmado como un programa, no se ha establecido su lugar en el equipo de la competencia.",
+        "confirmar el EN en las clases técnicas, admisiones, entrenador en curso y resultados; la página de la escuela no es un protocolo de victorias."
+      ],
+      "next": "Visitar al ISP y pedir el horario junior VEX, la tarea de prueba Matvey independiente y el estudio STEM Oscar.",
+      "school_ids": [
+        "S022"
+      ],
+      "sources": [
+        {
+          "title": "ISP · STEM curriculum",
+          "url": "https://isp.edu.pa/es/aprendizaje-stem/",
+          "claim": "Estudio semanal de las calificaciones 1–5; Las calificaciones de los equipos VEX 3–12; Programa de innovación y emprendimiento más antiguo. Descripción del programa escolar, No es un protocolo de medallas.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "ISP · admissions",
+          "url": "https://isp.edu.pa/admissions/",
+          "claim": "C.–G5 Evaluación en inglés, Posicionamiento de calificaciones y validación de estudios en el extranjero; piscina de espera posible.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "Candidato condicional a VEX en Grade 3+ y en el reclutamiento de hecho; no se puede determinar la clase sólo por el año de nacimiento.",
+        "osc": "candidato a STEM inicial; el VEX-grado publicado comienza con Grade 3."
+      }
+    },
+    {
+      "iso": "CRI",
+      "name": "Costa Rica · base familiar en vigor",
+      "role": "continuidad y verificación de progreso",
+      "verdict": "continuar durante la elección",
+      "recommendation": "Si se consigue encontrar un entrenador y un equipo de edad estable, vivir aquí y salir a los programas de selección sigue siendo un escenario de trabajo.",
+      "verified": "Lincoln describe el Innovation Center con la robótica; el conjunto competitivo menor, los relojes y los protocolos de muchos años en este paso no se confirman.",
+      "gates": [
+        "No se sabe el entrenador del niño en curso.",
+        "la edad adecuada no da automáticamente una cuota nacional. la exclusión de la admisión menor para recibir antes del pago / viaje."
+      ],
+      "next": "realizar un diagnóstico técnico independiente y comparar al entrenador en funcionamiento con 2–3 de los candidatos; establecer las clases permanentes y la liga elegida.",
+      "school_ids": [
+        "S001"
+      ],
+      "sources": [
+        {
+          "title": "Lincoln · Innovation Center",
+          "url": "https://www.lincoln.ed.cr/en/services/technology",
+          "claim": "El programa de robótica existe, el equipo junior actual, las horas de entrenamiento y los resultados no se han confirmado.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "mantener una práctica compleja regular. Necesita un compañero de edad adecuada., mientras Oscar era menor WRO.",
+        "osc": "conservar su propio grupo menor y el derecho a elegir proyectos; se permite un taller conjunto en casa."
+      }
+    },
+    {
+      "iso": "BRA",
+      "name": "Brasil · São Paulo / Jundiaí",
+      "role": "aprender en equipos fuertes; torneos separados",
+      "verdict": "el recorrido especial condicional",
+      "recommendation": "¿Por qué no me gustaría revisar el brasileño para el intercambio de entrenadores/tornado objetivo?",
+      "verified": "SESI-SP informa Champions Award Heroes Jundiaí en el FLL World Festival 2025. es un mensaje del operador de la escuela; el acceso de una familia extranjera a Heroes no está establecido.",
+      "gates": [
+        "EN / ES en el equipo robótico no se confirman; se necesita un flujo correspondiente o una preparación para el portugués.",
+        "Comprobar el campus, la selección de la escuela, las prioridades de la recepción y el lugar de los dos niños."
+      ],
+      "next": "solicitar las condiciones del grupo menor / idioma y verificar el resultado escolar con el protocolo. sin dejarlo como un viaje y fuente de metodología.",
+      "school_ids": [
+        "S015"
+      ],
+      "sources": [
+        {
+          "title": "SESI-SP · Heroes 2025",
+          "url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+          "claim": "El operador de la escuela informa el premio Heroes Jundiaí FLL Champions en el Festival Mundial de Houston 2025.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "El camino de edad de FLL es interesante; no se ha establecido ningún lugar en Heroes y idioma.",
+        "osc": "la edad/clase, el idioma y el programa regular requieren una confirmación por separado."
+      }
+    },
+    {
+      "iso": "RUS",
+      "name": "ciudad bajo tutor",
+      "role": "preparación matemática y de ingeniería adicional",
+      "verdict": "elegir por una tarea especial",
+      "recommendation": "Se puede considerar clases / campamentos con un mentor fuerte concreto y tareas en matemáticas, algoritmos, mecánica. para la continuidad EN / ES y la liga internacional elegida primero probaría TAS, ASFM e ISP.",
+      "verified": "RoboFinist oficial describe las categorías locales más jóvenes. sus reglas de edad y victorias no establecen la calificación para la final mundial de otra liga.",
+      "gates": [
+        "el ruso es añadido por la familia como lengua admitida. el equipo menor concreto, el nivel técnico independiente y la escuela siguen sin ser probados.",
+        "encontrar una escuela/entrenador en particular y comprobar el camino internacional de la temporada en curso."
+      ],
+      "next": "utilizar un programa breve con una tarea clara y un lenguaje adecuado si se encuentra un mentor real; comparar la base constante con los mismos criterios.",
+      "school_ids": [],
+      "sources": [
+        {
+          "title": "RoboFinist 2026 · official categories",
+          "url": "https://robofinist.org/event/info/competitions/id/1600",
+          "claim": "Las categorías locales de jóvenes existen. Las edades locales y los resultados son distintos de la calificación de la liga internacional.",
+          "checked": "2026-10-01"
+        }
+      ],
+      "child_notes": {
+        "mat": "se adaptarán las tareas de algoritmo / ingeniería adicionales con el lenguaje adecuado y la participación independiente.",
+        "osc": "Necesitamos un grupo más pequeño con un idioma adecuado."
+      }
+    }
+  ],
+  "tracks": [
+    {
+      "id": "engineer",
+      "name": "ingeniería y robótica",
+      "detail": "Mecanismos → sensores → control → matemáticas robóticas autónomas confiables, las mediciones y el diario de pruebas van junto con la construcción.",
+      "mat": "La pista principal ahora es una liga de equipo, una compilación independiente / código, repetidas curvas y explicación de errores.",
+      "osc": "mecanismos, secuencias, eventos, simples sensores, un robot pequeño y una explicación clara de lo que hace.",
+      "proof": "El robot realiza la tarea sin señales; el niño cambia la decisión después de una nueva condición y explica la prueba."
+    },
+    {
+      "id": "software",
+      "name": "programación y otros",
+      "detail": "Logia y algoritmos → propias aplicaciones / juegos → trabajo con datos. comenzar con tareas comprobadas que se comprueban; agregar el código de texto a la disposición.",
+      "mat": "programación de bloques con un cambio a la de diagnóstico textual; juego propio / aplicación. en AI  sus ejemplos, verificación y error de modelo separados.",
+      "osc": "Los bloques, los ciclos y las condiciones a través del juego; un pequeño programa que él mismo puede cambiar.",
+      "proof": "El niño explica el algoritmo, encuentra un error y muestra su propia parte."
+    },
+    {
+      "id": "product",
+      "name": "producto y el negocio",
+      "detail": "Observar el problema → hablar con el usuario → hacer un prototipo → comprobar el beneficio → calcular los detalles / el costo → contar la solución.",
+      "mat": "un prototipo útil por ciclo: por ejemplo, un recordatorio de regado o un juego para menores. recopilar comentarios y mejorar la siguiente versión.",
+      "osc": "un pequeño papel independiente: crear una interfaz / mecanismo, reunir, probar con el usuario y mostrar el resultado.",
+      "proof": "hay un usuario, la retrocomunicación, dos versiones y una explicación de los beneficios. el ingreso y las inversiones no son un objetivo obligatorio en el 6 / 9 años."
+    }
+  ],
+  "children": {
+    "mat": {
+      "name": "Matvey",
+      "birth_year": 2017,
+      "default": "FLL Challenge de la temporada en curso si hay un equipo fuerte disponible. WRO RoboMission o VEX IQ  un tema alternativo en el mejor entorno real.",
+      "detail": "FLL combina robótica, investigación, innovación y protección; lo elegiría para la conexión entre ingeniería y negocios. WRO  si prefieres una tarea de ingeniería autónoma. plataforma y dificultad para elegir después de un diagnóstico independiente.",
+      "current": [
+        "tiene un equipo principal/liga por temporada. Tiene compañeros, entrenador y campo para pruebas regulares.",
+        "paralelamente un proyecto propio útil, matemáticas y explicación de soluciones en EN / ES.",
+        "con tres años de experiencia en campamento de principiantes, sólo se puede elegir si el diagnóstico muestra la brecha; buscar las tareas adecuadas, no la edad en la publicidad."
+      ],
+      "proof": "a través de la temporada: un robot auto-recolectado/programado, un diario de pruebas, un papel personal en la defensa, un resultado oficial o un progreso justamente medible.",
+      "sources": [
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; equipos independientes; Explorar es una demostración. La futura edición y la asignación nacional tienen condiciones distintas.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST K–8 · 2027 and beyond",
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "claim": "FIRST anuncia el reemplazo de FLL de la 2027; SPIKE compatibilidad prevista a través de 2028–29. Los detalles futuros siguen pendientes.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    "osc": {
+      "name": "Oscar",
+      "birth_year": 2020,
+      "default": "FLL Explore de temporada actual o un equipo de ingeniería junior apropiado. las categorías de competición desde los 6 años comprobar por separado según las reglas.",
+      "detail": "Explore en México  un formato de demostración con el reconocimiento de la participación; su medalla no se considere un lugar de concurso. en RoboMission el Elementary actual comienza a partir de los 8 años.",
+      "current": [
+        "su propio grupo de edad y pequeños robots / programas completados.",
+        "Los proyectos de casa con el hermano son posibles; la contribución y la complejidad de cada uno son diferentes.",
+        "un proyecto en línea adicional  sólo si la autoría y las reglas del programa en particular son claras."
+      ],
+      "proof": "puede reunir su parte, cambiar la secuencia, comprobar el resultado y explicar la idea. No se requiere que llegue a la mayor de los premios.",
+      "sources": [
+        {
+          "title": "FIRST LEGO League México · FAQ",
+          "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+          "claim": "Founders Explore 6–10, Challenge 9–16; equipos independientes; Explorar es una demostración. La futura edición y la asignación nacional tienen condiciones distintas.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+          "checked": "2026-10-01"
+        }
+      ]
+    }
+  },
+  "horizons": [
+    {
+      "id": "now",
+      "name": "2026–2027 · Seleccionar el medio",
+      "mat": "el actual Challenge / WRO / VEX IQ después de la diagnosis y admisión; un producto útil.",
+      "osc": "Explore / STEM junior; uno de su propio programa / máquina.",
+      "base": "Costa Rica en el momento de la verificación → principal comparación de México y Taiwán; EE.UU. en coincidencia de negocios y junior-team, panama como reserva. traslado después de los lugares reales de ambos.",
+      "decision": "Después de las visitas y las pruebas, comparar a los entrenadores, compañeros, clases, idioma, documentos, commute y cuenta."
+    },
+    {
+      "id": "siblings",
+      "name": "2028–2029 · posible equipo de hermanos",
+      "mat": "en los años calendarios se cumplirá el 11 / 12 .",
+      "osc": "en los años calendarios se cumplirá el 8 / 9 .",
+      "base": "una base estable, un camino nacional elegido y viajes internacionales de destino después de la selección.",
+      "decision": "si WRO mantendrá las reglas actuales Elementary 8–12, Los dos podrán examinar a un mismo equipo de 2–3 de los niños. Es un cálculo de las reglas. 2026, No se publicó el permiso 2028–29; cada año.",
+      "sources": [
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "older",
+      "name": "2030–2033 · profundizar por interés",
+      "mat": "en 2030 cumplirá con 13: WRO Junior / VEX adecuado; FTC por edad y clase. FRC  más tarde, según el actual indicador 14+.",
+      "osc": "En 2030 cumplirá con 10: la liga menor por las reglas de la temporada; su propio papel y proyectos.",
+      "base": "comparar el resto de la escuela con un equipo adolescente específico de EE.UU. / Taiwán / México.",
+      "decision": "en el 2030 Matvey superará el máximo actual WRO Elementary 12, Aunque Oscar está dentro.. en otra categoría el equipo general debe comprobarse por separado. nombre de la empresa FIRST K–8 de la 2027 cambian.",
+      "sources": [
+        {
+          "title": "WRO RoboMission · rules 2026",
+          "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+          "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Tech Challenge",
+          "url": "https://www.firstinspires.org/programs/ftc/",
+          "claim": "12–18, Grados 7–12. Ingeniería de equipo y divulgación.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST Robotics Competition",
+          "url": "https://www.firstinspires.org/programs/frc/",
+          "claim": "14–18, Grados 9–12. Ingeniería de equipo, recaudación de fondos y comunicación.",
+          "checked": "2026-10-01"
+        },
+        {
+          "title": "FIRST K–8 · 2027 and beyond",
+          "url": "https://www.firstinspires.org/programs/k-8",
+          "claim": "FIRST anuncia el reemplazo de FLL de la 2027; SPIKE compatibilidad prevista a través de 2028–29. Los detalles futuros siguen pendientes.",
+          "checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "name": "14–18 de cada uno de ellos · especialización",
+      "mat": "Mecatronía / software / AI / producto por interés; FTC, FRC, VEX o WRO adecuado, responsabilidad personal de ingeniería.",
+      "osc": "más tarde, la misma elección a su edad, sin copiar automáticamente el camino del mayor.",
+      "base": "el entorno escolar, los maestros fuertes y la formación continua; el país y las universidades se seleccionan más cerca de la etapa por programa y acceso.",
+      "decision": "Los resultados de la liga  parte de la cartera. El código, la documentación, los prototipos propios, el trabajo en equipo y las matemáticas mantienen su valor al cambiar la plataforma."
+    }
+  ],
+  "actions": [
+    {
+      "period": "las primeras 2 semanas",
+      "title": "medir el nivel de cada uno",
+      "detail": "una nueva tarea posible sin una solución lista: montar, código, sensor, explicar y cambiar las condiciones. registrar los huecos, el interés y la contribución personal; recopilar los documentos escolares actuales / trabajos."
+    },
+    {
+      "period": "las semanas 2–6",
+      "title": "comparar los lugares reales",
+      "detail": "comparar ASFM con un equipo independiente y TAS / AST; ISP  reserva. clases y lugares de ambos, junior robot coach actual, relojes, prueba si se permite, protocolos y lengua. incluye en el mismo ciclo si se encuentra un negocio específico y un equipo menor. ninguna petición por esta actualización no se envió."
+    },
+    {
+      "period": "las semanas 4–8",
+      "title": "elegir una base y una liga",
+      "detail": "dividir los gastos recurrentes y las entradas únicas. obtener el estipulado familiar completo para los primeros y los siguientes años; elegir un entrenador, equipo, representación nacional y equipo según las reglas. antes de mantener una práctica regular en Costa Rica."
+    },
+    {
+      "period": "las semanas 6–12",
+      "title": "terminar el prototipo útil",
+      "detail": "encontrar un usuario comprensible, hacer la primera versión, obtener la retroalimentación, comprobar la segunda."
+    },
+    {
+      "period": "90 días después",
+      "title": "comprobar que el medio está funcionando",
+      "detail": "Se han dado decisiones independientes, un equipo regular, tareas complejas y la voluntad de continuar. si no se ha cambiado la metodología / tutor."
+    }
+  ],
+  "selection": [
+    "El entrenador junior, su horario y su disponibilidad durante la temporada.",
+    "los dos tienen su propio papel técnico.",
+    "tiempo regular con el robot y el campo / taller; el equipo está disponible para la clase menor.",
+    "Los protocolos reales del equipo en varias temporadas con edad, liga, categoría y tipo de premio.",
+    "la inscripción en la escuela y el puesto en el equipo se confirman por separado.",
+    "EN / ES se refiere a las actividades y la protección, no sólo al sitio.",
+    "Es un programa de educación para niños y niñas que ofrece una gran cantidad de servicios de educación y educación.",
+    "las actividades de la escuela le dan tiempo a los amigos y a otros intereses; el niño quiere continuar.",
+    "IB / AP / pensiones  características del programa; el entorno robótico comprobar directamente. a esta edad prefiere la escuela diurna con la familia."
+  ],
+  "gaps": [
+    "Es una estrategia editorial personal en un catálogo parcialmente verificado, no un ranking de países o una garantía de carrera/recompensas en ingeniería.",
+    "un equipo estadounidense de junior fuerte, el mejor entrenador en funcionamiento de Costa Rica o un campus adecuado disponible pueden cambiar la prioridad.",
+    "Se necesita un presupuesto, clases/días de nacimiento, escuela y entrenador corrientes, modelos de trabajo independiente, preferencias de los niños y fecha de traslado.",
+    "la recepción a la escuela, lugares en los equipos, cuotas nacionales, Inglés en un círculo concreto y el derecho individual a vivir / no se confirman. los tarifas de tres escuelas en 2026–27 verificados, pero el costo del 2027–28 el año escolar y el presupuesto familiar completo aún no se conocen.",
+    "Para WRO, la recopilación / código pertenece a los niños; para los concursos de proyecto, declarar la composición y la autoría según sus reglas.",
+    "El primer conjunto elegido no debe vincular a la familia por años.: FIRST K–8 cambia con 2027, compatibilidad SPIKE se declaró como un plan antes de 2028–29; revise las reglas de las próximas temporadas.",
+    "El portfolio distingue la participación, el premio evaluado, el lugar, la cuota y la final mundial.",
+    "las fuentes comunes E-2 y Gold Card no comprueban los documentos familiares. las posibles razones de residencia en Brasil / Panamá se han aceptado como condición familiar y no se han señalado como una PMA / VNJ aprobada."
+  ],
+  "sources": [
+    {
+      "title": "FIRST LEGO League México · FAQ",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "claim": "Founders Explore 6–10, Challenge 9–16; equipos independientes; Explorar es una demostración. La futura edición y la asignación nacional tienen condiciones distintas.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST K–8 · 2027 and beyond",
+      "url": "https://www.firstinspires.org/programs/k-8",
+      "claim": "FIRST anuncia el reemplazo de FLL de la 2027; SPIKE compatibilidad prevista a través de 2028–29. Los detalles futuros siguen pendientes.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "WRO RoboMission · rules 2026",
+      "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
+      "claim": "Elementary 8–12, 2–3 Estudiantes y un entrenador; nacimiento-Regla de año; los estudiantes se construyen y codifican.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST Tech Challenge",
+      "url": "https://www.firstinspires.org/programs/ftc/",
+      "claim": "12–18, Grados 7–12. Ingeniería de equipo y divulgación.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "FIRST Robotics Competition",
+      "url": "https://www.firstinspires.org/programs/frc/",
+      "claim": "14–18, Grados 9–12. Ingeniería de equipo, recaudación de fondos y comunicación.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · Tech Cube",
+      "url": "https://www.tas.edu.tw/academics/the-tech-cube-program",
+      "claim": "Proyectos de robótica y sensores de la Escuela Baja; provisión media / superior separada, VEX y FRC.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · admissions",
+      "url": "https://www.tas.edu.tw/admissions/how-to-apply",
+      "claim": "Nacionalidad del niño extranjero, Residencia en Taipei con padres, documentos y colocación; 2027–28 las solicitudes abiertas.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "AST Taichung · robotics",
+      "url": "https://www.astaichung.com/robotics",
+      "claim": "Programa de primaria a secundaria; 2023 Las calificaciones de los estudiantes del mundo 5–12. Informe de la escuela; no prueba de calificación 1–4 Admisión competitiva.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "AST · admission procedures",
+      "url": "https://www.astaichung.com/policies_procedures",
+      "claim": "Restricciones de pasaportes extranjeros, evaluación de inglés / matemáticas, límite de edad G1 31 de agosto y comité de admisión.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · extended learning",
+      "url": "https://www.asfm.edu.mx/extended-learning",
+      "claim": "La escuela informa de reconocimiento de FLL Explore elemental y nacionales de la FTC medianos / altos.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · admission process",
+      "url": "https://www.asfm.edu.mx/admissions/application-process",
+      "claim": "uno de enero 2027 solicitudes de septiembre 4, 2026; C.–G11 2027–28 solicitudes de octubre 2026; evaluación requerida.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Lincoln · Innovation Center",
+      "url": "https://www.lincoln.ed.cr/en/services/technology",
+      "claim": "El programa de robótica existe, el equipo junior actual, las horas de entrenamiento y los resultados no se han confirmado.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ISP · STEM curriculum",
+      "url": "https://isp.edu.pa/es/aprendizaje-stem/",
+      "claim": "Estudio semanal de las calificaciones 1–5; Las calificaciones de los equipos VEX 3–12; Programa de innovación y emprendimiento más antiguo. Descripción del programa escolar, No es un protocolo de medallas.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ISP · admissions",
+      "url": "https://isp.edu.pa/admissions/",
+      "claim": "C.–G5 Evaluación en inglés, Posicionamiento de calificaciones y validación de estudios en el extranjero; piscina de espera posible.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "SESI-SP · Heroes 2025",
+      "url": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
+      "claim": "El operador de la escuela informa el premio Heroes Jundiaí FLL Champions en el Festival Mundial de Houston 2025.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "RoboFinist 2026 · official categories",
+      "url": "https://robofinist.org/event/info/competitions/id/1600",
+      "claim": "Las categorías locales de jóvenes existen. Las edades locales y los resultados son distintos de la calificación de la liga internacional.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "ASFM · tuition 2026–27",
+      "url": "https://www.asfm.edu.mx/admissions/tuition-fees",
+      "claim": "C.–5 Cuota de matrícula con tasa de hermanos; el registro y la entrada se declaran como una-primera vez-tarifas de matrícula. Dos .-la aritmética infantil es editorial.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "TAS · tuition and fees 2026–27",
+      "url": "https://www.tas.edu.tw/admissions/tuition-fees",
+      "claim": "Tarifa pre-K5, capital / edificio / tasas de solicitud; depósito de parte de la matrícula, no descuento para hermanos.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "US Department of State · treaty countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+      "claim": "México está en la lista de tratados E-2, la nacionalidad del tratado es sólo una condición de elegibilidad.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "US Department of State · E-2 requirements",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html",
+      "claim": "Visado de inversor no inmigrante: nacionalidad, inversión sustancial, empresa operativa real; cónyuge y hijos solteros menores de 21 años pueden solicitarse como dependientes.",
+      "checked": "2026-10-01"
+    },
+    {
+      "title": "Taiwan NIA · Gold Card family residency",
+      "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
+      "claim": "El artículo de la NIA de 18 de enero de 2025 describe las solicitudes separadas de ARC dependientes para cónyuge / hijos.",
+      "checked": "2026-10-01"
+    }
+  ],
+  "confidence": "Mediano: los programas de menores han sido encontrados, pero los puestos vacantes, los entrenadores actuales y el nivel de autonomía de los niños aún no se han confirmado.",
+  "scenarios": [
+    {
+      "id": "fast",
+      "name": "el paso rápido",
+      "iso": "MEX",
+      "title": "Costa Rica → comparación en Monterrey → una base",
+      "detail": "comprobar ASFM y un equipo independiente en un solo viaje. si un entrenador fuerte está disponible fuera de la escuela, elegir una escuela por calidad y bienestar en general, y la robótica por el equipo real.",
+      "mat": "Challenge / WRO / VEX IQ tiene un mentor adecuado; la escuela Explore no sustituye la complejidad de la comprobación.",
+      "osc": "grupo menor propio: Explore / construcción / código; trabajo personal y explicación del proyecto.",
+      "steps": [
+        "Ahora, conservemos las clases en Costa Rica y medimos el nivel de cada uno.",
+        "comparación más cercana: ASFM y el equipo externo; el encuentro de enero 2027 indicado por la escuela, K–G11 en el 2027–28 — desde octubre 2026.",
+        "Después de confirmarse los puestos y el entrenador: elegir un año de estudios y una temporada de competición principal."
+      ]
+    },
+    {
+      "id": "asia",
+      "name": "base de ingeniería en Asia",
+      "iso": "TWN",
+      "title": "Taipei / TAS contra Taichung / AST",
+      "detail": "comparar un programa de menor nivel y círculos concretos a ambos; las mayores AI / fabrication / VEX / FRC muestran un camino más allá, pero su equipo y equipos no prometen a los niños de 6 / 9 años.",
+      "mat": "tarea con sensores, código propio y pruebas; junior-team y su edad / clase por separado.",
+      "osc": "Mecanismos y codificación menores; revisar la clase por su fecha exacta de nacimiento, no sólo en 2020.",
+      "steps": [
+        "Antes de viajar: comprobar los lugares de la escuela, los documentos y los equipos técnicos adecuados.",
+        "comparación diaria: clase / taller, entrenador en ejercicio, horario, trabajos de los compañeros.",
+        "base permanente: Sólo cuando se resuelve la residencia familiar, la recepción de ambos y la suma completa; TAS acepta las solicitudes de 2027–28."
+      ]
+    },
+    {
+      "id": "business",
+      "name": "EE.UU. y el negocio familiar",
+      "iso": "USA",
+      "title": "elegir la ciudad por el menor de los equipos disponibles",
+      "detail": "Si el negocio familiar y la educación coinciden en un mismo lugar, los EE.UU. pueden ganar en la fase actual. Hasta que la ciudad y el equipo junior no hayan sido elegidos, no se puede hacer que la opción sea ganadora solo a escala nacional.",
+      "mat": "escuela primaria / equipo comunitario FLL, WRO o VEX IQ; FTC / FRC  por edad y admisión escolar separada.",
+      "osc": "flujo para 6 años y su propio papel; el campo 7–8+ no se adapta automáticamente.",
+      "steps": [
+        "Primero, por favor.: determinar el negocio familiar adecuado y 2–3 de hecho junior-de los equipos.",
+        "comparar: distrito escolar / cita privada, horario, entrenador y gastos del primer año.",
+        "Después de confirmar: un equipo permanente; viajes y futuras FTC / FRC seleccionar según las reglas de temporada."
+      ]
+    }
+  ],
+  "cost_comparison": {
+    "school_year": "2026–2027",
+    "note": "los cálculos más abajo — orientación sobre los precios publicados 2026–27 para dos nuevos alumnos de la etapa menor. Los alumnos y la cuenta de la escuela aún no han sido determinados.. los precios 2027–28 no se declaran iguales a los demás; las monedas no se recalcan. vivienda, el traslado, alimentación, transporte, viajes y actividades técnicas adicionales no se incluyen en las sumas.",
+    "schools": [
+      {
+        "school_id": "S002",
+        "name": "ASFM · Monterrey",
+        "iso": "MEX",
+        "annual": "MXN 631 290 · enseñanza de ambos",
+        "entry": "MXN 65 520 + USD 19 100 · contribuciones únicas de ambos",
+        "first": "MXN 696 810 + USD 19 100 · enseñanza y las contribuciones únicas indicadas",
+        "formula": "K–Grade 5: 334 620 + 296 670 MXN (el mayor Child 1, el menor Child 2+). Registration 32 760 MXN y entrance USD 9 550 para un nuevo alumno — de una vez por la página de la escuela.",
+        "components": {
+          "tuition_two_mxn": 631290,
+          "registration_two_mxn": 65520,
+          "entrance_two_usd": 19100,
+          "first_mxn": 696810
+        },
+        "url": "https://www.asfm.edu.mx/admissions/tuition-fees"
+      },
+      {
+        "school_id": "S003",
+        "name": "TAS · Taipei",
+        "iso": "TWN",
+        "annual": "NT$1 926 540 · formación y construcción de ambos",
+        "entry": "NT$720 000 · capital fee y nuevas solicitudes de ambos",
+        "first": "NT$2 646 540 + gastos por clase · primer año",
+        "formula": "Pre-KGrade 5: 956 770 × 2 + building fee 6 500 × 2. Capital 350 000 × 2 y application 10 000 × 2. Enrollment deposit 50 000 ya se incluye en la tuition anual; no se añade de nuevo. descuentos siblings no. obligatorio fee outdoor depende de la clase y aquí no se incluye.",
+        "components": {
+          "tuition_two_ntd": 1913540,
+          "building_two_ntd": 13000,
+          "capital_two_ntd": 700000,
+          "application_two_ntd": 20000,
+          "annual_ntd": 1926540,
+          "first_ntd": 2646540
+        },
+        "url": "https://www.tas.edu.tw/admissions/tuition-fees"
+      },
+      {
+        "school_id": "S022",
+        "name": "ISP · Panamá",
+        "iso": "PAN",
+        "annual": "USD 33 168 · formación y registro anual de ambos",
+        "entry": "USD 32 500 · total de la obligación capital y nuevas solicitudes de ambos",
+        "first": "USD 65 668 · orientación anual con la obligación de capital total",
+        "formula": "PK4–Grade 5, Non-Institutional (la familia paga sin reembolso por parte del empleador): tuition 15 584 × 2 + annual registration 1 000 × 2. Application 250 × 2, capital 16 000 × 2. Capital se paga en dos etapas: USD 16 000 en ambos cuando se recibe, ¿Qué más? USD 16 000 en el caso siguiente: re-enrollment en marzo; USD 65 668 — no es un pago de una sola vez. para el employer-supported de la familia de otro registration. En la página hay una línea obsoleta de procesamiento de solicitudes 2025–26 junto a los aranceles 2026–27; se aclara el recibo y la cuenta corriente.",
+        "components": {
+          "tuition_two_usd": 31168,
+          "registration_two_usd": 2000,
+          "application_two_usd": 500,
+          "capital_two_usd": 32000,
+          "capital_first_stage_two_usd": 16000,
+          "capital_second_stage_two_usd": 16000,
+          "annual_usd": 33168,
+          "full_commitment_usd": 65668
+        },
+        "url": "https://isp.edu.pa/admissions/"
+      }
+    ]
+  },
+  "nearby_participation_v118": {
+    "version": 118,
+    "checked": "2026-10-06",
+    "status": "editorial_plan_with_unconfirmed_admission",
+    "title": "Próximos comienzos · Costa Rica y México",
+    "scope": "las opciones seleccionadas para octubre de 2026 a febrero de 2027 y los equipos de temporada. no es un calendario regional o mundial completo.",
+    "age_note": "2017 /2020: en el 2026 ¿Qué es esto? 8–9 /5–6, en el 2027 —9–10 /6–7. No se sabe el día de nacimiento y el grado.; fijados 9/6 No se puede retrasar a cada fecha..",
+    "conclusion": "La primera salida internacional recomendada: MakeX CDMX, Oscar  mTiny + Matvey  Codey. VEX IQ 24 de octubre es útil solo en el equipo/robot ya listo. para 2027: preparación regular de FLL/VEX con un mentor; el itinerario no garantiza premios.",
+    "items": [
+      {
+        "id": "C078",
+        "title": "TecPro · inicio local 08 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "2 días antes del evento; el proyecto, la escuela, el socio y la sección de edad requieren una verificación.",
+        "step": "Oscar  Artifact en 6; Matvey  Game en 9 o Artifact en 8. documentación 07.10; las fechas de presentación virtual ya han pasado."
+      },
+      {
+        "id": "C001",
+        "title": "LUVÁ · comprobar la participación ya registrada",
+        "children": [
+          "matvey"
+        ],
+        "mode": "existing_only",
+        "gate": "Sumo LEGO Secundaria, la excepción menor no ha sido confirmada.",
+        "step": "comprobar el permiso por escrito, la certificación escolar y la preparación técnica; las inscripciones/pagos no demuestran excepción de edad."
+      },
+      {
+        "id": "C180",
+        "title": "VEX IQ · Museo Acertijo · 24 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "Se puede tener un equipo familiar por edad; admisión a la escuela y independencia por separado.",
+        "step": "Portal 06.10:24/30 lugares, FREE. comprobar la cuenta del equipo, el robot Level Up y el notebook de papel; fecha 23.10 22:00 Costa Rica."
+      },
+      {
+        "id": "C662",
+        "title": "Robotifest UCR · 24–26 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "visitor",
+        "gate": "la solicitud de concurso hasta el 30.09 ya está cerrada; la admisión de concurso menor no está demostrada.",
+        "step": "Para un nuevo equipo, se necesita una excepción, no una registro abierto habitual."
+      },
+      {
+        "id": "C608",
+        "title": "MakeX · mTiny para el Oscar",
+        "children": [
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "4–6 en el 01.01.2026: 2020 d) el.y. Se pasa. un niño. + Adulto; Matvey fue excluido..",
+        "step": "Confirmar la solicitud/coach, una misión independiente de 6 minutos, su propio mTiny y el precio de 2026. No comprar una segunda matrícula para Matvey."
+      },
+      {
+        "id": "C609",
+        "title": "MakeX · Codey para Matvey",
+        "children": [
+          "matvey"
+        ],
+        "mode": "check",
+        "gate": "6–9 en el 01.01.2026: 2017 d) el.y. Se pasa. Oscar sólo cuando DOB 01.01.2020; No se ha confirmado..",
+        "step": "Compruebe Codey + expansion, forma actual y técnica de cálculo y arena no entran en registro por separado."
+      },
+      {
+        "id": "C614",
+        "title": "MakeX · Inspire · dos participantes separados",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "DOB 02.01.2013–31.12.2020 incluye ambas cosas., pero el equipo 1 el niño + 1 mentor.",
+        "step": "evaluar la complejidad de las misiones y la preparación de cada uno; la regla del DOB no es igual a la disponibilidad de lugares y a la selección internacional."
+      },
+      {
+        "id": "C615",
+        "title": "MakeX · Starter · posible comando común",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "DOB 02.01.2012–31.12.2020 incluye ambos; PDF 1–2 el alumno + 1–2 mentor.",
+        "step": "evaluar después de la diagnosis del nivel, la confirmación local de la composición y el precio completo de mBot / campo. no elegir sólo por el equipo general."
+      },
+      {
+        "id": "C082",
+        "title": "RoboRAVE · Puerto Vallarta · 25–28 febrero 2027",
+        "children": [
+          "matvey"
+        ],
+        "mode": "prepare",
+        "gate": "a-MAZE-ing 8–15: Matvey está bien., Oscar 2020 hasta 8 no crecerá en 2027.",
+        "step": "encontrar 2–4 estudiantes y un formato menor para el Oscar. límite 60 No el resto de lugares,580 USD No comprobado."
+      },
+      {
+        "id": "C1127",
+        "title": "FLL México · Founders Explore · práctica estacional",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "prepare",
+        "gate": "6–10; de ambos en 2027 por el marco de edad. el conjunto local/escuela/cuota por separado; No hay fecha de suceso.",
+        "step": "equipo regular, 10 clases, modelo + defensa. Explore  festival de demostración; la medalla para cada uno no es igual a la victoria."
+      },
+      {
+        "id": "C1128",
+        "title": "FLL México · Challenge · pista de competición Matvey",
+        "children": [
+          "matvey"
+        ],
+        "mode": "prepare",
+        "gate": "9–16; Oscar más abajo 9. SPIKE Prime/EV3 y un equipo separado, Las fechas del evento aún no se han anunciado..",
+        "step": "entrenar al robot, al proyecto y a los valores básicos; un equipo familiar independiente puede consultarse en la FAQ, confirmar la cuota local / compuesto / cuenta."
+      },
+      {
+        "id": "C1124",
+        "title": "LATI / LTRC · Junior · Sumo LEGO · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      },
+      {
+        "id": "C1125",
+        "title": "LATI / LTRC · Junior · Seguidor de línea Kits · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      },
+      {
+        "id": "C1126",
+        "title": "LATI / LTRC · Junior · Car Race · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      }
+    ],
+    "prices": [
+      {
+        "id": "mtiny-registration",
+        "currency": "MXN",
+        "amount": 1999.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-registration",
+        "currency": "MXN",
+        "amount": 1999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-robot",
+        "currency": "MXN",
+        "amount": 6999.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-arena",
+        "currency": "MXN",
+        "amount": 7499.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "mtiny-bundle",
+        "currency": "MXN",
+        "amount": 16499.99,
+        "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-robot",
+        "currency": "MXN",
+        "amount": 3999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      },
+      {
+        "id": "codey-arena",
+        "currency": "MXN",
+        "amount": 7999.99,
+        "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena",
+        "checked": "2026-10-06",
+        "evidence": "HTMLmetadata de la tienda ((priceCurrency/price)), no una cuenta confirmada. En el caso de las tarjetas el precio se oculta tras la solicitud de información.",
+        "invoice_confirmed": false
+      }
+    ],
+    "budget_scenarios": [
+      {
+        "id": "both-have-equipment",
+        "title": "si ya hay la técnica , las contribuciones de ambos",
+        "amount": 3999.98,
+        "items": [
+          "mtiny-registration",
+          "codey-registration"
+        ],
+        "children": [
+          "oscar",
+          "matvey"
+        ],
+        "complete": false,
+        "detail": "Oscar  mTiny 1999.99 + Matvey  Codey 1999.99 no incluye la falta de equipo, condiciones del coach, visitantes, impuestos, entrega, vuelo y hotel."
+      },
+      {
+        "id": "oscar-start",
+        "title": "Oscar · mTiny + arena con 1 registro",
+        "amount": 14499.98,
+        "items": [
+          "mtiny-robot",
+          "mtiny-arena"
+        ],
+        "children": [
+          "oscar"
+        ],
+        "complete": false,
+        "detail": "6999.99 +7499.99. El precio del escenario ya está incluido. 1 registro: no añadir una contribución por separado. aplicabilidad XII 2026 y el cuento completo para aclarar."
+      },
+      {
+        "id": "matvey-minimum",
+        "title": "Matvey · Codey + registro · paquete incompleto",
+        "amount": 5999.98,
+        "items": [
+          "codey-robot",
+          "codey-registration"
+        ],
+        "children": [
+          "matvey"
+        ],
+        "complete": false,
+        "detail": "3999.99 +1999.99. expansion obligatoria tiene un bit de enlace / precio desconocido. arena práctica 7999.99 por separado; todos los servicios / viaje fuera de cuenta."
+      }
+    ],
+    "closed_ids": [
+      "C1124",
+      "C1125",
+      "C1126"
+    ],
+    "sources": [
+      "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "https://www.torneoluva.com",
+      "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5410.html",
+      "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "https://www.creativakids.com/makexmtinytreasuretrail.php",
+      "https://www.creativakids.com/makexcodey.php",
+      "https://www.creativakids.com/makexinspire.php",
+      "https://www.creativakids.com/makexstarter_signal_rise.php",
+      "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+      "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+      "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena"
+    ],
+    "price_limits": "Los precios estructurados de la tienda han sido comprobados en 06.10; todavía se necesita una cuenta actual. el conjunto mTiny 16499.99: un robot, una arena y dos registros; la descripción XI contradice XII 2026  no se añade automáticamente. los enlaces Codey pack / expansion devuelven 404. las formas de la loja y las categorías difieren; el producto en disponibilidad no significa un lugar libre en el torneo. cuenta completa, impuestos, entrega, devolución, boletos de acompañamiento y noche aún no se han establecido.",
+    "next_steps": [
+      "mostrarle a su mentor los proyectos actuales de ambos y comprobar su independencia.",
+      "elegir una salida más cercana, obtener las reglas de edad / equipo y el total de 2026.",
+      "Preparar 6 a 8 semanas de práctica: misiones, un diario de iteraciones, videos y una defensa de dos minutos.",
+      "para 2027 despedir a FLL Explore Oscar y Challenge / VEX Matvey, manteniendo un proyecto familiar conjunto.",
+      "El campamento debe ser elegido para las habilidades y vacaciones que faltan; el idioma, la edad, el pensión y el resultado real deben comprobarse por archivo."
+    ]
+  },
+  "nearby_participation_v132": {
+    "version": 132,
+    "checked": "2026-10-06",
+    "status": "editorial_plan_unconfirmed_admission",
+    "scope": "se completó la base local y las categorías mexicanas; el plan anterior v118 se conserva.",
+    "local_base": "Curious Heredia 3+ tiene las dos condiciones: primero el nivel, la lengua, el horario y el precio.",
+    "future": "CENFOTEC Makers 10–12, Cyber 13–15, IA 14–16. de diciembre 2026 Los cursos no son adecuados para los hermanos por su edad.",
+    "first_competition_ids": [
+      "C180",
+      "C513",
+      "C514",
+      "C597"
+    ],
+    "additional_category_ids": [
+      "C1155",
+      "C1156",
+      "C1157",
+      "C1158"
+    ],
+    "limitation": "Elementary no pudo volver a leer en este paso: sus antiguos checked/facts se guardaron. las nuevas páginas Middle/V5 no confirman el lugar de Elementary o Worlds cuota.",
+    "route": [
+      "elegir un equipo regular/entrenador, determinar el nivel independiente de cada uno.",
+      "Para empezar, comprobar el IQ Elementary 2+ y el VEX-ID; el equipo Level Up y el portátil infantil.",
+      "comparar las excursiones de Chihuahua/Juárez/Puebla Elementary existentes; confirmar la invitación, la admisión internacional, el precio y la selección.",
+      "Middle/V5 elegir después de la preparación y la concordancia local de la categoría; el título internacional no garantiza los premios."
+    ]
+  },
+  "nearby_participation_v135": {
+    "version": 135,
+    "checked": "2026-10-06",
+    "title": "las siguientes disciplinas y los talleres de octubre",
+    "status": "editorial_plan_unconfirmed_admission",
+    "scope": "Las nuevas rutas locales no reemplazan el plan actual v 118, VEX/FLL y la búsqueda global completa.",
+    "conclusion": "Ahora mismo. — de la escuela Bebras hasta 16 octubre y los talleres familiares Feria Maker 17–18 de octubre. en el 2027 — TMR 3–6 de marzo, ¿Qué es eso ? RoboParade/BottleSumo LATAM Sólo después de un nuevo anuncio. BajaBot elegir por clase escolar y tipo de resultado.",
+    "items": [
+      {
+        "id": "C064",
+        "title": "Bebras · primero el registro de la escuela",
+        "children": [
+          "matvey"
+        ],
+        "gate": "hasta 16 de octubre; 3–6 las clases del reglamento,2-y requiere permiso.",
+        "step": "comprobar la clase Matvey y el registro de la escuela en Costa Rica; la edad de 9 años no sustituye a la clase 3."
+      },
+      {
+        "id": "E193",
+        "title": "Figura 3D · experiencia familiar general",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "5+,17–18 de octubre; 70 sin la moneda indicada, las ranuras 11/14 aclarar.",
+        "step": "comprobar la entrada, el idioma, la ocupación completa; hacer y conservar su propio objeto."
+      },
+      {
+        "id": "E197",
+        "title": "OctoStudio · historia y primer proyecto digital",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "para niños sin numeric age; 17–18 de octubre, taller 0 en el catálogo,2 horas.",
+        "step": "Confirmar el mínimo de edad y el teléfono de los padres, la tragamonedas y la lengua; el resultado es el proyecto, no la medalla."
+      },
+      {
+        "id": "C043",
+        "title": "TMR · fechas exactas para 2027",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "3–6 de marzo 2027 en el Zacatecas. las categorías menores aún no se conocen.",
+        "step": "Esperar la convocatoria 2027 y confirmar a los niños, al equipo, al presupuesto y a la disciplina antes de reservar."
+      },
+      {
+        "id": "C1165",
+        "title": "RoboParade · proyecto menor scored",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "Local 2026: 6–14,1–5; las fechas/Reglas 2027 No se sabe todavía..",
+        "step": "preparar una línea autónoma, una parada, la velocidad en pantalla y el papel de los niños."
+      },
+      {
+        "id": "C1161",
+        "title": "BottleSumo · independiente LEGO/VEX",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "Local 2026: 6–14, hasta 3; overview grade 5–8 se desvía.",
+        "step": "Una tarea desconocida y un código propio son más importantes que una lista de trabajo para adultos."
+      },
+      {
+        "id": "E191",
+        "title": "BajaBot · primera muestra,1–3 las clases",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "gate": "2–3 el estudiante 1–3 de las clases; Museo de la ciudad kit; nuevo conjunto no se conoce.",
+        "step": "Con el diploma no se convoca a la victoria; manualp 8 se ajustan los incentivos contradictorios."
+      },
+      {
+        "id": "C1169",
+        "title": "BajaBot · Mini Sumo,4–6 las clases",
+        "children": [
+          "matvey"
+        ],
+        "gate": "2–3 el alumno 4–6 de las clases, su propio autónomo LEGO.",
+        "step": "Matvey no puede considerar la participación de los hermanos en la categoría de veto."
+      }
+    ],
+    "category_ids": [
+      "C1159",
+      "C1160",
+      "C1161",
+      "C1162",
+      "C1163",
+      "C1164",
+      "C1165",
+      "C1166",
+      "C1167",
+      "C1168",
+      "E191",
+      "C1169"
+    ],
+    "workshop_ids": [
+      "E192",
+      "E193",
+      "E194",
+      "E195",
+      "E196",
+      "E197",
+      "E198",
+      "E199",
+      "E200"
+    ],
+    "limits": [
+      "El nuevo LATAM/BajaBot 2027 no se ha retirado del 2026; estas tarjetas quedan sin fechas y no se encuentran en el ICS.",
+      "Workshop 0 / kitprovided no significa un viaje completo gratis. el idioma de las clases / juicios de las nuevas opciones aún no se ha confirmado.",
+      "se ha conservado el alcance mundial, el campo EN/ES/RU, pensiones, escuelas, historia de los resultados y los largos trayectos de ingeniería. de los países completamente estudiados 0."
+    ]
+  }
+}

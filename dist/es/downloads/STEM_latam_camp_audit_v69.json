@@ -1,0 +1,214 @@
+{
+  "asof": "2026-10-05",
+  "version": 69,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "scope": "América Latina: Perú tiene su propio curso de verano específico para la edad2027 comienza; México2026 archivos técnicos con duración/edad real del curso; Colombia día de octubre versus embarque; Brasil evidencia de campamento inglés y embarque general de enero2027 .",
+  "counts": {
+    "new_programme_dossiers": 21,
+    "new_calendar_rows": 26,
+    "new_family_ics": 21,
+    "total_events": 2321,
+    "learning_camp_records": 990,
+    "total_programme_dossiers": 242,
+    "countries_with_dossiers": 29,
+    "swiss_dossiers": 35,
+    "french_dossiers": 23,
+    "spanish_dossiers": 19,
+    "official_dossier_urls": 409,
+    "managed_calendar_rows": 527,
+    "season_windows": 12,
+    "family_ical": 1645,
+    "exhibition_ical": 104,
+    "course_start_records": 21,
+    "waiting_list_rows_excluded": 1,
+    "both_children_too_young_rows_excluded": 4
+  },
+  "counting": "Los expedientes son pistas específicas de programa/edad/formato, no operadores únicos o un ranking global independiente.21 Las nuevas filas de Astra marcan solo la primera lección de 75 minutos, no un día completo/curso completo.12 Los expedients de México conservan archivos de 2026, sin filas inventadas de fecha de 2027.",
+  "new_dossiers": [
+    {
+      "id": "CP222",
+      "slug": "astra-evkids",
+      "provider": "Astranautas · Verano 2027 · EvKids",
+      "country": "Perú",
+      "timing_status": "partial_2027",
+      "price_year": null
+    },
+    {
+      "id": "CP223",
+      "slug": "astra-ev3",
+      "provider": "Astranautas · Verano 2027 · EV3 Mindstorms",
+      "country": "Perú",
+      "timing_status": "partial_2027",
+      "price_year": null
+    },
+    {
+      "id": "CP224",
+      "slug": "astra-arduino",
+      "provider": "Astranautas · Verano 2027 · Arduino",
+      "country": "Perú",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP225",
+      "slug": "astra-electronica",
+      "provider": "Astranautas · Verano 2027 · Electrónica Kids",
+      "country": "Perú",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP226",
+      "slug": "astra-esp32",
+      "provider": "Astranautas · Verano 2027 · ESP32 & IoT",
+      "country": "Perú",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP227",
+      "slug": "machinecare-inicial",
+      "provider": "Machinecare Education · Inicial",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP228",
+      "slug": "machinecare-starter",
+      "provider": "Machinecare Education · Starter",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP229",
+      "slug": "machinecare-explorer",
+      "provider": "Machinecare Education · Explorer",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP230",
+      "slug": "machinecare-deployer",
+      "provider": "Machinecare Education · Deployer",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP231",
+      "slug": "trex-astrocamp",
+      "provider": "Trex Education · AstroCamp",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP232",
+      "slug": "trex-petit",
+      "provider": "Trex Education · Steam Lab Petit",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP233",
+      "slug": "trex-minecraft",
+      "provider": "Trex Education · Club de Minecraft",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP234",
+      "slug": "trex-vgames",
+      "provider": "Trex Education · Vgames Maker Workshop",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP235",
+      "slug": "geeks-summer",
+      "provider": "Geeks Academy · Summer Camp",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP236",
+      "slug": "geeks-chihuahua",
+      "provider": "Geeks Academy · Summer Camp Chihuahua",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP237",
+      "slug": "irox-summer",
+      "provider": "Instituto de Robótica de Xalapa · Escuela de Verano",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP238",
+      "slug": "unam-incubot",
+      "provider": "UNAM Facultad de Ciencias · Iniciación a la Robótica",
+      "country": "México",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP239",
+      "slug": "llanada-co-day",
+      "provider": "La Llanada Colombia · Day Camp",
+      "country": "Colombia",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP240",
+      "slug": "llanada-co-board",
+      "provider": "La Llanada Colombia · Sleepaway",
+      "country": "Colombia",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP241",
+      "slug": "international-camp-br",
+      "provider": "International Camp Brazil · vacaciones en inglés",
+      "country": "Brasil",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP242",
+      "slug": "replago-general",
+      "provider": "RepLago · pensión de enero 2027",
+      "country": "Brasil",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    }
+  ],
+  "preservation": {
+    "prior_events": 2295,
+    "prior_dossiers": 221,
+    "school_league_family_route_blocks": "unchanged"
+  },
+  "critical_distinctions": [
+    "Astra5separate rango de edad; de la misma9/15lesson período no publicado. Ev Kids extra domingo10Jan.75minutes, No todo el día.",
+    "Los niños de Astra Ev/EV3 El precio de octubre no tiene año; Arduino/El electrón/PEE32 tarifa explícitamente octubre2026. uno de enero2027 tarifa desconocida para todos5.",
+    "General de maquinaria5–16 no autoriza Arduino/AI más abajo12. El nombre de la marca de la NASA no está probado por la NASA-programa operado.",
+    "Los geeks A/B/C no definido: La admisión de niños sigue siendo desconocida.. I Ro X2026 precio excluye IVA; tasa exacta no especificada. Unam15-curso por hora10–17, no una universidad residencial de verano.",
+    "Octubre específico de La Llanada2026 día de página6–12 contra el embarque7–16. El viejo dormitorio FAQ actualmente404; números de cabina antiguos/La diferencia de edad no se acepta como actual.",
+    "El Camp Internacional Brasil describe explícitamente la vida del campamento inglés; las fechas/tarifas no tienen año y la ingesta activa no está confirmada.",
+    "Rep Lago enero2027 El importe de la cuota de pago de la moneda nacional;18–25January exclusivo de la lista de espera y de la familia ICS. Inglés/La vida en el campo español no confirmada.",
+    "El informe del campamento UCR2025 es historia; no se crearon fechas 2026/27."
+  ],
+  "remaining": "Las rutas prioritarias Suiza/Francia/España/Europa/Taiwan/EE.UU./Canadá/Singapura/Corea del Sur/Japón/Costa Rica/México/América Latina y de todo el mundo, como campos, competiciones/liga/exposiciones/escuelas/historia/familia, siguen siendo activas."
+}

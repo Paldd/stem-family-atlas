@@ -1,0 +1,548 @@
+# STEM Atlas: auditoría completa
+
+Verificación: 2026-10-02. Versión 51.
+
+* Asia oriental se ha profundizado: campus/edad/idioma, camp y eligibility national separados. Se ha excluido del calendario del calendario nacional japonés. La auditoría mundial sigue siendo parcial.
+
+CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
+
+Tarjetas en la base: 3847; Competencias: 1168; acontecimientos: 207; campamentos / Programas: 2472. Profilaxis y programas: 144. Tarjetas de exposición importantes y sobre temas específicos: 120 — son publicaciones y lugares, no número de marcas únicas.
+
+Existen registros específicos para 82 de los 249 países y territorios; países totalmente auditados: 0. Nuevas tarjetas: 21; nuevos perfiles: 3. Todas las tarjetas anteriores se han conservado.
+
+## Cobertura por continentes
+
+○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
+|---|---:|---:|---:|---:|
+América del Norte 14 - 514 10 - 720 -
+América del Sur 9 - 122 - 6 - 81 -
+Europa 21 - 172 - 44 - 1024 -
+África 10 61 5 27
+○ Asia 23 ♫ 226 ♫ 53 ♫ 601 ○
+○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
+
+56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
+
+VEX: 469 de 1168 tarjetas de competencia (40.2%), lo que representa una clara distorsión de la cobertura.
+
+## Lo que queda
+
+- **MILSET Expo-Sciences / science project networks**. Divide la exposición del proyecto, el concurso evaluado y el camino de la delegación nacional. Comprobar la tecnología / robotics categories y la edad escolar. https://milset.org/
+- **RoboNation RoboSub / RoboBoat / RobotX; EU robotics challenges**. v 28: RoboBoat/Sub/RobotX/VRX/SUAS/IGVC/IARC se han añadido; no se han publicado todos los handbook 2027. No se ha ampliado la edad de 6/9 en formatos superiores. EU robotics challenges and remaining autonomous leagues no se ha cubierto aún. https://robonation.org/
+- **BattleBots / NHRL / combat robotics circuits**. Los torneos abiertos, las clases de peso, la edad del operador y la seguridad no están totalmente cubiertos. https://www.nhrl.io/
+- * Todas las listas nacionales del FIRST / WRO / VEX / RCJ qualifiers**. La existencia de una red mundial y de un organizador nacional no es igual a la lista completa de torneos de cada país. https://wro-association.org/about-wro/member-countries/
+- **Industrial Transformation México (ITM)**. La fuente de IGECO muestra Smart Technology Expo; los antiguos catálogos de ITM dan otras fechas. ITM no es equivalente a STE sin confirmación. https://www.igeco.mx/
+- **ICRA / IROS exhibitions, MWC Shanghai / Doha, otros números de GITEX**: Conferencias, zonas de exposición y ciudades individuales tienen diferentes políticas de visita y números civiles; la serie completa de temporadas no se ha cerrado todavía.
+- **Caribbean, Pacific islands y países sin tarjetas específicas**. v. 28: se han añadido las notas DOM/JAM/TTO/BRB y las CSO regionales; eligibility y nuevas fechas locales parcialmente.
+- **Costa Rica / México: futuros ES/EN Vacaciones**. CENFOTEC Makers 7–11.12.2026 confirmado en presencia, pero sólo para 10–12 años; EN / ES no confirmado. Ciberbots / Cerebritos: Días desconocidos; Y Liota Invierno desde 19 Días de cuatro semanas. La admisión de ambos niños y la admisión en el extranjero requieren una nueva verificación. Fuente para la verificación ulterior: https://www.ciberbots.com.mx/services
+- *ChinaJoy / el resto PAX / Los juegos nacionales**. La marca de juego común no sustituye a la lista de todas las publicaciones; las fechas futuras, las gates del niño y la edad de los torneos se verifican por separado.
+- * Fuentes regionales españolas de SEM** TechLabKids / FunTech: Cambio futuro, edad, ES versus Catalan y lugares reales aún no confirmados. https://techlabkids.com/campamentos/
+- **CIROS Shanghai: organizador/próximo número**: El antiguo CIROS invitation / fechas de agregado no confirma la nueva edición. SIA, SIEAR y HRIE ○ otras marcas y no cierran CIROS.
+- *Shanghai SIA y Beijing CHITEC: futuras fechas exactas / admisión de niños**. SIA 2027: dos páginas oficiales dan días diferentes. CHITEC: el organizador ha sido instalado, 2026 no ha sido anunciado, y ambas se han excluido de las exportaciones civiles hasta que se confirmen las fechas. https://www.chitec.cn/web/
+- *Taiwán: el resto de las normas locales y la entrada extranjera**. The Grove: edad de ambos niños, acogida y apoyo extranjeros sin el requisito de chino.; ERA: equipo extranjero, escuela/clase, protección inglesa y derecho de cuota internacional.; TIRT: deuda en vigor, último CN/EN, reglamentos y equivalentes de certificados escolares.; TYPA / TAS: turnos reales 2027, enseñanza inglesa y acceso de la familia turística.; Junior Botball: reglamento local completo; GRG: fechas, amputaciones y conflictos AIMS.; exposiciones: Kaohsiung Smart City 2027, AI EXPO 2027, normas para niños COMPUTEX / Innotech 2027 y entrada familiar en el FRC. https://www.era.org.tw/main/2026-2027-first%e6%a9%9f%e5%99%a8%e4%ba%ba%e5%a4%a7%e8%b3%bd%e8%87%ba%e7%81%a3%e9%81%b8%e6%8b%94%e8%b3%bd%e5%a0%b1%e5%90%8d%e6%ad%a5%e9%a9%9f%e6%b3%a8%e6%84%8f%e4%ba%8b%e9%a0%85/
+- **Admisibilidad independiente, turnos de invierno y FTC Las reglas de la nueva temporada**. Admisibilidad de equipos familiares independientes TecPro Costa Rica, Parejas de edad y lugares de residencia 8 octubre.; Fechas exactas de nacimiento para la amputación de enero MakeX; y el día de la presentación en el 27–29 noviembre.; Clases de ambos niños para las ligas escolares y los campamentos; Fecha de nacimiento no sustituye a clase.; Grupos de invierno México / Costa Rica: Días de estudio efectivos, Edad, EN / ES, Equipo, Nivel después de tres años de competencia.; FTC México 2026–2027: reglas de orden extranjera, HOME EVENT, Nacional / Formación internacional y visitas a niños. Fuente para la verificación ulterior: https://tdrobotica.co/tecpro-challenge-2026-2027
+- **de niños / el ingreso en el extranjero y los nuevos turnos**. días de nacimiento de Programable 9 / 10 y CampoAventuras 9 el día del lanzamiento; las clases escolares para Chile / RoboRAVE.; Programable / Troonic: enseñanza ES / EN, el horario final, foreign visitors y materiales / alimentación.; LNR: un conjunto exacto de disciplinas de cada uno sede, operador de niños y consent, zona extranjera / el recuento de temporada; status CREADO no significa registro.; Chile: de la actualidad team maxima / Maipú categories y la hora OPEN; nuevo international convocatoria.; Colombia / Ecuador: Nuevos December / January shifts, actual teaching language y edad, sin trasladar las ofertas de verano antiguas.; continuar con el resto de países de América del Sur y locales FIRST / WRO / VEX / torneos independientes; Este paso no termina las auditorías de los países. fuente para la verificación posterior: https://programable.com.ar/colonia-tecno-2027/
+- **Nuevas corrientes y admisión extranjera en cuatro países**. Brasil: admisión extranjera garage / Escuelas, Clase y frontera OBR 8-clase, Días finales individuales, Idioma ES / EN. MNR Mato Grosso: admisibilidad de un proyecto extranjero y condiciones regionales.; Paraguay: en vigor FLL BIOGLOW aranceles, juegos, Apartación de la edad, Fecha de la final y cuota extranjera; etapas siguientes VEX LNR.; MOT Halloween: Lugares, Idioma de la ocupación, un programa digital específico; nuevas fechas de verano 2026–2027 Sin reprogramar la temporada anterior.; Uruguay / Bolivia: las próximas corrientes de vacaciones, Clases, Edad mínima, Idiomas y documentos del niño extranjero; Sucre–Bot — cuotas y normas internacionales específicas.; MNR: HTML contiene extraños SEO-recuadros, Días locales de verificación. MuCi: antiguo Astra 14 octubre no aceptada como nueva 2026. Fuente para la verificación ulterior: https://robotica.robocup.org.br/
+- América Latina: programas locales y Argentina / Peru 2027, pero no se elimina de la página web. English robotics, Open International Pasons and Foreign Hacatons in Brasil / Centroamérica, todavía no se han cubierto; Europa: se completan los programas locales y Argentina / Peru 2027. Asia: se complementan Singapur, Hong Kong, Malasia, Tailandia y Corea; se mantiene la verificación anterior de Taiwán; el Japón, China, la India, Viet Nam y el resto de países tienen cobertura parcial de los campamentos y apoyo lingüístico; el hackathon internacional no significa que haya 6 años de admisión: muchos programas comienzan con 12+, una escuela superior o una universidad; no se denomina competencia nacional abierta internacional sin reglas; la fecha de la temporada, el lugar, el idioma de las lecciones técnicas, la edad de comienzo y los servicios de internado se confirman para el cambio de destino; los programas no se han introducido en los próximos días. https://www.stgeorges.ch/fr/camps/summer-camps
+- * Escuelas permanentes y equipos junior**. 25 expedientes escolares; países y campus parcialmente cubiertos; se necesita una auditoría más amplia de los equipos actuales, los protocolos nacionales y mundiales, el idioma y la recepción extranjera.
+- Los nuevos G4 C elementary rules, Appathon mixed-age / judging rules, FOSDEM Junior 2027 y los torneos nacionales todavía no están completos. https://learn.gamesforchange.org/student-challenge
+- * Nuevos juegos, admisión extranjera y menor EN**. Los calendars completos del país, los campamentos de Bangladesh WRO / local, el Pakistán / Sri Lanka actual 6+ English programmes, India 2027 cohorts, junior online Rancho, equipos actuales y escuelas de protocolo siguen abiertos. https://wroindia.org/season-2026/
+- Todos los equipos locales y los 5 a 10 años de resultados escolares**. CHE/ESP/FRA stillpartial: cuotas nacionales para extranjeros, lenguaje de estudio, nuevos 2027 cohorts, municipios y organizaciones de enseñanza secundaria superior, 5 a 10 años de edad. https://www.wroboto.es/torneos/
+- Alemania / Países Bajos / Bélgica: todos los clubes y resultados escolares** Se necesitan todos los camps/schoolteams locales, los nuevos WROdates 2027, el Judging inglés y el foreignquota, la autorización familiar para el trabajo de campo de 5 a 10 años de edad organizerprotocols de los actuales juniorcoaches. https://firstlegoleague.nl/seizoen_2026_2027/
+- **Operadores nacionales restantes, EN campamentos y school protocols**. Cambodia/Brunei/Myanmar/TimorLeste; Laoslocalcamps; FIRA/MTE/WOCEEnewcalendars; PhilippinesEN 6/9 camp; foreignquotas y ENjudging 4 countries Fuente para la verificación ulterior: https://wro-association.org/
+
+## ~ Límites de verificación
+
+- El número de tarjetas incluye disciplinas, etapas, emisiones y lugares; no se trata del número de ligas independientes del mundo ni de festivales únicos.
+- Una gran proporción del VEX no significa que el resto de las direcciones o los EE.UU. sean completas.
+- La tarjeta de fecha no demuestra la inscripción abierta, la edad de admisión o el cupo nacional.
+- Antártida: no se ha encontrado un calendario local pertinente en este estudio; no es prueba de que no se hayan realizado todas las actividades.
+- TechSpark LEGO Junior 6+ en el catálogo general no garantiza robótica en cada semana Zürich: las semanas comprobadas de Game Design comienzan a los 7 años.
+- Kids badge / entrada infantil gratuita se determina por una publicación específica y por la edad del día de la visita, a veces por el crecimiento; las reglas de los PAX y de los diferentes años no son intercambiables.
+- Los días públicos de la exposición están separados de los días de negocios/media, y el billete de visita no registra al niño en un torneo separado.
+- En/NL el bootcam no garantiza la enseñanza completa únicamente en EN; la acogida extranjera, el idioma y la disponibilidad de un lugar requieren confirmación.
+- En el v. 14 se han añadido ocho fichas de exposiciones importantes y/o importantes y un evento local: publicaciones y lugares, en lugar de las ocho marcas más importantes del mundo que se han demostrado.
+- Cuatro nuevas exposiciones profesionales excluyen a los niños 6 / 9, que están en un calendario aparte pero no en el ICS familiar.
+- La proyección del número de empresas y de la superficie no es igual a la lista confirmada de futuros puestos de trabajo.
+- CENFOTEC Makers 10-12: La edad actual de Matway 9 no demuestra la admisión a diciembre; los nuevos candidatos a los campamentos no tienen el idioma EN/ES confirmado.
+- El próximo CHITEC y el conflicto SIA no han recibido fechas ficticias para el futuro.
+- Años de nacimiento notificados por el usuario: 2017 / 2020, no se conocen los cumpleaños y las clases, y la educación en español e inglés es adecuada para ambos niños.
+- En v. 15, se encontraron dos futuros programas de invierno en EN: The Grove no publica la edad; Expedition 27 recomienda 8 a 12; la traducción del sitio no es una enseñanza española.
+- TAS y TYPA ○ diferentes programas: la clase regular está separada de las vacaciones; los turnos de verano de 2026 no se han trasladado a 2027.
+- MARC LOM y TM están separados: Oscar 2020 es el único que se acerca al año de nacimiento de LOM. Un niño elige una disciplina MARC.
+- Los proveedores taiwaneses ENJOY / Borneo / NTHU describen acontecimientos extranjeros en Vietnam / Malasia / Estados Unidos. El lugar del proveedor no determina el lugar del torneo.
+- v 16: 12 FTC Tarjetas — 11 regionales y regionales 1 Nacional. Son pasos separados de una sola red.; Niños 2017 / 2020 Ahora es más joven. FTC.
+- Futuros TecPro Match 2 Tarjetas sin fecha exacta; dates / formularios Match 1 no arrastrados. A jornada completa Artifact / Game — disciplinas separadas C078.
+- El sitio en la Web español no prueba la enseñanza en ES: se han corregido los idiomas de los dos candidatos a la enseñanza, y los idiomas de la familia y del programa se guardan por separado.
+- Programable age tracks ○ dos grupos de un mismo programa, 30 días de estudio para cada uno, no dos festivales independientes.
+- LNR 10 records include 3 PRE SEDE and final, y la edad sin mínimo general, la admisión extranjera local y el derecho a un título nacional estacional son diferentes.
+- Camp windows Troonic se ha conservado como días de cambio de estructura aparente; no se han inventado sesiones daily, Closed CampoAventuras ha sido excluido de la ICS familiar.
+- 33 nuevas tarjetas incluyen carreras de edad, filiales y disciplinas; no se trata del número de festivales independientes.
+- El proyecto regional MNR, la grabación del equipo VEX, la selección nacional y la entrada gratuita de visitantes tienen diferentes condiciones, y la mención honorífica, la publicación y el título mundial son diferentes.
+- Los nuevos programas de estudio no se han recibido en la ES/EN únicamente en el idioma del sitio.
+- Las nuevas tarjetas incluyen circuitos, formatos y turnos; su número no es igual al número de campamentos o operadores independientes.
+- El personal o el sitio en inglés de Native English no son equivalentes a un curso técnico completo en EN; el idioma principal, la asistencia y las lecciones de idiomas están divididas.
+- Activity_start recuerda el anuncio de inicio de un concurso/tratamiento, que no es un período completo; camp_window no significa que la temporada sea diaria.
+- 01.10.2026 La familia añadió el ruso y la confirmación del idioma de la familia no convierte el sitio web o las reglas en un lenguaje de lección/juzgación probado.
+- v 29: cuatro días de STEAM-ED ○ días de un operador; EN enseñanza en Fiji / STEAM-ED / BrainPlay no está demostrada; las normas nacionales de Australia no significan admisión extranjera; el archivo de la Polinesia Francesa no es un concurso futuro.
+- v 30: 19 nuevos mapas de capacitación para turnos/cursos de 4 operadores (Helvetic, NATUK/HES, ABI, Tinker), no 19 campos internacionales independientes. TinkerB 2B no es un manual de familia; unknowncamp/competitionlanguages no confirmados por un sitio web.
+- v 38: 38 tarjetas de 38 eventos internacionales independientes, 8 días de Mini-Robots, 2 programas mundiales futuros no confirman la selección local, y ninguna escuela nueva ha sido declarada líder mundial del programa/condecoración local.
+- v 39: la ruta de edad 2026-2030 se ajusta a las normas actuales y no crea las futuras fechas de los torneos; la posible ventana común de WRO Elementary Brothers 2028/29; la cuota extranjera no está confirmada.
+- v47: HIF minimum10 al comienzo del turno; Aiglon robotics8 no general day7; EISB summer cutoff2019 Excluye2020. VivaTech separado public day no confirma el billete de bebé.. Nuevos podiums y victorias nacionales no son la clasificación mundial de las escuelas.
+- v48: SingapurGrade5/4/edad9; Overseas sin SGWorldquota; NRC-WRO, Worklab/CoboInglés, Computhink, International/internacionalWorlds, GITEXstrictlyover18.
+
+## ~ Proyecciones de ligas y programas
+
+- **WRO**: 80 tarjetas, 9 con fechas exactas futuras, perfil y tarjetas, cobertura parcial local. https://wro-association.org/competition/categories/
+- **FIRST**: 45 tarjetas, 24 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.firstinspires.org/programs/fll/
+- **VEX Robotics**: 469 tarjetas, 465 con fechas exactas futuras. https://www.vexrobotics.com/official-path
+- *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
+- **MakeX**: 15 tarjetas, 12 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.makex.cc/en/2026-makex
+- **RECF Robotics**: 5 tarjetas, 4 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
+- **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
+- **WER**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.wermexico.com/competencia
+- **RoboMatrix / Infomatrix**: 2 tarjetas, 0 con fechas exactas futuras. https://robomatrix.org/
+- **RoboRAVE**: 8 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.roboraveinternational.org/eventos
+- **Robofest · LTU**: 2 tarjetas, 1 con fechas exactas futuras. https://www.robofest.net/index.php/current-competitions/main-page
+- **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
+- **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
+- **ENJOY AI**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.enjoyaiglobal.org/
+- *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
+- * International Robot Olympiad**: 11 tarjetas, 11 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.iroc.org/home?l=ko&s=10280
+- **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
+- * International Robot Challenge · Egypt**: 1 tarjeta, 0 con fechas exactas futuras. https://www.international-robotchallenge.org/competition/
+- **TechnoXian**: 5 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.technoxian.com/events
+- **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
+- **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
+- **Codeavour**: 1 tarjeta, 0 con fechas exactas futuras. https://codeavour.org/
+- **Coolest Projects**: 1 tarjeta, 0 con fechas exactas futuras. https://online.coolestprojects.org/help
+- **Bebras**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.bebras.org/countries
+- **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
+- **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
+- **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
+- *ITR Brazil**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://internationaltournamentofrobots.org/BRAZIL/
+- **TecPro Challenge · LATAM / Virtual**: 10 tarjetas, 4 con fechas exactas futuras. https://tdrobotica.co/tecpro-challenge-2026-2027
+- **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
+- **RoboJam**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.robojam.live/
+- *RoboLiga · Argentina**: 11 tarjetas, 11 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://roboliga.edu.ar/edicion-2026/default.asp
+- **STEMLab Sumo League**: 5 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://stemlab.co.za/sumo-robotics-league/
+- **FCTI · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf
+- **LUVÁ · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.torneoluva.com
+- ¡Play! Pokémon**: 1 tarjeta, 0 con fecha exacta futura. https://championships.pokemon.com/en-us/about/2027-season-changes/
+- **Botball**: 0 tarjetas, 0 con fechas exactas futuras. https://www.kipr.org/botball
+- *RoboMaster · University**: 0 tarjetas, 0 con fechas exactas futuras. https://www.robomaster.com/en-US/robo/rm
+- **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
+- **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
+- *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
+- **FIRST Global Challenge**: 3 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://first.global/fgc/
+- **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
+- *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
+- **World Robot Contest (CIE)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.worldrobotconference.com/contest/regulations/2632.html
+- **IAIO · International Artificial Intelligence Olympiad**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://iaio-official.org/
+- **SeaPerch / RoboNation**: 1 tarjeta, 1 con fechas exactas futuras. https://seaperch.org/programs/2027-challenge/
+- **MATE ROV Competition**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://materovcompetition.org/scout
+- **ICYS · Young Scientifics**: 1 tarjeta, 1 con fechas exactas futuras. https://icysconference.com/
+- **PARC · Pan-African Robotics Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://www.parcrobotics.org/
+- **ABU Robocon**: 1 tarjeta, 0 con fechas exactas futuras. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
+- **ROBO-ONE / Light / auto / Beginners**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robo-one.com/en/
+- *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
+- **MARC Taiwan**: 2 tarjetas, 2 con fechas exactas futuras. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
+- **TIRT Taiwan**: 5 tarjetas, 5 tarjetas con fechas exactas futuras. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
+- *OBR / CBR / LARC · Brazil**: 16 tarjetas, 9 con fechas exactas futuras. https://robotica.robocup.org.br/
+- **Liga Robótica Chile**: 6 tarjetas, 5 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.torneorobotica.cl/
+- **Technovation Girls**: 1 tarjeta, 0 con fechas exactas futuras. https://technovationchallenge.org/
+- **Rcube Robotics League**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.technoxian.com/rcube-robotic-league
+- **BAFTA Young Game Designers**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bafta.org/programmes/young-game-designer/
+- **VisionRover Challenge · CENFOTEC**: 1 tarjeta, 1 con fechas exactas futuras. https://ucenfotec.ac.cr/expocenfo/
+- **Global Robotics Games · GRG**: 4 tarjetas, 0 con fechas exactas futuras. https://www.globalroboticsgames.com/
+- **Liga Nacional de Robótica · Argentina**: 10 tarjetas, 10 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://lnr-argentina.com.ar/
+- *Olippiada Brasileira de Robótica · OBR**: 7 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://obr.robocup.org.br/wp-content/uploads/2026/03/OBR2026_MP_Manual-de-Inscricao.pdf%20
+- **Competição Brasileira de Robótica · CBR Petrobras**: 4 tarjetas, 4 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://cbr.robocup.org.br/index.php/categorias/
+- **Mostra Nacional de Robótica · MNR**: 4 tarjetas, 4 tarjetas con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://mnr.robocup.org.br/cronograma/
+- **Liga Nacional de Robótica · Paraguay / VEX**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5257.html
+- **Global Appathon · MIT App Inventor**: 2 tarjetas, 2 con fechas exactas futuras. https://globalappathon.org/
+- *Games for Change · Student Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://learn.gamesforchange.org/student-challenge
+- *Astro Pi · Proyecto de capacitación espacial**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación/alumnos; no hay etapas competitivas. https://astro-pi.org/mission-zero/eligibility
+- **Avishkaar League ·IRC / Makaathon / CodeQuest / Socker**: 13 tarjetas, 8 con fechas exactas futuras. https://community.avishkaar.cc/avishkaar-league-2026
+- **Robotek Grand Tournament ·Kazajstán / Taiwán**: 2 tarjetas, 2 con fechas exactas futuras. https://rgt.robotek.kz/
+- **RoboLand · Kazajstán**: 2 tarjetas, 0 con fechas exactas futuras. https://www.gov.kz/memleket/entities/edu-osakarovka/press/news/details/1141030?lang=kk
+- **CazRobotics · KazRoboSport / Project / RoboBalapan**: 5 tarjetas, 0 con fechas exactas futuras. https://t.me/s/kazrobotics2020
+- **Almaty TechCup · robotics / AI / hackathons**: 1 tarjeta, 0 con fechas exactas futuras. https://www.gov.kz/memleket/entities/almaty/press/news/details/1250916?lang=ru
+- **RoboBoat · RoboNation**: 1 tarjeta, 1 con fechas exactas futuras. https://roboboat.org/programs/2027/
+- **RoboSub · RoboNation**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://robosub.org/programs/2027/
+- **RobotX / Virtual RobotX · RoboNation**: 4 tarjetas, 4 con fechas exactas futuras. https://robotx.org/programs/2026/
+- **SUAS · Student Unmanned Aerial Systems**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://suas-competition.org/competitions
+- **IGVC · Intelligent Ground Vehicle Competition**: 1 tarjeta, 1 con fechas exactas futuras. https://robonation.org/2027-season-launch/
+- **IARC · International Aerial Robotics Competition**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://robonation.org/2027-season-launch/
+- *Barbados Robotics Innovation Challenge**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://caribbeanscience.org/bric/
+- *Caribbean Stem Olympiads**: 2 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://caribbeanscience.org/cso/
+- **CoderZ League · robótica virtual**: 1 tarjeta, 0 con fechas exactas futuras. https://competition.gocoderz.com/fall-league/
+- **CodeAI / Hour of AI · capacitación**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://code.org/es/curriculum/computer-science-fundamentals
+- *Australian STEM Video Game Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://www.stemgames.org.au/
+- **RoboCupJunior Australia · Primary / Australian Open**: 1 tarjeta, 0 con fechas exactas futuras. https://www.robocupjunior.org.au/challenge-regions/nat/
+- **WRO Switzerland · Starter / Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro.swiss/en/information-on/categories-and-age-groups/
+- **WRO Spain · RoboBasic a partir de los 6 años / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.wroboto.es/competicion/
+- **FIRST LEGO League · Switzerland / Spain / France**: 11 tarjetas, 4 con fechas exactas futuras. https://firstlegoleague.soy/inscripciones-bioglow/
+- *Coupe de France de Robotique Junior / Eurobot Junior**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
+- **WRO India · Rutas nacionales**: 2 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://wroindia.org/season-2026/
+- **WRO Pakistan / PSSEC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.linkedin.com/company/wro-pak/
+- **WRO Sri Lanka / Burhani Serendib School**: 1 tarjeta, 0 con fechas exactas futuras. https://www.burhani.edu.lk/world-robot-olympiad-sri-lanka-nationals-2026/
+- **Bangladesh Robot Olympiad / IRO Bangladesh Open**: 3 tarjetas, 0 con fechas exactas futuras. https://bdro.org/
+- **RoboCupJunior France · Discovery / OnStage Entry**: 2 tarjetas, 0 con fechas exactas futuras. https://www.robocup.fr/onstage
+- **WRO Germany · Starter / Elementary**: 4 tarjetas, 0 con fechas exactas futuras. https://www.worldrobotolympiad.de/saison-2027/
+- **FIRST LEGO League DACH - Alemania**: 4 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.first-lego-league.org/en/divisions/explore
+- **RoboCupJunior Germany ·Entry Junior y final**: 1 tarjeta, 1 con fechas exactas futuras. https://robocup.de/events/junior-finale-2027
+- **WRO Netherlands · Elementary**: 2 tarjetas, 0 con fechas exactas futuras. https://wro-nederland.nl/Seizoen
+- **FIRST LEGO League Netherlands - temporada 2026/27**: 18 tarjetas, 16 con fechas exactas futuras. https://firstlegoleague.nl/seizoen_2026_2027/
+- **FIRST LEGO League Belgium / BeLux**: 10 tarjetas, 9 con fechas exactas futuras. https://www.voka.be/first-lego-league-be/timing
+- **FIRST LEGO League Switzerland · cuatro rutas secundarias 2026/27**: 15 tarjetas, 12 con fechas exactas futuras. https://www.first-lego-league.org/en/faq
+- **FIRST LEGO League Italia · Founders / Future**: 31 tarjetas, 27 con fechas exactas futuras. https://firstlegoleague.it/p/edizioni
+- **WRO Italia · Kids / Elementary / Starter**: 3 tarjetas, 0 con fechas exactas futuras. https://www.worldrobotolympiad.it/fasce-eta/
+- **RoboCupJunior Academy Italia · OnStage escalón**: 3 tarjetas, 0 con fechas exactas futuras. https://www.robocupjra.it/
+- **FNR / RoboCup Portugal Open · Junior 2027**: 9 tarjetas, 9 con fechas exactas futuras. https://www.festivalnacionalrobotica.pt/
+- **RoboParty · Equipo de ingeniería familiar**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación y asistencia; no hay etapas de concurso. https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf
+- **Malaysia NRC / NROC · diversas reglas menores**: 4 tarjetas, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://nroc.sasbadi.com/competition
+- **IYRC ASEAN Malaysia · Foundation / Primary / Creative**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
+- **WRO Indonesia · Regional Entry National**: 3 tarjetas, 0 con fechas exactas futuras. https://wroindonesia.org/kategori_00.html
+- **IYRF / IYRC Indonesia · robots, AI animation, games**: 4 tarjetas, 0 con fechas exactas futuras. https://iyra-indonesia.id/iyrc-indonesia-2026/
+- *ROBOTACON Vietnam · WRO / FIRST LEGO League**: 4 tarjetas, 0 con fechas exactas futuras. https://edu.steamsolutions.com.vn/
+- **Philippines FELTA · PRO/WRO y FLL**: 3 tarjetas, 0 con fechas exactas futuras. https://felta.ph/pro/files/2026/25th_PRO_Registrration-Form-2026.pdf
+- **LEGO League · rama independiente de 2027/28**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.education.lego.com/en-us/lego-league/program-update/
+- **FIRST K–8 · programa futuro**: 1 Tarjetas, 0 con fechas exactas futuras. Hay un perfil y tarjetas.; Cobertura local parcial. https://www.firstinspires.org/programs/k-8
+- **VEX Switzerland · EN/DE menor**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura parcial local. https://www.techlabs.ch/vex-events-products
+- **Bebras / Castor · tres países, diferentes clases e idiomas**: 5 tarjetas, 4 con fechas exactas futuras. https://www.informatik-biber.ch/was-ist-der-informatik-biber/
+- **RoboCampeones · Ruta escolar regional**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://sites.google.com/view/robocampeonesfuenlabrada/
+- *RoboOlympics OST · Enseñanza superior**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.robolympics.ch/
+- **WRO Kenya · Elementary / Rookie RoboStarter**: 4 tarjetas, 2 con fechas exactas futuras. https://wrokenya.stemimpactcenterkenya.org/register
+- **WRO Nigeria / Arc-Lights · Categorías básicas y RoboStarter**: 2 tarjetas, 0 con fechas exactas futuras. https://arclightsfoundationng.com/wro/categories
+- **RobotChallenge Nigeria / RC.CODE**: 3 tarjetas, 0 con fechas exactas futuras. https://www.robotchallenge.ng/nationalcahllengeregistration/
+- *ENJOY AI African Open Ghana**: 1 tarjeta, 0 con fechas exactas futuras. https://makersplacegh.com/enjoyai-2026/
+- *Creativity Lab Rwanda · project challenge / EN courses**: 1 tarjeta, 0 con fechas exactas futuras. https://creativity.rw/cmpetitions
+- **Qatar Robotics & AI · ruta escolar nacional**: 9 tarjetas, 0 con fechas exactas futuras. https://robotics.qa/competition/
+- *Junior Innovators Challenge · UAE**: 3 tarjetas, 0 con fechas exactas futuras. https://challengeon.atrc.ae/en/challenges/jic2026
+- **WRO Oman · Kids y selección mundial**: 3 tarjetas, 0 con fechas exactas futuras. https://roboticktick.com/media/wro/session/guide/WRO2026_OMAN_National_Competition.pdf
+- **WRO Saudi Arabia · Mawhiba**: 4 tarjetas, 0 con fechas exactas futuras. https://app-prd-backend2-umbracoportal-uaenorth-gjd3amf6hhfkb2bh.uaenorth-01.azurewebsites.net/discover-mawhiba/competitions/world-robot-olympiad/
+- **FIRST LEGO League France  - Etapas reales 2026/27**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://fll2027.fr/
+- **FIRST Singapore · BIOGLOW Founders / Future**: 5 tarjetas, 4 con fechas exactas futuras. https://www.firstlegoleague.sg/season/
+- **NRC Singapore · KUBO, Regular, Open y AI Maker**: 5 tarjetas, 0 con fechas exactas futuras. https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
+- **WRO Singapore · Space Faculty national route**: 2 tarjetas, 0 con fechas exactas futuras. https://spacefaculty.asia/world-robot-olympiad/
+- *Hong Kong Winter Robot Challenge2027 · remote video**: 6 tarjetas, 6 con fechas exactas futuras. https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/
+- **FIRST LEGO League México · cuatro rutas de BIOGLOW 2026/27**: 6 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.firstlegoleagues.mx/preguntas-frecuentes/
+- **LATI / LTRC Tabasco · Junior y RoboMatrix regional**: 3 tarjetas, 3 con fechas exactas futuras. https://laliga.lati.mx/convocatoria/
+- **WRO México · Kinder / Primaria Baja / Elementary**: 3 tarjetas, 0 con fechas exactas futuras. https://wromexico.org/categorias/
+- **FIRST Japan · Explore / Challenge / Future 2026*27**: 11 tarjetas, 10 con fechas exactas futuras. https://firstjapan.jp/events/fll-explore-2026-2027/
+- **VEX IQ Japan · domestic qualification route**: 6 fichas, 5 con fechas exactas futuras. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
+- *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+- **World Robot League / IREA · KoreaOpen**: 7 tarjetas, 0 con fechas exactas futuras. https://worldrobotleague.net/
+- **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
+- **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
+- **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
+
+## Grandes exposiciones: tarjetas de identidad
+
+- **Maker Faire Rome 2026** Italia; 2026-10-23 2026-10-25 con adultos; condiciones de entrada de adultos separadas. https://makerfairerome.eu/en/tickets/
+- **Maker Faire Shenzhen 2026** — China; 2026-12-12 – 2026-12-13. Acceso de los niños a la educación. https://www.shenzhenmakerfaire.com/2026/06/30/maker-faire-shenzhen-2026-now-call-for-makers%EF%BC%81entering-the-era-of-opc-creators
+- **ROBOTWORLD 2026** ○ Corea del Sur; 2026-11-04 国 2026-11-07. Con adultos; condiciones de entrada de adultos separadas. https://eng.robotworld.or.kr/visitors/information.php
+- **RoboNext 2026** Japón; 2026-12-02 国 2026-12-04. https://robonext.nikkan.co.jp?lang=en
+- **iREX International Robot Exhibition 2027** Japón; fecha desconocida: autorización para niños. https://irex.nikkan.co.jp/
+- **RoboCup 2027 - Visitator days + Family Day** htm Alemania; 2027-06-17 BWC 2027-06-20; con un adulto; las condiciones de entrada de un adulto por separado. https://2027.robocup.org/visit/visitors
+- **Hannover Messe 2027** Alemania; 2027-04-05 2027-04-08. https://www.hannovermesse.de/en/for-visitors/tickets/index-2
+- **IFA Berlin 2027** Alemania; 2027-09-03 2027-09-07 con adultos; las condiciones de entrada de adultos por separado. https://www.ifa-berlin.com/faq
+- **CES 2027** EE.UU.; 2027-01-06 2027-01-09, no se permite a los niños 6/9 https://www.ces.tech/attendee-guides/registration-information
+- **MWC Barcelona 2027** España; 2027-03-01 2027-03-04 No se permite a los niños 6/9 https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
+- **GITEX Global 2026 ○ Exposición** - Estados Unidos de América; 2026-12-08 BWC 2026-12-11. https://www.gitex.com/
+- **automatica 2027** - Alemania; 2027-06-22 - 2027-06-25. https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines
+- **TAIREX 2027** Taiwán; 2027-03-18 2027-03-21; no se permite a los niños 6/9. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
+- **TAIROS / Automation Taipei 2027** Taiwán; 2027-08-04 2027-08-07 No se permite a los niños 6/9 https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
+- **Touch Taiwan 2027** — Taiwán; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.touchtaiwan.com/visitor.asp
+- **COMPUTEX 2027** Taiwán; 2027-06-01 2027-06-04. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
+- **Smart City Summit & Expo 2027** Taiwán; 2027-03-16 2027-03-19. https://smartcity.org.tw/smartcity.php
+- **AI EXPO Taiwan 2027** Taiwán; fecha desconocida: permiso para niños. https://ai-expo.tw/about_2026.html
+- **Maker Faire Taipei 2026** Taiwán; 2026-10-24 国 2026-10-25; con adultos; condiciones de entrada de adultos separadas. https://makerfaire.com/upcoming-faires/
+- * World Robot Conference / World Robot Expo ○ Beijing, próxima edición** ○ China; fecha desconocida. https://www.worldrobotconference.com/
+- **WAIC JIU World Artificial Intelligence Conference, Shanghai · próxima edición** China; se desconoce la fecha. https://www.worldaic.com.cn/
+- **gamescom Cologne 国 2027** ○ Alemania; 2027-08-26 国 2027-08-29; con adultos; las condiciones de entrada de los adultos por separado. https://www.gamescom.global/en/info/visitors
+- **gamescom latam 2027** Brasil; 2027-04-22 - 2027-04-25 - Con adultos; condiciones de entrada de adultos por separado. https://latam.gamescom.global/en/
+- **Paris Games Week 2026 htm Family** ○ Francia; 2026-10-22 国 2026-10-25; con adultos; las condiciones de entrada de adultos por separado. https://www.parisgamesweek.com/fr
+- **Tokyo Game Show ○ la siguiente familia Game Park** ○ Japón; fecha desconocida. https://tgs.cesa.or.jp/2026/en/fgp/
+- **Brasil Game Show 2026 — Días públicos** — Brasil; 2026-10-10 – 2026-10-12. Con un adulto; Las condiciones de entrada de los adultos por separado. https://www.brasilgameshow.com.br/ingressos/
+- **PAX Aus 2026** Australia; 2026-10-09 2026-10-11. Con un adulto; las condiciones de entrada de un adulto por separado. https://aus.paxsite.com/en-us/info/faq.html
+- **GAMERGY Madrid 2026** htm España; 2026-12-18 2026-12-20. https://www.ifema.es/gamergy
+- **Maker Faire Guangzhou 2026** China; 2026-10-17 2026-10-18. https://guangzhou.makerfaire.com/
+- **InnoCarnival Hong Kong 2026** China, Región Administrativa Especial de Hong Kong; 2026-10-24 Å 2026-11-01, con adultos; las condiciones de entrada de los adultos por separado. https://innocarnival.hk/en/About/
+- **Lisboa Games Week 2026** Portugal; 2026-11-19 2026-11-22. https://lisboagamesweek.pt/visitar/
+- **GITEX AI Asia 2027** ○ Singapur; 2027-04-29 2027-04-30. https://gitexasia.com/
+- **GITEX AI Europe — próxima edición** — Alemania; Fecha desconocida. Niños 6/9 No puedes.. https://www.gitexeurope.com/faqs
+- **GITEX Africa ○ próxima edición** - Marruecos; fecha desconocida; los niños 6/9 no pueden. https://gitexafrica.com/faqs
+- **CIIF 2026 ○ Robotics Show / Industrial Automation Show** China; 2026-10-12 2026-10-16. https://www.ciif-expo.com/
+- **AWE 2027, AI, robots domésticos y de servicio** China; 2027-03-17, 2027-03-20. https://www.awe.com.cn/contents/161/15509.html
+- **SPS ○ Smart Production Solutions Shenzhen 2027 (anteriormente Guangzhou) ** China; 2027-09-01 国 2027-09-03. https://spsinchina.cn.messefrankfurt.com/shenzhen/en.html
+- **Guangzhou Industrial Technology ○ próxima edición** China; fecha desconocida. https://gitfair.hk.messefrankfurt.com/guangzhou/en.html
+- **AIE 2026 JIU Global Artificial Intelligence Machines and Electronics Expo · Macao** China, Región Administrativa Especial de Macao; 2026-12-03 2026-12-05. https://www.aie-expo.com/en
+- **AIE 2026 Comment Global Artificial Intelligence Machines and Electronics Expo · Zhuhai** China; 2026-12-03 国 2026-12-05. https://www.aie-expo.com/en
+- **Industrial Transformation ASIA-PACIFIC / ITAP 2026** — Singapur; 2026-10-21 – 2026-10-22. Acceso de los niños a la educación. https://industrial-transformation.com/itap-2026-home/
+- **Industrial Transformation ASIA-PACIFIC / ITAP 2027** Singapur; 2027-07-20 - 2027-07-22. https://industrial-transformation.com/itap-2026-home/
+- **RoboBusiness 2026** — Estados Unidos; 2026-10-20 – 2026-10-21. Acceso de los niños a la educación. https://www.robobusiness.com/
+- **Robotics Summit & Expo 2027** Estados Unidos de América; 2027-06-02 2027-06-03. https://www.roboticssummit.com/
+- **Canton Fair 140 ° Fase 1, Service Robots / Advanced Manufacturing** ♫ China; 2026-10-15 ♫ 2026-10-19. https://www.cantonfair.org.cn/en-US
+- **Automate 2027 — robotics / automation** — Estados Unidos; 2027-05-10 – 2027-05-13. Niños 6/9 No puedes.. https://www.automateshow.com/
+- **Expo Manufactura 2027** — México; 2027-02-23 – 2027-02-25. Niños 6/9 No puedes.. https://expomanufactura.com.mx/
+- **Smart Technology Expo 2026** México; 2026-11-18 2026-11-20. https://smarttechnologyexpo.mx/
+- **EXPOMAFE 2027** 国 Brazil; 2027-05-04 国 2027-05-08; los niños 6/9 no pueden. https://www.expomafe.com.br/
+- **Australian Manufacturing Week 2027** Australia; 2027-05-11 2027-05-14. https://australianmanufacturingweek.com.au/visit2027/
+- **Africa Tech Festival 2026** Sudáfrica; 2026-11-17 2026-11-19. https://africatechfestival.com/
+- **AI Expo Africa 2026** — Sudáfrica; 2026-10-28 – 2026-10-29. Acceso de los niños a la educación. https://aiexpoafrica.com/ai-expo-africa-2026-faq/
+- **VivaTech 2027** France; 2027-06-16 2027-06-19. https://vivatech.com/
+- **World Summit AI Amsterdam 2026** Netherlands; 2026-10-07 BWC 2026-10-08, precisando la admisión de niños. https://worldsummit.ai/
+- **World AI Cannes Federal 2027** English France; 2027-02-10 国 2027-02-11, precisando el acceso de los niños. https://waicf.com/
+- **SPS Smart Production Solutions 2026** — Alemania; 2026-11-24 – 2026-11-26. Niños 6/9 No puedes.. https://sps.mesago.com/nuernberg/en/expo.html
+- **AI EXPO KOREA 2027** ○ Corea del Sur; 2027-04-14 2027-04-16; los niños 6/9 no pueden. https://aiexpo.co.kr/전시회-개요/
+- **Automation Expo India 2027** India; 2027-06-02 2027-06-05. https://www.automationindiaexpo.com/
+- **LEAP / DeepFest 2027** — Saudi Arabia; 2027-04-12 – 2027-04-15. Niños 6/9 No puedes.. https://onegiantleap.com/
+- **Web Summit Lisbon 2026** Portugal; 2026-11-09 2026-11-12. https://websummit.com/
+- **Web Summit Rio 2027** Brasil; 2027-06-14 2027-06-17. https://rio.websummit.com/
+- **NexTech Week Tokyo · AI EXPO Autumn 2026** — Japón; 2026-11-11 – 2026-11-13. Acceso de los niños a la educación. https://www.nextech-week.jp/hub/en-gb.html
+- **NexTech Week Tokyo · AI EXPO Spring 2027** ○ Japón; 2027-04-21  tío 2027-04-23. https://www.nextech-week.jp/hub/en-gb.html
+- **PAX Unplugged Philadelphia 2026** Estados Unidos de América; 2026-12-04 BWC 2026-12-06, con adultos; las condiciones de entrada de adultos por separado. https://unplugged.paxsite.com/philly/en-us.html
+- **PAX Unplugged Housing 2027** ○ Estados Unidos de América; 2027-06-25 BWC 2027-06-27. https://unplugged.paxsite.com/houston/en-us.html
+- **PAX East Boston 2027** — Estados Unidos; 2027-04-22 – 2027-04-25. Con un adulto; Las condiciones de entrada de los adultos por separado. https://east.paxsite.com/en-us/info/faq.html
+- **gamescom asia Thailand 2026 · días públicos** Tailandia; 2026-10-30 Å 2026-11-01, con adultos; condiciones de entrada de adultos separadas. https://gamescom.asia/ent/b2c-faqs
+- **Taipei Game Show 2027 · B2C public zone** Taiwán; 2027-01-21  PMA 2027-01-24. https://tgs.tca.org.tw/?p=event_info_e
+- **G-STAR Busan 2026 · BTC exhibition** ○ Corea del Sur; 2026-11-19 2026-11-22. https://gstar.or.kr/gstar/gstar_info.do
+- **AI & Big Data Expo Global / TechEx · 2027** English; 2027-02-03 BWC 2027-02-04. Los niños 6/9 no pueden. https://www.ai-expo.net/global/visitor-faqs/
+- **AI & Big Data Expo Europe / TechEx · 2026** — Países Bajos; 2026-10-19 – 2026-10-20. Niños 6/9 No puedes.. https://www.ai-expo.net/europe/visitor-faqs/
+- **AI & Big Data Expo North America / TechEx · 2027** — Estados Unidos; 2027-06-16 – 2027-06-17. Niños 6/9 No puedes.. https://www.ai-expo.net/northamerica/visitor-faqs/
+- **Tech Show London · 2027** English; 2027-03-10 国 2027-03-11; los niños 6/9 no pueden. https://www.techshowlondon.co.uk/attending/visitor-faqs
+- **HRIE Shanghai · Humanoid Robot & Robotics Industry Chain · 2026** China; 2026-12-09 BWC 2026-12-11; especificar la admisión de niños. https://www.humanoidrobotfair.cn/
+- *SIEAR Shanghai · Intelligence Robotics Industry Chain · 2027** China; 2027-06-02 国 2027-06-04. https://www.siearexpo.com/
+- **SIA Shanghai · Automation & Robotics · 2027 · Las fechas varían** ♫ China; se desconoce la fecha. https://www.asia-sia.com/
+- **CHITEC Beijing · siguiente China Beijing High-Tech Expo** China; fecha desconocida. https://www.chitec.cn/web/
+- **Taiwan Innotech Expo · 2027** Taiwán; 2027-10-14 2027-10-16. https://www.inventaipei.com.tw/zh-tw/index.html
+- **Robótica 2026 · Visita pública al festival** — Brasil; 2026-11-23 – 2026-11-29. Acceso de los niños a la educación. https://robotica.robocup.org.br/
+- **MuCi San Cosmos · Planetario digital / Visita familiar SEM** ○ Paraguay; fecha desconocida: adulto; condiciones de entrada de adultos por separado. https://muci.org/
+- **Swiss Robotics Day 2026** Suiza; 2026-11-13. https://swissroboticsday.ch/
+- **Global Industrie Lyon 2027** — Francia; 2027-03-15 – 2027-03-18. Acceso de los niños a la educación. https://www.global-industrie.com/
+- **SIDO Lyon 2027 · IoT / AI / Robotics / XR** — Francia; 2027-09-15 – 2027-09-16. Niños 6/9 No puedes.. https://www.sido-lyon.com/
+- **Technorama Winterthur · Centro de experimentos familiares** Suiza; fecha desconocida: adulto; condiciones de entrada de adultos separadas. https://www.live.technorama.ch/en/visit/faq
+- **Cité des sciences Paris · Exposición permanente de Robots** - Francia; fecha desconocida; https://www.cite-sciences.fr/fr/au-programme/expos-permanentes/les-expositions/robots
+- *Advanced Factories Barcelona 2027 · Automation / robotics / AI** htm España; 2027-03-31  tío 2027-04-02. https://www.advancedfactories.com/en/
+- **Machineering2027 · robots / industrial technology** - Bélgica; 2027-03-24 Å 2027-03-26. https://www.machineering.eu/nl/bezoeken/bezoekersprofiel/
+- **Smart City Expo World Congress2026 · Technology / AI / urban systems** htm España; 2026-11-03 Å 2026-11-05. https://www.smartcityexpo.com/exhibitor-faqs/
+- **Festival National de RoboCup Portugal Open 2027 - Visita** Portugal; 2027-04-21 ♫ 2027-04-24. https://www.festivalnacionalrobotica.pt/
+- **WMF We Make Future 2027 · AI / robotics / tech expo** ○ Italia; 2027-06-10 ♫ 2027-06-12. https://www.wemakefuture.it/
+- **AI Festival Milano 2027 · AI y tecnología** Italia; 2027-02-11 国 2027-02-12; con adultos; condiciones de entrada de adultos por separado. https://www.aifestival.it/
+- **ITEX Malaysia2027 ·vention / technology exhibition** Malasia; 2027-05-27 2027-05-28. https://itex.com.my/
+- **INATRONICS2027 · electronics / components / technology** — Indonesia; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.inatronics-exhibition.net/event-fact-sheet
+- **IISMEX2027 · smart-city technology** ○ Indonesia; 2027-08-24 国 2027-08-26; no se puede permitir a los niños 6/9. https://iismex.com/visitor/
+- **Manufacturing Indonesia2026 · industrial technology** ○ Indonesia; 2026-12-02 BWC 2026-12-05, no se permite a los niños 6/9. https://www.manufacturingindonesia.com/visiting/visitors-faq/
+- **Vietnam ICTCOMM2027 · AI / IoT / EdTech** Viet Nam; 2027-06-29 BWC 2027-07-01. https://ictcomm.vn/en/about-ictcomm/
+- **INTI Robotics & Automation Expo · siguiente edición** info Indonesia; fecha desconocida. https://robot.inti.asia/about
+- **Alpine Robo Games · Espectadores familiares VEX · Basel 2027** Suiza; 2027-02-06 国 2027-02-07, con adultos; las condiciones de entrada de adultos por separado. https://www.techlabs.ch/vex-events-products
+- **Hisparob ERW · Feria de robots familiares 27 de noviembre de 2026** España; 2026-11-27 con adultos; condiciones de entrada de adultos por separado. https://erw.hisparob.es/
+- **Hisporob TechTalks · AI en cirugía robótica** - España; 2026-11-19. https://www.hisparob.es/hisparob-techtalks-abordara-el-impacto-de-la-ia-en-la-cirugia-robotizada/
+- **Paris Air Show 2027 · fines de semana y tecnología familiares** - Francia; fecha desconocida: adulto; condiciones de entrada de adultos separadas. https://www.siae.fr/en/general-public/
+- **tech&fest 2027 · Grenoble · deep tech / AI / industry** htm Francia; 2027-02-03 国 2027-02-04. https://www.tech-fest.fr/
+- **Tech Show Madrid 2026 · AI / cloud / data / cyber** ♫ España; 2026-11-04 ♫ 2026-11-05. https://www.techshowmadrid.es/
+- **World Drone & Robotics Show Nigeria 2027** Nigeria; 2027-03-23 2027-03-25. https://www.nisecexpo.com/
+- **GITEX Nigeria 2027** Nigeria; 2027-09-28 2027-09-30. https://gitexnigeria.ng/
+- **Expand North Star2026** ○ Emiratos Árabes Unidos; 2026-12-08 国 2026-12-10. https://expandnorthstar.com/
+- **AI Everything Abu Dhabi2026** ○ Emiratos Árabes Unidos; 2026-10-06 2026-10-07. https://www.aieverythingabudhabi.com/home
+- **Web Summit Qatar2027** ________________ Qatar; 2027-01-31 2027-02-03. https://qatar.websummit.com/
+- **Museum of the Future · Exposición de tecnología familiar** - - Estados Unidos de América; fecha desconocida: adulto; condiciones de entrada de adultos por separado. https://prod-origin.museumofthefuture.ae/en/plan-your-visit
+- **Festival des Technologies · Colomiers ·Family AI / Roboty/Juego** __ Francia; 2026-10-17. Con adultos; condiciones de entrada de adultos por separado. https://metropole.toulouse.fr/agenda/festival-des-technologies
+- **Lumières sur le Quai 2026 · maker familiar / digital federal** Francia; 2026-10-17 XXX 2026-11-01, con adultos; las condiciones de entrada de adultos por separado. https://quaidessavoirs.toulouse-metropole.fr/festival-lumieres-sur-le-quai/lumieres-sur-le-quai-2026/
+- **Bot Fest Nantes 2027 · Festival de robot familiar** Francia; 2027-02-13 con adultos; condiciones de entrada de adultos separadas. https://botfestnantes.fr/infos-pratiques
+- **FLL France 2027 · Futuroscope · visita familiar gratuita** Francia; 2027-03-26 2027-03-28 con adultos; condiciones de entrada de adultos por separado. https://fll2027.fr/infos/
+- **Advanced Manufacturing Madrid 2026** España; 2026-11-04 2026-11-05 No se permite a los niños 6/9 https://www.advancedmanufacturingmadrid.com/es/entradas/
+- **Swiss AI Summit 2026** — Suiza; 2026-11-16. Niños 6/9 No puedes.. https://www.swissaisummit.com/
+- **SIAMS 2028 · microtechnology / automation** ○ Suiza; 2028-04-04 国 2028-04-07. https://www.siams.ch/Practical-information
+- **VivaTech 2027 · General Public Day** - Francia; 2027-06-19. https://vivatech.com/b2b-passes-terms-conditions
+- **Industrial Transformation Asia-Pacific 2026** — Singapur; 2026-10-21 – 2026-10-22. Acceso de los niños a la educación. https://industrial-transformation.com/ticketing-options/
+- **Industrial Transformation Asia-Pacific 2027** Singapur; 2027-07-20 BWC 2027-07-22. https://industrial-transformation.com/ticketing-options/
+- **GITEX AI ASIA 2027** ○ Singapur; 2027-04-29 2027-04-30; los niños 6/9 no pueden. https://gitexasia.com/
+
+## ~ Añadida en esta versión
+
+- C1134 · **FIRST Japan · FLL Explore BIOGLOW · Kanto · 2026** · Japón · 2026-12-13 · https://firstjapan.jp/events/fll-explore-2026-2027/
+- C1135 · **FIRST Japan · FLL Explore BIOGLOW · Tokai · 2026** · Japón · 2026-12-13 · https://firstjapan.jp/events/fll-explore-2026-2027/
+- C1136 · **FIRST Japan · FLL Explore BIOGLOW · Kansai · 2026** · Japón · 2026-12-06 · https://firstjapan.jp/events/fll-explore-2026-2027/
+- C1137 · **FIRST Japan · FLL Explore BIOGLOW · Kyushu · 2026** · Japón · 2026-12-06 https://firstjapan.jp/events/fll-explore-2026-2027/
+- C1138 · **FIRST Japan · FLL Challenge BIOGLOW · Kanto · 2026** · Japón · 2026-12-19 · https://firstjapan.jp/events/fll-challenge-2026-2027/
+- C1139 · **FIRST Japan · FLL Challenge BIOGLOW · Tokai ·2026** · Japón · 2026-12-13 · https://firstjapan.jp/events/fll-challenge-2026-2027/
+- C1140 · **FIRST Japan · FLL Challenge BIOGLOW · Kansai · 2026** · Japón · 2026-12-06 · https://firstjapan.jp/events/fll-challenge-2026-2027/
+- C1141 · **FIRST Japan · FLL Challenge BIOGLOW · Kyushu · 2026** · Japón -2026-12-06 · https://firstjapan.jp/events/fll-challenge-2026-2027/
+- C1142 · **FIRST Japan · FLL Challenge · National BIOGLOW 2027** · Japón · 2027-02-14 · https://firstjapan.jp/events/fll-challenge-2026-2027/
+- C1143 · **FIRST Japan · FLL Explore · National Festival 2027 · Planificado** ~ Japón · nuevas fechas no anunciadas https://firstjapan.jp/events/fll-explore-2026-2027/
+- C1144 · **FIRST Japan · Future Edition 8+ · National BIOGLOW 2027** · Japón 2027-02-13 · https://firstjapan.jp/events/fll-future-edition-8/
+- L454 · **ASIJ Chofu · Summer Day Camp · siguiente juego** · Japón · nuevas fechas no anunciadas · https://sdc.asij.ac.jp/sdc-at-chofu
+- L455 · **YWIES Tongxiang · VEX Summer Camp · día / internado · siguiente juego** · China · nuevas fechas no anunciadas · https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+- L456 · **YCIS Beijing · VEX Robot Olympics & Sports · siguiente juego** · China · nuevas fechas no anunciadas · https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+- L457 · **YCIS Shanghai Pudong · English Enrichment + STEAM · siguiente juego** · China · nuevas fechas no anunciadas · https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+- L458 · **Young Coders Academy · Beijing / Shanghai · el conjunto actual de aclaraciones** · China · nuevas fechas no anunciadas · https://youngcodersacademy.net/weekend-classes/
+- L459 · **STEAM SQUAD · ESM Early Simple Machines · curso ordinario** · Taiwán · nuevas fechas no anunciadas https://steamsquad.io/en/courses/k3-esm
+- L460 · **STEAM SQUAD · WeDo Computer Controlled Machines · Curso ordinario EN** · Taiwán · No se han anunciado nuevas fechas https://steamsquad.io/en/courses/computer-controlled-machines
+- L461 · **STEAM SQUAD · Code Club Python Foundation · curso ordinario** · Taiwán · nuevas fechas no anunciadas · https://steamsquad.io/en/courses/code-club
+- L462 · **YCIS Beijing · CREST Science & Sports · El siguiente conjunto EN** · China · No se han anunciado nuevas fechas · https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+- L463 · **YCIS Qingdao · Immersive English + AI · el siguiente conjunto** · China · las nuevas fechas no se han anunciado · https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
+
+## Discrepancias y acceso a las fuentes
+
+- *ROBO-ONE LATAM**: El antiguo dominio se ha desviado a un sitio de gabling externo; no se utiliza como registro. https://www.robo-one.com/en/
+- **SeaPerch 2027**. El Handbook contiene títulos mixtos de la temporada y fechas de publicación de las regiones; la versión de la clase debe aclararse. https://seaperch.org/programs/2027-challenge/
+- **FIRA qualification**. La descripción de la solicitud de dos páginas y el cuadro de seis páginas del TDP difieren; confirma la categoría Youth. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
+- *Acceso secundario a fuentes antiguas**. Algunas páginas de Brazil / Chile / iREX y CIROS no han sido leídas. No se han obtenido nuevas fechas ficticias.
+- **gamescom Cologne 2027**. Opening-times / visitors sólo volvieron a dar el título. El fragmento de búsqueda no se utilizó como fecha confirmada; la tarjeta no tiene días exactos. https://www.gamescom.global/en/info/opening-times
+- **PAX Aus: exactamente 6 años**. FAQ permite entrar gratuitamente hasta 6 años; Terms exige badge con 6 años. https://aus.paxsite.com/en-us/terms-and-conditions.html
+- **PAX Unplugged Philadelphia: Kids days**. FAQ escribe Sunday-only, y Buy-badges propone Kids 3-Day / Fri / Sat / Sun. Aclarar la versión actual antes de comprarla. https://unplugged.paxsite.com/philly/en-us/registration/buy-badges.html
+- **Helvetic Institute Zug / TechLabKids Barcelona**. agregador / el catálogo general no ha confirmado el futuro exacto STEM-el cambio y la lengua. No se han añadido fechas ficticias o el precio gratuito 0€ de la placeholder.
+- **SIA Shanghai 2027: conflicto oficial de fechas**: 16 de junio a 18 de junio de 2027; título del registro: 1 de julio a 3 de julio de 2027; conflicto no resuelto: no hay días exactos en el calendario. https://www.asia-sia.com/article/vistform/k/1.html
+- **TechEx North America: años mixtos** Días 16***17.06.2027 y el sitio está confirmado por FAQ, Speakers 2026 / California 2026 no se ha utilizado como compuesto 2027. https://www.ai-expo.net/northamerica/visitor-faqs/
+- **TechEx Student Policy y Tech Show London child gate**: cada TechEx FAQ excluye a los estudiantes de expo / theatres; Tech Show pide que no traigan a los niños; cuatro tarjetas para adultos no prometen la entrada familiar. https://www.techshowlondon.co.uk/attending/visitor-faqs
+- **Liota Winter Camp: Período en contra de la duración**. Período 17.12.2026–04.01.2027 contiene 19 días civiles, Pero se llama cuatro semanas.. Edad e idioma de cambio; período no exportado a ICS. https://liotacamps.com/
+- **CENFOTEC Makers modality / vecino AI course**. La página actual de Makers, de 10 a 12 años de edad, no es aceptada. Explorador IA: 14 a 16 años, no es apropiada para los niños 6 / 9. https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/
+- **TIRT 2026 · conflicting registration versions**. A event page deadline 18.10.2026, en el Reglamento de la Corte Penal Internacional 25.09.2026 con la reserva de posible modificación. No se ha establecido ninguna prioridad para las versiones: El paquete activo confirma antes de comprar el vuelo. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
+- **GRG Taiwan · AIMS age bands**. La contradicción de la página local: 7–12 / 13–16 contra Primary 9–12 / Secondary 12–17 https://global-robotics-games-taiwan.github.io/
+- **Taiwan Innotech · mixed editions**. El jefe lo anunció. 14–16 octubre 2027, Pero la regla de la familia es para los niños antes de que 12 Se refiere a adultos 2026. Superficie y admisión de niños 2027 debe confirmarse. https://www.inventaipei.com.tw/zh-tw/menu/9AE53DD53E13DB84D0636733C6861689/info.html
+- **TecPro Virtual · Entornos Inteligentes**. En virtual PDF v 1.0 cuadro por página. 6 da Entornos Inteligentes 13–18, a Sección 3.4.4 página. 17 — 15–18. Prioridad de la versión / Fronteras. U Animaciones 5–9 y Videojuegos 8–12 No se encontró ninguna discrepancia. https://drive.google.com/file/d/1UQ-IF-hHl0svWxMTaNlo9qI2H_29MxNi/preview?usp=drive_link
+- **FTC México · de las diferentes generaciones de reglas**. El calendario y la inscripción indican 2026–2027; lineamientos de la nada URL Se titulan 2025–2026, v 080925. Ellos. HOME EVENT, y cuotas no se consideran normas de actualidad 2026–2027. En la página antigua de la tarifa MX$6 960 / 3 500; Costo y Registro por temporada 2026–2027 muestra MX$7 500 / 3 750. Para pagar, se necesita una cuenta en marcha.; Cantidades no aplicadas. https://www.first.org.mx/fm/lineamientos-oficiales-para-la-participacion-en-regionales-y-clasificacion-al-nacional-de-ftc-temporada-2024-2025-de-mexico/
+- Liga Chile · Trasladar y tamaño del comando**. El calendar actual lleva a OPEN a Santiago el 30 de octubre, la antigua página individual de la Conferencia el 9 de octubre. Escolar 4 alumnos + tutor contra 6 personas; Maipú Futbol contra la línea Sumo. Tiempo de OPEN 11:00 / 12:00 se separa. https://torneorobotica.cl/
+- **Puerto Montt · 13 / 20 de noviembre**: Usado el 13 de noviembre para una página individual y una homepage actual; las primeras noticias de abril dan el 20 de noviembre; la segunda fase ficticia no se ha creado. https://torneorobotica.cl/torneos/inacap-puertomontt-2026/
+- **Troonic Camp · Revisados en forma mixta**. 2027 header da dos Mon–Thu Grupo; y los autobuses de viernes y masterclasses, regular FAQ 2024 / offer 2023. Sólo anuncios 4-ventanas diurnas; Viernes / No se inventó el curso por hora. https://troonic.com/troonic-camp-2027/
+- **RoboRAVE Chile · manual generation**. Filename V6.1 contra dentro V6.2; portada Japan 2026 contra la sección Houston 2027. ES 8–11 Leer en un portal conectado, Exclusión por edad Oscar 6 No encontrado. https://roborave.cl/wp-content/uploads/2026/09/Rules-RoboRAVE-International-Challenges-02-09-2026-V6.1-ES.pdf
+- **Después de la fecha Inscripciones abiertas**. INTERCON page se refiere a 12–13 agosto 2026; Umake live course Abril 2024. Disponibilidad del formulario / Las cestas no confirman el nuevo juego. https://www.intercon.org.pe/concurso-robotica/
+- **LMAC y TechLab Kids ·Historia/acceso** LMAC summer page contiene start 2025 contra el programa 2026. TechLab Kids page ahora timeout; no se ha vuelto a leer, no se ha confirmado el teaching ES tag. https://www.lmac-roboticaeducativa.com/vacaciones2026
+- **OBR 2026 · Clases y fechas**. Nível 1 en el registro PDF — 1–8-¡Calle!, Nível 2 c 8-go: cerrar. PDF el final 23–27 de noviembre, Noticias — 23–29 de noviembre. La edad no sustituye a la clase. https://obr.robocup.org.br/wp-content/uploads/2026/03/OBR2026_MP_Manual-de-Inscricao.pdf%20
+- **CBR 2026 - Solicitud inicial y pago**: la presentación se cerró el 24 de agosto; el pago Early hasta el 29 de octubre / Regular hasta el 15 de noviembre se refiere a las órdenes aceptadas; la Tarifa Mayor extranjero no se ha trasladado a Junior. https://cbr.robocup.org.br/index.php/inscricoes/
+- *MNR · calidad de HTML primario**. En el dominio oficial se pueden ver los recuadros SEO externos. Se lee el calendario y FAQ; la Robótica confirma por separado el festival general. Los días locales y las normas extranjeras se vuelven a comprobar. El manual escaneado está cargado y no se ha declarado la lectura completa de OCR. https://robotica.robocup.org.br/
+- *FLL Paraguay - diversas versiones de la temporada**: BIOGLOW 2026 encaminados a la aplicación de la norma 2027. Las páginas principales mantienen SUBMERGED 2024-2025 y EV 3, registro ♫ 2025-2026. Las nuevas tarifas, los juegos autorizados y las fechas no se han arrastrado de la versión antigua. https://fll.robotica.com.py/temporada-2026-2027/
+- **MOT · Nuevo emplazamiento**: la página común guarda la página 465 de Mayor Riverola; la página actual del segundo semestre da Austria 2400 a partir del 1o de agosto de 2026; Halloween, el 31 de octubre, en el nuevo emplazamiento; el verano pasado, 2027. https://www.mindsoftomorrowparaguay.com/colonia-s2-2026
+- **WeCode / UMSA / Jopoi · fechas históricas**. WeCode — Febrero 2026, UMSA — ventana anterior 2 agosto–25 septiembre con un comienzo no convenido / horas. U Jopoi robotics Año, summer FAQ - Sí, claro. 2024 y dedicado a la naturaleza / Arte. https://www.wecode.edu.uy/verano
+- **MuCi · Cerrada TatakuaLab**. Viejo Astra 14 octubre y exposiciones 2022–2023 se mantienen en la dirección principal; texto actual cierra TatakuaLab Desde marzo 2026 y planea un nuevo museo para 2028. San Cosmos se examina por separado. https://muci.org/
+- **Brillantmont: Fechas 2027 y texto antiguo Tech Academy**. Fees / Apply lo hacen. 3–17 y 17–31 julio 2027. La descripción del curso deja fechas antiguas. 4–18 julio / 18 julio–1 agosto. Uso de datos específicos Fees 2027. https://summer.brillantmont.ch/apply-fees
+- El idioma básico, la ayuda y las lecciones de idiomas**: Berlin regular tiene una ayuda de DE + EN; German holiday camp no promete eso. English Summer / UWC / Conversa ofrece lecciones en inglés, lo que no demuestra todos los robotics en EN. Newton staff / XCL FAQ dan a EN un candidato con condición de confirmación. https://trainthefuture.de/en/camps/robotics/
+- **Programa residencial: Edad mínima específica**. St George’s Junior STEAM 8+, Brillantmont / Zuoz 10+, TechCamp 9 por año civil, Berlitz 8+, Embassy 9+. UWC day 4–14 no abre boarding 12–18. Zuoz Junior Day 6–9 — Idiomas / outdoor programa. https://www.uwcthailand.ac.th/beyond-the-classroom/summer-camps-2026
+- **Newtonshow: La ventana de invierno y la vieja Robotics página**. Páginas locales dan 23 noviembre 2026–29 enero 2027 como elección de días / semanas. Pure Robotics SG conflicto 5–12 / 5–13 y fechas sin año. La nueva propuesta de invierno no se ha convertido en una prueba separada LEGO cambiar. https://www.newtonshowcamp.com/robotics-camp
+- **Hakatons: Formato y fase civil**. Penang final requiere una selección. Iron Scholars November hackathon 2025 cerrado, October workshop 2026 por separado. LSC 2 diciembre — Inicio, 21 diciembre — Resultados. IKCC específicos January 3, 2027 tiene prioridad sobre generic January 1. https://www.lsc-challenge.org/lsc2026
+- * Candidaturas históricas/no confirmadas**: Aalto 2026 cerrado; Zuoz PDF, Spain summer y WONDER 2026 no se han trasladado a 2027. Embassy Smart Skills 2027 no es robótica. English camp Young Engineers Berlin sólo se encuentra en el agregador; Panama OEI 2021 nder turno familiar no actual. https://embassy.camp/smart-skills-camp-in-malaysia/
+- **Global Appathon / G 4 C, nuevas temporadas** Global Appathon: Adult vs All-Ages, peso técnico y antiguo block de prize, G 4 C: March 30 sin firma en línea y Last Years Award Categories, y la contradicción no se ha eliminado con la suposición. https://globalappathon.org/faq/
+- **Avishkaar · período de vigencia variable**. Landing: virtual stage 1 Sep–30 Nov y Delhi final 15–16 Jan 2027 con la marca subject to change. Current Makeathon / CodeQuest page state: registration ends 30 Oct 2026; IRC narrative: Delhi dates TBA. No se ha seleccionado un plazo único ficticio. https://community.avishkaar.cc/avishkaar-league-2026
+- **FIRST India · abiertamente / cerrado**: Cached page muestra registrations now open; HTML fresco y web repetida muestran Sept 30. Late / foreign entry y el año cutoff. https://www.firstrobotics.co.in/first-lego-league/
+- **Japan · Robotics AI select sessions**. TCC no promete robotics / AI a cada grupo. Coding Lab nuevo holiday-Calendario no instalado; ¥0 no reconocida como una tarifa real. https://www.tokyocodingclub.com/our-camps/
+- **Panama · antiguo summer 2026**, Explora 2027 no se declara en la homepage leída; Cacao Camps nature / adventure no se acepta como robotics camp. https://www.explorapanama.org/
+- **Korea · Página de referencia no disponible para volver a cotejar**. ROBOTWORLD English visiter page devolvió una HTTP 200 vacía; Korean root ○ reedrect remendar. Los datos anteriores del E010 se han conservado, el nuevo camp 6/9 EN no está confirmado. https://eng.robotworld.or.kr/visitors/information.php
+- **iREX 2027 · Fechas exactas aún no determinadas**. Primary search / report Se queda. Early December 2027 tentative. En una nueva apertura 403; Falsificaciones December 1–4 no añadidos. https://irex.nikkan.co.jp/
+- **v 25 · school fees and family residency background**. ISP retains a 2025–26 application-processing sentence beside published 2026–27 fees; no current place inferred. Direct Gold Card FAQ fetches failed. Opened Taiwan NIA article of 18 January 2025 used only for general dependent ARC background; no current fee / visa-free nationality / individual approval claims.
+- **RoboLand · El antiguo dominio ha sido reemplazado**. 01.10.2026 root muestra contenido externo; no se utiliza para la solicitud de niños. No se ha encontrado ninguna nueva disposición ni fecha final. https://www.gov.kz/memleket/entities/edu-osakarovka/press/news/details/1141030?lang=kk
+- **RGT · cached 2026 contra current 2027**. Nuevo organiser HTML Proclama AstanaMarch 3–4 / TaipeiMay 29–30, cinco categorías y falta de selección regional. Viejo cached 2026 No se ha movido la selección. https://rgt.robotek.kz/
+- **FIRST / TechCup · La última temporada en la web.**. FIRSTKazakhstan homepage 2025–26 y TechCupsite 2025 no prueban un nuevo juego. Públicos 2026 informes guardados como historia. https://www.gov.kz/memleket/entities/edu/press/news/details/1161888?lang=ru
+- **Caz Robotix / Robotek · Fuente parcialmente inaccesible**. kazrobotics.org / form devuelve HTML corto y vacío; PDF 2019 antiguo no PDF.edu.robotek.kz tiene un certificado de TLS vencido; RUinstruction no está confirmado. https://t.me/s/kazrobotics2020
+- CoderZ League**. Fall / Spring de 2023, root 2022, FAQ mezcla 2020 /2023 y grade marco. No se ha declarado la nueva temporada. https://competition.gocoderz.com/fall-league/
+- **iD Tech Global Academies**. Offer 2025 y 13–17; Spanish instructor description se separa de Mandarin-only FAQ. No cambiar 2027 y no un internado 6/9. https://www.idtech.com/global-academies
+- **BJRC 2026**. Friday 15 August 2026 No coincide con el calendario.; Nueva ventana no se ha sacado de la página antigua. Turístico non-CARICOM Entrada no confirmada. https://caribbeanscience.org/barbados-junior-robotics-camp-2026/
+- **NIHERST FTC**. la página completa da un cierre de protección; la temporada actual se encuentra en el índice oficial. el reglamento leído no se declaró. https://www.niherst.gov.tt/scipop/first-tech-challenge.html
+- **IGVC / IARC**. El nuevo season launch anuncia las fechas / ventana; los sitios web completos no se han leído. Los errores técnicos de acceso no se han visto afectados por el desconectamiento de la verificación del certificado. https://robonation.org/2027-season-launch/
+- **BrainPlay overview versus Mairangi host age**. Sinopsis 5–12, registro específico Code Club 9 octubre 2026 estrictamente 7–12; Oscar está fuera de este día.. https://mairangi-arts-centre.live.baluu.co.uk/event/code-club-with-brain-play-1787526688
+- **National school gates and open foreign teams**. STEM Video Game Challenge Exige Australian citizenship/residency Y Year 3–12 en Australia; RCJA expresamente permitido foreign teams, pero no su selección mundial. https://www.robocupjunior.org.au/wp-content/uploads/2026/02/2026-RCJA-General-Rules.pdf
+- **Fiji camp language and price**. Formato y edad del turismo 6–16 confirmado. Indizados booking summaries Sí, sí. English, pero leídos en la actualidad vendor details no confirman el idioma de enseñanza; $199 Sin moneda de precisión. https://www.kidzcodecamp.com/
+- **RCJA dynamic calendar**. La descarga del calendario que se lee contiene plantillas sin fecha de descarga; es un vacío de verificación, no prueba que no haya competencia. https://www.robocupjunior.org.au/challenge-regions/nat/nat-events/
+- **FLLSpaincurrent registrationversusgeneralhomepage**. 2026/27 Discover no disponible; Founders Challenge 10–16; Future K8 8–16 competitive, 4–10 Niños/2 Nuevo robot. Prioridad current seasonregistration. https://firstlegoleague.soy/inscripciones-bioglow/
+- **Helvetic 2027 tables/dateandageconflicts**. Roboticspage 2027 vs Total overview 2026/datescomingsoon; 13–16 July 2027 named Mon–Fri Contrapuesta Tue–Fri. L222 start vacío. Intro 7+ vs 6–9 groups y 4–12 camp; ENrobotics no confirmado. Regresos recientes HTTP solicitudes 403/timeout, El primer éxito web descargado. https://www.helveticinstitute.ch/robotics-ai-and-coding/
+- **France Junior 7 or 8 minimum / olddeadline**. Currentparticipation 8–18, olderpresentation 7–18. Viejo 31 Dec 2025 deadline y May 2026 final no arrastrado 2027; known 2027 regionaldates guardados. https://www.coupederobotique.fr/participer-a-la-coupe-junior/
+- **BaselrankversusOPRand selección mundial**: Roboticsoverviewnational 2 nd; Alpine 2026 report 4 thoverall/2 ndoPR; Worldqualificationreport publica la primera evaluación de los mayores, premio no oficial; aún no se ha recibido el documento Organizazerprotocol. https://www.isbasel.ch/connect/news/news-post/~board/isb-public-news/post/isb-robotics-teams-shine-at-alpine-robo-games-2026
+- **Tinkerconsumeradmission / Summer 2027 wrongrowyear**. Herramientas para los centros, campamento familiar indirecto. Currentwinter/spring 2027 providerwindows muestra P4; líneas de verano 2026 a 2027 heading no se han reparado. https://fr.tinkerrobotlabs.com/stages-vacances
+- **Bdro: Open y la ruta internacional**. La gate local se mantiene; Quiz no lleva a IRO, la medicina nacional no garantiza la selección de los equipos. https://bdro.org/
+- **Pakistan: current result / archived rules**. Comunicaciones 2026 Confirman national; local 2025 guide conflicto team size y un precio obsoleto. La nueva admisión no se ha retirado de la tienda de marketing. 6–25. https://www.linkedin.com/company/wro-pak/
+- **Sri Lanka: national selection ≠ world prize**. Escuelas names en national 2026 no utilizados como calificación mundial independiente. https://www.burhani.edu.lk/world-robot-olympiad-sri-lanka-nationals-2026/
+- *ROBO-G: verano de 2026 y Fundación**. https://robog.in/camps
+- **Rancho: junior banner / senior online links**. Junior 2°12 está disponible para summer / Noida; leído en línea enlaces ° senior 6°12. https://home.rancholabs.com/summer-camps-for-kids-and-teens
+- **BBT: edad de los distintos cursos**: Robotics de 6 mecanismos; AI / entrepreneurship de 12 a FAQ: Banner 6***15 no amplía la AI admission. https://bbt.edu.pk/kids/
+- **M.E.E.T.I.: dos formas diferentes**. Foreign General Application existe; Gratuita government-school scholarship No se abren extranjeros. camp. Junior 4–5 separado de advanced-after-O/L syllabus. https://www.meeti.lk/admissions
+- **India Space Academy: idioma mixto**. HI/EN se indican directamente, English-only Corriente no instalada; INR 150 se refiere a workshop, No todo camp. https://isa.summercamp.indiaspaceweek.org/
+- **Dolex: EN y nivel superior**. EN technical instruction confirmado; Grade 6*11 y fechas próximas a OpenDay 2025 no se han convertido en un campamento de verano. https://dolex.lk/
+- **Coral / RoboSticks: tarjeta de búsqueda obsoleta**. El sitio web actual contiene preschool / clubs, pero no confirma la búsqueda de summer robotics offer. No se ha añadido la tarjeta de campamento. https://corallearning.net/
+- **La Garenne: Campamento general y Robotics**. Campamento general 5 No se permite la entrada en vigor de la Convención Robotics 8+; El inglés matutino no es una clase técnica inglesa; 3/2 Diferencias en las clases. https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf
+- **SwissWRO Yverdon weekday**. 29 Nov 2026 en Saturday; civil Sunday. Fecha confirmada no exportada. https://wro.swiss/en/courses/courses-for-kids/
+- **EPFL Edad temprana / Lugares**. Robotics 11–13; October 2026 y waitlist Total; 2027 registration Cifra prevista March Un día sin hacer nada.. https://www.epfl.ch/education/education-and-science-outreach/fr/jeunepublic/camps/
+- **MagicMakers year / language**. Días sin año; 26/27 en el contexto de la fertilización; EN no confirmado; available=true no reservation. https://www.magicmakers.fr/products/explore-le-monde-des-intelligences-artificielles-primaires
+- **RoboCupFranceDiscovery grades**. Overviewmaternelle/CP–CE2 vsbodyCycle 1–3 vsOpen 2026 age 5–10; eventrule especificar; No. worldroute. https://www.robocup.fr/onstage
+- **WROSpainStarternames / quotas**, Start 8Ö12, Rookie 11I15 no RoboBasic desde los 6 años; Training ○ informal practice; quota 2026 no quota 2027. https://www.wroboto.es/robomission/
+- **AdvancedFactoriesstudent**: Studentroutegraduates/masters, finalday 13: 30 approval; no child 6/9; roster 2027 será aproximadamente 1 mes. https://www.advancedfactories.com/en/visit/faqs/
+- **Wrong / unavailable candidates**. Complubotfetchtimeout; gessCité/Technorama 404; bisfrance.com resultó ser un negocio sin fines de lucro. No utilizado como una escuela olevidence. Real schooldomainbordeaux-school.com leído. https://www.bordeaux-school.com/learning/primary
+- **RoboCup Germany 2027 vs old overview**. La página final actual 2027 dice 10 qualifiers; las páginas más antiguas 2026 dicen 9. GermanOpen 2027 se pierde; Entry no es worldqualification. https://robocup.de/events/junior-finale-2027
+- **Belgium age cutoff**. El cuadro de la temporada 2026/27 indica la edad al 1o de enero 2026. No se puede sustituir en silencio a 2027 por año; hay que confirmar el cutoff / cumpleaños exacto. https://www.voka.be/first-lego-league-be/timing
+- **Netherlands Future rollout**. Local actual division 8–14; Sinopsis 5–14 no prueba de un grupo pequeño local 6 años. https://firstlegoleague.nl/dit-seizoen/future-8-t-m-14-jaar/
+- **WRO Germany final provisional**. 24–25 junio 2027 Munich Otra vez. preliminary; No se ha cerrado la financiación. Fechas a period, start / end en blanco. https://www.worldrobotolympiad.de/saison-2027/
+- **NEMO Game On date conflict**: Vistorpage actual 10 de julio a 25 de octubre de 2026, antigua pressrelease 11 de julio a 26 de octubre, utilizando el calendario actual de la exposición. https://www.nemosciencemuseum.nl/en/to-do/exhibition/game-on
+- **Camp language distinctions**: NewTechKids English+ Dutch teaching; GarnaEnglishRobotics, CodeFeverDutchteaching con Enhelp; el inglés-Inglés de la escuela, Inc. https://www.wintercircus.be/en/academy/ai-camp-for-kids
+- **TechSparkcourse/calendar**. LEGO 6+ Total de las becas branchmenus; 13 Reajustado como GameDesign 7+, no Robotics. https://online.techsparkacademy.ch/robotics-course/
+- DACH admisión extranjera** FLLforeignteamentary está autorizada, sólo progression homecountry, que se refiere a la lengua tradicional. https://www.first-lego-league.org/en/faq
+- **Exploreageconflict**. CurrentFAQ 6–9 vsdivision 6–10; Matvey 2017 Puede salirse 9 Esquimal event 2027. https://www.first-lego-league.org/en/faq
+- *SwissVEXAlpine**: No se permiten los teams primarios completos: no se permiten los teams. DirectHTTP 403, webreader. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4448.html
+- **TechLabsInventors**. Body 6–8 vsbooking 5–9; waitinglist A pesar de Availableplaces 8; index 09–09: 15 Reemplazado con detalles half/fullschedule. https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Junior%20STEAM%20Camp/Junior%20STEAM%20Inventors%20Camp/Zurich%20%20TechLabs/Camp.ed.af69e8b719e3_7736661121.ZH%20%20Junior%20STEM%20Inventors%20Camp%20%20%20Age%205-9%20%20Oct%2012-16?edref=techlabs
+- **TechLabsBattle**. Header 8–14 vsAge 9+; EN&FRsupported no básica EN; 5–9 Octwaitinglist A pesar de 8 places. https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Holiday%20Camps/Robotics%20Camps/Battle%20Bots%20Camp/Z%C3%BCrich%20%20TechLabs/Camp.ed.4cafc357c147_5988853171.ZH%20%20Battle%20Bot%20Robotics%20Camp%20%20Age%208-14%20%20Oct%205-9?edref=techlabs
+- **Ecolintarchive/current**. 2026 Introduction 5–7 bookingvs 5–6 body; olderEV 38–13 page 2025 No es de niñera. 2026 cambio de turno. https://www.ecolint-camps.ch/en/camps/introduction-robotics-10
+- **Unionmixedpackage**: En Academy 45/90 min coding, el resto de mechanics/yoga/sport; los estudiantes externos son admisibles, la escuelaFrassessment por separado. https://unionschool.paris/en/academy/
+- **Francevisitorcalendar**, Coupeheader 2027, accessbody/publicdays 2026 y WERTTECH 2026; no confirmado en publicICS. https://www.coupederobotique.fr/horaires-et-acces/
+- **Spainprimarygates**: ASTI superior ESO 3/4; ASCIntercoles locales colegios y clases contradictorias 25/26; nacional no universal. https://alsalirdelcole.es/first-lego-league-intercoles-challenge-asc/
+- **SmartCityminors**. Professionalmenorsban con excepción youngchildren; edad numérica determinada, MinorForm requerido. https://www.smartcityexpo.com/exhibitor-faqs/
+- **TechLabsFAQtemplate**. FAQ contiene templatequestions; no se utiliza como edad normal/ idioma/recepción. bookingpages detallados leídos. https://www.techlabs.ch/faqs
+- *FLL Italia duplica** Lecce Explore, repetido el 10 de abril en la fuente; 27 registros regionales diferentes publicados, sin fecha de futuro. https://firstlegoleague.it/p/eventi
+- **FLL Italia season**. Founders antes 2027/28 — Plan de Operador Nacional, no una garantía global FIRST. Contribuciones corrientes / foreign quota desconocidos. https://firstlegoleague.it/p/edizioni
+- *HF language exception**. English & Robotics / Storytelling: EN lessons, parte técnica de IT. El EN completo se refiere al resto de los programas leídos por Summer Academy. https://courses.h-farm.com/en/pages/faqs
+- **HF age / old summer**. Robotics 8–10 en el título, 7–9 en la versión del pedido; Fechas y precios 2026 No arrastrados al nuevo verano. https://courses.h-farm.com/en/collections/8-10-y-o-summer-academy-2026/products/robotics-creativity-sports-daily
+- **Vicenza reader conflict**. HTTP de reciente aparición da 2026/27 Vicenza; web reader ha mostrado anteriormente el antiguo 2024/25 Venice. https://schools.h-farm.com/en/afterschool/
+- **ISS legacy redirects**. https://taguspark.sharingschool.org/
+- **FNR Junior age**. Nueve páginas del Junior tienen normas provisionales; la edad, el tamaño completo y la cuota mundial no se han leído ni prometido. https://www.festivalnacionalrobotica.pt/2027/ligas
+- *Robo Party gate**. El mínimo de años / EN instruction no está publicado en las normas; el equipo familiar está permitido, el adulto tiene supervisión, el formato de la escuela. https://www.roboparty.org/RPGuimaraes/pdfs/Regulamento.pdf
+- *PT camp language**. EN navigation / English copy no confirmó las clases técnicas EN/ES The Inventors / JumpUp / Lagos. https://lagos.cienciaviva.pt/394/ferias-com-ciencia
+- **WMF stale FAQ**. Inicio 10–12 junio 2027, pero FAQ title 2026 y viejo 23/06. Condición de niño antes de 14 debe confirmar para la nueva edición. https://www.wemakefuture.it/faq/
+- **LGW family / school**. School group EUR 10/12 Exige 10 alumnos y teacher; no familiar ni probado child free 2026. https://lisboagamesweek.pt/visitar/
+- **Unresolved Italian SPS**. La página oficial del SPS no está disponible / nueva versión de la página de correo electrónico se encuentra en la página 404; la fecha es 2027 y el acceso a los menores no está previsto. https://spsitalia.it/
+- **Portugal FLL current season**: la experiencia anterior de JumpUp como socio FIRST no confirmó el operador actual ni el calendario FLL Portugal 2026/27. https://www.jumpup.pt/clubes-de-robtica-e-game-development
+- **NRC/NROC school/age/team**. NROC 2 homepage vs 2–3 rules; NRC 3 teacher. Primarylocal 10–12 no globalWRO 8–12. Foreignschool/guest/worldquota Se necesita por separado.. https://nroc.sasbadi.com/competition
+- *Vietnam RECF date/grade conflicts**. Hanoi 17 OctDatesvs 2-dayagenda; OpenFeb 19-21 vs 2-dayagenda; ScrimmageMiddle-only, un poco más de ElementaryENoverview. Se mantiene la grada más estrecha, no se inventó un día. https://recfevents.org/Events/ApprovedEvents?ProgramTypeId=1&RegionId=109
+- **RECF precise age / language**. 12 U≤12 en 6 May 2027, No muy fuerte. under 12.Englishmanual no ENjudging. Equipo>=2, adultover 18. https://games.recf.org/engage/2.0
+- **IYRC current rules** IndonesiaJunior border bodies of officialresults 2026, manual incompleto, IYRCMalaysia 2026 registrationclosed, new 2027 unknown. https://iyra-indonesia.id/iyrc-indonesia-2026/
+- **KodingNext Beijing reward**. A 4–7/B 8–12 campvoucher; Beijing ss Senior 13–19.Roboticsbranches 6 sin Bali. Bilingualteaching directo; específicos teacherEN Sí, así es.. https://www.kodingnext.com/ric2026
+- *HEC / Hanoi Academy camp language/age**. https://hanoienglish.com/robotics.html
+- **Soleh / DRABOT age**. Solehcamp 7–17 vsoperator 4–18; DRABOTonlinePrimary 10–12, Ahí está. June 2026; EN sin determinar. https://solehacademy.com/3-days-robotics-camp
+- **Philippines past date conflicts**. PROhomepageJuly, registrationJune 13/consentAugSep, scheduleversion 8 June 22–25.Dejado nextcycle sin ICS. A 403DepEd no citado. https://felta.ph/pro/files/2026/FELTA%20SCHEDULE%20OF%20ACTIVITIES%202026_version%208.pdf
+- *PhilSA Kibo nationality and tracks**: Filipinostudents es obligatorio; Beginnerunder 16 newcoding sin ISSfinal, RegularElementary-graduate con ISSfinal, no eligibleMex/Russian a la familia. https://philsa.gov.ph/news/7th-kibo-robot-programming-challenge/
+- **ITEX physical days / old policy**. 2027 Banner 27–28 exhibition,29 award. Competition/FAQ viejos 2024–26 fragments: 2027 childage/Primaryentry - Sí, lo son.. https://itex.com.my/
+- **MTE / WOCEE / FIRA unresolved**: MTEApril 8 CLAIM10,2027*virtualsatelliteawards, no physical expo; WOCEE/WOSAS 2026 dateconflicts/406; FIRAMALAYSifetchtimeout; no importado como confirmado 2027. https://www.mte.org.my/
+- **Philippines camps gap**. CodeCraftpromo Samponebebebene age+ ENcampterms. Confirmado ENcamp 6/9 No se encontró este viaje limitado.. https://www.codecraftlearning.com/fritolay-x-codecraft
+- **Bebras portal differences**. EHU five categories starts 3º/4º, ES/EN. CAT six categories starts 1º/2º, EN/ES early category unconfirmed. Swiss grade 3 and France CM 1 remain separate. https://bebras.ehu.eus/
+- **FLL future hardware split**. Final BIOGLOW 2026/27. LEGO League separate 2027/28, CS & AIelectronics 2028/29. FIRST plans SPIKEcompatibility through 2028/29. No future local tournament date created. https://www.education.lego.com/en-us/lego-league/program-update/
+- **Source age conflicts**. La Miranda Junior 2026 lists 2017–19; Oscar 2020 not automatically accepted. Teens 9–12 heading vs 10–12 body. AlgoraAI 9–16 heading vs 14+ tag. ISNPrimary 3–11 vsFAQ 4–10. https://www.lamiranda.eu/campamentos-de-verano
+- **Past camps and language**. Nube 7 teacher ES/EN is support. LaMiranda robotics is part of mixed day. Robotix / Logix 5 / Granada current technical language unknown; past 2026 summer dates not 2027. https://www.nube7.es/campamento-pascua/
+- **French dated camps**. Kids / Algora future dates read; EN/ES not established, P4 excludes from familyICS. KidsOct 26–30 full not marketed as available. https://kidsrobots.fr/about/
+- **Swiss course title date conflict**. Two Competition Labs titles say February 2026; session tables 2026/27 control. Regular cycles not continuous residential camps. https://app1.edoobox.com/en/TechLabs/Kids%20and%20Family%20Programs/Extracurricular%20Classes/Robotics%20Lab/VEX%20IQ%20Robotics/Basel%20%7C%20TechLabs%20ELYS/Course.ed.d56a804e207e_7615310269.BS%20%20Friday%20%20VexIQ%20Competition%20Robotics%20Lab%20%20August%20to%20February%202026%20%20Age%209-14?edref=techlabs
+- **School award attribution**. Lorca firstFLLseason 2026, secondValues award at unspecified final. ISNNice Grade 9 wins closed France network 2024. Neither is Primary world champion or 10 year school leader. https://www.lorcaboadilla.es/wp-content/uploads/2026/03/No52.pdf
+- **Family visitor windows**. ERWNov 27 only 17–19 currentInstitutoPolitécnico. Alpinefamily 6–7 Feb separateIQqualification 6 Feb. SIAEJun 14–20 overall, datedpublicticketwindow unknown; trade showchildren unconfirmed. https://erw.hisparob.es/
+- **Swiss Starter fee conflict / actual local club minimum**. Starter says free; general 2026 terms CHF 150 refundable. Vendée junior competition club starts 12 despite national league page 8. Both exact distinctions retained. https://wro.swiss/teilnahmebedingungen/
+- **RoboRAVE host / course-language / birth-year conflicts**. Craon Primary locally gated; TechKids EN regular versus FR camp; TECNISTEM ages conflict with published birth years; Robomatik FAQ versus current Modul 0 age retained. https://roborave53.fr/
+- **EISB camp year / cutoff**. July2027 headers coexist with 2026 earlybird and price chart; birth2012–2019 excludes2020; exactweeks androbotics EN unknown. https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/chess-and-robotic-camp/
+- **VivaTech current public day versus old family copy**. 2027 terms specify June19 public day; general-public body has older Saturday June17/18. Child tickets / min age 2027 unconfirmed. https://vivatech.com/b2b-passes-terms-conditions
+- **Club month versus official regional date**. MJC says April2027; organizer says March27. Official day retained; masterclass8–11 differs from team12+. https://www.coupederobotique.fr/event/coupe-de-france-de-robotique-junior-rencontre-occitanie-2027/
+- **FIRST 2025 list ordinals**. RobotPerformance disjoint HTML lists carry data-aria-posinset 2/3; rendered text restarts at1. Original ordinal verified. https://community.firstinspires.org/teams-from-around-the-world-made-a-splash-at-firstchamp
+- **Swiss WRO participant-count inconsistency**. Total and age-subcategory participant counts conflict; podium / world routing used, no invented participant total. https://wro.swiss/en/2026-swiss-finals-results/
+- **Aiglon junior / camp minimums**. Junior introduction7–11 versus panel6–11 persists; overall daycamp7 differs from robotics8. WonderYears English explicit. https://www.aiglon.ch/juniorschool
+- **WRO guessed 2027 path**. Guessed saison-2027 path returned404. This is not proof that 2027 events do not exist; no dates inferred. https://wro.swiss/saison-2027/
+- **FLLregistrationoldseason**: Registrationpage2025/26birthcutoffs no traducidosBiOGLOW2026/27; FAQ2027timeiseasonGradess por separado. https://www.firstlegoleague.sg/registration/
+- **NRCgeneralversusLowerhardware**: LowerWebo/Essentiallisted; Generalcontrollerlistothermodels, Categorypackneed;2023awardstablene2026. https://www.science.edu.sg/for-schools/competitions/national-robotics-competition
+- **ComputhinkEnglish nonstated**. 22 realesNovember/Decembercohorts guardados; Eninstructiontags retracted validation. https://www.computhink.com.sg/holiday-lego-robotics-camp/
+- **SASEALpolicyinconsistency**. DetailedEALG4/G5TransitionversusgeneralbeyondGrade4wording;newchildassessmentneeded. https://www.sas.edu.sg/admissions/entry-requirements/language-requirements
+- **AISfeesoldyear**: Tuitionpage explicit2025/26ne2026/27; no utilizar el viejo feeq. https://www.ais.edu.hk/admissions/tuition-fees/
+- **HKTDCaccessfailure**. WebopenNo lo tengo.body;anteriorHTTP20013bytesForbiddenno reconocidosource. InnoEx/Electronics2027newdate/childpolicyunknown. https://www.hktdc.com/event/innoex/en/fair-information
+- **Winterforeigngradeandcertificates**. Foreignequivalent/ENunknown. GradedcertificatesneWorld Finalquota; submissionwindownine. https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/
+- **Rosenberg primary JavaScript content**. HTTP 200 source shell lacks body; primary pages rendered in anonymous Chrome, EN Primary and Junior Robotics read there. https://instrosenberg.ch/academics/primary-school/
+- **Rosenberg camp language / weekly track**. General 6–18 and 2027 window do not prove each junior technical focus, its language or actual chosen weeks; no guessed dates exported. https://rosenbergcamps.ch/camps/summer-faqs/
+- **Tech Kids advanced language**. 7–9 Niveau 1 offers EN / FR, but Niveau 2 explicitly only FR. 5–6 Niveau 2 remains bilingual and has grade / prior-level conditions. https://www.techkidsacademy.com/ateliers-numeriques/7-9-n2/7-9-ans-niveau-2/
+- **LATI: nueva convocatoria / antiguo Sumo PDF**. Total convocatoria de 01.09.2026: 15 cm / 1 kg; Técnico PDF de 19.05.2025: 20 cm / 2 kg. Límites actuales homologación debe especificarse por escrito: No se puede considerar que la antigua tabla técnica sea la regla 2026. https://laliga.lati.mx/convocatoria/
+- **LATI: segunda jornada / regional RoboMatrix**. Primer día 9 de octubre confirmado; segundo día sin especificar. Homepage / convocatoria se denomina la siguiente región de manera diferente; geografía confirmada. https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf
+- *FIRST LEGO League Costa Rica: no se puede acceder a la página nueva**. La nueva solicitud se basó en un certificado SSL que ya no estaba disponible. https://www.firstlegoleaguecr.com/
+- **MEXCIR2027: cuatro fechas/tres días de programación**. Header11-14 de mayo, body three-day; el programa aún contiene los lugares donde se encuentran los residentes. Las fechas están marcadas por una ventana que no está fijada en cuatro sesiones. https://femexrobotica.org/mexcir2027/
+- **Japan VEX National C537**. 31.01.2027 header versus20–21.02.2027 EN/JPbody; Japanese domestic activity required; disputed dates excluded fromICS. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
+- **YCA current pages**. Live Coming soon versus richer cachedsearchbody; current Englishcohort notconfirmed. https://youngcodersacademy.net/weekend-classes/
+- **SWIS admissions / IB registry**. Schoolbodydynamiccontentmissing; IBregistryreadinprimaryindexedtext despite direct403. Exact foreignentry/grade/currentcoach unknown. https://ibo.org/en/school/050023
+- **YK Pao sources**. Primaryschoolnewsread throughweb; direct requests timedout. Regional awards notWorld title; Chinese entry remains a gate. https://www.ykpaoschool.cn/News-and-Events/New-Stories/988

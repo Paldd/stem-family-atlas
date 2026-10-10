@@ -1,0 +1,637 @@
+{
+  "asof": "2026-10-05",
+  "version": 100,
+  "scope": "39directselectedrecovered/4PDF/8selectedvisualpages only.No todos los sitios web/países;rawHTML/PDF/renders permanecen privados.",
+  "sources": [
+    {
+      "key": "cosmo",
+      "url": "https://www.cosmorobotics.ch/en/academy",
+      "final_url": "https://www.cosmorobotics.ch/en/academy",
+      "status": 200,
+      "bytes": 1020218,
+      "sha256": "b0319795ec659251f36f84629d6aae5b7d1633fe316d13201944349704d77efd",
+      "retrieval_method": "direct_http",
+      "content_scope": "Las clases propias8+ separadas de la edad del campamento desconocida; microbit/Maqueen/fechas y formato del campamiento.",
+      "body_snapshot_retained": true,
+      "raw_filename": "cosmo.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-camps",
+      "url": "https://en.codecampworld.ch/unsere-camps",
+      "final_url": "https://en.codecampworld.ch/unsere-camps",
+      "status": 200,
+      "bytes": 94316,
+      "sha256": "4e316bf5b4fad2d7a0564a1e1d10e5c4ae77a88a8c8d0a1940222f35add7e9ee",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad9 niveles y puertas de acceso del programa; Los maestros8–13 los conflictos de menú con7–12 el curso propio. Primavera/Verano2027registration No se han hecho constantes las.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-camps.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-home",
+      "url": "https://en.codecampworld.ch/",
+      "final_url": "https://en.codecampworld.ch/",
+      "status": 200,
+      "bytes": 111909,
+      "sha256": "fa333471e36722bb0f371db81de5e89ccb48c7bcca3b12497ad265f1c0bebff1",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propio menú de curso/anuncios de apertura de temporada. Invierno comienza en diciembre de 2026, no inventado en diciembre 2027.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "florimont",
+      "url": "https://www.florimont.ch/en/summer-camps/",
+      "final_url": "https://www.florimont.ch/en/summer-camps/",
+      "status": 200,
+      "bytes": 214145,
+      "sha256": "d63760d81935c82edd6e276665b39d583eeac5b9993345774d553e2ec2e05e86",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad2026 cuatro tipos: Albert15–18EN/Los futuros5–14halfday/Esparcia de tecnología9–16; Inglésinterfaz no todoscampes lenguaje maestro. Se conserva la tecnología existente, No hay duplicatebrandcamp.",
+      "body_snapshot_retained": true,
+      "raw_filename": "florimont.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "issh-techlabs",
+      "url": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+      "final_url": "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+      "status": 200,
+      "bytes": 1076045,
+      "sha256": "7c219a999571cccd7178923774856a3d3aeaa7682e37884cd25c2e270b982113",
+      "retrieval_method": "direct_http",
+      "content_scope": "Archivado por su cuenta Jul13–17 2026/9–16/CHF650 cada uno7–10robotics y11+Drones; robot específico/sensores y simuladores-las misiones autónomas. DE/Solo medio ambiente7–10; No lo hace2027cohort o transferencia de internado escolar.",
+      "body_snapshot_retained": true,
+      "raw_filename": "issh-techlabs.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "techspark-zurich",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "bytes": 468019,
+      "sha256": "b1b172dbb02617cf5ac54081bc37fbf5740176b81f9f0c96b8f84ffe760974ec",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown: fecha completa de la ciudad/menú del curso/ENinstrucción/equipamiento/tarifas; ya cuberto25 juegos+Python yLEGO desconocidocohort.No hay datos duplicados o disponibilidad de LEGO falso.",
+      "body_snapshot_retained": true,
+      "raw_filename": "techspark-zurich.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "lacunza",
+      "url": "https://www.lacunza.es/es/campamentos/lacunza-camp",
+      "final_url": "https://www.lacunza.es/es/campamentos/lacunza-camp",
+      "status": 200,
+      "bytes": 55406,
+      "sha256": "babf9803669d7870e29df40ea5c76d02dacf8cc5e2c9248e2ec0353d7286c9b2",
+      "retrieval_method": "direct_http",
+      "content_scope": "La temporada propia2027Jun20–El año8/6–13/tres formatos; Aún no hay nuevo lleno2027invoice/Semanas individuales. Dossier existente sin cambios.",
+      "body_snapshot_retained": true,
+      "raw_filename": "lacunza.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "fais-pdf",
+      "url": "https://www.faisl.com/wp-content/uploads/2026/05/TRIPTICO-CAMPAMENTO-TECNOLOGICO-2026.pdf",
+      "final_url": "https://www.faisl.com/wp-content/uploads/2026/05/TRIPTICO-CAMPAMENTO-TECNOLOGICO-2026.pdf",
+      "status": 200,
+      "bytes": 259035,
+      "sha256": "a361e4491d22fa045d6a4d555ace6bb371b703385b40738530ce5afa3bca1e7d",
+      "retrieval_method": "direct_http",
+      "content_scope": "El actual2page2026PDF las dos páginas vistas; fantasmas ocultas inglés/grado/texto de fecha no visible y no evidencia del campamento. Se conservan los archivos correctos previos, No lo hace2027guess.",
+      "body_snapshot_retained": true,
+      "raw_filename": "fais-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "cosmo-camp-form",
+      "url": "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+      "final_url": "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+      "status": 200,
+      "bytes": 144837,
+      "sha256": "8473f3224c67db6ecf0027f0544f2b3d5ac37b93842bd3185a83518e59312ad0",
+      "retrieval_method": "direct_http",
+      "content_scope": "El actual3page2027PDF: El número de1/3 seleccionado visualmente, otros textos leídos; seis horas por la mañana/tres días de verano/Pascua280 contra TBC web/Academia-sólo10percent/seguro/no reembolso/el primer día de pago/operador cancelado5days. Formulario en blanco no llenado; Datos bancarios omitidos de las paráfrases.",
+      "body_snapshot_retained": true,
+      "raw_filename": "cosmo-camp-form.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "code-faq",
+      "url": "https://en.codecampworld.ch/faq",
+      "final_url": "https://en.codecampworld.ch/faq",
+      "status": 200,
+      "bytes": 124159,
+      "sha256": "a7f4e414d07f1166c7abe3ef2f43033ce427d41cfd791c2af5a640b4a8ba1afc",
+      "retrieval_method": "direct_http",
+      "content_scope": "Lenguaje propio seleccionado-por-cohorte/formato de día/precio aproximado120CHF/hermanos desconocidos/alimentación BYO/dispositivo/licencia/alquiler50late/cláusulas de reembolso parcial. AI9–13 programa vs exigido13+conflicto de cuentas, No se ha creado cuenta; No hay cambio de edad ni verificación de la política del proveedor.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-faq.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-winter",
+      "url": "https://en.codecampworld.ch/unsere-camps-winter-ferien",
+      "final_url": "https://en.codecampworld.ch/unsere-camps-winter-ferien",
+      "status": 200,
+      "bytes": 216101,
+      "sha256": "3ca418a7d20de090d5abb4436a47baa051d7697a622ab06f099dc353b32e9fff",
+      "retrieval_method": "direct_http",
+      "content_scope": "Comienza exacto propio/Duración/lugares de invierno2026–27; programa/lenguaje/precio porcohort no se puede leer aquí. No hay campus .-semana multiplicada por9 calendarios de los cursos.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-winter.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-spark",
+      "url": "https://en.codecampworld.ch/camps/spark",
+      "final_url": "https://en.codecampworld.ch/camps/spark",
+      "status": 200,
+      "bytes": 92055,
+      "sha256": "b3fdddd7b8457b1c9c7dd941e5ce4b2fb769d0fc7dd3afc6ebd4f8c99695a40d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad7–12/juego de bloqueo/base lógica/3dayexample/continuidad del proyecto. Genericadel ejemplar no confirmado2027cohort. Derecho interno no internacional.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-spark.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-ai",
+      "url": "https://en.codecampworld.ch/camps/ai-camp",
+      "final_url": "https://en.codecampworld.ch/camps/ai-camp",
+      "status": 200,
+      "bytes": 99679,
+      "sha256": "ad7481682b04c1c3d15b3ad786ab7292804bbe25c1e8673b3b422e06ed8361c0",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad9–13/doso de la IA generativa/visión por ordenador/comic; Seis intervalos reales en seis municipios2026–27 Admitidos con ingresos clave; enseñanza de lenguaje/precio/cuenta menor no resuelta.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-ai.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-roadmap",
+      "url": "https://en.codecampworld.ch/camps/code-camp-roadmap",
+      "final_url": "https://en.codecampworld.ch/camps/code-camp-roadmap",
+      "status": 200,
+      "bytes": 105081,
+      "sha256": "ca8bc33cad6a39781580b0916d822b5227108a3b717363f51c2c4a865f7e3b23",
+      "retrieval_method": "direct_http",
+      "content_scope": "La formación de los profesores de inglés es una forma de aprendizaje propia, no una cualificación internacional, ni un dominio o una garantía rígidos de los maestros de inglés, que se derivan de la edad.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-roadmap.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-byod",
+      "url": "https://en.codecampworld.ch/byod",
+      "final_url": "https://en.codecampworld.ch/byod",
+      "status": 200,
+      "bytes": 75630,
+      "sha256": "a0241dcc1f99ebae95e33901f48b026c1e83a43588e24f496fd8011d2d0fb83c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Indicador propio de los requisitos de los dispositivos por curso; FAQ contiene restricciones concretas.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-byod.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-terms",
+      "url": "https://en.codecampworld.ch/terms-conditions",
+      "final_url": "https://en.codecampworld.ch/terms-conditions",
+      "status": 200,
+      "bytes": 85002,
+      "sha256": "a8c1fd93618f7b674cffc96d85062342fd9aa8871f8987ac89f10d88998f469c",
+      "retrieval_method": "direct_http",
+      "content_scope": "Los términos seleccionados que se muestran públicamente muestren Australianlaw/AUD/footer2018 vs Swissaddress; la aplicabilidad actual del contrato en Suiza es desconocida, no es válida legalmente.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-terms.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "issh-stem",
+      "url": "https://www.issh.ch/holiday-camps/stem-camp",
+      "final_url": "https://www.issh.ch/holiday-camps/stem-camp",
+      "status": 200,
+      "bytes": 1014568,
+      "sha256": "e40a204123e98f98fb885a2686cc30de29f6f0fe67f87216a535fe6d7757ebf1",
+      "retrieval_method": "direct_http",
+      "content_scope": "Su propio centro escolar STEMcamp antecedentes no nuevos2027camp. No se ha introducido ningún formulario, admisión escolar no deducida.",
+      "body_snapshot_retained": true,
+      "raw_filename": "issh-stem.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "fais-home",
+      "url": "https://www.faisl.com/",
+      "final_url": "https://www.faisl.com/",
+      "status": 200,
+      "bytes": 176031,
+      "sha256": "4a4178c0ce2251fe32bee03912e4ec8706d8c367b46d538b449230d0ffde1511",
+      "retrieval_method": "direct_http",
+      "content_scope": "Documento de formación general/tecnología/Inglés no comprobado.",
+      "body_snapshot_retained": true,
+      "raw_filename": "fais-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ilc-home",
+      "url": "https://internationallanguagecamps.com/",
+      "final_url": "https://internationallanguagecamps.com/",
+      "status": 200,
+      "bytes": 57071,
+      "sha256": "8ab40e29d43aed3a4ab075674bbcfb49c64ed97289441c8c2b8783b49b088883",
+      "retrieval_method": "direct_http",
+      "content_scope": "Currentown2027título pero no se ha encontrado recientemente un curso anualconfirmado; el expediente existente no ha sido actualizado desde el título.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ilc-home.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ilc-prices",
+      "url": "https://internationallanguagecamps.com/prices",
+      "final_url": "https://internationallanguagecamps.com/prices",
+      "status": 200,
+      "bytes": 143766,
+      "sha256": "74895444aeb58e2867e7cac8f5d2eb7b4f35f77f7be967da06568ea1bd81498b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Precios/fechas corrientes sin año todavía; expediente de facturas/transferencias/lavandería previo a la cuidad sin cambios, no hay nuevas cohorts2027.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ilc-prices.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "forest-fr",
+      "url": "https://forest-international.com/fr/stages-vacances/",
+      "final_url": "https://forest-international.com/fr/stages-vacances/",
+      "status": 200,
+      "bytes": 49229,
+      "sha256": "872cf3b3526e14b72b6fb1953ca4090901316b86fa101b5f3cd7c1b41f494632",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad2026–27 de forma externa2–12/Días de campamento en inglés/seis semanas exactas/450or480+40meals/40summerextendedhour/transporte sin precio, naturaleza/proyectos/piscina; No hay inventores de robots.",
+      "body_snapshot_retained": true,
+      "raw_filename": "forest-fr.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "eib-camps",
+      "url": "https://www.eibparis.com/extrascolaire/camps",
+      "final_url": "https://www.eibparis.com/extrascolaire/camps",
+      "status": 200,
+      "bytes": 99072,
+      "sha256": "786db4ca4f61a2db59c2e4ca8c5733c162ef8d7c41b9ca198ee5aa703c250f07",
+      "retrieval_method": "direct_http",
+      "content_scope": "Monceau propio dos Oct19–23 2026 programas:2.5–5castle y6–11primarysciencecoding/EN completo/8.5–17/650lunch/Los niños externos. Grados/DOB/El importe internacional/contratos no asumidos.",
+      "body_snapshot_retained": true,
+      "raw_filename": "eib-camps.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "beelingue-autumn",
+      "url": "https://www.beelingueacademy.com/autumn-camp",
+      "final_url": "https://www.beelingueacademy.com/autumn-camp",
+      "status": 200,
+      "bytes": 39217,
+      "sha256": "69bc80846cf825b719ab00c384106a99c6419a673a2d7fec99cf7d139479e2a4",
+      "retrieval_method": "direct_http",
+      "content_scope": "Oct. propio19–23Paris3–10/Oct26–30Levallois5–10/Ventas diferentes/medio día/movimiento de socios. EN todos-Necesitas bloqueo de campamento de socios por separado desconocido.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-autumn.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-mediterranean",
+      "url": "https://www.planete-sciences.org/mediterranee/sejour-de-vacances/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/sejour-de-vacances/",
+      "status": 200,
+      "bytes": 82889,
+      "sha256": "7d96ec9201c371561e26de6a591700523d2e44e0599e63bc7b8b343e327f188a",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad2026–27 Lista de dos octubre Ciencia Inglés7–12 y robóticos8+ separadamente; No hay un plan de estudios de ciencias detallado/formato/paquete completo todavía, sólo la brecha.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-mediterranean.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "stgeorge-barcelona-pdf",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "final_url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "status": 200,
+      "bytes": 39727781,
+      "sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1",
+      "retrieval_method": "direct_http",
+      "content_scope": "El actual13page2026PDF página seleccionada9 lectura de párrafo visual y robótica;6–10/Jueves6–31/3306459501240/Incineradores3D. Dossier existente sin cambios; No entero13page Auditoría de programas estacionales.",
+      "body_snapshot_retained": true,
+      "raw_filename": "stgeorge-barcelona-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "futurekids",
+      "url": "https://futurekids.io/activities/stages-vacances?city=Gen%C3%A8ve&online=",
+      "final_url": "https://futurekids.io/activities/stages-vacances?city=Gen%C3%A8ve&online=",
+      "status": 200,
+      "bytes": 37155,
+      "sha256": "b505457f25508603bddd3d10a03da1579496586c14315c3372dfca0f583967b9",
+      "retrieval_method": "direct_http",
+      "content_scope": "La red de JS de la red redirección con título, sin currículo propio/fecha/tarifa/lenguaje.",
+      "body_snapshot_retained": true,
+      "raw_filename": "futurekids.html",
+      "content_status": "javascript_shell_no_programme_body"
+    },
+    {
+      "key": "florimont-autumn",
+      "url": "https://www.florimont.ch/en/autumn-camps/",
+      "final_url": "https://www.florimont.ch/en/autumn-camps/",
+      "status": 200,
+      "bytes": 184795,
+      "sha256": "e5ff9f3d6adf8bacc8a6c9ee7e9abb7fc30e4183f7808c7842efd5eb5678fa0a",
+      "retrieval_method": "direct_http",
+      "content_scope": "Oct. propio19–23 2026/4–9/día8–17/CHF810/multiactividad; EN profesor no establecido. No se ha confirmado ningún nuevo expediente de finalización.",
+      "body_snapshot_retained": true,
+      "raw_filename": "florimont-autumn.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "beelingue-pdf",
+      "url": "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+      "final_url": "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+      "status": 200,
+      "bytes": 2115640,
+      "sha256": "5213c463116fa5e45eb96b7b827f0b32de9b0d9d240756327630772ebd13d13b",
+      "retrieval_method": "direct_http",
+      "content_scope": "El actual6pagePDF seleccionado3/4/5visual: París3–6and7–10timetable/495day225halfweek/25outing50two/alimentación BYO/10percentsecondconditional; Lev14–18/225week50day/15ludotheque, papel15–17EN sólo directamente especificados.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-pdf.pdf",
+      "content_status": "actual_pdf_selected_pages"
+    },
+    {
+      "key": "beelingue-terms",
+      "url": "https://www.beelingueacademy.com/cgdv",
+      "final_url": "https://www.beelingueacademy.com/cgdv",
+      "status": 200,
+      "bytes": 23428,
+      "sha256": "aa0a6d303d0e93417e80e109daf72b28e287adce819333ca54a5039e94e1ed15",
+      "retrieval_method": "direct_http",
+      "content_scope": "Taller propioCGDV anual30familia/48hCancelación/no reembolso tardío/retiro de fotos.",
+      "body_snapshot_retained": true,
+      "raw_filename": "beelingue-terms.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-english1",
+      "url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure-2/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure-2/",
+      "status": 200,
+      "bytes": 73965,
+      "sha256": "8360eb2c44beeef310cc3a4acfe762b1fd709ab1774db6817a76befc7eac75da",
+      "retrieval_method": "direct_http",
+      "content_scope": "Oct. propio19–23 título7–12/190EUR/dirección11rueSansPeurGrasse06130; tiempo detallado/embarque/inclusiones no proporcionadas. No hay nuevo expediente de título solo.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-english1.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "ps-english2",
+      "url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure/",
+      "final_url": "https://www.planete-sciences.org/mediterranee/event/stage-sciences-in-english-adventure/",
+      "status": 200,
+      "bytes": 73765,
+      "sha256": "eb63ef30f7e0debdc7928aa649aa0dc43eae9e355cb7e4952cd32bf6da41b708",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propio 26 de octubre de 30 el mismo título/190EUR/dirección de grasa; seleccionar detalles no se trata de un nuevo programa detallado ni de las fechas de 2027.",
+      "body_snapshot_retained": true,
+      "raw_filename": "ps-english2.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-list",
+      "url": "https://my.codecampworld.ch/camp/list",
+      "final_url": "https://my.codecampworld.ch/camp/list",
+      "status": 200,
+      "bytes": 6479,
+      "sha256": "9cda23cf72bda2554bf93578da088a76967999c7c5ccb1ecd6d856fd45e2eff7",
+      "retrieval_method": "direct_http",
+      "content_scope": "En la lista pública directa se devolvió la caparazón JS, no el cuerpo de programa/lenguaje/precio. Identificadores/claves de cliente incorporados no se utilizaron ni se copiaron a la recepción pública. No se abrió/entró el registro.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-list.html",
+      "content_status": "javascript_shell_no_programme_body"
+    },
+    {
+      "key": "code-ignite",
+      "url": "https://en.codecampworld.ch/camps/ignite",
+      "final_url": "https://en.codecampworld.ch/camps/ignite",
+      "status": 200,
+      "bytes": 85453,
+      "sha256": "9655cc068522d6d4f475a69dbe38bca127c4e2b7ef7f9ee1b626b805180ebdf4",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad7–12/Previo Sparcor equivalente/Dos juegos/bloquear el primer Java Script, generalmente3days. Juego a través de la aplicación común Code Camp no garantizado aplicación independentstore.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-ignite.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-blast-3d",
+      "url": "https://en.codecampworld.ch/camps/blast-3d",
+      "final_url": "https://en.codecampworld.ch/camps/blast-3d",
+      "status": 200,
+      "bytes": 85898,
+      "sha256": "83e138aad80da64199670a0a0bd0c632aff9cdecfc102063359ead87201fa69d",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad8–13/Escritura de Java pura3D/pre-aprendizaje/confort de teclado, Variable3dayexample. Reclamo de operadorfirstworldwide no verificado de forma independiente.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-blast-3d.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-web-builders",
+      "url": "https://en.codecampworld.ch/camps/web-builders",
+      "final_url": "https://en.codecampworld.ch/camps/web-builders",
+      "status": 200,
+      "bytes": 86527,
+      "sha256": "0ddae2fffda8dac68138cd3e815cba02201e88d247c1394371ebe983cff9ed55",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad8–13/HTMLCSSJava Script/proyecto de varias páginas/el diseño/navegación, Requisitos de teclado y típicos3days. EN enseñanza no confirmada.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-web-builders.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-engineers",
+      "url": "https://en.codecampworld.ch/camps/minecraft-engineers",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-engineers",
+      "status": 200,
+      "bytes": 89697,
+      "sha256": "b64147dd14f737ae067d1031c2445c91e8a013e1d25189dd6ed892fde8354d75",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad7–12/tres-díacoaster/Redstone/bloqueo de comandos/Licencia de Minecraft Educación sólo para curso. No se ha comprobado el nuevo equipo exacto.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-engineers.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-masters",
+      "url": "https://en.codecampworld.ch/camps/minecraft-masters",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-masters",
+      "status": 200,
+      "bytes": 90254,
+      "sha256": "c18f2d5bcac80233ff38b929091714150ed330180891445076f66c0fc0d4608f",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad7–12 menú de conflictos8–13; Requiere Ingenieros, Cuartel general de espionaje/Redstone/Parkour/NPC/Escape room. Explosión genérica3D/Juego Sobre la plantilla inferior no seleccionado Minecraftsyllabus.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-masters.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-minecraft-experts",
+      "url": "https://en.codecampworld.ch/camps/minecraft-experts",
+      "final_url": "https://en.codecampworld.ch/camps/minecraft-experts",
+      "status": 200,
+      "bytes": 92029,
+      "sha256": "899f5b71028fa79a7eadf8b4e3ec5705f26a4aaecb0c417dbc61bded71bc125b",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad8–13/Por lo menos Minecraftcamp/bloqueo de comandos/Hacer código/mapa de las aventuras/Elítra/arena. Genericos3D plantilla inferior no real Minecraftdailyproof.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-minecraft-experts.html",
+      "content_status": "html_selected_programme_clauses"
+    },
+    {
+      "key": "code-animation",
+      "url": "https://en.codecampworld.ch/camps/animation",
+      "final_url": "https://en.codecampworld.ch/camps/animation",
+      "status": 200,
+      "bytes": 88636,
+      "sha256": "b0d782a991e0d54b2426726022558d16423db41b76357ed6e1449882ebb34aa9",
+      "retrieval_method": "direct_http",
+      "content_scope": "Propiedad7–10/dos-movimiento de día/tablero de cuentos/disparos en pareja/la edición, Prosa de clase propia utilizada. Generictres-día3D plantilla no duración del curso.",
+      "body_snapshot_retained": true,
+      "raw_filename": "code-animation.html",
+      "content_status": "html_selected_programme_clauses"
+    }
+  ],
+  "visual_pdf_checks": [
+    {
+      "key": "fais-pdf",
+      "pages_total": 2,
+      "selected_pages": [
+        1,
+        2
+      ],
+      "pages_visual_checked": 2,
+      "pdf_sha256": "a361e4491d22fa045d6a4d555ace6bb371b703385b40738530ce5afa3bca1e7d",
+      "renders": [
+        {
+          "filename": "fais-1.png",
+          "sha256": "5d5e4d1ed205ee9c78b77584e1076a2962bc3f7e27dae80ea4d22be3356959fc"
+        },
+        {
+          "filename": "fais-2.png",
+          "sha256": "91fb61883af6009166a20ee5d01975f73528645e26d061b079f2678735a99e32"
+        }
+      ],
+      "scope": "Solo páginas seleccionadas de programas/tarifas/termos; formulario no introducido ni presentado. originales/rendimientos privados, parafraza de hechos públicos solamente."
+    },
+    {
+      "key": "cosmo-camp-form",
+      "pages_total": 3,
+      "selected_pages": [
+        1,
+        3
+      ],
+      "pages_visual_checked": 2,
+      "pdf_sha256": "8473f3224c67db6ecf0027f0544f2b3d5ac37b93842bd3185a83518e59312ad0",
+      "renders": [
+        {
+          "filename": "cosmo-camp-1.png",
+          "sha256": "eafaa69980c18cef0420141b0a988e095de34044500a1ba3d60cb22e048cf614"
+        },
+        {
+          "filename": "cosmo-camp-3.png",
+          "sha256": "229857b89dc30e1cb6e20895069ed6119b163a4cdbae1224f525aff654006a3c"
+        }
+      ],
+      "scope": "Solo páginas seleccionadas de programas/tarifas/termos; formulario no introducido ni presentado. originales/rendimientos privados, parafraza de hechos públicos solamente."
+    },
+    {
+      "key": "beelingue-pdf",
+      "pages_total": 6,
+      "selected_pages": [
+        3,
+        4,
+        5
+      ],
+      "pages_visual_checked": 3,
+      "pdf_sha256": "5213c463116fa5e45eb96b7b827f0b32de9b0d9d240756327630772ebd13d13b",
+      "renders": [
+        {
+          "filename": "beelingue-3.png",
+          "sha256": "9da2a553ca339cf5366a4e7963e53284d48b82b7629111c65990ecf3ea52d790"
+        },
+        {
+          "filename": "beelingue-4.png",
+          "sha256": "59b42c441d3986c5fb17c9e3d46ea3bb9817ebc5332276a9598691ca43843f2a"
+        },
+        {
+          "filename": "beelingue-5.png",
+          "sha256": "a73316dd44059c418969c3b779a4cacd61faf6a763c5e3a77507756afe7abb37"
+        }
+      ],
+      "scope": "Solo páginas seleccionadas de programas/tarifas/termos; formulario no introducido ni presentado. originales/rendimientos privados, parafraza de hechos públicos solamente."
+    },
+    {
+      "key": "stgeorge-barcelona-pdf",
+      "pages_total": 13,
+      "selected_pages": [
+        9
+      ],
+      "pages_visual_checked": 1,
+      "pdf_sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1",
+      "renders": [
+        {
+          "filename": "stgeorge-9.png",
+          "sha256": "94c027b7598ef53d5e816afaf8a7e5f9a9b9eb34b9af544229f5c86fb9041bc5"
+        }
+      ],
+      "scope": "Solo páginas seleccionadas de programas/tarifas/termos; formulario no introducido ni presentado. originales/rendimientos privados, parafraza de hechos públicos solamente."
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://en.codecampworld.ch/camps/ai-camp",
+    "https://en.codecampworld.ch/camps/animation",
+    "https://en.codecampworld.ch/camps/blast-3d",
+    "https://en.codecampworld.ch/camps/ignite",
+    "https://en.codecampworld.ch/camps/minecraft-engineers",
+    "https://en.codecampworld.ch/camps/minecraft-experts",
+    "https://en.codecampworld.ch/camps/minecraft-masters",
+    "https://en.codecampworld.ch/camps/spark",
+    "https://en.codecampworld.ch/camps/web-builders",
+    "https://en.codecampworld.ch/faq",
+    "https://en.codecampworld.ch/terms-conditions",
+    "https://en.codecampworld.ch/unsere-camps",
+    "https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf",
+    "https://forest-international.com/fr/stages-vacances/",
+    "https://www.beelingueacademy.com/autumn-camp",
+    "https://www.beelingueacademy.com/autumn-camp/AUTUMN-CAMP-2026.pdf",
+    "https://www.beelingueacademy.com/cgdv",
+    "https://www.cosmorobotics.ch/en/academy",
+    "https://www.eibparis.com/extrascolaire/camps",
+    "https://www.issh.ch/calendar/2026-07-13/techlabs-summer-camp-2026/",
+    "https://www.issh.ch/holiday-camps/stem-camp"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "notes": [
+    "No se han utilizado/copiado los identificadores de los clientes públicos.",
+    "ENinterfaz/apoyo/Campamento Vida/el profesor de lenguaje separado; PDF ghost Inglés y genérico3D Modelos no aceptados como prueba del programa.",
+    "El número de expedientes es de formatos/programas/agrupos, no de marcas únicas o de clasificación independiente."
+  ]
+}

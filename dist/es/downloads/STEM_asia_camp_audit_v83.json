@@ -1,0 +1,118 @@
+{
+  "asof": "2026-10-05",
+  "version": 83,
+  "status": "progress",
+  "scope": "Paquetes específicos del programa Japón/Taiwan/Singapura/Corea y Cebu; todas las regiones prioritarias y el objetivo mundial completo siguen siendo activos",
+  "new_dossiers": 16,
+  "operators_covered": 7,
+  "updated_dossiers": [],
+  "new_calendar_rows": 17,
+  "new_family_ics": 16,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 448,
+  "countries_with_dossiers": 34,
+  "official_dossier_urls": 703,
+  "country_dossier_counts": {
+    "CHE": 69,
+    "FRA": 39,
+    "ESP": 31,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 25,
+    "SGP": 56,
+    "JPN": 23,
+    "KOR": 10,
+    "PHL": 2,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "ugaku-nasu-winter",
+    "ugaku-nasukashi-spring",
+    "ugaku-chatan-winter",
+    "ugaku-onna-spring",
+    "ugaku-wakayama-spring",
+    "ugaku-cebu-winter",
+    "ugaku-cebu-spring",
+    "myoko-adventure-culture",
+    "see-discover-japan",
+    "see-world-games",
+    "srt-little-elf",
+    "srt-stage-younger",
+    "srt-stage-older",
+    "voca-power-popstars",
+    "kisas-ai-music",
+    "embassy-korea-spring"
+  ],
+  "findings": [
+    {
+      "country": "Japón",
+      "iso": "JPN",
+      "provider": "U-GAKU / Myoko",
+      "detail": "U-GAKU school grade y Japanese family administration requieren una confirmación extranjera; winter/spring premises se diferencian. /wakayama/ HTTP200 está vacía, /kansai/ contiene el presente2027camp. general spring news ¿Y qué? priceTBA/NasuTochigi, Nuevos campus pages Ya lo he hecho. price/Fukujima y sus amigos. MyokoPDF2026 No , no .2027.",
+      "next_action": "Acogida extranjera, clases precisas, English parents/medical support, contrato actual y factura final; leer Myoko2027 al publicar.",
+      "url": "https://u-gaku.jp/english-camps/"
+    },
+    {
+      "country": "Taiwán",
+      "iso": "TWN",
+      "provider": "S.E.E. / NTUE CLEC",
+      "detail": "SEE grades, tempranas individual/group discounts y se conservan algunas de las plazas. PalauFamily primary No está disponible: headline price range no el precio de la familia. NTUE28Dec2026–8Jan2027 Mandarin6–15, NTD36000/early34000; English guide — traducción, EN No se ha comprobado.1Jan No hay clases.: No se ha creado EN ICS.",
+      "next_action": "SEE foreign grades/refund, Palau paquete completo/datas/lengua; NTUE beginners/EN teaching support averiguar por separado, no confundir English guide con bilingual camp.",
+      "url": "https://clec.ntue.edu.tw/p/404-1018-57247.php?Lang=zh-tw"
+    },
+    {
+      "country": "Singapur",
+      "iso": "SGP",
+      "provider": "SRT / Kids Space / VOCA",
+      "detail": "SRT lenguaje/edad/las ventas cada semana son diferentes;4–7 English Stage closed. KidsSpace annualPDF14–18Dec contra el SRT14–16Dec: seleccionado3día del curso concreto. AnnualPDF sin el completo age/price/language, No se multiplican en ICS. VOCA EN No está probado;450+50 hasta el descuento, non-refundable;6-verano del menor para comprobar.",
+      "next_action": "grupo EN específico, admisiones/refund, citación y lugar; KidsSpace dated programme en lugar del poster temático anual.",
+      "url": "https://www.srt.com.sg/stagecamp"
+    },
+    {
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "provider": "KISAS / Embassy Korea",
+      "detail": "KISAS next January2027 date/venue/length/fee TBA y age10/Grade4, English humanities separadamente de AI/music. KoreaSpring age10–19; Twin$2780 y breakfast only, family parent offer No se puede dejar Oscar. Boarding school curriculum No exterior holiday programme.",
+      "next_action": "Matvey DOB/Grade4, English technical teaching, admission externa y una factura concreta2027contract/hotel/child-parent; los campamentos externos menores continúan investigándose.",
+      "url": "https://kisas.co.kr/en"
+    }
+  ],
+  "calendar": {
+    "events": 2797,
+    "learning_records": 1466,
+    "family_ics": 2128,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1003,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "Los 2780 eventos anteriores y los 432 expedientes de programas conservan sus identidades y contenido. 16 nuevos expedientes del programa/temporada/edad cubren a 7 operadores, incluido un operador existente de Taiwán y una red de embajadas ya incluidos en el calendario de la herencia; no 16 campos independientes.",
+    "U-GAKU 7 paquetes de embarque específicos de invierno/primavera. La elegibilidad para el grado escolar se conserva, la admisión de familias extranjeras/sólo en inglés no se conoce. Nasu/Chatan de invernadoero y Fukushima/Onna de primavera son lugares separados; Wakayama utiliza /kansai/, mientras que /wakayama/ es una lista vacía HTTP200.",
+    "El-Base de GAKU139800/159800/199800 +30000 primera cuota de contrato, repetidas exentas. Los campos cortos no se encuentran 4+reembolso semanal-condición de garantía. Los umbrales de cancelación se superponen, no simplificado a cancelación gratuita. Primavera/noticias TBA/Nasu Tochigi está en conflicto con la tasa actual del campus/Fukushima conservado.",
+    "Mioko propio2026 folleto de lectura visual: 6–15, avanzado–Inglés nativo,130000/5days4nights,ferrocarril de Tokio+20000. Cuatro2026 las sesiones son históricas; No se inventó2027 fechas o precio futuro copiado. Alojamiento Casa Buna en el itinerario de muestra, contrato futuro/habitación/noche-cuidado desconocido.",
+    "SEE DiscoverJapan2days y WorldGames5days están en Taiwán, jardín de infantes de último añoGrade4, dos campus paralelas Taipei/Xindian, inglés completo confirmado. Se mantienen las consultas de grado 5+ y la equivalencia de grado extranjero. Las tarifas anticipadas regulares/individuales/3+/6+ se separan; dos niños no reciben descuento automático de grupo3+.",
+    "Programa específico de la SRT Little Elf14–16Dec difiere del cartel anual Kids Space14–18Dec: uso3days, opcional1–3attendance, Inglés4–7/máximo12/almuerzo, los precios de los miembros separados. Solo el cartel anual no multiplicado en programas de calendario totalmente verificados.",
+    "Estadio de la RRS: noviembre Mandarín,7–11Dec Inglés. Más joven4–7 vendido, excluidos de las SCI de la familia; más vieja8–12 limitados según la fuente, asiento real no confirmado.400+6booking y expirado4Oct aves tempranas retenidas, No hay inglés falso-Sesiones de noviembre.",
+    "VOCA dos3day fechas,6–12,450+50registration,10% Cuota de estudios-sólo el total inicial455 y no hay apilamiento/No hay reembolsos. Todo-curso Inglés desconocido: no se coloca en el confirmado EN filtro, más joven6birthday de condiciones.",
+    "Grado de KISAS4–9 y edad10–15, el próximo enero2027 fechas/longitud/lugar de celebración/TBA de las tasas. Cohorte1 10days/9nights/personal/no se han verificado los seguros2027 Compromiso. Prueba directa de las humanidades inglesas, de la misma AI/música/residencia inglés desconocido, No es una Oxford-curso certificado.",
+    "Embajada de Corea21–30Mar2027 edad10–19 y el programa de padres; Matvey condicional10birthday, Oscar por debajo del mínimo. Los gemelos$2780 moneda/Unidad/cuota de matriz no resuelta, Sólo incluido el desayuno. General USD200security/reembolso USD100 y los umbrales de cancelación requieren una confirmación del contrato actual en Corea.",
+    "Guía de inglés NTUE: Programa de lengua mandarín28Dec2026–8Jan2027,1Jan No hay clase,NTD36000/temprano34000. La traducción al inglés no prueba la enseñanza al inglés; No lo hace EN expediente/Se añadió el SCI. Primaria de Palau403/cache falta mantenido como espacio, No hay página de inicio-Espectaculo de precio.",
+    "17 nuevas filas de calendario y 16 nuevas entradas de la familia ICS; se conservan todas las anteriores 2112 familias UID/parejas de fecha y 104 entradas en la exposición. SQLite/publicJSON se compromete, se ha establecido un puente,98 escenarios familiares,0 países auditados plenamente; se mantiene activo el objetivo global completo."
+  ],
+  "next_priority": "Continúa con Suiza/Francia/Español/Europa,Estados Unidos/Canadá/Costa Rica/México/América Latina y Asia Junior/general/de la técnica2026–27 día/embarque/programas familiares, precios completos/lenguas/grado/Admisión/disponibilidad, Además de las escuelas/resultados/rutas y ligas mundiales/exposiciones"
+}

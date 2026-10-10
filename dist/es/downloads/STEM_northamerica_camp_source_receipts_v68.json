@@ -1,0 +1,414 @@
+{
+  "asof": "2026-10-05",
+  "scope": "HTML oficial público de lectura única, páginas web primarias y detalles de boletos de CUA. No hay formularios/mensajes/subscripciones/ reservas/ pagos; el éxito de HTTP se separa del contenido utilizable.",
+  "attempts": 34,
+  "http200": 27,
+  "items": [
+    {
+      "key": "cody-rates",
+      "url": "https://campcody.com/dates-tuition/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "cody-home",
+      "url": "https://campcody.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "weeq-rates",
+      "url": "https://www.weequahic.com/summer-camp-experience/camp-dates-fees/",
+      "final_url": "https://www.weequahic.com/summer-camp-experience/camp-dates-fees/",
+      "status": 200,
+      "bytes": 93997,
+      "sha256": "b6e6d08e20b9f1cee3e0ef41d898237c3e04cb4deedb6c6f28cc18df3da38841"
+    },
+    {
+      "key": "weeq-home",
+      "url": "https://www.weequahic.com/",
+      "final_url": "https://www.weequahic.com/",
+      "status": 200,
+      "bytes": 94168,
+      "sha256": "d7972f658f7a1b026567a8e1a735a7eed6b5bf063b0ae51f64d828a78ff4e97a"
+    },
+    {
+      "key": "birch-rates",
+      "url": "https://campbirchhill.com/dates-rates-2/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "digipen-youth",
+      "url": "https://www.digipen.edu/academics/youth-and-adult-programs/digipen-academy",
+      "final_url": "https://www.digipen.edu/academics/youth-and-adult-programs/digipen-academy",
+      "status": 200,
+      "bytes": 86347,
+      "sha256": "610c414bd3bf1a3324d8dcc88b97b1ceb5f8b263d78e55c8d55b3b8465659488"
+    },
+    {
+      "key": "digipen-academy",
+      "url": "https://academy.digipen.edu/",
+      "final_url": "https://academy.digipen.edu/",
+      "status": 200,
+      "bytes": 241454,
+      "sha256": "4c39bbeda35003ef866c03313391da9e8730fc4b7a8b749715c4dec738db25cd"
+    },
+    {
+      "key": "robotfun-camps",
+      "url": "https://www.robotfunacademy.com/camps",
+      "final_url": "https://www.robotfunacademy.com/camps",
+      "status": 200,
+      "bytes": 876752,
+      "sha256": "a908cdbb060894159595bf2d299efc957f3b5da5ea746c14d6d85133b3d5c890"
+    },
+    {
+      "key": "manitou-rates",
+      "url": "https://www.manitoucamp.com/future-families/rates-dates/",
+      "final_url": "https://www.manitoucamp.com/future-families/rates-dates/",
+      "status": 200,
+      "bytes": 182188,
+      "sha256": "1a09c4897f0303e995ca66cd147b6f69c6a8535e843ab3e3dc033d52f0a08936"
+    },
+    {
+      "key": "manitou-faq",
+      "url": "https://www.manitoucamp.com/future-families/faq/",
+      "final_url": "https://www.manitoucamp.com/future-families/faq/",
+      "status": 200,
+      "bytes": 221125,
+      "sha256": "b3e7a633bd40585dd14a29c489b8060dbf0d99c024d7a6e9503c1035b696685a"
+    },
+    {
+      "key": "science-north-summer",
+      "url": "https://www.sciencenorth.ca/index.php/summer-camps",
+      "final_url": "https://www.sciencenorth.ca/index.php/summer-camps",
+      "status": 200,
+      "bytes": 77184,
+      "sha256": "f373d4bc3acaedc41ba3a3b5f645f30c59f89889c46f4c58c382595b06099d4a"
+    },
+    {
+      "key": "science-north-communities",
+      "url": "https://www.sciencenorth.ca/camps/communities",
+      "final_url": "https://www.sciencenorth.ca/camps/communities",
+      "status": 200,
+      "bytes": 111537,
+      "sha256": "30ce9f5fc690274b50c3a63d9e854d99928b1d31e5b0478e04fa0a4c3d5b611b"
+    },
+    {
+      "key": "science-north-programmes",
+      "url": "https://www.sciencenorth.ca/sites/default/files/2026/SSC-Program%20descriptions-EN.pdf",
+      "final_url": "https://www.sciencenorth.ca/sites/default/files/2026/SSC-Program%20descriptions-EN.pdf",
+      "status": 200,
+      "bytes": 112494,
+      "sha256": "10a6ab486dda021717150642d25566a2a876773092dce98647b7737989d76b5b"
+    },
+    {
+      "key": "discovere-summer",
+      "url": "https://www.ualberta.ca/en/engineering/community-giving/discovere-camps/summer-camps/index.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "rns-camps",
+      "url": "https://www.rns.cc/camps/rns-camps",
+      "final_url": "https://www.rns.cc/camps/rns-camps",
+      "status": 200,
+      "bytes": 129204,
+      "sha256": "2eb06d72afc795818f39a4b73186700e140465f4df5cac1f8e3a4b8bb9b8f6dd"
+    },
+    {
+      "key": "openworld-home",
+      "url": "https://discoveropenworld.com/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "weeq-faq",
+      "url": "https://www.weequahic.com/summer-camp-experience/faqs/",
+      "final_url": "https://www.weequahic.com/summer-camp-experience/faqs/",
+      "status": 200,
+      "bytes": 105965,
+      "sha256": "3fbac767722c88c39bfe0d88bb615a0b325d7045aa7293a699c7151ca99ab22d"
+    },
+    {
+      "key": "weeq-activities",
+      "url": "https://www.weequahic.com/summer-camp-activities/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "weeq-creative",
+      "url": "https://www.weequahic.com/summer-camp-activities/creative-fine-arts/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "weeq-sessions",
+      "url": "https://www.weequahic.com/summer-camp-experience/our-sessions/",
+      "final_url": "https://www.weequahic.com/summer-camp-experience/our-sessions/",
+      "status": 200,
+      "bytes": 85425,
+      "sha256": "88f39fce7246db793c691ba38bbf22208ff10bc9c44324a79e3d2eba749c6339"
+    },
+    {
+      "key": "manitou-international",
+      "url": "https://www.manitoucamp.com/future-families/international-campers/",
+      "final_url": "https://www.manitoucamp.com/future-families/international-campers/",
+      "status": 200,
+      "bytes": 225793,
+      "sha256": "8210f73a2dd636769074db3d9411f15a79cde80b085ad39b3c078d7fce6ef9f1"
+    },
+    {
+      "key": "manitou-activities",
+      "url": "https://www.manitoucamp.com/future-families/activity-choice/",
+      "final_url": "https://www.manitoucamp.com/future-families/activity-choice/",
+      "status": 200,
+      "bytes": 190852,
+      "sha256": "25498da7a5b9d01fa5d563b8f9ef2cebf7edc0bf17069406049b02f25a1d4e20"
+    },
+    {
+      "key": "science-north-kids",
+      "url": "https://www.sciencenorth.ca/kids",
+      "final_url": "https://www.sciencenorth.ca/kids",
+      "status": 200,
+      "bytes": 54338,
+      "sha256": "f9c7c03ee8e0094d9b4f4d5e1c081eb47afbf0c344123fae51b8c535aa05d1e3"
+    },
+    {
+      "key": "robotfun-lego",
+      "url": "https://www.robotfunacademy.com/lego",
+      "final_url": "https://www.robotfunacademy.com/lego",
+      "status": 200,
+      "bytes": 833348,
+      "sha256": "3e45d832ef3747901f3179000066e94f76d8a3bed1b23058c4dcb7d42cb71976"
+    },
+    {
+      "key": "robotfun-vex-go",
+      "url": "https://www.robotfunacademy.com/vex-go",
+      "final_url": "https://www.robotfunacademy.com/vex-go",
+      "status": 200,
+      "bytes": 817235,
+      "sha256": "235356f0fc1491250708f27a620b1968fcfbd426cbeffdd61ca22948ffe57566"
+    },
+    {
+      "key": "robotfun-iq",
+      "url": "https://www.robotfunacademy.com/vex-iq",
+      "final_url": "https://www.robotfunacademy.com/vex-iq",
+      "status": 200,
+      "bytes": 798119,
+      "sha256": "7703ec18c8665ae00384e89c1388f0ae624723e8c56a3a7afebf50122fea7ae2"
+    },
+    {
+      "key": "robotfun-policy",
+      "url": "https://www.robotfunacademy.com/program-enrollment-policy",
+      "final_url": "https://www.robotfunacademy.com/program-enrollment-policy",
+      "status": 200,
+      "bytes": 772063,
+      "sha256": "bf2e6d674660662846791fbca85e09d28c4cd478f3b8f24608ba42c4af1ed771"
+    },
+    {
+      "key": "weeq-creative-real",
+      "url": "https://www.weequahic.com/summer-camp-experience/summer-camp-activities/creative-fine-arts/",
+      "final_url": "https://www.weequahic.com/summer-camp-experience/summer-camp-activities/creative-fine-arts/",
+      "status": 200,
+      "bytes": 146630,
+      "sha256": "93f7d6baa09678cbebfc926600349e52c3c569d65b629955e12484a71424b180"
+    },
+    {
+      "key": "science-break",
+      "url": "https://www.sciencenorth.ca/school-break-camps",
+      "final_url": "https://www.sciencenorth.ca/school-break-camps",
+      "status": 200,
+      "bytes": 88419,
+      "sha256": "380fc3d75901c9c56b53413872946109301f773ed79f853ffd16c4aa90735774"
+    },
+    {
+      "key": "science-robo",
+      "url": "https://www.sciencenorth.ca/robokids",
+      "final_url": "https://www.sciencenorth.ca/robokids",
+      "status": 200,
+      "bytes": 51427,
+      "sha256": "eef7de739aed86c0b3cb9aff4dc726d715c80804048b669f95de697e17536c20"
+    },
+    {
+      "key": "science-beebots",
+      "url": "https://order.sciencenorth.ca/180578/180586",
+      "final_url": "https://order.sciencenorth.ca/180578/180586",
+      "status": 200,
+      "bytes": 1034,
+      "sha256": "b2a9a79c3be46dfe96d8a29196e88e86418e0293f3163c9811cd84029ee342d9",
+      "document_verified": false,
+      "content_note": "Respuesta de seguridad HTTP200, no contenido del programa"
+    },
+    {
+      "key": "science-cubetto",
+      "url": "https://order.sciencenorth.ca/180578/180585",
+      "final_url": "https://order.sciencenorth.ca/180578/180585",
+      "status": 200,
+      "bytes": 1036,
+      "sha256": "bf8821a10a27db0261b573068da84159a59e85d49064f7980d9e2d119bd0a3a2",
+      "document_verified": false,
+      "content_note": "Respuesta de seguridad HTTP200, no contenido del programa"
+    },
+    {
+      "key": "science-robo9-11",
+      "url": "https://order.sciencenorth.ca/183346/183381",
+      "final_url": "https://order.sciencenorth.ca/183346/183381",
+      "status": 200,
+      "bytes": 1035,
+      "sha256": "f881e62360e9d82adc6907c6eaf5aa703687a27ae5a1a7cc83b881d2e8269055",
+      "document_verified": false,
+      "content_note": "Respuesta de seguridad HTTP200, no contenido del programa"
+    },
+    {
+      "key": "science-robo6-8",
+      "url": "https://order.sciencenorth.ca/183345/183380",
+      "final_url": "https://order.sciencenorth.ca/183345/183380",
+      "status": 200,
+      "bytes": 1037,
+      "sha256": "19507dd5791c723c0e941aeee5e285feb3f5505922b6b754f9d33eb548118906",
+      "document_verified": false,
+      "content_note": "Respuesta de seguridad HTTP200, no contenido del programa"
+    }
+  ],
+  "web_verified": [
+    {
+      "url": "https://campcody.com/dates-tuition/",
+      "evidence": "Tablas de sesiones 2027, precios, cargos adicionales y ambigüedad de pagos",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campcody.com/future-families/our-programs/pioneers-ages-7-9/",
+      "evidence": "Minimo7 y cuidado de los pioneros",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campcody.com/future-families/activities/academic-offerings/esl-tutoring/",
+      "evidence": "Inmersión en EN; soporte ES/RU ESL",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campcody.com/future-families/bunk-life/",
+      "evidence": "Habitaciones y política libre de tecnología",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campcody.com/future-families/activities/",
+      "evidence": "Ciencias electivas, no pruebas de robótica",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campbirchhill.com/dates-rates-2/",
+      "evidence": "2027 Cuota de matrícula/deposito/reembolsos/extra",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campbirchhill.com/about/camp-birch-hill/",
+      "evidence": "Ages6–16",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campbirchhill.com/quick-facts/",
+      "evidence": "Campers internacionales/cuartos/comidas",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://campbirchhill.com/campers/activities/",
+      "evidence": "Ejecutivos generales",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/",
+      "evidence": "2027 promoción de las primeras aves separada del programa de cursos de archivo",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/summer-workshops/explorers-ages-6-8/",
+      "evidence": "Enlaces entre grupos de jóvenes y cursos",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/summer-workshops/adventurers-ages-9-13/",
+      "evidence": "Enlaces de grupos de edad avanzada y cursos",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/register/registration-tuition/",
+      "evidence": "Archivado2026 matrícula, inclusiones, descuentos",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/register/billing-and-refund-policies/",
+      "evidence": "Los depósitos y el plazo2026",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/faq/",
+      "evidence": "Edad en el taller y no hay lugar para dormir",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/exploring-robotics-and-engineering/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/exploring-scifi-game-development/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/designing-an-autonomous-vehicle/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/designing-and-creating-robotics/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/creative-game-jam/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    },
+    {
+      "url": "https://discoveropenworld.com/workshops/coding-in-python/",
+      "evidence": "Plan de estudios propio2026/edad/precio; no se estableció sesión exacta2027",
+      "method": "página web principal leída por la herramienta web"
+    }
+  ],
+  "browser_verified": [
+    {
+      "url": "https://order.sciencenorth.ca/183345/183380",
+      "method": "CUA hecho cuerpo de lectura única",
+      "bytes": 1779,
+      "sha256": "b01532cbeda40f070ad46ae67c41de4d1b28c2f042750ffe30aababd2b7f32db",
+      "cart_changed": false
+    },
+    {
+      "url": "https://order.sciencenorth.ca/183346/183381",
+      "method": "CUA hecho cuerpo de lectura única",
+      "bytes": 1418,
+      "sha256": "86ee1b70dc4fc3b63b17e335046bcdfd85af2716c8d88dfda850cec37e3cf489",
+      "cart_changed": false
+    },
+    {
+      "url": "https://order.sciencenorth.ca/180578/180586",
+      "method": "CUA hecho cuerpo de lectura única",
+      "bytes": 2118,
+      "sha256": "21ddf9558d9d40e5b8511b28b903d9f7643c6f5c8bed2013831b84c3c7fa4dd6",
+      "cart_changed": false
+    },
+    {
+      "url": "https://order.sciencenorth.ca/180578/180585",
+      "method": "CUA hecho cuerpo de lectura única",
+      "bytes": 2128,
+      "sha256": "01d9aca1eed29947dab4607a767c9ecb2f47fd7ba6725c6ad08bd9bcb85977fa",
+      "cart_changed": false
+    }
+  ],
+  "unresolved": [
+    {
+      "url": "https://www.ualberta.ca/en/engineering/community-giving/discovere-camps/summer-camps/index.html",
+      "reason": "403 directo; JavaScript/robot de verificación web abierto; no hay expediente escrito a partir de fragmentos"
+    },
+    {
+      "url": "https://order.sciencenorth.ca/183346/183381",
+      "reason": "Lista de los robots listos9–11 Contra el nombre real Ciencia espeluznante Oct26 y fecha de noviembre20; No hay fila de calendario de robótica"
+    }
+  ]
+}

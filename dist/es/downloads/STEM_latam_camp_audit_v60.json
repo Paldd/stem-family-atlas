@@ -1,0 +1,42 @@
+{
+  "asof": "2026-10-04",
+  "version": 60,
+  "status": "progress",
+  "worldwide_complete": false,
+  "prior_events": 1986,
+  "prior_events_unchanged": 1986,
+  "prior_dossiers_unchanged": 88,
+  "new_dossiers": 14,
+  "new_calendar_entries": 11,
+  "dossiers": 102,
+  "countries": 20,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 182,
+  "family_ical_entries": 1381,
+  "exhibition_ical_entries": 104,
+  "source_receipt": "STEM_latam_camp_source_receipts_v60.json",
+  "checks": {
+    "prior_ids_and_dates": "preserved",
+    "prior_objects": "unchanged",
+    "CENFOTEC": "10–12 excluye ambos en diciembre2026; El139 Reutilizado sin duplicado; USD+Esquema directo de IVA",
+    "MountView": "2–8 admisión externa; Matvey excluido",
+    "Conversa": "Flex sin robótica vs CompletoPlus; todos los arquivos de tarifas2026",
+    "OjoCiego": "direct2027 supera el cache obsoleto2026; los límites de la semana no se inventaron; Oscar7+gate",
+    "Rancho": "2027 Sólo lista de espera; no hay fechas ni precios",
+    "Liota": "19 días vs 4 semanas sin resolver; no se conoce la fecha del evento/SIC y el idioma/edad del invierno",
+    "Pellines": "tres programas de duración de un operador; general7–17; el lector oficial fallback etiquetado explícitamente",
+    "LasMulas": "2027 fechas vs2026FAQ; EN+ES camplife; matrícula2027 desconocido",
+    "EnglishCampBrazil": "El arancel de octubre supera el caché de septiembre; Niños pagados8–12 distinto de invitado libre12–16",
+    "CampoAventuras": "Ingesta cerrada; Parte digital de30days; No hay nuevos ejemplares/CSI; condiciones hoteleras y financieras no resueltas",
+    "NR": "En el caso de los centros de enseñanza superior, el número de alumnos en los centros de enseñanza superior no se ha reducido.",
+    "sqlite": "Pasado: integridad_cheque /foreign_key_check",
+    "bridge": "Pasado: identificación idempotente / anterior y objetos conservados",
+    "browser": "Se aprobó: filtros de Brasil/Chile, comparación, restablecimiento completo, signo de Colombia cerrado,14 escenarios,390/320 no se ha superado el documento; no se han producido errores de consola",
+    "publication": "recibo de almacenamiento/despliegue nativo requerido por separado"
+  },
+  "remaining": [
+    "Otros países de Europa y Asia; Corea programas externos de vacaciones para jóvenes",
+    "Más campos técnicos latinoamericanos, exactamente2027 grupos, EN/ES y paquetes totales",
+    "Descubrimiento de países en todo el mundo, mapa exacto del campus y disponibilidad en vivo; ningún país ha sido completamente auditado"
+  ]
+}

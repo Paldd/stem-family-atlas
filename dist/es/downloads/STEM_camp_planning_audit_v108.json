@@ -1,0 +1,79 @@
+{
+  "version": 108,
+  "asof": "2026-10-05",
+  "status": "progress",
+  "scope": "Planificación de campamentos y componentes seleccionados de precios familiares suizos/francés; no todos los programas o la auditoría nacional completa.",
+  "new_event_ids": [],
+  "new_dossiers": 0,
+  "budget_scenarios": 9,
+  "budget_providers": 4,
+  "budget_countries": [
+    "CHE",
+    "FRA"
+  ],
+  "events": 3348,
+  "camp_learning_records": 2006,
+  "programme_dossiers": 778,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1215,
+  "family_ics": 2593,
+  "exhibition_ics": 104,
+  "league_profiles": 141,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "primary_retrievals": {
+    "direct_attempts": 10,
+    "http200": 9,
+    "usable_html": 6,
+    "non_specific_shells": 1,
+    "pdfs": 2,
+    "errors": 1,
+    "web_reader_actual_bodies": 1,
+    "web_reader_empty": 1,
+    "selected_visual_page_checks": 7
+  },
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "Se conservan todas las 3348 tarjetas de eventos, 778 expedientes de programas, 182 escenarios editoriales, 141 perfiles de las ligas, escuelas/resultados/rutas y viejas filas de SQL; se añaden sólo metadatos de planificación de campamentos.",
+    "Intersección de mes, clasificación de fecha de origen, orden de edad de candidato, filtros antiguos conservados, enlaces directos al expediente y filtros de URL compartables.",
+    "Nueve estimaciones de dos hijos de cuatro proveedores en CHE/FRA. LesElfesJune10760/July13780CHF componentes obligatorios del campamento; Robotics180 sóloMatvey después10. No una factura completa de viaje.",
+    "La Garenne5–12 base de familia12445day/13680boardCHF; segundo-niño10percent Sólo en base, la misma sesión/formato; seguro10/niño-día requiere días facturados confirmados; dinero de bolsillo120/160 Depende de Matvey9/10. Depósitos no cobrados dos veces.",
+    "TASIS8000/9000day los escenarios y18400boardCHF. Oscar Minnows4–6/día contra CDE7–10/tablero cerrado en primer lugar-edad del día. Precio del seguro diario desconocido, alojamiento de hermanos restringido. Ermitage1220EUR pertenece a Oct2026 sólo; comidas no consideradas gratuitas.",
+    "Los gastos obligatorios/viajes vacíos o inválidos siguen ausentes; estimaciones introducidas separadas de los componentes publicados; no se realiza conversión de divisas ni se realiza factura completa automática.",
+    "Diez intentos directos/nueve200 cuerpos: seis HTML utilizables, una cáscara, dos PDF; uno403 retenidos. Lector primario separado uno real2026 cuerpo/uno vacío. Siete páginas de PDF seleccionadas revisadas visualmente; no se realiza auditoría de todo el país.",
+    "Entradas portátiles completas de JSON/SQLite ZIP/hash/README y entradas antiguas de CSV/ICS sin cambios verificadas; todos los activos estáticos por debajo del límite por archivo."
+  ],
+  "next_priority": "Continúa en profundidad general/Temática/STEM los campos2026–27/día/embarque/familia EN/ES/RU en CHE/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/- Sí , lo sé .: programa de cohortes real, EN profesor técnico, Ingesta extranjera, factura completa/Cuidad nocturna/equipo/Las restituciones/lugares actuales y el niño-lista específica. Expande los escenarios de costes familiares verificados y los criterios transparentes de calidad editorial sin inventar un ranking mundial. Preservación de las competiciones/las ligas/exposiciones/Escuelas permanentes/5–10year resultados/rutas familiares; resolver la fuente existente/Conflicto de fecha. Actividad global de objetivos;0 países totalmente auditados.",
+  "complete_database_download": {
+    "schema_version": 1,
+    "download": "STEM_database.zip",
+    "archive_bytes": 3021262,
+    "archive_sha256": "0e785a5130327420457bd4a06d99c3fd994bc16055e7cd9bbaaeeb039f0d9577",
+    "sqlite_entry": "STEM_database.sqlite",
+    "sqlite_bytes": 26418176,
+    "sqlite_sha256": "bfd66faf1f740cee798f49187f786dd1b69f77c88fe9e39da546f06fbfefed52",
+    "raw_download_available": false,
+    "complete_database": true,
+    "instructions": "Desempaque el archivo: dentro de la base de datos SQLite y README."
+  },
+  "complete_json_download": {
+    "schema_version": 1,
+    "download": "STEM_database_json.zip",
+    "archive_bytes": 2279693,
+    "archive_sha256": "df9078e2f947fc16bae52ea36a68e70dbef7e163776e0289eaa4a3160019ac16",
+    "json_entry": "STEM_database.json",
+    "json_bytes": 26204654,
+    "json_sha256": "c445930b37886014f589bb22077bdcb43c71e9d818707aa4553338ce65c8a522",
+    "raw_download_available": true,
+    "complete_database": true,
+    "instructions": "Deseleccione ZIP: dentro de la base completa de JSON y README. Todos los registros están guardados."
+  }
+}

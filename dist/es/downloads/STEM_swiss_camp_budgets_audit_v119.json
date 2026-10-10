@@ -1,0 +1,162 @@
+{
+  "version": 119,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Seleccionado día suizo/Invierno de embarque2026–27 y el verano2027 familia-escenarios presupuestarios. Documento de programas y objetos de calendario existentes sin cambios. No una auditoría completa en Suiza o en todo el mundo.",
+  "events": 3555,
+  "competition_records": 1153,
+  "exhibition_records": 189,
+  "camp_learning_records": 2213,
+  "programme_dossiers": 890,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1398,
+  "editorial_scenarios": 215,
+  "coverage_gaps": 240,
+  "league_profiles": 141,
+  "budget_scenarios": 35,
+  "budget_providers": 19,
+  "budget_programme_dossiers": 25,
+  "new_budget_scenarios": 8,
+  "new_budget_ids": [
+    "suisse-day-five",
+    "suisse-board-matvey",
+    "suisse-board-both-seven",
+    "lovell-winter-day",
+    "lovell-winter-board",
+    "lyceum-junior-week",
+    "garenne-winter-integration-day",
+    "garenne-winter-integration-board"
+  ],
+  "new_budget_brands": [
+    "Camp Suisse",
+    "Lovell",
+    "Lyceum Alpinum"
+  ],
+  "published_budget_components": [
+    {
+      "id": "suisse-day-five",
+      "currency": "CHF",
+      "amount": 2000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "suisse-board-matvey",
+      "currency": "CHF",
+      "amount": 4400,
+      "children": [
+        "matvey"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "suisse-board-both-seven",
+      "currency": "CHF",
+      "amount": 8800,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lovell-winter-day",
+      "currency": "CHF",
+      "amount": 3900,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lovell-winter-board",
+      "currency": "CHF",
+      "amount": 5400,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "lyceum-junior-week",
+      "currency": "CHF",
+      "amount": 2000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": false,
+      "complete": false
+    },
+    {
+      "id": "garenne-winter-integration-day",
+      "currency": "CHF",
+      "amount": 15000,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": true,
+      "complete": false
+    },
+    {
+      "id": "garenne-winter-integration-board",
+      "currency": "CHF",
+      "amount": 15900,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "lower_bound": true,
+      "complete": false
+    }
+  ],
+  "new_dossiers": 0,
+  "updated_dossier_slugs": [],
+  "new_event_ids": [],
+  "updated_event_ids": [],
+  "unchanged_dossier_objects": 890,
+  "unchanged_event_objects": 3555,
+  "unchanged_prior_budget_objects": 27,
+  "source_retrieval_attempts": 20,
+  "direct_successful_bodies": 19,
+  "retrieval_errors": 1,
+  "pdfs_downloaded": 4,
+  "pdf_pages_text_extracted": 13,
+  "new_visual_pdf_checks": 5,
+  "family_ical": 2770,
+  "exhibition_ical": 104,
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "checks": [
+    "Día del campamento en Suiza2027:5–17;200/día o1000/cinco días laborables;21Jun–13Aug ventana de temporada no en el embalaje. Bus de regreso20/día/niño:2000bothbase o2200includingfive-autobús de día. Actividades de almuerzo incluidas; Curso completo de idiomas no incluido. Por la noche120 No se ofrece sin que los niños jóvenes duerman sobre el derecho a la.",
+    "Tabla del campamento Suisse2027:7–17,4400/dos semanas. Matvey-sólo4400 excluye el Oscarcare; los dos8800 Oscar condicional ya7. Cuatro sábados-de la-Sesiones de sábado,15inclusivecalendardates No14nightsasserted. Otras horas oficiales/días. El padre100/Ginebra adulta→campamento→No se puede volver a la casa..",
+    "El campo de Suiza500depositinbase No se añade el acuerdo,4weekbalance. Seguroincluido reclamo no aceptado2027coverage; IPIDin actualmente vinculado2025folder Requisitos de vivienda-El registro de los Estados miembros y las cuentas de los asegurados-acontecimientos, No todas las cancelaciones. Políticas completas después del registro,2018termsstilllinked; Residencia en Costa Rica/Cidadad de la RFCapacidad de aplicación desconocida. Reino Unido no inventado-exclusión exclusiva.",
+    "- ¿Qué quieres decir ?2026/27 PDF5–16/todas las nacionalidades,tablero de sitios web5–15 ¿El conflicto superior no cambia?. Día de la fiesta1900+50registration=3900both;tablero2600+100=5400bothperweek. 1000advanceperchildinsidebase,notaxtra. Certificado médico y balance30days;registro no reembolso;escrito30daycancellationdepositrule, retiro del descuento.",
+    "Semanas de la mesa de amor5–7(10–30Jan)Explicito de embarque:excluidos de11boardperiods;día14MoFrweeksseparate. Incluido en el pase de embarque ENor FR/suministro/transporte de excursiones; Equipo personal de seguro aeropuerto puertas autobúsno incluido. Lenguajeversusentremanecerelección, PDFThirteenexcluidosvswebincluidos,El día finalconflictocontenido. No hay programa completo/El precio de los engranajes o de las máquinas de alta intensidad de las STEM.",
+    "Licenciatura Junior6–9 sólo:Oscar , ¿ qué quieres ?6–7candidate,Matvey9–10conditionalwhile9. cuatro de julio2027MoFrweeks,1000perweek/niño=2000both;16EN/Las defectos,almuerzo/materiales08:30–16. Selección local-servicio superior reclamadoincluido pero en ruta/sin confirmación; El programa de transferencia de aeropuertos digital ha sido suspendido.. Los padres proporcionan un seguro de responsabilidad de salud y accidentes;30/29–15/14dayrefundrules.",
+    "La integración de invierno de La Garenne5–14:de la7500day/7950board mínimo2weeks =>de la15000/15900both. Cinco bloques publicados;inmediatamente,último7–19Marshorterthan14calendardaysandnosecondweekski. La integración escolar ordinaria y mínima2ski/semana,No en inglés+Esquí8+/Super esquí8+. Inviernoextrastermas completosnochecarel idioma ubicación desconocida;el verano10%el hermano-discóntor500depositreused.",
+    "Reserva de servidores de altitudalena de reserva de junio de2027con fecha de inicio 28 de junio y 6 de junio14 etiqueta,día de página año sin 28 de julio13 de agosto975/950; residencial año sin 2950/5550/etc. Calendario no seguro de asientos o precio fijado por año.No hay presupuesto nuevo2027 ni fecha creado a partir de una asociación ambigua.Términos de seguro no existen,20%deposito/31 de mayo saldo/anulación30/14 límites permanecen condicionales.",
+    "Todos los 3555 eventos890 perfiles27objetos prioritarios,ligues/exposiciones/escuelas/historia/rutas conservados.Ocho escenariosparcialescuatro marcas(tres nuevas marcas presupuestadas),un nuevo ranking de calidad.Desconocido estructurado cero≠cero; depósitos no duplicados; de precios visiblemente marcados; ventanas de temporada distinguidas.Objetivo activo en todo el mundo;0 países auditados."
+  ]
+}

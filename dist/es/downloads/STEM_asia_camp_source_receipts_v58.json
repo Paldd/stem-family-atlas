@@ -1,0 +1,197 @@
+{
+  "asof": "2026-10-04",
+  "version": 58,
+  "scope": "Páginas oficiales públicas, organismos de programas dirigidos y preguntas frecuentes; etiquetas de edad del portal público LCCL en UI sin datos de los niños ni registro.",
+  "requests": [
+    {
+      "key": "campasia-book",
+      "url": "https://www.campasia.asia/book-a-camp",
+      "final_url": "https://www.campasia.asia/book-a-camp",
+      "status": 200,
+      "bytes": 265768,
+      "sha256": "fcf12d9060ce1b44048bf74e67f8b47f8d8d85532ff0a865162f3a70144d944e"
+    },
+    {
+      "key": "campasia-robotics",
+      "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+      "final_url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+      "status": 200,
+      "bytes": 306763,
+      "sha256": "08272fd81c898d76afde6135f2ce7e2c1417b704cd1a97ce4410ace0e1035746"
+    },
+    {
+      "key": "campasia-coding",
+      "url": "https://www.campasia.asia/holiday-camps/tech-savvy/creative-coding.html",
+      "final_url": "https://www.campasia.asia/holiday-camps/tech-savvy/creative-coding.html",
+      "status": 200,
+      "bytes": 292953,
+      "sha256": "f24e3d1d83244b3fcfac85333f3a1e1dd3e273cc2ff2e49d0e89e0a77c0478a3"
+    },
+    {
+      "key": "campasia-electronics",
+      "url": "https://www.campasia.asia/holiday-camps/tech-savvy/electronic-makerspace.html",
+      "final_url": "https://www.campasia.asia/holiday-camps/tech-savvy/electronic-makerspace.html",
+      "status": 200,
+      "bytes": 278708,
+      "sha256": "ce08f82e230b7a3337b9e172715d33391eb4634c90b9540e80a860354ca20acb"
+    },
+    {
+      "key": "campasia-stem",
+      "url": "https://www.campasia.asia/holiday-camps/multi-activity/multi-stem.html",
+      "final_url": "https://www.campasia.asia/holiday-camps/multi-activity/multi-stem.html",
+      "status": 200,
+      "bytes": 276514,
+      "sha256": "9877a6eb738aa37f74db1b189cd297951b874ea03e7f9563f66243bab7b3f671"
+    },
+    {
+      "key": "campasia-terms",
+      "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+      "final_url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+      "status": 200,
+      "bytes": 266690,
+      "sha256": "decc262ac8fd05251f3faaaeeba5c7ffaab78f4ecc31b97e37c10d723b222bdd"
+    },
+    {
+      "key": "taiwan-family",
+      "url": "https://www.camptaiwan.com.tw/family-camps",
+      "final_url": "https://www.camptaiwan.com.tw/family-camps",
+      "status": 200,
+      "bytes": 575868,
+      "sha256": "5567bcf0a78e05c7b9be0dcfaed911435e45a2e00da19bef8eb57892604a2dc4"
+    },
+    {
+      "key": "taiwan-faq",
+      "url": "https://www.camptaiwan.com.tw/faq",
+      "final_url": "https://www.camptaiwan.com.tw/faq",
+      "status": 200,
+      "bytes": 546973,
+      "sha256": "6e91cd2fbbe5d797fb26a1220267508b4e18140f5d268b6eea18225988fa9e76"
+    },
+    {
+      "key": "taiwan-summer-zh",
+      "url": "https://www.camptaiwan.com.tw/zh/summer-camp",
+      "final_url": "https://www.camptaiwan.com.tw/zh/summer-camp",
+      "status": 200,
+      "bytes": 894005,
+      "sha256": "fa3913b5634daef3a7bc89587a715af6071a87c791863b34f8d632e45ee2939d"
+    },
+    {
+      "key": "camping-taiwan",
+      "url": "https://campingtaiwan.com/en/summer-camp",
+      "final_url": "https://campingtaiwan.com/en/summer-camp",
+      "status": 200,
+      "bytes": 97487,
+      "sha256": "e79ebfd1957b1491d6c03b331728ec2b3dc2282a18b6d06c5d9352e34e6d476b"
+    },
+    {
+      "key": "hakuba",
+      "url": "https://www.hakuba-is.jp/summer-program",
+      "final_url": "https://www.hakuba-is.jp/summer-program",
+      "status": 200,
+      "bytes": 284409,
+      "sha256": "a2c671fcdb440780f43f56669520aa5a6d4fa657ce17f859b562148d81395314"
+    },
+    {
+      "key": "campasia-faq",
+      "url": "https://www.campasia.asia/about-us/faqs.html",
+      "final_url": "https://www.campasia.asia/about-us/faqs.html",
+      "status": 200,
+      "bytes": 261813,
+      "sha256": "83c6f768109e4028137f4d65eeb9d38b2d7c670c6ab07c6e8918839d6071c465"
+    },
+    {
+      "key": "english-adventure-winter",
+      "url": "https://www.english-adventure.org/en/winter/",
+      "final_url": "https://www.english-adventure.org/en/winter/",
+      "status": 200,
+      "bytes": 118729,
+      "sha256": "78632ec94fe4157f369039fe6181eb7bbeb885e2605ddafbf65b6b21966c9f33"
+    },
+    {
+      "key": "lccl-portal",
+      "url": "https://portal.lcclcoding.com/camps",
+      "final_url": "https://portal.lcclcoding.com/camps",
+      "status": 200,
+      "bytes": 31293,
+      "sha256": "4d8807f4f78d9b6df364f8989da24eeaa9fc7e2709aa9469c5218dc7cebfbba9"
+    },
+    {
+      "key": "lccl-terms",
+      "url": "https://www.lcclcoding.com/holidays/terms/",
+      "final_url": "https://www.lcclcoding.com/holidays/terms/",
+      "status": 200,
+      "bytes": 22090,
+      "sha256": "e7df7267ae1f3bfa1213845b3cd3180edb5be3c8fea95483914a5fd36bb63049"
+    },
+    {
+      "key": "codinglab-faq",
+      "url": "https://www.codinglab.com.sg/resources/faq",
+      "final_url": "https://www.codinglab.com.sg/resources/faq",
+      "status": 200,
+      "bytes": 429841,
+      "sha256": "6b0cfa22e404a37781ba35bae25017e22a3a2efb5be102ab59220c5dd524c046"
+    },
+    {
+      "key": "taiwan-summer-en",
+      "url": "https://www.camptaiwan.com.tw/summer-camp",
+      "final_url": "https://www.camptaiwan.com.tw/summer-camp",
+      "status": 200,
+      "bytes": 900266,
+      "sha256": "35d02f79db4cf7ec1746492f31bd9763039f4385fff17d581fc73b429bea637a"
+    },
+    {
+      "key": "camping-taiwan-faq",
+      "url": "https://campingtaiwan.com/en/faq",
+      "final_url": "https://campingtaiwan.com/en/faq",
+      "status": 200,
+      "bytes": 54978,
+      "sha256": "51828a5cbbed19961b8633128500752eea039d918cfa254467bbf158b983fd8e"
+    },
+    {
+      "key": "sfs-elementary",
+      "url": "https://www.seoulforeign.org/camp-sfs/elementary-school-programs",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/elementary-school-programs",
+      "status": 200,
+      "bytes": 72773,
+      "sha256": "3828a72b21bbd9ebc3cbc345a4e5de8120c96b3c1d3456ada0491922896bae9c"
+    },
+    {
+      "key": "sfs-eligibility",
+      "url": "https://www.seoulforeign.org/camp-sfs/eligibility",
+      "final_url": "https://www.seoulforeign.org/camp-sfs/eligibility",
+      "status": 200,
+      "bytes": 53680,
+      "sha256": "601b396c8ab14397fee28b19d78056a7fa197ef03132ab7a9bef5dbe49538bbe"
+    },
+    {
+      "key": "lccl-early",
+      "url": "https://www.lcclcoding.com/holidays/early-creators/",
+      "final_url": "https://www.lcclcoding.com/holidays/early-creators/",
+      "status": 200,
+      "bytes": 43119,
+      "sha256": "4f6c09b23ae14f609df6571285c30f8b6d67d0c586b7e96c20580760021a2863"
+    },
+    {
+      "key": "lccl-fundamentals",
+      "url": "https://www.lcclcoding.com/holidays/coding-fundamentals/",
+      "final_url": "https://www.lcclcoding.com/holidays/coding-fundamentals/",
+      "status": 200,
+      "bytes": 43521,
+      "sha256": "540a1c8e496e6eabba60b9b4c4756ee60f153f5639fb0401c4ca2880c1f58326"
+    },
+    {
+      "key": "lccl-holidays",
+      "url": "https://www.lcclcoding.com/holidays/",
+      "final_url": "https://www.lcclcoding.com/holidays/",
+      "status": 200,
+      "bytes": 28202,
+      "sha256": "19516e6ea043c4e8da48a85f5b53e71f4f396a90904cd67b1f8ff240bf1bbc45"
+    }
+  ],
+  "limitations": [
+    "La enseñanza técnica de inglés aún no confirmada para el Camp Asia y LCCL.",
+    "Los lotes de portal no pueden abrirse sin detalles de los estudiantes; las páginas del programa LCCL con fecha son la evidencia del calendario.",
+    "No se publican formularios privados, proyectos de identificación, datos de los niños, mensajes de contacto o pagos.",
+    "Corea del Sur: renovado Campamento SFS; no se estableció un nuevo campo de robotica de jóvenes externos."
+  ]
+}

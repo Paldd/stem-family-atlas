@@ -1,0 +1,321 @@
+{
+  "version": 132,
+  "asof": "2026-10-06",
+  "sources": [
+    {
+      "key": "cerebritos-home",
+      "url": "https://www.cerebritosdelfuturo.com/",
+      "final_url": "https://www.cerebritosdelfuturo.com/",
+      "status": 200,
+      "bytes": 1055407,
+      "sha256": "fe0ce97edaed509e732b4ff99bfa4c22d4993a9ea36d51d9598d0a07dc568ecc",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cerebritos-home.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "rocket-babies",
+      "url": "https://www.rocketgirls.org/rocket-babies",
+      "final_url": "https://www.rocketgirls.org/rocket-babies",
+      "status": 200,
+      "bytes": 258726,
+      "sha256": "626159259a85a9deaf8baae4393a0cde9dedc6c90867290b38af5da17d469966",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "rocket-babies.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "curious-home",
+      "url": "https://curiouslabminds.com/",
+      "final_url": "https://curiouslabminds.com/",
+      "status": 200,
+      "bytes": 48425,
+      "sha256": "f4eaafa6d94befc9b8dce0b80403f34c1d6039d3ac66342c7127b9a976786977",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "curious-home.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "liota-home",
+      "url": "https://liotacamps.com/",
+      "final_url": "https://liotacamps.com/",
+      "status": 200,
+      "bytes": 368878,
+      "sha256": "c34e2049b8ed4f98f93cfab886b34ba9839a5cdbcbbddbce199ab1a2e0a276e3",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "liota-home.html",
+      "body_snapshot_retained": true,
+      "content_status": "javascript_shell_not_programme_clause_evidence",
+      "resolution": "El shell conservado no tiene cláusulas de programa/edad/precio; el fragmento de búsqueda no se promueve a una lectura primaria completa actual."
+    },
+    {
+      "key": "cenfotec-makers",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "status": 200,
+      "bytes": 281492,
+      "sha256": "a6ca2c5fdf7b7f7fe3e2d352f785edf5f72d5508d3238dadcf327cb2a8eacc10",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-makers.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "vex-mex-home",
+      "url": "https://www.vexrobotics.com.mx/",
+      "final_url": "https://www.vexrobotics.com.mx/",
+      "status": 200,
+      "bytes": 43003,
+      "sha256": "a5e3de7baa1572f62361f2a40f830f6252ccf542f607479073662344751d5ad5",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "vex-mex-home.html",
+      "body_snapshot_retained": true,
+      "content_status": "navigation_or_catalogue_discovery"
+    },
+    {
+      "key": "vex-season-pdf",
+      "url": "https://www.vexrobotics.com.mx/docs/Comunicado-temporada%202026-2027.pdf",
+      "final_url": "https://www.vexrobotics.com.mx/docs/Comunicado-temporada%202026-2027.pdf",
+      "status": 200,
+      "bytes": 361628,
+      "sha256": "ae2a7c741107c28e15611fb63cf76e992727e71312dae6a616931bea541a198f",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "vex-season-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses"
+    },
+    {
+      "key": "vex-national-portal",
+      "url": "https://academiastem.org/championships/event?championship=14",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-juarez-portal",
+      "url": "https://academiastem.org/championships/event?championship=13",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-girl-portal",
+      "url": "https://academiastem.org/championships/event?championship=12",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-national-iq-es",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5500.html",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-national-iq-ms",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5506.html",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-juarez-iq-es",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5432.html",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "vex-juarez-iq-ms",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5423.html",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "cenfotec-courses",
+      "url": "https://ucenfotec.ac.cr/ecommerce/cursos/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/cursos-2/",
+      "status": 200,
+      "bytes": 428911,
+      "sha256": "46419b94a7bd2ca1c267a809ea63f983c9a11bec2fafb1921b6138c9a137f3dd",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-courses.html",
+      "body_snapshot_retained": true,
+      "content_status": "navigation_or_catalogue_discovery"
+    },
+    {
+      "key": "cenfotec-terms",
+      "url": "https://ucenfotec.ac.cr/ecommerce/terminos-y-condiciones/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/terminos-y-condiciones/",
+      "status": 200,
+      "bytes": 261091,
+      "sha256": "d5d76036295e6db03b223c1c4815f97271209c83803e47bcc58d6442dc20c14f",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-terms.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "cerebritos-about",
+      "url": "https://www.cerebritosdelfuturo.com/copy-of-qui%C3%A9nes-somos",
+      "final_url": "https://www.cerebritosdelfuturo.com/copy-of-qui%C3%A9nes-somos",
+      "status": 200,
+      "bytes": 1250638,
+      "sha256": "4a54cf394d44a7c587cb4645d6c3e2074718729542e10324c5c01a8ddd0228c8",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cerebritos-about.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "cerebritos-homeschool",
+      "url": "https://www.cerebritosdelfuturo.com/home-schools",
+      "final_url": "https://www.cerebritosdelfuturo.com/home-schools",
+      "status": 200,
+      "bytes": 984884,
+      "sha256": "e4a4bab8f3256b86a8d0864f137f17f8fd43d4e4139d9d469be430fb16130a32",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cerebritos-homeschool.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "cenfotec-courses-page2",
+      "url": "https://ucenfotec.ac.cr/ecommerce/cursos-2/page/2/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/cursos-2/page/2/",
+      "status": 200,
+      "bytes": 354073,
+      "sha256": "685a648fb653b92832d7711687e9a21c15d32b38aa6ad39e736ead1955dd40ea",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-courses-page2.html",
+      "body_snapshot_retained": true,
+      "content_status": "navigation_or_catalogue_discovery"
+    },
+    {
+      "key": "vex-age-policy",
+      "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_clause_evidence",
+      "resolution": "No hay bypass de desafío. Los cuerpos de eventos de la escuela primaria mexicana existentes siguen siendo inaccesibles en este pase; medio relacionado/V. El5 las tarjetas no verifican los lugares elementales. Política leída por separado por el propio lector principal. Tres academias derivadas STEM enlaces devueltos 404."
+    },
+    {
+      "key": "cenfotec-ai-kids",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-explorador-ia/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-explorador-ia/",
+      "status": 200,
+      "bytes": 281814,
+      "sha256": "15203acdf1a4e9a1a557d41e58166a1fbb395e28e51820c37e4ffc0f8232d129",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-ai-kids.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    },
+    {
+      "key": "cenfotec-cyberheroes",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ciberheroes-introduccion-a-la-seguridad-digital-y-privacidad/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ciberheroes-introduccion-a-la-seguridad-digital-y-privacidad/",
+      "status": 200,
+      "bytes": 283327,
+      "sha256": "0a7dc7201c14b5ffe07c1c8efd394cda83cd4889b5fba2a5ebbdd37053d8824d",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "cenfotec-cyberheroes.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses"
+    }
+  ],
+  "web_primary_reader_sources": [
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5506.html",
+      "checked": "2026-10-06",
+      "retrieval_method": "web_primary_page_reader",
+      "raw_body_snapshot_retained": false,
+      "content_scope": "Categoría de evento propio de mediano/V5, fecha, lugar, fecha límite, conflicto de precios, cuadernos y campos de invitación.",
+      "limits": "Cláusulas públicas seleccionadas; no existen lugares disponibles en vivo, solicitud autenticada o auditoría completa del sitio web."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5423.html",
+      "checked": "2026-10-06",
+      "retrieval_method": "web_primary_page_reader",
+      "raw_body_snapshot_retained": false,
+      "content_scope": "Categoría de evento propio de mediano/V5, fecha, lugar, fecha límite, conflicto de precios, cuadernos y campos de invitación.",
+      "limits": "Cláusulas públicas seleccionadas; no existen lugares disponibles en vivo, solicitud autenticada o auditoría completa del sitio web."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5511.html",
+      "checked": "2026-10-06",
+      "retrieval_method": "web_primary_page_reader",
+      "raw_body_snapshot_retained": false,
+      "content_scope": "Categoría de evento propio de mediano/V5, fecha, lugar, fecha límite, conflicto de precios, cuadernos y campos de invitación.",
+      "limits": "Cláusulas públicas seleccionadas; no existen lugares disponibles en vivo, solicitud autenticada o auditoría completa del sitio web."
+    },
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5435.html",
+      "checked": "2026-10-06",
+      "retrieval_method": "web_primary_page_reader",
+      "raw_body_snapshot_retained": false,
+      "content_scope": "Categoría de evento propio de mediano/V5, fecha, lugar, fecha límite, conflicto de precios, cuadernos y campos de invitación.",
+      "limits": "Cláusulas públicas seleccionadas; no existen lugares disponibles en vivo, solicitud autenticada o auditoría completa del sitio web."
+    },
+    {
+      "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+      "checked": "2026-10-06",
+      "retrieval_method": "web_primary_page_reader",
+      "raw_body_snapshot_retained": false,
+      "content_scope": "El 1 de junio de finales de temporada, límites de edad superiores, recuentos de equipos y reglas de un nivel; no se inventó una edad inferior.",
+      "limits": "Cláusulas públicas seleccionadas; no existen lugares disponibles en vivo, solicitud autenticada o auditoría completa del sitio web."
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "limits": "22 solicitudes directas, 14 cuerpos retenidos, 8 errores. Una capa SPA no tiene cláusulas de programa; tres páginas de descubrimiento no son auditorías completas de programa. Se lee cinco cláusulas adicionales de página propia. Una página PDF, 3 páginas de texto extraídas, 0 revisadas visualmente. No hay auditoría completa del país ni admisión personal."
+}

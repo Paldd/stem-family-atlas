@@ -36,6 +36,8 @@ class Links(HTMLParser):
             assert not url.path.startswith('/'), f'Link loses the GitHub Pages project prefix: {value}'
             target = (DIST / unquote(url.path)).resolve()
             assert target.is_relative_to(DIST.resolve())
+            if target.is_dir():
+                target = target / 'index.html'
             assert target.is_file(), f'Missing linked asset: {value}'
 
 html = (DIST / 'index.html').read_text()

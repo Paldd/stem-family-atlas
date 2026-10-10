@@ -1,0 +1,336 @@
+{
+  "asof": "2026-10-05",
+  "scope": "Los organismos de programa / curso / tarifa / cancelación primaria. No se presentaron formularios. Las URL fallidas siguen siendo fallas; las pruebas oficiales de los lectores web almacenadas en caché se etiquetan por separado.",
+  "download_attempts": [
+    {
+      "key": "tech-main",
+      "url": "https://techsparkacademy.ch/in-person-camps/",
+      "final_url": "https://techsparkacademy.ch/in-person-camps/",
+      "status": 200,
+      "bytes": 291950,
+      "sha256": "8f80a4a6790709e413f830a700601f9680da793fd19bf271fea5cac89118e39b"
+    },
+    {
+      "key": "tech-lausanne",
+      "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "final_url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "status": 200,
+      "bytes": 414324,
+      "sha256": "3072771680df72415b6260ede5dfabe106bfc20a16c92aa61ae16ec243f158e0"
+    },
+    {
+      "key": "tech-geneva",
+      "url": "https://leman.techsparkacademy.ch/geneva-camps/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tech-zurich",
+      "url": "https://zurich.techsparkacademy.ch/zurich-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "bytes": 468445,
+      "sha256": "f9ce466c01364d6cb6293f6742416562349082bc7ab9462fe77c9a5e924c4fad"
+    },
+    {
+      "key": "tech-zug",
+      "url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+      "status": 200,
+      "bytes": 282493,
+      "sha256": "4fc8d750c732aa994094f4c38227f4affad8073901d7913ffe391c5151cbbbd0"
+    },
+    {
+      "key": "tech-robotics",
+      "url": "https://online.techsparkacademy.ch/robotics-course/",
+      "final_url": "https://online.techsparkacademy.ch/robotics-course/",
+      "status": 200,
+      "bytes": 391673,
+      "sha256": "b58cc705fac3930b31d9ff7d5a163c39617d73b48c5d778cd901bf09657608d8"
+    },
+    {
+      "key": "helvetic",
+      "url": "https://www.helveticinstitute.ch/kids-camps/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "lyceum",
+      "url": "https://www.lyceum-alpinum.ch/en/summer-camps/",
+      "final_url": "https://www.lyceum-alpinum.ch/en/summer-camps/",
+      "status": 200,
+      "bytes": 70250,
+      "sha256": "4abb76351d5ef21eeffd9ce696b1941249eed279e619081c4dee1562a92afa27"
+    },
+    {
+      "key": "stdenis",
+      "url": "https://www.saint-denis.net/fr/categorie/cours-de-vacances-summer-camps-7.html",
+      "final_url": "https://www.saint-denis.net/fr/categorie/cours-de-vacances-summer-camps-7.html",
+      "status": 200,
+      "bytes": 22019,
+      "sha256": "7d674be0471ac6ddb820829b869ce876d9442ee7e25225d104ae0d94e9d6a7c0"
+    },
+    {
+      "key": "life-tech",
+      "url": "https://lifeschool.es/life-tech-camp/",
+      "final_url": "https://lifeschool.es/life-tech-camp/",
+      "status": 200,
+      "bytes": 138595,
+      "sha256": "91b3cf0b588561a2b28f21aefe57387ce2666062f580833627f3314d52737464"
+    },
+    {
+      "key": "life-tech-es",
+      "url": "https://lifeschool.es/es/tech-summer-camp/",
+      "final_url": "https://lifeschool.es/es/tech-summer-camp/",
+      "status": 200,
+      "bytes": 138650,
+      "sha256": "05ca4901cd6c660a21597e710ce3a4d2492727939e3a3e936994f50ae7d2fc5d"
+    },
+    {
+      "key": "chester",
+      "url": "https://www.chestercollege.org/en/camps/chester-international-english-summer-camp/",
+      "final_url": "https://www.chestercollege.org/en/camps/chester-international-english-summer-camp/",
+      "status": 200,
+      "bytes": 157674,
+      "sha256": "84c60cdab1ffaec927a69a2b703d8f3fbd64943528f9faf4c523c9a007091aaf"
+    },
+    {
+      "key": "st-george",
+      "url": "https://www.stgeorgebarcelona.com/en/news-events/summer-school-barcelona",
+      "final_url": "https://www.stgeorgebarcelona.com/en/news-events/summer-school-barcelona",
+      "status": 200,
+      "bytes": 281096,
+      "sha256": "4212b485423003618ca983c31ce06d2d8f34fcf203a05e61fa1b4e329405ff70"
+    },
+    {
+      "key": "st-george-pdf",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "final_url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Download%20%26%20policies/SGB_SummerCamp2026_Brochure_v3.pdf",
+      "status": 200,
+      "bytes": 39727781,
+      "sha256": "a9e17600ebf1ff2d55458db8594e4e8d105c382eae8b808972e7c1c01a72cdd1"
+    },
+    {
+      "key": "ai-alicante",
+      "url": "https://aikidsclub.org/en/ai-summer-camp-alicante",
+      "final_url": "https://aikidsclub.org/en/ai-summer-camp-alicante",
+      "status": 200,
+      "bytes": 83911,
+      "sha256": "679ddb5d176a59d4a17da9be36c6d081832408e12336079d7ab0d0c14159a20f"
+    },
+    {
+      "key": "tech-geneva",
+      "url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "final_url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "status": 200,
+      "bytes": 377064,
+      "sha256": "7516973f4aeaa3e26c12615af9538789807009bd79f94c7323922121f81c4b5a"
+    },
+    {
+      "key": "tech-terms",
+      "url": "https://techsparkacademy.ch/terms-conditions/",
+      "final_url": "https://techsparkacademy.ch/terms-conditions/",
+      "status": 200,
+      "bytes": 206787,
+      "sha256": "5c2fab52e25db15ab8cfb0f565ebaf4d705e52d4cb4a709251ef1a142af6f8e9"
+    },
+    {
+      "key": "lyceum-board",
+      "url": "https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/",
+      "final_url": "https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/",
+      "status": 200,
+      "bytes": 147076,
+      "sha256": "b95bb67f3fa2980c84e1e98c0638adfaf830adfcdfd74b0de3c5fda15e5ccea2"
+    },
+    {
+      "key": "lyceum-junior",
+      "url": "https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/",
+      "final_url": "https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/",
+      "status": 200,
+      "bytes": 125127,
+      "sha256": "407e790e2a1c661bc400c6ffa5c7213157f66a5dc921b00b486dbd4f0d188cdf"
+    },
+    {
+      "key": "champittet",
+      "url": "https://www.nordangliaeducation.com/champittet/camps/summer-leadership-camp",
+      "final_url": "https://www.nordangliaeducation.com/champittet/camps/summer-leadership-camp",
+      "status": 200,
+      "bytes": 107866,
+      "sha256": "5a268cbfa0cd54275c906551ca5a4b6d81a5932b175fda7db1e21726a4c7accd"
+    },
+    {
+      "key": "saintcharles",
+      "url": "https://www.saint-charles.ch/en/Summer-Camp/Summer-Camp.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "roches",
+      "url": "https://www.ecoledesroches.com/en/summer-camp/",
+      "final_url": "https://www.ecoledesroches.com/en/summer-camp/",
+      "status": 200,
+      "bytes": 160460,
+      "sha256": "7fd4312b3877ae6c8ea0ccc53009610d4fdb5e83ec5eb1e4c08f553ca1da3949"
+    },
+    {
+      "key": "roches-pdf",
+      "url": "https://www.ecoledesroches.com/wp-content/uploads/2026/03/Summer-Camp-12-Feb-2026.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "jm-roches",
+      "url": "https://www.jmacademy.org/ai-tech-camp-at-ecole-des-roches",
+      "final_url": "https://www.jmacademy.org/ai-tech-camp-at-ecole-des-roches",
+      "status": 200,
+      "bytes": 751583,
+      "sha256": "bb8d9186a143a982d0002bf6ab58ed1738732b0cc2f2a56f21d5e3d5a5b66b6d"
+    },
+    {
+      "key": "stdenis-camp",
+      "url": "https://www.saint-denis.net/fr/article/english-summer-camps-44.html",
+      "final_url": "https://www.saint-denis.net/fr/article/english-summer-camps-44.html",
+      "status": 200,
+      "bytes": 21675,
+      "sha256": "17d2ee95110efa0c3678cdc8b608b0a040457880ec5f5f6692b4e9e5dba14a3f"
+    },
+    {
+      "key": "st-george-robotics",
+      "url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Pdf/Robotics%20summer%20camp%202026.pdf",
+      "final_url": "https://www.stgeorgebarcelona.com/IB%20-%20St%20George%20Barcelona/Pdf/Robotics%20summer%20camp%202026.pdf",
+      "status": 200,
+      "bytes": 2322226,
+      "sha256": "b2ac7ca7efdf44b7e3b187dd18b522be648f6590f2d44c6aace74c41de33b799"
+    },
+    {
+      "key": "chester-boarding-pdf",
+      "url": "https://www.chestercollege.org/wp-content/uploads/2026/02/en-boarding-chester-english-summer-camp-2026.pdf",
+      "final_url": "https://www.chestercollege.org/wp-content/uploads/2026/02/en-boarding-chester-english-summer-camp-2026.pdf",
+      "status": 200,
+      "bytes": 1135710,
+      "sha256": "5b6937b7bb1329ec2da7ef2384676104fee2dec18cb6ae63f013f72403f00595"
+    },
+    {
+      "key": "chester-day-pdf",
+      "url": "https://www.chestercollege.org/wp-content/uploads/2026/02/en-day-chester-english-summer-camp-2026.pdf",
+      "final_url": "https://www.chestercollege.org/wp-content/uploads/2026/02/en-day-chester-english-summer-camp-2026.pdf",
+      "status": 200,
+      "bytes": 1139015,
+      "sha256": "6229f6e58eb370e33923b67500b387aaaee20fccf2a4b025bc7b3ee6665a6f7c"
+    },
+    {
+      "key": "lyceum-board-pdf",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-International-Summer-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-International-Summer-Camp-2027.pdf",
+      "status": 200,
+      "bytes": 2643306,
+      "sha256": "287d29f40084f159ca5a56bb11e518a398974a0e90c23210b0ed11039ab96bbf"
+    },
+    {
+      "key": "lyceum-junior-pdf",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-Junior-Day-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-Junior-Day-Camp-2027.pdf",
+      "status": 200,
+      "bytes": 315942,
+      "sha256": "c2202565e535c12146c9f9f0a0e8b4bacb5b0a4f0d505a9d431b6e0d58157a0c"
+    },
+    {
+      "key": "lyceum-digital-pdf",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf",
+      "status": 200,
+      "bytes": 307529,
+      "sha256": "e4cfb5cebd5123b46f775c72efaf3397ab39087beca841487e357d8498d8eb33"
+    },
+    {
+      "key": "roches-new-pdf",
+      "url": "https://www.ecoledesroches.com/wp-content/uploads/2026/04/SummerCamp2026Brochure-EDR.pdf",
+      "final_url": "https://www.ecoledesroches.com/wp-content/uploads/2026/04/SummerCamp2026Brochure-EDR.pdf",
+      "status": 200,
+      "bytes": 4407658,
+      "sha256": "5b365c8fc2028f1d2c7d00b986d644072aec37e8b0fe92b7d82a387a502e3dd3"
+    },
+    {
+      "key": "jm-summer",
+      "url": "https://www.jmacademy.org/summer-camps",
+      "final_url": "https://www.jmacademy.org/summer-camps",
+      "status": 200,
+      "bytes": 3035604,
+      "sha256": "9da7c4e9c0790da9b940c9c6d160d237ec77b2638e0b13ef504ff82056115431"
+    },
+    {
+      "key": "jm-school",
+      "url": "https://ecolejeanninemanuel.org/summer-et-science-camp/",
+      "final_url": "https://ecolejeanninemanuel.org/summer-et-science-camp/",
+      "status": 200,
+      "bytes": 104742,
+      "sha256": "fa514fbded6ef706f8a834cf54ee6d9a51753da38e760f6f0f2320c2b6edbce5"
+    }
+  ],
+  "official_web_reader_only": [
+    {
+      "url": "https://www.saint-charles.ch/summer-camp",
+      "status": "official_cached_web_reader",
+      "finding": "La página actual muestra tarifas sin temporada/edad; no se ha comprobado el calendario de 2027."
+    },
+    {
+      "url": "https://www.saint-charles.ch/en/Summer-Camp/Summer-Camp.html",
+      "status": "official_cached_web_reader",
+      "finding": "Archivado2026: edad avanzada10–15 y extras; No es un2027 prueba de elegibilidad."
+    }
+  ],
+  "pdf_visual_checks": [
+    {
+      "key": "lyceum-board-pdf",
+      "pages": [
+        3
+      ],
+      "checked": "precios y paquete; fechas reales leídas por separado en texto"
+    },
+    {
+      "key": "lyceum-junior-pdf",
+      "pages": [
+        1
+      ],
+      "checked": "2027 cuatro semanas, edad6–9, CHF1000"
+    },
+    {
+      "key": "lyceum-digital-pdf",
+      "pages": [
+        1
+      ],
+      "checked": "2027 EN técnico, 9 horas, portátil propio"
+    },
+    {
+      "key": "roches-new-pdf",
+      "pages": [
+        11
+      ],
+      "checked": "2026 tasa, depósitos de crédito/seguridades, cancelación"
+    },
+    {
+      "key": "chester-boarding-pdf",
+      "pages": [
+        1
+      ],
+      "checked": "Título y precios 2026, registro creditizado de 750 EUR"
+    },
+    {
+      "key": "chester-day-pdf",
+      "pages": [
+        1
+      ],
+      "checked": "folleto de precios vinculado a2026 nombre de archivo; No lo hace2027 precio/año establecido en el"
+    },
+    {
+      "key": "st-george-pdf",
+      "pages": [
+        9
+      ],
+      "checked": "las tasas de robótica separadas y6–10; registro/precio de recogida leído por separado"
+    },
+    {
+      "key": "st-george-robotics",
+      "pages": [
+        1
+      ],
+      "checked": "Actividades/Minecraft/6–10; texto codificado verificado visualmente"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "version": 120,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Nueva Francia seleccionada/Familia española, Dossiers bilingües de día y de programa técnico; Enforex2027 dos partes-Precios para niños y Pari2026–27 lugar de celebración-precios específicos. No todos los campos europeos o una demanda mundial de finalización.",
+  "events": 3559,
+  "competition_records": 1153,
+  "exhibition_records": 189,
+  "camp_learning_records": 2217,
+  "programme_dossiers": 897,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1412,
+  "editorial_scenarios": 217,
+  "coverage_gaps": 244,
+  "league_profiles": 141,
+  "budget_scenarios": 43,
+  "budget_providers": 21,
+  "budget_programme_dossiers": 33,
+  "new_budget_scenarios": 8,
+  "new_budget_ids": [
+    "enforex-madrid-two-day",
+    "enforex-madrid-two-board",
+    "enforex-elviria-two-day",
+    "enforex-elviria-two-board",
+    "enforex-salamanca-two-day",
+    "enforex-salamanca-two-board",
+    "pari-convention-autumn-week",
+    "pari-ranelagh-oscar-week"
+  ],
+  "new_budget_brands": [
+    "Enforex",
+    "Pari-Grandir"
+  ],
+  "published_budget_components": [
+    {
+      "id": "enforex-madrid-two-day",
+      "currency": "EUR",
+      "amount": 2470,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "enforex-madrid-two-board",
+      "currency": "EUR",
+      "amount": 5060,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "enforex-elviria-two-day",
+      "currency": "EUR",
+      "amount": 2470,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "enforex-elviria-two-board",
+      "currency": "EUR",
+      "amount": 4260,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "enforex-salamanca-two-day",
+      "currency": "EUR",
+      "amount": 2470,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "enforex-salamanca-two-board",
+      "currency": "EUR",
+      "amount": 4260,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "pari-convention-autumn-week",
+      "currency": "EUR",
+      "amount": 787,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "complete": false
+    },
+    {
+      "id": "pari-ranelagh-oscar-week",
+      "currency": "EUR",
+      "amount": 395,
+      "children": [
+        "oscar"
+      ],
+      "complete": false
+    }
+  ],
+  "new_dossiers": 7,
+  "new_dossier_slugs": [
+    "country-kids-family",
+    "pari-convention",
+    "pari-ranelagh",
+    "etopia-junior",
+    "etopia-middle",
+    "etopia-advanced",
+    "playcode-ulpgc"
+  ],
+  "new_programme_brands": [
+    "Country Kids",
+    "Pari-Grandir",
+    "Niños de Etopía / Fundación Hiberus",
+    "PlayCode Academy"
+  ],
+  "updated_dossier_slugs": [],
+  "new_event_ids": [
+    "CP892-20261019-20261023",
+    "CP892-20261026-20261030",
+    "CP893-20261019-20261023",
+    "CP893-20261026-20261030"
+  ],
+  "updated_event_ids": [],
+  "unchanged_dossier_objects": 890,
+  "unchanged_event_objects": 3555,
+  "unchanged_prior_budget_objects": 35,
+  "source_retrieval_attempts": 27,
+  "direct_successful_bodies": 24,
+  "retrieval_errors": 3,
+  "pdfs_downloaded": 5,
+  "pdf_pages_text_extracted": 57,
+  "new_visual_pdf_checks": 10,
+  "family_ical": 2774,
+  "exhibition_ical": 104,
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "ui_fix": "Cambiar de oferta después de editar un campo de gastos enfocados puede enviar sincrónicamente el cambio de campo antiguo durante la sustitución de DOM. Ignorar estos eventos de oferta anteriores al reemplazar el formulario; nuevos campos y opciones se restablecen antes del recalculo.",
+  "checks": [
+    "Los niños del país son padres-Resorts familiares acompañados, No niño-Sólo embarque. Inglés-equipo de cuidado infantil y arriba-de la12 club explícito. De la7490EUR/familia4/semana no se ha establecido2027priceyear o exacciones. El sat–Sólo sentado. FAQ excluye el sábado almuerzo y los padres/Los restaurantes. Seguro obligatorio de vacaciones; corriente2024contract30%anticipo/ocho semanas de balance/Nueve semanas de venta-sóloreembolso/300fee explícito.",
+    "Lugar de la Convención de París3–10 incluye almuerzo:450first/337second/Semana completa,787both tabla impresa, No450*.75rounding. El lugar de Ranelagh3–6 Sólo toma a Oscar.395/Todo el día y la caja de almuerzo. Genericos3–10widgetdoesnotexpandRanelagh. Centro propio PDFs exactamente19–23/26–30Oct2026 Planeos bilingües diarios, Cuatro nuevos calendarios futuros. Red de trabajo2027winter/primavera/ventanas de verano no copiadas en todos los entornos; En el precio de los alumnos Montessori no extranjero-precio familiar. Crédito fiscal no aplicable y anual después de los plazos escolares no contrato de campamento.",
+    "Etiopía2026 finalizado: tres expedientes para6–8junior,8–11game/espacio/Ciencia,10–13robotics/cibernética/AI, no tres operadores. Entre los diez realitinerarios se incluyen:12–15oldertracks. Solo el Junior Oscar2027; medio Matvey; avanzado después10. Semana130,temprano5/semana,almuerzo27/semana archivada. En la mañana10%plazo expirado; Código hermano después de la primera compra no automático. El mismo itinerario se recomienda; No hay profesor de inglés inventado/2027dates/nuevo.",
+    "El propio junio de ULPGC2026 el anuncio6–16 y LEGO/Arduino/Microbitas/Edison/Drones/3D explicitamente leído. La primera semana22/23/25/26June Sólo cuatro días; todos2026sessionspast.135external/115ULPGC y descenso no nuevo2027quote o llena-tres-costo de sesión. Operador de ambas direcciones de URL DNSerror; cuerpo universitario completo programa seleccionado válido. Inversión en el campus no credito académico, lenguaje/propiedad de la propiedad/nueva temporada/cancelación desconocida.",
+    "Página en PDF de Enforex33 matriz revisada visualmente: Madrid3two-Bloques de semana/El año1; Elviria4includingAug15; El mismo2Julyonly. Tabla de trabajo2495Madrid/2095others por niño2wk más35/Aplicación de la aplicación=5060/4260both. Día de la fiesta1200/niño2wk más35each=2470both, Mo real–Fronteras separadas del sol–El sat. Válido por cuotas12months; Se supone que el primer registro familiar, No por vida. Todos los menores5–18, alojamiento14+ excluidos.20*45minlanguage=15h/semana, campamento-vida Inglésno prometido; certificado noworldwin.",
+    "Enforex local95/persona/una vía es una estación/aeropuerto local en la misma ciudad, no en el aeropuerto de Madrid. SalamancaMadrid camp220/shuttle separadomodelado440 ambos, localopción no duplicada. Daybus250/2w/childs solo ciudadespublicadas, noSalamancabuspromiso. Opcionalgarantia300/semana/persón=1200both2w con límites contractuales; total coste de viaje no reembolso. Junior100% supervisión distinta de JóvenesAdultos50%; genericdeposit250 ycamp850/4w/2wcclauses de fondos no sumadas como cargos; contrato real/cubrición/factura condicional.",
+    "El primer3555event,890dossier,35budgetoffer objeto conservado; Sólo se añadieron cuatro calendarios futuros para París. Competición mundial/exposición/Liga/escuela-Historia/Las rutas siguen. No se fabricó ningún ranking independiente de los campamentos superiores. Cuantidades obligatorias no cero, Un niño OscarPrecio no gratis Matvey. Activo en todo el mundo,cero países auditados."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "asof": "2026-10-05",
+  "version": 80,
+  "status": "progress",
+  "scope": "Programa de Estados Unidos/Canadá/América Latina, admisión, precio y calendario de la aprobación primaria; sigue activo el objetivo de competencia mundial completa/exposición/escuela/campamento",
+  "new_dossiers": 13,
+  "updated_dossiers": [],
+  "new_calendar_rows": 110,
+  "new_family_ics": 110,
+  "programme_dossiers": 402,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 634,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "camp-muskoka-general",
+    "muskoka-woods-wild",
+    "muskoka-woods-venture",
+    "robin-hood-day",
+    "robin-hood-home-away",
+    "vgc-junior-family",
+    "robot-academy-full-day",
+    "stem4-builders",
+    "stem4-challengers",
+    "stem4-engineers",
+    "stem4-rookies",
+    "ymca-colombia-ycamp",
+    "lincoln-epic-archive"
+  ],
+  "findings": [
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v80: precio y condiciones primarios 2027",
+      "detail": "Muskoka Woods: WILD 2019–21 / Venture 2017–18; no se ha confirmado el idioma. El niño internacional debe ser adulto, que toma en seis horas. para comprobar HST, ISO de las monedas y 14 contra 15 días de cancelación del transporte. Robin Hood: imagen de la prisa 2027 contiene 1855/1680; de la actualidad bus 280/190 contra los viejos 265/180 en la búsqueda. Early hasta 31 de octubre — no es el plazo de recepción.",
+      "next_action": "Confirmar la lengua, la moneda/impuesto, la admisión externa, la preparación para un Oscar y la cuenta final.",
+      "url": "https://muskokawoods.com/terms-and-conditions/"
+    },
+    {
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "provider": "v80: STEM4Kids / Robot Academy",
+      "detail": "78 las opciones del curso/el campus STEM4Kids 2027, ¿Qué es eso? 78 de los operadores. tabla Open / Opens Nov1 no prueba el lugar libre. las plataformas de enseñanza, edad y el conjunto en el campamento; no se conoce el idioma. Robot Academy: el calendario 2027 en algunas referencias de registro 2026, El precio total no se conoce. Los premios de campamento no son victorias mundiales.",
+      "next_action": "comprobar el contrato, la lengua/edad, el precio/equipamiento/fiesta, la plataforma específica y las tareas para los niños experimentados; continuar con el resto de programas USA/CAN.",
+      "url": "https://www.stem4kids.co/camps/robotics"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v80: VGC 2027 dentro del PDF 2026",
+      "detail": "las páginas se han leído visualmente 8–9: Summer/Winter 2027; Junior CAD 2845–6550 sin vivienda / 4585–9640 homestay. Esos son los precios personales.; el cálculo familiar por separado. Junior 9–12 con un adulto; unaccompanied-minor fee No excepción. Las ventanas de temporada y los comienzos semanales no se han convertido en turnos continuos.",
+      "next_action": "comprobar el uso del idioma para el inglés libre, las fechas de noche/de viaje, el alojamiento familiar/precio, el contrato y el programa de niños Oscar.",
+      "url": "https://vgc.ca/wp-content/uploads/2026-General-Price-Book-FINAL.pdf"
+    },
+    {
+      "country": "Costa Rica / México / Colombia",
+      "iso": "CRI",
+      "provider": "v80: fechas futuras y dirección actual",
+      "detail": "YMCA FinAño 2026 se realiza en Bochica/Santandercito; la lista general antigua La Vega no es la plataforma actual. COP y 100% EN se indican directamente; Summer 2027 hasta que la hoja de notificación. Lincoln EPIC enero 2026 Sólo que Grades 8–12. Liota Winter: 17 diciembre–4 enero contra las cuatro semanas; el verano FAQ no prueba el permiso de invierno. Camp Hope — viaje de un equipo de voluntarios; Heredia enero 2026 — archivo.",
+      "next_action": "encontrar nuevos turnos de invierno más pequeños CRI/MEX, leer el contrato YMCA y los precios de las nuevas estaciones LATAM.",
+      "url": "https://experiencias.ymcacolombia.org/InscripcioncampamentosColombia2026"
+    }
+  ],
+  "calendar": {
+    "events": 2731,
+    "learning_records": 1400,
+    "family_ics": 2066,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 937,
+    "reused_legacy_events": 66,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "validation": [
+    "Se conservan todos los 2621 eventos anteriores y todos los 389 documentos de identificación/contenido; 13 nuevos programas/edad/temporada/format de expedientes, no 13 operadores independientes.",
+    "El campamento Muskoka está separado de Muskoka Woods. Sus ocho sesiones de 2027 de una semana / CAD1695 / impuestos / cancelación son primarias; el idioma y la elegibilidad extranjera siguen siendo desconocidas.",
+    "Bosques de Muskoka2027 El mundo2019–2021 / El riesgo2017–2018 para que los niños se comparan por cohortes explícitos. Ocho semanas cada una con precios diferentes; Cambio de chat de la cabaña cristiana, seguro y recogida obligatoria de adultos en un plazo de seis horas documentada. La moneda ISO y 14-contra15-Se ha mantenido el conflicto de cancelación de transporte diario.",
+    "Robin Hood Canadá2027 imagen de precio propio de lectura visual: cuatro sesiones, tercero nueve días de asistencia; nuevo-familia1855/1680 a través de31October. Autobús corriente280/190 Se diferencia de la búsqueda obsoleta265/180. En el hogar&Distante Grados completados separados2–4/tres-programa nocturno; ninguno de los alumnos de la escuela dedujo de su año de nacimiento.",
+    "VGC PDF nombre de archivo2026 contiene verano real/Invierno2027 tablas en las páginas8–9, ambas traducidas/Leído. Tarifas individuales para jóvenes, Taxas de los adultos y no conocidos. Junior9–12 debe viajar con un adulto a pesar de que no esté acompañado por un medicamento genérico-tarifa menor. Dos ventanas de temporada no producen exactamente-Sesión de ICS.",
+    "STEM4Kids78 curso/campus/datas variantes: 21Constructores y 19 entre sí. Datas de la tabla de productos real analizadas de forma independiente de HTML caché primario; primavera4cursos12 a 16 abril sóloCupertino. Nov1/Open etiquetas no son vacantes en vivo; Inglés/ISO/taxes no deducidos. Robotkits se quedan encamp.",
+    "STEM4Kids OscarGO sólo después de cumplirseptimo cumpleaños; MatveyBuilders/Rookies sólo mientras 9. SPIKEEessential/Prime, GO/IQ porciones específicas del curso y las reglas reales de cancelación/pagamiento completo se conservan.",
+    "Academia de robots2027 Westerville y Lewis-las fechas de la superficie vinculadas a la propia completa detallada-páginas del programa de día. Edad4–7/8–13,Robot de llevar a casa opcional,trae el almuerzo,precio total desconocido/Inglés. Cuatro-Cuentas de reembolso semanales desde el registro, no comienza; Medalla interna no campeonatos mundiales.",
+    "YMCA Colombia29November–4December2026 en Bochica/Santandercito,COP1950000,100%Inglés,YCAMP8–13. AnteriorGénérico La Vega/Las minivariantes no fechadas no son nuevas/prueba de fecha;2027 formulario de notificación no fecha de registro. Oscar por debajo8.",
+    "Lincoln EPICGrades8–12/EN&ES enero2026 archivo,No Junior2027. Liota Winter19days-contra4weeks/verano-Sólo la edad FAQ sigue sin resolverse. El equipo de voluntarios del campamento Hope y Heredia enero2026 Talleres excluidos como futuros campos familiares ordinarios.",
+    "110 nuevas filas de calendario/familyICS; se conservan las UID/parejas de fechas anteriores a 1956; 104 exhibicionesICS no han cambiado. SQLite/publicJSON se acuerda, el puente es idempotente,86 escenarios de familia y0 países auditados."
+  ],
+  "next_priority": "Continúa la solicitud de países europeos/asiáticos/americanos y el alcance completo de las lecciones/exposiciones/escuelas; programas de invierno CRI/MEX primarios2027, prueba de curso de inglés, contratos completos y facturas familiares siguen abiertos"
+}

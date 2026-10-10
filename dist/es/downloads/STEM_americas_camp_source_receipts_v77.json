@@ -1,0 +1,307 @@
+{
+  "asof": "2026-10-05",
+  "version": 77,
+  "scope": "29 intentos directos de compra primaria28 exitosos,1error retenido),3 páginas oficiales de Olympia via webbreader,2todos los artículos visuales/expansivos nativos",
+  "sources": [
+    {
+      "key": "cuddles",
+      "url": "https://www.cuddleskidz.com/winter-camp",
+      "final_url": "https://www.cuddleskidz.com/winter-camp",
+      "status": 200,
+      "bytes": 1609073,
+      "sha256": "f8b748c36db5721363398d99bffa8239a9f80c1dfe41b770950d0b2eed3ae517"
+    },
+    {
+      "key": "holland-march",
+      "url": "https://research.hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025",
+      "final_url": "https://research.hollandbloorview.ca/services/programs-services/first-robotics-program-march-break-2025",
+      "status": 200,
+      "bytes": 297681,
+      "sha256": "250a43244fb17bb98eae98ecddcdaba992600dbde8a9117ece39472bebf6f14d"
+    },
+    {
+      "key": "holland-winter",
+      "url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+      "final_url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+      "status": 200,
+      "bytes": 297674,
+      "sha256": "4131d64262dc152d0d4b20c5a294d9f549820a08b8c435bb76f9c836696d542a"
+    },
+    {
+      "key": "cube-classes",
+      "url": "https://cubestemcamps.ca/classes",
+      "final_url": "https://cubestemcamps.ca/classes",
+      "status": 200,
+      "bytes": 689608,
+      "sha256": "c291d85ba503ffb7e8479387dad55b965725bb83925eabd9edd6d892fbaddb85"
+    },
+    {
+      "key": "centre-rates",
+      "url": "https://www.centrecamp.ca/dates-rates",
+      "final_url": "https://www.centrecamp.ca/dates-rates",
+      "status": 200,
+      "bytes": 37070,
+      "sha256": "ca98b50d96469fbac2dc1f4e0afb7eece6cd7d15a6527d24f2b3c071efb72311"
+    },
+    {
+      "key": "cedar-home",
+      "url": "https://cedarridgecamp.ca/",
+      "final_url": "https://cedarridgecamp.ca/",
+      "status": 200,
+      "bytes": 120522,
+      "sha256": "3e4fefb6d3bd0ecdfb4308638eccf3a49fa81332c3aa51fbaf8ba1ec44da896b"
+    },
+    {
+      "key": "eagle-rates",
+      "url": "https://campeagleridge.com/dates-rates/",
+      "final_url": "https://campeagleridge.com/dates-rates/",
+      "status": 200,
+      "bytes": 126062,
+      "sha256": "18efdfb2499117238e927d6034c2791f1999535fb1162dc659df2d298793b9c9"
+    },
+    {
+      "key": "olympia-rates",
+      "url": "https://www.campolympia.com/summer-camps/dates-pricing-2027/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "integem-cupertino",
+      "url": "https://camp.integem.com/register/summer-camps-in-cupertino-san-jose-sunnyvale-us-ca",
+      "final_url": "https://camp.integem.com/register/summer-camps-in-cupertino-san-jose-sunnyvale-us-ca",
+      "status": 200,
+      "bytes": 415851,
+      "sha256": "b1a15fa2681ea04d45ebe9374a34b7615976787303e4b2f9ac97b1562afeeeba"
+    },
+    {
+      "key": "integem-highschool",
+      "url": "https://www.integem.com/highschool",
+      "final_url": "https://www.integem.com/highschool",
+      "status": 200,
+      "bytes": 277093,
+      "sha256": "92c0a5853ee48a9856de937d8002d3cd7ea64d8971352f2706c6a43f5e2c7db0"
+    },
+    {
+      "key": "wildroots-camp",
+      "url": "https://www.wildrootsworldschool.com/camp-info",
+      "final_url": "https://www.wildrootsworldschool.com/camp-info",
+      "status": 200,
+      "bytes": 883682,
+      "sha256": "0e448bcd5b025d127517beb36ed6d3bebed93462ce08a10f1e201ebbd1e06069"
+    },
+    {
+      "key": "ucr-pacific",
+      "url": "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+      "final_url": "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+      "status": 200,
+      "bytes": 591023,
+      "sha256": "8b9a5e21f711beff0bf8e833a8d043c8e4a2ac8567048296d85e3419ab200333"
+    },
+    {
+      "key": "utp-tech",
+      "url": "https://sostenible.utp.ac.pa/noticia/actividad-tecno-camp-2026-utp",
+      "final_url": "https://sostenible.utp.ac.pa/noticia/actividad-tecno-camp-2026-utp",
+      "status": 200,
+      "bytes": 13059,
+      "sha256": "9111345f7c9adac64f17e0ce52f39ef3ebfa2e0fdd70e0fd9a08aec82bb68018"
+    },
+    {
+      "key": "winaukee-home",
+      "url": "https://winaukee.com/",
+      "final_url": "https://winaukee.com/",
+      "status": 200,
+      "bytes": 220559,
+      "sha256": "ed1211879024f7e483cdc311cad0868605d32c4685d4223d800f50d70a27e7f9"
+    },
+    {
+      "key": "cedar-rates",
+      "url": "https://cedarridgecamp.ca/dates-rates/",
+      "final_url": "https://cedarridgecamp.ca/dates-rates/",
+      "status": 200,
+      "bytes": 109515,
+      "sha256": "1435f84aab23da3c09c984fe534dfded8269ec53ebb70eae5c4fc4409c5ef665"
+    },
+    {
+      "key": "eagle-faq",
+      "url": "https://campeagleridge.com/about-camp-eagle-ridge/frequently-asked-questions/",
+      "final_url": "https://campeagleridge.com/about-camp-eagle-ridge/frequently-asked-questions/",
+      "status": 200,
+      "bytes": 103540,
+      "sha256": "8542c2130f87e4c518618cbd453bcc0e72d35409a05465bcc0b73ab05ebbeb66"
+    },
+    {
+      "key": "eagle-activities",
+      "url": "https://campeagleridge.com/activities/list-of-activities/",
+      "final_url": "https://campeagleridge.com/activities/list-of-activities/",
+      "status": 200,
+      "bytes": 114599,
+      "sha256": "64e43402325554eb2415ce78c4aaea761314b2c4f3feb1aca16f8c8e5ef3d46a"
+    },
+    {
+      "key": "winaukee-rates",
+      "url": "https://winaukee.com/dates-rates",
+      "final_url": "https://winaukee.com/dates-rates",
+      "status": 200,
+      "bytes": 203861,
+      "sha256": "3631099568fd601ef6dcbb830e6e09914d1033cc41b7e7dd22dfdc334fe10424"
+    },
+    {
+      "key": "winaukee-faq",
+      "url": "https://winaukee.com/the-winaukee-way/faqs",
+      "final_url": "https://winaukee.com/the-winaukee-way/faqs",
+      "status": 200,
+      "bytes": 183297,
+      "sha256": "eaaf252c8f2ac69ccd1ef8107eb1439468443125a880a8e3307e3c497f0739a2"
+    },
+    {
+      "key": "integem-camp",
+      "url": "https://camp.integem.com/summercamp",
+      "final_url": "https://camp.integem.com/summercamp",
+      "status": 200,
+      "bytes": 223647,
+      "sha256": "33a67c053151f4d6818e3b8b9ee0f19dc4805cca9833b4480d8bc2cbbe7f5f78"
+    },
+    {
+      "key": "integem-faq",
+      "url": "https://camp.integem.com/faq",
+      "final_url": "https://camp.integem.com/faq",
+      "status": 200,
+      "bytes": 637369,
+      "sha256": "9ee2abd668f4e10dbe7801f9cf5df0d66dbb5f0456a05ee99d609c6050748b4d"
+    },
+    {
+      "key": "wildroots-home",
+      "url": "https://www.wildrootsworldschool.com/",
+      "final_url": "https://www.wildrootsworldschool.com/",
+      "status": 200,
+      "bytes": 1348409,
+      "sha256": "927546ab2ab6e851144d47202784145f6ba2498d2b3cb20c49a6d08addb738eb"
+    },
+    {
+      "key": "wildroots-terms",
+      "url": "https://www.wildrootsworldschool.com/terms-and-conditions",
+      "final_url": "https://www.wildrootsworldschool.com/terms-and-conditions",
+      "status": 200,
+      "bytes": 752216,
+      "sha256": "0a37a19ddf670a41693f2ee7e474d58deb68fded3a1ff1863ec4691c0c6b49cf"
+    },
+    {
+      "key": "cube-home",
+      "url": "https://cubestemcamps.ca/",
+      "final_url": "https://cubestemcamps.ca/",
+      "status": 200,
+      "bytes": 250014,
+      "sha256": "db0c4f11ca3f539fa17c47a6905b011b9d9e0bde6565a3cf09057e9e51fd9754"
+    },
+    {
+      "key": "holland-description",
+      "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+      "final_url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+      "status": 200,
+      "bytes": 295074,
+      "sha256": "69b3ea9e42812d00c540a95d328181500e55ada7d11e5acb07be4a736a5dbdb6"
+    },
+    {
+      "key": "cedar-international",
+      "url": "https://cedarridgecamp.ca/international-campers/",
+      "final_url": "https://cedarridgecamp.ca/international-campers/",
+      "status": 200,
+      "bytes": 100030,
+      "sha256": "620d92769250f5a40446b4d05b038a258508ed596a581dff32a1e83ec7d02b28"
+    },
+    {
+      "key": "cedar-faq",
+      "url": "https://cedarridgecamp.ca/faq/",
+      "final_url": "https://cedarridgecamp.ca/faq/",
+      "status": 200,
+      "bytes": 107566,
+      "sha256": "5e41e49bfb3d29b6de3deedbb48b28d9032405ce572bac187f8f9a56346a6108"
+    },
+    {
+      "key": "cuddles-faq",
+      "url": "https://www.cuddleskidz.com/faqs",
+      "final_url": "https://www.cuddleskidz.com/faqs",
+      "status": 200,
+      "bytes": 1807831,
+      "sha256": "cae7e78c0a3ee24da4c78d63c196696a5314f5505c67b9bc7b3c1b283daf6078"
+    },
+    {
+      "key": "galileo-ecuador",
+      "url": "https://cegalileo.com/escuela-de-robotica-educativa/",
+      "final_url": "https://cegalileo.com/escuela-de-robotica-educativa/",
+      "status": 200,
+      "bytes": 257223,
+      "sha256": "d5cbd9aceca2db1f750b0243a138bbae302daf77946189ea12bc0b4cef1172a6"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://camp.integem.com/faq",
+    "https://camp.integem.com/register/summer-camps-in-cupertino-san-jose-sunnyvale-us-ca",
+    "https://camp.integem.com/summercamp",
+    "https://campeagleridge.com/about-camp-eagle-ridge/frequently-asked-questions/",
+    "https://campeagleridge.com/activities/list-of-activities/",
+    "https://campeagleridge.com/dates-rates/",
+    "https://cedarridgecamp.ca/",
+    "https://cedarridgecamp.ca/dates-rates/",
+    "https://cedarridgecamp.ca/faq/",
+    "https://cedarridgecamp.ca/international-campers/",
+    "https://cegalileo.com/escuela-de-robotica-educativa/",
+    "https://cubestemcamps.ca/",
+    "https://cubestemcamps.ca/classes",
+    "https://sostenible.utp.ac.pa/noticia/actividad-tecno-camp-2026-utp",
+    "https://srp.ucr.ac.cr/noticia/ucr-sede-del-pacifico-realizo-con-exito-su-primer-campamento-de-robotica-para-ninos-y-ninas/",
+    "https://winaukee.com/",
+    "https://winaukee.com/dates-rates",
+    "https://winaukee.com/the-winaukee-way/faqs",
+    "https://www.campolympia.com/summer-camps/",
+    "https://www.campolympia.com/summer-camps/dates-pricing-2027/",
+    "https://www.campolympia.com/summer-camps/programs/spark-week/",
+    "https://www.cuddleskidz.com/faqs",
+    "https://www.cuddleskidz.com/winter-camp",
+    "https://www.wildrootsworldschool.com/",
+    "https://www.wildrootsworldschool.com/camp-info",
+    "https://www.wildrootsworldschool.com/terms-and-conditions"
+  ],
+  "local_evidence": [
+    {
+      "evidence_file": "cuddles-pricing.png",
+      "local_research_only": true,
+      "bytes": 99458,
+      "sha256": "4a4d4acdb42500668d1e672422f66aaff11a1d117ed5c92aac3bae6fcc2fda4f",
+      "method": "Tabla de invierno de renderización nativa, lectura visual;falta de moneda,niveles regulares/precoces y ahorros erróneos2 días"
+    },
+    {
+      "evidence_file": "integem-faq-native.txt",
+      "local_research_only": true,
+      "bytes": 29157,
+      "sha256": "df38a470ee202b7a15b6cb9b8c3a6d42171efbac450c8e8a383ff9ef55bb8374",
+      "method": "El navegador nativo ampliado respuestas de preguntas frecuentes leído: Inglés,6+mínimo,C.–2/Grados3–5 niveles de robótica,Los kits/cancelación"
+    }
+  ],
+  "webreader_primary_reads": [
+    {
+      "url": "https://www.campolympia.com/summer-camps/dates-pricing-2027/",
+      "method": "Página oficial abierta y leída a través del lector web; rawHTTP403 no reclasificado"
+    },
+    {
+      "url": "https://www.campolympia.com/summer-camps/",
+      "method": "Página oficial abierta y leída a través del lector web; rawHTTP403 no reclasificado"
+    },
+    {
+      "url": "https://www.campolympia.com/summer-camps/programs/spark-week/",
+      "method": "Página oficial abierta y leída a través del lector web; rawHTTP403 no reclasificado"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "notes": [
+    "Investigación privadaLos datos HTML/ capturas de pantalla siguen siendo locales; los descargas públicas contienen datos, enlaces, hashtags, incertidumbres y recibos, no imágenes/fotos de niños.",
+    "El texto de la página en inglés/español y los testimonios de los operadores no establecen el lenguaje de instrucción ni el ranking mundial independiente.",
+    "El signo de dólar sin código ISO permanece desconocido o se infunde explícitamente geográficamente; no se inventó ninguna conversión de moneda.",
+    "No hay registros, cuentas, fecha de nacimiento/ingreso médico, mensajes del organizador, reservas, suscripciones o pagos."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "asof": "2026-10-05",
+  "version": 86,
+  "status": "progress",
+  "scope": "Japón/Taiwan/Singapura programa primario/precio/grado/idioma/audit del formato;Malaysia invierno/primavera2027 y AIentrepreneurship;Korea incompleta;todas las regiones autorizadas/activos en todo el mundo",
+  "new_dossiers": 18,
+  "operators_covered": 5,
+  "updated_dossiers": [],
+  "new_calendar_rows": 7,
+  "new_family_ics": 7,
+  "future_age_rows_excluded_from_family_ics": 0,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 505,
+  "countries_with_dossiers": 35,
+  "official_dossier_urls": 771,
+  "country_dossier_counts": {
+    "CHE": 78,
+    "FRA": 41,
+    "ESP": 43,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 29,
+    "SGP": 61,
+    "JPN": 28,
+    "KOR": 10,
+    "MYS": 4,
+    "USA": 44,
+    "CAN": 57,
+    "CRI": 10,
+    "MEX": 25,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "canadian-academy-summer-experience",
+    "canadian-academy-summer-discovery",
+    "canadian-academy-inspirit-ai",
+    "canadian-academy-ai-from-scratch",
+    "canadian-academy-ib-math-mastery",
+    "tais-junior-board",
+    "tais-junior-day",
+    "tais-teen-board",
+    "tais-teen-day",
+    "codinglab-sg-junior-partner",
+    "codinglab-sg-scratch-camp",
+    "codinglab-sg-app-camp",
+    "codinglab-sg-python-camp",
+    "graphite-sg-roblox-code-avengers",
+    "gep-winter-board",
+    "gep-winter-day",
+    "gep-spring-board",
+    "gep-wild-minds-board"
+  ],
+  "findings": [
+    {
+      "country": "Japón",
+      "iso": "JPN",
+      "provider": "v86 · Canadian Academy / Nishimachi: archivo y clase escolar",
+      "detail": "La Academia canadiense ha leído cinco programas propios de 2026, precios/horas/clases y limitación de la cuenta externa Pre-K. para 2027 no confirma las fechas de 2027. la familia Oyako de Ryugaku se ve sólo en un catálogo cerrado: no hay un plan completo/precio/habitación.",
+      "next_action": "nuevos programas primarios 2027, la clase real/edad de módulos/lenguajes, la matrícula externa y la cuenta familiar completa.",
+      "url": "https://www.canacad.ac.jp/experiencing/summer"
+    },
+    {
+      "country": "Taiwán",
+      "iso": "TWN",
+      "provider": "v86 · TAIS 2027 / TYAS: formas y limitaciones preliminares",
+      "detail": "TAIS junior forma 2027 8–11/G1–5 contra el archivo body 2026 8–12/G1–6; Dos de ellos./tres semanas NT35 000/58 000 de forma preliminar, No hay fecha. Teen 12–17, los viernes a casa, credit classes Sólo con su familia.; precio de tres semanas «62,00» no se ha corregido en 62 000. Day para el Puli/Yuchi, comida vegetariana/No hay colchón ., foreign admission por separado. TYAS own2026 AppsScript HTTP200 — Sólo que 34-simbólico JS shell, edad/precio/No se ha leído el plan completo.",
+      "next_action": "horarios finales/contratos 2027, completo de recepción externa/diurna/salida, lengua y horario técnico; TYAS rendered programme. formularios sólo leídos, no enviados.",
+      "url": "https://tais.tw/en/summer-camp/"
+    },
+    {
+      "country": "Singapur / Japón",
+      "iso": "SGP",
+      "provider": "v86 · Coding Lab / Graphite / Minecraft Cup: curso, relojes y admisión oficial",
+      "detail": "Coding Lab confirma holiday format, cursos y GST, pero no el idioma de enseñanza; Junior partner-preschool-only. 12/21 No todos los horarios del código. Graphite 23–25Nov/7–9Dec sin año, firma1,5por el contrario09:30–12. Coaching Minecraft Cup 2026 por SGD975,55 de la GST — para sus propios Coding Lab students7–18 de la P102/P202+P206/S112 y la preparación obligatoria; No es un campamento común.. la página del entrenador cuenta la edad de1Apr2026, el gobierno de la República PDF 8-¿Qué es eso ? Cup — en el1Apr2027 y permite a los niños en edad preescolar junior/1–40 hombre. el concurso oficial se organizará Digital Manufacturing Council, No sólo uno. Microsoft; entry2026 Ya terminó.7Sep. la competencia tiene overseas block; lenguaje/la defensa para el equipo extranjero requiere una verificación. los resultados del entrenador por2019–25 hasta que la auto-declaración, no es un rating independiente.",
+      "next_action": "confirmar la lengua de los nuevos campamentos, las fechas/príos/extranjeros; verificar por separado official2027 Minecraft Cup, traducción/protección, acceso internacional y resultados/escuelas, sin trasladar los prerequisitos del entrenador a la admisión oficial.",
+      "url": "https://mccup.jp/pdf/minecraftcup_guidelines_2026.pdf"
+    },
+    {
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "provider": "v86 · Chadwick Songdo / Rayul Jeju / NLCS / Branksome: no hay suficientes documentos",
+      "detail": "Chadwick Songdo ownpage lista de las lecturas, robots/game design de laPre-K, pero no es un cambio actual/precio/el techo de edad/lenguaje/el encuentro exterior. de la ciudad de Nueva York Chadwick School — otro operador/el campus, su tarifa no se retorna. Rayul calendar2026–27 se marca Spring29Mar–2Apr y Summer5–30Jul2027; homepage English-life no prueba el abierto camp visitor admission. ECAnews URL404 Se guardó. Branksome2017 brochure y Weebly2019 No es un programa2027; NLCS current schoolhandbook No es verano exterior camp.",
+      "next_action": "de los actuales camp brochures, de la misma curriculum/age/price/English, el permiso extranjero, los días de fin de semana/boarding. Estas escuelas aún no se han agregado como turnos verificados2027.",
+      "url": "https://www.chadwickinternational.org/student-life/summer-programs"
+    },
+    {
+      "country": "Malasia",
+      "iso": "MYS",
+      "provider": "v86 · GEP / Epsom: calendario oficial, tutor y año del contrato",
+      "detail": "Winter9–14 Jan10–22/Jan22–Feb3/combined25days2027: RM10 000/20 000boarding vsRM9 100/18 200day. Spring9–16 Mar26–Apr2 RM7 326; laptop required contra las limitaciones generales de los dispositivos. de acuerdo2026 requiere un guardian/3h, en el servicioRM800/day. RM2 000security se refiere aBSS, No automáticamente. camps. Cancellation >60businessdays RM1 000, más tarde conditionalcredit, después destartnone; force majeure credit1year, No , no . cashrefund. Wild11–17/B1 de la internalairfare, de las Naciones Unidasflightsexcluded,2026soldout. Current downloadbrochure2026, product brochureplaceholderNo lo conseguimos .; No se han identificado2027Wildcohortsno se han creado.",
+      "next_action": "nuevo contrato/estaduto completo2027, guardian para padres viviendo temporalmente, relojes de tecnología/ENnivel/dispositivo/transfer/availability; la escuela Bandar Enstek en su página de contacto.",
+      "url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf"
+    }
+  ],
+  "calendar": {
+    "events": 2966,
+    "learning_records": 1635,
+    "family_ics": 2240,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1172,
+    "reused_legacy_events": 69,
+    "season_windows": 35
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "Todos los demás2959 eventos anteriores y487 registros completos del expediente/Identificación conservada;18 nuevo programa/formato de los expedientes en todo el5 operadores/4 países, No18 campos clasificados de forma independiente. Corea del Sur/TYAS/Nishimachi lleva incompletas retenidos como lagunas, no verificado2027 cohorts.",
+    "Academia canadiense5 de su propiedad2026 páginas del programa: Experiencia pre-K–G6/VEX de carácter opcional/Comunicación en inglés/JPY75000week140000fortnight+3500registration;Descubrimiento Pre K–G12/No se requiere ningún requisito lingüístico/Solo para estudiantes de pre-universidad/118000+8000lunch+3500registration. Dos .-las sumas de los hijos verificadas de forma independiente. El ingreso a la escuela no heredado por los cursos de verano.",
+    "CAInspirit AI G6–12 USD1200;AIFrom japonés Scratch G8–12 JPY60000 con traducción de EN explícita, No niños Scratch. IBMath G9–11/G10–11 y3.5teachinghours/día. Años de nacimiento2017/2020 no establecen calificaciones escolares; grado-limitación de los requisitos hasta el grado real suministrado. No , no .2027 Datos adivinados desde el cálculo previo-registro.",
+    "Propiedad de TAIS2027 formularios leídos sin presentarlos:el menor8–11/G1–5,2or3weeks35000/58000NTD Preliminar+2000deposit,No hay fechas;2026body8–12/G1–6 retenidos. Los adolescentes12–17 provisionalmente1week25000/2week48000/4week70000,3week62,00 error de tipografía no reparado silenciosamente. Viernes adolescente en casa no continua7-trabajo de día;día Puli/Yucchi,alimentos vegetarianos/colchón propio,Clasificación de crédito.",
+    "CodingLab GST/format/equipamiento/ratio específico del curso verificado:Scratch474.15/528.65/921.05;App/Python512.30/866.55/942.85SGD.10/17.5formación de aprendizaje vs12/21 no todos los días de programación.Solamente para los estudiantes de preescolar.6YoScratcheCondición primaria1 y la alternativa de Python se conservan.No se asume instrucción en inglés del idioma del sitio web, no se inventan grupos de vacaciones.",
+    "Grafite Roblox6+ cuerpo:El uno de noviembre23–25/Dec7–9 sin año,Septiembre/que viene pronto y1.5h contra09:30–12 El conflicto se mantuvo;No hay CSI. Reclamaciones de los operadores/Certificados de participación/Hackeatones internos no competencia internacional/resultados.",
+    "Oficial de Minecraft2026PDF Leído de forma independiente:Organizador del Consejo de Manufactura Digital,cutoff de edad1Apr2027/1–40juniorinclpreschool/bloque de ultramar,Septiembre7entryclosed/final febrero14,2027. Programa de formación en laboratorio de codificación975.55SGD GST/18coachinghours/estudiantes propios/Pre-precios y cortes1Apr2026 Diferencias;No es oficial el campo de restricción o futuro. Los premios históricos siguen siendo reclamaciones de los operadores en espera de los resultados primarios.",
+    "GEPWinter2027 embarque analizado de forma independiente10000/10000/20000 en el día9100/9100/18200RM,El día de hoy10–22/El día de hoy22–Febrero3/combinados25days. Marzo de primavera26–Apr2,9–16,7326RM. Los materiales de la industria9minimum/Oscar por debajo9;todos7calendar/Adiciones de los SIC actual Condición familiar,día3 filas etiquetadas ventana sin días de semana inventados.",
+    "GEPMay2026 el tutor de contrato3hours/RM800dayconditional,60businessdaycancellation/RM1000,fuerza-Cédito de mayor importancia y BSS-de carácter específico2000deposit retenidos. Contrato2027/factura corriente completa no obtenida. Springlaptop vsgenericdevicePolítica no resuelta. Epsomadress Bandar Enstek no KLcentre. Las mentes salvajes11–17/B1,de la salsa2026/9400RM/vuelo internoincluido/vuelo externo no incluido;No lo hace2027cohorts.",
+    "ENtranslation es separado confirm_support_languages;pureENinstruction filter excluye JAprimaryAIFromScratch,EN-support incluye;RUinstructions option restored.Cases de filtro concreto verificados en Node, sintaxis JavaScript verificada.",
+    "2966 eventos/1635 registros de aprendizaje en campamento,505dossiers/35países/771dossieresURLs,111 escenarios familiares,2240familyICS/104exhibitionICS.7newdatedrows/7ICS;todos los datos previamente identificados/datos conservados,SQLite/publicJSON agreement y bridgeidempotence.0 países auditados completos;mundo en general y todas las regiones prioritarias siguen siendo activas."
+  ],
+  "next_priority": "Continúa Suiza/France/España/Europa,Taiwan/Singapur/Corea del Sur/Japón,Estados Unidos/Canadá/Costa Rica/México/América Latina y el resto del mundo:Todo el general de alto nivel/de la técnica26–27 campamentos estacionales,día/embarque/familia,EN real/ES/RU/apoyo secundario,cuotas completas,edad/Grados/admisión en el extranjero;escuelas/resultados/rutas/las ligas/las exposiciones siguen en el ámbito de aplicación"
+}

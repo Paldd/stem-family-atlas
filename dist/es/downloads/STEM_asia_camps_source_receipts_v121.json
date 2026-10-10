@@ -1,0 +1,810 @@
+{
+  "version": 121,
+  "asof": "2026-10-06",
+  "scope": "Se seleccionaron nuevos expedientes de programas de Taiwán, Singapur, Japón y Corea del Sur. Cuarenta registros de la semana de cursos Roboto de noviembre/diciembre de 2026. Los programas archivados o incompletos no crean nuevas fechas de 2027.",
+  "sources": [
+    {
+      "key": "happy-main",
+      "url": "https://happykids.taipei/",
+      "final_url": "https://happykids.taipei/mainssl/modules/MySpace/index.php",
+      "status": 200,
+      "bytes": 90170,
+      "sha256": "6c79c34c30193a3f25bf29e3199d0542eba0d6d81411b693351b6b8671b9536f",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "happy-main.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "onestep-main",
+      "url": "https://www.onestepinitiative.com/",
+      "final_url": "https://www.onestepinitiative.com/",
+      "status": 200,
+      "bytes": 1505152,
+      "sha256": "d58991da02ece6efa641d4bf0b113ece76e606beb7eed26573d7582d1c1cc615",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "onestep-main.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "malvern-bc-pdf",
+      "url": "https://www.malverncollegetokyo.jp/wp-content/uploads/2026/04/BritishCouncilSummerEnglishCourse_E.pdf",
+      "final_url": "https://www.malverncollegetokyo.jp/wp-content/uploads/2026/04/BritishCouncilSummerEnglishCourse_E.pdf",
+      "status": 200,
+      "bytes": 775364,
+      "sha256": "7c259fa5f3e1efdd4fee8cba515bb9a45790f08a55e6ed221a3132d2dfcba7dc",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-bc-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "roboto-camp",
+      "url": "https://roboto.sg/holiday-camp",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "csa-camp",
+      "url": "https://www.cognitivesystems.academy/holiday-workshop-singapore",
+      "final_url": "https://www.cognitivesystems.academy/holiday-workshop-singapore",
+      "status": 200,
+      "bytes": 1476517,
+      "sha256": "9d328536bec460a1f5a27d17f6d4419a5b503f1a1e2d9027e184ba6dd40ca3b0",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-camp.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "worklab-jr",
+      "url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "final_url": "https://www.worklab.com.sg/robocamp-junior-senior",
+      "status": 200,
+      "bytes": 1124952,
+      "sha256": "b9e40df27187a5befe597414a45b2d692fcf7e9516730888c57580eadc5472ec",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "worklab-jr.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "lccl-camp",
+      "url": "https://www.lcclcoding.com/holidays/",
+      "final_url": "https://www.lcclcoding.com/holidays/",
+      "status": 200,
+      "bytes": 28202,
+      "sha256": "19516e6ea043c4e8da48a85f5b53e71f4f396a90904cd67b1f8ff240bf1bbc45",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "lccl-camp.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "tka-summer",
+      "url": "https://tka.com.tw/en/summer-camp-2026/",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "malvern-summer",
+      "url": "https://www.malverncollegetokyo.jp/summer-programme-2026/",
+      "final_url": "https://www.malverncollegetokyo.jp/summer-programme-2026/",
+      "status": 200,
+      "bytes": 80382,
+      "sha256": "46bf0a1ef7e8c64c0adfa12c49a135e9570fbcc64ea0443092adf47c6c41543d",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-summer.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "connected-categories",
+      "url": "https://www.connectedu.com/magazine",
+      "final_url": "https://www.connectedu.com/magazine",
+      "status": 200,
+      "bytes": 116752,
+      "sha256": "1126e3a3a0036417a71ca9af6fc3966335b9f9eeda0bd514f16740966a471f14",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "connected-categories.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "roboto-junior-developer",
+      "url": "https://roboto.sg/holiday-camp-junior-developer",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-junior-inventor",
+      "url": "https://roboto.sg/holiday-camp-junior-inventor",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-junior-coder",
+      "url": "https://roboto.sg/holiday-camp-junior-coder",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-junior-futurist",
+      "url": "https://roboto.sg/holiday-camp-junior-futurist",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-junior-creator",
+      "url": "https://roboto.sg/holiday-camp-junior-creator",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-young-developer",
+      "url": "https://roboto.sg/holiday-camp-young-developer",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-young-inventor",
+      "url": "https://roboto.sg/holiday-camp-young-inventor",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-young-coder",
+      "url": "https://roboto.sg/holiday-camp-young-coder",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-young-futurist",
+      "url": "https://roboto.sg/holiday-camp-young-futurist",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-young-creator",
+      "url": "https://roboto.sg/holiday-camp-young-creator",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "roboto-faq",
+      "url": "https://roboto.sg/faq",
+      "error": "HTTP Error 406: Not Acceptable",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "csa-dec-pdf",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_0e2c241fc7884a72b4be5aadf08c4bb2.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_0e2c241fc7884a72b4be5aadf08c4bb2.pdf",
+      "status": 200,
+      "bytes": 1037138,
+      "sha256": "80b20d4a5acab494f541c7500bae27b2b64c0541e69c8540212f08b315b6ea32",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-dec-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "connected-jeju",
+      "url": "https://www.connectedu.com/magazine/2025summerjejuglobalitcamp",
+      "final_url": "https://www.connectedu.com/magazine/2025summerjejuglobalitcamp",
+      "status": 200,
+      "bytes": 107207,
+      "sha256": "c01fc028330abb1021c5f0caf5c837bed376b0c7e1a390fe33897547a2b34cdb",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "connected-jeju.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "csa-refund",
+      "url": "https://www.cognitivesystems.academy/refundpolicy",
+      "final_url": "https://www.cognitivesystems.academy/refundpolicy",
+      "status": 200,
+      "bytes": 1046717,
+      "sha256": "7024e44d130c322b47033d1b373888136fe408674eec591cbe28ee44da1766be",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-refund.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "csa-terms",
+      "url": "https://www.cognitivesystems.academy/termsandconditions",
+      "final_url": "https://www.cognitivesystems.academy/termsandconditions",
+      "status": 200,
+      "bytes": 1057897,
+      "sha256": "65cab5e294f2738f88f1477dafa62cc21756d778931f6b8d9b0dcc48217e0b28",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-terms.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "csa-pdf2",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_00f1c1920b94446aa83ddf5ac8900a1b.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_00f1c1920b94446aa83ddf5ac8900a1b.pdf",
+      "status": 200,
+      "bytes": 918803,
+      "sha256": "aab75b13f98d9eefcfd0836dde86bb4689791fa5bef89ac103670dcb039fb84b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf2.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf3",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_18bc3a3f0fdf4eafa936fb6ccbbaffd4.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_18bc3a3f0fdf4eafa936fb6ccbbaffd4.pdf",
+      "status": 200,
+      "bytes": 766416,
+      "sha256": "0d6f76e758d6759888d1b52833716e3d2bb9c158cb351179d977fc5fa0995e4b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf3.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf4",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_efb5ad798fb54f15bcc7552ff74a40a4.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_efb5ad798fb54f15bcc7552ff74a40a4.pdf",
+      "status": 200,
+      "bytes": 1103217,
+      "sha256": "26b6279a05d92b547f7e26790ba3309a4094ab8268f28f704de55d361805438c",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf4.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf5",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_1c5cd87abaff46b9b3732ab806de4b71.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_1c5cd87abaff46b9b3732ab806de4b71.pdf",
+      "status": 200,
+      "bytes": 893075,
+      "sha256": "eea1ab71908f1402ca4caa06900c7792c06b13912d37941d9a5dcad5aeab559a",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf5.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf6",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_d2dca5a6e366472d8a86b4ed5e9042c7.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_d2dca5a6e366472d8a86b4ed5e9042c7.pdf",
+      "status": 200,
+      "bytes": 773608,
+      "sha256": "3e462bbbbea0855578497653fe7e8312fd2edb61712060c7ce47ac22686963b8",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf6.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf7",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_04a85ed83e8f4242b82ab4f9d4880699.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_04a85ed83e8f4242b82ab4f9d4880699.pdf",
+      "status": 200,
+      "bytes": 730918,
+      "sha256": "1f51b07c8c5aaeabac787e2552ea495d385ae25d23d4e309d5903886119949a1",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf7.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf8",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_f2ce95b5eda245e7be98c6b66268c884.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_f2ce95b5eda245e7be98c6b66268c884.pdf",
+      "status": 200,
+      "bytes": 745871,
+      "sha256": "140377106bdc816b904b647922e056fa5dc628a2bc685179aec6fecea284ef44",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf8.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "csa-pdf9",
+      "url": "https://www.cognitivesystems.academy/_files/ugd/93d899_214cdc5cd2c84c8ab4d011ff6e39ff84.pdf",
+      "final_url": "https://www.cognitivesystems.academy/_files/ugd/93d899_214cdc5cd2c84c8ab4d011ff6e39ff84.pdf",
+      "status": 200,
+      "bytes": 786943,
+      "sha256": "caa5ea2b29f9dd95135ec79ccacf0dc6f77b25d12d4b861c9a314e532896b2b0",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "csa-pdf9.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "malvern-arts",
+      "url": "https://heyzine.com/flip-book/d984a19c99.html",
+      "final_url": "https://heyzine.com/flip-book/d984a19c99.html",
+      "status": 200,
+      "bytes": 34913,
+      "sha256": "60eff33403bd7c8674d41413e3ac5dfe0620403d3ebb109397f04e742b40391d",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-arts.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "malvern-orchestra",
+      "url": "https://heyzine.com/flip-book/bc3b47a5d6.html",
+      "final_url": "https://heyzine.com/flip-book/bc3b47a5d6.html",
+      "status": 200,
+      "bytes": 34833,
+      "sha256": "b6dbdb7f6175097da292b72f2eb03c6c81aba881a3627ca046333f4ed3f2546d",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-orchestra.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "malvern-musical",
+      "url": "https://heyzine.com/flip-book/af69653dd2.html",
+      "final_url": "https://heyzine.com/flip-book/af69653dd2.html",
+      "status": 200,
+      "bytes": 34899,
+      "sha256": "e2545d9ba030a3841d5ead7b427e5e349ad02b4d060fef5ee6c0d0643bfd9ece",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-musical.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "tka-main",
+      "url": "https://tka.com.tw/",
+      "final_url": "https://tka.com.tw/zh_tw/",
+      "status": 200,
+      "bytes": 217600,
+      "sha256": "3df13aaa0d95661d02e6c6c6c2b4eb0e179e41c8893a5c345dce7885dc3c5c44",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "tka-main.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "connected-jeju-ru",
+      "url": "https://www.connectedu.com/magazine-post/jeju-global-it-camp-_-ru",
+      "final_url": "https://www.connectedu.com/magazine-post/jeju-global-it-camp-_-ru",
+      "status": 200,
+      "bytes": 99348,
+      "sha256": "610c8fbd215b232d0bee57d96ad3d0c3ca7c893516202e2364ea8083822f5552",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "connected-jeju-ru.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "connected-jeju-seminar",
+      "url": "https://www.connectedu.com/magazine-post/jejuglobalitcamponlineseminar_eng",
+      "final_url": "https://www.connectedu.com/magazine-post/jejuglobalitcamponlineseminar_eng",
+      "status": 200,
+      "bytes": 94642,
+      "sha256": "ab24e380cd71982d7a230e4ccdf5937d3472c4b36903bd91f9edae04c7301319",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "connected-jeju-seminar.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    },
+    {
+      "key": "malvern-arts-pdf",
+      "url": "https://cdnc.heyzine.com/files/uploaded/v3/d984a19c99c2768ae07e7d669587b55bd19b7da0.pdf",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "body_snapshot_retained": false,
+      "content_status": "retrieval_error_not_content_evidence"
+    },
+    {
+      "key": "malvern-orchestra-pdf",
+      "url": "https://cdnc.heyzine.com/files/uploaded/v3/bc3b47a5d6601e75e0b69f16bdd71d6b6c2dd9e6.pdf",
+      "final_url": "https://cdnc.heyzine.com/files/uploaded/v3/bc3b47a5d6601e75e0b69f16bdd71d6b6c2dd9e6.pdf",
+      "status": 200,
+      "bytes": 834321,
+      "sha256": "1504ba5ae376505f8658557db0de19d88bf13649d07c3017b03671b6b368838b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-orchestra-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "malvern-arts-current-pdf",
+      "url": "https://cdnm.heyzine.com/files/uploaded/v3/d984a19c99c2768ae07e7d669587b55bd19b7da0-2.pdf",
+      "final_url": "https://cdnm.heyzine.com/files/uploaded/v3/d984a19c99c2768ae07e7d669587b55bd19b7da0-2.pdf",
+      "status": 200,
+      "bytes": 958258,
+      "sha256": "7006eda0fa5aa935d8b124603b48c3b066398d7d81ac17ea8d33f5d0d8007a86",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-arts-current-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "malvern-orchestra-current-pdf",
+      "url": "https://cdnm.heyzine.com/files/uploaded/v3/bc3b47a5d6601e75e0b69f16bdd71d6b6c2dd9e6.pdf",
+      "final_url": "https://cdnm.heyzine.com/files/uploaded/v3/bc3b47a5d6601e75e0b69f16bdd71d6b6c2dd9e6.pdf",
+      "status": 200,
+      "bytes": 834321,
+      "sha256": "1504ba5ae376505f8658557db0de19d88bf13649d07c3017b03671b6b368838b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-orchestra-current-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "malvern-musical-current-pdf",
+      "url": "https://cdnm.heyzine.com/files/uploaded/v3/af69653dd27b73af54c16778503d1249d7128304.pdf",
+      "final_url": "https://cdnm.heyzine.com/files/uploaded/v3/af69653dd27b73af54c16778503d1249d7128304.pdf",
+      "status": 200,
+      "bytes": 1246034,
+      "sha256": "63a621b9926f73bddb535263abc74d294b3895b5fa250abfa30ab5cc0e79d5f4",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "malvern-musical-current-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_status": "selected_pdf_clauses_or_title"
+    },
+    {
+      "key": "tka-theme-camps",
+      "url": "https://tka.com.tw/zh_tw/theme-camps/",
+      "final_url": "https://tka.com.tw/zh_tw/theme-camps/",
+      "status": 200,
+      "bytes": 187165,
+      "sha256": "55a0285b1b1fa04ca5ae6e75097682b0a4368b75219be3da79adedd9c070ac6b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "content_scope": "Programa seleccionado, edad, idioma, cláusulas de precios y políticas o enlaces de descubrimiento.",
+      "raw_filename": "tka-theme-camps.html",
+      "body_snapshot_retained": true,
+      "content_status": "selected_html_clauses_or_discovery"
+    }
+  ],
+  "web_reader": [
+    {
+      "url": "https://roboto.sg/holiday-camp-junior-developer",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-junior-inventor",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-junior-coder",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-junior-futurist",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-junior-creator",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-young-developer",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-young-inventor",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-young-coder",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-young-futurist",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp-young-creator",
+      "checked": "2026-10-06",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406; no direct body snapshot"
+    },
+    {
+      "url": "https://roboto.sg/holiday-camp",
+      "status": "selected_current_primary_reader_clauses",
+      "direct_http_error": "406"
+    },
+    {
+      "url": "https://roboto.sg/faq",
+      "status": "selected_primary_reader_weekly_clauses_not_holiday_terms",
+      "direct_http_error": "406"
+    },
+    {
+      "url": "https://tka.com.tw/en/summer-camp-2026/",
+      "status": "selected_primary_reader_archive2026",
+      "direct_http_error": "404; current own ZHpage directly captured"
+    }
+  ],
+  "private_reader_files": [
+    "web-reader-1.json",
+    "web-reader-2.json",
+    "web-reader-3.json"
+  ],
+  "pdf_extraction": [
+    {
+      "filename": "csa-dec-pdf.pdf",
+      "pages": 6,
+      "pages_with_embedded_text": 6,
+      "raw_sha256": "80b20d4a5acab494f541c7500bae27b2b64c0541e69c8540212f08b315b6ea32",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf2.pdf",
+      "pages": 8,
+      "pages_with_embedded_text": 8,
+      "raw_sha256": "aab75b13f98d9eefcfd0836dde86bb4689791fa5bef89ac103670dcb039fb84b",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf3.pdf",
+      "pages": 8,
+      "pages_with_embedded_text": 8,
+      "raw_sha256": "0d6f76e758d6759888d1b52833716e3d2bb9c158cb351179d977fc5fa0995e4b",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf4.pdf",
+      "pages": 9,
+      "pages_with_embedded_text": 9,
+      "raw_sha256": "26b6279a05d92b547f7e26790ba3309a4094ab8268f28f704de55d361805438c",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf5.pdf",
+      "pages": 9,
+      "pages_with_embedded_text": 9,
+      "raw_sha256": "eea1ab71908f1402ca4caa06900c7792c06b13912d37941d9a5dcad5aeab559a",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf6.pdf",
+      "pages": 9,
+      "pages_with_embedded_text": 9,
+      "raw_sha256": "3e462bbbbea0855578497653fe7e8312fd2edb61712060c7ce47ac22686963b8",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf7.pdf",
+      "pages": 8,
+      "pages_with_embedded_text": 8,
+      "raw_sha256": "1f51b07c8c5aaeabac787e2552ea495d385ae25d23d4e309d5903886119949a1",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf8.pdf",
+      "pages": 8,
+      "pages_with_embedded_text": 8,
+      "raw_sha256": "140377106bdc816b904b647922e056fa5dc628a2bc685179aec6fecea284ef44",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "csa-pdf9.pdf",
+      "pages": 8,
+      "pages_with_embedded_text": 8,
+      "raw_sha256": "caa5ea2b29f9dd95135ec79ccacf0dc6f77b25d12d4b861c9a314e532896b2b0",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "malvern-arts-current-pdf.pdf",
+      "pages": 14,
+      "pages_with_embedded_text": 0,
+      "raw_sha256": "7006eda0fa5aa935d8b124603b48c3b066398d7d81ac17ea8d33f5d0d8007a86",
+      "ocr_pages": 14
+    },
+    {
+      "filename": "malvern-bc-pdf.pdf",
+      "pages": 7,
+      "pages_with_embedded_text": 7,
+      "raw_sha256": "7c259fa5f3e1efdd4fee8cba515bb9a45790f08a55e6ed221a3132d2dfcba7dc",
+      "ocr_pages": 0
+    },
+    {
+      "filename": "malvern-musical-current-pdf.pdf",
+      "pages": 14,
+      "pages_with_embedded_text": 0,
+      "raw_sha256": "63a621b9926f73bddb535263abc74d294b3895b5fa250abfa30ab5cc0e79d5f4",
+      "ocr_pages": 14
+    },
+    {
+      "filename": "malvern-orchestra-current-pdf.pdf",
+      "pages": 12,
+      "pages_with_embedded_text": 0,
+      "raw_sha256": "1504ba5ae376505f8658557db0de19d88bf13649d07c3017b03671b6b368838b",
+      "ocr_pages": 12
+    },
+    {
+      "filename": "malvern-orchestra-pdf.pdf",
+      "pages": 12,
+      "pages_with_embedded_text": 0,
+      "raw_sha256": "1504ba5ae376505f8658557db0de19d88bf13649d07c3017b03671b6b368838b",
+      "ocr_pages": 0
+    }
+  ],
+  "visual_pdf_pages": {
+    "malvern-bc-pdf": [
+      1,
+      2,
+      6,
+      7
+    ],
+    "csa-dec-pdf": [
+      1
+    ],
+    "malvern-arts-current-pdf": [
+      8,
+      9
+    ],
+    "malvern-orchestra-current-pdf": [
+      8,
+      9
+    ],
+    "malvern-musical-current-pdf": [
+      8,
+      9
+    ]
+  },
+  "visual_pdf_files": [
+    "malvern-bc-pdf-visual-1.png",
+    "malvern-bc-pdf-visual-2.png",
+    "malvern-bc-pdf-visual-6.png",
+    "malvern-bc-pdf-visual-7.png",
+    "csa-dec-pdf-visual-1.png",
+    "malvern-arts-current-pdf-08.jpg",
+    "malvern-arts-current-pdf-09.jpg",
+    "malvern-orchestra-current-pdf-08.jpg",
+    "malvern-orchestra-current-pdf-09.jpg",
+    "malvern-musical-current-pdf-08.jpg",
+    "malvern-musical-current-pdf-09.jpg"
+  ],
+  "new_visual_pdf_checks": 11,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "primary_reader_limits": "Cláusulas seleccionadas, títulos y folletos vinculados; páginas crudas/capturas de lectores/OCR/páginas PDF renderizadas retenidas fuera de la fuente. Ocho títulos de taller de CSA PDF son descubrimiento, no una nueva auditoría de campamento completo. Malvern tres imágenes PDF tienen40 páginas OCR pero solo páginas de edad/precio seleccionadas verificadas visualmente. No hay un sitio web completo/país, entrada aceptada en el extranjero, asiento reservado o confirmación de factura completa."
+}

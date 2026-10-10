@@ -1,0 +1,121 @@
+{
+  "asof": "2026-10-05",
+  "version": 84,
+  "status": "progress",
+  "scope": "Estados Unidos/Canadá/Costa Rica/México - Programa específico general/familia/inconterio/campos españoles; todas las regiones prioritarias y el objetivo mundial completo siguen siendo activos",
+  "new_dossiers": 16,
+  "operators_covered": 6,
+  "updated_dossiers": [],
+  "new_calendar_rows": 26,
+  "new_family_ics": 21,
+  "reused_existing_calendar_rows": 0,
+  "programme_dossiers": 464,
+  "countries_with_dossiers": 34,
+  "official_dossier_urls": 727,
+  "country_dossier_counts": {
+    "CHE": 69,
+    "FRA": 39,
+    "ESP": 31,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 25,
+    "SGP": 56,
+    "JPN": 23,
+    "KOR": 10,
+    "PHL": 2,
+    "USA": 44,
+    "CAN": 57,
+    "CRI": 10,
+    "MEX": 25,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "walt-whitman-pioneer",
+    "walt-whitman-regular",
+    "walt-whitman-family",
+    "champions-one-week",
+    "champions-regular",
+    "champions-family",
+    "walden-regular",
+    "walden-explorer",
+    "walden-long-weekend",
+    "nominingue-junior",
+    "nominingue-regular",
+    "nominingue-family",
+    "ico-oaxaca-kids",
+    "intercultura-heredia-kids",
+    "intercultura-samara-kids",
+    "intercultura-teen-adventure"
+  ],
+  "findings": [
+    {
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "provider": "Whitman / Camp Champions: grado y lenguaje",
+      "detail": "Las fechas 2027 se han confirmado inicialmente, pero las páginas de EN no son la prueba de todo el curso EN. Grade1/2 Pioneer, one-week Champions maxGrade3/8 y lower-bound unknown;2/4weeks K11,3/5/6weeks Grade2+. Current-family header 2027 con el texto 2026/Campanion automatic contra rates optional.",
+      "next_action": "factura/inglés actual completado grades, alimentación, app fee/airport costs y cancellation contract; no se han enviado mensajes externos.",
+      "url": "https://campchampions.com/dates-rates"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "Walden / Nominingue: registro cerrado y año del programa",
+      "detail": "Walden Summer 2027 RegistrationClosed/waitlist; 13%HST/3%card, outsideCanada/US tariff mayvary, CAN/US accepted. LongWeekend full-payment exception,3days vs4days labels; refundtiers vs blanketnon-refundable contradiction. Nominingue English confirmed, SummerCalendar explicitly 2026 and rates unlabelled:2027 dates/fees no han sido inventados.",
+      "next_action": "real admission/English/final foreign quote Walden; fechado 2027 brochure Nominingue y current currency/tax/insurance/cancellation.",
+      "url": "https://www.campwalden.ca/rates-and-dates/"
+    },
+    {
+      "country": "Costa Rica / México",
+      "iso": "CRI",
+      "provider": "Intercultura / ICO: el precio no es fecha ni pensión",
+      "detail": "Intercultura 2027 PDF365/380 USD kids,8–12;Oscar más abajo 8/Heredia apartments under8 prohibidos. Family page ¿Qué más? 2026 prices; fixedHeredia/alternatingSamara, deposit150/250 vsTeen20%, adult/housing por separado. ICO 2026 JuneAug5–12/cap6/100%ES,5thweekpricegap;55deposit/refundgeneralFAQ la aplicabilidad de comprobar.",
+      "next_action": "Beneficios para los niños con un español seguro, una disponibilidad/campdates real 2027 y una vivienda; no generar 52 semanas sin campcohorts reales.",
+      "url": "https://interculturacostarica.com/family-spanish-immersion-program/"
+    },
+    {
+      "country": "Brasil / Chile / México",
+      "iso": "BRA",
+      "provider": "Timbalaia / Acampark y una nueva comparación de los operadores existentes",
+      "detail": "Timbalaia Jan 2027 age6–17 y packsBRL2940/2450/5130 Leído ownwebreader, de la línea recta 403 Se guardó; school-languagegroups No lo demostraron. EN holidaycamp. Acampark Jan17–23/17–20 2027 age5–16, board/5meals/busSãoPaulo/terms primary, Pero ... EN/ES y el precio es desconocido: no se ha añadido en ENshortlist. WildRoots/Makemake ya existen.; no se han creado nuevos duplicados.",
+      "next_action": "actual cohort internacional EN/ES holiday, stafflanguage/total en lugar de extraer de la página web PT o de los grupos escolares; otras prioridades LatinAmerica/Europe/Asia continúan.",
+      "url": "https://edutretenimento.acampark.com.br/acampamento-de-ferias"
+    }
+  ],
+  "calendar": {
+    "events": 2823,
+    "learning_records": 1492,
+    "family_ics": 2149,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1029,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "Se conservan todos los 2797 documentos de identificación/contenido de eventos anteriores y 448 documentos de programas.16 nuevos documentos de programa/grado/format cubren a 6 operadores, no a 16 campamentos independientes; 26 filas con fechas explícitas, 21 agregados de familia de ICS.",
+    "Whitman Pioneer2027 25 31/$2000: finalizaciónGrade1/2 sólo. Matvey edad9 10 no es prueba de admisión de grado1/2 . Precios de fuente regulares completos / Primero / Segundo17600/12150/9400; sesiones cortas de grado2/3 y limitados4 7 conservados, Segunda fechas no se extienden a cuatro semanas.",
+    "La familia Whitman Aug16–20 2027: Adulto1000,niño4–17 500,<=3free;2adults+2children>=4 la aritmética3000 antes de alimentos desconocidos/Cargos. Página web en inglés propia no un todo-garantía de idioma del curso; No lo hace EN-bandera confirmada.",
+    "Campeones 2027 HTML tasas analizadas de forma independiente:5 uno-términos de la semana,5 dos-semana,4 cuatro-semana,El triple juego3-semana y combo5-semana. Uno de ellos.-semana máxima grado3/8 Diferencias; uno más bajo-la semana de la unión no copiada de K–11 dos/cuatro-semana. Más tiempo3/5/6 Semanas Grado2–11. Seis-combinación de semanas-cualquier-tres reglas no ampliadas a fechas calendráricas adivinadas.",
+    "Las clases de campeones/depósito:2450/400,4750/800,7250/800,6350/800,8995/800,10500/800. No hay doble-depósito contado. Corriente-de las familias2027/texto2026 y automático Campanion opt-No se puede contrarrestar con las tasas opcionales; no confirmado2026 cantidades de transporte no promovidas a2027.",
+    "Familia de campeones Sep25–27 2026 sólo archivo, No2027. Las tasas familiares varían según la asistencia/edad; ropa de cama propia, todo-sólo en la cabaña6+ grupo/499.50 depósito; familia de4 no se supone que reciba cabina privada. No hay familia2027ICS.",
+    "El verano de Walden Ontario2027 Registro cerrado/lista de espera:5 filas de catálogo fechadas todas cerradas y excluidas de la familia ICS. Grado2–10 regular/2–5 Seis-semana,Grado2-sólo Explorer,Grado1-Sólo el fin de semana largo; finalizando SK explícitamente no este año. DÍA1 decoración no día-modo de campamento.",
+    "Las tasas de cambio en el extranjero fuera de Canadá/Estados Unidos pueden variar, las tasas pagablesCAN/USD,13%HST/3%carta.Deposito general2000 pero excepción explícita de pago completo durante el fin de semana se conservó.Tarifas3 días vs viaje4 días etiqueta; actual 30 de julioAug2 sin cambios.Rembolso de nivel vs conflicto de párrafo general no reembolsable se conservo, no promesa de cancelación libre.",
+    "El campo de nominios opera en inglés, directamente indicado en las preguntas frecuentes.; Exhibición en francés no obligatoria de instrucción bilingüe. Muchachos7+ y edad/grado-Duración específica, tasas de los jóvenes7–10 Visión de las preguntas frecuentes7–9 conflicto de la frontera superior; Oscar sólo después de7birthday. Calendario explícitamente2026/PDF2026 está de acuerdo; tarifas no etiquetadas no prueba de2027 o vacantes futuras/moneda/impuestos.",
+    "Nominado de familia Aug19–23 2026 carpas/comidas,Adulto150/día520/de la misma,niño100/día350/de la misma,<=3free; moneda unitaria/impuestos desconocidos. Muchachos generales EN prueba no automática de toda la familia EN. No se inventó2027 fechas o seguro médico2018 Cuota reutilizada en la actualidad.",
+    "ICO Oaxaca Niños5–12,grupos5/6–8/9–12,máximo6,100%Español,Junio1–El año21 2026,20hoursMonFri9–13. Precio300/560/780/960USD1–4weeks;5thweek retenerse la brecha. Deposito55/14day Reglas de crédito de las preguntas frecuentes generales escopo para confirmación de niños. No se copió52Monday sesiones de campamento o2027 fechas.",
+    "Intercultura propia2027PDF de lectura visual: niños365Heredia/380Samara por semana,Adulto345/3651–4weeks separadamente;adolescente3650two-semana toda-incluido. Página familiar más vieja345/365not tratados2027. La edad8–12,Oscar abajo8;Tarifa por hora privada no prueba de8camp Admisión. Los departamentos escolares de Heredia están prohibidos8;Cuota de vivienda familiar separada.",
+    "Intercultura Heredia fija AM/PM vs Samara alterna AM/El primer ministro,la prioridad de los padres no garantizada;20hours incluye interrupciones. Estándar150/250nonrefundabledeposit contra grupo/adolescente20% y los horarios de cancelación retenidos. Los adolescentes13–17 sólo para el futuro;precio2027 no fecha2027, sin rodar-Invención del calendario de sesiones.",
+    "Brasil Timbalaia lector propio Jan2027 6–17/RRB2940,2450,5130;HTTP403 retenidos. Acampamento directo2027 edad5–16/fecha/paquete/cancelación de lectura,Inglés/Programa español y precio desconocido: No hay lista de respuestas falsas. Las raíces silvestres existentes/Makemake se ha validado sin duplicar los expedientes.",
+    "Clasificación de datos/público JSON acepta, puente calendario idempotente,104exhibitionICS y todos los anteriores2128familyUID/parejas de fechas conservadas.102family escenarios,34dossiercountries,0fullyauditedcountries; El objetivo global completo autorizado sigue activo."
+  ],
+  "next_priority": "Continúa con Suiza/Francia/Español/Europa,Estados Unidos/Canadá/Costa Rica/México/América Latina,Taiwan/Singapur/Japón/Corea junior/general/de la técnica2026–27 día/embarque/programas familiares a precios completos/lenguas/grado/Admisión/disponibilidad; escuelas/resultados/rutas y ligas mundiales/las exposiciones siguen en el ámbito de aplicación"
+}

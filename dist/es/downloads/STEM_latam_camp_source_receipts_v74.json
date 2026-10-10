@@ -1,0 +1,282 @@
+{
+  "asof": "2026-10-05",
+  "version": 74,
+  "scope": "HTML/formularios/PDF primarios; no se han obtenido datos; sólo se pueden leer",
+  "sources": [
+    {
+      "key": "sailing-panama",
+      "url": "https://www.sailingclubpanama.com/campamentos-verano-panama/",
+      "final_url": "https://www.sailingclubpanama.com/campamentos-verano-panama/",
+      "status": 200,
+      "bytes": 47938,
+      "sha256": "5453c23e45452892842414bdd068def22606f9556d04d8fa44dde34cacf7982d"
+    },
+    {
+      "key": "llanada-panama",
+      "url": "https://www.pty.lallanada.com/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pty.lallanada.com'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "robotpunk-camp",
+      "url": "https://www.robotpunk.mx/cursos-de-verano/",
+      "final_url": "https://www.robotpunk.mx/cursos-de-verano/",
+      "status": 200,
+      "bytes": 154135,
+      "sha256": "54bb02350f28a2e8ad66223f91282d304a57b99dbcaf0db5f6ccb739af1d137e"
+    },
+    {
+      "key": "tecnobotrix",
+      "url": "https://www.tecnobotrix.com.mx/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "troonic-camp",
+      "url": "https://troonic.com/troonic-camp-2027/",
+      "final_url": "https://troonic.com/troonic-camp-2027/",
+      "status": 200,
+      "bytes": 117762,
+      "sha256": "5f294f67958a15e49facf2b943d5769bdb44173a1d18d313733050c7743021d8"
+    },
+    {
+      "key": "wecode-verano",
+      "url": "https://www.wecode.edu.uy/verano",
+      "final_url": "https://www.wecode.edu.uy/verano",
+      "status": 200,
+      "bytes": 170902,
+      "sha256": "94eab33115be92c73c0c4cf2c3a2bf94ace1f674d608e71dd038d137ff35bd12"
+    },
+    {
+      "key": "explora-panama",
+      "url": "https://www.explorapanama.org/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "museo-cr-vacaciones",
+      "url": "https://www.museocostarica.go.cr/novedades/noticias/talleres-vacaciones-2026/",
+      "final_url": "https://www.museocostarica.go.cr/novedades/noticias/talleres-vacaciones-2026/",
+      "status": 200,
+      "bytes": 1055210,
+      "sha256": "13d783ed598fa80f511b66d63e7462337ba784fda580e49dc7cd15e71f157af7"
+    },
+    {
+      "key": "llanada-panama-board",
+      "url": "https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/",
+      "final_url": "https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/",
+      "status": 200,
+      "bytes": 298732,
+      "sha256": "c916d70decd52ffb42a21e5d11e08df77f0fc864dab72fd06600c438d0189347"
+    },
+    {
+      "key": "llanada-panama-valle",
+      "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/",
+      "final_url": "https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/",
+      "status": 200,
+      "bytes": 177353,
+      "sha256": "bbe14a9d98b1b02bcc212a8ef6c8f0d8090099f8f9922ffda8f046fc2459dcb9"
+    },
+    {
+      "key": "llanada-panama-city",
+      "url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+      "final_url": "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+      "status": 200,
+      "bytes": 268107,
+      "sha256": "e665fa534ee056d9f4540c1ae185bf95d6b3a6ba78be36cf209e344865f86e59"
+    },
+    {
+      "key": "tecnobotrix-summer",
+      "url": "https://tecnobotrix.com.mx/verano/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "fod-primary",
+      "url": "https://fod.ac.cr/",
+      "final_url": "https://fod.ac.cr/",
+      "status": 200,
+      "bytes": 700489,
+      "sha256": "939428e3be04cdf514821a81fd996eb91b813dc705abd570a17ea9063b7b88f0"
+    },
+    {
+      "key": "fod-links",
+      "url": "https://linktr.ee/fundacionomardengo",
+      "final_url": "https://linktr.ee/fundacionomardengo",
+      "status": 200,
+      "bytes": 240145,
+      "sha256": "be725b8d23e76d27f46cb34780afc775b8b3e285e4e53388bfa5839260e927a3"
+    },
+    {
+      "key": "llanada-panama-primary",
+      "url": "https://pty.lallanada.com/",
+      "final_url": "https://pty.lallanada.com/",
+      "status": 200,
+      "bytes": 190835,
+      "sha256": "2a603ddf361f49e38e35eef21c6822462d765efad610440f000ecaae21fb0a24"
+    },
+    {
+      "key": "sek-cr",
+      "url": "https://sekcostarica.com/vacaciones-activas/",
+      "final_url": "https://sekcostarica.com/vacaciones-activas/",
+      "status": 200,
+      "bytes": 214074,
+      "sha256": "fc38e11f90ab6f7322e31ff633d78be2f216dcd9db49f7657848b9732c38c494"
+    },
+    {
+      "key": "british-chile",
+      "url": "https://www.britishcouncil.cl/ingles/cursos-de-verano-ninos",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "norte-chile",
+      "url": "https://www.chilenonorteamericano.cl/producto/curso-ingles-ninos-summer-school-2-niveles/",
+      "final_url": "https://www.chilenonorteamericano.cl/producto/curso-ingles-ninos-summer-school-2-niveles/",
+      "status": 200,
+      "bytes": 134314,
+      "sha256": "5385b468d47d2950de85a25ff59dbf874060bb0171e38fc9eabda82ea2b15775"
+    },
+    {
+      "key": "amora-events",
+      "url": "https://amora.cr/es/events/",
+      "final_url": "https://amora.cr/es/events/",
+      "status": 200,
+      "bytes": 127508,
+      "sha256": "b8201add3d6bc95ce28d4298f76322d0e639a51e4ffaa54859f3ba6637784acc"
+    },
+    {
+      "key": "sailing-feb-form",
+      "url": "https://forms.gle/qHJMvZZzjpid4Ns6A",
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSf_H0kRYnyl85xYQ73rjFmGs3etUw3NhuR468mMe43L0ngqTw/viewform?usp=send_form",
+      "status": 200,
+      "bytes": 92816,
+      "sha256": "0d8c1b9933c8a0063c716c90ceba0ec40662ff1f533c0ad086d42f8261e2f07b"
+    },
+    {
+      "key": "llanada-board-2027-pdf",
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/08/💚Brochure-Sleepaway-Enero-2027-WEB.pdf",
+      "error": "'ascii' codec can't encode character '\\U0001f49a' in position 32: ordinal not in range(128)"
+    },
+    {
+      "key": "llanada-valle-2027-pdf",
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/09/💚Brochure-Day-Camp-El-Valle-Enero-2027.pdf",
+      "error": "'ascii' codec can't encode character '\\U0001f49a' in position 32: ordinal not in range(128)"
+    },
+    {
+      "key": "tecnobotrix-offer",
+      "url": "https://tecnobotrix.com.mx/vj/",
+      "error": "HTTP Error 406: Not Acceptable"
+    },
+    {
+      "key": "fod-robotics-form",
+      "url": "https://survey.zohopublic.com/zs/s3CNNh",
+      "final_url": "https://survey.zohopublic.com/zs/s3CNNh",
+      "status": 200,
+      "bytes": 370048,
+      "sha256": "60c2e896c1a10914814cfd5218fa94a1d5b9cdac4e425e8431407841c8bf2e27"
+    },
+    {
+      "key": "llanada-board-2027-pdf",
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/08/%F0%9F%92%9ABrochure-Sleepaway-Enero-2027-WEB.pdf",
+      "final_url": "https://pty.lallanada.com/wp-content/uploads/2026/08/%F0%9F%92%9ABrochure-Sleepaway-Enero-2027-WEB.pdf",
+      "status": 200,
+      "bytes": 1777676,
+      "sha256": "7748cf351db30afc15cbee9200a9ab6aa5c71fe9f954820a60eceb3a9606e812"
+    },
+    {
+      "key": "llanada-valle-2027-pdf",
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/09/%F0%9F%92%9ABrochure-Day-Camp-El-Valle-Enero-2027.pdf",
+      "final_url": "https://pty.lallanada.com/wp-content/uploads/2026/09/%F0%9F%92%9ABrochure-Day-Camp-El-Valle-Enero-2027.pdf",
+      "status": 200,
+      "bytes": 2594455,
+      "sha256": "fb696fd7e456cf381e1ba75a76b9747768d0c2c23fcb76b40dade932eebe0069"
+    },
+    {
+      "key": "wecode-lab",
+      "url": "https://www.wecode.edu.uy/cursos/lab-pocitos",
+      "final_url": "https://www.wecode.edu.uy/cursos/lab-pocitos",
+      "status": 200,
+      "bytes": 197406,
+      "sha256": "961aa13860321f12b3b3247e360eb77e1321029da49a9ffaa0e5e097db00d5cf"
+    },
+    {
+      "key": "wecode-ia",
+      "url": "https://www.wecode.edu.uy/cursos/ia-pocitos",
+      "final_url": "https://www.wecode.edu.uy/cursos/ia-pocitos",
+      "status": 200,
+      "bytes": 230990,
+      "sha256": "1401cb677503a9a104b298026594f206aef233246b936d65fb4dc75de88c80f4"
+    },
+    {
+      "key": "wecode-minecraft",
+      "url": "https://www.wecode.edu.uy/cursos/minecraft1-pocitos",
+      "final_url": "https://www.wecode.edu.uy/cursos/minecraft1-pocitos",
+      "status": 200,
+      "bytes": 227094,
+      "sha256": "a3433e6a6311c1948625f73f5b512fbcab916825cd1c6c2029f981bedc32a43e"
+    },
+    {
+      "key": "robotpunk-contact",
+      "url": "https://www.robotpunk.mx/contacto/",
+      "final_url": "https://www.robotpunk.mx/contacto/",
+      "status": 200,
+      "bytes": 113823,
+      "sha256": "b7934555f42b9b25912eee1a246ff1fbe229aff1f8509d6e02c71920da80575c"
+    }
+  ],
+  "recovered_reads": [
+    {
+      "url": "https://www.britishcouncil.cl/ingles/cursos-de-verano-ninos",
+      "method": "web primary open",
+      "detail": "2026 semanas, La edad6–8/B9–11 y los precios del curso leídos después de la hora de salida directa; no se inventó el recibo HTTP"
+    },
+    {
+      "url": "https://tecnobotrix.com.mx/vj/",
+      "method": "página principal de la web después de enlace del sitio propio",
+      "detail": "El verano actual2026 programa,7+,horas,proyectos/6grupo y entrada, después de406; No hay nada inventado."
+    },
+    {
+      "url": "https://pty.lallanada.com/",
+      "method": "en la pestaña nativebrowser46 y directHTTPS primaria",
+      "detail": "El dominio oficial no www observado funciona con certificado válido; no se pasa ninguna advertencia"
+    },
+    {
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/08/%F0%9F%92%9ABrochure-Sleepaway-Enero-2027-WEB.pdf",
+      "method": "Textos PDF + página visual3",
+      "detail": "24–31El día de hoy2027,7–16,1290/1352 y instalaciones verificadas"
+    },
+    {
+      "url": "https://pty.lallanada.com/wp-content/uploads/2026/09/%F0%9F%92%9ABrochure-Day-Camp-El-Valle-Enero-2027.pdf",
+      "method": "Textos PDF + página visual4",
+      "detail": "25–29El día de hoy2027,6–10,09–18 y400 verificado"
+    }
+  ],
+  "verified_new_dossier_urls": [
+    "https://forms.gle/qHJMvZZzjpid4Ns6A",
+    "https://pty.lallanada.com/",
+    "https://pty.lallanada.com/campamento-de-verano/daycamp-ciudad/",
+    "https://pty.lallanada.com/campamento-de-verano/daycamp-valle-de-anton/",
+    "https://pty.lallanada.com/campamento-de-verano/sleepaway-valle-de-anton/",
+    "https://pty.lallanada.com/wp-content/uploads/2026/08/%F0%9F%92%9ABrochure-Sleepaway-Enero-2027-WEB.pdf",
+    "https://pty.lallanada.com/wp-content/uploads/2026/09/%F0%9F%92%9ABrochure-Day-Camp-El-Valle-Enero-2027.pdf",
+    "https://sekcostarica.com/vacaciones-activas/",
+    "https://tecnobotrix.com.mx/vj/",
+    "https://troonic.com/troonic-camp-2027/",
+    "https://www.britishcouncil.cl/ingles/cursos-de-verano-ninos",
+    "https://www.chilenonorteamericano.cl/producto/curso-ingles-ninos-summer-school-2-niveles/",
+    "https://www.robotpunk.mx/contacto/",
+    "https://www.robotpunk.mx/cursos-de-verano/",
+    "https://www.sailingclubpanama.com/campamentos-verano-panama/",
+    "https://www.tecnobotrix.com.mx/",
+    "https://www.wecode.edu.uy/cursos/ia-pocitos",
+    "https://www.wecode.edu.uy/cursos/lab-pocitos",
+    "https://www.wecode.edu.uy/cursos/minecraft 1-pocitos",
+    "https://www.wecode.edu.uy/verano"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "notes": [
+    "Buscar sólo la reposición de la información sobre el FOD secundaria es una pista, no prueba de la próxima temporada de campamento.",
+    "Los precios de los archivos y los costes de la familia entera se diferencian; los lugares actuales/admisión en el extranjero siguen siendo desconocidos."
+  ]
+}

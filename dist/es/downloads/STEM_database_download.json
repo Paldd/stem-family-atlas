@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "download": "STEM_database.zip",
+  "archive_bytes": 4380134,
+  "archive_sha256": "4ba0cd47fbedc856a75bddb8fd2fa2073769063fcf482807473ca7c607c5a8b5",
+  "sqlite_entry": "STEM_database.sqlite",
+  "sqlite_bytes": 32898048,
+  "sqlite_sha256": "d95404137742b9903f18178060b5cbb1ed24a1fc6d766c6f2ed4a83aed0349c9",
+  "raw_download_available": false,
+  "complete_database": true,
+  "instructions": "Extraiga el ZIP: contiene la base SQLite completa y README. La compresión no elimina registros.",
+  "language": "es"
+}

@@ -1,0 +1,100 @@
+{
+  "version": 22,
+  "checked": "2026-10-01",
+  "conclusion": "La nueva ruta en línea más concreta para ambos es  Global Appathon Junior. G4C  Matvey condicional; Astro Pi ahora está limitado por las condiciones de participación; Junior FOSDEM 2027 aún no está instalado.",
+  "routes": [
+    {
+      "id": "apps",
+      "name": "aplicación con un uso real",
+      "kind": "contest",
+      "fit": {
+        "mat": "age_fit",
+        "osc": "age_fit"
+      },
+      "fit_note": {
+        "mat": "Sí por edad Junior; independencia, consentimiento y forma corriente para comprobar.",
+        "osc": "Sí por edad Junior; independencia, consentimiento y forma corriente para comprobar."
+      },
+      "status": "registro el 29 de octubre",
+      "detail": "Junior 1–5, más joven 13 en el 02.04.2027. contribución independiente, materiales de presentación en inglés; No se necesita selección nacional..",
+      "next": "elegir un problema y un pequeño prototipo que funcione; comprobar las reglas de ayuda para adultos.",
+      "ids": [
+        "C846",
+        "C847"
+      ],
+      "league": "global-appathon",
+      "source": "https://globalappathon.org/"
+    },
+    {
+      "id": "games",
+      "name": "juego para tareas sociales",
+      "kind": "contest",
+      "fit": {
+        "mat": "confirm",
+        "osc": "excluded"
+      },
+      "fit_note": {
+        "mat": "9 años en el rango 8–25; elementary la clase y confirmar la solicitud independiente.",
+        "osc": "6 años menor al mínimo 8. Prototipo de aprendizaje por separado."
+      },
+      "status": "Inscripción 2026–2027 se ha anunciado",
+      "detail": "G4C añade el upper elementary: la clase crea un proyecto general. Los premios de las categorías anteriores no se trasladan a la menor.",
+      "next": "comprobar la clase con el maestro/clube; Game Jam  preparación, sin encontrar un futuro turno abierto.",
+      "ids": [
+        "C848",
+        "L197"
+      ],
+      "league": "g4c",
+      "source": "https://learn.gamesforchange.org/student-challenge"
+    },
+    {
+      "id": "space",
+      "name": "Python en la estación espacial internacional",
+      "kind": "learning",
+      "fit": {
+        "mat": "excluded",
+        "osc": "excluded"
+      },
+      "fit_note": {
+        "mat": "Las condiciones de la escuela / club y la ciudadanía del equipo no se cumplen en un contexto conocido.",
+        "osc": "las mismas restricciones geográficas; la edad temprana no está prohibida."
+      },
+      "status": "el material de estudio está disponible",
+      "detail": "Mission Zero y Space Lab  tareas independientes. el certificado de vuelo oficial requiere una admisión confirmada; no hay un torneo por lugar.",
+      "next": "Estudiar el ejemplo de la casa; no planear un vuelo oficial sin revisar las reglas.",
+      "ids": [
+        "L195",
+        "L196"
+      ],
+      "league": "astro-pi",
+      "source": "https://astro-pi.org/mission-zero/eligibility"
+    },
+    {
+      "id": "fosdem",
+      "name": "viaje familiar a un sitio de código abierto",
+      "kind": "visit",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "fit_note": {
+        "mat": "Junior 2027, el lugar en la clase y la entrada infantil aún no están establecidos.",
+        "osc": "Necesitamos un cumpleaños y un nuevo mínimo .: en el Junior 2026 Fue 7–17."
+      },
+      "status": "30 31 de enero · Bruselas",
+      "detail": "Las fechas generales de FOSDEM 2027 están confirmadas. Scratch, robot football y ML están en el programa Junior anterior; se espera un nuevo calendario.",
+      "next": "para seguir el nuevo programa Junior antes de reservar un viaje.",
+      "ids": [
+        "E132"
+      ],
+      "league": null,
+      "source": "https://fosdem.org/2027/"
+    }
+  ],
+  "gaps": [
+    "G4C: nuevas reglas elementales, clases precisas, composición, entrada independiente, lenguaje y fecha límite.",
+    "Global Appathon: Adult / All-Ages y el peso de la tecnología se desvía entre las páginas; las formas de la temporada en curso están cerradas.",
+    "FOSDEM: Junior 2027 y permiso de niños; no retrasar las clases de maestría pasadas para la próxima temporada.",
+    "Los demás concursos en línea, los torneos nacionales de codificación/juego y los campos EN/ES reales requieren una auditoría adicional."
+  ]
+}

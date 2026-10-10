@@ -1,0 +1,123 @@
+{
+  "asof": "2026-10-05",
+  "version": 98,
+  "status": "progress",
+  "scope": "Japón/Taiwan/Corea, precio, categoría escolar y evidencia lingüística; Filipinas vinculado embarque de invierno.",
+  "new_dossiers": 16,
+  "new_operator_groups": 5,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "laurus-winter-prek",
+    "laurus-winter-primary",
+    "laurus-winter-secondary",
+    "taas-adventurer1",
+    "taas-adventurer2",
+    "taas-pathfinder",
+    "alv-taipei-winter",
+    "alv-shilin-winter",
+    "alv-banqiao-winter",
+    "alv-kaohsiung-winter",
+    "alv-manila-winter",
+    "smis-jeju-winter",
+    "tenten-clark-english",
+    "tenten-clark-maths",
+    "tenten-korea-six",
+    "tenten-korea-speech"
+  ],
+  "new_calendar_rows": 21,
+  "new_family_session_ics": 20,
+  "new_family_ics": 21,
+  "new_registration_deadline_ics": 1,
+  "new_season_windows": 3,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 680,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1066,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 46,
+    "SGP": 78,
+    "JPN": 45,
+    "KOR": 16,
+    "USA": 79,
+    "CAN": 84,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Japón",
+      "provider": "v98 · Laurus: invierno concreto, marketing general y pagos adicionales reales",
+      "url": "https://www.laurus-school.com/winter-events/",
+      "detail": "Los tres formatos de edad y 7 campus Pre-K se agregaron por separado. Musashi-Shinjo no funciona. No-Laurus precio, tarifas de ingreso y reglas siblings verificados; Primary y Pre-K en semanas diferentes. detallado Pre-K sitio contiene un viejo párrafo de verano. no hay confirmación de un ciclo de semana / paquete completo de Primary/Secondary y lugares.",
+      "next_action": "el campus/grupo/días exacto, la clase Oscar, el presupuesto completo, el seguro médico, los proyectos/horas/plataformas semanales y el contrato del formato elegido."
+    },
+    {
+      "country": "Taiwán",
+      "provider": "v98 · ALV y TAAS: folletos actuales contra los arquivos",
+      "url": "https://kidscamp.com.tw/tw/",
+      "detail": "ALV cuatro2027 direcciones/los folletos: Grade1–3/4–6, en inglés, teatro/experiencia, NTD9800+500. descuento8折 significa80% tuition, No , no .8% y no un descuento en meal. TAAS Grade1–6/41500 se refiere a2026; La ventana2027 de la escuelaPDF No tres turnos abiertos. Refund policy TAAS dated2020; No es un nuevo contrato .. BC Taiwan EN/ZH los intentos directos se han acabado en timeout, archivos existentes se guardaron.",
+      "next_action": "Las clases reales de ambos, el ingreso individual extranjero, el nuevo precio/contrato TAAS, el ALV discount/refund de las fronteras."
+    },
+    {
+      "country": "Corea del Sur / Filipinas",
+      "provider": "v98 · SMIS / Tenten / ALV Manila: grade gates y inglés por papel",
+      "url": "https://mguhak.com/smisjeju",
+      "detail": "SMIS, invierno actual2027:390만원=3,9 millones KRW incluye clases/residencia/comidas/seguro/excursiones; billete y100000 de dinero de bolsillo aparte. Tenten empieza en Grade4+; Clark declara99% EN; idioma de gramática/matemáticas Korean-style sin demostrar por separado. ALV Manila Jan23–Feb1/58800元:10 días7 noches y edad no aclarados; buddy1:1 no es teacher1:1. No prometer residencia adecuada para Oscar ni admisión extranjera.",
+      "next_action": "las categorías escolares/nacionalidad, language de cada asignatura/ambiente de vida, currency/noches/rooms/full invoice/SSP, transporte/anulación/lugar; la reputación y calidad independiente no están confirmadas."
+    },
+    {
+      "country": "Japón / Corea del Sur",
+      "provider": "v98 · LTL y Branksome: no considere ningún coding camp un campo abierto EN",
+      "url": "https://summercampjapan.com/",
+      "detail": "LTL2027 Tokyo/Osaka: Japanese20h/una semana, kidsday7–11, residence11–17, USD456from sin un paquete específico; No hay cambios precisos/EN de la enseñanza. por lo que no se ha añadido a las confirmadas EN el campo. Branksome Game Jam/VEXGO/Arduino — las clases escolares actuales, No fuera de la holiday camp con las fechas/por el precio. programas existentes/las escuelas se conservan.",
+      "next_action": "Las vacaciones externas actuales para los niños 6/9, EN support/teaching and reception, program/datas/price. continuar en toda Suiza/Francia/España/Europa y América: ningún país ha sido declarado completamente investigado."
+    }
+  ],
+  "calendar": {
+    "events": 3205,
+    "learning_records": 1874,
+    "family_ics": 2466,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1411,
+    "reused_legacy_events": 69,
+    "season_windows": 42
+  },
+  "primary_retrievals": {
+    "direct_attempts": 27,
+    "http200": 24,
+    "retrieval_errors": 3,
+    "unique_actual_pdfs": 6,
+    "selected_visual_page_checks": 24
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "16 nuevos programas/espacios/dossiles de formato en 5 operadores;todos los 664 identificadores/orden/contenidos anteriores y 3184 registros anteriores no han cambiado.680dossiers/37 países/1066dossieresURL;20 nuevosURLs.",
+    "21newcalendarrecords:9Laurusvenue/de formaciones,4ALVTaiwan,1ALVManila,2SMIS,5Tenten. Las ganancias de la CIC familiar20sessions y1deduplicatedLaurusdeadline; Futuro secundario excluido.3TAASseasonwindows no de cohortes.",
+    "Laurus7activePreKcampuses/noMusashiShinjo;noLaurus13/17kfrom vsweeklyPrima 85/100k y Secundary104k,6000entryrules.PreKDec14 deadline/5000transfer/1000canceladomin/740busrestrictions.Weeklyspecificsyllabus/inclusions unresolved;mas viejas copias de verano no prueba de programa.",
+    "Alv cuatro2027imagebrochures: exacto Jan25–29/Grado1–6/Clasificaciones/horario/dirección/9800+500. Registration500alreadyincluded,2Minsurancecoverage no tarifa.80%la matrícula temprana1–2tillOct20 da8340/16680 de condiciones; plazo promocional no plazo de registro.",
+    "TAAS2027schoolwindowJul5–30 No se puede pagar por la semana de clases o por la matrícula.2027. Tres cursos de grado/41500/las UI actuales son2026archive; fecha de reembolso2020 no actual contrato. Capilla y lenguaje-Las lecciones son visibles; de la clase extranjera/ingesta no deducida.",
+    "corriente SMIS2027winter contra el estancamiento del verano:390만원=3900000KRW/Grado3+/19nights/2cohorts/paquete base completo;EN técnico/el consumo/reembolso desconocido. Grado de diez4+/29calendardatesClark/segunda palabra20days, Estilo coreano lenguaje desconocido/de la propiedad extranjera; Las condiciones de pago anticipado no resueltas.",
+    "AlVManila todos6PDFpages: El día de hoy23–Febrero1,10days7nights Conflito;moneda/grado no publicado. En la escuela de la escuela.1:1; vuelos/visase excluido/Certificado interno no internacional.",
+    "27 directempt24HTTP200/3errores;6documentos PDF reales y24selecciones de páginasvisuales, no completas/auditoria del país.LTL japonés/inglés no confirmado yBranksomeschoolGameJam no nuevoENcamp.",
+    "Las verificaciones independientes de JSONSQLite CSVMDJSICS, estable UID/fechas/los plazos, Puente de la capacidad y la familia/lenguaje/filtros de fase. Objetivo mundial/requisitos conservados,0countriesfullyaudited/nativo y activo.",
+    "La disposición de almacenamiento de SQLite se compacta después de rechazar el tamaño de archivo nativo; total de SQL de descarga lógica igual a la exportación originalmente empujada v98, esquema/tablas/allrows retenidos. Cada archivo estático se verificó contra el límite de 26214400 bytes; recibo de publicación nativo nuevo separado."
+  ],
+  "next_priority": "Continúa con la CHE profunda/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/América Latina dentro del mundo entero2026–27 general/Temática/robotica/codificación/AI/día/residencial/inventario familiar. Verificar la actual temporada de enseñanza EN/ES/RU/Campamento Vida/funciones de apoyo, Ingreso extranjero individual/lugares/DOB real-grado, programa de estudios/horas/niveles/equipo, factura completa/contrato/transporte, Mapa exacto del campus y comparaciones familiares. Las ligas/Concursiones/exposiciones/admisión de niños/escuelas/resultados5–10years/rutas familiares restantes; No se ha realizado una auditoría completa en ningún país."
+}

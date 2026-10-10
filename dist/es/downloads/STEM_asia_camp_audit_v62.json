@@ -1,0 +1,180 @@
+{
+  "version": 62,
+  "asof": "2026-10-05",
+  "scope": "Se han profundizado los programas oficiales de Singapur, Taiwán, el Japón, Corea del Sur y Tailandia; las demás prioridades continúan.",
+  "new_dossiers": 13,
+  "new_calendar_entries": 27,
+  "reused_worklab_dates": 20,
+  "dossiers": 125,
+  "countries": 28,
+  "swiss": 18,
+  "source_urls": 231,
+  "worldwide_complete": false,
+  "country_fully_audited": false,
+  "profiles": [
+    {
+      "slug": "worklab-apprentice",
+      "id": "CP113",
+      "country": "Singapur",
+      "timing": "published_2026",
+      "language": "Todas las clases se anuncian directamente en inglés, incluyendo los horarios en PDF.",
+      "price": "$449 / 3 días; $499 / 4; $549 / 5. la moneda y el impuesto de la cuenta final requieren confirmación."
+    },
+    {
+      "slug": "worklab-junior",
+      "id": "CP114",
+      "country": "Singapur",
+      "timing": "published_2026",
+      "language": "Todas las clases se anuncian directamente en inglés, incluyendo los horarios en PDF.",
+      "price": "$499 / 3 días; $549 / 4; $599 / 5. la moneda y el impuesto final de la cuenta requieren confirmación."
+    },
+    {
+      "slug": "worklab-senior",
+      "id": "CP115",
+      "country": "Singapur",
+      "timing": "published_2026",
+      "language": "Todas las clases se anuncian directamente en inglés, incluyendo los horarios en PDF.",
+      "price": "$499 / 3 días; $549 / 4; $599 / 5. la moneda y el impuesto final de la cuenta requieren confirmación."
+    },
+    {
+      "slug": "worklab-spike",
+      "id": "CP116",
+      "country": "Singapur",
+      "timing": "published_2026",
+      "language": "Todas las clases se anuncian directamente en inglés, incluyendo los horarios en PDF.",
+      "price": "$500 / 4 al mediodía. La moneda y el impuesto de la cuenta final requieren confirmación."
+    },
+    {
+      "slug": "worklab-ai",
+      "id": "CP117",
+      "country": "Singapur",
+      "timing": "published_2026",
+      "language": "Todas las clases se anuncian directamente en inglés, incluyendo los horarios en PDF.",
+      "price": "$425 / 3 al mediodía. La moneda y el impuesto de la cuenta final requieren confirmación."
+    },
+    {
+      "slug": "lighthouse-winter",
+      "id": "CP118",
+      "country": "Taiwán",
+      "timing": "published_2026_27",
+      "language": "El operador indica directamente la enseñanza de codificación, STEM y otros temas en inglés. para las artes lingüísticas se requiere experiencia de lectura/escritura en EN; los demás cursos admiten diferentes niveles.",
+      "price": "5 días: TWD normal completo 20 000 / medio 11 000; con VEX GO 22 500 / 13 500. 4 días: normal 16 000 / 8 800; con GO 18 000 / 10 800."
+    },
+    {
+      "slug": "lighthouse-junior",
+      "id": "CP119",
+      "country": "Taiwán",
+      "timing": "partial_2026_27",
+      "language": "El operador indica directamente la enseñanza de codificación, STEM y otros temas en inglés. para las artes lingüísticas se requiere experiencia de lectura/escritura en EN; los demás cursos admiten diferentes niveles.",
+      "price": "paquete estándar: TWD 11 000 / 5 de mediodía o 20 000 / completo; 8 800 / 4 de mediodía o 16 000 / completo. un día completo concreto puede incluir otro tema."
+    },
+    {
+      "slug": "lighthouse-vexgo",
+      "id": "CP120",
+      "country": "Taiwán",
+      "timing": "partial_2026_27",
+      "language": "El operador indica directamente la enseñanza de codificación, STEM y otros temas en inglés. para las artes lingüísticas se requiere experiencia de lectura/escritura en EN; los demás cursos admiten diferentes niveles.",
+      "price": "TWD 13 500 / 5 al mediodía o 22 500 / En su totalidad; 10 800 / 4 al mediodía o 18 000 / En su totalidad. la fianza TWD 2 000 por separado."
+    },
+    {
+      "slug": "lighthouse-vexiq",
+      "id": "CP121",
+      "country": "Taiwán",
+      "timing": "next_unannounced",
+      "language": "El operador indica directamente la enseñanza de codificación, STEM y otros temas en inglés. para las artes lingüísticas se requiere experiencia de lectura/escritura en EN; los demás cursos admiten diferentes niveles.",
+      "price": "la tabla general: TWD 15 000 / 5 de mediodía o 25 500 / plena; 12 000 / 4 de mediodía o 20 400 / plena. la presencia del mismo curso de IQ en el turno adecuado no se ha confirmado."
+    },
+    {
+      "slug": "elev8-tokyo",
+      "id": "CP122",
+      "country": "Japón",
+      "timing": "published_2026_27",
+      "language": "Coding-page: fully in English; Terms confirman directamente programming y maths primarily in English. japonés  un módulo de lenguaje separado elegido.",
+      "price": "JPY 23 000 + 10% tax = 25 300 / día. en el caso de 5+ de los días: 109 250 + 10% = 120 175 / 5 días. 28–31 diciembre: sin descuento de paquete 101 200 de la tax / 4 días."
+    },
+    {
+      "slug": "dwight-seoul-junior",
+      "id": "CP123",
+      "country": "Corea del Sur",
+      "timing": "next_unannounced",
+      "language": "No se ha comprobado directamente que el inglés se enseñe en los campamentos.",
+      "price": "archivo 2025 Preschool–Grade6: KRW 720 000 / una semana, early bird 650 000 (Ya está terminado.). No es el precio. 2026/27."
+    },
+    {
+      "slug": "bisp-lower",
+      "id": "CP124",
+      "country": "Tailandia",
+      "timing": "next_unannounced",
+      "language": "English es el idioma principal de enseñanza; también hay soporte lingüístico adicional.",
+      "price": "Archivo: THB 22 550 / semana; 45 100 / 2, 67 650 / 3, 90 200 / 4 semana. no se ofrece pensión de grupo menor."
+    },
+    {
+      "slug": "bisp-main",
+      "id": "CP125",
+      "country": "Tailandia",
+      "timing": "next_unannounced",
+      "language": "English es el idioma principal de enseñanza; también hay soporte lingüístico adicional.",
+      "price": "Archivo: THB 22 550 / semana día; Main Full Camp 29 400 / semana. 2/3/4 de semana: día 45 100 / 67 650 / 90 200; Full 58 800 / 88 200 / 117 600."
+    }
+  ],
+  "new_event_ids": [
+    "CP118-20261214-20261218",
+    "CP118-20261221-20261224",
+    "CP118-20261228-20261231",
+    "CP118-20270125-20270129",
+    "CP122-20261012-20261016",
+    "CP122-20261019-20261023",
+    "CP122-20261026-20261030",
+    "CP122-20261109-20261113",
+    "CP122-20261123-20261127",
+    "CP122-20261214-20261218",
+    "CP122-20261221-20261225",
+    "CP122-20261228-20261231",
+    "CP122-20270104-20270108",
+    "CP122-20270125-20270129",
+    "CP122-20270201-20270205",
+    "CP122-20270208-20270212",
+    "CP122-20270215-20270219",
+    "CP122-20270222-20270226",
+    "CP122-20270308-20270312",
+    "CP122-20270315-20270319",
+    "CP122-20270322-20270326",
+    "CP122-20270329-20270402",
+    "CP122-20270405-20270409",
+    "CP122-20270412-20270416",
+    "CP122-20270419-20270423",
+    "CP122-20270426-20270430",
+    "CP122-20270503-20270507"
+  ],
+  "family_calendar_count": 1406,
+  "exhibition_calendar_count": 104,
+  "applications_sent": false,
+  "findings": [
+    "Laboratorio de trabajo:cinco pistas de EN explícitas;20 de octubre, las tarjetas heredadas vinculadas sin fechas duplicadas; noviembre/fin del año StayTuned,2027 no publicado.",
+    "Laboratorio de trabajo:Primero-puertas de cumpleaños;Junior8–9 Varios9–13(página)/9+(PDF),SPIKE9+,AI7.5+.Los campus exactos difieren;equipo no mantenido.",
+    "El faro:4generalwinter sesiones;5–7 Junior y8–12GO; horas de curso individuales/fechas no confirmadas, Así que no hay curso-clones de calendario.",
+    "El faro:El coeficiente intelectual10–14 en el curso página sobre menú8–12; No se incluyen temas actuales de invierno a pesar de la columna de precios de IQ; No hay fecha del calendario de IQ.",
+    "El faro:precio imagen visualmenteleído;5/4days,de la misma/la mitad,VEXGO/IQ separado;almuerzo opcional220/día,GO reembolsable2000securitydeposit;Minutos4class.",
+    "Elve8:23dated semanales ventanas a través7May2027;codificación en inglés verificada,Los módulos y los miércoles en general se distinguen.",
+    "Elev8:10%imposición incluida en el cálculo25300diariamente/120175por 5 días/101200por 4 días;el transporte público es gratuito pero con tarifa extra.",
+    "Elev8:términos3 días de pago21+días antes vs 24 horas más cercanas;cancelación de los niveles de reembolso;crédito180 días distintos del reembolso en efectivo.",
+    "DwightSeoul:2026 enlaces principales2025PDFs;programas generales/STEAM/diseño/película,robótica no mejorada;misión externa/EN desconocida;refund2024tipo visible.",
+    "BISP:Inglés instrucción explícita;6–8day contra9–15day/embarque;2026pricesarchival,2027 no publicado;mínimo de una noche9/mayor que9 Conflito.",
+    "BISP:para el 15% se requiere el mismo programa/período;no se debe aplicar automáticamente a diferentes grupos de edad;discordancia de 20/28Feb.",
+    "Todos los demás2014prior objetos de eventos,112prior los objetos del expediente y1379prior calendario familiar UIDdatas parejas conservadas;104exhibitioncalendar conservados."
+  ],
+  "next_priority": [
+    "Ampliar y actualizar Suiza/Francia/España/Europa, Estados Unidos/Canadá y América Latina por ámbito global; ningún país ha sido auditado plenamente",
+    "Programas internacionales más jóvenes en Corea del Inglés y Taiwán verano2027; entradas de clases y cursos",
+    "Nuevos precios2027, asientos reales, fechas exactas de los cursos y presupuestos familiares completos"
+  ],
+  "validation": {
+    "catalogue_preservation": "passed",
+    "sqlite": "integridad y FK aprobado",
+    "calendar": "1379 viejos pares de identificación de identidad/datas conservados; 27 nuevos; 104 exhibiciones conservadas",
+    "desktop_filters": "filtros de país/lengua/niño registrados en el DOM renderizado; Dwight omitido del filtro EN",
+    "mobile": "390px y 320px sin sobrepeso horizontal",
+    "js_errors": [],
+    "click_automation": "No confirmado: los clics del ratón/teclado no se entregaron como eventos de página por los controles del navegador en el fondo o en la pestaña de prueba visible. Los manipuladores de comparación/escenario no cambiaron aparte de los datos añadidos y la etiqueta de elegibilidad; no se reclama que se haya completado el clic QA."
+  }
+}

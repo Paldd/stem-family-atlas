@@ -1,0 +1,282 @@
+{
+  "asof": "2026-10-05",
+  "version": 81,
+  "scope": "27Leído-sólo intentos directos HTTP;23HTML exitoso/PDF,4errores retenidos. Los resúmenes de fuentes se derivan de las tablas de programas primarios leídas/términos/PDF y archivo de conservación/conflictos actuales.",
+  "sources": [
+    {
+      "key": "stgis",
+      "url": "https://www.stgis.at/camps/",
+      "final_url": "https://www.stgis.at/camps/",
+      "status": 200,
+      "bytes": 545159,
+      "sha256": "4ae284ba52709b86a28572920d9264611c3bc10dd51d4aa83a38eb2eab761197"
+    },
+    {
+      "key": "stgis-terms",
+      "url": "https://www.stgis.at/summer-camp-application-2026/",
+      "final_url": "https://www.stgis.at/summer-camp-application-2026/",
+      "status": 200,
+      "bytes": 529145,
+      "sha256": "b27a66a812a81a6a4ac680e7a9741fa6433fa3af4edd9a8da0789d7b7d9075bc"
+    },
+    {
+      "key": "landheim",
+      "url": "https://www.landheim-ammersee.de/en/summer-schools/ai-summer-campus-ammersee",
+      "final_url": "https://www.landheim-ammersee.de/en/summer-schools/ai-summer-campus-ammersee",
+      "status": 200,
+      "bytes": 49109,
+      "sha256": "9defb8e1a31ef215eec608a834539f33af9088619ee31086f3c038138149bda9"
+    },
+    {
+      "key": "yoyo",
+      "url": "https://www.yoyocamps.de/index.php",
+      "final_url": "https://www.yoyocamps.de/index.php",
+      "status": 200,
+      "bytes": 172876,
+      "sha256": "affcc0ceaf4bcb03b4b87e0f65b7902a8a51d76c868d57ed66fafbad8bf2170d"
+    },
+    {
+      "key": "newtech",
+      "url": "https://newtechkids.com/",
+      "final_url": "https://newtechkids.com/en/",
+      "status": 200,
+      "bytes": 90968,
+      "sha256": "6c57f022d4cefdd75158ca268497781e2ffa1fd6913089fa126f95a6432eb892"
+    },
+    {
+      "key": "gls-rates",
+      "url": "https://www.gls-berlin.de/2048.html",
+      "final_url": "https://www.gls-berlin.de/2048.html",
+      "status": 200,
+      "bytes": 66621,
+      "sha256": "aa64ce994726cec167729d8b8ba5fa3e6274c01ba0bb3f20ce2e287b3b3f42f9"
+    },
+    {
+      "key": "salem",
+      "url": "https://www.schule-schloss-salem.de/de/summer-camps/",
+      "final_url": "https://www.schule-schloss-salem.de/de/summer-camps/",
+      "status": 200,
+      "bytes": 105781,
+      "sha256": "956f3fcbf95d7c6380f70ade3d24e4c008a76bff31ce6664aa103d11972f7b82"
+    },
+    {
+      "key": "stgis-2027",
+      "url": "https://www.stgis.at/summer-camp-application-2027/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "yoyo-current",
+      "url": "https://www.yoyocamps.de/",
+      "final_url": "https://www.yoyocamps.de/",
+      "status": 200,
+      "bytes": 173086,
+      "sha256": "32d97b7e59165e80e0dc3a2487b40542d6c6e1456d6d0dc982a8ae1f0e942b8b"
+    },
+    {
+      "key": "yoyo-fez",
+      "url": "https://www.yoyocamps.de/camps/fun-action-camp-fez-berlin",
+      "final_url": "https://www.yoyocamps.de/camps/fun-action-camp-fez-berlin",
+      "status": 200,
+      "bytes": 92660,
+      "sha256": "d2b341e307fa782ddd9d69093b7d55f2cc23ae2ba36ed86c4eb719ef635b03c6"
+    },
+    {
+      "key": "yoyo-steglitz",
+      "url": "https://www.yoyocamps.de/camps/fun-action-camp-berlin-steglitz",
+      "final_url": "https://www.yoyocamps.de/camps/fun-action-camp-berlin-steglitz",
+      "status": 200,
+      "bytes": 95424,
+      "sha256": "f2949761ea0f0a87d53b9083737282604136a9aadbf7c520c91c53ec80f88a5a"
+    },
+    {
+      "key": "yoyo-autumn",
+      "url": "https://www.yoyocamps.de/camps/herbst-camp-im-jugenddorf-am-ruppiner-see",
+      "final_url": "https://www.yoyocamps.de/camps/herbst-camp-im-jugenddorf-am-ruppiner-see",
+      "status": 200,
+      "bytes": 96562,
+      "sha256": "2411794309d1d3595a48834328068365f5dd1d91f6e10df8b53d6fccdf620737"
+    },
+    {
+      "key": "yoyo-spanish",
+      "url": "https://www.yoyocamps.de/camps/spanisch-camp-im-jugenddorf-am-ruppiner-see",
+      "final_url": "https://www.yoyocamps.de/camps/spanisch-camp-im-jugenddorf-am-ruppiner-see",
+      "status": 200,
+      "bytes": 93415,
+      "sha256": "062c4a097ad18a09ea25f66a10227a2525262b5b3839c3f0625c55ee347d42c1"
+    },
+    {
+      "key": "yoyo-faq",
+      "url": "https://www.yoyocamps.de/infos",
+      "final_url": "https://www.yoyocamps.de/infos",
+      "status": 200,
+      "bytes": 100671,
+      "sha256": "85093870119fa4624d87328acccd10cad8ab05dc8c80ea417b0c7edd6b3ba678"
+    },
+    {
+      "key": "landheim-general",
+      "url": "https://www.landheim-ammersee.de/en/summer-schools/international-summer-camp",
+      "final_url": "https://www.landheim-ammersee.de/en/summer-schools/international-summer-camp",
+      "status": 200,
+      "bytes": 44590,
+      "sha256": "e6b04dcbbadc7472b75ee31335f1610388934457b9895d9d2ec37d46dd96a108"
+    },
+    {
+      "key": "salem-kids",
+      "url": "https://www.schule-schloss-salem.de/de/summer-camps/salem-kids-camp/",
+      "final_url": "https://www.schule-schloss-salem.de/de/summer-camps/salem-kids-camp/",
+      "status": 200,
+      "bytes": 151785,
+      "sha256": "13b9d1f30a4503ca7030f842aee7f0e92b85f578868eb3c2dd01b521c04cf423"
+    },
+    {
+      "key": "salem-pdf",
+      "url": "https://www.schule-schloss-salem.de/fileadmin/Downloads/Salem_Broschuere_Summer_Schools.pdf",
+      "final_url": "https://www.schule-schloss-salem.de/fileadmin/Downloads/Salem_Broschuere_Summer_Schools.pdf",
+      "status": 200,
+      "bytes": 1808912,
+      "sha256": "e28aa0d92c1118f73f2ff843bf75659a753207bca55fd329837cd2ec227914d4"
+    },
+    {
+      "key": "landheim-brochure",
+      "url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/landheim-ammersee-international-summer-camp-2026-de-en.pdf",
+      "final_url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/landheim-ammersee-international-summer-camp-2026-de-en.pdf",
+      "status": 200,
+      "bytes": 4420111,
+      "sha256": "6ad4fd53a71bee7538494aea9210e3a73d65629fe644ece70919ff1e8c3aab4f"
+    },
+    {
+      "key": "landheim-contract",
+      "url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf",
+      "final_url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf",
+      "status": 200,
+      "bytes": 2411398,
+      "sha256": "a80351c275bba53d4a4f2864b7b20eb40cd0038a5ebda07e8f87251738622c2e"
+    },
+    {
+      "key": "yoyo-terms",
+      "url": "https://www.yoyocamps.de/agb",
+      "final_url": "https://www.yoyocamps.de/agb",
+      "status": 200,
+      "bytes": 95268,
+      "sha256": "29a5c1db03a7058738b225e6ea4d9351d6863e08929eab8e28fbebe1048f00f5"
+    },
+    {
+      "key": "yoyo-fez-dates",
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/7",
+      "final_url": "https://www.bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/7",
+      "status": 200,
+      "bytes": 19339,
+      "sha256": "0a5dec9b2d1e09a8131e30150aa2a5b352d7f0e54519fb35fb9ed69091e7b816"
+    },
+    {
+      "key": "yoyo-steglitz-dates",
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/86",
+      "final_url": "https://www.bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/86",
+      "status": 200,
+      "bytes": 14042,
+      "sha256": "704c45de7ae164de78c1ac7792dae57508cb78fadf3b473feb94d52f482f368d"
+    },
+    {
+      "key": "yoyo-autumn-dates",
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/82",
+      "final_url": "https://www.bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/82",
+      "status": 200,
+      "bytes": 13902,
+      "sha256": "5d0a9db6f5cef993cf248296e76f5e4602e714ee1face2bfa9c5ea20a471fe49"
+    },
+    {
+      "key": "yoyo-spanish-dates",
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/78",
+      "final_url": "https://www.bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/78",
+      "status": 200,
+      "bytes": 14725,
+      "sha256": "6842e67a30c0e2e994b8f28a0ac4975182b8616ef0644202447daa1d07a5ae5e"
+    },
+    {
+      "key": "newtech-autumn",
+      "url": "https://shorturl.at/FZGpm",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "newtech-before",
+      "url": "https://shorturl.at/Td0sQ",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "newtech-after",
+      "url": "https://shorturl.at/qgmRL",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/7",
+    "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/78",
+    "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/82",
+    "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/86",
+    "https://newtechkids.com/en/",
+    "https://www.landheim-ammersee.de/en/summer-schools/ai-summer-campus-ammersee",
+    "https://www.landheim-ammersee.de/en/summer-schools/international-summer-camp",
+    "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf",
+    "https://www.landheim-ammersee.de/sites/default/files/media/downloads/landheim-ammersee-international-summer-camp-2026-de-en.pdf",
+    "https://www.schule-schloss-salem.de/de/summer-camps/",
+    "https://www.schule-schloss-salem.de/de/summer-camps/salem-kids-camp/",
+    "https://www.stgis.at/camps/",
+    "https://www.stgis.at/summer-camp-application-2027/",
+    "https://www.yoyocamps.de/agb",
+    "https://www.yoyocamps.de/camps/fun-action-camp-berlin-steglitz",
+    "https://www.yoyocamps.de/camps/fun-action-camp-fez-berlin",
+    "https://www.yoyocamps.de/camps/herbst-camp-im-jugenddorf-am-ruppiner-see",
+    "https://www.yoyocamps.de/camps/spanisch-camp-im-jugenddorf-am-ruppiner-see",
+    "https://www.yoyocamps.de/infos"
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf",
+      "pages": [
+        2,
+        3
+      ],
+      "method": "Poppler renderizado y leído visualmente: internacionalGermanrule, opcionalLEGO/AI, excursiones, EUR2750 yMunichtransfer"
+    }
+  ],
+  "embedded_operator_tables": [
+    {
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/7",
+      "url_source": "https://www.yoyocamps.de/camps/fun-action-camp-fez-berlin"
+    },
+    {
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/86",
+      "url_source": "https://www.yoyocamps.de/camps/fun-action-camp-berlin-steglitz"
+    },
+    {
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/82",
+      "url_source": "https://www.yoyocamps.de/camps/herbst-camp-im-jugenddorf-am-ruppiner-see"
+    },
+    {
+      "url": "https://bookacamp.de/de/booking/form/view-by-date/162c63b16e6cec45f83ae6ac3227808f/78",
+      "url_source": "https://www.yoyocamps.de/camps/spanisch-camp-im-jugenddorf-am-ruppiner-see"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "url": "https://www.gls-berlin.de/2048.html",
+      "reason": "Leer corriente2027rate mesa: Inglés Munich aventura12–16/Colegio de Inglés de Berlín16–18. Jóvenes históricos&Es divertido7–14 búsqueda PDF2024 no es2027offer a estos niños."
+    },
+    {
+      "url": "https://newtechkids.com/15454-2/",
+      "reason": "Un evento relacionado con la educación19October2026 dirigidos a los profesores/política/Investigación, No el juniorcamp; página detallada no auditada"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "notes": [
+    "El proveedor de información primaHtml/PDF/foto y imagen de los niños permanecen fuera del reporte público; los hechos/provenientes/errores son sólo públicos.",
+    "El código fuente URL con el documento explicito404 falló, no un nuevo formulario de misión verificado.",
+    "No se confirmó ningún lugar, no se ha validado ningún ranking mundial externo, no hay auditoría nacional exhaustiva.",
+    "Autorizado por completo en todo el mundo, todas las regiones prioritarias y en general/temática2026–27 las estaciones conservadas."
+  ]
+}

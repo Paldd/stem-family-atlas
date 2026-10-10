@@ -1,0 +1,430 @@
+{
+  "asof": "2026-10-05",
+  "version": 85,
+  "scope": "32 intentos directos de HTML/PDF:31 HTTP200 cuerpos, de los cuales una cáscara solo JS; un404 error retenido. Uno mantenido por separado publicJS paquete y propia imagen de precio; tres lecturas visuales primarias. HTTP200 no es una confirmación completa del programa / admisión.",
+  "sources": [
+    {
+      "key": "alpadia-english-index",
+      "url": "https://www.alpadia.com/en/language-camps/english",
+      "final_url": "https://www.alpadia.com/en/language-camps/english",
+      "status": 200,
+      "bytes": 175847,
+      "sha256": "3ac1c070e83e9ed253c1bf9e242f2218ea686e3cf8ff429deaa821d6d6d7698d",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-english-index.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-summer-home",
+      "url": "https://www.enforex.com/en/summer-camps/",
+      "final_url": "https://www.enforex.com/en/summer-camps",
+      "status": 200,
+      "bytes": 1883276,
+      "sha256": "91aa92499754d93975b9182c985fc3b4e0dbf7626ff8461ff9c8554c1232fd27",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-summer-home.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-leysin-fr",
+      "url": "https://www.alpadia.com/fr/camp-ete/suisse/leysin",
+      "final_url": "https://www.alpadia.com/fr/camp-ete/suisse/leysin",
+      "status": 200,
+      "bytes": 361057,
+      "sha256": "e6ca2554a2f32427a441eb2caf83ac5df693b7bb553fc36f8fae18dbd0947749",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-leysin-fr.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-leysin-en",
+      "url": "https://www.alpadia.com/en/language-camps/switzerland/leysin",
+      "final_url": "https://www.alpadia.com/en/language-camps/switzerland/leysin",
+      "status": 200,
+      "bytes": 353999,
+      "sha256": "ae8a0089944b7b30858dd7ab7cf1c9dc590e1b6c7f631dabbb5f00b1255ae839",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-leysin-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-engelberg-en",
+      "url": "https://www.alpadia.com/en/language-camps/switzerland/engelberg",
+      "final_url": "https://www.alpadia.com/en/language-camps/switzerland/engelberg",
+      "status": 200,
+      "bytes": 347904,
+      "sha256": "9fe153310b044ec12adca348341d8043527397b07c962877271476f596f17b33",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-engelberg-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-passy-en",
+      "url": "https://www.alpadia.com/en/language-camps/french/france/paris-passy",
+      "final_url": "https://www.alpadia.com/en/language-camps/french/france/paris-passy",
+      "status": 200,
+      "bytes": 271525,
+      "sha256": "dcea453499d6162b348a078ec06b18c3925cf7c17bbe047368ec4ceacdecf28a",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-passy-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-brochure",
+      "url": "https://www.alpadia.com/en/brochure",
+      "final_url": "https://www.alpadia.com/en/brochure",
+      "status": 200,
+      "bytes": 161521,
+      "sha256": "2cfb6c60712bd84d01b4a69a8b69ecd79647e9072ad679efe2b86a91d4d9a51a",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-brochure.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-madrid",
+      "url": "https://www.enforex.com/en/summer-camps/madrid",
+      "final_url": "https://www.enforex.com/en/summer-camps/madrid",
+      "status": 200,
+      "bytes": 1839821,
+      "sha256": "4b318d7e46fdd08cb9772dd89600557bfe58f910480e4fe179cc7d2b3ceb2849",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-madrid.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-elviria",
+      "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+      "final_url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+      "status": 200,
+      "bytes": 1841230,
+      "sha256": "2345009548a73d8de5c68e20d48e3810942020a98b0e2c04ac205324502490fc",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-elviria.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "chantemerle-summer",
+      "url": "https://chantemerle.ch/en/summer-camp-switzerland/",
+      "final_url": "https://chantemerle.ch/en/summer-camp-switzerland/",
+      "status": 200,
+      "bytes": 225059,
+      "sha256": "393f38371b1b287dd250b49d692c219896015a21414f1524dc7e930ea44ca3d5",
+      "body_snapshot_retained": true,
+      "raw_filename": "chantemerle-summer.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "englishcamp-ch-home",
+      "url": "https://english-camp.ch/",
+      "final_url": "https://english-camp.ch/",
+      "status": 200,
+      "bytes": 66043,
+      "sha256": "6cc16238c7888082ad997edcfa4f8c580416268f9da3eb62e1f1eb7c68709117",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishcamp-ch-home.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "chantemerle-fees",
+      "url": "https://chantemerle.ch/en/fees/",
+      "final_url": "https://chantemerle.ch/en/fees/",
+      "status": 200,
+      "bytes": 306018,
+      "sha256": "72d40137f2df8d0ffb7bd5d399502db3725e526a2c53dc95a10835fe9028a2be",
+      "body_snapshot_retained": true,
+      "raw_filename": "chantemerle-fees.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "chantemerle-2027-pdf",
+      "url": "https://chantemerle.ch/documents/summer-camp-2027-brochure.pdf",
+      "final_url": "https://chantemerle.ch/documents/summer-camp-2027-brochure.pdf",
+      "status": 200,
+      "bytes": 361390,
+      "sha256": "bff8a770a4e056b26bcbb8cf136f569ea6862a213846e71c53496e98f6af450f",
+      "body_snapshot_retained": true,
+      "raw_filename": "chantemerle-2027-pdf.pdf",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "englishcamp-ch-dates",
+      "url": "https://english-camp.ch/infos/infos-fuer-eltern/daten-2027",
+      "final_url": "https://english-camp.ch/infos/infos-fuer-eltern/daten-2027",
+      "status": 200,
+      "bytes": 26456,
+      "sha256": "9252b659fb7ea361d663f12a5a2ab163d1e6450e11fb9697ac4deeaf5d229a43",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishcamp-ch-dates.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "englishcamp-ch-prices",
+      "url": "https://english-camp.ch/infos/preise",
+      "final_url": "https://english-camp.ch/infos/preise",
+      "status": 200,
+      "bytes": 28715,
+      "sha256": "04e4f1af2aeadb0f7c8cf1ebe5be59dd803a9fb0950ae1e507d4442da1ee4b6f",
+      "body_snapshot_retained": true,
+      "raw_filename": "englishcamp-ch-prices.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "englishcamp-ch-parents",
+      "url": "https://english-camp.ch/infos/infos-fuer-eltern",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "alpadia-terms",
+      "url": "https://www.alpadia.com/index%2ephp/en/terms-and-conditions",
+      "final_url": "https://www.alpadia.com/en/terms-and-conditions",
+      "status": 200,
+      "bytes": 333611,
+      "sha256": "70fc1644a2a173a28d3264e99d80f23dd992c637ec50f648d8fd7b6c131e49a3",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-terms.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "chantemerle-learning",
+      "url": "https://chantemerle.ch/en/summer-camp-switzerland/language-camps/",
+      "final_url": "https://chantemerle.ch/en/summer-camp-switzerland/language-camps/",
+      "status": 200,
+      "bytes": 181576,
+      "sha256": "0a0ff6cbb00c4105b932fd637aac7e8e6cf737f00de92889bfef0d9f0c0f0bf8",
+      "body_snapshot_retained": true,
+      "raw_filename": "chantemerle-learning.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "chantemerle-activities",
+      "url": "https://chantemerle.ch/en/summer-camp-switzerland/activities/",
+      "final_url": "https://chantemerle.ch/en/summer-camp-switzerland/activities/",
+      "status": 200,
+      "bytes": 202622,
+      "sha256": "d66974c7b6ff7394a9fff6681c21742c7115ef418bb81665f7b654805957fd57",
+      "body_snapshot_retained": true,
+      "raw_filename": "chantemerle-activities.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "stgeorge-winter-nav",
+      "url": "https://www.stgeorges.ch/camps/winter-camp",
+      "final_url": "https://www.stgeorges.ch/camps/winter-camp",
+      "status": 200,
+      "bytes": 138534,
+      "sha256": "c2df69bf0dc21247c9c0249382a936a4b582fec71d79de187811beaa84ddc452",
+      "body_snapshot_retained": true,
+      "raw_filename": "stgeorge-winter-nav.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-brochure-pdf",
+      "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+      "final_url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+      "status": 200,
+      "bytes": 3123082,
+      "sha256": "1125738ac97170565cf90c5244ecda08b70088a6d12833d956a60e992caba8fb",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-brochure-pdf.pdf",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "stgeorge-summer",
+      "url": "https://www.stgeorges.ch/camps/summer-camps",
+      "final_url": "https://www.stgeorges.ch/camps/summer-camps",
+      "status": 200,
+      "bytes": 1905,
+      "sha256": "0b7da601effddf11e78230a9218428dab29a3913bb8e57fbd5b15b3eb89a8e44",
+      "body_snapshot_retained": true,
+      "raw_filename": "stgeorge-summer.html",
+      "content_scope": "Sólo JavaScript shell, no se lee un programa de campamento actual"
+    },
+    {
+      "key": "alpadia-igny-en",
+      "url": "https://www.alpadia.com/en/language-camps/french/france/paris-igny",
+      "final_url": "https://www.alpadia.com/en/language-camps/french/france/paris-igny",
+      "status": 200,
+      "bytes": 294511,
+      "sha256": "da53b67b3bfd487f4e93c16ef948790e84f4d0270414a610f39457dd5e1627cb",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-igny-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-nice-en",
+      "url": "https://www.alpadia.com/en/language-camps/french/france/nice",
+      "final_url": "https://www.alpadia.com/en/language-camps/french/france/nice",
+      "status": 200,
+      "bytes": 299053,
+      "sha256": "ac59189e3481d7d1520e013457829ae3094b3bc05072389fd3dd25dc65cbb15b",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-nice-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "alpadia-biarritz-en",
+      "url": "https://www.alpadia.com/en/language-camps/french/france/biarritz",
+      "final_url": "https://www.alpadia.com/en/language-camps/french/france/biarritz",
+      "status": 200,
+      "bytes": 331214,
+      "sha256": "19c52d7f3e7476053dcd229a715d57f854bb1a4e24730e2a7f23abeff87eab5f",
+      "body_snapshot_retained": true,
+      "raw_filename": "alpadia-biarritz-en.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-salamanca",
+      "url": "https://www.enforex.com/en/summer-camps/salamanca",
+      "final_url": "https://www.enforex.com/en/summer-camps/salamanca",
+      "status": 200,
+      "bytes": 1833854,
+      "sha256": "983fcaf1bdb6ce84e46bb1fac0dd8b07425f9b78867338964a2a3979837ba25d",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-salamanca.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-barcelona",
+      "url": "https://www.enforex.com/en/summer-camps/barcelona",
+      "final_url": "https://www.enforex.com/en/summer-camps/barcelona",
+      "status": 200,
+      "bytes": 1838864,
+      "sha256": "0b10f468fca9176d528677acb392e7d8132dcadb10b030ca2799e60e8f144fac",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-barcelona.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-alicante",
+      "url": "https://www.enforex.com/en/summer-camps/alicante",
+      "final_url": "https://www.enforex.com/en/summer-camps/alicante",
+      "status": 200,
+      "bytes": 1833080,
+      "sha256": "a28fb8e0d30686820fd515cd5dcd18c350dd89d0d5e31072afb05a7d796361c8",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-alicante.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-malaga",
+      "url": "https://www.enforex.com/en/summer-camps/malaga",
+      "final_url": "https://www.enforex.com/en/summer-camps/malaga",
+      "status": 200,
+      "bytes": 1837201,
+      "sha256": "40c71d38581dd40003a9c394caad5dabf2926816f0c855f8dc9523fd609a6910",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-malaga.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-barcelona-centro",
+      "url": "https://www.enforex.com/en/summer-camps/barcelona-centro",
+      "final_url": "https://www.enforex.com/en/summer-camps/barcelona-centro",
+      "status": 200,
+      "bytes": 1837550,
+      "sha256": "187f796ec491e99292bb0fff13de8aac8fa950386e0d3cc8d198345693964f08",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-barcelona-centro.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-marbella-centro",
+      "url": "https://www.enforex.com/en/summer-camps/marbella-centro",
+      "final_url": "https://www.enforex.com/en/summer-camps/marbella-centro",
+      "status": 200,
+      "bytes": 1841676,
+      "sha256": "3f32c565a284a3d5a6aed9ae2462664d13c77bb3fd9d01013ae4b9f29ae19f96",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-marbella-centro.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    },
+    {
+      "key": "enforex-valencia",
+      "url": "https://www.enforex.com/en/summer-camps/valencia",
+      "final_url": "https://www.enforex.com/en/summer-camps/valencia",
+      "status": 200,
+      "bytes": 1835507,
+      "sha256": "eee960e3768741ace61eb07b96a6d89c6b7b98698786c4dba4bc1404cf4866e5",
+      "body_snapshot_retained": true,
+      "raw_filename": "enforex-valencia.html",
+      "content_scope": "El cuerpo HTML/PDF primario se conservó"
+    }
+  ],
+  "image_sources": [
+    {
+      "url": "https://english-camp.ch/images/Screenshot_2024-09-28_at_154805.png",
+      "file": "englishcamp-price-table.png",
+      "bytes": 218429,
+      "sha256": "81939f3c00a9ce01f08b0a89fc2468abb1eae3385efb4e8f35c0feb2518f9d7f"
+    }
+  ],
+  "public_bundle_sources": [
+    {
+      "url": "https://www.stgeorges.ch/camps/summer-camps/assets/index-D1Ncw4xa.js",
+      "status": 200,
+      "bytes": 1343130,
+      "sha256": "908675ea4beca5c420fa7484992b89976dd63fec22213669132cd02efb9547c6",
+      "raw_filename": "stgeorge-summer-app.js"
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://chantemerle.ch/documents/summer-camp-2027-brochure.pdf",
+      "page": 1,
+      "method": "2027 cubierta de lectura visual: 6–11 jóvenes / 12–16 Los adolescentes, ventana de apertura, 2–5-Tarifa y inclusiones semanales.",
+      "render_sha256": "e35997dd71da1c7c5f6730ec219c4c310af9f0eb2efe5d6b142b31a42b03e982",
+      "render_bytes": 666301
+    },
+    {
+      "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+      "page": 33,
+      "method": "Lea visualmente nueve columnas del campus, categorías de edad, puntos de sesión exactos, precios semanales/cuatro noches, formatos y tarifas suplementarias.",
+      "render_sha256": "924883c3537d662c439d40f20e374e6a8bea5a9d5abbf334e52224d34ba24147",
+      "render_bytes": 547185
+    },
+    {
+      "url": "https://english-camp.ch/images/Screenshot_2024-09-28_at_154805.png",
+      "page": null,
+      "method": "Imagen de precio propio leída visualmente. La página de precios madre actual etiqueta explícitamente 2026 y 2027; el nombre de archivo de imagen 2024 se conserva, no se deduce temporada del nombre de archivos.",
+      "render_sha256": "81939f3c00a9ce01f08b0a89fc2468abb1eae3385efb4e8f35c0feb2518f9d7f",
+      "render_bytes": 218429
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://chantemerle.ch/documents/summer-camp-2027-brochure.pdf",
+    "https://chantemerle.ch/en/fees/",
+    "https://chantemerle.ch/en/summer-camp-switzerland/activities/",
+    "https://chantemerle.ch/en/summer-camp-switzerland/language-camps/",
+    "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+    "https://english-camp.ch/",
+    "https://english-camp.ch/infos/infos-fuer-eltern/daten-2027",
+    "https://english-camp.ch/infos/preise",
+    "https://www.alpadia.com/en/brochure",
+    "https://www.alpadia.com/en/language-camps/french/france/paris-igny",
+    "https://www.alpadia.com/en/language-camps/french/france/paris-passy",
+    "https://www.alpadia.com/en/language-camps/switzerland/engelberg",
+    "https://www.alpadia.com/en/language-camps/switzerland/leysin",
+    "https://www.alpadia.com/en/terms-and-conditions",
+    "https://www.enforex.com/en/summer-camps/alicante",
+    "https://www.enforex.com/en/summer-camps/barcelona-centro",
+    "https://www.enforex.com/en/summer-camps/madrid",
+    "https://www.enforex.com/en/summer-camps/malaga",
+    "https://www.enforex.com/en/summer-camps/marbella-centro",
+    "https://www.enforex.com/en/summer-camps/marbella-elviria",
+    "https://www.enforex.com/en/summer-camps/salamanca",
+    "https://www.enforex.com/en/summer-camps/valencia"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "Las fotografías/imágenes de origen del proveedor/Html/PDF no están disponibles en el repositorio público; solo los hechos/provenientes/errores parafraseados públicos.",
+    "Las fechas/edades/tarifas publicadas no son admisiones, lugares confirmados, reservas o facturas familiares completas.",
+    "No hay solicitudes, reservas, pagos, mensajes del organizador, suscripciones o nuevas automatizaciones.",
+    "El ámbito de aplicación autorizado mundial completo sigue siendo activo;0 países totalmente auditados."
+  ]
+}

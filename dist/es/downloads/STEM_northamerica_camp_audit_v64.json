@@ -1,0 +1,41 @@
+{
+  "asof": "2026-10-05",
+  "version_scope": "Revisión del programa de América del Norte v64",
+  "status": "ongoing",
+  "world_complete": false,
+  "global_goal_status": "active",
+  "new_dossiers": 11,
+  "new_calendar_rows": 34,
+  "new_family_ical_rows": 31,
+  "dossiers_total": 152,
+  "countries_total": 28,
+  "swiss_total": 25,
+  "official_urls_total": 291,
+  "findings": [
+    "Corriente de la Estación de Astronautas2027 mínimo7; el nivel superior12/13 y Aug1/2 Conflito. Sólo3uncontestedsessions calendarizado; una aventura científica genérica, no robótica. EN/Entrada internacional sin resolver.",
+    "Campamento de los bosques franceses-la vida/los campamentos internacionales establecidos. Cuatro3wk,combinación6/9/12wk y1wkTrial fechas2027. Sesión3 temprano8800/tarde8400 El conflicto de precios; Deposito de tres250vs1750 sin resolver.",
+    "TIC7–15 Requiere un grado completado1 yendo; Los límites de grado varían según el campus. LEGO antes de que VEX se recomiende. No , no .2027dates/precio/Protección de la seguridad, en el calendario inventado.",
+    "Ponácca2027PDF: una semana Grado1inSeptember2026; dos semanas de edad7–9/La primera vez10onJuly1; cuatro semanas8–15. HSTextras; depósito1000includes300admin. La historia internacional no prueba el inglés.",
+    "Destinado Canadá10–17: Enseñanza y actividades;2027USD3910/5425/6625 no CAD. Viajes opcionales/Lavadero; seguro genérico100000andairporttransfer necesidad2027contract.",
+    "El Swallowdale8–14ForestSchool2027windowJuly11–31;2–3weeks No se ha demostrado que se ha mantenido en particular. CISS AI12–16/Empresarios14–18 EN20h,de hecho2027sessions,tarifa desconocida; Los dos futuros años excluidos de la familia ICS.",
+    "CISS Future-Ready2026CircuitStream no es AILab2027.Precio ayuda URLservices2022Article de registro; no se cumplen los precios de los agentes."
+  ],
+  "preservation_checks": "scripts/verify-northamerica-camps-v64.py",
+  "ui_verification": {
+    "status": "passed_local_preview",
+    "checks": [
+      "23cenarios; clics reales en los escenarios de noticias de EE.UU./Canadá renderiendo3/7 correctos tarjetas de programación",
+      "FrenchWoods filtro artístico 2; ambos+ENkeeps2; comparación de casillas de verificación",
+      "Ponacka+Oscar retorna 2grado/edad de condiciones; añadiendo EN retorna0; AI CISS ambos retorna0futuro",
+      "Descripción1280, móvil390 y 320 no hay documento sobreflujo horizontal;390 comparaciónvisible",
+      "No hay errores en el navegador; datos-ui-versión64 y nuevo152/28/25/291"
+    ],
+    "screenshot": "northamerica-camps-v64-preview.png"
+  },
+  "remaining_scope": [
+    "Otros operadores prioritarios en todo el mundo y documentos recientemente publicados2027",
+    "EN/ES/RU/grado/extranjero/condiciones previas actuales para los programas no anunciados",
+    "Mapa preciso del campus, escenarios familiares completos, costes y clasificación editorial transparente",
+    "No se ha realizado una auditoría completa en ningún país; objetivo global activo"
+  ]
+}

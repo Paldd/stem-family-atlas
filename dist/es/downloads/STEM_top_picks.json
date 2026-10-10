@@ -1,0 +1,691 @@
+{
+  "version": 27,
+  "checked": "2026-10-01",
+  "title": "Lo mejor para nuestra familia.",
+  "basis": "selección editorial de la base estudiada para niños nacidos en 2017 y 2020 con experiencia de tres años; EN / ES, ruso  opción adicional. presupuesto, clases y fechas exactas de nacimiento aún no se han presentado.",
+  "methodology": [
+    "elegimos para la tarea de la familia: edad, contenido real, lenguaje de enseñanza y camino a seguir.",
+    "El resultado del equipo se toma en cuenta con el nivel y el año exacto; la medalla de los mayores no prueba la calidad del grupo menor.",
+    "un entrenador fuerte y una práctica regular son más importantes que participar de una vez en todas las plataformas. la liga principal + un proyecto / AI-la pista.",
+    "Es una selección comparativa entre registros verificados, no una clasificación objetiva de todos los programas del mundo. La calidad de la clase no ha sido probada personalmente.",
+    "No hay registros confirmados ni lugares de escuela. La fecha, el marco de edad y la lengua no sustituyen la solicitud aceptada.",
+    "Ahora significa una edad adecuada para su consideración; un nuevo turno, lugar, admisión escolar y admisión pueden requerir confirmación."
+  ],
+  "recommendation": "primera visita escolar: ASFM en México o TAS en Taiwán; AST  comparación en Taiwán, ISP  reserva regional. liga principal FIRST; Matvey WRO o VEX IQ con entrenador fuerte. para ambos un proyecto de IA separado WAICY. campamento conjunto  Tokyo Coding Club; Ingeniería de Matvey  TechCamp o Harrow Appi.",
+  "categories": {
+    "school": "escuelas",
+    "league": "las ligas",
+    "camp": "Campamentos",
+    "expo": "Exposiciones"
+  },
+  "picks": [
+    {
+      "id": "tas",
+      "category": "school",
+      "title": "Taipei American School",
+      "target_ids": [
+        "S003"
+      ],
+      "place": "taiwan · taibe",
+      "label": "primer candidato para la base de ingeniería",
+      "why": "Mi primera elección para una visita a la escuela en Taiwán: Tech Cube conecta a los estudiantes de secundaria con la ingeniería y los equipos competitivos.",
+      "facts": "programa escolar KA12: en los primeros años hay robots y sensores. máquinas avanzadas y FRC pertenecen a las etapas superiores.",
+      "gate": "Los dos — los candidatos a Lower School. Admisión, junior-el equipo, los relojes y el acceso a los laboratorios por separado; la victoria Middle School no prueba la fuerza del grupo 6–9.",
+      "next_action": "ver la actividad y el trabajo de los niños junior; obtener un plan de robótica para ambos y una confirmación de puesto.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Tech Cube · programa escolar",
+          "url": "https://www.tas.edu.tw/academics/the-tech-cube-program"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "asfm",
+      "category": "school",
+      "title": "ASFM · Monterrey",
+      "target_ids": [
+        "S002"
+      ],
+      "place": "México · monterrey",
+      "label": "Primero candidato en América Latina",
+      "why": "Una visita escolar prioritaria a México: hay un equipo menor y una continuación en FIRST para mayores. Un punto conveniente para comprobar el rumbo de la competición familiar.",
+      "facts": "La escuela informa sobre el Programación Award del equipo Elementary en el FLL Explore y el equipo FTC de Middle / High School.",
+      "gate": "La edad es para ambos; no hay una admisión personal para el equipo. No es prueba de la victoria en la final mundial.",
+      "next_action": "comprobar el programa después de tres años de experiencia, un entrenador, un calendario de temporada y la distribución de los niños por equipos.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Extended Learning · equipos de la escuela",
+          "url": "https://www.asfm.edu.mx/extended-learning"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "ast",
+      "category": "school",
+      "title": "American School in Taichung",
+      "target_ids": [
+        "S020"
+      ],
+      "place": "taiwan · taijún",
+      "label": "el segundo candidato en Taiwán",
+      "why": "comparar con el TAS si la trayectoria visible desde la etapa junior es importante hasta las competiciones. La elección de la universidad depende del grupo junior real.",
+      "facts": "la escuela describe robotics de la Elementary hasta High School. en el mensaje de Worlds 2023 habla de los siete equipos Grades 5–12.",
+      "gate": "Los éxitos de Grade 5+ no se pueden trasladar a los Oscar.",
+      "next_action": "comparar dos campus de Taiwán en las clases, por el portafolio de niños y por las respuestas de los entrenadores.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "AST · Robotics",
+          "url": "https://www.astaichung.com/robotics"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "isp",
+      "category": "school",
+      "title": "International School of Panama",
+      "target_ids": [
+        "S022"
+      ],
+      "place": "panamá · panamá-ciudad",
+      "label": "base de reserva familiar en la región",
+      "why": "Es adecuado para comprobar el STEM permanente junior y el camino de ingeniería / emprendimiento posterior sin pasar de inmediato al programa de adolescentes.",
+      "facts": "en el Grades 1–5 se declaró semanal STEM con un especialista: Robots y programación. de la escuela VEX-los equipos comienzan con Grade 3.",
+      "gate": "Matvey necesita un certificado de 3+ y un puesto en VEX. Para Oscar, el menor está probado STEM, la participación en VEX no está establecida.",
+      "next_action": "comprobar el reloj real, el turno de VEX, el proyecto menor y el presupuesto completo del expediente escolar.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "ISP · STEM por escalones",
+          "url": "https://isp.edu.pa/es/aprendizaje-stem/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "horizon",
+      "category": "school",
+      "title": "Horizon Primary School",
+      "target_ids": [
+        "S006"
+      ],
+      "place": "Singapur · Primaria estatal",
+      "label": "un resultado fuerte de la escuela primaria",
+      "why": "un guión separado para la primaria pública: los resultados se refieren a la escuela primaria, no al equipo superior de un campus conocido.",
+      "facts": "se publicaron NRPC Overall Champion 2025 y los primeros lugares / premios del campeonato IDE 2025. estos son los resultados nacionales.",
+      "gate": "No se han confirmado los ingresos extranjeros, la asignación de la escuela y el acceso de los menores a la CCA.",
+      "next_action": "comprobar la admisión extranjera y el grado mínimo de robótica de CCA antes de decidirse a mudarse.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "Horizonte · logros de 2025",
+          "url": "https://www.horizonpri.moe.edu.sg/our-pride/achievements/achievements-2025/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "bellarmine",
+      "category": "school",
+      "title": "Bellarmine · FRC 254",
+      "target_ids": [
+        "S012"
+      ],
+      "place": "San José, California",
+      "label": "orientación para la escuela secundaria y FRC",
+      "why": "Un fuerte futuro para el equipo de ingeniería: hay en el archivo de la FRC 254 repetidas ganadoras del Campeonato.",
+      "facts": "En el protocolo oficial del FIRST Championship 2022 el equipo 254 está vinculado a Bellarmine y obtuvo el Championship Winner.",
+      "gate": "La escuela secundaria no es adecuada para ambos. Entrar no garantiza un lugar en la FRC 254.",
+      "next_action": "utilizar como guía de calidad de la ingeniería juvenil; para pasar al secundario volver a comprobar el equipo y las reglas de adquisición.",
+      "fit": {
+        "mat": "future",
+        "osc": "future"
+      },
+      "horizon": "future",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "FIRST · el protocolo oficial de 2022",
+          "url": "https://frc-events.firstinspires.org/2022/CMPTX/awards"
+        },
+        {
+          "title": "escuela · Robotics",
+          "url": "https://www.bcp.org/student-life/robotics"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "qe",
+      "category": "school",
+      "title": "Queen Elizabeth’s School · Barnet",
+      "target_ids": [
+        "S008"
+      ],
+      "place": "Gran Bretaña · secundaria estatal",
+      "label": "futuro de VEX",
+      "why": "un modelo fuerte del entorno de competición escolar VEX para el siguiente nivel de edad; es útil comparar con los futuros equipos locales.",
+      "facts": "La exposición de robótica escolar describe la Overall Excellence 2018 mundial y la robótica especializada.",
+      "gate": "Selective boys secondary, No , no . primary para niños 6 y 9 años. la disponibilidad 11+ y el ingreso extranjero requiere una verificación por separado.",
+      "next_action": "volver a los requisitos 11+ de antemano; no elegir la primaria actual por la promesa de un lugar futuro.",
+      "fit": {
+        "mat": "future",
+        "osc": "future"
+      },
+      "horizon": "future",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "QE · Robotics Showcase",
+          "url": "https://www.qebarnet.co.uk/beyond-the-classroom/clubs-extra-curricular/robotics-showcase/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "first",
+      "category": "league",
+      "title": "FIRST · Explore → Challenge → FTC / FRC",
+      "target_ids": [
+        "first"
+      ],
+      "place": "red mundial · selección local",
+      "label": "la liga familiar principal",
+      "why": "mi principal ruta familiar: trabajar en equipo, diseñar ingeniería, explicar soluciones y seguir adelante en ingeniería juvenil.",
+      "facts": "Explore 6–10; Challenge 9–16 en el marco global, Las fronteras locales son diferentes. FTC / FRC — más tarde.",
+      "gate": "Oscar  Explore; Matvey  Challenge con la admisión local o explore fuerte. después de 2027 cambia K8: no comprar la tecnología bajo el reglamento de diez años ficticio.",
+      "next_action": "encontrar a un entrenador y a los equipos menores en la base seleccionada; confirmar la categoría nacional, el calendario y el camino de selección.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "FIRST · FLL",
+          "url": "https://www.firstinspires.org/programs/fll/"
+        },
+        {
+          "title": "FIRST · cambios en K8",
+          "url": "https://www.firstinspires.org/programs/k-8"
+        }
+      ],
+      "event_ids": [
+        "C003",
+        "C004"
+      ]
+    },
+    {
+      "id": "wro",
+      "category": "league",
+      "title": "WRO · RoboMission / Future Innovators",
+      "target_ids": [
+        "wro"
+      ],
+      "place": "red mundial · cuota nacional",
+      "label": "la principal robótica autónoma de Matvey",
+      "why": "Es la segunda ruta técnica que Matvey debe elegir si le gusta el robot autónomo: misiones, sensores, despacho y solución independiente.",
+      "facts": "Elementary 8–12 en categorías globales. RoboMission y Future Innovators — diferentes disciplinas; las normas nacionales se comprueban por separado.",
+      "gate": "Matvey  candidato de edad. Oscar a los 6 años Elementary principal no es adecuado; los formatos locales más pequeños se comprueban por separado.",
+      "next_action": "elegir una disciplina, comprobar el equipo nacional y las reglas de la cuota; entrenar la composición y la explicación por sí mismos.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "no"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "WRO · categorías",
+          "url": "https://wro-association.org/competition/categories/"
+        }
+      ],
+      "event_ids": [
+        "C006"
+      ]
+    },
+    {
+      "id": "vex",
+      "category": "league",
+      "title": "VEX IQ → V5 / VEX U",
+      "target_ids": [
+        "vex"
+      ],
+      "place": "red mundial · el camino oficial de VEX",
+      "label": "Una alternativa fuerte con un buen entrenador.",
+      "why": "elegir en lugar de la segunda plataforma principal, cuando hay un equipo de inteligencia fuerte, práctica de juego regular y un camino transparente hacia el Mundial.",
+      "facts": "IQ Elementary ≤12, Middle ≤15; la edad se calcula según la regla de la temporada. no hay una promesa única de admisión de cualquier participante de seis años.",
+      "gate": "No se debe confundir el camino oficial de VEX y el campeonato RECF.",
+      "next_action": "Primero, ver el entrenamiento y el calendario de las calificaciones oficiales, y luego resolver la cuestión de comprar el equipo.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "VEX · el camino oficial",
+          "url": "https://www.vexrobotics.com/official-path"
+        }
+      ],
+      "event_ids": [
+        "C024"
+      ]
+    },
+    {
+      "id": "makex",
+      "category": "league",
+      "title": "MakeX · Spark / Starter",
+      "target_ids": [
+        "makex"
+      ],
+      "place": "México / Asia · categorías locales",
+      "label": "el inicio práctico adicional",
+      "why": "liga adicional para la familia, si hay un entrenador local y un equipo adecuado. ofrece un proyecto robotado o un juego en las categorías menores.",
+      "facts": "en el marco global 2026 Spark / Starter 6–13. las disciplinas mexicanas, técnica y método de cálculo de la edad más concretos de la descripción global.",
+      "gate": "Para los Oscar es importante la fecha exacta de nacimiento y el cutoff local; para ambos confirmar la categoría y el equipo. No prometer la admisión solo por año de nacimiento.",
+      "next_action": "comprobar la próxima etapa mexicana y el reglamento concreto antes de añadir la segunda plataforma.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "MakeX · 2026",
+          "url": "https://www.makex.cc/en/2026-makex"
+        },
+        {
+          "title": "México · organizador",
+          "url": "https://www.creativakids.com/makex.php"
+        }
+      ],
+      "event_ids": [
+        "C020"
+      ]
+    },
+    {
+      "id": "waicy",
+      "category": "league",
+      "title": "WAICY · proyecto de IA propio",
+      "target_ids": [
+        "waicy"
+      ],
+      "place": "proyecto internacional de IA · en línea",
+      "label": "y la idea empresarial para ambos",
+      "why": "Y es que el robot se complementa con un proyecto con una tarea real para el usuario: una idea, datos, un prototipo y una protección comprensible.",
+      "facts": "página 2026 describe la participación de los niños 6–18 y proyectos de la. formato, la pista y las reglas de la independencia deben ser elegidas por la guía.",
+      "gate": "la edad de ambos se incluye en el marco publicado. la página y la dirección difieren en los términos de los jueces; la solicitud aceptada y la fecha de la defensa no se han confirmado.",
+      "next_action": "elegir una tarea infantil y conservar el código, datos y papel de cada uno; especificar los plazos y reglas actuales de ayuda de adultos.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "WAICY · temporada 2026",
+          "url": "https://www.waicy.org/waicy-2026/"
+        }
+      ],
+      "event_ids": [
+        "C037"
+      ]
+    },
+    {
+      "id": "rcj",
+      "category": "league",
+      "title": "RoboCupJunior · Rescue / Soccer / OnStage",
+      "target_ids": [
+        "rcj"
+      ],
+      "place": "final mundial · ruta de los adolescentes",
+      "label": "futuro para sistemas y investigaciones autónomas",
+      "why": "Es un buen objetivo después de las ligas menores si a los niños les gustan los algoritmos y los sensores.",
+      "facts": "de la Unión Europea RCJ por las reglas comunes vigentes — 14–19. Los más pequeños Entry / Primary existen localmente y no son iguales a la entrada a la final mundial.",
+      "gate": "Y para la práctica temprana, buscar un formato local y comprobar su edad.",
+      "next_action": "Ahora desarrollaremos programación, sensores y una revista técnica; más tarde, escogeremos Rescue / Soccer / OnStage.",
+      "fit": {
+        "mat": "future",
+        "osc": "future"
+      },
+      "horizon": "future",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "RCJ · programas",
+          "url": "https://junior.robocup.org/"
+        },
+        {
+          "title": "RCJ · reglas generales",
+          "url": "https://robocup-junior.github.io/general-rules/main/general-rules.html"
+        }
+      ],
+      "event_ids": [
+        "C041",
+        "C042"
+      ]
+    },
+    {
+      "id": "tokyo",
+      "category": "camp",
+      "title": "Tokyo Coding Club · Code Quest",
+      "target_ids": [
+        "L198",
+        "L199",
+        "L200",
+        "L201"
+      ],
+      "place": "Japón · Tokio · día",
+      "label": "El primer campamento familiar para ambos .",
+      "why": "la mejor opción probada para viajar juntos en un corto tiempo ahora: la edad adecuada y el inglés directamente confirmado.",
+      "facts": "5–12, todos los niveles; los cambios de octubre y diciembre 2026. 15+ horas tech lessons en cinco días; el resto del tiempo incluye excursiones.",
+      "gate": "Robotics / AI sólo en sesiones select. Después de tres años de experiencia confirmar la complejidad y el tema, o el campo puede resultar demasiado introductivo.",
+      "next_action": "elegir el turno y obtener un plan de robótica / IA para cada grupo de edad; lugar y vivienda familiar por separado.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Code Quest · Winter 1",
+          "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-1/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "techcamp",
+      "category": "camp",
+      "title": "TechCamp · engineering projects",
+      "target_ids": [
+        "L013",
+        "L182"
+      ],
+      "place": "Gran Bretaña · día / pensión",
+      "label": "primer candidato para el inmersión en ingeniería",
+      "why": "para Matvey es una prioridad el campamento inglés universal si el objetivo es construir y programar un proyecto de ingeniería específico durante una semana.",
+      "facts": "9–17; las jornadas semanales y residential de los programas. de la enseñanza en English; para niños extranjeros se recomienda B1 o más alto.",
+      "gate": "a Oscar 6 años — No es adecuado.. Advanced-Los cursos pueden comenzar con 11 / 13; el cambio futuro y el curso disponible 9+ aclarar.",
+      "next_action": "elegir un proyecto 9+ disponible y comprobar la complejidad real, la técnica en la salida, las fechas y el régimen de residencia.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "no"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "TechCamp · engineering",
+          "url": "https://www.techcamp.org.uk/"
+        },
+        {
+          "title": "niños y lenguas extranjeras",
+          "url": "https://www.techcamp.org.uk/info/overseas-campers"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "harrow",
+      "category": "camp",
+      "title": "Harrow Appi · Can a Robot Ski?",
+      "target_ids": [
+        "L202"
+      ],
+      "place": "Japón · appi · pensión de invierno",
+      "label": "fuerte invierno temático para Matvey",
+      "why": "La cuestión de ingeniería específica, el modelo físico, micro:bit y el deporte de invierno hacen de este cambio un buen candidato para un proyecto temático práctico.",
+      "facts": "13–19 diciembre 2026; 9–13 en el transcurso del turno. un pensión completo, English; 440 000 JPY por el precio publicado.",
+      "gate": "para Oscar edad cerrada. gran parte del programa  esquí / snowboard; complejidad después de tres años de experiencia y lugar por separado.",
+      "next_action": "comprobar la parte del proyecto, las habilidades mínimas y la disponibilidad de espacio antes del plazo publicado el 13 de noviembre.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "no"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Harrow · Winter Camp 2026",
+          "url": "https://winter.harrowappi.jp/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "brillantmont",
+      "category": "camp",
+      "title": "Brillantmont · Tech Academy",
+      "target_ids": [
+        "L168",
+        "L169"
+      ],
+      "place": "suizaria · lazanna · pensión",
+      "label": "y + robot para el inmersión de verano 10+",
+      "why": "Un formato de dos semanas de duración: primero, y luego, programación del robot.",
+      "facts": "English, No para los principiantes; portátil personal. Fechas Tech Academy 2027 en el Apply / Fees: 3–17 y 17–31 de julio.",
+      "gate": "10–16: Matvey sólo es adecuado para 10-de los meses antes del comienzo del turno elegido; Oscar no es adecuado.. en la descripción del programa se han conservado las fechas del año anterior.",
+      "next_action": "verificar el día de nacimiento, el precio completo y la edad con las admisiones; utilizar la página fechada de 2027, confirmar el lugar.",
+      "fit": {
+        "mat": "future",
+        "osc": "no"
+      },
+      "horizon": "future",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Tech Academy · contenido / EN",
+          "url": "https://summer.brillantmont.ch/mornings/tech-academy"
+        },
+        {
+          "title": "las fechas son exactamente 2027",
+          "url": "https://summer.brillantmont.ch/apply-dates"
+        },
+        {
+          "title": "Fees 2027",
+          "url": "https://summer.brillantmont.ch/apply-fees"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "zuoz",
+      "category": "camp",
+      "title": "Lyceum Alpinum Zuoz · Arduino Robotics",
+      "target_ids": [
+        "L170"
+      ],
+      "place": "suizaria · zoot · pensión",
+      "label": "una alternativa futura para la electrónica 10+",
+      "why": "ver cuando se le interese la electrónica y el robot independiente. Es un asunto separado. Arduino track, y no la grabación automática de AI-curso.",
+      "facts": "de la guía 2026 describe robotics y técnico English en el pensión de verano 10–17. AI / ML — otro flujo 12–15.",
+      "gate": "El nuevo cambio aún no ha sido confirmado.. Matvey — el futuro candidato después de 10-años; Oscar edad cerrado. las fechas antiguas no se han trasladado a 2027.",
+      "next_action": "solicitar el nuevo programa publicado, la edad, los relojes de robótica y el costo; comparar con TechCamp y Brillantmont.",
+      "fit": {
+        "mat": "future",
+        "osc": "no"
+      },
+      "horizon": "future",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "la brochura oficial de 2026",
+          "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "wonder",
+      "category": "camp",
+      "title": "WONDER · Life Project Education",
+      "target_ids": [
+        "L193"
+      ],
+      "place": "Costa Rica · cazador · día",
+      "label": "una alternativa de ingeniería cercana en español",
+      "why": "una opción local práctica para ambos, si se necesitan tareas constructivas, un viaje en español y familiar sin un vuelo largo.",
+      "facts": "programa de julio 2026: ingeniería con bambú, geometría y arquitectura; los grupos incluyen 6–12, visiting families se aceptan.",
+      "gate": "La última vez que se terminó, la nueva fecha no se conoce; es una alternativa de ingeniería, no el mejor campo de robótica.",
+      "next_action": "comprobar el nuevo conjunto y proyectos del grupo 6–12; elegir sólo si corresponde a la tarea actual de los niños.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "alternative",
+      "sources": [
+        {
+          "title": "WONDER · el programa de julio de 2026",
+          "url": "https://www.lifeprojecteducation.org/wondercamp-july-2026"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "hannover",
+      "category": "expo",
+      "title": "HANNOVER MESSE",
+      "target_ids": [
+        "E014"
+      ],
+      "place": "Alemania · Hannover",
+      "label": "primera visita industrial con niños",
+      "why": "la primera opción para familiarizar a la familia con las tecnologías industriales de esta colección: se publicó la regla de acompañamiento de los niños.",
+      "facts": "5–8 de abril 2027. en la página de billetes niños menores 15 se admiten sólo con un adulto acompañante.",
+      "gate": "el tipo y el precio del boleto infantil, el acceso a las zonas y la demostración por separado.",
+      "next_action": "elegir un pequeño número de puestos de automatización / robots, especificar los boletos de los niños y preparar preguntas.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "Hannover · boletos y la regla de los niños",
+          "url": "https://www.hannovermesse.de/en/for-visitors/tickets/index-2"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "irex",
+      "category": "expo",
+      "title": "iREX · International Robot Exhibition",
+      "target_ids": [
+        "E012"
+      ],
+      "place": "Japón · Tokio",
+      "label": "viaje de perfil prioritario por robots",
+      "why": "un guía de perfil para reunirse con los fabricantes de robots; combinar con un viaje de aprendizaje japonés después de anunciar una nueva edición.",
+      "facts": "El organizador indica la siguiente edición a principios de diciembre de 2027.",
+      "gate": "La entrada de niños 6 / 9 no está confirmada. en el anuncio oficial hasta ahora una ventana aproximada; las fechas exactas y las reglas de la nueva edición deben comprobarse antes de viajar.",
+      "next_action": "esperar el anuncio exacto y confirmar por escrito la entrada del niño; no comprar el viaje durante aproximadamente un mes.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "iREX · organizador",
+          "url": "https://irex.nikkan.co.jp/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "automatica",
+      "category": "expo",
+      "title": "automatica · robotics & automation",
+      "target_ids": [
+        "E019"
+      ],
+      "place": "Alemania · Munich",
+      "label": "prioridad para los robots e integradores",
+      "why": "una fuerte opción especializada para entender la automatización: robots listos, componentes e integración en la tarea de producción.",
+      "facts": "En la base hay una edición anunciada. 22–25 de junio 2027; El programa de la exposición está orientado a robotics / automation.",
+      "gate": "No se ha instalado la puerta de visita para niños. No se puede planificar un viaje familiar hasta que se confirme la admisión; no se presentan todas las empresas en una misma exposición.",
+      "next_action": "comprobar las políticas de los niños y el catálogo de los fabricantes, seleccionar demostraciones que sean fáciles de entender para los niños.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "automatica · direcciones",
+          "url": "https://automatica-munich.com/en/trade-fair/"
+        }
+      ],
+      "event_ids": []
+    },
+    {
+      "id": "ciif",
+      "category": "expo",
+      "title": "CIIF · Robotics / Industrial Automation",
+      "target_ids": [
+        "E083"
+      ],
+      "place": "chino · Shanghai",
+      "label": "una plataforma industrial prioritaria en China",
+      "why": "China Industrial Guía de la Base de Investigación: las secciones de robots y automatización nos ayudan a ver los proveedores y las aplicaciones reales.",
+      "facts": "en la base CIIF 2026 — 12–16 de octubre, Shanghai. la sección de robótica y los participantes a ver en el catálogo de esta exposición.",
+      "gate": "No se ha encontrado el permiso de entrada de niños 6 / 9. Es un itinerario condicional para adultos / familias, no un día de niños confirmado.",
+      "next_action": "primero compruebe la entrada de menores y los documentos, luego selecciona las estancias y las fechas de la visita.",
+      "fit": {
+        "mat": "confirm",
+        "osc": "confirm"
+      },
+      "horizon": "now",
+      "tier": "main",
+      "sources": [
+        {
+          "title": "CIIF · organizador",
+          "url": "https://www.ciif-expo.com/"
+        }
+      ],
+      "event_ids": []
+    }
+  ]
+}

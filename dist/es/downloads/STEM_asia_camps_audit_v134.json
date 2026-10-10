@@ -1,0 +1,171 @@
+{
+  "version": 134,
+  "asof": "2026-10-06",
+  "status": "progress",
+  "scope": "Cuatro expedientes del programa de Singapur de dos operadores, dos filas de campamentos fechados, un cálculo parcial de las tarifas y una corrección del nombre de tarifa de Camp Ayla.",
+  "events": 3808,
+  "competition_records": 1157,
+  "event_records": 197,
+  "exhibition_records": 197,
+  "exhibition_records_unit": "Bloque de eventos mixtos, no cuenta de exposiciones de grandes empresas.",
+  "camp_learning_records": 2454,
+  "programme_dossiers": 1102,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1648,
+  "editorial_scenarios": 256,
+  "budget_scenarios": 57,
+  "new_dossiers": 4,
+  "new_dossier_operator_count": 2,
+  "updated_dossiers": [
+    "ayla-tokyo"
+  ],
+  "unchanged_dossiers": 1097,
+  "new_calendar_rows": 2,
+  "new_budget_scenarios": 1,
+  "unchanged_budget_objects": 56,
+  "unchanged_event_objects": 3782,
+  "updated_event_objects": 24,
+  "updated_event_scope": "Sólo CP183 generó filas: nombres tarifários/texto y fecha de verificación de la fuente.",
+  "dossier_ids": [
+    "CP1099",
+    "CP1100",
+    "CP1101",
+    "CP1102"
+  ],
+  "new_calendar_ids": [
+    "CP1099-20261121-20261126",
+    "CP1102-20261123-20261125"
+  ],
+  "family_review_candidates": 64,
+  "family_review_countries": 16,
+  "source_retrieval_attempts": 11,
+  "direct_successful_retrievals": 11,
+  "retained_body_receipts": 11,
+  "pdf_files": 0,
+  "new_mobile_qa": false,
+  "production_browser_qa": false,
+  "family_ical": 3025,
+  "new_family_ical_entries": 3,
+  "old_family_ical_blocks_preserved": 2998,
+  "old_family_ical_blocks_updated_tariff_names": 24,
+  "exhibition_ical": 104,
+  "league_profiles": 142,
+  "new_league_profiles": 0,
+  "goal": "active",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "publication": {
+    "status": "prepared_local_not_published",
+    "project_id": "appgprj_6abd44bca1348191809b7260dcb46d87",
+    "reason": "Recientemente, el mismo proyecto nativo get_site en v134 regresó NOT_FOUND/project_not_found404: proyecto Sites no se encuentra. No se ha introducido la fuente, no se ha guardado la versión del sitio o se ha implementado para v134; se ha conservado el mismo proyectos publicados.",
+    "last_confirmed_published_version": 125,
+    "last_confirmed_deployment_id": "appgdep_6ac4ff3f3c7481918fe3d668d24574b0",
+    "last_confirmed_success_at": "2026-10-06T14:02:09.803197+00:00",
+    "production_browser_qa": false
+  },
+  "verification": {
+    "independent-check": {
+      "version": 134,
+      "status": "passed",
+      "baseline_commit": "b8fc7cddebbc41010819181352b1ebf0008e3ac6",
+      "unchanged_event_objects": 3782,
+      "updated_ayla_event_objects": 24,
+      "unchanged_dossiers": 1097,
+      "unchanged_budget_objects": 56,
+      "unchanged_guide_profiles": 142,
+      "new_dossiers": 4,
+      "new_calendar_rows": 2,
+      "new_budget_scenarios": 1,
+      "source_bodies_hash_verified": 11,
+      "old_ics_blocks_byte_identical": 2998,
+      "old_ayla_ics_dates_and_uids_preserved": 24,
+      "new_ics_entries": 3,
+      "exhibition_ics_byte_identical": true,
+      "complete_sqlite_bytes": 31970304,
+      "complete_json_matches_catalog": true,
+      "all_old_sqlite_entity_rows_preserved_except_scoped_ayla_tariff_update": true,
+      "young_family_component_not_full_camp_admission": true,
+      "ideathon_exact_day_not_invented": true,
+      "unknown_fee_unit_not_multiplied": true,
+      "english_site_not_instruction_language": true,
+      "invoice_currency_and_pickup_time_conflict_preserved": true,
+      "standard_gst_math_verified": true,
+      "unchanged_worldwide_goal_scope": true,
+      "goal": "active",
+      "worldwide_complete": false,
+      "publication": "prepared_local_not_published"
+    },
+    "functional-check": {
+      "version": 134,
+      "status": "passed",
+      "method": "nativo cua_repl DOM local de escritorio / texto visible y captura de pantalla",
+      "url": "http://127.0.0.1:8863/#camps",
+      "local_ui_cases": 11,
+      "cases": [
+        {
+          "case": "version_and_counts",
+          "result": "datos-ui-versión 134; 1102 expedientes, 39 países, 1648 direcciones URL del expediente, 64 opciones familiares"
+        },
+        {
+          "case": "edutech_search",
+          "result": "Tres programas distintos visibles; no tres operadores independientes"
+        },
+        {
+          "case": "oscar_age_filter",
+          "result": "Una familia AI Ideatón 5–6 con los padres; de la misma 7–15 y 9–14 excluidos"
+        },
+        {
+          "case": "confirmed_english_filter",
+          "result": "Cero coincidencias con EDUTech; página web en inglés no deducida como lenguaje de enseñanza"
+        },
+        {
+          "case": "july_2027_filter",
+          "result": "Cero coincidencias de EDUTech; no se inventaron fechas del campamento 2027"
+        },
+        {
+          "case": "unconfirmed_ai_fee_unit",
+          "result": "Panel de sesión ampliado dice explícitamente que la tarifa por unidad niño/adulto/familia desconocida y el precio no se multiplica automáticamente; el mismo JS en la construcción final"
+        },
+        {
+          "case": "nature_quest_details",
+          "result": "Ambos condicionados 5–10; programa general de la jornada; Inglés desconocido; dos lugares y 20:00/20:30 conflicto visible"
+        },
+        {
+          "case": "nature_quest_budget",
+          "result": "Base publicada 388.04 cada / 776.08 SGD total; moneda inferida y cuatro grupos de costes desconocidos explícitos"
+        },
+        {
+          "case": "budget_input_and_clear",
+          "result": "Viaje 100 da 876.08 en total; compensación da 776.08 y restaura viaje perdido; en blanco no cero"
+        },
+        {
+          "case": "ayla_tariff_names_and_sessions",
+          "result": "Prime09–13/Regular09–15/Extendido09–17/Super extendido09–18 visibles; 24 las variantes utilizan Regular09–15 y sin cambios55k/44k/33k Cargos"
+        },
+        {
+          "case": "browser_errors",
+          "result": "Los registros de error/alerta de desarrollo local final están vacíos; no hay prueba de producción/móvil esta prueba ha pasado"
+        }
+      ],
+      "new_mobile_qa": false,
+      "production_browser_qa": false,
+      "console_errors": [],
+      "console_warnings": [],
+      "screenshot": {
+        "filename": "local-family-card-v134.jpg",
+        "bytes": 97091,
+        "sha256": "2c4dc89f34c134394eb41ea675411dcaf4068a5f51b0c2bd600f8a9fdf5067d6"
+      },
+      "external_actions": false
+    }
+  }
+}

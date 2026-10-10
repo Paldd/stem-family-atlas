@@ -1,0 +1,249 @@
+{
+  "asof": "2026-10-05",
+  "version": 66,
+  "scope": "Francia/España: programas detallados, funciones lingüísticas reales, disponibilidad y puertas futuras; La Garenne suizera actualizada con el contrato actual de 2027.",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "counts": {
+    "new_programme_dossiers": 17,
+    "new_calendar_rows": 52,
+    "new_family_ics": 31,
+    "new_closed_calendar_rows": 3,
+    "new_future_age_rows": 18,
+    "reused_legacy_mini_dates": 8,
+    "total_events": 2218,
+    "learning_camp_records": 887,
+    "total_programme_dossiers": 179,
+    "countries_with_dossiers": 28,
+    "swiss_dossiers": 35,
+    "french_dossiers": 23,
+    "spanish_dossiers": 19,
+    "official_dossier_urls": 334,
+    "managed_calendar_rows": 424,
+    "season_windows": 12,
+    "family_ical": 1550,
+    "exhibition_ical": 104
+  },
+  "counting": "Los expedientes son programas específicos y ofertas de reserva, no operadores únicos.Las ofertas diarias/de embarque, un club mensual y los programas futuros12+ siguen siendo distintos.",
+  "new_dossiers": [
+    {
+      "id": "CP163",
+      "slug": "kidsrobots-kids",
+      "provider": "KidsRobots · Kids-Robots 8–9",
+      "country": "Francia",
+      "timing_status": "published_2026_27",
+      "price_year": 2027
+    },
+    {
+      "id": "CP164",
+      "slug": "kidsrobots-mini",
+      "provider": "KidsRobots · Mini-Robots 9–12",
+      "country": "Francia",
+      "timing_status": "published_2026_27",
+      "price_year": 2027
+    },
+    {
+      "id": "CP165",
+      "slug": "activebrain-holiday",
+      "provider": "Active Brain · Holiday Science 7–10",
+      "country": "Francia",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP166",
+      "slug": "activebrain-little-holiday",
+      "provider": "Active Brain · Little Spooky 4–6",
+      "country": "Francia",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP167",
+      "slug": "activebrain-monthly",
+      "provider": "Active Brain · Monthly Little Scientists",
+      "country": "Francia",
+      "timing_status": "published_2026",
+      "price_year": 2026
+    },
+    {
+      "id": "CP168",
+      "slug": "ibs-mini",
+      "provider": "IBS of Provence · Mini 4–6",
+      "country": "Francia",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP169",
+      "slug": "ibs-kids",
+      "provider": "IBS of Provence · Kids 7–8",
+      "country": "Francia",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP170",
+      "slug": "ibs-general",
+      "provider": "IBS of Provence · General 9–17",
+      "country": "Francia",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP171",
+      "slug": "cmef-junior",
+      "provider": "CMEF · Cap d’Ail Junior Summer",
+      "country": "Francia",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP172",
+      "slug": "natuk-robotics",
+      "provider": "NATUK Camps · Robotics / HES booking",
+      "country": "España",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP173",
+      "slug": "costablanca-robotics",
+      "provider": "Costa Blanca Camp · Crea tu Mundo Robotics",
+      "country": "España",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP174",
+      "slug": "logiscool-spain-wedo",
+      "provider": "Logiscool Spain · LEGO WeDo Future",
+      "country": "España",
+      "timing_status": "next_unannounced",
+      "price_year": null
+    },
+    {
+      "id": "CP175",
+      "slug": "lacunza-general",
+      "provider": "Lacunza · International General Camp",
+      "country": "España",
+      "timing_status": "partial_2027",
+      "price_year": 2026
+    },
+    {
+      "id": "CP176",
+      "slug": "cervantes-beach-board",
+      "provider": "Cervantes EI · Barcelona Beach Boarding Offer",
+      "country": "España",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP177",
+      "slug": "cervantes-beach-day",
+      "provider": "Cervantes EI · Barcelona Beach Day Offer",
+      "country": "España",
+      "timing_status": "published_2027",
+      "price_year": 2027
+    },
+    {
+      "id": "CP178",
+      "slug": "ausias-summer",
+      "provider": "Ausiàs March · English, Robotics & Sports",
+      "country": "España",
+      "timing_status": "next_unannounced",
+      "price_year": 2026
+    },
+    {
+      "id": "CP179",
+      "slug": "madrid-chess-robotics",
+      "provider": "Blanco y Negro / Robotic4Kids · Madrid Tech Day",
+      "country": "España",
+      "timing_status": "partial_2027",
+      "price_year": null
+    }
+  ],
+  "corrections": [
+    {
+      "slug": "la-garenne",
+      "proof": "ActualSummer2027 PDF ofrece cinco variantes de embarque/cinco días con precios propios, asistencia del sábado, CHF500 acreditado, hermano 10% del mismo formato y cancelación de 65 días.",
+      "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf"
+    },
+    {
+      "slug": "garenne-robotics-workshop",
+      "proof": "El actual2027 forma/establecimiento de contratos8–12,3sesiones y CHF500; menú10–12 sigue siendo contradictorio. No hay fechas de taller independientes ni prueba técnica de inglés.",
+      "source": "https://www.la-garenne.ch/summer-camps/apply-online/"
+    }
+  ],
+  "findings": [
+    "Los niños robots8–9 y9–12 son cursos separados; Oct26–30 ambos cerrados. Ocho mini fechas existentes reutilizadas sin mutación. EN/ES desconocido.",
+    "La ciencia de la EN en el cerebro activo difiere de la de la mandarina; las vacaciones de LittleSpooky están cerradas.El club mensual es de 2 horas, no de una semana; los tres perfiles2026, no2027.",
+    "IBS Mini4–6 bilingüe/día, Los niños7–8 día, general9–17 cantera.2026fee no prueba2027 o tarifa mini.",
+    "El programa de la empresa de servicios de transporte de personas (NATUK provider/HES distributor) se aplica a la tecnología de la robótica por la tarde, por la mañana, seleccionada por separado; conflictos entre hotel/edad/lavandería,2027 fechas/precio desconocido.",
+    "Costa Blanca sesiones semanales durante cuatro tardes, No12provenhours. EN técnico desconocido,edad/precio desconocido.",
+    "La temporada de lacunas2027 vs PDF2026Fees vs Form2024: evidencia.Dos ventanas de la nueva temporada no se convierten en campamentos largos.",
+    "CervantesEI Beach2027 ofrece tarifas/días con fechas/talas; canal de reservas, identidad de operador independiente no confirmada.",
+    "CEMF12–16 Sólo el futuro;18 Valido calendariovariantes derivadas de la regla del domingo sábado. Ejecución de la decisión/El título vsel conflicto de FRcorpo obligatorio.",
+    "Precio de la empresa2026separatescourse/almuerzo/autobús; No lo hace2027row. Tecnología de Madrid5–16 ha2h15roboticsblock, temporada2027and prometió Feb2027update, no firme2027venues/Cargos."
+  ],
+  "preservation": {
+    "prior_catalogue_records": 2166,
+    "unchanged_prior_records": 2163,
+    "source_corrected_prior_records": 3,
+    "prior_dossiers": 162,
+    "unchanged_prior_dossiers": 160,
+    "corrected_prior_dossiers": 2,
+    "prior_family_ical_uids_dates": 1519,
+    "prior_exhibition_ical_uids_dates": 104,
+    "league_school_route_blocks": "unchanged"
+  },
+  "remaining": [
+    "Otros operadores de Suiza Francia España Europa, programas de invierno/verano y descubrimiento de todo el país",
+    "Taiwan Singapur Corea del Sur Japón Estados Unidos Canadá Costa Rica México Latinoamérica alcance completo sigue activo",
+    "2027 nuevas cohorts, clase exacta/nacimiento/entrada a bordo, entrada extranjera y realtecnológica EN/ES/RU",
+    "Reporte completo y disponibilidad, mapas precisos del campus y escenarios de costes familiares",
+    "Competiciones/ligues/exposiciones/escuelas/historia/rutas familiares en todo el mundo; ningún país completo"
+  ],
+  "external_actions": "Solo investigación oficial pública; no hay contactos/subscripciones/formularios/reservas/pagos.",
+  "validation": {
+    "status": "passed",
+    "sqlite": "ok",
+    "foreign_keys": "ok",
+    "bridge": "idempotent",
+    "legacy_dates_uids": "1519 familia/104exhibición conservada",
+    "mini_legacy_dates_reused": 8,
+    "closed_new_rows_excluded_from_ics": 3,
+    "future12plus_rows_excluded_from_ics": 18,
+    "ui": {
+      "version": 66,
+      "new_scenario_picks": [
+        7,
+        7,
+        2
+      ],
+      "activebrain_en_dossiers": 3,
+      "activebrain_2027_dossiers": 0,
+      "activebrain_oscar_dossiers": 2,
+      "activebrain_both_dossiers": 0,
+      "kidsrobots_dossiers": 2,
+      "kidsrobots_en_dossiers": 0,
+      "kidsrobots_visible_closed_date": "2026-10-26–30",
+      "cervantes_both_en_2027_dossiers": 2,
+      "cervantes_day_variants": 6,
+      "visible_calculated_date_labels": 6,
+      "cervantes_board_day_comparison": "1395+35 vs 600+35, los idiomas son las clases separadas",
+      "garenne_both_en_dossiers": 1,
+      "garenne_visible_variants": 10,
+      "garenne_day_variants": 5,
+      "garenne_visible_saturday_and_65day_terms": true,
+      "garenne_workshop_price_comparison": "CHF500/3sessions",
+      "viewport_no_overflow": [
+        1280,
+        390,
+        320
+      ],
+      "mobile_comparison": "rollo horizontal local, sin flujo de páginas",
+      "console_errors": []
+    }
+  }
+}

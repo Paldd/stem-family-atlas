@@ -1,0 +1,110 @@
+{
+  "asof": "2026-10-05",
+  "version": 81,
+  "status": "progress",
+  "scope": "Campamentos de internado general/técnico/diario específicos de programas europeos; siguen activos las ligas/concursiones/exposiciones/escuelas/rutas familiares completas en todo el mundo",
+  "new_dossiers": 13,
+  "updated_dossiers": [],
+  "new_calendar_rows": 10,
+  "new_family_ics": 7,
+  "reused_existing_calendar_rows": 3,
+  "programme_dossiers": 415,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 653,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "DEU": 11,
+    "AUT": 3,
+    "NLD": 5,
+    "TWN": 23,
+    "SGP": 52,
+    "JPN": 17,
+    "KOR": 8,
+    "USA": 38,
+    "CAN": 51,
+    "CRI": 7,
+    "MEX": 24,
+    "COL": 6
+  },
+  "programme_slugs": [
+    "salem-kids-2027",
+    "landheim-general-2027",
+    "landheim-ai-future",
+    "stgis-general-2027",
+    "stgis-robotics-ai-2027",
+    "yoyo-fez-july",
+    "yoyo-fez-august",
+    "yoyo-steglitz-2027",
+    "yoyo-ruppin-autumn",
+    "yoyo-ruppin-spanish",
+    "newtech-autumn-art",
+    "newtech-christmas-film",
+    "newtech-christmas-art"
+  ],
+  "findings": [
+    {
+      "country": "Alemania",
+      "iso": "DEU",
+      "provider": "v81: Pensiones menores Salem/Landheim",
+      "detail": "SalemKids2027 9–11 EUR3650, la grabación1November; BasicEnglishNo hablaMiniUni. Landheim2027form9–14/EUR2750/transfer; brochurepor-de la antigua2026/9–13. ForeignstudentsGermanrule conflicto conENpor la elección; Robotics/AIopcional. AIcamp14–17August2027 de los sin novedadexactdates.",
+      "next_action": "El programa de trabajo de la empresa se ha desarrollado en el ámbito de la enseñanza de la lengua.",
+      "url": "https://www.landheim-ammersee.de/sites/default/files/media/downloads/Anmeldung_Summer%20Camp_2027_EN_Formular_0.pdf"
+    },
+    {
+      "country": "Alemania",
+      "iso": "DEU",
+      "provider": "v81: YoYo edad de la semana fechada y soldout",
+      "detail": "incorporado por el operadorBookacampFEZJuly6–12 contraAugust8–13; Steglitz8–12 contrageneral6–14; Spanish12–14 contrageneral11–15. de la429/419/659 yBaldbuchbarNo está listo para ser reservado. Autumn18–24Oct2026de la699soldout, de la mismaSaturdaydeparture contrageneralFAQFriday. AGBJan2026claros, el límite15El día es ambiguo.",
+      "next_action": "confirmar el límite habitual de Soliprayse, familiaforeignadmission/posición/seguro, birthday/cohort, colección de familia/transport y refund; considerar un grupo concreto primario.",
+      "url": "https://www.yoyocamps.de/agb"
+    },
+    {
+      "country": "Austria",
+      "iso": "AUT",
+      "provider": "v81: StGIS específicoRoboticsgate2027",
+      "detail": "general10–15 No lo menos .Robotics12–15/B2. Morningoptionsy están atadosCampI/II/III. EUR4180base+400Robotics, focusedafternoon+200/500/900 por separado. Application2027Ahora mismo.404; enlacebrochure2027No lo hace.PDF2026. personalworkvisaSección de las condiciones de los permisos de niños.",
+      "next_action": "actual2027forma/el contrato/precioexactoption, en inglésArts/toda la vida., internationalchildaccess y birthday10; - ¿Qué quieres decir?allpriorityde los países.",
+      "url": "https://www.stgis.at/camps/"
+    },
+    {
+      "country": "Países Bajos",
+      "iso": "NLD",
+      "provider": "v81: NewTechKids multilingualrobotics",
+      "detail": "3bootcamps2026linkedL132–134sinduplicateICS; programme8–12 Dutch+English, no es independienteENflujo. cortoseregistrationlinks403, precio/el reloj/kit No se sabe; subsidyStadspasno incluye el precio de la familia extranjera.",
+      "next_action": "Para leer el precio/térmico, el permiso externo/ENsupport, el número de acceso/tiempo exacto y el nuevo conjunto2027 AdultAIeducationonevent no se ha añadido como camping.",
+      "url": "https://newtechkids.com/en/"
+    }
+  ],
+  "calendar": {
+    "events": 2741,
+    "learning_records": 1410,
+    "family_ics": 2073,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 947,
+    "reused_legacy_events": 69,
+    "season_windows": 27
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false
+  },
+  "validation": [
+    "Se conservan todos los 2731 eventos anteriores y los 402 documentos de identificación/contenido.13nuevos documentos de programa/edad/format, no13operadores independientes.10nuevas bases de calendario exactas;7aplaces de ICS familiares.",
+    "Yo Yo posee las tarjetas de Bookacamp incorporadas leídas de forma independiente: FezJulio6–12 En el caso de la industria de la producción8–13, Steglitz8–12, Español12–14. General6–14/11–15 Las páginas no superan las cohorts fechadas. Barro calvo y expuesto10+/4female/4male Las cuentas no son reservas abiertas o vacantes confirmadas.",
+    "Yo Yo otoño18–24Oct2026 El proyecto de ley; Sábadopartidaespecíficocamp vs general FAQviernes. Precio de699 retenido y cerradoflaga llega al calendario. AGBJan2026 EUR25day/EUR50boarddeposit y cancelación/garantía opcional registrada; quince años-límite de día ambigua. Soli±15/25 significa que los precios no son la factura familiar ordinaria final.",
+    "Los niños de Salem2027 de su propiedad9–11 cohorte/EUR3650/24July–7August/1Novemberopening. La enseñanza básica de inglés no es el inglés Mini Uni o Wholecamp. No se ha reclamado ninguna garantía de curso en robótica.",
+    "Forma de la tierra2027 páginas de lectura visual2–3: Estudiantes internacionales, Actividades opcionales de LEGOrobotics y AIagents, Cuota EUR2750 Incl. el traslado de Munich, contrato firmado+pago completonecesario. Página principal2027/9–14 en relación con el folleto2026/9–13. El calendario generalcamp conserva temas generales a pesar de las opciones técnicas.",
+    "Landheim AI14–17 separado de la pista de futuro: El mes de agosto2027 anuncio y prometido1October documentos todavía vinculados2026. No hay exámenes de invento/precio/CSI, No hay ninguna inferencia de que el módulo de inglés demuestre el módulu de inglés.",
+    "Propio SIG2027 páginas: general10–15 Visión de la tecnología12–15/B2. Idiomas del campo I/Sustentabilidad;Campamento IIarts;Campamento III Robótica. EUR4180base+400robotics=4580, Golf opcional500/Caballo900 de más. Aplicación2027HTTP404 retenidos;2026terms no trasplantados. Las condiciones de visado para el personal no son condiciones de admisión al campamento.",
+    "Los niños de la nueva tecnología3own8–12 Bilancial NL/Los campamentos de ENboot vinculan a las L existentes132/El133/El134 sin calendario duplicado/CSI. Tres enlaces cortos reales devueltos403; precios/horas/La admisión a un extranjero sigue siendo desconocida. Los Estados miembros no pueden pagar el precio de la familia en el extranjero..",
+    "Todos los anteriores2066pales de datos de identificación de familias y 104 expositivos de personas conservados. SQLite/publicJSON está de acuerdo; puente idempotente,90 escenarios de familias,0 países auditados; todo el proyecto mundial sigue siendo activo."
+  ],
+  "next_priority": "Continúa con el suizo completo/Francia/Operadores españoles y prioridades asiáticas/Programas de jóvenes estadounidenses, general de todo el país2026–27 los campos, Resultados escolares y liga/cobertura de la exposición; confirmación exacta extranjera/Los gastos de la familia y las facturas de la totalidad de la"
+}

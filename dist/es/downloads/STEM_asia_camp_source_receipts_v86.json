@@ -1,0 +1,537 @@
+{
+  "asof": "2026-10-05",
+  "version": 86,
+  "scope": "41intentos directHTML/PDF: 40HTTP200 incluye JSshell y un formulario de pago no exhaustivo; se conservan 404. Tres PDFs de lectura visual y tres fotos inspecciones, no 44 auditorías completas de campamento.",
+  "sources": [
+    {
+      "key": "canacad-summer",
+      "url": "https://www.canacad.ac.jp/experiencing/summer",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer",
+      "status": 200,
+      "bytes": 341804,
+      "sha256": "52627f8db1bc1197e0ede3fd7cf2e9ce755638c0873e423c794c6fa131a24302",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-summer.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tais-summer",
+      "url": "https://tais.tw/en/summer-camp/",
+      "final_url": "https://tais.tw/en/summer-camp/",
+      "status": 200,
+      "bytes": 247635,
+      "sha256": "1d38810bb4a5f7a903474e79eceb12f59a3f670d63500a4231724bd1c01126c3",
+      "body_snapshot_retained": true,
+      "raw_filename": "tais-summer.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tyas-summer",
+      "url": "https://www.tyas.tyc.edu.tw/article-summer.html",
+      "final_url": "https://www.tyas.tyc.edu.tw/article-summer.html",
+      "status": 200,
+      "bytes": 31194,
+      "sha256": "b9c5ee1ef0241a028b2d44a284d19ec16b54921f0a442b955b4989169b089a25",
+      "body_snapshot_retained": true,
+      "raw_filename": "tyas-summer.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "nishimachi-summer",
+      "url": "https://www.nishimachi.ac.jp/school-life/summer-explorers-ss",
+      "final_url": "https://www.nishimachi.ac.jp/school-life/summer-explorers-ss",
+      "status": 200,
+      "bytes": 67065,
+      "sha256": "872a7f52ba26367aebcdffdc8eee8ec85f7ba237509589a0877593e1ddc089d7",
+      "body_snapshot_retained": true,
+      "raw_filename": "nishimachi-summer.html",
+      "content_scope": "Formulario de pago con paquetes no fechados/inconsistentes, sin currículo actual"
+    },
+    {
+      "key": "codinglab-sg-home",
+      "url": "https://www.codinglab.com.sg/",
+      "final_url": "https://www.codinglab.com.sg/",
+      "status": 200,
+      "bytes": 564037,
+      "sha256": "f9bceae88af42b94433b64eec157843b40ead6b09ced5bb2e26027d79eafd7e3",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-sg-home.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "graphite-home",
+      "url": "https://graphiteacademy.com/",
+      "final_url": "https://graphiteacademy.com/",
+      "status": 200,
+      "bytes": 363600,
+      "sha256": "02902a19396f930ae334bb8180f65edad03c87c15ca3f4844403588f8aaa74f1",
+      "body_snapshot_retained": true,
+      "raw_filename": "graphite-home.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "chadwick-summer",
+      "url": "https://www.chadwickinternational.org/student-life/summer-programs",
+      "final_url": "https://www.chadwickinternational.org/student-life/summer-programs",
+      "status": 200,
+      "bytes": 36350,
+      "sha256": "8af1f8433ec69109d8096bf47cee8a9fea652ae59791ba7efa533ecbda2fbc34",
+      "body_snapshot_retained": true,
+      "raw_filename": "chadwick-summer.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "canacad-experience",
+      "url": "https://www.canacad.ac.jp/fs/pages/651",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer/summer-experience",
+      "status": 200,
+      "bytes": 345166,
+      "sha256": "bc236496d05986f8886a19ffe0fb46bf799126aef750a3e3eed652cd2c1ce859",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-experience.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "canacad-discovery",
+      "url": "https://www.canacad.ac.jp/fs/pages/654",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer/summer-discovery",
+      "status": 200,
+      "bytes": 336426,
+      "sha256": "8db57b5f49036894d921145f08ae1320661500400056af5ee9b0bb75e6639e95",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-discovery.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "canacad-ai",
+      "url": "https://www.canacad.ac.jp/fs/pages/908",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer/inspirit-ai-2026",
+      "status": 200,
+      "bytes": 330425,
+      "sha256": "890bf75be733dda99bd8fd965a08c3eb84d3835184ba7c75918b1dbfdf5da2c3",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-ai.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "canacad-ai-scratch",
+      "url": "https://www.canacad.ac.jp/fs/pages/936",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer/ai-from-scratch",
+      "status": 200,
+      "bytes": 336009,
+      "sha256": "65467bf181d02ad32a24251b704f62cad0c189001b8d98fa10aec6bfafe69032",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-ai-scratch.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "canacad-ib-math",
+      "url": "https://www.canacad.ac.jp/fs/pages/855",
+      "final_url": "https://www.canacad.ac.jp/experiencing/summer/ib-math-mastery",
+      "status": 200,
+      "bytes": 334674,
+      "sha256": "28b1199786049a15ad4cd66de1cc6d978088d92d49b6b0bf06132885acc9cef7",
+      "body_snapshot_retained": true,
+      "raw_filename": "canacad-ib-math.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "graphite-holiday",
+      "url": "https://graphiteacademy.com/holiday-camps-singapore/",
+      "final_url": "https://graphiteacademy.com/holiday-camps-singapore/",
+      "status": 200,
+      "bytes": 336467,
+      "sha256": "b84642beba89f97c147bfbe8708e9f6205be980da1d32fbb499b5a02217fa3c9",
+      "body_snapshot_retained": true,
+      "raw_filename": "graphite-holiday.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-sg-faq",
+      "url": "https://www.codinglab.com.sg/resources/faq",
+      "final_url": "https://www.codinglab.com.sg/resources/faq",
+      "status": 200,
+      "bytes": 594517,
+      "sha256": "1ec562bfed413837fb5a9b617ee6d834af77aac2e929b2595699d2d91a339c61",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-sg-faq.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-winter-2027",
+      "url": "https://thegep.com/product/discovery-camp-2027/",
+      "final_url": "https://thegep.com/product/discovery-camp-2027/",
+      "status": 200,
+      "bytes": 374344,
+      "sha256": "39c9bb36bbae4cc9a79596d7f76d8908e630cdf34dd3d78ce17c260a1849e80a",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-winter-2027.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "rayul-terms",
+      "url": "https://rayul.org/term-dates",
+      "final_url": "https://rayul.org/term-dates",
+      "status": 200,
+      "bytes": 24788,
+      "sha256": "396a3e3f880728ee8ef63143c29d3e547fe51d59ebcd9f48236d7c5440e913f0",
+      "body_snapshot_retained": true,
+      "raw_filename": "rayul-terms.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "rayul-camp",
+      "url": "https://rayul.org/news-post-38",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "rayul-home",
+      "url": "https://rayul.org/",
+      "final_url": "https://rayul.org/",
+      "status": 200,
+      "bytes": 82298,
+      "sha256": "b0b473d352a000e9e7550d8977e006e22821f3598ec90e1f02495772ed10dd87",
+      "body_snapshot_retained": true,
+      "raw_filename": "rayul-home.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-camps",
+      "url": "https://thegep.com/our-camps/",
+      "final_url": "https://thegep.com/our-camps/",
+      "status": 200,
+      "bytes": 202083,
+      "sha256": "a3c5e25cc0bb2d9c927af8a063015ca8de6b1a4e7b43d197e754e2db5be3ecd5",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-camps.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-terms",
+      "url": "https://thegep.com/programme-terms-and-conditions/",
+      "final_url": "https://thegep.com/programme-terms-and-conditions/",
+      "status": 200,
+      "bytes": 100466,
+      "sha256": "44f54cec593350c943767564f292a7ab621a87a01f409ac6c47688ec34b295d8",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-terms.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-ai-list",
+      "url": "https://thegep.com/product-category/camps/ai-entrepreneurship/",
+      "final_url": "https://thegep.com/product-category/camps/ai-entrepreneurship/",
+      "status": 200,
+      "bytes": 133706,
+      "sha256": "b2c3bf4172151e65ed78acfb5274b257236a2ca2471755eb10d09d64d4939cfe",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-ai-list.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-sg-preschool",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-preschool",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-preschool",
+      "status": 200,
+      "bytes": 444014,
+      "sha256": "aa6f665a5cc195c304cf2fa45e0b08760a3e86557c80aa5a5cc106d12bc450bf",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-sg-preschool.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-sg-lower",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-lower-primary",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-lower-primary",
+      "status": 200,
+      "bytes": 555060,
+      "sha256": "f3ee39a61547324c5ee58e7d15667ee67d1a4a2a3b0dd20a0ecd0f33956be600",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-sg-lower.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-sg-upper",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary",
+      "status": 200,
+      "bytes": 626175,
+      "sha256": "aeda31dd5339456bcfe6cbf7226591334941343dc97278a25d84e5c6d71df5d0",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-sg-upper.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tais-2027-reservation",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7TZxcoiMbvJswDqMWWqKq0wHb3vTNoIYiX54tt0OAWqFsNw/viewform?usp=dialog",
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSe7TZxcoiMbvJswDqMWWqKq0wHb3vTNoIYiX54tt0OAWqFsNw/viewform?usp=dialog",
+      "status": 200,
+      "bytes": 124117,
+      "sha256": "56b5a0b2c2bddaf1f9b6054f7e6c4f72995e315502794dd23a706600626f5ff8",
+      "body_snapshot_retained": true,
+      "raw_filename": "tais-2027-reservation.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tyas-camp-details",
+      "url": "https://tinyurl.com/tyassummercamp",
+      "final_url": "https://script.google.com/macros/s/AKfycby4dpkg-fAptgfe2bYNPUqbnR21unH9-WBl9_aP7I2IKwd3kKvanpc_BnnuLkIB4Vg8Ng/exec",
+      "status": 200,
+      "bytes": 1484429,
+      "sha256": "c98f93d6139e82e41b68e794ec8279d751b88e22d7e0ca19b370c47a1f8e98c0",
+      "body_snapshot_retained": true,
+      "raw_filename": "tyas-camp-details.html",
+      "content_scope": "Sólo en JavaScript: título, no se incluye el cuerpo completo del programa"
+    },
+    {
+      "key": "gep-spring-2027",
+      "url": "https://thegep.com/product/spring-discovery-camp-2027/",
+      "final_url": "https://thegep.com/product/spring-discovery-camp-2027/",
+      "status": 200,
+      "bytes": 368460,
+      "sha256": "e0c3b51474b7f92f2f0217fbf70321991aa1f7cb1f5872d00c75ee6652206e48",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-spring-2027.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-wild-minds",
+      "url": "https://thegep.com/product/wild-minds-camp/",
+      "final_url": "https://thegep.com/product/wild-minds-camp/",
+      "status": 200,
+      "bytes": 367903,
+      "sha256": "3ab670264ac1fcf7d28a72552d10046b31f8a98decc7d389cd07749a51e31978",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-wild-minds.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-parent-pdf",
+      "url": "https://thegep.com/wp-content/uploads/2026/05/GEP-2026-Brochure_Full-version.pdf",
+      "final_url": "https://thegep.com/wp-content/uploads/2026/05/GEP-2026-Brochure_Full-version.pdf",
+      "status": 200,
+      "bytes": 3640058,
+      "sha256": "644ed544500ca38f223b8d7313710e281696defaea1b5cf86ed9d44cfda866f6",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-parent-pdf.pdf",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-terms-pdf",
+      "url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf",
+      "final_url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf",
+      "status": 200,
+      "bytes": 188722,
+      "sha256": "8ad56802f669545dd9f95d6e08ebd99a335bcad1016c534567ca05a0d1710224",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-terms-pdf.pdf",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "gep-location",
+      "url": "https://thegep.com/product-category/kuala-lumpur/",
+      "final_url": "https://thegep.com/product-category/kuala-lumpur/",
+      "status": 200,
+      "bytes": 229343,
+      "sha256": "b0df22528a0dd0cfca978ab83c9abdc35f9e7089441c736024b5a9cb13d926a9",
+      "body_snapshot_retained": true,
+      "raw_filename": "gep-location.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tais-summer-school",
+      "url": "https://tais.tw/en/summer-school/",
+      "final_url": "https://tais.tw/en/summer-school/",
+      "status": 200,
+      "bytes": 246988,
+      "sha256": "c849f7a932a0d56ae183d762e0a83a485e71f3ff6f3a15c386bc639aff6a1901",
+      "body_snapshot_retained": true,
+      "raw_filename": "tais-summer-school.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-scratch-1",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-lower-primary/scratch-1-course",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-lower-primary/scratch-1-course",
+      "status": 200,
+      "bytes": 718898,
+      "sha256": "f877e83a189ba65cef4c2b02a9f1a6271c7949e1ac4fc76dd8db4af02a96924a",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-scratch-1.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-app-1",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/app-inventor-1-course",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/app-inventor-1-course",
+      "status": 200,
+      "bytes": 597363,
+      "sha256": "a5e753bbe9bbf13676cd8db7666f0a146b84810902275a9d485ec5a92c7e1306",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-app-1.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-python-1",
+      "url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/python-junior-1-course",
+      "final_url": "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/python-junior-1-course",
+      "status": 200,
+      "bytes": 672548,
+      "sha256": "2312449b7829fb51ec9c02cdf414ef327de721c4d6bfb8ded022ab53ab61ff65",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-python-1.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-minecraft-cup",
+      "url": "https://www.codinglab.com.sg/our-classes/competition-training/minecraft-cup",
+      "final_url": "https://www.codinglab.com.sg/our-classes/competition-training/minecraft-cup",
+      "status": 200,
+      "bytes": 591768,
+      "sha256": "0a721808ec1b49e12d64c7b0e45f630021f75b45abd4c6bd55366a2284c83b1e",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-minecraft-cup.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "codinglab-terms",
+      "url": "https://www.codinglab.com.sg/terms-of-service",
+      "final_url": "https://www.codinglab.com.sg/terms-of-service",
+      "status": 200,
+      "bytes": 229083,
+      "sha256": "e88b2f0d5a1667044ff6042978c21950e725d8eb340bf2150de9fc6fcfc71073",
+      "body_snapshot_retained": true,
+      "raw_filename": "codinglab-terms.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "tais-2027-school-reservation",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSePQhNw3qx9jjEloipMAeIIUlPPaZWY889Bl9iZ2uZt6klXVQ/viewform?usp=dialog",
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSePQhNw3qx9jjEloipMAeIIUlPPaZWY889Bl9iZ2uZt6klXVQ/viewform?usp=dialog",
+      "status": 200,
+      "bytes": 123311,
+      "sha256": "1960387da9694fbfa718576dd21de5db6bb1a940a0edb1134878c8bb5323789d",
+      "body_snapshot_retained": true,
+      "raw_filename": "tais-2027-school-reservation.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "epsom-campus-contact",
+      "url": "https://www.epsomcollege.edu.my/contact-us/",
+      "final_url": "https://www.epsomcollege.edu.my/contact-us/",
+      "status": 200,
+      "bytes": 237532,
+      "sha256": "a824dc3393b27c202e713db1b0f5f95f058fd63a95dbfa98343371ca37c182ac",
+      "body_snapshot_retained": true,
+      "raw_filename": "epsom-campus-contact.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "minecraft-official-2026",
+      "url": "https://minecraftcup.com/pdf/minecraftcup_guidelines_2026.pdf",
+      "final_url": "https://mccup.jp/pdf/minecraftcup_guidelines_2026.pdf",
+      "status": 200,
+      "bytes": 1174915,
+      "sha256": "b1d85b3bc380f7481780b1f43d3c2b16a3793d5aff1bc3571f8dc9f6057cd219",
+      "body_snapshot_retained": true,
+      "raw_filename": "minecraft-official-2026.pdf",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    },
+    {
+      "key": "minecraft-official-flow",
+      "url": "https://minecraftcup.com/flow",
+      "final_url": "https://mccup.jp/flow/",
+      "status": 200,
+      "bytes": 49528,
+      "sha256": "2cdc35aab2537661d1d0c600905755936ad8a4d63343441ff97cf424783eeea3",
+      "body_snapshot_retained": true,
+      "raw_filename": "minecraft-official-flow.html",
+      "content_scope": "Se conservan las imágenes de HTML/PDF primarias; profundidad de lectura y límites del programa especificados en la auditoría"
+    }
+  ],
+  "image_sources": [
+    {
+      "url": "https://tais.tw/wp-content/uploads/2026/04/SummerCamp004.jpg",
+      "file": "tais-camp-004.jpg",
+      "bytes": 141694,
+      "sha256": "b49d737744a38d0d313d6ca17214f7a74e48b357a6df31ebfd2bb51668ec2007",
+      "status": 200,
+      "content_scope": "Fotografías escolares inspeccionadas visualmente; no pruebas de programa/fecha/precio"
+    },
+    {
+      "url": "https://tais.tw/wp-content/uploads/2026/04/SummerCamp003.jpg",
+      "file": "tais-camp-003.jpg",
+      "bytes": 152974,
+      "sha256": "be13cba7ded41e01e6157596631024f0a252fd960192850f13affd90b55d46a5",
+      "status": 200,
+      "content_scope": "Fotografías escolares inspeccionadas visualmente; no pruebas de programa/fecha/precio"
+    },
+    {
+      "url": "https://tais.tw/wp-content/uploads/2026/04/SummerCamp005.jpg",
+      "file": "tais-camp-005.jpg",
+      "bytes": 148473,
+      "sha256": "fb161553b0ca4ad95de45c1cdcb2202e2dc8eb81568034b0cb5fa568dc058afb",
+      "status": 200,
+      "content_scope": "Fotografías escolares inspeccionadas visualmente; no pruebas de programa/fecha/precio"
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf",
+      "page": 3,
+      "method": "Contrato de mayo de 2026.: el padre en el extranjero requiere una custodia local de 3 horas; servicio condicional RM800/día; crédito por fuerza mayor en lugar de reembolso en efectivo.",
+      "render_sha256": "cac9a1c8a875cb83f73a1e695b8ad443034ea15a1c3d1193097aa3a2a449fe0d",
+      "render_bytes": 262585
+    },
+    {
+      "url": "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf",
+      "page": 7,
+      "method": "Cuto de cancelación de más de 60 días hábiles, cargo de RM1000, crédito condicional posterior; términos de vuelo separados.",
+      "render_sha256": "2990b0818774c6f80db69122a18926e8d8dd79c1bab08c01ed7f75dff1440f99",
+      "render_bytes": 279852
+    },
+    {
+      "url": "https://mccup.jp/pdf/minecraftcup_guidelines_2026.pdf",
+      "page": 1,
+      "method": "Leído visualmente oficial8thCup organizador y límite de edad1Apr2027, Junior incluye preescolar/1–40members. Cutoff de proveedores de formación1Apr2026 no copiado en la elegibilidad oficial.",
+      "render_sha256": "35287302d8a531a11f72771395ebfd04aa3146f3b40e741c0cc979fbbdf2680d",
+      "render_bytes": 270672
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://docs.google.com/forms/d/e/1FAIpQLSe7TZxcoiMbvJswDqMWWqKq0wHb3vTNoIYiX54tt0OAWqFsNw/viewform?usp=dialog",
+    "https://docs.google.com/forms/d/e/1FAIpQLSePQhNw3qx9jjEloipMAeIIUlPPaZWY889Bl9iZ2uZt6klXVQ/viewform?usp=dialog",
+    "https://graphiteacademy.com/holiday-camps-singapore/",
+    "https://tais.tw/en/summer-camp/",
+    "https://tais.tw/en/summer-school/",
+    "https://thegep.com/product/discovery-camp-2027/",
+    "https://thegep.com/product/spring-discovery-camp-2027/",
+    "https://thegep.com/product/wild-minds-camp/",
+    "https://thegep.com/wp-content/uploads/2026/05/01-EN_May-2026-GEP-Terms-and-Conditions.pdf",
+    "https://www.canacad.ac.jp/experiencing/summer",
+    "https://www.canacad.ac.jp/experiencing/summer/ai-from-scratch",
+    "https://www.canacad.ac.jp/experiencing/summer/ib-math-mastery",
+    "https://www.canacad.ac.jp/experiencing/summer/inspirit-ai-2026",
+    "https://www.canacad.ac.jp/experiencing/summer/summer-discovery",
+    "https://www.canacad.ac.jp/experiencing/summer/summer-experience",
+    "https://www.codinglab.com.sg/our-classes/singapore-lower-primary/scratch-1-course",
+    "https://www.codinglab.com.sg/our-classes/singapore-preschool",
+    "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/app-inventor-1-course",
+    "https://www.codinglab.com.sg/our-classes/singapore-upper-primary/python-junior-1-course",
+    "https://www.codinglab.com.sg/resources/faq",
+    "https://www.codinglab.com.sg/terms-of-service",
+    "https://www.epsomcollege.edu.my/contact-us/"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "Las páginas de HTML/PDF/fotografías/retransmitidas de los proveedores permanecen fuera de la caja pública; solo los hechos/provenientes/errores parafraseados públicos.",
+    "Formularios públicos sólo de lectura;no se pueden realizar solicitudes/reservas/pagos/mensajes/subscripciones/automatización.",
+    "Precio/fecha publicado no garantizadoPlace/admisión/factura completa o clasificación global; objetivo activo en todo el mundo."
+  ]
+}

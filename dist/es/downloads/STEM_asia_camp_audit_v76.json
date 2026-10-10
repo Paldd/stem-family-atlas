@@ -1,0 +1,132 @@
+{
+  "asof": "2026-10-05",
+  "version": 76,
+  "status": "progress",
+  "scope": "Pases de programa de Taiwán/Singapur/Japón/Corea; Europa, América del Norte, Costa Rica/México/LATAM y todos los bloques de todo el mundo retenidos",
+  "new_dossiers": 25,
+  "updated_dossiers": [],
+  "corrected_legacy_event_ids": [
+    "L143"
+  ],
+  "new_calendar_rows": 67,
+  "new_family_ics": 52,
+  "programme_dossiers": 347,
+  "countries_with_dossiers": 32,
+  "swiss_dossiers": 53,
+  "french_dossiers": 33,
+  "spanish_dossiers": 27,
+  "taiwan_dossiers": 21,
+  "singapore_dossiers": 45,
+  "japan_dossiers": 14,
+  "korea_dossiers": 7,
+  "official_dossier_urls": 532,
+  "programme_slugs": [
+    "empire-kubo",
+    "empire-scratch",
+    "empire-minecraft",
+    "empire-procreate",
+    "empire-roblox",
+    "empire-alvik",
+    "empire-unity",
+    "empire-ml",
+    "empire-prompts",
+    "empire-3d",
+    "empire-post-psle",
+    "lab-ai-young",
+    "lab-ai-mario",
+    "grove-flight",
+    "brown-ai-scientist",
+    "irobo-frozen",
+    "wenzao-drama",
+    "wenzao-languages",
+    "asij-chofu",
+    "asij-roppongi",
+    "aoba-hikarigaoka",
+    "aoba-meguro",
+    "raim-junk",
+    "raim-octo",
+    "raim-ari"
+  ],
+  "findings": [
+    {
+      "country": "Singapur",
+      "iso": "SGP",
+      "provider": "v76: Empire  producto, edad y gasto total",
+      "detail": "nueva página pública: diez cursos, cinco semanas antes de 8 enero 2027, en línea EN y la moneda SGD en su propio JSON-LD. ventana común 23 de noviembre–8 enero no es un cambio continuo. el viejo year-end URL ¿Qué es eso? Pokémon 2025. Post-PSLE — otro producto de tres días; El precio temprano se acabó. 4 de octubre. muestra del proyecto y certificado de enseñanza no es victoria internacional.",
+      "next_action": "tiempo y campus, edad anterior o posterior a los 7 y 10 años, dispositivos y cuentas infantiles, impuestos, vigilancia entre cursos, compatibilidad de los descuentos y la cuenta final.",
+      "url": "https://empirecode.co/december-holiday-camps-singapore/"
+    },
+    {
+      "country": "Singapur",
+      "iso": "SGP",
+      "provider": "v76: The Lab  proyecto de IA separado",
+      "detail": "dos proyectos 5–7 / 8–10 años: Scratch y Teachable Machine, cuatro/las nueve de la mañana.. de la Unión Europea $230/390, a los estudiantes $210/370; ISO de las monedas y GST no se han establecido. Los niños externos están autorizados ., lenguaje de enseñanza desconocido. en fechas Mario ¿Qué hay? Jurong 2–4 diciembre, pero la lista de las plataformas lo excluye.; No se ha añadido la opción controvertida.",
+      "next_action": "Confirmar la moneda, EN, Jurong, dispositivos, consentimiento parental para los servicios y cancelación; el precio de la membresía no es el precio de la familia externa.",
+      "url": "https://www.thelab.sg/the-lab-program/holiday-camp-for-ages-8-10/"
+    },
+    {
+      "country": "Taiwán",
+      "iso": "TWN",
+      "provider": "v76: clases, lenguas y tarifas tempranas",
+      "detail": "Grove requiere una escuela primaria sin un mínimo numérico; inglés de la base, ayuda china. el precio de la tarifa temprana por la solicitud 16 de octubre, el pago no es una condición. L143 se ha vuelto a conectar. Brown G1–G3: El programa bilingüe no prueba el curso de inglés.. Wenzao: teatro A2 en su totalidad EN, English × Japanese A1 — las lecciones individuales. iROBO Grades 3–9: no se conoce el idioma, dos frases de Apple/iOS que se contradicen entre sí..",
+      "next_action": "clases y fechas de nacimiento, una cita extranjera, participación sin chino, dispositivos, alimentación, edad temprana Brown y contrato completo.",
+      "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/"
+    },
+    {
+      "country": "Japón",
+      "iso": "JPN",
+      "provider": "v76: archivo, clase japonesa y tarifa externa",
+      "detail": "La vieja ventana COVID 2021 en el ASIJ No es una nueva cancelación. tabla 2026 Se ha pasado., 2027 No , no .. Chofu JPY 92/126 miles de personas — diferentes paquetes, Roppongi 86 miles de personas + 6 miles por el almuerzo. Aoba de la Unión Europea 120 miles de personas + 11 miles de registros; de los pagos adicionales Hikarigaoka no se transfieren a Meguro. Meguro-la página cierra la recepción externa, PDF permite el uso de. Fotografía 2024/25 No es una nueva robótica..",
+      "next_action": "Documento de 2027, clase japonesa para el 2 de abril, tarifa extranjera y recepción externa, gasto total en comida, autobús, vigilancia y cancelación.",
+      "url": "https://japaninternationalschool.com/jp/extensions-programs/summer-school"
+    },
+    {
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "provider": "v76: RAIM y el Instituto de Ciencias de Seúl  admisión",
+      "detail": "RAIM: tres cursos de ingeniería junior Grades 1–3 en el 2026, KRW 40/60 miles por cuatro clases; 2027 y EN No se han anunciado. Seoul Science Institute sólo acepta a los estudiantes Seoul Education Office Grades 4–6 / Middle 1. la página abierta no prueba la aceptación internacional. universidades y mayores K-culture-programas no campamento infantil 6–10 años.",
+      "next_action": "buscar nuevos programas de Corea con permiso en inglés y en el extranjero para 6–10. comprobar las clases y las reglas reales; RAIM Mientras que la posibilidad local con un idioma desconocido.",
+      "url": "https://ssei.sen.go.kr/fus/MI000000000000000302/program/CD00000415/list0010v.do"
+    }
+  ],
+  "calendar": {
+    "events": 2550,
+    "learning_records": 1219,
+    "family_ics": 1857,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 756,
+    "reused_legacy_events": 65,
+    "season_windows": 18
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Otras regiones de Europa / EE.UU. / Canadá / Costa Rica / México / LATAM; contratos fechados en 2027, ubicaciones exactas, instrucciones reales de EN/ES/RU y cotizaciones familiares completas",
+  "validation": [
+    "Todos los demás 322 Dossiers anteriores y identidades estable sin cambios; todos 2482 otros eventos anteriores sin cambios; El143 recibe una calificación directamente publicada, dirección y temprano-condiciones arancelarias sin cambios de fecha",
+    "25 nuevos expedientes de programas en Taiwán/Singapur/Japón/Corea; los números son programas, no 25 operadores o clasificaciones independientes",
+    "La nueva página primaria de Empire indica directamente que el inglés es medio, diez cursos con banda de edad y cinco semanas de lunes a viernes; propio JSON-LD confirma SGD; 12.5h curso único frente a dos cursos día completo y alquiler de dispositivos mantenidos separados",
+    "Octubre Post-PSLE es un producto separado de tres días; 4 de octubre expiró antes de la fecha de entrada en el mercado; no se conoce la admisión en el extranjero y la instrucción en inglés en el ámbito de la PSLE; se utilizan tarifas regulares",
+    "Los dos proyectos de IA del laboratorio tienen precios no miembros y fechas concretas de noviembre/diciembre de 2026; 4h frente a las 9h; inglés/moneda/GST desconocido; Jurong disputado excluido del calendario exacto",
+    "Grove L143 reutilizado una vez; grado primario y precio anticipado actualizado basado en la presentación; no se requiere pago/depósito para el precio anticipada; drama Wenzao todo en inglés versus clases de idiomas separadas",
+    "Brown Grade1-3 puerta superior y vitrina bilingüe frente a instrucciones no confirmadas; iROBO Grade3-9, tres variantes de fecha/campus, portátil suministrado, asesoramiento de dispositivos iOS conflictivo",
+    "ASIJ/Aoba verano2026 y museo KRW2026 precios permanecen en archivo sin nuevos eventos2027; reglas de grado japonés/tarifas extranjeras/conflito de Meguro y puertas de grado museo elemental visibles",
+    "Aoba posee PDF2026 texto leído y tabla de precios inspeccionada visualmente; 120000+11000 cuota externa por primera vez, comida/autobús/después de la escuela opcional mantenida separada; no2024 robótica transferida",
+    "El Instituto de Ciencias de Seúl, la Oficina de Educación Local Grado 4-6/Middle1 restricción impide tratarlo como un campo internacional abierto de jóvenes",
+    "67 nuevas filas de calendario; 52 nuevas entradas de ICS de familia, 15 filas excluidas de cursos para adolescentes de ambos lados; se conservan todos los 1805 pares anteriores de UID/fechas y 104 exhibiciones ICS",
+    "Canonical/public JSON, SQLite integrity/foreignkeys, bridge idempotence; 67 escenarios familiares,32 países del expediente,0 completamente auditados; objetivo mundial ACTIVE",
+    "La interfaz local nativa muestra 347 expedientes de programas en 32 países y 532 URLs oficiales de expedientes",
+    "Nuevo escenario de invierno de Singapur 63 abre cuatro opciones de programa para las dos edades de los niños",
+    "Empero búsqueda devuelve 11 expedientes; filtro EN directamente confirmado devuelve 10 y excluye el programa no confirmado Post-PSLE",
+    "El brown más el EN confirmado devuelve cero; el grove más el EN confirmado devuelve exactamente un expediente",
+    "Retorno de WebMCP L143 de lectura única 25-29 de enero2027, puerta elemental, instrucción en inglés y tarifa anticipada basada en la presentación sin pago/depósito requerido",
+    "Comparar CP323 y CP325 muestra dos bandas de edad, tarifas de dispositivos separadas, fechas actuales2026/27 y condiciones distintas de Matvey/Oscar; una comparación clara restablece visiblemente ambas casillas de verificación",
+    "El registro de error de la consola de navegador nativo está vacío; capturas de pantalla de comparación visual guardadas fuera del árbol de fuente pública"
+  ]
+}

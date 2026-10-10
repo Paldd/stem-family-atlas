@@ -1,0 +1,204 @@
+{
+  "asof": "2026-10-05",
+  "version": 70,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "scope": "Suiza 2027 embarque técnico mixto, campamentos de día para jóvenes, diciembre2026 y Pascua2027; futuros circuitos científicos de Lausana; circuitos de ciencia/día creativa en inglés en el ISB Bruselas.",
+  "counts": {
+    "new_programme_dossiers": 16,
+    "new_calendar_rows": 17,
+    "new_family_ics": 15,
+    "total_events": 2338,
+    "learning_camp_records": 1007,
+    "total_programme_dossiers": 258,
+    "countries_with_dossiers": 30,
+    "swiss_dossiers": 49,
+    "french_dossiers": 23,
+    "spanish_dossiers": 19,
+    "official_dossier_urls": 426,
+    "managed_calendar_rows": 544,
+    "season_windows": 17,
+    "family_ical": 1660,
+    "exhibition_ical": 104
+  },
+  "counting": "Dossiers específicos de programa/edad/format, no operadores únicos o una tabla de liga global. Tres grupos de edad de verano de Haut-Lac y dos cursos de Lémania tienen ventanas de temporada solo, sin estancias semanales inventadas. Diecisiete registros con fecha exacta; quince adiciones de ICS familiares.",
+  "new_dossiers": [
+    {
+      "id": "CP243",
+      "slug": "haut-lac-boarding",
+      "provider": "Haut-Lac · Summer Residential Camp",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP244",
+      "slug": "haut-lac-day-junior",
+      "provider": "Haut-Lac · Summer Day · Junior",
+      "country": "Suiza",
+      "timing_status": "partial_2027",
+      "precision": "season_window",
+      "price_year": 2026
+    },
+    {
+      "id": "CP245",
+      "slug": "haut-lac-day-multi",
+      "provider": "Haut-Lac · Summer Day · Multi-Activity",
+      "country": "Suiza",
+      "timing_status": "partial_2027",
+      "precision": "season_window",
+      "price_year": 2026
+    },
+    {
+      "id": "CP246",
+      "slug": "haut-lac-day-teen",
+      "provider": "Haut-Lac · Summer Day · Teen",
+      "country": "Suiza",
+      "timing_status": "partial_2027",
+      "precision": "season_window",
+      "price_year": 2026
+    },
+    {
+      "id": "CP247",
+      "slug": "haut-lac-theatre",
+      "provider": "Haut-Lac · Creative Musical Theatre",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP248",
+      "slug": "haut-lac-storybook",
+      "provider": "Haut-Lac · Storybook Emotions",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP249",
+      "slug": "haut-lac-winter-junior",
+      "provider": "Haut-Lac · Junior Winter Camp",
+      "country": "Suiza",
+      "timing_status": "published_2026",
+      "precision": "published_sessions",
+      "price_year": 2026
+    },
+    {
+      "id": "CP250",
+      "slug": "haut-lac-winter-ski",
+      "provider": "Haut-Lac · Winter Ski Day Camp",
+      "country": "Suiza",
+      "timing_status": "published_2026",
+      "precision": "published_sessions",
+      "price_year": 2026
+    },
+    {
+      "id": "CP251",
+      "slug": "haut-lac-easter-junior",
+      "provider": "Haut-Lac · Easter Day · Junior",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP252",
+      "slug": "haut-lac-easter-multi",
+      "provider": "Haut-Lac · Easter Day · Multi-Activity",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP253",
+      "slug": "haut-lac-easter-teen",
+      "provider": "Haut-Lac · Easter Day · Teen",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP254",
+      "slug": "hif-summer-2027",
+      "provider": "Hochalpines Institut Ftan · Summer Camp",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "published_sessions",
+      "price_year": 2027
+    },
+    {
+      "id": "CP255",
+      "slug": "lemania-fun-science",
+      "provider": "Lémania · FunScience",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "season_window",
+      "price_year": 2027
+    },
+    {
+      "id": "CP256",
+      "slug": "lemania-science-prep",
+      "provider": "Lémania · Science Prep",
+      "country": "Suiza",
+      "timing_status": "published_2027",
+      "precision": "season_window",
+      "price_year": 2027
+    },
+    {
+      "id": "CP257",
+      "slug": "cll-isb-discoverers",
+      "provider": "CLL at International School of Brussels · Discoverers",
+      "country": "Bélgica",
+      "timing_status": "next_unannounced",
+      "precision": "published_sessions",
+      "price_year": null
+    },
+    {
+      "id": "CP258",
+      "slug": "cll-isb-explorers",
+      "provider": "CLL at International School of Brussels · Explorers",
+      "country": "Bélgica",
+      "timing_status": "next_unannounced",
+      "precision": "published_sessions",
+      "price_year": null
+    }
+  ],
+  "preservation": {
+    "baseline_commit": "df8870a07dd8e7f2cd3ff7b7f62543e06216312d",
+    "prior_events": 2321,
+    "prior_programme_dossiers": 242,
+    "competitions_leagues_schools_history_routes": "verified unchanged",
+    "prior_family_ics_uids_and_dates": "verified unchanged",
+    "verified": true
+  },
+  "critical_distinctions": [
+    "HIF edad 10 en julio 3/17, 14 días/13 noches, inglés; D4AI/coding/robotics y D9tech ilustrados no demuestran 14 días de robótica o horas técnicas exactas.",
+    "Alto-Embarcación en el lago8–15 en comparación con el día más joven4–7; Los dos hermanos necesitan diferentes vías.. Semanas de día de verano ordinarias todavía2025; PDF2025–26 y especialista2026 no se facturan como2027.",
+    "Días llenos de teatro frente a la tarde de Storybook-sólo. Junior de Invierno4–7 contra el esquí7–15/16 con capacidad previa; Tarifa de esquí850/780 los conflictos con750/665. EN de instructor de esquí no probado.",
+    "Mar de Pascua30–Apr2 cuatro días y abril5–9 cinco días; Tarifa semanal estándar sin proporción. Edad de adolescente12+ excluidos de las SCI de la familia. IB2revision final-IB curso excluido de los campamentos más jóvenes.",
+    "Elémania Escuela de Ciencias divertidas12–19 en comparación con FAQ de estancia15–19; Preparación de Ciencias16–19. Las chicas-Sólo habitaciones de confort no disponibles para niños;16.5h es un idioma compartido/presupuesto de ciencia.",
+    "Campo de CLL6–9 /10–12 Se diferencia de las etiquetas de edad durante todo el año. Tarjetas de la ISB299EUR sin fecha, nuevo2027 ingesta no confirmada; búsqueda vinculada muestra no sólo elementos correspondientes, No cierre de todos los campos."
+  ],
+  "remaining": [
+    "Todos los países prioritarios solicitados y el inventario mundial siguen siendo activos;0fully países auditados.",
+    "Admisión/lugares reales, admisión en el extranjero, cumpleaños/clases, entradas y coordenadas precisas del campus, términos actuales y facturas familiares completas.",
+    "Los resultados de las escuelas/equipo independientes, los concursos locales/globales y las exposiciones continúan por separado."
+  ],
+  "validation": {
+    "database": "passed",
+    "bridge": "idempotent",
+    "local_browser": "passed",
+    "responsive_widths": [
+      1280,
+      390,
+      320
+    ],
+    "console_errors": 0,
+    "native_publication": "follows"
+  }
+}

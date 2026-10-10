@@ -1,0 +1,574 @@
+{
+  "version": 51,
+  "checked": "2026-10-02",
+  "status": "partial",
+  "region_key": "east_asia_focus",
+  "title": "Japón / chino / taiwan · escuelas, campamentos, inglés y competiciones",
+  "region_label": "Asia oriental · dos hijos, tres países",
+  "heading": "escuela, equipo y lenguaje. Un camino para cada uno.",
+  "family": "Matvey (2017) y Oscar (2020): ahora tienen 9 y 6 años, en 2027 cumplen 10 y 7. ambos pueden estudiar en inglés y español; tienen tres años de experiencia en robótica.",
+  "conclusion": "Mi evaluación para la familia: primero probar Taiwán como base permanente, Japón  para un programa de ingeniería en inglés y comparación de escuelas; China  después de revisar un equipo de inglés junior específico y el balance de la lengua china. Ahora prefiero la escuela diurna para ambos con la familia a la vez.",
+  "limitations": "el paso parcial y profundo de los tres países. No hay una lista completa de todas las escuelas asiáticas / de los campos o 5–10-de la clasificación de verano. School English, camp English, coach English, lugar y foreign quota se compruebe por separado. la investigación global continúa; de las solicitudes, No se enviaron mensajes a las escuelas y pagos.",
+  "family_picks_heading": "las mejores siguientes pruebas para su familia",
+  "family_picks_note": "la elección de la edad, el idioma documentalmente confirmado y la utilidad de la prueba; un programa conocido no significa un puesto libre.",
+  "countries": [
+    {
+      "name": "Taiwán",
+      "iso": "TWN",
+      "verdict": "primera base familiar para la verificación",
+      "reason": "comparar TAS, AST y el primer nivel británico TES. primero comprobar los puestos de ambos niños, el entrenador junior en ejercicio y los roles de ingeniero independiente.",
+      "mat": "CCM English-led9–11; después de 3 años de experiencia para evaluar la dificultad. AST Worlds2023 ¿Qué es eso? G5–12 — la selección menor no está establecida.",
+      "osc": "El día elementary / ESM4–6 de la EN apoyo; Kindergarten/G1 se determina cutoff, No sólo 2020.",
+      "camp": "Expedition27 — English STEAM8–12, Oscar por debajo de la orientación. Grove EN+ZH engineering age unknown. TYPA robotics camp technical EN Hasta que se confirme.",
+      "school": "TAS,S003; AST,S020; TES BPS,S061. Morrison dorm sólo highschool+prior year. Linkou primaria no es igual a Xiugang.",
+      "city_route": "Taipei/Beitou para la prueba; Taichung si el coach/AST realmente se adapta a ambos.",
+      "event_ids": [
+        "L142",
+        "L143",
+        "L144",
+        "L146",
+        "L459",
+        "L460",
+        "L461",
+        "C027",
+        "C033",
+        "C034",
+        "C035",
+        "C356",
+        "C778",
+        "C870"
+      ],
+      "profile_ids": [
+        "vex",
+        "first",
+        "marc"
+      ],
+      "school_ids": [
+        "S003",
+        "S020",
+        "S061",
+        "S060",
+        "S062"
+      ],
+      "risk": "Antes de elegir la base, confirme la clase, el lugar de ambos, la lengua de las clases técnicas, el entrenador y la admisión de la familia extranjera.",
+      "budget": "AST: publicado elementary tuitionNTD249500/semester sin año; tarifas adicionales / apoyo por separado.",
+      "results_check": "TAS/AST tiene resultados históricos separados; no se establecen el equipo primario actual ni la admisión personal."
+    },
+    {
+      "name": "Japón",
+      "iso": "JPN",
+      "verdict": "La prueba más concreta de inglés corto",
+      "reason": "Hay Semanas de Inglés TCC y Campamento de Invierno Harrow. ASIJ y CAJ  candidatos para la escuela diurna. en las ligas nacionales se comprueba por separado la clase de la escuela y el equipo local.",
+      "mat": "TCC5–12 Ahora mismo.; Harrow Winter9–13 en el caso de birthday. Future8+ posible en el Grade3; Challenge de menos de una edad 9.",
+      "osc": "TCC5–12; ASIJ Summer Sólo que Grade1–6. Harrow Winter y permanent school No se adaptan ahora..",
+      "camp": "TCC Fall12–16 /19–23Oct; Winter14–18 /19–23Dec. Robotics content de la semana elegida para acordar. Harrow13–19Dec sólo incluye 5 días de estudio.",
+      "school": "ASIJ — English day/ESmakerspace; CAJ — English Christian day. su mayor VEX no es igual junior lugar. Harrow permanent11–18.",
+      "city_route": "Programa de día de Tokio/Chofu; Appi por separado sólo Matvey si la familia acepta programas diferentes.",
+      "event_ids": [
+        "L198",
+        "L199",
+        "L200",
+        "L201",
+        "L202",
+        "L454",
+        "C1134",
+        "C1138",
+        "C1142",
+        "C1144",
+        "C537"
+      ],
+      "profile_ids": [
+        "first-japan-junior",
+        "vex-japan-junior"
+      ],
+      "school_ids": [
+        "S053",
+        "S054",
+        "S055"
+      ],
+      "risk": "Antes de elegir la base, confirme la clase, el lugar de ambos, la lengua de las clases técnicas, el entrenador y la admisión de la familia extranjera.",
+      "budget": "TCC129000JPY+tax/5days; Harrow winter440000JPY por uno. ASIJ2026 general92000 / international126000 por 5days.",
+      "results_check": "CAJ:10 consecutive Worlds qualification  school claim sin protocolos anuales."
+    },
+    {
+      "name": "China",
+      "iso": "CHN",
+      "verdict": "industria y equipo escolar después de la verificación lingüística",
+      "reason": "comparar el IB de inglés en Shenzhen, el programa de inglés en Beijing y la escuela bilingüe en Shanghai. La gran cantidad de torneos VEX por sí solo no confirma la entrada extranjera libre.",
+      "mat": "SWIS PYP / coach concreto; YK Pao requiere readiness china. Hengqin boarding8+ por edad puede ser, junior robotics strength no está establecido.",
+      "osc": "English primary el camino SWIS/ISB comprobar, general EN CREST5–10 el candidato; Hengqin boarding8+ No lo estoy haciendo ahora..",
+      "camp": "Tongxiang VEXG4–12 day/boarding: EN no está establecido. Beijing VEX8–13 age/class gate; English CREST5–10 por separado. Todo el mundo summer2026 - ¿Qué pasa?;2027 no se conocen las fechas.",
+      "school": "SWIS EN PYP day; ISB English-medium / Dual Language elección; YK Pao bilingual primary; Harrow Hengqin bilingual junior boarding8+.",
+      "city_route": "Shenzhen/Nanshan antes de los demás: una visita escolar+mentor+industrial después de la verificación.",
+      "event_ids": [
+        "C285",
+        "C419",
+        "C577",
+        "L455",
+        "L456",
+        "L457",
+        "L458",
+        "L462",
+        "L463"
+      ],
+      "profile_ids": [
+        "china-junior-school-route",
+        "vex",
+        "first"
+      ],
+      "school_ids": [
+        "S056",
+        "S057",
+        "S058",
+        "S059"
+      ],
+      "risk": "Antes de elegir la base, confirme la clase, el lugar de ambos, la lengua de las clases técnicas, el entrenador y la admisión de la familia extranjera.",
+      "budget": "Hengqin2026/27 G1+G3 tuition534000RMB/year antes del descuento de hermanos y extras. posibles 5% para el segundo hijo: G1discount12800, total 521200. es un ejemplo de clases, no se ha asignado placement; boarding sólo para el mayor +100000.",
+      "results_check": "YK Pao: premios junior 2023 y East China VIQ Elementary 2025, según los mensajes de la escuela; no títulos mundiales."
+    }
+  ],
+  "family_picks": [
+    {
+      "kind": "camp",
+      "country": "Japón",
+      "title": "TCC ahora, ASIJ después de anunciar el nuevo turno.",
+      "why": "TCC publica su edad 5–12. en el ASIJ todas las actividades en inglés, la robótica entra en el programa general 1–6 de las clases. Es una prueba de aprendizaje y adaptación al hogar..",
+      "gate": "proyecto de un robot de una semana concreta TCC ¿Qué es esto?. ASIJ No se anunció el cambio 2027; Oscar para comprobar la conformidad con la primera clase.",
+      "event_ids": [
+        "L198",
+        "L199",
+        "L200",
+        "L201",
+        "L454"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://sdc.asij.ac.jp/sdc-at-chofu"
+      ]
+    },
+    {
+      "kind": "camp",
+      "country": "Japón",
+      "title": "Matvey: Harrow de invierno, micro:bit y esquí",
+      "why": "13–19 diciembre 2026: campamento inglés con residencia para 9–13 años, cinco días de estudio. proyecto de ingeniería combinado con las esquias.",
+      "gate": "Oscar es menor de edad. El campamento no confirma la admisión a la escuela permanente desde los 11 años; el lugar y la preparación del niño se comprueban por separado.",
+      "event_ids": [
+        "L202"
+      ],
+      "school_ids": [
+        "S055"
+      ],
+      "source_urls": [
+        "https://winter.harrowappi.jp/",
+        "https://www.harrowappi.jp/admissions/admissions-faqs/"
+      ]
+    },
+    {
+      "kind": "league",
+      "country": "Japón",
+      "title": "FIRST Japan con un traductor acordado",
+      "why": "Explore puede ser considerado para ambos después de la prueba de clase. Matvey también es Future 8+ o Challenge según las reglas escolares japonesas.",
+      "gate": "comprobar la clase escolar para el 2 de abril de 2026, la conformidad de la escuela internacional, el ingreso extranjero y el permiso para el traductor japonés.",
+      "event_ids": [
+        "C1134",
+        "C1138",
+        "C1144"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://firstjapan.jp/events/fll-explore-2026-2027/",
+        "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+        "https://firstjapan.jp/events/fll-future-edition-8/"
+      ]
+    },
+    {
+      "kind": "school",
+      "country": "Taiwán",
+      "title": "TAS / AST / TES: escuela y entrevista con el entrenador menor",
+      "why": "TAS y AST tienen algunos resultados históricos que no demuestran su lugar en el equipo actual.",
+      "gate": "Confirmar el grado, el campus, las plazas de ambos y el entrenador técnico de inglés. En TES el primer semestre está cerrado, las solicitudes para el segundo se tratan sin garantía de plaza.",
+      "event_ids": [],
+      "school_ids": [
+        "S003",
+        "S020",
+        "S061"
+      ],
+      "source_urls": [
+        "https://www.tes.tp.edu.tw/admissions/apply",
+        "https://www.tes.tp.edu.tw/student-life/co-curricular-activities"
+      ]
+    },
+    {
+      "kind": "camp",
+      "country": "Taiwán",
+      "title": "Taipei: CCM ensayo de inglés en robótica",
+      "why": "El operador escribe directamente sobre la enseñanza de inglés: Ocho misiones WeDo, 32 de las clases. se puede evaluar al mentor en la prueba.",
+      "gate": "Por lo general 9–11 años y preparación de tercer grado. Matvey curso puede ser simple después de su experiencia; Oscar no se ha prometido una excepción. Es un curso regular..",
+      "event_ids": [
+        "L460",
+        "L459",
+        "L461"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://steamsquad.io/en/courses/computer-controlled-machines",
+        "https://steamsquad.io/en/courses/k3-esm"
+      ]
+    },
+    {
+      "kind": "school",
+      "country": "China",
+      "title": "SWIS en Shenzhen y ISB en Beijing: programa en inglés",
+      "why": "en SWIS el PYP de inglés está confirmado por el registro IB. en ISB se puede elegir el programa de inglés por separado del bilingüe.",
+      "gate": "Los criterios actuales de SWIS no se han cargado por completo. El centro de robótica ISB para medianos y mayores no prueba el acceso de los menores o las victorias mundiales.",
+      "event_ids": [],
+      "school_ids": [
+        "S056",
+        "S057"
+      ],
+      "source_urls": [
+        "https://ibo.org/en/school/050023",
+        "https://www.isb.cn/admissions/application-process/admissions-criteria-policies",
+        "https://www.isb.cn/about/campus-map"
+      ]
+    },
+    {
+      "kind": "camp",
+      "country": "China",
+      "title": "Tongxiang: campamento VEX de día o con vivienda",
+      "why": "se publicó el campo para 4–12 clases con recepción externa: Reglas de la competencia, la elaboración y los fundamentos de la programación. el paquete diario y el pensión tienen diferentes precios.",
+      "gate": "2026 ya pasó, 2027 no se ha anunciado. Inglés técnico no confirmado; Oscar por debajo del nivel escolar indicado.",
+      "event_ids": [
+        "L455"
+      ],
+      "school_ids": [],
+      "source_urls": [
+        "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme"
+      ]
+    },
+    {
+      "kind": "school",
+      "country": "China",
+      "title": "Hengqin: el más antiguo pensamiento confirmado en esta muestra",
+      "why": "pensión menor 8–11 años. se han comprobado los tarifas 2026/27 para el aprendizaje, alojamiento y descuento para el segundo hijo.",
+      "gate": "Matvey es candidato por edad, Oscar por lo menos por menor. La escuela es bilingüe; el equipo de junior en funcionamiento y la lengua del entrenador aún deben confirmarse.",
+      "event_ids": [],
+      "school_ids": [
+        "S059"
+      ],
+      "source_urls": [
+        "https://www.harrowzhuhai.cn/holistic-education/pastoral-boarding/boarding/",
+        "https://www.harrowzhuhai.cn/wp-content/uploads/2026/03/Harrow-Lide-School-Hengqin-School-Fees-Standard-and-Discount-Policy-for-2026-27.pdf"
+      ]
+    }
+  ],
+  "probe_scenarios": [
+    {
+      "id": "season",
+      "label": "Las vacaciones juntos.",
+      "intro": "para un viaje corto, primero elijan un turno de inglés específico y una edad adecuada. Después de tres años de experiencia, los niños tienen que tener en cuenta la complejidad del proyecto, no solo la palabra STEM.",
+      "countries": [
+        {
+          "iso": "TWN",
+          "verdict": "Taipei: curso separado; campo para el menor más acertado",
+          "reason": "comparar TAS, AST y el primer nivel británico TES. primero comprobar los puestos de ambos niños, el entrenador junior en ejercicio y los roles de ingeniero independiente.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L142",
+            "L143",
+            "L459",
+            "L460"
+          ],
+          "school_ids": []
+        },
+        {
+          "iso": "JPN",
+          "verdict": "en el centro de la ciudad: programas de inglés para 5–12 años",
+          "reason": "Hay Semanas de Inglés TCC y Campamento de Invierno Harrow. ASIJ y CAJ  candidatos para la escuela diurna. en las ligas nacionales se comprueba por separado la clase de la escuela y el equipo local.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L198",
+            "L199",
+            "L200",
+            "L201",
+            "L454"
+          ],
+          "school_ids": []
+        },
+        {
+          "iso": "CHN",
+          "verdict": "chino: ciencia inglesa para ambos; el idioma VEX para aclarar",
+          "reason": "comparar el IB de inglés en Shenzhen, el programa de inglés en Beijing y la escuela bilingüe en Shanghai. La gran cantidad de torneos VEX por sí solo no confirma la entrada extranjera libre.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L455",
+            "L462",
+            "L463"
+          ],
+          "school_ids": []
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "label": "escuela en 2–3 años",
+      "intro": "Primero, conseguir un lugar de escuela para ambos y comprobar un equipo en funcionamiento separado. base para mudarse  tutor, clases regulares y entorno de enseñanza.",
+      "countries": [
+        {
+          "iso": "TWN",
+          "verdict": "Taiwan: primera lista para la base familiar",
+          "reason": "comparar TAS, AST y el primer nivel británico TES. primero comprobar los puestos de ambos niños, el entrenador junior en ejercicio y los roles de ingeniero independiente.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L460",
+            "C356"
+          ],
+          "school_ids": [
+            "S003",
+            "S020",
+            "S061"
+          ]
+        },
+        {
+          "iso": "JPN",
+          "verdict": "Japón: escuela diurna inglesa y entrenador individual",
+          "reason": "Hay Semanas de Inglés TCC y Campamento de Invierno Harrow. ASIJ y CAJ  candidatos para la escuela diurna. en las ligas nacionales se comprueba por separado la clase de la escuela y el equipo local.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "C1134",
+            "C1144"
+          ],
+          "school_ids": [
+            "S053",
+            "S054"
+          ]
+        },
+        {
+          "iso": "CHN",
+          "verdict": "Shencheng / Pekín: el camino inglés y las condiciones de recepción",
+          "reason": "comparar el IB de inglés en Shenzhen, el programa de inglés en Beijing y la escuela bilingüe en Shanghai. La gran cantidad de torneos VEX por sí solo no confirma la entrada extranjera libre.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "C285",
+            "L458"
+          ],
+          "school_ids": [
+            "S056",
+            "S057",
+            "S058"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boarding",
+      "label": "Pension: ahora o más tarde",
+      "intro": "En la muestra probada no hay un pensión permanente completamente en inglés que sea adecuado para ambos ahora.",
+      "countries": [
+        {
+          "iso": "TWN",
+          "verdict": "Morrison: escuela secundaria después del año de estudios",
+          "reason": "El dormitorio de Morrison es accesible para estudiantes de secundaria después de un año de escuela; las solicitudes de residencia se tratan por separado.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [],
+          "school_ids": [
+            "S060"
+          ]
+        },
+        {
+          "iso": "JPN",
+          "verdict": "Harrow Appi: escuela a partir de los 11 años, campamento a partir de los 9 años",
+          "reason": "Harrow Appi: internado permanente en inglés desde11 años. Campamento de invierno9–13 es un programa independiente: Matvey candidato; Oscar aún no cumple la edad mínima.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L202"
+          ],
+          "school_ids": [
+            "S055"
+          ]
+        },
+        {
+          "iso": "CHN",
+          "verdict": "Hengqin: pensiones desde el 8; Oscar es temprano",
+          "reason": "Harrow Hengqin anuncia el pensión menor 8–11 años. Matvey es adecuado para su edad.; Oscar — No , no .. el entorno de enseñanza chino-Inglés, El equipo de robótica aún no ha confirmado.",
+          "gate": "edad del programa, la solicitud aceptada, la lengua del entrenador y el lugar del niño  condiciones particulares.",
+          "event_ids": [
+            "L455"
+          ],
+          "school_ids": [
+            "S059"
+          ]
+        }
+      ]
+    }
+  ],
+  "development_phases": [
+    {
+      "period": "2026–2028 ·9/6→11/8",
+      "title": "Una base, dos proyectos independientes.",
+      "detail": "escuela diurna, un coach estable, cada semana de montaje/coding/tests/EN explicación. Oscar de mecánica y sensor, Matvey autonomous missions y notebook. una liga principal por temporada; cambiar el hardware para las reglas publicadas 2027/28."
+    },
+    {
+      "period": "2028–2031 ·11/8→14/11",
+      "title": "desde el equipo junior hasta la profundidad de ingeniería",
+      "detail": "VEX IQ / WRO o el programa FIRST local más reciente de la clase local. CAD, electrónica, Python/C++, experimentos medibles y un portafolio público. preparación de lenguaje para el juicio; World quota sólo de un resultado de calificación real."
+    },
+    {
+      "period": "2031–2034 ·14/11→17/14",
+      "title": "elegir un equipo de competición y un laboratorio real",
+      "detail": "Matvey FTC/V5/FRC por edad y escuela; Oscar su pensión de transición para considerar por autonomía y coach en funcionamiento, y no por el prestigio temprano. proyectos de visión de ordenador, automatización y tareas de usuario reales."
+    },
+    {
+      "period": "2034–2038 ·17/14→21/18",
+      "title": "ingeniería y el emprendimiento",
+      "detail": "Research/internship y su producto en funcionamiento, entrevistas a usuarios, prototipos, pruebas, costo de producción, presentación y el papel honesto de cada uno. hardwareecosystem es útil para acceder a las personas/laboratorios; las medallas siguen siendo parte del portafolio, no el objetivo completo."
+    }
+  ],
+  "steps": [
+    {
+      "title": "prueba para ambos niveles de edad",
+      "detail": "visitar 2–3 escuelas y entrenadores, obtener un horario semanal y un papel específico de cada niño. Matvey después de tres años de experiencia necesita una tarea más difícil de volver a conocer con WeDo."
+    },
+    {
+      "title": "Inglés en las clases técnicas",
+      "detail": "El idioma de la escuela, el entrenador, el campo y el juez se comprueba por separado. En la prueba, el niño recoge o programa un mecanismo y explica la decisión en inglés."
+    },
+    {
+      "title": "ingreso y derecho del equipo a seleccionar",
+      "detail": "especificar las fechas exactas de nacimiento y las clases de los niños. el japonés VEX National requiere equipos con base real japonesa; FIRST Japan permite acordar un traductor. la mudanza no confirma el lugar de la escuela o la cuota mundial."
+    },
+    {
+      "title": "el valor total del año familiar",
+      "detail": "comparar la formación de dos, los pagos de ingreso, el apoyo lingüístico, la vivienda, la carretera, el equipo, el entrenador y el viaje del equipo. precios 2026/27  orientaciones. la escuela primaria estatal inglesa en este paso no está confirmada por completo; la búsqueda de tales escuelas sigue abierta."
+    }
+  ],
+  "sources": [
+    {
+      "title": "ASIJ: lenguaje y recepción",
+      "url": "https://www.asij.ac.jp/admissions/admissions-faq",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "ASIJ: un campamento de día inglés",
+      "url": "https://sdc.asij.ac.jp/sdc-at-chofu",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "ASIJ: edad y equipo de VEX",
+      "url": "https://www.asij.ac.jp/activities-at-asij/activities-arts-athletics",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "CAJ: edad y residencia con los padres",
+      "url": "https://caj.ac.jp/admissions/eligibility.php",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "DOXA: equipo escolar VEX",
+      "url": "https://www.doxarobotics.com/home",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Harrow Appi: pensión permanente",
+      "url": "https://www.harrowappi.jp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Harrow Appi: lenguaje y ingreso",
+      "url": "https://www.harrowappi.jp/admissions/admissions-faqs/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Harrow Appi: el campo de invierno",
+      "url": "https://winter.harrowappi.jp/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Harrow Hengqin: edad del alojamiento",
+      "url": "https://www.harrowzhuhai.cn/holistic-education/pastoral-boarding/boarding/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Harrow Hengqin: los precios de 2026/27",
+      "url": "https://www.harrowzhuhai.cn/wp-content/uploads/2026/03/Harrow-Lide-School-Hengqin-School-Fees-Standard-and-Discount-Policy-for-2026-27.pdf",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "SWIS: registro oficial del IB",
+      "url": "https://ibo.org/en/school/050023",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "ISB Beijing: idioma y criterios de ingreso",
+      "url": "https://www.isb.cn/admissions/application-process/admissions-criteria-policies",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "TES: ventanas de presentación corrientes",
+      "url": "https://www.tes.tp.edu.tw/admissions/apply",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "TES: STEAM junior y VEX senior",
+      "url": "https://www.tes.tp.edu.tw/student-life/co-curricular-activities",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Morrison: Ingreso y alojamiento",
+      "url": "https://www.ma.org.tw/admissions/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "Kang Chiao Linkou: escuela primaria",
+      "url": "https://web.kcislk.ntpc.edu.tw/en/es/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "FIRST Japan: Explore BIOGLOW",
+      "url": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "FIRST Japan: Challenge BIOGLOW",
+      "url": "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "FIRST Japan: Future 8+",
+      "url": "https://firstjapan.jp/events/fll-future-edition-8/",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "VEX Japan National: la admisión y el conflicto de fechas",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "YCYW: los campos publicados 2026",
+      "url": "https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "STEAMSQUAD: Inglés de la robótica WeDo",
+      "url": "https://steamsquad.io/en/courses/computer-controlled-machines",
+      "checked": "2026-10-02"
+    },
+    {
+      "title": "STEAMSQUAD: Mecanismos para los menores",
+      "url": "https://steamsquad.io/en/courses/k3-esm",
+      "checked": "2026-10-02"
+    }
+  ],
+  "validation": {
+    "version": 51,
+    "status": "passed",
+    "scenarios": 3,
+    "family_choices": 8,
+    "local_mobile_widths": [
+      390,
+      320
+    ],
+    "new_school_dialogs": 10,
+    "page_errors": []
+  }
+}

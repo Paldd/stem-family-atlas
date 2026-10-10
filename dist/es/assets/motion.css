@@ -1,0 +1,43 @@
+/* Geometry belongs to the engineering diagram; motion never implies admission. */
+@property --progress {syntax:'<angle>';inherits:false;initial-value:0deg}
+.motion-toggle{display:flex;gap:7px;align-items:center;min-height:44px;border:1px solid #d5e1d5;border-radius:10px;background:#fffdf7;color:#355f58;padding:9px 12px;cursor:pointer;font-size:12px;white-space:nowrap}
+.motion-toggle b{font-size:15px;width:15px;font-weight:500}.motion-toggle:disabled{cursor:default;opacity:.75}
+.motion-toggle:focus-visible,.motion-lab button:focus-visible{outline:3px solid #ec945e;outline-offset:3px}
+.motion-lab{min-width:0;padding:15px;border:1px solid #d5e4da;border-radius:21px;background:#f0f5ec;box-shadow:0 12px 40px #1e514708}
+.motion-lab .ux-blueprint{display:block;height:155px;max-height:none;background:#f9fbf4;border:1px solid #dde8df;border-radius:15px;overflow:hidden}
+.motion-route-trace{fill:none;stroke:#e77e46;stroke-width:4;stroke-linecap:round;pointer-events:none}
+.motion-token{pointer-events:none}.motion-token circle:first-child{fill:#ed8e51;opacity:.17}.motion-token circle:last-child{fill:#ed8e51;stroke:#fffaf0;stroke-width:3}
+.motion-node{transition:fill .25s,r .25s}.motion-node.active{fill:#ed8e51;r:10}
+.motion-lab .motion-eye{transition:transform .12s ease-out}
+.motion-scene-controls{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;margin-top:12px}
+.motion-scene-controls button{min-width:0;min-height:44px;padding:10px 4px;border:1px solid #d3e1d5;border-radius:8px;background:#fffdf7;font-size:12px;color:#527169;cursor:pointer;transition:background .2s,color .2s}
+.motion-scene-controls button[aria-pressed=true]{background:#245651;border-color:#245651;color:#fffdf7}
+.motion-stage-description{margin-top:13px;min-height:62px;display:grid;align-content:start;gap:6px}
+.motion-stage-title{font-size:15px;color:#214e47}.motion-stage-copy{font-size:14px;line-height:1.5;color:#537169}
+.motion-scene-footer{display:flex;gap:13px;align-items:center;justify-content:space-between;margin-top:11px;border-top:1px solid #d6e3d5;padding-top:12px}
+.motion-scene-footer>small{font-size:12px;line-height:1.5;color:#678273;max-width:180px}
+.motion-scene-footer button{min-height:44px;padding:10px 12px;border:1px solid #c8dcd0;background:#e1eddf;border-radius:8px;font-size:12px;white-space:nowrap;color:#285b4a;cursor:pointer}
+.motion-scene-footer button:disabled{opacity:.5;cursor:default}
+.ux-journey-intro{padding:12px 0;margin-bottom:24px;gap:30px}.ux-journey-intro>div{min-width:0}.ux-journey-intro h3{font-size:clamp(35px,3.4vw,47px);margin:12px 0 17px}
+.motion-enter{opacity:1}.motion-enter.motion-revealed{animation:motion-arrive .5s both;animation-delay:var(--motion-delay,0ms)}
+.motion-card{position:relative;transition:rotate .25s ease-out,box-shadow .25s,transform .25s;transform-style:preserve-3d}
+.motion-card.motion-tracking{rotate:1 0 0 var(--motion-rx,0deg);transform:perspective(1200px) rotateY(var(--motion-ry,0deg));box-shadow:0 16px 35px #214f4915}
+.motion-card.motion-tracking:after{content:'';position:absolute;inset:0;pointer-events:none;border-radius:inherit;background:radial-gradient(280px circle at var(--motion-light-x,50%) var(--motion-light-y,50%),#83bcb417,transparent 80%);z-index:1}
+.ux-region-card:hover .ux-region-art path,.ux-region-card:focus-within .ux-region-art path{stroke-dasharray:6 7;animation:motion-map-route 2s linear infinite}
+.ux-region-card:hover .ux-region-art circle,.ux-region-card:focus-within .ux-region-art circle{transform-box:fill-box;transform-origin:center;animation:motion-map-node 1.9s ease-in-out infinite}
+.ux-region-card .ux-region-art circle:nth-of-type(2){animation-delay:.25s!important}.ux-region-card .ux-region-art circle:nth-of-type(3){animation-delay:.5s!important}
+.ux-roadmap-children details[open]>p,.ux-roadmap-children details[open]>.ux-roadmap-leagues{animation:motion-arrive .3s both}
+.ux-roadmap-children summary>em{transition:transform .25s}
+.motion-paused *,.motion-paused *:before,.motion-paused *:after{animation-play-state:paused!important;transition:none!important;scroll-behavior:auto!important}
+.motion-paused .motion-card,.motion-paused .motion-card:hover{transform:none!important;rotate:none!important}.motion-paused .motion-card:after{display:none}
+.motion-paused .motion-enter{animation:none!important;opacity:1;translate:none}
+.motion-lab[data-onscreen=false] *{animation-play-state:paused!important}
+.ux-region-card[data-motion-onscreen=false] .ux-region-art *{animation-play-state:paused!important}
+@keyframes motion-arrive{from{opacity:.65;translate:0 12px}to{opacity:1;translate:0 0}}
+@keyframes motion-map-route{to{stroke-dashoffset:-26}}
+@keyframes motion-map-node{0%,100%{scale:1}50%{scale:1.25}}
+@media(max-width:1100px){.motion-toggle span{display:none}.motion-toggle{padding:9px 12px;min-width:44px;justify-content:center}.motion-toggle b{font-size:17px}.motion-lab{padding:13px}.motion-stage-description{min-height:84px}.motion-scene-controls button{font-size:11px}}
+@media(max-width:900px){.ux-journey-intro{grid-template-columns:1fr 1.15fr;gap:20px}.ux-journey-intro h3{font-size:35px}.ux-journey-intro p{font-size:13px}.motion-stage-copy{font-size:13px}}
+@media(max-width:720px){.top-actions{gap:7px}.motion-toggle{min-width:44px;padding:8px;min-height:44px}.breadcrumb{flex:1}.breadcrumb>b{max-width:110px}.ux-journey-intro{grid-template-columns:minmax(0,1fr);gap:19px}.ux-journey-intro h3{font-size:34px}.ux-journey-intro p{font-size:14px}.ux-editorial{font-size:11px}.motion-lab{padding:12px}.motion-lab .ux-blueprint{max-height:170px}.motion-stage-description{min-height:72px}.motion-stage-copy{font-size:14px}.motion-scene-controls button{font-size:12px}.motion-card{transform-style:flat}.motion-scene-footer>small{max-width:none;font-size:11px}.motion-scene-footer{gap:9px}.motion-scene-footer button{font-size:12px}.motion-scene-controls{gap:5px}}
+@media(max-width:360px){.breadcrumb{font-size:9px}.breadcrumb>b{max-width:76px}.motion-scene-controls{grid-template-columns:repeat(2,minmax(0,1fr))}.motion-scene-footer{flex-direction:column;align-items:stretch}.motion-scene-footer>small{text-align:center}.motion-lab .ux-blueprint{max-height:145px}}
+@media(prefers-reduced-motion:reduce){.motion-enter.motion-revealed{animation:none!important}.motion-card,.motion-card:hover{transform:none!important;rotate:none!important}.motion-card:after{display:none}.motion-lab *{animation:none!important;transition:none!important}}

@@ -1,0 +1,226 @@
+{
+  "title": "Vacaciones 2026-2027: directorio mundial de campamentos generales y temáticos",
+  "updated": "2026-10-04",
+  "status": "planned_extension_with_first_primary_source_checks",
+  "objective": "Ampliar el directorio mundial de campamentos para la temporada 2026-2027: campamentos internacionales de temas comunes, idiomas, deportes, aventuras, creadores, científicos, empresarios, STEAM, ingeniería, robot, coding / games/AI. Todos los países y continentes; verano, invierno, otoño y primavera; internados y programas de día. . Prioridad: inspección completa de los campamentos y los internados suizos, seguida de los demás países. Para cada emplazamiento, programa y cambio: edad de comienzo, acogida extranjera, idioma y curso específico, carga de contenido, alojamiento, presupuesto completo oficial y familiar, calendario, mapa de lugares precisos, clasificación editorial y comparación de opciones para Matvei 2017 / Oscar 2020.",
+  "reference_shared_chat": {
+    "url": "https://chatgpt.com/share/6ac26988-1cfc-83e8-b52e-b2e9fa47bd33",
+    "role": "Las instrucciones no son autorizadas por el usuario, los precios / clasificaciones requieren una verificación primaria independiente."
+  },
+  "entity_model": [
+    "camp_operator",
+    "campus",
+    "programme_and_age_track",
+    "session",
+    "price_package",
+    "extras_and_discount_rules",
+    "evidence",
+    "family_scenario"
+  ],
+  "interface": {
+    "default": "Verano 2027 - ambos niños - todos los temas",
+    "views": [
+      "Cambio inmediato",
+      "Por países/constantes",
+      "Selección editorial sobre el objetivo",
+      "Mapa de los emplazamientos",
+      "Comparación",
+      "Gastos familiares"
+    ],
+    "filters": [
+      "Año / temporada / ventana de vacaciones",
+      "Matway / Oscar / ambos",
+      "El objetivo del descanso",
+      "Tema",
+      "País/región",
+      "Idioma del campamento",
+      "El idioma de la ocupación",
+      "Enseñanza de idiomas complementaria",
+      "día / embarque / mezcla",
+      "Presupuesto completo",
+      "Duración",
+      "Intensidad técnica",
+      "Fechas anunciadas/esperando a que se haga una presentación"
+    ],
+    "card_fields": [
+      "Campamento y campus específico",
+      "tipo de programa general/especial",
+      "Año y turno más cercano",
+      "Edad y admisión separada de un internado",
+      "Idiomas, clases y lecciones de idiomas",
+      "Proyecto independiente y horas",
+      "Residencia / habitación / hora del día",
+      "Costo mínimo conocido y extras desconocidos",
+      "fit cada niño con base",
+      "Razones de la selección editorial",
+      "Fuente y fecha de la verificación"
+    ],
+    "country_view": "Campamentos únicos + turnos separados. Número de futuros turnos verificados separados del número de proveedores."
+  },
+  "themes": [
+    "descanso internacional general",
+    "Idiomas",
+    "Deportes",
+    "Montañas / Naturaleza / aventuras",
+    "creación/música/cine",
+    "Ciencia / STEAM",
+    "Ingeniería / maker / 3D",
+    "Robótica",
+    "programar / juegos",
+    "IA",
+    "empresa/leadership"
+  ],
+  "cost_model": {
+    "subtotal": "Base oficial + tasas obligatorias + opciones seleccionadas - descuentos probados; independientemente de cada niño.",
+    "trip_total": "El camp subtotal confirmado + entradas, transferencias, seguros, equipo y alojamiento de los padres que se hayan entregado/confirmado; los artículos obligatorios desconocidos se mantendrán abiertos.",
+    "fields": [
+      "currency",
+      "price_year",
+      "session_id",
+      "package",
+      "per_child_base",
+      "days_and_nights",
+      "included_items",
+      "mandatory_fees",
+      "optional_modules",
+      "equipment_included_or_rental_or_bring",
+      "insurance",
+      "transfers_oneway_or_return",
+      "sibling_discount_conditions",
+      "deposit_applied_to_total",
+      "balance_due",
+      "cancellation",
+      "parent_accommodation_estimate"
+    ],
+    "scenarios": [
+      "Un niño en un internado",
+      "Los dos están en el internado.",
+      "La familia vive cerca, los dos caminan por el día.",
+      "Diversos programas adecuados en materia de edad en el terreno común"
+    ]
+  },
+  "ranking": {
+    "type": "Evaluación editorial, no una calificación mundial oficial",
+    "separate_lists": [
+      "Para los dos ahora.",
+      "Profundidad técnica",
+      "Prácticas lingüísticas",
+      "Recreación activa total",
+      "Primer internado",
+      "Visitas diarias familiares",
+      "Coeficiente entre el mantenimiento y el precio total",
+      "la edad futura"
+    ],
+    "criteria": [
+      "contenido real/hora/proyecto infantil",
+      "Adaptación y autonomía",
+      "idioma del programa",
+      "Calificación de los mentores y condiciones del grupo",
+      "y apoyo a los menores",
+      "de la transparencia de los costos y las normas",
+      "Pruebas de reputación/respuestas independientes"
+    ],
+    "gates": "Las discrepancias de edad o la lengua no confirmada se muestran antes de la calificación; los datos desconocidos no se sustituyen por estrellas falsas o nulas."
+  },
+  "switzerland_discovery": [
+    {
+      "name": "Camp Montana",
+      "source": "https://www.campmontana.ch/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Les Elfes",
+      "source": "https://www.leselfes.com/summer-camp/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "La Garenne",
+      "source": "https://www.la-garenne.ch/summer-camps/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Préfleuri",
+      "source": "https://www.prefleuricamps.ch/en/summer/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Collège du Léman",
+      "source": "https://www.nordangliaeducation.com/college-du-leman/camps/summer-camp",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "TASIS",
+      "source": "https://summer.tasis.ch/programs/cde",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Aiglon",
+      "source": "https://www.aiglon.ch/2027-summer-camp",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Beau Soleil",
+      "source": "https://www.beausoleil.ch/summer-camp",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Le Rosey",
+      "source": "https://www.roseysummercamps.ch/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Institut Montana Zugerberg",
+      "source": "https://www.montana-zug.ch/en/summer-camp",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    },
+    {
+      "name": "Rosenberg",
+      "source": "https://rosenbergcamps.ch/camps/summer-camp/",
+      "verification": "candidate_from_shared_reference; auditoría completa del lugar/sesión/precio pendiente"
+    }
+  ],
+  "primary_source_example": {
+    "operator": "Camp Montana",
+    "checked": "2026-10-04",
+    "session": {
+      "start": "2027-06-12",
+      "end": "2027-06-26"
+    },
+    "currency": "CHF",
+    "base": 5810,
+    "optional_language": 300,
+    "transfer_per_child_per_way": 200,
+    "derived_selected_subtotal": 6510,
+    "subtotal_formula": "5810 + 300 + 2*200",
+    "subtotal_excludes": [
+      "Vuelo",
+      "Seguro",
+      "Gastos personales"
+    ],
+    "minimum_standard_age": 8,
+    "programme_classification": "deporte general / al aire libre + lenguaje opcional; no se encuentra ningún curso de robótica separado en la página de experiencia abierta",
+    "sources": [
+      "https://www.campmontana.ch/dates-pricing",
+      "https://www.campmontana.ch/faq",
+      "https://www.campmontana.ch/experience"
+    ],
+    "language_hours_conflict": "Las fechas/precios dicen1hora/día;FAQ50minutos/día."
+  },
+  "baseline": {
+    "learning_records": 463,
+    "switzerland_learning_records": 78,
+    "not_unique_camp_counts": true,
+    "worldwide_coverage": "partial"
+  },
+  "done_when": [
+    "El organizador, el emplazamiento, el programa y el cambio de rumbo son diferentes. Varias fechas del curso no se consideran campamentos diferentes.",
+    "Todos los 249 países/territorios gozan de un estatuto de camp discovery separado; los candidatos a la lista se seleccionan de acuerdo con los criterios publicados; Suiza exige un pase completo por los operadores generales y temáticos encontrados.",
+    "EN camp life, EN technical instruction, second-language support and separate language lesson; la existencia de una página en la Web no confirma la enseñanza.",
+    "Edad del campamento general, la pensión especial y la pensión especial robotics / AI se confirma por separado. Para2027 La edad probable de Matway9–10, Oscar6–7; Fechas de nacimiento aún desconocidas.",
+    "Pryce está relacionado con el año, el cambio, la edad y el paquete. El precio 2026 no se paga a 2027. La fianza no se aumenta por segunda vez.",
+    "La cantidad, los pagos complementarios y la valoración de la vivienda y los billetes que se conocen oficialmente se muestran por separado. Sin las partidas obligatorias desconocidas, no se presenta un total completo.",
+    "El mapa refleja el terreno real; la ciudad común/país se considera una geografía aproximada. La disponibilidad de asientos no se deduce del botón de registro.",
+    "La calificación editorial es comprensible, se divide en función del propósito y de la fiabilidad de las pruebas; el precio y la marca conocida no sustituyen el contenido.",
+    "Se han conservado las competencias anteriores, los leagas, las exhibiciones, las escuelas, los resultados históricos, las fechas, las exportaciones, los favores, los movimientos familiares y las animaciones."
+  ]
+}

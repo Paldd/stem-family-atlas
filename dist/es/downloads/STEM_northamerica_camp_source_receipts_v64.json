@@ -1,0 +1,414 @@
+{
+  "asof": "2026-10-05",
+  "scope": "América del Norte v64 fuentes oficiales de programas públicos",
+  "method": "GET público HTTPS; hash de contenido guardado y URL final; no hay formularios, inicio de sesión, contacto del organizador, aplicaciones o pagos",
+  "attempts": 40,
+  "http_200": 36,
+  "usable_content": 35,
+  "rows": [
+    {
+      "key": "astro-home",
+      "url": "https://astrocamp.org/",
+      "final_url": "https://astrocamp.org/",
+      "status": 200,
+      "bytes": 174370,
+      "sha256": "60f7b4e22ce110ccebfaaa39858b323ba60a8e206296ed24ea7b1ce310db5488",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-rates",
+      "url": "https://astrocamp.org/camp-dates-rates/",
+      "final_url": "https://astrocamp.org/camp-dates-rates/",
+      "status": 200,
+      "bytes": 184311,
+      "sha256": "9d4e93d28e194b6c82af0405a92bc7b5c3d7a83d3e3a41d0ee31c035eeaa2c0a",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-faq",
+      "url": "https://astrocamp.org/frequently-asked-questions/",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-05",
+      "usable_content": false
+    },
+    {
+      "key": "french-home",
+      "url": "https://frenchwoods.com/",
+      "final_url": "https://frenchwoods.com/",
+      "status": 200,
+      "bytes": 65107,
+      "sha256": "66424891eb3b84e69149aaeedce66c43964f64bcd74548245a15aae3a5ec7396",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-rates",
+      "url": "https://frenchwoods.com/dates-and-rates.htm",
+      "final_url": "https://frenchwoods.com/dates-and-rates.htm",
+      "status": 200,
+      "bytes": 37443,
+      "sha256": "3c837b95d45c5e453d4b7aff99c8ec6f9ced7348234153417e35edc851ea2ab0",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "tic-home",
+      "url": "https://ticcamp.com/",
+      "final_url": "https://ticcamp.com/",
+      "status": 200,
+      "bytes": 643612,
+      "sha256": "5bad98869378b7754b90e3145bf4bb5e3b8e32c9d64ddfe60bb8ba4d44c0a9b2",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "tic-dc",
+      "url": "https://ticcamp.com/tic-dc",
+      "final_url": "https://ticcamp.com/tic-dc",
+      "status": 200,
+      "bytes": 237229,
+      "sha256": "05bb9e594db23b4f8154aeb19110897ba3dc670036be93dd5d65db9ba2cbaa7c",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ponacka-rates",
+      "url": "https://ponacka.com/rates-dates/",
+      "final_url": "https://ponacka.com/rates-dates/",
+      "status": 200,
+      "bytes": 203814,
+      "sha256": "5840a4d1867b769300037ce4f77466b32d0618dbdedd8c6cb8c5bb12d4df9bec",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ponacka-faq",
+      "url": "https://ponacka.com/frequently-asked-questions/",
+      "final_url": "https://ponacka.com/frequently-asked-questions/",
+      "status": 200,
+      "bytes": 183741,
+      "sha256": "fc597d006c7a37dd734a329bb5598b81b66e3f0b47fd08f0fe06991663c62a34",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-home",
+      "url": "https://www.cisscanada.com/",
+      "final_url": "https://www.cisscanada.com/",
+      "status": 200,
+      "bytes": 281287,
+      "sha256": "6dc839d86b9f4a6c51a3ee6221a59ec81bed9b90dfbfe2c72ad9f5a694097638",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "canadensis-home",
+      "url": "https://www.canadensis.com/",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-05",
+      "usable_content": false
+    },
+    {
+      "key": "destination-home",
+      "url": "https://www.destination-canada.com/",
+      "final_url": "https://www.destination-canada.com/",
+      "status": 200,
+      "bytes": 76679,
+      "sha256": "ae1de175a55e5057d11d884d0a50a3f8f4e76b2e2881979c9fbaf154ad10724c",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "destination-rates",
+      "url": "https://www.destination-canada.com/dates-and-pricing/",
+      "final_url": "https://www.destination-canada.com/dates-and-pricing/",
+      "status": 200,
+      "bytes": 69790,
+      "sha256": "030649d3f9b779d9bf659448bd7acb6a20fe087e18f8f67200f073ce51ea6f90",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ilsc-winter",
+      "url": "https://www.ilsc.com/language-schools/programs/junior/winter/vancouver",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-05",
+      "usable_content": false
+    },
+    {
+      "key": "ilsc-family",
+      "url": "https://www.ilsc.com/language-schools/programs/junior/family-camp/vancouver",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-05",
+      "usable_content": false
+    },
+    {
+      "key": "astro-faq",
+      "url": "https://astrocamp.org/parent-faqs/",
+      "final_url": "https://astrocamp.org/parent-faqs/",
+      "status": 200,
+      "bytes": 161623,
+      "sha256": "2742f7243137a5c319013187c86bef30b385825de72a814241fbd19614c903fd",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-guide",
+      "url": "https://astrocamp.org/parent-guide/",
+      "final_url": "https://astrocamp.org/parent-guide/",
+      "status": 200,
+      "bytes": 168002,
+      "sha256": "b0adb00f1a5d3bac1466bde48a5eb95cdc16a9c70b08df3f433d7af9bc9f55d5",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-stem",
+      "url": "https://astrocamp.org/stem-summer-camp-guide/",
+      "final_url": "https://astrocamp.org/stem-summer-camp-guide/",
+      "status": 200,
+      "bytes": 155909,
+      "sha256": "5888d85511f356ff0c1893a2e18ee127e338a56dffd5d08c98c4d90b14a63ad0",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-international",
+      "url": "https://frenchwoods.com/international-campers.htm",
+      "final_url": "https://frenchwoods.com/international-campers.htm",
+      "status": 200,
+      "bytes": 24126,
+      "sha256": "ad08ce4f9d4d1c790a53066f612069886ec70f827be3ec9ddba204bb596e0b35",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "tic-faq",
+      "url": "https://ticcamp.com/faqs",
+      "final_url": "https://ticcamp.com/faqs",
+      "status": 200,
+      "bytes": 1459445,
+      "sha256": "0d994bcb5d9eecbf93d2191b82e154c2a55120dc455bed98f7b3b6e29d1b4b34",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "tic-robotics",
+      "url": "https://ticcamp.com/robotics",
+      "final_url": "https://ticcamp.com/robotics",
+      "status": 200,
+      "bytes": 1266027,
+      "sha256": "9b45af7f59ef693835bb952fed8e7400651792658e8db028f9e2aea43700dd06",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "tic-tech",
+      "url": "https://ticcamp.com/technology",
+      "final_url": "https://ticcamp.com/technology",
+      "status": 200,
+      "bytes": 1496763,
+      "sha256": "a349709d914e3148d5cb57384ea52a8405daeeb50b15a0a6abc83422f9c394f8",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ponacka-pdf",
+      "url": "https://ponacka.com/wp-content/uploads/2026/09/26-1620-Camp-Ponacka-Info-sheet-2027.pdf",
+      "final_url": "https://ponacka.com/wp-content/uploads/2026/09/26-1620-Camp-Ponacka-Info-sheet-2027.pdf",
+      "status": 200,
+      "bytes": 209592,
+      "sha256": "2c1a54e9f1064f5e74e6d85482aacff380af123343b4cf18bfac2fbb9f631fab",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-trinity",
+      "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+      "final_url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+      "status": 200,
+      "bytes": 473907,
+      "sha256": "41340a09e0adf43c1f800f0620ee1f9058c52220960082a5c3c9fe65562c47b4",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-toronto",
+      "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-toronto/",
+      "final_url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-toronto/",
+      "status": 200,
+      "bytes": 440986,
+      "sha256": "fa2726123d0db0b478f389332daade37af4dc3db2e4409762bd383f924b4fbf7",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-faq",
+      "url": "https://www.cisscanada.com/faq/",
+      "final_url": "https://www.cisscanada.com/faq/",
+      "status": 200,
+      "bytes": 291943,
+      "sha256": "2d2756b265594b5b9d3ba7040b75d6c1bfae3eeab7987cca1ed8b3a66579f817",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-activities",
+      "url": "https://frenchwoods.com/activities.htm",
+      "final_url": "https://frenchwoods.com/error.htm",
+      "status": 200,
+      "bytes": 19164,
+      "sha256": "ab1103dc6a046d632404c76e49168a09918e069b46f342e22f6902282b8b5423",
+      "checked": "2026-10-05",
+      "usable_content": false,
+      "content_note": "HTTP200 redirigido a error.htm; no prueba de programa"
+    },
+    {
+      "key": "ciss-fees",
+      "url": "https://www.cisscanada.com/knowledge-base/how-do-i-find-your-dates-and-fees/",
+      "final_url": "https://www.cisscanada.com/knowledge-base/how-do-i-find-your-dates-and-fees/",
+      "status": 200,
+      "bytes": 321692,
+      "sha256": "f7d5e74c6dacf072554f3af151caf714a89368162280ac8a73f1b1fb03830ca2",
+      "checked": "2026-10-05",
+      "usable_content": true,
+      "content_note": "Muestra el artículo de registro de fecha 2022, no las tarifas de 2027; prueba de precio no resuelto solamente"
+    },
+    {
+      "key": "destination-classes",
+      "url": "https://www.destination-canada.com/english-classes/",
+      "final_url": "https://www.destination-canada.com/english-classes/",
+      "status": 200,
+      "bytes": 72460,
+      "sha256": "a0aca9d08df0bcaade98e4deaa2a0ce9fb6fb46d4f8e6a4fc3a3a437098af7c2",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "destination-facilities",
+      "url": "https://www.destination-canada.com/facilities/",
+      "final_url": "https://www.destination-canada.com/facilities/",
+      "status": 200,
+      "bytes": 71455,
+      "sha256": "7cec7c6b6494cebc7e56bc8c2d3f847a356ff01a1848423908f52470b35f9b87",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "destination-administration",
+      "url": "https://www.destination-canada.com/administration/",
+      "final_url": "https://www.destination-canada.com/administration/",
+      "status": 200,
+      "bytes": 66146,
+      "sha256": "1d13c6a7f05c303c5cdf15a08f84a04fd6c97246d007b94e6b97b20a70bb19a9",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-swallowdale",
+      "url": "https://www.cisscanada.com/swallowdale-camp/",
+      "final_url": "https://www.cisscanada.com/swallowdale-camp/",
+      "status": 200,
+      "bytes": 565868,
+      "sha256": "3ae5859beb288a70aa052456ca5d6116f01260ad1d439c66a82905981a316404",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-travel",
+      "url": "https://astrocamp.org/travel/",
+      "final_url": "https://astrocamp.org/travel/",
+      "status": 200,
+      "bytes": 150557,
+      "sha256": "1dcbe492d8f4d79b973db3af9aa394ac5db159d6cbd5fda96b656c0b6fa0e907",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "astro-junior",
+      "url": "https://astrocamp.org/camp-overview/one-week-sessions/",
+      "final_url": "https://astrocamp.org/camp-overview/one-week-sessions/",
+      "status": 200,
+      "bytes": 176880,
+      "sha256": "12fd01f2ca6568262ff76c8fc77da39b0e865d21deae4e2a4d2a4271d6cb5089",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-program",
+      "url": "https://frenchwoods.com/program-french-woods.htm",
+      "final_url": "https://frenchwoods.com/program-french-woods.htm",
+      "status": 200,
+      "bytes": 23192,
+      "sha256": "6925c97acfb037a3e0d5b0f187eb50ad87bb308078b1424dedc39c59358094d7",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-trial",
+      "url": "https://frenchwoods.com/session5.htm",
+      "final_url": "https://frenchwoods.com/session5.htm",
+      "status": 200,
+      "bytes": 23428,
+      "sha256": "998e1238520de0fc20ce3f50449c593ae5b9fbe937df93ef614bc8d2147354a7",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "french-transport",
+      "url": "https://frenchwoods.com/transportation.htm",
+      "final_url": "https://frenchwoods.com/transportation.htm",
+      "status": 200,
+      "bytes": 24725,
+      "sha256": "e9022cc42cbf5860cc88d79a2988785939e4a540899b10bb5f9988b75d3c49bf",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ponacka-staff",
+      "url": "https://ponacka.com/our-staff/",
+      "final_url": "https://ponacka.com/our-staff/",
+      "status": 200,
+      "bytes": 211798,
+      "sha256": "70c628882cc9a2d229e16f8f1226909fbbb88f49d5e4a9dd7a6c1ea5f66e4e61",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-ai",
+      "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-ready-series/",
+      "final_url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-ready-series/",
+      "status": 200,
+      "bytes": 406550,
+      "sha256": "68d1c3172b300b242dc99fad562e75daac752c0ea5205bb217386505c46786ff",
+      "checked": "2026-10-05",
+      "usable_content": true
+    },
+    {
+      "key": "ciss-entre",
+      "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+      "final_url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+      "status": 200,
+      "bytes": 405710,
+      "sha256": "0c57cfacdc0e91f01f822d22195dfcd6c164acc877711e815e2dccdb1570e039",
+      "checked": "2026-10-05",
+      "usable_content": true
+    }
+  ],
+  "pdf_visual_checks": [
+    {
+      "key": "ponacka-pdf",
+      "pages": [
+        1
+      ],
+      "result": "2027 tasas, Grado1 Septiembre2026, edad julio1, HST exclusiones, depósito1000 incluidos300 administrador, los umbrales de reembolso verificados visualmente",
+      "snapshot": "ponacka-page1.png"
+    }
+  ],
+  "search_only_gaps": [
+    "Canadensis: direct403; archivo de programas no vigentes",
+    "Imaginación: titular de juego irrelevante para el dominio de búsqueda; operador/dominio actual no establecido, no recomendado"
+  ]
+}

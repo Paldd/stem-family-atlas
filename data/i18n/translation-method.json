@@ -1,0 +1,30 @@
+{
+  "source_language": "ru",
+  "target_language": "es",
+  "created_on": "2026-10-10",
+  "models": [
+    {
+      "name": "Helsinki-NLP/opus-mt-ru-es",
+      "revision": "f7fd0cd65fab2ef22ff4e4e1a4237feddf0d067b",
+      "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ru-es",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "facebook/nllb-200-distilled-600M",
+      "revision": "f8d333a098d19b4fd9a8b18f94170487ad3f821d",
+      "url": "https://huggingface.co/facebook/nllb-200-distilled-600M",
+      "license": "CC-BY-NC-4.0"
+    }
+  ],
+  "execution": "local CPU inference; no credentials or paid inference services",
+  "review": "Reviewed interface labels, principal terminology, geography, flagged factual translations and source links; automated full-corpus structure/fact validation. Complete human linguistic review of long dossiers has not been performed.",
+  "missing_source_materials": "none required to translate the existing corpus; unpublished organizer information remains unconfirmed",
+  "research_dates_preserved": true,
+  "geographic_glossary": {
+    "source": "Unicode CLDR Spanish territory names via Babel 2.18.0 and ISO 3166 via pycountry 26.2.16",
+    "url": "https://cldr.unicode.org/",
+    "entries": 256,
+    "editorial_region_aliases": true
+  },
+  "editorial_dictionary_entries": 896
+}

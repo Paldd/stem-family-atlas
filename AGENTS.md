@@ -8,6 +8,8 @@ Keep competitions, exhibitions, camps/learning, schools and league profiles dist
 
 Use the supported Cua browser surface for UI testing. Check the affected behavior and a representative mobile/desktop view when presentation changes. Preserve reduced-motion support. Browser-local plans are not synchronized accounts or registrations.
 
+Maintain both language editions: Russian at the root, Spanish under `es/`. Run `build-spanish.py` and `verify-spanish.py` after the canonical build. Committed translations live in `data/i18n/`; missing source phrases or stale JavaScript token hashes must block publication. The language selector preserves the section and URL parameters. Stable IDs, dates, quantities, technical operators and official URLs must not change during translation. The interface language is independent of the programme's actual instructional language. Do not claim every paragraph was manually reviewed: record machine translation, editorial corrections and verification separately. Translation does not refresh source research dates.
+
 The older Sites history is retained locally on `sites-local-v137`; `.openai/` is local metadata and is ignored by this GitHub branch. Do not attempt Sites publication or create a replacement Sites project unless the human specifically requests it.
 
 Do not publish credentials, private organizer forms, raw private browser snapshots or local account configuration. Do not contact organizers, enroll children, accept agreements or make payments without a specific human instruction.

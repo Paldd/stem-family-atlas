@@ -1,0 +1,124 @@
+{
+  "asof": "2026-10-05",
+  "version": 96,
+  "status": "progress",
+  "scope": "France/España propia2026–27general/embarque/programas diarios y escuela-Suplemento de líneas anuales; Programa de auditoría limitada, Europa no completa/el mundo.",
+  "new_dossiers": 14,
+  "new_operator_groups": 6,
+  "deepened_dossiers": 1,
+  "updated_dossiers": [
+    "chester-english"
+  ],
+  "new_calendar_rows": 13,
+  "new_family_ics": 13,
+  "new_registration_deadline_ics": 0,
+  "corrected_existing_event_ids": [],
+  "historical_variants_not_added_as_future": 24,
+  "programme_dossiers": 645,
+  "countries_with_dossiers": 37,
+  "official_dossier_urls": 1021,
+  "country_dossier_counts": {
+    "CHE": 86,
+    "FRA": 53,
+    "ESP": 62,
+    "TWN": 39,
+    "SGP": 78,
+    "JPN": 42,
+    "KOR": 13,
+    "USA": 76,
+    "CAN": 68,
+    "CRI": 13,
+    "MEX": 31,
+    "BRA": 3,
+    "CHL": 10
+  },
+  "programme_slugs": [
+    "sswp-jardins",
+    "sswp-pcc-primary",
+    "sswp-racing-primary",
+    "sswp-marymount-primary",
+    "olocau-english-summer",
+    "olocau-fluent",
+    "pueblo-kids",
+    "pueblo-eduplai-online",
+    "vaughan-bravo",
+    "vaughan-mazo",
+    "vaughan-kiriko",
+    "ymca-priego",
+    "ymca-salduero",
+    "chester-mini"
+  ],
+  "findings": [
+    {
+      "country": "Francia",
+      "iso": "FRA",
+      "provider": "v96 · SSWP: los folletos y el sitio no siempre coinciden",
+      "detail": "Jardins: PDF €25/day late contra el sitio web €30, febrero 2027 en la cubierta/HTML contra 2026 en el formulario; €45 park pass dentro de la casa fee. PCC late €110/130 y el menor pickup 15:30/16. Racing day €110/120; el menor timetable golf en el contexto de los franceses golf coaches. Marymount late €110/120. los precios no son medios, los nuevos cambios se separaron del archivo.",
+      "next_action": "lugar, contrato final, lengua exacta de los módulos, hora de recogida, comida/transferencia/aseguro y ingesta extranjera.",
+      "url": "https://www.sswp.fr/activites/stages-danglais-pour-enfant/"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "v96 · Olocau y Pueblo: fecha, objetivo lingüístico y precio tienen diferentes plenitudes",
+      "detail": "Olocau publicará 31.07–06.08.2027/6–14 y dos objetivos.: mejorar el inglés o Fluent, un cambio mezclado. precio de la/no hay paquete completo. registro general 7 enero sin año; no se ha convertido en exact deadline. Pueblo Kids de julio 2027 pronto, €890 sin año, el reserva €300 dentro de la casa. Oscar sólo después de las siete. EduplAI en línea 8+, No físico camp, demo 12–14, el inicio 13 octubre sin año/del cinturón de la hora.",
+      "next_action": "precio/contracto estacional, lugares, una recepción individual extranjera y un programa específico; para el online syllabus junior y el tiempo de Costa Rica.",
+      "url": "https://www.albergueolocau.com/programas/campamento/english-summer-camp.html"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "v96 · Vaughan / YMCA: archivo confirmado no está disponible temporada 2027",
+      "detail": "Vaughan actual PDF 2026 contiene diferentes precios de las plazas y cancelación, de la actualidad camp URLs se redirigen al curso general. YMCA current teaser2027 contiene fechas/años de edad/condiciones2026. de la premiación 28.02.2026 Se han terminado.. National €100 admin dentro del precio, International €500 no se han aplicado. cambios pasados no se transfieren a los futuros ICS.",
+      "next_action": "Las nuevas fechas camp-specific, las tablas de edad, los precios, el contenido técnico y el staff de lenguaje 2027, sin promesa de clasificación mundial.",
+      "url": "https://aprendeingles.grupovaughan.com/hubfs/Camps/Catalogo-Summer-Camps-Vaughan-2026.pdf?hsLang=es-es"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "v96 · Chester: Leído image-only fee PDFs de diferentes años",
+      "detail": "de la actualidad ES residential age 2027 8–17, EN/archivo8–18; MINI current2019–2023 Oscar es muy bueno., No es Matvey.. EN2026 el reserva750/airport60, ES2026 el reserva500/airport50. ENdayMay1 vsESboardingJun1. ESdaylinkPDF2025 No estacional2027precio. descuento siblings en el menor corefee, No todosextras. de las empresas/campamentos de idiomas no probada liga robótica.",
+      "next_action": "un contrato/precio actual2027 y las fechas MINI/general coincidentes; lugares, pagos adicionales, cancelación y supervisión.",
+      "url": "https://www.chestercollege.org/campamentos/chester-mini-camp/"
+    }
+  ],
+  "calendar": {
+    "events": 3153,
+    "learning_records": 1822,
+    "family_ics": 2414,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1359,
+    "reused_legacy_events": 69,
+    "season_windows": 39
+  },
+  "primary_retrievals": {
+    "direct_attempts": 37,
+    "http200": 37,
+    "general_course_redirects": 2,
+    "actual_pdfs": 12,
+    "selective_visual_observations": 8,
+    "visual_page_checks": 8
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "validation": [
+    "Se han conservado 14 nuevosdossiles en 6 grupos de operadores, 1 sólo losdossilos existentes.645total/37países/1021URLs propios, 631IDs/orden prioritarios y 630dossiers no relacionados.",
+    "Todos los 3140 registros/ligaciones/concursiones/exposiciones/escuelas/resultados/itineraciones familiares de los anteriores calendarios se conservan con exactitud.13Nuevos conjuntos futuros/ICS, 24variantes pasados no se copiaron en 2027.",
+    "SSWP11futurecohorts:5Jardins/4PCC/2Racing. Jardines Feb2027cover/HTMLvsforma2026 retenidos;330Dec y aparcar45insidefee. - ¿Qué pasa?25/30Jardins,110/130PCC,110/120Marymount/día110/120Racing los conflictos explícitos. El personal de Golf Francés y las primeras tardes no son falsas.",
+    "Olócau6–14/Dos trayectos en un campo31Jul–6Aug2027/250sharedcapacity;Fluente para el inglés fluente no principiante. Precio/contrato desconocido. El general Jan7withoutyearnotdeadline. La información sobre las instalaciones de ropa de cama no incluye una factura de garantía.",
+    "Los niños del pueblo7–12/8days7nights/Julio2027undated/890withoutyear/300insidefee. El número de personas8–18Englishonline10lessons245/420/210, demo12–14bilingualmaterial,13Octwithoutyear/zona horaria. Filtro en línea distinto; no campamento físico/Medalla de robótica.",
+    "Vagantual31page2026catalogue precios de ubicación880/1590Bravo,1685Mazo,930/1760Kiriko;vivienda relevante/cláusulas de cancelación. URLs de campamento actualRedirect generalCursos. YMCA2026birthgates/precios regulares/promos expirados/100nationaladmininsidefeevs500international separados.",
+    "Chester MINIcurrent2027birth2019–2023 Oscar se ajusta .,No es Matvey.; 2026PDFbirth2018–2022notnewgate. ES general2027age8–17vsENarchive8–18. Cinco imágenes-sólo paginas PDFse seleccionaron visualmente; 750/500reserve,60/50airport y mayo/Los equilibrios de la Unión no se promediaron. ESday PDF2025excludedascurrentprice.",
+    "37 directrices de búsqueda de HTTP200 incluyen 2 directrices generales, 12 documentos PDF reales con revisiones de páginas escaneadas y 8 observaciones visuales seleccionadas. No se reclaman documentos PDF completos/sitio/país de auditoría. RawHTML/PDF/formularios/rendan datos privados fuera de la caja; sólo se publican paráfrases/URL/hashes.",
+    "JSONSQLite CSVJSMDICSConsistencia/el número de identificación de identidad/fecha/conservación de los plazos/Puente de capacidad/lenguaje-niño-fase-filtros en línea verificados de forma independiente. Objetivo mundial/requisitos retenidos,0fullyauditedcountries/nativo y activo."
+  ],
+  "next_priority": "Continúa en todo el mundo2026–27 general/Temática/robotica/AI campamento/embarque/día/programa familiarinventario, profundidad de la CHE/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/América Latina. Programa de verificación-Enseñanza específica EN/ES/RU y roles de apoyo, El número de personas en el mercado de trabajo/lugares actuales, DOB real/grado, programa de estudios/horas/nivel, Sección actual completa en factura/contrato, Coordenadas del campus/Mapa y comparaciones familiares. Mantenga las ligas/Concursiones/exposiciones/Admisión por edad/escuelas/resultados5–10years/rutas familiares activas; No se ha realizado una auditoría completa."
+}

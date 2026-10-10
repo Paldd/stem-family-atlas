@@ -1,0 +1,117 @@
+{
+  "asof": "2026-10-05",
+  "version": 78,
+  "status": "progress",
+  "scope": "Suiza/Francia/España/Reino Unido: todos los bloques anteriores retenidos en todo el mundo",
+  "new_dossiers": 13,
+  "updated_dossiers": [
+    "montana-zug",
+    "madrid-chess-robotics"
+  ],
+  "new_calendar_rows": 15,
+  "new_family_ics": 15,
+  "programme_dossiers": 376,
+  "countries_with_dossiers": 33,
+  "official_dossier_urls": 587,
+  "country_dossier_counts": {
+    "CHE": 59,
+    "FRA": 35,
+    "ESP": 28,
+    "GBR": 5,
+    "TWN": 21,
+    "SGP": 45,
+    "JPN": 14,
+    "KOR": 7,
+    "USA": 33,
+    "CAN": 45,
+    "CRI": 6,
+    "MEX": 24,
+    "PAN": 5,
+    "ECU": 1
+  },
+  "programme_slugs": [
+    "ecolint-intro-robotics",
+    "ecolint-science",
+    "ecolint-film",
+    "ecolint-multiactivity-half",
+    "stgeorge-winter-day",
+    "stgeorge-winter-board",
+    "lpb-issy-movers",
+    "lpb-issy-juniors",
+    "samiad-multiactivity",
+    "funtech-mod-day",
+    "funtech-redstone-day",
+    "funtech-tonbridge-board",
+    "madrid-manga"
+  ],
+  "findings": [
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "v78: edad, contrato y profundidad técnica",
+      "detail": "Institut Montana: filename PDF2026, contenido y tabla2027; comparación visual de los precios, en forma pública sólo04–17/24de julio. CHF1000 más, No por adelantado. Ecolint: booking5–7 contra la descripción5–6, en inglés/el francés está confirmado; un plazo específico16de octubre15:00 se desvía del general Thursday before. St George’s Winter2027 se refiere al contrato Summer2023; su adelanto/No podemos soportar la cancelación.",
+      "next_action": "el idioma exacto del conductor, el reloj, edad para comenzar, ambas transferencias, contrato nuevo y cuenta completa hasta la solicitud. países completamente verificados hasta el momento0.",
+      "url": "https://www.stgeorges.ch/camps/winter-camp"
+    },
+    {
+      "country": "Francia",
+      "iso": "FRA",
+      "provider": "v78: duración y costo de Les Petits Bilingues",
+      "detail": "Native-page Issy: EUR199/4días, paquete549 hasta30 de abril2027. su calendario: octubre259/5día, paquete699 hasta31 de julio2027; diciembre199/4día. el poster de octubre describe 4 días, el quinto bloque no se revelará. estos cambios se refieren a 2026. las condiciones de cancelación y el precio exacto confirmen el centro concreto.",
+      "next_action": "Eliminar 4/5 días, el precio del paquete y el plazo; recoger la dificultad para los niños, la nueva temporada2027 y el paquete completo de día.",
+      "url": "https://www.lespetitsbilingues.com/les-centres-les-petits-bilingues/issy-mairie/"
+    },
+    {
+      "country": "Reino Unido",
+      "iso": "GBR",
+      "provider": "v78: la temporada futura y las páginas antiguas",
+      "detail": "Samiad Robotics lleva al menú a 404. Multi Activity2027  un campamento inglés común; los campus3500/3600 antiguos se separan con los nuevos3650/3850. la regla Sunday arrival no explica el martes/miércoles en dos plataformas. FunTech: día de julio2027 sin cambios, tarifa695 sin año; pensiónAugust2026/tabela2020 no2027. Bede: banner2027 contra detalles2026 y diferentes precios  nueva temporada no confirmada.",
+      "next_action": "Las nuevas fechas y programas de 2027, las 14 noches concretas de Samiad, el precio completo, el curso técnico de inglés y el contrato; comprobar el prospecto Bede2027.",
+      "url": "https://funtech.co.uk/camps/dates"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "v78: Blanco y Negro2027",
+      "detail": "Todos los niños y niñas en español y visitantes son confirmados por el operador. Manga s1oPrimaria+, los materiales están incluidos; el año de nacimiento no prueba la clase. Event21junio30julio2027 contra el texto22junio31julio, actualizaciónFebruary/March. aproximadamente EUR300/400 para los miembros del club y el campamento general no precio universal de robotics/manga.",
+      "next_action": "El nuevo calendario y el nuevo contrato, los niveles de edad, la combinación de talleres paralelos y la cuenta individual.",
+      "url": "https://ajedrezblancoynegro.com/event/campamento-de-verano-piscina-2027/"
+    }
+  ],
+  "calendar": {
+    "events": 2604,
+    "learning_records": 1273,
+    "family_ics": 1939,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 810,
+    "reused_legacy_events": 66,
+    "season_windows": 25
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "subscriptions_created": false,
+    "age_verification_submitted": false
+  },
+  "next_priority": "Continúa profundizando en Europa2027contratos y en Taiwán/Singapur/Corea/Japón/EE.UU./Canadá/América Latina;",
+  "validation": [
+    "Se conservan todos los 2589 eventos anteriores y 363 documentos de identificación estable; 361 documentos inalterados, solo los detalles de MontanaZug/Madrid se profundizaron explícitamente.",
+    "13 nuevos expedientes de programas, no 13 operadores/ranquillas independientes; 376 expedientes en 33 países y 587 URLs oficiales únicas.",
+    "Montana PDF nombre de archivo2026 contiene2027 hechos y tarifas;tabla de precios de lectura visual. Formulario en blanco público por permiso04–17or04–24July/mínimo2weeks;2calendarrows. CHF1000 El importe de los depósitos de la contribución se calcula en el importe de la cuota de crédito..",
+    "Ecolint bilingüe EN/Política de FR leída directamente;Introducción5–7booking/cuerpo5–6 vinculado a la L existente296 sin duplicado. Ciencia7–11,Película9–13 y la mitad de la actividad múltiple5–6 separados;Matvey Film requiere9birthday en octubre2026.",
+    "Ecolint camp-specific16Oct15:00vsgenericJueves fecha límite retenida;Abril2026Contrato francés, créditos para la enfermedad norefinancia de efectivo ordinaria,seguro extranjero requerido.",
+    "San Jorge13–20Feb2027 día exacto8+/1790CHF y de bordo10+/3490. Matvey se embarcó en el10birthday;Oscar bajo8. Los términos relacionados son verano2023,No el invierno2027;Inglés noferred.",
+    "LPB Issy página de origen199/4days/envasado549 Conflictos vinculados calendario octubre259/5half-días/envasado699;Diciembre199/4half-días. Calendario leído visualmente;4dayposter No prueba quinto día cancelado. Oscar Junior5–6 en2026 marcado más tarde.",
+    "Samiad ENcamp-la vida/Actividad múltiple6+/2027fees3550–4000GBP;6 ventanas de la temporada del campus nunca14night sesiones confirmadas. El campus se ha convertido en un centro de estudios/Conflictos de preguntas frecuentes del domingo;Menú de robótica404 No2027 Cursos de robótica.",
+    "La moda del Techday7–10/Redstone9–12 y de bordo8–16 separados;695GBP/año desconocido,computadora portátil propia/alquiler70/la configuración55/extendido30+30. Consejo de agosto2026/de modalidad2020 No2027;No se han inventado fechas o confirmaciones exactas en inglés.",
+    "El operador de Madrid informa directamente sobre las actividades de los niños españoles y extranjeros.El expediente de robótica se actualizóES;Manga1oPrimaria+ y materiales propiosproducto.Date 21 de junio de 30 de julio a 22 de junio 31 de julio y febrero/marzoRefresh prevén la creación de la misma sesión.",
+    "15 nuevos calendarios/CSI de la familia;1924 el número de identificación de identidad/parejas de fechas conservadas,104 Calendario de la exposición no cambiado. Puente de potencia,canónico/JSON público/SQLite está de acuerdo;78familyscenarios y0fullyauditedcountries.",
+    "La interfaz localnativa muestra 376 expedientes/33 países/59 Suiza/587 fuentes y seis nuevos escenarios familiares.",
+    "El escenario de Ginebra selecciona cuatro programas: Ecolint+CHE+EN+Oscar, presentaciones de filtraciónIntroducciónRobotica/MultiactividadMedio;Ciencia/Filme excluido.",
+    "Montana escenopick restablece los filtros y abre el CP006 detalles;2/3week cuatro precios/depósito1000 mostrado;la lista de variantes ha ampliado04–17and04–24July2027.",
+    "En la selección de escenarios se muestran 6+/14noches2027 cuotas y explicaciones de la ventana de temporada; no se presentaron formularios o no se han salvado los planes."
+  ]
+}

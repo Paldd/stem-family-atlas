@@ -1,0 +1,41 @@
+{
+  "asof": "2026-10-05",
+  "version_scope": "Europe programmes v63",
+  "status": "ongoing",
+  "world_complete": false,
+  "new_dossiers": 16,
+  "new_calendar_rows": 36,
+  "legacy_campus_rows_reused": 22,
+  "dossiers_total": 141,
+  "countries_total": 28,
+  "swiss_total": 25,
+  "official_urls_total": 262,
+  "global_goal_status": "active",
+  "findings": [
+    "Esparcia de tecnología:25 ventanas del campus; juego25, Python24. LEGO6+ no ha probado la fecha de Junior-oferta de menú. Python Zúrich6–9Oct2026 vendido;11–14Oct2027 No se ofrecen. El campus-las identidades legales específicas conservan Ginebra/El pullo/Zurich mismo-filas de fechas separadas.",
+    "Licenciatura2027: Habilidades digitales10–17 EN directamente en2027PDF; Junior6–9 Día general de las lenguas. Cuatro-semana total12800 y por separado400 No doble-contables.",
+    "El liderazgo de Champittet11+; Talleres asociados de mayores no transferidos a Junior. Tech Spark en Champittet es un programa diferente.",
+    "Las rocas AI11+ EN archivo2026; Clásico francés9+ es un programa diferente. JMA París5–7/8–9/10–12 separados;2027 Las solicitudes no fijan fechas del campamento.",
+    "Saint-Denis2026 cancelado;2027 desconocido. Saint-Charles nueva página sin edad/año; viejo2026 precio y condiciones no prometen futuro.",
+    "España LIFE VEX10–14 EN; San Jorge6–10 EN precio330/645/950/1240 archivo2026;200credited de la tasa. Chester .2027 enlaces de banner2026 Fichaje PDF; registro diciembre2026, no futuras fechas. Alicante2027 edad futura/EN/lugar de celebración/horario/precio aún desconocido."
+  ],
+  "preservation_checks": "scripts/verify-europe-camps-v63.py",
+  "ui_verification": {
+    "status": "passed_local_preview",
+    "checks": [
+      "21 escenarios incluidos Suiza2027 seleccionados por clic semántico real; corregir cuatro escogidas y la razón de la ruta por edad visible",
+      "Dos programas Lyceum seleccionados con cajas de verificación; comparación realizada muestra diferentes edades, precios reales, EN y alojamiento",
+      "Francia / Jeannine / Oscar sólo devuelve los Juniores; ambos filtros regresan0 porque los grupos de edad están separados",
+      "1280,390,320px no tienen documento horizontal sobrepeso;390px activa comparación",
+      "No hay registros de errores del navegador"
+    ],
+    "screenshot": "europe-camps-v63-preview.png",
+    "prior_limitation": "V62 clic de entrega de entrada permaneció no confirmado. Tab v63 fresco clicks semánticos reales y controles de casilla de verificación tuvieron éxito; no se utilizó mutación DOM o despacho scripted."
+  },
+  "remaining_scope": [
+    "Cambio final, idiomas, precios y admisión de 2027 programas no publicados",
+    "Otros operadores y programas de invierno y verano en países prioritarios",
+    "Coordenadas de superficie completadas por family-cost scenarios y calificación editorial del objetivo",
+    "Ningún país ha sido reconocido como plenamente probado; el objetivo mundial es activo"
+  ]
+}

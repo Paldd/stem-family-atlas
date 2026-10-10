@@ -1,0 +1,422 @@
+{
+  "version": 118,
+  "asof": "2026-10-06",
+  "scope": "Seleccionado cercano portal de entrada de la competencia CRI/MEX y una ruta específica para niños, con equipos parciales/estimaciones de registro.",
+  "sources": [
+    {
+      "key": "tecpro",
+      "url": "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "final_url": "https://tdrobotica.co/tecpro-challenge-2026-2027",
+      "status": 200,
+      "bytes": 117409,
+      "sha256": "d2c462fcf79d638e4b93cb37085603512983bcea4dec6f60e0543c233e8865fa",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "tecpro.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "tecpro-rules",
+      "url": "https://drive.google.com/uc?export=download&id=155FHPkwTjHMRqx2FVbaGtKlrFt3H2VA9",
+      "final_url": "https://drive.usercontent.google.com/download?id=155FHPkwTjHMRqx2FVbaGtKlrFt3H2VA9&export=download",
+      "status": 200,
+      "bytes": 2411042,
+      "sha256": "219634f16ea6dde2de20eb205fc410e522e57cc2f0b9ff1fd0a2090bded46ec5",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "tecpro-rules.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "luva",
+      "url": "https://www.torneoluva.com/",
+      "final_url": "https://www.torneoluva.com/",
+      "status": 200,
+      "bytes": 1692,
+      "sha256": "ad1e555945e376a76df4d0ef243d4c7422a72e4134b207105f1a924ea4604fe3",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "luva.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Título HTML y referencia de guión propio; cláusulas selectivas de contenido leídas en paquete vinculado propio."
+    },
+    {
+      "key": "robotifest",
+      "url": "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "final_url": "https://www.tec.ac.cr/robotifest-ucr-2026-festival-robotica-ciencia-tecnologia-innovacion",
+      "status": 200,
+      "bytes": 101255,
+      "sha256": "8f44a5d7d263ecbcc079295ece435e827e8d25c82847779a7d423f1bca01d5ab",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "robotifest.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "makex",
+      "url": "https://www.creativakids.com/makex.php",
+      "final_url": "https://www.creativakids.com/makex.php",
+      "status": 200,
+      "bytes": 64606,
+      "sha256": "bb83260df1b9b5afa475f849b681644cd3f0d3f03e4e2e8d6eef6d2cd195386f",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "makex.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "mtiny",
+      "url": "https://www.creativakids.com/makexmtinytreasuretrail.php",
+      "final_url": "https://www.creativakids.com/makexmtinytreasuretrail.php",
+      "status": 200,
+      "bytes": 73627,
+      "sha256": "02ce45ad45844784f4b65a2d50c00fd1fa2b41a2ddb48756875a58ced505b11b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "codey",
+      "url": "https://www.creativakids.com/makexcodey.php",
+      "final_url": "https://www.creativakids.com/makexcodey.php",
+      "status": 200,
+      "bytes": 73057,
+      "sha256": "1fdd6dd6e0870b6329c67719f6c2775757de777ff644334a317eb4df3f9ba75b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "codey.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "inspire",
+      "url": "https://www.creativakids.com/makexinspire.php",
+      "final_url": "https://www.creativakids.com/makexinspire.php",
+      "status": 200,
+      "bytes": 70392,
+      "sha256": "a95faf0880b2c7dae277c2b45b2285dc9858bdff9c46b241d974dd94e420460f",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "inspire.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "starter",
+      "url": "https://www.creativakids.com/makexstarter_signal_rise.php",
+      "final_url": "https://www.creativakids.com/makexstarter_signal_rise.php",
+      "status": 200,
+      "bytes": 71204,
+      "sha256": "47e170adabba4a10af726e1677f4c30fe340a332c8fc7667a0803ab48a471205",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "starter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "mtiny-rules",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/Reglamento+Mtiny+Treasure+Trail.pdf",
+      "final_url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/Reglamento+Mtiny+Treasure+Trail.pdf",
+      "status": 200,
+      "bytes": 6420035,
+      "sha256": "879236d5321341563cde954887436ee11354de530e355b4d610421193f21ed43",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny-rules.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "codey-rules",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/Reglamento+Codey+Rocky+Theme+Park.pdf",
+      "final_url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/Reglamento+Codey+Rocky+Theme+Park.pdf",
+      "status": 200,
+      "bytes": 6164144,
+      "sha256": "f412c5b76bec5ef0b0e743cb35d13c87d8be4d646ae91fa97df245d3bd34ac25",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "codey-rules.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "mtiny-price",
+      "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+      "final_url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/inscripcion-mtiny-treasure-trail",
+      "status": 200,
+      "bytes": 172710,
+      "sha256": "384dec7f1229f8cbb8ab1d97722dcb4ac975ce198289f16643167f6318c3b767",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny-price.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "codey-price",
+      "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+      "final_url": "https://creativashop.com/collections/codey-rocky-theme-park/products/inscripcion-codey-rocky-theme-park",
+      "status": 200,
+      "bytes": 174751,
+      "sha256": "e5debb8779d114ff819e5bb9add3165f8a2ab6a056607ea2e5ad2212b22a6dee",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "codey-price.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "vex-laguna",
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5410.html",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_scope": "Error de recuperación; no se dedujo ningún cuerpo primario. Se rechazaron las vías de PDF de Inspire/Starter; se recuperaron los archivos en inglés vinculados de forma independiente."
+    },
+    {
+      "key": "roborave-pv",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "final_url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "status": 200,
+      "bytes": 80871,
+      "sha256": "b3caee14840d237b26345024521b2aebbb1ee4fd4cbc61243e66509986ede71b",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "roborave-pv.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "lati",
+      "url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "final_url": "https://laliga.lati.mx/wp-content/uploads/2026/09/Convocatoria-LTRC-3T-1.pdf",
+      "status": 200,
+      "bytes": 435186,
+      "sha256": "d35bc79aacc2b335fb0539f4cee4e11ad18626f64605f110188ec9f79de5ccc6",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "lati.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "fll-mx",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "bytes": 70282,
+      "sha256": "f46791a35cda807ccd15d247d107206524c87377e119d6ed4d6daaed422d9654",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "fll-mx.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "inspire-rules",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/2026+MakeX+Inspire+Code+Courier+Rules+V1.0+spanish.pdf",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_scope": "Error de recuperación; no se dedujo ningún cuerpo primario. Se rechazaron las vías de PDF de Inspire/Starter; se recuperaron los archivos en inglés vinculados de forma independiente."
+    },
+    {
+      "key": "starter-rules",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/2026+MakeX+Starter+Signal+Rise+Rules+V1.0+Spanish.pdf",
+      "error": "HTTP Error 403: Forbidden",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_scope": "Error de recuperación; no se dedujo ningún cuerpo primario. Se rechazaron las vías de PDF de Inspire/Starter; se recuperaron los archivos en inglés vinculados de forma independiente."
+    },
+    {
+      "key": "inspire-rules-linked",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/%5BEnglish%5D+2026+MakeX+Inspire+Code+Courier+Rules+Guide.pdf",
+      "final_url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/%5BEnglish%5D+2026+MakeX+Inspire+Code+Courier+Rules+Guide.pdf",
+      "status": 200,
+      "bytes": 1831922,
+      "sha256": "4c7cb0ed5e876e4b5ffdef92de79d0412b2e1f08806f18af4c5a5153a36db926",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "inspire-rules-linked.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "starter-rules-linked",
+      "url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/%5BEnglish%5D+2026+MakeX+Starter+Signal+Rise+Rules+Guide.pdf",
+      "final_url": "https://s3.us-east-1.amazonaws.com/lms.creativakids.com/makex/%5BEnglish%5D+2026+MakeX+Starter+Signal+Rise+Rules+Guide.pdf",
+      "status": 200,
+      "bytes": 4482906,
+      "sha256": "15dc1b64a9278148f6d86d5b2d41c87d860e19a23f963cb2863e9d7ded264317",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "starter-rules-linked.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "roborave-amaze",
+      "url": "https://www.roboraveinternational.org/en/programs/a-maze-ing",
+      "final_url": "https://www.roboraveinternational.org/en/programs/a-maze-ing",
+      "status": 200,
+      "bytes": 77441,
+      "sha256": "228c4284275f8d72d5f2764958d6a63a59e5d6ba513103eca1def42a9e026360",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "roborave-amaze.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Cláusulas de programa/regla/precio público seleccionadas; no una auditoría completa del sitio, país o de la entrada actual."
+    },
+    {
+      "key": "luva-bundle",
+      "url": "https://www.torneoluva.com/assets/index-Bwaq_IEY.js",
+      "final_url": "https://www.torneoluva.com/assets/index-Bwaq_IEY.js",
+      "status": 200,
+      "bytes": 1222456,
+      "sha256": "1baca614728f39f115c1fb90e5d81081f48729a50de26b5adc7e7b1a57ca9eac",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "luva-bundle.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Leer el texto público de JS: 10Octubre/SumoLEGOsecundaria/InscripcionesCerradas; no se ejecuta el código ni se presenta el formulario."
+    },
+    {
+      "key": "mtiny-kit",
+      "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+      "final_url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/makex-mtiny-treasure-trail-kit",
+      "status": 200,
+      "bytes": 176815,
+      "sha256": "ade04ad97fccc04730627dc8c85ceeb0feb21f48049b3101ee36566a2c5b45c1",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny-kit.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "mtiny-arena",
+      "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+      "final_url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/arena-mtiny-treasure-trail",
+      "status": 200,
+      "bytes": 177256,
+      "sha256": "8ab653a52da3ebb3433bda7157f65e226a07da493b379d7e570f924aa778886a",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny-arena.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "mtiny-robot",
+      "url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+      "final_url": "https://creativashop.com/collections/makex-mtiny-treasure-trail/products/mtiny-discover-kit",
+      "status": 200,
+      "bytes": 227211,
+      "sha256": "3823036236f4481e1981e68bfa88ed2d3672337f643b52189b423e6ca1a73391",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "mtiny-robot.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "codey-robot",
+      "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+      "final_url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky",
+      "status": 200,
+      "bytes": 208294,
+      "sha256": "e8f752a21bf8a53123cea3bc72e9a0a127e53fcf4675a417948e6f19140ca925",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "codey-robot.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "codey-expansion",
+      "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-expansion-kit",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_scope": "Error de recuperación; no se dedujo ningún cuerpo primario. Se rechazaron las vías de PDF de Inspire/Starter; se recuperaron los archivos en inglés vinculados de forma independiente."
+    },
+    {
+      "key": "codey-arena",
+      "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena",
+      "final_url": "https://creativashop.com/collections/codey-rocky-theme-park/products/codey-rocky-theme-park-arena",
+      "status": 200,
+      "bytes": 177917,
+      "sha256": "f4a274c26158935e1a438dfab6715b2f0f0ba9c0ba3e0e8875882556f4608034",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "raw_filename": "codey-arena.html",
+      "body_snapshot_retained": true,
+      "content_scope": "HTMLmetadatos explícitos MXN/precio más cláusulas de compra/completo seleccionadas. Algunos precios visibles ocultos detrás de la solicitud de información; no aceptado en la factura actual2026, existencias no de la competencia."
+    },
+    {
+      "key": "codey-pack",
+      "url": "https://creativashop.com/collections/codey-rocky-theme-park/products/makex-codey-rocky-theme-park-competition-pack",
+      "error": "HTTP Error 404: Not Found",
+      "checked": "2026-10-06",
+      "retrieval_method": "direct_public_http",
+      "body_snapshot_retained": false,
+      "content_scope": "Error de recuperación; no se dedujo ningún cuerpo primario. Se rechazaron las vías de PDF de Inspire/Starter; se recuperaron los archivos en inglés vinculados de forma independiente."
+    }
+  ],
+  "visual_pdf_pages": {
+    "tecpro-rules": [
+      5,
+      8,
+      9
+    ],
+    "mtiny-rules": [
+      2
+    ],
+    "codey-rules": [
+      2
+    ],
+    "inspire-rules-linked": [
+      7
+    ],
+    "starter-rules-linked": [
+      6
+    ],
+    "lati": [
+      2
+    ]
+  },
+  "new_visual_pdf_checks": 8,
+  "web_reader": [
+    {
+      "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5410.html",
+      "retrieval": "primary_web_reader",
+      "direct_http_status": 403,
+      "body_scope": "Metadatos seleccionados del evento, agenda y requerimiento de cuaderno.",
+      "observed_open_spots": 24,
+      "capacity": 30,
+      "free": true,
+      "deadline": "24-Oct-2026 00:00EDT",
+      "snapshot_date": "2026-10-06"
+    }
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  }
+}

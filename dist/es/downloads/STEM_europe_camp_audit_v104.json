@@ -1,0 +1,138 @@
+{
+  "asof": "2026-10-05",
+  "version": 104,
+  "status": "progress",
+  "scope": "SeleccionadoCHE/FRA/ESP2026 otoño y2027invierno/primavera/verano; conflictos de programa/contrato/fecha/idioma.",
+  "new_dossiers": 13,
+  "new_operator_groups": 7,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "ensr-lausanne-holidays",
+    "ensr-futuremakers",
+    "spark-deep-freeze",
+    "spark-science-sport",
+    "xlabs-geneva-engineers",
+    "xlabs-geneva-forensic",
+    "hif-spring-journey",
+    "eisb-english-summer",
+    "eisb-spanish-summer",
+    "eisb-chess-robotics",
+    "eisb-scientific-talent",
+    "ecolem-english-summer",
+    "iab-youth-summer"
+  ],
+  "new_calendar_rows": 22,
+  "new_family_session_ics": 21,
+  "new_family_ics": 21,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 0,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 758,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1180,
+  "country_dossier_counts": {
+    "CHE": 106,
+    "FRA": 60,
+    "ESP": 67,
+    "ITA": 6,
+    "GBR": 8,
+    "CHN": 8,
+    "HKG": 6,
+    "FIN": 5,
+    "TWN": 53,
+    "SGP": 78,
+    "JPN": 46,
+    "KOR": 16,
+    "USA": 81,
+    "CAN": 94,
+    "CRI": 13,
+    "MEX": 34,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "V104 · Tandem IMS sólo a sus alumnos",
+      "detail": "Fechas2027:15–19/22–26febrero,26–30de abril/3–5mayo,19–23de julio;4–10,el equipoEN/DE/FR. operador directamente camps only attending TandemIMS. por lo que no se añade como un campo de entrada abierto; en el traslado/la admisión puede convertirse en un recorrido escolar. Flyerexample ¿Qué más ?2022/24/25, No , no .2027el contrato.",
+      "next_action": "Cuando se discuta la escuela permanente, comprobar el camp admission después de la matrícula real y el pago completo, y cuando se llega elegir a los operadores abiertos.",
+      "url": "https://www.tandem-ims.ch/en/holiday-camps"
+    },
+    {
+      "country": "Suiza",
+      "iso": "CHE",
+      "provider": "v104 · Spark/HIF: los nuevos títulos y los viejos tratados",
+      "detail": "Spark FAQ más suave del nuevo pacto/las tarjetas:100/70/50% vs100CHF/50%/no refund; hold48vs72horas/max20vs24spots. ScienceSport2027el índice lleva aJuly2026el programa. Superheroes detailApril2026,bookliststartApril5 2027 sin un final comprobado: No se ha inventado un nuevo turno de cinco días.. HIFENApril10–30vsDEMarch30–April10/20de nochevs14+7;12+y luego, de la mismaICSNo , no ..",
+      "next_action": "una edición confirmada de las fechas/contratos/noches/precios y un itinerario de vuelo específico; la disponibilidad de BookNow no es una reserva.",
+      "url": "https://www.sparkscience.ch/terms-and-conditions"
+    },
+    {
+      "country": "Francia",
+      "iso": "FRA",
+      "provider": "v104 · lenguaje y calendario son más importantes que las palabras robotics",
+      "detail": "ÉcoleM100%EN/3–7/niños y niñas de5–16de julio2027, Pero los precios son más altos.July6–10/13–17 y care16vs16:30;4día de la segunda semana sin indicar el pase. L’ÉcoleDuNumérique Campus26LePuy:robot8–14/60EUR/3días14:30–16:30 de la26–28Oct/28–30Dec2026/15–17Feb/12–14Apr2027; CodeGaming11+60EUR1día. maestroEN/ES/RU no está establecido, no se ha añadido al calendario familiar como un campamento de idiomas adecuado.",
+      "next_action": "de acuerdo2027precioÉcoleM/de la mismacampus; para elCampus26comprobar el real EN instructor técnico hasta la recomendación.",
+      "url": "https://www.lecoledunumerique.fr/activites/stages-vacances/"
+    },
+    {
+      "country": "España",
+      "iso": "ESP",
+      "provider": "v104 · EISB/IAB/San Patricio: año del precio y niños externos",
+      "detail": "EISB2027coursesde labirthcohorts/de las familias externas, priceimage2026yearlybirdJun1 2026 No , no .2027el precio. IABel índice2027¿Qué es eso ?detail2026, sibling/afternoonNo puedo soportarlo.. SanPatriciohomeenlacesummerredireccionar en2114byteInspiredSummerCamps sin el cuerpo del programa;PDF2022la página de la agencia no se establece2027el cambio. de los nuevos datos confirmados2027SanPatricioNo hay condiciones.",
+      "next_action": "sus2027PDF/valores/datas/formatos/retorno, incluyendo elforeignintake individual y el EN de cada clase técnica.",
+      "url": "https://eisbarcelona.com/eisb-international-summer-camps/school-summer-camps/"
+    },
+    {
+      "country": "Europa / el mundo",
+      "iso": "CHE",
+      "provider": "v104 · cubierta y el siguiente paso profundo",
+      "detail": "Las nuevas tarjetas complementan las pensiones europeas revisadas anteriormente; No son los que reemplazan a los campamentos de todos los países.. de nuevo TechSparkLEGORobotics6+En directoEN/Arduino12+CHF100kitno establece nuevas datedLEGO2027 cambios. se conservan todas las asiáticas/de los Estados Unidos/los campos latinos, escuelas y resultados5–10años, las ligas/Las competiciones/las exposiciones/rutas familiares;0de los países totalmente verificados.",
+      "next_action": "continuar con las prioridades CHE/FRA/ESP/Europe/TWN/SGP/KOR/JPN/USA/CAN/CRI/MEX/LatAm, los programas reales y detallados y invoices2026–27; publicar la incertidumbre, no es un ranking mundial artificial.",
+      "url": "https://online.techsparkacademy.ch/robotics-course/"
+    }
+  ],
+  "calendar": {
+    "events": 3309,
+    "learning_records": 1978,
+    "family_ics": 2564,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1515,
+    "reused_legacy_events": 69,
+    "season_windows": 46
+  },
+  "primary_retrievals": {
+    "direct_attempts": 29,
+    "http200": 26,
+    "selected_html_bodies": 25,
+    "unusable_programme_shells": 1,
+    "retrieval_errors": 3,
+    "unique_actual_pdfs": 0,
+    "selected_visual_page_checks": 0,
+    "primary_web_reader_fallbacks": 3
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "13 nuevos expedientes en 7 grupos de operadores/22calendarios exactos/21planificación familiarICS/0nuevo plazo/0ventana de nueva temporada; conservados los antiguos 745 expedientes/3287 eventos.758total/39países/1180URLs/22nuevosURLs;no se trata de un ranking global ni de un país completo.",
+    "ENSRUn campo familiar general con dos grupos/10datesnotduplicated;forma otoño135young140older/95morning60afternoon,seguro y cancelación2026not2027.En inglés sólo los futuristas13–18/1250max12min6;excludido: familia ICS. Francés genérico/Inglés formateacher EN.",
+    "Inglés de chispa5–11/Febrero15–19 2027CHF750/Apr26–30CHF795;un programa2026detailcontradiction. Términos estrictos/cancelación de la reserva100CHF/50percent/No lo hace14dvssoftFAQ;el tiempo48vs72h/máximo20vs24spots. Disponibilidad de una foto no confirmada. Los superhéroes2027startalone No en el futuro5dayevent.",
+    "XLabs Ginebra8–12/Frén bilingüe/375half595full/almuerzo propio25care/PPEcert;de hecho5dayengineeringordetectivecurriculum. No InglésSólo la garantía. El campamento5b2019refund Diferentes trabajos/administrador50andexact10ambiguous;admisión extranjera no asumida.",
+    "EISBInglés/Nacimiento español2017and2020;robotica/Ciencia2012–2019onlyMatvey. Ciencia EN Explicito no prueba robótica EN. Julio2027only/No hay semanas de invento;2026priceimageandearlybirdnotcurrentfee. Acampada una actividad no completa.",
+    "ÉcoleM3–7/EN100percent/de forma externa/2027weeks5–9/12–16second4daysunknownexcludedday;precio395335stillJul6–10/13–17/cuidado90hourmismatch/almuerzo propio. IAB2027index5weeks/EN/6–17but210Summer2026/Detalle2026siblingsafternoonnotcurrent2027promise.",
+    "HIF12–17/6985/20nightsvs14+7/ENApr10–30vsDEMar30–Apr10/vuelosincluidos el telescopio y300pickupextra: no hay un SCI exacto. Los alumnos de la escuela no tienen campamento abierto;El campus26roboticsFrenchpage No hay profesor ENESRU;San Patricio dirigió el terreno2022PDFnot2027programme.",
+    "29directattempts/26HTTP200(25selectedHTMLclauses+1titleonlyshell)/3errors/3primarywebreaderfallbackpages reteneruna respuesta privada. No hay PDF de este pase. Todo JSON/Esquema y líneas relacionales SQL/VCS/CSI/Filtros de JS/límite estático verificado de forma independiente. Todo el mundoObjectiveactive0fullyaudited."
+  ],
+  "next_priority": "Continúa en todo el mundo2026–27 general/Temática/STEM los campos,día/embarque/familia EN/ES/RU, especialmente en el/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/- Sí , lo sé .. Las facturas reales/edad DOBgrados/En el caso de los Estados miembros, el importe de los gastos de trabajo de los trabajadores/docente de lenguajevslecciones/la vida/apoyo/equipo/Cuidad nocturna/Las restituciones/lugares actuales. Escuelas/resultados5–10years/las ligas/Concursiones/exposiciones/las rutas familiares siguen siendo activas;ningún país completamente auditado."
+}

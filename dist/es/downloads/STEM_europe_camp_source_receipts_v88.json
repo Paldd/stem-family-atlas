@@ -1,0 +1,546 @@
+{
+  "asof": "2026-10-05",
+  "version": 88,
+  "scope": "39 HTML directo/Intentos de PDF,37HTTP200;directos403 y el viejo ALCNY404 retenidos.12Descargado en PDF,Leído/uso de límites separados. Una instantánea de web primaria,10Material PDF lecturas visuales;No39completos auditos de los programas.",
+  "sources": [
+    {
+      "key": "rosey-home",
+      "url": "https://www.roseysummercamps.ch/",
+      "final_url": "https://www.roseysummercamps.ch/",
+      "status": 200,
+      "bytes": 143279,
+      "sha256": "6761cae0aab56d530673afb36604e707ee998695fcd9b317432d1f1dee30ecf2",
+      "raw_filename": "rosey-home.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-cde-check",
+      "url": "https://summer.tasis.ch/dates-and-fees",
+      "final_url": "https://summer.tasis.ch/dates-and-fees",
+      "status": 200,
+      "bytes": 38425,
+      "sha256": "15c78c31d7c32b8a6a6ffa6ec150334097c5fcb83d0c911095e747964d2fc7b5",
+      "raw_filename": "rosey-cde-check.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "robbo-barcelona",
+      "url": "https://robboclub.es/barcelona/campverano26",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "agora-granada",
+      "url": "https://granada-college.agorainternationalschool.es/en/school-life/summer-camp",
+      "final_url": "https://granada-college.agorainternationalschool.es/en/school-life/summer-camp",
+      "status": 200,
+      "bytes": 64846,
+      "sha256": "1f8f60e26871c5d52272b8753d5e7dd40b171bf0bbd99e924548b299557f1e21",
+      "raw_filename": "agora-granada.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-winter",
+      "url": "https://www.leselfes.com/winter-camp/",
+      "final_url": "https://www.leselfes.com/winter-camp/",
+      "status": 200,
+      "bytes": 1361561,
+      "sha256": "726b9b4c711842b03bb532ecf3f5d8eef58c180b192711d7619a043f2adbfcd7",
+      "raw_filename": "leselfes-winter.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-classic",
+      "url": "https://www.roseysummercamps.ch/our-camps/legendary-classic/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/legendary-classic/",
+      "status": 200,
+      "bytes": 327487,
+      "sha256": "33694b7e797660c4c269100a09caedd400e6222d1130a5c5070b5da481ddb331",
+      "raw_filename": "rosey-classic.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-mountain",
+      "url": "https://www.roseysummercamps.ch/our-camps/my-mountain-adventure/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/my-mountain-adventure/",
+      "status": 200,
+      "bytes": 212640,
+      "sha256": "5aa3bcd919ef01bf8685bede96593725e30b971f7d91de04e47c8fb40fe91cee",
+      "raw_filename": "rosey-mountain.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-family",
+      "url": "https://www.roseysummercamps.ch/our-camps/my-family/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/my-family/",
+      "status": 200,
+      "bytes": 226747,
+      "sha256": "d7cea60e22a177e4590d1dfad87a1c7b030e31b693194d9ab735804fa4e5d5c0",
+      "raw_filename": "rosey-family.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-excellence",
+      "url": "https://www.roseysummercamps.ch/our-camps/excellence-camp/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/excellence-camp/",
+      "status": 200,
+      "bytes": 167249,
+      "sha256": "19201c93118d128acf3a6b514919b0e0c55d99d0628ad655bb5cb0d8f4fbda07",
+      "raw_filename": "rosey-excellence.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-chyulu",
+      "url": "https://www.roseysummercamps.ch/our-camps/chyulu-camp/",
+      "final_url": "https://www.roseysummercamps.ch/our-camps/chyulu-camp/",
+      "status": 200,
+      "bytes": 183976,
+      "sha256": "579cc50a51aec29fbd84e69590464e54aa7b8e9c42f828f1472f878c25fe1d60",
+      "raw_filename": "rosey-chyulu.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-faq",
+      "url": "https://www.roseysummercamps.ch/faq/",
+      "final_url": "https://www.roseysummercamps.ch/faq/",
+      "status": 200,
+      "bytes": 170011,
+      "sha256": "79763b7d0a853160129de5c6f75211a63b08ef99b6562ed452d31978ba510a24",
+      "raw_filename": "rosey-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-terms",
+      "url": "https://www.roseysummercamps.ch/terms-conditions/",
+      "final_url": "https://www.roseysummercamps.ch/terms-conditions/",
+      "status": 200,
+      "bytes": 76672,
+      "sha256": "4a09fb75c6fa964dc22475377e5d38a6980c0ea0c7c5cbd5d77e98280d2a2998",
+      "raw_filename": "rosey-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Condiciones de uso del sitio web/confidencialidad, no contrato de cancelación del campamento"
+    },
+    {
+      "key": "rosey-brochures",
+      "url": "https://www.roseysummercamps.ch/our-brochures/",
+      "final_url": "https://www.roseysummercamps.ch/our-brochures/",
+      "status": 200,
+      "bytes": 74063,
+      "sha256": "ac36fadb70f3c94b2141275cf7e25c7f47af63c39ed72b8356e1a951d9335075",
+      "raw_filename": "rosey-brochures.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-rates",
+      "url": "https://www.leselfes.com/dates-and-pricing/",
+      "final_url": "https://www.leselfes.com/dates-and-pricing/",
+      "status": 200,
+      "bytes": 968418,
+      "sha256": "96a55663889c1914d4a910997a9edd496226c126a0cc85a586dcf8f32ca38c80",
+      "raw_filename": "leselfes-rates.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-day",
+      "url": "https://www.leselfes.com/winter-day-camp/",
+      "final_url": "https://www.leselfes.com/winter-day-camp/",
+      "status": 200,
+      "bytes": 1232326,
+      "sha256": "ad7fd4103bddb8a32c6e9e34fab965d1ed057452f3de5ef96b3eff1a74b9176d",
+      "raw_filename": "leselfes-day.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-winter-form",
+      "url": "https://www.leselfes.com/winter-camp/enrol/",
+      "final_url": "https://www.leselfes.com/winter-camp/enrol/",
+      "status": 200,
+      "bytes": 626847,
+      "sha256": "fd62bf7f87074a49aa74a0081de74d874067356dc6eb47250083668fb84dca6b",
+      "raw_filename": "leselfes-winter-form.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "tasis-msp",
+      "url": "https://summer.tasis.ch/programs/msp",
+      "final_url": "https://summer.tasis.ch/programs/msp",
+      "status": 200,
+      "bytes": 85154,
+      "sha256": "4a1d71aa1c19d93fc127405a57ee969ee5a62402cd7283677a6a3f6866abc48b",
+      "raw_filename": "tasis-msp.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "tasis-hsp",
+      "url": "https://summer.tasis.ch/programs/hsp",
+      "final_url": "https://summer.tasis.ch/programs/hsp",
+      "status": 200,
+      "bytes": 100393,
+      "sha256": "bbd5f8c792620c75f460757de7685d683dfde2e8141e9c274b76f0b0ca75e59c",
+      "raw_filename": "tasis-hsp.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "tasis-faq",
+      "url": "https://summer.tasis.ch/admissions/faq",
+      "final_url": "https://summer.tasis.ch/admissions/faq",
+      "status": 200,
+      "bytes": 34968,
+      "sha256": "1cc3de4f4a8906fd591302dd33fd24cd9f6af7f540fe1496fb7499b581633663",
+      "raw_filename": "tasis-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "ics-paris",
+      "url": "https://www.icsparis.fr/student-life/ics-camps",
+      "final_url": "https://www.icsparis.fr/student-life/ics-camps",
+      "status": 200,
+      "bytes": 96044,
+      "sha256": "ae24a2da40bdc8bb6cb66b86933fe15a51e395d9003ac060333776bc12297a25",
+      "raw_filename": "ics-paris.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "asp-holiday",
+      "url": "https://www.asparis.org/english-and-holiday-programs/holiday-camps",
+      "final_url": "https://www.asparis.org/english-and-holiday-programs/holiday-camps",
+      "status": 200,
+      "bytes": 65729,
+      "sha256": "026a7fbb0e62f3b49ca49df89571cd359d6a4048601cfb2440711cc95b0e69a1",
+      "raw_filename": "asp-holiday.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-atglance",
+      "url": "https://www.roseycamps.ch/files/at-a-glance.pdf",
+      "final_url": "https://www.roseycamps.ch/files/at-a-glance.pdf",
+      "status": 200,
+      "bytes": 3086091,
+      "sha256": "1864cc32ce79b62705d1d84fb61d30507766fe3947e5bb3caedc9d2cc5c2c96e",
+      "raw_filename": "rosey-atglance.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-plan-rolle",
+      "url": "https://www.roseycamps.ch/files/plan-rolle.pdf",
+      "final_url": "https://www.roseycamps.ch/files/plan-rolle.pdf",
+      "status": 200,
+      "bytes": 409900,
+      "sha256": "420c5223b63c6670084cf970cbace517574519413cc3e53a4ae2a7e0a30f0c97",
+      "raw_filename": "rosey-plan-rolle.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Mapa del campus descargado; no utilizado como prueba verificada de programa/coordinada"
+    },
+    {
+      "key": "rosey-plan-gstaad",
+      "url": "https://www.roseycamps.ch/files/plan-schonried.pdf",
+      "final_url": "https://www.roseycamps.ch/files/plan-schonried.pdf",
+      "status": 200,
+      "bytes": 410049,
+      "sha256": "f99243b6ee2a301780a15b0d292e3ca502fe3e3b6ad458ae34a1131218d1a40e",
+      "raw_filename": "rosey-plan-gstaad.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Mapa del campus descargado; no utilizado como prueba verificada de programa/coordinada"
+    },
+    {
+      "key": "leselfes-winter-pdf",
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-REGISTRATION-FORM-DIGITAL-avec-champs.pdf",
+      "final_url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-REGISTRATION-FORM-DIGITAL-avec-champs.pdf",
+      "status": 200,
+      "bytes": 394271,
+      "sha256": "cca02c9e7e6d08f6df6d12608fe7e876b45b90f1b138dfeb7c2f581c299964e2",
+      "raw_filename": "leselfes-winter-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-day-pdf",
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-DAY-CAMP-26-27-REG-FORM-DIGITAL-2026-2027.pdf",
+      "final_url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-DAY-CAMP-26-27-REG-FORM-DIGITAL-2026-2027.pdf",
+      "status": 200,
+      "bytes": 410264,
+      "sha256": "3cad7af248be7668e75aa1a47aa4a10819c3ccc5c253fed456dbce1b73c11144",
+      "raw_filename": "leselfes-day-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "ics-ai-pdf",
+      "url": "https://resources.finalsite.net/images/v1777969490/icsparisfr/ja8azmnzktlftmytqnm2/AIStartupSprint.pdf",
+      "final_url": "https://resources.finalsite.net/images/v1777969490/icsparisfr/ja8azmnzktlftmytqnm2/AIStartupSprint.pdf",
+      "status": 200,
+      "bytes": 3054764,
+      "sha256": "60d5ca4004cc7590f4c97f6b39effa2146060616ea17ad559062c303c6cb16c9",
+      "raw_filename": "ics-ai-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "ics-camp-pdf",
+      "url": "https://resources.finalsite.net/images/v1781770428/icsparisfr/rny5pqyyjbfg0uffmyhq/alcnyicscampposter2026_3.pdf",
+      "final_url": "https://resources.finalsite.net/images/v1781770428/icsparisfr/rny5pqyyjbfg0uffmyhq/alcnyicscampposter2026_3.pdf",
+      "status": 200,
+      "bytes": 384837,
+      "sha256": "df670a04f6ccc8c2ff461ca0099119bc8d4003e865e077c7eb6d99c6d163f0d5",
+      "raw_filename": "ics-camp-pdf.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "alcny-camps",
+      "url": "https://alcny.com/next-camp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "rosey-financial",
+      "url": "https://www.roseycamps.ch/files/financial-conditions.pdf",
+      "final_url": "https://www.roseycamps.ch/files/financial-conditions.pdf",
+      "status": 200,
+      "bytes": 322813,
+      "sha256": "6115afa85d4437e9fd22872958673cdf37b2ab3b6645873534cd162cd7b37c17",
+      "raw_filename": "rosey-financial.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-faq",
+      "url": "https://www.leselfes.com/about-us/faq/",
+      "final_url": "https://www.leselfes.com/about-us/faq/",
+      "status": 200,
+      "bytes": 949067,
+      "sha256": "b99e50cff94d40b4c06d3fe66b828bd10df765fd7a527f4e87f839da372e2699",
+      "raw_filename": "leselfes-faq.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-activities",
+      "url": "https://www.leselfes.com/winter-camp/winter-camp-activities/",
+      "final_url": "https://www.leselfes.com/winter-camp/winter-camp-activities/",
+      "status": 200,
+      "bytes": 1012433,
+      "sha256": "c8a69ce9083fcef339d19929c4cc64f8dc19a8f1789aab05e5f1c777e2140b21",
+      "raw_filename": "leselfes-activities.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "leselfes-day-form",
+      "url": "https://www.leselfes.com/winter-day-camp/enrolnow/",
+      "final_url": "https://www.leselfes.com/winter-day-camp/enrolnow/",
+      "status": 200,
+      "bytes": 406260,
+      "sha256": "1c82fcc84f0c300bd673210c319ca3d6d06f988b3d82b187e71091a2bbe5638e",
+      "raw_filename": "leselfes-day-form.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "ics-yira-public-file",
+      "url": "https://drive.google.com/uc?export=download&id=1rK7faz6pWZRaCs0IW0LDIrSiz6ENOO5u",
+      "final_url": "https://drive.usercontent.google.com/download?id=1rK7faz6pWZRaCs0IW0LDIrSiz6ENOO5u&export=download",
+      "status": 200,
+      "bytes": 42177358,
+      "sha256": "5554dc3f3ac4675b1d35de92a30d8c7b425234d09728b5a2c4f9de166d3df472",
+      "raw_filename": "ics-yira-public-file.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "ics-hpair-public-file",
+      "url": "https://drive.google.com/uc?export=download&id=1O-q7h3QEYzEZTT0-JxDAjtmSnlh2vpWb",
+      "final_url": "https://drive.usercontent.google.com/download?id=1O-q7h3QEYzEZTT0-JxDAjtmSnlh2vpWb&export=download",
+      "status": 200,
+      "bytes": 16807207,
+      "sha256": "7a497bbfa74c50b2ca5941178b3e802b451ae40ddf419d1d51c645ad74061c64",
+      "raw_filename": "ics-hpair-public-file.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "El archivo HPAIR vinculado identifica al anfitrión de JBCN y la duración conflictiva de 3/5 días; no admitido como cohort de París exacta"
+    },
+    {
+      "key": "alcny-camps-2026",
+      "url": "https://alcny.com/next-camp-2026",
+      "final_url": "https://alcny.com/next-camp-2026",
+      "status": 200,
+      "bytes": 312433,
+      "sha256": "9938bfa56f147a765b24935f7b5e81393477f471fd33ed677b7592f0353ef2d5",
+      "raw_filename": "alcny-camps-2026.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "robbo-current-terms",
+      "url": "https://robboclub.es/barcelona/es/terms",
+      "final_url": "https://robboclub.es/barcelona/es/terms",
+      "status": 200,
+      "bytes": 217602,
+      "sha256": "1200e6b88b699d9533750414cb893c1e909c9154bf0e0782151322bffb8b0a96",
+      "raw_filename": "robbo-current-terms.html",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-chyulu-sample",
+      "url": "https://www.roseycamps.ch/files/chyulu-sample-programme-camps.pdf",
+      "final_url": "https://www.roseycamps.ch/files/chyulu-sample-programme-camps.pdf",
+      "status": 200,
+      "bytes": 1978135,
+      "sha256": "d89cfbf3800099d6910a6ca4335c20e0b5e74610186161fe570fac75f99552e2",
+      "raw_filename": "rosey-chyulu-sample.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    },
+    {
+      "key": "rosey-chyulu-codes",
+      "url": "https://www.roseycamps.ch/files/chyulu-codes.pdf",
+      "final_url": "https://www.roseycamps.ch/files/chyulu-codes.pdf",
+      "status": 200,
+      "bytes": 3688076,
+      "sha256": "9db91a2b25f96f16c165ffec2d7a3044d3b08d99c1944c1083946e8a3de5ff6d",
+      "raw_filename": "rosey-chyulu-codes.pdf",
+      "body_snapshot_retained": true,
+      "content_scope": "Organismo principal retenido; hechos del programa, profundidad de lectura y límites descritos en los expedientes/auditoría"
+    }
+  ],
+  "web_primary_reads": [
+    {
+      "url": "https://robboclub.es/barcelona/campverano26",
+      "method": "herramienta web completa de la página primaria leído; directo HTTP403 retenido por separado",
+      "raw_filename": "robbo-web-primary.txt",
+      "sha256": "550125c315fe7ac996e374b4b9b595b528d28957173a5993b0ac2eec6b2c135e",
+      "bytes": 16036,
+      "read_scope": "Currículo propio de verano 2026, edades, fechas, tarifas. Enseñanza de idioma no confirmada; error de tipografía de día de semana retenido. No un recibo directo HTTP200."
+    }
+  ],
+  "visual_primary_reads": [
+    {
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-REGISTRATION-FORM-DIGITAL-avec-champs.pdf",
+      "page": 1,
+      "method": "Invierno2026–27 matriz arancelaria incl. uno de abril2300;registro150/médico120/casco15,período de lenguaje50min y tarifas opcionales.",
+      "render_sha256": "d9b73511b872b081137be098b04eefa209ae6af9d92456d74f569235538ba89c",
+      "render_bytes": 319646
+    },
+    {
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-REGISTRATION-FORM-DIGITAL-avec-champs.pdf",
+      "page": 2,
+      "method": "Cancelación de embarque CHF500/semana deducción con póliza;medical120/semanario;clausula de denegación de visado separada, no de días.",
+      "render_sha256": "33d018036edc4af3b5c43efba9348d98819d0b7282db93898b9e18979949082c",
+      "render_bytes": 426751
+    },
+    {
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-DAY-CAMP-26-27-REG-FORM-DIGITAL-2026-2027.pdf",
+      "page": 1,
+      "method": "DÍA2026–27 350/450,médico25/día,casco3,depósito200,EN/FR50min/No el sábado.",
+      "render_sha256": "777010b4961e33d2451a9831d4dfb8185b79ed0143a38e642cb14a1d1dbde7cf",
+      "render_bytes": 361932
+    },
+    {
+      "url": "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-DAY-CAMP-26-27-REG-FORM-DIGITAL-2026-2027.pdf",
+      "page": 2,
+      "method": "Los límites de cancelación de 60 días específicos para el día 30/29; el párrafo 2 difiere, no la política de hibernación.",
+      "render_sha256": "d727d6a7a92b977e592c71f0d12f6e84b3a0ce107afbd53d5b38fa8ed9d1d123",
+      "render_bytes": 717044
+    },
+    {
+      "url": "https://www.roseycamps.ch/files/financial-conditions.pdf",
+      "page": 1,
+      "method": "Título explícito SUMMER2026; depósito1000/admisión selectiva, no contrato2027.",
+      "render_sha256": "bbc67cb34bb08cbb0fc8f3a23602feb2e5e5d7db2f6d675ce91249ae451fa78a",
+      "render_bytes": 263681
+    },
+    {
+      "url": "https://www.roseycamps.ch/files/financial-conditions.pdf",
+      "page": 3,
+      "method": "Cancelación previa1May2026 retorno70percent;no copiado en2027.",
+      "render_sha256": "1a5a10460968e5bd48e4bb4ec2170a4ebb6d5e0c79680032d7c44bd9dc4866c8",
+      "render_bytes": 305683
+    },
+    {
+      "url": "https://www.roseycamps.ch/files/at-a-glance.pdf",
+      "page": 2,
+      "method": "El número de personas-campamento de columnas/Matrix académica:Tecnología11–15,Excelencia13–16,Mi familia13200;2027 cubierta revisada por separado.",
+      "render_sha256": "b7c87bc85bfedc45bef3da7f6aecef4c7c9ea0b00597c1ae09e6dcbf72e6e84d",
+      "render_bytes": 2848315
+    },
+    {
+      "url": "https://resources.finalsite.net/images/v1777969490/icsparisfr/ja8azmnzktlftmytqnm2/AIStartupSprint.pdf",
+      "page": 1,
+      "method": "Certificado de participación de la HWCS,Grados6–12,730EUR,29Jun–3Jul2026,Anfitrión de París;sin grado/Reclamo de adjudicación.",
+      "render_sha256": "2a5e5965513b6f5d55bd12de4cee697f4e21e857403a506241529e9b4b6fc154",
+      "render_bytes": 1059552
+    },
+    {
+      "url": "https://resources.finalsite.net/images/v1781770428/icsparisfr/rny5pqyyjbfg0uffmyhq/alcnyicscampposter2026_3.pdf",
+      "page": 1,
+      "method": "Regreso a la escuela3–16,100percentEnglish,24–28Aug2026,estudiantes que ingresan/la devolución de los SIC;Precio continúa segunda página.",
+      "render_sha256": "8d65ad5b1984c3efe06ca58d1a7f5704017c772e2ba260023fd63166d3909c28",
+      "render_bytes": 804755
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1rK7faz6pWZRaCs0IW0LDIrSiz6ENOO5u",
+      "page": 3,
+      "method": "Las fechas de YIRA en París/Grados6–12/Certificado de asociación de estudiantes;20April2026deadline los conflictos15JuneHTML.",
+      "render_sha256": "938ed42cf978192b2260463764312cb06d5f43a63e5a89bcde66ea49e0e3d8e0",
+      "render_bytes": 1688520
+    }
+  ],
+  "dossier_source_urls_added": [
+    "https://alcny.com/next-camp-2026",
+    "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-DAY-CAMP-26-27-REG-FORM-DIGITAL-2026-2027.pdf",
+    "https://cdn.leselfes.com/wp-content/uploads/2026/04/WINTER-REGISTRATION-FORM-DIGITAL-avec-champs.pdf",
+    "https://drive.google.com/file/d/1rK7faz6pWZRaCs0IW0LDIrSiz6ENOO5u/view",
+    "https://granada-college.agorainternationalschool.es/en/school-life/summer-camp",
+    "https://resources.finalsite.net/images/v1777969490/icsparisfr/ja8azmnzktlftmytqnm2/AIStartupSprint.pdf",
+    "https://resources.finalsite.net/images/v1781770428/icsparisfr/rny5pqyyjbfg0uffmyhq/alcnyicscampposter2026_3.pdf",
+    "https://robboclub.es/barcelona/campverano26",
+    "https://robboclub.es/barcelona/es/terms",
+    "https://summer.tasis.ch/admissions/faq",
+    "https://summer.tasis.ch/programs/hsp",
+    "https://summer.tasis.ch/programs/msp",
+    "https://www.asparis.org/english-and-holiday-programs/holiday-camps",
+    "https://www.icsparis.fr/student-life/ics-camps",
+    "https://www.leselfes.com/about-us/faq/",
+    "https://www.leselfes.com/winter-day-camp/",
+    "https://www.roseycamps.ch/files/at-a-glance.pdf",
+    "https://www.roseycamps.ch/files/chyulu-codes.pdf",
+    "https://www.roseycamps.ch/files/chyulu-sample-programme-camps.pdf",
+    "https://www.roseycamps.ch/files/financial-conditions.pdf",
+    "https://www.roseysummercamps.ch/faq/",
+    "https://www.roseysummercamps.ch/our-camps/chyulu-camp/",
+    "https://www.roseysummercamps.ch/our-camps/excellence-camp/",
+    "https://www.roseysummercamps.ch/our-camps/legendary-classic/",
+    "https://www.roseysummercamps.ch/our-camps/my-mountain-adventure/"
+  ],
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false
+  },
+  "notes": [
+    "FuenteHTML/PDF/retratos/rendimientos web conservados fuera de la caja pública.Sólo se publicaron los hechos, URLs de origen,hashes/errores;se copiaron las fotos/fullPDF de la fuente.",
+    "DirectHTTP estátuos y herramientas web se encuentran en diferentes recepciones.",
+    "Las fechas y precios anunciados no establecen los lugares, la admisión, la factura final, el ranking mundial o la enseñanza técnica en inglés."
+  ]
+}

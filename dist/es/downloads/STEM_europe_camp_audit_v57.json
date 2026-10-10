@@ -1,0 +1,39 @@
+{
+  "asof": "2026-10-04",
+  "version": 57,
+  "status": "progress",
+  "worldwide_complete": false,
+  "preserved_events": 1931,
+  "new_dossiers": 10,
+  "updated_dossiers": [
+    "ilc",
+    "american-village",
+    "camp-tecnologico"
+  ],
+  "new_calendar_entries": 21,
+  "dossiers": 68,
+  "countries": 19,
+  "swiss_programme_dossiers": 18,
+  "official_source_urls": 122,
+  "family_ical_entries": 1336,
+  "exhibition_ical_entries": 104,
+  "checks": {
+    "prior_event_objects": "unchanged",
+    "prior_family_calendar_uids_and_dates": "preserved",
+    "ih_three_campuses_same_autumn_dates": "Identificación única, lugar y precio distintos",
+    "year_conflicts": "conversión futura rechazada",
+    "day_camp_windows": "etiquetas de días laborables; los períodos de varias semanas son ventanas",
+    "sqlite": "controles de integridad y de clave extranjera",
+    "bridge": "idempotent",
+    "publications": "recibo de almacenamiento/despliegue nativo requerido por separado"
+  },
+  "source_receipt": "STEM_europe_camp_source_receipts_v57.json",
+  "remaining": [
+    "Nuevos2027 Campos escolares en España y tarifas completas",
+    "IH verano2027 y año de primavera de Wander corregido",
+    "Temporada de las tarifas exactas de los ILC/TECS",
+    "Instrucción técnica en inglés para los candidatos franceses/espaneses",
+    "Más Europa y todos los países asiáticos/americanos prioritarios",
+    "Mapa exacto del campus, comparación, presupuestos familiares completos y confirmación de admisión real"
+  ]
+}

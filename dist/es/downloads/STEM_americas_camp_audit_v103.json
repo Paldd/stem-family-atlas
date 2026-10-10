@@ -1,0 +1,131 @@
+{
+  "asof": "2026-10-05",
+  "version": 103,
+  "status": "progress",
+  "scope": "SeleccionadoEstados Unidos/Canadá/México2026invierno y2027programas generales/temáticos/STEM;Costa Rica y cerrados/particulares entregapes.No completadoEstados Unidos/mundo.",
+  "new_dossiers": 15,
+  "new_operator_groups": 8,
+  "deepened_dossiers": 0,
+  "updated_dossiers": [],
+  "programme_slugs": [
+    "pipiol-summer-one",
+    "pipiol-summer-two",
+    "bc-mexico-innovators",
+    "sw-little-wonders",
+    "sw-curious-creators",
+    "sw-field-science",
+    "techknow-pokemon",
+    "techknow-minecraft",
+    "laurus-youth",
+    "roboiq-holidays",
+    "eli-toronto-primary",
+    "eli-montreal-junior",
+    "eli-toronto-family",
+    "langmobile-younger",
+    "langmobile-older"
+  ],
+  "new_calendar_rows": 13,
+  "new_family_session_ics": 13,
+  "new_family_ics": 13,
+  "new_registration_deadline_ics": 0,
+  "new_season_windows": 4,
+  "corrected_existing_event_ids": [],
+  "programme_dossiers": 745,
+  "countries_with_dossiers": 39,
+  "official_dossier_urls": 1158,
+  "country_dossier_counts": {
+    "CHE": 99,
+    "FRA": 59,
+    "ESP": 62,
+    "ITA": 6,
+    "GBR": 8,
+    "CHN": 8,
+    "HKG": 6,
+    "FIN": 5,
+    "TWN": 53,
+    "SGP": 78,
+    "JPN": 46,
+    "KOR": 16,
+    "USA": 81,
+    "CAN": 94,
+    "CRI": 13,
+    "MEX": 34,
+    "BRA": 3,
+    "CHL": 10,
+    "PHL": 6
+  },
+  "findings": [
+    {
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "provider": "v103 · Kupugani cerrado / enlaces no funcionan Swift",
+      "detail": "su propio Kupugani En directo permanently closed a pesar de los precios antiguos. se refiere a Swift6–17, pero es actual Swift homepage6–15, las fechas/precio/first-timer/international/FAQ por sus propias referencias HTTP404. archivo2025 y los precios de búsqueda no son accesibles2027 el campamento. de los nuevos dossiers No hay ninguna de esas promesas..",
+      "next_action": "enlaces de trabajo propios Swift, fechas reales/precio completo y EN support; no se registran a través de los antiguos formularios Kupugani.",
+      "url": "https://campkupugani.com/dates-and-tuition-rates/"
+    },
+    {
+      "country": "Canadá",
+      "iso": "CAN",
+      "provider": "v103 · Holland Bloorview FIRST: una recepción especial",
+      "detail": "cuerpo real Winter2027:SPIKE Essential6–10Jan20–Feb24/weeklyevenings, no el campo de6una semana; de acuerdo con snow makeup No es un cambio normal. March15–19 2027 CAD475+HST: headline9–14, eligibility8–14/readiness. de la misma Programme Description requiere formal diagnosis y puede exigir su propia1:1apoyo; intake/45-minute inperson meet. Marchpagemás suave, El diagnóstico relevant ifany: una contradicción evidente. ENteacher/foreignintakeunknown. no se ha añadido como un código abierto familycamp/ICS.",
+      "next_action": "la aplicabilidad del diagnóstico, las condiciones específicas del curso/edad/HST/lengua/foreignintake y la política de cancelación vigente.",
+      "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description"
+    },
+    {
+      "country": "Costa Rica / América Latina",
+      "iso": "CRI",
+      "provider": "v103 · edad, sexo y formato más importante que la palabra encontrada camp",
+      "detail": "Rooted Life CostaRica2027 June28–Aug1 USD15000 — Sólo que girls14–18/therapeutic5weeks, el vuelo/el seguro está excluido; No es para nuestros dos niños.. College retreat, viaje misionero y schoolcalendar startingday no es un campamento abierto para niños. de los nuevos turnos públicos confirmados menores EN/ES no se encuentra en esta búsqueda; se guardaron13CRI dossiers, no se ha anunciado el completo cubriendo de las láminas.",
+      "next_action": "Continuar con el CRI/MEX/BRA/CHL/ARG/COL/PER/PAN y el resto de Latam, los programas de invierno/verano 2027 más pequeños EN/ES/RU, los contratos y la recepción individual abierta.",
+      "url": "https://rootedlifeadventures.com/costa-rica/"
+    },
+    {
+      "country": "Canadá / México / EE.UU.",
+      "iso": "CAN",
+      "provider": "v103 · calendario, lengua y presupuesto",
+      "detail": "No podemos transferir los archivos2026 a2027. ScienceWorld admission por año de nacimiento, Grade sólo guía;2027 red no se ha sacado. TechKnowHow nuevo kids-domain Winter2026 y precio actual es más importante que el viejo .com2025/online FAQ. Pipiol ES site no es una instrucción de idioma; ROBOIQ Englishlesson no ENrobotics; Laurus bilingual no garantiza el tutor técnico EN. EliMontreal brochure12+ no es Toronto handbook7+;Toronto $250 no es un cargo adicional. Langmobile HTTP403: webreader pudo leer, una nueva foto2027 reemplaza la obsoleta 2026specialty.",
+      "next_action": "llenos invoices, DOB/las clases, lenguaje permitido, de los lugares, vigilancia nocturna/seguro y devoluciones de cada paquete elegido. todos los campos del mundo/escuelas/las ligas/Las competiciones/las exposiciones/los trayectos siguen siendo un objetivo activo;0de los países totalmente verificados.",
+      "url": "https://elicamps.com/our-programs"
+    }
+  ],
+  "calendar": {
+    "events": 3287,
+    "learning_records": 1956,
+    "family_ics": 2543,
+    "exhibition_ics": 104,
+    "managed_dated_rows": 1493,
+    "reused_legacy_events": 69,
+    "season_windows": 46
+  },
+  "primary_retrievals": {
+    "direct_attempts": 44,
+    "http200": 36,
+    "retrieval_errors": 8,
+    "unique_actual_pdfs": 3,
+    "selected_visual_page_checks": 4,
+    "primary_web_reader_fallbacks": 1
+  },
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "external_actions": {
+    "messages_sent": false,
+    "applications_submitted": false,
+    "payments_made": false,
+    "accounts_created": false,
+    "subscriptions_created": false,
+    "automations_created": false,
+    "consent_accepted": false
+  },
+  "validation": [
+    "15 nuevos expedientes de programas en 8 grupos de operadores; 730 antiguos expedientes/3274 eventos sin cambios. 745total/39 países/1158dossierURLs/26 nuevosURLs. No se ha realizado un ranking global ni se ha revisado completamente el país.",
+    "13exactnewdates:2PipiolJuly2027/4TechKnowDecember2026/7Langmobile5–6weeks2027.13familyplanningICS,4newflexibleseasonwindowsnotmadeintoevents. Archivo2026ScienceWorld/BCMéxico no se incluyó2027.",
+    "Pipiol real84000/78400MXN,6–16coursebuthomepage7–15and4–17; El español no es el idioma de la empresa. Comidas/alojamiento/Políticas de accidentes incluidas,condiciones de transporte; cancelación21–29daygap retenidos. Mini Kids no mencionó nada nuevo2027cohort.",
+    "La tecnología sabe cómo el invierno nuevo2026currentcampus/Precio de la venta.com2025and2020FAQ;- ¿Qué es eso ?5–8/Minecraft6–9,Direcciones separadas/3vs4days/355or465,cuidado posterior80or105/comida propia/kits no regalo;El profesor todavía no confirmada. 25percentdepositinprice/Dec4balance,Dec1refundcreditchange no fecha límite de registro.",
+    "CienciaMundo actualCelebrado de la misión2026:Oscar2020Little/Mat2017Curious; guía de grado escolar no deducidoClasificación familiar. Inglés obligatorio; una semana de tipo,Campo diferente Currículo. 2027datas/grupos desconocidos/Invierno retornoCapitulado de cuentas no fechadocamp.",
+    "El Toronto7+y Montreal12+ separados; Primaria de Toronto15lessons45min,Orientación del primer día/Actividades de vacaciones,250depositinprice/21daybalance; Enlace manual de Montreal en realidad Toronto. El folleto de Montreal15Juniorcorrects20genericwebinclusions,Unas aguas se han vuelto envueltas en Toronto y en la industria de la ropa. En el marco de la familia7discussionnotacceptance.",
+    "Directo de Langmobile403, Primaria webbreadercorpo fresco2027actualweeks;cuerpo oculto2026notfuturecurriculum. Header Aug14versuslastweekAug13;7–12specialtyTBAandJanuaryregistration;de la305currencyunmarked. Laurus5–11bilingual75minSTAs Pero nuevas tarifas no anunciadas;ROBOIQLecciones de inglés no de inglés.",
+    "La propiedad está cerrada de forma permanente.,Enlaces de la ciudad404; no disponibilidad de la búsqueda. Holanda Bloorview diagnóstico formal/1:1/Las condiciones de ingreso y los conflictos de coraje;Semanales y noches de vacaciones, No hay recomendación genérica para la familia. Las chicas de las raíces14–18notourboys.",
+    "44intentos directos36corpos reales33HTML/3PDF)8 fallos;1freshprimarywebreaderfallbackafter403;4selectedvisualPDFpages.selectedclausesnotall websiteaudit. Preservation/SQLschema/SQLrecords/CSV/ICS/filter/JS/maxfileindependentverification.Objetivo activo0completamenteaudited."
+  ],
+  "next_priority": "Continúa todo el mundo 2026–27 general/Temática/STEM los campos, día/embarque/familia EN/ES/RU; profundizar en el CHE/FRA/PEE/Europa/TWN/GPS/Correo/JPN/Estados Unidos/Puede/CRI/Mex/Latam y todos los demás países. Fechas reales del programa/facturas completas/edad-grado actual/En el caso de los Estados miembros, el importe de los gastos de trabajo de los trabajadores/enseñanza-contra-lenguaje-las lecciones-apoyo/equipo/Cuidad nocturna/Las restituciones/disponibilidad. Todas las escuelas/resultados5–10years/las ligas/Concursiones/exposiciones/rutas familiares retenidas. Ningún país ha sido auditado por completo."
+}
