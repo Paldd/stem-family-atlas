@@ -14,16 +14,16 @@
   <link rel="stylesheet" href="assets/strategy.css">
   <link rel="stylesheet" href="assets/audit.css"><link rel="stylesheet" href="assets/europe.css">
   <link rel="stylesheet" href="assets/camps.css">
-  <link rel="stylesheet" href="assets/camp-programmes.css?v=138">
+  <link rel="stylesheet" href="assets/camp-programmes.css?v=139">
   <link rel="stylesheet" href="assets/school-history.css"><link rel="stylesheet" href="assets/schools.css">
-  <link rel="stylesheet" href="assets/experience.css"><link rel="stylesheet" href="assets/nearby-participation.css?v=138">
+  <link rel="stylesheet" href="assets/experience.css"><link rel="stylesheet" href="assets/nearby-participation.css?v=139">
   <link rel="stylesheet" href="assets/motion.css">
-  <link rel="stylesheet" href="assets/directions.css?v=138">
-  <link rel="stylesheet" href="assets/languages.css?v=138">
+  <link rel="stylesheet" href="assets/directions.css?v=139">
+  <link rel="stylesheet" href="assets/languages.css?v=139">
   <link rel="alternate" hreflang="ru" href="https://paldd.github.io/stem-family-atlas/">
   <link rel="alternate" hreflang="es" href="https://paldd.github.io/stem-family-atlas/es/">
 </head>
-<body data-ui-version="138">
+<body data-ui-version="139">
   <a class="skip" href="#main">Ir al contenido</a>
   <aside class="sidebar">
     <button class="ux-drawer-close" data-ux-close-menu aria-label="Cerrar menú">✕</button>
@@ -67,7 +67,7 @@
     <header class="topbar"><button class="mobile-menu icon-button" id="menu-button" aria-label="Abrir menú" aria-expanded="false"><span data-icon="menu"></span></button><div class="breadcrumb">Descubrimientos en familia <span>/</span> <b id="view-label">STEM Atlas</b></div><div class="top-actions"><nav class="atlas-language" aria-label="Idioma"><a data-atlas-language="ru" href="../" lang="ru" aria-current="false">RU</a><a data-atlas-language="es" href="./" lang="es" aria-current="page">ES</a></nav><button class="motion-toggle" data-motion-toggle aria-label="Pausar animaciones" aria-pressed="true"><b aria-hidden="true">Ⅱ</b><span>Animaciones: activas</span></button><button class="ux-search-button" data-ux-search aria-label="Buscar en todo el atlas"><span data-icon="search"></span><span>Buscar en el atlas</span><kbd>⌘ K</kbd></button><span class="data-date">actualizada · 04.10.2026</span><a class="quiet-link" href="downloads/STEM_atlas_es.xlsx" download><span data-icon="download"></span>Atlas en Excel</a></div></header>
     <main id="main">
       <section class="hero" id="hero">
-        <div class="hero-copy"><p class="eyebrow"><span></span>DOS EXPLORADORES. UN MUNDO ENTERO.</p><h1>Curiosidad.<br>Práctica.<br><em>sus descubrimientos.</em></h1><p class="hero-description">Matvey y Oscar. Dos pistas propias, una base familiar. Desde el primer proyecto hasta un equipo fuerte con un paso claro.</p><div class="hero-actions"><button class="button primary" data-view="journey">Me voy a hacer la pista.<span data-icon="arrow"></span></button><button class="button secondary" id="nearby-button">encontrar el inicio más cercano<span data-icon="arrow"></span></button><button class="text-button" data-view="map">explorar el mapa<span data-icon="globe"></span></button></div><div class="hero-footnote"><span class="tiny-stars">✦ ✦ ✦</span> Costa Rica → México → el mundo</div></div>
+        <div class="hero-copy"><p class="eyebrow"><span></span>DOS EXPLORADORES. UN MUNDO ENTERO.</p><h1>Curiosidad.<br>Práctica.<br><em>Descubrimientos propios.</em></h1><p class="hero-description">Matvey y Oscar. Dos itinerarios personales y una base familiar. Del primer proyecto a un equipo sólido, con un siguiente paso claro.</p><div class="hero-actions"><button class="button primary" data-view="journey">Diseñar mi itinerario<span data-icon="arrow"></span></button><button class="button secondary" id="nearby-button">Encontrar una oportunidad cercana<span data-icon="arrow"></span></button><button class="text-button" data-view="map">explorar el mapa<span data-icon="globe"></span></button></div><div class="hero-footnote"><span class="tiny-stars">✦ ✦ ✦</span> Costa Rica → México → el mundo</div></div>
         <div class="hero-graphic"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="globe-caption"><span class="pulse-dot"></span>TU MUNDO DE POSIBILIDADES</div><svg id="hero-globe" role="img" aria-label="globo terrestre con la geografía de las direcciones exploradas"></svg><div class="floating-label globe-label-one"><span class="label-emoji">✦</span><div><b>Comenzamos por aquí.</b><small>Costa Rica · México</small></div></div><div class="floating-label globe-label-two"><span class="label-emoji blue">↗</span><div><b>Seguimos el interés</b><small>181 oportunidades en el atlas</small></div></div><span class="graphic-star star-one">✳</span><span class="graphic-star star-two">✦</span></div>
       </section>
       <section id="ux-home" class="ux-home" aria-label="el siguiente paso de la familia"></section>
@@ -188,8 +188,8 @@
   <dialog id="ux-search-dialog" class="ux-search-dialog" aria-labelledby="ux-search-title"><div class="ux-search-head"><h2 id="ux-search-title">Encontrar el próximo paso</h2><button data-ux-search-close aria-label="cerrar la búsqueda">✕</button></div><label class="ux-search-input"><span data-icon="search"></span><input id="ux-search-input" type="search" placeholder="Liga, escuela, país o tema..." autocomplete="off" aria-label="Buscar en todo el atlas" aria-controls="ux-search-results"><kbd>ESC</kbd></label><div id="ux-search-types" class="ux-search-types"></div><p id="ux-search-count" class="ux-search-count" role="status"></p><div id="ux-search-results" class="ux-search-results"></div><p class="ux-search-hint">↑ ↓ seleccionar · Enter abrir · Esc cerrar</p></dialog>
   <button class="ux-back-top" data-ux-back-top aria-label="regresar al principio de la sección" hidden>↑</button>
   <div class="toast" id="toast" role="status" hidden></div>
-  <script src="assets/vendor/d3.min.js"></script><script src="assets/vendor/topojson-client.min.js"></script><script src="assets/world.js"></script><script src="assets/data.js?v=138"></script><script src="assets/directions.js?v=138"></script><script src="assets/best.js"></script><script src="assets/kazakhstan.js"></script><script src="assets/leagues.js?v=138"></script><script src="assets/projects.js"></script><script src="assets/strategy.js"></script><script src="assets/europe.js"></script><script src="assets/audit.js"></script><script src="assets/camps.js?v=138"></script><script src="assets/school-history.js"></script><script src="assets/schools.js?v=138"></script><script src="assets/nearby-participation.js?v=138"></script><script src="assets/experience.js?v=138"></script><script src="assets/fit-text.js?v=138"></script>
-  <script src="assets/app.js?v=138"></script><script src="assets/camp-planning.js?v=138"></script><script src="assets/camp-programmes.js?v=138"></script><script src="assets/motion.js"></script><script src="assets/webmcp.js"></script>
-  <script src="assets/languages.js?v=138"></script>
+  <script src="assets/vendor/d3.min.js"></script><script src="assets/vendor/topojson-client.min.js"></script><script src="assets/world.js"></script><script src="assets/data.js?v=139"></script><script src="assets/directions.js?v=139"></script><script src="assets/best.js"></script><script src="assets/kazakhstan.js"></script><script src="assets/leagues.js?v=139"></script><script src="assets/projects.js"></script><script src="assets/strategy.js"></script><script src="assets/europe.js"></script><script src="assets/audit.js"></script><script src="assets/camps.js?v=139"></script><script src="assets/school-history.js"></script><script src="assets/schools.js?v=139"></script><script src="assets/nearby-participation.js?v=139"></script><script src="assets/experience.js?v=139"></script><script src="assets/fit-text.js?v=139"></script>
+  <script src="assets/app.js?v=139"></script><script src="assets/camp-planning.js?v=139"></script><script src="assets/camp-programmes.js?v=139"></script><script src="assets/motion.js"></script><script src="assets/webmcp.js"></script>
+  <script src="assets/languages.js?v=139"></script>
 </body>
 </html>

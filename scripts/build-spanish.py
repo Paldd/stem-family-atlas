@@ -17,6 +17,7 @@ from spanish_calendar import localize_calendar
 from spanish_legacy_workbook import translate_workbook
 
 DIST=ROOT/'dist'; ES=DIST/'es'; OUT=ES/'downloads'
+UI_VERSION=int(re.search(r'data-ui-version="(\d+)"',(DIST/'index.html').read_text()).group(1))
 dictionary=json.loads((ROOT/'data/i18n/es.json').read_text())
 dictionary.update(json.loads((ROOT/'data/i18n/es-reviewed.json').read_text()))
 missing=(collect_pool()|english_pool())-dictionary.keys()
@@ -97,7 +98,7 @@ page=''.join(html_tag(re.match(r'[\s\S]+',p)) if p.startswith('<') else html.esc
 page=page.replace('<html lang="ru">','<html lang="es">').replace('aria-label="Language"','aria-label="Idioma"')
 page=page.replace('data-atlas-language="ru" href="./" lang="ru" aria-current="page"','data-atlas-language="ru" href="../" lang="ru" aria-current="false"')
 page=page.replace('data-atlas-language="es" href="es/" lang="es" aria-current="false"','data-atlas-language="es" href="./" lang="es" aria-current="page"')
-page=page.replace('<script src="assets/app.js', '<script src="assets/fit-text.js?v=138"></script>\n  <script src="assets/app.js')
+page=page.replace('<script src="assets/app.js', f'<script src="assets/fit-text.js?v={UI_VERSION}"></script>\n  <script src="assets/app.js')
 page=re.sub(r'href="downloads/[^"<>]+\.xlsx"','href="downloads/STEM_atlas_es.xlsx"',page)
 page=page.replace('</footer>','<p class="family-note">Edición en español de los materiales existentes: traducción automática con revisión de términos principales. La traducción no actualiza la fecha de verificación de las fuentes. Para los requisitos oficiales, consulte los enlaces del organizador.</p></footer>')
 (ES/'index.html').write_text(page)
@@ -153,7 +154,7 @@ with tempfile.TemporaryDirectory() as tmp:
 database_manifest=package_database(q,language='es')
 workbook_counts=write_workbook(OUT/'STEM_atlas_es.xlsx',translated)
 report=dict(language='es',source_language='ru',translation_method='local neural translation with reviewed interface and protected numeric values',
-            source_research_asof=web['asof'],ui_version=138,source_strings=len(collect_pool()),english_prose_strings=len(english_pool()),missing_strings=0,
+            source_research_asof=web['asof'],ui_version=UI_VERSION,source_strings=len(collect_pool()),english_prose_strings=len(english_pool()),missing_strings=0,
             complete_human_linguistic_review=False,
             events=len(web['events']),competitions=sum(e['block']=='Соревнования' for e in web['events']),
             camp_dossiers=len(web['camp_programmes']['profiles']),schools=len(web['schools']),league_profiles=len(web['league_guide']['profiles']),
