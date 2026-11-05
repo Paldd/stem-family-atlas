@@ -301,32 +301,32 @@
     {
       "block": "Competiciones",
       "id": "C003",
-      "title": "FIRST LEGO League BIOGLOW — Explore / Challenge",
+      "title": "FIRST LEGO League Costa Rica · BIOGLOW Founders · festival nacional",
       "country": "Costa Rica",
       "region": "América Central",
-      "city": "el socio local",
-      "start": "",
-      "end": "",
-      "period": "Temporada 2026–27; las fechas locales se deben especificar",
-      "date_status": "No se ha anunciado",
-      "deadline": "",
-      "age": "Referencia global Explore 6–10 / Challenge 9–16 con variantes locales; condiciones Costa Rica BIOGLOW aún sin confirmar mediante anuncio local actual.",
-      "mat": "Condicional: edad posible según referencia global, convocatoria y categoría locales desconocidas.",
-      "osc": "Condicional: Explore posible por edad global; convocatoria, curso y composición locales desconocidos.",
-      "format": "Confirmar tamaño y composición escolar del equipo Costa Rica; tamaño de otro país no se aplica automáticamente.",
-      "entry": "Directorio global actual señala Fundación STEAM para Costa Rica. Web local no abrió por certificado TLS caducado; lanzamiento localizado pertenece a UNEARTHED 2025–26. No trasladar permiso de equipos independientes México a Costa Rica.",
-      "gear": "Founders: SPIKE Essential / Prime globales; confirmar equipos antiguos permitidos y disponibilidad Future concreta en Costa Rica.",
-      "language": "Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.",
-      "cost": "no se publicó / comprobar la actual edición",
+      "city": "Costa Rica · sede aún sin anunciar",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "period": "Día nacional general 6 de marzo de 2027; confirmar horarios de categorías y hora de cierre de inscripción.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-30",
+      "age": "Explore 6–10; Challenge 9–16",
+      "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
+      "osc": "Explore por edad; confirmar composición y admisión de equipo.",
+      "format": "Explore: 3–6 niños + entrenador; Challenge: 3–8 niños + entrenador.",
+      "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+      "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+      "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
       "level": "B  el camino nacional hacia las etapas internacionales",
-      "reward": "Challenge: premios / selección evaluados; Explore: festival y reconocimiento de los participantes",
-      "priority": "P2 — confirmar BIOGLOW local con socio",
-      "action": "padre + entrenador: formar equipo Matvey Challenge, Oscar Explore; obtener calendario y cuotas",
-      "source": "https://firstlegoleague.org/",
-      "proof": "Directorio global actual confirma socio Fundación STEAM. Condiciones locales BIOGLOW sin confirmar; HTTPS terminó con error de certificado, sin eludirlo.",
-      "checked": "2026-11-04",
+      "reward": "Explore es festival y reconocimiento de participación; paquete incluye medalla y certificado digital. Puesto Challenge requiere acta; cupo internacional sin acreditar en este anuncio.",
+      "priority": "P1 — inicio local antes de 30 de noviembre",
+      "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
+      "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
+      "checked": "2026-11-05",
       "status": "Idea",
-      "note": "Socio nacional confirmado por directorio, pero fechas actuales, precio, corte de edad y admisión extranjera / independiente sin anunciar. Medallas Explore y puestos competitivos Challenge son distintos. Temporada 2026/27 última FLL; reglas posteriores aparte.",
+      "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
       "iso": [
         "CRI"
       ],
@@ -337,15 +337,30 @@
       "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
       "languages": [],
       "participation": "team",
-      "language_certainty": "Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.",
+      "language_certainty": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
       "language_mode": "unconfirmed",
-      "evidence_level": "catalog",
+      "evidence_level": "program",
       "references": [
         {
-          "label": "Web local: acceso no obtenido",
-          "url": "https://www.firstlegoleaguecr.com/"
+          "label": "Fundación STEAM · BIOGLOW 2026–2027",
+          "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/"
+        },
+        {
+          "label": "Precios de paquetes por equipo",
+          "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png"
+        },
+        {
+          "label": "Explore BIOGLOW notebook",
+          "url": "https://drive.google.com/file/d/1fA4qSCYD0jrZjhTzPdUMJPcqZGOmub_y/view"
+        },
+        {
+          "label": "Challenge BIOGLOW robot game rules",
+          "url": "https://drive.google.com/file/d/1VCOn0NAPr1lR45w7GA9zzq6o5bW9uvMT/view"
         }
-      ]
+      ],
+      "admission_kind": "open_application",
+      "date_scope": "festival_window",
+      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar."
     },
     {
       "block": "Competiciones",
@@ -9545,6 +9560,242 @@
       "registration_status": "Plazo publicado ya vencido; admisión tardía sin confirmar."
     },
     {
+      "block": "Competiciones",
+      "id": "C1295",
+      "title": "FIRST LEGO League Costa Rica · BIOGLOW Explore",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Costa Rica · sede aún sin anunciar",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "period": "Día nacional general 6 de marzo de 2027; confirmar horarios de categorías y hora de cierre de inscripción.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-30",
+      "age": "6–10",
+      "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
+      "osc": "Explore por edad; confirmar composición y admisión de equipo.",
+      "format": "3–6 niños + un entrenador",
+      "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+      "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+      "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
+      "level": "B  el camino nacional hacia las etapas internacionales",
+      "reward": "Explore es festival y reconocimiento de participación; paquete incluye medalla y certificado digital. Puesto Challenge requiere acta; cupo internacional sin acreditar en este anuncio.",
+      "priority": "P1 — inicio local antes de 30 de noviembre",
+      "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
+      "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "national",
+      "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "language_mode": "unconfirmed",
+      "evidence_level": "program",
+      "references": [
+        {
+          "label": "Fundación STEAM · BIOGLOW 2026–2027",
+          "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/"
+        },
+        {
+          "label": "Precios de paquetes por equipo",
+          "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png"
+        },
+        {
+          "label": "Explore BIOGLOW notebook",
+          "url": "https://drive.google.com/file/d/1fA4qSCYD0jrZjhTzPdUMJPcqZGOmub_y/view"
+        },
+        {
+          "label": "Challenge BIOGLOW robot game rules",
+          "url": "https://drive.google.com/file/d/1VCOn0NAPr1lR45w7GA9zzq6o5bW9uvMT/view"
+        }
+      ],
+      "admission_kind": "open_application",
+      "date_scope": "festival_window",
+      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar.",
+      "canonical_event_id": "C003",
+      "parent_event_id": "C003",
+      "team_min": 3,
+      "team_max": 6,
+      "registration_url": "https://forms.gle/rvxwMUYyn1Bmauee9"
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1296",
+      "title": "FIRST LEGO League Costa Rica · BIOGLOW Challenge",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Costa Rica · sede aún sin anunciar",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "period": "Día nacional general 6 de marzo de 2027; confirmar horarios de categorías y hora de cierre de inscripción.",
+      "date_status": "Confirmado",
+      "deadline": "2026-11-30",
+      "age": "9–16",
+      "mat": "Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.",
+      "osc": "No: mínimo publicado 9 años.",
+      "format": "3–8 niños + un entrenador",
+      "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+      "gear": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+      "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
+      "level": "B  el camino nacional hacia las etapas internacionales",
+      "reward": "Explore es festival y reconocimiento de participación; paquete incluye medalla y certificado digital. Puesto Challenge requiere acta; cupo internacional sin acreditar en este anuncio.",
+      "priority": "P1 — inicio local antes de 30 de noviembre",
+      "action": "Para Explore conjunta encontrar al menos otro niño y entrenador. Para Matvey Challenge y Oscar Explore se necesitan equipos separados de al menos tres integrantes cada uno. Confirmar acceso independiente / extranjero, contenido de kit, idioma y sede; después plan hasta 6 de marzo. Fecha coincide con último día TMR Zacatecas 3–6 de marzo: elegir evento principal del itinerario.",
+      "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "proof": "Página vigente del propio socio confirma BIOGLOW, fecha, plazo y composición local. Póster de precios inspeccionado. Dos PDF enlazados son BIOGLOW 2026, no UNEARTHED antiguo; páginas técnicas inspeccionadas. Notebook Explore español lleva marca de traducción República Dominicana: material educativo, no regla de admisión extranjera de Costa Rica.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "national",
+      "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
+      "languages": [],
+      "participation": "team",
+      "language_certainty": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "language_mode": "unconfirmed",
+      "evidence_level": "program",
+      "references": [
+        {
+          "label": "Fundación STEAM · BIOGLOW 2026–2027",
+          "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/"
+        },
+        {
+          "label": "Precios de paquetes por equipo",
+          "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png"
+        },
+        {
+          "label": "Explore BIOGLOW notebook",
+          "url": "https://drive.google.com/file/d/1fA4qSCYD0jrZjhTzPdUMJPcqZGOmub_y/view"
+        },
+        {
+          "label": "Challenge BIOGLOW robot game rules",
+          "url": "https://drive.google.com/file/d/1VCOn0NAPr1lR45w7GA9zzq6o5bW9uvMT/view"
+        }
+      ],
+      "admission_kind": "open_application",
+      "date_scope": "festival_window",
+      "registration_status": "Plazo publicado; campos de formularios, plazas y admisión efectiva sin verificar.",
+      "canonical_event_id": "C003",
+      "parent_event_id": "C003",
+      "team_min": 3,
+      "team_max": 8,
+      "registration_url": "https://forms.gle/2nkydXsggPWw2pdE8"
+    },
+    {
+      "id": "C1308",
+      "block": "Competiciones",
+      "title": "Academia STEM · Chihuahua Zona Centro · 2026-11-09",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Facultad de Medicina UACH · Campus II · Poliforum Dr. Victor M. Gómez Moreno",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "API indica Básico / Media Superior / Superior; desglose de menores por categoría sin publicar en esta ficha.",
+      "mat": "Condicional",
+      "osc": "Condicional",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "gear": "Ficha incluye Robótica Móvil, Robótica Colaborativa / Automatización, IoT y AI. Confirmar nivel y categoría del niño por separado; Básico general no autoriza automáticamente cuatro disciplinas a niños de seis años.",
+      "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Comprobar admisión actual, curso y bases locales de disciplina elegida. Sin trasladar tarifa ni cupo de otro campeonato; falta poco para evento, acceso familiar sin confirmar.",
+      "source": "https://academiastem.org/championships/",
+      "proof": "Ficha de API pública de solo lectura id 18, new_season 1, coincide con índice de web oficial. Eventos antiguos de 2025 con status active no tomados como inscripciones futuras.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Public list used by official championships app",
+          "url": "https://dobot.com.mx/api-dis/api/tournaments"
+        }
+      ]
+    },
+    {
+      "id": "C1309",
+      "block": "Competiciones",
+      "title": "Robo Blasters 2026 · El Reto de la MUDANZA",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Tecnológico de Monterrey · Campus Cuernavaca",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-17",
+      "age": "Solo cursos reales 5–6 de primaria y 1–3 de secundaria; edad no sustituye curso.",
+      "mat": "Condicional",
+      "osc": "Condicional",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "gear": "Equipos y alianzas transportan / colocan cajas en campo temático. Manual técnico completo, kit permitido y tamaño de equipo aún sin leer.",
+      "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P4 — plazo de inscripción vencido",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://sites.google.com/tec.mx/roboblasters/inicio",
+      "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Página de Tecnológico de Monterrey confirma 5 de diciembre. Cursos de Matvey y Oscar desconocidos; sin asignar curso acelerado ni ordinario automáticamente. Entrada de visitante y próxima edición sin anunciar en página leída.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "regional",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [],
+      "registration_status": "Plazo publicado 17 de octubre de 2026 ya vencido; admisión tardía sin confirmar."
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -11504,7 +11755,7 @@
       "cost": "2026 · USD 120 + 2% IVA = USD 122.40 por curso de enseñanza; US$ se establece en términos generales, no sólo con el símbolo $.",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "comprobar el grupo de edad, el idioma de enseñanza, las fechas/horas específicas, la disponibilidad del lugar, la cuenta final y el reembolso.",
       "source": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-explorador-ia/",
       "references": [
@@ -12708,7 +12959,7 @@
       "cost": "2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [
@@ -12812,7 +13063,7 @@
       "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [
@@ -12916,7 +13167,7 @@
       "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [
@@ -13020,7 +13271,7 @@
       "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [
@@ -13124,7 +13375,7 @@
       "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [
@@ -13228,7 +13479,7 @@
       "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
       "level": "D — formación",
       "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
-      "priority": "P4  edad futura",
+      "priority": "P4 — edad futura",
       "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
       "source": "https://survey.zohopublic.com/zs/SjzWbS",
       "references": [

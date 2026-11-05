@@ -1,0 +1,345 @@
+{
+  "version": 160,
+  "checked": "2026-11-05",
+  "fll_costa_rica": {
+    "event_date": "2027-03-06",
+    "registration_deadline": "2026-11-30",
+    "closing_time_confirmed": false,
+    "venue_confirmed": false,
+    "Explore": {
+      "age_min": 6,
+      "age_max": 10,
+      "team_min": 3,
+      "team_max": 6
+    },
+    "Challenge": {
+      "age_min": 9,
+      "age_max": 16,
+      "team_min": 3,
+      "team_max": 8
+    },
+    "currency": "CRC",
+    "package_unit": "team",
+    "fees": [
+      {
+        "category": "Explore",
+        "teams": 1,
+        "amount": 70000,
+        "kits": 1
+      },
+      {
+        "category": "Explore",
+        "teams": 3,
+        "amount": 120000,
+        "kits": 3
+      },
+      {
+        "category": "Explore",
+        "teams": 5,
+        "amount": 175000,
+        "kits": 5
+      },
+      {
+        "category": "Challenge",
+        "teams": 1,
+        "amount": 220000,
+        "kits": 1
+      },
+      {
+        "category": "Challenge",
+        "teams": 3,
+        "amount": 265000,
+        "kits": 1
+      },
+      {
+        "category": "Challenge",
+        "teams": 5,
+        "amount": 295000,
+        "kits": 1
+      }
+    ],
+    "joint_Explore_package": 70000,
+    "separate_Challenge_and_Explore_packages": 290000,
+    "robot_inclusion_confirmed": false,
+    "independent_foreign_team_confirmed": false,
+    "source": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+    "price_source": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png"
+  },
+  "academia_current_tournaments": [
+    {
+      "id": 12,
+      "name": "CAMPEONATO DE ROBÓTICA Y HABILIDADES STEM: GIRL\nPOWERED",
+      "date_start": "2026-11-30",
+      "date_end": "2026-12-01",
+      "status": "active",
+      "type": "open",
+      "new_season": 1,
+      "levels": [
+        {
+          "id": 2,
+          "name": "Basico"
+        },
+        {
+          "id": 3,
+          "name": "Media Superior"
+        },
+        {
+          "id": 4,
+          "name": "Superior"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Robótica Móvil",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Robótica Colaborativa / Automatización",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Internet de las Cosas",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "Drones",
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Inteligencia Artificial",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Campeonato Internacional de Robótica y Habilidades STEM\n2026-2027",
+      "date_start": "2027-01-27",
+      "date_end": "2027-01-29",
+      "status": "active",
+      "type": "open",
+      "new_season": 1,
+      "levels": [
+        {
+          "id": 2,
+          "name": "Basico"
+        },
+        {
+          "id": 3,
+          "name": "Media Superior"
+        },
+        {
+          "id": 4,
+          "name": "Superior"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Robótica Móvil",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Robótica Colaborativa / Automatización",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Internet de las Cosas",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "Drones",
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Inteligencia Artificial",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "18vo. Campeonato Nacional de Robótica y Habilidades STEM\n2026",
+      "date_start": "2027-03-03",
+      "date_end": "2027-03-05",
+      "status": "active",
+      "type": "open",
+      "new_season": 1,
+      "levels": [
+        {
+          "id": 2,
+          "name": "Basico"
+        },
+        {
+          "id": 3,
+          "name": "Media Superior"
+        },
+        {
+          "id": 4,
+          "name": "Superior"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Robótica Móvil",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Robótica Colaborativa / Automatización",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Internet de las Cosas",
+          "description": ""
+        },
+        {
+          "id": 4,
+          "name": "Drones",
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Inteligencia Artificial",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Campeonato regional Chihuahua, Robótica y Habilidades STEM 2026 (Zona Centro)",
+      "date_start": "2026-11-09",
+      "date_end": "2026-11-09",
+      "status": "active",
+      "type": "open",
+      "new_season": 1,
+      "levels": [
+        {
+          "id": 2,
+          "name": "Basico"
+        },
+        {
+          "id": 3,
+          "name": "Media Superior"
+        },
+        {
+          "id": 4,
+          "name": "Superior"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Robótica Móvil",
+          "description": ""
+        },
+        {
+          "id": 2,
+          "name": "Robótica Colaborativa / Automatización",
+          "description": ""
+        },
+        {
+          "id": 3,
+          "name": "Internet de las Cosas",
+          "description": ""
+        },
+        {
+          "id": 5,
+          "name": "Inteligencia Artificial",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "academia_source": "https://dobot.com.mx/api-dis/api/tournaments",
+  "panama_2026_rule_categories": [
+    {
+      "key": "animate",
+      "age": "Edades: los integrantes deberán tener 4 o 5 años, al 31 de marzo del año en curso como referencia, de acuerdo con la categoría en la que se encuentren inscritos. El docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 6,
+      "equipment": [
+        "Tale-Bot"
+      ],
+      "kit_verified_visually": "Tale-Bot"
+    },
+    {
+      "key": "iluminate",
+      "age": "Edades: los integrantes deberán tener 6 o 7 años, al 31 de marzo del año en curso, de acuer­ do con la categoría en la que se encuentren inscritos. El docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 6,
+      "equipment": [
+        "Tale-Bot"
+      ],
+      "kit_verified_visually": "Tale-Bot"
+    },
+    {
+      "key": "wonders-makers",
+      "age": "Edades: los integrantes deberán tener 8, 9 o 10 años, al 31 de marzo del año en curso, como referencia, de acuerdo con la categoría en la que se encuentren inscritos y el docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 6,
+      "equipment": [
+        "Wonder Building Kit 32 in 1",
+        "micro:bit",
+        "ELECFREAKS"
+      ],
+      "kit_verified_visually": "Elecfreaks Wonder Building Kit 32 in 1 + micro:bit"
+    },
+    {
+      "key": "robot-explorers",
+      "age": "Edades: los integrantes deberán tener 11, 12, 13 o 14 años, al 31 de marzo del año en curso, de acuerdo con la categoría en la que se encuentren inscritos. El docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 7,
+      "equipment": [
+        "robot autónomo"
+      ],
+      "kit_verified_visually": "mBot 2"
+    },
+    {
+      "key": "sumo",
+      "age": "Edades: los integrantes deberán tener 11, 12, 13 o 14 años, al 31 de marzo del año en curso, de acuerdo con la categoría en la que se encuentren inscritos. El docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 7,
+      "equipment": [
+        "robot autónomo"
+      ],
+      "kit_verified_visually": "mBot 2"
+    },
+    {
+      "key": "off-road",
+      "age": "Edades: los integrantes deberán tener 15, 16, 17 o 18 años, al 31 de marzo del año en curso, de acuerdo con la categoría en la que se encuentren inscritos. El docente o coach deberá ser mayor de dieciocho (18) años. ",
+      "requirement_page": 7,
+      "equipment": [
+        "robot autónomo"
+      ],
+      "kit_verified_visually": "mBot Ranger"
+    }
+  ],
+  "panama_dates": {
+    "start": "2026-10-07",
+    "end": "2026-10-09",
+    "next_season_announced": false,
+    "source": "https://www.eduvisionpnm.com/challenge/assets/images/fechas-evento.png"
+  },
+  "netica_deadline": {
+    "day": "2026-11-17",
+    "announced_time": "23:59",
+    "source_offset": "-05:00",
+    "utc": "2026-11-18T04:59:00Z",
+    "older_search_index_deadline_not_used": "2026-11-22"
+  },
+  "rcj_americas": {
+    "primary_min": 10,
+    "primary_max": 14,
+    "cutoff_month_day": "07-01",
+    "next_2027_dates_announced": false,
+    "guest_place_is_not_world_qualification": true,
+    "source": "https://robocupamericas.org/es/"
+  }
+}

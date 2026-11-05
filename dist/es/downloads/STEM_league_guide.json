@@ -1,7 +1,7 @@
 {
   "league_guide": {
-    "version": 149,
-    "checked": "2026-11-04",
+    "version": 160,
+    "checked": "2026-11-05",
     "groups": {
       "core": "las principales trayectorias mundiales",
       "international": "torneos internacionales y redes",
@@ -1132,7 +1132,7 @@
             "age": "límites locales menores",
             "team": "por el reglamento local",
             "hardware": "por disciplina",
-            "age_rule": "por ejemplo Americas Primary 2026: 10–14; 2027 aclarar",
+            "age_rule": "Americas: 10–14 al 1 de julio según página general actual; confirmar edición concreta 2027 aparte.",
             "entry": "no representados en la final internacional de la RCJ"
           }
         ],
@@ -1159,7 +1159,8 @@
         "nuances": [
           "a la edad 10–12 un objetivo razonable — de las autoridades locales Entry / Primary y un robótico fuerte.. de la Unión Europea RCJ se hace disponible desde 14.",
           "TMR  es un posible campo de la disciplina correspondiente, pero no todas las categorías de TMR llevan a RCJ.",
-          "Australia Primary tiene un hijo menor foreign-team la entrada: C775 / el perfil rcja-au. National Open no requiere selección regional, pero el equipo extranjero no puede pasar Australia para ganar la ranura mundial; national top-3 equal placing por separado."
+          "Australia Primary tiene un hijo menor foreign-team la entrada: C775 / el perfil rcja-au. National Open no requiere selección regional, pero el equipo extranjero no puede pasar Australia para ganar la ranura mundial; national top-3 equal placing por separado.",
+          "Americas Primary: Matvey de 2017 cumple en 2027 solo si cumple 10 años no más tarde del 1 de julio inclusive; Oscar de 2020 no cumple. País sin comité puede pedir plaza invitada sin derecho a International; fechas 2027 por elegir."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -1183,6 +1184,16 @@
             "title": "Australia General Rules 2026: foreign entry versus world qualification",
             "url": "https://www.robocupjunior.org.au/wp-content/uploads/2026/02/2026-RCJA-General-Rules.pdf",
             "checked": "2026-10-01"
+          },
+          {
+            "title": "Americas current general ages and route",
+            "url": "https://robocupamericas.org/es/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Americas guest teams",
+            "url": "https://robocupamericas.org/es/new-country/",
+            "checked": "2026-11-05"
           }
         ],
         "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado."
@@ -12600,6 +12611,380 @@
         "evidence": "Recomprobados reglas y todas las páginas actuales de red; campos desconocidos y discutidos no declarados confirmados."
       },
       {
+        "id": "fll-costa-rica-bioglow",
+        "name": "FIRST LEGO League Costa Rica · BIOGLOW Founders",
+        "group": "regional",
+        "age_summary": "Explore 6–10; Challenge 9–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Temporada local confirmada con plazo 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Hermanos tienen vía por edad, pero requieren más integrantes y confirmación de acceso independiente / extranjero.",
+        "categories": [
+          {
+            "name": "Explore",
+            "age": "6–10",
+            "team": "3–6 + coach",
+            "hardware": "SPIKE Essential + Explore set / tapete",
+            "age_rule": "Página local 6–10; confirmar corte exacto.",
+            "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+            "event_id": "C1295"
+          },
+          {
+            "name": "Challenge",
+            "age": "9–16",
+            "team": "3–8 + coach",
+            "hardware": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+            "age_rule": "Página local 9–16; confirmar corte exacto.",
+            "entry": "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+            "event_id": "C1296"
+          }
+        ],
+        "event_ids": [
+          "C003",
+          "C1295",
+          "C1296"
+        ],
+        "legacy_ids": [],
+        "route": "Equipo → inscripción local antes de 30 de noviembre → preparación BIOGLOW → día nacional 6 de marzo. Cupo internacional y sus condiciones sin confirmar en este anuncio.",
+        "hardware": "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+        "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+        "importance": "Oportunidad real prioritaria en casa; no exige elegir nuevo país para primera solicitud.",
+        "strengths": "Explore permite proyecto familiar conjunto con tercer integrante. Challenge ofrece a Matvey retos competitivos, programación, proyecto de investigación y defensa; entrenador evalúa adecuación tras tres años de práctica.",
+        "requirements": [
+          "Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.",
+          "Explore: LEGO SPIKE Essential, Explore set / tapete de temporada, modelo propio y póster según notebook BIOGLOW vigente. Challenge: rulebook BIOGLOW publicado permite SPIKE Prime, SPIKE Essential, EV3, Robot Inventor, Powered Up, NXT / RCX; máximo un controlador y cuatro motores en partida. Robot programable no declarado expresamente incluido en kit de inscripción. Confirmar contenido de paquete y aplicación de últimas reglas.",
+          "Hora de cierre, sede final, defensa EN / ES y admisión familiar aún requieren respuesta del operador."
+        ],
+        "nuances": [
+          "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+          "Paquetes Challenge de tres / cinco equipos contienen solo un kit según póster; no equivalen a tres / cinco robots. Explore de tres / cinco equipos incluye tres / cinco kits.",
+          "Un paquete Explore conjunto 70000 CRC; dos paquetes separados Challenge + Explore 290000 CRC. No es presupuesto familiar completo ni aportación personal confirmada tras repartir costes con compañeros."
+        ],
+        "cost": "CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.",
+        "award": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+        "sources": [
+          {
+            "title": "Costa Rica partner programme / date / deadline",
+            "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Current team-package price poster",
+            "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Current BIOGLOW Explore notebook",
+            "url": "https://drive.google.com/file/d/1fA4qSCYD0jrZjhTzPdUMJPcqZGOmub_y/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Current BIOGLOW Challenge rules",
+            "url": "https://drive.google.com/file/d/1VCOn0NAPr1lR45w7GA9zzq6o5bW9uvMT/view",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídos página local, precio y materiales BIOGLOW enlazados. Formularios inaccesibles en lectura anónima; sin solicitudes enviadas."
+      },
+      {
+        "id": "fire-institutional",
+        "name": "FIRE · nueva red institucional",
+        "group": "regional",
+        "age_summary": "Cuatro grupos de edad 7–19; corte aún sin publicar.",
+        "age_tags": [
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Operador emergente con modelo institucional y países anunciados. Calendario, reglamentos técnicos completos y resultados históricos independientes aún sin acreditar en página leída.",
+        "categories": [
+          {
+            "name": "Exploradores",
+            "age": "7–9",
+            "team": "Sin publicar",
+            "hardware": "Operador declara plataforma neutral; restricciones según futura convocatoria.",
+            "age_rule": "Confirmar fecha de corte y composición de edades mixtas.",
+            "entry": "Mediante institución y etapa elegida."
+          },
+          {
+            "name": "Junior",
+            "age": "10–12",
+            "team": "Sin publicar",
+            "hardware": "Operador declara plataforma neutral; restricciones según futura convocatoria.",
+            "age_rule": "Confirmar fecha de corte y composición de edades mixtas.",
+            "entry": "Mediante institución y etapa elegida."
+          },
+          {
+            "name": "Juvenil",
+            "age": "13–15",
+            "team": "Sin publicar",
+            "hardware": "Operador declara plataforma neutral; restricciones según futura convocatoria.",
+            "age_rule": "Confirmar fecha de corte y composición de edades mixtas.",
+            "entry": "Mediante institución y etapa elegida."
+          },
+          {
+            "name": "Senior",
+            "age": "16–19",
+            "team": "Sin publicar",
+            "hardware": "Operador declara plataforma neutral; restricciones según futura convocatoria.",
+            "age_rule": "Confirmar fecha de corte y composición de edades mixtas.",
+            "entry": "Mediante institución y etapa elegida."
+          }
+        ],
+        "event_ids": [
+          "C1310"
+        ],
+        "legacy_ids": [],
+        "route": "F1 institución → F2 local / regional → F3 departamento → F4 nacional. Sin acreditar avance automático por pago; etapa internacional 2027 en definición.",
+        "hardware": "Arduino / Raspberry Pi / LEGO Education / micro:bit / ESP32",
+        "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+        "importance": "Candidato regional complementario; sin acreditar condición de liga mundial líder.",
+        "strengths": "Declara varias plataformas y combinación de ingeniería / proyectos; nivel real evaluable tras reglas y actas.",
+        "requirements": [
+          "Exige organización aceptada por operador; admisión de equipo familiar independiente sin confirmar.",
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+          "Mencionar seis países y conferencias internacionales no acredita seis torneos operativos. Página muestra tres niveles en contador y cuatro en ruta."
+        ],
+        "cost": "Propuesta pública: membresía institucional USD 100 / 500 / 990 por 12 meses; F1 20 / F2 35 / F3 55 / F4 80 USD por equipo. Confirmar condiciones finales e inscripciones incluidas; sin calcular coste familiar completo.",
+        "award": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+        "sources": [
+          {
+            "title": "Founding season / age groups / institutional fees",
+            "url": "https://federacionfire.org/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leída página propia del operador, incluida provisionalidad de propuesta, ausencia de calendario y etapa internacional futura."
+      },
+      {
+        "id": "rcj-americas-primary",
+        "name": "RoboCupJunior Américas · Primary / SuperRegional",
+        "group": "international",
+        "age_summary": "Primary 10–14 al 1 de julio; Secondary 14–19; fechas 2027 por elegir.",
+        "age_tags": [
+          "10-12",
+          "teen"
+        ],
+        "summary": "Etapa regional internacional de robótica autónoma para futuro de Matvey. Primary se distingue de final mundial RCJ 14–19.",
+        "categories": [
+          {
+            "name": "Soccer Entry",
+            "age": "10–14",
+            "team": "2–4 + mentor 19+",
+            "hardware": "Robots / actuación autónomos según Entry rules.",
+            "age_rule": "Todos alumnos 10–14 al 1 de julio; nueva edición puede precisar tamaño de equipo.",
+            "entry": "Cupo del representante nacional o plaza invitada aprobada por separado.",
+            "event_id": "C1311"
+          },
+          {
+            "name": "Rescue Line Entry",
+            "age": "10–14",
+            "team": "2–4 + mentor 19+",
+            "hardware": "Robots / actuación autónomos según Entry rules.",
+            "age_rule": "Todos alumnos 10–14 al 1 de julio; nueva edición puede precisar tamaño de equipo.",
+            "entry": "Cupo del representante nacional o plaza invitada aprobada por separado.",
+            "event_id": "C1312"
+          },
+          {
+            "name": "OnStage Entry",
+            "age": "10–14",
+            "team": "2–5 + mentor 19+",
+            "hardware": "Robots / actuación autónomos según Entry rules.",
+            "age_rule": "Todos alumnos 10–14 al 1 de julio; nueva edición puede precisar tamaño de equipo.",
+            "entry": "Cupo del representante nacional o plaza invitada aprobada por separado.",
+            "event_id": "C1313"
+          }
+        ],
+        "event_ids": [
+          "C042",
+          "C1311",
+          "C1312",
+          "C1313"
+        ],
+        "legacy_ids": [],
+        "route": "Open regional → decisión nacional → cupo confirmado → inscripción en edición. País sin comité puede solicitar plaza invitada; sin derecho a International.",
+        "hardware": "Robot autónomo propio para Soccer / Rescue o proyecto escénico OnStage; límites técnicos de edición concreta aparte.",
+        "language": "English rules es versión prevalente; confirmar idioma de entrevistas.",
+        "importance": "Meta sustancial a los 10–12, con selección real y autonomía técnica; no compra familiar abierta de medalla mundial.",
+        "strengths": "Robot, código, resolver fallos y explicar aportación propia. Existen reglas Entry regionales para participantes menores.",
+        "requirements": [
+          "Matvey de 2017: en 2027 exige cumpleaños hasta 1 de julio inclusive; de lo contrario siguiente posibilidad con mismo corte en 2028. Oscar de 2020 no cumple Primary 2027.",
+          "Exige otro alumno / equipo elegible y mentor 19+ en evento. Confirmar tamaños locales y derecho a representar país."
+        ],
+        "nuances": [
+          "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+          "Sede / fecha 2027 sin anunciar. Brampton pasado 22–25 de octubre de 2026 no trasladado automáticamente a 2027. Ruta invitada para país sin comité no significa invitación automática."
+        ],
+        "cost": "Tarifa de nueva edición sin anunciar; robot, portátil, mentor, viaje y alojamiento aparte. Acceso público de visitantes y participación del equipo tienen condiciones distintas.",
+        "award": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+        "sources": [
+          {
+            "title": "Current general age / divisions / country route",
+            "url": "https://robocupamericas.org/es/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Guest path without regional committee",
+            "url": "https://robocupamericas.org/es/new-country/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Event history and organiser",
+            "url": "https://robocupamericas.org/es/about/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídas páginas generales vigentes y ruta invitada; condiciones de futura edición concreta aún desconocidas."
+      },
+      {
+        "id": "eduvision-panama",
+        "name": "Eduvisión Robotics Challenge Panamá",
+        "group": "regional",
+        "age_summary": "Reglas 2026: 4–18, corte 31 de marzo; convocatoria futura sin anunciar.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Última fecha publicada 7–9 de octubre de 2026, Instituto Técnico Don Bosco, Paitilla / vía Israel / calle 71. Temporada pasada; fecha y reglas de próxima convocatoria sin anunciar. Passline redirige a home general, billete y precio sin confirmar. Enlace INSCRÍBETE AHORA no acredita convocatoria nueva.",
+        "categories": [
+          {
+            "name": "Animate · Green Planet",
+            "age": "4–5",
+            "team": "3 + coach",
+            "hardware": "Tale-Bot",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1315"
+          },
+          {
+            "name": "Iluminate · Sequence Challenge",
+            "age": "6–7",
+            "team": "3 + coach",
+            "hardware": "Tale-Bot",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1316"
+          },
+          {
+            "name": "Wonders Makers · Free Project",
+            "age": "8–10",
+            "team": "3 + coach",
+            "hardware": "Elecfreaks Wonder Building Kit 32 in 1 + micro:bit",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1317"
+          },
+          {
+            "name": "Robot Explorers · Line Follower",
+            "age": "11–14",
+            "team": "3 + coach",
+            "hardware": "mBot 2",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1318"
+          },
+          {
+            "name": "Sumo Challenge · Robot Sumo",
+            "age": "11–14",
+            "team": "3 + coach",
+            "hardware": "mBot 2",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1319"
+          },
+          {
+            "name": "Off Road Challenge · Extreme Circuit",
+            "age": "15–18",
+            "team": "3 + coach",
+            "hardware": "mBot Ranger",
+            "age_rule": "Archivo 2026: edad al 31 de marzo; regla de próxima temporada aún sin establecer.",
+            "entry": "Por institución; convocatoria nueva y equipo extranjero sin confirmar.",
+            "event_id": "C1320"
+          }
+        ],
+        "event_ids": [
+          "C1314",
+          "C1315",
+          "C1316",
+          "C1317",
+          "C1318",
+          "C1319",
+          "C1320"
+        ],
+        "legacy_ids": [],
+        "route": "Preparación escolar / club → nueva convocatoria → categoría por corte publicado → concurso local. Sin acreditar clasificación internacional mediante este anuncio.",
+        "hardware": "Tale-Bot para 4–5 / 6–7; Wonder Building Kit 32 in 1 + micro:bit para 8–10; mBot 2 para 11–14; mBot Ranger para 15–18. Reglas no ofrecen libre elección de cualquier robot.",
+        "language": "Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.",
+        "importance": "Alternativa regional cercana con estructura menor concreta; no viaje 2027 confirmado.",
+        "strengths": "Desde programación por botones hasta proyecto micro:bit, seguidor de línea, sumo y navegación autónoma. Edad y equipo varían por disciplina.",
+        "requirements": [
+          "Cada una de seis categorías PDF exige tres alumnos y un representante / coach mayor de 18. Dos hermanos no forman tal equipo; menores en grupos de edad distintos.",
+          "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+        ],
+        "nuances": [
+          "Última fecha publicada 7–9 de octubre de 2026, Instituto Técnico Don Bosco, Paitilla / vía Israel / calle 71. Temporada pasada; fecha y reglas de próxima convocatoria sin anunciar. Passline redirige a home general, billete y precio sin confirmar. Enlace INSCRÍBETE AHORA no acredita convocatoria nueva.",
+          "Sin calcular admisión por edad el día de torneo: reglas publicadas usan 31 de marzo. Año futuro requiere edición nueva, no sustitución mecánica de 2026 por 2027."
+        ],
+        "cost": "Tarifa, kit, mantenimiento y billete de visitante de próxima temporada sin establecer. Redirección de enlace Passline antiguo a home general no es billete disponible.",
+        "award": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+        "sources": [
+          {
+            "title": "Official programme / last-season date poster",
+            "url": "https://www.eduvisionpnm.com/challenge/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Published October 2026 date",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/images/fechas-evento.png",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "General rules 2026",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-general-robotics-2026.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Animate · Green Planet · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-animate.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Iluminate · Sequence Challenge · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-iluminate.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Wonders Makers · Free Project · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-wonders-makers.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Robot Explorers · Line Follower · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-robot-explorers.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Sumo Challenge · Robot Sumo · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-sumo.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Off Road Challenge · Extreme Circuit · 2026 rules",
+            "url": "https://www.eduvisionpnm.com/challenge/assets/pdf/reglamento-off-road.pdf",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Leídos documento general y seis categorías; inspeccionadas páginas de edad / composición / equipo y fecha de póster. Sin localizar tarifa ni fechas nuevas en estas fuentes."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -12992,7 +13377,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "147 perfiles de ligas, familias y programas; todos los 46 itinerarios anteriores conservados. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
+    "methodology": "151 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

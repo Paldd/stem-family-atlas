@@ -109,18 +109,18 @@ Limitaciones: No aplazar la exención 2026 hasta la próxima temporada; condicio
 Fuente: https://www.torneoluva.com
 Se ha comprobado: 2026-11-05
 
-### C003 · FIRST LEGO League BIOGLOW — Explore / Challenge
+### C003 · FIRST LEGO League Costa Rica · BIOGLOW Founders · festival nacional
 
-Fecha: 2026*27; fechas locales exactas
-edad: Referencia global Explore 6–10 / Challenge 9–16 con variantes locales; condiciones Costa Rica BIOGLOW aún sin confirmar mediante anuncio local actual.
-Matvey: Condicional: edad posible según referencia global, convocatoria y categoría locales desconocidas.
-Oscar: Condicional: Explore posible por edad global; convocatoria, curso y composición locales desconocidos.
-Idioma: Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.
-Acceso: Directorio global actual señala Fundación STEAM para Costa Rica. Web local no abrió por certificado TLS caducado; lanzamiento localizado pertenece a UNEARTHED 2025–26. No trasladar permiso de equipos independientes México a Costa Rica.
-Costo: No publicado / Comprobar la edición actual
-Limitaciones: Socio nacional confirmado por directorio, pero fechas actuales, precio, corte de edad y admisión extranjera / independiente sin anunciar. Medallas Explore y puestos competitivos Challenge son distintos. Temporada 2026/27 última FLL; reglas posteriores aparte.
-Fuente: https://firstlegoleague.org/
-Se ha comprobado: 2026-11-04
+Fecha: 2027-03-06 — 2027-03-06
+edad: Explore 6–10; Challenge 9–16
+Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
+Oscar: Explore por edad; confirmar composición y admisión de equipo.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
+Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
+Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
+Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
+Se ha comprobado: 2026-11-05
 
 ### C004 · FIRST LEGO League BIOGLOW — Explore / Challenge
 
@@ -2187,6 +2187,58 @@ Acceso: Inscripción a final nacional 2026 cerrada según plazo publicado. Categ
 Precio: Paquete y precio actual no encontrados en convocatoria; beneficios de premio mundial varían por categoría y no aplican a menores.
 Limitaciones:
 Fuente: https://www.wermexico.com/_files/ugd/aa4c42_0468a5fddb0647caa479f5544552eb07.pdf
+Se ha comprobado: 2026-11-05
+
+### C1295 · FIRST LEGO League Costa Rica · BIOGLOW Explore
+
+Fecha: 2027-03-06 — 2027-03-06
+Edad: 6 &apos; 10
+Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
+Oscar: Explore por edad; confirmar composición y admisión de equipo.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
+Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
+Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
+Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
+Se ha comprobado: 2026-11-05
+
+### C1296 · FIRST LEGO League Costa Rica · BIOGLOW Challenge
+
+Fecha: 2027-03-06 — 2027-03-06
+Edad: 9*16
+Matvey: Sí por edad: Explore y Challenge; confirmar composición y admisión de equipo.
+Oscar: No: mínimo publicado 9 años.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Operador local Fundación STEAM publica ambas inscripciones hasta 30 de noviembre de 2026 y día nacional 6 de marzo de 2027. Explore exige 3–6 niños y un entrenador; Challenge 3–8 y un entrenador. Dos hermanos no bastan para equipo separado. Composición independiente / extranjera y país representado sin confirmar; formularios devolvieron HTTP 401 en lectura anónima, campos sin revisar. No acredita cierre de inscripción.
+Precio: CRC: Explore — 1 equipo 70000 / 1 kit; 3 equipos 120000 / 3 kits; 5 equipos 175000 / 5 kits. Challenge — 1 equipo 220000 / 1 kit; 3 equipos 265000 / 1 kit; 5 equipos 295000 / 1 kit. Paquetes por equipo, no tarifas por niño. Póster incluye inscripción, set de categoría, material digital, medalla LEGO y certificado digital para participantes. Contenido de kit, inclusión de robot programable, impuestos, envío, entrenador, ordenador y viaje requieren factura aparte.
+Limitaciones: Publicado Founders, sin trasladar condiciones de equipo Future Edition México a Costa Rica. Medalla y certificado del paquete son participación; puesto Challenge y cupo internacional requieren acta / decisión separada. Una Explore cuesta 70000; Challenge + Explore separados 220000 + 70000 = 290000 CRC antes de suplementos sin confirmar. Fecha general no fija hora separada de Explore o Challenge.
+Fuente: https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/
+Se ha comprobado: 2026-11-05
+
+### C1308 · Academia STEM · Chihuahua Zona Centro · 2026-11-09
+
+Fecha: 2026-11-09 — 2026-11-09
+edad: API indica Básico / Media Superior / Superior; desglose de menores por categoría sin publicar en esta ficha.
+Matway: Condicional
+Óscar: Condicional
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.
+Precio: Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.
+Limitaciones: Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.
+Fuente: https://academiastem.org/championships/
+Se ha comprobado: 2026-11-05
+
+### C1309 · Robo Blasters 2026 · El Reto de la MUDANZA
+
+Fecha: 2026-12-05 — 2026-12-05
+edad: Solo cursos reales 5–6 de primaria y 1–3 de secundaria; edad no sustituye curso.
+Matway: Condicional
+Óscar: Condicional
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.
+Precio: Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.
+Limitaciones: Página de Tecnológico de Monterrey confirma 5 de diciembre. Cursos de Matvey y Oscar desconocidos; sin asignar curso acelerado ni ordinario automáticamente. Entrada de visitante y próxima edición sin anunciar en página leída.
+Fuente: https://sites.google.com/tec.mx/roboblasters/inicio
 Se ha comprobado: 2026-11-05
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

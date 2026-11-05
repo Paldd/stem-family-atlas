@@ -1,5 +1,5 @@
 {
-  "version": 157,
+  "version": 160,
   "checked": "2026-11-05",
   "kind": "editorial_family_recommendation",
   "title": "Una base, dos rutas propias.",
@@ -523,6 +523,21 @@
       "period": "Antes de temporada 2027",
       "title": "Equipo y presupuesto según reglamento concreto",
       "detail": "FLL México Future 6–9 exige 4 alumnos, dos hermanos no bastan. RoboRAVE ES global desde 8: Matvey necesita otro compañero. Mínimo 2 alumnos + 1 coach: base 1740 USD según tarifa 580 por persona; lista indica 650 sin unidad, factura completa desconocida. Para Costa Rica confirmar primero BIOGLOW actual con Fundación STEAM; web con lanzamiento antiguo no acredita convocatoria nueva."
+    },
+    {
+      "period": "Antes de 30 de noviembre de 2026",
+      "title": "Costa Rica: formar equipo BIOGLOW vigente",
+      "detail": "Explore conjunta: niños 6–10, mínimo 3, por tanto hermanos necesitan otro integrante y entrenador; paquete de equipo 70000 CRC. Para reto competitivo mayor de Matvey comprobar Challenge 9–16, mínimo 3; para Oscar Explore separada, mínimo 3. Paquetes de dos equipos 220000 + 70000 = 290000 CRC, antes de robots, ordenadores, preparación, viaje y suplementos sin confirmar. Medalla incluida de participación no es puesto competitivo. Verificar acceso a formularios publicados por separado; sin inscripción personal."
+    },
+    {
+      "period": "2027-03-06",
+      "title": "Elegir competición principal de marzo",
+      "detail": "FLL nacional Costa Rica anunciado para 6 de marzo; TMR Zacatecas para 3–6 de marzo. Horario, admisión y sede FLL aún por confirmar. Para programa completo de uno de estos eventos tener en cuenta coincidencia de fecha en países distintos."
+    },
+    {
+      "period": "2027–2028",
+      "title": "Matvey: preparación para RoboCup Primary",
+      "detail": "Americas Primary: Matvey de 2017 cumple en 2027 solo si cumple 10 años no más tarde del 1 de julio inclusive; Oscar de 2020 no cumple. País sin comité puede pedir plaza invitada sin derecho a International; fechas 2027 por elegir."
     }
   ],
   "selection": [
@@ -792,6 +807,30 @@
       "url": "https://costarica.cuttle.org/index.php?action=content&id=31",
       "checked": "2026-11-05",
       "claim": "Ruta nacional familiar / escolar y plazo próximo; sin confirmar inscripción infantil."
+    },
+    {
+      "title": "Costa Rica national FIRST registration and date",
+      "url": "https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/",
+      "checked": "2026-11-05",
+      "claim": "BIOGLOW: día nacional 6 de marzo de 2027, plazo 30 de noviembre de 2026; Explore y Challenge exigen mínimo tres alumnos."
+    },
+    {
+      "title": "Costa Rica FIRST team-package fees",
+      "url": "https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png",
+      "checked": "2026-11-05",
+      "claim": "Paquetes por equipo en CRC y cantidad de kits de temporada; robot no declarado expresamente incluido."
+    },
+    {
+      "title": "Americas Primary and cutoff",
+      "url": "https://robocupamericas.org/es/",
+      "checked": "2026-11-05",
+      "claim": "Primary 10–14 al 1 de julio; fechas y sede de edición 2027 por elegir."
+    },
+    {
+      "title": "Americas guest route",
+      "url": "https://robocupamericas.org/es/new-country/",
+      "checked": "2026-11-05",
+      "claim": "País sin comité puede solicitar plaza invitada; sin derecho a International."
     }
   ],
   "confidence": "Mediano: los programas de menores han sido encontrados, pero los puestos vacantes, los entrenadores actuales y el nivel de autonomía de los niños aún no se han confirmado.",

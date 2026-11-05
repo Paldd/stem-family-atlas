@@ -2284,6 +2284,149 @@ Limitaciones:
 Fuente: https://robomatrix.org/santo-domingo/
 Se ha comprobado: 2026-11-05
 
+### C1297 · Grupo R.A. × Nética · Fiscales 2026
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: Por disciplina: Primaria Menor, EGB 5–7 / 8–12 o EGB 8+ / 12+.
+Matvey: Condicional: categoría escolar menor y admisión institucional aparte.
+Oscar: Condicional: solo con Primaria Menor y acceso escolar confirmados.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Convocatoria 08:15, inicio 09:00; fin sin publicar, calendario por día sin hora de fin inventada. Padres no ayudan en pista; participantes consultan al juez. Socio de México no convierte evento en clasificatorio mexicano o mundial.
+Fuente: https://somosgrupora.com/torneo-robotica/
+Se ha comprobado: 2026-11-05
+
+### C1298 · Grupo R.A. × Nética · Particulares 2026
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: Por disciplina: Primaria Menor, EGB 5–7 / 8–12 o EGB 8+ / 12+.
+Matvey: Condicional: categoría escolar menor y admisión institucional aparte.
+Oscar: Condicional: solo con Primaria Menor y acceso escolar confirmados.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Convocatoria 08:15, inicio 09:00; fin sin publicar, calendario por día sin hora de fin inventada. Padres no ayudan en pista; participantes consultan al juez. Socio de México no convierte evento en clasificatorio mexicano o mundial.
+Fuente: https://somosgrupora.com/torneo-robotica/
+Se ha comprobado: 2026-11-05
+
+### C1299 · Grupo R.A. × Nética · Fiscales 2026 · Boliche
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: Primaria Menor
+Matvey: Condicional: categoría escolar menor y admisión institucional aparte.
+Oscar: Condicional: solo con Primaria Menor y acceso escolar confirmados.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Edad numérica y equivalencia de Primaria Menor no indicadas. Máximo 15 × 15 × 15 cm; solo piezas del kit permitido. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
+Se ha comprobado: 2026-11-05
+
+### C1300 · Grupo R.A. × Nética · Fiscales 2026 · Fragata
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 5–7 · 8–12
+Matvey: Condicional: categoría escolar menor y admisión institucional aparte.
+Oscar: No por mínimo publicado de 8 años; nivel escolar real también obligatorio.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Carrera autónoma; ancho máximo 40 cm y profundidad 20 cm. Matvey debe cumplir edad y EGB 5–7; Oscar aún menor del mínimo 8. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-fragata.pdf
+Se ha comprobado: 2026-11-05
+
+### C1301 · Grupo R.A. × Nética · Fiscales 2026 · Persecución
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 8–10 · 12–15
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Persecución autónoma con demora obligatoria de 5 segundos; edad posterior para ambos niños. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
+Se ha comprobado: 2026-11-05
+
+### C1302 · Grupo R.A. × Nética · Fiscales 2026 · Sumo
+
+Fecha: 2026-11-24 国 2026-11-24
+edad: EGB 8–BGU 3 · 12+
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: PDF permite combinar Construbot Plus, Alphabot y piezas de otros sistemas con restricciones propias; encabezado 12+ prevalece sobre frase general primaria / secundaria. Ambos niños menores del mínimo publicado. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
+Se ha comprobado: 2026-11-05
+
+### C1303 · Grupo R.A. × Nética · Particulares 2026 · Boliche
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: Primaria Menor
+Matvey: Condicional: categoría escolar menor y admisión institucional aparte.
+Oscar: Condicional: solo con Primaria Menor y acceso escolar confirmados.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Edad numérica y equivalencia de Primaria Menor no indicadas. Máximo 15 × 15 × 15 cm; solo piezas del kit permitido. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-boliche.pdf
+Se ha comprobado: 2026-11-05
+
+### C1304 · Grupo R.A. × Nética · Particulares 2026 · Persecución
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8–10 · 12–15
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Persecución autónoma con demora obligatoria de 5 segundos; edad posterior para ambos niños. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-persecucion.pdf
+Se ha comprobado: 2026-11-05
+
+### C1305 · Grupo R.A. × Nética · Particulares 2026 · Saca la Basura
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8–BGU 3 · 12+
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Recogida autónoma de objetos, 2 minutos por ronda. Mínimo 12 y nivel escolar, no categoría LEGO menor. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura.pdf
+Se ha comprobado: 2026-11-05
+
+### C1306 · Grupo R.A. × Nética · Particulares 2026 · Sumo
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8–BGU 3 · 12+
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: PDF permite combinar Construbot Plus, Alphabot y piezas de otros sistemas con restricciones propias; encabezado 12+ prevalece sobre frase general primaria / secundaria. Ambos niños menores del mínimo publicado. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-sumo.pdf
+Se ha comprobado: 2026-11-05
+
+### C1307 · Grupo R.A. × Nética · Particulares 2026 · Saca la Basura Beet Bot
+
+Fecha: 2026-11-25 — 2026-11-25
+edad: EGB 8–BGU 3 · 12+
+Matvey: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Oscar: No actualmente: mínimo publicado 12 años y nivel escolar superior.
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Precio: Página indica $40 por equipo en cada categoría; no por niño ni por todas disciplinas juntas. Confirmar código de moneda, material, impuestos y factura final. Visita gratis con registro previo; formulario exige cédula de 10 dígitos, documento extranjero y entrada de niños visitantes sin confirmar.
+Limitaciones: Versión de equipo separada de recogida de objetos con Beetbot Arduino 1; no elección libre de cualquier robot Arduino. Equipo inscrito por institución educativa. 24 de noviembre Fiscales, 25 de noviembre Particulares. FAQ permite a institución privada no cliente solo Sumo el 25 de noviembre por $40; Sumo exige 12+. Curso escolar menor no implica acceso familiar abierto. Confirmar relación del colegio con programa, equivalencia de curso y equipo extranjero aparte.
+Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf
+Se ha comprobado: 2026-11-05
+
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

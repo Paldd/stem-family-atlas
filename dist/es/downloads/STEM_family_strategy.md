@@ -339,6 +339,18 @@ Primero sede regional por geografía del equipo; otra sede o nacionalidad famili
 
 FLL México Future 6–9 exige 4 alumnos, dos hermanos no bastan. RoboRAVE ES global desde 8: Matvey necesita otro compañero. Mínimo 2 alumnos + 1 coach: base 1740 USD según tarifa 580 por persona; lista indica 650 sin unidad, factura completa desconocida. Para Costa Rica confirmar primero BIOGLOW actual con Fundación STEAM; web con lanzamiento antiguo no acredita convocatoria nueva.
 
+### Antes de 30 de noviembre de 2026 · Costa Rica: formar equipo BIOGLOW vigente
+
+Explore conjunta: niños 6–10, mínimo 3, por tanto hermanos necesitan otro integrante y entrenador; paquete de equipo 70000 CRC. Para reto competitivo mayor de Matvey comprobar Challenge 9–16, mínimo 3; para Oscar Explore separada, mínimo 3. Paquetes de dos equipos 220000 + 70000 = 290000 CRC, antes de robots, ordenadores, preparación, viaje y suplementos sin confirmar. Medalla incluida de participación no es puesto competitivo. Verificar acceso a formularios publicados por separado; sin inscripción personal.
+
+### 2027-03-06 · Elegir competición principal de marzo
+
+FLL nacional Costa Rica anunciado para 6 de marzo; TMR Zacatecas para 3–6 de marzo. Horario, admisión y sede FLL aún por confirmar. Para programa completo de uno de estos eventos tener en cuenta coincidencia de fecha en países distintos.
+
+### 2027–2028 · Matvey: preparación para RoboCup Primary
+
+Americas Primary: Matvey de 2017 cumple en 2027 solo si cumple 10 años no más tarde del 1 de julio inclusive; Oscar de 2020 no cumple. País sin comité puede pedir plaza invitada sin derecho a International; fechas 2027 por elegir.
+
 ## Comprobar la escuela y el equipo
 
 - Un entrenador junior llamado, su horario y su accesibilidad durante la temporada.
@@ -405,3 +417,7 @@ FLL México Future 6–9 exige 4 alumnos, dos hermanos no bastan. RoboRAVE ES gl
 - [RoboParade 2027 V2](https://www.robofest.net/images/2627/RoboParade2027_V2.pdf) — RoboParade Explorer: cursos 1–4, equipo 1–5, trabajo propio y formato técnico V2.
 - [Bebras México family route](https://bebras.mx/) — Ruta nacional familiar / escolar y plazo próximo; sin confirmar inscripción infantil.
 - [Bebras Costa Rica actual school route](https://costarica.cuttle.org/index.php?action=content&id=31) — Ruta nacional familiar / escolar y plazo próximo; sin confirmar inscripción infantil.
+- [Costa Rica national FIRST registration and date](https://fundacionsteam.org/cmsevents/festival-nacional-de-robotica/) — BIOGLOW: día nacional 6 de marzo de 2027, plazo 30 de noviembre de 2026; Explore y Challenge exigen mínimo tres alumnos.
+- [Costa Rica FIRST team-package fees](https://fundacionsteam.org/wp-content/uploads/2020/08/Precios-FLL-2027-1024x1024.png) — Paquetes por equipo en CRC y cantidad de kits de temporada; robot no declarado expresamente incluido.
+- [Americas Primary and cutoff](https://robocupamericas.org/es/) — Primary 10–14 al 1 de julio; fechas y sede de edición 2027 por elegir.
+- [Americas guest route](https://robocupamericas.org/es/new-country/) — País sin comité puede solicitar plaza invitada; sin derecho a International.
