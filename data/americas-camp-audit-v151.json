@@ -1,0 +1,53 @@
+{
+  "version": 151,
+  "asof": "2026-11-05",
+  "status": "verified-local-build-and-exports",
+  "scope": "USA and Canada new dated technical programmes; Costa Rica and Mexico rechecked without invented new cohorts",
+  "new_dossiers": [
+    "CP1174",
+    "CP1175",
+    "CP1176",
+    "CP1177",
+    "CP1178",
+    "CP1179",
+    "CP1180",
+    "CP1181",
+    "CP1182"
+  ],
+  "new_camp_catalog_rows": 21,
+  "new_budget_offers": 2,
+  "observed_requests": 42,
+  "successful_response_hashes_verified": 38,
+  "findings": [
+    "AI & Robotics Academy: 17 distinct public course pages read, including ten Summer 2027 weeks. Sixteen public offering objects corroborate dates and fees; the remaining August 16–20 course is announced but booking opens soon and no fee is assigned.",
+    "Summer: 48 real days, two four-day weeks and eight five-day weeks. USD 359 / 449 early prices shown through December 31, 2026; regular 419 / 519 from April 1. No invented intermediate January–March tier or registration deadline.",
+    "School-break courses: 21 days across seven cohorts. Detail cards show USD 519 even for a single day, whereas FAQ shows 159 / 259 / 349 / 499 by duration. Short-course care differs between cards and per-day FAQ. Conflict retained; no cheap quote selected as confirmed.",
+    "Summer meals are to be agreed, not automatically the pizza/snacks of school-break programmes. Latest school-break FAQ says pizza/snacks may not be a full lunch. Materials and kit loans do not promise every child a take-home robot.",
+    "Early-bird and sibling stacking requires checkout application according to refund policy. Two family budget examples retain two full early prices, with correct four/five-day care, without automatically subtracting sibling discount.",
+    "Refunds read: 14+ days less 6%; later account credit, not cash. Credit valid two years inside family; closure / weather rules and operator cancellation treated separately. No waiver or enrolment accepted.",
+    "Holland Bloorview: four weekly programmes, six lessons each. Formal diagnosis required, possible own 1:1 support, individual fit and foreign-family admission unresolved; no family health facts inferred. This is recreation under a FIRST name, not tournament qualification.",
+    "Coding 101 is online, minimum 9 on specific Winter page versus 8 in overview; Oscar not age-compatible. Intermediate skips February 14; erroneous March 7, 2026 backup not promoted to confirmed 2027. All snow make-up dates remain conditional.",
+    "Hofstra: current robotics and Game Builders Academy descriptions and grade rules checked. Public enrollment catalog returned 403. Header 2027 and search snippets are insufficient for exact track cohorts; two undated watch dossiers retained. Grade 6–10 Makerspace upgrade is not ages 6–10.",
+    "EN/ES instruction not explicitly established for the new concrete programmes. English website and North American address do not become confirmed instructional language; no new programme enters confirmed EN/ES filters.",
+    "Costa Rica Cenfotec Makers still December 7–11, 2026, 10–12, USD 180 plus 2% VAT and ages 10–12: both children below minimum then. Existing accurate dossier preserved.",
+    "Mexico Liota fresh public bundle retains December 17–January 4 and contradictory four-week description, MXN 3200 early price until November 30. No exact attendance days or winter age gate established. Ciberbots still lacks exact holiday dates; no invented new dated rows.",
+    "ROBOIQ current page confirms programme families, not current camp dates / age-specific intake / full teaching language. The extracted text of the New Hope public homepage did not resolve prior unverified form windows; homepage images and private forms are not claimed fully audited. No old unknown is silently promoted to eligibility."
+  ],
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "bookings": 0,
+  "messages_sent": 0,
+  "remaining": [
+    "Instruction language confirmation",
+    "Foreign-family and special admission",
+    "Exact birthdays and grades",
+    "Full invoices / summer meals / tax / travel costs",
+    "Hofstra exact dates / available places",
+    "All remaining worldwide countries, schools, leagues and events"
+  ],
+  "events": 4154,
+  "programme_dossiers": 1182,
+  "actual_timed_calendar_entries_added": 93,
+  "family_ICS_entries": 3770,
+  "verification_method": "Both language filters / dossier templates / family budgets / timed exports exercised in isolated Node VM. Full JSON and SQLite verified, all previous events and dossiers unchanged. 43 non-vendor JavaScript syntax checks passed. No browser or visual QA; data-only update."
+}

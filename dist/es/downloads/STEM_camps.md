@@ -42534,6 +42534,342 @@ Limitaciones: Matvey: Edad compatible con 8–15; confirmar admisión extranjera
 Fuente: https://www.nldeducation.com/english-camp-espana-2027/
 Se ha comprobado: 2026-11-05
 
+### CP1174-20261111-20261111 · AI & Robotics Academy · Magnolia Holiday Robotics · Hero Tech Robotics · 2026-11-11–2026-11-11
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2026-11-11 — 2026-11-11
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-hero-tech-robotics-1111-full
+Se ha comprobado: 2026-11-05
+
+### CP1174-20261123-20261125 · AI & Robotics Academy · Magnolia Holiday Robotics · BattleBots Mini-Tournament · 2026-11-23–2026-11-25
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2026-11-23 国 2026-11-25
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-battlebots-mini-tournament-1123-full
+Se ha comprobado: 2026-11-05
+
+### CP1174-20261221-20261223 · AI & Robotics Academy · Magnolia Holiday Robotics · Winter Wonderland Robotics · 2026-12-21–2026-12-23
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-winter-wonderland-robotics-1221-full
+Se ha comprobado: 2026-11-05
+
+### CP1174-20261228-20261230 · AI & Robotics Academy · Magnolia Holiday Robotics · Scrap to Bot Challenge · 2026-12-28–2026-12-30
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2026-12-28 — 2026-12-30
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-scrap-to-bot-challenge-1228-full
+Se ha comprobado: 2026-11-05
+
+### CP1174-20270128-20270128 · AI & Robotics Academy · Magnolia Holiday Robotics · Future City Innovators · 2027-01-28–2027-01-28
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-01-28 — 2027-01-28
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-future-city-innovators-0128-full
+Se ha comprobado: 2026-11-05
+
+### CP1175-20270215-20270219 · AI & Robotics Academy · Magnolia Game Design / AI Breaks · World Builders Game Design · 2027-02-15–2027-02-19
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-02-15 国 2027-02-19
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-game-design-world-builders-0215-full
+Se ha comprobado: 2026-11-05
+
+### CP1175-20270412-20270416 · AI & Robotics Academy · Magnolia Game Design / AI Breaks · Ultimate Game Design & AI · 2027-04-12–2027-04-16
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-04-12 — 2027-04-16
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Fichas holiday y sus datos públicos muestran USD 519 incluso por un día; FAQ indica aparte 159 / 259 / 349 / 499 por 1 / 2 / 3 / 5 días. Care en ficha 65 / 160, FAQ 13 / 32 diarios. Valores discrepan en sesiones cortas: se necesita factura escrita, sin presentar cifra menor como precio confirmado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Family travel, alojamiento, comida completa, taxes / seguro y precio correcto de care aparte. After-school transport de 160 / mes no es precio de transporte de vacaciones. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-ultimate-game-design-ai-0412-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270622-20270625 · AI & Robotics Academy · Magnolia Summer 2027 · STEAM Launchpad: The Innovator’s Bootcamp · 2027-06-22–2027-06-25
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-06-22 — 2027-06-25
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 359 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-steam-launchpad-0622-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270628-20270702 · AI & Robotics Academy · Magnolia Summer 2027 · Robo-Olympics: Mechanics, Motors & Torque · 2027-06-28–2027-07-02
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-06-28 — 2027-07-02
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-robo-olympics-0628-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270706-20270709 · AI & Robotics Academy · Magnolia Summer 2027 · Eco-Tech & Ocean Explorers · 2027-07-06–2027-07-09
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-07-06 — 2027-07-09
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 359 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-eco-tech-ocean-explorers-0706-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270712-20270716 · AI & Robotics Academy · Magnolia Summer 2027 · Arcade Studio: Retro & 2D Game Design · 2027-07-12–2027-07-16
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-arcade-studio-0712-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270719-20270723 · AI & Robotics Academy · Magnolia Summer 2027 · The Mad Scientist & Physics of Flight Lab · 2027-07-19–2027-07-23
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-mad-scientist-flight-lab-0719-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270726-20270730 · AI & Robotics Academy · Magnolia Summer 2027 · Tech-Art & 3D Print Design Studio · 2027-07-26–2027-07-30
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-tech-art-design-studio-0726-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270802-20270806 · AI & Robotics Academy · Magnolia Summer 2027 · Masterminds: Math, Codes & Tech Escape Rooms · 2027-08-02–2027-08-06
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-08-02 - 2027-08-06
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-masterminds-math-codes-0802-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270809-20270813 · AI & Robotics Academy · Magnolia Summer 2027 · Smart Cities, AI & Autonomous Sensors · 2027-08-09–2027-08-13
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-smart-cities-ai-sensors-0809-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270816-20270820 · AI & Robotics Academy · Magnolia Summer 2027 · 3D Worlds & Game Creators · 2027-08-16–2027-08-20
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-08-16 — 2027-08-20
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Precio aún sin publicar; sin asignar tarifa de semana vecina. · suplementos y condiciones en el dossier
+Acceso: Fechas publicadas, registration opens soon. Inscripción aún sin confirmar abierta.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-worlds-game-creators-0816-full
+Se ha comprobado: 2026-11-05
+
+### CP1176-20270823-20270827 · AI & Robotics Academy · Magnolia Summer 2027 · Magnolia Maker Expo: The Young Entrepreneur & Capstone · 2027-08-23–2027-08-27
+
+lugar: Estados Unidos · Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199
+Fecha: 2027-08-23 — 2027-08-27
+Edad: 5*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 449 tarifa anticipada hasta 31 de diciembre de 2026; confirmar escalones posteriores · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Compatible con 5–12; en 2027 grupo mayor 9–12. Acordar nivel real tras tres años compitiendo, idioma y plaza. Oscar: Compatible con 5–12; verano 2027 grupo menor 5–8. Sin prometer misma complejidad de proyecto que Matvey. Suplementos: Care de 4 días: 52 por mañana / 128 por tarde, de 5 días: 65 / 160 por niño según fichas concretas. Confirmar laptop, comida, taxes / seguro y viaje familiar aparte. Sin precio publicado del 16–20 de agosto. Pago: Camp / one-off: cancelación con 14 o más días — devolución menos 6%; dentro de 14 días antes del inicio — account credit. Después de empezar sin devolución, sesiones no asistidas pueden generar credit; días individuales perdidos no se reembolsan. Credit vale 2 años dentro de familia, no equivale a cash refund. Cancelación del operador: refund íntegro sin cargo o credit a elección; cierres externos / clima: make-up o credit. Rige versión del contrato al inscribirse; sin aceptar contrato.
+Fuente: https://aialabs.org/camps/magnolia-maker-expo-capstone-0823-full
+Se ha comprobado: 2026-11-05
+
+### CP1177-20270119-20270223 · Holland Bloorview · Science Club · Holland Bloorview · Science Club · 2027-01-19–2027-02-23
+
+lugar: Canadá · Holland Bloorview · 150 Kilgour Road · Toronto, Ontario
+Fecha: 2027-01-19 — 2027-02-23
+Edad: 6–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa sin publicar en ficha leída. · suplementos y condiciones en el dossier
+Acceso: Programa recreativo de Holland Bloorview con admisión especial: requiere formal diagnosis antes de empezar, posible apoyo propio 1:1; sin suponer situación de la familia. Edad a 31 de diciembre, año de corte sin precisar en descripción. Requiere decisión individual sobre adecuación al grupo y admisión familiar extranjera. Nombre FIRST no implica registrar equipo en competición.
+Limitaciones: Matvey: Confirmar rango / fecha de corte de edad, formal diagnosis, idioma y admisión individual; situación médica infantil desconocida. Oscar: Por edad menor solo puede encajar curso adecuado; formal diagnosis y decisión de admisión obligatorios, sin acreditar derecho familiar a participar. Suplementos: Transporte, alojamiento familiar, ayudas de comunicación / apoyo 1:1 si hace falta aparte. No servicio de día completo ni residencia. Pago: Pago, seguro, residencia y cancelación no constan en ficha de temporada; sin completar CampBrain.
+Fuente: https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026
+Se ha comprobado: 2026-11-05
+
+### CP1178-20270120-20270224 · Holland Bloorview · Junior Robotics · Holland Bloorview · Junior Robotics · 2027-01-20–2027-02-24
+
+lugar: Canadá · Holland Bloorview · 150 Kilgour Road · Toronto, Ontario
+Fecha: 2027-01-20 — 2027-02-24
+Edad: 6 &apos; 10
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: regular
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa sin publicar en ficha leída. · suplementos y condiciones en el dossier
+Acceso: Programa recreativo de Holland Bloorview con admisión especial: requiere formal diagnosis antes de empezar, posible apoyo propio 1:1; sin suponer situación de la familia. Edad a 31 de diciembre, año de corte sin precisar en descripción. Requiere decisión individual sobre adecuación al grupo y admisión familiar extranjera. Nombre FIRST no implica registrar equipo en competición.
+Limitaciones: Matvey: Confirmar rango / fecha de corte de edad, formal diagnosis, idioma y admisión individual; situación médica infantil desconocida. Oscar: Por edad menor solo puede encajar curso adecuado; formal diagnosis y decisión de admisión obligatorios, sin acreditar derecho familiar a participar. Suplementos: Transporte, alojamiento familiar, ayudas de comunicación / apoyo 1:1 si hace falta aparte. No servicio de día completo ni residencia. Pago: Pago, seguro, residencia y cancelación no constan en ficha de temporada; sin completar CampBrain.
+Fuente: https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026
+Se ha comprobado: 2026-11-05
+
+### CP1179-20270121-20270225 · Holland Bloorview · Coding 101 Online · Holland Bloorview · Coding 101 Online · 2027-01-21–2027-02-25
+
+lugar: Canadá · Holland Bloorview · 150 Kilgour Road · Toronto, Ontario
+Fecha: 2027-01-21 — 2027-02-25
+edad: Winter 9–14; descripción general 8–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa sin publicar en ficha leída. · suplementos y condiciones en el dossier
+Acceso: Programa recreativo de Holland Bloorview con admisión especial: requiere formal diagnosis antes de empezar, posible apoyo propio 1:1; sin suponer situación de la familia. Edad a 31 de diciembre, año de corte sin precisar en descripción. Requiere decisión individual sobre adecuación al grupo y admisión familiar extranjera. Nombre FIRST no implica registrar equipo en competición.
+Limitaciones: Matvey: Confirmar rango / fecha de corte de edad, formal diagnosis, idioma y admisión individual; situación médica infantil desconocida. Oscar: Mínimo del curso Winter elegido 9 / 10; Oscar en 2027 solo 6–7. Condiciones especiales de admisión no eliminan la regla. Suplementos: Transporte, alojamiento familiar, ayudas de comunicación / apoyo 1:1 si hace falta aparte. No servicio de día completo ni residencia. Pago: Pago, seguro, residencia y cancelación no constan en ficha de temporada; sin completar CampBrain.
+Fuente: https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026
+Se ha comprobado: 2026-11-05
+
+### CP1180-20270117-20270228 · Holland Bloorview · Intermediate Robotics · Holland Bloorview · Intermediate Robotics · 2027-01-17–2027-02-28
+
+lugar: Canadá · Holland Bloorview · 150 Kilgour Road · Toronto, Ontario
+Fecha: 2027-01-17 — 2027-02-28
+Edad: 10–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: regular
+Idioma: Idioma principal EN/ES/RU de clases sin establecer expresamente. Web inglesa y ubicación en EEUU / Canadá no acreditan por sí solas idioma de enseñanza; asegurar grupo en inglés antes de reservar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa sin publicar en ficha leída. · suplementos y condiciones en el dossier
+Acceso: Programa recreativo de Holland Bloorview con admisión especial: requiere formal diagnosis antes de empezar, posible apoyo propio 1:1; sin suponer situación de la familia. Edad a 31 de diciembre, año de corte sin precisar en descripción. Requiere decisión individual sobre adecuación al grupo y admisión familiar extranjera. Nombre FIRST no implica registrar equipo en competición.
+Limitaciones: Matvey: Confirmar rango / fecha de corte de edad, formal diagnosis, idioma y admisión individual; situación médica infantil desconocida. Oscar: Mínimo del curso Winter elegido 9 / 10; Oscar en 2027 solo 6–7. Condiciones especiales de admisión no eliminan la regla. Suplementos: Transporte, alojamiento familiar, ayudas de comunicación / apoyo 1:1 si hace falta aparte. No servicio de día completo ni residencia. Pago: Pago, seguro, residencia y cancelación no constan en ficha de temporada; sin completar CampBrain.
+Fuente: https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

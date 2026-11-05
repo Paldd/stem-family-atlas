@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1173,
+    "dossiers": 1182,
     "countries": 41,
     "swiss": 136,
     "by_status": {
-      "published_2026_27": 134,
-      "published_2027": 317,
-      "partial_2027": 113,
+      "published_2026_27": 135,
+      "published_2027": 323,
+      "partial_2027": 115,
       "next_unannounced": 233,
       "published_2026": 239,
       "partial_2026_27": 21,
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1770
+    "source_urls": 1795
   },
   "countries": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "country": "Канада",
-      "count": 148
+      "count": 152
     },
     {
       "country": "Кения",
@@ -148,7 +148,7 @@
     },
     {
       "country": "США",
-      "count": 128
+      "count": 133
     },
     {
       "country": "Сингапур",
@@ -130515,6 +130515,2103 @@
         }
       ],
       "checked": "2026-11-05"
+    },
+    {
+      "id": "CP1174",
+      "slug": "aiara-holiday-robotics-2026-27",
+      "provider": "AI & Robotics Academy · Magnolia Holiday Robotics",
+      "country": "США",
+      "iso": "USA",
+      "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+      "age": "5–12",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Практические роботы, электроника и инженерия 09–15. Группы holiday 5–7 / 8–12; материалы, учебные роботы и ноутбуки заявлены оператором. Сертификат / внутренний мини-турнир не международный результат.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Пять отдельных наборов ноября 2026–января 2027, от одного до трёх дней. Даты взяты с конкретных публичных карточек, не со школьного календаря по догадке.",
+        "sessions": [
+          [
+            "2026-11-11",
+            "2026-11-11"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-30"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-11",
+            "end": "2026-11-11",
+            "label": "Hero Tech Robotics",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-hero-tech-robotics-1111-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Спасательный робот с лебёдкой / подъёмником, движение по поисковому маршруту.",
+            "sessions": [
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Hero Tech Robotics",
+                "ical_timed": true,
+                "start_utc": "2026-11-11T17:00:00Z",
+                "end_utc": "2026-11-11T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-25",
+            "label": "BattleBots Mini-Tournament",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-battlebots-mini-tournament-1123-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Конструирование арены и роботов для внутреннего мини-турнира, управление и стратегия. Это не отбор международной лиги.",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "BattleBots Mini-Tournament",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T17:00:00Z",
+                "end_utc": "2026-11-23T23:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "BattleBots Mini-Tournament",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T17:00:00Z",
+                "end_utc": "2026-11-24T23:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "BattleBots Mini-Tournament",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T17:00:00Z",
+                "end_utc": "2026-11-25T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Winter Wonderland Robotics",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-winter-wonderland-robotics-1221-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Автоматический снегоочиститель, механические зимние модели, сенсоры и световые последовательности.",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Winter Wonderland Robotics",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T17:00:00Z",
+                "end_utc": "2026-12-21T23:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Winter Wonderland Robotics",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T17:00:00Z",
+                "end_utc": "2026-12-22T23:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Winter Wonderland Robotics",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T17:00:00Z",
+                "end_utc": "2026-12-23T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-30",
+            "label": "Scrap to Bot Challenge",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-scrap-to-bot-challenge-1228-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Безопасные вторичные материалы, макетные платы и электроника для работающего робота.",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Scrap to Bot Challenge",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T17:00:00Z",
+                "end_utc": "2026-12-28T23:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Scrap to Bot Challenge",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T17:00:00Z",
+                "end_utc": "2026-12-29T23:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Scrap to Bot Challenge",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T17:00:00Z",
+                "end_utc": "2026-12-30T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-28",
+            "end": "2027-01-28",
+            "label": "Future City Innovators",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-future-city-innovators-0128-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Городские инженерные задачи, прототипы и кодирование решений.",
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Future City Innovators",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T17:00:00Z",
+                "end_utc": "2027-01-28T23:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+        "included": "Материалы, учебные киты / ноутбуки, футболка, pizza и snacks. Свежий FAQ уточняет: pizza / snacks не обязательно полноценный обед, lunchbox при необходимости свой.",
+        "extras": "Family travel, жильё, полноценный обед, taxes / страховка и корректная цена care отдельно. After-school transport за 160 / месяц не цена доставки на каникулы.",
+        "deposit": "Camp / one-off: отмена за 14 и более дней — возврат за вычетом 6%; внутри 14 дней до начала — account credit. После начала возврата нет, за непосещённые сессии возможен credit; отдельные пропущенные дни не возвращают. Credit действует 2 года внутри семьи, не равен cash refund. При отмене оператором — полный refund без сбора или credit по выбору; внешние закрытия / погода — make-up либо credit. Действует версия договора при зачислении; договор не принимался."
+      },
+      "accommodation": "Дневной 09:00–15:00, без ночёвок. Magnolia — конкретная площадка; даты Bellevue не копируем из Seattle. До / после занятий и на выходных семья обеспечивает проживание и уход.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; в 2027 старший поток 9–12. Реальный уровень после трёх лет соревнований, язык и место ещё согласовать."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; летом 2027 младший поток 5–8. Не обещаем одинаковую сложность проекта с Матвеем."
+        }
+      },
+      "editorial_reason": "Ближайшие роботы обоим по возрасту; язык и конфликт цены не закрыты, готовую бронь или мировой рейтинг не заявляем.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить английский язык, иностранный самостоятельный приём, возрастную группу, сложность и места. Местный учебный турнир / showcase не международная медаль.",
+        "Получить полный счёт: тариф именно выбранных дней, питание, care, taxes, страховка, применение sibling / ранней цены и условия отмены."
+      ],
+      "sources": [
+        {
+          "title": "Календарь 2026/27 и Summer 2027 · разные блоки",
+          "url": "https://aialabs.org/camps",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund / credit / скидки",
+          "url": "https://aialabs.org/refund-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Условия участия · только чтение",
+          "url": "https://aialabs.org/waiver-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Hero Tech Robotics · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-hero-tech-robotics-1111-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "BattleBots Mini-Tournament · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-battlebots-mini-tournament-1123-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Winter Wonderland Robotics · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-winter-wonderland-robotics-1221-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Scrap to Bot Challenge · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-scrap-to-bot-challenge-1228-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Future City Innovators · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-future-city-innovators-0128-full",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
+    },
+    {
+      "id": "CP1175",
+      "slug": "aiara-game-ai-breaks-2027",
+      "provider": "AI & Robotics Academy · Magnolia Game Design / AI Breaks",
+      "country": "США",
+      "iso": "USA",
+      "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+      "age": "5–12",
+      "themes": [
+        "games",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Игровая логика / создание миров и отдельная весенняя тема AI. Старший и младший проекты различаются, точный цифровой допуск Оскара и язык подтвердить.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Две разные пятидневные недели 15–19 февраля и 12–16 апреля 2027, 09–15. Не один непрерывный февраль–апрельский лагерь.",
+        "sessions": [
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "World Builders Game Design",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-game-design-world-builders-0215-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Игровые миры и логика для 6–12; пятилетним предложено механическое LEGO. Оскару 6–7 в 2027, конкретную цифровую группу подтвердить.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "World Builders Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T17:00:00Z",
+                "end_utc": "2027-02-15T23:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "World Builders Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T17:00:00Z",
+                "end_utc": "2027-02-16T23:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "World Builders Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T17:00:00Z",
+                "end_utc": "2027-02-17T23:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "World Builders Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T17:00:00Z",
+                "end_utc": "2027-02-18T23:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "World Builders Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T17:00:00Z",
+                "end_utc": "2027-02-19T23:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "Ultimate Game Design & AI",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-ultimate-game-design-ai-0412-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+            "programme": "Старшие создают цифровые миры и компьютерных персонажей; младшим механическая инженерия. Возраст старшего AI-потока не установлен числом, Оскару AI-курс не обещан.",
+            "sessions": [
+              {
+                "date": "2027-04-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Ultimate Game Design & AI",
+                "ical_timed": true,
+                "start_utc": "2027-04-12T16:00:00Z",
+                "end_utc": "2027-04-12T22:00:00Z"
+              },
+              {
+                "date": "2027-04-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Ultimate Game Design & AI",
+                "ical_timed": true,
+                "start_utc": "2027-04-13T16:00:00Z",
+                "end_utc": "2027-04-13T22:00:00Z"
+              },
+              {
+                "date": "2027-04-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Ultimate Game Design & AI",
+                "ical_timed": true,
+                "start_utc": "2027-04-14T16:00:00Z",
+                "end_utc": "2027-04-14T22:00:00Z"
+              },
+              {
+                "date": "2027-04-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Ultimate Game Design & AI",
+                "ical_timed": true,
+                "start_utc": "2027-04-15T16:00:00Z",
+                "end_utc": "2027-04-15T22:00:00Z"
+              },
+              {
+                "date": "2027-04-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Ultimate Game Design & AI",
+                "ical_timed": true,
+                "start_utc": "2027-04-16T16:00:00Z",
+                "end_utc": "2027-04-16T22:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Карточки holiday и их публичные данные показывают USD 519 даже за один день; FAQ отдельно называет 159 / 259 / 349 / 499 за 1 / 2 / 3 / 5 дней. Care в карточке 65 / 160, FAQ 13 / 32 в день. Эти значения расходятся для коротких смен: нужен письменный счёт, меньшую цифру не выдаём за подтверждённую цену.",
+        "included": "Материалы, учебные киты / ноутбуки, футболка, pizza и snacks. Свежий FAQ уточняет: pizza / snacks не обязательно полноценный обед, lunchbox при необходимости свой.",
+        "extras": "Family travel, жильё, полноценный обед, taxes / страховка и корректная цена care отдельно. After-school transport за 160 / месяц не цена доставки на каникулы.",
+        "deposit": "Camp / one-off: отмена за 14 и более дней — возврат за вычетом 6%; внутри 14 дней до начала — account credit. После начала возврата нет, за непосещённые сессии возможен credit; отдельные пропущенные дни не возвращают. Credit действует 2 года внутри семьи, не равен cash refund. При отмене оператором — полный refund без сбора или credit по выбору; внешние закрытия / погода — make-up либо credit. Действует версия договора при зачислении; договор не принимался."
+      },
+      "accommodation": "Дневной 09:00–15:00, без ночёвок. Magnolia — конкретная площадка; даты Bellevue не копируем из Seattle. До / после занятий и на выходных семья обеспечивает проживание и уход.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; в 2027 старший поток 9–12. Реальный уровень после трёх лет соревнований, язык и место ещё согласовать."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; летом 2027 младший поток 5–8. Не обещаем одинаковую сложность проекта с Матвеем."
+        }
+      },
+      "editorial_reason": "Кандидат по возрасту обоим с разделением реального игрового / AI содержания младшей и старшей групп.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить английский язык, иностранный самостоятельный приём, возрастную группу, сложность и места. Местный учебный турнир / showcase не международная медаль.",
+        "Получить полный счёт: тариф именно выбранных дней, питание, care, taxes, страховка, применение sibling / ранней цены и условия отмены."
+      ],
+      "sources": [
+        {
+          "title": "Календарь 2026/27 и Summer 2027 · разные блоки",
+          "url": "https://aialabs.org/camps",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund / credit / скидки",
+          "url": "https://aialabs.org/refund-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Условия участия · только чтение",
+          "url": "https://aialabs.org/waiver-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "World Builders Game Design · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-game-design-world-builders-0215-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Ultimate Game Design & AI · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-ultimate-game-design-ai-0412-full",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
+    },
+    {
+      "id": "CP1176",
+      "slug": "aiara-summer-magnolia-2027",
+      "provider": "AI & Robotics Academy · Magnolia Summer 2027",
+      "country": "США",
+      "iso": "USA",
+      "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+      "age": "5–12",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "engineering",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Утро 09–12: отдельные потоки 5–8 / 9–12; 12–13 перерыв, 13–15 общий lab. Каждая неделя самостоятельна. Robot Olympics и Maker Expo — внутренние учебные форматы, не отбор на чемпионат или публичная мировая выставка.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Десять отдельных недель 22 июня–27 августа 2027: 22–25 июня и 6–9 июля по 4 дня; остальные по 5. Все 48 дней 09–15, без выходных и без 5 июля. Неделя 16–20 августа объявлена, регистрация ещё не открыта.",
+        "sessions": [
+          [
+            "2027-06-22",
+            "2027-06-25"
+          ],
+          [
+            "2027-06-28",
+            "2027-07-02"
+          ],
+          [
+            "2027-07-06",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-23",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-22",
+            "end": "2027-06-25",
+            "label": "STEAM Launchpad: The Innovator’s Bootcamp",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-steam-launchpad-0622-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 359 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Четыре дня: механика, кодирование, 3D-дизайн и науки; общий технический sampler.",
+            "sessions": [
+              {
+                "date": "2027-06-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "STEAM Launchpad: The Innovator’s Bootcamp",
+                "ical_timed": true,
+                "start_utc": "2027-06-22T16:00:00Z",
+                "end_utc": "2027-06-22T22:00:00Z"
+              },
+              {
+                "date": "2027-06-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "STEAM Launchpad: The Innovator’s Bootcamp",
+                "ical_timed": true,
+                "start_utc": "2027-06-23T16:00:00Z",
+                "end_utc": "2027-06-23T22:00:00Z"
+              },
+              {
+                "date": "2027-06-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "STEAM Launchpad: The Innovator’s Bootcamp",
+                "ical_timed": true,
+                "start_utc": "2027-06-24T16:00:00Z",
+                "end_utc": "2027-06-24T22:00:00Z"
+              },
+              {
+                "date": "2027-06-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "STEAM Launchpad: The Innovator’s Bootcamp",
+                "ical_timed": true,
+                "start_utc": "2027-06-25T16:00:00Z",
+                "end_utc": "2027-06-25T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "engineering",
+              "coding",
+              "science"
+            ]
+          },
+          {
+            "start": "2027-06-28",
+            "end": "2027-07-02",
+            "label": "Robo-Olympics: Mechanics, Motors & Torque",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-robo-olympics-0628-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Моторы, передачи, баланс и робототехнические состязания внутри лагеря.",
+            "sessions": [
+              {
+                "date": "2027-06-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Robo-Olympics: Mechanics, Motors & Torque",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T16:00:00Z",
+                "end_utc": "2027-06-28T22:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Robo-Olympics: Mechanics, Motors & Torque",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T16:00:00Z",
+                "end_utc": "2027-06-29T22:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Robo-Olympics: Mechanics, Motors & Torque",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T16:00:00Z",
+                "end_utc": "2027-06-30T22:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Robo-Olympics: Mechanics, Motors & Torque",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T16:00:00Z",
+                "end_utc": "2027-07-01T22:00:00Z"
+              },
+              {
+                "date": "2027-07-02",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Robo-Olympics: Mechanics, Motors & Torque",
+                "ical_timed": true,
+                "start_utc": "2027-07-02T16:00:00Z",
+                "end_utc": "2027-07-02T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "robotics",
+              "engineering"
+            ]
+          },
+          {
+            "start": "2027-07-06",
+            "end": "2027-07-09",
+            "label": "Eco-Tech & Ocean Explorers",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-eco-tech-ocean-explorers-0706-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 359 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Четырёхдневная инженерия и исследования экосистем; конкретный итоговый проект по возрасту.",
+            "sessions": [
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Eco-Tech & Ocean Explorers",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T16:00:00Z",
+                "end_utc": "2027-07-06T22:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Eco-Tech & Ocean Explorers",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T16:00:00Z",
+                "end_utc": "2027-07-07T22:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Eco-Tech & Ocean Explorers",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T16:00:00Z",
+                "end_utc": "2027-07-08T22:00:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Eco-Tech & Ocean Explorers",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T16:00:00Z",
+                "end_utc": "2027-07-09T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "engineering",
+              "science"
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Arcade Studio: Retro & 2D Game Design",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-arcade-studio-0712-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Ретро-игры, 2D-проектирование и игровая логика.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Arcade Studio: Retro & 2D Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T16:00:00Z",
+                "end_utc": "2027-07-12T22:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Arcade Studio: Retro & 2D Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T16:00:00Z",
+                "end_utc": "2027-07-13T22:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Arcade Studio: Retro & 2D Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T16:00:00Z",
+                "end_utc": "2027-07-14T22:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Arcade Studio: Retro & 2D Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T16:00:00Z",
+                "end_utc": "2027-07-15T22:00:00Z"
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Arcade Studio: Retro & 2D Game Design",
+                "ical_timed": true,
+                "start_utc": "2027-07-16T16:00:00Z",
+                "end_utc": "2027-07-16T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "games",
+              "coding"
+            ]
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "The Mad Scientist & Physics of Flight Lab",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-mad-scientist-flight-lab-0719-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Научные опыты и физика полёта с возрастными инженерными задачами.",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "The Mad Scientist & Physics of Flight Lab",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T16:00:00Z",
+                "end_utc": "2027-07-19T22:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "The Mad Scientist & Physics of Flight Lab",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T16:00:00Z",
+                "end_utc": "2027-07-20T22:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "The Mad Scientist & Physics of Flight Lab",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T16:00:00Z",
+                "end_utc": "2027-07-21T22:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "The Mad Scientist & Physics of Flight Lab",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T16:00:00Z",
+                "end_utc": "2027-07-22T22:00:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "The Mad Scientist & Physics of Flight Lab",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T16:00:00Z",
+                "end_utc": "2027-07-23T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "science",
+              "engineering"
+            ]
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Tech-Art & 3D Print Design Studio",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-tech-art-design-studio-0726-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Техническое творчество, 3D-дизайн и печать; личный готовый принтер в цену не заявлен.",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Tech-Art & 3D Print Design Studio",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T16:00:00Z",
+                "end_utc": "2027-07-26T22:00:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Tech-Art & 3D Print Design Studio",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T16:00:00Z",
+                "end_utc": "2027-07-27T22:00:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Tech-Art & 3D Print Design Studio",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T16:00:00Z",
+                "end_utc": "2027-07-28T22:00:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Tech-Art & 3D Print Design Studio",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T16:00:00Z",
+                "end_utc": "2027-07-29T22:00:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Tech-Art & 3D Print Design Studio",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T16:00:00Z",
+                "end_utc": "2027-07-30T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "art",
+              "engineering"
+            ]
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Masterminds: Math, Codes & Tech Escape Rooms",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-masterminds-math-codes-0802-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Математика, шифры и технологические задачи escape room.",
+            "sessions": [
+              {
+                "date": "2027-08-02",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Masterminds: Math, Codes & Tech Escape Rooms",
+                "ical_timed": true,
+                "start_utc": "2027-08-02T16:00:00Z",
+                "end_utc": "2027-08-02T22:00:00Z"
+              },
+              {
+                "date": "2027-08-03",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Masterminds: Math, Codes & Tech Escape Rooms",
+                "ical_timed": true,
+                "start_utc": "2027-08-03T16:00:00Z",
+                "end_utc": "2027-08-03T22:00:00Z"
+              },
+              {
+                "date": "2027-08-04",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Masterminds: Math, Codes & Tech Escape Rooms",
+                "ical_timed": true,
+                "start_utc": "2027-08-04T16:00:00Z",
+                "end_utc": "2027-08-04T22:00:00Z"
+              },
+              {
+                "date": "2027-08-05",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Masterminds: Math, Codes & Tech Escape Rooms",
+                "ical_timed": true,
+                "start_utc": "2027-08-05T16:00:00Z",
+                "end_utc": "2027-08-05T22:00:00Z"
+              },
+              {
+                "date": "2027-08-06",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Masterminds: Math, Codes & Tech Escape Rooms",
+                "ical_timed": true,
+                "start_utc": "2027-08-06T16:00:00Z",
+                "end_utc": "2027-08-06T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "coding",
+              "science"
+            ]
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Smart Cities, AI & Autonomous Sensors",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-smart-cities-ai-sensors-0809-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Модели умных городов, AI и автономные датчики; задания младшей и старшей групп отличаются.",
+            "sessions": [
+              {
+                "date": "2027-08-09",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Smart Cities, AI & Autonomous Sensors",
+                "ical_timed": true,
+                "start_utc": "2027-08-09T16:00:00Z",
+                "end_utc": "2027-08-09T22:00:00Z"
+              },
+              {
+                "date": "2027-08-10",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Smart Cities, AI & Autonomous Sensors",
+                "ical_timed": true,
+                "start_utc": "2027-08-10T16:00:00Z",
+                "end_utc": "2027-08-10T22:00:00Z"
+              },
+              {
+                "date": "2027-08-11",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Smart Cities, AI & Autonomous Sensors",
+                "ical_timed": true,
+                "start_utc": "2027-08-11T16:00:00Z",
+                "end_utc": "2027-08-11T22:00:00Z"
+              },
+              {
+                "date": "2027-08-12",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Smart Cities, AI & Autonomous Sensors",
+                "ical_timed": true,
+                "start_utc": "2027-08-12T16:00:00Z",
+                "end_utc": "2027-08-12T22:00:00Z"
+              },
+              {
+                "date": "2027-08-13",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Smart Cities, AI & Autonomous Sensors",
+                "ical_timed": true,
+                "start_utc": "2027-08-13T16:00:00Z",
+                "end_utc": "2027-08-13T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "ai",
+              "coding",
+              "engineering"
+            ]
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "3D Worlds & Game Creators",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-worlds-game-creators-0816-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "Цена ещё не опубликована; не подставляем соседнюю неделю.",
+            "programme": "Программа и даты анонсированы; карточка прямо говорит registration opens soon, тариф отсутствует.",
+            "sessions": [
+              {
+                "date": "2027-08-16",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "3D Worlds & Game Creators",
+                "ical_timed": true,
+                "start_utc": "2027-08-16T16:00:00Z",
+                "end_utc": "2027-08-16T22:00:00Z"
+              },
+              {
+                "date": "2027-08-17",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "3D Worlds & Game Creators",
+                "ical_timed": true,
+                "start_utc": "2027-08-17T16:00:00Z",
+                "end_utc": "2027-08-17T22:00:00Z"
+              },
+              {
+                "date": "2027-08-18",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "3D Worlds & Game Creators",
+                "ical_timed": true,
+                "start_utc": "2027-08-18T16:00:00Z",
+                "end_utc": "2027-08-18T22:00:00Z"
+              },
+              {
+                "date": "2027-08-19",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "3D Worlds & Game Creators",
+                "ical_timed": true,
+                "start_utc": "2027-08-19T16:00:00Z",
+                "end_utc": "2027-08-19T22:00:00Z"
+              },
+              {
+                "date": "2027-08-20",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "3D Worlds & Game Creators",
+                "ical_timed": true,
+                "start_utc": "2027-08-20T16:00:00Z",
+                "end_utc": "2027-08-20T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "games",
+              "coding"
+            ],
+            "entry": "Даты опубликованы, registration opens soon. Оформление записи пока не подтверждено открытым."
+          },
+          {
+            "start": "2027-08-23",
+            "end": "2027-08-27",
+            "label": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+            "place": "Magnolia · 3121 W Government Way Apt 1 · Seattle, WA 98199",
+            "source": "https://aialabs.org/camps/magnolia-maker-expo-capstone-0823-full",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "price": "USD 449 ранний тариф до 31 декабря 2026; дальнейшие ступени уточнить",
+            "programme": "Итоговый проект и презентация идеи / предпринимательства; внутренний showcase лагеря, не мировая технологическая выставка.",
+            "sessions": [
+              {
+                "date": "2027-08-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+                "ical_timed": true,
+                "start_utc": "2027-08-23T16:00:00Z",
+                "end_utc": "2027-08-23T22:00:00Z"
+              },
+              {
+                "date": "2027-08-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+                "ical_timed": true,
+                "start_utc": "2027-08-24T16:00:00Z",
+                "end_utc": "2027-08-24T22:00:00Z"
+              },
+              {
+                "date": "2027-08-25",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+                "ical_timed": true,
+                "start_utc": "2027-08-25T16:00:00Z",
+                "end_utc": "2027-08-25T22:00:00Z"
+              },
+              {
+                "date": "2027-08-26",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+                "ical_timed": true,
+                "start_utc": "2027-08-26T16:00:00Z",
+                "end_utc": "2027-08-26T22:00:00Z"
+              },
+              {
+                "date": "2027-08-27",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "America/Los_Angeles",
+                "topic": "Magnolia Maker Expo: The Young Entrepreneur & Capstone",
+                "ical_timed": true,
+                "start_utc": "2027-08-27T16:00:00Z",
+                "end_utc": "2027-08-27T22:00:00Z"
+              }
+            ],
+            "themes": [
+              "engineering",
+              "entrepreneurship"
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Текущая ранняя цена указана до 31 декабря 2026. Четыре дня: USD 359 сейчас, regular 419 с 1 апреля; пять дней: 449 сейчас, regular 519 с 1 апреля. Промежуточные цены января–марта не выдумываем. 10% sibling заявлены на дополнительного ребёнка, но суммирование скидок действует лишь в объёме, который применит checkout. В смете раннюю цену не уменьшаем автоматически ещё на 10%.",
+        "included": "Учебные материалы, киты и футболка; показ проектов в пятницу. Питание summer отдельно согласуется до начала; зимнее обещание pizza не переносим автоматически.",
+        "extras": "Care 4 дня: 52 утром / 128 после, 5 дней: 65 / 160 на ребёнка по конкретным карточкам. Laptop, питание, taxes / страховка и семейная поездка отдельно подтвердить. На 16–20 августа опубликованной цены нет.",
+        "deposit": "Camp / one-off: отмена за 14 и более дней — возврат за вычетом 6%; внутри 14 дней до начала — account credit. После начала возврата нет, за непосещённые сессии возможен credit; отдельные пропущенные дни не возвращают. Credit действует 2 года внутри семьи, не равен cash refund. При отмене оператором — полный refund без сбора или credit по выбору; внешние закрытия / погода — make-up либо credit. Действует версия договора при зачислении; договор не принимался."
+      },
+      "accommodation": "Дневной 09:00–15:00, без ночёвок. Magnolia — конкретная площадка; даты Bellevue не копируем из Seattle. До / после занятий и на выходных семья обеспечивает проживание и уход.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; в 2027 старший поток 9–12. Реальный уровень после трёх лет соревнований, язык и место ещё согласовать."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Подходит 5–12; летом 2027 младший поток 5–8. Не обещаем одинаковую сложность проекта с Матвеем."
+        }
+      },
+      "editorial_reason": "Сезонная техническая база для обоих с двумя возрастными потоками; цены привязаны к конкретным неделям и периоду раннего тарифа, язык ещё уточняется.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Подтвердить английский язык, иностранный самостоятельный приём, возрастную группу, сложность и места. Местный учебный турнир / showcase не международная медаль.",
+        "Получить полный счёт: тариф именно выбранных дней, питание, care, taxes, страховка, применение sibling / ранней цены и условия отмены."
+      ],
+      "sources": [
+        {
+          "title": "Календарь 2026/27 и Summer 2027 · разные блоки",
+          "url": "https://aialabs.org/camps",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund / credit / скидки",
+          "url": "https://aialabs.org/refund-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Условия участия · только чтение",
+          "url": "https://aialabs.org/waiver-policy",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "STEAM Launchpad: The Innovator’s Bootcamp · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-steam-launchpad-0622-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Robo-Olympics: Mechanics, Motors & Torque · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-robo-olympics-0628-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Eco-Tech & Ocean Explorers · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-eco-tech-ocean-explorers-0706-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Arcade Studio: Retro & 2D Game Design · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-arcade-studio-0712-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "The Mad Scientist & Physics of Flight Lab · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-mad-scientist-flight-lab-0719-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Tech-Art & 3D Print Design Studio · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-tech-art-design-studio-0726-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Masterminds: Math, Codes & Tech Escape Rooms · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-masterminds-math-codes-0802-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Smart Cities, AI & Autonomous Sensors · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-smart-cities-ai-sensors-0809-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "3D Worlds & Game Creators · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-worlds-game-creators-0816-full",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Magnolia Maker Expo: The Young Entrepreneur & Capstone · даты, программа и публичный тариф",
+          "url": "https://aialabs.org/camps/magnolia-maker-expo-capstone-0823-full",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
+    },
+    {
+      "id": "CP1177",
+      "slug": "hb-science-winter-2027",
+      "provider": "Holland Bloorview · Science Club",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Holland Bloorview · 150 Kilgour Road · Toronto, Ontario",
+      "age": "6–14",
+      "themes": [
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Шесть вторников: опыты, наблюдение, измерение и совместная работа. Snow make-up 2 марта только при необходимости, не очередное обязательное занятие. Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Регулярный шестинедельный курс: шесть отдельных занятий, не шестинедельный дневной лагерь. Резервные снежные даты не включены автоматически.",
+        "sessions": [
+          [
+            "2027-01-19",
+            "2027-02-23"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-19",
+            "end": "2027-02-23",
+            "label": "Holland Bloorview · Science Club",
+            "source": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+            "date_scope": "session_days",
+            "formats": [
+              "day"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-19",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T23:00:00Z",
+                "end_utc": "2027-01-20T00:30:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T23:00:00Z",
+                "end_utc": "2027-01-27T00:30:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T23:00:00Z",
+                "end_utc": "2027-02-03T00:30:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T23:00:00Z",
+                "end_utc": "2027-02-10T00:30:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T23:00:00Z",
+                "end_utc": "2027-02-17T00:30:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Science Club",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T23:00:00Z",
+                "end_utc": "2027-02-24T00:30:00Z"
+              }
+            ],
+            "price": "Тариф не опубликован в прочитанной карточке.",
+            "admission_kind": "organization_route",
+            "entry": "Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф не опубликован в прочитанной карточке.",
+        "included": "Учебные занятия по выбранному треку; выдачу / возврат наборов и домашнюю технику согласовать.",
+        "extras": "Транспорт, проживание семьи, технические средства коммуникации / поддержка 1:1 при необходимости отдельно. Это не услуга полного дня или пансион.",
+        "deposit": "Оплата, страхование, резидентские условия и отмена не прочитаны в сезонной карточке; CampBrain не заполнялся."
+      },
+      "accommodation": "Очные вечерние / воскресные занятия в Toronto, без проживания и полного дневного ухода.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастной диапазон / дату отсечения, formal diagnosis, язык и индивидуальный приём подтвердить; медицинское состояние детей неизвестно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По младшему возрасту возможен только подходящий трек; formal diagnosis и решение о приёме обязательны, право семьи на участие не доказано."
+        }
+      },
+      "editorial_reason": "Специальная рекреационная программа в мировом справочнике; не объявлена готовым семейным вариантом или квалификацией FIRST.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить конкретную категорию formal diagnosis, критерии приёма нерезидента, год возрастного отсечения 31 декабря и собственную поддержку при необходимости.",
+        "Уточнить английский, цену, материалы / домашний компьютер, отмену и фактический резервный день."
+      ],
+      "sources": [
+        {
+          "title": "Winter 2027 · действующий текст по старому URL",
+          "url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Критерии приёма, диагноз, возраст и поддержка",
+          "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1178",
+      "slug": "hb-junior-robotics-winter-2027",
+      "provider": "Holland Bloorview · Junior Robotics",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Holland Bloorview · 150 Kilgour Road · Toronto, Ontario",
+      "age": "6–10",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Шесть сред, LEGO SPIKE Essential: моторы, световая матрица, цветовой датчик, icon / word blocks. Snow make-up 3 марта только при необходимости. Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Регулярный шестинедельный курс: шесть отдельных занятий, не шестинедельный дневной лагерь. Резервные снежные даты не включены автоматически.",
+        "sessions": [
+          [
+            "2027-01-20",
+            "2027-02-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-20",
+            "end": "2027-02-24",
+            "label": "Holland Bloorview · Junior Robotics",
+            "source": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+            "date_scope": "session_days",
+            "formats": [
+              "day"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-20",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T23:00:00Z",
+                "end_utc": "2027-01-21T00:30:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T23:00:00Z",
+                "end_utc": "2027-01-28T00:30:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T23:00:00Z",
+                "end_utc": "2027-02-04T00:30:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T23:00:00Z",
+                "end_utc": "2027-02-11T00:30:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T23:00:00Z",
+                "end_utc": "2027-02-18T00:30:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "18:00",
+                "end_time": "19:30",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Junior Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T23:00:00Z",
+                "end_utc": "2027-02-25T00:30:00Z"
+              }
+            ],
+            "price": "Тариф не опубликован в прочитанной карточке.",
+            "admission_kind": "organization_route",
+            "entry": "Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф не опубликован в прочитанной карточке.",
+        "included": "Учебные занятия по выбранному треку; выдачу / возврат наборов и домашнюю технику согласовать.",
+        "extras": "Транспорт, проживание семьи, технические средства коммуникации / поддержка 1:1 при необходимости отдельно. Это не услуга полного дня или пансион.",
+        "deposit": "Оплата, страхование, резидентские условия и отмена не прочитаны в сезонной карточке; CampBrain не заполнялся."
+      },
+      "accommodation": "Очные вечерние / воскресные занятия в Toronto, без проживания и полного дневного ухода.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастной диапазон / дату отсечения, formal diagnosis, язык и индивидуальный приём подтвердить; медицинское состояние детей неизвестно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "По младшему возрасту возможен только подходящий трек; formal diagnosis и решение о приёме обязательны, право семьи на участие не доказано."
+        }
+      },
+      "editorial_reason": "Специальная рекреационная программа в мировом справочнике; не объявлена готовым семейным вариантом или квалификацией FIRST.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить конкретную категорию formal diagnosis, критерии приёма нерезидента, год возрастного отсечения 31 декабря и собственную поддержку при необходимости.",
+        "Уточнить английский, цену, материалы / домашний компьютер, отмену и фактический резервный день."
+      ],
+      "sources": [
+        {
+          "title": "Winter 2027 · действующий текст по старому URL",
+          "url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Критерии приёма, диагноз, возраст и поддержка",
+          "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1179",
+      "slug": "hb-coding-online-winter-2027",
+      "provider": "Holland Bloorview · Coding 101 Online",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Holland Bloorview · 150 Kilgour Road · Toronto, Ontario",
+      "age": "Winter 9–14; общее описание 8–14",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "online"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Шесть четвергов онлайн, Scratch и собственная 2D-игра. Возраст расходится: Winter 9–14, общее описание 8–14; применяем конкретный Winter минимум 9, исключение только по решению оператора. Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Регулярный шестинедельный курс: шесть отдельных занятий, не шестинедельный дневной лагерь. Резервные снежные даты не включены автоматически.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-02-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-02-25",
+            "label": "Holland Bloorview · Coding 101 Online",
+            "source": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+            "date_scope": "session_days",
+            "formats": [
+              "online"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T23:00:00Z",
+                "end_utc": "2027-01-22T00:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T23:00:00Z",
+                "end_utc": "2027-01-29T00:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T23:00:00Z",
+                "end_utc": "2027-02-05T00:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T23:00:00Z",
+                "end_utc": "2027-02-12T00:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T23:00:00Z",
+                "end_utc": "2027-02-19T00:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "18:00",
+                "end_time": "19:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Coding 101 Online",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T23:00:00Z",
+                "end_utc": "2027-02-26T00:00:00Z"
+              }
+            ],
+            "price": "Тариф не опубликован в прочитанной карточке.",
+            "admission_kind": "organization_route",
+            "entry": "Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф не опубликован в прочитанной карточке.",
+        "included": "Учебные занятия по выбранному треку; выдачу / возврат наборов и домашнюю технику согласовать.",
+        "extras": "Транспорт, проживание семьи, технические средства коммуникации / поддержка 1:1 при необходимости отдельно. Это не услуга полного дня или пансион.",
+        "deposit": "Оплата, страхование, резидентские условия и отмена не прочитаны в сезонной карточке; CampBrain не заполнялся."
+      },
+      "accommodation": "Онлайн с домашним сопровождением по необходимости; время Toronto, не местное время Коста-Рики.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастной диапазон / дату отсечения, formal diagnosis, язык и индивидуальный приём подтвердить; медицинское состояние детей неизвестно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимум выбранного Winter-трека 9 / 10; Оскар в 2027 только 6–7. Специальные условия приёма это правило не отменяют."
+        }
+      },
+      "editorial_reason": "Специальная рекреационная программа в мировом справочнике; не объявлена готовым семейным вариантом или квалификацией FIRST.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить конкретную категорию formal diagnosis, критерии приёма нерезидента, год возрастного отсечения 31 декабря и собственную поддержку при необходимости.",
+        "Уточнить английский, цену, материалы / домашний компьютер, отмену и фактический резервный день."
+      ],
+      "sources": [
+        {
+          "title": "Winter 2027 · действующий текст по старому URL",
+          "url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Критерии приёма, диагноз, возраст и поддержка",
+          "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "catalog_participation": "online"
+    },
+    {
+      "id": "CP1180",
+      "slug": "hb-intermediate-robotics-winter-2027",
+      "provider": "Holland Bloorview · Intermediate Robotics",
+      "country": "Канада",
+      "iso": "CAN",
+      "place": "Holland Bloorview · 150 Kilgour Road · Toronto, Ontario",
+      "age": "10–14",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Шесть воскресений, LEGO SPIKE Prime, Scratch-based coding и задачи Maze / Mars Rover / SumoBots. 14 февраля занятия нет. Snow make-up на странице ошибочно 7 марта 2026, не добавляем как подтверждённый день 2027. Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Регулярный шестинедельный курс: шесть отдельных занятий, не шестинедельный дневной лагерь. Резервные снежные даты не включены автоматически.",
+        "sessions": [
+          [
+            "2027-01-17",
+            "2027-02-28"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-17",
+            "end": "2027-02-28",
+            "label": "Holland Bloorview · Intermediate Robotics",
+            "source": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+            "date_scope": "session_days",
+            "formats": [
+              "day"
+            ],
+            "sessions": [
+              {
+                "date": "2027-01-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-01-17T15:00:00Z",
+                "end_utc": "2027-01-17T17:00:00Z"
+              },
+              {
+                "date": "2027-01-24",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-01-24T15:00:00Z",
+                "end_utc": "2027-01-24T17:00:00Z"
+              },
+              {
+                "date": "2027-01-31",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-01-31T15:00:00Z",
+                "end_utc": "2027-01-31T17:00:00Z"
+              },
+              {
+                "date": "2027-02-07",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-07T15:00:00Z",
+                "end_utc": "2027-02-07T17:00:00Z"
+              },
+              {
+                "date": "2027-02-21",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-21T15:00:00Z",
+                "end_utc": "2027-02-21T17:00:00Z"
+              },
+              {
+                "date": "2027-02-28",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "America/Toronto",
+                "topic": "Holland Bloorview · Intermediate Robotics",
+                "ical_timed": true,
+                "start_utc": "2027-02-28T15:00:00Z",
+                "end_utc": "2027-02-28T17:00:00Z"
+              }
+            ],
+            "price": "Тариф не опубликован в прочитанной карточке.",
+            "admission_kind": "organization_route",
+            "entry": "Это рекреационная программа Holland Bloorview со специальным приёмом: до старта нужен formal diagnosis, возможна собственная поддержка 1:1; состояние семьи не предполагаем. Возраст проверяется на 31 декабря, год отсечения в описании не уточнён. Требуется индивидуальное решение о пригодности группы и приёме семьи из-за рубежа. Название FIRST не означает регистрацию команды в соревновании."
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Тариф не опубликован в прочитанной карточке.",
+        "included": "Учебные занятия по выбранному треку; выдачу / возврат наборов и домашнюю технику согласовать.",
+        "extras": "Транспорт, проживание семьи, технические средства коммуникации / поддержка 1:1 при необходимости отдельно. Это не услуга полного дня или пансион.",
+        "deposit": "Оплата, страхование, резидентские условия и отмена не прочитаны в сезонной карточке; CampBrain не заполнялся."
+      },
+      "accommodation": "Очные вечерние / воскресные занятия в Toronto, без проживания и полного дневного ухода.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Возрастной диапазон / дату отсечения, formal diagnosis, язык и индивидуальный приём подтвердить; медицинское состояние детей неизвестно."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Минимум выбранного Winter-трека 9 / 10; Оскар в 2027 только 6–7. Специальные условия приёма это правило не отменяют."
+        }
+      },
+      "editorial_reason": "Специальная рекреационная программа в мировом справочнике; не объявлена готовым семейным вариантом или квалификацией FIRST.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить конкретную категорию formal diagnosis, критерии приёма нерезидента, год возрастного отсечения 31 декабря и собственную поддержку при необходимости.",
+        "Уточнить английский, цену, материалы / домашний компьютер, отмену и фактический резервный день."
+      ],
+      "sources": [
+        {
+          "title": "Winter 2027 · действующий текст по старому URL",
+          "url": "https://hollandbloorview.ca/services/programs-services/firstr-robotics-program-winter-2026",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Критерии приёма, диагноз, возраст и поддержка",
+          "url": "https://hollandbloorview.ca/services/programs-services/robotics-holland-bloorview/program-description",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "catalog_participation": "regular"
+    },
+    {
+      "id": "CP1181",
+      "slug": "hofstra-lego-sphero-2027-watch",
+      "provider": "Hofstra · LEGO & Sphero Robotics",
+      "country": "США",
+      "iso": "USA",
+      "place": "Hofstra University · Long Island, New York",
+      "age": "Entering Grades 2–10, отдельные потоки 2–5 / 6–10; это классы, не возраст 2–10 лет.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Младшие Grades 2–5: техническое занятие утром, recreation / swim после; старшие Grades 6–10 наоборот. LEGO Mindstorms / Sphero для robotics, coding / games / arts в GBA. Доплата Makerspace 515 относится только к Grades 6–10 и двухнедельной программе, не всем детям 6–10 лет.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Описание программы проверено, точные смены и тарифы выбранного трека пока не удалось подтвердить. Опубликован общий сезон кампуса, но конкретные даты заезда и наличие мест ещё нужно получить у оператора.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Общая текущая GBA-страница: Early Tuition 2350 за 2 недели, 1355 за 1 неделю; отдельную смену и применимость тарифа именно Robotics подтвердить. Дата окончания ранней цены не указана.",
+        "included": "GBA Logistics: 09:00–16:00, lunch и transportation включены. Маршрут транспорта / конкретный адрес, нужный семье, отдельно согласовать.",
+        "extras": "Makerspace 515 — опция Grades 6–10. Проживание родителей, перелёты, страхование и дополнительные часы отдельно; нет детского пансиона.",
+        "deposit": "Точные условия оплаты / возврата и доступность выбранной смены через текущий checkout не проверены. Старая анкета 2026 не договор на 2027."
+      },
+      "accommodation": "Дневной кампусный формат; полный день включает рекреацию / плавание, техническая специализация по умолчанию часть дня.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Нужен фактический входящий класс по системе US и английский приём; год рождения не подтверждает Grades 2–5. Место не забронировано."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужен фактический входящий класс по системе US и английский приём; год рождения не подтверждает Grades 2–5. Место не забронировано."
+        }
+      },
+      "editorial_reason": "Проверяемый университетский технический кандидат с честным разделением половины дня / Makerspace и школьного класса; даты пока watch.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Получить официальные даты, цену и письменные условия конкретного трека 2027; сверить входящий класс каждого ребёнка, английский и иностранный приём.",
+        "Выяснить, в какой половине дня техника, какие приборы выдаются и возвращаются, маршрут bus, питание и отмена. Получить полный прайс до оплаты."
+      ],
+      "sources": [
+        {
+          "title": "Hofstra · LEGO & Sphero Robotics · программа и классы",
+          "url": "https://www.hofstra.edu/academics/ce/summer-camp/specialty_robotics.html",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Game Builders Academy · logistics / Early Tuition / Makerspace",
+          "url": "https://www.hofstra.edu/academics/ce/summer-camp/specialty_game_builders_academy_camp_long_island.html",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Смены · точные строки не загрузились",
+          "url": "https://www.hofstra.edu/academics/ce/summer-camp/long-island-summer-camps-by-session.html",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
+    },
+    {
+      "id": "CP1182",
+      "slug": "hofstra-gba-2027-watch",
+      "provider": "Hofstra · Game Builders Academy",
+      "country": "США",
+      "iso": "USA",
+      "place": "Hofstra University · Long Island, New York",
+      "age": "Entering Grades 2–10, отдельные потоки 2–5 / 6–10; это классы, не возраст 2–10 лет.",
+      "themes": [
+        "games",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "language": "Основной язык занятий EN/ES/RU прямо не установлен. Англоязычный сайт и местонахождение в США / Канаде сами по себе не доказывают язык преподавания; закрепить английскую группу до брони.",
+      "confirmed_instruction_languages": [],
+      "programme": "Младшие Grades 2–5: техническое занятие утром, recreation / swim после; старшие Grades 6–10 наоборот. LEGO Mindstorms / Sphero для robotics, coding / games / arts в GBA. Доплата Makerspace 515 относится только к Grades 6–10 и двухнедельной программе, не всем детям 6–10 лет.",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Описание программы проверено, точные смены и тарифы выбранного трека пока не удалось подтвердить. Опубликован общий сезон кампуса, но конкретные даты заезда и наличие мест ещё нужно получить у оператора.",
+        "sessions": [],
+        "session_details": []
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Общая текущая GBA-страница: Early Tuition 2350 за 2 недели, 1355 за 1 неделю; отдельную смену и применимость тарифа именно Robotics подтвердить. Дата окончания ранней цены не указана.",
+        "included": "GBA Logistics: 09:00–16:00, lunch и transportation включены. Маршрут транспорта / конкретный адрес, нужный семье, отдельно согласовать.",
+        "extras": "Makerspace 515 — опция Grades 6–10. Проживание родителей, перелёты, страхование и дополнительные часы отдельно; нет детского пансиона.",
+        "deposit": "Точные условия оплаты / возврата и доступность выбранной смены через текущий checkout не проверены. Старая анкета 2026 не договор на 2027."
+      },
+      "accommodation": "Дневной кампусный формат; полный день включает рекреацию / плавание, техническая специализация по умолчанию часть дня.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Нужен фактический входящий класс по системе US и английский приём; год рождения не подтверждает Grades 2–5. Место не забронировано."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужен фактический входящий класс по системе US и английский приём; год рождения не подтверждает Grades 2–5. Место не забронировано."
+        }
+      },
+      "editorial_reason": "Проверяемый университетский технический кандидат с честным разделением половины дня / Makerspace и школьного класса; даты пока watch.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Получить официальные даты, цену и письменные условия конкретного трека 2027; сверить входящий класс каждого ребёнка, английский и иностранный приём.",
+        "Выяснить, в какой половине дня техника, какие приборы выдаются и возвращаются, маршрут bus, питание и отмена. Получить полный прайс до оплаты."
+      ],
+      "sources": [
+        {
+          "title": "Game Builders Academy · logistics / Early Tuition / Makerspace",
+          "url": "https://www.hofstra.edu/academics/ce/summer-camp/specialty_game_builders_academy_camp_long_island.html",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Смены · точные строки не загрузились",
+          "url": "https://www.hofstra.edu/academics/ce/summer-camp/long-island-summer-camps-by-session.html",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
     }
   ],
   "gaps": [
@@ -135760,7 +137857,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 150,
+  "version": 151,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
