@@ -1,0 +1,667 @@
+{
+  "version": 169,
+  "checked": "2026-11-05",
+  "requests": [
+    {
+      "key": "fusalmo-bootcamp",
+      "url": "https://fusalmo.org/bootcamp-aventura/",
+      "final_url": "https://fusalmo.org/bootcamp-aventura/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 168513,
+      "sha256": "28e2af029c2bfa868be62937bbb01b6642db8e0084ef031f0c99d4ba6844fda7",
+      "file": "fusalmo-bootcamp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fusalmo-calendar",
+      "url": "https://plan.fusalmo.org/calendario",
+      "final_url": "https://plan.fusalmo.org/calendario",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166205,
+      "sha256": "edabbd457b224d7c4fbb7f26bf48c237a27483e9415cd8ad91d547ce56ac38f4",
+      "file": "fusalmo-calendar.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robotedh",
+      "url": "https://robotedhn.tech/",
+      "final_url": "https://robotedhn.tech/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 188027,
+      "sha256": "dbf8daddff085faad58d5ece04f5a10eddc1dcde744e28391b2608d83ccfdb35",
+      "file": "robotedh.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "createch",
+      "url": "https://createch-mind.com/",
+      "final_url": "https://createch-mind.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69498,
+      "sha256": "e1869e3093f7520335b3e8e9d88a72e952cd7845eeffb2334f0625739f089984",
+      "file": "createch.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cca-techno",
+      "url": "https://cca.edu.ni/technoaventuras-descubriendo-la-robotica-y-la-programacion/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-rules",
+      "url": "https://www.tboxplanet.com/web/codigo26/page1.html",
+      "final_url": "https://www.tboxplanet.com/web/codigo26/page1.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15834,
+      "sha256": "e4dc2dc7ce79fb6914905a543b5d2dbc0fba094dbe30222acb796c0309f5067d",
+      "file": "tbox-rules.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-categories",
+      "url": "https://www.tboxplanet.com/web/codigo26/page2.html",
+      "final_url": "https://www.tboxplanet.com/web/codigo26/page2.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 31336,
+      "sha256": "8c9e82362f6ba0f77baeabe81f5cf2ef90d4a56ba2e1d3c1a5be86441e880cc8",
+      "file": "tbox-categories.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-codigo",
+      "url": "https://www.tboxplanet.com/web/codigo26/",
+      "final_url": "https://www.tboxplanet.com/web/codigo26/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32718,
+      "sha256": "95f1d2a02392436759079d953fbb4720d1f2275b10e71dbe25b615a190725b3b",
+      "file": "tbox-codigo.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-calendar",
+      "url": "https://www.tboxplanet.com/web/codigo26/page3.html",
+      "final_url": "https://www.tboxplanet.com/web/codigo26/page3.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14909,
+      "sha256": "382d2fa07875ec2e3bb502a5ecd9ac837bb2fdf22d185f279ffa4c4ce61cbe49",
+      "file": "tbox-calendar.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fusalmo-steam",
+      "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+      "final_url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 317368,
+      "sha256": "a12f973886333295e735e04642fdaf0ee0ba645b7f9ca8145b153c4fd060fa24",
+      "file": "fusalmo-steam.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cloudforest-camps",
+      "url": "https://cloudforestschool.org/camps-cec/",
+      "final_url": "https://cloudforestschool.org/camps-cec/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 145299,
+      "sha256": "1ade75b1535f2408d95405834e17715e1f92343445d875f008bf2d2bf89e606f",
+      "file": "cloudforest-camps.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "coopecoceic-tech",
+      "url": "https://www.coopecoceic.ed.cr/tecnologia",
+      "final_url": "https://www.coopecoceic.ed.cr/tecnologia",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 551544,
+      "sha256": "f5535b72284f0cd7c01dc46710b7b1d1520828d355ebf16abc2971670324a5b7",
+      "file": "coopecoceic-tech.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "uc-robotics",
+      "url": "https://uc.ac.cr/robotica-para-jovenes/",
+      "final_url": "https://uc.ac.cr/robotica-para-jovenes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96960,
+      "sha256": "a3e1e7a57c16e14fa591bd75dc7b995f583bc99738a9b1d312ce627c3fdee528",
+      "file": "uc-robotics.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cenfotec-makers",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 283482,
+      "sha256": "dbcb2326ddaffdafdf95f3b5db86811fa17ad24b8bc433f8aa7bc2cfe8d84643",
+      "file": "cenfotec-makers.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "lincoln-summer",
+      "url": "https://www.lincoln.ed.cr/es/innovacion/campamento-de-verano",
+      "final_url": "https://www.lincoln.ed.cr/es/innovacion/campamento-de-verano",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211367,
+      "sha256": "e386839736eba10b7822a3909653d36b241cbe1b00def0007d1ae28935c29dbf",
+      "file": "lincoln-summer.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "mountview-camps",
+      "url": "https://www.mountviewcr.com/cs-camp/",
+      "final_url": "https://www.mountviewcr.com/cs-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68273,
+      "sha256": "dabe2ac956f52641c9b9b7f194bbe8dd3fba209a47b457229ee178812128a804",
+      "file": "mountview-camps.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-sv-calendar",
+      "url": "https://www.wroelsalvador.org/temporada-2026/calendario-2026",
+      "final_url": "https://www.wroelsalvador.org/temporada-2026/calendario-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 197730,
+      "sha256": "420844792374a8dc153edc5fdf041c71318cdd2c4ab781aa074f2ae9aaf1f468",
+      "file": "wro-sv-calendar.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-expo-page-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_1.jpg?reload=1773931812624",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_1.jpg?reload=1773931812624",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 50727,
+      "sha256": "5873c52a36904b5b82f01387f89b7a9bf281d0c62142727c3bd989a4fb39f28d",
+      "file": "tbox-expo-page-1.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-expo-page-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_2.jpg?reload=1773931812624",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_2.jpg?reload=1773931812624",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 47101,
+      "sha256": "02fb09057a70379a12fd9adfdee17faa15edf4c8abc4a2e0d8590ac92c210c27",
+      "file": "tbox-expo-page-2.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-expo-page-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_3.jpg?reload=1773931812624",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_3.jpg?reload=1773931812624",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 27669,
+      "sha256": "bb7ac35ec5e057b6145ef2738522445f48d7d40d718cd6a34b64f6522052295e",
+      "file": "tbox-expo-page-3.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-envivo-page-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_1.jpg?reload=1773931625960",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_1.jpg?reload=1773931625960",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 90292,
+      "sha256": "e6a0ccf3e8fbfdf9bde3ed86cbe7bcccd6a9b2432a1ee4f12de3147c7a9db3ff",
+      "file": "tbox-envivo-page-1.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-envivo-page-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_2.jpg?reload=1773931625960",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_2.jpg?reload=1773931625960",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 37048,
+      "sha256": "40d9509c0b1c3acd21c18ce5741ebca26c9c6da5398738d56c55235bb24b61dc",
+      "file": "tbox-envivo-page-2.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-envivo-page-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_3.jpg?reload=1773931625960",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_3.jpg?reload=1773931625960",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 30913,
+      "sha256": "130091f10235ff927c5a1bee280db22f7b0702c29571a2c7efe4de9cacac1257",
+      "file": "tbox-envivo-page-3.jpg",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-expo-text-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_1.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-text-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_2.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-text-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_3.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_1.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_2.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_3.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "first-hn-explore",
+      "url": "https://firsthonduras.org/explore",
+      "final_url": "https://firsthonduras.org/explore",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32478,
+      "sha256": "73fb1492b1dded4ac6455570d4d60982bd45fda0d11cbacfaf95be91bbfbe635",
+      "file": "first-hn-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "first-hn-challenge",
+      "url": "https://firsthonduras.org/challenge",
+      "final_url": "https://firsthonduras.org/challenge",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 32480,
+      "sha256": "306b821b082256b44238eadfac301d1a7fe331dc05808816f74a1fa139f7f995",
+      "file": "first-hn-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-sv-starter",
+      "url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter",
+      "final_url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 204752,
+      "sha256": "1cf96b9f7c096531dce7d5ac7496697355bb32db0e680a66feef0c77d9bd3f3d",
+      "file": "wro-sv-starter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-gt",
+      "url": "https://www.wroguatemala.org/",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "key": "tmr-2027",
+      "url": "https://femexrobotica.org/tmr2027/",
+      "final_url": "https://femexrobotica.org/tmr2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71148,
+      "sha256": "6f86fdccb51a91113ed2e245d267d4c4d472d6ef00be948d7c9bf96b193c94ba",
+      "file": "tmr-2027.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "makex-mex",
+      "url": "https://creativakids.com/makex.php",
+      "final_url": "https://creativakids.com/makex.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73640,
+      "sha256": "a920de442a118ed665cda290296eca49a4c22da9547afc4378d217ec8fe3e2ef",
+      "file": "makex-mex.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "roborave-pv",
+      "url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "final_url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 102251,
+      "sha256": "79114d3ceb90efa364ec6480e777b1189b9325addd40e109dbf98c7da494c24d",
+      "file": "roborave-pv.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "roborave-gto",
+      "url": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+      "final_url": "https://roboraveinternational.org/eventos/roborave-guanajuato-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71245,
+      "sha256": "e46674b85bc0a115eb2b7e0d7918d5d644d6438fa1ec710368da442422335be8",
+      "file": "roborave-gto.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fll-mx-faq",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70283,
+      "sha256": "49747a4f3126a1ac5b5fecabc27612dd68d63aa70a6108f1e5faa0e75358aec7",
+      "file": "fll-mx-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robotedh-course",
+      "url": "https://robotedhn.tech/curso-de-robotica/",
+      "final_url": "https://robotedhn.tech/curso-de-robotica/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 104437,
+      "sha256": "92d9e8c6c7716fa7a96725888bc503d47b62a2793be20ab7de47c006dba1651e",
+      "file": "robotedh-course.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robotedh-arduino",
+      "url": "https://robotedhn.tech/curso-de-arduino/",
+      "final_url": "https://robotedhn.tech/curso-de-arduino/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 104912,
+      "sha256": "d8ea76bd09e2d063063e83435c78e75ed8b662716096304826ceab37dacb46e0",
+      "file": "robotedh-arduino.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "createch-courses",
+      "url": "https://createch-mind.com/cursos/",
+      "final_url": "https://createch-mind.com/cursos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52538,
+      "sha256": "342ec65bcbdff38aecd3c75adaf2279c2b4a69adef67fe3041b85d4a09b55615",
+      "file": "createch-courses.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-sv-join",
+      "url": "https://www.wroelsalvador.org/temporada-2026/c%C3%B3mo-participar",
+      "final_url": "https://www.wroelsalvador.org/temporada-2026/c%C3%B3mo-participar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 189994,
+      "sha256": "7b770e17ba37126c70e83a8f25cf7ff2a2930ea69323fa5fa57eec1b1b48a6b1",
+      "file": "wro-sv-join.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-sv-innovators",
+      "url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/future-innovators",
+      "final_url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/future-innovators",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 206803,
+      "sha256": "744b64cba76098956002d5176d2f56aa5f6b2b6b4f1138ed5a308423b83dcba2",
+      "file": "wro-sv-innovators.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wro-sv-mission",
+      "url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robomission",
+      "final_url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robomission",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214428,
+      "sha256": "f7f17c651403bf0caba26d263e70c7b1f284732bd724185a8d80403846e0c6ef",
+      "file": "wro-sv-mission.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-scratch-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/scratch/docs/Scratch_2026.pdf?reload=1773877529404",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-gdevelop-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/gdevelop/docs/GDevelop_2026.pdf?reload=1773877860238",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-app-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/app/docs/AppInventor_2026.pdf?reload=1773878158840",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-drones-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/drones/docs/Drones_2026.pdf?reload=1773931697833",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-modelado-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/modelado/docs/Impresi-n3D_2026.pdf?reload=1773931877983",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-web-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/web/docs/DesarrolloWebIA_2026.pdf?reload=1773878295708",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-scratch",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/scratch/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/scratch/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6191,
+      "sha256": "601b4c4f9d70e9fe93148c715b6d9d6f3844747852466d01672cace7d406653d",
+      "file": "tbox-scratch.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-gdevelop",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/gdevelop/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/gdevelop/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6275,
+      "sha256": "2d5827bebe6847fe299fd3e890ad4a5262390e5de76c22665af43c76aec26e04",
+      "file": "tbox-gdevelop.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-app",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/app/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/app/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6223,
+      "sha256": "d6635c92574bafffa48c983298ccd43fed245ebdd2709e96c6b03c832558edfd",
+      "file": "tbox-app.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-envivo",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/envivo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6115,
+      "sha256": "083eabf660cc635652e39f8ccc890c3b21d7020ec61d8a612a5605a0a11cec0c",
+      "file": "tbox-envivo.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-drones",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/drones/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/drones/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6089,
+      "sha256": "4c22cbeec1d25c5da72ff96b9b9138f8dd3cfd218947e92a421b91383a1e3729",
+      "file": "tbox-drones.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-expo",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/expo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6218,
+      "sha256": "f78b22cfcb78fdc41c718ffc9979f71814618b55cf99bd159a42b8e9944d7ddf",
+      "file": "tbox-expo.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-modelado",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/modelado/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/modelado/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6174,
+      "sha256": "87ffb8e81c58c7db6c58900e7fd91cb1efd8743d9b2654141ff1476efd6ce6b8",
+      "file": "tbox-modelado.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tbox-web",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/web/",
+      "final_url": "https://www.tboxplanet.com/web/reglamentos26/web/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6265,
+      "sha256": "ae1518ccc754fd74a769dd839508c9c6f29d2ab77e95f34d2348b507e182fef6",
+      "file": "tbox-web.html",
+      "response_hash_verified": true
+    }
+  ],
+  "request_count": 60,
+  "hash_verified": 44,
+  "failures": [
+    {
+      "key": "cca-techno",
+      "url": "https://cca.edu.ni/technoaventuras-descubriendo-la-robotica-y-la-programacion/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-text-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_1.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-text-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_2.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-text-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf_3.bin?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-1",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_1.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-2",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_2.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-text-3",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf_3.bin?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "wro-gt",
+      "url": "https://www.wroguatemala.org/",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "key": "tbox-scratch-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/scratch/docs/Scratch_2026.pdf?reload=1773877529404",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-gdevelop-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/gdevelop/docs/GDevelop_2026.pdf?reload=1773877860238",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-app-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/app/docs/AppInventor_2026.pdf?reload=1773878158840",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-envivo-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/envivo/docs/EnVivo_2026.pdf?reload=1773931625960",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-drones-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/drones/docs/Drones_2026.pdf?reload=1773931697833",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-expo-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/expo/docs/ExpoRob-tica_2026.pdf?reload=1773931812624",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-modelado-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/modelado/docs/Impresi-n3D_2026.pdf?reload=1773931877983",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "tbox-web-pdf",
+      "url": "https://www.tboxplanet.com/web/reglamentos26/web/docs/DesarrolloWebIA_2026.pdf?reload=1773878295708",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "no_contact_or_registration": true,
+  "response_only_not_fact_proof": [
+    "first-hn-explore",
+    "first-hn-challenge"
+  ],
+  "viewer_background_images_not_rule_text": [
+    "tbox-expo-page-1",
+    "tbox-expo-page-2",
+    "tbox-expo-page-3",
+    "tbox-envivo-page-1",
+    "tbox-envivo-page-2",
+    "tbox-envivo-page-3"
+  ]
+}

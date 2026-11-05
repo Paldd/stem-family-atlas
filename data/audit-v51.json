@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5045,
-    "competition_cards": 1467,
+    "cards": 5064,
+    "competition_cards": 1477,
     "event_cards": 236,
-    "camp_cards": 3342,
-    "league_profiles": 154,
+    "camp_cards": 3351,
+    "league_profiles": 156,
     "major_exhibition_cards": 151,
     "vex_cards": 518,
     "countries_with_records": 97,
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1593,
+      "total": 1612,
       "countries_with_records": 14,
-      "competitions": 594,
+      "competitions": 604,
       "events": 58,
       "major_exhibitions": 19,
-      "camps": 941,
+      "camps": 950,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -3550,6 +3550,43 @@
       "linked_card_count": 16,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW",
+      "new": false
+    },
+    {
+      "id": "codigo-tbox",
+      "name": "Código TBox · LATAM school STEAM",
+      "group": "regional",
+      "event_ids": [
+        "C1469",
+        "C1470",
+        "C1471",
+        "C1472",
+        "C1473",
+        "C1474",
+        "C1475",
+        "C1476"
+      ],
+      "cards": 8,
+      "future_dated": 0,
+      "linked_card_count": 8,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.tboxplanet.com/web/codigo26/page1.html",
+      "new": false
+    },
+    {
+      "id": "wro-el-salvador",
+      "name": "WRO El Salvador · RoboStarter / Elementary",
+      "group": "regional",
+      "event_ids": [
+        "C095",
+        "C1477",
+        "C1478"
+      ],
+      "cards": 3,
+      "future_dated": 0,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter",
       "new": false
     },
     {
@@ -7374,9 +7411,9 @@
       }
     ],
     "counts": {
-      "records": 3342,
-      "holiday": 3217,
-      "regular": 101,
+      "records": 3351,
+      "holiday": 3221,
+      "regular": 105,
       "self_paced_materials": 2,
       "boarding": 954,
       "en_es_instruction": 930,
@@ -7387,7 +7424,7 @@
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 60
+      "countries": 63
     },
     "validation": {
       "version": 51,

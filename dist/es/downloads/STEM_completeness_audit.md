@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5045; competiciones: 1467; eventos: 236; campamentos / programas: 3342. Perfiles de ligas y programas: 154. Fichas de exposiciones grandes y especializadas: 151 — son ediciones y sedes, no número de marcas únicas.
+Fichas en base: 5064; competiciones: 1477; eventos: 236; campamentos / programas: 3351. Perfiles de ligas y programas: 156. Fichas de exposiciones grandes y especializadas: 151 — ediciones y sedes, no número de marcas únicas.
 
 Hay registros específicos para 97 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 97 de 249 países y territorios; países auditad
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 594 | 19 | 941 |
+| América del Norte | 14 | 604 | 19 | 950 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 23 | 178 | 50 | 1188 |
 | África | 16 | 73 | 7 | 42 |
@@ -23,7 +23,7 @@ Hay registros específicos para 97 de 249 países y territorios; países auditad
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1467 fichas de competiciones (35.3%). Hay un claro desequilibrio de cobertura.
+VEX: 518 de 1477 fichas de competiciones (35.1%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -244,6 +244,8 @@ VEX: 518 de 1467 fichas de competiciones (35.3%). Hay un claro desequilibrio de 
 - **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 fichas, 98 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstrobotics.kz/
 - **Zambia JETS · Digital, Robotics & Intelligent Systems**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.dnsc.gov.zm/jets26/index.php?year=2026
 - **RoboCupJunior Japan · World / Challenge Class**: 16 fichas, 16 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW
+- **Código TBox · LATAM school STEAM**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.tboxplanet.com/web/codigo26/page1.html
+- **WRO El Salvador · RoboStarter / Elementary**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

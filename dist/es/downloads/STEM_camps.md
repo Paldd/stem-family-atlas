@@ -7734,6 +7734,150 @@ Limitaciones: Cybersecurity workshops y hackathon con instructores y Googlers. R
 Fuente: https://techsparkacademy.ch/in-person-workshops/hack-google-weekend-2027/
 Se ha comprobado: 2026-11-05
 
+### L476 · Creston CFP · COOPECOCEIC · 4–7
+
+Lugar: Costa Rica Coronado · San Rafael
+Fecha: Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.
+Edad: 4–7
+Matvey: No ahora — fuera del grupo de edad
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Formato: regular
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://www.coopecoceic.ed.cr/tecnologia
+Se ha comprobado: 2026-11-05
+
+### L477 · Creston CFP · COOPECOCEIC · 8–11
+
+Lugar: Costa Rica Coronado · San Rafael
+Fecha: Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.
+Edad: 8–11
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: No ahora — fuera del grupo de edad
+Formato: regular
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://www.coopecoceic.ed.cr/tecnologia
+Se ha comprobado: 2026-11-05
+
+### L478 · FUSALMO · Bootcamp Aventura · Comparte
+
+lugar: El Salvador · Soyapango / Santa Ana / San Miguel
+Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Edad: 4–6
+Matvey: No ahora — fuera del grupo de edad
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://fusalmo.org/bootcamp-aventura/
+Se ha comprobado: 2026-11-05
+
+### L479 · FUSALMO · Bootcamp Aventura · Sueña
+
+lugar: El Salvador · Soyapango / Santa Ana / San Miguel
+Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Edad: 7–9
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: No ahora — fuera del grupo de edad
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://fusalmo.org/bootcamp-aventura/
+Se ha comprobado: 2026-11-05
+
+### L480 · FUSALMO · Bootcamp Aventura · Transforma
+
+lugar: El Salvador · Soyapango / Santa Ana / San Miguel
+Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+edad: 10–13
+Matvey: No ahora — fuera del grupo de edad
+Oscar: No ahora — fuera del grupo de edad
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://fusalmo.org/bootcamp-aventura/
+Se ha comprobado: 2026-11-05
+
+### L481 · FUSALMO · Bootcamp Aventura · Crea
+
+lugar: El Salvador · Soyapango / Santa Ana / San Miguel
+Fecha: Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.
+Edad: 14*17
+Matvey: No ahora — fuera del grupo de edad
+Oscar: No ahora — fuera del grupo de edad
+Formato: holiday_workshop
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://fusalmo.org/bootcamp-aventura/
+Se ha comprobado: 2026-11-05
+
+### L482 · ROBOTEDH · mBot / mBlock Summer Camp
+
+lugar: Honduras · Jardines del Valle · 27 calle / 9 avenida #33 · San Pedro Sula
+Fecha: Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta.
+edad: Edad de convocatoria sin anunciar; mBot 8+ en página general describe dispositivo, no admisión personal.
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Página del curso menciona expresamente Summer Camp con mBot / mBlock 5: motores, RGB, botón, distancia, línea, trayectorias, AI / vision inicial. Sin fechas, duración, modalidad presencial / remota ni edad mínima de turno concreto. Botley 5+ / Codey Rocky 6+ del catálogo de equipo no acreditan grupo menor de campamento. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://robotedhn.tech/curso-de-robotica/
+Se ha comprobado: 2026-11-05
+
+### L483 · ROBOTEDH · Arduino UNO / Tinkercad
+
+lugar: Honduras · Online · operator San Pedro Sula
+Fecha: Curso sin fechas de próximo grupo, duración ni horario. No campamento fechado.
+edad: Edad infantil del curso sin indicar.
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Formato: regular
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Introducción a electrónica, protoboard, C++, pins digitales / analógicos, serial, sensores, LCD, stepper y Tinkercad. Online enumera ordenador Windows 8 64-bit o posterior, mouse, internet, microphone, Gmail y webcam recomendada; lista técnica antigua publicada, confirmar compatibilidad de software actual. Arduino kit indicado como incluido; envío internacional / propiedad / precio final sin confirmar. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://robotedhn.tech/curso-de-arduino/
+Se ha comprobado: 2026-11-05
+
+### L484 · Createch Mind · STEM / robotics / VR
+
+lugar: Nicaragua · Km 4½ Carretera a Masaya · Edificio CAR · Managua
+Fecha: Catálogo actual del centro sin fechas publicadas de campamento ni curso próximo.
+edad: Niños y jóvenes; límites numéricos y curso sin publicar.
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Formato: regular
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Operador ofrece robotics, programming, virtual reality y applied technologies; menciona prototipos virtuales / físicos, 3D printers y VR. Página Cursos sin horario / edad / precio legibles. Campus Virtual no acredita admisión online de niño extranjero. Afirmación «único centro» no usada como ranking independiente. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://createch-mind.com/
+Se ha comprobado: 2026-11-05
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

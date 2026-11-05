@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 168,
+    "version": 169,
     "checked": "2026-11-05",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -13528,6 +13528,204 @@
         "evidence": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
       },
       {
+        "id": "codigo-tbox",
+        "name": "Código TBox · LATAM school STEAM",
+        "group": "regional",
+        "age_summary": "Por cursos: Expo preschool–bachillerato; Scratch 4–6; GDevelop 6–9; App 10–12; resto 4+ / 7+.",
+        "age_tags": [
+          "unknown"
+        ],
+        "summary": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+        "categories": [
+          {
+            "name": "Código TBox · Aventuras espaciales con Scratch · next season",
+            "age": "Cursos escolares: 4–6. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "Scratch",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1469"
+          },
+          {
+            "name": "Código TBox · Exploración espacial con GDevelop · next season",
+            "age": "Cursos escolares: 6–9. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "GDevelop",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1470"
+          },
+          {
+            "name": "Código TBox · Aplicaciones espaciales · next season",
+            "age": "Cursos escolares: 10–12. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "App Inventor",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1471"
+          },
+          {
+            "name": "Código TBox · Robótica en vivo · next season",
+            "age": "Cursos escolares: 4+. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "Kits admisibles sin leer: reglamento enlazado inaccesible.",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1472"
+          },
+          {
+            "name": "Código TBox · Control de drones · next season",
+            "age": "Cursos escolares: 7+. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "DJI Neo · version 1",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1473"
+          },
+          {
+            "name": "Código TBox · Expo Robótica · next season",
+            "age": "Cursos escolares: preescolar–bachillerato. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "Tecnología según subnivel escolar; tabla exacta aún inaccesible.",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1474"
+          },
+          {
+            "name": "Código TBox · Modelado e impresión 3D · next season",
+            "age": "Cursos escolares: 7+. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "Tinkercad + 3D printer",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1475"
+          },
+          {
+            "name": "Código TBox · Desarrollo web con inteligencia artificial · next season",
+            "age": "Cursos escolares: 7+. No es edad numérica.",
+            "team": "4 alumnos de mismo colegio + docente",
+            "hardware": "AI tools elegidas por equipo.",
+            "entry": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+            "event_id": "C1476"
+          }
+        ],
+        "event_ids": [
+          "C1469",
+          "C1470",
+          "C1471",
+          "C1472",
+          "C1473",
+          "C1474",
+          "C1475",
+          "C1476"
+        ],
+        "legacy_ids": [],
+        "route": "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+        "hardware": "Scratch / GDevelop / App Inventor / Tinkercad / DJI Neo v1; kits robóticos exactos aún sin leer.",
+        "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+        "importance": "Serie escolar regional para proyectos y preparación; sin acreditar condición de final mundial / ranking mundial único.",
+        "strengths": "Para categorías de proyectos aplicables: propuesta PDF, fuentes y vídeo ≤6 minutos; publicación de vídeo en YouTube / feria virtual requiere autorización parental. Reglas de categorías contienen excepciones. Activación con mínimo 5 equipos, de lo contrario posible exhibición. Clasificación / entrenamiento En Vivo y drones, preevaluación Expo / 3D dependen de condiciones concretas.",
+        "requirements": [
+          "Solo equipos escolares: 4 alumnos del mismo colegio + docente-coach; un alumno en un equipo / categoría. Mayoría de categorías exige programa TBox del colegio. Categoría abierta web+AI admite colegios sin TBox, pero desde 7.º curso. Dos hermanos no forman equipo completo; pasaportes no sustituyen acceso escolar. Reglas generales 2026 admiten colegios de toda LATAM, condiciones nuevas 2027 desconocidas.",
+          "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta.",
+          "Página principal de categorías leída. Ocho PDF enlazados devuelven 404; seis páginas JPG Expo / En Vivo contienen fondo sin capa de texto, BIN también inaccesibles. Tablas técnicas, excepciones de edad y kits exactos de estos viewer no considerados verificados.",
+          "Para categorías de proyectos aplicables: propuesta PDF, fuentes y vídeo ≤6 minutos; publicación de vídeo en YouTube / feria virtual requiere autorización parental. Reglas de categorías contienen excepciones. Activación con mínimo 5 equipos, de lo contrario posible exhibición. Clasificación / entrenamiento En Vivo y drones, preevaluación Expo / 3D dependen de condiciones concretas."
+        ],
+        "cost": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "award": "Puestos premiados por categorías; vídeo / diploma de participación no prueban triunfo internacional.",
+        "sources": [
+          {
+            "title": "School rules and four-student teams",
+            "url": "https://www.tboxplanet.com/web/codigo26/page1.html",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Eight categories and grade gates",
+            "url": "https://www.tboxplanet.com/web/codigo26/page2.html",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "2026 completed dates",
+            "url": "https://www.tboxplanet.com/web/codigo26/page3.html",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta."
+      },
+      {
+        "id": "wro-el-salvador",
+        "name": "WRO El Salvador · RoboStarter / Elementary",
+        "group": "regional",
+        "age_summary": "RoboStarter Elementary 5–7 / Junior 7–10; Mission / Innovators Elementary 8–12 según 2026.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "Por edad máxima del año natural en 2027 Matvey 10, Oscar 7. Si se mantienen límites 7–10, ambos podrían ser candidatos Junior por edad; confirmar reglas 2027, acceso extranjero y límite 7. Página contiene introducciones discordantes «desde 4» / resumen «5–10»; aplicadas divisiones explícitas 5–7 / 7–10. RoboStarter es formativo y no concede cupo mundial.",
+        "categories": [
+          {
+            "name": "WRO El Salvador — RoboStarter Kids",
+            "age": "Kids Elementary 5–7; Kids Junior 7–10 por la página 2026; edad por año calendario",
+            "team": "2–3 el alumno + Adulto coach",
+            "hardware": "Robo Robo por descripción de la categoría; actualización y mat confirmar",
+            "entry": "a través de WRO El Salvador; extranjero / independiente entrada y cambios de la temporada 2027 confirmar",
+            "event_id": "C095"
+          },
+          {
+            "name": "WRO El Salvador · RoboMission Elementary · next season",
+            "age": "Publicado 2026: Elementary 8–12; edad máxima en año natural de competición. Reglas 2027 aún desconocidas.",
+            "team": "2–3 alumnos + coach; coach internacional 18+.",
+            "hardware": "Hardware / software libres; robot autónomo ≤25×25×25 cm. Reglas de temporada y compatibilidad de kit aparte.",
+            "entry": "Clasificación nacional → ranking → olimpiada nacional → posible cupo internacional mediante national organizer. Ruta extranjera / no residente y país del equipo aún sin confirmar.",
+            "event_id": "C1477"
+          },
+          {
+            "name": "WRO El Salvador · Future Innovators Elementary · next season",
+            "age": "Publicado 2026: Elementary 8–12; edad máxima en año natural de competición. Reglas 2027 aún desconocidas.",
+            "team": "2–3 alumnos + coach; coach internacional 18+.",
+            "hardware": "Materiales / controller / software libres; proyecto en stand 2×2×2 m. Temporada 2026 exigía informe y vídeo ≤90 segundos hasta 29 de julio.",
+            "entry": "Clasificación nacional → ranking → olimpiada nacional → posible cupo internacional mediante national organizer. Ruta extranjera / no residente y país del equipo aún sin confirmar.",
+            "event_id": "C1478"
+          }
+        ],
+        "event_ids": [
+          "C095",
+          "C1477",
+          "C1478"
+        ],
+        "legacy_ids": [],
+        "route": "Clasificación nacional → ranking → olimpiada nacional → posible cupo internacional mediante national organizer. Ruta extranjera / no residente y país del equipo aún sin confirmar.",
+        "hardware": "RoboStarter RoboRobo ≤25×25×35 cm; Mission kit libre ≤25×25×25 cm; Innovators proyecto libre ≤2×2×2 m. Tres límites distintos.",
+        "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+        "importance": "Ruta nacional real WRO; RoboStarter menor sin clasificación internacional, categorías mayores mediante selección y cupo.",
+        "strengths": "",
+        "requirements": [
+          "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+          "Clasificación nacional → ranking → olimpiada nacional → posible cupo internacional mediante national organizer. Ruta extranjera / no residente y país del equipo aún sin confirmar."
+        ],
+        "nuances": [
+          "Por edad máxima del año natural en 2027 Matvey 10, Oscar 7. Si se mantienen límites 7–10, ambos podrían ser candidatos Junior por edad; confirmar reglas 2027, acceso extranjero y límite 7. Página contiene introducciones discordantes «desde 4» / resumen «5–10»; aplicadas divisiones explícitas 5–7 / 7–10. RoboStarter es formativo y no concede cupo mundial.",
+          "Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta."
+        ],
+        "cost": "Inscripción de olimpiada nacional incluye badge, desayuno, almuerzo y diploma para equipo / coach según página 2026. $70 era tarifa tardía julio 2026, no precio actual 2027. Viaje internacional a cargo del equipo.",
+        "award": "reconocimiento formal / resultado local; RoboStarter no califica directamente para la final mundial de la WRO",
+        "sources": [
+          {
+            "title": "RoboStarter rules",
+            "url": "https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "National route",
+            "url": "https://www.wroelsalvador.org/temporada-2026/c%C3%B3mo-participar",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "2026 calendar",
+            "url": "https://www.wroelsalvador.org/temporada-2026/calendario-2026",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -13920,7 +14118,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "154 perfiles de ligas, familias y programas; se conservan las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM locales y BajaBot descritos por categoría. Cobertura mundial parcial.",
+    "methodology": "156 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

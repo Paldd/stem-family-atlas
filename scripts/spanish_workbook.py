@@ -8,7 +8,7 @@ HEADERS={
  'start':'Inicio','end':'Fin','period':'Período','date_status':'Estado de fechas','deadline':'Plazo límite',
  'deadline_label':'Tipo de plazo','deadline_note':'Nota sobre el plazo','deadline_utc':'Plazo UTC',
  'registration_status':'Estado de inscripción','age':'Edad / curso','mat':'Matvey','osc':'Oscar',
- 'format':'Formato / equipo','participation':'Participación','entry':'Cómo participar','gear':'Equipamiento',
+ 'format':'Formato / equipo','participation':'Participación','delivery_mode':'Modalidad de participación','entry':'Cómo participar','gear':'Equipamiento',
  'language':'Idioma','cost':'Precio','scope':'Ámbito','level':'Nivel','importance_reason':'Motivo de prioridad',
  'reward':'Resultado / premio','priority':'Prioridad','action':'Próximo paso','source':'Fuente oficial',
  'references':'Fuentes relacionadas','proof':'Base de verificación','checked':'Fecha de verificación',

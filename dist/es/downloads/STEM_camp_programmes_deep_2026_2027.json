@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1330,
-    "countries": 52,
+    "dossiers": 1339,
+    "countries": 55,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 183,
       "published_2027": 340,
       "partial_2027": 120,
-      "next_unannounced": 249,
+      "next_unannounced": 254,
       "published_2026": 289,
       "partial_2026_27": 20,
-      "partial_2026": 14,
+      "partial_2026": 18,
       "archive_next_unannounced": 115
     },
-    "source_urls": 1964
+    "source_urls": 1973
   },
   "countries": [
     {
@@ -91,6 +91,10 @@
       "count": 11
     },
     {
+      "country": "Honduras",
+      "count": 2
+    },
+    {
       "country": "Hong Kong",
       "count": 37
     },
@@ -132,7 +136,7 @@
     },
     {
       "country": "Costa Rica",
-      "count": 40
+      "count": 42
     },
     {
       "country": "Liechtenstein",
@@ -163,6 +167,10 @@
       "count": 5
     },
     {
+      "country": "Nicaragua",
+      "count": 1
+    },
+    {
       "country": "Nueva Zelanda",
       "count": 16
     },
@@ -185,6 +193,10 @@
     {
       "country": "Estados Unidos",
       "count": 135
+    },
+    {
+      "country": "El Salvador",
+      "count": 4
     },
     {
       "country": "Singapur",
@@ -211359,6 +211371,717 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1331",
+      "slug": "creston-coronado-4-7",
+      "provider": "Creston CFP · COOPECOCEIC · 4–7",
+      "iso": "CRI",
+      "country": "Costa Rica",
+      "place": "Coronado · San Rafael",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–7",
+      "programme": "Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Ahora 9 años: fuera del grupo de edad publicado."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años: edad compatible con grupo; convocatoria, nivel e idioma desconocidos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Technology course: two child age groups; blank kit names",
+          "url": "https://www.coopecoceic.ed.cr/tecnologia",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular_course",
+      "related_event_ids": [
+        "L476"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1332",
+      "slug": "creston-coronado-8-11",
+      "provider": "Creston CFP · COOPECOCEIC · 8–11",
+      "iso": "CRI",
+      "country": "Costa Rica",
+      "place": "Coronado · San Rafael",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–11",
+      "programme": "Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años: edad compatible con grupo; convocatoria, nivel e idioma desconocidos."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Ahora 6 años: fuera del grupo de edad publicado."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Technology course: two child age groups; blank kit names",
+          "url": "https://www.coopecoceic.ed.cr/tecnologia",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular_course",
+      "related_event_ids": [
+        "L477"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1333",
+      "slug": "fusalmo-bootcamp-comparte",
+      "provider": "FUSALMO · Bootcamp Aventura · Comparte",
+      "iso": "SLV",
+      "country": "El Salvador",
+      "place": "Soyapango / Santa Ana / San Miguel",
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6",
+      "programme": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "planned_windows": [
+          {
+            "start": "2026-11-16",
+            "end": "2026-12-19",
+            "status": "organizational_plan_only"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+        "included": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "extras": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad actual del niño 9; grupo 4–6. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad actual del niño 6; grupo 4–6. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Public Bootcamp page still targets Academy 2026",
+          "url": "https://fusalmo.org/bootcamp-aventura/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Organizational Plan Maestro 2026; overlapping planning windows",
+          "url": "https://plan.fusalmo.org/calendario",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Challenge selection is separate from Bootcamp admission",
+          "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "unknown",
+        "label": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      },
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L478"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1334",
+      "slug": "fusalmo-bootcamp-sueña",
+      "provider": "FUSALMO · Bootcamp Aventura · Sueña",
+      "iso": "SLV",
+      "country": "El Salvador",
+      "place": "Soyapango / Santa Ana / San Miguel",
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–9",
+      "programme": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "planned_windows": [
+          {
+            "start": "2026-11-16",
+            "end": "2026-12-19",
+            "status": "organizational_plan_only"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+        "included": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "extras": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad actual del niño 9; grupo 7–9. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad actual del niño 6; grupo 7–9. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Public Bootcamp page still targets Academy 2026",
+          "url": "https://fusalmo.org/bootcamp-aventura/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Organizational Plan Maestro 2026; overlapping planning windows",
+          "url": "https://plan.fusalmo.org/calendario",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Challenge selection is separate from Bootcamp admission",
+          "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "unknown",
+        "label": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      },
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L479"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1335",
+      "slug": "fusalmo-bootcamp-transforma",
+      "provider": "FUSALMO · Bootcamp Aventura · Transforma",
+      "iso": "SLV",
+      "country": "El Salvador",
+      "place": "Soyapango / Santa Ana / San Miguel",
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–13",
+      "programme": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "planned_windows": [
+          {
+            "start": "2026-11-16",
+            "end": "2026-12-19",
+            "status": "organizational_plan_only"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+        "included": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "extras": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad actual del niño 9; grupo 10–13. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad actual del niño 6; grupo 10–13. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Public Bootcamp page still targets Academy 2026",
+          "url": "https://fusalmo.org/bootcamp-aventura/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Organizational Plan Maestro 2026; overlapping planning windows",
+          "url": "https://plan.fusalmo.org/calendario",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Challenge selection is separate from Bootcamp admission",
+          "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "unknown",
+        "label": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      },
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L480"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1336",
+      "slug": "fusalmo-bootcamp-crea",
+      "provider": "FUSALMO · Bootcamp Aventura · Crea",
+      "iso": "SLV",
+      "country": "El Salvador",
+      "place": "Soyapango / Santa Ana / San Miguel",
+      "themes": [
+        "robotics",
+        "coding",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "14–17",
+      "programme": "Página pública presenta cuatro grupos educativos: Comparte 4–6 — STEAM mediante juego; Sueña 7–9 — primeros robots y código; Transforma 10–13 — mecánica, sensores y optimización; Crea 14–17 — proyectos más complejos. Son edades del Bootcamp, no edades acreditadas de ligas competitivas STEAM Maker Challenge. Ventanas modales antiguas repiten Comparte para todos; descripciones inferiores completas sí difieren.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Plan Maestro 2026: inicio 16 de noviembre, intervalo general 17 de noviembre – 19 de diciembre; filas superpuestas 17–20 y 23–27 de noviembre. Plan de organización, no turno público confirmado. Página de inscripción aún promete Academy 2026 y 4,5 semanas: nuevo contrato / horario desconocidos. Horas antiguas lunes–jueves 08–12, viernes excursión no trasladadas al nuevo calendario.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "planned_windows": [
+          {
+            "start": "2026-11-16",
+            "end": "2026-12-19",
+            "status": "organizational_plan_only"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Página antigua promete $100, descuento 20%, materiales, excursiones y beca Academy 2026. Código de moneda, vigencia de oferta y precio Bootcamp de finales 2026 sin establecer; $100 no aplicados al nuevo turno ni añadidos como presupuesto vigente.",
+        "included": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "extras": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad actual del niño 9; grupo 14–17. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad actual del niño 6; grupo 14–17. Descripción antigua: confirmar reglas de nueva convocatoria, fecha de corte y acceso extranjero."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Public Bootcamp page still targets Academy 2026",
+          "url": "https://fusalmo.org/bootcamp-aventura/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Organizational Plan Maestro 2026; overlapping planning windows",
+          "url": "https://plan.fusalmo.org/calendario",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Challenge selection is separate from Bootcamp admission",
+          "url": "https://fusalmo.org/steam-maker-challenge-fusalmo-2/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "unknown",
+        "label": "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      },
+      "programme_type": "holiday_camp",
+      "related_event_ids": [
+        "L481"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1337",
+      "slug": "robotedh-mbot-camp",
+      "provider": "ROBOTEDH · mBot / mBlock Summer Camp",
+      "iso": "HND",
+      "country": "Honduras",
+      "place": "Jardines del Valle · 27 calle / 9 avenida #33 · San Pedro Sula",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "Edad de convocatoria sin anunciar; mBot 8+ en página general describe dispositivo, no admisión personal.",
+      "programme": "Página del curso menciona expresamente Summer Camp con mBot / mBlock 5: motores, RGB, botón, distancia, línea, trayectorias, AI / vision inicial. Sin fechas, duración, modalidad presencial / remota ni edad mínima de turno concreto. Botley 5+ / Codey Rocky 6+ del catálogo de equipo no acreditan grupo menor de campamento.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Temporada 2026 terminada; fechas, inscripción y reglas 2027 aún sin confirmar. Seguimiento de siguiente convocatoria, no inscripción abierta.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "HNL",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Modalidad del Summer Camp concreto y alojamiento sin establecer.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Actual Summer Camp curriculum",
+          "url": "https://robotedhn.tech/curso-de-robotica/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Hardware ages are not camp admission ages",
+          "url": "https://robotedhn.tech/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "undated_camp",
+      "related_event_ids": [
+        "L482"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1338",
+      "slug": "robotedh-arduino-online",
+      "provider": "ROBOTEDH · Arduino UNO / Tinkercad",
+      "iso": "HND",
+      "country": "Honduras",
+      "place": "Online · operator San Pedro Sula",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "online"
+      ],
+      "age": "Edad infantil del curso sin indicar.",
+      "programme": "Introducción a electrónica, protoboard, C++, pins digitales / analógicos, serial, sensores, LCD, stepper y Tinkercad. Online enumera ordenador Windows 8 64-bit o posterior, mouse, internet, microphone, Gmail y webcam recomendada; lista técnica antigua publicada, confirmar compatibilidad de software actual. Arduino kit indicado como incluido; envío internacional / propiedad / precio final sin confirmar.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso sin fechas de próximo grupo, duración ni horario. No campamento fechado.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "HNL",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "included": "Arduino basic kit indicado como incluido en curso; acordar envío y entrega.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Modalidad online prevista; sin residencia anunciada.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Online requirements, curriculum and included kit",
+          "url": "https://robotedhn.tech/curso-de-arduino/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "online_course",
+      "related_event_ids": [
+        "L483"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1339",
+      "slug": "createch-mind-nicaragua",
+      "provider": "Createch Mind · STEM / robotics / VR",
+      "iso": "NIC",
+      "country": "Nicaragua",
+      "place": "Km 4½ Carretera a Masaya · Edificio CAR · Managua",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "games"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "Niños y jóvenes; límites numéricos y curso sin publicar.",
+      "programme": "Operador ofrece robotics, programming, virtual reality y applied technologies; menciona prototipos virtuales / físicos, 3D printers y VR. Página Cursos sin horario / edad / precio legibles. Campus Virtual no acredita admisión online de niño extranjero. Afirmación «único centro» no usada como ranking independiente.",
+      "language": "Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Catálogo actual del centro sin fechas publicadas de campamento ni curso próximo.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "NIO",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.",
+        "included": "",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Centro extracurricular; modalidad de grupo y alojamiento sin establecer.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Primary learning centre and programme themes",
+          "url": "https://createch-mind.com/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Course index without readable current offers",
+          "url": "https://createch-mind.com/cursos/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "extracurricular_centre",
+      "related_event_ids": [
+        "L484"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -216604,7 +217327,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 168,
+  "version": 169,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -232415,6 +233138,51 @@
     {
       "programme_id": "CP1320",
       "event_id": "L475",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1331",
+      "event_id": "L476",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1332",
+      "event_id": "L477",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1333",
+      "event_id": "L478",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1334",
+      "event_id": "L479",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1335",
+      "event_id": "L480",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1336",
+      "event_id": "L481",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1337",
+      "event_id": "L482",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1338",
+      "event_id": "L483",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1339",
+      "event_id": "L484",
       "relation": "existing_programme"
     }
   ],

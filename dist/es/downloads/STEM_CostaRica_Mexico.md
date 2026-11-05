@@ -2241,6 +2241,32 @@ Limitaciones: Página de Tecnológico de Monterrey confirma 5 de diciembre. Curs
 Fuente: https://sites.google.com/tec.mx/roboblasters/inicio
 Se ha comprobado: 2026-11-05
 
+### L476 · Creston CFP · COOPECOCEIC · 4–7
+
+Fecha: Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.
+Edad: 4–7
+Matvey: No ahora — fuera del grupo de edad
+Oscar: Condicional — confirmar convocatoria, edad e idioma
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Limitaciones: Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://www.coopecoceic.ed.cr/tecnologia
+Se ha comprobado: 2026-11-05
+
+### L477 · Creston CFP · COOPECOCEIC · 8–11
+
+Fecha: Cursos presenciales con horario flexible; sin fechas de campamento, próxima convocatoria, horas ni duración.
+Edad: 8–11
+Matvey: Condicional — confirmar convocatoria, edad e idioma
+Oscar: No ahora — fuera del grupo de edad
+Idioma: Idioma de enseñanza / evaluación de este grupo sin establecer expresamente. Página española y colegios clientes bilingües no acreditan enseñanza ES / EN; acordar grupo concreto.
+Acceso: Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos no equivalen a cero.
+Limitaciones: Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://www.coopecoceic.ed.cr/tecnologia
+Se ha comprobado: 2026-11-05
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
