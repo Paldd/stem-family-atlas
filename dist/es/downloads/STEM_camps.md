@@ -53270,6 +53270,342 @@ Limitaciones: Matvey: Seis días de química, robótica / drones, biología y co
 Fuente: https://escueladeciencia.com/campamentos/hogwarts
 Se ha comprobado: 2026-11-05
 
+### CP1321-20270121-20270122-lego-wedo-1 · Halo School · LEGO mechanics & WeDo · LEGO mechanics & WeDo · 1 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1322-20270125-20270127-lego-spike-1 · Halo School · LEGO SPIKE Challenge · LEGO SPIKE Challenge · 1 · 2027-01-25–2027-01-27
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1323-20270125-20270127-minecraft-redstone-1 · Halo School · Minecraft Redstone · Minecraft Redstone · 1 · 2027-01-25–2027-01-27
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1323-20270128-20270129-minecraft-redstone-2 · Halo School · Minecraft Redstone · Minecraft Redstone · 2 · 2027-01-28–2027-01-29
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1324-20270128-20270129-minecraft-makecode-1 · Halo School · Minecraft MakeCode · Minecraft MakeCode · 1 · 2027-01-28–2027-01-29
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1324-20270201-20270203-minecraft-makecode-2 · Halo School · Minecraft MakeCode · Minecraft MakeCode · 2 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1325-20270201-20270203-vex-go-1 · Halo School · VEX GO RC Battles · VEX GO RC Battles · 1 · 2027-02-01–2027-02-03
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grades 1–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1326-20270121-20270122-3d-printing-1 · Halo School · 3D Printing & Tinkercad · 3D Printing & Tinkercad · 1 · 2027-01-21–2027-01-22
+
+lugar: Taiwán · 556 Heti Road · 2F · Sanmin · Kaohsiung
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · TWD 5200 + 800 materials · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1327-20261221-20261225-winter-week-1 · Kid LEADER Hub · Winter STEM / English · Winter week 1 · 2026-12-21–2026-12-25
+
+lugar: Vietnam · M7 Midtown · Phú Mỹ Hưng · District 7 · Ho Chi Minh City
+Fecha: 2026-12-21 — 2026-12-25
+edad: Camp 5–12; general terms 6–18
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Curso promete expresamente aprender, comunicarse y presentar en inglés durante todo programa; docentes apoyan principiantes. Campamento EN concreto, sin deducirlo del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Puede pedirse almuerzo al centro; opción adicional, inclusión / precio sin publicar. Permiten recoger al niño para almorzar. Depósito, devolución, equipo para casa y tarifas requieren factura aparte. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1327-20261228-20261231-winter-week-2 · Kid LEADER Hub · Winter STEM / English · Winter week 2 · 2026-12-28–2026-12-31
+
+lugar: Vietnam · M7 Midtown · Phú Mỹ Hưng · District 7 · Ho Chi Minh City
+Fecha: 2026-12-28 - 2026-12-31
+edad: Camp 5–12; general terms 6–18
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Curso promete expresamente aprender, comunicarse y presentar en inglés durante todo programa; docentes apoyan principiantes. Campamento EN concreto, sin deducirlo del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Puede pedirse almuerzo al centro; opción adicional, inclusión / precio sin publicar. Permiten recoger al niño para almorzar. Depósito, devolución, equipo para casa y tarifas requieren factura aparte. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1327-20270104-20270108-winter-week-3 · Kid LEADER Hub · Winter STEM / English · Winter week 3 · 2027-01-04–2027-01-08
+
+lugar: Vietnam · M7 Midtown · Phú Mỹ Hưng · District 7 · Ho Chi Minh City
+Fecha: 2027-01-04 — 2027-01-08
+edad: Camp 5–12; general terms 6–18
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Curso promete expresamente aprender, comunicarse y presentar en inglés durante todo programa; docentes apoyan principiantes. Campamento EN concreto, sin deducirlo del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Puede pedirse almuerzo al centro; opción adicional, inclusión / precio sin publicar. Permiten recoger al niño para almorzar. Depósito, devolución, equipo para casa y tarifas requieren factura aparte. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://kidleaderhub.com/courses/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261214-20261218-week-1-am · Blank Space Studio · Winter Art Camp · Winter art week 1 · am · 2026-12-14–2026-12-18
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4800000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261214-20261218-week-1-pm · Blank Space Studio · Winter Art Camp · Winter art week 1 · pm · 2026-12-14–2026-12-18
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4800000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261221-20261224-week-2-am · Blank Space Studio · Winter Art Camp · Winter art week 2 · am · 2026-12-21–2026-12-24
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4000000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261221-20261224-week-2-pm · Blank Space Studio · Winter Art Camp · Winter art week 2 · pm · 2026-12-21–2026-12-24
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4000000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261228-20261231-week-3-am · Blank Space Studio · Winter Art Camp · Winter art week 3 · am · 2026-12-28–2026-12-31
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4000000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20261228-20261231-week-3-pm · Blank Space Studio · Winter Art Camp · Winter art week 3 · pm · 2026-12-28–2026-12-31
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · VND 4000000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20270104-20270108-week-4-am · Blank Space Studio · Winter Art Camp · Winter art week 4 · am · 2027-01-04–2027-01-08
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · VND 4800000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1328-20270104-20270108-week-4-pm · Blank Space Studio · Winter Art Camp · Winter art week 4 · pm · 2027-01-04–2027-01-08
+
+lugar: Vietnam · 4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 4–12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2027 · VND 4800000 + 8% VAT · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Oscar: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte.
+Fuente: https://blankspace-studio.com/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### CP1329-20261214-20261230-winter-full-camp-2026 · Anne Hill · Winter Expedition younger · Winter Expedition · full 12-day camp · 2026-12-14–2026-12-30
+
+lugar: Vietnam · Primary Campus · 31 Giang Van Minh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-14 — 2026-12-30
+Edad: 5–7 · Years 1–3
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: PDF expresa que todos fees pagados son no reembolsables. Matrícula solo camp completo; invoice final tras inscripción. Sin formularios, consentimientos médicos ni contrato.
+Fuente: https://annehill.school/holiday-camps/
+Se ha comprobado: 2026-11-05
+
+### CP1330-20261214-20261230-winter-full-camp-2026 · Anne Hill · Winter Expedition older · Winter Expedition · full 12-day camp · 2026-12-14–2026-12-30
+
+lugar: Vietnam · Primary Campus · 31 Giang Van Minh · An Khánh · Ho Chi Minh City
+Fecha: 2026-12-14 — 2026-12-30
+edad: 8–14 · Years 4–10
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: PDF expresa que todos fees pagados son no reembolsables. Matrícula solo camp completo; invoice final tras inscripción. Sin formularios, consentimientos médicos ni contrato.
+Fuente: https://annehill.school/holiday-camps/
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

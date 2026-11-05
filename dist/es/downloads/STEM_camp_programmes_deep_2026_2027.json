@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1320,
-    "countries": 51,
+    "dossiers": 1330,
+    "countries": 52,
     "swiss": 137,
     "by_status": {
-      "published_2026_27": 181,
-      "published_2027": 334,
+      "published_2026_27": 183,
+      "published_2027": 340,
       "partial_2027": 120,
       "next_unannounced": 249,
-      "published_2026": 287,
+      "published_2026": 289,
       "partial_2026_27": 20,
       "partial_2026": 14,
       "archive_next_unannounced": 115
     },
-    "source_urls": 1956
+    "source_urls": 1964
   },
   "countries": [
     {
@@ -77,6 +77,10 @@
     {
       "country": "Venezuela",
       "count": 1
+    },
+    {
+      "country": "Vietnam",
+      "count": 4
     },
     {
       "country": "Guatemala",
@@ -192,7 +196,7 @@
     },
     {
       "country": "Taiwán",
-      "count": 66
+      "count": 72
     },
     {
       "country": "Tanzania",
@@ -209125,6 +209129,2236 @@
         "L475"
       ],
       "calendar_links": []
+    },
+    {
+      "id": "CP1321",
+      "slug": "halo-kaohsiung-winter-lego-wedo",
+      "provider": "Halo School · LEGO mechanics & WeDo",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 1–3",
+      "programme": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "variant_key": "lego-wedo-1",
+            "label": "LEGO mechanics & WeDo · 1",
+            "price": "TWD 4280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T08:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 4280,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1321-20270121-20270122-lego-wedo-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1322",
+      "slug": "halo-kaohsiung-winter-lego-spike",
+      "provider": "Halo School · LEGO SPIKE Challenge",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–9",
+      "programme": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-27",
+            "variant_key": "lego-spike-1",
+            "label": "LEGO SPIKE Challenge · 1",
+            "price": "TWD 6280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T08:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T08:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 6280,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1322-20270125-20270127-lego-spike-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1323",
+      "slug": "halo-kaohsiung-winter-minecraft-redstone",
+      "provider": "Halo School · Minecraft Redstone",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 1–3",
+      "programme": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-27"
+          ],
+          [
+            "2027-01-28",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-27",
+            "variant_key": "minecraft-redstone-1",
+            "label": "Minecraft Redstone · 1",
+            "price": "TWD 6280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T01:00:00Z",
+                "end_utc": "2027-01-25T08:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T01:00:00Z",
+                "end_utc": "2027-01-26T08:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T01:00:00Z",
+                "end_utc": "2027-01-27T08:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-28",
+            "end": "2027-01-29",
+            "variant_key": "minecraft-redstone-2",
+            "label": "Minecraft Redstone · 2",
+            "price": "TWD 4280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T08:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 6280,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1323-20270125-20270127-minecraft-redstone-1"
+          ]
+        },
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1323-20270128-20270129-minecraft-redstone-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1324",
+      "slug": "halo-kaohsiung-winter-minecraft-makecode",
+      "provider": "Halo School · Minecraft MakeCode",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–9",
+      "programme": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-01-28",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-28",
+            "end": "2027-01-29",
+            "variant_key": "minecraft-makecode-1",
+            "label": "Minecraft MakeCode · 1",
+            "price": "TWD 4280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T01:00:00Z",
+                "end_utc": "2027-01-28T08:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T01:00:00Z",
+                "end_utc": "2027-01-29T08:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "variant_key": "minecraft-makecode-2",
+            "label": "Minecraft MakeCode · 2",
+            "price": "TWD 6280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T08:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T08:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T01:00:00Z",
+                "end_utc": "2027-02-03T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 4280,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-28",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1324-20270128-20270129-minecraft-makecode-1"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1324-20270201-20270203-minecraft-makecode-2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1325",
+      "slug": "halo-kaohsiung-winter-vex-go",
+      "provider": "Halo School · VEX GO RC Battles",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 1–6",
+      "programme": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-02-01",
+            "2027-02-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-03",
+            "variant_key": "vex-go-1",
+            "label": "VEX GO RC Battles · 1",
+            "price": "TWD 6280",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T01:00:00Z",
+                "end_utc": "2027-02-01T08:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T01:00:00Z",
+                "end_utc": "2027-02-02T08:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T01:00:00Z",
+                "end_utc": "2027-02-03T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 6280,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1325-20270201-20270203-vex-go-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1326",
+      "slug": "halo-kaohsiung-winter-3d-printing",
+      "provider": "Halo School · 3D Printing & Tinkercad",
+      "iso": "TWN",
+      "country": "Taiwán",
+      "place": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "themes": [
+        "engineering",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–9",
+      "programme": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2027",
+        "label": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+        "sessions": [
+          [
+            "2027-01-21",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-21",
+            "end": "2027-01-22",
+            "variant_key": "3d-printing-1",
+            "label": "3D Printing & Tinkercad · 1",
+            "price": "TWD 5200 + 800 materials",
+            "source": "https://www.haloschool.tw/halocamp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T01:00:00Z",
+                "end_utc": "2027-01-21T08:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Asia/Taipei",
+                "topic": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T01:00:00Z",
+                "end_utc": "2027-01-22T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "TWD",
+        "amount": 5200,
+        "unit": "child_camp",
+        "label": "Dos días 4280 元, tres días 6280; 3D aparte 5200 + materiales obligatorios 800 = 6000. Moneda TWD por contexto taiwanés, confirmar factura. Antes del 20.11.2026: early bird individual paga 88% de tuition; dos grupos de un niño o hermanos pagan 85%. Sin acumular promociones, 800 de materiales sin descuento.",
+        "included": "Almuerzo incluido. 3D incluye lápiz de impresión, modelos impresos y enviados después; acordar entrega y dirección extranjera.",
+        "extras": "Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current winter 2027 grid, equipment and discounts",
+          "url": "https://www.haloschool.tw/halocamp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-21",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1326-20270121-20270122-3d-printing-1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1327",
+      "slug": "kidleader-hcmc-winter",
+      "provider": "Kid LEADER Hub · Winter STEM / English",
+      "iso": "VNM",
+      "country": "Vietnam",
+      "place": "M7 Midtown · Phú Mỹ Hưng · District 7 · Ho Chi Minh City",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "science",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Camp 5–12; general terms 6–18",
+      "programme": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+      "language": "Curso promete expresamente aprender, comunicarse y presentar en inglés durante todo programa; docentes apoyan principiantes. Campamento EN concreto, sin deducirlo del idioma web.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "21 de diciembre 2026 – 8 de enero 2027, lunes–viernes 09–15:15; cerrado 1 de enero. Fuente no excluye 25 de diciembre. Widget dice 15 buổi, pero días laborables publicados sin 1 de enero suman 14: discrepancia conservada, sin inventar día quince.",
+        "sessions": [
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "variant_key": "winter-week-1",
+            "label": "Winter week 1",
+            "price": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T08:15:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T08:15:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T08:15:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T08:15:00Z"
+              },
+              {
+                "date": "2026-12-25",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-25T02:00:00Z",
+                "end_utc": "2026-12-25T08:15:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "winter-week-2",
+            "label": "Winter week 2",
+            "price": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T08:15:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T08:15:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T08:15:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T08:15:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "variant_key": "winter-week-3",
+            "label": "Winter week 3",
+            "price": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+            "source": "https://kidleaderhub.com/courses/winter-camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T08:15:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T08:15:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T08:15:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T08:15:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "15:15",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Grupos 5–7 y 8–12: LEGO robotics, coding, science lab, arts / culture, physical games, Young Leaders y proyectos financieros lúdicos. Scratch Jr para 5–7 sin lectura obligatoria. Facilitan dispositivos y material; acordar dificultad tras tres años de competiciones. Terms generales dicen 6–18 frente a camp 5–12: ambos en intersección, requiere contrato específico del camp.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T08:15:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "VND",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+        "included": "Programa facilita kits robóticos, tabletas e instrumentos de laboratorio. Verificar inclusiones completas y materiales obligatorios en factura.",
+        "extras": "Puede pedirse almuerzo al centro; opción adicional, inclusión / precio sin publicar. Permiten recoger al niño para almorzar. Depósito, devolución, equipo para casa y tarifas requieren factura aparte. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [
+        "both",
+        "technical"
+      ],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Actual winter curriculum, English, hours and equipment",
+          "url": "https://kidleaderhub.com/courses/winter-camp/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Specific 2026/27 dates and excluded January 1",
+          "url": "https://kidleaderhub.com/winter-camp-tphcm/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "General services ages, not a camp-specific refund agreement",
+          "url": "https://kidleaderhub.com/terms-condition/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1327-20261221-20261225-winter-week-1"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1327-20261228-20261231-winter-week-2"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1327-20270104-20270108-winter-week-3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1328",
+      "slug": "blank-space-saigon-winter",
+      "provider": "Blank Space Studio · Winter Art Camp",
+      "iso": "VNM",
+      "country": "Vietnam",
+      "place": "4 Nguyễn Quý Cảnh · An Khánh · Ho Chi Minh City",
+      "themes": [
+        "general",
+        "art",
+        "culture"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–12",
+      "programme": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+      "language": "Descripción de holiday camps indica Vietnamese y English. Programa bilingüe disponible, sin promesa de inglés exclusivo en cualquier grupo.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "bilingual",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Cuatro semanas: 14–18, 21–24, 28–31 de diciembre 2026 y 4–8 de enero 2027; mañana 09–12 o tarde 14–17. Cerrado 25 de diciembre y 1 de enero. Footer general Mon Closed contradice lunes del camp publicados; confirmar grupo elegido.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "variant_key": "week-1-am",
+            "label": "Winter art week 1 · am",
+            "price": "VND 4800000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T02:00:00Z",
+                "end_utc": "2026-12-14T05:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T02:00:00Z",
+                "end_utc": "2026-12-15T05:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T02:00:00Z",
+                "end_utc": "2026-12-16T05:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T02:00:00Z",
+                "end_utc": "2026-12-17T05:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T02:00:00Z",
+                "end_utc": "2026-12-18T05:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "variant_key": "week-1-pm",
+            "label": "Winter art week 1 · pm",
+            "price": "VND 4800000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T07:00:00Z",
+                "end_utc": "2026-12-14T10:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T07:00:00Z",
+                "end_utc": "2026-12-15T10:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T07:00:00Z",
+                "end_utc": "2026-12-16T10:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T07:00:00Z",
+                "end_utc": "2026-12-17T10:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T07:00:00Z",
+                "end_utc": "2026-12-18T10:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "week-2-am",
+            "label": "Winter art week 2 · am",
+            "price": "VND 4000000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T02:00:00Z",
+                "end_utc": "2026-12-21T05:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T02:00:00Z",
+                "end_utc": "2026-12-22T05:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T02:00:00Z",
+                "end_utc": "2026-12-23T05:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T02:00:00Z",
+                "end_utc": "2026-12-24T05:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "variant_key": "week-2-pm",
+            "label": "Winter art week 2 · pm",
+            "price": "VND 4000000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T07:00:00Z",
+                "end_utc": "2026-12-21T10:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T07:00:00Z",
+                "end_utc": "2026-12-22T10:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T07:00:00Z",
+                "end_utc": "2026-12-23T10:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T07:00:00Z",
+                "end_utc": "2026-12-24T10:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "week-3-am",
+            "label": "Winter art week 3 · am",
+            "price": "VND 4000000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T02:00:00Z",
+                "end_utc": "2026-12-28T05:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T02:00:00Z",
+                "end_utc": "2026-12-29T05:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T02:00:00Z",
+                "end_utc": "2026-12-30T05:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T02:00:00Z",
+                "end_utc": "2026-12-31T05:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "variant_key": "week-3-pm",
+            "label": "Winter art week 3 · pm",
+            "price": "VND 4000000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T07:00:00Z",
+                "end_utc": "2026-12-28T10:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T07:00:00Z",
+                "end_utc": "2026-12-29T10:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T07:00:00Z",
+                "end_utc": "2026-12-30T10:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T07:00:00Z",
+                "end_utc": "2026-12-31T10:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "variant_key": "week-4-am",
+            "label": "Winter art week 4 · am",
+            "price": "VND 4800000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T02:00:00Z",
+                "end_utc": "2027-01-04T05:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T02:00:00Z",
+                "end_utc": "2027-01-05T05:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T02:00:00Z",
+                "end_utc": "2027-01-06T05:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T02:00:00Z",
+                "end_utc": "2027-01-07T05:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T02:00:00Z",
+                "end_utc": "2027-01-08T05:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "variant_key": "week-4-pm",
+            "label": "Winter art week 4 · pm",
+            "price": "VND 4800000 + 8% VAT",
+            "source": "https://blankspace-studio.com/holiday-camps",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T07:00:00Z",
+                "end_utc": "2027-01-04T10:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T07:00:00Z",
+                "end_utc": "2027-01-05T10:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T07:00:00Z",
+                "end_utc": "2027-01-06T10:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T07:00:00Z",
+                "end_utc": "2027-01-07T10:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp artístico de media jornada: fluid art, splatter / motion painting, lienzos grupales y manualidades invernales. 5–8 niños, normalmente grupos 4–6 y 7–12 con suficientes inscritos. Descanso creativo, no robótica ni coding.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T07:00:00Z",
+                "end_utc": "2027-01-08T10:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "VND",
+        "amount": 1200000,
+        "unit": "child_half_day",
+        "label": "Antes de 8% VAT: media jornada suelta 1200000, paquete 4 días 4000000, 5 días 4800000. Antes del 30.11 early bird respectivamente 960000 / 3200000 / 3840000. VAT aparte; pago con tarjeta añade 3%, confirmar base de cálculo. Precios de bloque elegido de media jornada, no jornada completa.",
+        "included": "Merienda, materiales, delantales, herramientas y limpieza incluidos. Sin promesa de almuerzo completo ni supervisión entre bloques.",
+        "extras": "Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "Depósito VND 1000000 por plaza infantil, saldo primer día. Depósito incluido en precio, sin añadir otra vez. Devolución sin establecer: enlace Terms of Service devolvió portada, no contrato. Recoger obra tras 2–3 días laborables; entrega posible, precio aparte."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Actual camp languages, dated weeks, VAT and card fees",
+          "url": "https://blankspace-studio.com/holiday-camps",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Homepage conflicting full / closed camp banner",
+          "url": "https://blankspace-studio.com/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "unknown",
+        "label": "Estado contradictorio: holiday page Registration Open, portada Full / Registration Closed para mismo Winter Camp. Plazas sin confirmar; acordar antes de viajar."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261214-20261218-week-1-am"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261214-20261218-week-1-pm"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261221-20261224-week-2-am"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261221-20261224-week-2-pm"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261228-20261231-week-3-am"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20261228-20261231-week-3-pm"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20270104-20270108-week-4-am"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1328-20270104-20270108-week-4-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1329",
+      "slug": "anne-hill-winter-younger",
+      "provider": "Anne Hill · Winter Expedition younger",
+      "iso": "VNM",
+      "country": "Vietnam",
+      "place": "Primary Campus · 31 Giang Van Minh · An Khánh · Ho Chi Minh City",
+      "themes": [
+        "general",
+        "sport",
+        "art",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–7 · Years 1–3",
+      "programme": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Solo camp completo de 12 días: 14–18, 21–24 y 28–30 de diciembre 2026, 08:30–15:00. Sin compra semanal / flexible. Inscripción hasta 20 de noviembre, pago hasta 27 de noviembre; early bird 23 de octubre ya vencido.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-30",
+            "variant_key": "winter-full-camp-2026",
+            "label": "Winter Expedition · full 12-day camp",
+            "price": "VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio.",
+            "source": "https://annehill.school/holiday-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "deadline": "2026-11-20",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T01:30:00Z",
+                "end_utc": "2026-12-14T08:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T01:30:00Z",
+                "end_utc": "2026-12-15T08:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T01:30:00Z",
+                "end_utc": "2026-12-16T08:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T01:30:00Z",
+                "end_utc": "2026-12-17T08:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T01:30:00Z",
+                "end_utc": "2026-12-18T08:00:00Z"
+              },
+              {
+                "date": "2026-12-21",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T01:30:00Z",
+                "end_utc": "2026-12-21T08:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T01:30:00Z",
+                "end_utc": "2026-12-22T08:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T01:30:00Z",
+                "end_utc": "2026-12-23T08:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T01:30:00Z",
+                "end_utc": "2026-12-24T08:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T01:30:00Z",
+                "end_utc": "2026-12-28T08:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T01:30:00Z",
+                "end_utc": "2026-12-29T08:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T01:30:00Z",
+                "end_utc": "2026-12-30T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "VND",
+        "amount": 20400000,
+        "unit": "child_full_camp",
+        "label": "VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio.",
+        "included": "Almuerzo incluido. Escuela facilita equipo educativo necesario; acordar ropa / deporte y excursión adicional.",
+        "extras": "Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "PDF expresa que todos fees pagados son no reembolsables. Matrícula solo camp completo; invoice final tras inscripción. Sin formularios, consentimientos médicos ni contrato."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Open to school and external children; exact seasonal window",
+          "url": "https://annehill.school/holiday-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "2026 brochure · prices and separate age-group timetables",
+          "url": "https://annehill.school/wp-content/uploads/2026/10/AHI-Winter-Camp-2026-Booklet-2.pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1329-20261214-20261230-winter-full-camp-2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1330",
+      "slug": "anne-hill-winter-older",
+      "provider": "Anne Hill · Winter Expedition older",
+      "iso": "VNM",
+      "country": "Vietnam",
+      "place": "Primary Campus · 31 Giang Van Minh · An Khánh · Ho Chi Minh City",
+      "themes": [
+        "general",
+        "sport",
+        "art",
+        "science",
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–14 · Years 4–10",
+      "programme": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Solo camp completo de 12 días: 14–18, 21–24 y 28–30 de diciembre 2026, 08:30–15:00. Sin compra semanal / flexible. Inscripción hasta 20 de noviembre, pago hasta 27 de noviembre; early bird 23 de octubre ya vencido.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-30"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-30",
+            "variant_key": "winter-full-camp-2026",
+            "label": "Winter Expedition · full 12-day camp",
+            "price": "VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio.",
+            "source": "https://annehill.school/holiday-camps/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "deadline": "2026-11-20",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T01:30:00Z",
+                "end_utc": "2026-12-14T08:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T01:30:00Z",
+                "end_utc": "2026-12-15T08:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T01:30:00Z",
+                "end_utc": "2026-12-16T08:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T01:30:00Z",
+                "end_utc": "2026-12-17T08:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T01:30:00Z",
+                "end_utc": "2026-12-18T08:00:00Z"
+              },
+              {
+                "date": "2026-12-21",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T01:30:00Z",
+                "end_utc": "2026-12-21T08:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T01:30:00Z",
+                "end_utc": "2026-12-22T08:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T01:30:00Z",
+                "end_utc": "2026-12-23T08:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T01:30:00Z",
+                "end_utc": "2026-12-24T08:00:00Z"
+              },
+              {
+                "date": "2026-12-28",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T01:30:00Z",
+                "end_utc": "2026-12-28T08:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T01:30:00Z",
+                "end_utc": "2026-12-29T08:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "08:30",
+                "end_time": "15:00",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "topic": "Camp general diurno. Group A 5–7 / Years 1–3: deporte, art, handwriting, STEM miércoles; sin robotics / coding en su sample timetable. Group B 8–10 y C 8–14: robotics miércoles y coding jueves, más deporte / STEM. Programas de Matvey y Oscar distintos; placement C depende de inscritos. 18 de diciembre es excursión, sin clases normales.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T01:30:00Z",
+                "end_utc": "2026-12-30T08:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "VND",
+        "amount": 20400000,
+        "unit": "child_full_camp",
+        "label": "VND 20400000 por niño 5–14 / camp completo. Hermano menor −10% tuition: ambos 38760000 con placement confirmado. Early bird antiguo −10% sin aplicar. Bus 1600000 un trayecto / 2200000 ida y vuelta; aftercare 15–17 a 250000 / hora, confirmar unidades del servicio.",
+        "included": "Almuerzo incluido. Escuela facilita equipo educativo necesario; acordar ropa / deporte y excursión adicional.",
+        "extras": "Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte.",
+        "deposit": "PDF expresa que todos fees pagados son no reembolsables. Matrícula solo camp completo; invoice final tras inscripción. Sin formularios, consentimientos médicos ni contrato."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Open to school and external children; exact seasonal window",
+          "url": "https://annehill.school/holiday-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "2026 brochure · prices and separate age-group timetables",
+          "url": "https://annehill.school/wp-content/uploads/2026/10/AHI-Winter-Camp-2026-Booklet-2.pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1330-20261214-20261230-winter-full-camp-2026"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -214370,7 +216604,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 167,
+  "version": 168,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -230019,6 +232253,111 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1321",
+      "event_id": "CP1321-20270121-20270122-lego-wedo-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1322",
+      "event_id": "CP1322-20270125-20270127-lego-spike-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1323",
+      "event_id": "CP1323-20270125-20270127-minecraft-redstone-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1323",
+      "event_id": "CP1323-20270128-20270129-minecraft-redstone-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1324",
+      "event_id": "CP1324-20270128-20270129-minecraft-makecode-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1324",
+      "event_id": "CP1324-20270201-20270203-minecraft-makecode-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1325",
+      "event_id": "CP1325-20270201-20270203-vex-go-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1326",
+      "event_id": "CP1326-20270121-20270122-3d-printing-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1327",
+      "event_id": "CP1327-20261221-20261225-winter-week-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1327",
+      "event_id": "CP1327-20261228-20261231-winter-week-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1327",
+      "event_id": "CP1327-20270104-20270108-winter-week-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261214-20261218-week-1-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261214-20261218-week-1-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261221-20261224-week-2-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261221-20261224-week-2-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261228-20261231-week-3-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20261228-20261231-week-3-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20270104-20270108-week-4-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1328",
+      "event_id": "CP1328-20270104-20270108-week-4-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1329",
+      "event_id": "CP1329-20261214-20261230-winter-full-camp-2026",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1330",
+      "event_id": "CP1330-20261214-20261230-winter-full-camp-2026",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -232925,10 +235264,31 @@
     "CP1314-20261223-20261223-nort-older-christmas-2026",
     "CP1315-20261223-20261223-auray-christmas-2026",
     "CP1316-20261221-20261223-bright-christmas-2026",
-    "CP1319-20261228-20270105-hogwarts-christmas-2026"
+    "CP1319-20261228-20270105-hogwarts-christmas-2026",
+    "CP1321-20270121-20270122-lego-wedo-1",
+    "CP1322-20270125-20270127-lego-spike-1",
+    "CP1323-20270125-20270127-minecraft-redstone-1",
+    "CP1323-20270128-20270129-minecraft-redstone-2",
+    "CP1324-20270128-20270129-minecraft-makecode-1",
+    "CP1324-20270201-20270203-minecraft-makecode-2",
+    "CP1325-20270201-20270203-vex-go-1",
+    "CP1326-20270121-20270122-3d-printing-1",
+    "CP1327-20261221-20261225-winter-week-1",
+    "CP1327-20261228-20261231-winter-week-2",
+    "CP1327-20270104-20270108-winter-week-3",
+    "CP1328-20261214-20261218-week-1-am",
+    "CP1328-20261214-20261218-week-1-pm",
+    "CP1328-20261221-20261224-week-2-am",
+    "CP1328-20261221-20261224-week-2-pm",
+    "CP1328-20261228-20261231-week-3-am",
+    "CP1328-20261228-20261231-week-3-pm",
+    "CP1328-20270104-20270108-week-4-am",
+    "CP1328-20270104-20270108-week-4-pm",
+    "CP1329-20261214-20261230-winter-full-camp-2026",
+    "CP1330-20261214-20261230-winter-full-camp-2026"
   ],
   "integration": {
-    "generated_sessions": 2846,
+    "generated_sessions": 2867,
     "reused_legacy_events": 69,
     "seasonal_windows": 54,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

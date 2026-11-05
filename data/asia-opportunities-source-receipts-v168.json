@@ -1,0 +1,550 @@
+{
+  "version": 168,
+  "checked": "2026-11-05",
+  "scope": "primary_source_response_hashes",
+  "requests": [
+    {
+      "key": "kidleader-winter-course",
+      "url": "https://kidleaderhub.com/courses/winter-camp/",
+      "final_url": "https://kidleaderhub.com/courses/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 137329,
+      "sha256": "087db69feeaf14a23911d42a017c96f3d31e124a153fa1e209dd3005e255d148",
+      "file": "kidleader-winter-course.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "kidleader-current-terms",
+      "url": "https://kidleaderhub.com/terms-condition/",
+      "final_url": "https://kidleaderhub.com/terms-condition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78740,
+      "sha256": "de63b7727b334d2b56c23397d85aa2814c234117d9c9558b64b5d4779c967bc7",
+      "file": "kidleader-current-terms.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-guideline-folder",
+      "url": "https://drive.google.com/drive/folders/1GYmsOTVyN1j11R8ERvVWY1b1P9PDE_9M",
+      "final_url": "https://drive.google.com/drive/folders/1GYmsOTVyN1j11R8ERvVWY1b1P9PDE_9M",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 315998,
+      "sha256": "8f60ec02513f5ab9f4850648d47e251927f5d63ad57da5a94534aa3905bb1dd2",
+      "file": "rcjj-guideline-folder.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-kanto",
+      "url": "https://rcjj-kanto.org/",
+      "final_url": "https://rcjj-kanto.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 138842,
+      "sha256": "4e43a22492336d35fba00a623e0fb7b07fe38075e4967423b1d2e6b909d50e84",
+      "file": "rcjj-kanto.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-saitama",
+      "url": "https://rcjj-saitama.org/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rcjj-saitama.org'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "halo-camp",
+      "url": "https://www.haloschool.tw/halocamp/",
+      "final_url": "https://www.haloschool.tw/halocamp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120703,
+      "sha256": "5fe03f1a14c06e6fef86e3dca2209886dad636ad9a99ece1a6767b40ec6e053d",
+      "file": "halo-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ai-expo-zh",
+      "url": "https://ai-expo.tw/exhibit.html",
+      "final_url": "https://ai-expo.tw/exhibit.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 90835,
+      "sha256": "8e71f7b4441e9464ffdbd5682d194c00a0343086b31e8dbc67f1d543da17de24",
+      "file": "ai-expo-zh.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "blank-camp",
+      "url": "https://blankspace-studio.com/autumn-camp",
+      "final_url": "https://blankspace-studio.com/autumn-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 149056,
+      "sha256": "fad304a009f2520d2cf1bfdd1d5250f1920aa0fcf4b55b79cfcb9000de023095",
+      "file": "blank-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "kidleader-home",
+      "url": "https://kidleaderhub.com/",
+      "final_url": "https://kidleaderhub.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 161057,
+      "sha256": "c26cb497c70a5bbecc67804c46251b7fd428c64fa1ab1b5958c6eecd0bad559b",
+      "file": "kidleader-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "kidleader-winter-blog",
+      "url": "https://kidleaderhub.com/winter-camp-tphcm/",
+      "final_url": "https://kidleaderhub.com/winter-camp-tphcm/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 136066,
+      "sha256": "b1a0b96561bbf9b4efb639d8aedbc6745c0185accae1d76a45eaf3bf431be23a",
+      "file": "kidleader-winter-blog.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "anne-hill-camps",
+      "url": "https://annehill.school/holiday-camps/",
+      "final_url": "https://annehill.school/holiday-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 243752,
+      "sha256": "1cbe526b87e633d519c4e5fc6cc9f26d4b2557e83c498d873fbdd8b2d90c647d",
+      "file": "anne-hill-camps.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "british-tw-winter",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "grove-tw-winter",
+      "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+      "final_url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35006,
+      "sha256": "83f6ac26ef946686fe0cf03e56415ae18d764b969c14369f1c4512b5ef5d09ca",
+      "file": "grove-tw-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "wenzao-winter",
+      "url": "https://a001.wzu.edu.tw/article/530275",
+      "final_url": "https://a001.wzu.edu.tw/article/530275",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46627,
+      "sha256": "839783829d48b4295407c5712821549d2c334363f7a4becf2418514a10023f8d",
+      "file": "wenzao-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-tokyo",
+      "url": "https://rcjj-kanto.org/tokyokanagawa2027/",
+      "final_url": "https://rcjj-kanto.org/tokyokanagawa2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63107,
+      "sha256": "e530ab51954f142b9a425abbc93c3006d51e38d7ad8dfee62afdc4841aff56b3",
+      "file": "rcjj-tokyo.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-chiba",
+      "url": "https://rcjj-kanto.org/chiba2027/",
+      "final_url": "https://rcjj-kanto.org/chiba2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 63620,
+      "sha256": "2dcfc61876368a04430cd1f9b70accef802d57761866c415498b85fec86413d9",
+      "file": "rcjj-chiba.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-kanto-event",
+      "url": "https://rcjj-kanto.org/kanto2027/",
+      "final_url": "https://rcjj-kanto.org/kanto2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62083,
+      "sha256": "5b139da34132394df2db583463447868d9e39a9bb3736a466f851c45b7d2a835",
+      "file": "rcjj-kanto-event.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "aw-visitor",
+      "url": "https://www.automationworld.co.kr/sub-08?hl=en",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "blank-holiday",
+      "url": "https://blankspace-studio.com/holiday-camps",
+      "final_url": "https://blankspace-studio.com/holiday-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 94585,
+      "sha256": "56d3fd66909c7789a7b3823b9d47c0e202511904926f2886c6c1b309c3589679",
+      "file": "blank-holiday.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "blank-terms",
+      "url": "https://blankspace-studio.com/terms-of-service",
+      "final_url": "https://blankspace-studio.com/terms-of-service",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 149056,
+      "sha256": "e406c395195f22275be8f9486cec1f08580650a1b1023df3c17248c97d6bb509",
+      "file": "blank-terms.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "anne-booklet-pdf",
+      "url": "https://annehill.school/wp-content/uploads/2026/10/AHI-Winter-Camp-2026-Booklet-2.pdf",
+      "final_url": "https://annehill.school/wp-content/uploads/2026/10/AHI-Winter-Camp-2026-Booklet-2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 10199630,
+      "sha256": "4082e1b7ab689fba30a629054763bb6a303a1a99312d8702f92c2d459d1a1eae",
+      "file": "anne-booklet-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-kanto-ai",
+      "url": "https://rcjj-kanto.org/kanto/archives/2457/",
+      "final_url": "https://rcjj-kanto.org/kanto/archives/2457",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66150,
+      "sha256": "e88a5c4c4d4231aba426019761fd9abfa5673bc9282c76cfe08aa3f3649d88da",
+      "file": "rcjj-kanto-ai.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "aw-guide-noquery",
+      "url": "https://www.automationworld.co.kr/sub-08",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "aw-korean-guide",
+      "url": "https://www.automationworld.co.kr/sub-8",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "kidleader-terms",
+      "url": "https://kidleaderhub.com/dieu-khoan-dieu-kien/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "rcjj-home",
+      "url": "https://www.robocupjunior.jp/",
+      "final_url": "https://www.robocupjunior.jp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 24363,
+      "sha256": "1a6acf36cd4f615ce8a106190ea07373f5841f575122cbacb3de19c962758752",
+      "file": "rcjj-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-2027-outline",
+      "url": "https://www.robocupjunior.jp/2027amagasaki_outline.html",
+      "final_url": "https://www.robocupjunior.jp/2027amagasaki_outline.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8304,
+      "sha256": "f822f6ed0224975c45af0cea0fbef2aad8d60ed6377a0c1b3988d6e5e9eb58ed",
+      "file": "rcjj-2027-outline.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-blocks",
+      "url": "https://www.robocupjunior.jp/regional-block.html",
+      "final_url": "https://www.robocupjunior.jp/regional-block.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14556,
+      "sha256": "9da6729dbaa3b6bad5526b7128adbc029c79652160f4c89483bef22d0f4fe663",
+      "file": "rcjj-blocks.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "halo-winter",
+      "url": "https://www.haloschool.tw/",
+      "final_url": "https://www.haloschool.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 105210,
+      "sha256": "08b84da56bafef555eedaf7f0e12ab13a9e5eb80e4396fb73708e2992937df7d",
+      "file": "halo-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "stark-winter-en",
+      "url": "https://www.starklabtw.com/en/programs/winter-2027",
+      "final_url": "https://www.starklabtw.com/en/programs/winter-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 60452,
+      "sha256": "a3bf4243fae405ec4cec53390e817e9577dbe60decec17cd403dad5c978a2b6b",
+      "file": "stark-winter-en.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "stark-tinker-en",
+      "url": "https://www.starklabtw.com/en/programs/tinker-lab",
+      "final_url": "https://www.starklabtw.com/en/programs/tinker-lab",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37392,
+      "sha256": "b00c3bbf32a094a9488ef80396accfd22da6cbcaf8ad2a1c720c2ea06d743774",
+      "file": "stark-tinker-en.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ai-expo-tw",
+      "url": "https://ai-expo.tw/",
+      "final_url": "https://ai-expo.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 55,
+      "sha256": "e8319bbf57fc8d5a2b94e793f2f63de1c98a3657cd2b37fee960e7772c84fa52",
+      "file": "ai-expo-tw.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robotworld-visitors",
+      "url": "https://eng.robotworld.or.kr/visitors/information.php",
+      "final_url": "https://eng.robotworld.or.kr/visitors/information.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 792,
+      "sha256": "01ddd66c0802be32b46fcd49fa865679ed106d752fe2dc0eef4772210eec29dc",
+      "file": "robotworld-visitors.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "robonext-en",
+      "url": "https://robonext.nikkan.co.jp/?lang=en",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "firstjapan-home",
+      "url": "https://firstjapan.jp/",
+      "final_url": "https://firstjapan.jp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36165,
+      "sha256": "89e15aefef828db07274f3df544974badfb7cb3cc485e5d13cb397e3599a3fd6",
+      "file": "firstjapan-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "airex-official",
+      "url": "https://tairex.chanchao.com.tw/",
+      "final_url": "https://tairex.chanchao.com.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 306338,
+      "sha256": "9f228ea6bfac80533bae34acfbe5d00e7eed2d16195b41431c1055bcf9be6d68",
+      "file": "airex-official.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-2027-rules",
+      "url": "https://www.robocupjunior.jp/2027amagasaki_rule.html",
+      "final_url": "https://www.robocupjunior.jp/2027amagasaki_rule.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6898,
+      "sha256": "f97af23dc47180a1aecc7b22d0779667a795cc63d78da4f13d17d911bd0ec4b7",
+      "file": "rcjj-2027-rules.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fllj-explore",
+      "url": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "final_url": "https://firstjapan.jp/events/fll-explore-2026-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46300,
+      "sha256": "3070e09361afdcf242ae1c6228be5619a915b4ce0192503ccd607acef57f87bb",
+      "file": "fllj-explore.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fllj-challenge",
+      "url": "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+      "final_url": "https://firstjapan.jp/events/fll-challenge-2026-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44003,
+      "sha256": "4f220b70ca2f7d7f84479383f417ba59a0ec110fd110372c4d77c9b1e85cb0ac",
+      "file": "fllj-challenge.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ai-expo-www",
+      "url": "https://www.ai-expo.tw/",
+      "final_url": "https://www.ai-expo.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 55,
+      "sha256": "e8319bbf57fc8d5a2b94e793f2f63de1c98a3657cd2b37fee960e7772c84fa52",
+      "file": "ai-expo-www.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ai-expo-en",
+      "url": "https://ai-expo.tw/en/exhibit.html",
+      "final_url": "https://ai-expo.tw/en/exhibit.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 94153,
+      "sha256": "96949576093872cec5d21e209591d34feb103d703cc6b1ba290e61424d7dbbfe",
+      "file": "ai-expo-en.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "ai-expo-visit",
+      "url": "https://www.ai-expo.tw/en/early_visit.html",
+      "final_url": "https://www.ai-expo.tw/en/early_visit.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39803,
+      "sha256": "cab1a0def0ebbe7532d2fe2deb4812df3ca856a16d95aadf258bcfdc57e9ff62",
+      "file": "ai-expo-visit.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-venue-guidelines-pdf",
+      "url": "https://www.robocupjunior.jp/docs/RCJJ-VenueProposal-Guidelines.pdf",
+      "final_url": "https://www.robocupjunior.jp/docs/RCJJ-VenueProposal-Guidelines.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 137805,
+      "sha256": "a15136d0f3d638953c4c23cefbbac6e289951afce899b72e56e9483580693c0a",
+      "file": "rcjj-venue-guidelines-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "rcjj-2027-guideline-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW",
+      "final_url": "https://drive.usercontent.google.com/download?id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 1292267,
+      "sha256": "cfcb2dbcca8522db29d4512027b60cc475d6052180d304add1aafee2a540b3c5",
+      "file": "rcjj-2027-guideline-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "siif-2026-host",
+      "url": "https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/",
+      "final_url": "https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44802,
+      "sha256": "e27c205a8bc1fed826b88bf563cb4f7583d13a081aa22d2bd12ee676070dd63e",
+      "file": "siif-2026-host.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "aw-2027",
+      "url": "https://www.automationworld.co.kr/?hl=en",
+      "final_url": "https://www.automationworld.co.kr/?hl=en",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 594389,
+      "sha256": "c3edb2ea7e2d67d905725601ce55917690dbe7f85eff21db91f15f99da6c7bbf",
+      "file": "aw-2027.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "aw-visit-info",
+      "url": "https://www.automationworld.co.kr/sub-8?hl=en",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "aw-qa",
+      "url": "https://www.automationworld.co.kr/sub-10",
+      "final_url": "https://www.automationworld.co.kr/sub-10",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 575816,
+      "sha256": "eb22c69b4152b6f255bc561881e1cd58ec1cd40c19ff38481c16d6cdf127b208",
+      "file": "aw-qa.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fllj-future",
+      "url": "https://firstjapan.jp/events/fll-future-edition-8/",
+      "final_url": "https://firstjapan.jp/events/fll-future-edition-8/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45014,
+      "sha256": "f0dc0cdbde3061b3c06a604704fdeeccbbbaea591b99aba0217be4557396291f",
+      "file": "fllj-future.html",
+      "response_hash_verified": true
+    }
+  ],
+  "request_count": 49,
+  "hash_verified": 41,
+  "failures": [
+    {
+      "key": "rcjj-saitama",
+      "url": "https://rcjj-saitama.org/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rcjj-saitama.org'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "british-tw-winter",
+      "url": "https://www.britishcouncil.org.tw/en/english/young-learners/primary/winter-holiday-course",
+      "error": "The read operation timed out"
+    },
+    {
+      "key": "aw-visitor",
+      "url": "https://www.automationworld.co.kr/sub-08?hl=en",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "aw-guide-noquery",
+      "url": "https://www.automationworld.co.kr/sub-08",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "aw-korean-guide",
+      "url": "https://www.automationworld.co.kr/sub-8",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "kidleader-terms",
+      "url": "https://kidleaderhub.com/dieu-khoan-dieu-kien/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "robonext-en",
+      "url": "https://robonext.nikkan.co.jp/?lang=en",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "aw-visit-info",
+      "url": "https://www.automationworld.co.kr/sub-8?hl=en",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "response_stubs_not_used_as_fact_proof": [
+    "ai-expo-tw",
+    "ai-expo-www",
+    "robotworld-visitors"
+  ],
+  "fallback_pages_not_used_as_contracts": [
+    "blank-terms"
+  ]
+}

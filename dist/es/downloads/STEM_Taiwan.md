@@ -173,16 +173,16 @@ Comprobado: 2026-10-01
 
 ### E025 · AI EXPO Taiwan 2027
 
-Fecha: En la fuente 24–26.03.2027; La referencia lleva a la vista 2026, no prueba 2027
-Edad: No se ha establecido la admisión de niños
+Fecha: 2027-03-24 — 2027-03-26
+edad: Entrada infantil de 6 / 9 años sin establecer.
 Matway: Condicional
 Óscar: Condicional
-Idioma: ZH / EN
-Entrada: Necesito una notificación, 2027 + visitator age policy
-Costo: No publicado / Comprobar la edición actual
-Limitaciones: La compatibilidad por edades no es igual a la admisión a un determinado torneo
-Fuente: https://ai-expo.tw/about_2026.html
-Comprobado: 2026-09-29
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Acceso: Visitor pre-registration separado de exhibitor interest. Exposición B2B; formulario de interés no es entrada ni acceso infantil confirmado.
+Precio: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Limitaciones: Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.
+Fuente: https://ai-expo.tw/en/exhibit.html
+Se ha comprobado: 2026-11-05
 
 ### E027 · Maker Faire Taipei 2026
 
@@ -1547,6 +1547,110 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · NTD 22000 / early 19800 · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Devoluciones, depósito, pago, dirección exacta Qingpu y acceso extranjero individual sin publicar en winter / FAQ leídos; acordar aparte.
 Fuente: https://goodgoodenglish.com/en/summer-winter-camps-en/
+Se ha comprobado: 2026-11-05
+
+### CP1321-20270121-20270122-lego-wedo-1 · Halo School · LEGO mechanics & WeDo · LEGO mechanics & WeDo · 1 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1322-20270125-20270127-lego-spike-1 · Halo School · LEGO SPIKE Challenge · LEGO SPIKE Challenge · 1 · 2027-01-25–2027-01-27
+
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1323-20270125-20270127-minecraft-redstone-1 · Halo School · Minecraft Redstone · Minecraft Redstone · 1 · 2027-01-25–2027-01-27
+
+Fecha: 2027-01-25 国 2027-01-27
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1323-20270128-20270129-minecraft-redstone-2 · Halo School · Minecraft Redstone · Minecraft Redstone · 2 · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grades 1–3
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1324-20270128-20270129-minecraft-makecode-1 · Halo School · Minecraft MakeCode · Minecraft MakeCode · 1 · 2027-01-28–2027-01-29
+
+Fecha: 2027-01-28 - 2027-01-29
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 4280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1324-20270201-20270203-minecraft-makecode-2 · Halo School · Minecraft MakeCode · Minecraft MakeCode · 2 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1325-20270201-20270203-vex-go-1 · Halo School · VEX GO RC Battles · VEX GO RC Battles · 1 · 2027-02-01–2027-02-03
+
+Fecha: 2027-02-01 国 2027-02-03
+Edad: Grades 1–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 6280 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
+Se ha comprobado: 2026-11-05
+
+### CP1326-20270121-20270122-3d-printing-1 · Halo School · 3D Printing & Tinkercad · 3D Printing & Tinkercad · 1 · 2027-01-21–2027-01-22
+
+Fecha: 2027-01-21 国 2027-01-22
+edad: Grades 3–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · TWD 5200 + 800 materials · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://www.haloschool.tw/halocamp/
 Se ha comprobado: 2026-11-05
 
 ## ~ Comprobar de nuevo

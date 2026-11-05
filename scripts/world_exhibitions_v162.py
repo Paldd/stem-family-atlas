@@ -43,6 +43,7 @@ LAUNCH=T('Новый региональный выпуск международ�
 def ref(label,url):return dict(label=label,url=url)
 def event(i,name,iso,city,start,end,url,themes,highlights,**fields):
  countries={'CHN':('Китай','Азия'),'GBR':('Великобритания','Европа'),'BRA':('Бразилия','Южная Америка'),'ITA':('Италия','Европа'),'SRB':('Сербия','Европа'),'IND':('Индия','Азия'),'KAZ':('Казахстан','Азия'),'VNM':('Вьетнам','Азия'),'KEN':('Кения','Африка'),'EGY':('Египет','Африка')}
+ countries['KOR']=('Южная Корея','Азия')
  country,region=countries[iso]
  e=dict(id='E'+str(i),block='События',title=name,country=country,region=region,city=city,start=start,end=end,period='',date_status='Подтверждено' if start else 'Уточнить',deadline='',age=UNKNOWN,mat=CONDITIONAL,osc=CONDITIONAL,
   format=T('Посетитель выставки','Visitante de exposición'),entry=T('Деловой посетитель: проверить регистрацию, документы и категорию билета; детский доступ отдельно.',

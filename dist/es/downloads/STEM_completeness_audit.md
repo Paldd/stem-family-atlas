@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5006; competiciones: 1451; eventos: 234; campamentos / programas: 3321. Perfiles de ligas y programas: 153. Fichas de exposiciones grandes y especializadas: 149 — son ediciones y sedes, no número de marcas únicas.
+Fichas en la base: 5045; competiciones: 1467; eventos: 236; campamentos / programas: 3342. Perfiles de ligas y programas: 154. Fichas de exposiciones grandes y especializadas: 151 — son ediciones y sedes, no número de marcas únicas.
 
 Hay registros específicos para 97 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
 
@@ -18,12 +18,12 @@ Hay registros específicos para 97 de 249 países y territorios; países auditad
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 23 | 178 | 50 | 1188 |
 | África | 16 | 73 | 7 | 42 |
-| Asia | 29 | 369 | 64 | 918 |
+| Asia | 29 | 385 | 66 | 939 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1451 tarjetas de competiciones (35.7%). Es un desequilibrio evidente de cobertura.
+VEX: 518 de 1467 fichas de competiciones (35.3%). Hay un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -243,6 +243,7 @@ VEX: 518 de 1451 tarjetas de competiciones (35.7%). Es un desequilibrio evidente
 - **Eduvisión Robotics Challenge Panamá**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eduvisionpnm.com/challenge/
 - **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 fichas, 98 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstrobotics.kz/
 - **Zambia JETS · Digital, Robotics & Intelligent Systems**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.dnsc.gov.zm/jets26/index.php?year=2026
+- **RoboCupJunior Japan · World / Challenge Class**: 16 fichas, 16 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -267,7 +268,7 @@ VEX: 518 de 1451 tarjetas de competiciones (35.7%). Es un desequilibrio evidente
 - **Touch Taiwan 2027** — Taiwán; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.touchtaiwan.com/visitor.asp
 - **COMPUTEX 2027** — Taiwán; 2027-06-01 – 2027-06-04. Los niños del 6/9 no pueden. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
 - **Smart City Summit & Expo 2027** Taiwán; 2027-03-16 2027-03-19. https://smartcity.org.tw/smartcity.php
-- **AI EXPO Taiwan 2027** Taiwán; fecha desconocida: permiso para niños. https://ai-expo.tw/about_2026.html
+- **AI EXPO Taiwan 2027** — Taiwán; 2027-03-24 – 2027-03-26. el permiso de entrada de niños. https://ai-expo.tw/en/exhibit.html
 - **Maker Faire Taipei 2026** Taiwán; 2026-10-24 国 2026-10-25; con adultos; condiciones de entrada de adultos separadas. https://makerfaire.com/upcoming-faires/
 - **World Robot Conference 2027 · apertura anunciada; periodo completo pendiente** — China; 2027-08-18. Confirmar admisión infantil. https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html
 - **WAIC JIU World Artificial Intelligence Conference, Shanghai · próxima edición** China; se desconoce la fecha. https://www.worldaic.com.cn/
@@ -398,6 +399,8 @@ VEX: 518 de 1451 tarjetas de competiciones (35.7%). Es un desequilibrio evidente
 - **GITEX AI Vietnam · fechas de edición por contrastar** — Vietnam; fecha desconocida. Niños de 6/9 no admitidos. https://gitexvietnam.com/
 - **AI Everything Kenya × GITEX Kenya · próxima edición / confirmar horario** — Kenia; fecha desconocida. Niños de 6/9 no admitidos. https://www.aieverythingkenya.com/register
 - **Ai Everything MEA Egypt 2027** — Egipto; fecha desconocida. Confirmar admisión infantil. https://www.aieverythingegypt.com/
+- **Seoul International Invention Fair · SIIF 2026** — Corea del Sur; 2026-12-02 – 2026-12-05. el permiso de entrada de niños. https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/
+- **Automation World · AW 2027** — Corea del Sur; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.automationworld.co.kr/?hl=en
 
 ## ~ Añadida en esta versión
 

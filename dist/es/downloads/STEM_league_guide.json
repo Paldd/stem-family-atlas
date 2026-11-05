@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 166,
+    "version": 168,
     "checked": "2026-11-05",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -13360,6 +13360,174 @@
         "evidence": "Fuente oficial leída; condiciones desconocidas conservadas expresamente."
       },
       {
+        "id": "rcj-japan",
+        "name": "RoboCupJunior Japan · World / Challenge Class",
+        "group": "regional",
+        "age_summary": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+        "categories": [
+          {
+            "name": "Soccer Vision",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Soccer Rules 2027 · Vision local rules",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1453"
+          },
+          {
+            "name": "Soccer Infrared",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Soccer Rules 2027 · new official IR ball",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1454"
+          },
+          {
+            "name": "Soccer Youth",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Soccer 2027 · RCJ-05R",
+            "entry": "No superar junior high; actuaciones anteriores sin límite. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1455"
+          },
+          {
+            "name": "Soccer Entry",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Soccer 2027 local rules · RCJ-05R",
+            "entry": "Excluye experiencia previa Japan Open Soccer Entry / Japan League; online 2021 no cuenta. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1456"
+          },
+          {
+            "name": "Rescue Line",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Rescue Line 2026 + announced local amendments",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1457"
+          },
+          {
+            "name": "Rescue Maze",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Rescue Maze 2026 + announced local amendments",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1458"
+          },
+          {
+            "name": "Rescue Simulation",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Rescue Simulation 2026 · Erebus 26.1",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1459"
+          },
+          {
+            "name": "Rescue Line Entry",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "1–2 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Japanese Rescue Line Entry 2026 + local amendments",
+            "entry": "Excluye experiencia previa Japan Open Rescue Line Entry. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1460"
+          },
+          {
+            "name": "Rescue Maze Entry",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "1–2 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Japanese Rescue Maze Entry 2026 + local amendments",
+            "entry": "Excluye World Rescue Maze previo en Japan Open o top 3 Maze Entry. Simple participación Entry anterior permitida. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1461"
+          },
+          {
+            "name": "Rescue Simulation Entry",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "1–2 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Simplified Rescue Simulation 2026 · Erebus 26.1",
+            "entry": "Excluye World Rescue Simulation previo en Japan Open. Entry nueva: sin zonas 3–4, floating tiles ni victims con letras; dificultad reducida, no juego libre en cualquier simulador. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1462"
+          },
+          {
+            "name": "RCAP CoSpace Autonomous Driving",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "1–4 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "RCAP 2023 U-19 · CoSpace Auto-Driving 2022 V22.4.4",
+            "entry": "Última edición de esta disciplina en Japan Open en 2027. Máximo 19 al 01.07.2027, sin límite adicional junior-high. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1463"
+          },
+          {
+            "name": "OnStage",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "2–5 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "Domestic rules based on RoboCup 2026 OnStage",
+            "entry": "Menores pueden competir en World Class doméstico, sin sustituir criterios internacionales ni cupo. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1464"
+          },
+          {
+            "name": "OnStage Entry",
+            "age": "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+            "team": "1–6 integrantes + mentor 18+; mentor mundial 19+.",
+            "hardware": "OnStage Challenge Class rulebook",
+            "entry": "Excluye World OnStage previo en Japan Open o top 3 antigua OnStage Japan League; online 2021 no cuenta. Simple participación Entry anterior permitida. Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+            "event_id": "C1465"
+          }
+        ],
+        "event_ids": [
+          "C1453",
+          "C1454",
+          "C1455",
+          "C1456",
+          "C1457",
+          "C1458",
+          "C1459",
+          "C1460",
+          "C1461",
+          "C1462",
+          "C1463",
+          "C1464",
+          "C1465",
+          "C1466",
+          "C1467",
+          "C1468"
+        ],
+        "legacy_ids": [],
+        "route": "Ruta doméstica: node cercano a residencia → block → recomendación a Japan Open. PDF contempla overseas slots, pero solicitud concreta de familia extranjera, cupo y plazos sin establecer. Nombre Open no implica acceso familiar libre. Equipo queda fijado desde primera selección; sin añadir / sustituir integrantes después.",
+        "hardware": "Soccer / Rescue autónomos, simuladores Erebus y CoSpace, robot escénico; límites locales según disciplina.",
+        "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Ruta doméstica: node cercano a residencia → block → recomendación a Japan Open. PDF contempla overseas slots, pero solicitud concreta de familia extranjera, cupo y plazos sin establecer. Nombre Open no implica acceso familiar libre. Equipo queda fijado desde primera selección; sin añadir / sustituir integrantes después.",
+          "Límite japonés general ≤19 al 01.07.2027, sin edad mínima. Challenge Entry / Youth además exigen no superar junior high en block. Deben explicar robot propio; compatibilidad de edad no acredita capacidad, admisión ni selección mundial.",
+          "Requiere póster para publicación Web: A3 landscape PDF ≤20MB; comité técnico fija nombre de archivo y plazos. Cumplir reglas de baterías; al menos 1 representante del equipo (mentor, padre o antiguo participante) ayuda como voluntario en el torneo.",
+          "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Kanto 2027: AI / bibliotecas no autorizan presentar trabajo ajeno. Niño debe entender algoritmo, explicar AI utilizado, instrucciones y construcción propia; robot del mentor prohibido. Aclaración local, no reglamento universal de ligas.",
+          "Solo World Class selecciona recomendaciones a RoboCup 2027; ganar Challenge Class no clasifica al mundial. Este Japan Open no selecciona recomendaciones RCAP / otros superregional."
+        ],
+        "cost": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+        "award": "Solo World Class selecciona recomendaciones a RoboCup 2027; ganar Challenge Class no clasifica al mundial. Este Japan Open no selecciona recomendaciones RCAP / otros superregional.",
+        "sources": [
+          {
+            "title": "2027 guidelines · v1.0 · 25 Sep 2026",
+            "url": "https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "National dates",
+            "url": "https://www.robocupjunior.jp/2027amagasaki_outline.html",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -13752,7 +13920,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "153 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "154 perfiles de ligas, familias y programas; se conservan las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM locales y BajaBot descritos por categoría. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

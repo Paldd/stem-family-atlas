@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5006,
-    "competition_cards": 1451,
-    "event_cards": 234,
-    "camp_cards": 3321,
-    "league_profiles": 153,
-    "major_exhibition_cards": 149,
+    "cards": 5045,
+    "competition_cards": 1467,
+    "event_cards": 236,
+    "camp_cards": 3342,
+    "league_profiles": 154,
+    "major_exhibition_cards": 151,
     "vex_cards": 518,
     "countries_with_records": 97,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 1359,
+      "total": 1398,
       "countries_with_records": 29,
-      "competitions": 369,
-      "events": 72,
-      "major_exhibitions": 64,
-      "camps": 918,
+      "competitions": 385,
+      "events": 74,
+      "major_exhibitions": 66,
+      "camps": 939,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -3524,6 +3524,35 @@
       "new": false
     },
     {
+      "id": "rcj-japan",
+      "name": "RoboCupJunior Japan · World / Challenge Class",
+      "group": "regional",
+      "event_ids": [
+        "C1453",
+        "C1454",
+        "C1455",
+        "C1456",
+        "C1457",
+        "C1458",
+        "C1459",
+        "C1460",
+        "C1461",
+        "C1462",
+        "C1463",
+        "C1464",
+        "C1465",
+        "C1466",
+        "C1467",
+        "C1468"
+      ],
+      "cards": 16,
+      "future_dated": 16,
+      "linked_card_count": 16,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -3777,10 +3806,10 @@
       "name": "AI EXPO Taiwan 2027",
       "country": "Taiwán",
       "region": "Asia",
-      "start": "",
-      "end": "",
+      "start": "2027-03-24",
+      "end": "2027-03-26",
       "visitor_policy": "confirm_children",
-      "source": "https://ai-expo.tw/about_2026.html",
+      "source": "https://ai-expo.tw/en/exhibit.html",
       "new": false
     },
     {
@@ -5211,6 +5240,28 @@
       "end": "",
       "visitor_policy": "confirm_children",
       "source": "https://www.aieverythingegypt.com/",
+      "new": false
+    },
+    {
+      "id": "E235",
+      "name": "Seoul International Invention Fair · SIIF 2026",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2026-12-02",
+      "end": "2026-12-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/",
+      "new": false
+    },
+    {
+      "id": "E236",
+      "name": "Automation World · AW 2027",
+      "country": "Corea del Sur",
+      "region": "Asia",
+      "start": "2027-03-03",
+      "end": "2027-03-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.automationworld.co.kr/?hl=en",
       "new": false
     }
   ],
@@ -7323,14 +7374,14 @@
       }
     ],
     "counts": {
-      "records": 3321,
-      "holiday": 3196,
+      "records": 3342,
+      "holiday": 3217,
       "regular": 101,
       "self_paced_materials": 2,
       "boarding": 954,
-      "en_es_instruction": 919,
+      "en_es_instruction": 930,
       "en_es_support": 11,
-      "family_instruction": 919,
+      "family_instruction": 930,
       "family_support": 11,
       "ru_instruction": 0,
       "language_lessons": 378,

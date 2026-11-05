@@ -776,53 +776,66 @@
       "title": "AI EXPO Taiwan 2027",
       "country": "Taiwán",
       "region": "Asia",
-      "city": "Taipei",
-      "start": "",
-      "end": "",
-      "period": "en el origen 24–26.03.2027; el enlace conduce a la revisión 2026, No es una prueba 2027",
-      "date_status": "No se confirmó",
+      "city": "Taipei Expo Dome · Yuanshan · Taipei",
+      "start": "2027-03-24",
+      "end": "2027-03-26",
+      "period": "24–26 March 2027 · 09:00–16:30",
+      "date_status": "Confirmado",
       "deadline": "",
-      "age": "no se ha establecido el permiso de entrada de los niños",
+      "age": "Entrada infantil de 6 / 9 años sin establecer.",
       "mat": "Condicional",
       "osc": "Condicional",
       "format": "visita con el padre",
-      "entry": "Necesitamos un anuncio para 2027 + visitor age policy",
+      "entry": "Visitor pre-registration separado de exhibitor interest. Exposición B2B; formulario de interés no es entrada ni acceso infantil confirmado.",
       "gear": "No es necesario.",
-      "language": "ZH / EN",
-      "cost": "no se publicó / comprobar la actual edición",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
       "priority": "P3  en un viaje cómodo",
-      "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
-      "source": "https://ai-expo.tw/about_2026.html",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://ai-expo.tw/en/exhibit.html",
+      "proof": "Leídas páginas oficiales exhibition y visitor 2027: fechas 24–26 de marzo y sede confirmadas; edad de visitantes y tarifa completa aún sin establecer.",
+      "checked": "2026-11-05",
       "status": "Idea",
-      "note": "la compatibilidad de edad no es igual a la admisión a un torneo concreto",
+      "note": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
       "iso": [
         "TWN"
       ],
       "themes": [
-        "ai"
+        "ai",
+        "robotics",
+        "technology"
       ],
       "scope": "international",
       "importance_reason": "La exposición de perfil y en Taiwán; la escala mundial no está confirmada.",
       "languages": [],
       "participation": "visitor",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
       "exhibition_tier": "profile",
       "visitor_policy": "confirm_children",
-      "visitor_policy_note": "La página se refiere a 2026; las nuevas fechas y las reglas para niños 2027 no se han confirmado.",
+      "visitor_policy_note": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
       "highlights": [
         "de la aplicación del",
         "Las plataformas de inteligencia artificial",
         "demostraciones tecnológicas"
       ],
-      "exhibitor_note": "comprobar la lista de compañías de la nueva edición; el about_2026 existente es un indicador de archivo.",
-      "exhibitor_directory_url": "https://ai-expo.tw/about_2026.html",
-      "adult_entry": "Necesitamos un anuncio para 2027 + visitor age policy",
+      "exhibitor_note": "Cuatro temas 2027: inference economy, enterprise AI, sovereign AI, physical AI. Unos 30000 buyers es descripción comercial, no asistencia garantizada / lista completa de empresas 2027.",
+      "exhibitor_directory_url": "",
+      "adult_entry": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
       "admission_kind": "visitor",
-      "references": []
+      "references": [
+        {
+          "label": "Official 2027 exhibition",
+          "url": "https://ai-expo.tw/en/exhibit.html"
+        },
+        {
+          "label": "Visitor interest route",
+          "url": "https://www.ai-expo.tw/en/early_visit.html"
+        }
+      ],
+      "date_scope": "exhibition_window",
+      "language_mode": "unconfirmed"
     },
     {
       "block": "Eventos",
@@ -7546,6 +7559,667 @@
           "ical_timed": true,
           "start_utc": "2027-02-03T01:30:00Z",
           "end_utc": "2027-02-03T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1321-20270121-20270122-lego-wedo-1",
+      "block": "Campamentos",
+      "title": "Halo School · LEGO mechanics & WeDo · LEGO mechanics & WeDo · 1 · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 1–3",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 4280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-lego-wedo",
+      "camp_programme_id": "CP1321",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T08:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: LEGO mechanics & WeDo. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1322-20270125-20270127-lego-spike-1",
+      "block": "Campamentos",
+      "title": "Halo School · LEGO SPIKE Challenge · LEGO SPIKE Challenge · 1 · 2027-01-25–2027-01-27",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-25",
+      "end": "2027-01-27",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 3–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 6280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-lego-spike",
+      "camp_programme_id": "CP1322",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T08:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T08:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: LEGO SPIKE Challenge. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1323-20270125-20270127-minecraft-redstone-1",
+      "block": "Campamentos",
+      "title": "Halo School · Minecraft Redstone · Minecraft Redstone · 1 · 2027-01-25–2027-01-27",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-25",
+      "end": "2027-01-27",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 1–3",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 6280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-minecraft-redstone",
+      "camp_programme_id": "CP1323",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:00:00Z",
+          "end_utc": "2027-01-25T08:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:00:00Z",
+          "end_utc": "2027-01-26T08:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:00:00Z",
+          "end_utc": "2027-01-27T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1323-20270128-20270129-minecraft-redstone-2",
+      "block": "Campamentos",
+      "title": "Halo School · Minecraft Redstone · Minecraft Redstone · 2 · 2027-01-28–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-28",
+      "end": "2027-01-29",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 1–3",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 4280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "coding",
+        "games",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-minecraft-redstone",
+      "camp_programme_id": "CP1323",
+      "sessions": [
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T08:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft Redstone. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1324-20270128-20270129-minecraft-makecode-1",
+      "block": "Campamentos",
+      "title": "Halo School · Minecraft MakeCode · Minecraft MakeCode · 1 · 2027-01-28–2027-01-29",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-28",
+      "end": "2027-01-29",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 3–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 4280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-minecraft-makecode",
+      "camp_programme_id": "CP1324",
+      "sessions": [
+        {
+          "date": "2027-01-28",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:00:00Z",
+          "end_utc": "2027-01-28T08:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:00:00Z",
+          "end_utc": "2027-01-29T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1324-20270201-20270203-minecraft-makecode-2",
+      "block": "Campamentos",
+      "title": "Halo School · Minecraft MakeCode · Minecraft MakeCode · 2 · 2027-02-01–2027-02-03",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-02-01",
+      "end": "2027-02-03",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 3–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 6280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-minecraft-makecode",
+      "camp_programme_id": "CP1324",
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T08:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T08:00:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: Minecraft MakeCode. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T01:00:00Z",
+          "end_utc": "2027-02-03T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1325-20270201-20270203-vex-go-1",
+      "block": "Campamentos",
+      "title": "Halo School · VEX GO RC Battles · VEX GO RC Battles · 1 · 2027-02-01–2027-02-03",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-02-01",
+      "end": "2027-02-03",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 1–6",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 6280 · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-vex-go",
+      "camp_programme_id": "CP1325",
+      "sessions": [
+        {
+          "date": "2027-02-01",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:00:00Z",
+          "end_utc": "2027-02-01T08:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:00:00Z",
+          "end_utc": "2027-02-02T08:00:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: VEX GO RC Battles. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T01:00:00Z",
+          "end_utc": "2027-02-03T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1326-20270121-20270122-3d-printing-1",
+      "block": "Campamentos",
+      "title": "Halo School · 3D Printing & Tinkercad · 3D Printing & Tinkercad · 1 · 2027-01-21–2027-01-22",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "556 Heti Road · 2F · Sanmin · Kaohsiung",
+      "start": "2027-01-21",
+      "end": "2027-01-22",
+      "period": "Ocho grupos concretos en enero / febrero 2027. Clases 09–12 y 13:30–16, acogida 08:30, recogida hasta 17. Fecha publicada no confirma saldo de plazas.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Grades 3–9",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+      "language": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "cost": "2027 · TWD 5200 + 800 materials · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar plaza, admisión extranjera individual, idioma del grupo concreto, nivel y factura completa. Edad / fecha no significan admisión. Sin formularios, consentimientos, mensajes ni pagos.",
+      "source": "https://www.haloschool.tw/halocamp/",
+      "references": [
+        {
+          "url": "https://www.haloschool.tw/halocamp/",
+          "label": "Current winter 2027 grid, equipment and discounts"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Suplementos: Portátil / tableta propio requerido; alquiler 100 元 / día, para 3D recomiendan portátil. Recogida después de 17:00: 100 / media hora. Cancelación meteorológica primero cambio, después devolución si imposible; baja voluntaria común sin describir. Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: Precio completo y condiciones de convocatoria elegida sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "engineering",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Enseñanza o evaluación EN / ES / RU de este programa sin confirmar. Idioma de página / reglamento no acredita idioma de comunicación.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "halo-kaohsiung-winter-3d-printing",
+      "camp_programme_id": "CP1326",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:00:00Z",
+          "end_utc": "2027-01-21T08:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:00",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Curso práctico presencial: 3D Printing & Tinkercad. Niveles escolares y tareas distintos; VEX GO son retos básicos RC / grupales, no torneo VEX IQ. Versiones de dos y tres días de Redstone y MakeCode tienen tareas distintas. 3–8 niños, normalmente 6–8; inicia desde 3.",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:00:00Z",
+          "end_utc": "2027-01-22T08:00:00Z"
         }
       ]
     }
