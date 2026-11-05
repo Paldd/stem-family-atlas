@@ -24,7 +24,7 @@ python3 scripts/verify-spanish.py
 
 [Открыть сайт](https://paldd.github.io/stem-family-atlas/) · [Статус публикации](https://github.com/Paldd/stem-family-atlas/actions/workflows/pages.yml)
 
-Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **139**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе 3 847 записи, 1 119 досье программ лагерей/обучения, 144 профиля лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
+Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **140**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе 3 859 записей, 1 123 досье программ лагерей/обучения, 144 профиля лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
 
 ## Как обновляется сайт
 
@@ -400,3 +400,5 @@ Extended 09–17 / Super Extended 09–18. Числовые тарифы, дат
 Версия 134 локальная и ещё не опубликована: свежий get_site того же
 проекта вернул 404 «Sites project not found». Последняя подтверждённая
 публикация — 125. Полная мировая цель активна, полностью изученных стран 0.
+
+UI 140 (2026-11-04): 3,859 catalogue records and 1,123 camp dossiers. The focused source refresh updates 19 competition records and adds 11 Singapore camp sessions plus adult-only TIMTOS 2027. All 3,847 previous records and 1,119 dossiers are preserved. Current entries sort before expired entries by default; archive search remains available. Deadline exports preserve distinct tracks sharing one source. The worldwide audit remains unfinished. The exact deployed commit is available in `release.json`.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-10-06",
+  "asof": "2026-11-04",
   "title": "Каникулы 2026–2027 · подробные досье операторов",
   "scope": "Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.",
   "methodology": [
@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1119,
+    "dossiers": 1123,
     "countries": 39,
     "swiss": 127,
     "by_status": {
-      "published_2026_27": 112,
+      "published_2026_27": 113,
       "published_2027": 299,
       "partial_2027": 114,
       "next_unannounced": 239,
-      "published_2026": 223,
+      "published_2026": 226,
       "partial_2026_27": 17,
       "partial_2026": 9,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1669
+    "source_urls": 1672
   },
   "countries": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "country": "Сингапур",
-      "count": 127
+      "count": 131
     },
     {
       "country": "Япония",
@@ -134096,6 +134096,770 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1120",
+      "slug": "graphite-heroverse-2026",
+      "provider": "Graphite Academy · Heroverse",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Elias Mall #02-306 / Canberra Plaza #03-10,11; точную площадку выбранной смены подтвердить",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–13 лет; возраст на начало и исключения отдельно не описаны",
+      "language": "Язык преподавания не указан. Английская страница не подтверждает EN; язык объяснений и поддержки нужно получить от оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Pixel Art, MakeCode Arcade и Delightex: собственная ретро-игра и 3D-мир, брелок из бусин. 3 дня по 2,5 часа, всего 7,5 часов; максимум 8 детей.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Ноябрь–декабрь 2026; занятия 09:30–12:00. Даты опубликованы, свободные места и выбранный кампус не подтверждены.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-25"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "$328 early bird / $398 обычный тариф; валюта, GST, единица оплаты и срок скидки не раскрыты.",
+        "included": "Содержание проекта описано; включение устройства, аккаунтов и расходников в цену уточнить.",
+        "extras": "Проживание семьи, дорога и питание отдельно; технику домой не обещают.",
+        "deposit": "Аванс, отмена и возврат выбранной смены не опубликованы в прочитанной странице."
+      },
+      "accommodation": "Дневные утренние занятия; проживание не предлагается",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Год рождения 2017 подходит диапазону; язык, внешний приём и сложность после трёх лет опыта уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужны исполненные 6 лет на начало; день рождения и правило отсечения неизвестны. Язык не подтверждён."
+        }
+      },
+      "editorial_reason": "Новый короткий технический вариант; неизвестный язык не включён в подтверждённые EN-программы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, площадку и места выбранных дат.",
+        "Получить полный счёт с валютой, GST, техникой и условиями отмены; приём приезжих не установлен."
+      ],
+      "sources": [
+        {
+          "title": "Точные программы, даты и рекламные тарифы",
+          "url": "https://graphiteacademy.com/holiday-camps-november-holiday-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-25",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1120-20261123-20261125"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1121",
+      "slug": "graphite-pokemon-2026",
+      "provider": "Graphite Academy · Pokémon Coding Adventure",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Elias Mall #02-306 / Canberra Plaza #03-10,11; точную площадку выбранной смены подтвердить",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–13 лет; возраст на начало и исключения отдельно не описаны",
+      "language": "Язык преподавания не указан. Английская страница не подтверждает EN; язык объяснений и поддержки нужно получить от оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Pixel Art, Scratch и Minecraft Education: собственная игра и 3D-мир. 3 дня по 2,5 часа, всего 7,5 часов; максимум 8 детей.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Ноябрь–декабрь 2026; занятия 09:30–12:00. Даты опубликованы, свободные места и выбранный кампус не подтверждены.",
+        "sessions": [
+          [
+            "2026-11-30",
+            "2026-12-02"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "$328 early bird / $398 обычный тариф; валюта, GST, единица оплаты и срок скидки не раскрыты.",
+        "included": "Содержание проекта описано; включение устройства, аккаунтов и расходников в цену уточнить.",
+        "extras": "Проживание семьи, дорога и питание отдельно; технику домой не обещают.",
+        "deposit": "Аванс, отмена и возврат выбранной смены не опубликованы в прочитанной странице."
+      },
+      "accommodation": "Дневные утренние занятия; проживание не предлагается",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Год рождения 2017 подходит диапазону; язык, внешний приём и сложность после трёх лет опыта уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужны исполненные 6 лет на начало; день рождения и правило отсечения неизвестны. Язык не подтверждён."
+        }
+      },
+      "editorial_reason": "Новый короткий технический вариант; неизвестный язык не включён в подтверждённые EN-программы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, площадку и места выбранных дат.",
+        "Получить полный счёт с валютой, GST, техникой и условиями отмены; приём приезжих не установлен."
+      ],
+      "sources": [
+        {
+          "title": "Точные программы, даты и рекламные тарифы",
+          "url": "https://graphiteacademy.com/holiday-camps-november-holiday-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1121-20261130-20261202"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1122",
+      "slug": "graphite-ai-lego-2026",
+      "provider": "Graphite Academy · AI LEGO Robotics",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Elias Mall #02-306 / Canberra Plaza #03-10,11; точную площадку выбранной смены подтвердить",
+      "themes": [
+        "robotics",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–13 лет; возраст на начало и исключения отдельно не описаны",
+      "language": "Язык преподавания не указан. Английская страница не подтверждает EN; язык объяснений и поддержки нужно получить от оператора.",
+      "confirmed_instruction_languages": [],
+      "programme": "Построить LEGO-машину, испытать движение и препятствия, познакомиться с AI и автономным транспортом. 2 дня по 2,5 часа, всего 5 часов; максимум 8 детей. Реальное обучение модели и версия набора не описаны.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Ноябрь–декабрь 2026; занятия 09:30–12:00. Даты опубликованы, свободные места и выбранный кампус не подтверждены.",
+        "sessions": [
+          [
+            "2026-11-26",
+            "2026-11-27"
+          ],
+          [
+            "2026-12-03",
+            "2026-12-04"
+          ]
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "label": "$248 early bird / $298 обычный тариф; валюта, GST, единица оплаты и срок скидки не раскрыты.",
+        "included": "Содержание проекта описано; включение устройства, аккаунтов и расходников в цену уточнить.",
+        "extras": "Проживание семьи, дорога и питание отдельно; технику домой не обещают.",
+        "deposit": "Аванс, отмена и возврат выбранной смены не опубликованы в прочитанной странице."
+      },
+      "accommodation": "Дневные утренние занятия; проживание не предлагается",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Год рождения 2017 подходит диапазону; язык, внешний приём и сложность после трёх лет опыта уточнить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Нужны исполненные 6 лет на начало; день рождения и правило отсечения неизвестны. Язык не подтверждён."
+        }
+      },
+      "editorial_reason": "Новый короткий технический вариант; неизвестный язык не включён в подтверждённые EN-программы.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, площадку и места выбранных дат.",
+        "Получить полный счёт с валютой, GST, техникой и условиями отмены; приём приезжих не установлен."
+      ],
+      "sources": [
+        {
+          "title": "Точные программы, даты и рекламные тарифы",
+          "url": "https://graphiteacademy.com/holiday-camps-november-holiday-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1122-20261126-20261127"
+          ]
+        },
+        {
+          "start": "2026-12-03",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1122-20261203-20261204"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1123",
+      "slug": "worklab-minecraft-coding-2026-27",
+      "provider": "Children’s Worklab · Minecraft Coding",
+      "country": "Сингапур",
+      "iso": "SGP",
+      "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8+ по дню рождения на первый день; класс не заменяет возраст",
+      "language": "Оператор прямо подтверждает все занятия на английском; речь не только об английском сайте.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Minecraft Education и блочное программирование: логика, последовательности, тестирование и отладка собственной работы. PDF показывает 4 полудня 09:30–12:00, то есть 10 часов пребывания с ежедневным перерывом 15 минут. Упоминание Java/2 полных дней на общей странице расходится с этим расписанием.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Семь недель 23.11.2026–07.01.2027; только понедельник–четверг, 09:30–12:00. Подробный PDF имеет приоритет над общим старым описанием.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-30",
+            "2026-12-03"
+          ],
+          [
+            "2026-12-07",
+            "2026-12-10"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-17"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-26",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2026-11-30",
+            "end": "2026-12-03",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-11-30",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-10",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-17",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-07",
+            "label": "Forum · Minecraft Coding",
+            "source": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+            "price": "$449 за выбранные 4 полудня; валюта и GST в PDF не указаны",
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:30",
+                "end_time": "12:00",
+                "timezone": "Asia/Singapore",
+                "topic": "Minecraft Education",
+                "time_note": "Время местное; 15 минут перерыва входят в пребывание"
+              }
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+              }
+            },
+            "place": "Forum The Shopping Mall · #02-01/02 · 583 Orchard Road",
+            "proof": "Дни, часы, возраст, место и цена перепроверены по текущему PDF Year-End 2026–27."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "label": "$449 за неделю из 4 полудней. Валюта и GST не напечатаны; не считать автоматически USD. Скидка группы требует минимум 3 детей.",
+        "included": "Учебный курс; ноутбук и аккаунт Minecraft отдельно подтвердить. Выдача техники домой не заявлена.",
+        "extras": "Обеда нет; перекус и напиток свои. Дорога и жильё семьи отдельно. Два брата не дают групповую скидку для 3 детей.",
+        "deposit": "Оплату и отмену выбранной недели подтвердить; рассылку и заявку семьи не оформляли."
+      },
+      "accommodation": "Только дневной формат; родители отвечают за доставку и время после 12:00.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Матвей 2017 года рождения старше 8 лет во все эти смены. Уровень и внешний приём подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Оскару 2020 года рождения ещё нет 8 лет ни в одной указанной смене."
+        }
+      },
+      "editorial_reason": "Подтверждённый EN игровой coding-интенсив для Матвея; Оскару нужен другой младший курс.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить место, валюту, GST, устройство и аккаунт; не переносить старые условия полного дня.",
+        "Уточнить реальную платформу: Minecraft Education с блоками или Java-моды; приём приезжих и возврат неизвестны."
+      ],
+      "sources": [
+        {
+          "title": "Явный английский язык и возраст 8+",
+          "url": "https://www.worklab.com.sg/minecraft-coding-camp",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Текущий PDF: семь недель, Forum, 09:30–12:00 и $449",
+          "url": "https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261123-20261126"
+          ]
+        },
+        {
+          "start": "2026-11-30",
+          "end": "2026-12-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261130-20261203"
+          ]
+        },
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261207-20261210"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261214-20261217"
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261221-20261224"
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20261228-20261231"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1123-20270104-20270107"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -139340,7 +140104,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 136,
+  "version": 140,
   "family_review": {
     "version": 136,
     "asof": "2026-10-06",
@@ -150776,6 +151540,61 @@
       "programme_id": "CP1119",
       "event_id": "CP1119-20270125-20270129",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1120",
+      "event_id": "CP1120-20261123-20261125",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1121",
+      "event_id": "CP1121-20261130-20261202",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1122",
+      "event_id": "CP1122-20261126-20261127",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1122",
+      "event_id": "CP1122-20261203-20261204",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261123-20261126",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261130-20261203",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261207-20261210",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261214-20261217",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261221-20261224",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20261228-20261231",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1123",
+      "event_id": "CP1123-20270104-20270107",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -152787,10 +153606,21 @@
     "CP1116-20270109-20270111",
     "CP1117-20261230-20261231",
     "CP1118-20261225-20261228",
-    "CP1119-20270125-20270129"
+    "CP1119-20270125-20270129",
+    "CP1120-20261123-20261125",
+    "CP1121-20261130-20261202",
+    "CP1122-20261126-20261127",
+    "CP1122-20261203-20261204",
+    "CP1123-20261123-20261126",
+    "CP1123-20261130-20261203",
+    "CP1123-20261207-20261210",
+    "CP1123-20261214-20261217",
+    "CP1123-20261221-20261224",
+    "CP1123-20261228-20261231",
+    "CP1123-20270104-20270107"
   ],
   "integration": {
-    "generated_sessions": 2009,
+    "generated_sessions": 2020,
     "reused_legacy_events": 69,
     "seasonal_windows": 55,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

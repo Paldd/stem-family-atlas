@@ -58,6 +58,8 @@ from nearby_robotics_v135 import enrich_v135
 enrich_v135(d)
 from camp_asia_v136 import extend_planning_v136
 extend_planning_v136(d)
+from opportunities_v140 import enrich_v140
+enrich_v140(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -589,8 +591,8 @@ for e in d['events']:
             end=(datetime.date.fromisoformat(e['end'])+datetime.timedelta(days=1)).strftime('%Y%m%d')
             cal_event(e,e['id'],prefix+e['title'],e['start'].replace('-',''),end)
     deadline=e.get('deadline','')
-    if deadline and deadline>=d['asof'] and (deadline,e['source']) not in deadline_seen:
-        deadline_seen.add((deadline,e['source']))
+    if deadline and deadline>=d['asof'] and (deadline,e['id']) not in deadline_seen:
+        deadline_seen.add((deadline,e['id']))
         instant=e.get('deadline_utc')
         if not instant and e['id'] in ('C033','C034','C035') and deadline=='2026-10-22':instant='2026-10-22T15:59:00Z'
         if not instant and e['id']=='C025' and deadline=='2027-01-18':instant='2027-01-18T17:00:00Z'

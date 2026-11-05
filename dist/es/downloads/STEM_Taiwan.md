@@ -561,6 +561,19 @@ Limitaciones: Leer y hablar en inglés con sentence frames; no se ha declarado e
 Fuente: https://steamsquad.io/en/courses/code-club
 Comprobado: 2026-10-02
 
+### E201 · TIMTOS 2027 · Taipei Int'l Machine Tool Show
+
+Fecha: 2027-03-02 — 2027-03-06
+edad: Visitantes12+; acceso prohibido a menores de 12
+Matvey: No: en 2027 Matvey tendrá9–10; exige 12+
+Oscar: No: en 2027 Oscar tendrá6–7; exige 12+
+Idioma: Fact sheet oficial EN; confirmar idioma de cada foro
+Acceso: Ruta solo para adultos de la familia; verificar registro de visitante en la web oficial. El interés tecnológico no da acceso infantil.
+Precio: Tarifa de visitante sin confirmar; el precio de stand del exhibitor kit no es una entrada.
+Limitaciones: Exposición2–6 de marzo;7–9 de marzo es desmontaje, sin días adicionales de visita. Prohibición infantil confirmada en el fact sheet oficial.
+Fuente: https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
+Se ha comprobado: 2026-11-04
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

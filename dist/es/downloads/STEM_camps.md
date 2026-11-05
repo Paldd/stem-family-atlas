@@ -39686,10 +39686,186 @@ Limitaciones: Matvey: Necesitamos el actual. 1–4 Clase; Matvey puede tener una
 Fuente: https://www.jgroup.com.tw/%E9%AD%94%E6%B3%95%E7%87%9F/
 Comprobado: 2026-10-06
 
+### CP1120-20261123-20261125 · Graphite Academy · Heroverse · 2026-11-23–2026-11-25
+
+Lugar: Singapur Elias Mall#02-306 / Canberra Plaza#03-10,11; confirmar sede concreta de la sesión elegida
+Fecha: 2026-11-23 国 2026-11-25
+edad: 6–13 años; fecha de corte y excepciones sin detallar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza sin indicar. Una web en inglés no confirma EN; pedir al operador idioma de explicación y apoyo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026 · $328 early bird / $398 tarifa normal; moneda, GST, unidad de pago y plazo del descuento sin detallar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nacimiento2017 dentro del rango; confirmar idioma, admisión externa y nivel tras tres años de experiencia. Oscar: Debe haber cumplido6 al empezar; cumpleaños y regla de corte desconocidos. Idioma sin confirmar. Suplementos: Alojamiento familiar, transporte y comida aparte; no se promete equipo para llevar a casa. Pago: Anticipo, cancelación y reembolso de la sesión elegida no publicados en la página consultada.
+Fuente: https://graphiteacademy.com/holiday-camps-november-holiday-camp/
+Se ha comprobado: 2026-11-04
+
+### CP1121-20261130-20261202 · Graphite Academy · Pokémon Coding Adventure · 2026-11-30–2026-12-02
+
+Lugar: Singapur Elias Mall#02-306 / Canberra Plaza#03-10,11; confirmar sede concreta de la sesión elegida
+Fecha: 2026-11-30 — 2026-12-02
+edad: 6–13 años; fecha de corte y excepciones sin detallar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza sin indicar. Una web en inglés no confirma EN; pedir al operador idioma de explicación y apoyo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026 · $328 early bird / $398 tarifa normal; moneda, GST, unidad de pago y plazo del descuento sin detallar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nacimiento2017 dentro del rango; confirmar idioma, admisión externa y nivel tras tres años de experiencia. Oscar: Debe haber cumplido6 al empezar; cumpleaños y regla de corte desconocidos. Idioma sin confirmar. Suplementos: Alojamiento familiar, transporte y comida aparte; no se promete equipo para llevar a casa. Pago: Anticipo, cancelación y reembolso de la sesión elegida no publicados en la página consultada.
+Fuente: https://graphiteacademy.com/holiday-camps-november-holiday-camp/
+Se ha comprobado: 2026-11-04
+
+### CP1122-20261126-20261127 · Graphite Academy · AI LEGO Robotics · 2026-11-26–2026-11-27
+
+Lugar: Singapur Elias Mall#02-306 / Canberra Plaza#03-10,11; confirmar sede concreta de la sesión elegida
+Fecha: 2026-11-26 2026-11-27
+edad: 6–13 años; fecha de corte y excepciones sin detallar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza sin indicar. Una web en inglés no confirma EN; pedir al operador idioma de explicación y apoyo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026 · $248 early bird / $298 tarifa normal; moneda, GST, unidad de pago y plazo del descuento sin detallar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nacimiento2017 dentro del rango; confirmar idioma, admisión externa y nivel tras tres años de experiencia. Oscar: Debe haber cumplido6 al empezar; cumpleaños y regla de corte desconocidos. Idioma sin confirmar. Suplementos: Alojamiento familiar, transporte y comida aparte; no se promete equipo para llevar a casa. Pago: Anticipo, cancelación y reembolso de la sesión elegida no publicados en la página consultada.
+Fuente: https://graphiteacademy.com/holiday-camps-november-holiday-camp/
+Se ha comprobado: 2026-11-04
+
+### CP1122-20261203-20261204 · Graphite Academy · AI LEGO Robotics · 2026-12-03–2026-12-04
+
+Lugar: Singapur Elias Mall#02-306 / Canberra Plaza#03-10,11; confirmar sede concreta de la sesión elegida
+Fecha: 2026-12-03 国 2026-12-04
+edad: 6–13 años; fecha de corte y excepciones sin detallar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza sin indicar. Una web en inglés no confirma EN; pedir al operador idioma de explicación y apoyo.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026 · $248 early bird / $298 tarifa normal; moneda, GST, unidad de pago y plazo del descuento sin detallar.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nacimiento2017 dentro del rango; confirmar idioma, admisión externa y nivel tras tres años de experiencia. Oscar: Debe haber cumplido6 al empezar; cumpleaños y regla de corte desconocidos. Idioma sin confirmar. Suplementos: Alojamiento familiar, transporte y comida aparte; no se promete equipo para llevar a casa. Pago: Anticipo, cancelación y reembolso de la sesión elegida no publicados en la página consultada.
+Fuente: https://graphiteacademy.com/holiday-camps-november-holiday-camp/
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261123-20261126 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-11-23–2026-11-26
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-11-23 — 2026-11-26
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261130-20261203 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-11-30–2026-12-03
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-11-30 — 2026-12-03
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261207-20261210 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-12-07–2026-12-10
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-12-07 — 2026-12-10
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261214-20261217 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-12-14–2026-12-17
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-12-14 — 2026-12-17
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261221-20261224 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-12-21–2026-12-24
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-12-21 - 2026-12-24
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20261228-20261231 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2026-12-28–2026-12-31
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2026-12-28 - 2026-12-31
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1123-20270104-20270107 · Children’s Worklab · Minecraft Coding · Forum · Minecraft Coding · 2027-01-04–2027-01-07
+
+Lugar: Singapur Forum The Shopping Mall · #02-01/02 · 583 Orchard Road
+Fecha: 2027-01-04 国 2027-01-07
+edad: 8+ cumplidos al primer día; curso escolar no sustituye edad
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: El operador confirma expresamente todas las clases en inglés; no se deduce del idioma web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · $449 por las4 medias jornadas elegidas; moneda y GST sin indicar en PDF · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesiones. Confirmar nivel y admisión externa. Oscar: Oscar, nacido en 2020, aún no cumple 8 en ninguna sesión indicada. Suplementos: Sin almuerzo; traer merienda y bebida. Transporte y alojamiento familiar aparte. Dos hermanos no cumplen descuento para 3 niños. Pago: Confirmar pago y cancelación de la semana elegida; sin suscripción ni solicitud familiar.
+Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
+Se ha comprobado: 2026-11-04
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz
-Fecha: Período de gestión mundial 29 de noviembre 2026, 17:00 ET; Showcase section contiene el antiguo 2025 año. Final 4–6 / 5–7 diciembre.
+Fecha: Final anunciada4–6 de diciembre2026; el párrafo introductorio PDF aún indica5–7. Confirmar horario individual tras la selección.
 Edad: Sitio web: 6*18; dirección: under 18; todas las clases escolares; edad exacta en la fecha de referencia.
 Matway: Sí, por edad; proyecto, clase y admisión por separado
 Óscar: Condicional: 6 años en la fecha de control; no se ha fijado el cumpleaños
@@ -39698,9 +39874,9 @@ Idioma: EN
 Marca de idioma: no clasificada; soporte: no declarada
 Costo: No publicado / Comprobar la edición actual
 Entrada: La página de WAICY 2026 permite expresamente a los participantes de 6x18 del mundo, individualmente o por equipo, incluida la participación a distancia. Verificar el formato y el reglamento de la pista de AI seleccionada; no se han fijado fechas finales contradictorias.
-Limitaciones: AI Showcase, Art, Video y LLM/AI Agent — tareas y tarjetas. Período total29.11.2026 17ET - Sí, lo tengo.p3, pero Showcase p5 contiene29.11.2025; confirmar la aplicabilidad de la Convención a los Showcase. Final p2 antiguo2025/p3 5–7diciembre/p29 4–6diciembre2026: días exactos no exportados. Certificado de participación no es igual Gold/Silver/Bronze. Se permite la traducción durante la presentación, EN-Necesito material; - Los instrumentos deben permitir que el niño utilice legalmente a su padre o madre;.
+Limitaciones: La guía de octubre corrige Showcase: plazo29.11.2026 17:00 ET. Web, portada, calendario y sección detallada Showcase indican4–6 de diciembre; el párrafo introductorio PDF aún dice5–7. El horario individual depende de la selección; enviar no confirma invitación a la final.
 Fuente: https://www.waicy.org/waicy-2026/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-04
 
 ### C038 · Codeavour 8.0 — AI & Robotics 2026–27
 
@@ -39716,7 +39892,7 @@ Precio: en la página $45 por regionals / nationals y $100 por International Sho
 Entrada: 8.0 está abierto desde el 14 de julio de 2026, pero aún no se ha anunciado un plazo fijo de cierre. Seleccione un socio regional/nacional; la ruta de International Showdown se obtiene mediante un resultado nacional. La ruta a distancia y la solicitud regional extranjera de la familia de confirmar.
 Limitaciones: Elementary 7–10 / Junior 11–14 / Senior 15–18, 1–3 y mentor. Oscar tiene que cumplir. 7. Hay tres pistas.: Innovation / Entrepreneurship, Wellness Wave AI-Robo, Robo-Soccer; Las condiciones de la pista se verifican por separado. El certificado de curso no sustituye al resultado competitivo; El viejo final 7.0 Indonesia no se ha trasladado a 8.0.
 Fuente: https://codeavour.org/
-Comprobado: 2026-10-01
+Se ha comprobado: 2026-11-04
 
 ### C039 · Coolest Projects Online 2027
 

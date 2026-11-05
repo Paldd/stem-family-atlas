@@ -7,3 +7,5 @@ __pycache__/
 .env.*
 dist/release.json
 dist/es/release.json
+.playwright-cli/
+output/playwright/

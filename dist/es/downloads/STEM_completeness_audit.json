@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 3847,
+    "cards": 3859,
     "competition_cards": 1168,
-    "event_cards": 207,
-    "camp_cards": 2472,
+    "event_cards": 208,
+    "camp_cards": 2483,
     "league_profiles": 144,
-    "major_exhibition_cards": 120,
+    "major_exhibition_cards": 121,
     "vex_cards": 469,
     "countries_with_records": 82,
     "fully_audited_countries": 0
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 890,
+      "total": 902,
       "countries_with_records": 23,
       "competitions": 226,
-      "events": 63,
-      "major_exhibitions": 53,
-      "camps": 601,
+      "events": 64,
+      "major_exhibitions": 54,
+      "camps": 612,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -787,7 +787,7 @@
         "C618"
       ],
       "cards": 15,
-      "future_dated": 12,
+      "future_dated": 11,
       "linked_card_count": 15,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://www.makex.cc/en/2026-makex",
@@ -4394,6 +4394,17 @@
       "visitor_policy": "adults_only",
       "source": "https://gitexasia.com/",
       "new": false
+    },
+    {
+      "id": "E201",
+      "name": "TIMTOS 2027 · Taipei Int'l Machine Tool Show",
+      "country": "Taiwán",
+      "region": "Asia",
+      "start": "2027-03-02",
+      "end": "2027-03-06",
+      "visitor_policy": "adults_only",
+      "source": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
+      "new": false
     }
   ],
   "known_backlog": [
@@ -6505,14 +6516,14 @@
       }
     ],
     "counts": {
-      "records": 2472,
-      "holiday": 2358,
+      "records": 2483,
+      "holiday": 2369,
       "regular": 92,
       "self_paced_materials": 2,
       "boarding": 906,
-      "en_es_instruction": 597,
+      "en_es_instruction": 604,
       "en_es_support": 11,
-      "family_instruction": 597,
+      "family_instruction": 604,
       "family_support": 11,
       "ru_instruction": 0,
       "language_lessons": 338,

@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Tarjetas en la base: 3847; Competencias: 1168; acontecimientos: 207; campamentos / Programas: 2472. Profilaxis y programas: 144. Tarjetas de exposición importantes y sobre temas específicos: 120 — son publicaciones y lugares, no número de marcas únicas.
+Fichas en la base:3859; competiciones:1168; eventos:208; campamentos/programas:2483. Perfiles de ligas y programas:144. Fichas de exposiciones grandes y sectoriales:121; son ediciones y sedes, no marcas únicas.
 
 Existen registros específicos para 82 de los 249 países y territorios; países totalmente auditados: 0. Nuevas tarjetas: 21; nuevos perfiles: 3. Todas las tarjetas anteriores se han conservado.
 
@@ -18,7 +18,7 @@ América del Norte 14 - 514 10 - 720 -
 América del Sur 9 - 122 - 6 - 81 -
 Europa 21 - 172 - 44 - 1024 -
 África 10 61 5 27
-○ Asia 23 ♫ 226 ♫ 53 ♫ 601 ○
+| Asia | 23 | 226 | 54 | 612 |
 ○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
@@ -97,7 +97,7 @@ VEX: 469 de 1168 tarjetas de competencia (40.2%), lo que representa una clara di
 - **FIRST**: 45 tarjetas, 24 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 469 tarjetas, 465 con fechas exactas futuras. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
-- **MakeX**: 15 tarjetas, 12 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.makex.cc/en/2026-makex
+- **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**: 5 tarjetas, 4 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
 - **WER**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.wermexico.com/competencia
@@ -360,6 +360,7 @@ VEX: 469 de 1168 tarjetas de competencia (40.2%), lo que representa una clara di
 - **Industrial Transformation Asia-Pacific 2026** — Singapur; 2026-10-21 – 2026-10-22. Acceso de los niños a la educación. https://industrial-transformation.com/ticketing-options/
 - **Industrial Transformation Asia-Pacific 2027** Singapur; 2027-07-20 BWC 2027-07-22. https://industrial-transformation.com/ticketing-options/
 - **GITEX AI ASIA 2027** ○ Singapur; 2027-04-29 2027-04-30; los niños 6/9 no pueden. https://gitexasia.com/
+- **TIMTOS 2027 · Taipei Int'l Machine Tool Show** — Taiwán; 2027-03-02 – 2027-03-06. Los niños del 6/9 no pueden. https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
 
 ## ~ Añadida en esta versión
 

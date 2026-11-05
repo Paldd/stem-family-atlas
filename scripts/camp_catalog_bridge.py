@@ -72,6 +72,7 @@ def integrate(catalog, dossier_report):
     report=deepcopy(dossier_report)
     previous=catalog.get('camp_programmes',{})
     managed=set(previous.get('generated_event_ids',[]))
+    previous_managed={e['id']:e for e in catalog['events'] if e['id'] in managed}
     events=[e for e in catalog['events'] if e['id'] not in managed]
     original={e['id']:e for e in events}
     countries={c['iso']:c for c in catalog['countries']}
@@ -112,9 +113,16 @@ def integrate(catalog, dossier_report):
                 p['calendar_links'].append(dict(start=start,end=end,kind='existing_programme',event_ids=ids))
                 for e in existing: links.append(dict(programme_id=p['id'],event_id=e['id'],relation='existing_programme'))
                 continue
-            if end<report['asof']:continue
             eid=p['id']+'-'+start.replace('-','')+'-'+end.replace('-','')
             if p['timing'].get('variant_keyed'):eid+='-'+variant['variant_key']
+            if end<report['asof']:
+                # Advancing the research date must not erase researched history.
+                # Do not invent new archival rows, but retain previously published ones.
+                if eid in previous_managed:
+                    new_events.append(deepcopy(previous_managed[eid]))
+                    p['calendar_links'].append(dict(start=start,end=end,kind='catalogue_session',event_ids=[eid]))
+                    links.append(dict(programme_id=p['id'],event_id=eid,relation='catalogue_session'))
+                continue
             family_fit=variant.get('family_fit',p['family_fit'])
             # A stay offering several optional workshops is not a robotics-only course.
             themes=[t for t in p['themes'] if t not in ['robotics','coding','ai']] if p['slug'] in GENERAL_STAYS else list(p['themes'])

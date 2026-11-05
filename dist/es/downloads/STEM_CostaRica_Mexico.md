@@ -183,9 +183,9 @@ Oscar: Sí por edad en mTiny, Socker, Inspire/Starter; el código depende de la 
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: CreativaKids: ficha de categoría: regla de orden; recepción extranjera para confirmar
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: La edad varía: mTiny/Codey/Sumo/linea 01.01.2026; Inspire/Starter ○ intervalo de nacimiento de las reglas 2026. No se puede aplicar una regla a todas las disciplinas. No se ha encontrado una fecha de participación específica dentro de tres días. v 118: la edad al 01.01 en MTiny/Codey difiere de la de los rangos de Ispire/Starter. La entrada gratuita de coach registrado no significa un billete familiar gratuito; price metadata no es una cuenta final.
+Limitaciones: Primer bloque27–28 de noviembre: mTiny, Sumo, RoverX, línea, Intermediate, Explorer. Segundo28–29: Codey, Inspire, Signal Rise y Challenge. Soccer sin fecha. Se conserva el corte01.01.2026 de mTiny/Codey; Inspire/Starter usan otros intervalos de nacimiento. Cupo mundial sin confirmar.
 Fuente: https://www.creativakids.com/makex.php
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C043 · Torneo Mexicano de Robótica — TMR 2027
 
@@ -592,72 +592,72 @@ Comprobado: 2026-09-30
 
 ### C608 · MakeX México XII — mTiny Treasure Trail
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: 4–6 en 01.01.2026
 Matvey: No: 2017 g.p.8–9 en 01.01.2026, categoría máxima 6.
 Oscar: La edad es adecuada.: cualquiera 2020 g.p.5–6 en 01.01.2026; Acceso a la familia y lugar separado.
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Precio: Precio estructurado de la tienda: MXN 1 999,99 por 1 Niños/orden + coach. El precio está oculto cuando se solicita información en el actual HTML; Cuenta actual 2026, Exactamente los impuestos y las exenciones. Robot./Arenas y billetes de acompañante separados.
-Limitaciones: PDFp 2: 4–6 en 1 enero; Por lo tanto, 2020 Ajustado,2017 No encaja.. La autonomía de la Jr.. La tienda se refiere claramente a las familias., de la escuela extranjera/No se ha confirmado el proceso de órdenes. mTinyarena 7499.99 MXN ya incluye 1 Registro; bundle 16499.99 incluye 2, pero texto XI contra XII 2026: la aplicabilidad. Segunda mTiny-No se puede utilizar la inscripción para Matway.
+Limitaciones: PDFp 2: 4–6 en 1 enero; Por lo tanto, 2020 Ajustado,2017 No encaja.. La autonomía de la Jr.. La tienda se refiere claramente a las familias., de la escuela extranjera/No se ha confirmado el proceso de órdenes. mTinyarena 7499.99 MXN ya incluye 1 Registro; bundle 16499.99 incluye 2, pero texto XI contra XII 2026: la aplicabilidad. Segunda mTiny-No se puede utilizar la inscripción para Matway. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexmtinytreasuretrail.php
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C609 · MakeX México XII — Codey Rocky Theme Park
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-28 — 2026-11-29
 Edad: 6–9 años 01.01.2026; Un niño + mentor 18+
 Matvey: Sí, por edad — 2017: 8–9 años 01.01.2026; Autorización local para confirmar
 Oscar: Condicional — para 2020 Fecha mínima de nacimiento 6 en 01.01.2026 sólo al nacer 1 enero; Día exacto desconocido
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Precio: Precio estructurado de la tienda: MXN 1 999,99 por 1 Niños/orden + coach. El precio está oculto cuando se solicita información en el actual HTML; Cuenta actual 2026, Exactamente los impuestos y las exenciones. Robot./Arenas y billetes de acompañante separados.
-Limitaciones: PDFp 2: 6–9 en 01.01.2026. Matvey 2017 Ajustado; para Oscar 2020 mínimo 6 sólo se ejecuta con DOB 01.01.2020. Codey + expansion necesidad de la página; Relación expansion/pack 404, No se inventa el precio del equipo.. Tienda: Registro 1999.99 +robot 3999.99; arena 7999.99 Separados y sin registro. SKU imagen 2025, año de cuenta 2026/de la devolución. Las referencias de forma no se consideran dos inscripciones.
+Limitaciones: PDFp 2: 6–9 en 01.01.2026. Matvey 2017 Ajustado; para Oscar 2020 mínimo 6 sólo se ejecuta con DOB 01.01.2020. Codey + expansion necesidad de la página; Relación expansion/pack 404, No se inventa el precio del equipo.. Tienda: Registro 1999.99 +robot 3999.99; arena 7999.99 Separados y sin registro. SKU imagen 2025, año de cuenta 2026/de la devolución. Las referencias de forma no se consideran dos inscripciones. 28 de noviembre: registro 09:00–12:30, clasificatorias 15:00–19:30. 29 de noviembre: finales 09:00–14:00, premios 14:30–15:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexcodey.php
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C610 · MakeX México XII — Sumo Kits
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: Página: 6–12 y 9–15; PDF: 6–15 en 01.01.2026
 Matway: Sí, por edad; el subgrupo local confirma
 Oscar: Condicional: 6 años 01.01.2026 y el subgrupo adecuado
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: PDF y la página permite 1–2 Estudiantes + coach 18+, pero el producto de la inscripción describe a dos participantes. El mínimo y el subgrupo deberán ponerse de acuerdo con el organizador; Los dos hermanos sólo pueden ser cumplidos si se cumple la edad de Oscar.. Fechas 27–29.11 — ventana general del festival; No se encontró un día exacto de esta disciplina. Contribución y fecha de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: PDF y web permiten1–2 alumnos + coach18+, pero el producto de inscripción describe dos participantes. Acordar mínimo y subgrupo con el organizador; ambos hermanos solo si Oscar cumple la edad. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/sumokits.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C611 · MakeX México XII — RoverX
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: 11*18 por página local
 No: 11
 Oscar: No: 11
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: Se han obtenido de una página de la categoría la edad y la composición. Se ha encontrado una referencia al PDF, no se ha declarado la verificación de la identidad de este PDF. Fechas 27*29.11 ° ventana general del festival; no se ha encontrado un día exacto de esta disciplina. La contribución y el plazo de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: Edad y equipo tomados de la página de la categoría. PDF enlazado; no se declara revisión independiente de ese PDF. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/roverx.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C612 · MakeX México XII — Seguidor de Línea Kits
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: 6–15 en 01.01.2026
 Matway: Sí, por edad; autorización para confirmar
 Oscar: Condicional: 6 años 01.01.2026
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: 1–2 estudiante + coach 18+. Su robot de la lista de permisos; Un robot no puede ser un dos equipos.. Fechas 27–29.11 — ventana general del festival; No se encontró un día exacto de esta disciplina. Contribución y fecha de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: 1–2 alumnos + coach18+. Robot propio de la lista admitida; un robot no puede competir para dos equipos. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/seguidor_de_linea.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C613 · MakeX México XII — Soccer / CK World Cup
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: Soccer / CK World Cup: próxima convocatoria sin anunciar; las fechas generales MakeX no son fechas de esta disciplina.
 Edad: 4–18 por página local
 Matway: Sí, por edad; autorización para confirmar
 Oscar: Sí por edad; autorización para confirmar
@@ -666,72 +666,72 @@ Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar p
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
 Limitaciones: dos hermanos pueden formar un equipo mínimo de tamaño, pero se debe obtener un permiso extranjero por separado. No se ha recibido ninguna regla específica de la página. Fechas 27*29.11 ° ventana general del festival; no se ha encontrado un día preciso de esta disciplina. La contribución y el plazo de inscripción no se han publicado en las páginas que se leen.
 Fuente: https://www.creativakids.com/ck_world_cup.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C614 · MakeX México XII — Inspire Code Courier
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-28 — 2026-11-29
 Edad: 6–12; Nacimiento 02.01.2013–31.12.2020
 Matway: Sí, por el intervalo de nacimiento especificado; autorización para confirmar
 Óscar: Sí por el intervalo de nacimiento especificado; autorización para confirmar
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Restricciones: 1 participante y 18 + : Reglas 2026 V 1.2: misión normal y desconocida; trabajo de un niño sin pistas externas; documento de identidad para la verificación. Fechas 27*29.11 ° ventana general del festival; no se ha encontrado un día preciso de esta disciplina; contribución ni plazo de inscripción no se ha publicado en las páginas consultadas.
+Limitaciones: 1 participante y mentor18 + . Reglamento2026 V1.2: misión habitual y desconocida; trabajo infantil sin indicaciones externas y documento de identidad para verificación. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 28 de noviembre: registro 09:00–12:30, clasificatorias 15:00–19:30. 29 de noviembre: finales 09:00–14:00, premios 14:30–15:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexinspire.php
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C615 · MakeX México XII — Starter Signal Rise
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-28 — 2026-11-29
 Edad: 6–13; Nacimiento 02.01.2012–31.12.2020
 Matway: Sí, por el intervalo de nacimiento especificado; autorización para confirmar
 Óscar: Sí por el intervalo de nacimiento especificado; autorización para confirmar
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: Página local: 1–2 estudiante + 1 coach. Normas mundiales: 1–2 y 1–2 mentors 18 + . Papel engineering notebook Se necesitan premios especiales vinculados, si la etapa local los lleva a cabo; No es una promesa de tal recompensa.. Fechas 27–29.11 — ventana general del festival; No se encontró un día exacto de esta disciplina. Contribución y fecha de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: Web local:1–2 alumnos + 1 coach. Reglamento global:1–2 alumnos y1–2 mentors18 + . Engineering notebook en papel para premios especiales relacionados si los ofrece el evento local; sin promesa de premio. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 28 de noviembre: registro 09:00–12:30, clasificatorias 15:00–19:30. 29 de noviembre: finales 09:00–14:00, premios 14:30–15:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexstarter_signal_rise.php
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C616 · MakeX México XII — Starter All Core Journey Intermediate
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: 11–15 por página local
 No: 11
 Oscar: No: 11
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: Página 2026 se refiere a la guía 2024-2025: no se confirma la validez del reglamento. Fechas 27-29.11 ° ventana general del festival; no se ha encontrado un día exacto de esta disciplina. La contribución y el plazo de inscripción no se han publicado en las páginas que se leen.
+Limitaciones: La página2026 enlaza guía2024–2025: vigencia del reglamento sin confirmar. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexallcore.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C617 · MakeX México XII — Explorer Strategy Front
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-27 2026-11-28
 Edad: 8–15 por página local
 Sí, por edad; necesito socios 8+
 Oscar: No: Menos de 8
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: 2–4 estudiante + coach: Matvey necesita al menos un compañero adecuado.; Oscar 6 años no sustituye a un segundo participante. PDF Encontrado, No se lee por separado. Fechas 27–29.11 — ventana general del festival; No se encontró un día exacto de esta disciplina. Contribución y fecha de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: 2–4 alumnos + coach: Matvey necesita al menos otro compañero apto; Oscar de6 años no sustituye al segundo participante. PDF encontrado, sin lectura independiente. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 27 de noviembre: registro 09:00–12:00, clasificatorias 13:00–19:30. 28 de noviembre: finales 09:00–12:30, premios 12:30–13:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/explorer.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C618 · MakeX México XII — Challenge Storm Breaker
 
-Fecha: 2026-11-27 — 2026-11-29
+Fecha: 2026-11-28 — 2026-11-29
 Edad: 11–24 por página local
 No: 11
 Oscar: No: 11
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: Abrir el registro de la categoría de referencia vinculada; confirmar primero la aceptación, la contribución y la verificación de la edad extranjera
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
-Limitaciones: 2–8 Estudiantes + coach. Las reglas de referencia no se han leído por separado. Fechas 27–29.11 — ventana general del festival; No se encontró un día exacto de esta disciplina.. La contribución y el plazo de inscripción no se han publicado en las páginas consultadas.
+Limitaciones: 2–8 alumnos + coach. Reglamento enlazado sin lectura independiente. Cuota y cierre de inscripción sin publicar en las páginas consultadas. 28 de noviembre: registro 09:00–12:30, clasificatorias 15:00–19:30. 29 de noviembre: finales 09:00–14:00, premios 14:30–15:30. Zona America/Mexico_City.
 Fuente: https://www.creativakids.com/makexchallenge.php
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### ~#C662 · Robotifest UCR 2026
 

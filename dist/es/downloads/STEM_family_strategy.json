@@ -731,57 +731,14 @@
     ]
   },
   "nearby_participation_v118": {
-    "version": 118,
-    "checked": "2026-10-06",
+    "version": 140,
+    "checked": "2026-11-04",
     "status": "editorial_plan_with_unconfirmed_admission",
     "title": "Próximos comienzos · Costa Rica y México",
-    "scope": "las opciones seleccionadas para octubre de 2026 a febrero de 2027 y los equipos de temporada. no es un calendario regional o mundial completo.",
+    "scope": "Oportunidades actuales de noviembre y rutas futuras; eventos de octubre archivados en esta selección. Cobertura mundial parcial.",
     "age_note": "2017 /2020: en el 2026 ¿Qué es esto? 8–9 /5–6, en el 2027 —9–10 /6–7. No se sabe el día de nacimiento y el grado.; fijados 9/6 No se puede retrasar a cada fecha..",
-    "conclusion": "La primera salida internacional recomendada: MakeX CDMX, Oscar  mTiny + Matvey  Codey. VEX IQ 24 de octubre es útil solo en el equipo/robot ya listo. para 2027: preparación regular de FLL/VEX con un mentor; el itinerario no garantiza premios.",
+    "conclusion": "Oscar: mTiny27–28 de noviembre; Matvey: Codey28–29, previa confirmación de inscripción. Starter puede evaluarse juntos, pero cumplir DOB no confirma plazas, preparación ni coste final.",
     "items": [
-      {
-        "id": "C078",
-        "title": "TecPro · inicio local 08 de octubre",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "check",
-        "gate": "2 días antes del evento; el proyecto, la escuela, el socio y la sección de edad requieren una verificación.",
-        "step": "Oscar  Artifact en 6; Matvey  Game en 9 o Artifact en 8. documentación 07.10; las fechas de presentación virtual ya han pasado."
-      },
-      {
-        "id": "C001",
-        "title": "LUVÁ · comprobar la participación ya registrada",
-        "children": [
-          "matvey"
-        ],
-        "mode": "existing_only",
-        "gate": "Sumo LEGO Secundaria, la excepción menor no ha sido confirmada.",
-        "step": "comprobar el permiso por escrito, la certificación escolar y la preparación técnica; las inscripciones/pagos no demuestran excepción de edad."
-      },
-      {
-        "id": "C180",
-        "title": "VEX IQ · Museo Acertijo · 24 de octubre",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "check",
-        "gate": "Se puede tener un equipo familiar por edad; admisión a la escuela y independencia por separado.",
-        "step": "Portal 06.10:24/30 lugares, FREE. comprobar la cuenta del equipo, el robot Level Up y el notebook de papel; fecha 23.10 22:00 Costa Rica."
-      },
-      {
-        "id": "C662",
-        "title": "Robotifest UCR · 24–26 de octubre",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "visitor",
-        "gate": "la solicitud de concurso hasta el 30.09 ya está cerrada; la admisión de concurso menor no está demostrada.",
-        "step": "Para un nuevo equipo, se necesita una excepción, no una registro abierto habitual."
-      },
       {
         "id": "C608",
         "title": "MakeX · mTiny para el Oscar",
@@ -790,7 +747,7 @@
         ],
         "mode": "check",
         "gate": "4–6 en el 01.01.2026: 2020 d) el.y. Se pasa. un niño. + Adulto; Matvey fue excluido..",
-        "step": "Confirmar la solicitud/coach, una misión independiente de 6 minutos, su propio mTiny y el precio de 2026. No comprar una segunda matrícula para Matvey."
+        "step": "Oscar: confirmar mTiny y coach para 27–28 de noviembre. Matvey supera la edad mTiny. Pedir importe completo antes de comprar equipo."
       },
       {
         "id": "C609",
@@ -800,7 +757,7 @@
         ],
         "mode": "check",
         "gate": "6–9 en el 01.01.2026: 2017 d) el.y. Se pasa. Oscar sólo cuando DOB 01.01.2020; No se ha confirmado..",
-        "step": "Compruebe Codey + expansion, forma actual y técnica de cálculo y arena no entran en registro por separado."
+        "step": "Matvey: confirmar Codey y coach para 28–29 de noviembre. Para Oscar, tener mínimo6 años al 01.01.2026 exige nacimiento el 01.01.2020; sin fecha exacta no confirmar admisión."
       },
       {
         "id": "C614",
@@ -833,60 +790,6 @@
         "mode": "prepare",
         "gate": "a-MAZE-ing 8–15: Matvey está bien., Oscar 2020 hasta 8 no crecerá en 2027.",
         "step": "encontrar 2–4 estudiantes y un formato menor para el Oscar. límite 60 No el resto de lugares,580 USD No comprobado."
-      },
-      {
-        "id": "C1127",
-        "title": "FLL México · Founders Explore · práctica estacional",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "prepare",
-        "gate": "6–10; de ambos en 2027 por el marco de edad. el conjunto local/escuela/cuota por separado; No hay fecha de suceso.",
-        "step": "equipo regular, 10 clases, modelo + defensa. Explore  festival de demostración; la medalla para cada uno no es igual a la victoria."
-      },
-      {
-        "id": "C1128",
-        "title": "FLL México · Challenge · pista de competición Matvey",
-        "children": [
-          "matvey"
-        ],
-        "mode": "prepare",
-        "gate": "9–16; Oscar más abajo 9. SPIKE Prime/EV3 y un equipo separado, Las fechas del evento aún no se han anunciado..",
-        "step": "entrenar al robot, al proyecto y a los valores básicos; un equipo familiar independiente puede consultarse en la FAQ, confirmar la cuota local / compuesto / cuenta."
-      },
-      {
-        "id": "C1124",
-        "title": "LATI / LTRC · Junior · Sumo LEGO · primera jornada 2026",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "closed",
-        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
-        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
-      },
-      {
-        "id": "C1125",
-        "title": "LATI / LTRC · Junior · Seguidor de línea Kits · primera jornada 2026",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "closed",
-        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
-        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
-      },
-      {
-        "id": "C1126",
-        "title": "LATI / LTRC · Junior · Car Race · primera jornada 2026",
-        "children": [
-          "matvey",
-          "oscar"
-        ],
-        "mode": "closed",
-        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
-        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
       }
     ],
     "prices": [
@@ -1026,11 +929,107 @@
     ],
     "price_limits": "Los precios estructurados de la tienda han sido comprobados en 06.10; todavía se necesita una cuenta actual. el conjunto mTiny 16499.99: un robot, una arena y dos registros; la descripción XI contradice XII 2026  no se añade automáticamente. los enlaces Codey pack / expansion devuelven 404. las formas de la loja y las categorías difieren; el producto en disponibilidad no significa un lugar libre en el torneo. cuenta completa, impuestos, entrega, devolución, boletos de acompañamiento y noche aún no se han establecido.",
     "next_steps": [
-      "mostrarle a su mentor los proyectos actuales de ambos y comprobar su independencia.",
-      "elegir una salida más cercana, obtener las reglas de edad / equipo y el total de 2026.",
-      "Preparar 6 a 8 semanas de práctica: misiones, un diario de iteraciones, videos y una defensa de dos minutos.",
-      "para 2027 despedir a FLL Explore Oscar y Challenge / VEX Matvey, manteniendo un proyecto familiar conjunto.",
-      "El campamento debe ser elegido para las habilidades y vacaciones que faltan; el idioma, la edad, el pensión y el resultado real deben comprobarse por archivo."
+      "Elegir disciplinas y confirmar plazas, edad, robots e importe total; no usar ofertas vencidas de octubre.",
+      "Para WAICY preparar proyecto propio antes del 29 de noviembre16:00 Costa Rica. Appathon ya admite registro; entrega desde el 2 de diciembre."
+    ],
+    "archived_items": [
+      {
+        "id": "C078",
+        "title": "TecPro · inicio local 08 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "2 días antes del evento; el proyecto, la escuela, el socio y la sección de edad requieren una verificación.",
+        "step": "Oscar  Artifact en 6; Matvey  Game en 9 o Artifact en 8. documentación 07.10; las fechas de presentación virtual ya han pasado."
+      },
+      {
+        "id": "C001",
+        "title": "LUVÁ · comprobar la participación ya registrada",
+        "children": [
+          "matvey"
+        ],
+        "mode": "existing_only",
+        "gate": "Sumo LEGO Secundaria, la excepción menor no ha sido confirmada.",
+        "step": "comprobar el permiso por escrito, la certificación escolar y la preparación técnica; las inscripciones/pagos no demuestran excepción de edad."
+      },
+      {
+        "id": "C180",
+        "title": "VEX IQ · Museo Acertijo · 24 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "Se puede tener un equipo familiar por edad; admisión a la escuela y independencia por separado.",
+        "step": "Portal 06.10:24/30 lugares, FREE. comprobar la cuenta del equipo, el robot Level Up y el notebook de papel; fecha 23.10 22:00 Costa Rica."
+      },
+      {
+        "id": "C662",
+        "title": "Robotifest UCR · 24–26 de octubre",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "visitor",
+        "gate": "la solicitud de concurso hasta el 30.09 ya está cerrada; la admisión de concurso menor no está demostrada.",
+        "step": "Para un nuevo equipo, se necesita una excepción, no una registro abierto habitual."
+      },
+      {
+        "id": "C1127",
+        "title": "FLL México · Founders Explore · práctica estacional",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "prepare",
+        "gate": "6–10; de ambos en 2027 por el marco de edad. el conjunto local/escuela/cuota por separado; No hay fecha de suceso.",
+        "step": "equipo regular, 10 clases, modelo + defensa. Explore  festival de demostración; la medalla para cada uno no es igual a la victoria."
+      },
+      {
+        "id": "C1128",
+        "title": "FLL México · Challenge · pista de competición Matvey",
+        "children": [
+          "matvey"
+        ],
+        "mode": "prepare",
+        "gate": "9–16; Oscar más abajo 9. SPIKE Prime/EV3 y un equipo separado, Las fechas del evento aún no se han anunciado..",
+        "step": "entrenar al robot, al proyecto y a los valores básicos; un equipo familiar independiente puede consultarse en la FAQ, confirmar la cuota local / compuesto / cuenta."
+      },
+      {
+        "id": "C1124",
+        "title": "LATI / LTRC · Junior · Sumo LEGO · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      },
+      {
+        "id": "C1125",
+        "title": "LATI / LTRC · Junior · Seguidor de línea Kits · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      },
+      {
+        "id": "C1126",
+        "title": "LATI / LTRC · Junior · Car Race · primera jornada 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "closed",
+        "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
+        "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      }
     ]
   },
   "nearby_participation_v132": {
