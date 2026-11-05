@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 4206,
-    "competition_cards": 1274,
+    "cards": 4225,
+    "competition_cards": 1293,
     "event_cards": 219,
     "camp_cards": 2713,
     "league_profiles": 147,
     "major_exhibition_cards": 137,
     "vex_cards": 518,
-    "countries_with_records": 86,
+    "countries_with_records": 87,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,9 +34,9 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1398,
+      "total": 1402,
       "countries_with_records": 14,
-      "competitions": 579,
+      "competitions": 583,
       "events": 58,
       "major_exhibitions": 19,
       "camps": 761,
@@ -62,9 +62,9 @@
       "regions": [
         "Европа"
       ],
-      "total": 1397,
+      "total": 1401,
       "countries_with_records": 22,
-      "competitions": 174,
+      "competitions": 178,
       "events": 67,
       "major_exhibitions": 47,
       "camps": 1156,
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 937,
-      "countries_with_records": 24,
-      "competitions": 237,
+      "total": 947,
+      "countries_with_records": 25,
+      "competitions": 247,
       "events": 66,
       "major_exhibitions": 58,
       "camps": 634,
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 45,
+      "total": 46,
       "countries_with_records": 4,
-      "competitions": 28,
+      "competitions": 29,
       "events": 4,
       "major_exhibitions": 2,
       "camps": 13,
@@ -1220,11 +1220,35 @@
       "event_ids": [
         "C040",
         "C064",
-        "C1170"
+        "C1050",
+        "C1051",
+        "C1052",
+        "C1053",
+        "C1056",
+        "C1170",
+        "C1276",
+        "C1277",
+        "C1278",
+        "C1279",
+        "C1280",
+        "C1281",
+        "C1282",
+        "C1283",
+        "C1284",
+        "C1285",
+        "C1286",
+        "C1287",
+        "C1288",
+        "C1289",
+        "C1290",
+        "C1291",
+        "C1292",
+        "C1293",
+        "C1294"
       ],
-      "cards": 3,
-      "future_dated": 2,
-      "linked_card_count": 3,
+      "cards": 27,
+      "future_dated": 25,
+      "linked_card_count": 27,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.bebras.org/countries",
       "new": false
@@ -2776,7 +2800,7 @@
         "C1056"
       ],
       "cards": 5,
-      "future_dated": 4,
+      "future_dated": 5,
       "linked_card_count": 5,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.informatik-biber.ch/was-ist-der-informatik-biber/",

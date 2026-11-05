@@ -652,6 +652,19 @@ Limitaciones: NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invi
 Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
 Se ha comprobado: 2026-11-04
 
+### C1291 · Taiwan Bebras 115-1 · Grades 5–6
+
+Fecha: 2026-11-09 — 2026-11-20
+edad: Grupo menor publicado: Grades 5–6; luego 7–8, 9–10, 11–12. Sin Kits 6–8 en página taiwanesa.
+Matvey: Condicional: verificar categoría escolar, acceso desde Costa Rica e idioma de las tareas oficiales.
+Oscar: Condicional solo con Grade 5–6 confirmado; sin trasladar reglas Kits de EE. UU.
+Idioma: EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.
+Acceso: Docente con cuenta verificada registra clase escolar. Solicitudes 21 de septiembre–22 de octubre; ahora para ya inscritos. Resultados / participation proof 4 de diciembre. Acceso privado familiar / extranjero sin confirmar.
+Precio: Sin importe establecido por páginas vigentes; sin asumir gratuidad.
+Limitaciones: Curso 115 = 2026/27. 2–6 de noviembre es practice, no resultado oficial; ambos semestres usan mismas tareas. Idioma de interfaz no prueba EN / ES.
+Fuente: https://bebras.csie.ntnu.edu.tw/
+Se ha comprobado: 2026-11-05
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

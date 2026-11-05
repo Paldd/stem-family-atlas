@@ -361,13 +361,13 @@ Comprobado: 2026-09-29
 Fecha: 2026-11-09 国 2026-11-13
 Edad: Reglamento básico: 3–6 Clases primaria; La página principal también indica Pre-Ecolier para 2 Clase
 Matway: Condicionalmente en clase.
-Óscar: No para 1o grado; 2o grado debe ser aclarado
+Oscar: Condicional: curso real desconocido; discrepancia anterior entre 2º y 3–6 sin resolver.
 Idioma: ES
-Entrada: El profesor registra la escuela Costa Rica; Registro 28.09–16.10; Trabajos escolares durante el horario escolar
+Acceso: Solo escuela / institución, no padres. Confirmados 28 de septiembre–16 de octubre de 2026, coste 4000 CRC con IVA. Verificar ahora solicitud escolar ya presentada; sin nueva inscripción familiar libre.
 Precio: 4000 CRC por alumno, IVA incluido, según portal oficial Bebras Costa Rica.
 Limitaciones: Edad 9 Años no prueba 3 Clase. Comprueba esto. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.
-Fuente: https://cangurocr.org/bebras/agenda
-Se ha comprobado: 2026-11-04
+Fuente: https://costarica.cuttle.org/index.php?action=content&id=31
+Se ha comprobado: 2026-11-05
 
 ### C072 · Pokémon Puebla ♫ 2027
 
@@ -1414,13 +1414,13 @@ Comprobado: 2026-10-02
 Fecha: 2026-11-09 — 2026-11-30
 edad: 6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.
 Matvey: Sí por edad; confirmar curso y participación desde Costa Rica.
-Oscar: Condicional: 6 cumplidos y mínimo curso 1; cumpleaños y curso desconocidos.
+Oscar: Condicional: familia indica que Oscar ya tiene 6; requiere mínimo 1er curso y confirmar participación desde Costa Rica.
 Idioma: Español indicado expresamente en la convocatoria.
 Acceso: Un progenitor puede administrar cuenta familiar / homeschool; escuela no obligatoria. CURP y email infantiles opcionales en modalidad familiar; registro independiente tiene otros requisitos. Claves pueden tardar hasta 72 horas; recomiendan registrarse antes del 9 de noviembre.
 Precio: Gratis: convocatoria indica 100% gratuita.
 Limitaciones: Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.
 Fuente: https://bebras.mx/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-05
 
 ### C1171 · RoboJam MX Norestense · ASFM · 2027
 

@@ -2948,6 +2948,66 @@
       "registration_status": "Registro y horario completo prometidos para más adelante."
     },
     {
+      "id": "C1291",
+      "block": "Competiciones",
+      "title": "Taiwan Bebras 115-1 · Grades 5–6",
+      "country": "Taiwán",
+      "iso": [
+        "TWN"
+      ],
+      "region": "Asia",
+      "city": "Mediante escuela / coordinador admitido",
+      "start": "2026-11-09",
+      "end": "2026-11-20",
+      "period": "Periodo para una sesión elegida, sin programa diario. El coordinador admitido fija la sesión.",
+      "date_status": "Confirmado",
+      "deadline": "2026-10-22",
+      "age": "Grupo menor publicado: Grades 5–6; luego 7–8, 9–10, 11–12. Sin Kits 6–8 en página taiwanesa.",
+      "mat": "Condicional: verificar categoría escolar, acceso desde Costa Rica e idioma de las tareas oficiales.",
+      "osc": "Condicional solo con Grade 5–6 confirmado; sin trasladar reglas Kits de EE. UU.",
+      "format": "Individual; coordinador escolar / adulto según las reglas locales.",
+      "entry": "Docente con cuenta verificada registra clase escolar. Solicitudes 21 de septiembre–22 de octubre; ahora para ya inscritos. Resultados / participation proof 4 de diciembre. Acceso privado familiar / extranjero sin confirmar.",
+      "gear": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+      "language": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+      "cost": "Sin importe establecido por páginas vigentes; sin asumir gratuidad.",
+      "level": "Etapa nacional de una iniciativa educativa internacional.",
+      "reward": "Conservar puntuación concreta y tipo de reconocimiento nacional. Certificado de participación no equivale a puesto premiado ni victoria en final mundial.",
+      "priority": "P2 — verificar admisión y preparación para el próximo periodo",
+      "action": "Confirmar primero categoría, coordinador, acceso e idioma; después decidir sobre la solicitud.",
+      "source": "https://bebras.csie.ntnu.edu.tw/",
+      "proof": "Leídas página primaria vigente y fuentes enlazadas indicadas; incertidumbres conservadas.",
+      "checked": "2026-11-05",
+      "status": "Investigado; solicitud familiar sin tramitar.",
+      "note": "Curso 115 = 2026/27. 2–6 de noviembre es practice, no resultado oficial; ambos semestres usan mismas tareas. Idioma de interfaz no prueba EN / ES.",
+      "themes": [
+        "coding",
+        "technology"
+      ],
+      "scope": "national",
+      "importance_reason": "Evaluación útil del pensamiento computacional; nivel del premio definido por documento nacional, no por el nombre Bebras.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+      "participation": "individual",
+      "admission_kind": "school",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "Bebras",
+          "url": "https://bebras.csie.ntnu.edu.tw/",
+          "checked": "2026-11-05"
+        },
+        {
+          "label": "Teacher account FAQ",
+          "url": "https://bebras.csie.ntnu.edu.tw/question/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "date_scope": "assessment_window",
+      "grade_min": 5,
+      "grade_max": 6
+    },
+    {
       "id": "CP025-20270705-20270710",
       "block": "Campamentos",
       "title": "Camp Taiwan · el verano 2027 · El conjunto no está abierto. · 2027-07-05–2027-07-10",

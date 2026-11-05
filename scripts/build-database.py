@@ -90,6 +90,8 @@ from camp_latam_v155 import enrich_v155
 enrich_v155(d)
 from robofest_routes_v156 import enrich_v156
 enrich_v156(d)
+from bebras_routes_v157 import enrich_v157
+enrich_v157(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']

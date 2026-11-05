@@ -1203,9 +1203,9 @@
       "deadline": "2026-10-16",
       "age": "el reglamento principal: 3–6 las clases primaria; la página principal también indica Pre-Ecolier para el 2 de clase",
       "mat": "condicionalmente por clase",
-      "osc": "no para 1a clase; 2a clase requiere aclaraciones",
+      "osc": "Condicional: curso real desconocido; discrepancia anterior entre 2º y 3–6 sin resolver.",
       "format": "individuales, 45 minutos; a través de la escuela",
-      "entry": "el maestro registra la escuela Costa Rica; registro 28.09–16.10; tareas en la escuela en el tiempo de la escuela",
+      "entry": "Solo escuela / institución, no padres. Confirmados 28 de septiembre–16 de octubre de 2026, coste 4000 CRC con IVA. Verificar ahora solicitud escolar ya presentada; sin nueva inscripción familiar libre.",
       "gear": "computadora / tableta / iPad, navegador y Internet",
       "language": "ES",
       "cost": "4000 CRC por alumno, IVA incluido, según portal oficial Bebras Costa Rica.",
@@ -1213,9 +1213,9 @@
       "reward": "Certificado digital a todos; mejor 10% nacional de categoría recibe mención y publicación oficial. Reconocimiento nacional, sin título mundial.",
       "priority": "P2 — registro terminado; comprobar inscripción escolar previa",
       "action": "Comprobar con escuela si los hijos quedaron registrados antes del 16 de octubre y categoría. Sin registro previo no se promete admisión tardía; evaluar reglas propias de Bebras México.",
-      "source": "https://cangurocr.org/bebras/agenda",
-      "proof": "Releídos JSON oficiales agenda/reglamento y portal cuttle: plazos, vía escolar, 4000 CRC con IVA y premios. Discrepancia sobre curso 2 sin resolver.",
-      "checked": "2026-11-04",
+      "source": "https://costarica.cuttle.org/index.php?action=content&id=31",
+      "proof": "Leída página operativa Costa Rica Cuttle con Fechas importantes 2026. Cangurocr principal entrega solo envoltura JS vacía; sin actualizar reglamento de edades que no pudo leerse.",
+      "checked": "2026-11-05",
       "status": "Idea",
       "note": "No se puede probar que los niños de 9 años son de 3o grado. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.",
       "iso": [
@@ -1249,7 +1249,9 @@
           "url": "https://costarica.cuttle.org/index.php?action=content&id=31"
         }
       ],
-      "registration_status": "Registro terminó el 16.10.2026. Sin solicitud familiar directa; excepción tardía no confirmada."
+      "registration_status": "Registro terminó el 16.10.2026. Sin solicitud familiar directa; excepción tardía no confirmada.",
+      "date_scope": "assessment_window",
+      "language_mode": "primary"
     },
     {
       "block": "Competiciones",
@@ -6101,7 +6103,7 @@
       "date_status": "Confirmado",
       "age": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
       "mat": "Sí por edad; confirmar curso y participación desde Costa Rica.",
-      "osc": "Condicional: 6 cumplidos y mínimo curso 1; cumpleaños y curso desconocidos.",
+      "osc": "Condicional: familia indica que Oscar ya tiene 6; requiere mínimo 1er curso y confirmar participación desde Costa Rica.",
       "format": "Individual: una sesión continua de 50 minutos; cuenta familiar administra accesos separados de los hijos.",
       "entry": "Un progenitor puede administrar cuenta familiar / homeschool; escuela no obligatoria. CURP y email infantiles opcionales en modalidad familiar; registro independiente tiene otros requisitos. Claves pueden tardar hasta 72 horas; recomiendan registrarse antes del 9 de noviembre.",
       "gear": "Dispositivo con internet por participante; ordenador, tableta o teléfono. Sin robot ni equipo de pago.",
@@ -6117,7 +6119,7 @@
       "action": "Comprobar curso, cumpleaños de Oscar y admisión familiar desde CR; después el progenitor elige la modalidad familiar. Preparar claves con antelación.",
       "source": "https://bebras.mx/",
       "proof": "Leídas convocatoria de 3 páginas, portada y modalidad familiar; verificadas fechas, gratuidad, ES y datos de cuenta.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "status": "Idea",
       "note": "Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.",
       "deadline_note": "Último día de registro 30.11.2026; hora y UTC no publicados. Hasta 72 horas para claves; evitar registro y prueba el último día.",

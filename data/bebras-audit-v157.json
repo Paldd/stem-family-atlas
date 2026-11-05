@@ -1,0 +1,65 @@
+{
+  "version": 157,
+  "checked": "2026-11-05",
+  "scope": "National Bebras 2026/27 routes, family access, language, fees, distinct awards and uncertain calendars.",
+  "previous_published_commit": "3a457506199808f96c7110ee3e1daf32b2d69263",
+  "previous_workflow_run": 42028833290,
+  "new_competition_records": 19,
+  "new_learning_records": 0,
+  "new_dossiers": 0,
+  "new_budget_offers": 0,
+  "updated_event_ids": [
+    "C040",
+    "C064",
+    "C1050",
+    "C1051",
+    "C1056",
+    "C1170"
+  ],
+  "updated_league_profiles": [
+    "bebras",
+    "bebras-europe-three"
+  ],
+  "new_country_with_records": "CYP",
+  "verified_findings": [
+    "19 new national/category records across USA, UK, Canada, India, Ireland, Dominican Republic, Australia, China, Korea, Taiwan, Cyprus and Japan; six existing cards refreshed.",
+    "US age bands are distinct from UK suggested ages and school years. UK Kits/Castors allow up to three per team, without establishing a mixed-age brother team.",
+    "Mexico free family route and Costa Rica school-only closed October 16 route remain distinct; CRC 4000 local charge verified from readable Cuttle page.",
+    "Canada Grade 6 or below may enter 5/6; no false lower grade cutoff. Minimum ten-access CAD 35 order and in-person school supervision preserved; Distinction is school top quarter.",
+    "India English 8-18, school-only registration and issued-access home sitting verified. Australia announces 2027 window, 60-minute Middle Primary and team up to four.",
+    "China A1 Grade 1, A2 Grade 2, B Grades 3-4 verified on official linked table. Chinese/English, HKD fee, school-approved online format and regional awards kept separate from global recognition.",
+    "Korea Primary groups I/II main test 30/35 minutes plus separate eight-question 35-minute AI supplement verified against table, without duplicating it as another independently entered championship.",
+    "Cyprus round one and conditional up-to-50 selection are distinct from tentative February final. Japan is explicitly school-led and non-ranking, with optional participation proof.",
+    "EHU only announces a start; no invented end or daily sessions. Official competition windows, practice, school certificates, national percentiles and placing medals are distinct."
+  ],
+  "unresolved": [
+    "Actual school grades remain unknown; prior optional family question is unanswered. All official foreign admission stays conditional.",
+    "Global countries directory did not return a readable current list. Online forms and parental passports do not establish national eligibility or medal ranking.",
+    "Costa Rica Cuttle confirms dates, fee and school-only entry, while the Canguro pages are JavaScript shells: the local age discrepancy is not freshly resolved.",
+    "Australia deadline says Friday 18 March 2027, a Thursday. Preserve the announced February 8 to March 19 window but quarantine the deadline. General AMT foreign availability does not prove specific Bebras eligibility.",
+    "Ireland 2026 headline conflicts with lower 2025 text and linked old handbooks. Cyprus Primary PDF contains secondary-school boilerplate; second round and venues remain tentative.",
+    "Korea PDF October 30 deadline is superseded by October 29 extension and live November 13 date. AI supplement does not authorize chatbot assistance or establish a separate medal.",
+    "China uses the organizer and its linked level table. Secondary bebras.org.cn identity not established. Mainland dates not copied to separate Hong Kong/Macao editions; overseas online admission and exact timezone unresolved.",
+    "UK form hours, China sitting and Cyprus closing time have no explicit timezone; no invented UTC event. UK credentials promised by November 6 are not a registration deadline.",
+    "Singapore registration still describes February/March 2026; next intake unannounced. Vietnam preliminary window and later registration close conflict. Indonesia language and foreign gates unverified. Saudi page could not be archived due SSL chain failure; no new record inferred.",
+    "Worldwide competitions, exhibitions, camps, schools, routes and historic awards remain incomplete; no country fully audited."
+  ],
+  "source_hash_verified_responses": 58,
+  "readable_primary_source_responses": 51,
+  "source_requests_failed": 10,
+  "pdf_visual_review": [
+    "Korea AI table page 1",
+    "Korea participation page 2",
+    "Cyprus Primary page 1"
+  ],
+  "image_visual_review": [
+    "SEED-ASDAN linked level/grade/date/time/score table"
+  ],
+  "browser_ui_validation": "not-run-data-only-release",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "registrations": 0,
+  "payments": 0,
+  "organizer_messages": 0,
+  "agreements_accepted": 0
+}

@@ -1,0 +1,648 @@
+{
+  "version": 157,
+  "checked": "2026-11-05",
+  "requests": 68,
+  "responses": [
+    {
+      "key": "au-amt",
+      "url": "https://amt.edu.au/bebras",
+      "final_url": "https://amt.edu.au/bebras",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 197396,
+      "sha256": "1051a9a6221e599ece8d80afd5da4977a885b7de15a2705b6b08c98c4b0da182",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "ie-ics",
+      "url": "https://ics.ie/bebras/",
+      "final_url": "https://ics.ie/bebras/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 142706,
+      "sha256": "1335ba39674780b2a0f9d391c803ac2dcd67aa18c0d111239a36a145c5e54a79",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "in-home",
+      "url": "https://bebras.cspathshala.org/",
+      "final_url": "https://bebras.cspathshala.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8851,
+      "sha256": "c313c55588af61394c01bf2d17342310c3e6521cc89d55bb33465e5b635bd2be",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "in-teacher",
+      "url": "https://bebras.cspathshala.org/index.php?action=content&id=5",
+      "final_url": "https://bebras.cspathshala.org/index.php?action=content&id=5",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7713,
+      "sha256": "6c7dee50c0eb5bda72060d271d000bc4d5646f24ac5882871d325e29fbe22c4d",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-group",
+      "url": "https://www.bebras.kr/group/",
+      "final_url": "https://www.bebras.kr/group/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 13152,
+      "sha256": "cf41ccf6d75c25e3f4c5a085e6f9e747edd60b503e428c35398520499b76ba87",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-ai",
+      "url": "https://www.bebras.kr/board/notice/view/152/",
+      "final_url": "https://www.bebras.kr/board/notice/view/152/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 13820,
+      "sha256": "8a01117cce2bdb3117d09899044db327b91523c96549c1a4523d496440a65b0e",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-extension",
+      "url": "https://www.bebras.kr/board/notice/view/153/",
+      "final_url": "https://www.bebras.kr/board/notice/view/153/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 11905,
+      "sha256": "224d028b0360f78b3bfd861a843a2ae4202d99a8733fe50806599217064bc465",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "tw-faq",
+      "url": "https://bebras.csie.ntnu.edu.tw/question/",
+      "final_url": "https://bebras.csie.ntnu.edu.tw/question/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 13780,
+      "sha256": "d6d0dd0ce0032dff85814fb7af2811d79ecfde4c0b27a48dad4306974b83c392",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "ca-terms",
+      "url": "https://cemc.uwaterloo.ca/online-ordering-terms-and-conditions",
+      "final_url": "https://cemc.uwaterloo.ca/online-ordering-terms-and-conditions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51613,
+      "sha256": "de8394524ea3abace98eee4c11ae4d358694a0ff5f4c0862d2a700d117aa84ec",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "ca-practice",
+      "url": "https://beavercomputingchallenge.ca/",
+      "final_url": "https://beavercomputingchallenge.ca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6154,
+      "sha256": "b6f67bace090b3289a066f14005288ba1f7e54f500657012edd16bb77550e7d0",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "us-practice",
+      "url": "https://challenge.bebraschallenge.org/index.php?action=user_competitions",
+      "final_url": "https://challenge.bebraschallenge.org/index.php?action=user_competitions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 4180,
+      "sha256": "012815b68a794e34fe3e0c126ed7ad92a1899a74cf5b16d04a4cccd9fd22033b",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cr-cuttle-welcome",
+      "url": "https://costarica.cuttle.org/index.php?action=content&id=1",
+      "final_url": "https://costarica.cuttle.org/index.php?action=content&id=1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 4328,
+      "sha256": "7226cf18b9a70247987a17c775d50654dd7594034656f297a26dff0cbf03938a",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-ai-pdf",
+      "url": "https://assets.bebras.kr/uploaded/notice/152/72679084-4a8e-4864-b48e-2a920cc32927/%EB%B6%99%EC%9E%842_%EB%B9%84%EB%B2%84_AI_%EC%B1%8C%EB%A6%B0%EC%A7%80_%EC%95%88%EB%82%B4.pdf",
+      "final_url": "https://assets.bebras.kr/uploaded/notice/152/72679084-4a8e-4864-b48e-2a920cc32927/%EB%B6%99%EC%9E%842_%EB%B9%84%EB%B2%84_AI_%EC%B1%8C%EB%A6%B0%EC%A7%80_%EC%95%88%EB%82%B4.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1228291,
+      "sha256": "b8af03a07f4974bb2c8ee0b352dbca1b5e4dd94c73caa688efb5a3fbe5dc3e38",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-how-pdf",
+      "url": "https://assets.bebras.kr/uploaded/notice/152/89c95100-ea56-4ff2-9b7d-8a17c53fe1e7/%EB%B6%99%EC%9E%841_%EB%B9%84%EB%B2%84%EC%B1%8C%EB%A6%B0%EC%A7%80_2026_%EC%B0%B8%EA%B0%80%EB%B0%A9%EB%B2%95.pdf",
+      "final_url": "https://assets.bebras.kr/uploaded/notice/152/89c95100-ea56-4ff2-9b7d-8a17c53fe1e7/%EB%B6%99%EC%9E%841_%EB%B9%84%EB%B2%84%EC%B1%8C%EB%A6%B0%EC%A7%80_2026_%EC%B0%B8%EA%B0%80%EB%B0%A9%EB%B2%95.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 210289,
+      "sha256": "3583ecccac9d68bfbf7faaecc2c3c9ecb0efc69909cc30bb179e827b42a1a063",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cy-primary-pdf",
+      "url": "https://bebras.org.cy/assets/files/ANNOUNCEMENTS/BebrasAnnouncement%28PRIMARY%202026-2027%29%28English%29.pdf",
+      "final_url": "https://bebras.org.cy/assets/files/ANNOUNCEMENTS/BebrasAnnouncement%28PRIMARY%202026-2027%29%28English%29.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 203069,
+      "sha256": "5bf5ceba6ecd190ab198bb7a91df1abc9ab615980a3590ea57834339ebca78a2",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cn-organizer",
+      "url": "https://www.seedasdan.asia/en/bebras-en/",
+      "final_url": "https://www.seedasdan.asia/en/bebras-en/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 615091,
+      "sha256": "70f4d32b8ef89afe0af3a2cae7f156c1533af31dcebda9bbd053ee1897638d0d",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "jp-home",
+      "url": "https://bebras.eplang.jp/",
+      "final_url": "https://bebras.eplang.jp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20839,
+      "sha256": "0d19cdb8fcbf5471eb2809d3a2b6689d78977fe6f4bfc29146e891af70e5b8c5",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "au-competitions",
+      "url": "https://amt.edu.au/competitions",
+      "final_url": "https://amt.edu.au/competitions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 265846,
+      "sha256": "1276016f0bee9b9b6afe101331e16c2698ecb22083f09b73dd2dbf8bb9245b95",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "in-register",
+      "url": "https://www.bebras.in/register",
+      "final_url": "https://www.bebras.in/register",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 180932,
+      "sha256": "80c2ab3b1c834d2b3f4b9744a5ffc70b6fb006dcca4692aab3aeb4f0a8ffc359",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "in-about",
+      "url": "https://www.bebras.in/",
+      "final_url": "https://www.bebras.in/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 159640,
+      "sha256": "8720cf1d56785e519f679386613a4a28c6bb036772f2ffe2ad63c45b3a25a615",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cy-announcement",
+      "url": "https://www.bebras.org.cy/en/news/view-article/article/announcement-of-bebras-challenge-2026-2027-for-primary-%26amp%3B-gymnasium-students",
+      "final_url": "https://www.bebras.org.cy/en/news/view-article/article/announcement-of-bebras-challenge-2026-2027-for-primary-%26amp%3B-gymnasium-students",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 16522,
+      "sha256": "611c6bf47668ac77bdacc069670c96ef7b3ae99bf0a95ae3e5c54e5a21e10fac",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cn-apply",
+      "url": "https://bebras.org.cn/apply",
+      "final_url": "https://bebras.org.cn/apply",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 54039,
+      "sha256": "c0aa475dbd168f3cca5d7556fcb11df903ee1730ef9ad500e50cd5bbddf626b6",
+      "content_status": "secondary_identity_unverified_not_used_for_records"
+    },
+    {
+      "key": "cn-home",
+      "url": "https://bebras.org.cn/",
+      "final_url": "https://bebras.org.cn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70710,
+      "sha256": "d25920cd13aeeba878fc91d9ae597ebc938f144f70161217f73593b7271e5943",
+      "content_status": "secondary_identity_unverified_not_used_for_records"
+    },
+    {
+      "key": "cn-level-table",
+      "url": "https://seed-static.seedasdan.com/wordpress/2025/06/bebras%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4.png",
+      "final_url": "https://seed-static.seedasdan.com/wordpress/2025/06/bebras%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 73590,
+      "sha256": "fd15c8092a62c8626adf3d481eccc82a2882a342aa6fc02dd165326a861b128a",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cn-score-table",
+      "url": "https://seed-static.seedasdan.com/wordpress/2025/06/219a5420d9abd9e6afc6075d23bde9f.png",
+      "final_url": "https://seed-static.seedasdan.com/wordpress/2025/06/219a5420d9abd9e6afc6075d23bde9f.png",
+      "status": 200,
+      "mime": "image/png",
+      "bytes": 331618,
+      "sha256": "db6d4ea29e3b4e531f7dfc34967df675cdad8140bba4762d0157710897df7c6b",
+      "content_status": "logo_not_rules_evidence"
+    },
+    {
+      "key": "us-home",
+      "url": "https://bebraschallenge.org/",
+      "final_url": "https://bebraschallenge.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 113592,
+      "sha256": "7f557585e20fb154fb3e5e1456e9ed6b5e597ca242a6c4e824eafbde10055215",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "us-platform",
+      "url": "https://challenge.bebraschallenge.org/",
+      "final_url": "https://challenge.bebraschallenge.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 5363,
+      "sha256": "d48458a0feecd69eb97fd0a9c680454ebf4359cabcefe4c9475eedeada4f63e2",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-home-education",
+      "url": "https://form.raspberrypi.org/4874156",
+      "final_url": "https://form.raspberrypi.org/4874156",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29647,
+      "sha256": "35b08991b2a2a76ee74df0dc248ab2ce616b495562a46d1f11683006bc83b4a9",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "spain-ehu",
+      "url": "https://bebras.ehu.eus/",
+      "final_url": "https://bebras.ehu.eus/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 570449,
+      "sha256": "baeb34396ccf9acb889620f5367f44a3bb7cadc4351ca9d80801fa2ef69755a9",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "mx-home",
+      "url": "https://bebras.mx/",
+      "final_url": "https://bebras.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 110590,
+      "sha256": "9c9f44249a99faf063273a10daddd6cefd8951a0d8b41a06bc0d8a74cafb7d23",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "mx-platform",
+      "url": "https://maestros.bebras.mx/",
+      "final_url": "https://maestros.bebras.mx/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 10102,
+      "sha256": "92209bf2892bd941584fa2e5c3f44f4fe0cebc5f7d7a7c1944c4a20bf2f207fe",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "cr-agenda",
+      "url": "https://cangurocr.org/bebras/agenda",
+      "final_url": "https://cangurocr.org/bebras/agenda",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 469,
+      "sha256": "61b42cfe641b859f3287f8ebc03eabcb323bc6fa2851975f51bb96934e5a4048",
+      "content_status": "javascript_shell_not_rules_evidence"
+    },
+    {
+      "key": "cr-rules",
+      "url": "https://cangurocr.org/bebras/reglamento",
+      "final_url": "https://cangurocr.org/bebras/reglamento",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 469,
+      "sha256": "61b42cfe641b859f3287f8ebc03eabcb323bc6fa2851975f51bb96934e5a4048",
+      "content_status": "javascript_shell_not_rules_evidence"
+    },
+    {
+      "key": "cr-home",
+      "url": "https://cangurocr.org/bebras",
+      "final_url": "https://cangurocr.org/bebras",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 469,
+      "sha256": "61b42cfe641b859f3287f8ebc03eabcb323bc6fa2851975f51bb96934e5a4048",
+      "content_status": "javascript_shell_not_rules_evidence"
+    },
+    {
+      "key": "cr-cuttle",
+      "url": "https://costarica.cuttle.org/index.php?action=content&id=31",
+      "final_url": "https://costarica.cuttle.org/index.php?action=content&id=31",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7329,
+      "sha256": "f0bd746c3cb68a1cace75cde90d38b236d4bd487292f5cd69b3712bf4ff5a6ab",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "rd-home",
+      "url": "https://www.bebras.org.do/",
+      "final_url": "https://www.bebras.org.do/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 20535,
+      "sha256": "4b44f6df0e5baa4253c32eb482918729faccec772ee8281b6789caf7437c7ae9",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "rd-faq",
+      "url": "https://www.bebras.org.do/preguntas-frecuentes",
+      "final_url": "https://www.bebras.org.do/preguntas-frecuentes",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 25892,
+      "sha256": "f7c85efe95a77c9fed7ad737863bd05294e35c7efb352606ec919ffd770a2ba1",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "rd-participate",
+      "url": "https://www.bebras.org.do/como-participar",
+      "final_url": "https://www.bebras.org.do/como-participar",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 17597,
+      "sha256": "1837a7eb0d3ec0bc241c6ec305f4db31d126fa21e9bb983ea5d532e388ef040e",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "ca-waterloo",
+      "url": "https://cemc.uwaterloo.ca/contests/bcc.html",
+      "final_url": "https://cemc.uwaterloo.ca/contests/bcc",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 72740,
+      "sha256": "3517841470d823c55c8e35f96c72c650fba9aadc333aec3003da33fc5e7b23e5",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "global-home",
+      "url": "https://www.bebras.org/",
+      "final_url": "https://www.bebras.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1374,
+      "sha256": "340fdd286902f9e477f810ec7a19291673bc04cdf880daf57c69907590ff2a43",
+      "content_status": "javascript_shell_not_rules_evidence"
+    },
+    {
+      "key": "jp-ioi",
+      "url": "https://www.ioi-jp.org/junior/bebras2026.html",
+      "final_url": "https://www2.ioi-jp.org/junior/bebras2026.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14774,
+      "sha256": "c8a132597d182bfea37a0866b9c7a7f9b4a8123cc132a09e940adeda8dc41ff4",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-home-retry",
+      "url": "https://bebras.uk/",
+      "final_url": "https://bebras.uk/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12012,
+      "sha256": "a1120246dad85f496f5920b5f68cff2bd94b6132130f40668f0dcc22ab37554f",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-involved-correct",
+      "url": "https://bebras.uk/index.php?action=content&id=19",
+      "final_url": "https://bebras.uk/index.php?action=content&id=19",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 10420,
+      "sha256": "54cfab546dc9d652b2def3bb9715134fface4590f3e48b80b3cc68669e80dc14",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-calendar-correct",
+      "url": "https://bebras.uk/index.php?action=content&id=20",
+      "final_url": "https://bebras.uk/index.php?action=content&id=20",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6667,
+      "sha256": "5dddce4b57f3cc15ff57dd9f6decf2e6e099e455dc738a023095216d7b2d1999",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-challenge-correct",
+      "url": "https://bebras.uk/index.php?action=content&id=121",
+      "final_url": "https://bebras.uk/index.php?action=content&id=121",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12745,
+      "sha256": "cd80ca5b91ebb99256e5ee9d1ed8dfbd62479cbbdd2c2fc4a512ca6bb8835a69",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "uk-terms",
+      "url": "https://bebras.uk/index.php?action=content&id=44",
+      "final_url": "https://bebras.uk/index.php?action=content&id=44",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29875,
+      "sha256": "aeb6bbe0d32efe96eaeaa03b1dc5d3c78c6c15999eb1f3c72c095f416714ec54",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "swiss-dates",
+      "url": "https://www.informatik-biber.ch/vor-wettbewerb-2026/",
+      "final_url": "https://www.informatik-biber.ch/vor-wettbewerb-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78282,
+      "sha256": "98ad1ee0cb38271f578239a62c6c560ed783c0900d93df40be2b270dd328ee65",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "swiss-about",
+      "url": "https://www.informatik-biber.ch/was-ist-der-informatik-biber/",
+      "final_url": "https://www.informatik-biber.ch/was-ist-der-informatik-biber/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69505,
+      "sha256": "678fd1c50e3af532cc0d8e8746f538f751d2c049d66e5d78a112aeb036102bc4",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "fr-home",
+      "url": "https://www.castor-informatique.fr/",
+      "final_url": "https://www.castor-informatique.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15341,
+      "sha256": "40e2832175fe2878fa65f7b3037a08d40a16021722e6dd3aed2b6c0ad726e92e",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "fr-home-alt",
+      "url": "https://castor-informatique.fr/",
+      "final_url": "https://castor-informatique.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 15341,
+      "sha256": "40e2832175fe2878fa65f7b3037a08d40a16021722e6dd3aed2b6c0ad726e92e",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "spain-ehu-en",
+      "url": "https://bebras.ehu.eus/index_en.html",
+      "final_url": "https://bebras.ehu.eus/index_en.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 569227,
+      "sha256": "d46b93f17c1099e1dcd2deafeae28ff5f0dd62c8f8cf9b4f10a638a8a217b025",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "tw-home",
+      "url": "https://bebras.csie.ntnu.edu.tw/",
+      "final_url": "https://bebras.csie.ntnu.edu.tw/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 25788,
+      "sha256": "053c7704e09f5ff5a3454fc408c5af328d57bebe4935d910be68bcb0dcd83ede",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-home",
+      "url": "https://www.bebras.kr/",
+      "final_url": "https://www.bebras.kr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 22075,
+      "sha256": "452441c27a02fda096398aa8cee30f50a21d6232edbd2c856bf1bdeff4a5a360",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "kr-participate",
+      "url": "https://www.bebras.kr/how_to_participate/",
+      "final_url": "https://www.bebras.kr/how_to_participate/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 18319,
+      "sha256": "2e260de33ed8f69e3be718fe7021310fb48b95a0adf00f99145f067bed276bb6",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "sg-registration",
+      "url": "https://bebras.simcc.org/register/",
+      "final_url": "https://bebras.simcc.org/register/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116823,
+      "sha256": "89b0ff62d5f722eb89c12c183b2fd695063cd1f26b1e676fd328ec9ba30c577b",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "sg-home",
+      "url": "https://bebras.simcc.org/",
+      "final_url": "https://bebras.simcc.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 126855,
+      "sha256": "2ea8c7f8cdd971dc7ab148ff9aee5b0f14099b9a9056ef95284b30dc12248983",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "vn-home",
+      "url": "https://www.bebras.vn/",
+      "final_url": "https://www.bebras.vn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 222786,
+      "sha256": "ac013ebe638bd9124d8efb2c6c3a0ea2b671d825689795f5d95edc976ff5659d",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "id-uc",
+      "url": "https://bebras.uc.ac.id/bebras-challenge-2026/",
+      "final_url": "https://bebras.uc.ac.id/bebras-challenge-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 123112,
+      "sha256": "ca2646b929f4c3c4cea4c6e4a8daf44a8c754e9f92d17e9e2dbb2cc7277bf36c",
+      "content_status": "readable_primary_source"
+    }
+  ],
+  "failed_requests": [
+    {
+      "key": "au-2026-calendar",
+      "url": "https://amt.edu.au/wp-content/uploads/2025/11/2026-Competitions-and-Programs-Key-Dates-and-Prices-Calendar.pdf",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "jp-2026",
+      "url": "https://bebras.eplang.jp/bebras2026.html",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "ksa-home",
+      "url": "https://www.bebrasksa.org/en/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)>"
+    },
+    {
+      "key": "uk-home",
+      "url": "https://bebras.uk/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "uk-involved",
+      "url": "https://bebras.uk/get-involved/",
+      "error": "HTTP Error 404: Not found"
+    },
+    {
+      "key": "uk-calendar",
+      "url": "https://bebras.uk/calendar/",
+      "error": "HTTP Error 404: Not found"
+    },
+    {
+      "key": "uk-challenge",
+      "url": "https://bebras.uk/uk-bebras-challenge/",
+      "error": "HTTP Error 404: Not found"
+    },
+    {
+      "key": "au-home",
+      "url": "https://www.bebras.edu.au/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "ie-home",
+      "url": "https://bebras.ie/",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "key": "global-countries",
+      "url": "https://www.bebras.org/countries",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "hash_verified_responses": 58,
+  "readable_primary_source_responses": 51,
+  "javascript_shells_not_used_for_rules": 4,
+  "secondary_identity_unverified_responses": 2,
+  "non_evidence_logo": 1,
+  "raw_files_public": false,
+  "forms_submitted": false,
+  "agreements_accepted": false,
+  "organizer_messages": 0
+}

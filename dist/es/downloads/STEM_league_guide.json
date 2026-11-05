@@ -3002,7 +3002,7 @@
         "id": "bebras",
         "name": "Bebras",
         "group": "ai",
-        "age_summary": "grupos escolares de edad / clase por reglas nacionales",
+        "age_summary": "Reglas nacionales: EE. UU. / UK grupos menores 6–8 y 8–10; India desde 8, Japan desde Grade 3, Taiwan desde Grade 5. Tareas y duraciones distintas.",
         "age_tags": [
           "unknown",
           "6",
@@ -3014,16 +3014,16 @@
         "categories": [
           {
             "name": "Bebras  Pensamiento computacional",
-            "age": "grupos escolares; las categorías menores difieren según el país",
+            "age": "Grupos de edad y escolares nacionales: Kits 6–8 no existen automáticamente en todos los países.",
             "team": "individualmente; a través de la escuela / el profesor",
             "hardware": "navegador; sin un conjunto robótico",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
+            "age_rule": "Grupos de edad y escolares nacionales: Kits 6–8 no existen automáticamente en todos los países.",
             "event_id": "C040",
-            "entry": "encontrar un operador nacional y grupo de edad; cuenta escolar",
+            "entry": "Elegir documento local y coordinador admitido. Accesos familiar, escolar, de club y extranjero difieren. Práctica más abierta que evaluación oficial.",
             "language": "ES / EN en las versiones nacionales",
             "note": "No se puede llamar una medalla internacional el certificado Bebras.",
-            "source": "https://www.bebras.org/countries",
-            "checked": "2026-09-29"
+            "source": "https://www.bebras.org/",
+            "checked": "2026-11-05"
           },
           {
             "name": "Bebras México · Otoño 2026 · N1–N6",
@@ -3036,7 +3036,7 @@
             "language": "Español indicado expresamente en la convocatoria.",
             "note": "Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.",
             "source": "https://bebras.mx/",
-            "checked": "2026-11-04"
+            "checked": "2026-11-05"
           },
           {
             "name": "Bebras Costa Rica 2026  Pensamiento computacional",
@@ -3045,24 +3045,295 @@
             "hardware": "computadora / tableta / iPad, navegador y Internet",
             "age_rule": "el reglamento principal: 3–6 las clases primaria; la página principal también indica Pre-Ecolier para el 2 de clase",
             "event_id": "C064",
-            "entry": "el maestro registra la escuela Costa Rica; registro 28.09–16.10; tareas en la escuela en el tiempo de la escuela",
+            "entry": "Solo escuela / institución, no padres. Confirmados 28 de septiembre–16 de octubre de 2026, coste 4000 CRC con IVA. Verificar ahora solicitud escolar ya presentada; sin nueva inscripción familiar libre.",
             "language": "ES",
             "note": "No se puede probar que los niños de 9 años son de 3o grado. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.",
-            "source": "https://cangurocr.org/bebras/agenda",
-            "checked": "2026-11-04"
+            "source": "https://costarica.cuttle.org/index.php?action=content&id=31",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras USA 2026 · Kits",
+            "age": "6–8 años según tabla nacional; confirmar edades límite.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "6–8 años según tabla nacional; confirmar edades límite.",
+            "event_id": "C1276",
+            "entry": "Docente se registra como coordinator y entrega acceso al alumno. Sin establecer acceso familiar separado ni evaluación oficial extranjera en las páginas leídas.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente.",
+            "source": "https://bebraschallenge.org/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras USA 2026 · Castors",
+            "age": "8–10 años según tabla nacional; confirmar edades límite.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "8–10 años según tabla nacional; confirmar edades límite.",
+            "event_id": "C1277",
+            "entry": "Docente se registra como coordinator y entrega acceso al alumno. Sin establecer acceso familiar separado ni evaluación oficial extranjera en las páginas leídas.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente.",
+            "source": "https://bebraschallenge.org/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "UK Bebras 2026 · Kits",
+            "age": "6–8 años — intervalo recomendado; verificar year group británico y curso real.",
+            "team": "Solo o equipo de hasta 3 en Kits / Castors. Edades de hermanos no prueban admisión de categoría mixta.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "6–8 años — intervalo recomendado; verificar year group británico y curso real.",
+            "event_id": "C1278",
+            "entry": "Escuela: coordinator. Code Club: revisión previa de organización. Home education o escuela sin Bebras: formulario parental separado y supervisión adulta. Dirección / escuela extranjera requiere acuerdo; formulario no acredita acceso familiar desde Costa Rica.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. Sin usar sitios / referencias ni discutir tareas hasta cerrar el periodo. Sin publicar respuestas vigentes.",
+            "source": "https://bebras.uk/index.php?action=content&id=121",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "UK Bebras 2026 · Castors",
+            "age": "8–10 años — intervalo recomendado; verificar year group británico y curso real.",
+            "team": "Solo o equipo de hasta 3 en Kits / Castors. Edades de hermanos no prueban admisión de categoría mixta.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "8–10 años — intervalo recomendado; verificar year group británico y curso real.",
+            "event_id": "C1279",
+            "entry": "Escuela: coordinator. Code Club: revisión previa de organización. Home education o escuela sin Bebras: formulario parental separado y supervisión adulta. Dirección / escuela extranjera requiere acuerdo; formulario no acredita acceso familiar desde Costa Rica.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. Sin usar sitios / referencias ni discutir tareas hasta cerrar el periodo. Sin publicar respuestas vigentes.",
+            "source": "https://bebras.uk/index.php?action=content&id=121",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Waterloo BCC 2026 · Grade 5/6",
+            "age": "Grade 6 o inferior puede entrar oficialmente a Grade 5/6 BCC; sin prohibir cursos inferiores, evaluar dificultad para 6 / 9 años aparte.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Grade 6 o inferior puede entrar oficialmente a Grade 5/6 BCC; sin prohibir cursos inferiores, evaluar dificultad para 6 / 9 años aparte.",
+            "event_id": "C1280",
+            "entry": "Escuela debe pedir accesos antes del 26 de octubre, plazo ya vencido. Periodo explícito para Norteamérica y Sudamérica; escuela en Costa Rica podría encajar regionalmente, pero cuenta y pedido sin confirmar. Solo escuela compradora y supervisión presencial toda la sesión; sin acceso doméstico libre.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. Sin pedido a tiempo, usar tareas pasadas para preparar y planificar próxima convocatoria; acceso tardío sin confirmar.",
+            "source": "https://cemc.uwaterloo.ca/contests/bcc",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras India 2026 · Aryabhata · Std 3–4",
+            "age": "Aryabhata: 8–10 años, Std 3–4. Página llama seis grupos a lista de cinco; sin inventar categoría menor.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Aryabhata: 8–10 años, Std 3–4. Página llama seis grupos a lista de cinco; sin inventar categoría menor.",
+            "event_id": "C1281",
+            "entry": "Inscripción individual prohibida: docente registra escuela y después alumnos. Con acceso se permite realizar desde casa. Escuela extranjera y pasaportes rusos / mexicanos no conceden evaluación india automática.",
+            "language": "English incluido explícitamente para 8–18; 12 idiomas anunciados con coberturas de edad distintas.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente.",
+            "source": "https://www.bebras.in/register",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras Ireland 2026 · Primary 1–2",
+            "age": "1–2 cursos de Primary irlandesa; la edad sola no determina categoría.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "1–2 cursos de Primary irlandesa; la edad sola no determina categoría.",
+            "event_id": "C1282",
+            "entry": "Solo docentes de Republic of Ireland pueden ser coordinators. Requiere ruta escolar local; sin inscripción familiar libre desde Costa Rica. Verificar plaza tras posible traslado.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Título anuncia 9–20 de noviembre de 2026, párrafo inferior escribe 2025 por error; ambos handbook enlazados son de 2025. Periodo tomado del título explícito 2026; revisar nueva guía y acceso extranjero.",
+            "source": "https://ics.ie/bebras/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras Ireland 2026 · Primary 3–4",
+            "age": "3–4 cursos de Primary irlandesa; la edad sola no determina categoría.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "3–4 cursos de Primary irlandesa; la edad sola no determina categoría.",
+            "event_id": "C1283",
+            "entry": "Solo docentes de Republic of Ireland pueden ser coordinators. Requiere ruta escolar local; sin inscripción familiar libre desde Costa Rica. Verificar plaza tras posible traslado.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Título anuncia 9–20 de noviembre de 2026, párrafo inferior escribe 2025 por error; ambos handbook enlazados son de 2025. Periodo tomado del título explícito 2026; revisar nueva guía y acceso extranjero.",
+            "source": "https://ics.ie/bebras/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras República Dominicana 2026–27 · Benjamín",
+            "age": "Benjamín: 5º–6º primaria, referencia 10–12 años. Sin categoría menor 1º–4º en los cuatro niveles vigentes.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Benjamín: 5º–6º primaria, referencia 10–12 años. Sin categoría menor 1º–4º en los cuatro niveles vigentes.",
+            "event_id": "C1284",
+            "entry": "Cualquier escuela pública / privada del país; registra docente. En escuela con supervisión, sin solicitud familiar individual. Recomiendan antes del 9 de noviembre, pero aceptan centros durante todo el periodo.",
+            "language": "ES: material nacional vigente y ejemplos; acceso concreto entregado por coordinador local.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente.",
+            "source": "https://www.bebras.org.do/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "AMT Bebras Australia 2027 · Middle Primary",
+            "age": "Australian Years 3–4; otros niveles hasta Year 12. Verificar curso real en 2027.",
+            "team": "Solo o equipo de hasta 4; confirmar edades mixtas.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Australian Years 3–4; otros niveles hasta Year 12. Verificar curso real en 2027.",
+            "event_id": "C1285",
+            "entry": "Solicitud de escuela, homeschool o coaching clinic registrada; instituciones internacionales contactan AMT para alta. Disponibilidad exterior de la mayoría de concursos no prueba acceso extranjero específico a Bebras.",
+            "language": "EN: leídas reglas / muestras en inglés; confirmar idioma de las tareas oficiales concretas y ayudas de lectura.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. Página escribe Friday 18 March 2027, pero el 18 de marzo es jueves. Sin exportar deadline hasta aclararlo; dos páginas AMT confirman periodo del 8 de febrero al 19 de marzo.",
+            "source": "https://amt.edu.au/bebras",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras China 2026 · SEED-ASDAN · A1",
+            "age": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. A1: 1",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. A1: 1",
+            "event_id": "C1286",
+            "entry": "En campus de partner school; servicio en línea solo por solicitud escolar. Pago por QR individual no implica sesión remota libre desde Costa Rica. Hong Kong / Macao tienen otras fechas en sección separada; sin trasladarles el día chino.",
+            "language": "Chinese / English anunciados explícitamente para prueba regional china. Idioma de lectura oral A1/A2 sin establecer aparte.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. A1 y A2 tienen variantes separadas y función de lectura. Sin autorizar a adulto a explicar lógica de respuestas.",
+            "source": "https://www.seedasdan.asia/en/bebras-en/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras China 2026 · SEED-ASDAN · A2",
+            "age": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. A2: 2",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. A2: 2",
+            "event_id": "C1287",
+            "entry": "En campus de partner school; servicio en línea solo por solicitud escolar. Pago por QR individual no implica sesión remota libre desde Costa Rica. Hong Kong / Macao tienen otras fechas en sección separada; sin trasladarles el día chino.",
+            "language": "Chinese / English anunciados explícitamente para prueba regional china. Idioma de lectura oral A1/A2 sin establecer aparte.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. A1 y A2 tienen variantes separadas y función de lectura. Sin autorizar a adulto a explicar lógica de respuestas.",
+            "source": "https://www.seedasdan.asia/en/bebras-en/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras China 2026 · SEED-ASDAN · B",
+            "age": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. B: 3–4",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Categoría definida por curso real según tabla organizadora; se permite nivel superior, nunca inferior al curso propio. B: 3–4",
+            "event_id": "C1288",
+            "entry": "En campus de partner school; servicio en línea solo por solicitud escolar. Pago por QR individual no implica sesión remota libre desde Costa Rica. Hong Kong / Macao tienen otras fechas en sección separada; sin trasladarles el día chino.",
+            "language": "Chinese / English anunciados explícitamente para prueba regional china. Idioma de lectura oral A1/A2 sin establecer aparte.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente. A1 y A2 tienen variantes separadas y función de lectura. Sin autorizar a adulto a explicar lógica de respuestas.",
+            "source": "https://www.seedasdan.asia/en/bebras-en/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras Korea 2026 · Group I",
+            "age": "Curso escolar coreano 1–2",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Curso escolar coreano 1–2",
+            "event_id": "C1289",
+            "entry": "Docente escolar o coach adulto, incluido padre, tramita general participation. Alumnos no crean cuenta adulta propia. Inscripción nacional de coach extranjero / acceso EN / ES sin confirmar.",
+            "language": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+            "note": "PDF aún muestra 30 de octubre, pero aviso del 29 de octubre y portada amplían inscripción hasta 13 de noviembre. Practice hasta 28 de febrero de 2027; sin prolongar concurso oficial. AI trata principios de AI, sin autorizar chatbot para responder.",
+            "source": "https://www.bebras.kr/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Bebras Korea 2026 · Group II",
+            "age": "Curso escolar coreano 3–4",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Curso escolar coreano 3–4",
+            "event_id": "C1290",
+            "entry": "Docente escolar o coach adulto, incluido padre, tramita general participation. Alumnos no crean cuenta adulta propia. Inscripción nacional de coach extranjero / acceso EN / ES sin confirmar.",
+            "language": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+            "note": "PDF aún muestra 30 de octubre, pero aviso del 29 de octubre y portada amplían inscripción hasta 13 de noviembre. Practice hasta 28 de febrero de 2027; sin prolongar concurso oficial. AI trata principios de AI, sin autorizar chatbot para responder.",
+            "source": "https://www.bebras.kr/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Taiwan Bebras 115-1 · Grades 5–6",
+            "age": "Grupo menor publicado: Grades 5–6; luego 7–8, 9–10, 11–12. Sin Kits 6–8 en página taiwanesa.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Grupo menor publicado: Grades 5–6; luego 7–8, 9–10, 11–12. Sin Kits 6–8 en página taiwanesa.",
+            "event_id": "C1291",
+            "entry": "Docente con cuenta verificada registra clase escolar. Solicitudes 21 de septiembre–22 de octubre; ahora para ya inscritos. Resultados / participation proof 4 de diciembre. Acceso privado familiar / extranjero sin confirmar.",
+            "language": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+            "note": "Curso 115 = 2026/27. 2–6 de noviembre es practice, no resultado oficial; ambos semestres usan mismas tareas. Idioma de interfaz no prueba EN / ES.",
+            "source": "https://bebras.csie.ntnu.edu.tw/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Cyprus Bebras 2026–27 · Primary Round 1",
+            "age": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry.",
+            "event_id": "C1292",
+            "entry": "Cuenta individual e inscripción previa; desde casa o escuela. Sin eliminar requisitos escolares locales. Hasta 50 mejores por curso pasan a Round 2 presencial con invitación, desempate por tiempo.",
+            "language": "English / Greek ofrecidos explícitamente; elegir antes de iniciar, sin cambiar durante la prueba.",
+            "note": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry. Round 2 el 20 de febrero de 2027 a las 11:00 es plan provisional, sin fecha de viaje confirmada.",
+            "source": "https://www.bebras.org.cy/en/news/view-article/article/announcement-of-bebras-challenge-2026-2027-for-primary-%26amp%3B-gymnasium-students",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Cyprus Bebras 2027 · Primary Round 2 · provisional",
+            "age": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry.",
+            "event_id": "C1293",
+            "entry": "Solo clasificados de Round 1, invitación e ID en sede presencial. Pase sin tramitar.",
+            "language": "English / Greek ofrecidos explícitamente; elegir antes de iniciar, sin cambiar durante la prueba.",
+            "note": "Primary Grades 4–6 según título y dos anuncios; PDF conserva texto sobre secondary schools. Conflicto de eligibility visible; confirmar curso real y foreign entry. Round 2 el 20 de febrero de 2027 a las 11:00 es plan provisional, sin fecha de viaje confirmada.",
+            "source": "https://www.bebras.org.cy/en/news/view-article/article/announcement-of-bebras-challenge-2026-2027-for-primary-%26amp%3B-gymnasium-students",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Japan Beaver Challenge 2026 · Castor · Grades 3–4",
+            "age": "Castor: Grades 3–4 japoneses. Programa completo desde Grade 3 hasta último año de high school.",
+            "team": "Individual; coordinador escolar / adulto según las reglas locales.",
+            "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+            "age_rule": "Castor: Grades 3–4 japoneses. Programa completo desde Grade 3 hasta último año de high school.",
+            "event_id": "C1294",
+            "entry": "Inscribe escuela / institución educativa; solicitud personal separada prohibida. Un ordenador por alumno; escuela elige día dentro del periodo. Tras plazo del 9 de noviembre pueden considerar excepción, sin concederla a la familia.",
+            "language": "EN / ES sin confirmar para las tareas oficiales; el idioma del sitio no prueba el de las tareas.",
+            "note": "Acceso nacional de escuela / familia extranjera sin confirmar; residencia en Costa Rica y pasaportes no lo crean automáticamente.",
+            "source": "https://www2.ioi-jp.org/junior/bebras2026.html",
+            "checked": "2026-11-05"
           }
         ],
         "event_ids": [
           "C040",
           "C064",
-          "C1170"
+          "C1170",
+          "C1050",
+          "C1051",
+          "C1052",
+          "C1053",
+          "C1056",
+          "C1276",
+          "C1277",
+          "C1278",
+          "C1279",
+          "C1280",
+          "C1281",
+          "C1282",
+          "C1283",
+          "C1284",
+          "C1285",
+          "C1286",
+          "C1287",
+          "C1288",
+          "C1289",
+          "C1290",
+          "C1291",
+          "C1292",
+          "C1293",
+          "C1294"
         ],
         "legacy_ids": [
           "C040"
         ],
-        "route": "encontrar un operador nacional y grupo de edad; cuenta escolar",
-        "hardware": "navegador; sin un conjunto robótico",
-        "language": "ES / EN en las versiones nacionales",
+        "route": "Primero país de admisión y curso real, después coordinador / acceso familiar, idioma y plazo. Para familia comprobar primero Bebras México gratuito; Costa Rica 2026 requiere coordinador escolar que ya inscribió al niño.",
+        "hardware": "Navegador y dispositivo individual; sin robot ni kit robótico de pago. Resolución propia según las reglas locales.",
+        "language": "ES confirmado en México / Costa Rica; English ofrecido explícitamente en India, China y Cyprus. Reglas inglesas de UK / USA no garantizan cualquier acceso extranjero.",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "y las tareas individuales para el pensamiento computacional.",
         "requirements": [
@@ -3072,10 +3343,11 @@
         ],
         "nuances": [
           "No se puede llamar una medalla internacional el certificado Bebras.",
+          "En línea no implica acceso doméstico o internacional. UK Gold top 10% nacional, Waterloo Distinction top 25% escolar y porcentajes regionales chinos no se comparan como medallas mundiales iguales. Sin discutir tareas y soluciones oficiales antes de cerrar periodo nacional.",
           "México 2026: gratis, modalidad familiar, 9–30 de noviembre. Costa Rica 2026: 4000 CRC, solo escuela, plazo de registro 16 de octubre. No trasladar reglas entre países."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
-        "award": "el balón nacional / certificado; no hay una final mundial única",
+        "cost": "Tarifas nacionales distintas: México / USA / UK / India gratis; Costa Rica 4000 CRC mediante escuela; Waterloo mínimo CAD 35 por pedido escolar. Sin kit robótico para Bebras. Otros importes y reembolsos en ficha concreta.",
+        "award": "Conservar puntuación concreta y tipo de reconocimiento nacional. Certificado de participación no equivale a puesto premiado ni victoria en final mundial.",
         "sources": [
           {
             "title": "fuente oficial C040",
@@ -3093,12 +3365,117 @@
             "checked": "2026-11-04"
           },
           {
-            "title": "Bebras · ES",
+            "title": "Costa Rica Cuttle",
             "url": "https://costarica.cuttle.org/index.php?action=content&id=31",
-            "checked": "2026-11-04"
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras USA 2026 · Castors",
+            "url": "https://bebraschallenge.org/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "UK Bebras 2026 · Castors",
+            "url": "https://bebras.uk/index.php?action=content&id=121",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Waterloo BCC 2026 · Grade 5/6",
+            "url": "https://cemc.uwaterloo.ca/contests/bcc",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras India 2026 · Aryabhata · Std 3–4",
+            "url": "https://www.bebras.in/register",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras Ireland 2026 · Primary 3–4",
+            "url": "https://ics.ie/bebras/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras República Dominicana 2026–27 · Benjamín",
+            "url": "https://www.bebras.org.do/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "AMT Bebras Australia 2027 · Middle Primary",
+            "url": "https://amt.edu.au/bebras",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras China 2026 · SEED-ASDAN · B",
+            "url": "https://www.seedasdan.asia/en/bebras-en/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Bebras Korea 2026 · Group II",
+            "url": "https://www.bebras.kr/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Taiwan Bebras 115-1 · Grades 5–6",
+            "url": "https://bebras.csie.ntnu.edu.tw/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Cyprus Bebras 2027 · Primary Round 2 · provisional",
+            "url": "https://www.bebras.org.cy/en/news/view-article/article/announcement-of-bebras-challenge-2026-2027-for-primary-%26amp%3B-gymnasium-students",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Japan Beaver Challenge 2026 · Castor · Grades 3–4",
+            "url": "https://www2.ioi-jp.org/junior/bebras2026.html",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Spain EHU",
+            "url": "https://bebras.ehu.eus/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "France Castor",
+            "url": "https://www.castor-informatique.fr/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Swiss Biber",
+            "url": "https://www.informatik-biber.ch/vor-wettbewerb-2026/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "CEMC terms",
+            "url": "https://cemc.uwaterloo.ca/online-ordering-terms-and-conditions",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "AMT registration",
+            "url": "https://amt.edu.au/competitions",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Korea AI",
+            "url": "https://www.bebras.kr/board/notice/view/152/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Korea deadline extension",
+            "url": "https://www.bebras.kr/board/notice/view/153/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Cyprus rules",
+            "url": "https://bebras.org.cy/assets/files/ANNOUNCEMENTS/BebrasAnnouncement%28PRIMARY%202026-2027%29%28English%29.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "China level table",
+            "url": "https://seed-static.seedasdan.com/wordpress/2025/06/bebras%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4.png",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "v157: verificados documentos nacionales concretos y tablas clave; sin auditoría mundial completa de Bebras. Tareas ordinarias no son proyecto AI; suplemento AI específico localizado en Korea."
       },
       {
         "id": "acsl",
@@ -4822,7 +5199,7 @@
             "age": "14–18",
             "team": "delegación individual / nacional",
             "hardware": "investigación y informe",
-            "entry": "el recorrido nacional",
+            "entry": "Ruta nacional",
             "age_rule": "edad / clase según las reglas de la etapa concreta"
           }
         ],
@@ -9908,8 +10285,10 @@
             "age": "Primary 3o/4o y superior",
             "team": "a través de los maestros",
             "hardware": "ES / EN / EU / CA, 45–50 minutos",
-            "entry": "Desde el 9 de noviembre, el final de la ventana no se conoce.",
-            "age_rule": "la edad de control y las normas nacionales se comprueban por separado"
+            "entry": "Docente registra centro, recibe instrucciones PDF de ViLLE y da de alta alumnos. Sin comunicar día concreto por anticipado. ES / EN / EU / CA disponibles a elección. Confirmar acceso de escuela / familia extranjera.",
+            "age_rule": "la edad de control y las normas nacionales se comprueban por separado",
+            "source": "https://bebras.ehu.eus/",
+            "checked": "2026-11-05"
           },
           {
             "name": "CAT Arrel / Branca",

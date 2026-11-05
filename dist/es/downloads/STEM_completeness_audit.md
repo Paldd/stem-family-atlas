@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 4206; competiciones: 1274; eventos: 219; campamentos / programas: 2713. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y exposiciones especializadas: 137 — son ediciones y sedes, no el número de marcas únicas.
+Fichas en la base: 4225; competiciones: 1293; eventos: 219; campamentos / programas: 2713. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y exposiciones especializadas: 137 — son ediciones y sedes, no el número de marcas únicas.
 
-Hay registros específicos para 86 de 249 países y territorios; países auditados por completo: 0. Revisión de archivo v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores se conservan.
+Hay registros específicos para 87 de 249 países y territorios; países auditados por completo: 0. Revisión de archivo v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores se conservan.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 579 | 19 | 761 |
+| América del Norte | 14 | 583 | 19 | 761 |
 | América del Sur | 10 | 148 | 6 | 113 |
-| Europa | 22 | 174 | 47 | 1156 |
+| Europa | 22 | 178 | 47 | 1156 |
 | África | 11 | 63 | 5 | 30 |
-| Asia | 24 | 237 | 58 | 634 |
-○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
+| Asia | 25 | 247 | 58 | 634 |
+| Oceanía | 4 | 29 | 2 | 13 |
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 518 de 1274 fichas de competiciones (40.7%). Esto refleja un claro sesgo de cobertura.
+VEX: 518 de 1293 fichas de competiciones (40.1%). Esto refleja un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -116,7 +116,7 @@ VEX: 518 de 1274 fichas de competiciones (40.7%). Esto refleja un claro sesgo de
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 1 tarjeta, 0 con fechas exactas futuras. https://codeavour.org/
 - **Coolest Projects**: 1 tarjeta, 0 con fechas exactas futuras. https://online.coolestprojects.org/help
-- **Bebras**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
+- **Bebras**: 27 fichas, 25 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
 - **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
 - **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
@@ -210,7 +210,7 @@ VEX: 518 de 1274 fichas de competiciones (40.7%). Esto refleja un claro sesgo de
 - **LEGO League · rama independiente de 2027/28**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.education.lego.com/en-us/lego-league/program-update/
 - **FIRST K–8 · programa futuro**: 1 Tarjetas, 0 con fechas exactas futuras. Hay un perfil y tarjetas.; Cobertura local parcial. https://www.firstinspires.org/programs/k-8
 - **VEX Switzerland · EN/DE menor**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura parcial local. https://www.techlabs.ch/vex-events-products
-- **Bebras / Castor · tres países, diferentes clases e idiomas**: 5 tarjetas, 4 con fechas exactas futuras. https://www.informatik-biber.ch/was-ist-der-informatik-biber/
+- **Bebras / Castor · tres países, diferentes clases y lenguas**: 5 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.informatik-biber.ch/was-ist-der-informatik-biber/
 - **RoboCampeones · Ruta escolar regional**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://sites.google.com/view/robocampeonesfuenlabrada/
 - *RoboOlympics OST · Enseñanza superior**: 1 tarjeta, 1 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.robolympics.ch/
 - **WRO Kenya · Elementary / Rookie RoboStarter**: 4 tarjetas, 2 con fechas exactas futuras. https://wrokenya.stemimpactcenterkenya.org/register
