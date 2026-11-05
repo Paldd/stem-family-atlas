@@ -7886,7 +7886,7 @@
     ]
   },
   "assets/school-history.js": {
-    "sha256": "86a0410389cee0dd0819325e1a08064b3cd1777ef5cf32289a7c057e533c2abf",
+    "sha256": "838ed4dad8b2665f03167733dbf001b3621d91423225b27886c5f03991d461ca",
     "tokens": [
       {
         "start": 376,
@@ -7966,428 +7966,456 @@
         "type": "literal"
       },
       {
-        "start": 815,
-        "end": 836,
+        "start": 826,
+        "end": 866,
+        "raw": "'Оценённая награда · International Open'",
+        "value": "Оценённая награда · International Open",
+        "type": "literal"
+      },
+      {
+        "start": 893,
+        "end": 930,
+        "raw": "'Призовое место · International Open'",
+        "value": "Призовое место · International Open",
+        "type": "literal"
+      },
+      {
+        "start": 946,
+        "end": 967,
         "raw": "'Национальная победа'",
         "value": "Национальная победа",
         "type": "literal"
       },
       {
-        "start": 853,
-        "end": 874,
+        "start": 984,
+        "end": 1005,
         "raw": "'Национальный Skills'",
         "value": "Национальный Skills",
         "type": "literal"
       },
       {
-        "start": 890,
-        "end": 912,
+        "start": 1021,
+        "end": 1043,
         "raw": "'Национальная награда'",
         "value": "Национальная награда",
         "type": "literal"
       },
       {
-        "start": 928,
-        "end": 952,
+        "start": 1059,
+        "end": 1083,
         "raw": "'Победа штата / региона'",
         "value": "Победа штата / региона",
         "type": "literal"
       },
       {
-        "start": 969,
-        "end": 1001,
+        "start": 1100,
+        "end": 1132,
         "raw": "'Техническая категория · регион'",
         "value": "Техническая категория · регион",
         "type": "literal"
       },
       {
-        "start": 1018,
-        "end": 1041,
+        "start": 1149,
+        "end": 1172,
         "raw": "'Внутришкольный турнир'",
         "value": "Внутришкольный турнир",
         "type": "literal"
       },
       {
-        "start": 1058,
-        "end": 1083,
+        "start": 1189,
+        "end": 1214,
         "raw": "'Призовое место · регион'",
         "value": "Призовое место · регион",
         "type": "literal"
       },
       {
-        "start": 1100,
-        "end": 1125,
+        "start": 1231,
+        "end": 1256,
         "raw": "'Награда штата / региона'",
         "value": "Награда штата / региона",
         "type": "literal"
       },
       {
-        "start": 1140,
-        "end": 1164,
+        "start": 1271,
+        "end": 1295,
         "raw": "'Квалификация на Worlds'",
         "value": "Квалификация на Worlds",
         "type": "literal"
       },
       {
-        "start": 1179,
-        "end": 1210,
+        "start": 1310,
+        "end": 1341,
         "raw": "'Победа школьной сети · страна'",
         "value": "Победа школьной сети · страна",
         "type": "literal"
       },
       {
-        "start": 1228,
-        "end": 1263,
+        "start": 1359,
+        "end": 1394,
         "raw": "'Награда · уровень финала уточнить'",
         "value": "Награда · уровень финала уточнить",
         "type": "literal"
       },
       {
-        "start": 1277,
-        "end": 1303,
+        "start": 1408,
+        "end": 1434,
         "raw": "'Категория не установлена'",
         "value": "Категория не установлена",
         "type": "literal"
       },
       {
-        "start": 1339,
-        "end": 1362,
+        "start": 1470,
+        "end": 1493,
         "raw": "'Протокол организатора'",
         "value": "Протокол организатора",
         "type": "literal"
       },
       {
-        "start": 1377,
-        "end": 1390,
+        "start": 1508,
+        "end": 1521,
         "raw": "'Отчёт школы'",
         "value": "Отчёт школы",
         "type": "literal"
       },
       {
-        "start": 1414,
-        "end": 1435,
+        "start": 1545,
+        "end": 1566,
         "raw": "'Отчёт школьной сети'",
         "value": "Отчёт школьной сети",
         "type": "literal"
       },
       {
-        "start": 1458,
-        "end": 1483,
+        "start": 1589,
+        "end": 1614,
         "raw": "'Рассказ партнёра сезона'",
         "value": "Рассказ партнёра сезона",
         "type": "literal"
       },
       {
-        "start": 1511,
-        "end": 1546,
+        "start": 1642,
+        "end": 1677,
         "raw": "'Полный набор выбранных FRC наград'",
         "value": "Полный набор выбранных FRC наград",
         "type": "literal"
       },
       {
-        "start": 1565,
-        "end": 1594,
+        "start": 1696,
+        "end": 1725,
         "raw": "'7 выбранных первых мест WRO'",
         "value": "7 выбранных первых мест WRO",
         "type": "literal"
       },
       {
-        "start": 1605,
-        "end": 1627,
+        "start": 1744,
+        "end": 1801,
+        "raw": "'Все победители выбранных категорий · границы в описании'",
+        "value": "Все победители выбранных категорий · границы в описании",
+        "type": "literal"
+      },
+      {
+        "start": 1812,
+        "end": 1834,
         "raw": "'Championship отменён'",
         "value": "Championship отменён",
         "type": "literal"
       },
       {
-        "start": 1640,
-        "end": 1670,
+        "start": 1847,
+        "end": 1877,
         "raw": "'Отдельный awards-only формат'",
         "value": "Отдельный awards-only формат",
         "type": "literal"
       },
       {
-        "start": 1679,
-        "end": 1711,
+        "start": 1886,
+        "end": 1918,
         "raw": "'Мировые результаты ещё впереди'",
         "value": "Мировые результаты ещё впереди",
         "type": "literal"
       },
       {
-        "start": 1721,
-        "end": 1746,
+        "start": 1928,
+        "end": 1953,
         "raw": "'Протокол победителя FLL'",
         "value": "Протокол победителя FLL",
         "type": "literal"
       },
       {
-        "start": 1754,
-        "end": 1786,
+        "start": 1961,
+        "end": 1993,
         "raw": "'Сообщение участника / партнёра'",
         "value": "Сообщение участника / партнёра",
         "type": "literal"
       },
       {
-        "start": 1792,
-        "end": 1815,
+        "start": 1999,
+        "end": 2022,
         "raw": "'Выборочные результаты'",
         "value": "Выборочные результаты",
         "type": "literal"
       },
       {
-        "start": 1828,
-        "end": 1854,
+        "start": 2035,
+        "end": 2061,
         "raw": "'Лига ещё не существовала'",
         "value": "Лига ещё не существовала",
         "type": "literal"
       },
       {
-        "start": 1867,
-        "end": 1908,
+        "start": 2074,
+        "end": 2115,
         "raw": "'Архив / школьные связи не восстановлены'",
         "value": "Архив / школьные связи не восстановлены",
         "type": "literal"
       },
       {
-        "start": 3187,
-        "end": 3224,
-        "raw": "'нет Championship Winner в этом окне'",
-        "value": "нет Championship Winner в этом окне",
-        "type": "literal"
-      },
-      {
-        "start": 3398,
-        "end": 3430,
-        "raw": "'матчевого Championship не было'",
-        "value": "матчевого Championship не было",
-        "type": "literal"
-      },
-      {
-        "start": 3431,
-        "end": 3470,
-        "raw": "'нет Championship Winner в этом наборе'",
-        "value": "нет Championship Winner в этом наборе",
-        "type": "literal"
-      },
-      {
-        "start": 3552,
-        "end": 3592,
-        "raw": "'Подростковая команда · для детей позже'",
-        "value": "Подростковая команда · для детей позже",
-        "type": "literal"
-      },
-      {
-        "start": 3593,
-        "end": 3638,
-        "raw": "'Внешняя программа · отдельный от школы вход'",
-        "value": "Внешняя программа · отдельный от школы вход",
-        "type": "literal"
-      },
-      {
-        "start": 3041,
-        "end": 3079,
+        "start": 3248,
+        "end": 3286,
         "raw": "</strong><span>победных сезонов<br>за ",
         "value": "</strong><span>победных сезонов<br>за ",
         "type": "template"
       },
       {
-        "start": 3090,
-        "end": 3153,
+        "start": 3297,
+        "end": 3360,
         "raw": " лет</span></div><div class=\"history-dots\" aria-label=\"Сезоны: ",
         "value": " лет</span></div><div class=\"history-dots\" aria-label=\"Сезоны: ",
         "type": "template"
       },
       {
-        "start": 3665,
-        "end": 3814,
+        "start": 3394,
+        "end": 3431,
+        "raw": "'нет Championship Winner в этом окне'",
+        "value": "нет Championship Winner в этом окне",
+        "type": "literal"
+      },
+      {
+        "start": 3605,
+        "end": 3637,
+        "raw": "'матчевого Championship не было'",
+        "value": "матчевого Championship не было",
+        "type": "literal"
+      },
+      {
+        "start": 3638,
+        "end": 3677,
+        "raw": "'нет Championship Winner в этом наборе'",
+        "value": "нет Championship Winner в этом наборе",
+        "type": "literal"
+      },
+      {
+        "start": 3759,
+        "end": 3799,
+        "raw": "'Подростковая команда · для детей позже'",
+        "value": "Подростковая команда · для детей позже",
+        "type": "literal"
+      },
+      {
+        "start": 3800,
+        "end": 3845,
+        "raw": "'Внешняя программа · отдельный от школы вход'",
+        "value": "Внешняя программа · отдельный от школы вход",
+        "type": "literal"
+      },
+      {
+        "start": 3872,
+        "end": 4021,
         "raw": "'<p class=\"history-empty\">Для этого типа / поиска нет повторных FRC Championship Winner в извлечённом наборе. Другие награды смотрите в таблице.</p>'",
         "value": "<p class=\"history-empty\">Для этого типа / поиска нет повторных FRC Championship Winner в извлечённом наборе. Другие награды смотрите в таблице.</p>",
         "type": "literal"
       },
       {
-        "start": 4000,
-        "end": 4548,
+        "start": 4207,
+        "end": 4755,
         "raw": "<div class=\"history-heading\"><div><p class=\"section-kicker\">ДЕСЯТЬ ЛЕТ · ПРОВЕРЯЕМ РЕЗУЛЬТАТЫ</p><h3>Кто побеждает<br><em>снова и снова.</em></h3><p>История команды, кампус и уровень награды. Устойчивость сравниваем внутри одной лиги.</p></div><div class=\"history-period\" role=\"group\" aria-label=\"Период истории\"><button data-history-window=\"10\" aria-pressed=\"true\">10 лет</button><button data-history-window=\"5\" aria-pressed=\"false\">5 лет</button><small id=\"history-window-label\"></small></div></div>\n        <div class=\"history-summary\"><span><b>",
         "value": "<div class=\"history-heading\"><div><p class=\"section-kicker\">ДЕСЯТЬ ЛЕТ · ПРОВЕРЯЕМ РЕЗУЛЬТАТЫ</p><h3>Кто побеждает<br><em>снова и снова.</em></h3><p>История команды, кампус и уровень награды. Устойчивость сравниваем внутри одной лиги.</p></div><div class=\"history-period\" role=\"group\" aria-label=\"Период истории\"><button data-history-window=\"10\" aria-pressed=\"true\">10 лет</button><button data-history-window=\"5\" aria-pressed=\"false\">5 лет</button><small id=\"history-window-label\"></small></div></div>\n        <div class=\"history-summary\"><span><b>",
         "type": "template"
       },
       {
-        "start": 4567,
-        "end": 4706,
+        "start": 4774,
+        "end": 4913,
         "raw": "</b> записей результатов</span><span><b>44</b> FRC winning-alliance entries</span><span><b>28</b> первых мест WRO</span><span>Проверено <b>",
         "value": "</b> записей результатов</span><span><b>44</b> FRC winning-alliance entries</span><span><b>28</b> первых мест WRO</span><span>Проверено <b>",
         "type": "template"
       },
       {
-        "start": 4724,
-        "end": 5740,
-        "raw": "</b></span></div>\n        <p class=\"history-intro\">Многолетнее лидерство надёжнее всего установлено по FRC. Полностью прочитаны победившие альянсы и главные Chairman / Impact награды 11 сыгранных Championship в 2017–2026. Другие лиги и связь победителей со школами исследованы частично.</p>\n        <div class=\"history-block-title\"><h4>Повторные FRC Championship Winner</h4><p>Член победившего альянса · подростковые команды · разные сезоны</p></div><div id=\"history-leaders\" class=\"history-leaders\"></div><p class=\"history-small\">Цветная точка — Championship Winner. Пунктир — отменённый матчевый финал; пустая — нет такой награды в проверенном наборе. В 2017–2019 были два отдельных Championship. Это не оценка всех выступлений школы.</p>\n        <div class=\"history-block-title\"><h4>Команда → сезон → первичный источник</h4><p>Выберите школу выше или отфильтруйте таблицу.</p></div><div class=\"history-filters\"><label>Лига<select data-history-filter=\"league\"><option value=\"\">Все исследованные результаты</option>",
-        "value": "</b></span></div>\n        <p class=\"history-intro\">Многолетнее лидерство надёжнее всего установлено по FRC. Полностью прочитаны победившие альянсы и главные Chairman / Impact награды 11 сыгранных Championship в 2017–2026. Другие лиги и связь победителей со школами исследованы частично.</p>\n        <div class=\"history-block-title\"><h4>Повторные FRC Championship Winner</h4><p>Член победившего альянса · подростковые команды · разные сезоны</p></div><div id=\"history-leaders\" class=\"history-leaders\"></div><p class=\"history-small\">Цветная точка — Championship Winner. Пунктир — отменённый матчевый финал; пустая — нет такой награды в проверенном наборе. В 2017–2019 были два отдельных Championship. Это не оценка всех выступлений школы.</p>\n        <div class=\"history-block-title\"><h4>Команда → сезон → первичный источник</h4><p>Выберите школу выше или отфильтруйте таблицу.</p></div><div class=\"history-filters\"><label>Лига<select data-history-filter=\"league\"><option value=\"\">Все исследованные результаты</option>",
+        "start": 4931,
+        "end": 5246,
+        "raw": "</b></span></div>\n        <p class=\"history-intro\">Многолетнее лидерство надёжнее всего установлено по FRC. Полностью прочитаны победившие альянсы и главные Chairman / Impact награды 11 сыгранных Championship в 2017–2026. Другие лиги и связь победителей со школами исследованы частично.</p><p class=\"history-intro\">",
+        "value": "</b></span></div>\n        <p class=\"history-intro\">Многолетнее лидерство надёжнее всего установлено по FRC. Полностью прочитаны победившие альянсы и главные Chairman / Impact награды 11 сыгранных Championship в 2017–2026. Другие лиги и связь победителей со школами исследованы частично.</p><p class=\"history-intro\">",
         "type": "template"
       },
       {
-        "start": 5797,
-        "end": 5901,
+        "start": 5267,
+        "end": 5997,
+        "raw": "</p>\n        <div class=\"history-block-title\"><h4>Повторные FRC Championship Winner</h4><p>Член победившего альянса · подростковые команды · разные сезоны</p></div><div id=\"history-leaders\" class=\"history-leaders\"></div><p class=\"history-small\">Цветная точка — Championship Winner. Пунктир — отменённый матчевый финал; пустая — нет такой награды в проверенном наборе. В 2017–2019 были два отдельных Championship. Это не оценка всех выступлений школы.</p>\n        <div class=\"history-block-title\"><h4>Команда → сезон → первичный источник</h4><p>Выберите школу выше или отфильтруйте таблицу.</p></div><div class=\"history-filters\"><label>Лига<select data-history-filter=\"league\"><option value=\"\">Все исследованные результаты</option>",
+        "value": "</p>\n        <div class=\"history-block-title\"><h4>Повторные FRC Championship Winner</h4><p>Член победившего альянса · подростковые команды · разные сезоны</p></div><div id=\"history-leaders\" class=\"history-leaders\"></div><p class=\"history-small\">Цветная точка — Championship Winner. Пунктир — отменённый матчевый финал; пустая — нет такой награды в проверенном наборе. В 2017–2019 были два отдельных Championship. Это не оценка всех выступлений школы.</p>\n        <div class=\"history-block-title\"><h4>Команда → сезон → первичный источник</h4><p>Выберите школу выше или отфильтруйте таблицу.</p></div><div class=\"history-filters\"><label>Лига<select data-history-filter=\"league\"><option value=\"\">Все исследованные результаты</option>",
+        "type": "template"
+      },
+      {
+        "start": 6054,
+        "end": 6158,
         "raw": "</select></label><label>Организация<select data-history-filter=\"kind\"><option value=\"\">Все типы</option>",
         "value": "</select></label><label>Организация<select data-history-filter=\"kind\"><option value=\"\">Все типы</option>",
         "type": "template"
       },
       {
-        "start": 5985,
-        "end": 6105,
+        "start": 6242,
+        "end": 6362,
         "raw": "</select></label><label>Уровень награды<select data-history-filter=\"level\"><option value=\"\">Все уровни отдельно</option>",
         "value": "</select></label><label>Уровень награды<select data-history-filter=\"level\"><option value=\"\">Все уровни отдельно</option>",
         "type": "template"
       },
       {
-        "start": 6190,
-        "end": 7826,
+        "start": 6447,
+        "end": 8083,
         "raw": "</select></label><label>Поиск<input data-history-filter=\"query\" type=\"search\" placeholder=\"Madera, Taiwan, Sprout…\"></label></div><p id=\"history-result-count\" role=\"status\" aria-live=\"polite\"></p><div class=\"history-selection\" id=\"history-selection\" hidden></div><div class=\"history-table-scroll\" tabindex=\"0\" aria-label=\"История результатов, прокручиваемая таблица\"><table><caption class=\"sr-only\">Буквальные результаты и источники, текущие фильтры</caption><thead><tr><th>Год</th><th>Школа / организация</th><th>Результат</th><th>Доказательство</th></tr></thead><tbody id=\"history-results\"></tbody></table></div>\n        <div class=\"history-block-title\"><h4>Какие годы действительно проверены</h4><p>Охват по лигам. Пробел в архиве не означает проигрыш или отсутствие команды.</p></div><div class=\"history-coverage-scroll\" tabindex=\"0\" aria-label=\"Матрица охвата по годам\"><table class=\"history-coverage\"><thead id=\"history-coverage-head\"></thead><tbody id=\"history-coverage-body\"></tbody></table></div><div class=\"history-legend\"><span><i class=\"complete\"></i> Выбранный полный набор</span><span><i class=\"case\"></i> Кейсы / отчёты</span><span><i class=\"pending\"></i> Будущие результаты</span><span><i class=\"archive_gap\"></i> Пробел</span></div><div id=\"history-coverage-detail\" class=\"history-coverage-detail\"></div>\n        <div class=\"history-block-title\"><h4>Что это меняет для Матвея и Оскара</h4><p>Возраст 6 / 9, будущие 10–12 и подростковая команда проверяются отдельно.</p></div><div id=\"history-family\" class=\"history-family\"></div><details class=\"school-method\"><summary>Как считали сезоны и отличали титулы</summary><ul>",
         "value": "</select></label><label>Поиск<input data-history-filter=\"query\" type=\"search\" placeholder=\"Madera, Taiwan, Sprout…\"></label></div><p id=\"history-result-count\" role=\"status\" aria-live=\"polite\"></p><div class=\"history-selection\" id=\"history-selection\" hidden></div><div class=\"history-table-scroll\" tabindex=\"0\" aria-label=\"История результатов, прокручиваемая таблица\"><table><caption class=\"sr-only\">Буквальные результаты и источники, текущие фильтры</caption><thead><tr><th>Год</th><th>Школа / организация</th><th>Результат</th><th>Доказательство</th></tr></thead><tbody id=\"history-results\"></tbody></table></div>\n        <div class=\"history-block-title\"><h4>Какие годы действительно проверены</h4><p>Охват по лигам. Пробел в архиве не означает проигрыш или отсутствие команды.</p></div><div class=\"history-coverage-scroll\" tabindex=\"0\" aria-label=\"Матрица охвата по годам\"><table class=\"history-coverage\"><thead id=\"history-coverage-head\"></thead><tbody id=\"history-coverage-body\"></tbody></table></div><div class=\"history-legend\"><span><i class=\"complete\"></i> Выбранный полный набор</span><span><i class=\"case\"></i> Кейсы / отчёты</span><span><i class=\"pending\"></i> Будущие результаты</span><span><i class=\"archive_gap\"></i> Пробел</span></div><div id=\"history-coverage-detail\" class=\"history-coverage-detail\"></div>\n        <div class=\"history-block-title\"><h4>Что это меняет для Матвея и Оскара</h4><p>Возраст 6 / 9, будущие 10–12 и подростковая команда проверяются отдельно.</p></div><div id=\"history-family\" class=\"history-family\"></div><details class=\"school-method\"><summary>Как считали сезоны и отличали титулы</summary><ul>",
         "type": "template"
       },
       {
-        "start": 7881,
-        "end": 7998,
+        "start": 8138,
+        "end": 8255,
         "raw": "</ul></details><details class=\"school-method\"><summary>Что ещё требуется для полного мирового сравнения</summary><ul>",
         "value": "</ul></details><details class=\"school-method\"><summary>Что ещё требуется для полного мирового сравнения</summary><ul>",
         "type": "template"
       },
       {
-        "start": 8046,
-        "end": 8401,
+        "start": 8303,
+        "end": 8658,
         "raw": "</ul></details><div class=\"school-downloads\"><a class=\"button primary\" href=\"downloads/STEM_school_history.json\" download>История и источники · JSON</a><a class=\"button secondary\" href=\"downloads/STEM_school_history.csv\" download>Все результаты · CSV</a><a class=\"button secondary\" href=\"downloads/STEM_school_history.md\" download>Анализ · текст</a></div>",
         "value": "</ul></details><div class=\"school-downloads\"><a class=\"button primary\" href=\"downloads/STEM_school_history.json\" download>История и источники · JSON</a><a class=\"button secondary\" href=\"downloads/STEM_school_history.csv\" download>Все результаты · CSV</a><a class=\"button secondary\" href=\"downloads/STEM_school_history.md\" download>Анализ · текст</a></div>",
         "type": "template"
       },
       {
-        "start": 8843,
-        "end": 8867,
+        "start": 9100,
+        "end": 9124,
         "raw": "'полный выбранный набор'",
         "value": "полный выбранный набор",
         "type": "literal"
       },
       {
-        "start": 8868,
-        "end": 8885,
+        "start": 9125,
+        "end": 9142,
         "raw": "'частичный архив'",
         "value": "частичный архив",
         "type": "literal"
       },
       {
-        "start": 8968,
-        "end": 9010,
+        "start": 9225,
+        "end": 9267,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Источник ",
         "value": "\" target=\"_blank\" rel=\"noopener\">Источник ",
         "type": "template"
       },
       {
-        "start": 9146,
-        "end": 9157,
+        "start": 9403,
+        "end": 9414,
         "raw": "–2026 · на ",
         "value": "–2026 · на ",
         "type": "template"
       },
       {
-        "start": 9958,
-        "end": 9967,
+        "start": 10215,
+        "end": 10224,
         "raw": "Показано ",
         "value": "Показано ",
         "type": "template"
       },
       {
-        "start": 9978,
-        "end": 9982,
+        "start": 10235,
+        "end": 10239,
         "raw": " из ",
         "value": " из ",
         "type": "template"
       },
       {
-        "start": 10034,
-        "end": 10050,
+        "start": 10291,
+        "end": 10307,
         "raw": " записей в окне ",
         "value": " записей в окне ",
         "type": "template"
       },
       {
-        "start": 10066,
-        "end": 10134,
+        "start": 10323,
+        "end": 10391,
         "raw": "–2026. Запись — награда команды, не число школ или победных сезонов.",
         "value": "–2026. Запись — награда команды, не число школ или победных сезонов.",
         "type": "template"
       },
       {
-        "start": 10275,
-        "end": 10333,
+        "start": 10532,
+        "end": 10590,
         "raw": "</strong><button data-history-clear>Снять выбор ×</button>",
         "value": "</strong><button data-history-clear>Снять выбор ×</button>",
         "type": "template"
       },
       {
-        "start": 10664,
-        "end": 10688,
+        "start": 10921,
+        "end": 10945,
         "raw": "\">Досье школы ↗</button>",
         "value": "\">Досье школы ↗</button>",
         "type": "template"
       },
       {
-        "start": 10764,
-        "end": 10840,
-        "raw": "'Конкретная школа названа источником; язык, отбор и место требуют проверки.'",
-        "value": "Конкретная школа названа источником; язык, отбор и место требуют проверки.",
-        "type": "literal"
-      },
-      {
-        "start": 10869,
-        "end": 10957,
-        "raw": "'Есть младшая школьная ступень / Elementary track; возраст конкретной команды уточнить.'",
-        "value": "Есть младшая школьная ступень / Elementary track; возраст конкретной команды уточнить.",
-        "type": "literal"
-      },
-      {
-        "start": 10976,
-        "end": 11019,
-        "raw": "'Возраст конкретной команды не установлен.'",
-        "value": "Возраст конкретной команды не установлен.",
-        "type": "literal"
-      },
-      {
-        "start": 11020,
-        "end": 11082,
-        "raw": "'Подростковый результат; не доказательство команды для 6 / 9.'",
-        "value": "Подростковый результат; не доказательство команды для 6 / 9.",
-        "type": "literal"
-      },
-      {
-        "start": 10693,
-        "end": 10749,
+        "start": 10950,
+        "end": 11006,
         "raw": "<details><summary>Связь со школой / возраст</summary><p>",
         "value": "<details><summary>Связь со школой / возраст</summary><p>",
         "type": "template"
       },
       {
-        "start": 11292,
-        "end": 11348,
+        "start": 11021,
+        "end": 11097,
+        "raw": "'Конкретная школа названа источником; язык, отбор и место требуют проверки.'",
+        "value": "Конкретная школа названа источником; язык, отбор и место требуют проверки.",
+        "type": "literal"
+      },
+      {
+        "start": 11126,
+        "end": 11214,
+        "raw": "'Есть младшая школьная ступень / Elementary track; возраст конкретной команды уточнить.'",
+        "value": "Есть младшая школьная ступень / Elementary track; возраст конкретной команды уточнить.",
+        "type": "literal"
+      },
+      {
+        "start": 11233,
+        "end": 11276,
+        "raw": "'Возраст конкретной команды не установлен.'",
+        "value": "Возраст конкретной команды не установлен.",
+        "type": "literal"
+      },
+      {
+        "start": 11277,
+        "end": 11339,
+        "raw": "'Подростковый результат; не доказательство команды для 6 / 9.'",
+        "value": "Подростковый результат; не доказательство команды для 6 / 9.",
+        "type": "literal"
+      },
+      {
+        "start": 11549,
+        "end": 11605,
         "raw": "</small><details><summary>Нюансы результата</summary><p>",
         "value": "</small><details><summary>Нюансы результата</summary><p>",
         "type": "template"
       },
       {
-        "start": 11466,
-        "end": 11533,
+        "start": 11723,
+        "end": 11790,
         "raw": "\" target=\"_blank\" rel=\"noopener\">Проверить источник ↗</a></td></tr>",
         "value": "\" target=\"_blank\" rel=\"noopener\">Проверить источник ↗</a></td></tr>",
         "type": "template"
       },
       {
-        "start": 11548,
-        "end": 11631,
+        "start": 11805,
+        "end": 11888,
         "raw": "'<tr><td colspan=\"4\">Результатов для этих фильтров нет в текущем архиве.</td></tr>'",
         "value": "<tr><td colspan=\"4\">Результатов для этих фильтров нет в текущем архиве.</td></tr>",
         "type": "literal"
       },
       {
-        "start": 11676,
-        "end": 11705,
+        "start": 11933,
+        "end": 11962,
         "raw": "<tr><th>Лига / программа</th>",
         "value": "<tr><th>Лига / программа</th>",
         "type": "template"

@@ -7233,11 +7233,11 @@
     "S062"
   ],
   "school_focus": {
-    "checked": "2026-10-02",
-    "version": 51,
+    "checked": "2026-11-05",
+    "version": 164,
     "status": "partial",
     "family": "Matvey  2017, Oscar  2020; ambos pueden estudiar en inglés y español.",
-    "conclusion": "Se han añadido 10 documentos de EastAsia; English school / junior team / boarding se confirman por separado.",
+    "conclusion": "Añadidas rutas escolares de EE.UU. / Taiwán con tarifas publicadas y restricciones de admisión. Premio mundial, etapa escolar actual, entrenador externo y plaza concreta del niño se verifican por separado. Sin clasificación mundial completa de escuelas.",
     "methodology": [
       "El resultado del equipo es separado de la marketing general STEM, el laboratorio y el círculo inicial.",
       "El premio Division Champion, Excellence / Champions Award, la victoria nacional y la participación se describen literalmente; no se sustituyen entre sí.",
@@ -7364,6 +7364,18 @@
           "S038"
         ],
         "detail": "TASIS: equipo de VEX Middle School en funcionamiento, acceso menor por separado. Marymount: FabLab y STEM por clase/trímetro, no han confirmado premios mundiales 6/9"
+      },
+      {
+        "name": "Nuevas opciones escolares · EE.UU. / Taiwán",
+        "ids": [
+          "S063",
+          "S064",
+          "S065",
+          "S066",
+          "S067",
+          "S068"
+        ],
+        "detail": "St. Joseph: título acreditado, pero club Grades 3–8 e inscripción cerrada. Schilling Farms: programa acreditado 2025–2026, admisión distrital. Sandpiper: club familiar y asignación distrital. PAS: STEAM de primaria, VEX posterior. HCAS: base primaria en inglés, VEX Grades 6–12. IBSH: acreditar primero categoría de admission y cutoff de edad; resultado Genesis vinculado a entrenador externo. Elegir entorno escolar y acceso del niño, no comprar nombre de título."
       }
     ],
     "gaps": [
@@ -7375,13 +7387,13 @@
       "El hogar familiar, la inmigración, las visas escolares, los viajes del equipo y el total de la cuenta aún no se han evaluado."
     ],
     "counts": {
-      "records": 62,
+      "records": 68,
       "countries": 24,
-      "public": 10,
-      "private": 52,
-      "boarding": 9,
-      "world_result": 10,
-      "organizer_protocol": 8,
+      "public": 13,
+      "private": 55,
+      "boarding": 10,
+      "world_result": 14,
+      "organizer_protocol": 13,
       "fully_audited_countries": 0
     },
     "coverage": [
@@ -8201,7 +8213,7 @@
         "iso": "USA",
         "country": "Estados Unidos",
         "region": "América del Norte",
-        "records": 5,
+        "records": 8,
         "status": "partial"
       },
       {
@@ -9125,7 +9137,7 @@
         "iso": "TWN",
         "country": "Taiwán",
         "region": "Asia",
-        "records": 6,
+        "records": 9,
         "status": "partial"
       }
     ]

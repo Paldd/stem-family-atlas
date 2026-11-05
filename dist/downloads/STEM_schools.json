@@ -1,10 +1,10 @@
 {
   "audit": {
-    "checked": "2026-10-02",
-    "version": 51,
+    "checked": "2026-11-05",
+    "version": 164,
     "status": "partial",
     "family": "Матвей — 2017, Оскар — 2020; оба могут учиться на английском и испанском. Точные дни рождения и классы неизвестны.",
-    "conclusion": "Добавлены10досье EastAsia; English school / junior team / boarding подтверждаются отдельно. Полного мирового school ranking нет.",
+    "conclusion": "Добавлены школьные маршруты США / Тайваня с опубликованными тарифами и ограничениями допуска. Мировая награда, текущая школьная ступень, внешний тренер и место конкретного ребёнка проверяются отдельно. Полного мирового рейтинга школ нет.",
     "methodology": [
       "Сильный результат команды отделён от общего STEM-маркетинга, лаборатории и начального кружка.",
       "Division Champion, Excellence / Champion’s Award, национальная победа и участие описываются буквально; они не заменяют друг друга.",
@@ -131,6 +131,18 @@
           "S038"
         ],
         "detail": "TASIS: действующая VEX Middle School команда, младший доступ отдельно. Marymount: FabLab и STEM по классу/ триместру, подтверждённых мировых наград 6/9 нет."
+      },
+      {
+        "name": "Новые школьные варианты · США / Тайвань",
+        "ids": [
+          "S063",
+          "S064",
+          "S065",
+          "S066",
+          "S067",
+          "S068"
+        ],
+        "detail": "St. Joseph: доказанный титул, но клуб Grades 3–8 и запись закрыта. Schilling Farms: подтверждённая программа 2025–2026, поступление по округу. Sandpiper: родительский клуб и назначение по округу. PAS: младшая STEAM, VEX старше. HCAS: английская начальная база, VEX Grades 6–12. IBSH: сначала доказать категорию admission и возрастной cutoff; результат Genesis связан с внешним тренером. Выбирать школьную среду и доступ ребёнка, а не покупать название титула."
       }
     ],
     "gaps": [
@@ -142,13 +154,13 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 62,
+      "records": 68,
       "countries": 24,
-      "public": 10,
-      "private": 52,
-      "boarding": 9,
-      "world_result": 10,
-      "organizer_protocol": 8,
+      "public": 13,
+      "private": 55,
+      "boarding": 10,
+      "world_result": 14,
+      "organizer_protocol": 13,
       "fully_audited_countries": 0
     },
     "coverage": [
@@ -968,7 +980,7 @@
         "iso": "USA",
         "country": "Соединенные Штаты Америки",
         "region": "Северная Америка",
-        "records": 5,
+        "records": 8,
         "status": "partial"
       },
       {
@@ -1892,7 +1904,7 @@
         "iso": "TWN",
         "country": "Тайвань",
         "region": "Азия",
-        "records": 6,
+        "records": 9,
         "status": "partial"
       }
     ]
@@ -2105,6 +2117,50 @@
           "source": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/middle-school-robotics-team-terminus-makes-history-at-vex-world-championship",
           "provenance": "school_report",
           "limit": "Победа в дивизионе, не абсолютная победа всего чемпионата; сообщение школы."
+        },
+        {
+          "league": "VEX V5",
+          "season": 2026,
+          "stage": "ASIJ Tournament · Tokyo · High School",
+          "award": "Excellence Award",
+          "team": "TAS Tigers",
+          "team_id": "4253Z",
+          "source": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/tas-tigers-roar-at-2026-asij-vex-robotics-tournament-v5-in-tokyo",
+          "provenance": "school_report",
+          "limit": "Школьный отчёт 12.01.2026 о региональном ASIJ в Tokyo, High School. Не мировое событие и не результат младших."
+        },
+        {
+          "league": "VEX V5",
+          "season": 2026,
+          "stage": "ASIJ Tournament · Tokyo · High School",
+          "award": "Tournament Champion",
+          "team": "TAS Tigers",
+          "team_id": "4253S",
+          "source": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/tas-tigers-roar-at-2026-asij-vex-robotics-tournament-v5-in-tokyo",
+          "provenance": "school_report",
+          "limit": "Школьный отчёт 12.01.2026 о региональном ASIJ в Tokyo, High School. Не мировое событие и не результат младших."
+        },
+        {
+          "league": "VEX V5",
+          "season": 2026,
+          "stage": "ASIJ Tournament · Tokyo · High School",
+          "award": "Tournament Champion",
+          "team": "TAS Tigers",
+          "team_id": "4253V",
+          "source": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/tas-tigers-roar-at-2026-asij-vex-robotics-tournament-v5-in-tokyo",
+          "provenance": "school_report",
+          "limit": "Школьный отчёт 12.01.2026 о региональном ASIJ в Tokyo, High School. Не мировое событие и не результат младших."
+        },
+        {
+          "league": "VEX V5",
+          "season": 2026,
+          "stage": "ASIJ Tournament · Tokyo · High School",
+          "award": "Robot Skills Champion",
+          "team": "TAS Tigers",
+          "team_id": "4253A",
+          "source": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/tas-tigers-roar-at-2026-asij-vex-robotics-tournament-v5-in-tokyo",
+          "provenance": "school_report",
+          "limit": "Школьный отчёт 12.01.2026 о региональном ASIJ в Tokyo, High School. Не мировое событие и не результат младших."
         }
       ],
       "evidence": "world_result",
@@ -2142,9 +2198,16 @@
           "claim": "Published primary tariff; two-child calculation in the family strategy is editorial.",
           "checked": "2026-10-01",
           "kind": "school"
+        },
+        {
+          "title": "ASIJ Tokyo 2026",
+          "url": "https://www.tas.edu.tw/community/news/story/~board/tas-news/post/tas-tigers-roar-at-2026-asij-vex-robotics-tournament-v5-in-tokyo",
+          "claim": "Школьный отчёт 12.01.2026 о региональном ASIJ в Tokyo, High School. Не мировое событие и не результат младших.",
+          "kind": "school",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-01",
+      "checked": "2026-11-05",
       "priority": 1,
       "research_status": "partial",
       "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
@@ -3118,7 +3181,7 @@
     },
     {
       "id": "S015",
-      "name": "Escola SESI-SP Jundiaí · Heroes",
+      "name": "Escola SESI Humberto Cereser · CE 021 · Heroes",
       "iso": "BRA",
       "country": "Бразилия",
       "region": "Южная Америка",
@@ -3149,11 +3212,55 @@
           "team_id": null,
           "source": "https://www.sesisp.org.br/noticia/sesi-sp-brilha-no-mundial-de-robotica-nos-eua-e-conquista-o-maior-premio-com-equipe-de-jundiai",
           "provenance": "school_operator_report",
-          "limit": "Оценённая комплексная награда FLL. Источник — SESI-SP; независимый FIRST протокол и точный кампус ещё проверить."
+          "limit": "Houston 2025 Champion’s Award сохраняется как отдельный титул. Кампус CE 021 уточнён по сообщению оператора 2026; независимый протокол Houston 2025 и историческое прикрепление кампуса требуют сверки."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "International Open · Guadalajara · México",
+          "award": "Champions Award",
+          "team": "SESI Heroes · CE 021",
+          "team_id": null,
+          "source": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
+          "provenance": "school_operator_report",
+          "limit": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "International Open · Guadalajara · México",
+          "award": "Innovation Project · 1st place",
+          "team": "SESI Heroes · CE 021",
+          "team_id": null,
+          "source": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
+          "provenance": "school_operator_report",
+          "limit": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "International Open · Guadalajara · México",
+          "award": "Robot Performance · 2nd place",
+          "team": "SESI Heroes · CE 021",
+          "team_id": null,
+          "source": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
+          "provenance": "school_operator_report",
+          "limit": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston."
+        },
+        {
+          "league": "FIRST LEGO League Challenge",
+          "season": 2026,
+          "stage": "International Open · Guadalajara · México",
+          "award": "Alliances · 2nd place",
+          "team": "SESI Heroes · CE 021",
+          "team_id": null,
+          "source": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
+          "provenance": "school_operator_report",
+          "limit": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston."
         }
       ],
       "evidence": "world_result",
-      "admissions": "Приоритет детям работников индустрии и связанных организаций; прочие кандидаты — при оставшихся местах. Ранние классы: lottery; со 2-го класса: школьный отбор. Страница описывает набор 2026 с датами 2025, не новое окно 2027. Иностранный статус отдельно.",
+      "admissions": "Общая запись на 2027 закрыта: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 только при оставшихся местах; это не действующая открытая форма. Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись.",
       "cost": "Плата, льготы сети и статус иностранного ребёнка не установлены.",
       "questions": [
         "Установить точный действующий кампус Heroes, младший набор и язык.",
@@ -3187,9 +3294,23 @@
           "claim": "Heroes Innovation Project Award Finalist",
           "kind": "organizer",
           "checked": "2026-10-01"
+        },
+        {
+          "title": "SESI Heroes Mexico Open 2026",
+          "url": "https://jundiai.sesisp.org.br/noticia/sesi-jundiai-conquista-titulo-mundial-de-robotica-no-mexico-e-traz-quatro-premiacoes-para-o-brasil",
+          "claim": "Оператор называет конкретный кампус CE 021 и международный Open Guadalajara 27–30.05.2026. Champions и Innovation — оценённые награды Open; вторые места Robot Performance / Alliances не мировые титулы Houston.",
+          "kind": "school_operator",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "SESI admission 2027",
+          "url": "https://hotsite.sesisp.org.br/processoseletivo/",
+          "claim": "Общая запись на 2027 закрыта: beneficiary 06–15.10.2026, non-beneficiary 19–21.10.2026 только при оставшихся местах; это не действующая открытая форма.",
+          "kind": "school_operator",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-01",
+      "checked": "2026-11-05",
       "priority": 3,
       "research_status": "partial",
       "verification": "Документальная проверка; школа и место в команде не подтверждали приём детей."
@@ -3576,15 +3697,15 @@
       "ai": "Отдельный AI-курс не установлен.",
       "results": [
         {
-          "league": "VEX",
+          "league": "VEX IQ",
           "season": 2022,
-          "stage": "VEX Worlds",
-          "award": "World Champions · категория не указана",
-          "team": "AST-onishing",
-          "team_id": null,
-          "source": "https://www.astaichung.com/robotics",
-          "provenance": "school_report",
-          "limit": "Самоописание школы; точный протокол, категория и награда не установлены. Не включено в счёт мировых побед."
+          "stage": "VEX World Championship · IQ Elementary",
+          "award": "VEX IQ Challenge Elementary School Excellence Award",
+          "team": "MSS",
+          "team_id": "66799T",
+          "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQC-21-5455.html",
+          "provenance": "organizer_protocol",
+          "limit": "В старой HTML-таблице организатора прямо названы American School in Taichung, 66799T и Elementary Excellence. Ранее неклассифицированное World Champions уточнено без создания второй награды."
         },
         {
           "league": "VEX",
@@ -3662,9 +3783,16 @@
           "claim": "G1–5 NTD249500 / semester; год таблицы не указан",
           "kind": "school",
           "checked": "2026-10-01"
+        },
+        {
+          "title": "VEX IQ Elementary 2022 legacy awards",
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQC-21-5455.html",
+          "claim": "66799T · Elementary Excellence Award",
+          "kind": "organizer",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-01",
+      "checked": "2026-11-05",
       "priority": 2,
       "research_status": "partial",
       "verification": "Документальная проверка; школа и команда не подтверждали приём детей."
@@ -6812,6 +6940,622 @@
       "priority": 3,
       "research_status": "partial",
       "verification": "Первичные документы проверены; ни admission, ни enrolment, ни team place не подтверждены школой."
+    },
+    {
+      "id": "S063",
+      "name": "St. Joseph Catholic School · Spartan Robotics",
+      "iso": "USA",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Rice Lake · Wisconsin",
+      "school_type": "private",
+      "curriculum": "Частная католическая школа PreK–Grade 8; реальная школьная VEX IQ программа с родительскими наставниками.",
+      "ib_programmes": [],
+      "ages": "PreK–Grade 8. VEX IQ клуб 2026–27: только Grades 3–8; классы Матвея и Оскара не установлены.",
+      "instruction_languages": [],
+      "language_note": "Английский сайт не подтверждает язык всех предметов и соревновательной группы; язык и поддержку уточнить.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Классы детей неизвестны. Дневная ступень — кандидат, а не подтверждённое место в школе или команде; возраст 9 / 6 не заменяет класс."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Действующий пансион для детей 6 / 9 не установлен. Дневная школа не заменяет внешнее жильё семьи.",
+      "programme": "Spartan Robotics: небольшие VEX IQ команды Grades 3–8, обычно среда 15:30–17:30, сезон октябрь–январь. Level Up 2026–27; на странице Registration Closed. Победители Excellence 2026 названы шестиклассниками — Elementary здесь не означает возраст 6 лет.",
+      "labs": "Сборка и программирование VEX IQ в школьном зале; родительские наставники и помощь Warrior Robotics. Гарантированный личный robot kit не заявлен.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "VEX World Championship · IQ Elementary",
+          "award": "Excellence Award (WC)",
+          "team": "Natural Disaster",
+          "team_id": "34362H",
+          "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4029.html",
+          "provenance": "organizer_protocol",
+          "limit": "Elementary — категория события, а не обещание состава из шестилетних. Приём младшего ребёнка в победившую команду не установлен. Протокол организатора и школьная публикация согласуются по команде Natural Disaster; это Excellence, не Teamwork или Skills."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Есть процесс нового приёма 2026–27: подтверждение школы, документы и регистрационный сбор. Международное зачисление, поддержка английского и место в клубе не подтверждены. У клуба старый текст Friday, August 29th не соответствует календарю 2026; дедлайн не перенесён догадкой.",
+      "cost": "Опубликовано: K–8 USD 4000 в год; невозвратная регистрация USD 150 за ребёнка. Для двоих в K–8: 8300 до дополнительных расходов. VEX IQ USD 100 за участника включает турнирные взносы и футболку; участие обоих не гарантировано. PreK 3 — 2000, PreK 4 — 3500. Льгота Wisconsin Choice не считается автоматически доступной иностранной семье.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "VEX IQ club 2026–27",
+          "url": "https://sjsricelake.org/athletics-activities/robotics/",
+          "claim": "Spartan Robotics: небольшие VEX IQ команды Grades 3–8, обычно среда 15:30–17:30, сезон октябрь–январь. Level Up 2026–27; на странице Registration Closed. Победители Excellence 2026 названы шестиклассниками — Elementary здесь не означает возраст 6 лет.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Tuition and financial assistance",
+          "url": "https://sjsricelake.org/admissions/tuition-and-financial-assistance/",
+          "claim": "Опубликовано: K–8 USD 4000 в год; невозвратная регистрация USD 150 за ребёнка. Для двоих в K–8: 8300 до дополнительных расходов. VEX IQ USD 100 за участника включает турнирные взносы и футболку; участие обоих не гарантировано. PreK 3 — 2000, PreK 4 — 3500. Льгота Wisconsin Choice не считается автоматически доступной иностранной семье.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "New student enrollment",
+          "url": "https://sjsricelake.org/admissions/enroll/",
+          "claim": "Есть процесс нового приёма 2026–27: подтверждение школы, документы и регистрационный сбор. Международное зачисление, поддержка английского и место в клубе не подтверждены. У клуба старый текст Friday, August 29th не соответствует календарю 2026; дедлайн не перенесён догадкой.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "School account of Worlds 2026",
+          "url": "https://sjsricelake.org/press-release/robotics-team-makes-history/",
+          "claim": "Elementary — категория события, а не обещание состава из шестилетних. Приём младшего ребёнка в победившую команду не установлен.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "VEX Worlds 2026 Elementary awards",
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4029.html",
+          "claim": "Excellence Award · 34362H",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S064",
+      "name": "Schilling Farms Elementary School · Stallionbots",
+      "iso": "USA",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Collierville · Tennessee",
+      "school_type": "public",
+      "curriculum": "Государственная начальная школа Collierville Schools. NCES: Grades PK–5, справочник 2025–26; справочник не является аккредитацией или мировым рейтингом.",
+      "ib_programmes": [],
+      "ages": "PK–Grade 5",
+      "instruction_languages": [],
+      "language_note": "Английский сайт не подтверждает язык всех предметов и соревновательной группы; язык и поддержку уточнить.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Классы детей неизвестны. Дневная ступень — кандидат, а не подтверждённое место в школе или команде; возраст 9 / 6 не заменяет класс."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Действующий пансион для детей 6 / 9 не установлен. Дневная школа не заменяет внешнее жильё семьи.",
+      "programme": "Команда 6593A Stallionbots получила VEX IQ Elementary Excellence 2024. Текущая запись организатора называет Schilling Farms; историческое прикрепление к школе и нынешние младшие группы требуют дополнительного архивного подтверждения. Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения.",
+      "labs": "Текущий состав наставников, часы, оборудование младшей команды и условия входа не восстановлены; титул 2024 не доказывает доступную группу 2026–27.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [
+        {
+          "league": "VEX IQ",
+          "season": 2024,
+          "stage": "VEX World Championship · IQ Elementary",
+          "award": "Excellence Award (WC)",
+          "team": "Stallionbots",
+          "team_id": "6593A",
+          "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3694.html",
+          "provenance": "organizer_protocol",
+          "limit": "Награда и категория взяты из протокола конкретного года. Организация / класс в текущей карточке команды проверены 05.11.2026 и могут отличаться от исторических; это не архивный снимок принадлежности."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2025,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Excellence Award",
+          "team": "Stallionbots",
+          "team_id": "6593A",
+          "source": "https://www.colliervilleschools.org/12522?articleID=21545",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2025,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Teamwork Champion Award",
+          "team": "Stallionbots",
+          "team_id": "6593C",
+          "source": "https://www.colliervilleschools.org/12522?articleID=21545",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2025,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Design Award",
+          "team": "Stallionbots",
+          "team_id": "6593B",
+          "source": "https://www.colliervilleschools.org/12522?articleID=21545",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Teamwork Champion Award",
+          "team": "Stallionbots",
+          "team_id": "6593B",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Teamwork Champion Award",
+          "team": "Stallionbots",
+          "team_id": "6593A",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Teamwork 2nd Place Award",
+          "team": "Stallionbots",
+          "team_id": "6593C",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Design Award",
+          "team": "Stallionbots",
+          "team_id": "6593C",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Robot Skills Champion",
+          "team": "Stallionbots",
+          "team_id": "6593B",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        },
+        {
+          "league": "VEX IQ",
+          "season": 2026,
+          "stage": "Tennessee State Championship · Elementary",
+          "award": "Innovate Award",
+          "team": "Stallionbots",
+          "team_id": "6593B",
+          "source": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "provenance": "school_report",
+          "limit": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Государственный округ: проверить реальный адрес проживания, школьную зону, класс и индивидуальные документы. Факт PK–5 подтверждён федеральным NCES, школьные команды — публикациями школы / округа 2025–2026. Место в школе и клубе для новой семьи отдельно не подтверждено.",
+      "cost": "Полная текущая смета школы, клуба, соревнований, транспорта и жилья не проверена. Государственный статус не означает нулевую стоимость семейного маршрута.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "NCES public-school directory",
+          "url": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=470014902515",
+          "claim": "Государственная начальная школа Collierville Schools. NCES: Grades PK–5, справочник 2025–26; справочник не является аккредитацией или мировым рейтингом.",
+          "kind": "government",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "VEX IQ Elementary 2024 awards",
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3694.html",
+          "claim": "Excellence Award · 6593A",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current team metadata",
+          "url": "https://events.vex.com/api/v2/teams/98368",
+          "claim": "Награда и категория взяты из протокола конкретного года. Организация / класс в текущей карточке команды проверены 05.11.2026 и могут отличаться от исторических; это не архивный снимок принадлежности.",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Official school / district state results",
+          "url": "https://www.colliervilleschools.org/12522?articleID=21545",
+          "claim": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Official school / district state results",
+          "url": "https://schillingfarmses.colliervilleschools.org/17688?articleID=54282",
+          "claim": "Официальные публикации школы / округа подтверждают: в 2025 Schilling получила три названные награды штата, в 2026 шесть. Это региональные результаты и квалификация, не дополнительные мировые титулы. Многолетняя школьная программа подтверждена, место и младший класс для нового ученика требуют отдельного решения.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S065",
+      "name": "Sandpiper School · Robo Cats",
+      "iso": "USA",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Redwood City · California",
+      "school_type": "public",
+      "curriculum": "Государственная TK–Grade 8 школа Belmont–Redwood Shores School District. Программа науки, инженерных практик и поддержки изучающих английский.",
+      "ib_programmes": [],
+      "ages": "TK–Grade 8",
+      "instruction_languages": [],
+      "language_note": "Есть English Language Arts и прямое описание English Language Development для изучающих английский. Язык конкретной робототехнической команды и полное расписание предметов отдельно не установлены.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Классы детей неизвестны. Дневная ступень — кандидат, а не подтверждённое место в школе или команде; возраст 9 / 6 не заменяет класс."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Действующий пансион для детей 6 / 9 не установлен. Дневная школа не заменяет внешнее жильё семьи.",
+      "programme": "Родительский Robotics Club подтверждён PTA; отдельный Coding Club описан для middle school. 2014K Robo Cats — Excellence VEX IQ Elementary 2025. Возраст входа в робототехнику, отбор и часы нынешнего сезона не опубликованы в прочитанных источниках.",
+      "labs": "Начальная наука Twig Science, средняя StemScopes; Grades 4–5 science specialist дважды в неделю. Это часы науки, не часы подготовки команды VEX.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [
+        {
+          "league": "VEX IQ",
+          "season": 2025,
+          "stage": "VEX World Championship · IQ Elementary",
+          "award": "Excellence Award (WC)",
+          "team": "Robo Cats",
+          "team_id": "2014K",
+          "source": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-24-8914.html",
+          "provenance": "organizer_protocol",
+          "limit": "Награда и категория взяты из протокола конкретного года. Организация / класс в текущей карточке команды проверены 05.11.2026 и могут отличаться от исторических; это не архивный снимок принадлежности. В поисковом извлечении официального roster Engineering Division 2025 прямо указаны 2014K, Robo Cats и Sandpiper School. Сам PDF по этому адресу сейчас не удалось скачать; это дополнительное индексированное свидетельство исторической связи, а не заявление о прочтении оригинального PDF."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Округ открыл enrollment 2026–27. Проверить документы проживания и School Assignment Process: регистрация в округе не гарантирует назначение в Sandpiper или место в победившей команде.",
+      "cost": "Полная семейная стоимость не подтверждена: клуб, турниры, материалы, транспорт и внешнее жильё отдельно. Налоговый статус государственной школы не превращён в итоговую цену 0.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Sandpiper PTA clubs",
+          "url": "https://sandpiper.brssd.org/family-and-partner-groups/pta",
+          "claim": "Родительский Robotics Club подтверждён PTA; отдельный Coding Club описан для middle school. 2014K Robo Cats — Excellence VEX IQ Elementary 2025. Возраст входа в робототехнику, отбор и часы нынешнего сезона не опубликованы в прочитанных источниках.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Curriculum and instruction",
+          "url": "https://sandpiper.brssd.org/programs/curriculum-and-instruction",
+          "claim": "Начальная наука Twig Science, средняя StemScopes; Grades 4–5 science specialist дважды в неделю. Это часы науки, не часы подготовки команды VEX. Есть English Language Arts и прямое описание English Language Development для изучающих английский. Язык конкретной робототехнической команды и полное расписание предметов отдельно не установлены.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "BRSSD enrollment",
+          "url": "https://www.brssd.org/online-enrollment",
+          "claim": "Округ открыл enrollment 2026–27. Проверить документы проживания и School Assignment Process: регистрация в округе не гарантирует назначение в Sandpiper или место в победившей команде.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "VEX IQ Elementary 2025 awards",
+          "url": "https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-24-8914.html",
+          "claim": "Excellence Award · 2014K",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current team metadata",
+          "url": "https://events.vex.com/api/v2/teams/65673",
+          "claim": "Награда и категория взяты из протокола конкретного года. Организация / класс в текущей карточке команды проверены 05.11.2026 и могут отличаться от исторических; это не архивный снимок принадлежности.",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Indexed official roster · Engineering Division 2025",
+          "url": "https://recf.org/documents/2025/04/engineering-division-list-vex-iq-robotics-competition-elementary-school-vex-robotics-world-championship.pdf/",
+          "claim": "В поисковом извлечении официального roster Engineering Division 2025 прямо указаны 2014K, Robo Cats и Sandpiper School. Сам PDF по этому адресу сейчас не удалось скачать; это дополнительное индексированное свидетельство исторической связи, а не заявление о прочтении оригинального PDF.",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S066",
+      "name": "Pacific American School · PAS",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "Zhubei · Hsinchu County",
+      "school_type": "private",
+      "curriculum": "Частная англоязычная школа Grades 1–12; младшая STEAM и старшие VEX / AIoT / предпринимательские проекты.",
+      "ib_programmes": [],
+      "ages": "Grades 1–12; Elementary Grades 1–5",
+      "instruction_languages": [
+        "EN"
+      ],
+      "language_note": "How to Apply прямо называет all-English-speaking school; есть ESL. Для Grades 1–2 оценивают базовый английский, Grades 3–5 — тестирование. Английский робототехнической группы и свободное место отдельно подтвердить.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Классы детей неизвестны. Дневная ступень — кандидат, а не подтверждённое место в школе или команде; возраст 9 / 6 не заменяет класс."
+      },
+      "boarding": "yes",
+      "boarding_note": "Опубликован Dormitory & Meal Service NTD 150000 за семестр для boarders. Минимальный возраст и приём детей 6 / 9 в пансион не установлены; цену пансиона не применять автоматически обоим.",
+      "programme": "В Elementary STEAM дважды в неделю. На странице клубов VEX и AIoT относятся к Middle / High School, не к младшим. Проведение VEX Signature Event не доказывает собственную победу школы.",
+      "labs": "Есть технологические и VEX направления; младшим подтверждены STEAM занятия. Объём личной работы с роботами, наставник и доступ к соревновательной группе уточнить.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [],
+      "evidence": "programme",
+      "admissions": "Приоритет сильному академическому английскому и иностранному / второму паспорту; конкретный класс, interview, ESL и места требуют решения школы. Наличие паспорта не означает зачисление.",
+      "cost": "2026–27, NTD: G1–5 tuition 319800 за семестр; годовая регистрация 50000; capital 45000 и facility & technology 35000 за семестр. Для двоих в G1–5 за два семестра: tuition 1279200; с этими регулярными обязательными сборами 1699200 при начислении facility & technology каждому ученику. Единицу этого сбора подтвердить. Это не полный счёт: first-time application 100000, страхование 800 и PTA 1000 за ребёнка требуют уточнения периода / применения; ESL 70000 за семестр при необходимости. Lunch G1–5 20000 за год; ERB test 5500; транспорт, книги, турниры и жильё отдельно. Boarding 150000 за семестр — только при принятом residential admission.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Elementary STEAM",
+          "url": "https://www.pacificamerican.org/elementary-school/",
+          "claim": "В Elementary STEAM дважды в неделю. На странице клубов VEX и AIoT относятся к Middle / High School, не к младшим. Проведение VEX Signature Event не доказывает собственную победу школы.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "School clubs",
+          "url": "https://www.pacificamerican.org/school-clubs/",
+          "claim": "В Elementary STEAM дважды в неделю. На странице клубов VEX и AIoT относятся к Middle / High School, не к младшим. Проведение VEX Signature Event не доказывает собственную победу школы.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "How to apply",
+          "url": "https://www.pacificamerican.org/how-to-apply/",
+          "claim": "How to Apply прямо называет all-English-speaking school; есть ESL. Для Grades 1–2 оценивают базовый английский, Grades 3–5 — тестирование. Английский робототехнической группы и свободное место отдельно подтвердить. Приоритет сильному академическому английскому и иностранному / второму паспорту; конкретный класс, interview, ESL и места требуют решения школы. Наличие паспорта не означает зачисление.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Tuition and fees 2026–27",
+          "url": "https://www.pacificamerican.org/tuition-fees/",
+          "claim": "2026–27, NTD: G1–5 tuition 319800 за семестр; годовая регистрация 50000; capital 45000 и facility & technology 35000 за семестр. Для двоих в G1–5 за два семестра: tuition 1279200; с этими регулярными обязательными сборами 1699200 при начислении facility & technology каждому ученику. Единицу этого сбора подтвердить. Это не полный счёт: first-time application 100000, страхование 800 и PTA 1000 за ребёнка требуют уточнения периода / применения; ESL 70000 за семестр при необходимости. Lunch G1–5 20000 за год; ERB test 5500; транспорт, книги, турниры и жильё отдельно. Boarding 150000 за семестр — только при принятом residential admission.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Robotics / VEX",
+          "url": "https://www.pacificamerican.org/robotics/",
+          "claim": "Есть технологические и VEX направления; младшим подтверждены STEAM занятия. Объём личной работы с роботами, наставник и доступ к соревновательной группе уточнить.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S067",
+      "name": "Hsinchu County American School · HCAS",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "Zhubei · Hsinchu County",
+      "school_type": "private",
+      "curriculum": "Частная школа Kindergarten–Grade 12. First Program Grades 1–5; английский основной язык преподавания, китайский ежедневно.",
+      "ib_programmes": [],
+      "ages": "Kindergarten–Grade 12; First Program Grades 1–5",
+      "instruction_languages": [
+        "EN"
+      ],
+      "language_note": "Основной English прямо подтверждён First Program; это не только английская версия сайта. Китайский — ежедневный предмет. Обязательный EAL при результате WIDA ниже школьного порога; платный и не по желанию семьи.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Классы детей неизвестны. Дневная ступень — кандидат, а не подтверждённое место в школе или команде; возраст 9 / 6 не заменяет класс."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Действующий пансион для детей 6 / 9 не установлен. Дневная школа не заменяет внешнее жильё семьи.",
+      "programme": "VEX team на странице Teams — Grades 6–12. Школьный отчёт 2023–24 сообщает Creative Award на Taiwan Open; точное название и уровень без независимого протокола не переименованы. Для 6 / 9 это школьная база с будущим командным входом, не доказанная младшая VEX команда.",
+      "labs": "Опубликованы robotics lab, computer lab и две science labs. Собственное устройство обязательно Grades 7–12 и рекомендовано Grades 5–6; школа не выдаёт каждому ноутбук.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [
+        {
+          "league": "VEX V5",
+          "season": "2023–24",
+          "stage": "Taiwan Open",
+          "award": "Creative Award",
+          "team": "HCAS VEX Team",
+          "team_id": null,
+          "source": "https://www.hcas.tw/campus-life/sports_academic_teams/",
+          "provenance": "school_report",
+          "limit": "VEX team на странице Teams — Grades 6–12. Школьный отчёт 2023–24 сообщает Creative Award на Taiwan Open; точное название и уровень без независимого протокола не переименованы. Для 6 / 9 это школьная база с будущим командным входом, не доказанная младшая VEX команда."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Годовой rolling admission; предпочтительны начало учебного года и второго семестра, промежуточный вход индивидуально. G1 без прежней выписки; G2–4 предыдущий и текущий год, G5–8 два предыдущих и текущий; G1–8 одна рекомендация. FAQ допускает все национальности; для тайваньского ученика нужен второй паспорт или доказательство оформления. Тест, документы и решение школы обязательны.",
+      "cost": "Официальный PDF 2026–27, NTD: G1–4 tuition 208000, G5–8 248000, G9–12 288000 за семестр; annual registration 25000; first-time application 50000; technology 7000 и miscellaneous 3300 за семестр. Для двоих в G1–4 за два семестра tuition 832000, с registration + technology + miscellaneous 923200, без first-time и прочих платежей. Lunch G1–4 15500 за семестр обязателен кроме medical exemption; EAL 45000 при необходимости. MAP G1–5 1100 и library 1000: период уточнить. Шаблон возврата boarding fee не доказывает действующий пансион.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "First Program",
+          "url": "https://www.hcas.tw/learning/first-program/",
+          "claim": "Основной English прямо подтверждён First Program; это не только английская версия сайта. Китайский — ежедневный предмет. Обязательный EAL при результате WIDA ниже школьного порога; платный и не по желанию семьи.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "VEX teams",
+          "url": "https://www.hcas.tw/campus-life/sports_academic_teams/",
+          "claim": "VEX team на странице Teams — Grades 6–12. Школьный отчёт 2023–24 сообщает Creative Award на Taiwan Open; точное название и уровень без независимого протокола не переименованы. Для 6 / 9 это школьная база с будущим командным входом, не доказанная младшая VEX команда.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Campus labs",
+          "url": "https://www.hcas.tw/about-us/campus/",
+          "claim": "Опубликованы robotics lab, computer lab и две science labs. Собственное устройство обязательно Grades 7–12 и рекомендовано Grades 5–6; школа не выдаёт каждому ноутбук.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Admissions",
+          "url": "https://www.hcas.tw/admissions/",
+          "claim": "Годовой rolling admission; предпочтительны начало учебного года и второго семестра, промежуточный вход индивидуально. G1 без прежней выписки; G2–4 предыдущий и текущий год, G5–8 два предыдущих и текущий; G1–8 одна рекомендация. FAQ допускает все национальности; для тайваньского ученика нужен второй паспорт или доказательство оформления. Тест, документы и решение школы обязательны.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Admissions FAQ",
+          "url": "https://www.hcas.tw/admissions/frequently-asked-questions/",
+          "claim": "Годовой rolling admission; предпочтительны начало учебного года и второго семестра, промежуточный вход индивидуально. G1 без прежней выписки; G2–4 предыдущий и текущий год, G5–8 два предыдущих и текущий; G1–8 одна рекомендация. FAQ допускает все национальности; для тайваньского ученика нужен второй паспорт или доказательство оформления. Тест, документы и решение школы обязательны.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Official tuition PDF 2026–27",
+          "url": "https://www.hcas.tw/wp-content/uploads/2026/08/%E5%AD%B8%E8%B2%BBG1-G12-Tuition-2026-2027-1.pdf",
+          "claim": "Официальный PDF 2026–27, NTD: G1–4 tuition 208000, G5–8 248000, G9–12 288000 за семестр; annual registration 25000; first-time application 50000; technology 7000 и miscellaneous 3300 за семестр. Для двоих в G1–4 за два семестра tuition 832000, с registration + technology + miscellaneous 923200, без first-time и прочих платежей. Lunch G1–4 15500 за семестр обязателен кроме medical exemption; EAL 45000 при необходимости. MAP G1–5 1100 и library 1000: период уточнить. Шаблон возврата boarding fee не доказывает действующий пансион.",
+          "kind": "school",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S068",
+      "name": "International Bilingual School at Hsinchu Science Park · IBSH",
+      "iso": "TWN",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "Hsinchu · 300 Jieshou Road",
+      "school_type": "public",
+      "curriculum": "Государственное bilingual отделение National Experimental High School; Grades 1–12. Сокращение IBSH не подтверждает программу International Baccalaureate; IB не установлен.",
+      "ib_programmes": [],
+      "ages": "Grades 1–12. Для G1 в 2026–27: родиться не позже 2020-09-01; точная дата Оскара неизвестна. Ранний вход с 5.5 лет — специальное одобрение gifted evaluation, не автоматическое исключение.",
+      "instruction_languages": [],
+      "language_note": "Школа прямо описывает bilingual environment; требуется English Admission Exam, Chinese Placement Test определяет группу. Это не обещание всех предметов и робототехники только на английском.",
+      "fit": {
+        "mat": "unknown",
+        "osc": "unknown",
+        "note": "Наличие младшей ступени не снимает ограничений Article III / V, теста и возрастного cutoff; допуск семьи не доказан."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Действующий пансион для детей 6 / 9 не установлен. Дневная школа не заменяет внешнее жильё семьи.",
+      "programme": "Robotics Club указан в Gr.7–12 Clubs. Genesis 78181A — VEX V5 Middle School Excellence 2024; Curious Robotics прямо называет себя тренером, а участников — учениками IBSH. Достижение учеников с внешним тренером не приписано только школьной лаборатории. Младший Gr.1–6 robotics вход не доказан.",
+      "labs": "Опубликована билингвальная учебная структура и старший robotics club. Личные часы младших, оборудование и EN-группа требуют проверки.",
+      "ai": "Отдельная соревновательная AI-команда младших в этом проходе не подтверждена.",
+      "results": [
+        {
+          "league": "VEX V5",
+          "season": 2024,
+          "stage": "VEX World Championship · V5 Middle School",
+          "award": "Excellence Award (WC)",
+          "team": "Genesis",
+          "team_id": "78181A",
+          "source": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-VRC-23-3691.html",
+          "provenance": "organizer_protocol",
+          "limit": "Robotics Club указан в Gr.7–12 Clubs. Genesis 78181A — VEX V5 Middle School Excellence 2024; Curious Robotics прямо называет себя тренером, а участников — учениками IBSH. Достижение учеников с внешним тренером не приписано только школьной лаборатории. Младший Gr.1–6 robotics вход не доказан."
+        }
+      ],
+      "evidence": "world_result",
+      "admissions": "Guide 2026–27 требует конкретной категории Article III или V и вступительного английского. В Technology-категории прямо приведена Taiwan Employment Gold Card in Technology field; любая Gold Card сама по себе не доказывает этот маршрут. Для special foreign professional есть отдельное условие Article V. Промежуточный набор закрылся 30.10.2026, экзамен 05.11.2026 не открыт для новой заявки. В guide второй семестр: экзамены 07.01.2027 Article III и 13.01.2027 Article V; окно заявок, категорию и места подтвердить по свежему notice. При расхождении действует китайский оригинал.",
+      "cost": "Guide: review NTD 400, English exam 700, Chinese placement 700 при сдаче. Эти суммы не tuition и не полный семейный бюджет. Свежая полная стоимость школы, жилья и внешнего тренера не установлена.",
+      "questions": [
+        "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Official admission guide 2026–27",
+          "url": "https://drive.google.com/file/d/1vNRyKuNHhDdVeMX463Kw7G_rYU28XumR/view",
+          "claim": "Guide 2026–27 требует конкретной категории Article III или V и вступительного английского. В Technology-категории прямо приведена Taiwan Employment Gold Card in Technology field; любая Gold Card сама по себе не доказывает этот маршрут. Для special foreign professional есть отдельное условие Article V. Промежуточный набор закрылся 30.10.2026, экзамен 05.11.2026 не открыт для новой заявки. В guide второй семестр: экзамены 07.01.2027 Article III и 13.01.2027 Article V; окно заявок, категорию и места подтвердить по свежему notice. При расхождении действует китайский оригинал. Grades 1–12. Для G1 в 2026–27: родиться не позже 2020-09-01; точная дата Оскара неизвестна. Ранний вход с 5.5 лет — специальное одобрение gifted evaluation, не автоматическое исключение.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Admission guide announcement",
+          "url": "https://ibsh.tw/p/406-1001-1583%2Cr26.php",
+          "claim": "Guide 2026–27 требует конкретной категории Article III или V и вступительного английского. В Technology-категории прямо приведена Taiwan Employment Gold Card in Technology field; любая Gold Card сама по себе не доказывает этот маршрут. Для special foreign professional есть отдельное условие Article V. Промежуточный набор закрылся 30.10.2026, экзамен 05.11.2026 не открыт для новой заявки. В guide второй семестр: экзамены 07.01.2027 Article III и 13.01.2027 Article V; окно заявок, категорию и места подтвердить по свежему notice. При расхождении действует китайский оригинал.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Bilingual curriculum",
+          "url": "https://ibsh.tw/p/412-1001-157.php",
+          "claim": "Школа прямо описывает bilingual environment; требуется English Admission Exam, Chinese Placement Test определяет группу. Это не обещание всех предметов и робототехники только на английском.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Grades 7–12 clubs",
+          "url": "https://ibsh.tw/p/412-1001-161.php",
+          "claim": "Robotics Club указан в Gr.7–12 Clubs. Genesis 78181A — VEX V5 Middle School Excellence 2024; Curious Robotics прямо называет себя тренером, а участников — учениками IBSH. Достижение учеников с внешним тренером не приписано только школьной лаборатории. Младший Gr.1–6 robotics вход не доказан.",
+          "kind": "public_school",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "VEX V5 Middle School 2024 protocol",
+          "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-VRC-23-3691.html",
+          "claim": "Excellence Award · 78181A",
+          "kind": "organizer",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Trainer account of Genesis / IBSH",
+          "url": "https://curious-edu.com/news/2024/04/2024-vex-robotics-world-championship-vex-robotics-competition-middle-school-event%E7%8D%B2%E5%85%A8%E8%83%BD%E7%B8%BD%E5%86%A0%E8%BB%8D-excellence-award/",
+          "claim": "Robotics Club указан в Gr.7–12 Clubs. Genesis 78181A — VEX V5 Middle School Excellence 2024; Curious Robotics прямо называет себя тренером, а участников — учениками IBSH. Достижение учеников с внешним тренером не приписано только школьной лаборатории. Младший Gr.1–6 robotics вход не доказан.",
+          "kind": "school_team",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "priority": 2,
+      "research_status": "partial",
+      "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
     }
   ]
 }
