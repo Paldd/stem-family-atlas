@@ -4,7 +4,7 @@
 
 Переезд должен давать ежедневную инженерную среду: сильные ровесники, взрослый наставник, доступ к полю и собственная работа детей. Награда подростковой команды или известность страны сама по себе не подтверждает этот доступ в 6 / 9 лет.
 
-Проверено 2026-10-01. Редакционная рекомендация с условиями; места / стоимость / миграционный допуск не подтверждены.
+Проверено 2026-11-04. Редакционная рекомендация с условиями; места / стоимость / миграционный допуск не подтверждены.
 
 ## Исходные условия
 
@@ -251,6 +251,7 @@ FLL сочетает робототехнику, исследование, innov
 - Одна основная команда / лига на сезон. У неё есть ровесники, тренер и поле для регулярных испытаний.
 - Параллельно один собственный полезный проект, математика и объяснение решений на EN / ES.
 - При трёх годах опыта beginner-camp выбирать только если диагностика показывает пробелы; искать подходящие задачи, а не возраст на рекламе.
+- RoboRAVE Puerto Vallarta: для SumoLEGO / FastBot / a-MAZE-ing искать партнёра 8–11, а не записывать младшего брата автоматически. Сначала собственная программа и серия повторяемых испытаний, затем согласованный challenge и счёт.
 
 Через сезон: Через сезон: самостоятельно собранный / запрограммированный робот, дневник испытаний, личная роль на защите, официальный результат или честно измеримый прогресс.
 
@@ -262,6 +263,7 @@ FLL Explore текущего сезона либо подходящая млад
 - Собственная возрастная группа и небольшие завершённые роботы / программы.
 - Домашние проекты с братом возможны; вклад и выбранная сложность каждого отдельные.
 - Дополнительный online-проект — только при понятном авторстве и правилах конкретной программы.
+- В 2027 RoboRAVE ES 8+ пока рано по опубликованным глобальным таблицам. Сохранить младший учебный / соревновательный маршрут и семейный показ; корейский школьный override требует собственного подтверждения.
 
 Через сезон: Может собрать свою часть, изменить последовательность, проверить результат и объяснить идею. Не требуется догонять старшего по наградам.
 
@@ -317,6 +319,10 @@ FLL Explore текущего сезона либо подходящая млад
 
 Появились самостоятельные решения, регулярная команда, сложные задачи и желание продолжать. Если нет — менять методику / наставника. Международный выезд выбирать после допуска и понятной цели.
 
+### Перед сезоном 2027 · Состав и бюджет под конкретный регламент
+
+FLL México Future 6–9 требует 4 учеников, двоих братьев недостаточно. Глобальный RoboRAVE ES от 8: для Матвея нужен другой партнёр. Минимальный состав 2 ученика + 1 coach: базовые 1740 USD по тарифу 580 за человека; в списке 650 без единицы, полный счёт неизвестен. Для Costa Rica сначала подтвердить текущий BIOGLOW у Fundación STEAM; сайт со старым запуском не доказывает новый набор.
+
 ## Проверка школы и команды
 
 - Названный junior-тренер, его расписание и доступность в течение сезона.
@@ -363,3 +369,16 @@ FLL Explore текущего сезона либо подходящая млад
 - [US Department of State · treaty countries](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html) — Mexico is in the E-2 treaty list; treaty nationality is only one eligibility condition. No individual family approval established.
 - [US Department of State · E-2 requirements](https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html) — Nonimmigrant investor visa: nationality, substantial investment, real operating enterprise; spouse and unmarried children under 21 may apply as dependents.
 - [Taiwan NIA · Gold Card family residency](https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN) — NIA article of 18 January 2025 describes separate dependent ARC applications for spouse / children. It is general background, not a current individual approval or school place.
+- [RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing](https://www.roboraveinternational.org/en/challenges/a-maze-ing) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · Entrepreneurial](https://www.roboraveinternational.org/en/challenges/entrepreneurial) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · Firefighting](https://www.roboraveinternational.org/en/challenges/firefighting) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · AlpineBot](https://www.roboraveinternational.org/en/challenges/alpine) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · SumoLEGO](https://www.roboraveinternational.org/en/challenges/sumolego) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · SumoOpen](https://www.roboraveinternational.org/en/challenges/sumoopen) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · SoccerBot RC](https://www.roboraveinternational.org/en/challenges/soccerbot) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · FastBot](https://www.roboraveinternational.org/en/challenges/fastbot) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [RoboRAVE Puerto Vallarta 2027 · RoboEthics](https://www.roboraveinternational.org/en/challenges/roboethics) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [Свежие события и цены](https://www.roboraveinternational.org/en/events) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [От RRID до Confirmed](https://www.roboraveinternational.org/en/guides/how-to-register-a-team) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.
+- [Партнёр Costa Rica: текущий каталог](https://firstlegoleague.org/) — Подтверждён партнёр Fundación STEAM; текущий локальный набор и язык BIOGLOW не подтверждены.
+- [Puerto Vallarta: текущая цена и единица оплаты](https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027) — Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи.

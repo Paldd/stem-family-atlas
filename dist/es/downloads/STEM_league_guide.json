@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 145,
+    "version": 147,
     "checked": "2026-11-04",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -420,6 +420,11 @@
             "title": "SwissBIOGLOW",
             "url": "https://www.first-lego-league.org/en/2026-27-season/bioglow",
             "checked": "2026-10-01"
+          },
+          {
+            "title": "Directorio global actual: Fundación STEAM Costa Rica",
+            "url": "https://firstlegoleague.org/",
+            "checked": "2026-11-04"
           }
         ],
         "evidence": "del artículo 12 de la persona event pages México 2026–2027, de la Unión Europea FTC página y descripción local / a los precios; FLL y FTC — programas individuales."
@@ -1463,39 +1468,193 @@
         "id": "roborave",
         "name": "RoboRAVE",
         "group": "international",
-        "age_summary": "aMAZEing 8–15; otras disciplinas — Reglas específicas",
+        "age_summary": "Nueve challenge en página del evento: ES menor desde 8 en tablas, algunas tareas tienen cabeceras 10 / 12 y textos discrepantes. Hermanos no pueden inscribirse automáticamente como un equipo menor.",
         "age_tags": [
           "9",
           "10-12",
           "teen"
         ],
-        "summary": "pruebas de robótica abiertas y torneos internacionales.",
+        "summary": "Red internacional de retos abiertos; los 9 challenge Puerto Vallarta leídos por separado, etiqueta ES general no sustituye reglamento.",
         "categories": [
           {
             "name": "RoboRAVE International / Opens nacionales",
-            "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
-            "team": "Equipo; confirmar el tamaño según la categoría",
+            "age": "Nueve challenge en página del evento: ES menor desde 8 en tablas, algunas tareas tienen cabeceras 10 / 12 y textos discrepantes. Hermanos no pueden inscribirse automáticamente como un equipo menor.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
             "hardware": "plataforma robótica abierta; reglas de tarea",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
-            "event_id": "C052",
-            "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
-            "language": "EN / ES por la plaza",
-            "note": "red internacional, Open y el final mundial tienen un significado diferente. RRID ¡Es gratis !; el evento puede tener un cargo separado. a Oscar 6 años a-MAZE-ing No es adecuado.; Todo el mundo RoboRAVE no se excluyen por esta limitación.",
-            "source": "https://www.roboraveinternational.org/eventos",
-            "checked": "2026-09-30"
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C052"
           },
           {
-            "name": "Santiago · Local ES",
+            "name": "RoboRAVE Puerto Vallarta Open 2027",
+            "age": "Nueve challenge en página del evento: ES menor desde 8 en tablas, algunas tareas tienen cabeceras 10 / 12 y textos discrepantes. Hermanos no pueden inscribirse automáticamente como un equipo menor.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C082"
+          },
+          {
+            "name": "RoboRAVE Guanajuato Open 2027",
+            "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo; tamaño y grupo de edad por challenge y host",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
+            "event_id": "C083"
+          },
+          {
+            "name": "RoboRAVE Beijing 2027",
+            "age": "Lista de challenge y divisions de esta etapa aún sin anunciar en página actual. Límites globales de reto son referencia, no oferta de categoría concreta.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo; tamaño y grupo de edad por challenge y host",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
+            "event_id": "C084"
+          },
+          {
+            "name": "RoboRAVE France 2027 — Craon",
+            "age": "el mundo a-MAZE-ing8–15; host: collège / lycée, el día más joven CM1–CM2 /6e de la comunidad Pays de Craon",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo; el día local menor se describe para 4 niños; el formato general 2027 se confirma aún",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "el portal internacional anunció el 3 de junio de 2027; el anfitrión describe el 2026. el torneo principal está abierto al mundo para el collège / lycée.",
+            "event_id": "C085"
+          },
+          {
+            "name": "RoboRAVE Taiwan Open 2027",
+            "age": "Lista de challenge y divisions de esta etapa aún sin anunciar en página actual. Límites globales de reto son referencia, no oferta de categoría concreta.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo; tamaño y grupo de edad por challenge y host",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
+            "event_id": "C086"
+          },
+          {
+            "name": "RoboRAVE World Championship Houston 2027",
+            "age": "Lista de challenge y divisions de esta etapa aún sin anunciar en página actual. Límites globales de reto son referencia, no oferta de categoría concreta.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo; tamaño y grupo de edad por challenge y host",
+            "hardware": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
+            "entry": "a través de la acreditación/participación en los RoboRAVE locales; la cuota exacta, la selección y la posibilidad de obtener Open-entrad de la organizadora. la presencia de RRID no prueba el derecho a la final mundial.",
+            "event_id": "C087"
+          },
+          {
+            "name": "RoboRAVE Santiago · se anunció el inicio de la clasificación 2026",
             "age": "portal roborave.xyz: ES 8–11; el local PDF se utiliza Escuela Primaria / MS / HS / UP",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
             "team": "equipo de su categoría escolar; tamaño por las bases confirmadas del examen elegido",
             "hardware": "La página local se llama Line Following, SumoBot, a-MAZE-ing; plataforma y límites por categoría",
             "entry": "La página local invita a los participantes de su país y de su extranjero a obtener una confirmación por escrito de la categoría ES, la composición, el sitio y la comunicación declarada con Houston 2027.",
-            "age_rule": "ES 8–11 en el portal vinculado; confirmar el corte local exacto.",
-            "language": "lengua de las clases / jueces no se publicó; ES / EN confirmar",
-            "note": "GoldenPass recibe a las familias, pero no se publicó un boleto de invitados para niños. Filename PDF V6.1, dentro de V6.2; portada 2026 / Japan, siguiente sección Houston 2027: redacción de las reglas locales para aclarar.",
-            "event_id": "C808",
-            "source": "https://roborave.cl/eventos/",
-            "checked": "2026-10-01"
+            "event_id": "C808"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing",
+            "age": "Cabecera 8–15; tabla ES 8–11 / MS 11–14 / HS 14–18 — máximo general también discrepante. Edad ES posible para Matvey; confirmar corte local.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Robot autónomo: mínimo 2 ruedas y rueda de apoyo libre. Sensores externos prohibidos, encoders de rueda permitidos. Recorre laberinto elevado de madera. Volumen impreso como 65030 cm³; confirmar valor y formato, sin corregir por suposición.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1199"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · Entrepreneurial",
+            "age": "Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Robot / producto funcional con Input–Process–Output, demostración, marketing flyer de una página y Business Model Canvas; prototipo hasta 3000 USD. Texto agrupa ES/MS, aunque metadata no ofrece ES menor. Premio y exhibition-only con pocos equipos son distintos.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1200"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · Firefighting",
+            "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Extinción autónoma de 4 velas en 3 minutos; robot hasta 1500 USD. Se verifica control de extinción mediante sensor; hélice hasta 12 cm con protección. Equipo admitido realiza preparación con fuego y verificaciones técnicas según reglas de sede.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1201"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · AlpineBot",
+            "age": "Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Subir pendiente de forma autónoma, llegar a mesa y colocar bandera; se anuncia puntuación por tiempo. Divisions menores discrepan entre bloques y sección Check-In detallada queda incompleta; obtener reglamento vigente completo.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1202"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · SumoLEGO",
+            "age": "Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "LEGO autónomo, solo piezas LEGO; clase 1 kg, dimensiones 25 × 18 cm, altura sin límite. Robot hasta 1500 USD. Ring de 100 cm; no equivale automáticamente a medidas del torneo anterior de familia o Korea Open.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1203"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · SumoOpen",
+            "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Robot autónomo hasta 1500 USD; 25 × 18 cm sin límite de altura. Tabla con clases 1 kg / 3 kg, ES asociado a 1 kg; confirmar categoría de peso local exacta. Sin destrucción intencionada del rival.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1204"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · SoccerBot RC",
+            "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "2 robots por radiocontrol; tabla 800 g, dimensiones 15 × 15 × 15 cm. Límite 500 USD en descripción de pareja: confirmar unidad de coste. Baterías, no encerrar más de 30% del balón; no compartir robots entre equipos.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1205"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · FastBot",
+            "age": "Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+            "hardware": "Line follower autónomo hasta 1500 USD con sensor IR obligatorio y código de línea funcional en check-in. Division / director fija vueltas y pista; límite de intento 3 minutos, tocar termina recorrido.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1206"
+          },
+          {
+            "name": "RoboRAVE Puerto Vallarta 2027 · RoboEthics",
+            "age": "Metadata ofrece ES 8–11 y cabecera 10–99; texto principal suele HS/UP y exactamente 2 integrantes frente a metadata 2–4. Edad y composición discrepantes, participación infantil sin confirmar.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "Metadata 2–4, texto principal exactamente 2; confirmar composición aplicable. Coach aparte.",
+            "hardware": "Tema 2027: argumentos a favor y contra pausa del desarrollo de IA. Preparar ambas posiciones; son debates, no construcción de robot. Cuatro equipos inscritos necesarios para challenge oficial; en otro caso posible fusión o exhibición.",
+            "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+            "event_id": "C1207"
+          },
+          {
+            "name": "RoboRAVE Korea Open 2027 · SumoBot LEGO/VEXIQ ES",
+            "age": "ES: primaria según escolarización actual; mínimo de edad y fecha de equivalencia extranjera sin anunciar.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo / formato individual según las reglas de la categoría",
+            "hardware": "Autonomous≤1kg;LEGO/VEX controlador,motores,sensores oficiales;25×18cm. KoreaOpenring800mm,globalV6.2ring100cm: la corrección local tiene prioridad.",
+            "entry": "Registro local e internacional 09.11–21.12.2026; formulario abre el 9 de noviembre. Clasificación según escuela actual; equipo mixto elementary / middle compite en mayor. Comprobar conjuntamente edades del reglamento y curso del alumno extranjero.",
+            "event_id": "C1148"
+          },
+          {
+            "name": "RoboRAVE Korea Open 2027 · Line Following ES",
+            "age": "ES: primaria según escolarización actual; mínimo de edad y fecha de equivalencia extranjera sin anunciar.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo / formato individual según las reglas de la categoría",
+            "hardware": "AutonomousLEGO/VEXIQ de la mismaOpen;≤1500USDrobotcostlimit,65030cm³. 3de la ciudad,la línea negra,la entrega de las bolas; ES75–125el número exacto se anuncia en el evento.",
+            "entry": "Registro local e internacional 09.11–21.12.2026; formulario abre el 9 de noviembre. Clasificación según escuela actual; equipo mixto elementary / middle compite en mayor. Comprobar conjuntamente edades del reglamento y curso del alumno extranjero.",
+            "event_id": "C1149"
+          },
+          {
+            "name": "RoboRAVE Korea Open 2027 · SoccerBot RC ES",
+            "age": "ES: primaria según escolarización actual; mínimo de edad y fecha de equivalencia extranjera sin anunciar.",
+            "age_rule": "Comprobar evento concreto, cabecera, tabla division y texto completo; regla local no se sustituye por global.",
+            "team": "equipo / formato individual según las reglas de la categoría",
+            "hardware": "2RCrobot≤800g cada/15cmcube;≤500USDeachteam por su propio summary (una para especificar). dos tiempos90sec; sin shooting/grabbingball.",
+            "entry": "Registro local e internacional 09.11–21.12.2026; formulario abre el 9 de noviembre. Clasificación según escuela actual; equipo mixto elementary / middle compite en mayor. Comprobar conjuntamente edades del reglamento y curso del alumno extranjero.",
+            "event_id": "C1150"
           }
         ],
         "event_ids": [
@@ -1506,26 +1665,40 @@
           "C085",
           "C086",
           "C087",
-          "C808"
+          "C808",
+          "C1199",
+          "C1200",
+          "C1201",
+          "C1202",
+          "C1203",
+          "C1204",
+          "C1205",
+          "C1206",
+          "C1207",
+          "C1148",
+          "C1149",
+          "C1150"
         ],
         "legacy_ids": [
           "C052"
         ],
-        "route": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
-        "hardware": "plataforma robótica abierta; reglas de tarea",
-        "language": "EN / ES por la plaza",
+        "route": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+        "hardware": "Para inicio autónomo temprano de Matvey comparar a-MAZE-ing, SumoLEGO y FastBot. Medidas LEGO y campo no se trasladan entre etapas; Korea publica modificaciones propias.",
+        "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "pruebas de robótica abiertas y torneos internacionales.",
         "requirements": [
-          "elegir una categoría específica y la redacción de las reglas: el nombre de la red por sí mismo no da permiso.",
-          "comprobar la edad para la fecha, el grado, la formación del equipo, el coach, la plataforma y la lengua de defensa.",
-          "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
+          "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+          "Cada alumno y coach tiene RRID propio; menores se localizan en sistema solo con ID exacto. Adulto gestiona registro y pagos."
         ],
         "nuances": [
           "red internacional, Open y el final mundial tienen un significado diferente. RRID ¡Es gratis !; el evento puede tener un cargo separado. a Oscar 6 años a-MAZE-ing No es adecuado.; Todo el mundo RoboRAVE no se excluyen por esta limitación.",
-          "Santiago 19 de noviembre 2026: local convocatoria declara a los extranjeros y Houston 2027, linked portal ES 8–11. Oscar 6 No pasa esa edad.; no se confirmó el área específica y la cuota mundial. no trasladar las reglas de una sola plataforma local a toda la red."
+          "Santiago 19 de noviembre 2026: local convocatoria declara a los extranjeros y Houston 2027, linked portal ES 8–11. Oscar 6 No pasa esa edad.; no se confirmó el área específica y la cuota mundial. no trasladar las reglas de una sola plataforma local a toda la red.",
+          "Oscar nacido en 2020 aún no alcanza ES 8 en 2027. Equipo Matvey + Oscar Puerto Vallarta no acreditado según tablas actuales; Matvey necesita compañero de edad admitida.",
+          "RoboEthics: metadata ES y 2–4, texto HS/UP y 2. Entrepreneurial / Alpine: metadata 12+ sin ES, texto principal admite ES. Firefighting / SumoOpen / SoccerBot: cabecera 10+, tabla ES 8–11.",
+          "Guanajuato 21–22 de mayo solo tentative. Houston 5–7 de noviembre: Coming soon y sede TBA. Acreditación tras Open no es victoria mundial automática ni cupo confirmado."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
+        "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
         "award": "Puesto o premio según los resultados oficiales",
         "sources": [
           {
@@ -1542,9 +1715,69 @@
             "title": "RoboRAVE linked parent · levels",
             "url": "https://www.roborave.xyz/",
             "checked": "2026-10-01"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing",
+            "url": "https://www.roboraveinternational.org/en/challenges/a-maze-ing",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · Entrepreneurial",
+            "url": "https://www.roboraveinternational.org/en/challenges/entrepreneurial",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · Firefighting",
+            "url": "https://www.roboraveinternational.org/en/challenges/firefighting",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · AlpineBot",
+            "url": "https://www.roboraveinternational.org/en/challenges/alpine",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · SumoLEGO",
+            "url": "https://www.roboraveinternational.org/en/challenges/sumolego",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · SumoOpen",
+            "url": "https://www.roboraveinternational.org/en/challenges/sumoopen",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · SoccerBot RC",
+            "url": "https://www.roboraveinternational.org/en/challenges/soccerbot",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · FastBot",
+            "url": "https://www.roboraveinternational.org/en/challenges/fastbot",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboRAVE Puerto Vallarta 2027 · RoboEthics",
+            "url": "https://www.roboraveinternational.org/en/challenges/roboethics",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Eventos y precios actuales",
+            "url": "https://www.roboraveinternational.org/en/events",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "De RRID a Confirmed",
+            "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Puerto Vallarta: precio y unidad de pago actuales",
+            "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+            "checked": "2026-11-04"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "Leídos eventos actuales, los 9 challenge Puerto Vallarta, guía de registro y Ruta Científica separada. Fechas / precios / edades discrepantes no se normalizan por suposición."
       },
       {
         "id": "robofest",

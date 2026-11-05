@@ -1,6 +1,6 @@
 {
-  "version": 26,
-  "checked": "2026-10-01",
+  "version": 147,
+  "checked": "2026-11-04",
   "kind": "editorial_family_recommendation",
   "title": "Одна база. Два собственных маршрута.",
   "conclusion": "Главное сравнение для следующей постоянной базы — Мексика и Тайвань: Monterrey / ASFM плюс независимая команда, либо Taipei / TAS и Taichung / AST. Мексика — первый практический визит; Тайвань — первый азиатский кандидат. США можно выбирать уже сейчас, если бизнес семьи, смета и конкретная младшая команда совпадут. Коста-Рика сохраняет регулярную практику на время выбора.",
@@ -330,7 +330,8 @@
       "current": [
         "Одна основная команда / лига на сезон. У неё есть ровесники, тренер и поле для регулярных испытаний.",
         "Параллельно один собственный полезный проект, математика и объяснение решений на EN / ES.",
-        "При трёх годах опыта beginner-camp выбирать только если диагностика показывает пробелы; искать подходящие задачи, а не возраст на рекламе."
+        "При трёх годах опыта beginner-camp выбирать только если диагностика показывает пробелы; искать подходящие задачи, а не возраст на рекламе.",
+        "RoboRAVE Puerto Vallarta: для SumoLEGO / FastBot / a-MAZE-ing искать партнёра 8–11, а не записывать младшего брата автоматически. Сначала собственная программа и серия повторяемых испытаний, затем согласованный challenge и счёт."
       ],
       "proof": "Через сезон: самостоятельно собранный / запрограммированный робот, дневник испытаний, личная роль на защите, официальный результат или честно измеримый прогресс.",
       "sources": [
@@ -351,6 +352,18 @@
           "url": "https://www.firstinspires.org/programs/k-8",
           "claim": "FIRST announces a replacement of FLL from 2027; SPIKE compatibility planned through 2028–29. Future details remain pending.",
           "checked": "2026-10-01"
+        },
+        {
+          "title": "От RRID до Confirmed",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team",
+          "checked": "2026-11-04",
+          "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+        },
+        {
+          "title": "Puerto Vallarta: текущая цена и единица оплаты",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+          "checked": "2026-11-04",
+          "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
         }
       ]
     },
@@ -362,7 +375,8 @@
       "current": [
         "Собственная возрастная группа и небольшие завершённые роботы / программы.",
         "Домашние проекты с братом возможны; вклад и выбранная сложность каждого отдельные.",
-        "Дополнительный online-проект — только при понятном авторстве и правилах конкретной программы."
+        "Дополнительный online-проект — только при понятном авторстве и правилах конкретной программы.",
+        "В 2027 RoboRAVE ES 8+ пока рано по опубликованным глобальным таблицам. Сохранить младший учебный / соревновательный маршрут и семейный показ; корейский школьный override требует собственного подтверждения."
       ],
       "proof": "Может собрать свою часть, изменить последовательность, проверить результат и объяснить идею. Не требуется догонять старшего по наградам.",
       "sources": [
@@ -377,6 +391,18 @@
           "url": "https://wro-association.org/wp-content/uploads/WRO-2026-RoboMission-General-Rules.pdf",
           "claim": "Elementary 8–12, 2–3 students and a coach; birth-year rule; students build and code themselves.",
           "checked": "2026-10-01"
+        },
+        {
+          "title": "От RRID до Confirmed",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team",
+          "checked": "2026-11-04",
+          "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+        },
+        {
+          "title": "Puerto Vallarta: текущая цена и единица оплаты",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+          "checked": "2026-11-04",
+          "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
         }
       ]
     }
@@ -474,6 +500,11 @@
       "period": "Через 90 дней",
       "title": "Проверить, что среда работает",
       "detail": "Появились самостоятельные решения, регулярная команда, сложные задачи и желание продолжать. Если нет — менять методику / наставника. Международный выезд выбирать после допуска и понятной цели."
+    },
+    {
+      "period": "Перед сезоном 2027",
+      "title": "Состав и бюджет под конкретный регламент",
+      "detail": "FLL México Future 6–9 требует 4 учеников, двоих братьев недостаточно. Глобальный RoboRAVE ES от 8: для Матвея нужен другой партнёр. Минимальный состав 2 ученика + 1 coach: базовые 1740 USD по тарифу 580 за человека; в списке 650 без единицы, полный счёт неизвестен. Для Costa Rica сначала подтвердить текущий BIOGLOW у Fundación STEAM; сайт со старым запуском не доказывает новый набор."
     }
   ],
   "selection": [
@@ -623,6 +654,84 @@
       "url": "https://news.immigration.gov.tw/NewsSection/Detail/b635eaf3-a81e-46d6-82e6-e50cae07949d?lang=EN",
       "claim": "NIA article of 18 January 2025 describes separate dependent ARC applications for spouse / children. It is general background, not a current individual approval or school place.",
       "checked": "2026-10-01"
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing",
+      "url": "https://www.roboraveinternational.org/en/challenges/a-maze-ing",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · Entrepreneurial",
+      "url": "https://www.roboraveinternational.org/en/challenges/entrepreneurial",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · Firefighting",
+      "url": "https://www.roboraveinternational.org/en/challenges/firefighting",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · AlpineBot",
+      "url": "https://www.roboraveinternational.org/en/challenges/alpine",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · SumoLEGO",
+      "url": "https://www.roboraveinternational.org/en/challenges/sumolego",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · SumoOpen",
+      "url": "https://www.roboraveinternational.org/en/challenges/sumoopen",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · SoccerBot RC",
+      "url": "https://www.roboraveinternational.org/en/challenges/soccerbot",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · FastBot",
+      "url": "https://www.roboraveinternational.org/en/challenges/fastbot",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "RoboRAVE Puerto Vallarta 2027 · RoboEthics",
+      "url": "https://www.roboraveinternational.org/en/challenges/roboethics",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "Свежие события и цены",
+      "url": "https://www.roboraveinternational.org/en/events",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "От RRID до Confirmed",
+      "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
+    },
+    {
+      "title": "Партнёр Costa Rica: текущий каталог",
+      "url": "https://firstlegoleague.org/",
+      "checked": "2026-11-04",
+      "claim": "Подтверждён партнёр Fundación STEAM; текущий локальный набор и язык BIOGLOW не подтверждены."
+    },
+    {
+      "title": "Puerto Vallarta: текущая цена и единица оплаты",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "checked": "2026-11-04",
+      "claim": "Текущая карточка правил или регистрации; возрастные и ценовые противоречия сохранены. Это не подтверждение заявки семьи."
     }
   ],
   "confidence": "Средняя: младшие программы найдены, но свободные места, текущие тренеры и самостоятельный уровень детей ещё не подтверждены.",

@@ -922,9 +922,9 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
-      "mat": "sí por edad a-MAZE-ing; el permiso local para especificar",
-      "osc": "No para a-MAZE-ing 8–15; otra disciplina menor aún encontrar",
+      "age": "Lista de challenge y divisions de esta etapa aún sin anunciar en página actual. Límites globales de reto son referencia, no oferta de categoría concreta.",
+      "mat": "Condicional: elegir evento concreto y challenge / division confirmado.",
+      "osc": "Condicional solo tras comprobar vía local menor; ES global 8+ aún temprano en 2027.",
       "format": "equipo; tamaño y grupo de edad por challenge y host",
       "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
       "gear": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
@@ -936,11 +936,11 @@
       "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
       "priority": "P2  preparación después de verificar la admisión",
       "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
-      "source": "https://www.roboraveinternational.org/eventos/taiwan-open-2027",
+      "source": "https://www.roboraveinternational.org/en/events/taiwan-open-2027",
       "proof": "se ha leído la página de evento y la página actual a-MAZE-ing (8–15 años). La edad de las demás disciplinas y el tamaño del equipo no se han falsificado de las viejas reglas.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "red internacional, Open y el final mundial tienen un significado diferente. RRID ¡Es gratis !; el evento puede tener un cargo separado. a Oscar 6 años a-MAZE-ing No es adecuado.; Todo el mundo RoboRAVE no se excluyen por esta limitación.",
+      "note": "27–28 de julio de 2027, Taipei, sede exacta Por confirmar. Challenge, edad, idioma, precio y cupos aún sin publicar. Lista indica To be announced; registro y entrada familiar sin confirmar.",
       "scope": "international",
       "themes": [
         "robotics",
@@ -952,11 +952,16 @@
         {
           "label": "edad y descripción de a-MAZE-ing",
           "url": "https://www.roboraveinternational.org/programas/a-maze-ing"
+        },
+        {
+          "label": "Página actual de red y estado de convocatoria",
+          "url": "https://www.roboraveinternational.org/en/events"
         }
       ],
       "iso": [
         "TWN"
-      ]
+      ],
+      "registration_status": "Estado de convocatoria en lista de red: not_announced"
     },
     {
       "block": "Competiciones",

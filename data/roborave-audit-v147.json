@@ -1,0 +1,80 @@
+{
+  "version": 147,
+  "checked": "2026-11-04",
+  "new_competition_ids": [
+    "C1199",
+    "C1200",
+    "C1201",
+    "C1202",
+    "C1203",
+    "C1204",
+    "C1205",
+    "C1206",
+    "C1207"
+  ],
+  "new_event_ids": [
+    "E211"
+  ],
+  "current_host_challenges": 9,
+  "fee_conflict": {
+    "event_page": {
+      "amount": 580,
+      "currency": "USD",
+      "unit": "student_or_coach"
+    },
+    "listing": {
+      "amount": 650,
+      "currency": "USD",
+      "unit": "not_stated"
+    },
+    "minimum_team_calculation": {
+      "students": 2,
+      "coaches": 1,
+      "unit_fee": 580,
+      "total": 1740,
+      "status": "partial_published_tariff_calculation_not_quote"
+    }
+  },
+  "tentative_not_dated": {
+    "id": "C083",
+    "window": [
+      "2027-05-21",
+      "2027-05-22"
+    ],
+    "reason": "Host explicitly calls dates tentative; list says To be announced."
+  },
+  "challenge_conflicts": {
+    "a-maze-ing": "overall 8–15 vs HS table 14–18; younger ES 8–11 remains possible",
+    "entrepreneurial": "metadata 12+ and no ES vs ES/MS in main text",
+    "alpine": "metadata 12+ and no ES vs ES in main text; Check-In incomplete",
+    "firefighting": "metadata 10+ vs ES 8–11",
+    "sumoopen": "metadata 10+ vs ES 8–11",
+    "soccerbot": "metadata 10+ vs ES 8–11",
+    "roboethics": "metadata ES and 2–4 vs typical HS/UP and exactly 2 in main text"
+  },
+  "current_registration_states": {
+    "beijing": "open",
+    "guanajuato": "to_be_announced",
+    "france": "to_be_announced",
+    "taiwan": "to_be_announced",
+    "houston": "coming_soon"
+  },
+  "ruta_separate_program": {
+    "id": "E211",
+    "not_traditional_competition": true,
+    "project_age_conflict": "General Primary call vs linked challenge 13+ and MS/HS/UP",
+    "deadline_conflict": "October 31 vs October 16–November 15 vs open widget",
+    "hotel_inclusions_not_transferred_to_robotics_open": true
+  },
+  "costa_rica_fll": {
+    "partner_primary_directory": "Fundación STEAM",
+    "source": "https://firstlegoleague.org/",
+    "local_BIOGLOW_not_verified": true,
+    "unsupported_ES_tag_removed": true,
+    "independent_Mexico_rules_not_transferred": true
+  },
+  "korea_local_school_rule_not_overwritten": true,
+  "tmr_2027_official_site_preparing_rules": true,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0
+}

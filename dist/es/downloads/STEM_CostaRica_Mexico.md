@@ -112,15 +112,15 @@ Comprobado: 2026-09-29
 ### C003 · FIRST LEGO League BIOGLOW — Explore / Challenge
 
 Fecha: 2026*27; fechas locales exactas
-Edad: Explore 6–10; Challenge 9–16, Normas locales
-Matway: Sí, por edad
-Oscar: Explore
-Idioma: ES
-Entrada: A través de un socio local; equipos independientes en México permitidos; seleccionar el país de la misión
+edad: Referencia global Explore 6–10 / Challenge 9–16 con variantes locales; condiciones Costa Rica BIOGLOW aún sin confirmar mediante anuncio local actual.
+Matvey: Condicional: edad posible según referencia global, convocatoria y categoría locales desconocidas.
+Oscar: Condicional: Explore posible por edad global; convocatoria, curso y composición locales desconocidos.
+Idioma: Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.
+Acceso: Directorio global actual señala Fundación STEAM para Costa Rica. Web local no abrió por certificado TLS caducado; lanzamiento localizado pertenece a UNEARTHED 2025–26. No trasladar permiso de equipos independientes México a Costa Rica.
 Costo: No publicado / Comprobar la edición actual
-restricciones: BIOGLOW 2026–27 — la última temporada FIRST LEGO League por el anuncio global. Temporada 2027–28 No se puede construir en el viejo nombre y las reglas.
-Fuente: https://www.firstlegoleaguecr.com/
-Comprobado: 2026-09-29
+Limitaciones: Socio nacional confirmado por directorio, pero fechas actuales, precio, corte de edad y admisión extranjera / independiente sin anunciar. Medallas Explore y puestos competitivos Challenge son distintos. Temporada 2026/27 última FLL; reglas posteriores aparte.
+Fuente: https://firstlegoleague.org/
+Se ha comprobado: 2026-11-04
 
 ### C004 · FIRST LEGO League BIOGLOW — Explore / Challenge
 
@@ -133,7 +133,7 @@ Entrada: A través de un socio local; equipos independientes en México permitid
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: BIOGLOW 2026–27 — Última temporada FIRST LEGO League para el anuncio mundial de una declaración mundial. Temporada 2027–28 No puedes construir con un nombre y reglas viejos.. 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días exactos del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C005 · FIRST BIOGLOW — Future Edition
 
@@ -146,7 +146,7 @@ Entrada: Comprobar la solicitud actual y la admisión extranjera del organizador
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: Future y Founders — Conjuntos y formatos diferentes; no comprar un nuevo juego antes de confirmar el torneo seleccionado. 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Future 2026/27 directamente en National; 6–9 formato por el momento por confirmar. Las tareas de capacitación individuales no implican la inscripción individual en un concurso.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C006 · WRO — RoboMission / Future Innovators Elementary
 
@@ -198,7 +198,7 @@ Entrada: Nueva convocatoria 2027; admisión primaria extranjera separada de la c
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: 23 Categoría, cerca 300 y 1 200 en la comunicación — Proyección de los organizadores, Protocolo no efectivo. Fechas TMR no significa admisión 6/9-de verano a todas las disciplinas. TMR 2026 Finalizado; adulto Escuela de Invierno Veracruz no considerar un campamento de niños.
 Fuente: https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### # C044  - WER Mexico ○ Primaria / Mayor
 
@@ -489,28 +489,28 @@ Comprobado: 2026-10-06
 ### C082 · RoboRAVE Puerto Vallarta Open 2027
 
 Fecha: 2027-02-25 ♫ 2027-02-28
-Edad: a-MAZE-ing 8–15; Otras disciplinas — marco específico
-Matway: Sí, por edad a-MAZE-ing; permiso local para especificar
-No para un a-MAZE-ing 8-15; todavía no se ha encontrado otra disciplina menor.
-Idioma: ES/EN Candidato; idioma judging confirmar en host
-Entrada: Primero RRID gratis, después un equipo y un permiso de pago para un evento concreto; RRID no es por sí solo una inscripción para el torneo En la página 60 equipos se anuncian y se abre el camino a la Ciudad 2027; las condiciones de acreditación para la final son separadas.
-Costo: En la página del botón USD 580; unidad de pago (aprendizaje/paquete/comando), servicios incluidos y devolución
-Limitaciones: Red internacional, Open y el final mundial tienen diferentes significados. RRID Gratis; La actividad puede tener una remuneración separada. a Oscar 6 años a-MAZE-ing No encaja.; Total RoboRAVE No se ha eliminado esta limitación. El texto enumera 7 challenges, sección actual Challenges at this event sólo muestra a-MAZE-ing. Para Oskar 2020 esta disciplina 8–15 no es apropiado 2027; Otras corrientes de menores aún no se han confirmado. RRID Gratis, botón 580 USD no revela el paquete de papel/devolución/Cuantía del límite Houston.
+edad: Nueve challenge en página del evento: ES menor desde 8 en tablas, algunas tareas tienen cabeceras 10 / 12 y textos discrepantes. Hermanos no pueden inscribirse automáticamente como un equipo menor.
+Matvey: Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
 Fuente: https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C083 · RoboRAVE Guanajuato Open 2027
 
-Fecha: 21–22 mayo 2027 — Ahí tienes. fecha tentativa
+Fecha: 21–22 de mayo de 2027 figuran como tentative; no incluidos en calendario de fechas confirmadas.
 Edad: a-MAZE-ing 8–15; Otras disciplinas — marco específico
-Matway: Sí, por edad a-MAZE-ing; permiso local para especificar
-No para un a-MAZE-ing 8-15; todavía no se ha encontrado otra disciplina menor.
+Matvey: Condicional: challenge y edades locales aún sin anunciar.
+Oscar: Condicional: vía menor desde 6/7 sin anunciar; ES global empieza en 8.
 Idioma: ES/EN Candidato; idioma judging confirmar en host
 Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para un evento específico; RRID no es en sí mismo un registro de un torneo.
 Costo: No se ha publicado el valor actual
-Limitaciones: En el título International, en el texto principal NATIONAL2027. 21–22Mayo tentative: días exactos no exportados. RRID Gratis, Contribuciones separadas. a-MAZE-ing8–15/2–4; Categorías menores y entrada extranjera. Oscar2020 Año de nacimiento máximo7de edad2027: a-MAZE-ing No encaja..
+Limitaciones: Nombre Open / International y texto NATIONAL difieren; lista de red clasifica etapa National. Texto califica fechas de tentative; 100 equipos esperados no son lista real. Sede y tarifa aún desconocidas.
 Fuente: https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-04
 
 ### E041 · World Science & Technology Expo — Ruta Científica Puerto Vallarta 2027
 
@@ -1277,7 +1277,7 @@ Entrada: Seleccione la edición y el team formal; solicite a la Fundación Robot
 Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Feria de demostración: Medalla de participante y diploma de equipo; Las órdenes seleccionadas pueden seguir adelante. La medalla general no significa que sea el primer puesto competitivo. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C1128 · FIRST LEGO League México · Founders Challenge · BIOGLOW 2026/27
 
@@ -1290,7 +1290,7 @@ Entrada: Seleccione la edición y el team formal; solicite a la Fundación Robot
 Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. Premios Robot Game / Robot Design / Innovation / Core Values y campeón general; Selección del ciclo de asignación. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C1129 · FIRST LEGO League México · Future · Primaria baja · BIOGLOW 2026/27
 
@@ -1303,7 +1303,7 @@ Entrada: Seleccione la edición y el team formal; solicite a la Fundación Robot
 Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
 Limitaciones: 2026/27 BIOGLOW: invierno diciembre 2026 a febrero 2027; primavera de febrero a abril 2027 para las redes estatales; verano de junio 2027. El organizador designa un área de estado, categoría y fecha de inscripción: ciclos, no días de torneo. La solicitud sólo es un equipo formal a través de coach/institución; el equipo independiente y el tutor parental son admisibles en el programa, pero el permiso nacional/escuelas extranjeras son confirmados. En 2026/27 es un evento nacional directo, sin promesa de selección mundial. El formato del evento más reciente es por confirmar. SPIKE / EV3 Founders y el nuevo equipo de I-Future no son intercambiables. La transición global después de 2026/27 y los nuevos contingentes nacionales se verifican por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C1130 · FIRST LEGO League México · Future · Primaria alta / secundaria · BIOGLOW 2026/27
 
@@ -1316,7 +1316,7 @@ Entrada: Seleccione la edición y el team formal; solicite a la Fundación Robot
 Costo: La contribución anual de mando depende de la redacción/categoría; no hay cantidad pública. Hardware, carretera y vivienda.
 Limitaciones: 2026/27 BIOGLOW: Invierno Diciembre 2026–Febrero 2027; Febrero–Abril 2027 para las redes estatales; verano 2027. El organizador designa un área de estado, Categoría y fecha de inscripción. Son ciclos., No son los días del torneo.. Solicitud sólo por orden formal coach / de la institución; Equipo independiente y padre-Mentor permitido en el programa, pero en particular en el extranjero / Autorización nacional para confirmar. B 2026/27 directamente en un acontecimiento nacional. Proyecto, Entrevistas de ingeniería y misiones conjuntas 3–5 rondas; cuota adicional por separado. SPIKE / EV3 Founders y nuevo AI-Equipo Future no intercambiables. Transición mundial después de la crisis 2026/27 y los nuevos cupos nacionales se examinan por separado.
 Fuente: https://www.firstlegoleagues.mx/preguntas-frecuentes/
-Comprobado: 2026-10-02
+Se ha comprobado: 2026-11-04
 
 ### C1131 · Feria Maker · Concurso Ajolote 3D · 2026
 
@@ -1550,6 +1550,136 @@ Acceso: Crear equipo y robot en RoboLeague → Performance Sheet válida e índi
 Precio: Tarifa y plazo no se pueden calcular con fiabilidad con fechas de origen distintas; confirmar edición y factura.
 Limitaciones: Referencia lejana para base mexicana de familia. Sin trasladar a 2027 ni añadir al ICS como sesión o competición confirmada.
 Fuente: https://internationaltournamentofrobots.org/MEXICO/
+Se ha comprobado: 2026-11-04
+
+### C1199 · RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 8–15; tabla ES 8–11 / MS 11–14 / HS 14–18 — máximo general también discrepante. Edad ES posible para Matvey; confirmar corte local.
+Matvey: Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/a-maze-ing
+Se ha comprobado: 2026-11-04
+
+### C1200 · RoboRAVE Puerto Vallarta 2027 · Entrepreneurial
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/entrepreneurial
+Se ha comprobado: 2026-11-04
+
+### C1201 · RoboRAVE Puerto Vallarta 2027 · Firefighting
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/firefighting
+Se ha comprobado: 2026-11-04
+
+### C1202 · RoboRAVE Puerto Vallarta 2027 · AlpineBot
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/alpine
+Se ha comprobado: 2026-11-04
+
+### C1203 · RoboRAVE Puerto Vallarta 2027 · SumoLEGO
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.
+Matvey: Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/sumolego
+Se ha comprobado: 2026-11-04
+
+### C1204 · RoboRAVE Puerto Vallarta 2027 · SumoOpen
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/sumoopen
+Se ha comprobado: 2026-11-04
+
+### C1205 · RoboRAVE Puerto Vallarta 2027 · SoccerBot RC
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/soccerbot
+Se ha comprobado: 2026-11-04
+
+### C1206 · RoboRAVE Puerto Vallarta 2027 · FastBot
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.
+Matvey: Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/fastbot
+Se ha comprobado: 2026-11-04
+
+### C1207 · RoboRAVE Puerto Vallarta 2027 · RoboEthics
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Metadata ofrece ES 8–11 y cabecera 10–99; texto principal suele HS/UP y exactamente 2 integrantes frente a metadata 2–4. Edad y composición discrepantes, participación infantil sin confirmar.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.
+Precio: Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.
+Limitaciones: 25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.
+Fuente: https://www.roboraveinternational.org/en/challenges/roboethics
+Se ha comprobado: 2026-11-04
+
+### E211 · RoboRAVE · Ruta Científica / World Science & Technology Expo · Puerto Vallarta 2027
+
+Fecha: 2027-02-25 ♫ 2027-02-28
+edad: Anuncio general invita Primary y familias; Ruta challenge enlazado indica 13–99, MS 11–14 / HS / UP. Exposición infantil y entrada familiar requieren acuerdo separado.
+Matvey: Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.
+Oscar: Condicional solo como visitante familiar: edad de entrada y tarifa de invitado sin publicar. No cumple límites publicados del Ruta challenge enlazado.
+Idioma: Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.
+Acceso: Solicitud Ruta separada y categoría de proyecto / visitante familiar. Resolver antes contradicciones de plazo y edad; registro del Open robótico no sustituye admisión aquí.
+Precio: Página: 580 USD por participante / coach, incluye alojamiento, comida / bebidas y programa 25–28 de febrero anunciados. Noches, habitación, precio de padres / invitado menor, cancelación y factura familiar final desconocidos. Excluye viaje, traslados personales y gastos migratorios.
+Limitaciones: Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.
+Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
 Se ha comprobado: 2026-11-04
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02

@@ -1,0 +1,237 @@
+{
+  "checked": "2026-11-04",
+  "method": "public-primary-GET; raw files outside repository; no registration or payments",
+  "responses": [
+    {
+      "key": "worldrobotleague",
+      "url": "https://worldrobotleague.net/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 215662,
+      "sha256": "8936205941f70b2f0f1c8500389591bc56b5a95429eb1bee9c677dbd8b5c19cf"
+    },
+    {
+      "key": "roborave-korea",
+      "url": "https://roborave-korea.co.kr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 137307,
+      "sha256": "f83cc80961182660d1d128ccc28defdbce092735752a85002658470d621bf128"
+    },
+    {
+      "key": "tmr-state-retry",
+      "url": "https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "fll-global",
+      "url": "https://firstlegoleague.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 321915,
+      "sha256": "108d9739995c0dfdb71204cc657f50286580a12ffe03d2ff4dbf1f79de1186ae"
+    },
+    {
+      "key": "roborave-france-current",
+      "url": "https://www.roboraveinternational.org/en/events/thursday-june-3-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69140,
+      "sha256": "a722264a7c3a25d4ccd9686658396b053f9463db99a41252be8a814b7d8a3bd8"
+    },
+    {
+      "key": "roborave-vallarta",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 98981,
+      "sha256": "4a69c33492b32951d6fa0b4de45ca0c506fe42c016f65d87f81ac86937a5ad7e"
+    },
+    {
+      "key": "roborave-guanajuato",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68894,
+      "sha256": "24f2e8e78ec8e656d5806960329aad7b069de897c41dbfdfe8ce60a3cdb320e4"
+    },
+    {
+      "key": "fll-cr",
+      "url": "https://www.firstlegoleaguecr.com/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "key": "fll-mexico",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70283,
+      "sha256": "716c4558c8886aa8cbe2b2a54455dbfb0d345e0244274515cfad10d7c423f034"
+    },
+    {
+      "key": "tmr",
+      "url": "https://www.femexrobotica.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68764,
+      "sha256": "354039263dc659ce31715bd9a0cf7f84e17d20355c6d5102baa4366e63dfe0b4"
+    },
+    {
+      "key": "challenge-a-maze-ing",
+      "url": "https://www.roboraveinternational.org/en/challenges/a-maze-ing",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83844,
+      "sha256": "458b6e3a692ba8b6afce28a8a0395ae7b2ed521b70ebf5fbac19cc4297e4fcd1"
+    },
+    {
+      "key": "challenge-entrepreneurial",
+      "url": "https://www.roboraveinternational.org/en/challenges/entrepreneurial",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85387,
+      "sha256": "683252565a255a40c8222cb478ee718a997009cb7ac74fbc47ee16bf293f29f2"
+    },
+    {
+      "key": "challenge-firefighting",
+      "url": "https://www.roboraveinternational.org/en/challenges/firefighting",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87916,
+      "sha256": "1951c8d9ef41066908267bd1debfd7a7927dde749c071fd9fb7dd3470067380f"
+    },
+    {
+      "key": "challenge-alpine",
+      "url": "https://www.roboraveinternational.org/en/challenges/alpine",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86378,
+      "sha256": "7a844281c6ad0f7ac2e75d7368632332f0d8ad384da92ffad7ed2e1d5d53ae47"
+    },
+    {
+      "key": "challenge-sumolego",
+      "url": "https://www.roboraveinternational.org/en/challenges/sumolego",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86377,
+      "sha256": "b0e95b8f4937e0d9dd1399c3b5a12cc895380c4a57d5b06c2652833c3519ae1f"
+    },
+    {
+      "key": "challenge-sumoopen",
+      "url": "https://www.roboraveinternational.org/en/challenges/sumoopen",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84717,
+      "sha256": "93bb990e627eb75be0c78ccab930a6762934cfc3d3c471c9890446483ed82382"
+    },
+    {
+      "key": "challenge-soccerbot",
+      "url": "https://www.roboraveinternational.org/en/challenges/soccerbot",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85249,
+      "sha256": "a5f59c6ba6598e0d7328bc157b59a0886e74d4faea47c7dc96f9e428a0e2adc5"
+    },
+    {
+      "key": "challenge-fastbot",
+      "url": "https://www.roboraveinternational.org/en/challenges/fastbot",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87547,
+      "sha256": "2bb9b42f2f56200e461f8b86ef99a356020f6bd5620250b006baa448f2e577cd"
+    },
+    {
+      "key": "challenge-roboethics",
+      "url": "https://www.roboraveinternational.org/en/challenges/roboethics",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84509,
+      "sha256": "373c4667e27c85f18ef5c395088038a70f3ffeecdcfba893746dadee3f074a86"
+    },
+    {
+      "key": "roborave-events",
+      "url": "https://www.roboraveinternational.org/en/events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 129513,
+      "sha256": "050e0ba9c733c6d110e1e1deed180f874f5a0e89ffb673b1fb5c9f60adffa71a"
+    },
+    {
+      "key": "roborave-guides",
+      "url": "https://www.roboraveinternational.org/en/guides",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87851,
+      "sha256": "1b38f11f45910dc10adfec479062913e507e9217791abc141333793a7529e1d2"
+    },
+    {
+      "key": "roborave-houston",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-world-championship-houston-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70790,
+      "sha256": "341a93d3a904ec599678ff61f145ac6631407018552e9cb709f76680062f93a9"
+    },
+    {
+      "key": "roborave-route",
+      "url": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 94674,
+      "sha256": "59bf93791f47e93c04d7bfbdc6d873282d8cddcebaec82667d5f3ea5d87fccaa"
+    },
+    {
+      "key": "tmr-2027",
+      "url": "https://femexrobotica.org/tmr2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 71148,
+      "sha256": "dfaab2328fda843c569b9ef216b07329dc8eb06909918f483c23413c1e622bc5"
+    },
+    {
+      "key": "tmr-state",
+      "url": "https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "roborave-guide-register",
+      "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 91834,
+      "sha256": "31db7a8292f11b38c1df9cf09c315ce2fb69e25ec2d3b00a33a4b8ec44e38f56"
+    },
+    {
+      "key": "roborave-route-challenge",
+      "url": "https://roboraveinternational.org/retos/ruta-roborave",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85945,
+      "sha256": "8f74fc110d9f94e2c52606f0e5c82eeb39afeae146edba9029e89161e1aa9d90"
+    },
+    {
+      "key": "event-refresh-0",
+      "url": "https://www.roboraveinternational.org/en/events/china-beijing",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 69158,
+      "sha256": "1012482692596e7977744ccc74bebdb84270acdc16ebd62ed3bf752b59bc0de1"
+    },
+    {
+      "key": "event-refresh-1",
+      "url": "https://www.roboraveinternational.org/en/events/roborave-korea-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68277,
+      "sha256": "3211b1948039e283725f0c143f7d26ab8cc18208c1de137e092a9fc0af84f2f9"
+    },
+    {
+      "key": "event-refresh-5",
+      "url": "https://www.roboraveinternational.org/en/events/taiwan-open-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68146,
+      "sha256": "ab0f6e496a965d49685d4143f723f2f51e55cf702519a7dbcdbf32afd30d9f1e"
+    }
+  ]
+}

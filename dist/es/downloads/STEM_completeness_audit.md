@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 4002; competiciones: 1197; eventos: 217; campamentos / programas: 2588. Perfiles de ligas y programas: 145. Fichas de exposiciones grandes y especializadas: 136 — son ediciones y sedes, no número de marcas únicas.
+Fichas en base: 4012; competiciones: 1206; eventos: 218; campamentos / programas: 2588. Perfiles de ligas y programas: 145. Fichas de exposiciones grandes y especializadas: 136 — son ediciones y sedes, no número de marcas únicas.
 
 Hay registros específicos para 84 de 249 países y territorios; países completamente auditados: 0. Fichas nuevas: 21; perfiles nuevos: 3. Todas las fichas anteriores conservadas.
 
@@ -14,7 +14,7 @@ Hay registros específicos para 84 de 249 países y territorios; países complet
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 525 | 19 | 738 |
+| América del Norte | 14 | 534 | 19 | 738 |
 | América del Sur | 9 | 128 | 6 | 81 |
 | Europa | 22 | 174 | 47 | 1086 |
 | África | 10 | 61 | 5 | 30 |
@@ -23,7 +23,7 @@ Hay registros específicos para 84 de 249 países y territorios; países complet
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 469 de 1197 fichas de competiciones (39.2%). Sesgo claro de cobertura.
+VEX: 469 de 1206 fichas de competiciones (38.9%). Existe un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -102,7 +102,7 @@ VEX: 469 de 1197 fichas de competiciones (39.2%). Sesgo claro de cobertura.
 - **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
 - **WER**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 2 tarjetas, 0 con fechas exactas futuras. https://robomatrix.org/
-- **RoboRAVE**: 8 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.roboraveinternational.org/eventos
+- **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html

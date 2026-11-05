@@ -213,15 +213,15 @@ Comprobado: 2026-09-29
 ### C086 · RoboRAVE Taiwan Open 2027
 
 Fecha: 2027-07-27 2027-07-28
-Edad: a-MAZE-ing 8–15; Otras disciplinas — marco específico
-Matway: Sí, por edad a-MAZE-ing; permiso local para especificar
-No para un a-MAZE-ing 8-15; todavía no se ha encontrado otra disciplina menor.
+edad: Lista de challenge y divisions de esta etapa aún sin anunciar en página actual. Límites globales de reto son referencia, no oferta de categoría concreta.
+Matvey: Condicional: elegir evento concreto y challenge / division confirmado.
+Oscar: Condicional solo tras comprobar vía local menor; ES global 8+ aún temprano en 2027.
 Idioma: Derecho chino/magistrado
 Entrada: En primer lugar, RRID gratis, luego un equipo y un permiso de pago para un evento específico; RRID no es en sí mismo un registro de un torneo.
 Costo: No se ha publicado el valor actual
-Limitaciones: Red internacional, Open y el final mundial tienen diferentes significados.. RRID Gratis; La actividad puede tener una remuneración separada. a Oscar 6 años a-MAZE-ing No encaja.; Total RoboRAVE No se ha eliminado esta limitación.
-Fuente: https://www.roboraveinternational.org/eventos/taiwan-open-2027
-Comprobado: 2026-09-30
+Limitaciones: 27–28 de julio de 2027, Taipei, sede exacta Por confirmar. Challenge, edad, idioma, precio y cupos aún sin publicar. Lista indica To be announced; registro y entrada familiar sin confirmar.
+Fuente: https://www.roboraveinternational.org/en/events/taiwan-open-2027
+Se ha comprobado: 2026-11-04
 
 ### C110 · VEX IQ Robotics Competition™ (ES/MS) Scrimmage 2026 VEX IQ Elementary and Middle School - Hosted By Dr. Player Lab
 

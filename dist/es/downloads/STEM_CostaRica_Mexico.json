@@ -310,23 +310,23 @@
       "period": "Temporada 2026–27; las fechas locales se deben especificar",
       "date_status": "No se ha anunciado",
       "deadline": "",
-      "age": "Explore 6–10; Challenge 9–16, las reglas locales",
-      "mat": "Sí, por edad",
-      "osc": "Explore",
-      "format": "Explore 2–6; Challenge normalmente 2–10; confirmar el tamaño local de los equipos",
-      "entry": "a través de un socio local; equipos independientes en México están autorizados; elegir el país de representación",
-      "gear": "Explore SPIKE Essential / WeDo 2; Challenge SPIKE Prime, EV3 en México se permite",
-      "language": "ES",
+      "age": "Referencia global Explore 6–10 / Challenge 9–16 con variantes locales; condiciones Costa Rica BIOGLOW aún sin confirmar mediante anuncio local actual.",
+      "mat": "Condicional: edad posible según referencia global, convocatoria y categoría locales desconocidas.",
+      "osc": "Condicional: Explore posible por edad global; convocatoria, curso y composición locales desconocidos.",
+      "format": "Confirmar tamaño y composición escolar del equipo Costa Rica; tamaño de otro país no se aplica automáticamente.",
+      "entry": "Directorio global actual señala Fundación STEAM para Costa Rica. Web local no abrió por certificado TLS caducado; lanzamiento localizado pertenece a UNEARTHED 2025–26. No trasladar permiso de equipos independientes México a Costa Rica.",
+      "gear": "Founders: SPIKE Essential / Prime globales; confirmar equipos antiguos permitidos y disponibilidad Future concreta en Costa Rica.",
+      "language": "Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.",
       "cost": "no se publicó / comprobar la actual edición",
       "level": "B  el camino nacional hacia las etapas internacionales",
       "reward": "Challenge: premios / selección evaluados; Explore: festival y reconocimiento de los participantes",
-      "priority": "P1  base local",
+      "priority": "P2 — confirmar BIOGLOW local con socio",
       "action": "padre + entrenador: formar equipo Matvey Challenge, Oscar Explore; obtener calendario y cuotas",
-      "source": "https://www.firstlegoleaguecr.com/",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "source": "https://firstlegoleague.org/",
+      "proof": "Directorio global actual confirma socio Fundación STEAM. Condiciones locales BIOGLOW sin confirmar; HTTPS terminó con error de certificado, sin eludirlo.",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "BIOGLOW 2026–27 — la última temporada FIRST LEGO League por el anuncio global. Temporada 2027–28 No se puede construir en el viejo nombre y las reglas.",
+      "note": "Socio nacional confirmado por directorio, pero fechas actuales, precio, corte de edad y admisión extranjera / independiente sin anunciar. Medallas Explore y puestos competitivos Challenge son distintos. Temporada 2026/27 última FLL; reglas posteriores aparte.",
       "iso": [
         "CRI"
       ],
@@ -335,11 +335,17 @@
       ],
       "scope": "national",
       "importance_reason": "Clasificación editorial por nombre/formato y fuente.",
-      "languages": [
-        "ES"
-      ],
+      "languages": [],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "Idioma de clases y defensa BIOGLOW local aún sin confirmar. Descripción global no determina idioma del grupo concreto Costa Rica.",
+      "language_mode": "unconfirmed",
+      "evidence_level": "catalog",
+      "references": [
+        {
+          "label": "Web local: acceso no obtenido",
+          "url": "https://www.firstlegoleaguecr.com/"
+        }
+      ]
     },
     {
       "block": "Competiciones",
@@ -367,7 +373,7 @@
       "action": "padre + entrenador: formar equipo Matvey Challenge, Oscar Explore; obtener calendario y cuotas",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
       "proof": "se ha vuelto a leer la actual FAQ nacional BIOGLOW 2026/27; no se han inventado nuevos días precisos.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "BIOGLOW 2026–27 — la última temporada FIRST LEGO League por el anuncio global. Temporada 2027–28 No se puede construir en el viejo nombre y las reglas. 2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar.",
       "iso": [
@@ -408,7 +414,7 @@
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
       "proof": "de la actualidad México FAQ: los comandos formales, de las autoridades locales 6–9 /9–16, de una sola vez direct National 2026/27.",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "Future y Founders — diferentes conjuntos y formatos; no comprar un nuevo juego hasta que se confirme el torneo elegido. 2026/27 BIOGLOW: el invierno de diciembre 2026–febrero 2027; primavera febrero–de abril 2027 para las redes públicas; el verano de junio 2027. el organizador designa una plaza por estado, categoría y fecha de registro. Es un ciclo., No los días de la competición.. la solicitud sólo por el comando formal a través de coach / institución; equipo independiente y padre-el tutor es admitido en el programa, pero un colegio extranjero concreto / el permiso nacional para confirmar. Future 2026/27 directamente a National; 6–9 formato hasta ahora por confirmar. tareas de formación individuales no significan registro individual de concurso.",
       "iso": [
@@ -602,7 +608,7 @@
       "action": "para hacer un seguimiento convocatoria TMR 2027 y por las edades de las categorías específicas. Las fechas son precisas; el tiempo límite, contribución, el menor/el permiso extranjero y el posible RoboCup la selección aún no se sabe.",
       "source": "https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/",
       "proof": "el anuncio oficial Secturz/COZCyT de la 18.06.2026: 3–6 de marzo 2027, Palacio de Convenciones. Calendario FMR confirma March 2027 y COZCyT; nuevo convocatoria con categorías no se ha leído.",
-      "checked": "2026-10-06",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "23 de las categorías, alrededor 300 el equipo y 1 200 de los participantes en el comunicado — el pronóstico de los organizadores, No es un protocolo real. Fechas TMR No significa permiso 6/9-de verano a todas las disciplinas. TMR 2026 finalizado; de un adulto Escuela de Invierno Veracruz no se considere un campamento infantil.",
       "iso": [
@@ -621,11 +627,16 @@
         {
           "label": "FMR · calendario 2027",
           "url": "https://femexrobotica.org/fmr/eventos/"
+        },
+        {
+          "label": "Portal oficial nuevo TMR 2027",
+          "url": "https://femexrobotica.org/tmr2027/"
         }
       ],
       "evidence_level": "official_host_announcement",
       "date_scope": "festival_window",
-      "language_mode": "unconfirmed"
+      "language_mode": "unconfirmed",
+      "registration_status": "Web TMR 2027 abierta como página en preparación; convocatoria, calendario de inscripción y reglas aún pendientes de publicación."
     },
     {
       "block": "Competiciones",
@@ -1666,28 +1677,25 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
-      "mat": "sí por edad a-MAZE-ing; el permiso local para especificar",
-      "osc": "No para a-MAZE-ing 8–15; otra disciplina menor aún encontrar",
-      "format": "Equipo 2–4 de la participación para a-MAZE-ing; otras disciplinas por reglas locales",
-      "entry": "Primero un RRID gratuito, luego un equipo y una entrada de pago para un evento específico; RRID por sí mismo no es una inscripción al torneo en la página se declaran 60 equipos y el camino a Houston 2027; las condiciones de acreditamiento para la final por separado.",
+      "age": "Nueve challenge en página del evento: ES menor desde 8 en tablas, algunas tareas tienen cabeceras 10 / 12 y textos discrepantes. Hermanos no pueden inscribirse automáticamente como un equipo menor.",
+      "mat": "Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
       "gear": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
-      "language": "ES/EN candidato; el idioma de la evaluación para confirmar en el host",
-      "languages": [
-        "ES",
-        "EN"
-      ],
-      "language_certainty": "El portal global tiene comunicaciones ES/EN; el idioma de arbitraje de cada plataforma aún no está confirmado.",
-      "cost": "en la página del botón de participación USD 580; la unidad de pago (alumno/paquete/equipo), los servicios incluidos y las devoluciones confirmar",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
       "level": "B  el Open internacional",
       "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
       "priority": "P1  el Open mexicano",
       "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
       "source": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027",
-      "proof": "se leyeron de nuevo actualevent page y actuala-MAZE-ing: 8–15 años,2–4 students. las demás categorías y la cuota internacional se comprueban por separado.",
-      "checked": "2026-10-06",
+      "proof": "Página actual del evento contrastada con catálogo, todos los challenge enlazados y guía de registro. Discrepancias de precio y edad conservadas explícitamente.",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "red internacional, Open y el final mundial tienen un significado diferente. RRID ¡Es gratis !; el evento puede tener un cargo separado. a Oscar 6 años a-MAZE-ing No es adecuado.; Todo el mundo RoboRAVE no se excluyen por esta limitación. el texto se enumera 7 challenges, pero el apartado actual Challenges at this event muestra sólo a-MAZE-ing. para el Oscar 2020 esta disciplina 8–15 No es apropiado 2027; otros flujos menores aún no confirmados. RRID ¡Es gratis !, botón 580 USD no se puede revelar el paquete completo/de vuelta/el importe del cuota Houston.",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
       "scope": "international",
       "themes": [
         "robotics",
@@ -1697,22 +1705,34 @@
       "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
       "references": [
         {
-          "label": "a-MAZE-ing:8–15años,2–4de la participación",
-          "url": "https://www.roboraveinternational.org/en/programs/a-maze-ing"
+          "label": "Lista de eventos: otra tarifa 650 USD",
+          "url": "https://www.roboraveinternational.org/en/events"
         },
         {
-          "label": "el calendario actual de la red",
-          "url": "https://www.roboraveinternational.org/en/events"
+          "label": "Guía de registro y confirmación",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
         }
       ],
-      "registration_status": "El sitio web invita a registrar un equipo; el límite de publicidad de 60 equipos no muestra el resto actual de lugares.",
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
       "related_ids": [
         "C087",
-        "E041"
+        "E041",
+        "C1199",
+        "C1200",
+        "C1201",
+        "C1202",
+        "C1203",
+        "C1204",
+        "C1205",
+        "C1206",
+        "C1207"
       ],
       "iso": [
         "MEX"
-      ]
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window"
     },
     {
       "block": "Competiciones",
@@ -1723,12 +1743,12 @@
       "city": "guanahuato; se aclara la plaza",
       "start": "",
       "end": "",
-      "period": "21–22 mayo 2027 — nombrado directamente fecha tentativa",
-      "date_status": "de forma preliminar",
+      "period": "21–22 de mayo de 2027 figuran como tentative; no incluidos en calendario de fechas confirmadas.",
+      "date_status": "Fechas provisionales",
       "deadline": "",
       "age": "a-MAZE-ing 8–15; otras disciplinas — los marcos separados",
-      "mat": "sí por edad a-MAZE-ing; el permiso local para especificar",
-      "osc": "No para a-MAZE-ing 8–15; otra disciplina menor aún encontrar",
+      "mat": "Condicional: challenge y edades locales aún sin anunciar.",
+      "osc": "Condicional: vía menor desde 6/7 sin anunciar; ES global empieza en 8.",
       "format": "equipo; tamaño y grupo de edad por challenge y host",
       "entry": "RRID gratuito, luego equipo y entrada de pago para un evento específico; RRID por sí mismo no es una inscripción en el torneo",
       "gear": "robot autónomo para el challenge elegido; plataforma exacta y tamaño para solicitar",
@@ -1745,9 +1765,9 @@
       "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
       "source": "https://www.roboraveinternational.org/en/events/roborave-guanajuato-open-2027",
       "proof": "se leyeron de nuevo actualevent page y actuala-MAZE-ing:8–15años,2–4students. las demás categorías y la cuota internacional se comprueban por separado.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "en el título International, en el texto principal NATIONAL2027. 21–22mayo se llama tentative: días precisos no se exportan. RRID ¡Es gratis !, el aporte por separado. a-MAZE-ing8–15/2–4; categorías menores y entrada extranjera. Oscar2020 año de nacimiento máximo7años en2027: a-MAZE-ing No es adecuado..",
+      "note": "Nombre Open / International y texto NATIONAL difieren; lista de red clasifica etapa National. Texto califica fechas de tentative; 100 equipos esperados no son lista real. Sede y tarifa aún desconocidas.",
       "scope": "national",
       "themes": [
         "robotics",
@@ -1765,9 +1785,16 @@
           "url": "https://www.roboraveinternational.org/en/events"
         }
       ],
-      "registration_status": "La publicación es preliminar; el conjunto y la plataforma precisos confirmar.",
+      "registration_status": "Lista general: To be announced; botón Register no confirma convocatoria abierta.",
       "iso": [
         "MEX"
+      ],
+      "planned_windows": [
+        {
+          "start": "2027-05-21",
+          "end": "2027-05-22",
+          "status": "tentative"
+        }
       ]
     },
     {
@@ -5438,7 +5465,7 @@
       "region": "América del Norte",
       "city": "la plataforma y el día específico es designado por Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "start": "",
       "end": "",
       "deadline": "",
@@ -5491,7 +5518,7 @@
       "region": "América del Norte",
       "city": "la plataforma y el día específico es designado por Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "start": "",
       "end": "",
       "deadline": "",
@@ -5544,7 +5571,7 @@
       "region": "América del Norte",
       "city": "la plataforma y el día específico es designado por Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "start": "",
       "end": "",
       "deadline": "",
@@ -5597,7 +5624,7 @@
       "region": "América del Norte",
       "city": "la plataforma y el día específico es designado por Fundación RobotiX",
       "source": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
-      "checked": "2026-10-02",
+      "checked": "2026-11-04",
       "start": "",
       "end": "",
       "deadline": "",
@@ -6690,6 +6717,619 @@
       "participation": "team",
       "admission_kind": "open_application",
       "evidence_level": "event_page"
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1199",
+      "title": "RoboRAVE Puerto Vallarta 2027 · a-MAZE-ing",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 8–15; tabla ES 8–11 / MS 11–14 / HS 14–18 — máximo general también discrepante. Edad ES posible para Matvey; confirmar corte local.",
+      "mat": "Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Robot autónomo: mínimo 2 ruedas y rueda de apoyo libre. Sensores externos prohibidos, encoders de rueda permitidos. Recorre laberinto elevado de madera. Volumen impreso como 65030 cm³; confirmar valor y formato, sin corregir por suposición.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P2 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/a-maze-ing",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1200",
+      "title": "RoboRAVE Puerto Vallarta 2027 · Entrepreneurial",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Robot / producto funcional con Input–Process–Output, demostración, marketing flyer de una página y Business Model Canvas; prototipo hasta 3000 USD. Texto agrupa ES/MS, aunque metadata no ofrece ES menor. Premio y exhibition-only con pocos equipos son distintos.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/entrepreneurial",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics",
+        "entrepreneurship"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1201",
+      "title": "RoboRAVE Puerto Vallarta 2027 · Firefighting",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Extinción autónoma de 4 velas en 3 minutos; robot hasta 1500 USD. Se verifica control de extinción mediante sensor; hélice hasta 12 cm con protección. Equipo admitido realiza preparación con fuego y verificaciones técnicas según reglas de sede.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/firefighting",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1202",
+      "title": "RoboRAVE Puerto Vallarta 2027 · AlpineBot",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 12–99; lista MS 11–14 / HS / UP, pero texto principal menciona ES. Es discrepancia, no admisión infantil acreditada.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Subir pendiente de forma autónoma, llegar a mesa y colocar bandera; se anuncia puntuación por tiempo. Divisions menores discrepan entre bloques y sección Check-In detallada queda incompleta; obtener reglamento vigente completo.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/alpine",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1203",
+      "title": "RoboRAVE Puerto Vallarta 2027 · SumoLEGO",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.",
+      "mat": "Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "LEGO autónomo, solo piezas LEGO; clase 1 kg, dimensiones 25 × 18 cm, altura sin límite. Robot hasta 1500 USD. Ring de 100 cm; no equivale automáticamente a medidas del torneo anterior de familia o Korea Open.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P2 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/sumolego",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1204",
+      "title": "RoboRAVE Puerto Vallarta 2027 · SumoOpen",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Robot autónomo hasta 1500 USD; 25 × 18 cm sin límite de altura. Tabla con clases 1 kg / 3 kg, ES asociado a 1 kg; confirmar categoría de peso local exacta. Sin destrucción intencionada del rival.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/sumoopen",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1205",
+      "title": "RoboRAVE Puerto Vallarta 2027 · SoccerBot RC",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera 10–99, tabla ES 8–11: mínimo contradictorio. En febrero de 2027 Matvey tendrá 9–10; decidir según edición y cumpleaños, no solo etiqueta ES.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "2 robots por radiocontrol; tabla 800 g, dimensiones 15 × 15 × 15 cm. Límite 500 USD en descripción de pareja: confirmar unidad de coste. Baterías, no encerrar más de 30% del balón; no compartir robots entre equipos.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/soccerbot",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1206",
+      "title": "RoboRAVE Puerto Vallarta 2027 · FastBot",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Cabecera desde 8; ES 8–11, MS 11–14, HS 14–18. Confirmar corte de edad y regla de equipo mixto.",
+      "mat": "Sí por edad ES 8–11: en 2027 cumplirá 10; necesita compañero adecuado y confirmación del equipo.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "2–4 alumnos y al menos un coach con RRID; un challenge por equipo según página Puerto Vallarta. Otro evento puede tener límites distintos.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Line follower autónomo hasta 1500 USD con sensor IR obligatorio y código de línea funcional en check-in. Division / director fija vueltas y pista; límite de intento 3 minutos, tocar termina recorrido.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P2 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/fastbot",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082",
+      "team_min": 2,
+      "team_max": 4
+    },
+    {
+      "block": "Competiciones",
+      "id": "C1207",
+      "title": "RoboRAVE Puerto Vallarta 2027 · RoboEthics",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Metadata ofrece ES 8–11 y cabecera 10–99; texto principal suele HS/UP y exactamente 2 integrantes frente a metadata 2–4. Edad y composición discrepantes, participación infantil sin confirmar.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "No según mínimos actuales: en 2027 cumplirá solo 7 y tabla ES empieza en 8. Excepción menor para este challenge sin publicar.",
+      "format": "Metadata 2–4, texto principal exactamente 2; confirmar composición aplicable. Coach aparte.",
+      "entry": "RRID de cada alumno y coach → evento → challenge → division → integrantes / RRTID → revisión de importe → confirmación del organizador. RRID gratuito, pago y estado Confirmed son distintos; esta familia no ha realizado inscripción.",
+      "gear": "Tema 2027: argumentos a favor y contra pausa del desarrollo de IA. Preparar ambas posiciones; son debates, no construcción de robot. Cuatro equipos inscritos necesarios para challenge oficial; en otro caso posible fusión o exhibición.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página del evento: 580 USD por cada alumno y coach; lista de eventos: 650 USD sin unidad de pago. Discrepancia sin resolver. Mínimo 2 alumnos + 1 coach: cálculo base según primera tarifa 1740 USD para esas tres personas, no factura familiar completa. Confirmar equipo, viaje, adultos y Oscar como visitantes, impuestos, cancelación e inclusión de alojamiento.",
+      "level": "B  el Open internacional",
+      "reward": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
+      "priority": "P3 — tras comprobar challenge e integrantes",
+      "action": "Confirmar edición, corte de edad, integrantes y tarifa final de este challenge. Matvey necesita compañero de edad adecuada; no incluir a Oscar solo por etiqueta ES.",
+      "source": "https://www.roboraveinternational.org/en/challenges/roboethics",
+      "proof": "Leídos ficha de challenge, texto completo disponible, divisions y enlace al Puerto Vallarta concreto. Discrepancias entre bloques conservadas explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "25–28 de febrero de 2027 es periodo del festival, día concreto de cada challenge desconocido. Cuota por persona, no por equipo completo. Alojamiento de Ruta Científica vecina no se traslada al paquete robótico. Houston requiere admisión siguiente separada, no premio automático por viajar.",
+      "scope": "international",
+      "themes": [
+        "robotics",
+        "ai"
+      ],
+      "participation": "team",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Evento y precio por persona",
+          "url": "https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027"
+        },
+        {
+          "label": "Lista con otra tarifa",
+          "url": "https://www.roboraveinternational.org/en/events"
+        },
+        {
+          "label": "Proceso de confirmación de registro",
+          "url": "https://www.roboraveinternational.org/en/guides/how-to-register-a-team"
+        }
+      ],
+      "registration_status": "Página indica registro abierto; 60 equipos es aforo anunciado, no plazas restantes. Cierre y factura final sin publicar inequívocamente.",
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "parent_event_id": "C082"
+    },
+    {
+      "block": "Eventos",
+      "id": "E211",
+      "title": "RoboRAVE · Ruta Científica / World Science & Technology Expo · Puerto Vallarta 2027",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Puerto Vallarta, Hotel Friendly Fun Vallarta",
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Anuncio general invita Primary y familias; Ruta challenge enlazado indica 13–99, MS 11–14 / HS / UP. Exposición infantil y entrada familiar requieren acuerdo separado.",
+      "mat": "Condicional: tabla ES 8–11 discrepa de edad general o texto de categoría. Se requieren edición vigente y fecha exacta de nacimiento; admisión sin prometer.",
+      "osc": "Condicional solo como visitante familiar: edad de entrada y tarifa de invitado sin publicar. No cumple límites publicados del Ruta challenge enlazado.",
+      "format": "Exposición científico-tecnológica y programa internacional; anuncio declara expresamente que no es competición tradicional.",
+      "entry": "Solicitud Ruta separada y categoría de proyecto / visitante familiar. Resolver antes contradicciones de plazo y edad; registro del Open robótico no sustituye admisión aquí.",
+      "gear": "Prototipos tecnológicos, didácticos y de software: exposición y explicación del proyecto. Confirmar formato infantil y horario real.",
+      "language": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "languages": [],
+      "language_certainty": "Hay instrucciones oficiales EN/ES. Idioma de arbitraje, entrevista infantil y ayuda en etapa concreta aún sin confirmar.",
+      "cost": "Página: 580 USD por participante / coach, incluye alojamiento, comida / bebidas y programa 25–28 de febrero anunciados. Noches, habitación, precio de padres / invitado menor, cancelación y factura familiar final desconocidos. Excluye viaje, traslados personales y gastos migratorios.",
+      "level": "Programa internacional de exposición científico-tecnológica",
+      "reward": "Certificado de participación y presentación de proyecto; no acredita victoria internacional con premio.",
+      "priority": "P3 — confirmar edad, plazo y paquete visitante",
+      "action": "confirmar la edad/clase, la entrada extranjera, el equipo y el lugar antes de planificar el viaje",
+      "source": "https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027",
+      "proof": "Leídos anuncio Ruta separado, inclusiones y plazos discrepantes; challenge enlazado comprobado aparte.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.",
+      "scope": "international",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "participation": "visitor",
+      "importance_reason": "evaluación editorial por geografía y formato; no es un ranking oficial.",
+      "references": [
+        {
+          "label": "Ruta challenge enlazado: edad e integrantes",
+          "url": "https://roboraveinternational.org/retos/ruta-roborave"
+        }
+      ],
+      "registration_status": "Discrepancia: texto cierra registro / pago 31 de octubre, después indica periodo 16 de octubre–15 de noviembre; interfaz muestra Registro abierto. Admisión nueva sin confirmar.",
+      "related_ids": [
+        "C082"
+      ],
+      "iso": [
+        "MEX"
+      ],
+      "language_mode": "unconfirmed",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window"
     },
     {
       "id": "CP041-20270329-20270402",
