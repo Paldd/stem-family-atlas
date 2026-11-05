@@ -51174,6 +51174,1606 @@ Limitaciones: Matvey: Ambos menores del grupo de edad publicado; dirección muni
 Fuente: https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/
 Se ha comprobado: 2026-11-05
 
+### CP1265-20270114-20270114-day-1 · STEAM-ED Tauranga · VEX Freestyle / Emergency Vehicles · Freestyle Robotics · 2027-01-14–2027-01-14
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1265-20270119-20270119-day-4 · STEAM-ED Tauranga · VEX Freestyle / Emergency Vehicles · Emergency Vehicles · 2027-01-19–2027-01-19
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1265-20270129-20270129-day-12 · STEAM-ED Tauranga · VEX Freestyle / Emergency Vehicles · Freestyle Robotics · 2027-01-29–2027-01-29
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-29 — 2027-01-29
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270115-20270115-day-2 · STEAM-ED Tauranga · Arts / Science / Engineering · Polymer Clay Creations · 2027-01-15–2027-01-15
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-15 — 2027-01-15
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270118-20270118-day-3 · STEAM-ED Tauranga · Arts / Science / Engineering · ABCs of Bees · 2027-01-18–2027-01-18
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270120-20270120-day-5 · STEAM-ED Tauranga · Arts / Science / Engineering · Design a Playground · 2027-01-20–2027-01-20
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270125-20270125-day-8 · STEAM-ED Tauranga · Arts / Science / Engineering · Mark Rober Crunchlab · 2027-01-25–2027-01-25
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-25 ♫ 2027-01-25
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270127-20270127-day-10 · STEAM-ED Tauranga · Arts / Science / Engineering · Build a Tiny House · 2027-01-27–2027-01-27
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1266-20270128-20270128-day-11 · STEAM-ED Tauranga · Arts / Science / Engineering · Pasifika STEAM · 2027-01-28–2027-01-28
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-28 — 2027-01-28
+Edad: 5–13
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1267-20270121-20270121-day-6 · STEAM-ED Tauranga · Music & Dancing Robots · Create Music & Dancing Robots · 2027-01-21–2027-01-21
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-21 — 2027-01-21
+Edad: 8–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1268-20270126-20270126-day-9 · STEAM-ED Tauranga · Combat Robotics · Combat Robotics · 2027-01-26–2027-01-26
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-26 — 2027-01-26
+Edad: 8–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1269-20270122-20270122-day-7 · STEAM-ED Tauranga · Minecraft Education · Minecraft Mania · 2027-01-22–2027-01-22
+
+Lugar: Nueva Zelandia 671 Cameron Road · Tauranga South · Tauranga 3112
+Fecha: 2027-01-22 — 2027-01-22
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD 66 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Traer lunch, snack, agua, calzado cerrado y ropa para manualidades. Pago: Ficha 2027: aviso de 7 días para devolución; cartel indica más de 7 días, con menos de 7 sin devolución salvo circunstancias acordadas / plaza cubierta desde waitlist. Confirmar límite de exactamente 7 días. Cancelación del organizador: devolución total. Terms generales antiguos 2025 indican NZD 60/día, curso elegido y cartel 2027 NZD 66. Recogida tardía NZD 10/15 minutos. OSCAR es subsidio, no nombre del niño ni descuento automático para familia extranjera.
+Fuente: https://enrolmy.com/steam-ed/activity/194-January_2027_Holidays
+Se ha comprobado: 2026-11-05
+
+### CP1276-20270103-20270108-summer · Tōtara Springs · Summer Family Camp B · Summer Family Camp B · 2027-01-03–2027-01-08
+
+Lugar: Nueva Zelandia Matamata · Tōtara Springs
+Fecha: 2027-01-03 国 2027-01-08
+edad: all ages
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD por persona / sesión B completa, adult 13+ / child 4–12: unpowered tent 430 / 330; powered 450 / 350; new cabin 550 / 450; ensuite 630 / 530; lodge 660 / 560. Infant 0–3 gratis. Anticipo 500 por familia incluido en total. Ensuite / lodge con waitlist; cabin muestra 1 place, confirmar significado para familia de cuatro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: NZD por persona / sesión B completa, adult 13+ / child 4–12: unpowered tent 430 / 330; powered 450 / 350; new cabin 550 / 450; ensuite 630 / 530; lodge 660 / 560. Infant 0–3 gratis. Anticipo 500 por familia incluido en total. Ensuite / lodge con waitlist; cabin muestra 1 place, confirmar significado para familia de cuatro.
+Fuente: https://book.venue.life/totarasprings/register/family-camp-b-27
+Se ha comprobado: 2026-11-05
+
+### CP1277-20270326-20270329-easter · Tōtara Springs · Easter Family Camp · Easter Family Camp · 2027-03-26–2027-03-29
+
+Lugar: Nueva Zelandia Matamata · Tōtara Springs
+Fecha: 2027-03-26 — 2027-03-29
+edad: all ages
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · NZD por persona / sesión Easter completa, adult 13+ / child 4–12: unpowered tent 198 / 127; powered 220 / 150; cabin 253 / 165; ensuite 264 / 198; lodge 303 / 231. Infant 0–3 gratis. Anticipo 200 por familia incluido en total; ensuite / lodge marcados waitlist. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: NZD por persona / sesión Easter completa, adult 13+ / child 4–12: unpowered tent 198 / 127; powered 220 / 150; cabin 253 / 165; ensuite 264 / 198; lodge 303 / 231. Infant 0–3 gratis. Anticipo 200 por familia incluido en total; ensuite / lodge marcados waitlist.
+Fuente: https://book.venue.life/totarasprings/register/easter-camp-2027
+Se ha comprobado: 2026-11-05
+
+### CP1278-20270105-20270108-sold-out · El Rancho · Family Camp 2027 · Family Camp 2027 · 2027-01-05–2027-01-08
+
+Lugar: Nueva Zelandia Waikanae Beach · Kapiti Coast
+Fecha: 2027-01-05 — 2027-01-08
+edad: all ages
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Anticipo 20%, recibido en 7 días o pueden liberar plaza; pago total antes del 1 de diciembre. Condiciones de campamento publicado pero completo, no reserva acreditada.
+Fuente: https://www.elrancho.co.nz/Our%2BEvents/Family%2BCamp.html
+Se ha comprobado: 2026-11-05
+
+### CP1279-20270111-20270111-intake-1 · LSNZ Christchurch · Junior Camp · Inicio de intake de tres semanas · 2027-01-11–2027-01-11
+
+Lugar: Nueva Zelandia Level 1 · 99 Cashel Street · Christchurch Central
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 14*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English classes declaradas expresamente; personal / materiales multilingües sin lista concreta de idiomas. Sin prometer automáticamente apoyo ES / RU.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Desde NZD 4622, GST incluido, por 3 semanas. From no es invoice final completo; seguro médico, dieta e intake elegido aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.lsnz.co.nz/holiday-programme-young-learners
+Se ha comprobado: 2026-11-05
+
+### CP1279-20270301-20270301-intake-2 · LSNZ Christchurch · Junior Camp · Inicio de intake de tres semanas · 2027-03-01–2027-03-01
+
+Lugar: Nueva Zelandia Level 1 · 99 Cashel Street · Christchurch Central
+Fecha: 2027-03-01 — 2027-03-01
+Edad: 14*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English classes declaradas expresamente; personal / materiales multilingües sin lista concreta de idiomas. Sin prometer automáticamente apoyo ES / RU.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Desde NZD 4622, GST incluido, por 3 semanas. From no es invoice final completo; seguro médico, dieta e intake elegido aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.lsnz.co.nz/holiday-programme-young-learners
+Se ha comprobado: 2026-11-05
+
+### CP1279-20270412-20270412-intake-3 · LSNZ Christchurch · Junior Camp · Inicio de intake de tres semanas · 2027-04-12–2027-04-12
+
+Lugar: Nueva Zelandia Level 1 · 99 Cashel Street · Christchurch Central
+Fecha: 2027-04-12 — 2027-04-12
+Edad: 14*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English classes declaradas expresamente; personal / materiales multilingües sin lista concreta de idiomas. Sin prometer automáticamente apoyo ES / RU.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Desde NZD 4622, GST incluido, por 3 semanas. From no es invoice final completo; seguro médico, dieta e intake elegido aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.lsnz.co.nz/holiday-programme-young-learners
+Se ha comprobado: 2026-11-05
+
+### CP1279-20270705-20270705-intake-4 · LSNZ Christchurch · Junior Camp · Inicio de intake de tres semanas · 2027-07-05–2027-07-05
+
+Lugar: Nueva Zelandia Level 1 · 99 Cashel Street · Christchurch Central
+Fecha: 2027-07-05 — 2027-07-05
+Edad: 14*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English classes declaradas expresamente; personal / materiales multilingües sin lista concreta de idiomas. Sin prometer automáticamente apoyo ES / RU.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Desde NZD 4622, GST incluido, por 3 semanas. From no es invoice final completo; seguro médico, dieta e intake elegido aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.lsnz.co.nz/holiday-programme-young-learners
+Se ha comprobado: 2026-11-05
+
+### CP1279-20270726-20270726-intake-5 · LSNZ Christchurch · Junior Camp · Inicio de intake de tres semanas · 2027-07-26–2027-07-26
+
+Lugar: Nueva Zelandia Level 1 · 99 Cashel Street · Christchurch Central
+Fecha: 2027-07-26 — 2027-07-26
+Edad: 14*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English classes declaradas expresamente; personal / materiales multilingües sin lista concreta de idiomas. Sin prometer automáticamente apoyo ES / RU.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · Desde NZD 4622, GST incluido, por 3 semanas. From no es invoice final completo; seguro médico, dieta e intake elegido aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.lsnz.co.nz/holiday-programme-young-learners
+Se ha comprobado: 2026-11-05
+
+### CP1281-20270111-20270115-week1 · CARA Canberra · Summer Camp · Summer Camp · 2027-01-11–2027-01-15
+
+lugar: Australia · Level 1 · 55 Woolley Street · Dickson ACT 2602
+Fecha: 2027-01-11 — 2027-01-15
+edad: YEAR 6–12
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 130/día, mínimo 5 días: aritméticamente 650 por 5 días pagados antes de confirmar impuesto. Single day solo waitlist. Descuento sibling / friend 5% anunciado, confirmar base y aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.caraeducation.com.au/camps/
+Se ha comprobado: 2026-11-05
+
+### CP1281-20270118-20270122-week2 · CARA Canberra · Summer Camp · Summer Camp · 2027-01-18–2027-01-22
+
+lugar: Australia · Level 1 · 55 Woolley Street · Dickson ACT 2602
+Fecha: 2027-01-18 国 2027-01-22
+edad: YEAR 6–12
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 130/día, mínimo 5 días: aritméticamente 650 por 5 días pagados antes de confirmar impuesto. Single day solo waitlist. Descuento sibling / friend 5% anunciado, confirmar base y aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.caraeducation.com.au/camps/
+Se ha comprobado: 2026-11-05
+
+### CP1281-20270125-20270129-week3 · CARA Canberra · Summer Camp · Summer Camp · 2027-01-25–2027-01-29
+
+lugar: Australia · Level 1 · 55 Woolley Street · Dickson ACT 2602
+Fecha: 2027-01-25 国 2027-01-29
+edad: YEAR 6–12
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 130/día, mínimo 5 días: aritméticamente 650 por 5 días pagados antes de confirmar impuesto. Single day solo waitlist. Descuento sibling / friend 5% anunciado, confirmar base y aplicación. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.caraeducation.com.au/camps/
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270111-20270112-eastwood-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 2 días · 2027-01-11–2027-01-12
+
+lugar: Australia · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122
+Fecha: 2027-01-11 — 2027-01-12
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270111-20270111-eastwood-11 · Young Engineers NSW · LEGO Engineering / Robotics · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día · 2027-01-11–2027-01-11
+
+lugar: Australia · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122
+Fecha: 2027-01-11 — 2027-01-11
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270112-20270112-eastwood-12 · Young Engineers NSW · LEGO Engineering / Robotics · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122 · 1 día · 2027-01-12–2027-01-12
+
+lugar: Australia · Eastwood Heights Public School · 9A Lincoln St · Eastwood NSW 2122
+Fecha: 2027-01-12 — 2027-01-12
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270113-20270114-samuel-gilbert-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 2 días · 2027-01-13–2027-01-14
+
+lugar: Australia · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154
+Fecha: 2027-01-13 — 2027-01-14
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270113-20270113-samuel-gilbert-13 · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día · 2027-01-13–2027-01-13
+
+lugar: Australia · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154
+Fecha: 2027-01-13 — 2027-01-13
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270114-20270114-samuel-gilbert-14 · Young Engineers NSW · LEGO Engineering / Robotics · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154 · 1 día · 2027-01-14–2027-01-14
+
+lugar: Australia · Samuel Gilbert Public School · Ridgecrop Dr · Castle Hill NSW 2154
+Fecha: 2027-01-14 — 2027-01-14
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270118-20270119-baulkham-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 2 días · 2027-01-18–2027-01-19
+
+lugar: Australia · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153
+Fecha: 2027-01-18 — 2027-01-19
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270118-20270118-baulkham-18 · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día · 2027-01-18–2027-01-18
+
+lugar: Australia · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153
+Fecha: 2027-01-18 国 2027-01-18
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270119-20270119-baulkham-19 · Young Engineers NSW · LEGO Engineering / Robotics · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153 · 1 día · 2027-01-19–2027-01-19
+
+lugar: Australia · Baulkham Hills North Public School · 2 Girralong Ave · NSW 2153
+Fecha: 2027-01-19 — 2027-01-19
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270120-20270121-oakhill-two-day · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 2 días · 2027-01-20–2027-01-21
+
+lugar: Australia · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154
+Fecha: 2027-01-20 — 2027-01-21
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 215 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270120-20270120-oakhill-20 · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 1 día · 2027-01-20–2027-01-20
+
+lugar: Australia · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154
+Fecha: 2027-01-20 — 2027-01-20
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1282-20270121-20270121-oakhill-21 · Young Engineers NSW · LEGO Engineering / Robotics · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154 · 1 día · 2027-01-21–2027-01-21
+
+lugar: Australia · Oakhill Drive Public School · 1–5 Oakhill Dr · Castle Hill NSW 2154
+Fecha: 2027-01-21 — 2027-01-21
+edad: Kindergarten–Year 6
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://www.trybooking.com/au/event/1661016
+Se ha comprobado: 2026-11-05
+
+### CP1283-20270111-20270111-paper-11 · SK Robotics EDGE · Paper Circuits · Paper Circuits · 2027-01-11–2027-01-11
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1283-20270112-20270112-paper-12 · SK Robotics EDGE · Paper Circuits · Paper Circuits · 2027-01-12–2027-01-12
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1283-20270118-20270118-paper-18 · SK Robotics EDGE · Paper Circuits · Paper Circuits · 2027-01-18–2027-01-18
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1283-20270119-20270119-paper-19 · SK Robotics EDGE · Paper Circuits · Paper Circuits · 2027-01-19–2027-01-19
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1284-20270111-20270111-breadboard-11 · SK Robotics EDGE · Breadboard Electronics · Breadboard Electronics · 2027-01-11–2027-01-11
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-11 — 2027-01-11
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1284-20270112-20270112-breadboard-12 · SK Robotics EDGE · Breadboard Electronics · Breadboard Electronics · 2027-01-12–2027-01-12
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1284-20270118-20270118-breadboard-18 · SK Robotics EDGE · Breadboard Electronics · Breadboard Electronics · 2027-01-18–2027-01-18
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-18 国 2027-01-18
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1284-20270119-20270119-breadboard-19 · SK Robotics EDGE · Breadboard Electronics · Breadboard Electronics · 2027-01-19–2027-01-19
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1285-20270113-20270113-scratch-13 · SK Robotics EDGE · Scratch Games · Scratch Games · 2027-01-13–2027-01-13
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1285-20270114-20270114-scratch-14 · SK Robotics EDGE · Scratch Games · Scratch Games · 2027-01-14–2027-01-14
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1285-20270120-20270120-scratch-20 · SK Robotics EDGE · Scratch Games · Scratch Games · 2027-01-20–2027-01-20
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1285-20270121-20270121-scratch-21 · SK Robotics EDGE · Scratch Games · Scratch Games · 2027-01-21–2027-01-21
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-21 — 2027-01-21
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1286-20270113-20270113-python-13 · SK Robotics EDGE · Python Animations · Python Animations · 2027-01-13–2027-01-13
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1286-20270114-20270114-python-14 · SK Robotics EDGE · Python Animations · Python Animations · 2027-01-14–2027-01-14
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1286-20270120-20270120-python-20 · SK Robotics EDGE · Python Animations · Python Animations · 2027-01-20–2027-01-20
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-20 — 2027-01-20
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1286-20270121-20270121-python-21 · SK Robotics EDGE · Python Animations · Python Animations · 2027-01-21–2027-01-21
+
+lugar: Australia · 4 Kyneton Cct · Caroline Springs VIC 3023
+Fecha: 2027-01-21 — 2027-01-21
+Edad: 8–15
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Datos estructurados del anuncio: AUD 150–920 entre todos los billetes del evento. Sin tabla completa de half day / full day / bundles individuales; 150 no presentado como precio de cada módulo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Aviso con 5+ días — devolución total; 3–4 días — 90%, 10% admin fee; menos de 72 horas sin devolución. Enfermedad / emergency puede dar traslado discrecional; cancelación SK devolución total.
+Fuente: https://www.trybooking.com/au/event/1671420
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261215-20261215-brisbane-1 · STEAM Powered Education · Junior Lab · Slime Lab · 2026-12-15–2026-12-15
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261216-20261216-brisbane-2 · STEAM Powered Education · Junior Lab · Robot Rescue Lab · 2026-12-16–2026-12-16
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261217-20261217-brisbane-3 · STEAM Powered Education · Junior Lab · Santas Toy Workshop · 2026-12-17–2026-12-17
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270105-20270105-brisbane-4 · STEAM Powered Education · Junior Lab · Treasure Hunt Math · 2027-01-05–2027-01-05
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270106-20270106-brisbane-5 · STEAM Powered Education · Junior Lab · Dinosaurs · 2027-01-06–2027-01-06
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270107-20270107-brisbane-6 · STEAM Powered Education · Junior Lab · Human Body Lab · 2027-01-07–2027-01-07
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270112-20270112-brisbane-7 · STEAM Powered Education · Junior Lab · Rocket Rangers · 2027-01-12–2027-01-12
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270113-20270113-brisbane-8 · STEAM Powered Education · Junior Lab · Super STEM Heroes · 2027-01-13–2027-01-13
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270114-20270114-brisbane-9 · STEAM Powered Education · Junior Lab · Creature Lab · 2027-01-14–2027-01-14
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261215-20261215-robina-1 · STEAM Powered Education · Junior Lab · Slime Lab · 2026-12-15–2026-12-15
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261216-20261216-robina-2 · STEAM Powered Education · Junior Lab · Robot Rescue Lab · 2026-12-16–2026-12-16
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20261217-20261217-robina-3 · STEAM Powered Education · Junior Lab · Santas Toy Workshop · 2026-12-17–2026-12-17
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270105-20270105-robina-4 · STEAM Powered Education · Junior Lab · Treasure Hunt Math · 2027-01-05–2027-01-05
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270106-20270106-robina-5 · STEAM Powered Education · Junior Lab · Dinosaurs · 2027-01-06–2027-01-06
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270107-20270107-robina-6 · STEAM Powered Education · Junior Lab · Human Body Lab · 2027-01-07–2027-01-07
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270112-20270112-robina-7 · STEAM Powered Education · Junior Lab · Rocket Rangers · 2027-01-12–2027-01-12
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270113-20270113-robina-8 · STEAM Powered Education · Junior Lab · Super STEM Heroes · 2027-01-13–2027-01-13
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1287-20270114-20270114-robina-9 · STEAM Powered Education · Junior Lab · Creature Lab · 2027-01-14–2027-01-14
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-tech-workshops-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261215-20261215-brisbane-1 · STEAM Powered Education · Youth Lab · Forensic Crime Lab · 2026-12-15–2026-12-15
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261216-20261216-brisbane-2 · STEAM Powered Education · Youth Lab · AI & Robotics · 2026-12-16–2026-12-16
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261217-20261217-brisbane-3 · STEAM Powered Education · Youth Lab · Minecraft Education · 2026-12-17–2026-12-17
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270105-20270105-brisbane-4 · STEAM Powered Education · Youth Lab · Math & Magic · 2027-01-05–2027-01-05
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270106-20270106-brisbane-5 · STEAM Powered Education · Youth Lab · Lost Creatures: De-extinction · 2027-01-06–2027-01-06
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270107-20270107-brisbane-6 · STEAM Powered Education · Youth Lab · Anatomy · 2027-01-07–2027-01-07
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270112-20270112-brisbane-7 · STEAM Powered Education · Youth Lab · Rocket Rangers · 2027-01-12–2027-01-12
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270113-20270113-brisbane-8 · STEAM Powered Education · Youth Lab · AI & Robotics Lab · 2027-01-13–2027-01-13
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270114-20270114-brisbane-9 · STEAM Powered Education · Youth Lab · Game Makers Studio · 2027-01-14–2027-01-14
+
+lugar: Australia · Brisbane · dirección exacta TBD
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/youth-science-technology-labs-summer-26-27-brisbane
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261215-20261215-robina-1 · STEAM Powered Education · Youth Lab · Forensic Crime Lab · 2026-12-15–2026-12-15
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-15 — 2026-12-15
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261216-20261216-robina-2 · STEAM Powered Education · Youth Lab · AI & Robotics · 2026-12-16–2026-12-16
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-16 — 2026-12-16
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20261217-20261217-robina-3 · STEAM Powered Education · Youth Lab · Minecraft Education · 2026-12-17–2026-12-17
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2026-12-17 — 2026-12-17
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270105-20270105-robina-4 · STEAM Powered Education · Youth Lab · Math & Magic · 2027-01-05–2027-01-05
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270106-20270106-robina-5 · STEAM Powered Education · Youth Lab · Lost Creatures: De-extinction · 2027-01-06–2027-01-06
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-06 — 2027-01-06
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270107-20270107-robina-6 · STEAM Powered Education · Youth Lab · Anatomy · 2027-01-07–2027-01-07
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-07 — 2027-01-07
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270112-20270112-robina-7 · STEAM Powered Education · Youth Lab · Rocket Rangers · 2027-01-12–2027-01-12
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270113-20270113-robina-8 · STEAM Powered Education · Youth Lab · AI & Robotics Lab · 2027-01-13–2027-01-13
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-13 — 2027-01-13
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1288-20270114-20270114-robina-9 · STEAM Powered Education · Youth Lab · Game Makers Studio · 2027-01-14–2027-01-14
+
+lugar: Australia · Robina Community Centre · 196 Robina Town Centre Dr · QLD 4226
+Fecha: 2027-01-14 — 2027-01-14
+Edad: 9–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 49 early bird por workshop / 55 standard, GST incluido; package de tres workshops 150. Texto before 30 Nov / after 1 Dec no aclara límites del 30 de noviembre y 1 de diciembre; promo cutoff no es plazo de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Cancelación con 7+ días — credit; menos de 7 sin devolución / credit, permite transferencia a otro niño. Con medical certificate credit o devolución 50%. Sin aplicar condiciones de incursions grupales a holiday ticket.
+Fuente: https://www.steampowerededucation.com.au/events/junior-science-technology-labs-summer-26-27-goldcoast
+Se ha comprobado: 2026-11-05
+
+### CP1289-20261218-20261218-chatswood-20261218 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2026-12-18–2026-12-18
+
+lugar: Australia · Chatswood · confirmar campus address exacto
+Fecha: 2026-12-18 — 2026-12-18
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1289-20270118-20270118-chatswood-20270118 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2027-01-18–2027-01-18
+
+lugar: Australia · Chatswood · confirmar campus address exacto
+Fecha: 2027-01-18 国 2027-01-18
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1289-20270128-20270128-chatswood-20270128 · STEMLOOK · AI Robot Engineers · Chatswood · STEMLOOK · AI Robot Engineers · 2027-01-28–2027-01-28
+
+lugar: Australia · Chatswood · confirmar campus address exacto
+Fecha: 2027-01-28 — 2027-01-28
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1289-20261221-20261221-burwood-20261221 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2026-12-21–2026-12-21
+
+lugar: Australia · Burwood · confirmar campus address exacto
+Fecha: 2026-12-21 — 2026-12-21
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1289-20270121-20270121-burwood-20270121 · STEMLOOK · AI Robot Engineers · Burwood · STEMLOOK · AI Robot Engineers · 2027-01-21–2027-01-21
+
+lugar: Australia · Burwood · confirmar campus address exacto
+Fecha: 2027-01-21 — 2027-01-21
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1289-20270120-20270120-zetland-20270120 · STEMLOOK · AI Robot Engineers · Zetland · STEMLOOK · AI Robot Engineers · 2027-01-20–2027-01-20
+
+lugar: Australia · Zetland · confirmar campus address exacto
+Fecha: 2027-01-20 — 2027-01-20
+edad: Year 3–8
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 410. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/ai-robot-engineers-camp-y2-y8/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20261223-20261223-chatswood-20261223 · STEMLOOK · Robot Engineers · Chatswood · STEMLOOK · Robot Engineers · 2026-12-23–2026-12-23
+
+lugar: Australia · Chatswood · confirmar campus address exacto
+Fecha: 2026-12-23 — 2026-12-23
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20270113-20270113-chatswood-20270113 · STEMLOOK · Robot Engineers · Chatswood · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
+
+lugar: Australia · Chatswood · confirmar campus address exacto
+Fecha: 2027-01-13 — 2027-01-13
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20261222-20261222-burwood-20261222 · STEMLOOK · Robot Engineers · Burwood · STEMLOOK · Robot Engineers · 2026-12-22–2026-12-22
+
+lugar: Australia · Burwood · confirmar campus address exacto
+Fecha: 2026-12-22 — 2026-12-22
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20270113-20270113-burwood-20270113 · STEMLOOK · Robot Engineers · Burwood · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
+
+lugar: Australia · Burwood · confirmar campus address exacto
+Fecha: 2027-01-13 — 2027-01-13
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20261218-20261218-zetland-20261218 · STEMLOOK · Robot Engineers · Zetland · STEMLOOK · Robot Engineers · 2026-12-18–2026-12-18
+
+lugar: Australia · Zetland · confirmar campus address exacto
+Fecha: 2026-12-18 — 2026-12-18
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1290-20270113-20270113-zetland-20270113 · STEMLOOK · Robot Engineers · Zetland · STEMLOOK · Robot Engineers · 2027-01-13–2027-01-13
+
+lugar: Australia · Zetland · confirmar campus address exacto
+Fecha: 2027-01-13 — 2027-01-13
+edad: Year 3–7
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
+Formato: day_camp
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 129 Camp ONLY; Camp + Robot 399. Robot RRP 350 no es cargo obligatorio adicional ni precio del camp. Laptop hire product 17; confirmar unidad de alquiler, impuesto y checkout final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Oscar: Condición según curso escolar real; cursos de los niños desconocidos. Edades 9 / 6 y años de nacimiento 2017 / 2020 no sustituyen confirmación del curso. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: Confirmar total de opción elegida e impuestos / cargos; rango público no es precio de cualquier clase individual.
+Fuente: https://stemlook.com.au/products/robotics-and-coding-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1291-20270104-20270115-junior · GIofAI Kids · Future AI Innovators · Future AI Innovators Junior · 2027-01-04–2027-01-15
+
+lugar: Australia · En línea · Australian intake, confirmar acceso desde extranjero
+Fecha: 2027-01-04 — 2027-01-15
+edad: Junior 8–12; Senior 13–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: online
+Idioma: Sin localizar confirmación expresa del idioma de clases EN / ES / RU. Web inglesa y país no sustituyen confirmación docente; verificar idioma del grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · AUD 595 launch antes del 1 de diciembre, luego 695; GST incluido. Reservation 99 incluida en 595, balance 496 hasta 1 de diciembre, pago completo hasta 3 de diciembre. Additional child 449, pero Oscar de 6–7 no cumple mínimo 8; descuento no lo hace elegible. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: 99 refundable hasta 1 de diciembre; terms prometen full programme refund hasta fin de Day 2. Plazo de admisión 18 de diciembre separado de precio 1 de diciembre y pago 3 de diciembre. Sin aceptar consents de cámara / grabación / trabajo infantil.
+Fuente: https://kids.giofai.com.au/
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

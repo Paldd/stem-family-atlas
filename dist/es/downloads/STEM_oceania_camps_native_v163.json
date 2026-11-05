@@ -1,0 +1,839 @@
+{
+  "version": 163,
+  "checked": "2026-11-05",
+  "steam_ed_days": [
+    {
+      "date": "2027-01-14",
+      "theme": "robotics",
+      "topic": "Freestyle Robotics",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-15",
+      "theme": "general",
+      "topic": "Polymer Clay Creations",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-18",
+      "theme": "general",
+      "topic": "ABCs of Bees",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-19",
+      "theme": "robotics",
+      "topic": "Emergency Vehicles",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-20",
+      "theme": "general",
+      "topic": "Design a Playground",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-21",
+      "theme": "music",
+      "topic": "Create Music & Dancing Robots",
+      "min_age": 8,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-22",
+      "theme": "minecraft",
+      "topic": "Minecraft Mania",
+      "min_age": 7,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-25",
+      "theme": "general",
+      "topic": "Mark Rober Crunchlab",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-26",
+      "theme": "combat",
+      "topic": "Combat Robotics",
+      "min_age": 8,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-27",
+      "theme": "general",
+      "topic": "Build a Tiny House",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-28",
+      "theme": "general",
+      "topic": "Pasifika STEAM",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    },
+    {
+      "date": "2027-01-29",
+      "theme": "robotics",
+      "topic": "Freestyle Robotics",
+      "min_age": 5,
+      "max_age": 13,
+      "price_NZD": 66
+    }
+  ],
+  "steam_ed_2027_price": 66,
+  "steam_ed_old_terms_price": 60,
+  "steam_ed_music_minimum_badge": 8,
+  "steam_ed_music_minimum_prose": "over8",
+  "steam_ed_pickup_NZD_per_15min": 10,
+  "steam_ed_day_hours": [
+    "09:00",
+    "15:00"
+  ],
+  "steam_ed_timezone": "Pacific/Auckland",
+  "AU_curriculum": {
+    "dates": [
+      "2026-12-15",
+      "2026-12-16",
+      "2026-12-17",
+      "2027-01-05",
+      "2027-01-06",
+      "2027-01-07",
+      "2027-01-12",
+      "2027-01-13",
+      "2027-01-14"
+    ],
+    "groups": {
+      "junior": [
+        "Slime Lab",
+        "Robot Rescue Lab",
+        "Santas Toy Workshop",
+        "Treasure Hunt Math",
+        "Dinosaurs",
+        "Human Body Lab",
+        "Rocket Rangers",
+        "Super STEM Heroes",
+        "Creature Lab"
+      ],
+      "youth": [
+        "Forensic Crime Lab",
+        "AI & Robotics",
+        "Minecraft Education",
+        "Math & Magic",
+        "Lost Creatures: De-extinction",
+        "Anatomy",
+        "Rocket Rangers",
+        "AI & Robotics Lab",
+        "Game Makers Studio"
+      ]
+    },
+    "junior_ages": [
+      6,
+      8
+    ],
+    "youth_ages": [
+      9,
+      13
+    ],
+    "junior_hours": [
+      "09:00",
+      "12:00"
+    ],
+    "youth_hours": [
+      "12:30",
+      "15:30"
+    ],
+    "Queensland_timezone": "Australia/Brisbane",
+    "prices_AUD": {
+      "early": 49,
+      "standard": 55,
+      "three_workshops": 150
+    },
+    "GST_included": true,
+    "PDF_invalid_December_token": "517th",
+    "actual_ticket_confirms_Dec17": true,
+    "Brisbane_venue": "TBD",
+    "Robina_venue": "196 Robina Town Centre Dr, Robina QLD 4226",
+    "GoldCoast_youth_URL_says_junior": true,
+    "AI_ticket_description_duplicates_junior": true
+  },
+  "totara": {
+    "currency": "NZD",
+    "kids_header": [
+      "2027-01-24",
+      "2027-01-29"
+    ],
+    "kids_body": [
+      "2027-01-25",
+      "2027-01-29"
+    ],
+    "kids_conflict_not_calendar": true,
+    "kids_price": 255,
+    "kids_deposit_included": 50,
+    "A_landing": [
+      "2026-12-27",
+      "2027-01-02"
+    ],
+    "A_form_and_FAQ": [
+      "2026-12-27",
+      "2027-01-01"
+    ],
+    "A_conflict_not_calendar": true,
+    "B": [
+      "2027-01-03",
+      "2027-01-08"
+    ],
+    "Easter": [
+      "2027-03-26",
+      "2027-03-29"
+    ],
+    "adult_age_min": 13,
+    "child_age": [
+      4,
+      12
+    ],
+    "infant_age": [
+      0,
+      3
+    ],
+    "B_tariffs": {
+      "tent_unpowered": [
+        430,
+        330
+      ],
+      "tent_powered": [
+        450,
+        350
+      ],
+      "new_cabin": [
+        550,
+        450
+      ],
+      "ensuite": [
+        630,
+        530
+      ],
+      "lodge": [
+        660,
+        560
+      ]
+    },
+    "Easter_tariffs": {
+      "tent_unpowered": [
+        198,
+        127
+      ],
+      "tent_powered": [
+        220,
+        150
+      ],
+      "cabin": [
+        253,
+        165
+      ],
+      "ensuite": [
+        264,
+        198
+      ],
+      "lodge": [
+        303,
+        231
+      ]
+    },
+    "B_deposit_included": 500,
+    "Easter_deposit_included": 200,
+    "booking_does_not_mean_personal_acceptance": true
+  },
+  "LSNZ": {
+    "min_age": 14,
+    "max_age": 17,
+    "starts": [
+      "2027-01-11",
+      "2027-03-01",
+      "2027-04-12",
+      "2027-07-05",
+      "2027-07-26"
+    ],
+    "duration_weeks": 3,
+    "end_not_published": true,
+    "price_from_NZD": 4622,
+    "GST_included": true
+  },
+  "CARA": {
+    "camp_school_years": [
+      6,
+      12
+    ],
+    "regular_programmes_not_camp_eligibility": true,
+    "dates": [
+      [
+        "2027-01-11",
+        "2027-01-15"
+      ],
+      [
+        "2027-01-18",
+        "2027-01-22"
+      ],
+      [
+        "2027-01-25",
+        "2027-01-29"
+      ]
+    ],
+    "min_days": 5,
+    "AUD_day": 130,
+    "sibling_friend_discount_percent": 5,
+    "third_week_old_week2_label": true,
+    "Jan26_operation_unconfirmed": true
+  },
+  "SK": {
+    "ages": [
+      8,
+      15
+    ],
+    "event_price_range_AUD": [
+      150,
+      920
+    ],
+    "individual_ticket_prices_unresolved": true,
+    "max_students_declared": 12,
+    "coding_requires_own_Windows_laptop": true,
+    "full_day_hours": 7,
+    "teaching_blocks_hours": 6,
+    "lunch_hours": 1
+  },
+  "Young_Engineers_NSW": {
+    "school_years": [
+      "Kindergarten",
+      6
+    ],
+    "AUD_one_day": 120,
+    "AUD_two_day": 215,
+    "all_equipment_included": true,
+    "last_actual_dated_activity": "2027-01-21",
+    "marketing_window_ends": "2027-01-22",
+    "Jan22_not_invented": true
+  },
+  "GiofAI": {
+    "junior_ages": [
+      8,
+      12
+    ],
+    "senior_ages": [
+      13,
+      17
+    ],
+    "start": "2027-01-04",
+    "end": "2027-01-15",
+    "times": [
+      "10:00",
+      "12:00"
+    ],
+    "timezone": "Australia/Melbourne",
+    "teaching_hours": 20,
+    "AUD_launch": 595,
+    "AUD_regular": 695,
+    "AUD_reservation_included": 99,
+    "AUD_launch_balance": 496,
+    "AUD_additional_child": 449,
+    "price_change_date": "2026-12-01",
+    "balance_due": "2026-12-01",
+    "final_reserved_payment": "2026-12-03",
+    "enrolment_end": "2026-12-18",
+    "enrolment_end_hour_unknown": true,
+    "foreign_online_access_not_confirmed": true,
+    "adult_testimonials_not_child_results": true
+  },
+  "visual_PDF_pages_read": 3,
+  "worldwide_complete": false,
+  "stemlook-ai": [
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "18th-dec",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "18th-dec",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "18th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "18th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "28th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "28th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "20th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "20th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "21st-dec",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "21st-dec",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "21st-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "21st-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 410,
+      "is_in_stock": true
+    }
+  ],
+  "stemlook-robotics": [
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "23rd-dec",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "23rd-dec",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "22nd-dec",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "22nd-dec",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "18th-dec",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "18th-dec",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp ONLY"
+      },
+      "price": 129,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland",
+        "attribute_pa_date": "13th-jan",
+        "attribute_robot": "Camp + Robot"
+      },
+      "price": 399,
+      "is_in_stock": true
+    }
+  ],
+  "stemlook-hire": [
+    {
+      "attributes": {
+        "attribute_pa_location": "chatswood"
+      },
+      "price": 17,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "zetland"
+      },
+      "price": 17,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "burwood"
+      },
+      "price": 17,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_pa_location": "castle-hill"
+      },
+      "price": 17,
+      "is_in_stock": true
+    }
+  ],
+  "nz-scratchpad-code5": [
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "dec-18",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-08",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-11",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-15",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-18",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-22",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-25",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-29",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 110,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 120,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 145,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 135,
+      "is_in_stock": true
+    }
+  ],
+  "nz-scratchpad-mbot": [
+    {
+      "attributes": {
+        "attribute_location": "ST LUKES",
+        "attribute_pa_course-date": "jan-15",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_mbot-options": "",
+        "attribute_pa_early-drop-off": ""
+      },
+      "price": 120,
+      "is_in_stock": false
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_mbot-options": "bring-your-own-mbot",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 145,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_mbot-options": "rent-mbot",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 135,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_mbot-options": "bring-your-own-mbot",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 120,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-5",
+        "attribute_pa_mbot-options": "rent-mbot",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 160,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_mbot-options": "bring-your-own-mbot",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 110,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_mbot-options": "bring-your-own-mbot",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 135,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_mbot-options": "rent-mbot",
+        "attribute_pa_early-drop-off": "none"
+      },
+      "price": 125,
+      "is_in_stock": true
+    },
+    {
+      "attributes": {
+        "attribute_location": "",
+        "attribute_pa_course-date": "",
+        "attribute_pa_course-timings": "9-3",
+        "attribute_pa_mbot-options": "rent-mbot",
+        "attribute_pa_early-drop-off": "early-8am"
+      },
+      "price": 150,
+      "is_in_stock": true
+    }
+  ]
+}
