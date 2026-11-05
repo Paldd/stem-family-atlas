@@ -1,0 +1,146 @@
+{
+  "source": "https://internationaltournamentofrobots.org/contribution/",
+  "checked": "2026-11-04",
+  "TIERS": {
+    "currency": "USD",
+    "bands": [
+      {
+        "minDays": 90,
+        "team": 750,
+        "companion": 50
+      },
+      {
+        "minDays": 60,
+        "team": 850,
+        "companion": 150
+      },
+      {
+        "minDays": 30,
+        "team": 950,
+        "companion": 250
+      },
+      {
+        "minDays": 15,
+        "team": 950,
+        "companion": 250,
+        "provisional": true
+      }
+    ]
+  },
+  "EVENTS": [
+    {
+      "id": "BRA26",
+      "name": "ITR Brazil 2026",
+      "city": "São Paulo",
+      "when": [
+        12,
+        2026
+      ],
+      "date": "2026-12-05",
+      "currency": "USD",
+      "note": "brazil",
+      "prices": {
+        "symposium": 25
+      }
+    },
+    {
+      "id": "ESP27",
+      "name": "ITR Spain 2027",
+      "city": "Barcelona",
+      "when": [
+        2,
+        2027
+      ],
+      "date": "2027-02-20",
+      "currency": "USD",
+      "prices": {}
+    },
+    {
+      "id": "ARG27",
+      "name": "ITR Argentina 2027",
+      "city": "Buenos Aires",
+      "when": [
+        5,
+        2027
+      ],
+      "date": "2027-05-01",
+      "currency": "USD",
+      "prices": {}
+    },
+    {
+      "id": "PRT27",
+      "name": "ITR Portugal 2027",
+      "city": "Lisboa",
+      "when": [
+        6,
+        2027
+      ],
+      "date": "2027-06-19",
+      "currency": "USD",
+      "prices": {}
+    },
+    {
+      "id": "MEX28",
+      "name": "ITR Mexico 2028",
+      "city": "Cancún",
+      "when": [
+        4,
+        2028
+      ],
+      "date": "2028-04-01",
+      "currency": "USD",
+      "prices": {}
+    }
+  ],
+  "BRL": {
+    "periods": [
+      {
+        "from": "2026-09-02",
+        "to": "2026-10-01",
+        "team": 950,
+        "companion": 100,
+        "name": {
+          "en": "early",
+          "pt": "antecipado",
+          "es": "anticipado",
+          "fr": "anticipée",
+          "de": "Frühbucher",
+          "it": "anticipato",
+          "ar": "المبكرة"
+        }
+      },
+      {
+        "from": "2026-10-02",
+        "to": "2026-10-15",
+        "team": 1050,
+        "companion": 150,
+        "name": {
+          "en": "regular",
+          "pt": "regular",
+          "es": "regular",
+          "fr": "normale",
+          "de": "regulär",
+          "it": "regolare",
+          "ar": "العادية"
+        }
+      },
+      {
+        "from": "2026-10-16",
+        "to": "2026-11-02",
+        "team": 1150,
+        "companion": 200,
+        "name": {
+          "en": "late",
+          "pt": "final",
+          "es": "final",
+          "fr": "tardive",
+          "de": "spät",
+          "it": "finale",
+          "ar": "المتأخرة"
+        }
+      }
+    ],
+    "symposium": 100
+  },
+  "pricing_mode": "tiers"
+}

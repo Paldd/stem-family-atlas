@@ -815,24 +815,24 @@
       "end": "2026-12-05",
       "period": "",
       "date_status": "Confirmado",
-      "deadline": "",
-      "age": "La edad y el equipo dependen de la disciplina; las reglas actuales son aún necesarias.",
-      "mat": "Condicional",
-      "osc": "Condicional",
-      "format": "Equipo; confirmar el tamaño según la categoría",
-      "entry": "en la página host hay un formulario de registro; obtener las reglas de la categoría y el derecho de entrada extranjera directa",
-      "gear": "12 disciplinas internacionales, incluyendo LEGO sumo; los parámetros de la categoría seleccionada para comprobar",
-      "language": "PT / EN; el juez ES / EN confirmar",
-      "cost": "se indicó la contribución de la cuota, no se encontró la cantidad en la página verificada",
+      "deadline": "2026-11-15",
+      "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+      "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+      "gear": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+      "language": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "cost": "Calculador internacional actual da en fecha de revisión 950 USD por equipo y 250 USD por acompañante. Página antigua enlazada da 350 / 80 con símbolo $ para noviembre; sin código monetario. Tabla BRL también discrepa en fechas e importes. Confirmar factura y cuota aplicable por escrito; sin efectuar pago.",
       "level": "B  torneo internacional",
       "reward": "Puesto o premio según los resultados oficiales",
       "priority": "P2  LATAM, la admisión no está verificada",
-      "action": "padre + entrenador: pedir la categoría menor, entrada directa, kit y el costo antes de decidir el viaje",
+      "action": "Confirmar reglamento local, edad de cada hijo, admisión extranjera independiente, Performance Sheet, moneda y factura final antes de pagar.",
       "source": "https://internationaltournamentofrobots.org/BRAZIL/",
-      "proof": "página ITR Brasil indica directamente São Paulo 2026 y 5 de diciembre; las reglas de edad no se extraen",
-      "checked": "2026-09-29",
+      "proof": "Fecha de 5 de diciembre de 2026 confirmada por página Brazil, lista general y calculador. Leídos regla general de edad, admisión independiente y Performance Sheet obligatoria. Falta reglamento técnico de categoría concreta.",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "No se puede retrasar 6–11 TJR Mini en el ITR automáticamente. el calendario general TJR contiene bloques históricos; Aquí la fecha se toma por separado de la página ITR.",
+      "note": "São Paulo · Convention Center Novotel Center Norte. Niveles de registro y grupos de premios no son equivalentes. Reglamento técnico completo 2026 sin acreditar; no aplicar automáticamente parámetros de archivos 2020.",
       "iso": [
         "BRA"
       ],
@@ -843,7 +843,28 @@
       "importance_reason": "clasificación editorial por nombre/formato y fuente.",
       "languages": [],
       "participation": "team",
-      "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse."
+      "language_certainty": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "language_mode": "unconfirmed",
+      "deadline_label": "Performance Sheet · admisión previa",
+      "deadline_note": "Página de cuotas 2026 exige Performance Sheet válida e índice no nulo hasta 15 de noviembre. Calculador cierra pago 15 días antes de 5 de diciembre, es decir 20 de noviembre; hora desconocida. Condiciones diferentes, no único plazo.",
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfYIltbcdyfuek-G3izwGE-NvLeBVSd4QdYE6piXhQBGVlvZw/viewform",
+      "registration_status": "Formulario disponible; plaza y admisión familiar sin confirmar. RoboLeague es paso previo obligatorio.",
+      "team_min": 2,
+      "team_max": 4,
+      "references": [
+        {
+          "label": "Formulario internacional actual de cuotas",
+          "url": "https://internationaltournamentofrobots.org/contribution/"
+        },
+        {
+          "label": "Tabla alternativa 2026 enlazada",
+          "url": "https://torneiojrobotica.org/CONTRIBUTE-2026-1/"
+        },
+        {
+          "label": "Formulario general: niveles y equipos independientes",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYIltbcdyfuek-G3izwGE-NvLeBVSd4QdYE6piXhQBGVlvZw/viewform"
+        }
+      ]
     },
     {
       "block": "Competiciones",
@@ -4464,10 +4485,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugar o premio sólo por el protocolo oficial; el registro no garantiza la victoria",
       "priority": "P2  después de confirmar el permiso",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "página 2026 y el reglamento relacionado se lee por separado; publicados 13.11, 31.10, 1–4 estudiante y limitaciones Sumo / Feria",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación de la exposición y la olimpiada en diferentes plataformas; se necesitan acompañantes separados.",
       "themes": [
@@ -4515,7 +4536,8 @@
       "venue": "la Olimpiada: Gimnasio Colegio Gral. Belgrano, Lavalle y Ratti. la exposición: General de Alvear 1075. Esas son diferentes plataformas..",
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4540,10 +4562,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugares locales por el protocolo; no se ha confirmado la cuota internacional y la representación extranjera",
       "priority": "P2  Argentina después de la admisión",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "se ha leído el reglamento local 2026; las aplicaciones técnicas internacionales individuales no se declaran leídas por el",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación de la exposición y la olimpiada en diferentes plataformas; se necesitan acompañantes separados.",
       "themes": [
@@ -4585,7 +4607,8 @@
       "team_max": 4,
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4610,10 +4633,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugares locales por el protocolo; no se ha confirmado la cuota internacional y la representación extranjera",
       "priority": "P2  Argentina después de la admisión",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "se ha leído el reglamento local 2026; las aplicaciones técnicas internacionales individuales no se declaran leídas por el",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación de la exposición y la olimpiada en diferentes plataformas; se necesitan acompañantes separados.",
       "themes": [
@@ -4655,7 +4678,8 @@
       "team_max": 4,
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4680,10 +4704,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugares locales por el protocolo; no se ha confirmado la cuota internacional y la representación extranjera",
       "priority": "P4  No es adecuado para la edad",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "se ha leído el reglamento local 2026; las aplicaciones técnicas internacionales individuales no se declaran leídas por el",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación de la exposición y la olimpiada en diferentes plataformas; se necesitan acompañantes separados.",
       "themes": [
@@ -4725,7 +4749,8 @@
       "team_max": 4,
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4750,10 +4775,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "Rescate Inicial no está seleccionando directamente a la Argentina en la RoboCup.",
       "priority": "P2  Argentina después de la admisión",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "el reglamento local de RoboLiga y el anexo técnico 2026 se han leído por separado.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación. exposición y olimpiada en diferentes plazas; Necesitamos acompañantes separados. la verificación técnica y de edad de la categoría es obligatoria. de la Comisión PDF Australia Secondary 2026 Ahora lo hemos leído.; Reglas generales de edad Australia y el permiso local extranjero no se confirman.",
       "themes": [
@@ -4799,7 +4824,8 @@
       "team_max": 4,
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4824,10 +4850,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugares locales por el protocolo; no se ha confirmado la cuota internacional y la representación extranjera",
       "priority": "P4 — el reglamento internacional 14–19",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "el reglamento local de RoboLiga y el anexo técnico 2026 se han leído por separado.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación. exposición y olimpiada en diferentes plazas; Necesitamos acompañantes separados. la verificación técnica y de edad de la categoría es obligatoria. en el ámbito internacional PDF edad 14–19 en el 1 de julio; Entry/Primary No son finales mundiales .. las adaptaciones locales son posibles, pero excepción para los niños 6/9 no se publicó en el texto leído.",
       "themes": [
@@ -4874,7 +4900,8 @@
       "iso": [
         "ARG"
       ],
-      "age_reference_date": "2026-07-01"
+      "age_reference_date": "2026-07-01",
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4899,10 +4926,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "lugares locales por el protocolo; no se ha confirmado la cuota internacional y la representación extranjera",
       "priority": "P4 — el reglamento internacional 14–19",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "el reglamento local de RoboLiga y el anexo técnico 2026 se han leído por separado.",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "un estudiante no participa simultáneamente en varias competiciones o en un proyecto de exposición y una olimpiada. los adultos no ayudan en la evaluación. exposición y olimpiada en diferentes plazas; Necesitamos acompañantes separados. la verificación técnica y de edad de la categoría es obligatoria. en el ámbito internacional PDF edad 14–19 en el 1 de julio; Entry/Primary No son finales mundiales .. las adaptaciones locales son posibles, pero excepción para los niños 6/9 no se publicó en el texto leído.",
       "themes": [
@@ -4949,7 +4976,8 @@
       "iso": [
         "ARG"
       ],
-      "age_reference_date": "2026-07-01"
+      "age_reference_date": "2026-07-01",
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -4974,10 +5002,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "primer lugar en la categoría de exposición; El jurado puede no condenar. 2/3 Los lugares dependen de los premios de patrocinadores ..",
       "priority": "P2  después de confirmar el permiso",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "Se han leído las reglas del Feria 2026: Criterio de mayor, video, equipo, premios, plataforma y plazos",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "equipo sólo de Matvey 9 y Oscar 6 no satisface la edad del participante mayor 10–13/14–18. no se ha confirmado la participación de los menores con un mayor adecuado. el estudiante no puede combinar Feria y la olimpiada.",
       "themes": [
@@ -5016,7 +5044,8 @@
       "registration_url": "https://forms.gle/EQzw899DnVm8Y2ZB6",
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -5041,10 +5070,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "primer lugar en la categoría de exposición; El jurado puede no condenar. 2/3 Los lugares dependen de los premios de patrocinadores ..",
       "priority": "P2  después de confirmar el permiso",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "Se han leído las reglas del Feria 2026: Criterio de mayor, video, equipo, premios, plataforma y plazos",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "equipo sólo de Matvey 9 y Oscar 6 no satisface la edad del participante mayor 10–13/14–18. no se ha confirmado la participación de los menores con un mayor adecuado. el estudiante no puede combinar Feria y la olimpiada.",
       "themes": [
@@ -5083,7 +5112,8 @@
       "registration_url": "https://forms.gle/EQzw899DnVm8Y2ZB6",
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -5108,10 +5138,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "primer lugar en la categoría de exposición; El jurado puede no condenar. 2/3 Los lugares dependen de los premios de patrocinadores ..",
       "priority": "P2  después de confirmar el permiso",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "Se han leído las reglas del Feria 2026: Criterio de mayor, video, equipo, premios, plataforma y plazos",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "equipo sólo de Matvey 9 y Oscar 6 no satisface la edad del participante mayor 10–13/14–18. no se ha confirmado la participación de los menores con un mayor adecuado. el estudiante no puede combinar Feria y la olimpiada.",
       "themes": [
@@ -5150,7 +5180,8 @@
       "registration_url": "https://forms.gle/EQzw899DnVm8Y2ZB6",
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Competiciones",
@@ -5175,10 +5206,10 @@
       "level": "C  Torneo nacional o abierto",
       "reward": "primer lugar en la categoría de exposición; El jurado puede no condenar. 2/3 Los lugares dependen de los premios de patrocinadores ..",
       "priority": "P2  después de confirmar el permiso",
-      "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
+      "action": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte.",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
       "proof": "Se han leído las reglas del Feria 2026: Criterio de mayor, video, equipo, premios, plataforma y plazos",
-      "checked": "2026-09-30",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "equipo sólo de Matvey 9 y Oscar 6 no satisface la edad del participante mayor 10–13/14–18. no se ha confirmado la participación de los menores con un mayor adecuado. el estudiante no puede combinar Feria y la olimpiada.",
       "themes": [
@@ -5217,7 +5248,8 @@
       "registration_url": "https://forms.gle/EQzw899DnVm8Y2ZB6",
       "iso": [
         "ARG"
-      ]
+      ],
+      "registration_status": "Reglamento 2026 sigue indicando 31 de octubre para equipos; plazo vencido, prórroga sin anunciar. Admisión competitiva tardía requiere confirmación aparte."
     },
     {
       "block": "Eventos",
@@ -5231,23 +5263,23 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "2026-11-07",
-      "age": "edad y clase se debe confirmar",
-      "mat": "Condicional: se necesita autorización del organizador",
-      "osc": "Condicional: se necesita autorización del organizador",
+      "age": "Formulario admite expresamente visitantes adultos y menores; inscripción separada por persona. Edades competitivas no se aplican automáticamente a visitantes.",
+      "mat": "Sí como visitante según formulario; inscripción y entrada efectiva aparte.",
+      "osc": "Sí como visitante según formulario; inscripción y entrada efectiva aparte.",
       "format": "la visita familiar; los menores y el orden de entrada",
-      "entry": "completar el formulario de entrada del visitante después de que se confirme la entrada de los niños; la competencia requiere otra solicitud",
+      "entry": "Formulario directo hasta 7 de noviembre admite familiares y visitantes independientes, adultos y menores. Cada padre y cada hijo se registra por separado. Excepción de cantidad de alumnos en solicitud adulta corresponde a docentes / directivos con grupo escolar.",
       "gear": "su robot no ha sido registrado para visitar",
       "language": "ES candidato; lengua de juez para confirmar",
       "cost": "no se encuentra en la página leída; especifique",
       "level": "D  Visita a la exposición",
       "reward": "conocimiento de proyectos y equipos; sin lugar de competencia",
-      "priority": "P3  en un viaje a Argentina",
+      "priority": "P2 — visita familiar tras confirmar solicitud",
       "action": "comprobar el equipo, la entrada y la contribución antes de la inscripción y el viaje",
       "source": "https://roboliga.edu.ar/edicion-2026/default.asp",
-      "proof": "las reglas de 2026 leídas dan un plazo separado de 07.11 y el horario de los visitantes",
-      "checked": "2026-09-30",
+      "proof": "Leídos reglamento actual, Agenda 2026 y formulario directo de visitantes. Formulario distingue delegaciones escolares y familiares / visitantes independientes inscritos individualmente, incluidos menores.",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "de la 08:00 sólo delegaciones estudiantiles y profesores. la Olimpiada y Feria en diferentes edificios; no se ha encontrado el valor de la visita en las páginas leídas.",
+      "note": "Feria admite visitantes desde 09:00; desde 08:00 solo delegaciones expositoras. Precio de entrada sin publicar; solicitud no equivale a entrada confirmada ni competición.",
       "themes": [
         "robotics"
       ],
@@ -5262,19 +5294,23 @@
       "evidence_level": "rules",
       "references": [
         {
-          "label": "Reglas, lugares y agenda",
-          "url": "https://docs.google.com/document/d/1GLNQwzEIh--KUx2IyDM9K4zCRIIjYBCf7aDOea4ASgw/edit?tab=t.0"
+          "label": "Reglamento actual con plazo propio de visitantes",
+          "url": "https://docs.google.com/document/d/1GLNQwzEIh--KUx2IyDM9K4zCRIIjYBCf7aDOea4ASgw/edit"
         },
         {
-          "label": "forma del visitante de las reglas; no verificado",
+          "label": "Formulario directo de visitantes del reglamento",
           "url": "https://forms.gle/a9T2JSGjALnhoho38"
+        },
+        {
+          "label": "Agenda 2026: entrada desde 09:00",
+          "url": "https://roboliga.edu.ar/edicion-2026/agenda.asp"
         }
       ],
       "related_ids": [
         "C663"
       ],
-      "deadline_label": "forma del visitante",
-      "deadline_note": "7 de noviembre; hora de aclarar",
+      "deadline_label": "Solicitud de visitante",
+      "deadline_note": "Reglamento actual fija por separado 7 de noviembre de 2026 para visitantes. Hora sin indicar; no es plazo del equipo.",
       "registration_url": "https://forms.gle/a9T2JSGjALnhoho38",
       "sessions": [
         {
@@ -5285,7 +5321,9 @@
       ],
       "iso": [
         "ARG"
-      ]
+      ],
+      "visitor_policy": "family",
+      "visitor_policy_note": "Formulario directo menciona expresamente menores y visitantes familiares. Acceso de público, no admisión competitiva."
     },
     {
       "block": "Competiciones",
@@ -9597,6 +9635,409 @@
       "iso": [
         "PRY"
       ]
+    },
+    {
+      "id": "C1191",
+      "block": "Competiciones",
+      "title": "ITR Argentina 2027 · Buenos Aires",
+      "country": "Argentina",
+      "iso": [
+        "ARG"
+      ],
+      "region": "América del Sur",
+      "city": "Buenos Aires · Hilton Buenos Aires",
+      "start": "2027-05-01",
+      "end": "2027-05-01",
+      "deadline": "2027-04-16",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+      "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+      "gear": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+      "language": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "cost": "Calculador internacional: al menos 90 días antes — 750 USD por equipo / 50 USD por acompañante; 60–89 — 850 / 150; 15–59 — 950 / 250. Último intervalo marcado parcialmente provisional. Lectura de tarifa del formulario, no factura aceptada; convocatoria, equipo, alojamiento y viaje aparte.",
+      "scope": "international",
+      "level": "Torneo internacional del organizador; sin final mundial automático",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Puesto / premio solo según acta oficial. Nombre internacional ITR no implica final WRO / FIRST / RoboCup. BASIC / ADVANCED de premios difieren de Level 1–4 de registro.",
+      "priority": "P2 — tras confirmar categoría y presupuesto",
+      "action": "Confirmar reglamento local, edad de cada hijo, admisión extranjera independiente, Performance Sheet, moneda y factura final antes de pagar.",
+      "source": "https://internationaltournamentofrobots.org/ARGENTINA/",
+      "references": [
+        {
+          "label": "Calculador: fechas y tarifas internacionales",
+          "url": "https://internationaltournamentofrobots.org/contribution/"
+        },
+        {
+          "label": "Registro y niveles de edad",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYIltbcdyfuek-G3izwGE-NvLeBVSd4QdYE6piXhQBGVlvZw/viewform"
+        },
+        {
+          "label": "Directrices complementarias enlazadas; comprobar temporada",
+          "url": "https://docs.google.com/presentation/d/18egdBVLDzlErVKysSlTuvoYiOtLnGrkePdxC1-lgZGc/edit"
+        }
+      ],
+      "proof": "Leídas página nacional, opciones actuales de formulario general y calculador. Para etapas de dos días se usan ambas fechas de página nacional; calculador solo guarda primer día.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Niveles generales de edad y BASIC / ADVANCED de premios no son intercambiables. Instrucciones enlazadas contienen bloques históricos 2024/2025; confirmar aplicación a esta edición. Plaza, idioma y challenge concreto no equivalen a participación aceptada.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "deadline_label": "Según regla del calculador · cierre 15 días antes",
+      "deadline_note": "2027-04-16 calculado desde primer día según código publicado del formulario, no correo específico del organizador. Hora sin indicar; confirmar plazo propio de Performance Sheet.",
+      "team_min": 2,
+      "team_max": 4,
+      "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfYIltbcdyfuek-G3izwGE-NvLeBVSd4QdYE6piXhQBGVlvZw/viewform",
+      "registration_status": "Formulario disponible; plaza y admisión familiar sin confirmar. RoboLeague es paso previo obligatorio."
+    },
+    {
+      "id": "C1193",
+      "block": "Competiciones",
+      "title": "RoboLiga Virtual 2026 · Sumo",
+      "country": "Argentina",
+      "iso": [
+        "ARG"
+      ],
+      "region": "América del Sur",
+      "city": "En línea desde lugar propio de preparación",
+      "start": "2026-09-26",
+      "end": "2026-11-07",
+      "deadline": "2026-09-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "Fútbol / Rescate generales: todas las edades. Sumo Infantil: todos al menos 9 y mayor máximo 12 al 01.07.2026; Juvenil mayor hasta 18; Libre sin límite. Calendario 2026 unificó todos los Sumo en una llave.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+      "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+      "gear": "Webots R2023b, Python 3.12+ o editor de bloques. Robot estándar: 2 sensores de distancia, 1 de color, 2 de contacto trasero, 2 motores; admite cambiar posición / giro de sensores autorizados. Entrega de un .py y, si personalizado, un .json.",
+      "language": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "cost": "FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.",
+      "scope": "international",
+      "level": "Competición / práctica virtual; vía nacional aparte",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Resultado virtual se acredita por acta. Participación, victoria en etapa virtual y selección nacional RoboCup son resultados distintos.",
+      "priority": "P4 — convocatoria ordinaria 2026 terminada; historial y práctica",
+      "action": "Usar retos publicados para preparación; esperar nueva convocatoria. Mentor adulto gestiona Discord y archivos.",
+      "source": "https://virtual.roboliga.ar/",
+      "references": [
+        {
+          "label": "Temporada actual y edades",
+          "url": "https://virtual.roboliga.ar/"
+        },
+        {
+          "label": "FAQ: gratis, individual y sin colegio",
+          "url": "https://virtual.roboliga.ar/faq.html"
+        },
+        {
+          "label": "Calendario de rondas 2026",
+          "url": "https://virtual.roboliga.ar/calendario.html"
+        },
+        {
+          "label": "Sumo: reglamento completo de edad y técnica",
+          "url": "https://virtual.roboliga.ar/reglamentos_sumo.html"
+        },
+        {
+          "label": "Rescate: admisión internacional y selección nacional separada",
+          "url": "https://virtual.roboliga.ar/reglamentos_rescate.html"
+        }
+      ],
+      "proof": "Leídos reglamentos HTML actuales, calendario, FAQ y selección nacional. Sin ejecutar código de juego ni paquetes binarios.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Fechas de rondas: 26.09, 10.10, 31.10, 07.11. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_utc": "2026-09-05T02:59:00Z",
+      "deadline_label": "Inscripción 2026 terminada",
+      "deadline_note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar.",
+      "availability": {
+        "status": "closed",
+        "note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+      },
+      "registration_status": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+    },
+    {
+      "id": "C1194",
+      "block": "Competiciones",
+      "title": "RoboLiga Virtual 2026 · Fútbol",
+      "country": "Argentina",
+      "iso": [
+        "ARG"
+      ],
+      "region": "América del Sur",
+      "city": "En línea desde lugar propio de preparación",
+      "start": "2026-09-19",
+      "end": "2026-10-17",
+      "deadline": "2026-09-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "2026: categoría general para todas las edades; próxima convocatoria se comprueba aparte.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+      "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+      "gear": "Simulación: 3 robots autónomos por equipo, un tiempo de 3:30 minutos, árbitro automático; lenguajes según entorno. Ordenador propio, sin robot físico.",
+      "language": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "cost": "FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.",
+      "scope": "international",
+      "level": "Competición / práctica virtual; vía nacional aparte",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Resultado virtual se acredita por acta. Participación, victoria en etapa virtual y selección nacional RoboCup son resultados distintos.",
+      "priority": "P4 — convocatoria ordinaria 2026 terminada; historial y práctica",
+      "action": "Usar retos publicados para preparación; esperar nueva convocatoria. Mentor adulto gestiona Discord y archivos.",
+      "source": "https://virtual.roboliga.ar/",
+      "references": [
+        {
+          "label": "Temporada actual y edades",
+          "url": "https://virtual.roboliga.ar/"
+        },
+        {
+          "label": "FAQ: gratis, individual y sin colegio",
+          "url": "https://virtual.roboliga.ar/faq.html"
+        },
+        {
+          "label": "Calendario de rondas 2026",
+          "url": "https://virtual.roboliga.ar/calendario.html"
+        },
+        {
+          "label": "Sumo: reglamento completo de edad y técnica",
+          "url": "https://virtual.roboliga.ar/reglamentos_sumo.html"
+        },
+        {
+          "label": "Rescate: admisión internacional y selección nacional separada",
+          "url": "https://virtual.roboliga.ar/reglamentos_rescate.html"
+        }
+      ],
+      "proof": "Leídos reglamentos HTML actuales, calendario, FAQ y selección nacional. Sin ejecutar código de juego ni paquetes binarios.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Fechas de rondas: 19.09, 26.09, 03.10, 10.10, 17.10. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_utc": "2026-09-05T02:59:00Z",
+      "deadline_label": "Inscripción 2026 terminada",
+      "deadline_note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar.",
+      "availability": {
+        "status": "closed",
+        "note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+      },
+      "registration_status": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+    },
+    {
+      "id": "C1195",
+      "block": "Competiciones",
+      "title": "RoboLiga Virtual 2026 · Rescate",
+      "country": "Argentina",
+      "iso": [
+        "ARG"
+      ],
+      "region": "América del Sur",
+      "city": "En línea desde lugar propio de preparación",
+      "start": "2026-09-19",
+      "end": "2026-10-31",
+      "deadline": "2026-09-04",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "2026: todas las edades y países. Selección argentina exige 13–18 al 01.07.2026 y condiciones adicionales.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+      "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+      "gear": "Erebus v26.1; Python, fuentes, bibliotecas y estructura .json en un ZIP, sin ejecutables. 2 rondas por fecha; selección toma mejores 7 de 8.",
+      "language": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "cost": "FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.",
+      "scope": "international",
+      "level": "Competición / práctica virtual; vía nacional aparte",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Resultado virtual se acredita por acta. Participación, victoria en etapa virtual y selección nacional RoboCup son resultados distintos.",
+      "priority": "P4 — convocatoria ordinaria 2026 terminada; historial y práctica",
+      "action": "Usar retos publicados para preparación; esperar nueva convocatoria. Mentor adulto gestiona Discord y archivos.",
+      "source": "https://virtual.roboliga.ar/",
+      "references": [
+        {
+          "label": "Temporada actual y edades",
+          "url": "https://virtual.roboliga.ar/"
+        },
+        {
+          "label": "FAQ: gratis, individual y sin colegio",
+          "url": "https://virtual.roboliga.ar/faq.html"
+        },
+        {
+          "label": "Calendario de rondas 2026",
+          "url": "https://virtual.roboliga.ar/calendario.html"
+        },
+        {
+          "label": "Sumo: reglamento completo de edad y técnica",
+          "url": "https://virtual.roboliga.ar/reglamentos_sumo.html"
+        },
+        {
+          "label": "Rescate: admisión internacional y selección nacional separada",
+          "url": "https://virtual.roboliga.ar/reglamentos_rescate.html"
+        }
+      ],
+      "proof": "Leídos reglamentos HTML actuales, calendario, FAQ y selección nacional. Sin ejecutar código de juego ni paquetes binarios.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Fechas de rondas: 19.09, 03.10, 17.10, 31.10. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_utc": "2026-09-05T02:59:00Z",
+      "deadline_label": "Inscripción 2026 terminada",
+      "deadline_note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar.",
+      "availability": {
+        "status": "closed",
+        "note": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+      },
+      "registration_status": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar."
+    },
+    {
+      "id": "C1196",
+      "block": "Competiciones",
+      "title": "RoboLiga Virtual · próxima convocatoria y preparación en casa",
+      "country": "Argentina",
+      "iso": [
+        "ARG"
+      ],
+      "region": "América del Sur",
+      "city": "En línea; condiciones internacionales nuevas por confirmar",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "",
+      "date_status": "no se han anunciado las fechas",
+      "age": "Convocatoria nueva aún sin anunciar; edades 2026 son historia, no reglas de temporada futura.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+      "entry": "Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+      "gear": "Última convocatoria publicada: Webots / Python y bloques Sumo, fútbol y Erebus Rescue. Confirmar ordenador y versión de temporada nueva.",
+      "language": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+      "cost": "FAQ 2026: gratis; condiciones de próxima convocatoria y equipo propio aparte.",
+      "scope": "international",
+      "level": "Torneo internacional del organizador; sin final mundial automático",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Resultado virtual se acredita por acta. Participación, victoria en etapa virtual y selección nacional RoboCup son resultados distintos.",
+      "priority": "P3 — fechas y condiciones nuevas aún sin anunciar",
+      "action": "Practicar bloques → Python, versiones y pruebas repetibles; seguir convocatoria y corte de edad nuevos. Niño escribe y explica código propio.",
+      "source": "https://virtual.roboliga.ar/",
+      "references": [
+        {
+          "label": "Temporada actual y edades",
+          "url": "https://virtual.roboliga.ar/"
+        },
+        {
+          "label": "FAQ: gratis, individual y sin colegio",
+          "url": "https://virtual.roboliga.ar/faq.html"
+        },
+        {
+          "label": "Calendario de rondas 2026",
+          "url": "https://virtual.roboliga.ar/calendario.html"
+        },
+        {
+          "label": "Sumo: reglamento completo de edad y técnica",
+          "url": "https://virtual.roboliga.ar/reglamentos_sumo.html"
+        },
+        {
+          "label": "Rescate: admisión internacional y selección nacional separada",
+          "url": "https://virtual.roboliga.ar/reglamentos_rescate.html"
+        }
+      ],
+      "proof": "Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Vía de preparación, no registro abierto. Matvey podría necesitar cumplir 9 antes de corte fijo; Oscar no entra en anterior Infantil, pero existían Libre y disciplinas generales.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "individual_or_team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "registration_status": "Próxima temporada sin anunciar."
+    },
+    {
+      "id": "C1198",
+      "block": "Competiciones",
+      "title": "ITR Chile 2026 · Santiago · archivo",
+      "country": "Chile",
+      "iso": [
+        "CHL"
+      ],
+      "region": "América del Sur",
+      "city": "Santiago · Hotel Almacruz",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "deadline": "",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+      "entry": "Archivo 2026; convocatoria futura Chile aún sin confirmar. No repetir automáticamente estas fechas en 2027.",
+      "gear": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+      "language": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "cost": "Tarifa histórica de esta etapa sin verificar; precios internacionales actuales no se trasladan a temporada pasada.",
+      "scope": "international",
+      "level": "Torneo internacional del organizador; sin final mundial automático",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Puesto / premio solo según acta oficial. Nombre internacional ITR no implica final WRO / FIRST / RoboCup. BASIC / ADVANCED de premios difieren de Level 1–4 de registro.",
+      "priority": "P4 — etapa pasada; siguiente aún sin anunciar",
+      "action": "Seguir próximo anuncio chileno y reglamento nuevo.",
+      "source": "https://internationaltournamentofrobots.org/CHILE/",
+      "references": [],
+      "proof": "Página nacional indica expresamente 2026, 5–6 de septiembre y Hotel Almacruz.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Geografía histórica de serie internacional; no oportunidad activa de inscripción.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window"
     },
     {
       "id": "CP047-20270103-20270108",

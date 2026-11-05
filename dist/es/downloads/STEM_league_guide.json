@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 143,
+    "version": 145,
     "checked": "2026-11-04",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -2678,57 +2678,141 @@
       },
       {
         "id": "itr",
-        "name": "ITR Brazil",
-        "group": "regional",
-        "age_summary": "edad y grupo  por categoría; el mínimo exacto no está establecido",
+        "name": "ITR · serie internacional TJR / RoboLeague",
+        "group": "international",
+        "age_summary": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
         "age_tags": [
-          "unknown"
+          "6",
+          "9",
+          "10-12",
+          "teen"
         ],
-        "summary": "el torneo brasileño de robótica; la admisión internacional se verifica por separado.",
+        "summary": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
         "categories": [
           {
             "name": "ITR Brazil 2026 — International Tournament of Robots",
-            "age": "La edad y el equipo dependen de la disciplina; las reglas actuales son aún necesarias.",
-            "team": "Equipo; confirmar el tamaño según la categoría",
-            "hardware": "12 disciplinas internacionales, incluyendo LEGO sumo; los parámetros de la categoría seleccionada para comprobar",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
-            "event_id": "C066",
-            "entry": "en la página host hay un formulario de registro; obtener las reglas de la categoría y el derecho de entrada extranjera directa",
-            "language": "PT / EN; el juez ES / EN confirmar",
-            "note": "No se puede retrasar 6–11 TJR Mini en el ITR automáticamente. el calendario general TJR contiene bloques históricos; Aquí la fecha se toma por separado de la página ITR.",
-            "source": "https://internationaltournamentofrobots.org/BRAZIL/",
-            "checked": "2026-09-29"
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+            "event_id": "C066"
+          },
+          {
+            "name": "ITR Spain 2027 · Barcelona",
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+            "event_id": "C1190"
+          },
+          {
+            "name": "ITR Argentina 2027 · Buenos Aires",
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+            "event_id": "C1191"
+          },
+          {
+            "name": "ITR Portugal 2027 · Lisboa",
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+            "event_id": "C1192"
+          },
+          {
+            "name": "ITR Mexico 2028 · Cancún · fechas discrepantes",
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+            "event_id": "C1197"
+          },
+          {
+            "name": "ITR Chile 2026 · Santiago · archivo",
+            "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+            "age_rule": "En Level 1 de registro se comprueba el mayor; en BASIC de premios, cada integrante. Confirmar corte exacto y edición aplicable.",
+            "team": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+            "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+            "entry": "Archivo 2026; convocatoria futura Chile aún sin confirmar. No repetir automáticamente estas fechas en 2027.",
+            "event_id": "C1198"
           }
         ],
         "event_ids": [
-          "C066"
+          "C066",
+          "C1190",
+          "C1191",
+          "C1192",
+          "C1197",
+          "C1198"
         ],
         "legacy_ids": [
           "C066"
         ],
-        "route": "en la página host hay un formulario de registro; obtener las reglas de la categoría y el derecho de entrada extranjera directa",
-        "hardware": "12 disciplinas internacionales, incluyendo LEGO sumo; los parámetros de la categoría seleccionada para comprobar",
-        "language": "PT / EN; el juez ES / EN confirmar",
+        "route": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+        "hardware": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+        "language": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
-        "strengths": "el torneo brasileño de robótica; la admisión internacional se verifica por separado.",
+        "strengths": "Etapas presenciales internacionales y pruebas previas medibles del robot en RoboLeague.",
         "requirements": [
-          "elegir una categoría específica y la redacción de las reglas: el nombre de la red por sí mismo no da permiso.",
-          "comprobar la edad para la fecha, el grado, la formación del equipo, el coach, la plataforma y la lengua de defensa.",
-          "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
+          "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+          "Confirmar reglamento local, edad de cada hijo, admisión extranjera independiente, Performance Sheet, moneda y factura final antes de pagar."
         ],
         "nuances": [
-          "No se puede retrasar 6–11 TJR Mini en el ITR automáticamente. el calendario general TJR contiene bloques históricos; Aquí la fecha se toma por separado de la página ITR."
+          "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+          "Formulario general conserva cuotas antiguas 2023/2024, carpetas técnicas materiales 2020. Bloques históricos no acreditan reglas vigentes por etapa."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
-        "award": "Puesto o premio según los resultados oficiales",
+        "cost": "Calculador internacional: al menos 90 días antes — 750 USD por equipo / 50 USD por acompañante; 60–89 — 850 / 150; 15–59 — 950 / 250. Último intervalo marcado parcialmente provisional. Lectura de tarifa del formulario, no factura aceptada; convocatoria, equipo, alojamiento y viaje aparte.",
+        "award": "Puesto / premio solo según acta oficial. Nombre internacional ITR no implica final WRO / FIRST / RoboCup. BASIC / ADVANCED de premios difieren de Level 1–4 de registro.",
         "sources": [
           {
-            "title": "fuente oficial C066",
+            "title": "Formulario y tarifas actuales",
+            "url": "https://internationaltournamentofrobots.org/contribution/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Edades, niveles y equipos independientes",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYIltbcdyfuek-G3izwGE-NvLeBVSd4QdYE6piXhQBGVlvZw/viewform",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Brazil 2026 — International Tournament of Robots",
             "url": "https://internationaltournamentofrobots.org/BRAZIL/",
-            "checked": "2026-09-29"
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Spain 2027 · Barcelona",
+            "url": "https://internationaltournamentofrobots.org/SPAIN/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Argentina 2027 · Buenos Aires",
+            "url": "https://internationaltournamentofrobots.org/ARGENTINA/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Portugal 2027 · Lisboa",
+            "url": "https://internationaltournamentofrobots.org/PORTUGAL/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Mexico 2028 · Cancún · fechas discrepantes",
+            "url": "https://internationaltournamentofrobots.org/MEXICO/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "ITR Chile 2026 · Santiago · archivo",
+            "url": "https://internationaltournamentofrobots.org/CHILE/",
+            "checked": "2026-11-04"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "Leídas páginas nacionales actuales, formulario general, código del calculador y directrices; discrepancias conservadas explícitamente."
       },
       {
         "id": "tecpro",
@@ -11180,6 +11264,107 @@
         "checked": "2026-10-05"
       },
       {
+        "id": "roboliga-virtual",
+        "name": "RoboLiga Virtual",
+        "group": "regional",
+        "age_summary": "Fútbol / Rescate generales: todas las edades. Sumo Infantil: todos al menos 9 y mayor máximo 12 al 01.07.2026; Juvenil mayor hasta 18; Libre sin límite. Calendario 2026 unificó todos los Sumo en una llave. Convocatoria nueva aún sin anunciar; edades 2026 son historia, no reglas de temporada futura.",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+        "categories": [
+          {
+            "name": "RoboLiga Virtual 2026 · Sumo",
+            "age": "Fútbol / Rescate generales: todas las edades. Sumo Infantil: todos al menos 9 y mayor máximo 12 al 01.07.2026; Juvenil mayor hasta 18; Libre sin límite. Calendario 2026 unificó todos los Sumo en una llave.",
+            "age_rule": "Reglas 2026 y edad en fecha fija indicada; próxima convocatoria sin confirmar. Selección nacional tiene condiciones propias.",
+            "team": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+            "hardware": "Webots R2023b, Python 3.12+ o editor de bloques. Robot estándar: 2 sensores de distancia, 1 de color, 2 de contacto trasero, 2 motores; admite cambiar posición / giro de sensores autorizados. Entrega de un .py y, si personalizado, un .json.",
+            "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+            "event_id": "C1193"
+          },
+          {
+            "name": "RoboLiga Virtual 2026 · Fútbol",
+            "age": "2026: categoría general para todas las edades; próxima convocatoria se comprueba aparte.",
+            "age_rule": "Reglas 2026 y edad en fecha fija indicada; próxima convocatoria sin confirmar. Selección nacional tiene condiciones propias.",
+            "team": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+            "hardware": "Simulación: 3 robots autónomos por equipo, un tiempo de 3:30 minutos, árbitro automático; lenguajes según entorno. Ordenador propio, sin robot físico.",
+            "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+            "event_id": "C1194"
+          },
+          {
+            "name": "RoboLiga Virtual 2026 · Rescate",
+            "age": "2026: todas las edades y países. Selección argentina exige 13–18 al 01.07.2026 y condiciones adicionales.",
+            "age_rule": "Reglas 2026 y edad en fecha fija indicada; próxima convocatoria sin confirmar. Selección nacional tiene condiciones propias.",
+            "team": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+            "hardware": "Erebus v26.1; Python, fuentes, bibliotecas y estructura .json en un ZIP, sin ejecutables. 2 rondas por fecha; selección toma mejores 7 de 8.",
+            "entry": "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+            "event_id": "C1195"
+          },
+          {
+            "name": "RoboLiga Virtual · próxima convocatoria y preparación en casa",
+            "age": "Convocatoria nueva aún sin anunciar; edades 2026 son historia, no reglas de temporada futura.",
+            "age_rule": "Reglas 2026 y edad en fecha fija indicada; próxima convocatoria sin confirmar. Selección nacional tiene condiciones propias.",
+            "team": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+            "hardware": "Última convocatoria publicada: Webots / Python y bloques Sumo, fútbol y Erebus Rescue. Confirmar ordenador y versión de temporada nueva.",
+            "entry": "Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.",
+            "event_id": "C1196"
+          }
+        ],
+        "event_ids": [
+          "C1193",
+          "C1194",
+          "C1195",
+          "C1196"
+        ],
+        "legacy_ids": [],
+        "route": "Practicar bloques → Python, versiones y pruebas repetibles; seguir convocatoria y corte de edad nuevos. Niño escribe y explica código propio.",
+        "hardware": "Última convocatoria publicada: Webots / Python y bloques Sumo, fútbol y Erebus Rescue. Confirmar ordenador y versión de temporada nueva.",
+        "language": "Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.",
+        "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
+        "strengths": "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+        "requirements": [
+          "2026: 1–4 integrantes, se admite uno; colegio no obligatorio según FAQ. Confirmar próxima convocatoria y consentimiento adulto.",
+          "Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia."
+        ],
+        "nuances": [
+          "Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar.",
+          "Fútbol / Rescate generales: todas las edades. Sumo Infantil: todos al menos 9 y mayor máximo 12 al 01.07.2026; Juvenil mayor hasta 18; Libre sin límite. Calendario 2026 unificó todos los Sumo en una llave."
+        ],
+        "cost": "FAQ 2026: gratis; condiciones de próxima convocatoria y equipo propio aparte.",
+        "award": "Resultado virtual se acredita por acta. Participación, victoria en etapa virtual y selección nacional RoboCup son resultados distintos.",
+        "sources": [
+          {
+            "title": "Temporada actual y edades",
+            "url": "https://virtual.roboliga.ar/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "FAQ: gratis, individual y sin colegio",
+            "url": "https://virtual.roboliga.ar/faq.html",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Calendario de rondas 2026",
+            "url": "https://virtual.roboliga.ar/calendario.html",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Sumo: reglamento completo de edad y técnica",
+            "url": "https://virtual.roboliga.ar/reglamentos_sumo.html",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Rescate: admisión internacional y selección nacional separada",
+            "url": "https://virtual.roboliga.ar/reglamentos_rescate.html",
+            "checked": "2026-11-04"
+          }
+        ],
+        "evidence": "Leídos reglamentos HTML actuales, calendario, FAQ y selección nacional. Sin ejecutar código de juego ni paquetes binarios."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -11572,7 +11757,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "144 perfiles de ligas, familias y programas; se conservan todos los 46 rutas anteriores. los formatos brasileños se dividen, los locales Robofest LATAM y BajaBot se describen por sus categorías.",
+    "methodology": "145 perfiles de ligas, familias y programas; conservadas todas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos según categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

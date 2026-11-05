@@ -233,15 +233,15 @@ Comprobado: 2026-09-29
 ### C066 · ITR Brazil 2026 — International Tournament of Robots
 
 Fecha: 2026-12-05 — 2026-12-05
-Edad: La admisión, la edad y la composición dependen de la disciplina; todavía se necesitan normas pertinentes
-Matway: Condicional
-Óscar: Condicional
-Idioma: PT / EN; jurisprudencia ES/EN confirmar
-Entrada: En la página host hay un formulario de registro; obtener reglas de categoría y derecho de entrada directa extranjera
-Costo: Contribution quota, cantidad no registrada
-Limitaciones: No arrastrar 6–11 TJR Mini en ITR automática. Calendario general TJR contiene bloques históricos; aquí la fecha se toma por separado de la página ITR.
+edad: Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.
+Acceso: Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.
+Precio: Calculador internacional actual da en fecha de revisión 950 USD por equipo y 250 USD por acompañante. Página antigua enlazada da 350 / 80 con símbolo $ para noviembre; sin código monetario. Tabla BRL también discrepa en fechas e importes. Confirmar factura y cuota aplicable por escrito; sin efectuar pago.
+Limitaciones: São Paulo · Convention Center Novotel Center Norte. Niveles de registro y grupos de premios no son equivalentes. Reglamento técnico completo 2026 sin acreditar; no aplicar automáticamente parámetros de archivos 2020.
 Fuente: https://internationaltournamentofrobots.org/BRAZIL/
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-04
 
 ### ~#C075 · Pokémon Latin America International 2027
 
@@ -982,7 +982,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios concursos o en una exposición o en un olimpiada, y los adultos no ayudan en la evaluación. La exposición y las olimpiadas en diferentes lugares; se necesitan acompañantes separados.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C664 · RoboLiga 2026 — Sumo Inicial Infantil
 
@@ -995,7 +995,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios concursos o en una exposición o en un proyecto olímpico, ni los adultos ayudan a evaluarlo. La exposición y las olimpiadas en diferentes lugares; se necesitan acompañantes separados.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C665 · RoboLiga 2026 — Sumo Avanzado
 
@@ -1008,7 +1008,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios concursos o en una exposición o en un proyecto olímpico, ni los adultos ayudan a evaluarlo. La exposición y las olimpiadas en diferentes lugares; se necesitan acompañantes separados.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C666 · RoboLiga 2026 — Sumo Inicial Juvenil
 
@@ -1021,7 +1021,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios concursos o en una exposición o en un proyecto olímpico, ni los adultos ayudan a evaluarlo. La exposición y las olimpiadas en diferentes lugares; se necesitan acompañantes separados.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C667 · RoboLiga 2026 — Rescate Inicial
 
@@ -1034,7 +1034,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios concursos o en una exposición o en un olimpiada, y los adultos no ayudan a evaluar. La exposición y las olimpiadas en diferentes lugares; se necesitan acompañantes separados. La verificación técnica y por edad es obligatoria. El PDF Australia Secondary 2026 se ha leído; las normas generales de edad de Australia y la admisión local extranjera no están confirmadas.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C668 · RoboLiga 2026 — Rescate Internacional
 
@@ -1047,7 +1047,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios competidores al mismo tiempo ni en una exposición o en un olimpiado. Los adultos no ayudan a evaluar. Exposición y olimpiadas en diversos lugares; Necesitan escoltas separadas. La verificación por edad y técnica de la categoría es obligatoria. En el plano internacional PDF Edad 14–19 en 1 julio; Entry/Primary no son finales mundiales. Se pueden realizar ajustes locales, Pero la excepción es para los niños. 6/9 no publicado en el texto leído.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C669 · RoboLiga 2026 — Soccer Internacional
 
@@ -1060,7 +1060,7 @@ Entrada: La escuela/institución declara al equipo, firma la autorización de lo
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: Un alumno no se presenta en varios competidores al mismo tiempo ni en una exposición o en un olimpiado. Los adultos no ayudan a evaluar. Exposición y olimpiadas en diversos lugares; Necesitan escoltas separadas. La verificación por edad y técnica de la categoría es obligatoria. En el plano internacional PDF Edad 14–19 en 1 julio; Entry/Primary no son finales mundiales. Se pueden realizar ajustes locales, Pero la excepción es para los niños. 6/9 no publicado en el texto leído.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C670 · RoboLiga Feria 2026 — Robot autónomo / Inicial
 
@@ -1073,7 +1073,7 @@ Entrada: Solicitud de la escuela para el proyecto de exposición, Permiso de pat
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: El equipo es de Matway. 9 y Oscar 6 no satisface la edad del participante de mayor edad 10–13/14–18. No se ha confirmado la participación de funcionarios subalternos con un alto nivel adecuado. Un estudiante no puede combinar Feria y los Juegos Olímpicos.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C671 · RoboLiga Feria 2026 — Robot autónomo / Avanzada
 
@@ -1086,7 +1086,7 @@ Entrada: Solicitud de la escuela para el proyecto de exposición, Permiso de pat
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: El equipo es de Matway. 9 y Oscar 6 no satisface la edad del participante de mayor edad 10–13/14–18. No se ha confirmado la participación de funcionarios subalternos con un alto nivel adecuado. Un estudiante no puede combinar Feria y los Juegos Olímpicos.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C672 · RoboLiga Feria 2026 — Control automatizado / Inicial
 
@@ -1099,7 +1099,7 @@ Entrada: Solicitud de la escuela para el proyecto de exposición, Permiso de pat
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: El equipo es de Matway. 9 y Oscar 6 no satisface la edad del participante de mayor edad 10–13/14–18. No se ha confirmado la participación de funcionarios subalternos con un alto nivel adecuado. Un estudiante no puede combinar Feria y los Juegos Olímpicos.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C673 · RoboLiga Feria 2026 — Control automatizado / Avanzada
 
@@ -1112,20 +1112,20 @@ Entrada: Solicitud de la escuela para el proyecto de exposición, Permiso de pat
 Costo: No se encontró contribución en la página de lectura; especificar
 Limitaciones: El equipo es de Matway. 9 y Oscar 6 no satisface la edad del participante de mayor edad 10–13/14–18. No se ha confirmado la participación de funcionarios subalternos con un alto nivel adecuado. Un estudiante no puede combinar Feria y los Juegos Olímpicos.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### # E048 · RoboLiga 2026 ♫ visitar las olimpiadas y las ferias
 
 Fecha: 2026-11-13 — 2026-11-13
-Edad: La edad y la clase deben ser confirmadas
-Condicionalmente, tenemos que permitir que el organizador entre en contacto
-Condicionalmente, tenemos que permitir al organizador.
+edad: Formulario admite expresamente visitantes adultos y menores; inscripción separada por persona. Edades competitivas no se aplican automáticamente a visitantes.
+Matvey: Sí como visitante según formulario; inscripción y entrada efectiva aparte.
+Oscar: Sí como visitante según formulario; inscripción y entrada efectiva aparte.
 Idioma: ES candidato; idioma del juez: confirmación
-Entrada: Rellenar el formulario de visita una vez que se haya confirmado la entrada de los niños; la competencia requiere otra solicitud
+Acceso: Formulario directo hasta 7 de noviembre admite familiares y visitantes independientes, adultos y menores. Cada padre y cada hijo se registra por separado. Excepción de cantidad de alumnos en solicitud adulta corresponde a docentes / directivos con grupo escolar.
 Costo: No se encontró contribución en la página de lectura; especificar
-Limitaciones: Desde las 08:00, sólo se han encontrado delegaciones y profesores de las Olimpíadas y Feria en diferentes edificios; no se ha encontrado el costo de las visitas en las páginas que se leen.
+Limitaciones: Feria admite visitantes desde 09:00; desde 08:00 solo delegaciones expositoras. Precio de entrada sin publicar; solicitud no equivale a entrada confirmada ni competición.
 Fuente: https://roboliga.edu.ar/edicion-2026/default.asp
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-04
 
 ### C674 · Ceibal Uruguay — 13ª Olimpíada de Robótica, Programación y Videojuegos 2026
 
@@ -1945,6 +1945,84 @@ Costo: Aclarar la tarifa actual de la selección
 Limitaciones: No se encontró una nueva exposición de robótica de fecha nueva.. Antiguos Astra / 3D / Campus Party no son nuevos acontecimientos 2026. Un programa público gratuito requiere una negociación separada.
 Fuente: https://muci.org/
 Comprobado: 2026-10-01
+
+### C1191 · ITR Argentina 2027 · Buenos Aires
+
+Fecha: 2027-05-01 — 2027-05-01
+edad: Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.
+Acceso: Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.
+Precio: Calculador internacional: al menos 90 días antes — 750 USD por equipo / 50 USD por acompañante; 60–89 — 850 / 150; 15–59 — 950 / 250. Último intervalo marcado parcialmente provisional. Lectura de tarifa del formulario, no factura aceptada; convocatoria, equipo, alojamiento y viaje aparte.
+Limitaciones: Niveles generales de edad y BASIC / ADVANCED de premios no son intercambiables. Instrucciones enlazadas contienen bloques históricos 2024/2025; confirmar aplicación a esta edición. Plaza, idioma y challenge concreto no equivalen a participación aceptada.
+Fuente: https://internationaltournamentofrobots.org/ARGENTINA/
+Se ha comprobado: 2026-11-04
+
+### C1193 · RoboLiga Virtual 2026 · Sumo
+
+Fecha: 2026-09-26 — 2026-11-07
+edad: Fútbol / Rescate generales: todas las edades. Sumo Infantil: todos al menos 9 y mayor máximo 12 al 01.07.2026; Juvenil mayor hasta 18; Libre sin límite. Calendario 2026 unificó todos los Sumo en una llave.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.
+Acceso: Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.
+Precio: FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.
+Limitaciones: Fechas de rondas: 26.09, 10.10, 31.10, 07.11. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.
+Fuente: https://virtual.roboliga.ar/
+Se ha comprobado: 2026-11-04
+
+### C1194 · RoboLiga Virtual 2026 · Fútbol
+
+Fecha: 2026-09-19 — 2026-10-17
+edad: 2026: categoría general para todas las edades; próxima convocatoria se comprueba aparte.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.
+Acceso: Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.
+Precio: FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.
+Limitaciones: Fechas de rondas: 19.09, 26.09, 03.10, 10.10, 17.10. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.
+Fuente: https://virtual.roboliga.ar/
+Se ha comprobado: 2026-11-04
+
+### C1195 · RoboLiga Virtual 2026 · Rescate
+
+Fecha: 2026-09-19 — 2026-10-31
+edad: 2026: todas las edades y países. Selección argentina exige 13–18 al 01.07.2026 y condiciones adicionales.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.
+Acceso: Plazo anunciado de inscripción 2026 — 4 de septiembre 23:59 UTC−3 — vencido; lista de rondas actual corresponde a equipos clasificados. Admisión tardía sin anunciar. Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.
+Precio: FAQ declara temporada 2026 gratuita; ordenador e internet propios. Tarifa de temporada nueva aún desconocida.
+Limitaciones: Fechas de rondas: 19.09, 03.10, 17.10, 31.10. Intervalo de calendario no implica participación diaria. Cuartos Sumo en noviembre sin día exacto; final nacional Rescate también TBA.
+Fuente: https://virtual.roboliga.ar/
+Se ha comprobado: 2026-11-04
+
+### C1196 · RoboLiga Virtual · próxima convocatoria y preparación en casa
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria nueva aún sin anunciar; edades 2026 son historia, no reglas de temporada futura.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Reglas y materiales organizativos publicados en español. Juego evaluado por software; confirmar idioma de ayuda en vivo y selección presencial aparte.
+Acceso: Rescate 2026 acoge expresamente participantes de todos los países y edades. Selección argentina para RoboCup es otra vía: equipo argentino según condiciones del organizador, edad 13–18 al 01.07.2026, más de 50% del resultado ponderado, tarea final individual presencial en CABA. Sin prometer esta vía nacional a la familia.
+Precio: FAQ 2026: gratis; condiciones de próxima convocatoria y equipo propio aparte.
+Limitaciones: Vía de preparación, no registro abierto. Matvey podría necesitar cumplir 9 antes de corte fijo; Oscar no entra en anterior Infantil, pero existían Libre y disciplinas generales.
+Fuente: https://virtual.roboliga.ar/
+Se ha comprobado: 2026-11-04
+
+### C1198 · ITR Chile 2026 · Santiago · archivo
+
+Fecha: 2026-09-05 — 2026-09-06
+edad: Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.
+Acceso: Archivo 2026; convocatoria futura Chile aún sin confirmar. No repetir automáticamente estas fechas en 2027.
+Precio: Tarifa histórica de esta etapa sin verificar; precios internacionales actuales no se trasladan a temporada pasada.
+Limitaciones: Geografía histórica de serie internacional; no oportunidad activa de inscripción.
+Fuente: https://internationaltournamentofrobots.org/CHILE/
+Se ha comprobado: 2026-11-04
 
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 

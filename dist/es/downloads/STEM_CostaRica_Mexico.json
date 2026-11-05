@@ -6627,6 +6627,56 @@
       ]
     },
     {
+      "id": "C1197",
+      "block": "Competiciones",
+      "title": "ITR Mexico 2028 · Cancún · fechas discrepantes",
+      "country": "México",
+      "iso": [
+        "MEX"
+      ],
+      "region": "América del Norte",
+      "city": "Cancún · Hotel Hyatt Ziva Cancun",
+      "start": "",
+      "end": "",
+      "deadline": "",
+      "period": "Página México: 29–30 de abril de 2028; calculador: 1 de abril de 2028. Sin fecha de calendario hasta resolver discrepancia.",
+      "date_status": "no se han anunciado las fechas",
+      "age": "Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.",
+      "mat": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "osc": "Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.",
+      "format": "2–4 estudiantes según formulario general, hasta 2 mentores según página de registro; admite INDEPENDENT TEAM. Confirmar composición y corte de edad de disciplina concreta.",
+      "entry": "Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.",
+      "gear": "Resumen contiene 12 disciplinas, pero dimensiones, masa y plataforma dependen de reglamento actual de categoría. Carpetas Rescue 2020 enlazadas no se consideran reglas de temporada nueva.",
+      "language": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.",
+      "cost": "Tarifa y plazo no se pueden calcular con fiabilidad con fechas de origen distintas; confirmar edición y factura.",
+      "scope": "international",
+      "level": "Torneo internacional del organizador; sin final mundial automático",
+      "importance_reason": "Valoración editorial por acceso y utilidad práctica; clasificación mundial independiente sin acreditar.",
+      "reward": "Puesto / premio solo según acta oficial. Nombre internacional ITR no implica final WRO / FIRST / RoboCup. BASIC / ADVANCED de premios difieren de Level 1–4 de registro.",
+      "priority": "P3 — dos fechas distintas de fuentes",
+      "action": "Confirmar reglamento local, edad de cada hijo, admisión extranjera independiente, Performance Sheet, moneda y factura final antes de pagar.",
+      "source": "https://internationaltournamentofrobots.org/MEXICO/",
+      "references": [
+        {
+          "label": "Calculador con otra fecha inicial",
+          "url": "https://internationaltournamentofrobots.org/contribution/"
+        }
+      ],
+      "proof": "Leídas por separado página nacional y código del calculador actuales; discrepancia de fechas conservada explícitamente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Referencia lejana para base mexicana de familia. Sin trasladar a 2027 ni añadir al ICS como sesión o competición confirmada.",
+      "themes": [
+        "robotics"
+      ],
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "event_page"
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",

@@ -1539,6 +1539,19 @@ Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se perm
 Fuente: https://www.robojam.live/mexico
 Se ha comprobado: 2026-11-04
 
+### C1197 · ITR Mexico 2028 · Cancún · fechas discrepantes
+
+Fecha: Página México: 29–30 de abril de 2028; calculador: 1 de abril de 2028. Sin fecha de calendario hasta resolver discrepancia.
+edad: Formulario general actual: Level 1 según mayor de 6–11; otros niveles aparte. Mínimo del menor sin indicar. BASIC de premios en documento enlazado exige todos de 6–14; agrupación distinta, confirmar aplicación a etapa elegida.
+Matvey: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Oscar: Condicional: grupo de edad parece posible, pero confirmar disciplina elegida, integrante menor y equipo independiente extranjero.
+Idioma: Existen documentos EN/ES/PT. Idioma de jueces, entrevista técnica y apoyo infantil en etapa concreta sin confirmar.
+Acceso: Crear equipo y robot en RoboLeague → Performance Sheet válida e índice de eficiencia → registro separado por disciplina y etapa → acordar cuota y admisión. Formulario ofrece etapas actuales, pero conserva texto de clasificación 2023/2024; no trasladar cuotas a 2027.
+Precio: Tarifa y plazo no se pueden calcular con fiabilidad con fechas de origen distintas; confirmar edición y factura.
+Limitaciones: Referencia lejana para base mexicana de familia. Sin trasladar a 2027 ni añadir al ICS como sesión o competición confirmada.
+Fuente: https://internationaltournamentofrobots.org/MEXICO/
+Se ha comprobado: 2026-11-04
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

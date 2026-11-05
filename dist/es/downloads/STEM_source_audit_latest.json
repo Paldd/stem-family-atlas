@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 3981,
-    "competition_cards": 1188,
+    "cards": 3990,
+    "competition_cards": 1197,
     "event_cards": 208,
     "camp_cards": 2585,
-    "league_profiles": 144,
+    "league_profiles": 145,
     "major_exhibition_cards": 121,
     "vex_cards": 469,
     "countries_with_records": 83,
@@ -34,9 +34,9 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1312,
+      "total": 1313,
       "countries_with_records": 14,
-      "competitions": 524,
+      "competitions": 525,
       "events": 51,
       "major_exhibitions": 10,
       "camps": 737,
@@ -48,9 +48,9 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 212,
+      "total": 218,
       "countries_with_records": 9,
-      "competitions": 122,
+      "competitions": 128,
       "events": 9,
       "major_exhibitions": 6,
       "camps": 81,
@@ -62,9 +62,9 @@
       "regions": [
         "Europa"
       ],
-      "total": 1322,
+      "total": 1324,
       "countries_with_records": 22,
-      "competitions": 172,
+      "competitions": 174,
       "events": 65,
       "major_exhibitions": 44,
       "camps": 1085,
@@ -1144,16 +1144,21 @@
     },
     {
       "id": "itr",
-      "name": "ITR Brazil",
-      "group": "regional",
+      "name": "ITR · serie internacional TJR / RoboLeague",
+      "group": "international",
       "event_ids": [
-        "C066"
+        "C066",
+        "C1190",
+        "C1191",
+        "C1192",
+        "C1197",
+        "C1198"
       ],
-      "cards": 1,
-      "future_dated": 1,
-      "linked_card_count": 1,
+      "cards": 6,
+      "future_dated": 4,
+      "linked_card_count": 6,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
-      "source": "https://internationaltournamentofrobots.org/BRAZIL/",
+      "source": "https://internationaltournamentofrobots.org/contribution/",
       "new": false
     },
     {
@@ -3042,6 +3047,23 @@
       "linked_card_count": 11,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://worldrobotleague.net/",
+      "new": false
+    },
+    {
+      "id": "roboliga-virtual",
+      "name": "RoboLiga Virtual",
+      "group": "regional",
+      "event_ids": [
+        "C1193",
+        "C1194",
+        "C1195",
+        "C1196"
+      ],
+      "cards": 4,
+      "future_dated": 3,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://virtual.roboliga.ar/",
       "new": false
     },
     {
