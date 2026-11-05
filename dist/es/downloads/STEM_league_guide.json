@@ -433,7 +433,7 @@
         "id": "vex",
         "name": "VEX Robotics",
         "group": "core",
-        "age_summary": "IQ Elementary ≤12 / Middle ≤15; V5 ≤19; VEX U  después de la escuela",
+        "age_summary": "IQ Elementary ≤12 / Middle ≤15; V5 ≤19; VEX U — después de secundaria; AI / AIR desde 14",
         "age_tags": [
           "6",
           "9",
@@ -476,11 +476,19 @@
           },
           {
             "name": "VEX AI",
-            "age": "Post-secondary o menor",
+            "age": "Desde 14 años; hasta e incluyendo post-secondary",
             "team": "de 1",
             "hardware": "por manual de VEX AI",
-            "age_rule": "revisar la categoría y el paso disponible",
-            "entry": "un itinerario técnico separado"
+            "age_rule": "Según fecha de nacimiento real, no al 1 de junio de fin de temporada.",
+            "entry": "Matvey y Oscar menores de 14; programa futuro. Situación educativa local y torneo aparte."
+          },
+          {
+            "name": "VEX AIR",
+            "age": "Desde 14 años; hasta e incluyendo post-secondary",
+            "team": "Desde 1 alumno",
+            "hardware": "Dron y equipo según AIR manual vigente; programa separado, no IQ.",
+            "age_rule": "Según fecha de nacimiento real, no al 1 de junio de fin de temporada.",
+            "entry": "Matvey y Oscar menores de 14; programa futuro. Situación educativa local y torneo aparte."
           }
         ],
         "event_ids": [
@@ -952,7 +960,56 @@
           "C1155",
           "C1156",
           "C1157",
-          "C1158"
+          "C1158",
+          "C121",
+          "C123",
+          "C132",
+          "C139",
+          "C199",
+          "C200",
+          "C220",
+          "C228",
+          "C232",
+          "C234",
+          "C244",
+          "C254",
+          "C261",
+          "C270",
+          "C272",
+          "C277",
+          "C329",
+          "C355",
+          "C389",
+          "C392",
+          "C403",
+          "C408",
+          "C410",
+          "C415",
+          "C427",
+          "C435",
+          "C438",
+          "C447",
+          "C448",
+          "C455",
+          "C461",
+          "C474",
+          "C475",
+          "C496",
+          "C513",
+          "C514",
+          "C533",
+          "C541",
+          "C546",
+          "C555",
+          "C563",
+          "C567",
+          "C574",
+          "C576",
+          "C577",
+          "C581",
+          "C597",
+          "C606",
+          "C607"
         ],
         "legacy_ids": [
           "C024"
@@ -965,14 +1022,18 @@
         "requirements": [
           "La página de elegibilidad no indica la edad general inferior del coeficiente intelectual: para los seis años se necesita una autorización local y autonomía, no sólo el cumplimiento de la frontera superior.",
           "alumno  un equipo por programa y nivel; formar un equipo con un nivel general adecuado.",
-          "Los equipos escolares y públicos pueden comparar el juego con el manual."
+          "Los equipos escolares y públicos pueden comparar el juego con el manual.",
+          "v153 · Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución."
         ],
         "nuances": [
           "El actual camino oficial de Worlds se realiza a través de events.vex.com. RECF Engage tiene sus propios eventos y campeonatos; la misma marca de detalles no une cuotas.",
           "Entrar a un torneo internacional normal y clasificar a los Worlds  resultados diferentes.",
           "Matvey y Oscar pueden ser candidatos del equipo de IQ Elementary general por la edad superior; el mínimo local exacto y el papel de cada niño lo confirman.",
           "Paraguay LNR: el primer lanzamiento se llevó a cabo el 5 de septiembre. All Grade Levels no define la cuota nacional o la representación extranjera; no se han encontrado las siguientes fechas concretas.",
-          "v132 · México: Puebla 3–5 de marzo 2027 IQ Middle/V5 High, Chihuahua 26 enero IQ Middle y Juárez 27–29 enero V5 High — de las categorías. June 1 age caps no indican la edad inferior; confirmar el nivel y la admisión local. los hermanos primero comparar IQ Elementary C180/C513/C514/C597. USD 0 en el portal nacional no es definitivo fee; Chihuahua Invitational y payment year 2026 Requieren más detalles."
+          "v132 · México: Puebla 3–5 de marzo 2027 IQ Middle/V5 High, Chihuahua 26 enero IQ Middle y Juárez 27–29 enero V5 High — de las categorías. June 1 age caps no indican la edad inferior; confirmar el nivel y la admisión local. los hermanos primero comparar IQ Elementary C180/C513/C514/C597. USD 0 en el portal nacional no es definitivo fee; Chihuahua Invitational y payment year 2026 Requieren más detalles.",
+          "v153 · Bases Robótica Móvil locales de 2026–2027 exigen mínimo 3 alumnos en primaria / secundaria, un docente o asesor responsable y un robot. El mínimo global de 2+ para IQ no elimina requisito local: dos hermanos no bastan.",
+          "v153 · Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.",
+          "v153 · Política del 27 de octubre de 2026: VEX AI y AIR mínimo de 14 según nacimiento real. IQ / V5 siguen usando edad al 1 de junio del año en que termina temporada."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -980,11 +1041,6 @@
           {
             "title": "VEX: el camino oficial",
             "url": "https://www.vexrobotics.com/official-path",
-            "checked": "2026-09-30"
-          },
-          {
-            "title": "Eligibilidad: actualización 15.09.2026",
-            "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
             "checked": "2026-09-30"
           },
           {
@@ -1006,9 +1062,35 @@
             "title": "VII Campeonato Internacional de Robótica y habilidades STEM · VEX V5 High",
             "url": "https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5435.html",
             "checked": "2026-10-06"
+          },
+          {
+            "title": "Política global de edad y equipos · 27 de octubre de 2026",
+            "url": "https://library.globalrobotics.org/hc/en-us/articles/51371951587732-Student-Eligibility-Policy",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "México · integrantes y documentos escolares",
+            "url": "https://academiastem.org/pdf/BasesRob%C3%B3ticaM%C3%B3vil2026-2027.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Girl Powered · solo equipos femeninos",
+            "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20GIRL%20POWERED.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "International · categoría mobile gratuita y contradicción del cupo mundial",
+            "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%20Campeonato%20Internacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026_2027v2.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "National · año de portada discrepa de temporada interior",
+            "url": "https://academiastem.org/pdf/Convocatoria%20de%20participaci%C3%B3n%20%2018vo.%20Campeonato%20Nacional%20de%20Rob%C3%B3tica%20y%20Habilidades%20STEM%202026v2.pdf",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado."
+        "evidence": "Actualizadas política global y documentos locales. Se distinguen mínimo global de 2+ / local de 3+, derecho a participar y cupo mundial confirmado.",
+        "checked": "2026-11-05"
       },
       {
         "id": "rcj",

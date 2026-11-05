@@ -82,6 +82,8 @@ from camp_americas_v151 import enrich_v151
 enrich_v151(d)
 from asia_exhibitions_v152 import enrich_v152
 enrich_v152(d)
+from nearby_vex_rules_v153 import enrich_v153
+enrich_v153(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -169,6 +171,7 @@ if 'camp_focus' in d:
     d['completeness_audit']['camp_focus']=d['camp_focus']
 if 'completeness_audit' in d:
     audit=d['completeness_audit']
+    audit['calendar_counts_asof']=d['asof']
     audit['counts'].update(cards=len(d['events']),competition_cards=sum(e['block']=='Соревнования' for e in d['events']),
         event_cards=sum(e['block']=='События' for e in d['events']),camp_cards=sum(e['block']=='Лагеря' for e in d['events']),
         league_profiles=len(d['league_guide']['profiles']),major_exhibition_cards=sum(bool(e.get('exhibition_tier')) for e in d['events']))
@@ -177,7 +180,7 @@ if 'completeness_audit' in d:
         a=[e for e in d['events'] if e['id'] in p['event_ids'] and e['block']=='Соревнования']
         related=[e for e in d['events'] if e['id'] in p['event_ids']]
         inventory.append(dict(id=p['id'],name=p['name'],group=p['group'],event_ids=[e['id'] for e in a],cards=len(a),
-            future_dated=sum(bool(e['start']) and e['end']>=audit['checked'] for e in a),
+            future_dated=sum(bool(e['start']) and e['end']>=d['asof'] for e in a),
             linked_card_count=len(related),
             status='Есть профиль и карточки; местный охват частичный' if a else 'Учебная / посещаемая программа; конкурсных этапов нет' if related else 'Только профиль; календарь этапов не добавлен',
             source=p['sources'][0]['url'],new=p['id'] in audit['new_profiles']))

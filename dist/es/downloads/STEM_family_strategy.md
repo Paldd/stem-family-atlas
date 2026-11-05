@@ -253,6 +253,7 @@ FLL combina robótica, investigación, innovación y protección; lo elegiría p
 - En tres años de experiencia de beginner-camp, sólo se puede elegir si el diagnóstico muestra lagunas; si se buscan objetivos adecuados, no la edad en la publicidad.
 - RoboRAVE Puerto Vallarta: para SumoLEGO / FastBot / a-MAZE-ing buscar compañero 8–11, sin inscribir automáticamente al hermano menor. Primero programa propio y pruebas repetibles, después challenge y factura acordados.
 - Infomatrix: prototipo de ingeniería o programa propio, pruebas e informe declarando ayuda AI. Equipo familiar hasta 3 alumnos posible; nivel mixto según mayor. Para Xalapa 27–28 de noviembre comprobar curso y país del equipo antes del plazo 6 de noviembre.
+- VEX México 2026/27: hermanos necesitan tercer integrante IQ, mentor y ruta escolar acreditada. Girl Powered no los admite; antes de apostar por Worlds aclarar requisito contradictorio de participación obligatoria. Preparación con notebook y explicación de código propio; para proyecto conjunto próximo comparar Infomatrix ya verificado.
 
 Estación siguiente: temporada siguiente: robot/programado por su cuenta, diario de pruebas, función personal de protección, resultado oficial o progreso razonable.
 
@@ -266,6 +267,7 @@ Explore en México  un formato de demostración con el reconocimiento de la part
 - Un proyecto en línea adicional sólo con una autoría comprensible y las reglas de un programa determinado.
 - En 2027 RoboRAVE ES 8+ aún temprano según tablas globales publicadas. Mantener vía educativa / competitiva menor y exposición familiar; modificación coreana por colegio requiere confirmación propia.
 - Infomatrix permite desde 5 años y equipos familiares independientes: asignar a Oscar parte propia y comprensible del proyecto. Codi-Bot solo último preschool o curso 1–3, no cualquier niño de 6. TecPro Artifact exige 6 cumplidos; considerar cumpleaños tardío.
+- VEX México 2026/27: hermanos necesitan tercer integrante IQ, mentor y ruta escolar acreditada. Girl Powered no los admite; antes de apostar por Worlds aclarar requisito contradictorio de participación obligatoria. Preparación con notebook y explicación de código propio; para proyecto conjunto próximo comparar Infomatrix ya verificado.
 
 Después de la temporada, puede reunir su parte, cambiar la secuencia, comprobar el resultado y explicar la idea. No es necesario que el mayor se acerque a los premios.
 

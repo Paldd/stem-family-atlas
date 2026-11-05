@@ -23,7 +23,7 @@ Hay registros concretos de 85 de 249 países y territorios; países completament
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobertura.
+VEX: 518 de 1265 fichas de competiciones (40.9%). Existe un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -93,25 +93,25 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 80 tarjetas, 9 con fechas exactas futuras, perfil y tarjetas, cobertura parcial local. https://wro-association.org/competition/categories/
+- **WRO**: 80 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
 - **FIRST**: 45 tarjetas, 24 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.firstinspires.org/programs/fll/
-- **VEX Robotics**: 469 tarjetas, 465 con fechas exactas futuras. https://www.vexrobotics.com/official-path
+- **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
-- **RECF Robotics**: 5 tarjetas, 4 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
+- **RECF Robotics**: 5 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
 - **WER**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
-- **RoboMatrix / Infomatrix**: 59 fichas, 37 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
+- **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
-- **ENJOY AI**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.enjoyaiglobal.org/
+- **ENJOY AI**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
 - *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
-- * International Robot Olympiad**: 11 tarjetas, 11 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.iroc.org/home?l=ko&s=10280
+- **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
 - * International Robot Challenge · Egypt**: 1 tarjeta, 0 con fechas exactas futuras. https://www.international-robotchallenge.org/competition/
-- **TechnoXian**: 5 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.technoxian.com/events
+- **TechnoXian**: 5 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/events
 - **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 1 tarjeta, 0 con fechas exactas futuras. https://codeavour.org/
@@ -121,20 +121,20 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
 - **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
 - **ITR · serie internacional TJR / RoboLeague**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://internationaltournamentofrobots.org/contribution/
-- **TecPro Challenge · LATAM / Virtual**: 10 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tdrobotica.co/tecpro-challenge-2026-2027
+- **TecPro Challenge · LATAM / Virtual**: 10 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tdrobotica.co/tecpro-challenge-2026-2027
 - **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
 - **RoboJam**: 10 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
 - *RoboLiga · Argentina**: 11 tarjetas, 11 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://roboliga.edu.ar/edicion-2026/default.asp
 - **STEMLab Sumo League**: 5 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://stemlab.co.za/sumo-robotics-league/
 - **FCTI · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf
-- **LUVÁ · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.torneoluva.com
+- **LUVÁ · Costa Rica**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.torneoluva.com
 - ¡Play! Pokémon**: 1 tarjeta, 0 con fecha exacta futura. https://championships.pokemon.com/en-us/about/2027-season-changes/
 - **Botball**: 0 tarjetas, 0 con fechas exactas futuras. https://www.kipr.org/botball
 - *RoboMaster · University**: 0 tarjetas, 0 con fechas exactas futuras. https://www.robomaster.com/en-US/robo/rm
 - **IOAI · Olimpiadas de IA**: 0 tarjetas, 0 con fechas exactas futuras. https://ioai-official.org/wp-content/uploads/2025/08/IOAI-regulations.pdf
 - **IOI - Olimpiadas de informática**: 0 tarjetas, 0 con fechas exactas futuras, solo perfil; no se ha añadido un calendario de etapas. https://ioinformatics.org/files/regulations24-web.pdf
 - *Regeneron ISEF**: 0 tarjetas, 0 con fechas exactas futuras. https://www.societyforscience.org/isef/international-rules/rules-for-all-projects/
-- **FIRST Global Challenge**: 3 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://first.global/fgc/
+- **FIRST Global Challenge**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/fgc/
 - **FIRA RoboWorld Cup / Youth**: 1 tarjeta, 0 con fechas exactas futuras. https://firaworldcup.org/news/fira-roboworld-cup-and-summit-2026-call-for-paper/
 - *Universal Robotics Challenge (URC)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.urc21.org/en/overview.php
 - **World Robot Contest (CIE)**: 1 tarjeta, 0 con fechas exactas futuras. https://www.worldrobotconference.com/contest/regulations/2632.html
@@ -148,22 +148,22 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
 - **MARC Taiwan**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 tarjetas, 5 tarjetas con fechas exactas futuras. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
-- *OBR / CBR / LARC · Brazil**: 16 tarjetas, 9 con fechas exactas futuras. https://robotica.robocup.org.br/
-- **Liga Robótica Chile**: 6 tarjetas, 5 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.torneorobotica.cl/
+- **OBR / CBR / LARC · Brazil**: 16 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotica.robocup.org.br/
+- **Liga Robótica Chile**: 6 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.torneorobotica.cl/
 - **Technovation Girls**: 1 tarjeta, 0 con fechas exactas futuras. https://technovationchallenge.org/
-- **Rcube Robotics League**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.technoxian.com/rcube-robotic-league
+- **Rcube Robotics League**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/rcube-robotic-league
 - **BAFTA Young Game Designers**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bafta.org/programmes/young-game-designer/
-- **VisionRover Challenge · CENFOTEC**: 1 tarjeta, 1 con fechas exactas futuras. https://ucenfotec.ac.cr/expocenfo/
+- **VisionRover Challenge · CENFOTEC**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ucenfotec.ac.cr/expocenfo/
 - **Global Robotics Games · GRG**: 4 tarjetas, 0 con fechas exactas futuras. https://www.globalroboticsgames.com/
-- **Liga Nacional de Robótica · Argentina**: 10 tarjetas, 10 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://lnr-argentina.com.ar/
+- **Liga Nacional de Robótica · Argentina**: 10 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://lnr-argentina.com.ar/
 - *Olippiada Brasileira de Robótica · OBR**: 7 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://obr.robocup.org.br/wp-content/uploads/2026/03/OBR2026_MP_Manual-de-Inscricao.pdf%20
 - **Competição Brasileira de Robótica · CBR Petrobras**: 4 tarjetas, 4 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://cbr.robocup.org.br/index.php/categorias/
-- **Mostra Nacional de Robótica · MNR**: 4 tarjetas, 4 tarjetas con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://mnr.robocup.org.br/cronograma/
+- **Mostra Nacional de Robótica · MNR**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://mnr.robocup.org.br/cronograma/
 - **Liga Nacional de Robótica · Paraguay / VEX**: 1 tarjeta, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5257.html
-- **Global Appathon · MIT App Inventor**: 2 tarjetas, 2 con fechas exactas futuras. https://globalappathon.org/
+- **Global Appathon · MIT App Inventor**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://globalappathon.org/
 - *Games for Change · Student Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://learn.gamesforchange.org/student-challenge
 - *Astro Pi · Proyecto de capacitación espacial**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación/alumnos; no hay etapas competitivas. https://astro-pi.org/mission-zero/eligibility
-- **Avishkaar League ·IRC / Makaathon / CodeQuest / Socker**: 13 tarjetas, 8 con fechas exactas futuras. https://community.avishkaar.cc/avishkaar-league-2026
+- **Avishkaar League · IRC / Makeathon / CodeQuest / Soccer**: 13 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://community.avishkaar.cc/avishkaar-league-2026
 - **Robotek Grand Tournament ·Kazajstán / Taiwán**: 2 tarjetas, 2 con fechas exactas futuras. https://rgt.robotek.kz/
 - **RoboLand · Kazajstán**: 2 tarjetas, 0 con fechas exactas futuras. https://www.gov.kz/memleket/entities/edu-osakarovka/press/news/details/1141030?lang=kk
 - **CazRobotics · KazRoboSport / Project / RoboBalapan**: 5 tarjetas, 0 con fechas exactas futuras. https://t.me/s/kazrobotics2020
@@ -228,15 +228,15 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - **WRO Singapore · Space Faculty national route**: 2 tarjetas, 0 con fechas exactas futuras. https://spacefaculty.asia/world-robot-olympiad/
 - *Hong Kong Winter Robot Challenge2027 · remote video**: 6 tarjetas, 6 con fechas exactas futuras. https://www.peachcp.com/wro-hk/elementor-%E9%A0%81%E9%9D%A2-8325/
 - **FIRST LEGO League México · cuatro rutas de BIOGLOW 2026/27**: 6 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://www.firstlegoleagues.mx/preguntas-frecuentes/
-- **LATI / LTRC Tabasco · Junior y RoboMatrix regional**: 3 tarjetas, 3 con fechas exactas futuras. https://laliga.lati.mx/convocatoria/
+- **LATI / LTRC Tabasco · Junior y Regional RoboMatrix**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://laliga.lati.mx/convocatoria/
 - **WRO México · Kinder / Primaria Baja / Elementary**: 3 tarjetas, 0 con fechas exactas futuras. https://wromexico.org/categorias/
 - **FIRST Japan · Explore / Challenge / Future 2026*27**: 11 tarjetas, 10 con fechas exactas futuras. https://firstjapan.jp/events/fll-explore-2026-2027/
-- **VEX IQ Japan · domestic qualification route**: 6 fichas, 5 con fechas exactas futuras. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
+- **VEX IQ Japan · domestic qualification route**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
 - *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
 - **World Robot League / IREA · KoreaOpen**: 11 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldrobotleague.net/
-- **RoboLiga Virtual**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://virtual.roboliga.ar/
-- **Infomatrix · SOLACYT · proyectos**: 40 fichas, 25 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
-- **Robomatrix · Junior / Master**: 17 fichas, 12 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
+- **RoboLiga Virtual**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://virtual.roboliga.ar/
+- **Infomatrix · SOLACYT · proyectos**: 40 fichas, 22 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
+- **Robomatrix · Junior / Master**: 17 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

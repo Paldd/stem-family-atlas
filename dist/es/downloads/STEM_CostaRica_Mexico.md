@@ -541,54 +541,54 @@ Comprobado: 2026-10-06
 ### C337 · CAMPEONATO DE ROBOTICA Y HABILIDADES STEM: GIRL POWERED VEX IQ Robotics Competition
 
 Fecha: 2026-11-30 国 2026-12-01
-Edad: VEX IQ Elementary; normas de edad de C024
-Matway: Condicional: entrada de niños/ equipo mixto no confirmado
-Oscar: Condicional: entrada de niños/ equipo mixto no confirmado
+edad: IQ Elementary por edad; además equipo exclusivamente femenino. Sección 2 de convocatoria establece expresamente composición por género.
+Matvey: No: convocatoria vigente admite solo equipos femeninos.
+Oscar: No: convocatoria vigente admite solo equipos femeninos.
 Idioma: ES htm candidato; especificar el idioma de la judicatura
-Entrada: registro de órdenes en VEX Events, luego solicitud de un torneo; confirmación de entrada, cuota, lugar y pago en el extranjero
-Costo: En el portal se indica FREE/0; especificar los pagos individuales del organizador
-Limitaciones: Código VE-IQ-26-66394: Dirección del catálogo: CALLE 60 NTE 299, ZONA INDUSTRIAL, REVOLUCTION, MERIDA, Yucatán, 97118, Mexico. El título de Open Tournament no anula las invitaciones, cuotas y selección. La compatibilidad por edades no es igual a la solicitud aceptada. Juzgación: All In-Person Judging. Girl Powered: descripción dirigida a las niñas; aceptación de niños o equipos mixtos no está claramente establecida.
+Acceso: Esta edición no es adecuada para hermanos: convocatoria excluye expresamente equipos masculinos y mixtos. Conservada en calendario mundial; buscar otro recinto IQ adecuado.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/VE-IQ-26-66394.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-05
 
 ### C513 · Torneo Estatal de Chihuahua
 
 Fecha: 2027-01-26 — 2027-01-26
 Edad: VEX IQ Elementary; normas de edad de C024
-Matway: Condicional: la edad es adecuada; se requiere una invitación y confirmación de entrada
-Oscar: Condicional: la edad es adecuada; se requiere una invitación y confirmación de entrada
+Matvey: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
+Oscar: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
 Idioma: ES htm candidato; especificar el idioma de la judicatura
-Entrada: Primero recibir una invitación y confirmar la entrada; después registrar la orden y el torneo
-Costo: En el portal se indica FREE/0; especificar los pagos individuales del organizador
-Las restricciones son: Código RE-VIQRC-26-5421. La dirección del catálogo es Av. Universidad Técnica No 3051, Col. Lote Bravo II, Ciudad Juárez, Chihuahua, 32695, México. El título de Open Tournament no anula la invitación, los cupos y la selección. La compatibilidad de edad no es igual a la solicitud aceptada. Judicia: All In-Person Judging. General Info invita a los equipos Chihuahua; los habitantes de Costa Rica no reciben automáticamente la entrada de la ciudadanía mexicana; el Payment deadline contiene enero 2026 en el torneo 2027.
+Acceso: Invitational para equipos de Chihuahua: primero invitación, después equipo y torneo. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: Portal y Bases locales indican ausencia de cuota Robótica Móvil; confirmar invitación y gastos obligatorios finales. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5421.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-05
 
 ### C514 · 7° Campeonato Internacional de Robótica y habilidades STEM
 
 Fecha: 2027-01-27 — 2027-01-29
 Edad: VEX IQ Elementary; normas de edad de C024
-Matway: Sí, por edad; admisión por separado
-Óscar: Sí por edad; admisión por separado
+Matvey: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
+Oscar: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
 Idioma: ES htm candidato; especificar el idioma de la judicatura
-Entrada: Registrar el VEX IQ de la orden, luego la solicitud del torneo; confirmar la región del comando, los cupos, los asientos y el pago.
-Costo: En el portal se indica FREE/0; especificar los pagos individuales del organizador
-Limitaciones: Código RE-VIQRC-26-5432. Dirección de directorio: Av. Universidad Tecnológica No. 3051, Col. Lote Bravo II, Ciudad Juarez, Chihuahua, 32695, Mexico. Título Open Tournament no cancela las invitaciones, y selección. La compatibilidad de edad no es igual a la solicitud aceptada. La judicatura: All In-Person Judging. Título 7° Internacional, a General Info describe XVIII Nacional; El alcance y el título requieren aclaración. Payment deadline 27/ene/26 cuando se produzca un hecho 2027.
+Acceso: VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5432.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-05
 
 ### C597 · XVIII Campeonato Nacional de Robótica y STEM
 
 Fecha: 2027-03-03 — 2027-03-05
 Edad: VEX IQ Elementary; normas de edad de C024
-Matway: Sí, por edad; admisión por separado
-Óscar: Sí por edad; admisión por separado
+Matvey: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
+Oscar: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
 Idioma: ES htm candidato; especificar el idioma de la judicatura
-Entrada: Comprobar la selección nacional/regional y el cupo; no se considera que la libre entrada internacional haya sido confirmada
-Costo: En el portal se indica FREE/0; especificar los pagos individuales del organizador
-Limitaciones: Código RE-VIQRC-26-5500: Dirección del catálogo: Blvd. Heroes del 5 de mayo 402, Centro histórico de Puebla, Heroica Puebla de Zaragoza, Pue, Puebla, 72000, México. El título de Open Tournament no anula las invitaciones, cuotas y selección. La compatibilidad de edad no es igual a la solicitud aceptada.
+Acceso: VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5500.html
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-05
 
 ### C608 · MakeX México XII — mTiny Treasure Trail
 
@@ -2804,27 +2804,27 @@ Se ha comprobado: 2026-11-04
 
 Fecha: 2027-03-03 — 2027-03-05
 Edad: IQ Middle: máximo 15 años 01.06.2027; 2+ estudiantes en equipo
-Matwey: Condicionalmente, en el límite de edad superior; edad inferior/facultad local, nivel seleccionado y dificultad de verificación. Para los hermanos, primero el IQ Elementary, no es una entrada automática.
-Óscar: Condicionalmente, en el límite de edad superior; edad inferior/grado local, nivel seleccionado y dificultad de verificación. Para empezar, primero, el IQ Elementary, no es una entrada automática.
+Matvey: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
+Oscar: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
 Idioma: ES/EN Judgment and notebook for this mandate are not confirmed; the spa body no guarante the Language.
-Entrada: Confirmar VEX-ID 2026/27, local/foreign eligibility, Middle School, composición y accesibilidad; Open Tournament no es una aceptación personal.
-Costo: Portal USD 0; body promete publicar el valor en la Academia STEM. No se ha fijado el precio final para no anunciarlo gratuitamente.
-Limitaciones: Etapa Nacional; Awards/Cuente Worlds no está establecido en la tarjeta de texto. Juzgando y Skills Yes; nota de libro en papel o USB. Capacity 40 ° límite, no se promete el lugar actual. La política de la edad no publica el umbral inferior; la edad de los hermanos no es razón para inventar un rechazo.
+Acceso: VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5506.html
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-05
 
 ### C1156 · Torneo Estatal de Chihuahua · VEX IQ Middle
 
 Fecha: 2027-01-26 — 2027-01-26
 Edad: IQ Middle: máximo 15 años 01.06.2027; 2+ estudiantes en equipo
-Matwey: Condicionalmente, en el límite de edad superior; edad inferior/facultad local, nivel seleccionado y dificultad de verificación. Para los hermanos, primero el IQ Elementary, no es una entrada automática.
-Óscar: Condicionalmente, en el límite de edad superior; edad inferior/grado local, nivel seleccionado y dificultad de verificación. Para empezar, primero, el IQ Elementary, no es una entrada automática.
+Matvey: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
+Oscar: Condicional: requiere mínimo de 3 integrantes, nivel escolar acreditado y admisión de equipo. Edad y pasaporte mexicano no bastan.
 Idioma: ES/EN Judgment and notebook for this mandate are not confirmed; the spa body no guarante the Language.
-Entrada: Confirmar VEX-ID 2026/27, local/foreign eligibility, Middle School, composición y accesibilidad; Open Tournament no es una aceptación personal.
-Costo: Tarjeta FREE; equipo anual, tecnología, viajes y posibles contribuciones externas por separado.
-Limitaciones: Fase Regional: Type Open Tournament, pero Format In-Person Invitational y saludo a los equipos de Chihuahua; Estado extranjero/otra. Payment 26/ene/2026 se aparta de 2027 y no se ha convertido en una nueva deadline. Juzgadores presenciales y Skills Yes; nota de texto engineering físico. Capacity 99 ° límite, no promesa de lugar actual. La política de edad no publica aquí el umbral inferior; la edad de los hermanos no es razón para inventar un rechazo.
+Acceso: Invitational para equipos de Chihuahua: primero invitación, después equipo y torneo. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: Portal y Bases locales indican ausencia de cuota Robótica Móvil; confirmar invitación y gastos obligatorios finales. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Payment Deadline de página señala enero de 2026 erróneamente para torneo de enero de 2027. Calendario conserva Registration Deadline de 2027; sin planificar pago con año antiguo.
 Fuente: https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-5423.html
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-05
 
 ### C1157 · XVIII Campeonato Nacional de Robótica y STEM · VEX V5 High
 
@@ -2833,11 +2833,11 @@ Edad: V5 High: máximo 19 en 01.06.2027 No terminó. secondary school; 1+ alumno
 Matwey: Condicionalmente, en el límite de edad superior; edad inferior/facultad local, nivel seleccionado y dificultad de verificación. Para los hermanos, primero el IQ Elementary, no es una entrada automática.
 Óscar: Condicionalmente, en el límite de edad superior; edad inferior/grado local, nivel seleccionado y dificultad de verificación. Para empezar, primero, el IQ Elementary, no es una entrada automática.
 Idioma: ES/EN Judgment and notebook for this mandate are not confirmed; the spa body no guarante the Language.
-Entrada: Confirmar VEX-ID 2026/27, local/foreign eligibility, High School, composición y accesibilidad; Open Tournament no es una aceptación personal.
-Costo: Portal USD 0; el costo se publicará en la Academia STEM. FREE o el paquete completo de la familia no está confirmado.
-Limitaciones: Categoría Nacional V5 High; no es el mismo nivel de robot/nivel que IQ. Worlds quota. Juzgadores y Skills Yes; nota de libro en papel o USB. Capacity 99 ° límite, no una promesa de lugar actual. La política de edad no publica el umbral inferior; la edad de los hermanos no es razón para inventar un rechazo.
+Acceso: VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Título y primera página del National PDF enlazado aún imprimen 2026; dentro figuran campeonatos 2026–2027 y ficha vigente VEX Events da 3–5 de marzo de 2027. Fechas de ficha actual; comprobar edición del PDF y tarifa específica de 2027 antes del viaje.
 Fuente: https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5511.html
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-05
 
 ### C1158 · VII Campeonato Internacional de Robótica y habilidades STEM · VEX V5 High
 
@@ -2846,11 +2846,11 @@ Edad: V5 High: máximo 19 en 01.06.2027 No terminó. secondary school; 1+ alumno
 Matwey: Condicionalmente, en el límite de edad superior; edad inferior/facultad local, nivel seleccionado y dificultad de verificación. Para los hermanos, primero el IQ Elementary, no es una entrada automática.
 Óscar: Condicionalmente, en el límite de edad superior; edad inferior/grado local, nivel seleccionado y dificultad de verificación. Para empezar, primero, el IQ Elementary, no es una entrada automática.
 Idioma: ES/EN Judgment and notebook for this mandate are not confirmed; the spa body no guarante the Language.
-Entrada: Confirmar VEX-ID 2026/27, local/foreign eligibility, High School, composición y accesibilidad; Open Tournament no es una aceptación personal.
-Costo: Tarjeta FREE; equipo, robot, campo, viaje y contribuciones externas por separado.
-Limitaciones: Un torneo con nombre internacional, no una final mundial. Payment 27/ene/26 se aparta de 2027; la tarjeta tiene un patrón de judging. VURC/AI Skills Yes no da automáticamente U/AI a V5 High. Juzgaciones presenciales y Skills Yes; nota de pie de página física. Capacity 98 ° límite, no una promesa de lugar actual. La política de edad no publica aquí el umbral inferior; la edad de los hermanos no es razón para inventar un rechazo.
+Acceso: VEX-ID vigente, registro de equipo y confirmación de torneo concreto. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo.
+Precio: PDF oficial enlazado: Robótica Móvil / VEX Air sin cuota de inscripción del evento. Robótica Colaborativa / AI & IoT aparte cuestan 1000 MXN + IVA; no es precio IQ ni automáticamente de VEX AI. Cuota de evento y VEX-ID son distintos. Convocatorias anuncian subsidio del 100% de VEX-ID para equipos mexicanos; confirmar aplicación a familia residente en Costa Rica. Robot, campo, piezas de temporada, portátil, mentor, seguro y viaje no incluidos en esa línea de cero.
+Limitaciones: Se requiere cuaderno de ingeniería y tres resúmenes preparados por alumnos: temporada, código y fuentes externas / credits. Equipo sin código exento de resumen de código. Ayudan a entrevista, no son tres premios separados; el niño debe comprender y explicar su solución. Punto 11 exige acreditar matrícula regular en institución participante con documento escolar vigente. Acordar admisión de club independiente, homeschooling o equipo de Costa Rica a esta convocatoria mexicana; nacionalidad infantil no determina país del equipo. Convocatorias vigentes condicionan validez de ciertos pases mundiales a participar en otros dos campeonatos de temporada, incluido Girl Powered. Sin embargo Girl Powered admite solo equipos femeninos. Contradicción para equipo masculino requiere aclaración escrita; ruta garantizada de hermanos a Worlds sin confirmar. No demuestra prohibición de todos los torneos mundiales VEX para niños. Payment Deadline aún indica enero de 2026; Registration Deadline confirmado corresponde a enero de 2027. Encabezado International y texto general que dice National discrepan; sin deducir cupo Signature / Worlds solo de encabezado.
 Fuente: https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-5435.html
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-05
 
 ### C1159 · Robofest LATAM · Game · Building Bridges · siguiente serie
 

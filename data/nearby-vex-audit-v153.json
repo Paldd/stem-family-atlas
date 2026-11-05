@@ -1,0 +1,58 @@
+{
+  "version": 153,
+  "asof": "2026-11-05",
+  "scope": "Проверены восемь мексиканских VEX-категорий, глобальная IQ-карточка и обновлённая политика возраста. Местный минимум IQ теперь явно 3; Girl Powered закрыт для мальчиков. Опубликованные нулевые mobile-взносы отделены от VEX-ID субсидии и полной поездки; обязательное Girl Powered в условиях некоторых мировых путёвок отмечено как противоречие для братьев. Добавлены AIR 14+ и точные будущие ограничения AI, notebook и школьные документы. Ближайшие FLL и Costa Rica источники перепроверены без выдуманных новых дат; мировой аудит продолжается.",
+  "updated_event_ids": [
+    "C337",
+    "C513",
+    "C514",
+    "C597",
+    "C1155",
+    "C1156",
+    "C1157",
+    "C1158",
+    "C024"
+  ],
+  "new_records": 0,
+  "source_receipts": "data/nearby-vex-source-receipts-v153.json",
+  "response_hashes_verified": 26,
+  "source_requests_failed": 0,
+  "pdf_pages_visually_reviewed": {
+    "rules-mobile": [
+      1,
+      2
+    ],
+    "call-girl": [
+      1,
+      2
+    ],
+    "call-international": [
+      2,
+      3
+    ],
+    "call-national": [
+      1,
+      3
+    ]
+  },
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "organizers_contacted": false,
+  "registrations_or_consent_submitted": false,
+  "payments_made": false,
+  "evidence_gaps": [
+    "Mexican team representation / institution / homeschool admission and third IQ teammate not established.",
+    "World-pass conditions require a female-only event; male / mixed team exception unresolved. No global ban on boys inferred.",
+    "National PDF cover still says 2026, while linked season and portal place event in March 2027; exact current tariff edition needs confirmation.",
+    "Payment-year 2026 typos retained as conflicts; actual 2027 registration deadlines preserved.",
+    "VEX AI and AIR use actual birthday 14+, while IQ/V5 remain June 1 at season end.",
+    "Costa Rica Bebras HTTP body does not expose readable current schedule; FOD link is a 2023 post. No new exact CR dates claimed.",
+    "FLL Mexico FAQ still gives only season cycles and assigned venues; existing category cards preserved without duplicate records.",
+    "Worldwide event, camp, exhibition and school coverage remains partial."
+  ],
+  "existing_official_vex_cards_added_to_league_index": 49,
+  "all_existing_official_vex_cards_indexed": 516,
+  "existing_indexed_cards_dates_not_reverified": true,
+  "all_league_future_counts_use_catalog_asof": true,
+  "historical_audit_source_date_preserved": true
+}
