@@ -470,24 +470,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E080@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Выставка · допуск детей уточнить] GI
- TEX AI Asia 2027
+DTSTAMP:20261105T031517Z
+SUMMARY:[Выставка · детям 6/9 нельзя] GITEX AI Asia 2
+ 027
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270501
 DESCRIPTION:Идея посещения\, не принятая реги
- страция. Найдены trade/business условия 18+ для 
- 2026. Детские правила GITEX AI Asia 2027 не устано
- влены. Взрослый вход: Получить письменн
- ый visitor gate 2027 до покупки детского билета
- . Правило 18+ прочитано в confirmation странице
-  2026. Оно является предупреждением для п
- ланирования\, но не выдаётся за подтвер
- ждённый регламент 2027. Компании: Дата 2027 
- и каталог участников — отдельные сведе
- ния. Не переносить компаний и возрастны
- е исключения с 2026.. Источник проверен 2026
- -09-30.
+ страция. Текущая visitor-страница ограничи
+ вает выставку Trade / Business Professionals 18+\; форм
+ а регистрации интереса тоже требует 18+. 
+ Детского исключения не найдено. Взросл
+ ый вход: Профессиональная регистрация 
+ взрослого\; форма интереса не является 
+ билетом.. 29–30.04.2027 в Marina Bay Sands. Для семьи 
+ планировать отдельный взрослый визит\, 
+ а не детское участие. Старая дополнител
+ ьная запись E187 сохранена как источник. 
+ Компании: Дата 2027 и каталог участников 
+ — отдельные сведения. Не переносить ко
+ мпаний и возрастные исключения с 2026.. Ис
+ точник проверен 2026-11-04.
 LOCATION:Singapore — Marina Bay Sands\, Сингапур
 URL:https://gitexasia.com/
 STATUS:TENTATIVE
@@ -618,7 +620,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E090@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261105T031517Z
 SUMMARY:[Выставка · допуск детей уточнить] In
  dustrial Transformation ASIA-PACIFIC / ITAP 2027
 DTSTART;VALUE=DATE:20270720
@@ -637,9 +639,8 @@ DESCRIPTION:Идея посещения\, не принятая реги
  нии: На текущем сайте доступен архив 2025:
   280 брендов. Это исторический масштаб\, а
   не подтверждённый состав 2027.. Источник 
- проверен 2026-09-30.
-LOCATION:Сингапур / Singapore · Marina Bay Sands\, Сингап
- ур
+ проверен 2026-11-04.
+LOCATION:Singapore · Marina Bay Sands\, Сингапур
 URL:https://industrial-transformation.com/itap-2026-home/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -2205,56 +2206,6 @@ DESCRIPTION:Идея посещения\, не принятая реги
  ерен 2026-10-02.
 LOCATION:Paris · Expo Porte de Versailles\, Франция
 URL:https://vivatech.com/b2b-passes-terms-conditions
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stem-exhibition-E186@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Выставка · допуск детей уточнить] In
- dustrial Transformation Asia-Pacific 2027
-DTSTART;VALUE=DATE:20270720
-DTEND;VALUE=DATE:20270723
-DESCRIPTION:Идея посещения\, не принятая реги
- страция. Детский минимум и категории бу
- дущего visitor2027 не установлены. Взрослый 
- вход: Visitor pass / профессиональная регистр
- ация\; детское правило нужно подтвердит
- ь.. 20–22 июля 2027 в Marina Bay Sands прямо указаны
-  организатором. Билеты\, семейный досту
- п\, программа и список компаний будущег
- о выпуска проверяются отдельно. Компан
- ии: Полный список компаний именно этого
-  выпуска не проверен\; прошлые участник
- и не гарантируют демонстрацию в новом с
- езоне.. Источник проверен 2026-10-02.
-LOCATION:Marina Bay Sands · Singapore\, Сингапур
-URL:https://industrial-transformation.com/ticketing-options/
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stem-exhibition-E187@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Выставка · детям 6/9 нельзя] GITEX AI ASIA 2
- 027
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270501
-DESCRIPTION:Идея посещения\, не принятая реги
- страция. Строго старше 18 лет\; только trade
-  and business professionals. Взрослый вход: Регистра
- ция trade / business visitor\; семейное исключение 
- не заявлено.. Организатор прямо огранич
- ивает выставку посетителями старше 18 л
- ет. Полезен отдельный взрослый маршрут\
- ; дети 6 / 9 не включены в семейный календ
- арь. Компании: Полный список компаний и
- менно этого выпуска не проверен\; прошл
- ые участники не гарантируют демонстрац
- ию в новом сезоне.. Источник проверен 2026
- -10-02.
-LOCATION:Marina Bay Sands · Singapore\, Сингапур
-URL:https://gitexasia.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

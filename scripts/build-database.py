@@ -64,6 +64,8 @@ from nearby_opportunities_v141 import enrich_v141
 enrich_v141(d)
 from camp_winter_v142 import enrich_v142
 enrich_v142(d)
+from camp_asia_v143 import enrich_v143
+enrich_v143(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -135,7 +137,7 @@ if 'schools' in d:
 if 'camp_focus' in d:
     camps=[e for e in d['events'] if e['block']=='Лагеря']
     d['camp_focus']['counts']=dict(records=len(camps),
-        holiday=sum(e['participation'] in ['day_camp','residential','mixed_camp','holiday_workshop'] for e in camps),
+        holiday=sum(e['participation'] in ['day_camp','day_or_online','online_camp','residential','mixed_camp','holiday_workshop'] for e in camps),
         regular=sum(e['participation']=='regular' for e in camps),
         self_paced_materials=sum(bool(e.get('materials_only')) for e in camps),
         boarding=sum(e['participation'] in ['residential','mixed_camp'] for e in camps),
@@ -479,7 +481,7 @@ if audits:
     (out/'STEM_source_audit_latest.json').write_text(latest.read_text())
 with (out/'STEM_catalog.csv').open('w',newline='',encoding='utf-8-sig') as f:
     keys=['id','block','title','country','region','city','start','end','period','date_status','deadline','deadline_label','deadline_note','deadline_utc','registration_status','age','mat','osc','format','participation','entry','gear','language','cost','scope','level','importance_reason','reward','priority','action','source','references','proof','checked','status','note','themes','languages','language_certainty','iso','related_ids','event_code','event_type','event_region','venue','admission_kind','evidence_level','published_start','published_end','sessions','planned_windows','parent_event_id','registration_url','age_reference_date','birth_start','birth_end','team_min','team_max','date_scope','exhibition_tier','visitor_policy','visitor_policy_note','adult_entry','highlights','exhibitors','exhibitor_note','exhibitor_directory_url','historical_editions','public_days','event_group','camp_dossier_slug','camp_programme_id','date_precision','date_rule','attendance_weekdays']
-    keys+=['language_mode','support_languages','provider']
+    keys+=['language_mode','support_languages','provider','canonical_event_id']
     w=csv.DictWriter(f,fieldnames=keys,extrasaction='ignore');w.writeheader();w.writerows({k:json.dumps(e.get(k,''),ensure_ascii=False) if isinstance(e.get(k),(list,dict)) else e.get(k,'') for k in keys} for e in d['events'])
 with (out/'STEM_country_coverage.csv').open('w',newline='',encoding='utf-8-sig') as f:
     w=csv.DictWriter(f,fieldnames=list(coverage[0]));w.writeheader();w.writerows(coverage)
@@ -554,7 +556,7 @@ database_download = package_database(db)
 # retained baseline artifact. Include actual event/score windows and distinct
 # future deadlines. Undated programs and historical-only dates have no VEVENT.
 def calendar_excluded(e):
-    return e['priority'].startswith('P4') or e['date_status']=='Закрыто' or e.get('availability',{}).get('status')=='closed' or (e['mat'].startswith('Нет') and e['osc'].startswith('Нет'))
+    return bool(e.get('canonical_event_id')) or e['priority'].startswith('P4') or e['date_status']=='Закрыто' or e.get('availability',{}).get('status')=='closed' or (e['mat'].startswith('Нет') and e['osc'].startswith('Нет'))
 def ical_escape(value):
     return str(value).replace('\\','\\\\').replace('\r\n','\n').replace('\r','\n').replace('\n','\\n').replace(';','\\;').replace(',','\\,')
 def ical_fold(line):
@@ -630,7 +632,7 @@ write_ical(out/'STEM_подтвержденные_даты.ics',('\r\n'.join(ica
 expo_cal=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//STEM Atlas//Exhibitions calendar//RU','CALSCALE:GREGORIAN','METHOD:PUBLISH','X-WR-CALNAME:STEM Atlas — выставки, допуск детей отдельно','X-WR-TIMEZONE:America/Costa_Rica']
 expo_count=0
 for e in d['events']:
-    if not e.get('exhibition_tier') or not e['start'] or e['end']<d['asof']:continue
+    if e.get('canonical_event_id') or not e.get('exhibition_tier') or not e['start'] or e['end']<d['asof']:continue
     gate={'family':'семейный вариант','adults_only':'детям 6/9 нельзя','confirm_children':'допуск детей уточнить'}[e['visitor_policy']]
     desc=f"Идея посещения, не принятая регистрация. {e['visitor_policy_note']} Взрослый вход: {e['adult_entry']}. {e['note']} Компании: {e['exhibitor_note']}. Источник проверен {e['checked']}."
     expo_cal.extend(['BEGIN:VEVENT','UID:stem-exhibition-'+e['id']+'@family-stem.local','DTSTAMP:'+stamp,'SUMMARY:'+ical_escape('[Выставка · '+gate+'] '+e['title']),'DTSTART;VALUE=DATE:'+e['start'].replace('-',''),'DTEND;VALUE=DATE:'+(datetime.date.fromisoformat(e['end'])+datetime.timedelta(days=1)).strftime('%Y%m%d'),'DESCRIPTION:'+ical_escape(desc),'LOCATION:'+ical_escape(e['city']+', '+e['country']),'URL:'+e['source'],'STATUS:TENTATIVE','TRANSP:TRANSPARENT','END:VEVENT'])

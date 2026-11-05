@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 3928,
-    "competition_cards": 1178,
+    "cards": 3959,
+    "competition_cards": 1188,
     "event_cards": 208,
-    "camp_cards": 2542,
+    "camp_cards": 2563,
     "league_profiles": 144,
     "major_exhibition_cards": 121,
     "vex_cards": 469,
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 902,
+      "total": 933,
       "countries_with_records": 23,
-      "competitions": 226,
+      "competitions": 236,
       "events": 64,
       "major_exhibitions": 54,
-      "camps": 612,
+      "camps": 633,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -881,11 +881,16 @@
       "group": "international",
       "event_ids": [
         "C053",
-        "C054"
+        "C054",
+        "C1184",
+        "C1185",
+        "C1186",
+        "C1187",
+        "C1188"
       ],
-      "cards": 2,
-      "future_dated": 1,
-      "linked_card_count": 2,
+      "cards": 7,
+      "future_dated": 6,
+      "linked_card_count": 7,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robofest.net/index.php/current-competitions/main-page",
       "new": false
@@ -1545,11 +1550,12 @@
       "group": "regional",
       "event_ids": [
         "C035",
-        "C779"
+        "C779",
+        "C1189"
       ],
-      "cards": 2,
-      "future_dated": 2,
-      "linked_card_count": 2,
+      "cards": 3,
+      "future_dated": 3,
+      "linked_card_count": 3,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf",
       "new": false
@@ -3025,11 +3031,15 @@
         "C1148",
         "C1149",
         "C1150",
-        "C1151"
+        "C1151",
+        "C1180",
+        "C1181",
+        "C1182",
+        "C1183"
       ],
-      "cards": 7,
-      "future_dated": 0,
-      "linked_card_count": 7,
+      "cards": 11,
+      "future_dated": 10,
+      "linked_card_count": 11,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://worldrobotleague.net/",
       "new": false
@@ -3433,7 +3443,7 @@
       "region": "Азия",
       "start": "2027-04-29",
       "end": "2027-04-30",
-      "visitor_policy": "confirm_children",
+      "visitor_policy": "adults_only",
       "source": "https://gitexasia.com/",
       "new": false
     },
@@ -6526,14 +6536,14 @@
       }
     ],
     "counts": {
-      "records": 2542,
-      "holiday": 2426,
+      "records": 2563,
+      "holiday": 2450,
       "regular": 92,
       "self_paced_materials": 2,
       "boarding": 906,
-      "en_es_instruction": 604,
+      "en_es_instruction": 608,
       "en_es_support": 11,
-      "family_instruction": 604,
+      "family_instruction": 608,
       "family_support": 11,
       "ru_instruction": 0,
       "language_lessons": 338,

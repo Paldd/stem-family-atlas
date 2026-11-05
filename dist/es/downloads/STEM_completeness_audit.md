@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 3928; competiciones: 1178; eventos: 208; campamentos / programas: 2542. Perfiles de ligas y programas: 144. Fichas de grandes exposiciones y ferias especializadas: 121; son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 3959; competiciones: 1188; eventos: 208; campamentos / programas: 2563. Perfiles de ligas y programas: 144. Fichas de grandes exposiciones y ferias especializadas: 121; son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos para 83 de 249 países y territorios; países completamente auditados: 0. Fichas nuevas: 21; perfiles nuevos: 3. Todas las fichas anteriores se conservan.
 
@@ -18,12 +18,12 @@ Hay registros concretos para 83 de 249 países y territorios; países completame
 América del Sur 9 - 122 - 6 - 81 -
 | Europa | 22 | 172 | 44 | 1066 |
 África 10 61 5 27
-| Asia | 23 | 226 | 54 | 612 |
+| Asia | 23 | 236 | 54 | 633 |
 ○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de cobertura.
+VEX: 469 de 1188 fichas de competiciones (39.5%). Esto indica un sesgo claro de cobertura.
 
 ## Lo que queda
 
@@ -103,7 +103,7 @@ VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de 
 - **WER**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 2 tarjetas, 0 con fechas exactas futuras. https://robomatrix.org/
 - **RoboRAVE**: 8 tarjetas, 6 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.roboraveinternational.org/eventos
-- **Robofest · LTU**: 2 tarjetas, 1 con fechas exactas futuras. https://www.robofest.net/index.php/current-competitions/main-page
+- **Robofest · LTU**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 4 tarjetas, 3 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.enjoyaiglobal.org/
@@ -146,7 +146,7 @@ VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de 
 - **ABU Robocon**: 1 tarjeta, 0 con fechas exactas futuras. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
 - **ROBO-ONE / Light / auto / Beginners**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robo-one.com/en/
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
-- **MARC Taiwan**: 2 tarjetas, 2 con fechas exactas futuras. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
+- **MARC Taiwan**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 tarjetas, 5 tarjetas con fechas exactas futuras. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
 - *OBR / CBR / LARC · Brazil**: 16 tarjetas, 9 con fechas exactas futuras. https://robotica.robocup.org.br/
 - **Liga Robótica Chile**: 6 tarjetas, 5 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.torneorobotica.cl/
@@ -233,7 +233,7 @@ VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de 
 - **FIRST Japan · Explore / Challenge / Future 2026*27**: 11 tarjetas, 10 con fechas exactas futuras. https://firstjapan.jp/events/fll-explore-2026-2027/
 - **VEX IQ Japan · domestic qualification route**: 6 fichas, 5 con fechas exactas futuras. https://events.vex.com/robot-competitions/vex-iq-competition/RE-VIQRC-26-4838.html
 - *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
-- **World Robot League / IREA · KoreaOpen**: 7 tarjetas, 0 con fechas exactas futuras. https://worldrobotleague.net/
+- **World Robot League / IREA · KoreaOpen**: 11 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldrobotleague.net/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -271,7 +271,7 @@ VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de 
 - **Maker Faire Guangzhou 2026** China; 2026-10-17 2026-10-18. https://guangzhou.makerfaire.com/
 - **InnoCarnival Hong Kong 2026** China, Región Administrativa Especial de Hong Kong; 2026-10-24 Å 2026-11-01, con adultos; las condiciones de entrada de los adultos por separado. https://innocarnival.hk/en/About/
 - **Lisboa Games Week 2026** Portugal; 2026-11-19 2026-11-22. https://lisboagamesweek.pt/visitar/
-- **GITEX AI Asia 2027** ○ Singapur; 2027-04-29 2027-04-30. https://gitexasia.com/
+- **GITEX AI Asia 2027** — Singapur; 2027-04-29 – 2027-04-30. Los niños del 6/9 no pueden. https://gitexasia.com/
 - **GITEX AI Europe — próxima edición** — Alemania; Fecha desconocida. Niños 6/9 No puedes.. https://www.gitexeurope.com/faqs
 - **GITEX Africa ○ próxima edición** - Marruecos; fecha desconocida; los niños 6/9 no pueden. https://gitexafrica.com/faqs
 - **CIIF 2026 ○ Robotics Show / Industrial Automation Show** China; 2026-10-12 2026-10-16. https://www.ciif-expo.com/

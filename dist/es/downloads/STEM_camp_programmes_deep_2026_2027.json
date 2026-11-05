@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1138,
+    "dossiers": 1149,
     "countries": 40,
     "swiss": 128,
     "by_status": {
       "published_2026_27": 126,
       "published_2027": 307,
       "partial_2027": 114,
-      "next_unannounced": 233,
-      "published_2026": 226,
-      "partial_2026_27": 17,
-      "partial_2026": 9,
+      "next_unannounced": 232,
+      "published_2026": 236,
+      "partial_2026_27": 18,
+      "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1722
+    "source_urls": 1738
   },
   "countries": [
     {
@@ -76,11 +76,11 @@
     },
     {
       "country": "Singapur",
-      "count": 131
+      "count": 137
     },
     {
       "country": "Japón",
-      "count": 78
+      "count": 83
     },
     {
       "country": "Corea del Sur",
@@ -38372,10 +38372,10 @@
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "Holiday y weekly las versiones de un módulo tienen el mismo programa. 7–9 comienzan con Scratch; Python Junior / App Inventor para el 10–12. otras pistas para seleccionar por el menú en vigencia.",
+      "programme": "Publicados 5 cursos separados de diciembre de 2026: Scratch, Python, Python Junior, Minecraft y Roblox, cada uno con ficha propia. Cabecera antigua March 2026 y calendario vacío de noviembre no anulan fichas fechadas de diciembre. Sin grupo holiday invernal propio para 5–6 años.",
       "timing": {
-        "status": "next_unannounced",
-        "label": "en el título Spring 16–31 de marzo 2026; en el texto winter, calendario no event found. las nuevas fechas 2026/27 no se han establecido.",
+        "status": "partial_2026_27",
+        "label": "Cursos detallados de diciembre de 2026 incluidos por separado; fechas holiday nuevas de 2027 aún sin acreditar.",
         "sessions": [],
         "precision": "published_sessions"
       },
@@ -38408,7 +38408,7 @@
         {
           "title": "Holiday: lenguaje y conflicto de patrón estacional",
           "url": "https://codinglab.jp/holiday-coding-tech-camp/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-04"
         },
         {
           "title": "FAQ: edad y módulos similares",
@@ -38416,7 +38416,14 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-04",
+      "related_programme_ids": [
+        "CP1139",
+        "CP1140",
+        "CP1141",
+        "CP1142",
+        "CP1143"
+      ],
       "related_event_ids": [],
       "calendar_links": []
     },
@@ -140500,6 +140507,3218 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1139",
+      "slug": "codinglab-japan-winter-scratch-2026",
+      "provider": "Coding Lab Japan · Scratch 1",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "catalog_participation": "day_or_online",
+      "age": "7–9 años según recomendaciones del curso",
+      "language": "Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Scratch: proyectos de juegos y pensamiento computacional; sin curso previo obligatorio. Tras 3 años de competición, comprobar si nivel inicial resulta adecuado. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+            "source": "https://codinglab.jp/events/scratch-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+            "price": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "programme": "Scratch: proyectos de juegos y pensamiento computacional; sin curso previo obligatorio. Tras 3 años de competición, comprobar si nivel inicial resulta adecuado. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+            "date_scope": "session_days",
+            "date_status": "Confirmado",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Scratch 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Scratch 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Scratch 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Scratch 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Scratch 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 45000,
+        "tax_included": false,
+        "unit": "course",
+        "label": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+        "included": "Fichas indican materiales y equipo en clase; confirmar dispositivo y licencia en modalidad en línea.",
+        "extras": "Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa.",
+        "deposit": "Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción."
+      },
+      "accommodation": "Curso corto diurno de cinco días o en línea, sin internado.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Curso técnico en inglés fechado; Scratch y Minecraft potencialmente por edad para el mayor, restantes para edades superiores a ambos. Plaza por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, formato presencial / en línea, corte de edad, evaluación de nivel y dispositivo propio compatible en línea.",
+        "Obtener total con impuesto, cancelación, licencia y equipo; Available Tickets: 8 del widget no es reserva. Texto sold out es plantilla oculta de error, no prueba de inscripción cerrada."
+      ],
+      "sources": [
+        {
+          "title": "Ficha oficial de curso invernal",
+          "url": "https://codinglab.jp/events/scratch-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Holiday Camp: enseñanza EN y horario",
+          "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "parent_programme_id": "CP285",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1139-20261214-20261218"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1140",
+      "slug": "codinglab-japan-winter-python-2026",
+      "provider": "Coding Lab Japan · Python 1",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "catalog_participation": "day_or_online",
+      "age": "13–18 años según recomendaciones del curso",
+      "language": "Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Python inicial para 13–18 años. Curso distinto de Python Junior; etapa futura para ambos hijos. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+            "source": "https://codinglab.jp/events/python-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+            "price": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "programme": "Python inicial para 13–18 años. Curso distinto de Python Junior; etapa futura para ambos hijos. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+            "date_scope": "session_days",
+            "date_status": "Confirmado",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 45000,
+        "tax_included": false,
+        "unit": "course",
+        "label": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+        "included": "Fichas indican materiales y equipo en clase; confirmar dispositivo y licencia en modalidad en línea.",
+        "extras": "Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa.",
+        "deposit": "Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción."
+      },
+      "accommodation": "Curso corto diurno de cinco días o en línea, sin internado.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Curso técnico en inglés fechado; Scratch y Minecraft potencialmente por edad para el mayor, restantes para edades superiores a ambos. Plaza por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, formato presencial / en línea, corte de edad, evaluación de nivel y dispositivo propio compatible en línea.",
+        "Obtener total con impuesto, cancelación, licencia y equipo; Available Tickets: 8 del widget no es reserva. Texto sold out es plantilla oculta de error, no prueba de inscripción cerrada."
+      ],
+      "sources": [
+        {
+          "title": "Ficha oficial de curso invernal",
+          "url": "https://codinglab.jp/events/python-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Holiday Camp: enseñanza EN y horario",
+          "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "parent_programme_id": "CP285",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1140-20261214-20261218"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1141",
+      "slug": "codinglab-japan-winter-python-junior-2026",
+      "provider": "Coding Lab Japan · Python Junior 1",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "catalog_participation": "day_or_online",
+      "age": "10–12 años según recomendaciones del curso",
+      "language": "Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Python mediante matemáticas de primaria; sin preparación previa obligatoria, pero mínimo 10 años. En diciembre de 2026 Matvey aún no cumple 10. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+            "source": "https://codinglab.jp/events/python-junior-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+            "price": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "programme": "Python mediante matemáticas de primaria; sin preparación previa obligatoria, pero mínimo 10 años. En diciembre de 2026 Matvey aún no cumple 10. 14–18 de diciembre de 2026: 5 bloques 10:00–12:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+            "date_scope": "session_days",
+            "date_status": "Confirmado",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python Junior 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python Junior 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python Junior 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python Junior 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:00",
+                "end_time": "12:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Python Junior 1",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 45000,
+        "tax_included": false,
+        "unit": "course",
+        "label": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+        "included": "Fichas indican materiales y equipo en clase; confirmar dispositivo y licencia en modalidad en línea.",
+        "extras": "Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa.",
+        "deposit": "Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción."
+      },
+      "accommodation": "Curso corto diurno de cinco días o en línea, sin internado.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Curso técnico en inglés fechado; Scratch y Minecraft potencialmente por edad para el mayor, restantes para edades superiores a ambos. Plaza por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, formato presencial / en línea, corte de edad, evaluación de nivel y dispositivo propio compatible en línea.",
+        "Obtener total con impuesto, cancelación, licencia y equipo; Available Tickets: 8 del widget no es reserva. Texto sold out es plantilla oculta de error, no prueba de inscripción cerrada."
+      ],
+      "sources": [
+        {
+          "title": "Ficha oficial de curso invernal",
+          "url": "https://codinglab.jp/events/python-junior-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Holiday Camp: enseñanza EN y horario",
+          "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "parent_programme_id": "CP285",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1141-20261214-20261218"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1142",
+      "slug": "codinglab-japan-winter-minecraft-2026",
+      "provider": "Coding Lab Japan · Minecraft Coding",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "catalog_participation": "day_or_online",
+      "age": "7–12 años según recomendaciones del curso",
+      "language": "Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Programación de mundos Minecraft, construcciones y automatización. Texto admite todos los niveles, pero prerequisite exige P102 Scratch 2 o aprobación docente; confirmar asignación de nivel. 14–18 de diciembre de 2026: 5 bloques 13:00–15:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+            "source": "https://codinglab.jp/events/minecraft-coding-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+            "price": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "programme": "Programación de mundos Minecraft, construcciones y automatización. Texto admite todos los niveles, pero prerequisite exige P102 Scratch 2 o aprobación docente; confirmar asignación de nivel. 14–18 de diciembre de 2026: 5 bloques 13:00–15:00, Asia/Tokyo. Son 10 horas de horario; pausas sin detallar.",
+            "date_scope": "session_days",
+            "date_status": "Confirmado",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Minecraft Coding",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Minecraft Coding",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Minecraft Coding",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Minecraft Coding",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "13:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Tokyo",
+                "ical_timed": true,
+                "topic": "Minecraft Coding",
+                "time_note": "Hora local japonesa; calendario en línea se convierte a zona del dispositivo."
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 45000,
+        "tax_included": false,
+        "unit": "course",
+        "label": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+        "included": "Fichas indican materiales y equipo en clase; confirmar dispositivo y licencia en modalidad en línea.",
+        "extras": "Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa.",
+        "deposit": "Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción."
+      },
+      "accommodation": "Curso corto diurno de cinco días o en línea, sin internado.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Curso técnico en inglés fechado; Scratch y Minecraft potencialmente por edad para el mayor, restantes para edades superiores a ambos. Plaza por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, formato presencial / en línea, corte de edad, evaluación de nivel y dispositivo propio compatible en línea.",
+        "Obtener total con impuesto, cancelación, licencia y equipo; Available Tickets: 8 del widget no es reserva. Texto sold out es plantilla oculta de error, no prueba de inscripción cerrada."
+      ],
+      "sources": [
+        {
+          "title": "Ficha oficial de curso invernal",
+          "url": "https://codinglab.jp/events/minecraft-coding-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Holiday Camp: enseñanza EN y horario",
+          "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "parent_programme_id": "CP285",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1142-20261214-20261218"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1143",
+      "slug": "codinglab-japan-winter-roblox-2026",
+      "provider": "Coding Lab Japan · Roblox Game Design with Lua",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day",
+        "online"
+      ],
+      "catalog_participation": "day_or_online",
+      "age": "10–12 años según recomendaciones del curso",
+      "language": "Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Roblox Studio y Lua. Recomendación 10–12, etiquetas también 13–18; previos discrepantes: P201/P205/P206 frente a P205/S101 o aprobación. Billete incluye 3–7 extra junto a Dec 14–18; sin crear una segunda sesión. Inicio 14.12.2026, 13:00–15:00 Asia/Tokyo. Billete de 5 días incluye Dec 14–18 y 3–7 extra; período provisional, sin crear franjas diarias exactas.",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Billete nominal Dec 14–18 2026 con 3–7 extra; rango confirmado sin acreditar, sin crear sesión de calendario.",
+        "sessions": [],
+        "session_details": [],
+        "unpublished_session_hint": {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "label": "14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos",
+          "source": "https://codinglab.jp/events/roblox-game-design-camp-with-lua-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "price": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+          "family_fit": {
+            "matvey": {
+              "status": "later",
+              "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+            },
+            "oscar": {
+              "status": "later",
+              "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+            }
+          },
+          "programme": "Roblox Studio y Lua. Recomendación 10–12, etiquetas también 13–18; previos discrepantes: P201/P205/P206 frente a P205/S101 o aprobación. Billete incluye 3–7 extra junto a Dec 14–18; sin crear una segunda sesión. Inicio 14.12.2026, 13:00–15:00 Asia/Tokyo. Billete de 5 días incluye Dec 14–18 y 3–7 extra; período provisional, sin crear franjas diarias exactas.",
+          "date_scope": "camp_window",
+          "date_status": "de forma preliminar"
+        },
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "JPY",
+        "amount": 45000,
+        "tax_included": false,
+        "unit": "course",
+        "label": "45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos.",
+        "included": "Fichas indican materiales y equipo en clase; confirmar dispositivo y licencia en modalidad en línea.",
+        "extras": "Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa.",
+        "deposit": "Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción."
+      },
+      "accommodation": "Curso corto diurno de cinco días o en línea, sin internado.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Curso técnico en inglés fechado; Scratch y Minecraft potencialmente por edad para el mayor, restantes para edades superiores a ambos. Plaza por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar plaza, formato presencial / en línea, corte de edad, evaluación de nivel y dispositivo propio compatible en línea.",
+        "Obtener total con impuesto, cancelación, licencia y equipo; Available Tickets: 8 del widget no es reserva. Texto sold out es plantilla oculta de error, no prueba de inscripción cerrada."
+      ],
+      "sources": [
+        {
+          "title": "Ficha oficial de curso invernal",
+          "url": "https://codinglab.jp/events/roblox-game-design-camp-with-lua-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Holiday Camp: enseñanza EN y horario",
+          "url": "https://codinglab.jp/holiday-coding-tech-camp/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "parent_programme_id": "CP285",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1144",
+      "slug": "sor-nov-dec-essential-2026",
+      "provider": "School of Robotics Singapore · SPIKE Essential · Roboquest / Twinbot",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "SPIKE Essential · Roboquest / Twinbot; Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-24",
+            "2026-12-18"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-24",
+            "end": "2026-12-18",
+            "variant_key": "bukit-timah",
+            "label": "Bukit Timah · selección de días individuales",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Essential · Roboquest / Twinbot; Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "ang-mo-kio",
+            "label": "Ang Mo Kio · selección de días individuales",
+            "place": "Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Essential · Roboquest / Twinbot; Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "katong",
+            "label": "i12 Katong · selección de días individuales",
+            "place": "i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Essential · Roboquest / Twinbot; Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Roboquest B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Essential · Roboquest / Twinbot · Twinbot A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_cbd99270aaad409984a0d08bf1e5c51e~mv2.png",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-24",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1144-20261124-20261218-bukit-timah"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1144-20261125-20261218-ang-mo-kio"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1144-20261125-20261218-katong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1145",
+      "slug": "sor-nov-dec-prime-2026",
+      "provider": "School of Robotics Singapore · SPIKE Prime · Battlebots",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel 7+.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "SPIKE Prime · Battlebots; Cartel 7+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-25",
+            "2026-12-17"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-17",
+            "variant_key": "bukit-timah",
+            "label": "Bukit Timah · selección de días individuales",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 7+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Prime · Battlebots; Cartel 7+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "ang-mo-kio",
+            "label": "Ang Mo Kio · selección de días individuales",
+            "place": "Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 7+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Prime · Battlebots; Cartel 7+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "katong",
+            "label": "i12 Katong · selección de días individuales",
+            "place": "i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 7+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "SPIKE Prime · Battlebots; Cartel 7+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "SPIKE Prime · Battlebots · Battlebots B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_0683905b9b564148b5688eef186ea651~mv2.png",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1145-20261125-20261217-bukit-timah"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1145-20261125-20261218-ang-mo-kio"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1145-20261125-20261218-katong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1146",
+      "slug": "sor-nov-dec-minecraft-2026",
+      "provider": "School of Robotics Singapore · Minecraft · World Manipulator",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel 8+.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "Minecraft · World Manipulator; Cartel 8+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-24",
+            "2026-12-18"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ],
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-24",
+            "end": "2026-12-18",
+            "variant_key": "bukit-timah",
+            "label": "Bukit Timah · selección de días individuales",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Minecraft · World Manipulator; Cartel 8+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "ang-mo-kio",
+            "label": "Ang Mo Kio · selección de días individuales",
+            "place": "Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Minecraft · World Manipulator; Cartel 8+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "katong",
+            "label": "i12 Katong · selección de días individuales",
+            "place": "i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Minecraft · World Manipulator; Cartel 8+. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Minecraft · World Manipulator · World Manipulator D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_8919ea80b6ab4775a3559911a0298ade~mv2.jpg",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-24",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1146-20261124-20261218-bukit-timah"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1146-20261125-20261218-ang-mo-kio"
+          ]
+        },
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1146-20261125-20261218-katong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1147",
+      "slug": "sor-nov-dec-printing-2026",
+      "provider": "School of Robotics Singapore · 3D Printing · Spin Strikers / Trinket",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "3D Printing · Spin Strikers / Trinket; Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-25",
+            "2026-12-16"
+          ],
+          [
+            "2026-11-26",
+            "2026-12-17"
+          ],
+          [
+            "2026-11-26",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-16",
+            "variant_key": "bukit-timah",
+            "label": "Bukit Timah · selección de días individuales",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "3D Printing · Spin Strikers / Trinket; Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-12-17",
+            "variant_key": "ang-mo-kio",
+            "label": "Ang Mo Kio · selección de días individuales",
+            "place": "Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "3D Printing · Spin Strikers / Trinket; Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-12-17",
+            "variant_key": "katong",
+            "label": "i12 Katong · selección de días individuales",
+            "place": "i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "3D Printing · Spin Strikers / Trinket; Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Spin Strikers B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "3D Printing · Spin Strikers / Trinket · Trinket B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_0a78e29da4a24f33bbf81f38b0aaa835~mv2.png",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1147-20261125-20261216-bukit-timah"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1147-20261126-20261217-ang-mo-kio"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1147-20261126-20261217-katong"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1148",
+      "slug": "sor-nov-dec-python-2026",
+      "provider": "School of Robotics Singapore · Python · Level 1 / Level 2",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel 9+; Level 2 exige haber asistido a Level 1.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "Python · Level 1 / Level 2; Cartel 9+; Level 2 exige haber asistido a Level 1. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-25",
+            "2026-11-27"
+          ],
+          [
+            "2026-12-02",
+            "2026-12-04"
+          ],
+          [
+            "2026-12-09",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-16",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-25",
+            "end": "2026-11-27",
+            "variant_key": "bukit-timah-1",
+            "label": "Bukit Timah · Level 1",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 9+; Level 2 exige haber asistido a Level 1.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Python · Level 1 / Level 2; Cartel 9+; Level 2 exige haber asistido a Level 1. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos. Franja de nivel de tres días en cartel; confirmar obligatoriedad de los 3 días.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-04",
+            "variant_key": "bukit-timah-2",
+            "label": "Bukit Timah · Level 2",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 9+; Level 2 exige haber asistido a Level 1.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Python · Level 1 / Level 2; Cartel 9+; Level 2 exige haber asistido a Level 1. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos. Franja de nivel de tres días en cartel; confirmar obligatoriedad de los 3 días.",
+            "sessions": [
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-12-09",
+            "end": "2026-12-11",
+            "variant_key": "bukit-timah-3",
+            "label": "Bukit Timah · Level 1",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 9+; Level 2 exige haber asistido a Level 1.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Python · Level 1 / Level 2; Cartel 9+; Level 2 exige haber asistido a Level 1. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos. Franja de nivel de tres días en cartel; confirmar obligatoriedad de los 3 días.",
+            "sessions": [
+              {
+                "date": "2026-12-09",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 1",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          },
+          {
+            "start": "2026-12-16",
+            "end": "2026-12-18",
+            "variant_key": "bukit-timah-4",
+            "label": "Bukit Timah · Level 2",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 9+; Level 2 exige haber asistido a Level 1.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "Python · Level 1 / Level 2; Cartel 9+; Level 2 exige haber asistido a Level 1. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos. Franja de nivel de tres días en cartel; confirmar obligatoriedad de los 3 días.",
+            "sessions": [
+              {
+                "date": "2026-12-16",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "Python · Level 1 / Level 2 · Level 2",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_0f09f52822704f94adff91b425559a1b~mv2.png",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-25",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1148-20261125-20261127-bukit-timah-1"
+          ]
+        },
+        {
+          "start": "2026-12-02",
+          "end": "2026-12-04",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1148-20261202-20261204-bukit-timah-2"
+          ]
+        },
+        {
+          "start": "2026-12-09",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1148-20261209-20261211-bukit-timah-3"
+          ]
+        },
+        {
+          "start": "2026-12-16",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1148-20261216-20261218-bukit-timah-4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1149",
+      "slug": "sor-nov-dec-vex-2026",
+      "provider": "School of Robotics Singapore · VEX IQ · Controller Commanders",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · sede y días concretos por variante.",
+      "themes": [
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Cartel 9+; solo Bukit Timah según horario.",
+      "language": "Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.",
+      "confirmed_instruction_languages": [],
+      "programme": "VEX IQ · Controller Commanders; Cartel 9+; solo Bukit Timah según horario. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "24 de noviembre — 18 de diciembre de 2026; días exactos según curso y sede.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2026-11-25",
+            "2026-12-18"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-25",
+            "end": "2026-12-18",
+            "variant_key": "bukit-timah",
+            "label": "Bukit Timah · selección de días individuales",
+            "place": "Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179",
+            "source": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+            "price": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+            "age": "Cartel 9+; solo Bukit Timah según horario.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+              }
+            },
+            "date_scope": "session_days",
+            "programme": "VEX IQ · Controller Commanders; Cartel 9+; solo Bukit Timah según horario. Día 10:30–15:30, incluido almuerzo 12:30–13:30: 4 horas de clases, no 5. Solo un curso por día. Fechas son opciones de asistencia, no estancia continua obligatoria; sin multiplicar automáticamente sedes y cursos.",
+            "sessions": [
+              {
+                "date": "2026-11-25",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "VEX IQ · Controller Commanders · Controller Commanders A",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "VEX IQ · Controller Commanders · Controller Commanders B",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "VEX IQ · Controller Commanders · Controller Commanders C",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "10:30",
+                "end_time": "15:30",
+                "timezone": "Asia/Singapore",
+                "ical_timed": true,
+                "topic": "VEX IQ · Controller Commanders · Controller Commanders D",
+                "time_note": "Almuerzo 12:30–13:30 incluido en duración; un curso elegido por día."
+              }
+            ],
+            "proof": "Leídos visualmente horarios originales de 3 sedes y carteles de edad. Solo días y temas enumerados; período general no convertido en curso diario."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SGD",
+        "unit": "child_day",
+        "tax_included": false,
+        "gst_rate": 9,
+        "early_offer_deadline": "2026-11-07",
+        "label": "Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional.",
+        "tiers": [
+          {
+            "min_days": 1,
+            "max_days": 2,
+            "net_per_day": 200,
+            "gross_per_day": 218.0
+          },
+          {
+            "min_days": 3,
+            "max_days": 4,
+            "net_per_day": 180,
+            "gross_per_day": 196.2
+          },
+          {
+            "min_days": 5,
+            "max_days": 9,
+            "net_per_day": 160,
+            "gross_per_day": 174.4
+          },
+          {
+            "min_days": 10,
+            "max_days": null,
+            "net_per_day": 140,
+            "gross_per_day": 152.6
+          }
+        ],
+        "included": "Dos bloques de 2 horas, hora de almuerzo con comida; equipo de uso en clase.",
+        "extras": "Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa.",
+        "deposit": "Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa."
+      },
+      "accommodation": "Curso diurno sin alojamiento nocturno.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación."
+        }
+      },
+      "editorial_reason": "Horario exacto verificado; confirmar idioma y plaza. Battlebots internos no son torneo internacional ni clasificación VEX.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar enseñanza EN, edad por día, plazas, equipo e importe único con GST, descuento y comisión.",
+        "Elegir un curso por día; revisar datos médicos, comida y condiciones de fotos. Sin completar formulario familiar, consentimientos ni pago."
+      ],
+      "sources": [
+        {
+          "title": "Temporada oficial: horas, paquetes y condiciones",
+          "url": "https://www.sor.com.sg/holiday-program-nov-dec-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tipo oficial GST para cálculo",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_be81b5cf0f7e417a9f7fe390829af5e8~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/9f5aef_79a420b549b54f3cb208d01e8d2ddb1d~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Calendario original de sede",
+          "url": "https://static.wixstatic.com/media/78cbfd_c00a6920766446a98432e14ae815d5f7~mv2.png",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Cartel de edad del curso elegido",
+          "url": "https://static.wixstatic.com/media/78cbfd_56e06ce26afe40f782d4c27a2a2aa9ef~mv2.png",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-25",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1149-20261125-20261218-bukit-timah"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -145745,7 +148964,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 142,
+  "version": 143,
   "family_review": {
     "version": 136,
     "asof": "2026-10-06",
@@ -157531,6 +160750,111 @@
       "programme_id": "CP1138",
       "event_id": "CP1138-20270104-20270107",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1139",
+      "event_id": "CP1139-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1140",
+      "event_id": "CP1140-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1141",
+      "event_id": "CP1141-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1142",
+      "event_id": "CP1142-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1144",
+      "event_id": "CP1144-20261124-20261218-bukit-timah",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1144",
+      "event_id": "CP1144-20261125-20261218-ang-mo-kio",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1144",
+      "event_id": "CP1144-20261125-20261218-katong",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1145",
+      "event_id": "CP1145-20261125-20261217-bukit-timah",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1145",
+      "event_id": "CP1145-20261125-20261218-ang-mo-kio",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1145",
+      "event_id": "CP1145-20261125-20261218-katong",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1146",
+      "event_id": "CP1146-20261124-20261218-bukit-timah",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1146",
+      "event_id": "CP1146-20261125-20261218-ang-mo-kio",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1146",
+      "event_id": "CP1146-20261125-20261218-katong",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1147",
+      "event_id": "CP1147-20261125-20261216-bukit-timah",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1147",
+      "event_id": "CP1147-20261126-20261217-ang-mo-kio",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1147",
+      "event_id": "CP1147-20261126-20261217-katong",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1148",
+      "event_id": "CP1148-20261125-20261127-bukit-timah-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1148",
+      "event_id": "CP1148-20261202-20261204-bukit-timah-2",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1148",
+      "event_id": "CP1148-20261209-20261211-bukit-timah-3",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1148",
+      "event_id": "CP1148-20261216-20261218-bukit-timah-4",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1149",
+      "event_id": "CP1149-20261125-20261218-bukit-timah",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -159612,10 +162936,31 @@
     "CP1136-20270210-20270212-booking-2380",
     "CP1137-20270210-20270212-booking-2381",
     "CP1138-20261228-20261231",
-    "CP1138-20270104-20270107"
+    "CP1138-20270104-20270107",
+    "CP1139-20261214-20261218",
+    "CP1140-20261214-20261218",
+    "CP1141-20261214-20261218",
+    "CP1142-20261214-20261218",
+    "CP1144-20261124-20261218-bukit-timah",
+    "CP1144-20261125-20261218-ang-mo-kio",
+    "CP1144-20261125-20261218-katong",
+    "CP1145-20261125-20261217-bukit-timah",
+    "CP1145-20261125-20261218-ang-mo-kio",
+    "CP1145-20261125-20261218-katong",
+    "CP1146-20261124-20261218-bukit-timah",
+    "CP1146-20261125-20261218-ang-mo-kio",
+    "CP1146-20261125-20261218-katong",
+    "CP1147-20261125-20261216-bukit-timah",
+    "CP1147-20261126-20261217-ang-mo-kio",
+    "CP1147-20261126-20261217-katong",
+    "CP1148-20261125-20261127-bukit-timah-1",
+    "CP1148-20261202-20261204-bukit-timah-2",
+    "CP1148-20261209-20261211-bukit-timah-3",
+    "CP1148-20261216-20261218-bukit-timah-4",
+    "CP1149-20261125-20261218-bukit-timah"
   ],
   "integration": {
-    "generated_sessions": 2079,
+    "generated_sessions": 2100,
     "reused_legacy_events": 69,
     "seasonal_windows": 55,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

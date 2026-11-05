@@ -574,6 +574,84 @@ Limitaciones: Exposición2–6 de marzo;7–9 de marzo es desmontaje, sin días 
 Fuente: https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf
 Se ha comprobado: 2026-11-04
 
+### C1184 · Taiwan Robofest 2027 · festival nacional / clasificación
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Categorías desde infantil a universidad; curso escolar exacto importa más que año de nacimiento.
+Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
+Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-04
+
+### C1185 · Taiwan Robofest 2027 · RoboCatapult Kindergarten
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Infantil: grupos menor a mayor; 1 participante y entrenador desde 20 años.
+Matvey: No corresponde a etapa infantil.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
+Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-04
+
+### C1186 · Taiwan Robofest 2027 · RoboCatapult Primary
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Primaria: grupos de cursos 1–3 y 4–6; 1 participante y entrenador desde 20 años.
+Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
+Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-04
+
+### C1187 · Taiwan Robofest 2027 · Master Builder
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Último curso infantil–curso 3; separados cursos 4–6. Individual.
+Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
+Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-04
+
+### C1188 · Taiwan Robofest 2027 · RoboParade Explorer
+
+Fecha: 2027-03-06 — 2027-03-07
+edad: Cursos 1–4; equipo de 1–5. Un participante permitido, con puntuación mínima de teamwork.
+Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
+Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Fuente: https://robofest.me/
+Se ha comprobado: 2026-11-04
+
+### C1189 · MARC 2027 · International Final · Taipei
+
+Fecha: 2027-05-20 — 2027-05-23
+edad: Edades, cursos y categorías de final 2027 aún sin anunciar.
+Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
+Idioma: Leído anuncio EN; idioma de jueces y apoyo familiar aún sin acreditar.
+Acceso: Operador invita equipos de todo el mundo; solicitud directa, clasificación y wildcard 2027 aún sin publicar. No trasladar automáticamente vía de 2026.
+Precio: Cuota, equipo, viaje y alojamiento 2027 sin acreditar.
+Limitaciones: NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida.
+Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
+Se ha comprobado: 2026-11-04
+
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10
 
 Fecha: 2027-07-05 2027-07-10

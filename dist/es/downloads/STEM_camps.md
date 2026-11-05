@@ -40806,6 +40806,342 @@ Limitaciones: Matvey: Cumple mínimo general de 7 años; confirmar nivel concret
 Fuente: https://smartkids-school.ch/en/stages
 Se ha comprobado: 2026-11-04
 
+### CP1139-20261214-20261218 · Coding Lab Japan · Scratch 1 · 14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos · 2026-12-14–2026-12-18
+
+Lugar: Japón Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–9 años según recomendaciones del curso
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+formato: day_or_online
+Idioma: Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa. Pago: Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción.
+Fuente: https://codinglab.jp/events/scratch-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14
+Se ha comprobado: 2026-11-04
+
+### CP1140-20261214-20261218 · Coding Lab Japan · Python 1 · 14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos · 2026-12-14–2026-12-18
+
+Lugar: Japón Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.
+Fecha: 2026-12-14 - 2026-12-18
+edad: 13–18 años según recomendaciones del curso
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_or_online
+Idioma: Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa. Pago: Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción.
+Fuente: https://codinglab.jp/events/python-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14
+Se ha comprobado: 2026-11-04
+
+### CP1141-20261214-20261218 · Coding Lab Japan · Python Junior 1 · 14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos · 2026-12-14–2026-12-18
+
+Lugar: Japón Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 10*12 años según recomendaciones del curso
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+formato: day_or_online
+Idioma: Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa. Pago: Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción.
+Fuente: https://codinglab.jp/events/python-junior-1-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14
+Se ha comprobado: 2026-11-04
+
+### CP1142-20261214-20261218 · Coding Lab Japan · Minecraft Coding · 14–18 de diciembre · 5 clases · presencial o en línea, un curso en dos formatos · 2026-12-14–2026-12-18
+
+Lugar: Japón Tokio · confirmar campus Coding Lab del curso; opción en línea desde casa.
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7*12 años según recomendaciones del curso
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+formato: day_or_online
+Idioma: Página general Holiday Camp declara enseñanza en inglés. Fichas indican asistencia presencial y en línea; no se infiere del idioma de interfaz.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 45000 JPY por curso elegido de 5 días, impuesto excluido. Confirmar total con impuesto y pago; 9500 JPY sin impuesto corresponde a opción Minecraft de un día, no tarifa de todos los cursos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Impuesto, alojamiento, transporte y comida familiar aparte; sin kit anunciado para casa. Pago: Registro requiere cuenta; obtener cancelación y confirmación de plaza antes de pagar. Familia sin inscripción.
+Fuente: https://codinglab.jp/events/minecraft-coding-5-days-holiday-camp-12-14-2026/?occurrence=2026-12-14
+Se ha comprobado: 2026-11-04
+
+### CP1144-20261124-20261218-bukit-timah · School of Robotics Singapore · SPIKE Essential · Roboquest / Twinbot · Bukit Timah · selección de días individuales · 2026-11-24–2026-12-18
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-24 — 2026-12-18
+edad: Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1144-20261125-20261218-ang-mo-kio · School of Robotics Singapore · SPIKE Essential · Roboquest / Twinbot · Ang Mo Kio · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1144-20261125-20261218-katong · School of Robotics Singapore · SPIKE Essential · Roboquest / Twinbot · i12 Katong · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel: menores de 8; mínimo sin indicar. Matvey 2017 supera grupo; confirmar mínimo para Oscar.
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Límite superior indicado; edad mínima sin publicar. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1145-20261125-20261217-bukit-timah · School of Robotics Singapore · SPIKE Prime · Battlebots · Bukit Timah · selección de días individuales · 2026-11-25–2026-12-17
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-25 — 2026-12-17
+edad: Cartel 7+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1145-20261125-20261218-ang-mo-kio · School of Robotics Singapore · SPIKE Prime · Battlebots · Ang Mo Kio · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel 7+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1145-20261125-20261218-katong · School of Robotics Singapore · SPIKE Prime · Battlebots · i12 Katong · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel 7+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1146-20261124-20261218-bukit-timah · School of Robotics Singapore · Minecraft · World Manipulator · Bukit Timah · selección de días individuales · 2026-11-24–2026-12-18
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-24 — 2026-12-18
+edad: Cartel 8+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1146-20261125-20261218-ang-mo-kio · School of Robotics Singapore · Minecraft · World Manipulator · Ang Mo Kio · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel 8+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1146-20261125-20261218-katong · School of Robotics Singapore · Minecraft · World Manipulator · i12 Katong · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel 8+.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1147-20261125-20261216-bukit-timah · School of Robotics Singapore · 3D Printing · Spin Strikers / Trinket · Bukit Timah · selección de días individuales · 2026-11-25–2026-12-16
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-25 — 2026-12-16
+edad: Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1147-20261126-20261217-ang-mo-kio · School of Robotics Singapore · 3D Printing · Spin Strikers / Trinket · Ang Mo Kio · selección de días individuales · 2026-11-26–2026-12-17
+
+Lugar: Singapur Ang Mo Kio · 5 Ang Mo Kio Central 2, Djitsun Mall @ Ang Mo Kio, #02-01/02, Singapore 569663
+Fecha: 2026-11-26 — 2026-12-17
+edad: Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1147-20261126-20261217-katong · School of Robotics Singapore · 3D Printing · Spin Strikers / Trinket · i12 Katong · selección de días individuales · 2026-11-26–2026-12-17
+
+Lugar: Singapur i12 Katong · 112 East Coast Road, i12 Katong, #04-07, Singapore 428802
+Fecha: 2026-11-26 — 2026-12-17
+edad: Cartel 8+, subtítulo web 7+; usar 8+ hasta aclarar. Requiere manejo de ratón.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1148-20261125-20261127-bukit-timah-1 · School of Robotics Singapore · Python · Level 1 / Level 2 · Bukit Timah · Level 1 · 2026-11-25–2026-11-27
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-25 - 2026-11-27
+edad: Cartel 9+; Level 2 exige haber asistido a Level 1.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1148-20261202-20261204-bukit-timah-2 · School of Robotics Singapore · Python · Level 1 / Level 2 · Bukit Timah · Level 2 · 2026-12-02–2026-12-04
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-12-02 国 2026-12-04
+edad: Cartel 9+; Level 2 exige haber asistido a Level 1.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1148-20261209-20261211-bukit-timah-3 · School of Robotics Singapore · Python · Level 1 / Level 2 · Bukit Timah · Level 1 · 2026-12-09–2026-12-11
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-12-09 国 2026-12-11
+edad: Cartel 9+; Level 2 exige haber asistido a Level 1.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1148-20261216-20261218-bukit-timah-4 · School of Robotics Singapore · Python · Level 1 / Level 2 · Bukit Timah · Level 2 · 2026-12-16–2026-12-18
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-12-16 - 2026-12-18
+edad: Cartel 9+; Level 2 exige haber asistido a Level 1.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
+### CP1149-20261125-20261218-bukit-timah · School of Robotics Singapore · VEX IQ · Controller Commanders · Bukit Timah · selección de días individuales · 2026-11-25–2026-12-18
+
+Lugar: Singapur Bukit Timah · 170 Upper Bukit Timah Road, Bukit Timah Shopping Centre, #B2-15/16, Singapore 588179
+Fecha: 2026-11-25 — 2026-12-18
+edad: Cartel 9+; solo Bukit Timah según horario.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Leídos web y carteles EN; idioma docente EN/ES/RU sin confirmar expresamente. Acordar profesor en inglés para fechas elegidas.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio por niño-día sin GST: 1–2 días — 200 SGD; 3–4 — 180; 5–9 — 160; 10+ — 140. Con GST 9%, cálculo respectivo 218 / 196.20 / 174.40 / 152.60 SGD por día. Hasta 07.11.2026 se anuncia 20% con registro y pago; confirmar aplicación al paquete. No es precio de todo el período vacacional. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Oscar: Edad en año del programa 5–6; fecha exacta de nacimiento desconocida. Confirmar admisión por día, nivel y aceptación. Suplementos: Almuerzo incluido; comida propia permitida sin prometer rebaja. Cuidado adicional 5 SGD sin GST por 15 minutos; con 9% son 5.45 SGD. Comisión de tarjeta sin importe publicado; alojamiento y transporte aparte. Equipo de uso, sin promesa de kit para casa. Pago: Créditos hasta fin de vacaciones elegidas, sin devolución ni traslado a otro período; compartibles entre hermanos de misma familia. Sin recarga del paquete. Cambio de clase con mínimo 48 horas y plaza; cancelación del operador con alternativa.
+Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
+Se ha comprobado: 2026-11-04
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz
