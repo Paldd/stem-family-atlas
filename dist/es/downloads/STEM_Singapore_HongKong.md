@@ -102,7 +102,7 @@ Worklab: cuatro semanas de cinco pistas, las bases 3 / 4 días. Cobo: cuatro sem
 
 ## 24.10–01.11.2026 · InnoCarnival · Tecnología familiar
 
-Hong Kong y su capital
+Hong Kong
 
 Science Park, todas las actividades se han anunciado gratuitas. edad, idioma y registro de un taller en particular para comprobar.
 

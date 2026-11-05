@@ -3825,11 +3825,11 @@
       "references": [
         {
           "url": "https://steamsquad.io/en/camps/expedition27",
-          "label": "Собственные 10 дней, цена, включения и отмена"
+          "label": "Current season, fees and restrictions re-read"
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-05",
       "status": "Идея",
       "note": "Матвей: Возраст 9–10 входит в рекомендуемые 8–12. Оскар: 6–7 ниже рекомендуемых 8; младший допуск не обещан. Доплаты: EasyCard примерно NTD 200/день отдельно; это ориентир, не окончательный транспортный счёт. Оплата: Отмена 14+ дней:90%,7–13:50%,4–6:30%,позже:0. Недобор 8 к 05.01:полный возврат.",
       "iso": [
@@ -7309,6 +7309,176 @@
         "WE",
         "TH",
         "FR"
+      ]
+    },
+    {
+      "id": "CP1245-20270121-20270203-ten-days",
+      "block": "Лагеря",
+      "title": "Good Good English · Winter Camp 2027 · 10-day programme · 2027-01-21–2027-02-03",
+      "country": "Тайвань",
+      "region": "Азия",
+      "city": "Qingpu · Taoyuan",
+      "start": "2027-01-21",
+      "end": "2027-02-03",
+      "period": "21 января–3 февраля 2027: десять будних дней прямо перечислены на постере. Присутствие 09:30–16:00; обед / отдых 11:30–13:30 и snack 15:30–16:00 входят во время, а не в технические учебные часы. Отдельные пятидневные билеты не опубликованы.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "Grades 1–6",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Дневная программа без пансиона.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+      "language": "Оператор прямо описывает полностью английскую среду весь день и использование English в общении с преподавателями и сверстниками.",
+      "cost": "2027 · NTD 22000 / early 19800 · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Возрастная возможность не означает место или зачисление. Уровень после трёх лет соревнований, индивидуальный иностранный приём, итоговый invoice и условия подтвердить; заявка и оплата не выполнялись.",
+      "source": "https://goodgoodenglish.com/en/summer-winter-camps-en/",
+      "references": [
+        {
+          "url": "https://goodgoodenglish.com/en/summer-winter-camps-en/",
+          "label": "Winter 2027 · prices and English throughout"
+        },
+        {
+          "url": "https://goodgoodenglish.com/wp-content/uploads/2026/10/winter_camp_poster.jpg",
+          "label": "Ten-day poster · visually checked"
+        },
+        {
+          "url": "https://goodgoodenglish.com/en/faq-en/",
+          "label": "Teaching environment and campus access"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Матвей: Реальный класс детей неизвестен. Опубликованный школьный уровень проверяется отдельно; год рождения и возраст его не заменяют. Оскар: Реальный класс детей неизвестен. Опубликованный школьный уровень проверяется отдельно; год рождения и возраст его не заменяют. Доплаты: Перелёты, жильё родителей, расходы семьи и включения итогового счёта отдельно. Оплата: Возвраты, аванс, способ оплаты, точный адрес Qingpu и иностранный индивидуальный доступ не опубликованы в прочитанных winter / FAQ; согласовать отдельно.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "sport",
+        "art",
+        "entrepreneurship"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Оператор прямо описывает полностью английскую среду весь день и использование English в общении с преподавателями и сверстниками.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "good-good-qingpu-winter-2027",
+      "camp_programme_id": "CP1245",
+      "sessions": [
+        {
+          "date": "2027-01-21",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-21T01:30:00Z",
+          "end_utc": "2027-01-21T08:00:00Z"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-22T01:30:00Z",
+          "end_utc": "2027-01-22T08:00:00Z"
+        },
+        {
+          "date": "2027-01-25",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-25T01:30:00Z",
+          "end_utc": "2027-01-25T08:00:00Z"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-26T01:30:00Z",
+          "end_utc": "2027-01-26T08:00:00Z"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-27T01:30:00Z",
+          "end_utc": "2027-01-27T08:00:00Z"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-28T01:30:00Z",
+          "end_utc": "2027-01-28T08:00:00Z"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-01-29T01:30:00Z",
+          "end_utc": "2027-01-29T08:00:00Z"
+        },
+        {
+          "date": "2027-02-01",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-02-01T01:30:00Z",
+          "end_utc": "2027-02-01T08:00:00Z"
+        },
+        {
+          "date": "2027-02-02",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-02-02T01:30:00Z",
+          "end_utc": "2027-02-02T08:00:00Z"
+        },
+        {
+          "date": "2027-02-03",
+          "start_time": "09:30",
+          "end_time": "16:00",
+          "timezone": "Asia/Taipei",
+          "topic": "Десять реальных дней: pickleball, junior golf, ice skating, международная кухня и art; затем Junior Chef, Little Artist, Junior Tailor, Marketing Master, Little CEO и Market Day. Это общий англоязычный отдых / знакомство с профессиями, не техническая роботолига.",
+          "ical_timed": true,
+          "start_utc": "2027-02-03T01:30:00Z",
+          "end_utc": "2027-02-03T08:00:00Z"
+        }
       ]
     }
   ]

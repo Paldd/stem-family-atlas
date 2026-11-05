@@ -806,7 +806,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · NTD 27 000 por curso completo; early NTD 24 000 de pago antes del pago05.12.2026 · y condiciones del expediente
 Limitaciones: Matvey: Edad 9–10 se incluye en las recomendaciones 8–12. Oscar: 6–7 por debajo de las recomendaciones 8; No se ha prometido la admisión menor. Gastos adicionales: EasyCard aproximadamente NTD 200/Día por separado; Es una referencia., cuenta de transporte no definitiva. Pago: Cancelación 14+ días:90%,7–13:50%,4–6:30%,más tarde:0. No se ha determinado suficientemente 8 a 05.01:Reintegro total.
 Fuente: https://steamsquad.io/en/camps/expedition27
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP337-20270125-20270203 · LT Brown · Edison AI Scientific Camp · 8 días de semana · 2027-01-25 CLAIM2027-02-03
 
@@ -1522,6 +1522,19 @@ Precio: 2027 · NT$13 800 Cinco días; early NT$12 800. Dos.: 27 600 /25 600 TWD
 Limitaciones: Matvey: Necesitamos el actual. 1–4 Clase; Matvey puede tener una trayectoria científica común, Si la clase y la aceptación extranjera están confirmadas. Oscar: Sólo si Oscar está en el 1–4 en clase al inscribir; preschool no permitido. 2020 Un año no lo demuestra por sí solo.. Gastos adicionales: La ropa del campamento es de primera mano. NT$300/T., Puedes usar el anterior.. Ultima pickup Por separado: No se ha establecido la tarifa de cambio. Vivienda/carretera/El vuelo de la familia por separado. Pago: Página de invierno: devolución 95% por 41+ día, 90% por 31–40, 80% por 21–30, 70% por 2–20, 50% Un día; al día de comienzo/después del comienzo/sin notificación. Se aplica el acuerdo de viaje; La transición sólo es posible en el lugar de destino. Período de descuento inicial 16 octubre — Plazo de inscripción no definitivo.
 Fuente: https://www.jgroup.com.tw/%E9%AD%94%E6%B3%95%E7%87%9F/
 Comprobado: 2026-10-06
+
+### CP1245-20270121-20270203-ten-days · Good Good English · Winter Camp 2027 · 10-day programme · 2027-01-21–2027-02-03
+
+Fecha: 2027-01-21 - 2027-02-03
+Edad: Grades 1–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Operador describe expresamente entorno íntegramente inglés durante el día y uso de English con docentes y compañeros.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · NTD 22000 / early 19800 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Devoluciones, depósito, pago, dirección exacta Qingpu y acceso extranjero individual sin publicar en winter / FAQ leídos; acordar aparte.
+Fuente: https://goodgoodenglish.com/en/summer-winter-camps-en/
+Se ha comprobado: 2026-11-05
 
 ## ~ Comprobar de nuevo
 

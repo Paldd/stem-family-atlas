@@ -116,6 +116,11 @@ def integrate(catalog, dossier_report):
                 continue
             eid=p['id']+'-'+start.replace('-','')+'-'+end.replace('-','')
             if p['timing'].get('variant_keyed'):eid+='-'+variant['variant_key']
+            if variant.get('catalogue_id'):
+                # An explicitly researched reschedule keeps its existing identity.
+                # The original date in an ID is not the current event date.
+                eid=variant['catalogue_id']
+                assert eid.startswith(p['id']+'-') and eid in previous_managed
             if end<report['asof']:
                 # Advancing the research date must not erase researched history.
                 # Do not invent new archival rows, but retain previously published ones.
@@ -170,6 +175,23 @@ def integrate(catalog, dossier_report):
         for i in p['related_event_ids']:
             if not any(x['programme_id']==p['id'] and x['event_id']==i for x in links):
                 links.append(dict(programme_id=p['id'],event_id=i,relation='related_track_or_operator'))
+        for previous_window in p['timing'].get('unconfirmed_previous',[]):
+            # Keep the researched record, but remove an uncorroborated old future
+            # date from operational calendars. Absence is not a cancellation.
+            eid=previous_window['catalogue_id']
+            assert eid.startswith(p['id']+'-') and eid in previous_managed
+            row=deepcopy(previous_managed[eid])
+            row.update(title=p['provider']+' · '+previous_window['label'],start='',end='',deadline='',
+                reported_start=previous_window['start'],reported_end=previous_window['end'],
+                date_status='Уточнить',date_scope='camp_window',date_precision='previous_listing_unconfirmed',
+                period=previous_window['note'],proof=previous_window['note'],note=previous_window['note'],
+                action='; '.join(p['questions']),source=p['sources'][0]['url'],checked=p['checked'],
+                references=[dict(url=s['url'],label=s['title']) for s in p['sources']],cost=p['price']['label'],
+                mat=FIT[p['family_fit']['matvey']['status']],osc=FIT[p['family_fit']['oscar']['status']])
+            for key in ['sessions','deadline_utc','attendance_weekdays']:row.pop(key,None)
+            new_events.append(row)
+            p['calendar_links'].append(dict(kind='unconfirmed_previous_listing',start='',end='',reported_start=previous_window['start'],reported_end=previous_window['end'],event_ids=[eid]))
+            links.append(dict(programme_id=p['id'],event_id=eid,relation='unconfirmed_previous_listing'))
     links=list({(x['programme_id'],x['event_id']):x for x in links}.values())
     assert len({e['id'] for e in new_events})==len(new_events)
     assert not set(original)&{e['id'] for e in new_events}

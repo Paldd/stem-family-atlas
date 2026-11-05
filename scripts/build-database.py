@@ -95,6 +95,8 @@ from bebras_routes_v157 import enrich_v157
 enrich_v157(d)
 from camp_winter_v158 import enrich_v158
 enrich_v158(d)
+from camp_east_asia_v159 import enrich_v159
+enrich_v159(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -216,6 +218,10 @@ d['methodology']={
  'dates':'Дата виртуального судейства не означает очную выставку; школьный отбор не является открытой семейной заявкой. Точная дата события не равна открытому набору или принятой регистрации. Необъявленные смены не получают вымышленных дат. Опубликованные окна каникул показываются отдельно от точных дней занятий и не экспортируются в календарь.'}
 DATA.write_text(json.dumps(d,ensure_ascii=False,indent=2))
 assets=ROOT/'dist/assets'; out=ROOT/'dist/downloads';out.mkdir(exist_ok=True)
+for stem in ['east-asia-winter-audit-v159','east-asia-winter-source-receipts-v159','east-asia-winter-native-schedules-v159']:
+    source_file=ROOT/'data'/(stem+'.json')
+    if source_file.exists():
+        (out/('STEM_'+stem.replace('-','_')+'.json')).write_text(source_file.read_text())
 web={k:d[k] for k in ['asof','baseline_asof','events','countries','leagues','coverage','coverage_summary','methodology','league_guide','development_routes','completeness_audit']}
 if 'family_context' in d: web['family_context']=d['family_context']
 if 'camp_focus' in d: web['camp_focus']=d['camp_focus']
@@ -511,7 +517,7 @@ if audits:
     (out/'STEM_source_audit_latest.json').write_text(latest.read_text())
 with (out/'STEM_catalog.csv').open('w',newline='',encoding='utf-8-sig') as f:
     keys=['id','block','title','country','region','city','start','end','period','date_status','deadline','deadline_label','deadline_note','deadline_utc','registration_status','age','mat','osc','format','participation','entry','gear','language','cost','scope','level','importance_reason','reward','priority','action','source','references','proof','checked','status','note','themes','languages','language_certainty','iso','related_ids','event_code','event_type','event_region','venue','admission_kind','evidence_level','published_start','published_end','sessions','planned_windows','parent_event_id','registration_url','age_reference_date','birth_start','birth_end','team_min','team_max','date_scope','exhibition_tier','visitor_policy','visitor_policy_note','adult_entry','highlights','exhibitors','exhibitor_note','exhibitor_directory_url','historical_editions','public_days','event_group','camp_dossier_slug','camp_programme_id','date_precision','date_rule','attendance_weekdays']
-    keys+=['language_mode','support_languages','provider','canonical_event_id','visitor_age_min']
+    keys+=['language_mode','support_languages','provider','canonical_event_id','visitor_age_min','reported_start','reported_end']
     w=csv.DictWriter(f,fieldnames=keys,extrasaction='ignore');w.writeheader();w.writerows({k:json.dumps(e.get(k,''),ensure_ascii=False) if isinstance(e.get(k),(list,dict)) else e.get(k,'') for k in keys} for e in d['events'])
 with (out/'STEM_country_coverage.csv').open('w',newline='',encoding='utf-8-sig') as f:
     w=csv.DictWriter(f,fieldnames=list(coverage[0]));w.writeheader();w.writerows(coverage)

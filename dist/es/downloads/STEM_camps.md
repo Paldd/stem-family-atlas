@@ -10902,6 +10902,38 @@ Limitaciones: Matvey: Para este turno, como máximo 8, a Matvey 9. Grupo general
 Fuente: https://www.campasia.asia/book-a-camp
 Comprobado: 2026-10-04
 
+### CP069-20261221-20261224 · Camp Asia · Robotics Makerspace · Robotics 6–8 · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 655 / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Bus  opción; vivienda familiar/caminos por separado, seguro especificar. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP069-20261228-20261231 · Camp Asia · Robotics Makerspace · Robotics 9–12 · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 655 / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Bus  opción; vivienda familiar/caminos por separado, seguro especificar. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
 ### CP075-20261226-20261230 · English Adventure · Winter Holiday · English Immersion · 4 noches / 5 días · 2026-12-26-2026-12-30
 
 Lugar: Japón · Mountain Park Tsunan / Niigata
@@ -10916,7 +10948,7 @@ Precio: 2026/27 · JPY 137 250 · Grades 1–6 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 2017 Entra en birth range; Necesitas una clase adecuada., fluent EN y preparación para el internado. Oscar: 2020 Sólo se aplica al nacimiento, a más tardar 01.04.2020; También Grade 1+. Más tarde, esta fecha es la actual winter No encaja. Gastos adicionales: Ski set +9 000, Ropa +6 000; luggage shipping Por separado; Nagoya +15 000; Deducción para los visitantes 7 000. Pago: Pago completo; cancelar 20–8/7–2/1 días: 20/30/40%, al día antes check-in 50%, más tarde 100%. De la devolución de la devolución 3,6% card fee; Las opciones se incluyen en la base de retención.
 Fuente: https://www.english-adventure.org/en/winter/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP075-20270103-20270106 · English Adventure · Winter Holiday · English Immersion · 3 Noche. / 4 días · 2027-01-03–2027-01-06
 
@@ -10932,7 +10964,7 @@ Precio: 2027 · JPY 120 800 · Grades 1–6 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 2017 Entra en birth range; Necesitas una clase adecuada., fluent EN y preparación para el internado. Oscar: 2020 Sólo se aplica al nacimiento, a más tardar 01.04.2020; También Grade 1+. Más tarde, esta fecha es la actual winter No encaja. Gastos adicionales: Ski set +9 000, Ropa +6 000; luggage shipping Por separado; Nagoya +15 000; Deducción para los visitantes 7 000. Pago: Pago completo; cancelar 20–8/7–2/1 días: 20/30/40%, al día antes check-in 50%, más tarde 100%. De la devolución de la devolución 3,6% card fee; Las opciones se incluyen en la base de retención.
 Fuente: https://www.english-adventure.org/en/winter/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP077-20261012-20261016 · LCCL · Early Creators · Early Creators · 14:30–17:30 · 2026-10-12–2026-10-16
 
@@ -17940,7 +17972,7 @@ Precio: 2027 · NTD 27 000 por curso completo; early NTD 24 000 de pago antes de
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 se incluye en las recomendaciones 8–12. Oscar: 6–7 por debajo de las recomendaciones 8; No se ha prometido la admisión menor. Gastos adicionales: EasyCard aproximadamente NTD 200/Día por separado; Es una referencia., cuenta de transporte no definitiva. Pago: Cancelación 14+ días:90%,7–13:50%,4–6:30%,más tarde:0. No se ha determinado suficientemente 8 a 05.01:Reintegro total.
 Fuente: https://steamsquad.io/en/camps/expedition27
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP287-20270627-20270710 · Camp Emerson · Two-Week General Camp · Two-Week General Camp · 2027-06-27–2027-07-10
 
@@ -31864,7 +31896,7 @@ Comprobado: 2026-10-05
 
 ### CP709-20261219-20261224-dec19 · EIMx / LITA · West End in a Week · Festive · LITA festive /6días · 2026-12-19–2026-12-24
 
-Lugar: China · Beijing / Shanghai · campus específico de la semana seleccionada
+Lugar: China · Beijing
 Fecha: 2026-12-19 国 2026-12-24
 Edad: 11–17
 Matvey: No ahora; la edad futura
@@ -31872,43 +31904,27 @@ Matvey: No ahora; la edad futura
 Formato: day_camp
 Idioma: Entirely English: canciones, scripts, rehearsal y tutor feedback; se necesita una buena EN comprehensive/communication; no es obligatorio tener experiencia de trabajo.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2026/27 · RMB14800 standard;12850 EIM · pagos complementarios y condiciones de archivo
+Precio: 2026/27 · RMB 14800 standard; PDF student 13350 / expired early 12850 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al menos 11; a Matvey 8–9 diciembre 2026. Oscar: Al menos 11; a Oscar 5–6 diciembre 2026. Gastos adicionales: Carretera, vivienda de los padres, guardarropas y derechos adicionales desconocidos. Pago: Un contrato completo, Recepción individual extranjera, Seguro médico, Lugares y cuenta final que requieren confirmación. No se presentaron solicitudes.
+Limitaciones: Matvey: Mínimo 11; a finales de 2026 niños de 9 y 6, ambos menores del mínimo. Oscar: Mínimo 11; a finales de 2026 niños de 9 y 6, ambos menores del mínimo. Suplementos: El camino, la vivienda de los padres, el armario y las tarifas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
 Fuente: https://www.dulwich.org/world/camps
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
-### CP709-20261226-20261231-dec26 · EIMx / LITA · West End in a Week · Festive · LITA festive /6días · 2026-12-26–2026-12-31
+### CP709-20261226-20261231-dec26 · EIMx / LITA · West End in a Week · Festive · LITA festive /6día · 2026-12-27–2027-01-01
 
-Lugar: China · Beijing / Shanghai · campus específico de la semana seleccionada
-Fecha: 2026-12-26 - 2026-12-31
+lugar: China · Shanghai
+Fecha: 2026-12-27 — 2027-01-01
 Edad: 11–17
 Matvey: No ahora; la edad futura
 Óscar: No ahora; la edad futura
 Formato: day_camp
 Idioma: Entirely English: canciones, scripts, rehearsal y tutor feedback; se necesita una buena EN comprehensive/communication; no es obligatorio tener experiencia de trabajo.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2026/27 · RMB14800 standard;12850 EIM · pagos complementarios y condiciones de archivo
+Precio: 2026/27 · RMB 14800 standard; PDF student 13350 / expired early 12850 · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Al menos 11; a Matvey 8–9 diciembre 2026. Oscar: Al menos 11; a Oscar 5–6 diciembre 2026. Gastos adicionales: Carretera, vivienda de los padres, guardarropas y derechos adicionales desconocidos. Pago: Un contrato completo, Recepción individual extranjera, Seguro médico, Lugares y cuenta final que requieren confirmación. No se presentaron solicitudes.
+Limitaciones: Matvey: Mínimo 11; a finales de 2026 niños de 9 y 6, ambos menores del mínimo. Oscar: Mínimo 11; a finales de 2026 niños de 9 y 6, ambos menores del mínimo. Suplementos: El camino, la vivienda de los padres, el armario y las tarifas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
 Fuente: https://www.dulwich.org/world/camps
-Comprobado: 2026-10-05
-
-### CP710-20261222-20261231-dec22 · EIMx / Funlink · Finland Winter Wonderland · Parent-child /10días9noches · 2026-12-22–2026-12-31
-
-Lugar: Finlandia · Helsinki 国 Rovaniemi 国 Northern Finland; operador de EIMx/Dulwich
-Fecha: 2026-12-22 国 2026-12-31
-Edad: 6–17, Generalmente junto con los padres
-Matway: Sí, por edad; inscripción separada
-Óscar: Condicional; comprobar la edad, la clase y la admisión
-Formato: day_camp
-Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
-Marca de idioma: camp_life; soporte: no declarado
-Costo: 2026/27 · IndicativeRMB40800; unidad de la tarifa/precio familiar desconocida · complementos y condiciones en el expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada, con los padres; confirmar snow activity gates. Oscar: Para diciembre, sólo después de 6 años; en 2027 Sí. 6–7. Ropa de invierno, snow activities y full family invoice Por separado. Gastos adicionales: International Y domestic Finnish flights y visa fees suprimidos. Reubicación septentrional overnight train OR domestic flight, logística final desconocida: no considerar vuelos en activo local transport. Seguro, winter clothes y adicionales meals Desconocidos. Pago: Un contrato completo, Recepción individual extranjera, Seguro médico, Lugares y cuenta final que requieren confirmación. No se presentaron solicitudes.
-Fuente: https://www.dulwich.org/world/camps
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP710-20270126-20270204-jan26 · EIMx / Funlink · Finland Winter Wonderland · Parent-child /10días9noches · 2027-01-26–2027-02-04
 
@@ -31916,15 +31932,15 @@ Lugar: Finlandia · Helsinki 国 Rovaniemi 国 Northern Finland; operador de EIM
 Fecha: 2027-01-26 - 2027-02-04
 Edad: 6–17, Generalmente junto con los padres
 Matway: Sí, por edad; inscripción separada
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
 Marca de idioma: camp_life; soporte: no declarado
-Costo: 2027 · IndicativeRMB40800; unidad de tarifa/precio familiar desconocida · complementos y condiciones en el expediente
+Precio: 2027 · RMB 43000 standard / 41800 EiM / 40800 early; unidad de tarifa desconocida · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada, con los padres; confirmar snow activity gates. Oscar: Para diciembre, sólo después de 6 años; en 2027 Sí. 6–7. Ropa de invierno, snow activities y full family invoice Por separado. Gastos adicionales: International Y domestic Finnish flights y visa fees suprimidos. Reubicación septentrional overnight train OR domestic flight, logística final desconocida: no considerar vuelos en activo local transport. Seguro, winter clothes y adicionales meals Desconocidos. Pago: Un contrato completo, Recepción individual extranjera, Seguro médico, Lugares y cuenta final que requieren confirmación. No se presentaron solicitudes.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Los vuelos internacionales y nacionales de Finlandia y las tarifas de visa están excluidos. el traslado norte overnight train OR domestic flight, la logística final es desconocida: no se considera el traslado aéreo incluido en el transporte local. el seguro, la ropa de invierno y las comidas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
 Fuente: https://www.dulwich.org/world/camps
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP710-20270211-20270220-feb11 · EIMx / Funlink · Finland Winter Wonderland · Parent-child /10días9noches · 2027-02-11–2027-02-20
 
@@ -31932,15 +31948,31 @@ Lugar: Finlandia · Helsinki 国 Rovaniemi 国 Northern Finland; operador de EIM
 Fecha: 2027-02-11 国 2027-02-20
 Edad: 6–17, Generalmente junto con los padres
 Matway: Sí, por edad; inscripción separada
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Oscar: Sí por edad; inscripción separada
 Formato: day_camp
 Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
 Marca de idioma: camp_life; soporte: no declarado
-Costo: 2027 · IndicativeRMB40800; unidad de tarifa/precio familiar desconocida · complementos y condiciones en el expediente
+Precio: 2027 · RMB 43000 standard / 41800 EiM / 40800 early; unidad de tarifa desconocida · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: La edad es la adecuada, con los padres; confirmar snow activity gates. Oscar: Para diciembre, sólo después de 6 años; en 2027 Sí. 6–7. Ropa de invierno, snow activities y full family invoice Por separado. Gastos adicionales: International Y domestic Finnish flights y visa fees suprimidos. Reubicación septentrional overnight train OR domestic flight, logística final desconocida: no considerar vuelos en activo local transport. Seguro, winter clothes y adicionales meals Desconocidos. Pago: Un contrato completo, Recepción individual extranjera, Seguro médico, Lugares y cuenta final que requieren confirmación. No se presentaron solicitudes.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Los vuelos internacionales y nacionales de Finlandia y las tarifas de visa están excluidos. el traslado norte overnight train OR domestic flight, la logística final es desconocida: no se considera el traslado aéreo incluido en el transporte local. el seguro, la ropa de invierno y las comidas adicionales no se conocen. Pago: el contrato completo, la recepción individual extranjera, el seguro médico, el lugar y la cuenta final requieren confirmación.
 Fuente: https://www.dulwich.org/world/camps
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
+
+### CP710-20261222-20261231-dec22 · EIMx / Funlink · Finland Winter Wonderland · Fecha de diciembre anterior · pendiente de corroborar
+
+Lugar: Finlandia · Helsinki 国 Rovaniemi 国 Northern Finland; operador de EIMx/Dulwich
+Fecha: 22–31 de diciembre de 2026 publicado en fuente anterior. HTML y PDF vigentes no muestran esa salida: fecha retirada del calendario operativo, cancelación sin acreditar. No comprar viaje con fecha antigua hasta anuncio nuevo; revisar copia de calendario importada previamente por separado.
+Edad: 6–17, Generalmente junto con los padres
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: English ○ principal idioma, Chinese-speaking team support, es un programa directo de declaración, no una suposición de sitio web.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: PDF: RMB 43000 estándar, 41800 EiM student, 40800 early; HTML aún muestra indicative 40800 con plazo 31 de octubre. Unidad niño / adulto / familia sin establecer; no multiplicar automáticamente.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: 22–31 de diciembre de 2026 publicado en fuente anterior. HTML y PDF vigentes no muestran esa salida: fecha retirada del calendario operativo, cancelación sin acreditar. No comprar viaje con fecha antigua hasta anuncio nuevo; revisar copia de calendario importada previamente por separado.
+Fuente: https://www.dulwich.org/world/camps
+Se ha comprobado: 2026-11-05
 
 ### CP720-20261221-20261224-winter · AISL Outdoor / Harrow · Eco Bot Patrol · Mission Green City · EcoBot Patrol · Mission Green City · 2026-12-21–2026-12-24
 
@@ -39924,7 +39956,7 @@ Precio: 2027 · CHF 4 586 por participante / 11 días, 10 noches. · y condicion
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Matway llega a 10 en 2027; en 10 Febrero debe ser 10. Antes del cumpleaños no se corresponde con la edad mínima. Oscar: a Oscar 6–7 en 2027, Menos de la edad mínima 10. Gastos adicionales: Zurich Airport pick-up CHF 300: No se ha demostrado una transferencia de fondos gratuita. Single/shared bathroom +500; single ensuite +1 000; pocket money 50–100. Travel/medical outdoor insurance y winter gear rental Por separado, según el paquete seleccionado. Pago: Escala pública del anticipo/No se encontró ninguna cancelación en la página de invierno que se leía; aplicabilidad summer terms no se transfiere automáticamente.
 Fuente: https://hif.ch/camps/winter-camp-2027/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-05
 
 ### CP1017-20261020-20261023 · Cobo Academy · LEGO SPIKE Prime · Junior · LEGO SPIKE Prime · Junior · 2026-10-20–2026-10-23
 
@@ -45844,6 +45876,4502 @@ Precio: 2026/27 · Tabla general PA Day: public $57 / member $51.50. Confirmar m
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Matvey ya tiene 9, cumple grupo 9–11 por edad; enlace actual de billete 404, admisión / plaza sin confirmar. Oscar: Oscar tiene 6: elegir ficha separada Robo Ready 6–8 CP218. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Comprobar condiciones actuales de reserva y cancelación: enlace actual 9–11 https://order.sciencenorth.ca/183346/183381 responde 404. Sin consentimientos ni solicitud.
 Fuente: https://www.sciencenorth.ca/school-break-camps
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127186433-127185133 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127186633-127185233 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127191033-127549439 · ESF Explore · Drama Loop · ESF Renaissance College · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127191233-127549539 · ESF Explore · Drama Loop · ESF Renaissance College · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127195733 · ESF Explore · Drama Loop · ESF Language & Learning Centre (Wan Chai) · 6–8 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127196933 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261214-20261218-native-127198633 · ESF Explore · Drama Loop · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127187033-127185433 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127187233-127185533 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127191633-127549739 · ESF Explore · Drama Loop · ESF Renaissance College · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127191833-127549839 · ESF Explore · Drama Loop · ESF Renaissance College · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127195833 · ESF Explore · Drama Loop · ESF Language & Learning Centre (Wan Chai) · 6–8 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127197033 · ESF Explore · Drama Loop · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1208-20261228-20261231-native-127198733 · ESF Explore · Drama Loop · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261214-20261218-native-127192033-127549439 · ESF Explore · Winter Wonders in Spanish · ESF Renaissance College · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261214-20261218-native-127192233-127549539 · ESF Explore · Winter Wonders in Spanish · ESF Renaissance College · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261214-20261218-native-127192433-127549639 · ESF Explore · Winter Wonders in Spanish · ESF Renaissance College · 9–11 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261214-20261218-native-127198833 · ESF Explore · Winter Wonders in Spanish · ESF Renaissance College · 6–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261228-20261231-native-127187433-127185433 · ESF Explore · Winter Wonders in Spanish · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261228-20261231-native-127187633-127185533 · ESF Explore · Winter Wonders in Spanish · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261228-20261231-native-127187833-127185633 · ESF Explore · Winter Wonders in Spanish · ESF Kowloon Junior School · 9–11 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1209-20261228-20261231-native-127197133 · ESF Explore · Winter Wonders in Spanish · ESF Kowloon Junior School · 6–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127188033-127185133 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127188233-127185233 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127192633-127549439 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127197233 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127198933 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261214-20261218-native-127192833-127549539 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127188433-127185433 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127188633-127185533 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127193033-127549739 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127197333 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4380 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127199033 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4380 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1210-20261228-20261231-native-127193233-127549839 · ESF Explore · Pokemon-Inspired STEAM Lab · ESF Renaissance College · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127188833-127185133 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127189033-127185233 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127193433-127549439 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 6–6 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127193633-127549539 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 7–8 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127195933 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Language & Learning Centre (Wan Chai) · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127197433 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261214-20261218-native-127199133 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127189233-127185433 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127189433-127185533 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127193833-127549739 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 6–6 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+edad: 6–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127194033-127549839 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 7–8 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127196033 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Language & Learning Centre (Wan Chai) · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127197533 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1211-20261228-20261231-native-127199233 · ESF Explore · MakeCode Arcade · Pixel Game Studio · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261214-20261218-native-127189633-127185333 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Kowloon Junior School · 9–11 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261214-20261218-native-127196133 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Language & Learning Centre (Wan Chai) · 9–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261214-20261218-native-127197633 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Kowloon Junior School · 9–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261214-20261218-native-127199333 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Renaissance College · 9–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261214-20261218-native-127194233-127549639 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Renaissance College · 9–11 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8625 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261228-20261231-native-127189833-127185633 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Kowloon Junior School · 9–11 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261228-20261231-native-127194433-127549939 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Renaissance College · 9–11 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261228-20261231-native-127196233 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Language & Learning Centre (Wan Chai) · 9–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261228-20261231-native-127197733 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Kowloon Junior School · 9–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1212-20261228-20261231-native-127199433 · ESF Explore · Mini-Game Lab · Co-Op Creators · ESF Renaissance College · 9–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3120 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261214-20261218-native-127190033-127185333 · ESF Explore · Entrepreneur Launchpad · ESF Kowloon Junior School · 9–11 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10275 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261214-20261218-native-127196333 · ESF Explore · Entrepreneur Launchpad · ESF Language & Learning Centre (Wan Chai) · 9–11 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261214-20261218-native-127198033 · ESF Explore · Entrepreneur Launchpad · ESF Kowloon Junior School · 9–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261214-20261218-native-127199733 · ESF Explore · Entrepreneur Launchpad · ESF Renaissance College · 9–11 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5550 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261214-20261218-native-127194633-127549639 · ESF Explore · Entrepreneur Launchpad · ESF Renaissance College · 9–11 · Full Day · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 10275 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261228-20261231-native-127190233-127185633 · ESF Explore · Entrepreneur Launchpad · ESF Kowloon Junior School · 9–11 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8220 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261228-20261231-native-127194833-127549939 · ESF Explore · Entrepreneur Launchpad · ESF Renaissance College · 9–11 · Full Day · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 8220 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261228-20261231-native-127196433 · ESF Explore · Entrepreneur Launchpad · ESF Language & Learning Centre (Wan Chai) · 9–11 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4440 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261228-20261231-native-127198133 · ESF Explore · Entrepreneur Launchpad · ESF Kowloon Junior School · 9–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4440 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1213-20261228-20261231-native-127199833 · ESF Explore · Entrepreneur Launchpad · ESF Renaissance College · 9–11 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4440 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1214-20261221-20261221-native-127202133 · ESF Explore · Fiesta de Navidad · Spanish Crafts & Treats · ESF Kowloon Junior School · 6–11 · 09:00–12:00 · 2026-12-21–2026-12-21
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 — 2026-12-21
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1214-20261222-20261222-native-127202833 · ESF Explore · Fiesta de Navidad · Spanish Crafts & Treats · ESF Renaissance College · 6–11 · 09:00–12:00 · 2026-12-22–2026-12-22
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-22 — 2026-12-22
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1214-20261223-20261223-native-127204333 · ESF Explore · Fiesta de Navidad · Spanish Crafts & Treats · ESF Language & Learning Centre (Wan Chai) · 6–11 · 09:00–12:00 · 2026-12-23–2026-12-23
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-23 — 2026-12-23
+edad: 6–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261221-20261221-native-127201933 · ESF Explore · Primary Magical Winter Workshop · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-21–2026-12-21
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261221-20261221-native-127202633 · ESF Explore · Primary Magical Winter Workshop · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-21–2026-12-21
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261221-20261221-native-127204133 · ESF Explore · Primary Magical Winter Workshop · ESF Language & Learning Centre (Wan Chai) · 6–8 · 09:00–12:00 · 2026-12-21–2026-12-21
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261222-20261222-native-127202033 · ESF Explore · Primary Magical Winter Workshop · ESF Kowloon Junior School · 6–8 · 09:00–12:00 · 2026-12-22–2026-12-22
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261222-20261222-native-127202733 · ESF Explore · Primary Magical Winter Workshop · ESF Renaissance College · 6–8 · 09:00–12:00 · 2026-12-22–2026-12-22
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1215-20261222-20261222-native-127204233 · ESF Explore · Primary Magical Winter Workshop · ESF Language & Learning Centre (Wan Chai) · 6–8 · 09:00–12:00 · 2026-12-22–2026-12-22
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 840 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1216-20261221-20261221-native-127204433 · ESF Explore · Merry and Bright Playtime · ESF Language & Learning Centre (Wan Chai) · 4–6 · 14:00–16:00 · 2026-12-21–2026-12-21
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-21 — 2026-12-21
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 480 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1216-20261222-20261222-native-127204533 · ESF Explore · Merry and Bright Playtime · ESF Language & Learning Centre (Wan Chai) · 4–6 · 14:00–16:00 · 2026-12-22–2026-12-22
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 480 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1216-20261223-20261223-native-127204633 · ESF Explore · Merry and Bright Playtime · ESF Language & Learning Centre (Wan Chai) · 4–6 · 14:00–16:00 · 2026-12-23–2026-12-23
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 480 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1216-20261224-20261224-native-127204733 · ESF Explore · Merry and Bright Playtime · ESF Language & Learning Centre (Wan Chai) · 4–6 · 14:00–16:00 · 2026-12-24–2026-12-24
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-24 — 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 480 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261219-20261219-native-127534532 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 10:00–11:00 · 2026-12-19–2026-12-19
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-19 - 2026-12-19
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261219-20261219-native-127543733 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 11:30–12:30 · 2026-12-19–2026-12-19
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-19 - 2026-12-19
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261219-20261219-native-127544835 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 13:30–14:30 · 2026-12-19–2026-12-19
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-19 - 2026-12-19
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261219-20261219-native-127546443 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 15:00–16:00 · 2026-12-19–2026-12-19
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-19 - 2026-12-19
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261220-20261220-native-127560239 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 10:00–11:00 · 2026-12-20–2026-12-20
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-20 国 2026-12-20
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261220-20261220-native-127560339 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 11:30–12:30 · 2026-12-20–2026-12-20
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-20 国 2026-12-20
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261220-20261220-native-127560439 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 13:30–14:30 · 2026-12-20–2026-12-20
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-20 国 2026-12-20
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1217-20261220-20261220-native-127560539 · ESF Explore · Storytime with Santa · Parent & Child · ESF Language & Learning Centre (Wan Chai) · 0–11 · 15:00–16:00 · 2026-12-20–2026-12-20
+
+lugar: Hong Kong · ESF Language & Learning Centre (Wan Chai)
+Fecha: 2026-12-20 国 2026-12-20
+edad: 0–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 798 / un adulto y un niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127244834 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 09:30–10:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245434 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 10:30–11:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127244934 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 6–9 · 09:30–10:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245034 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 9–17 · 09:30–11:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245134 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 4–7 · 10:00–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245234 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:00–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245334 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:30–11:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245534 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245634 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261214-20261218-native-127245734 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1425 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127245834 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 09:30–10:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246434 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 10:30–11:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127245934 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 6–9 · 09:30–10:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246034 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 9–17 · 09:30–11:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246134 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 4–7 · 10:00–10:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–7
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246234 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:00–10:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246334 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:30–11:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246534 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246634 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261221-20261224-native-127246734 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127246834 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 09:30–10:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247434 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 3–6 · 10:30–11:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127246934 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 6–9 · 09:30–10:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247034 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 9–17 · 09:30–11:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247134 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 4–7 · 10:00–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–7
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247234 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:00–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247334 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 5–8 · 10:30–11:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–8
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247534 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247634 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1218-20261228-20261231-native-127247734 · ESF Explore · Swimming · SWC levels · ESF Renaissance College · 7–17 · 11:00–11:45 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–17
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1140 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127251634 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 5–6 · 09:00–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127251934 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 5–6 · 09:00–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252234 · ESF Explore · Gymnastics · GYC levels · ESF Kowloon Junior School · 5–6 · 16:30–18:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252434 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 5–6 · 09:00–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127251734 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 7–8 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252034 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 7–8 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252334 · ESF Explore · Gymnastics · GYC levels · ESF Kowloon Junior School · 7–8 · 16:30–18:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2475 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252534 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 7–8 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127251834 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 9–10 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252134 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 9–10 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261214-20261218-native-127252634 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 9–10 · 10:30–12:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127252734 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 5–6 · 09:00–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1980 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253034 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 5–6 · 09:00–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1980 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253334 · ESF Explore · Gymnastics · GYC levels · ESF Kowloon Junior School · 5–6 · 16:30–18:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1980 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253534 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 5–6 · 09:00–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1980 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127252834 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 7–8 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253134 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 7–8 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253434 · ESF Explore · Gymnastics · GYC levels · ESF Kowloon Junior School · 7–8 · 16:30–18:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1980 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253634 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 7–8 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127252934 · ESF Explore · Gymnastics · GYC levels · ESF Glenealy School · 9–10 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Glenealy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253234 · ESF Explore · Gymnastics · GYC levels · ESF Kennedy School · 9–10 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kennedy School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1219-20261228-20261231-native-127253734 · ESF Explore · Gymnastics · GYC levels · ESF Renaissance College · 9–10 · 10:30–12:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127253834 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 5–7 · 09:30–10:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127254034 · ESF Explore · Football · FBC levels · ESF Renaissance College · 5–7 · 09:15–10:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127254234 · ESF Explore · Football · FBC levels · ESF South Island School · 5–7 · 09:15–10:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127253934 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 8–11 · 10:30–11:30 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127254134 · ESF Explore · Football · FBC levels · ESF Renaissance College · 8–11 · 10:15–11:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261214-20261218-native-127254334 · ESF Explore · Football · FBC levels · ESF South Island School · 8–11 · 10:15–11:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127254434 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 5–7 · 09:30–10:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127254634 · ESF Explore · Football · FBC levels · ESF Renaissance College · 5–7 · 09:30–10:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127532039 · ESF Explore · Football · FBC levels · ESF South Island School · 5–7 · 09:15–10:15 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127254534 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 8–11 · 10:30–11:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127254734 · ESF Explore · Football · FBC levels · ESF Renaissance College · 8–11 · 10:30–11:30 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261221-20261224-native-127254934 · ESF Explore · Football · FBC levels · ESF South Island School · 8–11 · 10:15–11:15 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255034 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 5–7 · 09:30–10:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255434 · ESF Explore · Football · FBC levels · ESF South Island School · 5–7 · 09:15–10:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255234 · ESF Explore · Football · FBC levels · ESF Renaissance College · 5–7 · 09:15–10:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255134 · ESF Explore · Football · FBC levels · ESF Kowloon Junior School · 8–11 · 10:30–11:30 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255334 · ESF Explore · Football · FBC levels · ESF Renaissance College · 8–11 · 10:15–11:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1220-20261228-20261231-native-127255534 · ESF Explore · Football · FBC levels · ESF South Island School · 8–11 · 10:15–11:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127240234 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 5–6 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127241734 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 5–6 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127243234 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 5–6 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127240334 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 7–8 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127241834 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 7–8 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127243334 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 7–8 · 09:00–12:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127240434 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 9–11 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261214-20261218-native-127241934 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 9–11 · 13:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 4725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127240734 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 5–6 · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127242234 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 5–6 · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127243634 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 5–6 · 09:00–12:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127240834 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 7–8 · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127242334 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 7–8 · 13:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261221-20261224-native-127243734 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 7–8 · 09:00–12:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127241234 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 5–6 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127242734 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 5–6 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127244034 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 5–6 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127241334 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 7–8 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127242834 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 7–8 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127244134 · ESF Explore · Multi-Sports · Dry Camp · ESF South Island School · 7–8 · 09:00–12:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF South Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127241434 · ESF Explore · Multi-Sports · Dry Camp · ESF Kowloon Junior School · 9–11 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1221-20261228-20261231-native-127242934 · ESF Explore · Multi-Sports · Dry Camp · ESF Renaissance College · 9–11 · 13:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Renaissance College
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261214-20261218-native-127247834 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 5–6 · 09:15–10:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261214-20261218-native-127247934 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 7–8 · 09:15–10:15 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261214-20261218-native-127248034 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 9–10 · 10:15–11:45 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2250 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261214-20261218-native-127248134 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 11–12 · 10:15–11:45 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 11*12
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2250 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261221-20261224-native-127248234 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 5–6 · 09:15–10:15 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261221-20261224-native-127248334 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 7–8 · 09:15–10:15 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261221-20261224-native-127248434 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 9–10 · 10:15–11:45 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261221-20261224-native-127248534 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 11–12 · 10:15–11:45 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 11*12
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261228-20261231-native-127248634 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 5–6 · 09:15–10:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261228-20261231-native-127248734 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 7–8 · 09:15–10:15 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261228-20261231-native-127248834 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 9–10 · 10:15–11:45 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1222-20261228-20261231-native-127248934 · ESF Explore · Basketball · BBC levels · ESF Kowloon Junior School · 11–12 · 10:15–11:45 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF Kowloon Junior School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 11*12
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 1800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127249234 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 09:00–11:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127249534 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 16:00–18:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127250434 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 09:00–11:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127250734 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 16:00–18:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127249334 · ESF Explore · Tennis · TENC levels · ESF King George V School · 7–8 · 11:00–13:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127250534 · ESF Explore · Tennis · TENC levels · ESF West Island School · 7–8 · 11:00–13:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127249434 · ESF Explore · Tennis · TENC levels · ESF King George V School · 9–11 · 14:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261214-20261218-native-127250634 · ESF Explore · Tennis · TENC levels · ESF West Island School · 9–11 · 14:00–16:00 · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3300 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127249634 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 09:00–11:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127249934 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 16:00–18:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127250834 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 09:00–11:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127251134 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 16:00–18:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127249734 · ESF Explore · Tennis · TENC levels · ESF King George V School · 7–8 · 11:00–13:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127250934 · ESF Explore · Tennis · TENC levels · ESF West Island School · 7–8 · 11:00–13:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127249834 · ESF Explore · Tennis · TENC levels · ESF King George V School · 9–11 · 14:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261221-20261224-native-127251034 · ESF Explore · Tennis · TENC levels · ESF West Island School · 9–11 · 14:00–16:00 · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127250034 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 09:00–11:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127250334 · ESF Explore · Tennis · TENC levels · ESF King George V School · 4–6 · 16:00–18:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127251234 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 09:00–11:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127251534 · ESF Explore · Tennis · TENC levels · ESF West Island School · 4–6 · 16:00–18:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127250134 · ESF Explore · Tennis · TENC levels · ESF King George V School · 7–8 · 11:00–13:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127251334 · ESF Explore · Tennis · TENC levels · ESF West Island School · 7–8 · 11:00–13:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–8
+Matway: No según la pista seleccionada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127250234 · ESF Explore · Tennis · TENC levels · ESF King George V School · 9–11 · 14:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF King George V School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1223-20261228-20261231-native-127251434 · ESF Explore · Tennis · TENC levels · ESF West Island School · 9–11 · 14:00–16:00 · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · ESF West Island School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: ESF describe expresamente programas impartidos en inglés. Spanish Beginner / Fiesta son clases de español; en jornada completa deportes de tarde en inglés, por tanto bloques de idiomas mixtos, no día entero solo en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 2640 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Full day 09–16: supervisión de almuerzo 12–13, pero llevar lunch, dos meriendas y agua; sin entrega de comida, nevera ni microondas. Calzado deportivo que no marque; acordar acceso / recogida y acompañamiento adulto de menores. Portátil y adaptador para coding aparte. Pago: Holiday policy: con 3 o más días antes de primera clase, sin contar día de clase, devolución menos HKD 200; menos de 3 días sin devolución / crédito. Un cambio semanal con mismo plazo y cargo 200. Enfermedad superior al 50% del campamento con certificado dentro de 7 días: 80% de crédito, no cash refund. Cancelación meteorológica normalmente 50% de crédito anual. Full day combina dos enrollment: acordar número de cargos administrativos. Promoción no retroactiva; sin consentimientos.
+Fuente: https://www.esfexplore.org.hk/winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1224-20261221-20261224-week-2 · Camp Asia Singapore · Kidz Economy · Kidz Economy · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1224-20261228-20261231-week-3 · Camp Asia Singapore · Kidz Economy · Kidz Economy · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1224-20270104-20270108-week-4 · Camp Asia Singapore · Kidz Economy · Kidz Economy · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1225-20261221-20261224-week-2 · Camp Asia Singapore · Multi-Activity · Multi-Activity · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+edad: 3–4 / 5–6 / 7–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1225-20261228-20261231-week-3 · Camp Asia Singapore · Multi-Activity · Multi-Activity · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+edad: 3–4 / 5–6 / 7–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1225-20270104-20270108-week-4 · Camp Asia Singapore · Multi-Activity · Multi-Activity · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+edad: 3–4 / 5–6 / 7–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1226-20261221-20261224-week-2 · Camp Asia Singapore · Little Clay Gardeners · Little Clay Gardeners · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1226-20270104-20270108-week-4 · Camp Asia Singapore · Little Clay Gardeners · Little Clay Gardeners · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1227-20261221-20261224-week-2 · Camp Asia Singapore · Parkour · Parkour · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1227-20261228-20261231-week-3 · Camp Asia Singapore · Parkour · Parkour · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1227-20270104-20270108-week-4 · Camp Asia Singapore · Parkour · Parkour · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–13
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1228-20261221-20261224-week-2 · Camp Asia Singapore · Super Gymnastics · Super Gymnastics · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6 / 7–8 / 9–12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1228-20261228-20261231-week-3 · Camp Asia Singapore · Super Gymnastics · Super Gymnastics · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6 / 7–8 / 9–12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1228-20270104-20270108-week-4 · Camp Asia Singapore · Super Gymnastics · Super Gymnastics · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 5–6 / 7–8 / 9–12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1229-20261221-20261224-week-2 · Camp Asia Singapore · Junior Scientist · Junior Scientist · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1229-20270104-20270108-week-4 · Camp Asia Singapore · Junior Scientist · Junior Scientist · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1230-20261221-20261224-week-2 · Camp Asia Singapore · Fabric Hackerspace · Fabric Hackerspace · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 730 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1230-20270104-20270108-week-4 · Camp Asia Singapore · Fabric Hackerspace · Fabric Hackerspace · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 780 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1231-20261228-20261231-week-3 · Camp Asia Singapore · Future City · Future City · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1232-20261221-20261224-week-2 · Camp Asia Singapore · Drama Academy · Drama Academy · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1232-20261228-20261231-week-3 · Camp Asia Singapore · Drama Academy · Drama Academy · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1233-20261221-20261224-week-2 · Camp Asia Singapore · Music Explorers · Music Explorers · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1233-20261228-20261231-week-3 · Camp Asia Singapore · Music Explorers · Music Explorers · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1234-20261221-20261224-week-2 · Camp Asia Singapore · Conversational English · Conversational English · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1235-20261221-20261224-week-2 · Camp Asia Singapore · Passion for Art · Passion for Art · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 655 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1235-20261228-20261231-week-3 · Camp Asia Singapore · Passion for Art · Passion for Art · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 655 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1236-20261214-20261218-week-1 · Camp Asia Singapore · Super Chef · Super Chef · Australian International School · 2026-12-14–2026-12-18
+
+Lugar: Singapur Australian International School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 6–8 / 9–11
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1236-20261221-20261224-week-2 · Camp Asia Singapore · Super Chef · Super Chef · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 6–8 / 9–11 / 12–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1236-20261228-20261231-week-3 · Camp Asia Singapore · Super Chef · Super Chef · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–8 / 9–11 / 12–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 725 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1236-20270104-20270108-week-4 · Camp Asia Singapore · Super Chef · Super Chef · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 6–8 / 9–11 / 12–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1237-20261214-20261218-week-1 · Camp Asia Singapore · Super Swim · Super Swim · Australian International School · 2026-12-14–2026-12-18
+
+Lugar: Singapur Australian International School
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1237-20261221-20261224-week-2 · Camp Asia Singapore · Super Swim · Super Swim · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1237-20261228-20261231-week-3 · Camp Asia Singapore · Super Swim · Super Swim · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1237-20270104-20270108-week-4 · Camp Asia Singapore · Super Swim · Super Swim · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1238-20261221-20261224-week-2 · Camp Asia Singapore · Super Basketball · Super Basketball · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 7–10 / 11–16
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1238-20261228-20261231-week-3 · Camp Asia Singapore · Super Basketball · Super Basketball · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–10 / 11–16
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1238-20270104-20270108-week-4 · Camp Asia Singapore · Super Basketball · Super Basketball · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 7–10 / 11–16
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1239-20261221-20261224-week-2 · Camp Asia Singapore · Super Soccer · Super Soccer · Stamford American International School · 2026-12-21–2026-12-24
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 5–6 / 7–10 / 11–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1239-20261228-20261231-week-3 · Camp Asia Singapore · Super Soccer · Super Soccer · Stamford American International School · 2026-12-28–2026-12-31
+
+Lugar: Singapur Stamford American International School
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 5–6 / 7–10 / 11–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · SGD 705 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1239-20270104-20270108-week-4 · Camp Asia Singapore · Super Soccer · Super Soccer · Stamford American International School · 2027-01-04–2027-01-08
+
+Lugar: Singapur Stamford American International School
+Fecha: 2027-01-04 — 2027-01-08
+Edad: 5–6 / 7–10 / 11–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · SGD 760 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Autobús aparte; llevar agua, gorro y protector solar, ropa adecuada para actividades acuáticas. Accident / medical insurance personal familiar aparte. Sin aplicar descuento por hermanos. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
+Fuente: https://www.campasia.asia/book-a-camp
+Se ha comprobado: 2026-11-05
+
+### CP1240-20261214-20261218-20261214-half · Camp Asia Hong Kong · Cobo Minecraft Education · Cobo Minecraft Education · HALF · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/coding-ii/
+Se ha comprobado: 2026-11-05
+
+### CP1240-20261214-20261218-20261214-full · Camp Asia Hong Kong · Cobo Minecraft Education · Cobo Minecraft Education · FULL · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/coding-ii/
+Se ha comprobado: 2026-11-05
+
+### CP1241-20261228-20261231-20261228-half · Camp Asia Hong Kong · STEM Explorers · STEM Explorers · HALF · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1241-20261228-20261231-20261228-full · Camp Asia Hong Kong · STEM Explorers · STEM Explorers · FULL · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 6–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/stem-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1242-20261228-20261231-20261228-half · Camp Asia Hong Kong · Robo-Tech Explorers · Robo-Tech Explorers · HALF · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1242-20261228-20261231-20261228-full · Camp Asia Hong Kong · Robo-Tech Explorers · Robo-Tech Explorers · FULL · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/robo-tech-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1243-20261221-20261224-20261221-half · Camp Asia Hong Kong · Science & Tech Explorers · Science & Tech Explorers · HALF · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/science-and-tech-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1243-20261221-20261224-20261221-full · Camp Asia Hong Kong · Science & Tech Explorers · Science & Tech Explorers · FULL · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-8-10-years-old/science-and-tech-explorers/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261214-20261218-20261214-am · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · AM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261214-20261218-20261214-pm · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · PM · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261214-20261218-20261214-full · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · FULL · 2026-12-14–2026-12-18
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 6500 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261221-20261224-20261221-am · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · AM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261221-20261224-20261221-pm · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · PM · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261221-20261224-20261221-full · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · FULL · 2026-12-21–2026-12-24
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261228-20261231-20261228-am · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · AM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261228-20261231-20261228-pm · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · PM · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 3200 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1244-20261228-20261231-20261228-full · Camp Asia Hong Kong · Multi-Activity · Multi-Activity · FULL · 2026-12-28–2026-12-31
+
+lugar: Hong Kong · Stamford American School · Ho Man Tin
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Páginas concretas STEM, Robo-Tech, Science & Tech y Multi-Activity declaran expresamente todos los campamentos en inglés; Coding confirma English de Cobo Academy por separado. Idioma acreditado por texto de programas, no por idioma de web.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · HKD 5900 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llevar almuerzo / meriendas / agua; full day ofrece lunch supervision, comida no incluida. Accident / medical insurance personal aparte; confirmar invoice final y promociones. Pago: Prepago total. Según terms cancelación al menos 14 días antes permite devolución menos HKD 300 por cada camp; AM + PM puede suponer cargo 600. Menos de 14 días, ausencias / enfermedad y cierres meteorológicos normalmente sin devolución / crédito. Cambio con 10 días, HKD 100 por camp y posible diferencia de tarifa. Contrastar terms y FAQ con invoice elegido; sin consentimiento.
+Fuente: https://www.campasia.hk/age-4-to-7-years-old/multi-activity/
+Se ha comprobado: 2026-11-05
+
+### CP1245-20270121-20270203-ten-days · Good Good English · Winter Camp 2027 · 10-day programme · 2027-01-21–2027-02-03
+
+lugar: Taiwán · Qingpu · Taoyuan
+Fecha: 2027-01-21 - 2027-02-03
+Edad: Grades 1–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador describe expresamente entorno íntegramente inglés durante el día y uso de English con docentes y compañeros.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NTD 22000 / early 19800 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Devoluciones, depósito, pago, dirección exacta Qingpu y acceso extranjero individual sin publicar en winter / FAQ leídos; acordar aparte.
+Fuente: https://goodgoodenglish.com/en/summer-winter-camps-en/
+Se ha comprobado: 2026-11-05
+
+### CP1246-20270121-20270129-boarding · KTI / STARK · GMI Overseas Tech Camp · grupo completo · Taiwan → Malaysia · 9 days · 2027-01-21–2027-01-29
+
+lugar: Malasia · GMI · Kajang, Selangor
+Fecha: 2027-01-21 国 2027-01-29
+Edad: 10–15
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Cinco días lectivos en GMI íntegramente en inglés; exige conversación básica. Acompañantes taiwaneses apoyan en chino, confirmar atención nocturna / cotidiana EN para familia.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · NTD 99000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Llegada familiar a Taiwán, documentos / exclusiones del seguro y gastos parentales aparte; no trasladar precio a salida desde Costa Rica. Pago: Obtener depósito / cancelación detallados y póliza antes de contrato futuro; sin solicitudes ni consentimientos.
+Fuente: https://kti-camp.web.app/
+Se ha comprobado: 2026-11-05
+
+### CP1247-20261214-20261218-shanghai · EIMx · Eureka · Eureka · Shanghai · 2026-12-14–2026-12-18
+
+lugar: China · Shanghai
+Fecha: 2026-12-14 - 2026-12-18
+edad: Y1–Y3 / KG–G2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: English indicado expresamente en programa concreto; externos pueden necesitar prueba de nivel / entrevista. Campus visit institucional no es admisión universitaria.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · RMB 10800 standard · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Escala pública completa de depósito / devoluciones para estancia elegida sin acreditar. Interest form no prueba plaza reservada; sin enviar formulario.
+Fuente: https://www.dulwich.org/world/camps
+Se ha comprobado: 2026-11-05
+
+### CP1247-20261226-20261230-beijing · EIMx · Eureka · Eureka · Beijing · 2026-12-26–2026-12-30
+
+Lugar: China · Beijing
+Fecha: 2026-12-26 — 2026-12-30
+edad: Y1–Y3 / KG–G2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: English indicado expresamente en programa concreto; externos pueden necesitar prueba de nivel / entrevista. Campus visit institucional no es admisión universitaria.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · RMB 10800 standard · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Escala pública completa de depósito / devoluciones para estancia elegida sin acreditar. Interest form no prueba plaza reservada; sin enviar formulario.
+Fuente: https://www.dulwich.org/world/camps
+Se ha comprobado: 2026-11-05
+
+### CP1248-20261214-20261218-shanghai · EIMx · TED Junior · TED Junior · Shanghai · 2026-12-14–2026-12-18
+
+lugar: China · Shanghai
+Fecha: 2026-12-14 - 2026-12-18
+edad: Y4–Y6 / G3–G5
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: English indicado expresamente en programa concreto; externos pueden necesitar prueba de nivel / entrevista. Campus visit institucional no es admisión universitaria.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · RMB 13800 standard · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Escala pública completa de depósito / devoluciones para estancia elegida sin acreditar. Interest form no prueba plaza reservada; sin enviar formulario.
+Fuente: https://www.dulwich.org/world/camps
+Se ha comprobado: 2026-11-05
+
+### CP1248-20261226-20261230-beijing · EIMx · TED Junior · TED Junior · Beijing · 2026-12-26–2026-12-30
+
+Lugar: China · Beijing
+Fecha: 2026-12-26 — 2026-12-30
+edad: Y4–Y6 / G3–G5
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: English indicado expresamente en programa concreto; externos pueden necesitar prueba de nivel / entrevista. Campus visit institucional no es admisión universitaria.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · RMB 13800 standard · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Oscar: Curso escolar real de los niños desconocido. Comprobar nivel escolar publicado por separado; año de nacimiento y edad no lo sustituyen. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Escala pública completa de depósito / devoluciones para estancia elegida sin acreditar. Interest form no prueba plaza reservada; sin enviar formulario.
+Fuente: https://www.dulwich.org/world/camps
+Se ha comprobado: 2026-11-05
+
+### CP1250-20270125-20270131-boarding · EIMx · SenseTime AI & Future Tech · SenseTime · 7-day residential · 2027-01-25–2027-01-31
+
+lugar: Hong Kong · Hong Kong
+Fecha: 2027-01-25 — 2027-01-31
+Edad: 12*16
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: English indicado expresamente en programa concreto; externos pueden necesitar prueba de nivel / entrevista. Campus visit institucional no es admisión universitaria.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · RMB 23800 standard · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Escala pública completa de depósito / devoluciones para estancia elegida sin acreditar. Interest form no prueba plaza reservada; sin enviar formulario.
+Fuente: https://assets.dulwich.org/dulwich/blocks/201790/p/0/download/winter-camps-en-v1.pdf
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

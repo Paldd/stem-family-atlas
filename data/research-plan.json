@@ -305,6 +305,160 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
+    "version": 159,
+    "checked": "2026-11-05",
+    "scope": "Зимние программы Гонконга, Сингапура, Тайваня, Китая и Японии: 43 новых досье, 283 новых календарных варианта и десять семейных смет. Фактические группы, язык, часы, возраст и цены; скорректированы шанхайская дата и неподтверждённый прежний финский выезд. Мировой аудит продолжается.",
+    "new_dossiers": 43,
+    "new_learning_records": 283,
+    "new_budget_offers": 10,
+    "updated_raw_dossiers": [
+      "CP069",
+      "CP070",
+      "CP071",
+      "CP072",
+      "CP075",
+      "CP284",
+      "CP709",
+      "CP710",
+      "CP1013"
+    ],
+    "source_requests": 67,
+    "source_responses_hash_verified": 63,
+    "source_requests_failed": 4,
+    "fully_audited_countries": 0,
+    "worldwide_complete": false,
+    "registration_forms_not_submitted": true,
+    "previous_published_commit": "d0601c907c28cb3aeca682c65354aa819e010078",
+    "audit": "data/east-asia-winter-audit-v159.json",
+    "source_receipts": "data/east-asia-winter-source-receipts-v159.json",
+    "native_inventory": "data/east-asia-winter-native-schedules-v159.json",
+    "native_ESF_groups": 123,
+    "native_ESF_course_variants": 217,
+    "native_Singapore_course_week_windows": 42,
+    "changes": [
+      "Actual public native search terms and all seven pages; initial diagnostic zero result not interpreted as no courses",
+      "ESF 217 tuition variants: actual age, place, dates, time and total course fees; class alternatives not independent camp providers",
+      "ESF parent-child package price is not per child; full-day promotion deadline is not registration deadline",
+      "Singapore 42 actual course/week windows, 40 new plus two updated Robotics variants; EN primary and foreign individual access evidenced",
+      "Hong Kong 17 half/full course variants and explicit English statements; age6–7 STEM table overrides broad legacy page title",
+      "Good Good Taiwan ten actual school-break weekdays; Grades1–6 not inferred from age; standard and restricted discounts separated",
+      "GMI boarding sold out; Matvey conditional age10, Oscar too young, no operational calendar or available-place claim",
+      "EIMx China English programmes use actual school grades; conflicting Medical School dates remain undated",
+      "LITA Shanghai reschedule corroborated, record ID and UID retained; unconfirmed former Finland December record retained without operational date",
+      "English Adventure Japan birthday / Grade1 cutoff maintained; HIF own-school dates preferred over conflicting partner package"
+    ],
+    "next_gaps": [
+      "Current personal admission, birthdays, school grades, actual places, final invoices and refund acceptance remain unresolved",
+      "Europe winter / summer, Korea and other Asian national providers remain in the worldwide queue",
+      "Costa Rica, Mexico and Latin America competition/camp/exhibition research continues; global school rankings and award histories remain incomplete"
+    ],
+    "status": "verified-local-build-and-exports",
+    "browser_ui_validation": "unavailable-browser-disabled-template-filter-budget-and-calendar-functions-tested-in-isolated-node-vm",
+    "validation": {
+      "version": 159,
+      "records": 4652,
+      "new_dossiers": 43,
+      "new_variants": 283,
+      "new_budget_offers": 10,
+      "budget_offers": 99,
+      "new_calendar_entries": 964,
+      "removed_unconfirmed_former_departures": 1,
+      "total_family_calendar_entries": 5541,
+      "all_4369_prior_record_ids_preserved": true,
+      "all_other_prior_calendar_times_preserved": true,
+      "ESF_217_native_tuition_choices_matched": true,
+      "SG_42_actual_course_week_windows_matched": true,
+      "HK_explicit_English_and_actual_age_tables": true,
+      "grade_and_birthday_gates_preserved": true,
+      "unknown_unit_not_per_child": true,
+      "closed_GMI_not_operational_calendar": true,
+      "source_hashes_verified": 63,
+      "source_failures": 4,
+      "both_language_full_archives_verified": true,
+      "worldwide_complete": false
+    },
+    "runtime_validation": [
+      {
+        "lang": "ru",
+        "records": 4652,
+        "new_dossiers_rendered": 43,
+        "new_variants_filtered": 283,
+        "new_calendar_entries": 964,
+        "actual_country_age_language_and_month_filters": true,
+        "unknown_and_closed_intakes_separated": true,
+        "parent_child_package_and_unknown_fee_unit_templates": true,
+        "ten_budget_scenarios_and_three_opt_in_discounts": true,
+        "unknown_costs_not_zero": true,
+        "actual_UTC8_hours": true,
+        "visual_browser_test": false
+      },
+      {
+        "lang": "es",
+        "records": 4652,
+        "new_dossiers_rendered": 43,
+        "new_variants_filtered": 283,
+        "new_calendar_entries": 964,
+        "actual_country_age_language_and_month_filters": true,
+        "unknown_and_closed_intakes_separated": true,
+        "parent_child_package_and_unknown_fee_unit_templates": true,
+        "ten_budget_scenarios_and_three_opt_in_discounts": true,
+        "unknown_costs_not_zero": true,
+        "actual_UTC8_hours": true,
+        "visual_browser_test": false
+      }
+    ],
+    "visual_browser_check": "unavailable-browser-disabled-no-visual-QA-claim",
+    "javascript_syntax_files": 47,
+    "total_records": 4652,
+    "total_camp_dossiers": 1250,
+    "total_budget_offers": 99,
+    "total_family_calendar_entries": 5541,
+    "new_calendar_entries": 964,
+    "removed_unconfirmed_former_departures": 1,
+    "all_prior_record_ids_preserved": true,
+    "all_other_prior_calendar_times_preserved": true,
+    "both_language_full_archives_and_spanish_workbook_verified": true
+  },
+  "completeness_audit": "data/audit-v51.json",
+  "family_context": {
+    "matvey_birth_year": 2017,
+    "oscar_birth_year": 2020,
+    "source": "Прямой ответ пользователя 01.10.2026",
+    "exact_birthdays": null,
+    "school_grades": null,
+    "full_day_english_readiness": true,
+    "learning_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "learning_languages_by_child": {
+      "mat": [
+        "EN",
+        "ES",
+        "RU"
+      ],
+      "osc": [
+        "EN",
+        "ES",
+        "RU"
+      ]
+    },
+    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
+    "relocation_readiness": true,
+    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
+  },
+  "schools_success_criteria": [
+    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
+    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
+    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
+    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
+    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
+    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
+    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
+  ],
+  "native_goal_status": "active",
+  "latest_validation_previous": {
     "version": 158,
     "checked": "2026-11-05",
     "scope": "Зимние лагеря и мастер-классы Великобритании, Канады и ОАЭ; реальные пансионные предложения FunTech на август 2027. Добавлено 18 досье, 144 варианта дат и 10 семейных смет; уточнены шесть прежних досье. Неизвестный язык, школьные условия, конфликт дат Дубая и нерабочие билеты Science North сохранены. Мировой аудит продолжается.",
@@ -357,98 +511,10 @@
     "timezone_reform_verified": true,
     "timezone_reform": "BC-Pacific-permanent-UTC-7-after-2026-03-08",
     "initial_deploy_run": 42042846594,
-    "initial_deploy_verification": "failed-source-artifact-UTC-comparison-not-accepted"
-  },
-  "completeness_audit": "data/audit-v51.json",
-  "family_context": {
-    "matvey_birth_year": 2017,
-    "oscar_birth_year": 2020,
-    "source": "Прямой ответ пользователя 01.10.2026",
-    "exact_birthdays": null,
-    "school_grades": null,
-    "full_day_english_readiness": true,
-    "learning_languages": [
-      "EN",
-      "ES",
-      "RU"
-    ],
-    "learning_languages_by_child": {
-      "mat": [
-        "EN",
-        "ES",
-        "RU"
-      ],
-      "osc": [
-        "EN",
-        "ES",
-        "RU"
-      ]
-    },
-    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
-    "relocation_readiness": true,
-    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
-  },
-  "schools_success_criteria": [
-    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
-    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
-    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
-    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
-    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
-    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
-    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
-  ],
-  "native_goal_status": "active",
-  "latest_validation_previous": {
-    "version": 157,
-    "asof": "2026-11-05",
-    "status": "verified-local-build-and-exports",
-    "scope": "Bebras 2026–27: национальные категории и ближайшие окна, семейный / школьный вход, язык, стоимость и разные уровни сертификатов. Добавлено 19 конкурсных записей, уточнены шесть прежних. Старт EHU отделён от полного окна; сроки Австралии и предварительный финал Кипра не выданы за подтверждённые. Лагеря, выставки и школы сохранены; мировой аудит продолжается.",
-    "new_records": 19,
-    "new_competition_records": 19,
-    "new_learning_records": 0,
-    "updated_event_rows": 6,
-    "new_dossiers": 0,
-    "new_budget_offers": 0,
-    "worldwide_complete": false,
-    "fully_audited_countries": 0,
-    "browser_ui_validation": "not-run-data-only-release",
-    "registration_forms_not_submitted": true,
-    "source_receipts": "data/bebras-source-receipts-v157.json",
-    "audit": "data/bebras-audit-v157.json",
-    "source_responses_hash_verified": 58,
-    "source_primary_responses_readable": 51,
-    "source_requests_failed": 10,
-    "previous_published_commit": "3a457506199808f96c7110ee3e1daf32b2d69263",
-    "previous_goal_turn": "progress-v156-published-and-live-multilingual-full-exports-verified",
-    "source_gaps": [
-      "Actual school grades remain unknown; prior optional family question is unanswered. All official foreign admission stays conditional.",
-      "Global countries directory did not return a readable current list. Online forms and parental passports do not establish national eligibility or medal ranking.",
-      "Costa Rica Cuttle confirms dates, fee and school-only entry, while the Canguro pages are JavaScript shells: the local age discrepancy is not freshly resolved.",
-      "Australia deadline says Friday 18 March 2027, a Thursday. Preserve the announced February 8 to March 19 window but quarantine the deadline. General AMT foreign availability does not prove specific Bebras eligibility.",
-      "Ireland 2026 headline conflicts with lower 2025 text and linked old handbooks. Cyprus Primary PDF contains secondary-school boilerplate; second round and venues remain tentative.",
-      "Korea PDF October 30 deadline is superseded by October 29 extension and live November 13 date. AI supplement does not authorize chatbot assistance or establish a separate medal.",
-      "China uses the organizer and its linked level table. Secondary bebras.org.cn identity not established. Mainland dates not copied to separate Hong Kong/Macao editions; overseas online admission and exact timezone unresolved.",
-      "UK form hours, China sitting and Cyprus closing time have no explicit timezone; no invented UTC event. UK credentials promised by November 6 are not a registration deadline.",
-      "Singapore registration still describes February/March 2026; next intake unannounced. Vietnam preliminary window and later registration close conflict. Indonesia language and foreign gates unverified. Saudi page could not be archived due SSL chain failure; no new record inferred.",
-      "Worldwide competitions, exhibitions, camps, schools, routes and historic awards remain incomplete; no country fully audited."
-    ],
-    "verified_at": "2026-11-05",
-    "events": 4225,
-    "competition_records": 1293,
-    "exhibition_records": 219,
-    "camp_learning_records": 2713,
-    "programme_dossiers": 1189,
-    "countries_with_dossiers": 41,
-    "official_dossier_urls": 1812,
-    "league_profiles": 147,
-    "schools": 62,
-    "source_country_coverage": 87,
-    "family_calendar_entries": 4010,
-    "exhibition_calendar_entries": 100,
-    "javascript_syntax_files": 43,
-    "runtime_validation": "isolated-node-vm-both-languages-bebras-school-country-language-age-award-templates-and-calendar-checks-passed",
-    "all_prior_calendar_UID_dates_preserved": true,
-    "both_language_full_archives_verified": true
+    "initial_deploy_verification": "failed-source-artifact-UTC-comparison-not-accepted",
+    "publication_verified": true,
+    "published_commit": "d0601c907c28cb3aeca682c65354aa819e010078",
+    "publish_workflow": 42045252667
   },
   "research_passes": [
     {
@@ -11248,5 +11314,11 @@
     "runtime_validation": "isolated-node-vm-both-language-all-vex-event-index-child-admission-local-team-minimum-birthday-policy-and-UTC-export-checks-passed",
     "calendar_counters_use_current_catalog_asof": true,
     "all_league_calendar_counters_checked": 147
+  },
+  "previous_goal_turn_evidence": "Live latest-version audit verified GitHub main, v158 public release, 92 served assets and all full archives; identified unpublished v159 work as the next action.",
+  "east_asia_winter_programmes_v159": {
+    "audit": "data/east-asia-winter-audit-v159.json",
+    "source_receipts": "data/east-asia-winter-source-receipts-v159.json",
+    "native_inventory": "data/east-asia-winter-native-schedules-v159.json"
   }
 }

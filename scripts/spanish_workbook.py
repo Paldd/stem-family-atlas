@@ -66,6 +66,7 @@ HEADERS.update({
  'grade_min':'Curso escolar mínimo','grade_max':'Curso escolar máximo',
  'grade_asof':'Período de referencia del curso escolar',
  'reported_start':'Inicio publicado pendiente de aclaración',
+ 'reported_end':'Fin publicado pendiente de aclaración',
  'reported_deadline':'Plazo publicado pendiente de aclaración'
 })
 def column(index):

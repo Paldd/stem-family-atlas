@@ -1,0 +1,6297 @@
+{
+  "checked": "2026-11-05",
+  "esf_source": "https://www.esfexplore.org.hk/winter-camp/",
+  "esf_native_search": "https://www.esfexplore.org.hk/wp-admin/admin-ajax.php?action=get_courses",
+  "esf_search_role": "Búsqueda pública de cursos de solo lectura, sin inscripción ni acción de cesta",
+  "esf_filter": {
+    "terms": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "minAge": 6,
+    "maxAge": 11
+  },
+  "esf_group_count": 123,
+  "esf_variants": [
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Drama Loop Theme A & PM Multi-Sports at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127186433",
+        "127185133"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Drama Loop Theme A & PM Multi-Sports at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127186633",
+        "127185233"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127244834"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245434"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC2A",
+      "min_age": 6,
+      "max_age": 9,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127244934"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC6 (Squad)",
+      "min_age": 9,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245034"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1000.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127188033",
+        "127185133"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 10200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127188233",
+        "127185233"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 10200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127188833",
+        "127185133"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127189033",
+        "127185233"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MiniGame Lab/ Co-Op Creators & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127189633",
+        "127185333"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Entrepreneur Launchpad & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127190033",
+        "127185333"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 10275.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251634"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Glenealy School",
+      "amount": 2475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251934"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Kennedy School",
+      "amount": 2475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 2475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252434"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 2475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251734"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Glenealy School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252034"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Kennedy School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 2475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252534"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Renaissance College",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Drama Loop Theme A & PM Multi-Sports at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127191033",
+        "127549439"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Drama Loop Theme A & PM Multi-Sports at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127191233",
+        "127549539"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251834"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Glenealy School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252134"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Kennedy School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 1 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252634"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Renaissance College",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127192033",
+        "127549439"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127192233",
+        "127549539"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at RC",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127192433",
+        "127549639"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127192633",
+        "127549439"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 10200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127193433",
+        "127549439"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127193633",
+        "127549539"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253834"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254034"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Renaissance College",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF South Island School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253934"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254134"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "place": "ESF Renaissance College",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 1 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "place": "ESF South Island School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Lower Primary - Drama Loop Theme A",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127195733"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Lower Primary - Drama Loop Theme A",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127196933"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 1 - Lower Primary - Drama Loop Theme A",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127198633"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127195933"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197433"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 1 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199133"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 1 - Coding - Mini-Game Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127196133"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 1 - Coding - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127196333"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 5550.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197233"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 5475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127198933"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 5475.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 1 - Coding - MiniGame Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197633"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 1 - Coding - MiniGame Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199333"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 1 - STEM - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127198033"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 5550.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 1 - STEM - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199733"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 5550.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 1 - Spanish Beginner - Winter Wonders in Spanish",
+      "min_age": 6,
+      "max_age": 11,
+      "category": "Spanish",
+      "full": false,
+      "tuition_ids": [
+        "127198833"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127240234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241734"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127243234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127240334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241834"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127243334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127240434"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 1 - Multi-Sports - Dry Camp - SC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241934"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 4725.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC1A",
+      "min_age": 4,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245134"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC3",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245534"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC4",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245634"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 1 - Swimming - SWC5",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245734"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1425.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 1 - Basketball - BBC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247834"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 1 - Basketball - BBC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247934"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1500.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 1 - Basketball - BBC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248034"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 2250.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 1 - Basketball - BBC4",
+      "min_age": 11,
+      "max_age": 12,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248134"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 2250.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249234"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF King George V School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249534"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF King George V School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250434"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF West Island School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250734"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF West Island School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249334"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF King George V School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250534"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF West Island School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249434"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF King George V School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 1 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250634"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF West Island School",
+      "amount": 3300.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab & PM Multi-Sports at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127192833",
+        "127549539"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 10200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM Coding - MiniGame Lab/ Co-Op Creators & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127194233",
+        "127549639"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8625.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 1 - Full Day Dry Camp / AM STEM - Entrepreneur Launchpad & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127194633",
+        "127549639"
+      ],
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "days": [
+        "2026-12-14",
+        "2026-12-15",
+        "2026-12-16",
+        "2026-12-17",
+        "2026-12-18"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 10275.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127534532"
+      ],
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "days": [
+        "2026-12-19"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127543733"
+      ],
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "days": [
+        "2026-12-19"
+      ],
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127544835"
+      ],
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "days": [
+        "2026-12-19"
+      ],
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127546443"
+      ],
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "days": [
+        "2026-12-19"
+      ],
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127560239"
+      ],
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-20"
+      ],
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127560339"
+      ],
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-20"
+      ],
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127560439"
+      ],
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-20"
+      ],
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "santa",
+      "name": "Winter Week 1 - Storytime with Santa - 1 Adult and 1 Child",
+      "min_age": 0,
+      "max_age": 11,
+      "category": "ESF Language and Learning Centre (Wan Chai)",
+      "full": false,
+      "tuition_ids": [
+        "127560539"
+      ],
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-20"
+      ],
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 798.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127201933"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "days": [
+        "2026-12-21"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127202633"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "days": [
+        "2026-12-21"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204133"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "days": [
+        "2026-12-21"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127202033"
+      ],
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127202733"
+      ],
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "magical",
+      "name": "Winter Week 2 - Workshop - Primary  - Magical Winter",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204233"
+      ],
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish-fiesta",
+      "name": "Winter Week 2 - Workshop - Spanish - Fiesta de Navidad: Spanish Crafts & Treats",
+      "min_age": 6,
+      "max_age": 11,
+      "category": "Spanish",
+      "full": false,
+      "tuition_ids": [
+        "127202133"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "days": [
+        "2026-12-21"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish-fiesta",
+      "name": "Winter Week 2 - Workshop - Spanish - Fiesta de Navidad: Spanish Crafts & Treats",
+      "min_age": 6,
+      "max_age": 11,
+      "category": "Spanish",
+      "full": false,
+      "tuition_ids": [
+        "127202833"
+      ],
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish-fiesta",
+      "name": "Winter Week 2 - Workshop - Spanish - Fiesta de Navidad: Spanish Crafts & Treats",
+      "min_age": 6,
+      "max_age": 11,
+      "category": "Spanish",
+      "full": false,
+      "tuition_ids": [
+        "127204333"
+      ],
+      "start": "2026-12-23",
+      "end": "2026-12-23",
+      "days": [
+        "2026-12-23"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 840.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "playtime",
+      "name": "Winter Week 2 - Workshop - Merry and Bright Playtime",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204433"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-21",
+      "days": [
+        "2026-12-21"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 480.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "playtime",
+      "name": "Winter Week 2 - Workshop - Merry and Bright Playtime",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204533"
+      ],
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 480.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "playtime",
+      "name": "Winter Week 2 - Workshop - Merry and Bright Playtime",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204633"
+      ],
+      "start": "2026-12-23",
+      "end": "2026-12-23",
+      "days": [
+        "2026-12-23"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 480.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "playtime",
+      "name": "Winter Week 2 - Workshop - Merry and Bright Playtime",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "English",
+      "full": false,
+      "tuition_ids": [
+        "127204733"
+      ],
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-24"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 480.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245834"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246434"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC2A",
+      "min_age": 6,
+      "max_age": 9,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127245934"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC6 (Squad)",
+      "min_age": 9,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246034"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254434"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254634"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127532039"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF South Island School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254534"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254734"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "place": "ESF Renaissance College",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 2 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127254934"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "place": "ESF South Island School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127240734"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127242234"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127243634"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127240834"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127242334"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 2 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127243734"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC1A",
+      "min_age": 4,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246134"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246234"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246334"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC3",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246534"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC4",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246634"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 2 - Swimming - SWC5",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246734"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 2 - Basketball - BBC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248234"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 2 - Basketball - BBC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248334"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 2 - Basketball - BBC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248434"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 2 - Basketball - BBC4",
+      "min_age": 11,
+      "max_age": 12,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248534"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249634"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249934"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250834"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251134"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249734"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250934"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127249834"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 2 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251034"
+      ],
+      "start": "2026-12-21",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-21",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-24"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Drama Loop Theme B & PM Multi-Sports at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127187033",
+        "127185433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Drama Loop Theme B & PM Multi-Sports at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127187233",
+        "127185533"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127187433",
+        "127185433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127187633",
+        "127185533"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Spanish Beginner - Winter Wonders in Spanish & PM Multi-Sports at KJS",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127187833",
+        "127185633"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127188433",
+        "127185433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8160.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127188633",
+        "127185533"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8160.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246834"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC1B",
+      "min_age": 3,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247434"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127189233",
+        "127185433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127189433",
+        "127185533"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC2A",
+      "min_age": 6,
+      "max_age": 9,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127246934"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC6 (Squad)",
+      "min_age": 9,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247034"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MiniGame Lab/ Co-Op Creators & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127189833",
+        "127185633"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Entrepreneur Launchpad & PM Multi-Sports (Bring own device) at KJS",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127190233",
+        "127185633"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 8220.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Drama Loop Theme B & PM Multi-Sports at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127191633",
+        "127549739"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Drama Loop Theme B & PM Multi-Sports at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127191833",
+        "127549839"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252734"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Glenealy School",
+      "amount": 1980.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253034"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Kennedy School",
+      "amount": 1980.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1980.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253534"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1980.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252834"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Glenealy School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253134"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Kennedy School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253434"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1980.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253634"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Renaissance College",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127252934"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Glenealy School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Kennedy School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "gymnastics",
+      "name": "Winter Week 3 - Gymnastics - GYC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127253734"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "place": "ESF Renaissance College",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition & PM Multi-Sports at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127193033",
+        "127549739"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8160.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 6,
+      "max_age": 6,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127193833",
+        "127549739"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MakeCode Arcade/ Pixel Game Studio & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127194033",
+        "127549839"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM Coding - MiniGame Lab/ Co-Op Creators & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127194433",
+        "127549939"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 6900.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Entrepreneur Launchpad & PM Multi-Sports (Bring own device) at RC",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127194833",
+        "127549939"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8220.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Lower Primary - Drama Loop Theme B",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127195833"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Lower Primary - Drama Loop Theme B",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127197033"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "drama",
+      "name": "Winter Week 3 - Lower Primary - Drama Loop Theme B",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "Drama",
+      "full": false,
+      "tuition_ids": [
+        "127198733"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127196033"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197533"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "arcade",
+      "name": "Winter Week 3 - Coding - MakeCode Arcade/ Pixel Game Studio (Bring own device)",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199233"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 3 - Coding - Mini-Game Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127196233"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 3 - Coding - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127196433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Language & Learning Centre (Wan Chai)",
+      "amount": 4440.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "spanish",
+      "name": "Winter Week 3 - Spanish Beginner - Winter Wonders in Spanish",
+      "min_age": 6,
+      "max_age": 11,
+      "category": "Spanish",
+      "full": false,
+      "tuition_ids": [
+        "127197133"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197333"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 4380.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - STEM - Pokemon Inspired STEAM Lab/ Winter Quest Edition",
+      "min_age": 6,
+      "max_age": 8,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199033"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 4380.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255034"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255434"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF South Island School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC1",
+      "min_age": 5,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Renaissance College",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 3 - Coding - MiniGame Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127197733"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "minigame",
+      "name": "Winter Week 3 - Coding - MiniGame Lab/ Co-Op Creators (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199433"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 3120.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 3 - STEM - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127198133"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 4440.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "entrepreneur",
+      "name": "Winter Week 3 - STEM - Entrepreneur Launchpad (Bring own device)",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "STEM",
+      "full": false,
+      "tuition_ids": [
+        "127199833"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF Renaissance College",
+      "amount": 4440.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255134"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "place": "ESF Renaissance College",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "football",
+      "name": "Winter Week 3 - Football - FBC2",
+      "min_age": 8,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127255534"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:15",
+      "place": "ESF South Island School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127242734"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127244034"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127242834"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127244134"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "place": "ESF South Island School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127241434"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Kowloon Junior School",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "multisports",
+      "name": "Winter Week 3 - Multi-Sports - Dry Camp - SC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127242934"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 3780.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC1A",
+      "min_age": 4,
+      "max_age": 7,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247134"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC2",
+      "min_age": 5,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC3",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247534"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC4",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247634"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "swimming",
+      "name": "Winter Week 3 - Swimming - SWC5",
+      "min_age": 7,
+      "max_age": 17,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127247734"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "place": "ESF Renaissance College",
+      "amount": 1140.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 3 - Basketball - BBC1",
+      "min_age": 5,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248634"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 3 - Basketball - BBC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248734"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:15",
+      "end_time": "10:15",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1200.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 3 - Basketball - BBC3",
+      "min_age": 9,
+      "max_age": 10,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248834"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "basketball",
+      "name": "Winter Week 3 - Basketball - BBC4",
+      "min_age": 11,
+      "max_age": 12,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127248934"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "10:15",
+      "end_time": "11:45",
+      "place": "ESF Kowloon Junior School",
+      "amount": 1800.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250034"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC1",
+      "min_age": 4,
+      "max_age": 6,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251534"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250134"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC2",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251334"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127250234"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF King George V School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "tennis",
+      "name": "Winter Week 3 - Tennis - TENC3",
+      "min_age": 9,
+      "max_age": 11,
+      "category": "Sports",
+      "full": false,
+      "tuition_ids": [
+        "127251434"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "place": "ESF West Island School",
+      "amount": 2640.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    },
+    {
+      "kind": "pokemon",
+      "name": "Winter Week 3 - Full Day Dry Camp / AM STEM - Pokemon Inspired STEAM Lab & PM Multi-Sports at RC",
+      "min_age": 7,
+      "max_age": 8,
+      "category": "Full Day Camp",
+      "full": true,
+      "tuition_ids": [
+        "127193233",
+        "127549839"
+      ],
+      "start": "2026-12-28",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31"
+      ],
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "place": "ESF Renaissance College",
+      "amount": 8160.0,
+      "currency": "HKD",
+      "capacity_positive": true
+    }
+  ],
+  "sg_booking_source": "https://www.campasia.asia/book-a-camp",
+  "sg_programmes": [
+    {
+      "key": "kidz-economy",
+      "name": "Kidz Economy",
+      "url": "https://www.campasia.asia/holiday-camps/clever-stuff/kidz-economy.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 780,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "multi-activity",
+      "name": "Multi-Activity",
+      "url": "https://www.campasia.asia/holiday-camps/multi-activity/multi-activity-1.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              3,
+              4
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              3,
+              4
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              3,
+              4
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "little-clay-gardeners",
+      "name": "Little Clay Gardeners",
+      "url": "https://www.campasia.asia/holiday-camps/be-creative/little-clay-gardeners.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "parkour",
+      "name": "Parkour",
+      "url": "https://www.campasia.asia/holiday-camps/get-physical/parkour.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              7,
+              13
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              7,
+              13
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              7,
+              13
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "super-gymnastics",
+      "name": "Super Gymnastics",
+      "url": "https://www.campasia.asia/holiday-camps/get-physical/super-gymnastics.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "junior-scientist",
+      "name": "Junior Scientist",
+      "url": "https://www.campasia.asia/holiday-camps/clever-stuff/junior-scientist.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "robotics",
+      "name": "Robotics Makerspace",
+      "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 655,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 655,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fabric-hackerspace",
+      "name": "Fabric Hackerspace",
+      "url": "https://www.campasia.asia/holiday-camps/tech-savvy/fabric-hackerspace.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 730,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 780,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "future-city",
+      "name": "Future City",
+      "url": "https://www.campasia.asia/holiday-camps/multi-activity/future-city.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "drama-academy",
+      "name": "Drama Academy",
+      "url": "https://www.campasia.asia/holiday-camps/be-creative/drama-academy.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "music-explorers",
+      "name": "Music Explorers",
+      "url": "https://www.campasia.asia/holiday-camps/be-creative/music-explorers.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "conversational-english",
+      "name": "Conversational English",
+      "url": "https://www.campasia.asia/holiday-camps/clever-stuff/conversational-english.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "passion-for-art",
+      "name": "Passion for Art",
+      "url": "https://www.campasia.asia/holiday-camps/be-creative/passion-for-art.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 655,
+          "age_groups": [
+            [
+              6,
+              8
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 655,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "super-chef",
+      "name": "Super Chef",
+      "url": "https://www.campasia.asia/holiday-camps/be-creative/super-chef.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 1,
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "place": "Australian International School",
+          "amount": 800,
+          "age_groups": [
+            [
+              6,
+              8
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 725,
+          "age_groups": [
+            [
+              6,
+              8
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              12,
+              16
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 725,
+          "age_groups": [
+            [
+              6,
+              8
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              12,
+              16
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 800,
+          "age_groups": [
+            [
+              6,
+              8
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              12,
+              16
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "super-swim",
+      "name": "Super Swim",
+      "url": "https://www.campasia.asia/holiday-camps/get-physical/super-swim.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 1,
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "place": "Australian International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              9,
+              12
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "super-basketball",
+      "name": "Super Basketball",
+      "url": "https://www.campasia.asia/holiday-camps/super-basketball.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              16
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              16
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              16
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "key": "super-soccer",
+      "name": "Super Soccer",
+      "url": "https://www.campasia.asia/holiday-camps/get-physical/super-soccer.html",
+      "daily_hours_confirmed": true,
+      "slots": [
+        {
+          "week": 2,
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              14
+            ]
+          ]
+        },
+        {
+          "week": 3,
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "place": "Stamford American International School",
+          "amount": 705,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              14
+            ]
+          ]
+        },
+        {
+          "week": 4,
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "place": "Stamford American International School",
+          "amount": 760,
+          "age_groups": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              10
+            ],
+            [
+              11,
+              14
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
