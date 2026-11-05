@@ -1,0 +1,529 @@
+{
+  "version": 142,
+  "checked": "2026-11-04",
+  "scope": "codecamp-winter-2027-and-smartkids-christmas",
+  "source_pages": [
+    {
+      "url": "https://my.codecampworld.ch/camp/2375",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "a37aa4c60e1afedf548193c5c80910c57012dae60503dcc8e22460ed3113435e",
+      "bytes": 1822,
+      "source_file": "codecamp-2375-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2376",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "d1e501494ca5e0a5a03f9842a5314dbd849db706e832934d7c22f1d556e3b71d",
+      "bytes": 1582,
+      "source_file": "codecamp-2376-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2377",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "475657d4dadfd53b2e56252caa14f44ac9edd86fc40b9e35f9fbf04cbe0e6de9",
+      "bytes": 1878,
+      "source_file": "codecamp-2377-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2378",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "33a10a8bba5ed93ad6103a0c6b955a75b51ece9cc8c31425ee34731def40ffb2",
+      "bytes": 1703,
+      "source_file": "codecamp-2378-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2379",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "2e4ea8cd1eae80ad5ee95e6370692a2cc2419bbca2df2807898f8d81b444c9cc",
+      "bytes": 1723,
+      "source_file": "codecamp-2379-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2380",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "95e4c993c968968c6fa52e2293d57318fa3d5319b1fd2d21d2c48fbf5915a155",
+      "bytes": 1900,
+      "source_file": "codecamp-2380-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2381",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "6865da2496ccf3bbeb42f748e23dde5d2044dfb47603cb1118d80ce925d4a530",
+      "bytes": 1604,
+      "source_file": "codecamp-2381-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2382",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "9a3f955126497c66f218fb775ace3a979ff2ab49556201ccee59707b377e19ff",
+      "bytes": 1858,
+      "source_file": "codecamp-2382-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2383",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "b512b31f870c784b7e7e2a555e3a9d8626bb5fbd00cfaf14222e9d5bc1257882",
+      "bytes": 1684,
+      "source_file": "codecamp-2383-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2384",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "8f26c0cecfa1cf493d88b4ec15dc25389c319c341dfc40e4e8c2da74b53c188a",
+      "bytes": 1562,
+      "source_file": "codecamp-2384-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2385",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "ed73b416b3a984945c0f6602ac6dc895c86b3fae6f96c103900e28e77b410480",
+      "bytes": 1703,
+      "source_file": "codecamp-2385-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2386",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "913fe7c896b5d3dba57f581ab81f9c1a5c57c2c8f0eab1693c8d365bba66994f",
+      "bytes": 1878,
+      "source_file": "codecamp-2386-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2387",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "0e72637b7fd98da007780edd5d4222247b677aef947256ae79698f26ad0dbcf4",
+      "bytes": 1582,
+      "source_file": "codecamp-2387-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2388",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "471c683d4076a6d7bd5bcfbf77109ed20418c7f80776f2f6fb77a24bd3d4df43",
+      "bytes": 1680,
+      "source_file": "codecamp-2388-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2389",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "709a136fb8039b70fd3ea44715ac1ff0cbce8a2f340878bb79783c970ed738ad",
+      "bytes": 1818,
+      "source_file": "codecamp-2389-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2390",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "d9095a751a5ff999d66e834242c6c9b09267d8652885fa2e416f59a4f801f83f",
+      "bytes": 1578,
+      "source_file": "codecamp-2390-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2391",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "e49ef6bf37ce3d6a7dd95e799d4f78d04d626da54ae0beee62503e4ce41066b4",
+      "bytes": 1820,
+      "source_file": "codecamp-2391-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2392",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "e33a10a09f88882c8b27d611215f3ecc0fe7b1f52770f82afd6a683450a794bc",
+      "bytes": 1580,
+      "source_file": "codecamp-2392-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2393",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "3c695375a8c76c5ad4593677085cdf42986e4e03fdf0d97492f256336e176bae",
+      "bytes": 1721,
+      "source_file": "codecamp-2393-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2394",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "8c78a9b06a02491ebc41a7af4fa442808f0302831796ff44b6228906f06d6b2c",
+      "bytes": 1560,
+      "source_file": "codecamp-2394-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2395",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "4935376d3dca8753f7c551defe4ee17eeafc8d8f9214b1e2837e141daeac3093",
+      "bytes": 1802,
+      "source_file": "codecamp-2395-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2396",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "038f671d2f6ede49cac87ebdd0d72b8d919c4429fd1552c60100f8c327a8ded7",
+      "bytes": 1748,
+      "source_file": "codecamp-2396-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2397",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "b1b94279375c6f96a7c3d6d83746b92c8aee5036234b1b45ac7bf70d0d5827db",
+      "bytes": 1703,
+      "source_file": "codecamp-2397-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2398",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "7f412e3dc6194bcc331dc3eb293a0dafb9d47f8551693f132549c705eaf1f8af",
+      "bytes": 1775,
+      "source_file": "codecamp-2398-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2399",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "7a61148e08fb785428e5e27814983cef482e583c37a9762aef8987113fcff3ab",
+      "bytes": 1736,
+      "source_file": "codecamp-2399-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2400",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "02e6c325c980a008739a8838a27ee8d2fd7b965205ed6a41d5fc9f1ee2134718",
+      "bytes": 1704,
+      "source_file": "codecamp-2400-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2401",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "8aaad80de524dc6d48c633a1a040acb1c12e21accc6cc0ce2806c8f17dacc3d1",
+      "bytes": 1838,
+      "source_file": "codecamp-2401-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2402",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "71c90f1023275426a2c63f39fbf63a54e5ce37eccd58f4298d7ee0b5983b7b68",
+      "bytes": 1790,
+      "source_file": "codecamp-2402-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2403",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "dae4cd0a418b81933b905f5963914218c929e3a1eb01743565299afbd9b022f4",
+      "bytes": 1550,
+      "source_file": "codecamp-2403-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2404",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "94ad0d4ec4b5695c4c1588f90b7d643f0c3938b5828ddcc3db9034b7b2df4e21",
+      "bytes": 1067,
+      "source_file": "codecamp-2404-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2405",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "d4fdd18c10d424649c7213cacf2e36f335e8f2ca60b94c300fc0899c7e74659d",
+      "bytes": 1769,
+      "source_file": "codecamp-2405-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2406",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "2d389b95d040e6b54cf21a16395de07ccffbfd0d9012ef227e5cb3205721f792",
+      "bytes": 1924,
+      "source_file": "codecamp-2406-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2407",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "2d3bb97b7ffb19f2a3a9dd249ea55f951afbddda9b157d56793a8a73e1384f44",
+      "bytes": 1628,
+      "source_file": "codecamp-2407-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2408",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "6c548c057695d1b96b1dd4b61eead7766a44a0b9e8d3f6df7cdf75ca4b3a1ae7",
+      "bytes": 1566,
+      "source_file": "codecamp-2408-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2409",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "0b05bdad13d3c2cca835ea6e8fce7b31d4554e2ebdad68891de64c7a1ba57ef8",
+      "bytes": 1826,
+      "source_file": "codecamp-2409-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2411",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "0d41b3ed8b26470700e7e66e315e9961869a196ffa9bbf922ee7b10b490a0608",
+      "bytes": 2265,
+      "source_file": "codecamp-2411-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2412",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "af571395a9d54fdbf36e933aec341a1d00de1002aed1742586e736b29583042d",
+      "bytes": 1862,
+      "source_file": "codecamp-2412-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2413",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "193c4cbc2c5f14d03cb88bd4b8ca82ffb84dbfd4fc3ab054ca2ff05e9b9a278f",
+      "bytes": 1707,
+      "source_file": "codecamp-2413-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2414",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "bdff3c204413e3fcd0ff9510425f3201dfb4268db348b2fbd8be0ced58c0e0e1",
+      "bytes": 1672,
+      "source_file": "codecamp-2414-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2415",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "97b66a43b5f9f70e9e8d6660d0f34fd9981e9647d3de1202842eec862de48703",
+      "bytes": 1582,
+      "source_file": "codecamp-2415-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2416",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "49f81db0926c9526f8a61ba64bdcbd288d628e70c43c58bbe66d1fc55107786d",
+      "bytes": 1822,
+      "source_file": "codecamp-2416-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2417",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "a83f9cab1ec3e176be73cab06a1e0c31c7c23619716bd62e959d7dba58bacbec",
+      "bytes": 1580,
+      "source_file": "codecamp-2417-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2418",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "cf30270c9a451a767493e2917bd908b338bf69a05bbee12045f006dfd2a7f361",
+      "bytes": 1691,
+      "source_file": "codecamp-2418-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2419",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "5da03e8635f733a9279d9c7d4b155590e20d320964af154ef3cb44b1527f9885",
+      "bytes": 1861,
+      "source_file": "codecamp-2419-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=8090&period=1326",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "597fd4b831e53276530e7e2c45ae77f8cf02e5e3b51610135f6162ad53c978fe",
+      "bytes": 10262,
+      "source_file": "codecamp-aarau-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=10372&period=1329",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "ec15586f9bff4004f732f58a49624ddb8e5794dc231d3305c6a6ac8b1089a2c3",
+      "bytes": 4062,
+      "source_file": "codecamp-list-10372-1329-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=10583&period=1326",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "44dcf34fb0b06fa44405e97cf58865bfcbab679a8e75750a570045eefbfce98c",
+      "bytes": 10266,
+      "source_file": "codecamp-list-10583-1326-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=10711&period=1326",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "a40ed50524f1a052238f9fef81c0d28fcbdf4407cdf480dc3163cd5805b4ab4b",
+      "bytes": 10260,
+      "source_file": "codecamp-list-10711-1326-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=11142&period=1329",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "984f608cec03e68c63fe8483bd46e909cf85bcd5b183c83cf5b7cec0f7166a19",
+      "bytes": 4062,
+      "source_file": "codecamp-list-11142-1329-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=11428&period=1325",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "db061b25b0189280759539b53e63391c2e93ea654f949fe00b616680c9257a2c",
+      "bytes": 3569,
+      "source_file": "codecamp-list-11428-1325-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=11600&period=1325",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "8f7471c68f7ac8ee99c7b1b4f91503ff8fbd0366712a2e4038a2f29af98d6d10",
+      "bytes": 3569,
+      "source_file": "codecamp-list-11600-1325-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13423&period=1327",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "314d5d28dd13661dd13ef925b60489a66fbb3af5747869f374997d60fd4b8e16",
+      "bytes": 8227,
+      "source_file": "codecamp-list-13423-1327-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13655&period=1328",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "d711d55999bce73153b8d56e9f032b8ae635c32aa37dbd50adcc4b8ddd8704eb",
+      "bytes": 7315,
+      "source_file": "codecamp-list-13655-1328-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13756&period=1327",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "49d3107db931ebc01cab3cf4b227a89dac75e8ccc606e66e9a42ddb2036b74dd",
+      "bytes": 8227,
+      "source_file": "codecamp-list-13756-1327-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13788&period=1328",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "4f08a6c9ac047a3aacfcd82386a19bc6ae4b3b9e22a4bc37364bd84ad94d0455",
+      "bytes": 7313,
+      "source_file": "codecamp-list-13788-1328-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13797&period=1328",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "3c46d1b7432e7325dc47813c236f39dc85ae9fbc672d305a9501c7f4f847368d",
+      "bytes": 7313,
+      "source_file": "codecamp-list-13797-1328-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=8145&period=1327",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "6fc3004ccda56fe4a66d507818629315d83f198685226348288d3cb26d0a834f",
+      "bytes": 8227,
+      "source_file": "codecamp-list-8145-1327-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=8678&period=1326",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "d72523bff93916454892f6fbe1a55bdfc85bac39fe691b71572f9018ab411b82",
+      "bytes": 10262,
+      "source_file": "codecamp-list-8678-1326-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=8769&period=1326",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "acfc878d05ce0251aa8f9bc0e9bacd41d5015f60f0856b33f595fba4ca4867be",
+      "bytes": 10264,
+      "source_file": "codecamp-list-8769-1326-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/list?location=13797&period=1327",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "ea79d7759a2b2fbf6b8c17ca1bb6a048e4beccbe14b4fea1551680ae76587ed5",
+      "bytes": 8227,
+      "source_file": "codecamp-zurich-firecrawl.json"
+    },
+    {
+      "url": "https://smartkids-school.ch/en/stages",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "b8601629483c929ed7fb5ca9614c4597aac49ea98f7bd7be2dbe690c99121247",
+      "bytes": 7075,
+      "source_file": "smartkids-camps-firecrawl.json"
+    },
+    {
+      "url": "https://smartkids-school.ch/en",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "238b5982fcb0f301d9b40c2ad830d8d20a09a03639369c951fbcad6189576bbe",
+      "bytes": 8199,
+      "source_file": "smartkids-main-firecrawl.json"
+    },
+    {
+      "url": "https://my.codecampworld.ch/camp/2404",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "89df2b5472da252fb2a44fe1c6384284c3f377657c848eb54fceaadd1bc95da2",
+      "bytes": 1671,
+      "source_file": "codecamp-2404-recheck.json"
+    },
+    {
+      "url": "https://codecampworld.ch/faq",
+      "http_status": 200,
+      "checked": "2026-11-04",
+      "markdown_sha256": "074b14bc861c42fc9ab5a9b01257163df8e5f378e818116d06e7238c8809344b",
+      "bytes": 43790,
+      "source_file": "codecamp-faq-fresh.json"
+    }
+  ],
+  "cohorts_verified": 44,
+  "no_family_form_submission": true,
+  "no_payment": true,
+  "transition_primary_source_receipt": {
+    "url": "https://education.lego.com/en-au/lego-league/program-update/",
+    "final_url": "https://education.lego.com/en-au/lego-league/program-update/",
+    "status": 200,
+    "bytes": 124817,
+    "sha256": "02f32b7fb2a3a3e4563745ad16703a21688fe2dee2d4271631147ef331fb4d13"
+  }
+}

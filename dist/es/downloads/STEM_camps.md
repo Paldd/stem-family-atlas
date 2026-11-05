@@ -30262,6 +30262,566 @@ Limitaciones: Matvey: a Matvey9–10 en2027, Pero edad8+ se ha asignado a weekly
 Fuente: https://f71f090c-8f34-4f0e-a8c0-0f3889e5a66d.filesusr.com/ugd/ba8545_d7244217aeb74ba0a3af83181f1c1895.pdf
 Comprobado: 2026-10-05
 
+### CP683-20270201-20270203-booking-2389 · Code Camp Switzerland · Spark · Spark (3d) · FH Ost Rapperswil, Rapperswil · 2027-02-01–2027-02-03
+
+lugar: Suiza · FH Ost Rapperswil, Rapperswil · Oberseestrasse 10 8640 Rapperswil
+Fecha: 2027-02-01 国 2027-02-03
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2389
+Se ha comprobado: 2026-11-04
+
+### CP683-20270208-20270210-booking-2375 · Code Camp Switzerland · Spark · Spark (3d) · Quartierzentrum Bachletten, Basel · 2027-02-08–2027-02-10
+
+lugar: Suiza · Quartierzentrum Bachletten, Basel · Bachlettenstrasse 12 4054 Basel
+Fecha: 2027-02-08 — 2027-02-10
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2375
+Se ha comprobado: 2026-11-04
+
+### CP683-20270210-20270212-booking-2398 · Code Camp Switzerland · Spark · Spark (3d) · Schule Gönhard, Aarau · 2027-02-10–2027-02-12
+
+lugar: Suiza · Schule Gönhard, Aarau · Weltistrasse 20 5000 Aarau
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2398
+Se ha comprobado: 2026-11-04
+
+### CP683-20270217-20270219-booking-2391 · Code Camp Switzerland · Spark · Spark (3d) · Zentrum Chilematt Steinhausen · 2027-02-17–2027-02-19
+
+lugar: Suiza · Zentrum Chilematt Steinhausen · Zentrum Chilematt 6312 Steinhausen
+Fecha: 2027-02-17 — 2027-02-19
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2391
+Se ha comprobado: 2026-11-04
+
+### CP683-20270217-20270219-booking-2401 · Code Camp Switzerland · Spark · Spark (3d) · Kirchgemeindehaus Liebestrasse, Winterthur · 2027-02-17–2027-02-19
+
+lugar: Suiza · Kirchgemeindehaus Liebestrasse, Winterthur · Liebestrasse 3 8400 Winterthur
+Fecha: 2027-02-17 — 2027-02-19
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2401
+Se ha comprobado: 2026-11-04
+
+### CP683-20270222-20270224-booking-2402 · Code Camp Switzerland · Spark · Spark (3d) · Treffpunkt Meilen · 2027-02-22–2027-02-24
+
+lugar: Suiza · Treffpunkt Meilen · Schulhausstrasse 27 8706 Meilen
+Fecha: 2027-02-22 国 2027-02-24
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2402
+Se ha comprobado: 2026-11-04
+
+### CP683-20270222-20270224-booking-2411 · Code Camp Switzerland · Spark · Spark (3d) · Greencity Maneggplatz Zürich · 2027-02-22–2027-02-24
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-22 国 2027-02-24
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2411
+Se ha comprobado: 2026-11-04
+
+### CP683-20270301-20270303-booking-2416 · Code Camp Switzerland · Spark · Spark (3d) · Gemeinschaftszentrum Freienbach · 2027-03-01–2027-03-03
+
+lugar: Suiza · Gemeinschaftszentrum Freienbach · Kirchstrasse 48 8807 Freienbach
+Fecha: 2027-03-01 — 2027-03-03
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2416
+Se ha comprobado: 2026-11-04
+
+### CP683-20270303-20270305-booking-2395 · Code Camp Switzerland · Spark · Spark (3d) · Medienhaus Somedia, Chur · 2027-03-03–2027-03-05
+
+lugar: Suiza · Medienhaus Somedia, Chur · Sommeraustrasse 32 7000 Chur
+Fecha: 2027-03-03 — 2027-03-05
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2395
+Se ha comprobado: 2026-11-04
+
+### CP684-20270203-20270205-booking-2386 · Code Camp Switzerland · Ignite · Ignite (3d) · FH Ost St. Gallen, St. Gallen · 2027-02-03–2027-02-05
+
+lugar: Suiza · FH Ost St. Gallen, St. Gallen · Rosenbergstrasse 59 9001 St. Gallen
+Fecha: 2027-02-03 — 2027-02-05
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2386
+Se ha comprobado: 2026-11-04
+
+### CP684-20270210-20270212-booking-2419 · Code Camp Switzerland · Ignite · Ignite (3d) · Pfarreizentrum St. Anton, Luzern · 2027-02-10–2027-02-12
+
+lugar: Suiza · Pfarreizentrum St. Anton, Luzern · Langensandstrasse 5 6005 Luzern
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2419
+Se ha comprobado: 2026-11-04
+
+### CP684-20270211-20270212-booking-2377 · Code Camp Switzerland · Ignite · Ignite (2d) · Quartierzentrum Bachletten, Basel · 2027-02-11–2027-02-12
+
+lugar: Suiza · Quartierzentrum Bachletten, Basel · Bachlettenstrasse 12 4054 Basel
+Fecha: 2027-02-11 国 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2377
+Se ha comprobado: 2026-11-04
+
+### CP684-20270215-20270217-booking-2382 · Code Camp Switzerland · Ignite · Ignite (3d) · Schule Wettingen (HPS) · 2027-02-15–2027-02-17
+
+lugar: Suiza · Schule Wettingen (HPS) · Staffelstrasse 91 5430 Wettingen
+Fecha: 2027-02-15 — 2027-02-17
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2382
+Se ha comprobado: 2026-11-04
+
+### CP684-20270224-20270226-booking-2406 · Code Camp Switzerland · Ignite · Ignite (3d) · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · 2027-02-24–2027-02-26
+
+lugar: Suiza · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · Kreuzbühlstrasse 16 8008 Zürich
+Fecha: 2027-02-24 — 2027-02-26
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2406
+Se ha comprobado: 2026-11-04
+
+### CP684-20270225-20270226-booking-2412 · Code Camp Switzerland · Ignite · Ignite (2d) · Greencity Maneggplatz Zürich · 2027-02-25–2027-02-26
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-25 — 2027-02-26
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2412
+Se ha comprobado: 2026-11-04
+
+### CP686-20270215-20270217-booking-2383 · Code Camp Switzerland · Web Builders · Web Builders (3d) · Schule Wettingen (HPS) · 2027-02-15–2027-02-17
+
+lugar: Suiza · Schule Wettingen (HPS) · Staffelstrasse 91 5430 Wettingen
+Fecha: 2027-02-15 — 2027-02-17
+Edad: 8–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2383
+Se ha comprobado: 2026-11-04
+
+### CP687-20270201-20270203-booking-2390 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · FH Ost Rapperswil, Rapperswil · 2027-02-01–2027-02-03
+
+lugar: Suiza · FH Ost Rapperswil, Rapperswil · Oberseestrasse 10 8640 Rapperswil
+Fecha: 2027-02-01 国 2027-02-03
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2390
+Se ha comprobado: 2026-11-04
+
+### CP687-20270203-20270205-booking-2387 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · FH Ost St. Gallen, St. Gallen · 2027-02-03–2027-02-05
+
+lugar: Suiza · FH Ost St. Gallen, St. Gallen · Rosenbergstrasse 59 9001 St. Gallen
+Fecha: 2027-02-03 — 2027-02-05
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2387
+Se ha comprobado: 2026-11-04
+
+### CP687-20270208-20270210-booking-2376 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Quartierzentrum Bachletten, Basel · 2027-02-08–2027-02-10
+
+lugar: Suiza · Quartierzentrum Bachletten, Basel · Bachlettenstrasse 12 4054 Basel
+Fecha: 2027-02-08 — 2027-02-10
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2376
+Se ha comprobado: 2026-11-04
+
+### CP687-20270208-20270210-booking-2388 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · HofAckerZentrum, Schaffhausen · 2027-02-08–2027-02-10
+
+lugar: Suiza · HofAckerZentrum, Schaffhausen · Evangelisch-reformierte Kirchgemeinde Buchthalen, Alpenstrasse 176 8200 Schaffhausen
+Fecha: 2027-02-08 — 2027-02-10
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2388
+Se ha comprobado: 2026-11-04
+
+### CP687-20270208-20270210-booking-2394 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Pfarreizentrum Bruder Klaus, Bern · 2027-02-08–2027-02-10
+
+lugar: Suiza · Pfarreizentrum Bruder Klaus, Bern · Ostring 1a 3006 Bern
+Fecha: 2027-02-08 — 2027-02-10
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2394
+Se ha comprobado: 2026-11-04
+
+### CP687-20270210-20270212-booking-2417 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Pfarreizentrum St. Anton, Luzern · 2027-02-10–2027-02-12
+
+lugar: Suiza · Pfarreizentrum St. Anton, Luzern · Langensandstrasse 5 6005 Luzern
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2417
+Se ha comprobado: 2026-11-04
+
+### CP687-20270215-20270217-booking-2384 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Schule Wettingen (HPS) · 2027-02-15–2027-02-17
+
+lugar: Suiza · Schule Wettingen (HPS) · Staffelstrasse 91 5430 Wettingen
+Fecha: 2027-02-15 — 2027-02-17
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2384
+Se ha comprobado: 2026-11-04
+
+### CP687-20270215-20270217-booking-2408 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Greencity Maneggplatz Zürich · 2027-02-15–2027-02-17
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-15 — 2027-02-17
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2408
+Se ha comprobado: 2026-11-04
+
+### CP687-20270217-20270219-booking-2392 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Zentrum Chilematt Steinhausen · 2027-02-17–2027-02-19
+
+lugar: Suiza · Zentrum Chilematt Steinhausen · Zentrum Chilematt 6312 Steinhausen
+Fecha: 2027-02-17 — 2027-02-19
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2392
+Se ha comprobado: 2026-11-04
+
+### CP687-20270222-20270224-booking-2403 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Treffpunkt Meilen · 2027-02-22–2027-02-24
+
+lugar: Suiza · Treffpunkt Meilen · Schulhausstrasse 27 8706 Meilen
+Fecha: 2027-02-22 国 2027-02-24
+Edad: 7–10 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–10. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–10. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2403
+Se ha comprobado: 2026-11-04
+
+### CP687-20270224-20270226-booking-2407 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · 2027-02-24–2027-02-26
+
+lugar: Suiza · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · Kreuzbühlstrasse 16 8008 Zürich
+Fecha: 2027-02-24 — 2027-02-26
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2407
+Se ha comprobado: 2026-11-04
+
+### CP687-20270301-20270303-booking-2415 · Code Camp Switzerland · Minecraft Engineers · Minecraft Engineers (3d) · Gemeinschaftszentrum Freienbach · 2027-03-01–2027-03-03
+
+lugar: Suiza · Gemeinschaftszentrum Freienbach · Kirchstrasse 48 8807 Freienbach
+Fecha: 2027-03-01 — 2027-03-03
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2415
+Se ha comprobado: 2026-11-04
+
+### CP688-20270210-20270212-booking-2399 · Code Camp Switzerland · Minecraft Masters · Minecraft Masters (3d) · Schule Gönhard, Aarau · 2027-02-10–2027-02-12
+
+lugar: Suiza · Schule Gönhard, Aarau · Weltistrasse 20 5000 Aarau
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 8–13 años según ficha de sesión elegida; Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2399
+Se ha comprobado: 2026-11-04
+
+### CP688-20270218-20270219-booking-2409 · Code Camp Switzerland · Minecraft Masters · Minecraft Masters (2d) · Greencity Maneggplatz Zürich · 2027-02-18–2027-02-19
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-18 国 2027-02-19
+Edad: 8–13 años según ficha de sesión elegida; Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2409
+Se ha comprobado: 2026-11-04
+
+### CP688-20270303-20270305-booking-2396 · Code Camp Switzerland · Minecraft Masters · Minecraft Masters (3d) · Medienhaus Somedia, Chur · 2027-03-03–2027-03-05
+
+lugar: Suiza · Medienhaus Somedia, Chur · Sommeraustrasse 32 7000 Chur
+Fecha: 2027-03-03 — 2027-03-05
+Edad: 7*12 años según ficha de sesión elegida; Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas invernales Masters seleccionadas indican 7–12, menú general 8–13. Confirmación específica para el menor; completar Engineers o acreditar experiencia equivalente. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2396
+Se ha comprobado: 2026-11-04
+
+### CP689-20270211-20270212-booking-2378 · Code Camp Switzerland · Minecraft Experts · Minecraft Experts (2d) · Quartierzentrum Bachletten, Basel · 2027-02-11–2027-02-12
+
+lugar: Suiza · Quartierzentrum Bachletten, Basel · Bachlettenstrasse 12 4054 Basel
+Fecha: 2027-02-11 国 2027-02-12
+Edad: 8–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2378
+Se ha comprobado: 2026-11-04
+
+### CP689-20270217-20270219-booking-2400 · Code Camp Switzerland · Minecraft Experts · Minecraft Experts (3d) · Kirchgemeindehaus Liebestrasse, Winterthur · 2027-02-17–2027-02-19
+
+lugar: Suiza · Kirchgemeindehaus Liebestrasse, Winterthur · Liebestrasse 3 8400 Winterthur
+Fecha: 2027-02-17 — 2027-02-19
+Edad: 8–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2400
+Se ha comprobado: 2026-11-04
+
+### CP689-20270222-20270224-booking-2404 · Code Camp Switzerland · Minecraft Experts · Minecraft Experts (3d) · Treffpunkt Meilen · 2027-02-22–2027-02-24
+
+lugar: Suiza · Treffpunkt Meilen · Schulhausstrasse 27 8706 Meilen
+Fecha: 2027-02-22 国 2027-02-24
+Edad: 8–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2404
+Se ha comprobado: 2026-11-04
+
+### CP689-20270222-20270224-booking-2414 · Code Camp Switzerland · Minecraft Experts · Minecraft Experts (3d) · Greencity Maneggplatz Zürich · 2027-02-22–2027-02-24
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-22 国 2027-02-24
+Edad: 8–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 8–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2414
+Se ha comprobado: 2026-11-04
+
 ### CP691-20261005-20261006-winterthur · Code Camp Switzerland · AI Camp · winterthur · 2026-10-05–2026-10-06
 
 Lugar: Suiza · Winterthur · Liebestrasse Parish Hall
@@ -30294,69 +30854,117 @@ Restricciones: Matvey: edad9–10 en2027; AI2026 solo tras cumplir9 años; neces
 Fuente: https://en.codecampworld.ch/camps/ai-camp
 Comprobado: 2026-10-05
 
-### CP691-20270211-20270212-aarau · Code Camp Switzerland · AI Camp · aarau · 2027-02-11–2027-02-12
+### CP691-20270211-20270212-basel · Code Camp Switzerland · AI Camp · AI Camp (2d) · Quartierzentrum Bachletten, Basel · 2027-02-11–2027-02-12
 
-Lugar: Suiza · Aarau · School Gönhard
+lugar: Suiza · Quartierzentrum Bachletten, Basel · Bachlettenstrasse 12 4054 Basel
 Fecha: 2027-02-11 国 2027-02-12
-Edad: 9*13; FAQ exige una cuenta 13+
+Edad: 9–13 años según ficha de sesión elegida
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Own FAQ: el idioma depende de un cambio de lugar o lugar concreto. La interfaz EN no demuestra que esté en clase; EN/ES/RU no está disponible la enseñanza del curso seleccionado.
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · FAQ orientativo CHF120/día; no es la tarifa de la sesión AI elegida; importe total desconocido · suplementos y condiciones en el expediente
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Restricciones: Matvey: edad9–10 en2027; AI2026 solo tras cumplir9 años; necesita cuenta permitida/grupo EN; en2027 edad9–10 adecuada. Oscar: mínimo9; Oscar tendrá6–7 en2027, etapa futura. Suplementos: para AI, dispositivo con webcam/navegador; cuenta permitida para el menor sin resolver. Traer comida/merienda/agua. Late replacement con menos de72h/el primer día: CHF50 según FAQ; no es alquiler habitual. Alojamiento/transporte aparte; descuento para hermanos sin importe publicado. Pago: FAQ permite cambio/voucher y reembolso parcial tras el primer día mediante solicitud escrita; después no. Importe y umbral exactos sin publicar. Terms contiene Australian law/AUD y©2018 junto a dirección suiza: pedir condiciones suizas vigentes de cancelación y seguro.
-Fuente: https://en.codecampworld.ch/camps/ai-camp
-Comprobado: 2026-10-05
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2379
+Se ha comprobado: 2026-11-04
 
-### CP691-20270211-20270212-basel · Code Camp Switzerland · AI Camp · basel · 2027-02-11–2027-02-12
+### CP691-20270211-20270212-aarau · Code Camp Switzerland · AI Camp · AI Camp (2d) · Schule Gönhard, Aarau · 2027-02-11–2027-02-12
 
-Lugar: Suiza · Basel · Quartierzentrum Bachletten
+lugar: Suiza · Schule Gönhard, Aarau · Weltistrasse 20 5000 Aarau
 Fecha: 2027-02-11 国 2027-02-12
-Edad: 9*13; FAQ exige una cuenta 13+
+Edad: 9–13 años según ficha de sesión elegida
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Own FAQ: el idioma depende de un cambio de lugar o lugar concreto. La interfaz EN no demuestra que esté en clase; EN/ES/RU no está disponible la enseñanza del curso seleccionado.
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · FAQ orientativo CHF120/día; no es la tarifa de la sesión AI elegida; importe total desconocido · suplementos y condiciones en el expediente
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Restricciones: Matvey: edad9–10 en2027; AI2026 solo tras cumplir9 años; necesita cuenta permitida/grupo EN; en2027 edad9–10 adecuada. Oscar: mínimo9; Oscar tendrá6–7 en2027, etapa futura. Suplementos: para AI, dispositivo con webcam/navegador; cuenta permitida para el menor sin resolver. Traer comida/merienda/agua. Late replacement con menos de72h/el primer día: CHF50 según FAQ; no es alquiler habitual. Alojamiento/transporte aparte; descuento para hermanos sin importe publicado. Pago: FAQ permite cambio/voucher y reembolso parcial tras el primer día mediante solicitud escrita; después no. Importe y umbral exactos sin publicar. Terms contiene Australian law/AUD y©2018 junto a dirección suiza: pedir condiciones suizas vigentes de cancelación y seguro.
-Fuente: https://en.codecampworld.ch/camps/ai-camp
-Comprobado: 2026-10-05
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2418
+Se ha comprobado: 2026-11-04
 
-### CP691-20270216-20270217-wettingen · Code Camp Switzerland · AI Camp · wettingen · 2027-02-16–2027-02-17
+### CP691-20270216-20270217-wettingen · Code Camp Switzerland · AI Camp · AI Camp (2d) · Schule Wettingen (HPS) · 2027-02-16–2027-02-17
 
-Lugar: Suiza · Wettingen · School Wettingen
+lugar: Suiza · Schule Wettingen (HPS) · Staffelstrasse 91 5430 Wettingen
 Fecha: 2027-02-16 国 2027-02-17
-Edad: 9*13; FAQ exige una cuenta 13+
+Edad: 9–13 años según ficha de sesión elegida
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Own FAQ: el idioma depende de un cambio de lugar o lugar concreto. La interfaz EN no demuestra que esté en clase; EN/ES/RU no está disponible la enseñanza del curso seleccionado.
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · FAQ orientativo CHF120/día; no es la tarifa de la sesión AI elegida; importe total desconocido · suplementos y condiciones en el expediente
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Restricciones: Matvey: edad9–10 en2027; AI2026 solo tras cumplir9 años; necesita cuenta permitida/grupo EN; en2027 edad9–10 adecuada. Oscar: mínimo9; Oscar tendrá6–7 en2027, etapa futura. Suplementos: para AI, dispositivo con webcam/navegador; cuenta permitida para el menor sin resolver. Traer comida/merienda/agua. Late replacement con menos de72h/el primer día: CHF50 según FAQ; no es alquiler habitual. Alojamiento/transporte aparte; descuento para hermanos sin importe publicado. Pago: FAQ permite cambio/voucher y reembolso parcial tras el primer día mediante solicitud escrita; después no. Importe y umbral exactos sin publicar. Terms contiene Australian law/AUD y©2018 junto a dirección suiza: pedir condiciones suizas vigentes de cancelación y seguro.
-Fuente: https://en.codecampworld.ch/camps/ai-camp
-Comprobado: 2026-10-05
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2385
+Se ha comprobado: 2026-11-04
 
-### CP691-20270218-20270219-steinhausen · Code Camp Switzerland · AI Camp · steinhausen · 2027-02-18–2027-02-19
+### CP691-20270218-20270219-steinhausen · Code Camp Switzerland · AI Camp · AI Camp (2d) · Zentrum Chilematt Steinhausen · 2027-02-18–2027-02-19
 
-Lugar: Suiza · Steinhausen · Chilematt Center
+lugar: Suiza · Zentrum Chilematt Steinhausen · Zentrum Chilematt 6312 Steinhausen
 Fecha: 2027-02-18 国 2027-02-19
-Edad: 9*13; FAQ exige una cuenta 13+
+Edad: 9–13 años según ficha de sesión elegida
 Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: No ahora; la edad futura
 Formato: day_camp
-Idioma: Own FAQ: el idioma depende de un cambio de lugar o lugar concreto. La interfaz EN no demuestra que esté en clase; EN/ES/RU no está disponible la enseñanza del curso seleccionado.
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
 Marca de idioma: unconfirmed; apoyo: no declarado
-Precio: 2027 · FAQ orientativo CHF120/día; no es la tarifa de la sesión AI elegida; importe total desconocido · suplementos y condiciones en el expediente
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Restricciones: Matvey: edad9–10 en2027; AI2026 solo tras cumplir9 años; necesita cuenta permitida/grupo EN; en2027 edad9–10 adecuada. Oscar: mínimo9; Oscar tendrá6–7 en2027, etapa futura. Suplementos: para AI, dispositivo con webcam/navegador; cuenta permitida para el menor sin resolver. Traer comida/merienda/agua. Late replacement con menos de72h/el primer día: CHF50 según FAQ; no es alquiler habitual. Alojamiento/transporte aparte; descuento para hermanos sin importe publicado. Pago: FAQ permite cambio/voucher y reembolso parcial tras el primer día mediante solicitud escrita; después no. Importe y umbral exactos sin publicar. Terms contiene Australian law/AUD y©2018 junto a dirección suiza: pedir condiciones suizas vigentes de cancelación y seguro.
-Fuente: https://en.codecampworld.ch/camps/ai-camp
-Comprobado: 2026-10-05
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2393
+Se ha comprobado: 2026-11-04
+
+### CP691-20270225-20270226-booking-2405 · Code Camp Switzerland · AI Camp · AI Camp (2d) · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · 2027-02-25–2027-02-26
+
+lugar: Suiza · Freie Katholische Schule Zürich, Schulhaus Kreuzbühl · Kreuzbühlstrasse 16 8008 Zürich
+Fecha: 2027-02-25 — 2027-02-26
+Edad: 9–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2405
+Se ha comprobado: 2026-11-04
+
+### CP691-20270225-20270226-booking-2413 · Code Camp Switzerland · AI Camp · AI Camp (2d) · Greencity Maneggplatz Zürich · 2027-02-25–2027-02-26
+
+lugar: Suiza · Greencity Maneggplatz Zürich · Maneggplatz 44 8041 Zürich
+Fecha: 2027-02-25 — 2027-02-26
+Edad: 9–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2413
+Se ha comprobado: 2026-11-04
+
+### CP691-20270304-20270305-booking-2397 · Code Camp Switzerland · AI Camp · AI Camp (2d) · Medienhaus Somedia, Chur · 2027-03-04–2027-03-05
+
+lugar: Suiza · Medienhaus Somedia, Chur · Sommeraustrasse 32 7000 Chur
+Fecha: 2027-03-04 — 2027-03-05
+Edad: 9–13 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 242 CHF por 2 días; dispositivo propio compatible o alquiler 24 CHF. Curso con alquiler elegido = 266 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Oscar: Edad en año de sesión 6–7; ficha 9–13. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Fichas AI Camp: 9–13, pero FAQ exige cuenta Microsoft 13+ para Bing AI. Sin acreditar uso permitido para menores de 13; no falsear edad de cuenta, acordar herramientas y reglas del servicio. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2397
+Se ha comprobado: 2026-11-04
 
 ### CP694-20261019-20261023-20261019 · Forest International School Paris · Holiday Camps · Holiday week · 10–16 · 2026-10-19–2026-10-23
 
@@ -40132,6 +40740,70 @@ Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transpo
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1136-20270210-20270212-booking-2380 · Code Camp Liechtenstein · Ignite · Ignite (3d) · Universität Liechtenstein · 2027-02-10–2027-02-12
+
+lugar: Liechtenstein · Universität Liechtenstein · Fürst-Franz-Josef-Strasse / Fabrikweg 9490 Vaduz
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2380
+Se ha comprobado: 2026-11-04
+
+### CP1137-20270210-20270212-booking-2381 · Code Camp Liechtenstein · Minecraft Engineers · Minecraft Engineers (3d) · Universität Liechtenstein · 2027-02-10–2027-02-12
+
+lugar: Liechtenstein · Universität Liechtenstein · Fürst-Franz-Josef-Strasse / Fabrikweg 9490 Vaduz
+Fecha: 2027-02-10 — 2027-02-12
+Edad: 7*12 años según ficha de sesión elegida
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Según FAQ actual de Code Camp, clases normalmente en alemán; idioma según sesión y sede. Grupo EN/ES/RU para estas fechas sin confirmar. Interfaz inglesa no acredita idioma docente.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 363 CHF por 3 días; dispositivo propio compatible o alquiler 36 CHF. Curso con alquiler elegido = 399 CHF, cálculo sin descuentos ni viaje. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de sesión 9–10; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Oscar: Edad en año de sesión 6–7; ficha 7–12. Fecha exacta de nacimiento, edad al inicio, nivel, grupo EN/ES y admisión se comprueban aparte. Suplementos: Traer almuerzo, tentempié y agua. Alojamiento, transporte y seguro aparte. FAQ: descuento del 10% al segundo hijo y 20% al tercero, con código individual previo; sin aplicar automáticamente. Sustitución tardía del dispositivo con menos de 72 horas o fallo el primer día: 50 CHF, distinta del alquiler normal. Pago: FAQ: cambio o voucher por acuerdo; posible reembolso parcial tras primer día mediante petición escrita, sin devolución posterior si continúa. Cancelación del operador: posible otro campamento, voucher o reembolso. Confirmar retenciones y condiciones locales antes de pagar.
+Fuente: https://my.codecampworld.ch/camp/2381
+Se ha comprobado: 2026-11-04
+
+### CP1138-20261228-20261231 · Smart Kids School · Christmas Coding Camps · 4 medias jornadas · mañana o tarde a elegir · 2026-12-28–2026-12-31
+
+lugar: Suiza · En línea desde cualquier país; operador en Suiza, niño desde casa.
+Fecha: 2026-12-28 - 2026-12-31
+edad: Campamentos generales desde 7 años; Advanced Python desde 12, máximo del grupo general sin indicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: online_camp
+Idioma: Existe web EN, pero docencia EN/ES/RU del grupo elegido no consta expresamente. Confirmar idioma del profesor; traducción web no acredita campamento inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 449 CHF por semana de 4 medias jornadas. Precio anticipado publicado de 404 CHF al inscribirse antes de 07.12.2026; se usa importe publicado. Descuento segundo hijo discrepante: banner 99 CHF, FAQ 11%; sin calcular total familiar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cumple mínimo general de 7 años; confirmar nivel concreto y grupo EN/ES. Advanced Python 12+ queda para más adelante. Oscar: En diciembre de 2026 Oscar aún tiene 6, no cumple mínimo de 7. Suplementos: Se necesitan PC/Mac/Chromebook, internet y auriculares, preferible webcam. Web general recomienda adulto cerca para edades 7–9. Sin promesa de equipo físico o kit para casa; confirmar hora de conexión. Pago: Cancelación gratuita hasta 14 días antes; después posibles cargos, sin escala completa. Banner de admisión hasta 27.12.2026 no fija plazo separado de semana de enero. Web describe reserva al pagar y confirmación de horario en 24 horas laborables; familia sin inscripción ni pago.
+Fuente: https://smartkids-school.ch/en/stages
+Se ha comprobado: 2026-11-04
+
+### CP1138-20270104-20270107 · Smart Kids School · Christmas Coding Camps · 4 medias jornadas · mañana o tarde a elegir · 2027-01-04–2027-01-07
+
+lugar: Suiza · En línea desde cualquier país; operador en Suiza, niño desde casa.
+Fecha: 2027-01-04 国 2027-01-07
+edad: Campamentos generales desde 7 años; Advanced Python desde 12, máximo del grupo general sin indicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: online_camp
+Idioma: Existe web EN, pero docencia EN/ES/RU del grupo elegido no consta expresamente. Confirmar idioma del profesor; traducción web no acredita campamento inglés.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 449 CHF por semana de 4 medias jornadas. Precio anticipado publicado de 404 CHF al inscribirse antes de 07.12.2026; se usa importe publicado. Descuento segundo hijo discrepante: banner 99 CHF, FAQ 11%; sin calcular total familiar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Cumple mínimo general de 7 años; confirmar nivel concreto y grupo EN/ES. Advanced Python 12+ queda para más adelante. Oscar: El 04.01.2027 solo cumple mínimo de 7 si nació del 1 al 4 de enero; fecha exacta desconocida. Confirmar idioma y admisión. Suplementos: Se necesitan PC/Mac/Chromebook, internet y auriculares, preferible webcam. Web general recomienda adulto cerca para edades 7–9. Sin promesa de equipo físico o kit para casa; confirmar hora de conexión. Pago: Cancelación gratuita hasta 14 días antes; después posibles cargos, sin escala completa. Banner de admisión hasta 27.12.2026 no fija plazo separado de semana de enero. Web describe reserva al pagar y confirmación de horario en 24 horas laborables; familia sin inscripción ni pago.
+Fuente: https://smartkids-school.ch/en/stages
 Se ha comprobado: 2026-11-04
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

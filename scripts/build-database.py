@@ -62,6 +62,8 @@ from opportunities_v140 import enrich_v140
 enrich_v140(d)
 from nearby_opportunities_v141 import enrich_v141
 enrich_v141(d)
+from camp_winter_v142 import enrich_v142
+enrich_v142(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']

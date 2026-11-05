@@ -24,7 +24,7 @@ python3 scripts/verify-spanish.py
 
 [Открыть сайт](https://paldd.github.io/stem-family-atlas/) · [Статус публикации](https://github.com/Paldd/stem-family-atlas/actions/workflows/pages.yml)
 
-Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **141**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе 3 886 записей, 1 135 досье программ лагерей/обучения, 144 профиля лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
+Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **142**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе 3 928 записей, 1 138 досье программ лагерей/обучения, 144 профиля лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
 
 ## Как обновляется сайт
 
@@ -404,3 +404,5 @@ Extended 09–17 / Super Extended 09–18. Числовые тарифы, дат
 UI 140 (2026-11-04): 3,859 catalogue records and 1,123 camp dossiers. The focused source refresh updates 19 competition records and adds 11 Singapore camp sessions plus adult-only TIMTOS 2027. All 3,847 previous records and 1,119 dossiers are preserved. Current entries sort before expired entries by default; archive search remains available. Deadline exports preserve distinct tracks sharing one source. The worldwide audit remains unfinished. The exact deployed commit is available in `release.json`.
 
 UI 141 (2026-11-04): add Bebras México Autumn 2026 and the ASFM RoboJam 2027 event with eight separately verified challenge rules. Correct Costa Rican Bebras enrollment status and price. Add 12 FOD programme dossiers and 17 dated holiday sessions, with CRC 60,000 tax-inclusive course price, actual daily hours, per-session age gates, and explicit unknown instructional language and equipment. All v140 records and dossiers are retained; worldwide research remains active.
+
+UI 142 (2026-11-04): verify 44 individual Code Camp winter 2027 booking pages across 16 venues, including two cohorts in Liechtenstein. Add 40 new Code Camp calendar rows and two Smart Kids online holiday weeks; refresh four previously listed AI cohorts without renaming their IDs. Record actual CHF tuition and optional device rental, German-default language caveats, Masters age conflict, AI account age conditions, and unknown online instructional language/timezone. Clarify the indicative LEGO League registration window. Browser ICS export now honors exact build-derived UTC times for published timed sessions, consistent with the full calendar. Retain all 3,886 prior records and all 1,135 prior dossiers. Worldwide research remains active; no country is fully audited.
