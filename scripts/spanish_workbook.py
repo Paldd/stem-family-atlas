@@ -16,6 +16,7 @@ HEADERS={
  'language_certainty':'Certeza del idioma','iso':'ISO del país','provider':'Proveedor','name':'Nombre',
  'programme':'Programa','place':'Lugar','accommodation':'Alojamiento','price':'Precio y condiciones',
  'family_fit':'Requisitos para la familia','timing':'Calendario','sources':'Fuentes oficiales',
+ 'archive_offers':'Ofertas archivadas',
  'questions':'Preguntas pendientes','school_type':'Tipo de colegio','results':'Resultados',
  'requirements':'Requisitos','awards':'Premios','age_rule':'Regla de edad','age_range':'Edades',
  'format_rule':'Regla del formato','entry_route':'Vía de participación','availability':'Disponibilidad'

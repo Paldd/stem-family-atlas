@@ -1,0 +1,555 @@
+{
+  "version": 167,
+  "checked": "2026-11-05",
+  "scope": "primary_source_response_hashes",
+  "requests": [
+    {
+      "key": "bee-terms",
+      "url": "https://www.beelingueacademy.com/cgdv",
+      "final_url": "https://www.beelingueacademy.com/cgdv",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 23807,
+      "sha256": "8b02cbaf64abe6bbbde93bfabf8eee3f1c656ada6ae6fd3044664ac4a5c95b19",
+      "file": "bee-terms.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tecnoeduka-product",
+      "url": "https://tecnoeduka.es/producto/reserva-campamento-navidad/",
+      "final_url": "https://tecnoeduka.es/producto/reserva-campamento-navidad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 235588,
+      "sha256": "5ea829a3eb2dd0df034bee5ac7bd48f5ed2dcb2d1fb060aee7ec6c271ed1a32b",
+      "file": "tecnoeduka-product.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-lausanne",
+      "url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "final_url": "https://leman.techsparkacademy.ch/lausanne-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 265401,
+      "sha256": "09a4412f2cc2f75afae6592b62cf03bc5d76f876c7161ac54284f91bf65a92ee",
+      "file": "techspark-lausanne.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-geneva",
+      "url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "final_url": "https://leman.techsparkacademy.ch/geneva-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 256426,
+      "sha256": "129d2a07190854a2162c2be93b3ea2e48236fb886341cf419957c66d43731ae1",
+      "file": "techspark-geneva.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-zurich",
+      "url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zurich-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 284264,
+      "sha256": "2cded6bb70d42ec460ea3fffb7c595266234c8c5491f08396ff4ef0da7f2a9ab",
+      "file": "techspark-zurich.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-zug",
+      "url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+      "final_url": "https://zurich.techsparkacademy.ch/zug-day-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 244174,
+      "sha256": "b02f590a41b09c2c1b78e6292234cc7a1814dcab70651237802bed4ed75b3b90",
+      "file": "techspark-zug.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "beelingue-brochure-pdf",
+      "url": "https://www.beelingueacademy.com/christmas-camp/CHRISTMAS-CAMP-2026.pdf",
+      "final_url": "https://www.beelingueacademy.com/christmas-camp/CHRISTMAS-CAMP-2026.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1117664,
+      "sha256": "8f363bd3cda241a728ebe3bade2864bc56965f5e7be216e4825a685933d40aeb",
+      "file": "beelingue-brochure-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "sswp-brochure-pdf",
+      "url": "https://www.sswp.fr/wp-content/uploads/2026/09/Jardin-Ateliers-Toussaint-Noel-2026-et-Feb-2027-DIGITAL.pdf",
+      "final_url": "https://www.sswp.fr/wp-content/uploads/2026/09/Jardin-Ateliers-Toussaint-Noel-2026-et-Feb-2027-DIGITAL.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1142652,
+      "sha256": "f039d04d7b7db5e002741f8622e87fece3ed32f824a4af3d2320c519adfbefc8",
+      "file": "sswp-brochure-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "inventors-camps",
+      "url": "https://theinventors.io/en/campos-de-ferias/",
+      "final_url": "https://theinventors.io/en/campos-de-ferias/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211733,
+      "sha256": "3aa68f7586e8c0b58a7b0525269e42ffe8bdeb933d11b17cfe4859d2cea8fcae",
+      "file": "inventors-camps.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tecnoeduka-reservation",
+      "url": "https://tecnoeduka.es/producto/reserva-campamento-navidad",
+      "final_url": "https://tecnoeduka.es/producto/reserva-campamento-navidad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 235588,
+      "sha256": "5ea829a3eb2dd0df034bee5ac7bd48f5ed2dcb2d1fb060aee7ec6c271ed1a32b",
+      "file": "tecnoeduka-reservation.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "helvetic-stem",
+      "url": "https://www.helveticinstitute.ch/stem-summer-camp-zurich/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-robotics",
+      "url": "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "techspark-robotics",
+      "url": "https://online.techsparkacademy.ch/robotics-course/",
+      "final_url": "https://online.techsparkacademy.ch/robotics-course/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 388850,
+      "sha256": "05b25d61361d6f93de09322d678c47028cc85bae450e599050d6737e42883ef2",
+      "file": "techspark-robotics.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "garenne-summer",
+      "url": "https://www.la-garenne.ch/summer-camps/",
+      "final_url": "https://www.la-garenne.ch/summer-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 558808,
+      "sha256": "492fd9ca4d65bcdb801d5f8f2833b2501b8add7d9208e58fd961202166d0acf3",
+      "file": "garenne-summer.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "beelingue-christmas",
+      "url": "https://www.beelingueacademy.com/christmas-camp?lang=fr",
+      "final_url": "https://www.beelingueacademy.com/christmas-camp?lang=fr",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 35382,
+      "sha256": "b7c7ddeaef983b75f81d5e589b1b7dcdf9a9bdb9f6ef2e72ec902b27b3c952ec",
+      "file": "beelingue-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "valencia-hogwarts",
+      "url": "https://escueladeciencia.com/campamentos/hogwarts",
+      "final_url": "https://escueladeciencia.com/campamentos/hogwarts",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 48542,
+      "sha256": "ee0ffce3e4eb1ee6b56ac1b59b88258767b752bac9f142189d93ad7053ba7978",
+      "file": "valencia-hogwarts.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "keiko-christmas",
+      "url": "https://keikosdream.net/the-christmas-wizard-academy/",
+      "final_url": "https://keikosdream.net/the-christmas-wizard-academy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116328,
+      "sha256": "11225711d9181aa4df679d944adb0865f7622ba03a911e8f22fbd371045bc539",
+      "file": "keiko-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "zugtech-children",
+      "url": "https://zugtechnologylab.ch/en/education/children",
+      "final_url": "https://zugtechnologylab.ch/en/education/children",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141897,
+      "sha256": "b57393869b92546991911d6dae5702d37e654183c77a5d558631e0e6fc0c741d",
+      "file": "zugtech-children.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "petitsatomes-robotics",
+      "url": "https://lespetitsatomes.com/categorie-produit/stages-vacances-enfants-ados-maternelle/stages-robotique-programmation/",
+      "final_url": "https://lespetitsatomes.com/categorie-produit/stages-vacances-enfants-ados-maternelle/stages-robotique-programmation/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 104987,
+      "sha256": "b36264764470645eb469df8a9cdd52202f52aaead2e95dbf66a7c7de36b83b92",
+      "file": "petitsatomes-robotics.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techlab-christmas",
+      "url": "https://techlabkids.com/campamentos/",
+      "final_url": "https://techlabkids.com/campamentos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214120,
+      "sha256": "b0feb152df77d43900e08de4073498ea289bada3cf6e35a1aeb4d70d5aec0204",
+      "file": "techlab-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-google",
+      "url": "https://techsparkacademy.ch/in-person-workshops/hack-google-weekend-2027/",
+      "final_url": "https://techsparkacademy.ch/in-person-workshops/hack-google-weekend-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 239219,
+      "sha256": "02c29ec280aaf32304fb1af8354ebd6ec17aa7dea44045d6affe4a66a7c9f70b",
+      "file": "techspark-google.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "helvetic-winter-child",
+      "url": "https://www.helveticinstitute.ch/winter-studio-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-zurich-summer-direct",
+      "url": "https://helveticinstitute.ch/stem-summer-camp-zurich/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "lovell-winter",
+      "url": "https://lovellcamps.ch/winter-camp/",
+      "final_url": "https://lovellcamps.ch/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89517,
+      "sha256": "1f34389a1fea2c585ae74fcd102f379e29e74dce3c6fe4dc0f37cecd521512b0",
+      "file": "lovell-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "lovell-summer",
+      "url": "https://lovellcamps.ch/summer-camp/",
+      "final_url": "https://lovellcamps.ch/summer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109187,
+      "sha256": "1b777bd0a8640f7b2959b16be0efb1882c447ca2a0437b7a905aa7f9602d7111",
+      "file": "lovell-summer.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "altitude-day",
+      "url": "https://www.altitude-camps.com/day-camp/",
+      "final_url": "https://www.altitude-camps.com/day-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 135684,
+      "sha256": "4587cb5d2a9afe6279c2da3ed950120fb2aa6b5e11dff317603968e9121e7546",
+      "file": "altitude-day.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "altitude-residential",
+      "url": "https://www.altitude-camps.com/residential-camp/",
+      "final_url": "https://www.altitude-camps.com/residential-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 144743,
+      "sha256": "f24afb6dd7cf26849f8a1df2927a2af8e562efcb741c3e3e24d927bf4eb6374f",
+      "file": "altitude-residential.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "leselfes-winter-day",
+      "url": "https://www.leselfes.com/winter-day-camp/",
+      "final_url": "https://www.leselfes.com/winter-day-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1190474,
+      "sha256": "4914b3f7a24bd2206532c5bad25c3f297e41010bc8cba383864d70ebbc78b87f",
+      "file": "leselfes-winter-day.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "montana-summer",
+      "url": "https://www.montana-zug.ch/en/summer-camp",
+      "final_url": "https://www.montana-zug.ch/en/summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 436214,
+      "sha256": "003806f73da66730a30a881206678f5e1fe42ab54aac758d9147c97862ed7749",
+      "file": "montana-summer.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "hautlac-winter",
+      "url": "https://haut-lac.ch/camps/winter-camp-dates-and-prices/",
+      "final_url": "https://haut-lac.ch/camps/winter-camp-dates-and-prices/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 402325,
+      "sha256": "a5cc5de58859931f8fc9dff6a4ad3760598603fe4576445d623b6931ade7e303",
+      "file": "hautlac-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "techspark-camps",
+      "url": "https://techsparkacademy.ch/in-person-camps/",
+      "final_url": "https://techsparkacademy.ch/in-person-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 291950,
+      "sha256": "ac5ba11be0244fa6abb18c992e656b2bd292f7409b1d2dd3b5d8a54f456408e3",
+      "file": "techspark-camps.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "casita-christmas",
+      "url": "https://lacasitadeingles.com/evento/campamento-de-navidad/",
+      "final_url": "https://lacasitadeingles.com/evento/campamento-de-navidad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 182558,
+      "sha256": "8ea293b681412d93f51e03781656ae1e05daf31b6209ec56c675df4eeb3a3418",
+      "file": "casita-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tecnoeduka-christmas",
+      "url": "https://tecnoeduka.es/navidad/",
+      "final_url": "https://tecnoeduka.es/navidad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 181843,
+      "sha256": "477bfd018188850f3e785d39ffdc65ffc689393d91b46ad42954429550ec43ff",
+      "file": "tecnoeduka-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "funtech-christmas",
+      "url": "https://funtech.academy/actividades/campamentos/campamento-navidad/",
+      "final_url": "https://funtech.academy/actividades/campamentos/campamento-navidad/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 167519,
+      "sha256": "423b79d5d964eb7cadad5935f43dad38257fb2dea685e75ee78fdcc017c393e7",
+      "file": "funtech-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "osirobot-junior",
+      "url": "https://www.vacances-scientifiques.com/Robot-et-Drone-special-7-10-ans.html",
+      "final_url": "https://www.vacances-scientifiques.com/Robot-et-Drone-special-7-10-ans.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 396479,
+      "sha256": "7ca851f660a2380f6a552dfe916c084d40d1b324b0fe38f43c2d833b065b0979",
+      "file": "osirobot-junior.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "helvetic-winter",
+      "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "pt-rob9-campus",
+      "url": "https://oeiras.tecnico.ulisboa.pt/en/2026/11/02/rob9-16-mission-a-bright-christmas/",
+      "final_url": "https://oeiras.tecnico.ulisboa.pt/en/2026/11/02/rob9-16-mission-a-bright-christmas/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51402,
+      "sha256": "6dc7027c6fa4c526eead0fef4e9d4bd2abd0f10c8906dc8be8175cdba3df7f33",
+      "file": "pt-rob9-campus.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "pt-rob9-uni",
+      "url": "https://www.ulisboa.pt/evento/rob9-16-missao-natal-iluminado",
+      "final_url": "https://www.ulisboa.pt/evento/rob9-16-missao-natal-iluminado",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 335927,
+      "sha256": "d82543248b5ad5daceef2fad62c78b286277b083cdb8b2e99bfd523c32a8d61e",
+      "file": "pt-rob9-uni.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "pt-shark-christmas",
+      "url": "https://www.sharkcoders.pt/en/camps/nacional",
+      "final_url": "https://www.sharkcoders.pt/en/camps/nacional",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 166606,
+      "sha256": "3c135f87602b1ed717650afb89c4cf68e6e25c3c13c6ff498567e82c2570789b",
+      "file": "pt-shark-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "pt-inventors-faq",
+      "url": "https://theinventors.io/en/perguntas-frequentes-campos-de-ferias/",
+      "final_url": "https://theinventors.io/en/perguntas-frequentes-campos-de-ferias/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 197199,
+      "sha256": "d58f75f51bfbf0d4da01cf1d35683669a2ccd14414066020c5b8e021d3c55d97",
+      "file": "pt-inventors-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "sswp-paris",
+      "url": "https://www.sswp.fr/activites/stages-danglais-pour-enfant/jardins-camps/",
+      "final_url": "https://www.sswp.fr/activites/stages-danglais-pour-enfant/jardins-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 272577,
+      "sha256": "b08a9705116f011adefbf5a68aa34ae1b9e9277d8d8203f6573c0a820c04c287",
+      "file": "sswp-paris.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tiny-christmas",
+      "url": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "final_url": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 93938,
+      "sha256": "3ee534c988e4b05789849a136a2cff675b734b900669014ae10f9e3ae4c78b5f",
+      "file": "tiny-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "viva-christmas",
+      "url": "https://vivalangues-linguistique.fr/stage-primaires-anglais-ludique-noel",
+      "final_url": "https://vivalangues-linguistique.fr/stage-primaires-anglais-ludique-noel",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 210957,
+      "sha256": "2b7a0689a25a2c87900f4563a891ce0b8f67946616ad51ee05983ef62568d636",
+      "file": "viva-christmas.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "lovell-rates-pdf",
+      "url": "https://lovellcamps.ch/wp-content/uploads/2026/08/Session-Application-202627.pdf",
+      "final_url": "https://lovellcamps.ch/wp-content/uploads/2026/08/Session-Application-202627.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 501554,
+      "sha256": "6944c98123e9c962f8cd3071c1d650b63eccf6561e2e5cdf9f01ef785b72afea",
+      "file": "lovell-rates-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "garenne-conditions-pdf",
+      "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "final_url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1074363,
+      "sha256": "114a583a8a6a573e2e16e8f320767ba97f606301afbf7cf1b9632ad749d0b536",
+      "file": "garenne-conditions-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "montana-flyer-pdf",
+      "url": "https://www.montana-zug.ch/hubfs/SummerCampFlyer_2027_A5_v13.pdf",
+      "final_url": "https://www.montana-zug.ch/hubfs/SummerCampFlyer_2027_A5_v13.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 3209166,
+      "sha256": "f153206ac7f82a94a23657770cc88514b9b9c363b1f1df2c40416c4f08d711d2",
+      "file": "montana-flyer-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "altitude-booking",
+      "url": "https://www.altitude-camps.com/booking",
+      "final_url": "https://www.altitude-camps.com/booking/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 357058,
+      "sha256": "a85d5ec886853ce9386815556430e6d9a645b514d838eb73846929069f649dbc",
+      "file": "altitude-booking.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "altitude-book-now",
+      "url": "https://www.altitude-camps.com/book-now/",
+      "error": "HTTP Error 500: Internal Server Error"
+    },
+    {
+      "key": "altitude-terms",
+      "url": "https://www.altitude-camps.com/terms-privacy-policy/",
+      "final_url": "https://www.altitude-camps.com/terms-privacy-policy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78123,
+      "sha256": "c3e8ef57f2c6ac261a30c58eaa15e0f9bf88f6326f1817d2f7fad635d4020b0c",
+      "file": "altitude-terms.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "tiny-terms",
+      "url": "https://www.tiny-tiny-school.com/about/cgv/",
+      "final_url": "https://www.tiny-tiny-school.com/about/cgv/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40987,
+      "sha256": "200816c19fba5ac6ce8262c7727ca0ddc6cadfb44e1f5cb438670febe0197ee1",
+      "file": "tiny-terms.html",
+      "response_hash_verified": true
+    }
+  ],
+  "request_count": 50,
+  "hash_verified": 44,
+  "failures": [
+    {
+      "key": "helvetic-stem",
+      "url": "https://www.helveticinstitute.ch/stem-summer-camp-zurich/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-robotics",
+      "url": "https://www.helveticinstitute.ch/robotics-ai-and-coding/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-winter-child",
+      "url": "https://www.helveticinstitute.ch/winter-studio-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-zurich-summer-direct",
+      "url": "https://helveticinstitute.ch/stem-summer-camp-zurich/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "helvetic-winter",
+      "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "altitude-book-now",
+      "url": "https://www.altitude-camps.com/book-now/",
+      "error": "HTTP Error 500: Internal Server Error"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "version": 167,
+  "checked": "2026-11-05",
+  "scope": "Европа: новые зимние программы 2026/27 во Франции, Испании и Португалии; повторная проверка швейцарских тарифов / возрастов и недатированного Hack @ Google 2027. Общие языковые программы, короткие workshops и технические лагеря разделены. Это выбранный набор источников, не полный аудит стран.",
+  "status": "verified-local-awaiting-published-sha",
+  "new_camp_dossiers": 13,
+  "modified_prior_camp_ids": [
+    "CP261"
+  ],
+  "previous_published_commit": "a62c66dd3fe0418845866d62408db354cc8c0407",
+  "source_requests": 50,
+  "source_responses_hash_verified": 44,
+  "source_requests_failed": 6,
+  "PDF_visual_pages_read": 10,
+  "existing_swiss_profiles_reconfirmed_without_duplicates": [
+    "CP002",
+    "CP006",
+    "CP128",
+    "CP155",
+    "CP156",
+    "CP162",
+    "CP423",
+    "CP424"
+  ],
+  "existing_french_profile_reconfirmed_without_duplicate": "CP632",
+  "unresolved_sources": [
+    {
+      "url": "https://www.helveticinstitute.ch/winter-kids-camp/",
+      "reason": "HTTP 403: индексированные выдержки не названы прочитанным и хешированным HTTP-ответом; новый тариф / технический трек не перенесены из 2026."
+    },
+    {
+      "url": "https://zugtechnologylab.ch/en/education/children",
+      "reason": "Реальные группы, оператор и история работы независимо не установлены; rolling Saturdays / бесплатный интерес не признаны подтверждёнными сменами."
+    }
+  ],
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "audit": "data/europe-camps-audit-v167.json",
+  "source_receipts": "data/europe-camps-source-receipts-v167.json",
+  "native": "data/europe-camps-native-v167.json",
+  "forms_and_agreements_not_submitted": true,
+  "events": 5006,
+  "new_catalogue_rows": 18,
+  "new_dated_variants": 15,
+  "new_family_calendar_entries": 48,
+  "new_budget_offers": 9,
+  "camp_dossiers": 1320,
+  "budget_offers": 115,
+  "camp_countries": 51,
+  "Swiss_dossiers": 137,
+  "competitions": 1451,
+  "exhibition_events": 234,
+  "league_profiles": 153,
+  "schools": 68,
+  "data_validation": {
+    "version": 167,
+    "events": 5006,
+    "competitions": 1451,
+    "exhibition_events": 234,
+    "camp_learning_rows": 3321,
+    "new_catalogue_rows": 18,
+    "new_dated_variants": 15,
+    "new_individual_calendar_sessions": 48,
+    "camp_dossiers": 1320,
+    "new_camp_dossiers": 13,
+    "updated_prior_dossier_ids": [
+      "CP261"
+    ],
+    "raw_old_dossiers_preserved_except_update": true,
+    "all_4988_old_catalogue_rows_unchanged": true,
+    "all_106_old_budgets_preserved": true,
+    "budget_offers": 115,
+    "league_profiles": 153,
+    "schools": 68,
+    "source_requests": 50,
+    "source_hashes_verified": 44,
+    "source_failures": 6,
+    "family_calendar_entries": 5835,
+    "exhibition_calendar_entries": 110,
+    "coverage_countries": 97,
+    "camp_countries": 51,
+    "fully_audited_countries": 0,
+    "worldwide_complete": false,
+    "archive_2025_retained": true,
+    "English_website_not_used_as_teaching_proof": true,
+    "Christmas_conditional_Fridays_not_exported": true,
+    "grade_gate_not_replaced_by_age": true,
+    "Swiss_existing_dossiers_not_duplicated": true
+  },
+  "runtime_checks_ru_es": [
+    {
+      "lang": "ru",
+      "new_catalogue_rows_filtered": 18,
+      "new_camp_dossiers_rendered": 13,
+      "country_filters": true,
+      "child_age_and_grade_gates": true,
+      "English_only_when_explicit": true,
+      "robotics_and_games_theme_filters": true,
+      "conditional_Christmas_Fridays_not_exported": true,
+      "undated_Google_2027_not_in_calendar": true,
+      "real_class_times_and_UTC": true,
+      "new_calendar_entries": 48,
+      "nine_family_budgets_correct": true,
+      "unknown_costs_not_zero": true,
+      "visual_browser_test": false
+    },
+    {
+      "lang": "es",
+      "new_catalogue_rows_filtered": 18,
+      "new_camp_dossiers_rendered": 13,
+      "country_filters": true,
+      "child_age_and_grade_gates": true,
+      "English_only_when_explicit": true,
+      "robotics_and_games_theme_filters": true,
+      "conditional_Christmas_Fridays_not_exported": true,
+      "undated_Google_2027_not_in_calendar": true,
+      "real_class_times_and_UTC": true,
+      "new_calendar_entries": 48,
+      "nine_family_budgets_correct": true,
+      "unknown_costs_not_zero": true,
+      "visual_browser_test": false
+    }
+  ],
+  "javascript_syntax_files": 47,
+  "browser_visual_check": "unavailable: Local browser use disabled in Work settings; no visual QA claim",
+  "full_build_idempotence": {
+    "full_build_idempotent": true,
+    "catalog_sha256": "a8f2240c625aa1157a0f2383255cccf5cf952023398cceb37f8ffd234b7113e6",
+    "checked_at_utc": "2026-11-05T22:30:35.733328+00:00"
+  }
+}

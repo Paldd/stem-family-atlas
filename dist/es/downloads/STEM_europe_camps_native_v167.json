@@ -1,0 +1,1019 @@
+{
+  "version": 167,
+  "checked": "2026-11-05",
+  "scope": "selected_european_winter_programmes",
+  "tecnoeduka_native_price_variants": [
+    {
+      "date_label": "28, 29 y 30 de diciembre",
+      "time_label": "De 8:00 a 14:00 (campamento + entrada y salida flexible)",
+      "amount": 93,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 29 de diciembre",
+      "time_label": "De 8:00 a 13:00 (campamento + entrada flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 29 de diciembre",
+      "time_label": "De 9:00 a 13:00 (solo campamento)",
+      "amount": 30,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 28 de diciembre",
+      "time_label": "De 8:00 a 14:00 (campamento + entrada y salida flexible)",
+      "amount": 34,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 28 de diciembre",
+      "time_label": "De 9:00 a 14:00 (campamento + salida flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 28 de diciembre",
+      "time_label": "De 8:00 a 13:00 (campamento + entrada flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 28 de diciembre",
+      "time_label": "De 9:00 a 13:00 (solo campamento)",
+      "amount": 30,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 29 de diciembre",
+      "time_label": "De 9:00 a 14:00 (campamento + salida flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 29 de diciembre",
+      "time_label": "De 8:00 a 14:00 (campamento + entrada y salida flexible)",
+      "amount": 34,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 30 de diciembre",
+      "time_label": "De 9:00 a 13:00 (solo campamento)",
+      "amount": 30,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 30 de diciembre",
+      "time_label": "De 8:00 a 13:00 (campamento + entrada flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 30 de diciembre",
+      "time_label": "De 9:00 a 14:00 (campamento + salida flexible)",
+      "amount": 32,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "Día suelto: 30 de diciembre",
+      "time_label": "De 8:00 a 14:00 (campamento + entrada y salida flexible)",
+      "amount": 34,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "28, 29 y 30 de diciembre",
+      "time_label": "De 9:00 a 13:00 (solo campamento)",
+      "amount": 81,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "28, 29 y 30 de diciembre",
+      "time_label": "De 8:00 a 13:00 (campamento + entrada flexible)",
+      "amount": 87,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    },
+    {
+      "date_label": "28, 29 y 30 de diciembre",
+      "time_label": "De 9:00 a 14:00 (campamento + salida flexible)",
+      "amount": 87,
+      "currency": "EUR",
+      "in_stock_snapshot": true
+    }
+  ],
+  "dated_profiles": [
+    {
+      "id": "CP261",
+      "provider": "Tecnoeduka · Christmas Technology in English",
+      "source": "https://tecnoeduka.es/navidad/",
+      "age": "4–14",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-30",
+          "variant_key": "christmas-2026",
+          "label": "Christmas robotics",
+          "price": "EUR 81 por tres mañanas o 30 por día suelto; hora temprana / tardía 2 por día. Producto muestra paquete completo 81 / 87 / 93 según horario. Base para ambos 162; 5% hermanos publicados, aplicación a factura sin comprobar. 12% solo alumnos actuales 26–27, sin aplicar a familia.",
+          "source": "https://tecnoeduka.es/navidad/",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-28",
+              "start_time": "09:00",
+              "end_time": "13:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Robótica, programación de juegos y mecánica según edad; 3D / VR en grupos mayores. 8–10 niños por grupo, reparto según edad y experiencia. Acordar curso escolar y dificultad tras tres años de competiciones; un programa no promete cada herramienta para toda edad.",
+              "ical_timed": true,
+              "start_utc": "2026-12-28T08:00:00Z",
+              "end_utc": "2026-12-28T12:00:00Z"
+            },
+            {
+              "date": "2026-12-29",
+              "start_time": "09:00",
+              "end_time": "13:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Robótica, programación de juegos y mecánica según edad; 3D / VR en grupos mayores. 8–10 niños por grupo, reparto según edad y experiencia. Acordar curso escolar y dificultad tras tres años de competiciones; un programa no promete cada herramienta para toda edad.",
+              "ical_timed": true,
+              "start_utc": "2026-12-29T08:00:00Z",
+              "end_utc": "2026-12-29T12:00:00Z"
+            },
+            {
+              "date": "2026-12-30",
+              "start_time": "09:00",
+              "end_time": "13:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Robótica, programación de juegos y mecánica según edad; 3D / VR en grupos mayores. 8–10 niños por grupo, reparto según edad y experiencia. Acordar curso escolar y dificultad tras tres años de competiciones; un programa no promete cada herramienta para toda edad.",
+              "ical_timed": true,
+              "start_utc": "2026-12-30T08:00:00Z",
+              "end_utc": "2026-12-30T12:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1308",
+      "provider": "BeeLingue Academy · Paris Christmas full",
+      "source": "https://www.beelingueacademy.com/christmas-camp",
+      "age": "3–6 / 7–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "variant_key": "week-1-full",
+          "label": "Winter Wonders · full",
+          "price": "EUR 396 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T08:00:00Z",
+              "end_utc": "2026-12-21T16:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T08:00:00Z",
+              "end_utc": "2026-12-22T16:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T08:00:00Z",
+              "end_utc": "2026-12-23T16:00:00Z"
+            },
+            {
+              "date": "2026-12-24",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-24T08:00:00Z",
+              "end_utc": "2026-12-24T16:00:00Z"
+            }
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "variant_key": "week-2-full",
+          "label": "Hello, New Year! · full",
+          "price": "EUR 396 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-28",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-28T08:00:00Z",
+              "end_utc": "2026-12-28T16:00:00Z"
+            },
+            {
+              "date": "2026-12-29",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-29T08:00:00Z",
+              "end_utc": "2026-12-29T16:00:00Z"
+            },
+            {
+              "date": "2026-12-30",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-30T08:00:00Z",
+              "end_utc": "2026-12-30T16:00:00Z"
+            },
+            {
+              "date": "2026-12-31",
+              "start_time": "09:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-31T08:00:00Z",
+              "end_utc": "2026-12-31T16:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1309",
+      "provider": "BeeLingue Academy · Paris Christmas half",
+      "source": "https://www.beelingueacademy.com/christmas-camp",
+      "age": "3–6 / 7–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "variant_key": "week-1-morning",
+          "label": "Winter Wonders · morning",
+          "price": "EUR 180 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T08:00:00Z",
+              "end_utc": "2026-12-21T11:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T08:00:00Z",
+              "end_utc": "2026-12-22T11:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T08:00:00Z",
+              "end_utc": "2026-12-23T11:00:00Z"
+            },
+            {
+              "date": "2026-12-24",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-24T08:00:00Z",
+              "end_utc": "2026-12-24T11:00:00Z"
+            }
+          ]
+        },
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "variant_key": "week-1-afternoon",
+          "label": "Winter Wonders · afternoon",
+          "price": "EUR 180 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T13:00:00Z",
+              "end_utc": "2026-12-21T16:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T13:00:00Z",
+              "end_utc": "2026-12-22T16:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T13:00:00Z",
+              "end_utc": "2026-12-23T16:00:00Z"
+            },
+            {
+              "date": "2026-12-24",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-24T13:00:00Z",
+              "end_utc": "2026-12-24T16:00:00Z"
+            }
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "variant_key": "week-2-morning",
+          "label": "Hello, New Year! · morning",
+          "price": "EUR 180 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-28",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-28T08:00:00Z",
+              "end_utc": "2026-12-28T11:00:00Z"
+            },
+            {
+              "date": "2026-12-29",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-29T08:00:00Z",
+              "end_utc": "2026-12-29T11:00:00Z"
+            },
+            {
+              "date": "2026-12-30",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-30T08:00:00Z",
+              "end_utc": "2026-12-30T11:00:00Z"
+            },
+            {
+              "date": "2026-12-31",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-31T08:00:00Z",
+              "end_utc": "2026-12-31T11:00:00Z"
+            }
+          ]
+        },
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "variant_key": "week-2-afternoon",
+          "label": "Hello, New Year! · afternoon",
+          "price": "EUR 180 / child / 4 days",
+          "source": "https://www.beelingueacademy.com/christmas-camp",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-28",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-28T13:00:00Z",
+              "end_utc": "2026-12-28T16:00:00Z"
+            },
+            {
+              "date": "2026-12-29",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-29T13:00:00Z",
+              "end_utc": "2026-12-29T16:00:00Z"
+            },
+            {
+              "date": "2026-12-30",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-30T13:00:00Z",
+              "end_utc": "2026-12-30T16:00:00Z"
+            },
+            {
+              "date": "2026-12-31",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Winter Wonders y Hello, New Year!: juegos ingleses, historias, manualidades y experimentos. Mini Lab para 7–10, Art & Play para 3–6. Programa general lingüístico / creativo, sin intensivo robótico anunciado.",
+              "ical_timed": true,
+              "start_utc": "2026-12-31T13:00:00Z",
+              "end_utc": "2026-12-31T16:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1310",
+      "provider": "Tiny Tiny School · Christmas brest-younger",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "4–6",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "variant_key": "brest-younger-christmas-2026",
+          "label": "Christmas English · 4–6",
+          "price": "EUR 150 / 3 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "09:30",
+              "end_time": "12:30",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T08:30:00Z",
+              "end_utc": "2026-12-21T11:30:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "09:30",
+              "end_time": "12:30",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T08:30:00Z",
+              "end_utc": "2026-12-22T11:30:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "09:30",
+              "end_time": "12:30",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T08:30:00Z",
+              "end_utc": "2026-12-23T11:30:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1311",
+      "provider": "Tiny Tiny School · Christmas brest-older",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "7–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "variant_key": "brest-older-christmas-2026",
+          "label": "Christmas English · 7–10",
+          "price": "EUR 150 / 3 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T13:00:00Z",
+              "end_utc": "2026-12-21T16:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T13:00:00Z",
+              "end_utc": "2026-12-22T16:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T13:00:00Z",
+              "end_utc": "2026-12-23T16:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1312",
+      "provider": "Tiny Tiny School · Christmas quimper",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "7–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "variant_key": "quimper-christmas-2026",
+          "label": "Christmas English · 7–10",
+          "price": "EUR 150 / 3 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T13:00:00Z",
+              "end_utc": "2026-12-21T16:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T13:00:00Z",
+              "end_utc": "2026-12-22T16:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "14:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 3 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T13:00:00Z",
+              "end_utc": "2026-12-23T16:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1313",
+      "provider": "Tiny Tiny School · Christmas nort-younger",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "4–6",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-22",
+          "end": "2026-12-22",
+          "variant_key": "nort-younger-christmas-2026",
+          "label": "Christmas English · 4–6",
+          "price": "EUR 50 / 1 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-22",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 1 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T08:00:00Z",
+              "end_utc": "2026-12-22T11:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1314",
+      "provider": "Tiny Tiny School · Christmas nort-older",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "7–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "variant_key": "nort-older-christmas-2026",
+          "label": "Christmas English · 7–10",
+          "price": "EUR 50 / 1 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-23",
+              "start_time": "09:00",
+              "end_time": "12:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 1 días de 3 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T08:00:00Z",
+              "end_utc": "2026-12-23T11:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1315",
+      "provider": "Tiny Tiny School · Christmas auray",
+      "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+      "age": "6–10",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "session_details": [
+        {
+          "start": "2026-12-23",
+          "end": "2026-12-23",
+          "variant_key": "auray-christmas-2026",
+          "label": "Christmas English · 6–10",
+          "price": "EUR 30 / 1 días lectivos / niño; descuentos sin establecer.",
+          "source": "https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-23",
+              "start_time": "14:00",
+              "end_time": "16:00",
+              "timezone": "Europe/Paris",
+              "topic": "Christmas stage lingüístico / creativo corto: juegos, tradiciones inglesas, tarjetas y retos grupales. Son 1 días de 2 horas, sin jornada completa ni residencia. En Brest edades distintas asisten por mañana y tarde; en Nort también fechas distintas.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T13:00:00Z",
+              "end_utc": "2026-12-23T15:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1316",
+      "provider": "ROB9-16 · Mission: A Bright Christmas",
+      "source": "https://oeiras.tecnico.ulisboa.pt/en/2026/11/02/rob9-16-mission-a-bright-christmas/",
+      "age": "9–16",
+      "confirmed_instruction_languages": [],
+      "session_details": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-23",
+          "variant_key": "bright-christmas-2026",
+          "label": "Mission: A Bright Christmas",
+          "price": "EUR 90 por los tres días para un niño. Matvey compatible por edad, Oscar menor de 9; precio no es paquete familiar.",
+          "source": "https://oeiras.tecnico.ulisboa.pt/en/2026/11/02/rob9-16-mission-a-bright-christmas/",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-21",
+              "start_time": "10:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Lisbon",
+              "topic": "Tres días: estructura impresa 3D, diseño PCB, soldadura, montaje, programación y prueba de proyecto funcional. Publica 24 plazas, capacidad máxima, no confirmación del saldo actual.",
+              "ical_timed": true,
+              "start_utc": "2026-12-21T10:00:00Z",
+              "end_utc": "2026-12-21T17:00:00Z"
+            },
+            {
+              "date": "2026-12-22",
+              "start_time": "10:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Lisbon",
+              "topic": "Tres días: estructura impresa 3D, diseño PCB, soldadura, montaje, programación y prueba de proyecto funcional. Publica 24 plazas, capacidad máxima, no confirmación del saldo actual.",
+              "ical_timed": true,
+              "start_utc": "2026-12-22T10:00:00Z",
+              "end_utc": "2026-12-22T17:00:00Z"
+            },
+            {
+              "date": "2026-12-23",
+              "start_time": "10:00",
+              "end_time": "17:00",
+              "timezone": "Europe/Lisbon",
+              "topic": "Tres días: estructura impresa 3D, diseño PCB, soldadura, montaje, programación y prueba de proyecto funcional. Publica 24 plazas, capacidad máxima, no confirmación del saldo actual.",
+              "ical_timed": true,
+              "start_utc": "2026-12-23T10:00:00Z",
+              "end_utc": "2026-12-23T17:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1317",
+      "provider": "SHARKCODERS · Portugal Christmas network",
+      "source": "https://www.sharkcoders.pt/en/camps/nacional",
+      "age": "network 4–17",
+      "confirmed_instruction_languages": [],
+      "session_details": []
+    },
+    {
+      "id": "CP1318",
+      "provider": "The Inventors · Portugal holiday camps",
+      "source": "https://theinventors.io/en/campos-de-ferias/",
+      "age": "6–12",
+      "confirmed_instruction_languages": [],
+      "session_details": []
+    },
+    {
+      "id": "CP1319",
+      "provider": "Escuela de Ciencia · Hogwarts School of Science",
+      "source": "https://escueladeciencia.com/campamentos/hogwarts",
+      "age": "1º Primaria–2º ESO",
+      "confirmed_instruction_languages": [],
+      "session_details": [
+        {
+          "start": "2026-12-28",
+          "end": "2027-01-05",
+          "variant_key": "hogwarts-christmas-2026",
+          "label": "Hogwarts · six days",
+          "price": "EUR 195 por los seis días, sin matrícula; ambos 390 sujeto a curso escolar confirmado. Hora temprana / tardía 5 por extra hour; confirmar cálculo por niño.",
+          "source": "https://escueladeciencia.com/campamentos/hogwarts",
+          "formats": [
+            "day"
+          ],
+          "date_scope": "session_days",
+          "admission_kind": "open_application",
+          "sessions": [
+            {
+              "date": "2026-12-28",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2026-12-28T08:00:00Z",
+              "end_utc": "2026-12-28T13:00:00Z"
+            },
+            {
+              "date": "2026-12-29",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2026-12-29T08:00:00Z",
+              "end_utc": "2026-12-29T13:00:00Z"
+            },
+            {
+              "date": "2026-12-30",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2026-12-30T08:00:00Z",
+              "end_utc": "2026-12-30T13:00:00Z"
+            },
+            {
+              "date": "2026-12-31",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2026-12-31T08:00:00Z",
+              "end_utc": "2026-12-31T13:00:00Z"
+            },
+            {
+              "date": "2027-01-04",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2027-01-04T08:00:00Z",
+              "end_utc": "2027-01-04T13:00:00Z"
+            },
+            {
+              "date": "2027-01-05",
+              "start_time": "09:00",
+              "end_time": "14:00",
+              "timezone": "Europe/Madrid",
+              "topic": "Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye.",
+              "ical_timed": true,
+              "start_utc": "2027-01-05T08:00:00Z",
+              "end_utc": "2027-01-05T13:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1320",
+      "provider": "TechSpark Academy · Hack @ Google 2027 watch",
+      "source": "https://techsparkacademy.ch/in-person-workshops/hack-google-weekend-2027/",
+      "age": "12–17",
+      "confirmed_instruction_languages": [],
+      "session_details": []
+    }
+  ],
+  "swiss_reconfirmed_existing": [
+    "CP002",
+    "CP006",
+    "CP128",
+    "CP155",
+    "CP156",
+    "CP162",
+    "CP423",
+    "CP424"
+  ],
+  "france_reconfirmed_existing": [
+    "CP632"
+  ],
+  "PDF_visual_pages_read": [
+    {
+      "source": "lovell-rates-pdf",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "source": "garenne-conditions-pdf",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "source": "montana-flyer-pdf",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "source": "beelingue-brochure-pdf",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "source": "sswp-brochure-pdf",
+      "pages": [
+        1
+      ]
+    }
+  ],
+  "fully_audited_countries": 0,
+  "worldwide_complete": false
+}

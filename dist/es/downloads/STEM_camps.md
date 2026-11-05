@@ -7686,6 +7686,54 @@ Limitaciones: Programa público ChILD introduce coding y robotics a alumnos Grad
 Fuente: https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/
 Se ha comprobado: 2026-11-05
 
+### L473 · SHARKCODERS · Portugal Christmas network
+
+lugar: Portugal · Portugal · elegir escuela concreta
+Fecha: Christmas Camp sin año explícito, fechas exactas ni tarifas; seguimiento de convocatoria local nueva.
+edad: network 4–17
+Matvey: Condicional — confirmar acceso / idioma / convocatoria
+Oscar: Condicional — confirmar acceso / idioma / convocatoria
+Formato: holiday_workshop
+Idioma: Idioma docente EN / ES / RU de este programa sin confirmar. Idioma web no acredita idioma de las clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio completo, inclusiones, equipo, comida y condiciones de convocatoria elegida requieren confirmación; gastos desconocidos no equivalen a cero.
+Acceso: Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Limitaciones: Red ofrece workshop 6h, express 9h y course 15h: robótica, juegos, coding y AI según sede. Edad de red 4–17 no acredita grupo Christmas concreto para ambos. Horario, tarifa, dirección e idioma del curso local requerido sin publicar en página general leída. Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Fuente: https://www.sharkcoders.pt/en/camps/nacional
+Se ha comprobado: 2026-11-05
+
+### L474 · The Inventors · Portugal holiday camps
+
+lugar: Portugal · Portugal · sede de próxima convocatoria sin establecer
+Fecha: Web principal muestra verano 29 de junio – 4 de septiembre 2026 ya pasado; FAQ contiene fechas navideñas sin año. Sin trasladarlas a 2026/27. Convocatoria futura y dirección sin confirmar.
+Edad: 6*12
+Matvey: Condicional — confirmar acceso / idioma / convocatoria
+Oscar: Condicional — confirmar acceso / idioma / convocatoria
+Formato: holiday_workshop
+Idioma: Idioma docente EN / ES / RU de este programa sin confirmar. Idioma web no acredita idioma de las clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tuition completo desconocido. FAQ indica EUR 7 por día de comida ya incluidos en precio final; no es precio del campamento ni cargo obligatorio que añadir otra vez.
+Acceso: Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Limitaciones: Electrónica, programación, inventos y arte. Actividades 10–17, acogida 09–18. Edad y horario generales no sustituyen confirmación de sede futura concreta, idioma y plaza. Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Fuente: https://theinventors.io/en/campos-de-ferias/
+Se ha comprobado: 2026-11-05
+
+### L475 · TechSpark Academy · Hack @ Google 2027 watch
+
+lugar: Suiza · Google Switzerland · Europaallee 8 · Building B · Zürich
+Fecha: Título 2027 dice expresamente New Dates Coming Soon. Debajo queda tabla Saturday 14 March / Sunday 15 March y SOLD OUT. En 2027 corresponden otros días de semana: tabla no reconocida como sesión nueva 2027, sin exportar fechas al calendario.
+Edad: 12*17
+Matvey: No ahora — mínimo 12, ruta futura
+Oscar: No ahora — mínimo 12, ruta futura
+Formato: holiday_workshop
+Idioma: Idioma docente EN / ES / RU de este programa sin confirmar. Idioma web no acredita idioma de las clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tabla antigua sin año: CHF 50 / workshop, 95 / weekend y Boost packages separados. Precio de convocatoria 2027 sin anunciar; 95 sin usar como presupuesto vigente.
+Acceso: Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Limitaciones: Cybersecurity workshops y hackathon con instructores y Googlers. Reglas exactas de judging / premios de convocatoria actual sin publicar; ruta educativa tecnológica para edad futura, no torneo mundial confirmado. Confirmar plaza, admisión extranjera individual, nivel del grupo y factura final. Compatibilidad de edad no significa admisión; sin solicitudes ni pagos.
+Fuente: https://techsparkacademy.ch/in-person-workshops/hack-google-weekend-2027/
+Se ha comprobado: 2026-11-05
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -17317,6 +17365,22 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Limitaciones: Matvey: Edad 8–10 Invierno 2026/27 Entra en 3–12. Oscar: Edad 5–7 Invierno 2026/27 Entra en 3–12; Se divide a los hermanos en grupos. Gastos adicionales: Opción 09–13 o 09–16; Últimas visitas 08:00 Sólo si hay suficiente. Costo de las opciones y de la vivienda por separado. Pago: El conjunto mínimo es obligatorio; de la cancelación por el operador-por falta de dinero, prometido. No se ha determinado ninguna cancelación general por la familia.
 Fuente: https://lacasitadeingles.com/evento/campamento-de-navidad/
 Comprobado: 2026-10-05
+
+### CP261-20261228-20261230-christmas-2026 · Tecnoeduka · Christmas Technology in English · Christmas robotics · 2026-12-28–2026-12-30
+
+lugar: España · Pamplona; especificar el área exacta del nuevo conjunto
+Fecha: 2026-12-28 — 2026-12-30
+edad: 4–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Página declara expresamente En inglés. Sin nivel mínimo, ofrece ayuda con explicaciones; confirma clases EN del campamento concreto.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 81 por tres mañanas o 30 por día suelto; hora temprana / tardía 2 por día. Producto muestra paquete completo 81 / 87 / 93 según horario. Base para ambos 162; 5% hermanos publicados, aplicación a factura sin comprobar. 12% solo alumnos actuales 26–27, sin aplicar a familia. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: Precio completo, inclusiones, equipo, comida y condiciones de convocatoria elegida requieren confirmación; gastos desconocidos no equivalen a cero.
+Fuente: https://tecnoeduka.es/navidad/
+Se ha comprobado: 2026-11-05
 
 ### CP263-20261019-20261023 · École Kaleidoscope · Little Ones · Little Ones · Cinco clases diurnas · 2026-10-19–2026-10-23
 
@@ -52980,6 +53044,230 @@ Precio: 2026/27 · Página indica $2850 DAR-to-DAR y posible suplemento de hasta
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
 Fuente: https://ttc.or.tz/events/singapore/
+Se ha comprobado: 2026-11-05
+
+### CP1308-20261221-20261224-week-1-full · BeeLingue Academy · Paris Christmas full · Winter Wonders · full · 2026-12-21–2026-12-24
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 396 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1308-20261228-20261231-week-2-full · BeeLingue Academy · Paris Christmas full · Hello, New Year! · full · 2026-12-28–2026-12-31
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 396 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1309-20261221-20261224-week-1-morning · BeeLingue Academy · Paris Christmas half · Winter Wonders · morning · 2026-12-21–2026-12-24
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 180 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1309-20261221-20261224-week-1-afternoon · BeeLingue Academy · Paris Christmas half · Winter Wonders · afternoon · 2026-12-21–2026-12-24
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 180 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1309-20261228-20261231-week-2-morning · BeeLingue Academy · Paris Christmas half · Hello, New Year! · morning · 2026-12-28–2026-12-31
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 180 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1309-20261228-20261231-week-2-afternoon · BeeLingue Academy · Paris Christmas half · Hello, New Year! · afternoon · 2026-12-28–2026-12-31
+
+lugar: Francia · 49 rue de Prony · 75017 Paris
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6 / 7–10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: 100% English expresamente en web y PDF; dos grupos 3–6 y 7–10. Apto para principiantes, máximo 10 niños por grupo.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 180 / child / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Lunchbox y meriendas propios; microondas disponible. Lunch supervision 12–14: 15 / día o 60 / 4 días para paquete parcial. Ludothèque 17–18: 15 / día o 60 / 4 días. Acogida 08:30 posible, precio sin establecer. Annual EUR 30 / familia según CGDV generales requiere comprobar aplicación. Pago: CGDV ateliers: cuota anual EUR 30 por familia, confirmar aplicación a este camp y año ya abonado. Condiciones generales exigen aviso de cancelación al menos 48 horas antes, sin devolución tardía; sin promesa de cash refund anticipado específico del camp. Sin consentimientos de fotos ni condiciones.
+Fuente: https://www.beelingueacademy.com/christmas-camp
+Se ha comprobado: 2026-11-05
+
+### CP1310-20261221-20261223-brest-younger-christmas-2026 · Tiny Tiny School · Christmas brest-younger · Christmas English · 4–6 · 2026-12-21–2026-12-23
+
+lugar: Francia · Brest / Gouesnou · Ecole St Joseph
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 150 / 3 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1311-20261221-20261223-brest-older-christmas-2026 · Tiny Tiny School · Christmas brest-older · Christmas English · 7–10 · 2026-12-21–2026-12-23
+
+lugar: Francia · Brest / Gouesnou · Ecole St Joseph
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 150 / 3 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1312-20261221-20261223-quimper-christmas-2026 · Tiny Tiny School · Christmas quimper · Christmas English · 7–10 · 2026-12-21–2026-12-23
+
+lugar: Francia · Quimper · Ludo Trotter
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 150 / 3 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1313-20261222-20261222-nort-younger-christmas-2026 · Tiny Tiny School · Christmas nort-younger · Christmas English · 4–6 · 2026-12-22–2026-12-22
+
+lugar: Francia · Nort-sur-Erdre
+Fecha: 2026-12-22 — 2026-12-22
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 50 / 1 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1314-20261223-20261223-nort-older-christmas-2026 · Tiny Tiny School · Christmas nort-older · Christmas English · 7–10 · 2026-12-23–2026-12-23
+
+lugar: Francia · Nort-sur-Erdre
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 50 / 1 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1315-20261223-20261223-auray-christmas-2026 · Tiny Tiny School · Christmas auray · Christmas English · 6–10 · 2026-12-23–2026-12-23
+
+lugar: Francia · Auray · Chez Telles mères telles filles
+Fecha: 2026-12-23 — 2026-12-23
+Edad: 6 &apos; 10
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: holiday_workshop
+Idioma: Inmersión inglesa completa declarada expresamente. Método general: grupos pequeños por edad de hasta 8; edad numérica y horario local prevalecen sobre título general 3–15.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 30 / 1 días lectivos / niño; descuentos sin establecer. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: CGV generales exigen pago completo y permiten cancelación del operador por pocos participantes; holiday stage declara ausencia de cancelación posterior. Texto contiene años de pago antiguos 2021 / 2022: solicitar contrato vigente 2026 y derechos de devolución aplicables. Publica late pickup EUR 10 / 15 minutos; sin consentimientos.
+Fuente: https://www.tiny-tiny-school.com/pages/pendant-les-vacances.html
+Se ha comprobado: 2026-11-05
+
+### CP1316-20261221-20261223-bright-christmas-2026 · ROB9-16 · Mission: A Bright Christmas · Mission: A Bright Christmas · 2026-12-21–2026-12-23
+
+lugar: Portugal · Instituto Superior Técnico · Oeiras Campus
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 9*16
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma docente EN / ES / RU de este programa sin confirmar. Idioma web no acredita idioma de las clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 90 por los tres días para un niño. Matvey compatible por edad, Oscar menor de 9; precio no es paquete familiar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: Precio completo, inclusiones, equipo, comida y condiciones de convocatoria elegida requieren confirmación; gastos desconocidos no equivalen a cero.
+Fuente: https://oeiras.tecnico.ulisboa.pt/en/2026/11/02/rob9-16-mission-a-bright-christmas/
+Se ha comprobado: 2026-11-05
+
+### CP1319-20261228-20270105-hogwarts-christmas-2026 · Escuela de Ciencia · Hogwarts School of Science · Hogwarts · six days · 2026-12-28–2027-01-05
+
+lugar: España · C/ Islas Canarias 90 · València
+Fecha: 2026-12-28 — 2027-01-05
+edad: 1º Primaria–2º ESO
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma docente EN / ES / RU de este programa sin confirmar. Idioma web no acredita idioma de las clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 195 por los seis días, sin matrícula; ambos 390 sujeto a curso escolar confirmado. Hora temprana / tardía 5 por extra hour; confirmar cálculo por niño. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye. Oscar: Seis días de química, robótica / drones, biología y coding / AR. Grupos por edad máximo 14. Acceso publicado según curso 1º Primaria–2º ESO; cursos reales de niños desconocidos, edad no los sustituye. Suplementos: Vuelos, alojamiento familiar, traslados, acompañamiento, seguro y gastos no indicados aparte. Pago: Precio completo, inclusiones, equipo, comida y condiciones de convocatoria elegida requieren confirmación; gastos desconocidos no equivalen a cero.
+Fuente: https://escueladeciencia.com/campamentos/hogwarts
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
