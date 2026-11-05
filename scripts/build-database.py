@@ -1,5 +1,6 @@
 """Build the web catalog and portable database from the tracked source of truth."""
 import csv, datetime, json, pathlib, re, sqlite3
+from calendar_time import local_to_utc
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 DATA=ROOT/'data/catalog.json'
 d=json.loads(DATA.read_text())
@@ -612,10 +613,8 @@ for e in d['events']:
                 if session['date']<d['asof']:continue
                 row=dict(e,session_note=f"Занятие: {session['topic']}; {session['start_time']}–{session['end_time']} {session['timezone']}. {session.get('time_note','')}")
                 if session.get('ical_timed'):
-                    from zoneinfo import ZoneInfo
-                    zone=ZoneInfo(session['timezone'])
-                    start_dt=datetime.datetime.fromisoformat(session['date']+'T'+session['start_time']).replace(tzinfo=zone).astimezone(datetime.timezone.utc)
-                    end_dt=datetime.datetime.fromisoformat(session['date']+'T'+session['end_time']).replace(tzinfo=zone).astimezone(datetime.timezone.utc)
+                    start_dt=local_to_utc(session['date'],session['start_time'],session['timezone'])
+                    end_dt=local_to_utc(session['date'],session['end_time'],session['timezone'])
                     assert end_dt>start_dt
                     cal_event(row,e['id']+'-'+session['date'],'[Учебный день] '+e['title'],start_dt.strftime('%Y%m%dT%H%M%SZ'),end_dt.strftime('%Y%m%dT%H%M%SZ'),True)
                     continue

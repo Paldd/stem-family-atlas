@@ -13,8 +13,8 @@
     "CP298",
     "CP375"
   ],
-  "source_requests": 79,
-  "source_responses_hash_verified": 72,
+  "source_requests": 81,
+  "source_responses_hash_verified": 74,
   "source_requests_failed": 7,
   "fully_audited_countries": 0,
   "worldwide_complete": false,
@@ -53,7 +53,7 @@
     "ThreeBears_no_invented_timezone_or_replay": true,
     "ScienceNorth_broken_tickets_not_acceptance": true,
     "both_language_archives_verified": true,
-    "source_hashes_verified": 72,
+    "source_hashes_verified": 74,
     "source_failures": 7,
     "worldwide_complete": false
   },
@@ -87,5 +87,12 @@
       "unknown_prices_not_zero_or_undefined": true
     }
   ],
-  "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim"
+  "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim",
+  "timezone_reform_source": "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time",
+  "timezone_reform": "BC-Pacific-permanent-UTC-7-after-2026-03-08",
+  "initial_deploy_run": 42042846594,
+  "initial_deploy_verification": "failed-source-artifact-UTC-comparison-not-accepted",
+  "utc_correction_records": 39,
+  "utc_correction_sessions": 102,
+  "host_independent_BC_Pacific_calendar_rule_verified": true
 }

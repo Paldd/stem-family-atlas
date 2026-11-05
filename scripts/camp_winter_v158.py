@@ -22,6 +22,10 @@ W5='https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026'
 BEARS='https://thestemhub.org.uk/events/more-information/threebears-panto-coding-adventure'
 BEARS_RES='https://www.getwiththeprogram.org.uk/three-bears-free-resources-2026'
 SCIENCE='https://www.sciencenorth.ca/school-break-camps'
+BC_TIME='https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time'
+BC_NEWS='https://news.gov.bc.ca/releases/2026AG0013-000209'
+BC_TIME_NOTE=T('Pacific time для Surrey / Langley: UTC-7 круглый год после 8 марта 2026; 1 ноября 2026 часы не переводятся. UTC рассчитан по официальной реформе, независимо от старой базы часовых поясов компьютера. Исключения других районов провинции не перенесены на эти две площадки.',
+ 'Pacific time para Surrey / Langley: UTC-7 todo el año después del 8 de marzo de 2026; el 1 de noviembre de 2026 no cambian los relojes. UTC calculado según reforma oficial, independiente de base horaria antigua del ordenador. Excepciones de otras regiones provinciales no se trasladan a estas dos sedes.')
 LANG=T('Сайт и материалы на английском; отдельное прямое подтверждение языка преподавания для этой смены не найдено. EN/ES обучение пока не подтверждено.',
  'Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.')
 GATE=T('Подтвердить язык преподавателя, иностранный индивидуальный приём, уровень после трёх лет соревнований и место. Заявки и оплаты не выполнялись.',
@@ -206,6 +210,9 @@ def make_profiles():
  p['sources']=[source('Current School Break landing · Robo Ready three age groups',SCIENCE)]
  add(p,'2026-11-20','2026-11-20','Robo Ready 9–11',p['price']['label'],SCIENCE,'pa-day',admission_kind='open_application');out.append(p)
  for p in out:
+  if p['id'] in ['CP1196','CP1197','CP1198','CP1199','CP1200']:
+   p['questions'].append(BC_TIME_NOTE)
+   p['sources'] += [source('B.C. official permanent UTC-7 rule',BC_TIME),source('B.C. government announcement · 2 March 2026',BC_NEWS)]
   if p['timing']['status']=='published_2026_27' and p['timing']['sessions'] and all(end<'2027' for start,end in p['timing']['sessions']):p['timing']['status']='published_2026'
  return out
 

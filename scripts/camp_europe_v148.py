@@ -1,7 +1,7 @@
 """Primary 2027 Swiss tariff matrices and dated Malta technical camp options."""
 from copy import deepcopy
 from datetime import date,datetime,timedelta
-from zoneinfo import ZoneInfo
+from calendar_time import local_to_utc
 CHECKED='2026-11-04'
 SPANISH={}
 def T(ru,es):SPANISH[ru]=es;return ru
@@ -32,8 +32,7 @@ def merge_sources(p,items):p['sources']=list({s['url']:s for s in p['sources']+i
 def weekdays(start,end):
     a=date.fromisoformat(start);b=date.fromisoformat(end);return [(a+timedelta(days=i)).isoformat() for i in range((b-a).days+1) if (a+timedelta(days=i)).weekday()<5]
 def lesson(day,start,end,zone,topic):
-    z=ZoneInfo(zone)
-    def utc(t):return datetime.fromisoformat(day+'T'+t).replace(tzinfo=z).astimezone(ZoneInfo('UTC')).isoformat().replace('+00:00','Z')
+    def utc(t):return local_to_utc(day,t,zone).isoformat().replace('+00:00','Z')
     return dict(date=day,start_time=start,end_time=end,timezone=zone,topic=topic,ical_timed=True,start_utc=utc(start),end_utc=utc(end))
 def base(ident,slug,provider,country,iso,place,formats,age):
     detail=T('Возрастная возможность — не подтверждение места; язык, группа и приём внешней семьи уточняются.',

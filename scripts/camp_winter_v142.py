@@ -1,7 +1,7 @@
 """Published winter cohorts, checked against individual public booking pages."""
 from copy import deepcopy
 from datetime import date, datetime, timedelta, timezone
-from zoneinfo import ZoneInfo
+from calendar_time import local_to_utc
 
 CHECKED = '2026-11-04'
 SPANISH = {}
@@ -177,10 +177,8 @@ def enrich_v142(d):
         if not e.get('end') or e['end'] < CHECKED: continue
         for s in e.get('sessions', []):
             if not s.get('ical_timed'): continue
-            zone=ZoneInfo(s['timezone'])
             for field, clock in [('start_utc','start_time'),('end_utc','end_time')]:
-                local=datetime.fromisoformat(s['date']+'T'+s[clock]).replace(tzinfo=zone)
-                s[field]=local.astimezone(timezone.utc).isoformat().replace('+00:00','Z')
+                s[field]=local_to_utc(s['date'],s[clock],s['timezone']).isoformat().replace('+00:00','Z')
             assert s['end_utc'] > s['start_utc']
     # Registration is an indicative window, not a fixed competition deadline.
     note=T('Полный FAQ LEGO содержит обе формулировки: регистрация после BIOGLOW и между мартом–маем 2027; запуск сезона в августе 2027. Это ориентиры будущей регистрации, не точный дедлайн, не дата турнира и не подтверждённый национальный вход. Новая LEGO League и новая FIRST K–8 — независимые программы.',

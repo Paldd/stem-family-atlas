@@ -319,8 +319,8 @@
       "CP298",
       "CP375"
     ],
-    "source_requests": 79,
-    "source_responses_hash_verified": 72,
+    "source_requests": 81,
+    "source_responses_hash_verified": 74,
     "source_requests_failed": 7,
     "fully_audited_countries": 0,
     "worldwide_complete": false,
@@ -353,7 +353,11 @@
     "updated_existing_event_rows": 9,
     "all_prior_record_ids_and_calendar_timings_preserved": true,
     "both_language_runtime_checks": true,
-    "both_language_full_json_sqlite_and_spanish_workbook_verified": true
+    "both_language_full_json_sqlite_and_spanish_workbook_verified": true,
+    "timezone_reform_verified": true,
+    "timezone_reform": "BC-Pacific-permanent-UTC-7-after-2026-03-08",
+    "initial_deploy_run": 42042846594,
+    "initial_deploy_verification": "failed-source-artifact-UTC-comparison-not-accepted"
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {

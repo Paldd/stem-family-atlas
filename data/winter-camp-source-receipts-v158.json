@@ -1,7 +1,7 @@
 {
   "checked": "2026-11-05",
-  "requests": 79,
-  "readable": 72,
+  "requests": 81,
+  "readable": 74,
   "failed": 7,
   "receipts": [
     {
@@ -683,6 +683,26 @@
       "bytes": 21830,
       "sha256": "e1a861ce4199f1bcf7b5b39c4288da79995842a624bece276ed5b73a9bc40b0a",
       "file": "techcamp-booking.html"
+    },
+    {
+      "key": "bc-timezone",
+      "url": "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time",
+      "final_url": "https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 698316,
+      "sha256": "a0c680441be5be12ae90b9e6f3aed3e9c71423db8bd2fc6dc9980e807b61c310",
+      "file": "bc-timezone.html"
+    },
+    {
+      "key": "bc-timezone-news",
+      "url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "final_url": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 78173,
+      "sha256": "227503b3666c2bd125ef3dd7a30455b4b03a6b6ebfcfb75a0ea5863df58045e9",
+      "file": "bc-timezone-news.html"
     },
     {
       "key": "blue-december",
