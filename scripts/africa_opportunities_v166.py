@@ -182,6 +182,12 @@ def enrich_v166(d):
   'Selección nacional pasada hacia Geneva 2026; applications closed. Apertura global no establece acceso extranjero a esta etapa nacional. Zambia 2027 nuevo sin anunciar.'),gear='Food security / agriculture · open-source hardware and software',priority=T('P4 — прошедший старший отбор','P4 — selección pasada de mayores'),scope='national',registration_status='Applications closed'))
  rows.append(E(d,'C1452','TTC · Junior Maker Hackathon · Q4 2026 watch','TZA','https://ttc.or.tz/',age=T('Primary students; числовой возраст не указан.','Primary students; edad numérica sin indicar.'),mat=SCHOOL_GRADE,osc=SCHOOL_GRADE,format=T('Первый software / hardware prototype для primary learners; состав команды и judging не опубликованы.','Primer software / hardware prototype para primary learners; composición y judging sin publicar.'),period='Q4 2026 · exact dates TBA',gear='Software / hardware prototypes',scope='local'))
  for row in rows:
+  if row['id'] in ['C1443','C1444']:row['themes']=['robotics','engineering','technology']
+  elif row['id'] in ['C1445','C1446','C1447','C1448','C1449']:row['themes']=['robotics','coding','technology']
+  elif row['id'] in ['E232','E233']:row['themes']=['robotics','ai','technology']
+  elif row['id']=='E234':row['themes']=['robotics','ai','coding','games','technology']
+  elif row['id'] in ['C1450','C1451']:row['themes']=['robotics','ai','coding','technology']
+  elif row['id']=='C1452':row['themes']=['coding','engineering','technology']
   if row['id'] in by:by[row['id']].update(row)
   else:d['events'].append(row);by[row['id']]=row
   if row.get('camp_programme_id'):
