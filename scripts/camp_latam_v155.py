@@ -113,7 +113,8 @@ def update_report(r):
 
 def enrich_v155(d):
  rows={e['id']:e for e in d['events']};e=rows['L033']
- e.update(title=T('TechLab Kids Chile · действующие каникулярные треки 2026–27','TechLab Kids Chile · programas vacacionales vigentes de 2026–27'),source=SUMMER,checked=CHECKED,
+ e.update(age=T('Kids 6–8, Junior 9–11; отдельные Infant 3–5 и Teens 12+ не смешивать с младшими треками.',
+  'Kids 6–8, Junior 9–11; Infant 3–5 y Teens 12+ separados sin mezclarlos con cursos menores.'),language=LANG,languages=[],language_mode='unconfirmed',title=T('TechLab Kids Chile · действующие каникулярные треки 2026–27','TechLab Kids Chile · programas vacacionales vigentes de 2026–27'),source=SUMMER,checked=CHECKED,
   period=T('Декабрь 2026 и январь–февраль 2027: точные варианты в связанных досье Kids / Junior / Tardes Tech. Это обзор оператора, не дополнительная самостоятельная смена.',
    'Diciembre de 2026 y enero–febrero de 2027: opciones exactas en fichas Kids / Junior / Tardes Tech enlazadas. Resumen de operador, no sesión independiente adicional.'),cost=PRICE_LIST,
   note=LANG+' '+HOLIDAY_GAP,related_ids=[e['id'] for e in d['events'] if e.get('camp_programme_id') in ['CP1183','CP1184','CP1185']])

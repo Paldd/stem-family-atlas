@@ -285,10 +285,10 @@ Comprobado: 2026-09-30
 ### L033 · TechLab Kids Chile · programas vacacionales vigentes de 2026–27
 
 Fecha: Diciembre de 2026 y enero–febrero de 2027: opciones exactas en fichas Kids / Junior / Tardes Tech enlazadas. Resumen de operador, no sesión independiente adicional.
-Edad: No se ha encontrado la edad del turno de vacaciones
+Edad: Kids 6–8, Junior 9–11; Infant 3–5 y Teens 12+ separados sin mezclarlos con cursos menores.
 Condicional: turno
 Condicional: turno
-Idioma: No se ha instalado el idioma de turno de vacaciones ES / EN
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
 Entrada: Comprobar el registro actual y las condiciones de recepción del organizador
 Precio: CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima.
 Limitaciones: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada. 7–11 de diciembre es semana publicada, pero el 8 de diciembre de 2026 es feriado oficial chileno. Sin confirmación separada de apertura el martes: semana mostrada como periodo, sin horas diarias inventadas ni afirmar cierre. Acordar días efectivos y precio de esa semana.
