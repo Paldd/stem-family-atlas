@@ -1,0 +1,267 @@
+{
+  "checked": "2026-11-04",
+  "method": "public-primary-HTTP-GET; raw files stored outside repository; no forms submitted",
+  "responses": [
+    {
+      "key": "dg-taiwan-about",
+      "url": "https://www.dgtaiwan.com/en/menu/0F0BC001DED91E6FD0636733C6861689/info.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 88065,
+      "sha256": "707df0af6fedd13588cacf42c12dcf51a40b1a85fca6389d138b7ca1783d8123"
+    },
+    {
+      "key": "lynchburg-tickets",
+      "url": "https://lynchburg.makerfaire.com/tickets/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 124270,
+      "sha256": "05741066f322cdff8c3115d02e2b629ac60cb3c2c045f0980a96b57cd58f527f"
+    },
+    {
+      "key": "bilbao-programme",
+      "url": "https://bilbao.makerfaire.com/programa-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 127538,
+      "sha256": "9f225b17ad0581770fd696f301b761c0f4f1391107c4aba175beaf262d049fb2"
+    },
+    {
+      "key": "orlando-fieldtrip",
+      "url": "https://www.makerfaireorlando.com/field-trip-day/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37401,
+      "sha256": "39a3de96e78fd9ea0782b598091ce0594cc7d5d600718c120abb17bd5fbe2e96"
+    },
+    {
+      "key": "orlando-educators",
+      "url": "https://www.makerfaireorlando.com/educators/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34494,
+      "sha256": "78ad6c99b32c08958057debaaa76c62da11560b0dc3d325609f922b46edc7aaa"
+    },
+    {
+      "key": "rochester-attend",
+      "url": "https://rochester.makerfaire.com/attend/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97629,
+      "sha256": "1f43e84b206eca55ec92894ef7c21ea11a490e817a38049528c5af8079d7948c"
+    },
+    {
+      "key": "shenzhen-exhibitors",
+      "url": "https://www.shenzhenmakerfaire.com/2026/10/28/98-booths-and-a-growing-maker-community-meet-the-first-exhibitors-of-maker-faire-shenzhen-2026%f0%9f%8e%89/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 131918,
+      "sha256": "6625c362a0c3e3ff90b915615e5101de645945ae336d79daca0225dad50b7500"
+    },
+    {
+      "key": "maker-upcoming",
+      "url": "https://makerfaire.com/upcoming-faires/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 201509,
+      "sha256": "e184d369cd2307f7fe4b2e8e22177c0842a13beff3d2e0e818c211a84ef428b1"
+    },
+    {
+      "key": "maker-global",
+      "url": "https://makerfaire.com/globalfaires/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 241971,
+      "sha256": "bce0d04b494b3a5e8e239afa03d26b4b4ad23eefc04bc9735a6adc6100ffe9ff"
+    },
+    {
+      "key": "shenzhen",
+      "url": "https://www.shenzhenmakerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116737,
+      "sha256": "e297fd252c3fd7e778638f5918e89f708386e0b1c69b19d241d771d772188bbb"
+    },
+    {
+      "key": "taipei",
+      "url": "https://makerfairetaipei.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 223422,
+      "sha256": "e2a5df3c24ac2427962068e15d14177947eb12f5e4694bf65d7cbe69b66ab774"
+    },
+    {
+      "key": "orlando",
+      "url": "https://www.makerfaireorlando.com/attend",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34915,
+      "sha256": "b6dd4713d8e784c83c098fd00a7588be8cc2f750fc405ccc49d4a49e77b80f04"
+    },
+    {
+      "key": "hannover",
+      "url": "https://maker-faire.de/hannover/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 376305,
+      "sha256": "b0bae8384ebe44a01769943d41fbd4c4c73d202fec7503ec575f41b2d55ab69b"
+    },
+    {
+      "key": "sarawak",
+      "url": "https://www.makeramai.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 101666,
+      "sha256": "c65a9c415c8f1364f102d47dc2a14e652e31d76d0a200e62488bc555d6649260"
+    },
+    {
+      "key": "rochester",
+      "url": "https://rochester.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109791,
+      "sha256": "ef348c184de91f5917020bf0c8c0e970dca20bc168a1663e1dd84de9a3b4622b"
+    },
+    {
+      "key": "itera",
+      "url": "https://www.innovactiongym.biz/itera",
+      "error": "<urlopen error [Errno 61] Connection refused>"
+    },
+    {
+      "key": "ogaki",
+      "url": "https://www.iamas.ac.jp/news/ogaki-mini-maker-faire-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68407,
+      "sha256": "d9fa7bb0a6e8f1b1302de4d94b3445326ccd64f729a5cbeb390ec3692f9c803f"
+    },
+    {
+      "key": "bilbao",
+      "url": "https://bilbao.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 112134,
+      "sha256": "7fb3013c7d19ab09ff294a79556e907928a4e3d29cf9d76edda8932e58236814"
+    },
+    {
+      "key": "lynchburg",
+      "url": "https://lynchburg.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 103557,
+      "sha256": "9ab76e86f3e73410f39bbd8d2d00a86eba1d575d4e4d277b86b0ccaeb550b7cb"
+    },
+    {
+      "key": "ulaanbaatar",
+      "url": "https://dudu.mn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 136253,
+      "sha256": "66f11412706388dce7c5bfb89b9faa4ab1b5395f4836325145fc9983a7e1aa2b"
+    },
+    {
+      "key": "trieste",
+      "url": "https://trieste.makerfaire.com/en/home-page/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 133077,
+      "sha256": "c55d05631b91a7e8e17cf71f554509bfef7d45c234f57c7f8e1ea8f1bd161cc3"
+    },
+    {
+      "key": "se-minnesota",
+      "url": "https://southeastminnesota.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108754,
+      "sha256": "0d36da36d6d49dfff15c6d912ecd4044ffa28c48cc12198458c603dafa8692b0"
+    },
+    {
+      "key": "losangeles",
+      "url": "https://losangeles.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 50262,
+      "sha256": "a9bf52eb2b0ab8991a97e39edbc83be543f6e4ecec3e1afb57069975884537c3"
+    },
+    {
+      "key": "longisland",
+      "url": "https://longisland.makerfaire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 133972,
+      "sha256": "773827ea0bb98e9ef36a364b9fa636156e94731887b52bc553f808aee12dcaf2"
+    },
+    {
+      "key": "bayarea",
+      "url": "https://makerfaire.com/bay-area/?2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214647,
+      "sha256": "5e377c5f6123e8e3bf2439a0e6120fd5eabeff790af36986179816bfdfd5e89e"
+    },
+    {
+      "key": "ogaki-event",
+      "url": "https://www.iamas.ac.jp/ommf2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14418,
+      "sha256": "27b9e8ee85ccf2cb045281f2aff06c59cd1a3a267d5f1885f087c4c73f165260"
+    },
+    {
+      "key": "dg-taiwan",
+      "url": "https://www.dgtaiwan.com/en/menu/5C7A637AB243212AD0636733C6861689/info.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87977,
+      "sha256": "d27cbf7bf8278bcd1cf1d28eed42ee204d1b2f4a0bfe00a383ea001f77eccb5e"
+    },
+    {
+      "key": "shenzhen-alpha",
+      "url": "https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 141690,
+      "sha256": "ae46d58cf8ee60e74ca762bef6426d99d4a5e282fd468cfdd78b6de8f6d682e6"
+    },
+    {
+      "key": "monterrey-luma",
+      "url": "https://luma.com/i5cz5p70",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 264125,
+      "sha256": "65d901b5f4659dce924caa708e842bec8c9e68e80aee689ff2b043475b3c7241"
+    },
+    {
+      "key": "orlando-tickets",
+      "url": "https://events.humanitix.com/makerfaireorlando",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 206783,
+      "sha256": "34f809a5e1bb6b87cd2690d282d3e7daae8446a3adb10282ca913844476205c9"
+    },
+    {
+      "key": "rochester-tickets",
+      "url": "https://events.ticketleap.com/tickets/maker-faire-rochester/2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 98328,
+      "sha256": "b26855ad09577b9429c6faa08d206d101bbf9482d0ec52ba47b72b499b2f0900"
+    },
+    {
+      "key": "taipei-tickets",
+      "url": "https://makerfairetaipei.com/visit-ticket/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 148752,
+      "sha256": "ba6024e5cc7067c6f0a60adeb1018b340ee5a26fe63f537d86c5dd24a476505d"
+    },
+    {
+      "key": "shenzhen-alpha-ticket",
+      "url": "https://www.seeedstudio.com/Maker-Faire-Shenzhen-2026-Alpha-Camp-Early-Bird-2-Day-Pass-with-Limited-NFC-Badge.html",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 904269,
+      "sha256": "53841a24db237134f4ad82bc3f24597b4871471ce627f261d6d9a44d32234003"
+    }
+  ]
+}

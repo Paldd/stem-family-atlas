@@ -580,8 +580,8 @@
       }
     ],
     "counts": {
-      "records": 2585,
-      "holiday": 2472,
+      "records": 2588,
+      "holiday": 2475,
       "regular": 92,
       "self_paced_materials": 2,
       "boarding": 916,
@@ -178700,6 +178700,199 @@
           "end_utc": "2027-01-15T09:00:00Z"
         }
       ]
+    },
+    {
+      "id": "CP1161-20261212-20261213",
+      "block": "Campamentos",
+      "title": "ALPHA Camp · Maker Faire Shenzhen 2026 · Talleres del festival · 2026-12-12–2026-12-13",
+      "country": "China",
+      "region": "Asia",
+      "city": "Shenzhen · Nanshan · Vanke Cloud Design Commune",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "period": "Periodo de talleres publicado, no sesión de campamento infantil.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad mínima sin publicar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "entry": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+      "gear": "Espacio maker de dos días; se planean unos 40 talleres, sin horario confirmado. Robots, ROS, IA en dispositivos, electrónica y fabricación digital son temas posibles. No se anuncia como campamento infantil: edad, supervisión e idioma real de instructores desconocidos.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "cost": "2026/27 · Pase anticipado de dos días 59.9 USD por persona hasta 20 de noviembre; ordinario 89.9 USD. Cupo inicial de 100 pases anticipados, no saldo actual. Precio ALPHA, no presupuesto familiar completo. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P3 — confirmar edad e idioma del taller",
+      "action": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.; Obtener precio final, requisitos de equipo, horario, materiales y cancelación.",
+      "source": "https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/",
+      "references": [
+        {
+          "url": "https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/",
+          "label": "ALPHA Camp · Maker Faire Shenzhen 2026"
+        },
+        {
+          "url": "https://www.seeedstudio.com/Maker-Faire-Shenzhen-2026-Alpha-Camp-Early-Bird-2-Day-Pass-with-Limited-NFC-Badge.html",
+          "label": "Tienda oficial: moneda USD y pase anticipado"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Talleres individuales con plazas limitadas y reserva. Precios y materiales se publicarán progresivamente; sin confirmar su inclusión en pase ni acceso a todo Maker Faire. Confirmar impuestos, cargos, adulto acompañante y viaje. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.",
+      "iso": [
+        "CHN"
+      ],
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "workshop_window",
+      "date_precision": "published_window",
+      "camp_dossier_slug": "shenzhen-alpha-maker-workshops-2026",
+      "camp_programme_id": "CP1161",
+      "parent_event_id": "E009"
+    },
+    {
+      "id": "CP1162-20261121-20261122",
+      "block": "Campamentos",
+      "title": "Maker Faire Bilbao · electrónica familiar · Talleres del festival · 2026-11-21–2026-11-22",
+      "country": "España",
+      "region": "Europa",
+      "city": "Bilbao · Zorrotzaurre · Fábrica Artiach, Ribera de Deusto 70",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "period": "21–22 de noviembre de 2026: periodo de talleres familiares; horas y reserva pendientes de publicación. No es sesión de dos días con cuidado infantil.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad.",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "entry": "Reserva en web aún por abrir; adulto participa junto con niño.",
+      "gear": "Soldadura y programación en familia; ejemplos de creaciones: robot caminante, lámpara y circuito sonoro. Cada familia se lleva su creación. Productos concretos, distribución por días y horas aún sin anunciar.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "cost": "2026/27 · Todas las actividades del programa 2026 son gratuitas. Plazas de talleres familiares limitadas; reserva aún por abrir. Viaje y gastos familiares aparte. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P3 — confirmar edad e idioma del taller",
+      "action": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.; Obtener precio final, requisitos de equipo, horario, materiales y cancelación.",
+      "source": "https://bilbao.makerfaire.com/programa-2026/",
+      "references": [
+        {
+          "url": "https://bilbao.makerfaire.com/programa-2026/",
+          "label": "Maker Faire Bilbao · electrónica familiar"
+        },
+        {
+          "url": "https://bilbao.makerfaire.com/",
+          "label": "Página principal: desde 6 con adulto"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Edad compatible: desde 6, obligatoriamente con adulto. Confirmar idioma, plaza y reserva. Oscar: Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.",
+      "iso": [
+        "ESP"
+      ],
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "workshop_window",
+      "date_precision": "published_window",
+      "camp_dossier_slug": "bilbao-family-electronics-2026",
+      "camp_programme_id": "CP1162",
+      "availability": {
+        "status": "not_yet_open",
+        "note": "Plazas limitadas, reserva anunciada como próxima."
+      },
+      "parent_event_id": "E209"
+    },
+    {
+      "id": "CP1163-20261112-20261112",
+      "block": "Campamentos",
+      "title": "Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Monterrey · HUB de Innovación y Emprendimiento · Prototyping Lab",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "12 de noviembre de 2026, 17:00–18:00, America/Monterrey; taller separado tras final anunciado de Expo general.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad mínima sin publicar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "entry": "Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.",
+      "gear": "Talking Robots: controlar dispositivos físicos con instrucciones conversacionales de IA. Taller separado 17:00–18:00, aunque entrada general Expo indica 09:00–17:00. Edad infantil y acompañamiento de este taller sin determinar.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "cost": "2026/27 · Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P3 — confirmar edad e idioma del taller",
+      "action": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.; Obtener precio final, requisitos de equipo, horario, materiales y cancelación.",
+      "source": "https://luma.com/i5cz5p70",
+      "references": [
+        {
+          "url": "https://luma.com/i5cz5p70",
+          "label": "Maker Faire Monterrey · Talking Robots"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_window",
+      "camp_dossier_slug": "monterrey-talking-robots-2026",
+      "camp_programme_id": "CP1163",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "17:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "topic": "Talking Robots",
+          "ical_timed": true,
+          "start_utc": "2026-11-12T23:00:00Z",
+          "end_utc": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "parent_event_id": "E066"
     }
   ],
   "project_events": [

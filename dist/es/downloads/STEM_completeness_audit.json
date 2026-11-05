@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 3990,
+    "cards": 4002,
     "competition_cards": 1197,
-    "event_cards": 208,
-    "camp_cards": 2585,
+    "event_cards": 217,
+    "camp_cards": 2588,
     "league_profiles": 145,
-    "major_exhibition_cards": 121,
+    "major_exhibition_cards": 136,
     "vex_cards": 469,
-    "countries_with_records": 83,
+    "countries_with_records": 84,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1313,
+      "total": 1320,
       "countries_with_records": 14,
       "competitions": 525,
-      "events": 51,
-      "major_exhibitions": 10,
-      "camps": 737,
+      "events": 57,
+      "major_exhibitions": 19,
+      "camps": 738,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1324,
+      "total": 1327,
       "countries_with_records": 22,
       "competitions": 174,
-      "events": 65,
-      "major_exhibitions": 44,
-      "camps": 1085,
+      "events": 67,
+      "major_exhibitions": 47,
+      "camps": 1086,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 933,
-      "countries_with_records": 23,
+      "total": 935,
+      "countries_with_records": 24,
       "competitions": 236,
-      "events": 64,
-      "major_exhibitions": 54,
-      "camps": 633,
+      "events": 65,
+      "major_exhibitions": 57,
+      "camps": 634,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -3129,6 +3129,17 @@
       "new": false
     },
     {
+      "id": "E008",
+      "name": "Maker Faire Orlando 2026",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "visitor_policy": "family",
+      "source": "https://www.makerfaireorlando.com/attend/",
+      "new": false
+    },
+    {
       "id": "E009",
       "name": "Maker Faire Shenzhen 2026",
       "country": "China",
@@ -3136,7 +3147,7 @@
       "start": "2026-12-12",
       "end": "2026-12-13",
       "visitor_policy": "confirm_children",
-      "source": "https://www.shenzhenmakerfaire.com/2026/06/30/maker-faire-shenzhen-2026-now-call-for-makers%EF%BC%81entering-the-era-of-opc-creators",
+      "source": "https://www.shenzhenmakerfaire.com/",
       "new": false
     },
     {
@@ -3434,6 +3445,72 @@
       "end": "2026-10-18",
       "visitor_policy": "confirm_children",
       "source": "https://guangzhou.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E066",
+      "name": "Maker Faire Monterrey / ITERA TEC 2026",
+      "country": "México",
+      "region": "América del Norte",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "visitor_policy": "confirm_children",
+      "source": "https://luma.com/i5cz5p70",
+      "new": false
+    },
+    {
+      "id": "E070",
+      "name": "Rochester Maker Faire 2026",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "visitor_policy": "family",
+      "source": "https://rochester.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E071",
+      "name": "Ogaki Mini Maker Faire 2026",
+      "country": "Japón",
+      "region": "Asia",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.iamas.ac.jp/ommf2026/",
+      "new": false
+    },
+    {
+      "id": "E072",
+      "name": "Sarawak Maker Faire 2026",
+      "country": "Malasia",
+      "region": "Asia",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.makeramai.com/",
+      "new": false
+    },
+    {
+      "id": "E075",
+      "name": "Buffalo Maker Faire — Summer 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "",
+      "end": "",
+      "visitor_policy": "family",
+      "source": "https://buffalo.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E076",
+      "name": "Maker Faire Hannover 2027",
+      "country": "Alemania",
+      "region": "Europa",
+      "start": "2027-08-21",
+      "end": "2027-08-22",
+      "visitor_policy": "family",
+      "source": "https://maker-faire.de/hannover/",
       "new": false
     },
     {
@@ -4446,6 +4523,94 @@
       "end": "2027-03-06",
       "visitor_policy": "adults_only",
       "source": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
+      "new": false
+    },
+    {
+      "id": "E202",
+      "name": "Maker Faire Lynchburg 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-03-14",
+      "end": "2027-03-14",
+      "visitor_policy": "family",
+      "source": "https://lynchburg.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E203",
+      "name": "Maker Faire Ulaanbaatar 2027",
+      "country": "Mongolia",
+      "region": "Asia",
+      "start": "2027-05-08",
+      "end": "2027-05-09",
+      "visitor_policy": "confirm_children",
+      "source": "https://makerfaire.com/upcoming-faires/",
+      "new": false
+    },
+    {
+      "id": "E204",
+      "name": "Maker Faire Trieste 2027",
+      "country": "Italia",
+      "region": "Europa",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "visitor_policy": "confirm_children",
+      "source": "https://trieste.makerfaire.com/en/home-page/",
+      "new": false
+    },
+    {
+      "id": "E205",
+      "name": "Southeast Minnesota Maker Faire 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-06-12",
+      "end": "2027-06-12",
+      "visitor_policy": "family",
+      "source": "https://southeastminnesota.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E206",
+      "name": "Los Angeles Maker Faire 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-07-31",
+      "end": "2027-07-31",
+      "visitor_policy": "confirm_children",
+      "source": "https://losangeles.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E207",
+      "name": "Long Island Maker Faire 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-09-19",
+      "end": "2027-09-19",
+      "visitor_policy": "confirm_children",
+      "source": "https://longisland.makerfaire.com/",
+      "new": false
+    },
+    {
+      "id": "E208",
+      "name": "Maker Faire Bay Area 2027",
+      "country": "Estados Unidos",
+      "region": "América del Norte",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "visitor_policy": "confirm_children",
+      "source": "https://makerfaire.com/bay-area/?2026",
+      "new": false
+    },
+    {
+      "id": "E209",
+      "name": "Maker Faire Bilbao 2026",
+      "country": "España",
+      "region": "Europa",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "visitor_policy": "family",
+      "source": "https://bilbao.makerfaire.com/programa-2026/",
       "new": false
     }
   ],
@@ -6558,8 +6723,8 @@
       }
     ],
     "counts": {
-      "records": 2585,
-      "holiday": 2472,
+      "records": 2588,
+      "holiday": 2475,
       "regular": 92,
       "self_paced_materials": 2,
       "boarding": 916,

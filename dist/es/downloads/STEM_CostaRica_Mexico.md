@@ -798,18 +798,18 @@ Limitaciones: Los títulos mezclan invierno / summer, pero las fechas y la descr
 Fuente: https://mexico.nova-academy.mx/it-camp
 Comprobado: 2026-09-30
 
-### # E066 · ITERA TEC 国 Maker Faire México 2026, conflicto de fechas
+### E066 · Maker Faire Monterrey / ITERA TEC 2026
 
-Fecha: Catálogo: 29–30.10.2026; Anuncio local: 19–20 Noviembre sin año
+Fecha: 2026-11-12 — 2026-11-12
 Edad: No se ha confirmado la admisión de niños o extranjeros
 Matway: Condicional: confirmar la entrada de los niños
 Oscar: Condicional: confirmar la entrada de niños
 Idioma: No se ha confirmado el idioma de actividad
-Entrada: Comprobar los pasajes actuales/ la entrada y los límites de la actividad seleccionada
-Costo: No se ha establecido la tarifa actual en la página de lectura
-Limitaciones: Directorio de red: 29–30 octubre 2026. Página local: 19–20 Noviembre sin año, con archivos 2022–2024. Hasta que el organizador responda, no se considerará que la fecha exacta ha sido confirmada ni exportada a ICS.
-Fuente: https://www.innovactiongym.biz/itera
-Comprobado: 2026-09-30
+Acceso: Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.
+Precio: General y Talking Robots tienen type=free en configuración pública de entradas. Confirmar materiales y otros gastos obligatorios de actividad elegida.
+Limitaciones: Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.
+Fuente: https://luma.com/i5cz5p70
+Se ha comprobado: 2026-11-04
 
 ### ~#L115 · Logiscool México - LEGO WeDo camp, futuro turno
 
@@ -2148,6 +2148,19 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
 Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1163-20261112-20261112 · Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12
+
+Fecha: 2026-11-12 — 2026-11-12
+edad: Edad mínima sin publicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.
+Acceso: Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.
+Precio: 2026/27 · Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.
+Fuente: https://luma.com/i5cz5p70
 Se ha comprobado: 2026-11-04
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

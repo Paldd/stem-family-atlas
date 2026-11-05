@@ -3241,36 +3241,36 @@
     {
       "id": "E066",
       "block": "Eventos",
-      "title": "ITERA TEC  Maker Faire México 2026, conflicto de fechas",
+      "title": "Maker Faire Monterrey / ITERA TEC 2026",
       "country": "México",
       "region": "América del Norte",
-      "city": "el campus y la plaza de aclarar",
-      "start": "",
-      "end": "",
+      "city": "Monterrey · HUB de Innovación y Emprendimiento Eduardo Garza T. · Av. Eugenio Garza Sada 2501 Sur",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
       "period": "catálogo: 29–30.10.2026; Anuncio local: 19–20 noviembre sin año",
-      "date_status": "conflicto de fuentes",
+      "date_status": "Confirmado",
       "deadline": "",
       "age": "el permiso de entrada de niños / extranjeros no está confirmado",
       "mat": "condicionalmente: confirmar la entrada de los niños",
       "osc": "condicionalmente: confirmar la entrada de los niños",
       "format": "visita con el padre",
-      "entry": "comprobar los billetes / registros actuales y las limitaciones de la actividad seleccionada",
+      "entry": "Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.",
       "gear": "No se necesita equipo para visitar",
       "language": "lenguaje de actividad no confirmado",
       "languages": [],
       "language_certainty": "El idioma del sitio no confirma el idioma de las clases o de los jueces; el flujo EN/ES debe ser acertado.",
-      "cost": "no se ha establecido el precio actual en la página leída",
+      "cost": "General y Talking Robots tienen type=free en configuración pública de entradas. Confirmar materiales y otros gastos obligatorios de actividad elegida.",
       "level": "E  evento educativo",
       "scope": "regional",
       "importance_reason": "evaluación editorial por el formato y la geografía publicados; no es un índice oficial.",
       "reward": "conocimiento de las tecnologías; la visita no es una victoria competitiva",
       "priority": "P2  México, sólo después de especificar las fechas",
       "action": "Obtener un año, días reales, campus y edad en Innovaction Gym; luego planificar un viaje",
-      "source": "https://www.innovactiongym.biz/itera",
-      "proof": "fecha en el catálogo de la red; la verificación local y sus límites se indican en la nota.",
-      "checked": "2026-09-30",
+      "source": "https://luma.com/i5cz5p70",
+      "proof": "Seguido enlace nuevo desde calendario oficial a Luma; leídos descripción anfitriona, fecha, sede y configuración pública de entradas. Conflicto antiguo resuelto por anuncio actual nuevo.",
+      "checked": "2026-11-04",
       "status": "Idea",
-      "note": "catálogo de red: 29–30 de octubre 2026. página local: 19–20 noviembre sin año, con archivos 2022–2024. hasta que el organizador responda , la fecha exacta no se considera confirmada y no se exporta a ICS.",
+      "note": "Enlace oficial nuevo y página anfitriona coinciden: jueves 12 de noviembre de 2026. Antiguos 29–30 de octubre / 19–20 de noviembre ya no son anuncio principal. Expo general 09:00–17:00, Talking Robots separado 17:00–18:00. Edad e instrucción EN/ES sin confirmar.",
       "themes": [
         "technology",
         "robotics"
@@ -3280,14 +3280,29 @@
       "evidence_level": "catalog",
       "references": [
         {
-          "url": "https://makerfaire.com/upcoming-faires/",
-          "label": "catálogo de la red: fecha de publicación"
+          "label": "Red oficial con enlace nuevo Monterrey",
+          "url": "https://makerfaire.com/upcoming-faires/"
         }
       ],
       "published_start": "2026-10-29",
       "published_end": "2026-10-30",
       "iso": [
         "MEX"
+      ],
+      "date_scope": "festival_window",
+      "exhibition_tier": "family_alternative",
+      "visitor_policy": "confirm_children",
+      "visitor_policy_note": "Condicional: confirmar entrada infantil, acompañamiento y edad de actividad elegida.",
+      "highlights": [
+        "Proyectos maker",
+        "Inventos y prototipos",
+        "Talleres: reglas aparte"
+      ],
+      "exhibitor_note": "Festival de proyectos y makers; no es un catálogo completo de empresas mundiales ni una final mundial de robótica.",
+      "exhibitor_directory_url": "https://luma.com/i5cz5p70",
+      "adult_entry": "Enlace actual de red oficial lleva a evento Tec de Monterrey en Luma. Elegir General y taller deseado por separado; comprobar edad infantil y acompañamiento. Sin registro realizado.",
+      "related_ids": [
+        "CP1163-20261112-20261112"
       ]
     },
     {
@@ -10441,6 +10456,75 @@
       "support_languages": [
         "ES"
       ]
+    },
+    {
+      "id": "CP1163-20261112-20261112",
+      "block": "Campamentos",
+      "title": "Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "Monterrey · HUB de Innovación y Emprendimiento · Prototyping Lab",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "period": "12 de noviembre de 2026, 17:00–18:00, America/Monterrey; taller separado tras final anunciado de Expo general.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad mínima sin publicar.",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "entry": "Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.",
+      "gear": "Talking Robots: controlar dispositivos físicos con instrucciones conversacionales de IA. Taller separado 17:00–18:00, aunque entrada general Expo indica 09:00–17:00. Edad infantil y acompañamiento de este taller sin determinar.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "cost": "2026/27 · Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P3 — confirmar edad e idioma del taller",
+      "action": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.; Obtener precio final, requisitos de equipo, horario, materiales y cancelación.",
+      "source": "https://luma.com/i5cz5p70",
+      "references": [
+        {
+          "url": "https://luma.com/i5cz5p70",
+          "label": "Maker Faire Monterrey · Talking Robots"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.",
+      "iso": [
+        "MEX"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_window",
+      "camp_dossier_slug": "monterrey-talking-robots-2026",
+      "camp_programme_id": "CP1163",
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "start_time": "17:00",
+          "end_time": "18:00",
+          "timezone": "America/Monterrey",
+          "topic": "Talking Robots",
+          "ical_timed": true,
+          "start_utc": "2026-11-12T23:00:00Z",
+          "end_utc": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "parent_event_id": "E066"
     },
     {
       "block": "Competiciones",

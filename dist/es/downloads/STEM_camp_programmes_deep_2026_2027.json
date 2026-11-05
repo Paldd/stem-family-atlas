@@ -30,7 +30,7 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1160,
+    "dossiers": 1163,
     "countries": 41,
     "swiss": 128,
     "by_status": {
@@ -38,25 +38,33 @@
       "published_2027": 309,
       "partial_2027": 114,
       "next_unannounced": 232,
-      "published_2026": 236,
+      "published_2026": 239,
       "partial_2026_27": 21,
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1749
+    "source_urls": 1754
   },
   "countries": [
     {
-      "country": "Suiza",
-      "count": 128
+      "country": "Australia",
+      "count": 2
     },
     {
-      "country": "Francia",
-      "count": 102
+      "country": "Austria",
+      "count": 3
     },
     {
-      "country": "España",
-      "count": 97
+      "country": "Argentina",
+      "count": 2
+    },
+    {
+      "country": "Bélgica",
+      "count": 2
+    },
+    {
+      "country": "Brasil",
+      "count": 4
     },
     {
       "country": "Reino Unido",
@@ -67,148 +75,140 @@
       "count": 11
     },
     {
-      "country": "Italia",
-      "count": 6
-    },
-    {
-      "country": "Taiwán",
-      "count": 65
-    },
-    {
-      "country": "Singapur",
-      "count": 137
-    },
-    {
-      "country": "Japón",
-      "count": 83
-    },
-    {
-      "country": "Corea del Sur",
-      "count": 22
-    },
-    {
-      "country": "Estados Unidos",
-      "count": 128
-    },
-    {
-      "country": "Canadá",
-      "count": 148
-    },
-    {
-      "country": "Costa Rica",
-      "count": 40
-    },
-    {
-      "country": "México",
-      "count": 56
-    },
-    {
-      "country": "Argentina",
-      "count": 2
-    },
-    {
-      "country": "Chile",
-      "count": 13
-    },
-    {
-      "country": "Colombia",
-      "count": 10
-    },
-    {
-      "country": "Austria",
-      "count": 3
-    },
-    {
-      "country": "Portugal",
-      "count": 1
-    },
-    {
-      "country": "Brasil",
-      "count": 4
-    },
-    {
-      "country": "Países Bajos",
-      "count": 5
-    },
-    {
-      "country": "Finlandia",
-      "count": 5
-    },
-    {
-      "country": "Irlanda",
-      "count": 2
-    },
-    {
-      "country": "Suecia",
-      "count": 1
-    },
-    {
-      "country": "Malta",
-      "count": 1
-    },
-    {
-      "country": "Chequia",
-      "count": 1
+      "country": "Hong Kong y su capital",
+      "count": 15
     },
     {
       "country": "Dinamarca",
       "count": 1
     },
     {
-      "country": "Tailandia",
-      "count": 11
-    },
-    {
-      "country": "Perú",
-      "count": 8
-    },
-    {
-      "country": "Bélgica",
+      "country": "Irlanda",
       "count": 2
     },
     {
-      "country": "Panamá",
-      "count": 8
+      "country": "España",
+      "count": 98
     },
     {
-      "country": "Uruguay",
-      "count": 3
+      "country": "Italia",
+      "count": 6
     },
     {
-      "country": "Ecuador",
-      "count": 1
-    },
-    {
-      "country": "Filipinas",
-      "count": 8
-    },
-    {
-      "country": "Malasia",
-      "count": 7
+      "country": "Canadá",
+      "count": 148
     },
     {
       "country": "Kenia",
       "count": 1
     },
     {
-      "country": "Australia",
-      "count": 2
-    },
-    {
       "country": "China",
-      "count": 8
+      "count": 9
     },
     {
-      "country": "Hong Kong y su capital",
-      "count": 15
+      "country": "Colombia",
+      "count": 10
+    },
+    {
+      "country": "Costa Rica",
+      "count": 40
     },
     {
       "country": "Liechtenstein",
       "count": 2
     },
     {
+      "country": "Malasia",
+      "count": 7
+    },
+    {
+      "country": "Malta",
+      "count": 1
+    },
+    {
+      "country": "México",
+      "count": 57
+    },
+    {
+      "country": "Países Bajos",
+      "count": 5
+    },
+    {
+      "country": "Panamá",
+      "count": 8
+    },
+    {
+      "country": "Perú",
+      "count": 8
+    },
+    {
+      "country": "Portugal",
+      "count": 1
+    },
+    {
+      "country": "Estados Unidos",
+      "count": 128
+    },
+    {
+      "country": "Singapur",
+      "count": 137
+    },
+    {
+      "country": "Tailandia",
+      "count": 11
+    },
+    {
+      "country": "Taiwán",
+      "count": 65
+    },
+    {
       "country": "Uganda",
       "count": 3
+    },
+    {
+      "country": "Uruguay",
+      "count": 3
+    },
+    {
+      "country": "Filipinas",
+      "count": 8
+    },
+    {
+      "country": "Finlandia",
+      "count": 5
+    },
+    {
+      "country": "Francia",
+      "count": 102
+    },
+    {
+      "country": "Chequia",
+      "count": 1
+    },
+    {
+      "country": "Chile",
+      "count": 13
+    },
+    {
+      "country": "Suiza",
+      "count": 128
+    },
+    {
+      "country": "Suecia",
+      "count": 1
+    },
+    {
+      "country": "Ecuador",
+      "count": 1
+    },
+    {
+      "country": "Corea del Sur",
+      "count": 22
+    },
+    {
+      "country": "Japón",
+      "count": 83
     }
   ],
   "profiles": [
@@ -146385,6 +146385,302 @@
       "checked": "2026-11-04",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1161",
+      "slug": "shenzhen-alpha-maker-workshops-2026",
+      "provider": "ALPHA Camp · Maker Faire Shenzhen 2026",
+      "country": "China",
+      "iso": "CHN",
+      "place": "Shenzhen · Nanshan · Vanke Cloud Design Commune",
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "catalog_participation": "holiday_workshop",
+      "age": "Edad mínima sin publicar.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "confirmed_instruction_languages": [],
+      "programme": "Espacio maker de dos días; se planean unos 40 talleres, sin horario confirmado. Robots, ROS, IA en dispositivos, electrónica y fabricación digital son temas posibles. No se anuncia como campamento infantil: edad, supervisión e idioma real de instructores desconocidos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Periodo de talleres publicado, no sesión de campamento infantil.",
+        "sessions": [
+          [
+            "2026-12-12",
+            "2026-12-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-12",
+            "end": "2026-12-13",
+            "label": "Talleres del festival",
+            "date_scope": "workshop_window",
+            "date_precision": "published_window",
+            "entry": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+            "source": "https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/",
+            "price": "Pase anticipado de dos días 59.9 USD por persona hasta 20 de noviembre; ordinario 89.9 USD. Cupo inicial de 100 pases anticipados, no saldo actual. Precio ALPHA, no presupuesto familiar completo.",
+            "extras": "Talleres individuales con plazas limitadas y reserva. Precios y materiales se publicarán progresivamente; sin confirmar su inclusión en pase ni acceso a todo Maker Faire. Confirmar impuestos, cargos, adulto acompañante y viaje."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 59.9,
+        "unit": "person_two_day_pass",
+        "label": "Pase anticipado de dos días 59.9 USD por persona hasta 20 de noviembre; ordinario 89.9 USD. Cupo inicial de 100 pases anticipados, no saldo actual. Precio ALPHA, no presupuesto familiar completo.",
+        "included": "Dos días ALPHA, NFC badge, almuerzo cada día, maker passport y reserva anticipada de talleres. Certificado solo tras requisitos de actividades / retos; no es victoria en liga internacional.",
+        "extras": "Talleres individuales con plazas limitadas y reserva. Precios y materiales se publicarán progresivamente; sin confirmar su inclusión en pase ni acceso a todo Maker Faire. Confirmar impuestos, cargos, adulto acompañante y viaje.",
+        "deposit": "Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada."
+      },
+      "accommodation": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar."
+        }
+      },
+      "editorial_reason": "Experiencia de taller interesante junto a electrónica de Shenzhen; admisión familiar por edad e idioma aún sin confirmar, por ello no figura como mejor campamento infantil verificado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+        "Obtener precio final, requisitos de equipo, horario, materiales y cancelación."
+      ],
+      "sources": [
+        {
+          "title": "ALPHA Camp · Maker Faire Shenzhen 2026",
+          "url": "https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Tienda oficial: moneda USD y pase anticipado",
+          "url": "https://www.seeedstudio.com/Maker-Faire-Shenzhen-2026-Alpha-Camp-Early-Bird-2-Day-Pass-with-Limited-NFC-Badge.html",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-12",
+          "end": "2026-12-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1161-20261212-20261213"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1162",
+      "slug": "bilbao-family-electronics-2026",
+      "provider": "Maker Faire Bilbao · electrónica familiar",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Bilbao · Zorrotzaurre · Fábrica Artiach, Ribera de Deusto 70",
+      "themes": [
+        "makers",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "catalog_participation": "holiday_workshop",
+      "age": "Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "confirmed_instruction_languages": [],
+      "programme": "Soldadura y programación en familia; ejemplos de creaciones: robot caminante, lámpara y circuito sonoro. Cada familia se lleva su creación. Productos concretos, distribución por días y horas aún sin anunciar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "21–22 de noviembre de 2026: periodo de talleres familiares; horas y reserva pendientes de publicación. No es sesión de dos días con cuidado infantil.",
+        "sessions": [
+          [
+            "2026-11-21",
+            "2026-11-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-21",
+            "end": "2026-11-22",
+            "label": "Talleres del festival",
+            "date_scope": "workshop_window",
+            "date_precision": "published_window",
+            "entry": "Reserva en web aún por abrir; adulto participa junto con niño.",
+            "source": "https://bilbao.makerfaire.com/programa-2026/",
+            "price": "Todas las actividades del programa 2026 son gratuitas. Plazas de talleres familiares limitadas; reserva aún por abrir. Viaje y gastos familiares aparte.",
+            "age": "Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad.",
+            "availability": {
+              "status": "not_yet_open",
+              "note": "Plazas limitadas, reserva anunciada como próxima."
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 0,
+        "unit": "activity",
+        "label": "Todas las actividades del programa 2026 son gratuitas. Plazas de talleres familiares limitadas; reserva aún por abrir. Viaje y gastos familiares aparte.",
+        "included": "Participación y objeto creado por familia; confirmar selección final de taller y materiales.",
+        "extras": "Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar.",
+        "deposit": "Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada."
+      },
+      "accommodation": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad compatible: desde 6, obligatoriamente con adulto. Confirmar idioma, plaza y reserva."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad."
+        }
+      },
+      "editorial_reason": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+        "Obtener precio final, requisitos de equipo, horario, materiales y cancelación."
+      ],
+      "sources": [
+        {
+          "title": "Maker Faire Bilbao · electrónica familiar",
+          "url": "https://bilbao.makerfaire.com/programa-2026/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Página principal: desde 6 con adulto",
+          "url": "https://bilbao.makerfaire.com/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-21",
+          "end": "2026-11-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1162-20261121-20261122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1163",
+      "slug": "monterrey-talking-robots-2026",
+      "provider": "Maker Faire Monterrey · Talking Robots",
+      "country": "México",
+      "iso": "MEX",
+      "place": "Monterrey · HUB de Innovación y Emprendimiento · Prototyping Lab",
+      "themes": [
+        "robotics",
+        "ai",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "catalog_participation": "holiday_workshop",
+      "age": "Edad mínima sin publicar.",
+      "language": "Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.",
+      "confirmed_instruction_languages": [],
+      "programme": "Talking Robots: controlar dispositivos físicos con instrucciones conversacionales de IA. Taller separado 17:00–18:00, aunque entrada general Expo indica 09:00–17:00. Edad infantil y acompañamiento de este taller sin determinar.",
+      "timing": {
+        "status": "published_2026",
+        "label": "12 de noviembre de 2026, 17:00–18:00, America/Monterrey; taller separado tras final anunciado de Expo general.",
+        "sessions": [
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "label": "Talleres del festival",
+            "date_scope": "session_days",
+            "date_precision": "published_window",
+            "entry": "Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.",
+            "source": "https://luma.com/i5cz5p70",
+            "price": "Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller.",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "17:00",
+                "end_time": "18:00",
+                "timezone": "America/Monterrey",
+                "topic": "Talking Robots",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T23:00:00Z",
+                "end_utc": "2026-11-13T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": 0,
+        "unit": "workshop",
+        "label": "Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller.",
+        "included": "Confirmar inclusiones de actividad elegida.",
+        "extras": "Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar.",
+        "deposit": "Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada."
+      },
+      "accommodation": "Taller presencial breve; alojamiento y cuidado sin padres no anunciados.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar."
+        }
+      },
+      "editorial_reason": "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.",
+        "Obtener precio final, requisitos de equipo, horario, materiales y cancelación."
+      ],
+      "sources": [
+        {
+          "title": "Maker Faire Monterrey · Talking Robots",
+          "url": "https://luma.com/i5cz5p70",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1163-20261112-20261112"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -151630,7 +151926,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 144,
+  "version": 146,
   "family_review": {
     "version": 136,
     "asof": "2026-10-06",
@@ -163631,6 +163927,21 @@
       "programme_id": "CP1157",
       "event_id": "CP1157-20261116-20270115",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1161",
+      "event_id": "CP1161-20261212-20261213",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1162",
+      "event_id": "CP1162-20261121-20261122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1163",
+      "event_id": "CP1163-20261112-20261112",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -165755,10 +166066,13 @@
     "CP1154-20261222-20270107",
     "CP1155-20261116-20270115",
     "CP1156-20261116-20270115",
-    "CP1157-20261116-20270115"
+    "CP1157-20261116-20270115",
+    "CP1161-20261212-20261213",
+    "CP1162-20261121-20261122",
+    "CP1163-20261112-20261112"
   ],
   "integration": {
-    "generated_sessions": 2122,
+    "generated_sessions": 2125,
     "reused_legacy_events": 69,
     "seasonal_windows": 55,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

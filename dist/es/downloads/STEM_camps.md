@@ -41494,6 +41494,54 @@ Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso d
 Fuente: https://cybroid.com/events/tech-fun-camp-2026
 Se ha comprobado: 2026-11-04
 
+### CP1161-20261212-20261213 · ALPHA Camp · Maker Faire Shenzhen 2026 · Talleres del festival · 2026-12-12–2026-12-13
+
+lugar: China · Shenzhen · Nanshan · Vanke Cloud Design Commune
+Fecha: 2026-12-12 — 2026-12-13
+edad: Edad mínima sin publicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Pase anticipado de dos días 59.9 USD por persona hasta 20 de noviembre; ordinario 89.9 USD. Cupo inicial de 100 pases anticipados, no saldo actual. Precio ALPHA, no presupuesto familiar completo. · suplementos y condiciones en el dossier
+Acceso: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar.
+Limitaciones: Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Talleres individuales con plazas limitadas y reserva. Precios y materiales se publicarán progresivamente; sin confirmar su inclusión en pase ni acceso a todo Maker Faire. Confirmar impuestos, cargos, adulto acompañante y viaje. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.
+Fuente: https://www.shenzhenmakerfaire.com/2026/11/04/alpha-camp-two-days-of-hands-on-discovery-at-maker-faire-shenzhen-2026/
+Se ha comprobado: 2026-11-04
+
+### CP1162-20261121-20261122 · Maker Faire Bilbao · electrónica familiar · Talleres del festival · 2026-11-21–2026-11-22
+
+lugar: España · Bilbao · Zorrotzaurre · Fábrica Artiach, Ribera de Deusto 70
+Fecha: 2026-11-21 - 2026-11-22
+edad: Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Todas las actividades del programa 2026 son gratuitas. Plazas de talleres familiares limitadas; reserva aún por abrir. Viaje y gastos familiares aparte. · suplementos y condiciones en el dossier
+Acceso: Reserva en web aún por abrir; adulto participa junto con niño.
+Limitaciones: Matvey: Edad compatible: desde 6, obligatoriamente con adulto. Confirmar idioma, plaza y reserva. Oscar: Desde 6 años obligatoriamente con adulto. Oscar debe haber celebrado su sexto cumpleaños antes de actividad. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.
+Fuente: https://bilbao.makerfaire.com/programa-2026/
+Se ha comprobado: 2026-11-04
+
+### CP1163-20261112-20261112 · Maker Faire Monterrey · Talking Robots · Talleres del festival · 2026-11-12–2026-11-12
+
+lugar: México · Monterrey · HUB de Innovación y Emprendimiento · Prototyping Lab
+Fecha: 2026-11-12 — 2026-11-12
+edad: Edad mínima sin publicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Idioma EN/ES/RU del instructor del taller concreto sin confirmar. Una página inglesa o española por sí sola no acredita el idioma de las actividades.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Configuración pública de entrada concreta: type=free. Materiales, equipo, admisión por edad y confirmación de plaza aparte; entrada general gratuita no reserva taller. · suplementos y condiciones en el dossier
+Acceso: Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.
+Limitaciones: Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.
+Fuente: https://luma.com/i5cz5p70
+Se ha comprobado: 2026-11-04
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

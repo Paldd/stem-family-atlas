@@ -1,0 +1,60 @@
+{
+  "version": 146,
+  "checked": "2026-11-04",
+  "scope": "Maker Faire editions, visitor admission, family workshop programmes and current source conflicts",
+  "new_exhibition_ids": [
+    "E202",
+    "E203",
+    "E204",
+    "E205",
+    "E206",
+    "E207",
+    "E208",
+    "E209",
+    "E210"
+  ],
+  "new_programme_ids": [
+    "CP1161",
+    "CP1162",
+    "CP1163"
+  ],
+  "updated_event_ids": [
+    "E008",
+    "E009",
+    "E066",
+    "E070",
+    "E071",
+    "E072",
+    "E075",
+    "E076"
+  ],
+  "resolutions": [
+    {
+      "id": "E066",
+      "status": "resolved-by-current-host-link",
+      "current_date": "2026-11-12",
+      "source": "https://luma.com/i5cz5p70",
+      "network": "https://makerfaire.com/upcoming-faires/"
+    },
+    {
+      "id": "E072",
+      "status": "changed-network-date-only",
+      "date": "2026-12-09"
+    },
+    {
+      "id": "E208",
+      "status": "explicit-2027-announcement-on-mixed-edition-page",
+      "date": "2027-09-24/2027-09-26"
+    }
+  ],
+  "non_catalogued_leads": [
+    {
+      "name": "DG Taiwan 2027",
+      "source": "https://www.dgtaiwan.com/en/menu/0F0BC001DED91E6FD0636733C6861689/info.html",
+      "decision": "Designed Giftionery Taiwan: design, gifts, stationery and lifestyle; not a drone or robotics expo. Family admission rules must not be transferred to unrelated Taiwan trade fairs."
+    }
+  ],
+  "language_policy": "No new confirmed EN/ES instruction from translated web pages.",
+  "global_audit_complete": false,
+  "fully_audited_countries": 0
+}
