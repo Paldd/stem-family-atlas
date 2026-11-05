@@ -1,0 +1,259 @@
+[
+  {
+    "key": "wrc-2027-opening",
+    "url": "https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html",
+    "final_url": "https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 22263,
+    "sha256": "ab41d7bbb2cb43ca9bd1eaa089cc1708352091ebade9ec556815be8ef8b12ddb",
+    "file": "wrc-2027-opening.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "wrc-closing",
+    "url": "https://www.worldrobotconference.com/news/3660.html",
+    "final_url": "https://www.worldrobotconference.com/news/3660.html",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 13685,
+    "sha256": "9da692220c95d234faa2ebecf0f1f90c9ccd9cdb22d89013dcb2a8e9c3c2c37c",
+    "file": "wrc-closing.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "arce-bare",
+    "url": "https://arce-fair.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arce-fair.com'. (_ssl.c:997)>",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "taipei-b2c",
+    "url": "https://tgs.tca.org.tw/?p=b2c_method_e",
+    "final_url": "https://tgs.tca.org.tw/method_e.php",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 25432,
+    "sha256": "70c5d850055e6ced0c771188d16497469f2b77c79b232cacf03e52ef6b770a63",
+    "file": "taipei-b2c.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "taipei-visit-guide",
+    "url": "https://tgs.tca.org.tw/?p=guide_e",
+    "final_url": "https://tgs.tca.org.tw/?p=guide_e",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 20277,
+    "sha256": "ddd7c94240e4061b7382a56a258d82500b108e4e5fbccfd6a2fbb95997fc9448",
+    "file": "taipei-visit-guide.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "gstar-detail-14",
+    "url": "https://gstar.or.kr/part/pass_guide.do",
+    "final_url": "https://gstar.or.kr/part/pass_guide.do",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 23548,
+    "sha256": "121c96ee74d124aced8adee20cd1988684faa7143d567bc1801caad9fc86ed26",
+    "file": "gstar-detail-14.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "gstar-detail-15",
+    "url": "https://gstar.or.kr/part/gstar_btc_info.do",
+    "final_url": "https://gstar.or.kr/part/gstar_btc_info.do",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 34189,
+    "sha256": "eebd0720e653a28533e4ac8ff509bf24dbba20e1bae38d949d38aef61e9ebdb2",
+    "file": "gstar-detail-15.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "computex-guidelines",
+    "url": "https://www.computextaipei.com.tw/en/menu/C73E8F9D0454124DD0636733C6861689/info.html",
+    "final_url": "https://www.computextaipei.com.tw/en/menu/C73E8F9D0454124DD0636733C6861689/info.html",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 84553,
+    "sha256": "13b3275f90030802f740e30b07801f0c0f0e5a2a2678827500953973eb005d02",
+    "file": "computex-guidelines.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "computex-visit",
+    "url": "https://www.computextaipei.com.tw/en/menu/49A948920FF33BE2D0636733C6861689/info.html",
+    "final_url": "https://www.computextaipei.com.tw/en/menu/49A948920FF33BE2D0636733C6861689/info.html",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 84843,
+    "sha256": "f53b55d4e62de0eac3186a336b0990f36513fd114bba48433e4a18b9caaa7511",
+    "file": "computex-visit.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "automation-visit",
+    "url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
+    "final_url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 383340,
+    "sha256": "13d80b7437c25e53e64c61d193a9965f118a3b52b638afff671922c4931a4772",
+    "file": "automation-visit.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "timtos-faq",
+    "url": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
+    "final_url": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 103455,
+    "sha256": "54936694a4e3dfbb5eabc6011aa07d3e17aa5ca35ba28f632219f57ffc787649",
+    "file": "timtos-faq.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "world-robot",
+    "url": "https://www.worldrobotconference.com/",
+    "final_url": "https://www.worldrobotconference.com/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 54620,
+    "sha256": "438d1d787f514d33dbb1b3c768f6b7ec5463ec41abe6ff578ce1d8219f7f21b4",
+    "file": "world-robot.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "waic",
+    "url": "https://www.worldaic.com.cn/",
+    "final_url": "https://www.worldaic.com.cn/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 97423,
+    "sha256": "666c20e787f35003bc4f8125164ca5b766e51ad9d35cc1997c7d666fc09ae6cb",
+    "file": "waic.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "robonext",
+    "url": "https://robonext.nikkan.co.jp/?lang=en",
+    "error": "HTTP Error 403: Forbidden",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "irex",
+    "url": "https://irex.nikkan.co.jp/",
+    "error": "HTTP Error 403: Forbidden",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "robotworld-visit",
+    "url": "https://eng.robotworld.or.kr/visitors/information.php",
+    "final_url": "https://eng.robotworld.or.kr/visitors/information.php",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 792,
+    "sha256": "8bb218c0bd621eeee7a27b79b9ed1ae0fcb7f3e7cdfa0b5a835e7c357e82295b",
+    "file": "robotworld-visit.html",
+    "checked": "2026-11-05",
+    "response_class": "javascript-access-challenge-not-event-content"
+  },
+  {
+    "key": "taipei-game",
+    "url": "https://tgs.tca.org.tw/?p=event_info_e",
+    "final_url": "https://tgs.tca.org.tw/?p=event_info_e",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 15179,
+    "sha256": "9b43ba7886f1a487beab5a80b0141c4581969799a587f704a9a314b696e7506b",
+    "file": "taipei-game.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "gstar",
+    "url": "https://gstar.or.kr/gstar/gstar_info.do",
+    "final_url": "https://gstar.or.kr/gstar/gstar_info.do",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 19078,
+    "sha256": "512d64ac5452910a88e9b3af3b49914414fe6e02fa57839523998da19c2a74e9",
+    "file": "gstar.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "arce",
+    "url": "https://www.arce-fair.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.arce-fair.com'. (_ssl.c:997)>",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ciif-2027-release",
+    "url": "https://www.hmf-china.com/En/Co/?AID=191&CID=21",
+    "final_url": "https://www.hmf-china.com/En/Co/?AID=191&CID=21",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 24254,
+    "sha256": "8866199a45e31e0ae3658b1669b2ec79b1763bbb279eff5698dd78cab7c0b639",
+    "file": "ciif-2027-release.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ciif-home",
+    "url": "https://www.ciif-expo.com/",
+    "final_url": "https://www.ciif-expo.com/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 4683,
+    "sha256": "dc961a24457036c786c6434ca48d13dfb62094a48770376d6b5fa9b972620fb6",
+    "file": "ciif-home.html",
+    "checked": "2026-11-05",
+    "response_class": "dynamic-shell-not-readable-event-content"
+  },
+  {
+    "key": "touch-visit",
+    "url": "https://www.touchtaiwan.com/visitor.asp",
+    "final_url": "https://www.touchtaiwan.com/visitor.asp",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 18892,
+    "sha256": "b5e0272f2c7a3c63c07a6f5a7284cd0ba2d8161b7c8429415ee6df5be7e52f42",
+    "file": "touch-visit.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "tairex-2027",
+    "url": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
+    "final_url": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 15184,
+    "sha256": "71dc09d848f80e60296a082874beabfac6ff54f79a0e55336279d9cd9fc0d8f5",
+    "file": "tairex-2027.html",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "timtos-kit",
+    "url": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
+    "final_url": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2936888,
+    "sha256": "cfc510d5f76a0aaba67c504596d0a58379cb216c5b93d436d4a40908a58104d6",
+    "file": "timtos-kit.pdf",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "smart-city",
+    "url": "https://smartcity.org.tw/smartcity.php",
+    "final_url": "https://smartcity.org.tw/smartcity.php",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 11201,
+    "sha256": "472523d693ffa5063b6b6e2a2562bed5060e42444b1b03108154292e5f5ddee9",
+    "file": "smart-city.html",
+    "checked": "2026-11-05"
+  }
+]

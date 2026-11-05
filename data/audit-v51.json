@@ -16,12 +16,12 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 4154,
+    "cards": 4155,
     "competition_cards": 1265,
-    "event_cards": 218,
+    "event_cards": 219,
     "camp_cards": 2671,
     "league_profiles": 147,
-    "major_exhibition_cards": 136,
+    "major_exhibition_cards": 137,
     "vex_cards": 469,
     "countries_with_records": 85,
     "fully_audited_countries": 0
@@ -90,11 +90,11 @@
       "regions": [
         "Азия"
       ],
-      "total": 935,
+      "total": 936,
       "countries_with_records": 24,
       "competitions": 236,
-      "events": 65,
-      "major_exhibitions": 57,
+      "events": 66,
+      "major_exhibitions": 58,
       "camps": 634,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
@@ -3454,7 +3454,7 @@
       "region": "Азия",
       "start": "2027-06-01",
       "end": "2027-06-04",
-      "visitor_policy": "confirm_children",
+      "visitor_policy": "adults_only",
       "source": "https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html",
       "new": false
     },
@@ -3493,13 +3493,13 @@
     },
     {
       "id": "E028",
-      "name": "World Robot Conference / World Robot Expo — Пекин, следующее издание",
+      "name": "World Robot Conference 2027 · объявлено открытие; полный период уточняется",
       "country": "Китай",
       "region": "Азия",
-      "start": "",
-      "end": "",
+      "start": "2027-08-18",
+      "end": "2027-08-18",
       "visitor_policy": "confirm_children",
-      "source": "https://www.worldrobotconference.com/",
+      "source": "https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html",
       "new": false
     },
     {
@@ -4103,8 +4103,8 @@
       "region": "Азия",
       "start": "2026-11-19",
       "end": "2026-11-22",
-      "visitor_policy": "confirm_children",
-      "source": "https://gstar.or.kr/gstar/gstar_info.do",
+      "visitor_policy": "family",
+      "source": "https://gstar.or.kr/part/gstar_btc_info.do",
       "new": false
     },
     {
@@ -4765,6 +4765,17 @@
       "end": "2026-11-22",
       "visitor_policy": "family",
       "source": "https://bilbao.makerfaire.com/programa-2026/",
+      "new": false
+    },
+    {
+      "id": "E219",
+      "name": "CIIF 2027 · Robotics Show / Industrial Automation Show",
+      "country": "Китай",
+      "region": "Азия",
+      "start": "2027-09-20",
+      "end": "2027-09-24",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.hmf-china.com/En/Co/?AID=191&CID=21",
       "new": false
     }
   ],

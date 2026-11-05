@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 4154; competiciones: 1265; eventos: 218; campamentos / programas: 2671. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y ferias especializadas: 136 — son ediciones y sedes, no número de marcas únicas.
+Fichas en la base: 4155; competiciones: 1265; eventos: 219; campamentos / programas: 2671. Perfiles de ligas y programas: 147. Fichas de exposiciones grandes y especializadas: 137 — son ediciones y recintos, no número de marcas únicas.
 
 Hay registros concretos de 85 de 249 países y territorios; países completamente auditados: 0. Pase archivado v51: fichas añadidas 21, perfiles 3. Todas las fichas anteriores conservadas.
 
@@ -18,7 +18,7 @@ Hay registros concretos de 85 de 249 países y territorios; países completament
 | América del Sur | 10 | 148 | 6 | 81 |
 | Europa | 22 | 174 | 47 | 1148 |
 | África | 10 | 61 | 5 | 30 |
-| Asia | 24 | 236 | 57 | 634 |
+| Asia | 24 | 236 | 58 | 634 |
 ○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
@@ -259,11 +259,11 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - **TAIREX 2027** Taiwán; 2027-03-18 2027-03-21; no se permite a los niños 6/9. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 - **TAIROS / Automation Taipei 2027** Taiwán; 2027-08-04 2027-08-07 No se permite a los niños 6/9 https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 - **Touch Taiwan 2027** — Taiwán; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.touchtaiwan.com/visitor.asp
-- **COMPUTEX 2027** Taiwán; 2027-06-01 2027-06-04. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
+- **COMPUTEX 2027** — Taiwán; 2027-06-01 – 2027-06-04. Los niños del 6/9 no pueden. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
 - **Smart City Summit & Expo 2027** Taiwán; 2027-03-16 2027-03-19. https://smartcity.org.tw/smartcity.php
 - **AI EXPO Taiwan 2027** Taiwán; fecha desconocida: permiso para niños. https://ai-expo.tw/about_2026.html
 - **Maker Faire Taipei 2026** Taiwán; 2026-10-24 国 2026-10-25; con adultos; condiciones de entrada de adultos separadas. https://makerfaire.com/upcoming-faires/
-- * World Robot Conference / World Robot Expo ○ Beijing, próxima edición** ○ China; fecha desconocida. https://www.worldrobotconference.com/
+- **World Robot Conference 2027 · apertura anunciada; periodo completo pendiente** — China; 2027-08-18. Confirmar admisión infantil. https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html
 - **WAIC JIU World Artificial Intelligence Conference, Shanghai · próxima edición** China; se desconoce la fecha. https://www.worldaic.com.cn/
 - **gamescom Cologne 国 2027** ○ Alemania; 2027-08-26 国 2027-08-29; con adultos; las condiciones de entrada de los adultos por separado. https://www.gamescom.global/en/info/visitors
 - **gamescom latam 2027** Brasil; 2027-04-22 - 2027-04-25 - Con adultos; condiciones de entrada de adultos por separado. https://latam.gamescom.global/en/
@@ -318,7 +318,7 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - **PAX East Boston 2027** — Estados Unidos; 2027-04-22 – 2027-04-25. Con un adulto; Las condiciones de entrada de los adultos por separado. https://east.paxsite.com/en-us/info/faq.html
 - **gamescom asia Thailand 2026 · días públicos** Tailandia; 2026-10-30 Å 2026-11-01, con adultos; condiciones de entrada de adultos separadas. https://gamescom.asia/ent/b2c-faqs
 - **Taipei Game Show 2027 · B2C public zone** Taiwán; 2027-01-21  PMA 2027-01-24. https://tgs.tca.org.tw/?p=event_info_e
-- **G-STAR Busan 2026 · BTC exhibition** ○ Corea del Sur; 2026-11-19 2026-11-22. https://gstar.or.kr/gstar/gstar_info.do
+- **G-STAR Busan 2026 · BTC exhibition** — Corea del Sur; 2026-11-19 – 2026-11-22. Con un adulto; condiciones de entrada adulta aparte. https://gstar.or.kr/part/gstar_btc_info.do
 - **AI & Big Data Expo Global / TechEx · 2027** English; 2027-02-03 BWC 2027-02-04. Los niños 6/9 no pueden. https://www.ai-expo.net/global/visitor-faqs/
 - **AI & Big Data Expo Europe / TechEx · 2026** — Países Bajos; 2026-10-19 – 2026-10-20. Niños 6/9 No puedes.. https://www.ai-expo.net/europe/visitor-faqs/
 - **AI & Big Data Expo North America / TechEx · 2027** — Estados Unidos; 2027-06-16 – 2027-06-17. Niños 6/9 No puedes.. https://www.ai-expo.net/northamerica/visitor-faqs/
@@ -379,6 +379,7 @@ VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobert
 - **Long Island Maker Faire 2027** — Estados Unidos; 2027-09-19. el permiso de entrada de niños. https://longisland.makerfaire.com/
 - **Maker Faire Bay Area 2027** — Estados Unidos; 2027-09-24 – 2027-09-26. el permiso de entrada de niños. https://makerfaire.com/bay-area/?2026
 - **Maker Faire Bilbao 2026** — España; 2026-11-16 – 2026-11-22. con un adulto; condiciones de entrada adulta aparte. https://bilbao.makerfaire.com/programa-2026/
+- **CIIF 2027 · Robotics Show / Industrial Automation Show** — China; 2027-09-20 – 2027-09-24. el permiso de entrada de niños. https://www.hmf-china.com/En/Co/?AID=191&CID=21
 
 ## ~ Añadida en esta versión
 

@@ -583,23 +583,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stem-E023@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Idea] COMPUTEX 2027
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270605
-DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E0
- 23. . Matvey: Condicional\; Oscar: Condicional. Cómo participar: Trade 
- show\; obtener visitor age policy 2027. Próximo paso: padre: obtener la
- s reglas actuales y la confirmación de la admisión antes de la reserva
- . la fecha 2027 se ha comprobado\; la admisión de niños por separado\,
-  no automáticamente da.. . . Fuente verificada el 2026-09-30.
-LOCATION:Taipei\, Taiwán
-URL:https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stem-E024@family-stem.local
 DTSTAMP:20261006T205843Z
 SUMMARY:[Idea] Smart City Summit & Expo 2027
@@ -618,6 +601,27 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E0
 LOCATION:Taipei · Taipei Nangang Exhibition Center Hall 2\, 2 Jingmao 2n
  d Road\, Taiwán
 URL:https://smartcity.org.tw/smartcity.php
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-E028@family-stem.local
+DTSTAMP:20261105T091951Z
+SUMMARY:[Inicio · confirmar período completo] World Robot Conference 20
+ 27 · apertura anunciada\; periodo completo pendiente
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E0
+ 28. . Matvey: Condicional\; Oscar: Condicional. Cómo participar: Seguir
+  programa completo de 2027 y visitor tickets de Expo separados. Confirma
+ r día familiar y registro con pasaporte antes del viaje.. Próximo paso
+ : padre: obtener las reglas actuales y la confirmación de la admisión 
+ antes de la reserva. Un día en calendario señala inicio anunciado de c
+ onferencia\, no exposición de un día ni entrada familiar confirmada. F
+ echas históricas de 2026 y public days 22–23 de agosto no se traslada
+ n a 2027.. . . Fuente verificada el 2026-11-05.
+LOCATION:Pekín / Beijing · Beiren Etrong\, E-Town (plaza 2026)\, China
+URL:https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -14499,22 +14503,64 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-E118@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261105T091951Z
 SUMMARY:[Idea] G-STAR Busan 2026 · BTC exhibition
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261123
 DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E1
- 18. . Matvey: condicionalmente  confirmar la admisión\; Oscar: condicio
- nalmente  confirmar la admisión. Cómo participar: Visitor ticket de la
-  edición actual de BTC\; especificar las condiciones infantiles del org
- anizador.. Próximo paso: confirmar la edad en la fecha del evento\, la 
- lengua\, el lugar y las condiciones de registro.. Game Awards 18 de novi
- embre no son un día público de BTC. los precios y reglas de las edicio
- nes de archivo no se han trasladado a 2026.. . No se registra la familia
- \; la fecha y el precio publicados no garantizan la disponibilidad de pl
- azas.. Fuente verificada el 2026-09-30.
+ 18. . Matvey: Sí: entrada juvenil de 8000 KRW para día elegido\; pasap
+ orte / prueba de nacimiento.\; Oscar: Sí para BTC\; confirmar gratuidad
+  preescolar para nacido en 2020 según escolarización real y documentos
+ . En otro caso juvenil 8000 KRW.. Cómo participar: Entradas BTC de pago
+  solo online anticipadas\, sin venta presencial. Comprar para día elegi
+ do antes de las 24:00 del día previo\; una entrada vale un día. Límit
+ e de 2 entradas por persona y día\; acordar compra familiar correcta co
+ n antelación.. Próximo paso: confirmar la edad en la fecha del evento\
+ , la lengua\, el lugar y las condiciones de registro.. Entrada gratuita 
+ se recoge en centro de información\, abierto una hora antes de exposici
+ ón. El 19 de noviembre abre a las 11:00\; verificación de entradas has
+ ta 17:00\, acceso hasta 17:30. Documento necesario para youth / free. BT
+ C no incluye BTB\, G-CON ni paquetes esports especiales. Entradas sin co
+ mprar.. Venta general cierra el 21 de noviembre de 2026 a las 23:59 KST.
+  Para visitar el 19–21 de noviembre rige límite anterior: 24:00 del d
+ ía previo. Plazo del 6 de noviembre a las 16:00 corresponde a grupos es
+ colares de 30 personas o más\, no a entrada familiar.. No se registra l
+ a familia\; la fecha y el precio publicados no garantizan la disponibili
+ dad de plazas.. Fuente verificada el 2026-11-05.
 LOCATION:Busan · BEXCO\, Corea del Sur
-URL:https://gstar.or.kr/gstar/gstar_info.do
+URL:https://gstar.or.kr/part/gstar_btc_info.do
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-E118-deadline@family-stem.local
+DTSTAMP:20261105T091951Z
+SUMMARY:[Última venta online BTC para el 22 de noviembre] G-STAR Busan 2
+ 026 · BTC exhibition
+DTSTART:20261121T145900Z
+DTEND:20261121T150000Z
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E1
+ 18. . Matvey: Sí: entrada juvenil de 8000 KRW para día elegido\; pasap
+ orte / prueba de nacimiento.\; Oscar: Sí para BTC\; confirmar gratuidad
+  preescolar para nacido en 2020 según escolarización real y documentos
+ . En otro caso juvenil 8000 KRW.. Cómo participar: Entradas BTC de pago
+  solo online anticipadas\, sin venta presencial. Comprar para día elegi
+ do antes de las 24:00 del día previo\; una entrada vale un día. Límit
+ e de 2 entradas por persona y día\; acordar compra familiar correcta co
+ n antelación.. Próximo paso: confirmar la edad en la fecha del evento\
+ , la lengua\, el lugar y las condiciones de registro.. Entrada gratuita 
+ se recoge en centro de información\, abierto una hora antes de exposici
+ ón. El 19 de noviembre abre a las 11:00\; verificación de entradas has
+ ta 17:00\, acceso hasta 17:30. Documento necesario para youth / free. BT
+ C no incluye BTB\, G-CON ni paquetes esports especiales. Entradas sin co
+ mprar.. Venta general cierra el 21 de noviembre de 2026 a las 23:59 KST.
+  Para visitar el 19–21 de noviembre rige límite anterior: 24:00 del d
+ ía previo. Plazo del 6 de noviembre a las 16:00 corresponde a grupos es
+ colares de 30 personas o más\, no a entrada familiar.. No se registra l
+ a familia\; la fecha y el precio publicados no garantizan la disponibili
+ dad de plazas.. Fuente verificada el 2026-11-05.
+LOCATION:Busan · BEXCO\, Corea del Sur
+URL:https://gstar.or.kr/part/gstar_btc_info.do
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -26983,6 +27029,29 @@ DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID C1
   Fuente verificada el 2026-11-05.
 LOCATION:Xalapa · Colegio Las Hayas\, México
 URL:https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-E219@family-stem.local
+DTSTAMP:20261105T091951Z
+SUMMARY:[Idea] CIIF 2027 · Robotics Show / Industrial Automation Show
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+DESCRIPTION:Idea para planificar\; no es una inscripción aceptada. ID E2
+ 19. . Matvey: condicionalmente: el permiso de los niños para aclarar\; 
+ Oscar: condicionalmente: el permiso de los niños para aclarar. Cómo pa
+ rticipar: el visitante profesional\; registrarse con antelación en el C
+ IIF. especificar los boletos infantiles\, pasaporte y acceso a los salon
+ es Robotics / IAS.. Próximo paso: elegir las empresas que te interesen 
+ en el catálogo\; obtener las reglas de entrada para adultos y una respu
+ esta escrita sobre los niños 6/9 antes de la reserva.. Nueva edición d
+ e 2027\; ficha CIIF 2026 conservada aparte. Robotics Show / IAS son part
+ es de un viaje a CIIF\, no exposiciones independientes adicionales. Acce
+ so infantil y registro 2027 pendientes.. . idea de visita\; no se ha rea
+ lizado el registro. Fuente verificada el 2026-11-05.
+LOCATION:Shanghai / Shanghai · NECC Hongqiao\, China
+URL:https://www.hmf-china.com/En/Co/?AID=191&CID=21
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

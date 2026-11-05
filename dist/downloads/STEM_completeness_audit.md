@@ -6,7 +6,7 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 4154; соревнований: 1265; событий: 218; лагерей / программ: 2671. Профилей лиг и программ: 147. Карточек крупных и профильных выставок: 136 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 4155; соревнований: 1265; событий: 219; лагерей / программ: 2671. Профилей лиг и программ: 147. Карточек крупных и профильных выставок: 137 — это издания и площадки, не число уникальных брендов.
 
 Конкретные записи есть для 85 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
@@ -18,7 +18,7 @@ CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school
 | Южная Америка | 10 | 148 | 6 | 81 |
 | Европа | 22 | 174 | 47 | 1148 |
 | Африка | 10 | 61 | 5 | 30 |
-| Азия | 24 | 236 | 57 | 634 |
+| Азия | 24 | 236 | 58 | 634 |
 | Океания | 4 | 28 | 2 | 13 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 56. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
@@ -259,11 +259,11 @@ VEX: 469 из 1265 карточек соревнований (37.1%). Это я�
 - **TAIREX 2027** — Тайвань; 2027-03-18 – 2027-03-21. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 - **TAIROS / Automation Taipei 2027** — Тайвань; 2027-08-04 – 2027-08-07. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 - **Touch Taiwan 2027** — Тайвань; 2027-04-21 – 2027-04-23. Детям 6/9 нельзя. https://www.touchtaiwan.com/visitor.asp
-- **COMPUTEX 2027** — Тайвань; 2027-06-01 – 2027-06-04. Детский допуск уточнить. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
+- **COMPUTEX 2027** — Тайвань; 2027-06-01 – 2027-06-04. Детям 6/9 нельзя. https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html
 - **Smart City Summit & Expo 2027** — Тайвань; 2027-03-16 – 2027-03-19. Детский допуск уточнить. https://smartcity.org.tw/smartcity.php
 - **AI EXPO Taiwan 2027** — Тайвань; дата неизвестна. Детский допуск уточнить. https://ai-expo.tw/about_2026.html
 - **Maker Faire Taipei 2026** — Тайвань; 2026-10-24 – 2026-10-25. Со взрослым; условия взрослого входа отдельно. https://makerfaire.com/upcoming-faires/
-- **World Robot Conference / World Robot Expo — Пекин, следующее издание** — Китай; дата неизвестна. Детский допуск уточнить. https://www.worldrobotconference.com/
+- **World Robot Conference 2027 · объявлено открытие; полный период уточняется** — Китай; 2027-08-18. Детский допуск уточнить. https://kfqgw.beijing.gov.cn/ywdt/gzdt/202608/t20260826_4837862.html
 - **WAIC — World Artificial Intelligence Conference, Шанхай · следующее издание** — Китай; дата неизвестна. Детский допуск уточнить. https://www.worldaic.com.cn/
 - **gamescom Cologne — 2027** — Германия; 2027-08-26 – 2027-08-29. Со взрослым; условия взрослого входа отдельно. https://www.gamescom.global/en/info/visitors
 - **gamescom latam 2027** — Бразилия; 2027-04-22 – 2027-04-25. Со взрослым; условия взрослого входа отдельно. https://latam.gamescom.global/en/
@@ -318,7 +318,7 @@ VEX: 469 из 1265 карточек соревнований (37.1%). Это я�
 - **PAX East Boston 2027** — США; 2027-04-22 – 2027-04-25. Со взрослым; условия взрослого входа отдельно. https://east.paxsite.com/en-us/info/faq.html
 - **gamescom asia Thailand 2026 · публичные дни** — Таиланд; 2026-10-30 – 2026-11-01. Со взрослым; условия взрослого входа отдельно. https://gamescom.asia/ent/b2c-faqs
 - **Taipei Game Show 2027 · B2C public zone** — Тайвань; 2027-01-21 – 2027-01-24. Детский допуск уточнить. https://tgs.tca.org.tw/?p=event_info_e
-- **G-STAR Busan 2026 · BTC exhibition** — Южная Корея; 2026-11-19 – 2026-11-22. Детский допуск уточнить. https://gstar.or.kr/gstar/gstar_info.do
+- **G-STAR Busan 2026 · BTC exhibition** — Южная Корея; 2026-11-19 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://gstar.or.kr/part/gstar_btc_info.do
 - **AI & Big Data Expo Global / TechEx · 2027** — Великобритания; 2027-02-03 – 2027-02-04. Детям 6/9 нельзя. https://www.ai-expo.net/global/visitor-faqs/
 - **AI & Big Data Expo Europe / TechEx · 2026** — Нидерланды; 2026-10-19 – 2026-10-20. Детям 6/9 нельзя. https://www.ai-expo.net/europe/visitor-faqs/
 - **AI & Big Data Expo North America / TechEx · 2027** — США; 2027-06-16 – 2027-06-17. Детям 6/9 нельзя. https://www.ai-expo.net/northamerica/visitor-faqs/
@@ -379,6 +379,7 @@ VEX: 469 из 1265 карточек соревнований (37.1%). Это я�
 - **Long Island Maker Faire 2027** — США; 2027-09-19. Детский допуск уточнить. https://longisland.makerfaire.com/
 - **Maker Faire Bay Area 2027** — США; 2027-09-24 – 2027-09-26. Детский допуск уточнить. https://makerfaire.com/bay-area/?2026
 - **Maker Faire Bilbao 2026** — Испания; 2026-11-16 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://bilbao.makerfaire.com/programa-2026/
+- **CIIF 2027 · Robotics Show / Industrial Automation Show** — Китай; 2027-09-20 – 2027-09-24. Детский допуск уточнить. https://www.hmf-china.com/En/Co/?AID=191&CID=21
 
 ## Добавлено в этой версии
 

@@ -1,0 +1,37 @@
+{
+  "version": 152,
+  "checked": "2026-11-05",
+  "scope": "Обновлены семь карточек выставок Азии и добавлен CIIF Shanghai 2027. Открытие World Robot Conference 18 августа 2027 отделено от неизвестных дней Expo. У G-STAR подтверждены семейный BTC, цены и онлайн-продажа; тайваньские 12+ и 18+, текущие QR / тарифы и конфликт площадок TIMTOS показаны отдельно. Недоступные страницы Японии и новые даты неподтверждённых выставок не заменены догадками. Мировой аудит продолжается.",
+  "new_event_ids": [
+    "E219"
+  ],
+  "updated_event_ids": [
+    "E028",
+    "E118",
+    "E020",
+    "E021",
+    "E022",
+    "E023",
+    "E201"
+  ],
+  "source_receipts": "data/asia-exhibition-source-receipts-v152.json",
+  "source_requests": 25,
+  "successful_response_hashes": 21,
+  "failed_requests": 4,
+  "worldwide_audit_complete": false,
+  "fully_audited_countries": 0,
+  "registrations_submitted": false,
+  "purchases_made": false,
+  "evidence_limits": [
+    "WRC 2027 opening only: end date, public expo days and child admission unknown.",
+    "CIIF 2027 dates announced by coorganizer; visitor price and child policy unknown.",
+    "G-STAR youth / preschool ticket rules checked; foreign preschool status and each game age gate need confirmation.",
+    "COMPUTEX standing 18+ guidelines lack specific 2027 edition year; public day / fees of 2026 not copied.",
+    "TIMTOS current FAQ names TaiNEX 1/2; earlier visually checked exhibitor kit also names TWTC Hall 1.",
+    "RoboNext and iREX primary bodies HTTP 403; no invented iREX 2027 dates.",
+    "ROBOTWORLD visitor URL returns a JavaScript access challenge, not readable programme content; no challenge executed.",
+    "ARCE both official host variants fail TLS hostname validation; no fresh dated record created.",
+    "Taipei Game Show B2C method page contains exhibitor booth fees, not visitor tickets or family deadlines.",
+    "No EN / ES instruction inferred from English webpages; no new camp, school, league or international award claim."
+  ]
+}

@@ -80,6 +80,8 @@ from camp_europe_v150 import enrich_v150
 enrich_v150(d)
 from camp_americas_v151 import enrich_v151
 enrich_v151(d)
+from asia_exhibitions_v152 import enrich_v152
+enrich_v152(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -495,7 +497,7 @@ if audits:
     (out/'STEM_source_audit_latest.json').write_text(latest.read_text())
 with (out/'STEM_catalog.csv').open('w',newline='',encoding='utf-8-sig') as f:
     keys=['id','block','title','country','region','city','start','end','period','date_status','deadline','deadline_label','deadline_note','deadline_utc','registration_status','age','mat','osc','format','participation','entry','gear','language','cost','scope','level','importance_reason','reward','priority','action','source','references','proof','checked','status','note','themes','languages','language_certainty','iso','related_ids','event_code','event_type','event_region','venue','admission_kind','evidence_level','published_start','published_end','sessions','planned_windows','parent_event_id','registration_url','age_reference_date','birth_start','birth_end','team_min','team_max','date_scope','exhibition_tier','visitor_policy','visitor_policy_note','adult_entry','highlights','exhibitors','exhibitor_note','exhibitor_directory_url','historical_editions','public_days','event_group','camp_dossier_slug','camp_programme_id','date_precision','date_rule','attendance_weekdays']
-    keys+=['language_mode','support_languages','provider','canonical_event_id']
+    keys+=['language_mode','support_languages','provider','canonical_event_id','visitor_age_min']
     w=csv.DictWriter(f,fieldnames=keys,extrasaction='ignore');w.writeheader();w.writerows({k:json.dumps(e.get(k,''),ensure_ascii=False) if isinstance(e.get(k),(list,dict)) else e.get(k,'') for k in keys} for e in d['events'])
 with (out/'STEM_country_coverage.csv').open('w',newline='',encoding='utf-8-sig') as f:
     w=csv.DictWriter(f,fieldnames=list(coverage[0]));w.writeheader();w.writerows(coverage)
@@ -649,7 +651,8 @@ for e in d['events']:
     if e.get('canonical_event_id') or not e.get('exhibition_tier') or not e['start'] or e['end']<d['asof']:continue
     gate={'family':'семейный вариант','adults_only':'детям 6/9 нельзя','confirm_children':'допуск детей уточнить'}[e['visitor_policy']]
     desc=f"Идея посещения, не принятая регистрация. {e['visitor_policy_note']} Взрослый вход: {e['adult_entry']}. {e['note']} Компании: {e['exhibitor_note']}. Источник проверен {e['checked']}."
-    expo_cal.extend(['BEGIN:VEVENT','UID:stem-exhibition-'+e['id']+'@family-stem.local','DTSTAMP:'+stamp,'SUMMARY:'+ical_escape('[Выставка · '+gate+'] '+e['title']),'DTSTART;VALUE=DATE:'+e['start'].replace('-',''),'DTEND;VALUE=DATE:'+(datetime.date.fromisoformat(e['end'])+datetime.timedelta(days=1)).strftime('%Y%m%d'),'DESCRIPTION:'+ical_escape(desc),'LOCATION:'+ical_escape(e['city']+', '+e['country']),'URL:'+e['source'],'STATUS:TENTATIVE','TRANSP:TRANSPARENT','END:VEVENT'])
+    opening_label='[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else ''
+    expo_cal.extend(['BEGIN:VEVENT','UID:stem-exhibition-'+e['id']+'@family-stem.local','DTSTAMP:'+stamp,'SUMMARY:'+ical_escape(opening_label+'[Выставка · '+gate+'] '+e['title']),'DTSTART;VALUE=DATE:'+e['start'].replace('-',''),'DTEND;VALUE=DATE:'+(datetime.date.fromisoformat(e['end'])+datetime.timedelta(days=1)).strftime('%Y%m%d'),'DESCRIPTION:'+ical_escape(desc),'LOCATION:'+ical_escape(e['city']+', '+e['country']),'URL:'+e['source'],'STATUS:TENTATIVE','TRANSP:TRANSPARENT','END:VEVENT'])
     expo_count+=1
 expo_cal.append('END:VCALENDAR')
 write_ical(out/'STEM_крупные_выставки.ics',('\r\n'.join(ical_fold(line) for line in expo_cal)+'\r\n').encode('utf-8'))

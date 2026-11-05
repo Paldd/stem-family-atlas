@@ -26,7 +26,7 @@ HEADERS.update({
  'team_min':'Mínimo de integrantes','team_max':'Máximo de integrantes','birth_start':'Nacimiento desde',
  'birth_end':'Nacimiento hasta','date_scope':'Significado del período','event_group':'Grupo del evento',
  'language_mode':'Función del idioma','historical_editions':'Ediciones anteriores','exhibition_tier':'Nivel de exposición',
- 'visitor_policy':'Política de visitantes','visitor_policy_note':'Condiciones de visita','adult_entry':'Entrada de adultos',
+ 'visitor_policy':'Política de visitantes','visitor_policy_note':'Condiciones de visita','visitor_age_min':'Edad mínima de visitantes','adult_entry':'Entrada de adultos',
  'exhibitor_note':'Información de expositores','highlights':'Aspectos destacados','exhibitor_directory_url':'Directorio de expositores',
  'exhibitors':'Expositores','support_languages':'Idiomas de apoyo','age_conflict':'Conflicto de edades publicadas',
  'registration_url':'Enlace de inscripción','sessions':'Sesiones','published_start':'Inicio publicado',

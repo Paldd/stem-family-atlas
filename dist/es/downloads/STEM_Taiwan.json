@@ -477,8 +477,8 @@
       "priority": "P4  no familiar",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
-      "proof": "la tarjeta oficial TAIREX 2027 Leído: 18–21 marzo y la prohibición de menor 12 años.",
-      "checked": "2026-09-30",
+      "proof": "Página oficial actual de edición concreta confirma fechas y límite de edad; entrada de expositor no sustituye visitor registration.",
+      "checked": "2026-11-05",
       "status": "Idea",
       "note": "la compatibilidad de edad no es igual a la admisión a un torneo concreto",
       "iso": [
@@ -494,7 +494,7 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "profile",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Condiciones oficiales de TAIREX 2027: entrada a menores de 12 años está prohibida. Niños de 6 y 9 años no se admiten.",
+      "visitor_policy_note": "Reglas vigentes de 2027: entrada prohibida a menores de 12. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.",
       "highlights": [
         "y los robots",
         "automatización",
@@ -508,9 +508,14 @@
         {
           "url": "https://www.chanchao.com.tw/en/expoDetail.asp?id=TAIREX2027",
           "label": "las fechas 2027 y la prohibición de entrada de menores de 12 años"
+        },
+        {
+          "url": "https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027",
+          "label": "Reglas de visitantes 2027 y edad mínima de 12+"
         }
       ],
-      "evidence_level": "rules"
+      "evidence_level": "rules",
+      "visitor_age_min": 12
     },
     {
       "block": "Eventos",
@@ -531,14 +536,14 @@
       "entry": "Registro de visitantes comerciales",
       "gear": "No es necesario.",
       "language": "ZH / EN",
-      "cost": "no se publicó / comprobar la actual edición",
+      "cost": "QR personal tras visitor registration; alternativa presencial publicada de NT$300 si no se desea formulario de miembro. Comprobar condiciones de registro anticipado gratuito para opción elegida.",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
       "priority": "P4  no familiar",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
-      "proof": "tarjeta oficial TAIROS 2027 y Visitor Information Automation Taipei Leído: 4–7 de agosto, prohibición de menores 12, registro personal.",
-      "checked": "2026-09-30",
+      "proof": "Página oficial actual de edición concreta confirma fechas y límite de edad; entrada de expositor no sustituye visitor registration.",
+      "checked": "2026-11-05",
       "status": "Idea",
       "note": "la compatibilidad de edad no es igual a la admisión a un torneo concreto",
       "iso": [
@@ -554,7 +559,7 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "global",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "TAIROS / Automation Taipei 2027: no se admiten los menores de 12 años.",
+      "visitor_policy_note": "Reglas vigentes de 2027: entrada prohibida a menores de 12. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.",
       "highlights": [
         "robots industriales y de servicio",
         "automatización",
@@ -562,7 +567,7 @@
       ],
       "exhibitor_note": "catálogos TAIROS y Automation Taipei pertenecen a dos exposiciones conjuntas; Es un viaje a la plaza común.. lista de los que se encuentran 2027 comprobar por separado.",
       "exhibitor_directory_url": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
-      "adult_entry": "Se puede obtener un registro de visitante individual para cada persona. obtener un QR/badge actual; las reglas de entrada y tratamiento de datos se indican en Visitor Information.",
+      "adult_entry": "QR separado por persona; 4–6 de agosto 10:00–17:00, 7 de agosto hasta 16:00. Entrada NT$300 vía VIP counter es opción según condiciones publicadas sobre datos. Menores de 12 no admitidos.",
       "admission_kind": "visitor",
       "references": [
         {
@@ -572,9 +577,14 @@
         {
           "url": "https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027",
           "label": "tarjeta oficial de TAIROS 2027"
+        },
+        {
+          "url": "https://automationtaipei.chanchao.com.tw/en/VisitorInfo",
+          "label": "Reglas de visitantes 2027 y edad mínima de 12+"
         }
       ],
-      "evidence_level": "rules"
+      "evidence_level": "rules",
+      "visitor_age_min": 12
     },
     {
       "block": "Eventos",
@@ -595,14 +605,14 @@
       "entry": "Registro de visitantes comerciales",
       "gear": "No es necesario.",
       "language": "ZH / EN",
-      "cost": "no se publicó / comprobar la actual edición",
+      "cost": "Visitor registration / QR personal; si existen dudas sobre entrega de datos se publica entrada presencial de un día NT$300 vía VIP service counter. Solo 18+.",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
       "priority": "P4  no familiar",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.touchtaiwan.com/visitor.asp",
-      "proof": "la página oficial se ha leído; la fecha de la siguiente etapa no se encuentra",
-      "checked": "2026-09-29",
+      "proof": "Página oficial actual de edición concreta confirma fechas y límite de edad; entrada de expositor no sustituye visitor registration.",
+      "checked": "2026-11-05",
       "status": "Idea",
       "note": "La regla original quizos no fue sustituida por la regla clara 18+.",
       "iso": [
@@ -618,7 +628,7 @@
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "profile",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Según las reglas publicadas, la entrada hasta los 18 años está prohibida; revisar la nueva edición 2027",
+      "visitor_policy_note": "Reglas vigentes de 2027: entrada prohibida a menores de 18. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.",
       "highlights": [
         "Display de la pantalla",
         "Los sensores",
@@ -626,9 +636,15 @@
       ],
       "exhibitor_note": "una exposición de componentes de perfil, no una revisión completa de los fabricantes de robots; el catálogo del año nuevo debe comprobarse por separado.",
       "exhibitor_directory_url": "https://www.touchtaiwan.com/visitor.asp",
-      "adult_entry": "Registro de visitantes comerciales",
+      "adult_entry": "21–22 de abril 10:00–17:00, 23 de abril hasta 16:00; TaiNEX 1, planta 4. QR personal o alternativa publicada de un día NT$300. Entrada prohibida a menores de 18.",
       "admission_kind": "visitor",
-      "references": []
+      "references": [
+        {
+          "url": "https://www.touchtaiwan.com/visitor.asp",
+          "label": "Reglas de visitantes 2027 y edad mínima de 18+"
+        }
+      ],
+      "visitor_age_min": 18
     },
     {
       "block": "Eventos",
@@ -642,23 +658,23 @@
       "period": "",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "2027: el permiso para aclarar; en 2026 se prohibió el ingreso hasta los 18 años",
-      "mat": "Condicional",
-      "osc": "Condicional",
+      "age": "18+ según Admission Guidelines generales vigentes; comprobar edición específica de 2027.",
+      "mat": "No",
+      "osc": "No",
       "format": "visita con el padre",
-      "entry": "Trade show; obtener visitor age policy 2027",
+      "entry": "Ruta de padres según reglas vigentes de 18+. Confirmar visitor registration, precios y días de acceso específicos de 2027.",
       "gear": "No es necesario.",
       "language": "ZH / EN",
       "cost": "no se publicó / comprobar la actual edición",
       "level": "E  evento educativo",
       "reward": "Impresiones y formación; no premio competitivo",
-      "priority": "P3  no se ha confirmado el permiso",
+      "priority": "P4 — solo adultos según regla vigente",
       "action": "padre: obtener las reglas actuales y la confirmación de la admisión antes de la reserva",
       "source": "https://www.computextaipei.com.tw/en/news/035C3CADA83D9EAA/info.html",
-      "proof": "se ha leído el anuncio 2027 (1–4 de junio, ampliación de la zona de robótica) y separado Visitor Information 2026 (18+). de edad gate 2027 No está confirmado.",
-      "checked": "2026-09-30",
+      "proof": "Admission Guidelines generales modificadas el 3 de febrero de 2026 y vigentes en web prohíben entrada a menores de 18 durante exposición. Página de reglas distinta del Visitor Information histórico de 2026.",
+      "checked": "2026-11-05",
       "status": "Idea",
-      "note": "la fecha 2027 se ha comprobado; la admisión de niños por separado, no automáticamente da.",
+      "note": "Fechas 1–4 de junio de 2027 confirmadas antes; reglas generales de entrada 18+ verificadas aparte ahora. Entrada adulta no permite acceso infantil.",
       "iso": [
         "TWN"
       ],
@@ -673,8 +689,8 @@
       "participation": "visitor",
       "language_certainty": "La etiqueta de idioma describe la opción encontrada; confirmar el grupo concreto y el idioma de enseñanza/evaluación antes de inscribirse.",
       "exhibition_tier": "global",
-      "visitor_policy": "confirm_children",
-      "visitor_policy_note": "Fechas 2027 confirmado. Lo que encontré Visitor Information se refiere a 2026 y prohíbe la entrada hasta 18 años. Regla 2027 Se está aclarando; no confirmar el viaje con los niños.",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Reglas generales actuales del organizador prohíben menores de 18; viaje no adecuado para niños de 6/9. Guidelines no indica edición específica de 2027: comprobar cambios antes del viaje adulto. No trasladar día público ni precios de 2026 a 2027.",
       "highlights": [
         "y el equipo",
         "Robots",
@@ -682,7 +698,7 @@
       ],
       "exhibitor_note": "En 2026 el organizador informó de 1 500 expositores. En 2027 se expande la zona robótica TWTC Hall 1; los participantes concretos de 2027 aún están siendo probados.",
       "exhibitor_directory_url": "https://www.computextaipei.com.tw/zh-tw/news/22CB2A9F3830A261/list-info.html",
-      "adult_entry": "el registro de visitantes profesionales de acuerdo con las reglas actuales de 2027. los niños no se consideran admitidos por el hecho de comprar un boleto adulto.",
+      "adult_entry": "Ruta de padres según reglas vigentes de 18+. Confirmar visitor registration, precios y días de acceso específicos de 2027.",
       "admission_kind": "visitor",
       "references": [
         {
@@ -692,8 +708,13 @@
         {
           "url": "https://www.computextaipei.com.tw/en/index.html",
           "label": "COMPUTEX: nueva temporada y navegación por empresas"
+        },
+        {
+          "url": "https://www.computextaipei.com.tw/en/menu/C73E8F9D0454124DD0636733C6861689/info.html",
+          "label": "Admission Guidelines generales vigentes · prohibición para menores de 18"
         }
-      ]
+      ],
+      "visitor_age_min": 18
     },
     {
       "block": "Eventos",
@@ -2526,7 +2547,7 @@
       "title": "TIMTOS 2027 · Taipei Int'l Machine Tool Show",
       "country": "Taiwán",
       "region": "Asia",
-      "city": "Taipei · TaiNEX1, TaiNEX2 y TWTC Hall1",
+      "city": "Taipei · TaiNEX 1/2 según FAQ; TWTC Hall 1 en kit — comprobar plano",
       "start": "2027-03-02",
       "end": "2027-03-06",
       "period": "",
@@ -2539,16 +2560,16 @@
       "entry": "Ruta solo para adultos de la familia; verificar registro de visitante en la web oficial. El interés tecnológico no da acceso infantil.",
       "gear": "No es necesario.",
       "language": "Fact sheet oficial EN; confirmar idioma de cada foro",
-      "cost": "Tarifa de visitante sin confirmar; el precio de stand del exhibitor kit no es una entrada.",
+      "cost": "FAQ 2027: entrada gratuita tras online pre-registration, QR se cambia por visitor badge obligatorio. Precio de stand no es entrada de visitante.",
       "level": "Exposición industrial internacional",
       "reward": "Visita a exposición; sin premio competitivo",
       "priority": "P4 — solo adultos",
       "action": "Considerar visita separada de adultos; elegir otro evento familiar para los niños.",
       "source": "https://cloudcdn.taiwantradeshows.com.tw/2027/timtos/kit-en/application-kit-en.pdf",
-      "proof": "Kit oficial TIMTOS2027: revisados visualmente fact sheet y calendario de montaje/exposición/desmontaje.",
-      "checked": "2026-11-04",
+      "proof": "Página oficial actual de edición concreta confirma fechas y límite de edad; entrada de expositor no sustituye visitor registration.",
+      "checked": "2026-11-05",
       "status": "Idea",
-      "note": "Exposición2–6 de marzo;7–9 de marzo es desmontaje, sin días adicionales de visita. Prohibición infantil confirmada en el fact sheet oficial.",
+      "note": "FAQ actual enumera TaiNEX 1 y 2; application kit verificado antes también nombraba TWTC Hall 1. Discrepancia de recintos requiere plano actual antes del viaje. 7–9 de marzo son desmontaje según kit, no días de visita adicionales.",
       "iso": [
         "TWN"
       ],
@@ -2564,18 +2585,22 @@
       "language_certainty": "EN confirmado para el documento, no para todas las ponencias",
       "exhibition_tier": "global",
       "visitor_policy": "adults_only",
-      "visitor_policy_note": "Acceso oficialmente prohibido a menores de 12; Matvey y Oscar no cumplen la edad.",
+      "visitor_policy_note": "Reglas vigentes de 2027: entrada prohibida a menores de 12. Matvey y Oscar no admitidos; registro profesional adulto no cambia esta regla.",
       "highlights": [
         "Robotics & Automation e Industrial AI figuran en el perfil oficial"
       ],
       "exhibitor_note": "Lista de empresas y programa de ponencias sin verificar por separado",
       "exhibitor_directory_url": "",
-      "adult_entry": "Verificar requisitos y tarifa del visitante adulto; reglas de expositor distintas de visitor registration.",
+      "adult_entry": "Trade professionals, buyers y enthusiasts; registro anticipado gratuito y badge. 2–6 de marzo 10:00–18:00. Menores de 12 estrictamente prohibidos sin excepciones.",
       "admission_kind": "visitor",
       "references": [
         {
           "label": "Web oficial TIMTOS",
           "url": "https://www.timtos.com.tw/en/index.html"
+        },
+        {
+          "url": "https://www.timtos.com.tw/en/menu/24D4D472FDE8F915D0636733C6861689/info.html",
+          "label": "Reglas de visitantes 2027 y edad mínima de 12+"
         }
       ],
       "venue": "Taipei Nangang Exhibition Center / TWTC",
@@ -2586,7 +2611,8 @@
       ],
       "language_mode": "materials",
       "registration_status": "Registro de visitantes y entradas familiares no tramitados",
-      "exhibitors": []
+      "exhibitors": [],
+      "visitor_age_min": 12
     },
     {
       "block": "Competiciones",
