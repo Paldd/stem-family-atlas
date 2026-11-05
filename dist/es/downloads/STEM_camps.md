@@ -41142,6 +41142,358 @@ Limitaciones: Matvey: Edad en año del programa 8–9; fecha exacta de nacimient
 Fuente: https://www.sor.com.sg/holiday-program-nov-dec-2026
 Se ha comprobado: 2026-11-04
 
+### CP1150-20261204-20261208 · Quimpi · Puente de diciembre · 4–8 de diciembre de 2026 · llegada / salida por la tarde · 2026-12-04–2026-12-08
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2026-12-04 — 2026-12-08
+Edad: 6–14 años
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 200 EUR por hijo / 5 días y 4 noches. Dos hijos = 400 EUR sin descuentos ni viaje; cálculo con precio publicado. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/puente-de-diciembre/
+Se ha comprobado: 2026-11-04
+
+### CP1151-20261222-20270103 · Quimpi · Navidad 2026/27 · 22 de diciembre de 2026 – 3 de enero de 2027 · 13 días / 12 noches · 2026-12-22–2027-01-03
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2026-12-22 — 2027-01-03
+edad: Edad de sesión navideña concreta sin publicar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Precio de sesión navideña sin publicar; 200 EUR corresponde a otro programa de diciembre y no se traslada aquí. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/navidad/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270705-20270709 · Quimpi · Verano 2027 · De día · Semana 1 · modalidad elegida · 2027-07-05–2027-07-09
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-05 - 2027-07-09
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270712-20270716 · Quimpi · Verano 2027 · De día · Semana 2 · modalidad elegida · 2027-07-12–2027-07-16
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-12 — 2027-07-16
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270719-20270723 · Quimpi · Verano 2027 · De día · Semana 3 · modalidad elegida · 2027-07-19–2027-07-23
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-19 国 2027-07-23
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270726-20270730 · Quimpi · Verano 2027 · De día · Semana 4 · modalidad elegida · 2027-07-26–2027-07-30
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270802-20270806 · Quimpi · Verano 2027 · De día · Semana 5 · modalidad elegida · 2027-08-02–2027-08-06
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-02 - 2027-08-06
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270809-20270813 · Quimpi · Verano 2027 · De día · Semana 6 · modalidad elegida · 2027-08-09–2027-08-13
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-09 — 2027-08-13
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270816-20270820 · Quimpi · Verano 2027 · De día · Semana 7 · modalidad elegida · 2027-08-16–2027-08-20
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-16 — 2027-08-20
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1152-20270823-20270827 · Quimpi · Verano 2027 · De día · Semana 8 · modalidad elegida · 2027-08-23–2027-08-27
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-23 — 2027-08-27
+edad: 4–13 años · modalidad diurna
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270705-20270709 · Quimpi · Verano 2027 · Día y noche · Semana 1 · modalidad elegida · 2027-07-05–2027-07-09
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-05 - 2027-07-09
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270712-20270716 · Quimpi · Verano 2027 · Día y noche · Semana 2 · modalidad elegida · 2027-07-12–2027-07-16
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-12 — 2027-07-16
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270719-20270723 · Quimpi · Verano 2027 · Día y noche · Semana 3 · modalidad elegida · 2027-07-19–2027-07-23
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-19 国 2027-07-23
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270726-20270730 · Quimpi · Verano 2027 · Día y noche · Semana 4 · modalidad elegida · 2027-07-26–2027-07-30
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270802-20270806 · Quimpi · Verano 2027 · Día y noche · Semana 5 · modalidad elegida · 2027-08-02–2027-08-06
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-02 - 2027-08-06
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270809-20270813 · Quimpi · Verano 2027 · Día y noche · Semana 6 · modalidad elegida · 2027-08-09–2027-08-13
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-09 — 2027-08-13
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270816-20270820 · Quimpi · Verano 2027 · Día y noche · Semana 7 · modalidad elegida · 2027-08-16–2027-08-20
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-16 — 2027-08-20
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1153-20270823-20270827 · Quimpi · Verano 2027 · Día y noche · Semana 8 · modalidad elegida · 2027-08-23–2027-08-27
+
+lugar: España · Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.
+Fecha: 2027-08-23 — 2027-08-27
+edad: 6–13 años · residencial
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación. Pago: Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar.
+Fuente: https://www.quimpi.com/campamentos/verano/
+Se ha comprobado: 2026-11-04
+
+### CP1154-20261222-20270107 · Gándara International School · Navidad · Ventana de 22 de diciembre de 2026 – 7 de enero de 2027; días festivos / laborables interiores sin enumerar. · 2026-12-22–2027-01-07
+
+lugar: España · Gondomar · Pontevedra · Lugar de Moureira, 1, Mañufe
+Fecha: 2026-12-22 — 2027-01-07
+Edad: 3*12 años
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Familia externa: 100 EUR por semana o 225 EUR por campamento completo por hijo; ambos completo = 450 EUR sin descuentos. Miembros del colegio 80 / 200 EUR. Impuestos aplicables incluidos según condiciones generales; confirmar ampliación y comida aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Suplementos: Coste de entrada anticipada, salida tardía, comida, traslado y alojamiento familiar sin acreditar. Pago: Según condiciones de campamentos: más de 2 semanas antes, devolución 100%; entre 2 semanas y 72 horas, 50%; menos de 72 horas / ausencia, sin devolución. Días no usados no se recuperan. Confirmación por email y pago; fianza de 50 EUR corresponde a cumpleaños, no campamento.
+Fuente: https://gandaraschool.com/es/campamento-navidad
+Se ha comprobado: 2026-11-04
+
+### CP1155-20261116-20270115 · Cybroid · Tech Fun Camp · Robotics and Electronics · Robotics and Electronics · 2026-11-16–2027-01-15
+
+lugar: Uganda · Kampala · Kansanga Complex, Level 2, near KIU
+Fecha: 2026-11-16 — 2027-01-15
+Edad: 7–15 años; grupo menor Explorers 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida. Suplementos: Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar. Pago: Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial.
+Fuente: https://cybroid.com/events/tech-fun-camp-2026
+Se ha comprobado: 2026-11-04
+
+### CP1156-20261116-20270115 · Cybroid · Tech Fun Camp · Coding and Games · Coding and Games · 2026-11-16–2027-01-15
+
+lugar: Uganda · Kampala · Kansanga Complex, Level 2, near KIU
+Fecha: 2026-11-16 — 2027-01-15
+Edad: 7–15 años; grupo menor Explorers 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida. Suplementos: Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar. Pago: Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial.
+Fuente: https://cybroid.com/events/tech-fun-camp-2026
+Se ha comprobado: 2026-11-04
+
+### CP1157-20261116-20270115 · Cybroid · Tech Fun Camp · AI for Kids · AI for Kids · 2026-11-16–2027-01-15
+
+lugar: Uganda · Kampala · Kansanga Complex, Level 2, near KIU
+Fecha: 2026-11-16 — 2027-01-15
+Edad: 7–15 años; grupo menor Explorers 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Oscar: Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida. Suplementos: Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar. Pago: Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial.
+Fuente: https://cybroid.com/events/tech-fun-camp-2026
+Se ha comprobado: 2026-11-04
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

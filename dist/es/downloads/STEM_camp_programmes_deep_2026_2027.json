@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1149,
-    "countries": 40,
+    "dossiers": 1160,
+    "countries": 41,
     "swiss": 128,
     "by_status": {
-      "published_2026_27": 126,
-      "published_2027": 307,
+      "published_2026_27": 132,
+      "published_2027": 309,
       "partial_2027": 114,
       "next_unannounced": 232,
       "published_2026": 236,
-      "partial_2026_27": 18,
+      "partial_2026_27": 21,
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1738
+    "source_urls": 1749
   },
   "countries": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "country": "España",
-      "count": 92
+      "count": 97
     },
     {
       "country": "Reino Unido",
@@ -96,7 +96,7 @@
     },
     {
       "country": "Costa Rica",
-      "count": 37
+      "count": 40
     },
     {
       "country": "México",
@@ -205,6 +205,10 @@
     {
       "country": "Liechtenstein",
       "count": 2
+    },
+    {
+      "country": "Uganda",
+      "count": 3
     }
   ],
   "profiles": [
@@ -143719,6 +143723,2668 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1150",
+      "slug": "quimpi-december-2026",
+      "provider": "Quimpi · Puente de diciembre",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–14 años",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "4–8 de diciembre de 2026: 5 días / 4 noches, llegada y salida por la tarde sin hora exacta. Naturaleza, orientación, manualidades, cultura navideña, Forestal Park e iniciación astronómica. Campamento general con ciencia, no competición robótica.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "4–8 de diciembre de 2026 · llegada / salida por la tarde",
+        "sessions": [
+          [
+            "2026-12-04",
+            "2026-12-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-04",
+            "end": "2026-12-08",
+            "label": "4–8 de diciembre de 2026 · llegada / salida por la tarde",
+            "source": "https://www.quimpi.com/campamentos/puente-de-diciembre/",
+            "date_scope": "camp_session",
+            "price": "200 EUR por hijo / 5 días y 4 noches. Dos hijos = 400 EUR sin descuentos ni viaje; cálculo con precio publicado.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 200,
+        "unit": "stay",
+        "label": "200 EUR por hijo / 5 días y 4 noches. Dos hijos = 400 EUR sin descuentos ni viaje; cálculo con precio publicado.",
+        "included": "Página del puente incluye alojamiento, pensión completa, excursiones y entradas, actividades, especialistas, monitores 24 horas y seguros. Precio del programa, no de todo el viaje familiar.",
+        "extras": "Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación.",
+        "deposit": "Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar."
+      },
+      "accommodation": "Residencial de 4 noches; confirmar habitación concreta y ratio nocturna.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Puente de diciembre: edad, precio e inclusiones",
+          "url": "https://www.quimpi.com/campamentos/puente-de-diciembre/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-04",
+          "end": "2026-12-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1150-20261204-20261208"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1151",
+      "slug": "quimpi-christmas-2026-27",
+      "provider": "Quimpi · Navidad 2026/27",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Edad de sesión navideña concreta sin publicar.",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "22 de diciembre de 2026 – 3 de enero de 2027: 13 días / 12 noches; llegada 12:00 el primer día, salida después del desayuno sin hora exacta. Teide, Museo de la Ciencia y el Cosmos, Starlight, naturaleza, parques, kayak y programa festivo. Edad sin indicar en esta ficha.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "22 de diciembre de 2026 – 3 de enero de 2027 · 13 días / 12 noches",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2027-01-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2027-01-03",
+            "label": "22 de diciembre de 2026 – 3 de enero de 2027 · 13 días / 12 noches",
+            "source": "https://www.quimpi.com/campamentos/navidad/",
+            "date_scope": "camp_session",
+            "price": "Precio de sesión navideña sin publicar; 200 EUR corresponde a otro programa de diciembre y no se traslada aquí.",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "stay",
+        "label": "Precio de sesión navideña sin publicar; 200 EUR corresponde a otro programa de diciembre y no se traslada aquí.",
+        "included": "Descrito programa con pernoctación y excursiones; solicitar composición completa de tarifa.",
+        "extras": "Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación.",
+        "deposit": "Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar."
+      },
+      "accommodation": "12 noches en campamento; confirmar personal, habitación, seguro y acompañamiento nocturno de esta sesión.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Plan navideño completo por días",
+          "url": "https://www.quimpi.com/campamentos/navidad/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2027-01-03",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1151-20261222-20270103"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1152",
+      "slug": "quimpi-summer-day-2027",
+      "provider": "Quimpi · Verano 2027 · De día",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–13 años · modalidad diurna",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Verano 2027: ocho semanas de lunes a viernes desde 5 de julio hasta 27 de agosto. Naturaleza, deporte, manualidades y teatro; observación estelar nocturna declarada en residencial. Astronomía no convierte campamento en curso de IA o robótica. Web 2027 enlaza PDF en carpetas 2026 y 2024. Son ejemplos y lista de equipo, no prueba de horarios, transporte, precios o condiciones vigentes 2027. Usadas fechas HTML actuales y atributos de tarifas del calculador; horarios discrepan con PDF.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 semanas separadas de lunes a viernes; pernoctación solo en modalidad residencial elegida.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-23",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Semana 1 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Semana 2 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Semana 3 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Semana 4 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Semana 5 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-08-02",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-03",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-04",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-05",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-06",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Semana 6 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-08-09",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-10",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-11",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-12",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-13",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Semana 7 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-08-16",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-17",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-18",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-19",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-20",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          },
+          {
+            "start": "2027-08-23",
+            "end": "2027-08-27",
+            "label": "Semana 8 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "session_days",
+            "price": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2027-08-23",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-24",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-25",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-26",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              },
+              {
+                "date": "2027-08-27",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "timezone": "Atlantic/Canary",
+                "ical_timed": true,
+                "topic": "Quimpi · De día"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 150,
+        "unit": "week",
+        "label": "150 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 270 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+        "included": "Desayuno, comida, merienda y actividades de lunes a viernes.",
+        "extras": "Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación.",
+        "deposit": "Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar."
+      },
+      "accommodation": "Lunes a viernes 08:00–16:00, sin pernoctación. Alojamiento parental aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Fechas, modalidades y calculador actuales 2027",
+          "url": "https://www.quimpi.com/campamentos/verano/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Ejemplo diurno enlazado; versión distinta de 2027",
+          "url": "https://www.quimpi.com/pdf/2026/CAMPAMENTOS%20DE%20DIA%20-%20ANEXOS.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Lista antigua enlazada de equipo residencial",
+          "url": "https://www.quimpi.com/pdf/2024/CAMPAMENTOS%20NOCTURNOS%20-%20ANEXOS.pdf",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270705-20270709"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270712-20270716"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270719-20270723"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270726-20270730"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270802-20270806"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270809-20270813"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270816-20270820"
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1152-20270823-20270827"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1153",
+      "slug": "quimpi-summer-boarding-2027",
+      "provider": "Quimpi · Verano 2027 · Día y noche",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Tenerife · Las Lagunetas · TF-24, km 16,3; oficina de La Esperanza no es sede del campamento.",
+      "themes": [
+        "general",
+        "science",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "6–13 años · residencial",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Verano 2027: ocho semanas de lunes a viernes desde 5 de julio hasta 27 de agosto. Naturaleza, deporte, manualidades y teatro; observación estelar nocturna declarada en residencial. Astronomía no convierte campamento en curso de IA o robótica. Web 2027 enlaza PDF en carpetas 2026 y 2024. Son ejemplos y lista de equipo, no prueba de horarios, transporte, precios o condiciones vigentes 2027. Usadas fechas HTML actuales y atributos de tarifas del calculador; horarios discrepan con PDF.",
+      "timing": {
+        "status": "published_2027",
+        "label": "8 semanas separadas de lunes a viernes; pernoctación solo en modalidad residencial elegida.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-06"
+          ],
+          [
+            "2027-08-09",
+            "2027-08-13"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-20"
+          ],
+          [
+            "2027-08-23",
+            "2027-08-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Semana 1 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Semana 2 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Semana 3 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Semana 4 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-06",
+            "label": "Semana 5 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-08-09",
+            "end": "2027-08-13",
+            "label": "Semana 6 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-20",
+            "label": "Semana 7 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          },
+          {
+            "start": "2027-08-23",
+            "end": "2027-08-27",
+            "label": "Semana 8 · modalidad elegida",
+            "source": "https://www.quimpi.com/campamentos/verano/",
+            "date_scope": "camp_session",
+            "price": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 270,
+        "unit": "week",
+        "label": "270 EUR por hijo / semana; descuento del segundo hermano de 20% resulta en 486 EUR por ambos en una misma semana, cálculo sin viaje. Calculador llama precio orientativo; operador confirma factura final.",
+        "included": "Pensión completa y pernoctación de lunes a viernes.",
+        "extras": "Vuelos, alojamiento de padres y traslado aeroportuario sin valorar. Confirmar por escrito cobertura de seguro, traslados locales y cancelación.",
+        "deposit": "Formulario es solicitud; operador confirma plaza y pago por email o WhatsApp. Familia sin registrar."
+      },
+      "accommodation": "Lunes 10:00 – viernes 16:00, 4 noches en casetas / refugios con literas dentro de recinto vallado. Fines de semana excluidos.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 9–10; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 6–7; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Fechas, modalidades y calculador actuales 2027",
+          "url": "https://www.quimpi.com/campamentos/verano/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Ejemplo diurno enlazado; versión distinta de 2027",
+          "url": "https://www.quimpi.com/pdf/2026/CAMPAMENTOS%20DE%20DIA%20-%20ANEXOS.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Lista antigua enlazada de equipo residencial",
+          "url": "https://www.quimpi.com/pdf/2024/CAMPAMENTOS%20NOCTURNOS%20-%20ANEXOS.pdf",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270705-20270709"
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270712-20270716"
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270719-20270723"
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270726-20270730"
+          ]
+        },
+        {
+          "start": "2027-08-02",
+          "end": "2027-08-06",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270802-20270806"
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270809-20270813"
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270816-20270820"
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1153-20270823-20270827"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1154",
+      "slug": "gandara-christmas-2026-27",
+      "provider": "Gándara International School · Navidad",
+      "country": "España",
+      "iso": "ESP",
+      "place": "Gondomar · Pontevedra · Lugar de Moureira, 1, Mañufe",
+      "themes": [
+        "general",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "3–12 años",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "22 de diciembre de 2026 – 7 de enero de 2027, excepto festivos. Campamento diurno 09:00–14:00, ampliación 08:30–15:30. Creatividad, cocina, arte sensorial, aire libre, cuentos y música. Tres periodos elegibles en formulario no acreditan clases en fin de semana; confirmar días exactos.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Ventana de 22 de diciembre de 2026 – 7 de enero de 2027; días festivos / laborables interiores sin enumerar.",
+        "sessions": [
+          [
+            "2026-12-22",
+            "2027-01-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-22",
+            "end": "2027-01-07",
+            "label": "Ventana de 22 de diciembre de 2026 – 7 de enero de 2027; días festivos / laborables interiores sin enumerar.",
+            "source": "https://gandaraschool.com/es/campamento-navidad",
+            "date_scope": "camp_window",
+            "price": "Familia externa: 100 EUR por semana o 225 EUR por campamento completo por hijo; ambos completo = 450 EUR sin descuentos. Miembros del colegio 80 / 200 EUR. Impuestos aplicables incluidos según condiciones generales; confirmar ampliación y comida aparte.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              }
+            }
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 225,
+        "unit": "full_camp_nonmember",
+        "tax_included": true,
+        "label": "Familia externa: 100 EUR por semana o 225 EUR por campamento completo por hijo; ambos completo = 450 EUR sin descuentos. Miembros del colegio 80 / 200 EUR. Impuestos aplicables incluidos según condiciones generales; confirmar ampliación y comida aparte.",
+        "included": "Programa básico y seguro de responsabilidad civil / accidentes según condiciones generales de campamentos.",
+        "extras": "Coste de entrada anticipada, salida tardía, comida, traslado y alojamiento familiar sin acreditar.",
+        "deposit": "Según condiciones de campamentos: más de 2 semanas antes, devolución 100%; entre 2 semanas y 72 horas, 50%; menos de 72 horas / ausencia, sin devolución. Días no usados no se recuperan. Confirmación por email y pago; fianza de 50 EUR corresponde a cumpleaños, no campamento."
+      },
+      "accommodation": "Programa diurno sin pernoctación. Alojamiento y acompañamiento familiar aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Programa navideño y precios de externos",
+          "url": "https://gandaraschool.com/es/campamento-navidad",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Condiciones de campamentos: precio, cancelación y seguros",
+          "url": "https://gandaraschool.com/es/condiciones-de-contratacion",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-22",
+          "end": "2027-01-07",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1154-20261222-20270107"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1155",
+      "slug": "cybroid-tech-fun-robotics-2026-27",
+      "provider": "Cybroid · Tech Fun Camp · Robotics and Electronics",
+      "country": "Uganda",
+      "iso": "UGA",
+      "place": "Kampala · Kansanga Complex, Level 2, near KIU",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–15 años; grupo menor Explorers 7–10",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Circuitos, Arduino y coche robot autónomo. Se elige una vía durante todo el bootcamp. Grupos Explorers 7–10 y Builders 11–15. Lunes a viernes 09:00–12:00: primera parte 16 de noviembre – 18 de diciembre de 2026, segunda 4–15 de enero de 2027. Resultan 35 mañanas publicadas, 105 horas de horario; pausas internas sin detallar. Final con Demo Day familiar y certificado del operador, no victoria internacional.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "16 de noviembre de 2026 – 15 de enero de 2027; pausa invernal de 19 de diciembre – 3 de enero, sin clases de fin de semana.",
+        "sessions": [
+          [
+            "2026-11-16",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-16",
+            "end": "2027-01-15",
+            "label": "Robotics and Electronics",
+            "source": "https://cybroid.com/events/tech-fun-camp-2026",
+            "date_scope": "session_days",
+            "price": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2026-11-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Robotics and Electronics"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "UGX",
+        "amount": 450000,
+        "unit": "selected_bootcamp_track",
+        "early_bird_amount": 380000,
+        "early_bird_until": "2026-11-15",
+        "label": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+        "included": "Declaradas clases de vía elegida, Demo Day familiar y certificado; inclusión de kit y dispositivo sin acreditar expresamente.",
+        "extras": "Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar.",
+        "deposit": "Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial."
+      },
+      "accommodation": "Programa diurno sin pernoctación. Alojamiento y acompañamiento familiar aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Ficha primaria de bootcamp infantil",
+          "url": "https://cybroid.com/events/tech-fun-camp-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Página general de reembolsos; aplicación al campamento desconocida",
+          "url": "https://cybroid.com/legal/refunds",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-16",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1155-20261116-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1156",
+      "slug": "cybroid-tech-fun-coding-2026-27",
+      "provider": "Cybroid · Tech Fun Camp · Coding and Games",
+      "country": "Uganda",
+      "iso": "UGA",
+      "place": "Kampala · Kansanga Complex, Level 2, near KIU",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–15 años; grupo menor Explorers 7–10",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Scratch, juegos y animación; Python para mayores, sin promesa automática de Python al grupo menor. Se elige una vía durante todo el bootcamp. Grupos Explorers 7–10 y Builders 11–15. Lunes a viernes 09:00–12:00: primera parte 16 de noviembre – 18 de diciembre de 2026, segunda 4–15 de enero de 2027. Resultan 35 mañanas publicadas, 105 horas de horario; pausas internas sin detallar. Final con Demo Day familiar y certificado del operador, no victoria internacional.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "16 de noviembre de 2026 – 15 de enero de 2027; pausa invernal de 19 de diciembre – 3 de enero, sin clases de fin de semana.",
+        "sessions": [
+          [
+            "2026-11-16",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-16",
+            "end": "2027-01-15",
+            "label": "Coding and Games",
+            "source": "https://cybroid.com/events/tech-fun-camp-2026",
+            "date_scope": "session_days",
+            "price": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2026-11-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "Coding and Games"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "UGX",
+        "amount": 450000,
+        "unit": "selected_bootcamp_track",
+        "early_bird_amount": 380000,
+        "early_bird_until": "2026-11-15",
+        "label": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+        "included": "Declaradas clases de vía elegida, Demo Day familiar y certificado; inclusión de kit y dispositivo sin acreditar expresamente.",
+        "extras": "Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar.",
+        "deposit": "Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial."
+      },
+      "accommodation": "Programa diurno sin pernoctación. Alojamiento y acompañamiento familiar aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Ficha primaria de bootcamp infantil",
+          "url": "https://cybroid.com/events/tech-fun-camp-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Página general de reembolsos; aplicación al campamento desconocida",
+          "url": "https://cybroid.com/legal/refunds",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-16",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1156-20261116-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1157",
+      "slug": "cybroid-tech-fun-ai-2026-27",
+      "provider": "Cybroid · Tech Fun Camp · AI for Kids",
+      "country": "Uganda",
+      "iso": "UGA",
+      "place": "Kampala · Kansanga Complex, Level 2, near KIU",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–15 años; grupo menor Explorers 7–10",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Entrenar reconocimiento de imágenes / sonidos e incorporar resultado a juego propio. Se elige una vía durante todo el bootcamp. Grupos Explorers 7–10 y Builders 11–15. Lunes a viernes 09:00–12:00: primera parte 16 de noviembre – 18 de diciembre de 2026, segunda 4–15 de enero de 2027. Resultan 35 mañanas publicadas, 105 horas de horario; pausas internas sin detallar. Final con Demo Day familiar y certificado del operador, no victoria internacional.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "16 de noviembre de 2026 – 15 de enero de 2027; pausa invernal de 19 de diciembre – 3 de enero, sin clases de fin de semana.",
+        "sessions": [
+          [
+            "2026-11-16",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-16",
+            "end": "2027-01-15",
+            "label": "AI for Kids",
+            "source": "https://cybroid.com/events/tech-fun-camp-2026",
+            "date_scope": "session_days",
+            "price": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2026-11-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Kampala",
+                "ical_timed": true,
+                "topic": "AI for Kids"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "UGX",
+        "amount": 450000,
+        "unit": "selected_bootcamp_track",
+        "early_bird_amount": 380000,
+        "early_bird_until": "2026-11-15",
+        "label": "Una vía elegida del bootcamp: 380000 UGX hasta 15 de noviembre, después 450000 UGX; dos participantes admitidos a precio ordinario = 900000 UGX, cálculo sin descuentos. Oscar al inicio no alcanza mínimo. Cartel dice before 15th Nov, texto until 15 Nov; confirmar límite exacto del descuento. Condición de precio, no cierre de registro.",
+        "included": "Declaradas clases de vía elegida, Demo Day familiar y certificado; inclusión de kit y dispositivo sin acreditar expresamente.",
+        "extras": "Impuestos, portátil, kit para casa, comida, transporte y alojamiento familiar sin valorar.",
+        "deposit": "Pago al reservar; operador promete confirmación por email tras pago. Página general de reembolsos trata suscripciones y materiales; regla de 14 días sin confirmar para este bootcamp infantil presencial."
+      },
+      "accommodation": "Programa diurno sin pernoctación. Alojamiento y acompañamiento familiar aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Al inicio en noviembre de 2026 aún no cumple 7; incorporación en enero tras cumpleaños no está prometida."
+        }
+      },
+      "editorial_reason": "Candidato editorial por programa publicado y transparencia; sin acreditar clasificación mundial independiente de calidad.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Ficha primaria de bootcamp infantil",
+          "url": "https://cybroid.com/events/tech-fun-camp-2026",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Página general de reembolsos; aplicación al campamento desconocida",
+          "url": "https://cybroid.com/legal/refunds",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-16",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1157-20261116-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1158",
+      "slug": "newhope-steam-2026-27",
+      "provider": "New Hope · STEAM Program",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.",
+      "themes": [
+        "robotics",
+        "science",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad / curso del programa elegido sin indicar; no trasladar rango escolar.",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Robótica, Science Lab, arte, música, Mini Chef, deporte y ambiente. Proporción de robótica e idioma STEAM desconocidos. Formulario público actual New Hope incluye direcciones institucionales, pero no se halló enlace directo desde web actual. Web escolar acredita operador y modalidades lingüísticas generales; confirmar atribución del formulario, sede, edad y admisión externa antes de registrar.",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.",
+        "sessions": [],
+        "session_details": [],
+        "unverified_periods": [
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "source": "https://form.jotform.com/252805351014851"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "source": "https://form.jotform.com/252805351014851"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "programme",
+        "label": "Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.",
+        "included": "Programa elegido descrito; inclusión de comida, materiales y equipo sin confirmar.",
+        "extras": "Formulario ofrece almuerzo / merienda como elección separada; suplemento, transporte y equipo desconocidos.",
+        "deposit": "Hay elección de pago en caja o solicitud de enlace; reembolso, anticipo, plazo y confirmación de plaza sin publicar."
+      },
+      "accommodation": "Modalidad diurna 07:00–16:00; confirmar días exactos, festivos y ampliación.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        }
+      },
+      "editorial_reason": "Candidato cercano en Costa Rica con programa publicado; edad, precio y vínculo directo del formulario aún sin confirmar. No incluido en selección superior verificada.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Formulario público actual: programas y periodos",
+          "url": "https://form.jotform.com/252805351014851",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Web escolar: operador, dirección y modalidades lingüísticas generales",
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1159",
+      "slug": "newhope-english-2026-27",
+      "provider": "New Hope · English Program",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.",
+      "themes": [
+        "languages",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad / curso del programa elegido sin indicar; no trasladar rango escolar.",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Nivelación de inglés y actividades bilingües. Web escolar describe por separado English Summer Camp íntegramente EN y English Summer School más formal; correspondencia de este formulario con uno concreto sin acreditar. Formulario público actual New Hope incluye direcciones institucionales, pero no se halló enlace directo desde web actual. Web escolar acredita operador y modalidades lingüísticas generales; confirmar atribución del formulario, sede, edad y admisión externa antes de registrar.",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.",
+        "sessions": [],
+        "session_details": [],
+        "unverified_periods": [
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "source": "https://form.jotform.com/252805351014851"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "source": "https://form.jotform.com/252805351014851"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "programme",
+        "label": "Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.",
+        "included": "Programa elegido descrito; inclusión de comida, materiales y equipo sin confirmar.",
+        "extras": "Formulario ofrece almuerzo / merienda como elección separada; suplemento, transporte y equipo desconocidos.",
+        "deposit": "Hay elección de pago en caja o solicitud de enlace; reembolso, anticipo, plazo y confirmación de plaza sin publicar."
+      },
+      "accommodation": "Modalidad diurna 07:00–12:00; confirmar días exactos, festivos y ampliación.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        }
+      },
+      "editorial_reason": "Candidato cercano en Costa Rica con programa publicado; edad, precio y vínculo directo del formulario aún sin confirmar. No incluido en selección superior verificada.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Formulario público actual: programas y periodos",
+          "url": "https://form.jotform.com/252805351014851",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Web escolar: operador, dirección y modalidades lingüísticas generales",
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1160",
+      "slug": "newhope-sports-2026-27",
+      "provider": "New Hope · Sports Program",
+      "country": "Costa Rica",
+      "iso": "CRI",
+      "place": "Heredia · Santa Bárbara · San Juan; dirección escolar, sede de campamento concreto aún por confirmar.",
+      "themes": [
+        "sport",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad / curso del programa elegido sin indicar; no trasladar rango escolar.",
+      "language": "Idioma EN/ES/RU de actividades concretas sin acreditar expresamente. Idioma de web, cartel o programa escolar no acredita idioma de esta sesión.",
+      "confirmed_instruction_languages": [],
+      "programme": "Natación, voleibol, fútbol y motricidad. Modalidad deportiva, no robótica ni liga deportiva. Formulario público actual New Hope incluye direcciones institucionales, pero no se halló enlace directo desde web actual. Web escolar acredita operador y modalidades lingüísticas generales; confirmar atribución del formulario, sede, edad y admisión externa antes de registrar.",
+      "timing": {
+        "status": "partial_2026_27",
+        "label": "Formulario actual: 2–18 de diciembre de 2026 y 4–29 de enero de 2027. Caché de búsqueda contenía otros días finales / iniciales; horario diario desconocido. Hasta confirmar vínculo del formulario con colegio, ventanas excluidas del calendario de sesiones confirmadas.",
+        "sessions": [],
+        "session_details": [],
+        "unverified_periods": [
+          {
+            "start": "2026-12-02",
+            "end": "2026-12-18",
+            "source": "https://form.jotform.com/252805351014851"
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-29",
+            "source": "https://form.jotform.com/252805351014851"
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "CRC",
+        "amount": null,
+        "unit": "programme",
+        "label": "Formulario público no indica importe, unidad de pago ni descuentos; no considerar programa gratuito.",
+        "included": "Programa elegido descrito; inclusión de comida, materiales y equipo sin confirmar.",
+        "extras": "Formulario ofrece almuerzo / merienda como elección separada; suplemento, transporte y equipo desconocidos.",
+        "deposit": "Hay elección de pago en caja o solicitud de enlace; reembolso, anticipo, plazo y confirmación de plaza sin publicar."
+      },
+      "accommodation": "Modalidad diurna 07:00–12:00; confirmar días exactos, festivos y ampliación.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 8–9; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Edad en año de inicio 5–6; cumpleaños exacto y curso desconocidos. Correspondencia de edad no confirma idioma, plaza ni aceptación. Edad de convocatoria elegida sin publicar; no trasladar límite de otro programa."
+        }
+      },
+      "editorial_reason": "Candidato cercano en Costa Rica con programa publicado; edad, precio y vínculo directo del formulario aún sin confirmar. No incluido en selección superior verificada.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad al inicio, idioma del monitor y apoyo infantil, plaza y admisión individual de familia extranjera.",
+        "Obtener precio final, inclusiones, equipo, comida, transporte, seguros y cancelación escrita de sesión elegida."
+      ],
+      "sources": [
+        {
+          "title": "Formulario público actual: programas y periodos",
+          "url": "https://form.jotform.com/252805351014851",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Web escolar: operador, dirección y modalidades lingüísticas generales",
+          "url": "https://complejonewhope.co.cr/quienes-somos/",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -148964,7 +151630,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 143,
+  "version": 144,
   "family_review": {
     "version": 136,
     "asof": "2026-10-06",
@@ -160855,6 +163521,116 @@
       "programme_id": "CP1149",
       "event_id": "CP1149-20261125-20261218-bukit-timah",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1150",
+      "event_id": "CP1150-20261204-20261208",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1151",
+      "event_id": "CP1151-20261222-20270103",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270705-20270709",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270712-20270716",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270719-20270723",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270726-20270730",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270802-20270806",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270809-20270813",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270816-20270820",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1152",
+      "event_id": "CP1152-20270823-20270827",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270705-20270709",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270712-20270716",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270719-20270723",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270726-20270730",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270802-20270806",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270809-20270813",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270816-20270820",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1153",
+      "event_id": "CP1153-20270823-20270827",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1154",
+      "event_id": "CP1154-20261222-20270107",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1155",
+      "event_id": "CP1155-20261116-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1156",
+      "event_id": "CP1156-20261116-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1157",
+      "event_id": "CP1157-20261116-20270115",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -162957,10 +165733,32 @@
     "CP1148-20261202-20261204-bukit-timah-2",
     "CP1148-20261209-20261211-bukit-timah-3",
     "CP1148-20261216-20261218-bukit-timah-4",
-    "CP1149-20261125-20261218-bukit-timah"
+    "CP1149-20261125-20261218-bukit-timah",
+    "CP1150-20261204-20261208",
+    "CP1151-20261222-20270103",
+    "CP1152-20270705-20270709",
+    "CP1152-20270712-20270716",
+    "CP1152-20270719-20270723",
+    "CP1152-20270726-20270730",
+    "CP1152-20270802-20270806",
+    "CP1152-20270809-20270813",
+    "CP1152-20270816-20270820",
+    "CP1152-20270823-20270827",
+    "CP1153-20270705-20270709",
+    "CP1153-20270712-20270716",
+    "CP1153-20270719-20270723",
+    "CP1153-20270726-20270730",
+    "CP1153-20270802-20270806",
+    "CP1153-20270809-20270813",
+    "CP1153-20270816-20270820",
+    "CP1153-20270823-20270827",
+    "CP1154-20261222-20270107",
+    "CP1155-20261116-20270115",
+    "CP1156-20261116-20270115",
+    "CP1157-20261116-20270115"
   ],
   "integration": {
-    "generated_sessions": 2100,
+    "generated_sessions": 2122,
     "reused_legacy_events": 69,
     "seasonal_windows": 55,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
