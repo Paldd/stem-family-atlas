@@ -2838,53 +2838,53 @@ Limitaciones: En la descripción Tech Academy se han conservado fechas antiguas 
 Fuente: https://summer.brillantmont.ch/mornings/tech-academy
 Comprobado: 2026-10-01
 
-### ~#L170 · Lyceum Alpinum Zuoz · Arduino Robotics · siguiente temporada
+### L170 · Lyceum Alpinum Zuoz · Arduino Robotics · elección de curso de 2027
 
 Lugar: Suiza ·Zuoz
-Fecha: No se ha anunciado el siguiente conjunto/ fechas
-Edad: 10–17
-Matvey: Condicional — El futuro turno después de 10-años
-Oscar: No hay al menos 10 años.
+Fecha: Campamentos generales 4–16 y 18–30 de julio de 2027; confirmar curso concreto y plaza de grupo aparte. Fechas de estancia en fichas CP129 enlazadas.
+edad: Residencia general de 2027: 10–17; sin encontrar nuevo límite separado de este curso Digital Skills, confirmar admisión.
+Matvey: Condicional: solo tras cumplir 10 antes de llegada y decisión de grupo.
+Oscar: No: Menos de 10 años.
 Formato: residente
 Idioma: Inglés del curso técnico
 Marca de idioma: primary; soporte: DE, FR
-Costo: Último Flyer2026: CHF5800 / 2 semanas; nueva tarifa desconocida
+Precio: Campamento 2027: CHF 6200 / una sesión, Digital Skills se elige dentro de paquete principal. Requiere portátil propio y seguro adecuado; antiguos CHF 5800 corresponden a 2026.
 Entrada: Seleccione la pista y el grupo publicados; confirme la edad, el idioma, la recepción y los lugares.
-Limitaciones: Variaciones 5–17 y 19–31 julio 2026 Pasados. Fechas futuras desconocidas. Junior Day 6–9 Invita a los idiomas y outdoor; Robots de este programa secundario no confirmado. El reloj del bloque digital se separa de los documentos: 29 horas en comparación con 9 × 3.5; Nuevo plan de estudios.
-Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf
-Comprobado: 2026-10-01
+Limitaciones: Se elige un curso matinal por sesión: ficha de curso, no estancia independiente adicional. 9 clases matinales de 3.25 horas, folleto redondea a 29 horas. Nueve fechas lectivas exactas sin publicar; calendario no incorpora clases diarias inventadas.
+Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf
+Se ha comprobado: 2026-11-05
 
-### ~#L171 · Lyceum Alpinum Zuoz · Python Game Design · próxima temporada
+### L171 · Lyceum Alpinum Zuoz · Python Game Design · elección de curso de 2027
 
 Lugar: Suiza ·Zuoz
-Fecha: No se ha anunciado el siguiente conjunto/ fechas
-Edad: 10–17
-Matvey: Condicional — El futuro turno después de 10-años
-Oscar: No hay al menos 10 años.
+Fecha: Campamentos generales 4–16 y 18–30 de julio de 2027; confirmar curso concreto y plaza de grupo aparte. Fechas de estancia en fichas CP129 enlazadas.
+edad: Residencia general de 2027: 10–17; sin encontrar nuevo límite separado de este curso Digital Skills, confirmar admisión.
+Matvey: Condicional: solo tras cumplir 10 antes de llegada y decisión de grupo.
+Oscar: No: Menos de 10 años.
 Formato: residente
 Idioma: Inglés del curso técnico
 Marca de idioma: primary; soporte: DE, FR
-Costo: Último Flyer2026: CHF5800 / 2 semanas; nueva tarifa desconocida
+Precio: Campamento 2027: CHF 6200 / una sesión, Digital Skills se elige dentro de paquete principal. Requiere portátil propio y seguro adecuado; antiguos CHF 5800 corresponden a 2026.
 Entrada: Seleccione la pista y el grupo publicados; confirme la edad, el idioma, la recepción y los lugares.
-Limitaciones: Variaciones 5–17 y 19–31 julio 2026 Pasados. Fechas desconocidas para la próxima temporada. La pensión general comienza con 10 años; De día Junior Day 6–9 no demostrado como campo digital. Confirmar reloj y nivel Python grupo seleccionado.
-Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf
-Comprobado: 2026-10-01
+Limitaciones: Se elige un curso matinal por sesión: ficha de curso, no estancia independiente adicional. 9 clases matinales de 3.25 horas, folleto redondea a 29 horas. Nueve fechas lectivas exactas sin publicar; calendario no incorpora clases diarias inventadas.
+Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf
+Se ha comprobado: 2026-11-05
 
-### ~#L172 · Lyceum Alpinum Zuoz · AI y machine learning · siguiente temporada
+### L172 · Lyceum Alpinum Zuoz · AI / machine learning · módulo de 2026 y curso nuevo de 2027
 
 Lugar: Suiza ·Zuoz
-Fecha: No se ha anunciado el siguiente conjunto/ fechas
+Fecha: Campamentos generales 4–16 y 18–30 de julio de 2027; confirmar curso concreto y plaza de grupo aparte. Fechas de estancia en fichas CP129 enlazadas.
 Edad: AI track12–15; Pensión total de verano 10–17
 No, ahora que no hay AI track durante 12 años.
 Óscar: No hay al menos 12 años
 Formato: residente
 Idioma: Inglés del curso técnico
 Marca de idioma: primary; soporte: DE, FR
-Costo: Último Flyer2026: CHF5800 / 2 semanas; nueva tarifa desconocida
+Precio: Campamento 2027: CHF 6200 / una sesión, Digital Skills se elige dentro de paquete principal. Requiere portátil propio y seguro adecuado; antiguos CHF 5800 corresponden a 2026.
 Entrada: Seleccione la pista y el grupo publicados; confirme la edad, el idioma, la recepción y los lugares.
-Limitaciones: AI-El módulo está diseñado para 12–15 años, Si bien el régimen general de internado está 10–17. Los dos niños son muy jóvenes.. Fechas 2027 sin confirmar; Cambio de julio 2026 no arrastrados al año siguiente.
-Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2025/09/Flyer-Summer-Camp-2026.pdf
-Comprobado: 2026-10-01
+Limitaciones: AI / machine learning histórico de 2026 era módulo separado de 12–15. Para 2027 se publica otro AI & Innovation / Lean Startup en campamento general de 10–17, no promesa de mismo curso ML. Opción nueva de Matvey solo tras cumplir 10; Oscar menor de 10. Comparar ficha vigente CP129; marca de edad antigua describía módulo anterior.
+Fuente: https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf
+Se ha comprobado: 2026-11-05
 
 ### L173 · Aalto Junior · Scientist camp in English · el siguiente conjunto
 
@@ -12754,9 +12754,9 @@ Idioma: Digital Skills 2027 directamente taught in English; instructores EN/FR. 
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · CHF 6 200 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo si ya llegas. 10; disponibilidad y autorización para verificar. Oscar: Al menos 10; en 2027 Sí. 6–7. Hay una sala de descanso separada. Junior. Gastos adicionales: Vuelo, Médica/accident/liability Seguro familiar; golf-Contratación CHF 450/Campamento. Laptop propia. No se agrega CHF 400 automáticamente sobre el 12 800 sin calcular. Pago: Cancelación antes 30 días sin costo; 29–15 días — 50%; Acérquese. 15 días — sin retorno. Conectada cancellation insurance PDF 2026 no considerado como tratado 2027.
+Limitaciones: Matvey: Sólo si ya llegan a 10 años, estar preparados para el curso y hacer una verificación. Oscar: por lo menos 10; en el 2027 ¿Qué es lo que va a ser? 6–7. hay un día por separado Junior. Suplementos: vuelo, seguro médico/accident/liability de familia; juego de golf de CHF 450/campamento. propio portátil. no añadimos CHF 400 automáticamente sobre 12 800 sin contar. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP129-20270718-20270730 · Lyceum Alpinum Zuoz · Digital Skills Boarding · Camp 2 · Digital Skills Elegido · 2027-07-18–2027-07-30
 
@@ -12770,9 +12770,9 @@ Idioma: Digital Skills 2027 directamente taught in English; instructores EN/FR. 
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · CHF 6 200 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo si ya llegas. 10; disponibilidad y autorización para verificar. Oscar: Al menos 10; en 2027 Sí. 6–7. Hay una sala de descanso separada. Junior. Gastos adicionales: Vuelo, Médica/accident/liability Seguro familiar; golf-Contratación CHF 450/Campamento. Laptop propia. No se agrega CHF 400 automáticamente sobre el 12 800 sin calcular. Pago: Cancelación antes 30 días sin costo; 29–15 días — 50%; Acérquese. 15 días — sin retorno. Conectada cancellation insurance PDF 2026 no considerado como tratado 2027.
+Limitaciones: Matvey: Sólo si ya llegan a 10 años, estar preparados para el curso y hacer una verificación. Oscar: por lo menos 10; en el 2027 ¿Qué es lo que va a ser? 6–7. hay un día por separado Junior. Suplementos: vuelo, seguro médico/accident/liability de familia; juego de golf de CHF 450/campamento. propio portátil. no añadimos CHF 400 automáticamente sobre 12 800 sin contar. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP129-20270704-20270730 · Lyceum Alpinum Zuoz · Digital Skills Boarding · Ambos campamentos · fin de semana de mitad de período · 2027-07-04________________2027-07-30
 
@@ -12786,9 +12786,9 @@ Idioma: Digital Skills 2027 directamente taught in English; instructores EN/FR. 
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · CHF 12 800; situación CHF 400 especificar · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo si ya llegas. 10; disponibilidad y autorización para verificar. Oscar: Al menos 10; en 2027 Sí. 6–7. Hay una sala de descanso separada. Junior. Gastos adicionales: Vuelo, Médica/accident/liability Seguro familiar; golf-Contratación CHF 450/Campamento. Laptop propia. No se agrega CHF 400 automáticamente sobre el 12 800 sin calcular. Pago: Cancelación antes 30 días sin costo; 29–15 días — 50%; Acérquese. 15 días — sin retorno. Conectada cancellation insurance PDF 2026 no considerado como tratado 2027.
+Limitaciones: Matvey: Sólo si ya llegan a 10 años, estar preparados para el curso y hacer una verificación. Oscar: por lo menos 10; en el 2027 ¿Qué es lo que va a ser? 6–7. hay un día por separado Junior. Suplementos: vuelo, seguro médico/accident/liability de familia; juego de golf de CHF 450/campamento. propio portátil. no añadimos CHF 400 automáticamente sobre 12 800 sin contar. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP130-20270705-20270709 · Lyceum Alpinum Zuoz · Junior Day Camp · Junior · Inglés elegido · 2027-07-05ė2027-07-09
 
@@ -12796,15 +12796,15 @@ Lugar: Suiza · Zuoz · Lyceum Alpinum
 Fecha: 2027-07-05 - 2027-07-09
 Edad: 6–9
 Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: Inglés o alemán: lecciones y comunicación en el idioma elegido en el almuerzo/actividad, descrito expresamente en la página.
-Marca de idioma: primary; soporte: no declarado
+Idioma: Para 2027 confirmado curso de idioma EN o DE: 16 clases semanales y fomento de práctica todo el día. No es Digital Skills ni enseñanza técnica en EN. Factsheet enlazado exige idioma elegido no nativo y beginner–intermediate; acordar aplicación y grupo.
+Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 1 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo que aún no. 9; después 10-Este verano. Junior no disponible. Oscar: B 2027 Edad 6–7 Ajustado; seleccionar grupo inglés. Gastos adicionales: Vivienda familiar, Seguro, carretera; ruta pick-up antes St. Moritz / Madulain. Pago: Antes 30 días de cancelación sin costo; 29–15 días — devolución 50%; Acérquese. 15 días sin retorno.
+Limitaciones: Matvey: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Oscar: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Suplementos: vivienda familiar, seguro, carretera; ruta de recogida hasta St. Moritz / Madulain. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP130-20270712-20270716 · Lyceum Alpinum Zuoz · Junior Day Camp · Junior · inglés elegido · 2027-07-12 国2027-07-16
 
@@ -12812,15 +12812,15 @@ Lugar: Suiza · Zuoz · Lyceum Alpinum
 Fecha: 2027-07-12 — 2027-07-16
 Edad: 6–9
 Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: Inglés o alemán: lecciones y comunicación en el idioma elegido en el almuerzo/actividad, descrito expresamente en la página.
-Marca de idioma: primary; soporte: no declarado
+Idioma: Para 2027 confirmado curso de idioma EN o DE: 16 clases semanales y fomento de práctica todo el día. No es Digital Skills ni enseñanza técnica en EN. Factsheet enlazado exige idioma elegido no nativo y beginner–intermediate; acordar aplicación y grupo.
+Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 1 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo que aún no. 9; después 10-Este verano. Junior no disponible. Oscar: B 2027 Edad 6–7 Ajustado; seleccionar grupo inglés. Gastos adicionales: Vivienda familiar, Seguro, carretera; ruta pick-up antes St. Moritz / Madulain. Pago: Antes 30 días de cancelación sin costo; 29–15 días — devolución 50%; Acérquese. 15 días sin retorno.
+Limitaciones: Matvey: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Oscar: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Suplementos: vivienda familiar, seguro, carretera; ruta de recogida hasta St. Moritz / Madulain. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP130-20270719-20270723 · Lyceum Alpinum Zuoz · Junior Day Camp · Junior · inglés elegido · 2027-07-19 CLAIM2027-07-23
 
@@ -12828,15 +12828,15 @@ Lugar: Suiza · Zuoz · Lyceum Alpinum
 Fecha: 2027-07-19 国 2027-07-23
 Edad: 6–9
 Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: Inglés o alemán: lecciones y comunicación en el idioma elegido en el almuerzo/actividad, descrito expresamente en la página.
-Marca de idioma: primary; soporte: no declarado
+Idioma: Para 2027 confirmado curso de idioma EN o DE: 16 clases semanales y fomento de práctica todo el día. No es Digital Skills ni enseñanza técnica en EN. Factsheet enlazado exige idioma elegido no nativo y beginner–intermediate; acordar aplicación y grupo.
+Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 1 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo que aún no. 9; después 10-Este verano. Junior no disponible. Oscar: B 2027 Edad 6–7 Ajustado; seleccionar grupo inglés. Gastos adicionales: Vivienda familiar, Seguro, carretera; ruta pick-up antes St. Moritz / Madulain. Pago: Antes 30 días de cancelación sin costo; 29–15 días — devolución 50%; Acérquese. 15 días sin retorno.
+Limitaciones: Matvey: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Oscar: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Suplementos: vivienda familiar, seguro, carretera; ruta de recogida hasta St. Moritz / Madulain. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP130-20270726-20270730 · Lyceum Alpinum Zuoz · Junior Day Camp · Junior · Inglés elegido · 2027-07-26–2027-07-30
 
@@ -12844,15 +12844,15 @@ Lugar: Suiza · Zuoz · Lyceum Alpinum
 Fecha: 2027-07-26 Å 2027-07-30
 Edad: 6–9
 Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
-Idioma: Inglés o alemán: lecciones y comunicación en el idioma elegido en el almuerzo/actividad, descrito expresamente en la página.
-Marca de idioma: primary; soporte: no declarado
+Idioma: Para 2027 confirmado curso de idioma EN o DE: 16 clases semanales y fomento de práctica todo el día. No es Digital Skills ni enseñanza técnica en EN. Factsheet enlazado exige idioma elegido no nativo y beginner–intermediate; acordar aplicación y grupo.
+Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 1 000 · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Sólo que aún no. 9; después 10-Este verano. Junior no disponible. Oscar: B 2027 Edad 6–7 Ajustado; seleccionar grupo inglés. Gastos adicionales: Vivienda familiar, Seguro, carretera; ruta pick-up antes St. Moritz / Madulain. Pago: Antes 30 días de cancelación sin costo; 29–15 días — devolución 50%; Acérquese. 15 días sin retorno.
+Limitaciones: Matvey: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Oscar: Junior 6–9: Matvey solo mientras tenga 9; tras cumplir diez necesita otro programa. Oscar en 2027 cumple edad de 6–7. Pero language factsheet enlazado por escuela se dirige a NO nativos del idioma elegido y nivel beginner–intermediate: confirmar adecuación de ambos y vigencia para 2027. Poder estudiar todo el día en EN no acredita nivel del curso lingüístico. Página de temporada ofrece EN / DE; francés del factsheet antiguo no se añade como opción 2027. Suplementos: vivienda familiar, seguro, carretera; ruta de recogida hasta St. Moritz / Madulain. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia. Pago: Página actual de 2027: cancelación con 60 o más días sin cargo; con 59–30 días se devuelve 50%; con 29 días o menos sin devolución, incluidos llegada tardía / no-show. Tras aprobar solicitud emiten factura completa pagadera en 15 días; no exige anticipo, plaza reservada tras pago íntegro. No es plazo fijo de inscripción. Sin aceptar condiciones. Seguro de cancelación de 2027 separado: CHF 160 por dos semanas International o CHF 30 por una semana Junior y participante. Desde reserva definitiva solo hasta inicio del campamento; deja de ser válido durante sesión. Incluye enfermedad / accidente, sucesos con allegados, huelgas y otros riesgos enumerados; excluye hechos previsibles / iniciados. No cubre salud durante campamento ni garantiza devolución incondicional; confirmar póliza completa para familia.
 Fuente: https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP131-20270705-20270718 · Collège Champittet · Summer Leadership Camp · Leadership · Junior/Senior · 2027-07-05–2027-07-18
 
@@ -14002,9 +14002,9 @@ Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se ut
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · CHF 4 400 / 2 semanas · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10: La edad mínima es adecuada; Grupo y lugares separados. Oscar: Sólo después 7-años; en 6 años boarding7+ no permitido. Hay una antes de él. day5+. Gastos adicionales: Vuelo y transfer fuera preferred slots por el pago adicional. Aterrizaje Geneva09–16, Vuelo de regreso 11–17 en FAQ. Parent transfer CHF 100/adult de la descripción Geneva→camp→Aigle, no airport round trip. Foto profesional de carácter viable; la aplicación del seguro a los residentes CR/ciudadanos MX/RF y excepciones. Pago: CHF 500 Anticipo no reembolsable del precio, balance por 4 semanas. Downloads contiene viejos Terms2018; actual cancellation y insurance policy2027 Necesito un pago..
+Limitaciones: Matvey: 9–10: la edad mínima es adecuada; grupo y lugares por separado. Oscar: sólo después 7-años; en el 6 años boarding7+ No se permite. Antes de él hay un separado day5+. Suplementos: el vuelo y transfer fuera de preferred slots por el pago adicional. El vuelo Geneva09–16, vuelo de regreso 11–17 en el FAQ. Parent transfer CHF 100/adult se describe Geneva→camp→Aigle, No , no . airport round trip. fotografía profesional opcional; la aplicabilidad del seguro a los residentes CR/a los ciudadanos MX/RF y las excepciones confirmar. Formulario público: Geneva transfer infantil incluido en horario preferido de sábado; fuera de él CHF 250 por trayecto. No presentar como tarifa de padres. Pago: FAQ: anticipo no reembolsable de CHF 500 por participante incluido en tarifa, saldo cuatro semanas antes. Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
 Fuente: https://www.campsuisse.com/register-online/dates-and-prices/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP157-20270703-20270717 · Camp Suisse · International Boarding · Summer · Session 2 · 2027-07-03–2027-07-17
 
@@ -14018,9 +14018,9 @@ Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se ut
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · CHF 4 400 / 2 semanas · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10: La edad mínima es adecuada; Grupo y lugares separados. Oscar: Sólo después 7-años; en 6 años boarding7+ no permitido. Hay una antes de él. day5+. Gastos adicionales: Vuelo y transfer fuera preferred slots por el pago adicional. Aterrizaje Geneva09–16, Vuelo de regreso 11–17 en FAQ. Parent transfer CHF 100/adult de la descripción Geneva→camp→Aigle, no airport round trip. Foto profesional de carácter viable; la aplicación del seguro a los residentes CR/ciudadanos MX/RF y excepciones. Pago: CHF 500 Anticipo no reembolsable del precio, balance por 4 semanas. Downloads contiene viejos Terms2018; actual cancellation y insurance policy2027 Necesito un pago..
+Limitaciones: Matvey: 9–10: la edad mínima es adecuada; grupo y lugares por separado. Oscar: sólo después 7-años; en el 6 años boarding7+ No se permite. Antes de él hay un separado day5+. Suplementos: el vuelo y transfer fuera de preferred slots por el pago adicional. El vuelo Geneva09–16, vuelo de regreso 11–17 en el FAQ. Parent transfer CHF 100/adult se describe Geneva→camp→Aigle, No , no . airport round trip. fotografía profesional opcional; la aplicabilidad del seguro a los residentes CR/a los ciudadanos MX/RF y las excepciones confirmar. Formulario público: Geneva transfer infantil incluido en horario preferido de sábado; fuera de él CHF 250 por trayecto. No presentar como tarifa de padres. Pago: FAQ: anticipo no reembolsable de CHF 500 por participante incluido en tarifa, saldo cuatro semanas antes. Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
 Fuente: https://www.campsuisse.com/register-online/dates-and-prices/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP157-20270717-20270731 · Camp Suisse · International Boarding · Summer · Session 3 · 2027-07-17–2027-07-31
 
@@ -14034,9 +14034,9 @@ Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se ut
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · CHF 4 400 / 2 semanas · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10: La edad mínima es adecuada; Grupo y lugares separados. Oscar: Sólo después 7-años; en 6 años boarding7+ no permitido. Hay una antes de él. day5+. Gastos adicionales: Vuelo y transfer fuera preferred slots por el pago adicional. Aterrizaje Geneva09–16, Vuelo de regreso 11–17 en FAQ. Parent transfer CHF 100/adult de la descripción Geneva→camp→Aigle, no airport round trip. Foto profesional de carácter viable; la aplicación del seguro a los residentes CR/ciudadanos MX/RF y excepciones. Pago: CHF 500 Anticipo no reembolsable del precio, balance por 4 semanas. Downloads contiene viejos Terms2018; actual cancellation y insurance policy2027 Necesito un pago..
+Limitaciones: Matvey: 9–10: la edad mínima es adecuada; grupo y lugares por separado. Oscar: sólo después 7-años; en el 6 años boarding7+ No se permite. Antes de él hay un separado day5+. Suplementos: el vuelo y transfer fuera de preferred slots por el pago adicional. El vuelo Geneva09–16, vuelo de regreso 11–17 en el FAQ. Parent transfer CHF 100/adult se describe Geneva→camp→Aigle, No , no . airport round trip. fotografía profesional opcional; la aplicabilidad del seguro a los residentes CR/a los ciudadanos MX/RF y las excepciones confirmar. Formulario público: Geneva transfer infantil incluido en horario preferido de sábado; fuera de él CHF 250 por trayecto. No presentar como tarifa de padres. Pago: FAQ: anticipo no reembolsable de CHF 500 por participante incluido en tarifa, saldo cuatro semanas antes. Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
 Fuente: https://www.campsuisse.com/register-online/dates-and-prices/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP157-20270731-20270814 · Camp Suisse · International Boarding · Summer · Session 4 · 2027-07-31–2027-08-14
 
@@ -14050,9 +14050,137 @@ Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se ut
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · CHF 4 400 / 2 semanas · y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: 9–10: La edad mínima es adecuada; Grupo y lugares separados. Oscar: Sólo después 7-años; en 6 años boarding7+ no permitido. Hay una antes de él. day5+. Gastos adicionales: Vuelo y transfer fuera preferred slots por el pago adicional. Aterrizaje Geneva09–16, Vuelo de regreso 11–17 en FAQ. Parent transfer CHF 100/adult de la descripción Geneva→camp→Aigle, no airport round trip. Foto profesional de carácter viable; la aplicación del seguro a los residentes CR/ciudadanos MX/RF y excepciones. Pago: CHF 500 Anticipo no reembolsable del precio, balance por 4 semanas. Downloads contiene viejos Terms2018; actual cancellation y insurance policy2027 Necesito un pago..
+Limitaciones: Matvey: 9–10: la edad mínima es adecuada; grupo y lugares por separado. Oscar: sólo después 7-años; en el 6 años boarding7+ No se permite. Antes de él hay un separado day5+. Suplementos: el vuelo y transfer fuera de preferred slots por el pago adicional. El vuelo Geneva09–16, vuelo de regreso 11–17 en el FAQ. Parent transfer CHF 100/adult se describe Geneva→camp→Aigle, No , no . airport round trip. fotografía profesional opcional; la aplicabilidad del seguro a los residentes CR/a los ciudadanos MX/RF y las excepciones confirmar. Formulario público: Geneva transfer infantil incluido en horario preferido de sábado; fuera de él CHF 250 por trayecto. No presentar como tarifa de padres. Pago: FAQ: anticipo no reembolsable de CHF 500 por participante incluido en tarifa, saldo cuatro semanas antes. Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
 Fuente: https://www.campsuisse.com/register-online/dates-and-prices/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
+
+### CP158-20270621-20270625 · Camp Suisse · Day 5–17 · 1 semana diurna · 2027-06-21–2027-06-25
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-06-21 国 2027-06-25
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270628-20270702 · Camp Suisse · Day 5–17 · la semana diurna 2 · 2027-06-28–2027-07-02
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-06-28 — 2027-07-02
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270705-20270709 · Camp Suisse · Day 5–17 · la semana diurna 3 · 2027-07-05–2027-07-09
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-07-05 - 2027-07-09
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270712-20270716 · Camp Suisse · Day 5–17 · semana diurna 4 · 2027-07-12–2027-07-16
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-07-12 — 2027-07-16
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270719-20270723 · Camp Suisse · Day 5–17 · semana diurna 5 · 2027-07-19–2027-07-23
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-07-19 国 2027-07-23
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270726-20270730 · Camp Suisse · Day 5–17 · Semana diurna 6 · 2027-07-26–2027-07-30
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270802-20270806 · Camp Suisse · Day 5–17 · Semana diurna 7 · 2027-08-02–2027-08-06
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-08-02 - 2027-08-06
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
+
+### CP158-20270809-20270813 · Camp Suisse · Day 5–17 · Semana diurna 8 · 2027-08-09–2027-08-13
+
+Lugar: Suiza · Les Crosets · The Télécabine, Route des Crosets 69
+Fecha: 2027-08-09 — 2027-08-13
+edad: 5–17 por el day-page. de la ciudad.7 el alojamiento no se transfiere a day.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: EN camp life confirmado FAQ y Languages: English-speaking camp. FR se utiliza ampliamente. ES/FR/EN — individuales language courses, no prueba todo el programa español. Abrazo language-page se separa: 15 y 18 horas 2 semanas; summer-page mínimo 18 — relojes exactos 2027 Acordar.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2027 · CHF 1000 por niño / cinco días; minibus CHF 20 diarios de ida y vuelta por niño aparte. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: 9–10: day5–17 Es muy adecuado para su edad.. Oscar: 6–7: day5–17 Es muy bueno., boarding7+ No es adecuado hasta el día de nacimiento. Suplementos: Return minibus de la Champéry/Val d’Illiez/Monthey20/día; los padres de la vivienda/la carretera/alimentación por separado. Overnight option120/night incluye dinner/evening/bedding/breakfast, pero el permiso 5–6 no se han fijado años para la noche. Pago: Web sigue enlazando Terms updated for 2018, código BA-DF-04-18-1.0. Tabla retiene deposit al cancelar con más de 56 días; con 56–43 / 42–29 / 28–15 / 14 días o menos cobra 60% / 70% / 80% / 100% del total. Documento publicado enlazado, no promesa de contrato separado de 2027; obtener aplicación a day y versión vigente antes de pagar. Distingue reserva, acknowledgement y Confirmation Invoice. Sin dar consentimiento.
+Fuente: https://www.campsuisse.com/crm/form.php
+Se ha comprobado: 2026-11-05
 
 ### CP159-20270110-20270116 · La Garenne · Super Ski · Super Ski · Session 1 · 2027-01-10–2027-01-16
 
@@ -17156,7 +17284,7 @@ Costo: 2027 - EUR 779 de / 6 días - pagos complementarios y condiciones del exp
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad 9–10 En primavera 2027 Entra en 8–15. Oscar: Al menos 8 años; Oscar en 2026/27 Más. 5–7. Gastos adicionales: Paquete de seguros EUR 60 Por separado; Viajes antes de Lyon / Paris, Comida en tránsito y gastos personales por separado. Personal pre/post-transport no ser considerado como un acompañante permanente. Pago: Fecha pública no confirma el lugar. Antes de escribir, se necesita un contrato actual y una cuenta final..
 Fuente: https://www.americanvillage.fr/sejour/printemps
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP270-20270207-20270213 · Let’s Go Native · Active Winter · Active Winter · Semana del internado · 2027-02-07–2027-02-13
 

@@ -1,0 +1,218 @@
+{
+  "version": 154,
+  "checked": "2026-11-05",
+  "responses": [
+    {
+      "key": "elfes-campus",
+      "url": "https://www.leselfes.com/campus/",
+      "final_url": "https://www.leselfes.com/campus/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1171840,
+      "sha256": "68b6b09dd39e12caf8094af3d93f222e5e486243612879f55490e32e409e66e3"
+    },
+    {
+      "key": "av-spring",
+      "url": "https://www.americanvillage.fr/sejour/printemps",
+      "final_url": "https://www.americanvillage.fr/sejour/printemps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 654518,
+      "sha256": "ed3a47b0a73acd22af48cd43853e14184004fbe79ad0a11eba9cc6c4b59e050a"
+    },
+    {
+      "key": "av-job-dates",
+      "url": "https://www.job-americanvillage.com/en/dates-locations-vacation-camps",
+      "final_url": "https://www.job-americanvillage.com/en/dates-locations-vacation-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 37035,
+      "sha256": "7ad42400466c1800498f1b01f307e7e5b961bc72eac228ddcd79bbf9f5d6b41b"
+    },
+    {
+      "key": "av-home",
+      "url": "https://www.americanvillage.fr/",
+      "final_url": "https://www.americanvillage.fr/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 316038,
+      "sha256": "10c493b3c44c37571577d318575e299ef71aea567d50ea3186a6213276ed9df8"
+    },
+    {
+      "key": "zuoz-junior-pdf-2",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-Junior-Day-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-Junior-Day-Camp-2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 315942,
+      "sha256": "c2202565e535c12146c9f9f0a0e8b4bacb5b0a4f0d505a9d431b6e0d58157a0c"
+    },
+    {
+      "key": "zuoz-junior-pdf-3",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/10/Cancellation-Insurance-International-Summer-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/10/Cancellation-Insurance-International-Summer-Camp-2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 62071,
+      "sha256": "57ee7b240330a54def470f45b0fe8aa04f3ac564746f28a7053bc43cf75250a5"
+    },
+    {
+      "key": "zuoz-boarding-pdf-5",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-International-Summer-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Flyer-International-Summer-Camp-2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 2643306,
+      "sha256": "287d29f40084f159ca5a56bb11e518a398974a0e90c23210b0ed11039ab96bbf"
+    },
+    {
+      "key": "zuoz-boarding-pdf-6",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/10/Cancellation-Insurance-International-Summer-Camp-2027.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/10/Cancellation-Insurance-International-Summer-Camp-2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 62071,
+      "sha256": "57ee7b240330a54def470f45b0fe8aa04f3ac564746f28a7053bc43cf75250a5"
+    },
+    {
+      "key": "suisse-downloads-pdf-0",
+      "url": "https://www.campsuisse.com/wp-content/uploads/2017/11/Terms-updated-for-2018.pdf",
+      "final_url": "https://www.campsuisse.com/wp-content/uploads/2017/11/Terms-updated-for-2018.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 896493,
+      "sha256": "01219a77cb6ba1fcec1b02c6116932c37fec883ed91a3f37c53def325a5f17aa"
+    },
+    {
+      "key": "suisse-dates",
+      "url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+      "final_url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67963,
+      "sha256": "6fa74633d45d41c5c1161da1dc4477e2d3b08fad59c73c79ab103ebd7b1aa9f0"
+    },
+    {
+      "key": "suisse-day",
+      "url": "https://www.campsuisse.com/day-camp-dates-prices/",
+      "final_url": "https://www.campsuisse.com/day-camp-dates-prices/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 65837,
+      "sha256": "195b1dd47255c389a89cf4f66e018f4dd1a4648e8a980aa91d65a4cf92871061"
+    },
+    {
+      "key": "suisse-form",
+      "url": "https://www.campsuisse.com/crm/form.php",
+      "final_url": "https://www.campsuisse.com/crm/form.php",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41715,
+      "sha256": "b646461c3bec6c35618c3525595db57823b8118fd714fd86bc85b8f5deb87fd0"
+    },
+    {
+      "key": "suisse-faq",
+      "url": "https://www.campsuisse.com/summer-camp/faq/",
+      "final_url": "https://www.campsuisse.com/summer-camp/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 85060,
+      "sha256": "094b5027b2b3dc32eff64a1c0951d6762a01457701fa72ff553963f70f4ea8d4"
+    },
+    {
+      "key": "suisse-languages",
+      "url": "https://www.campsuisse.com/activities/languages-at-camp-suisse/",
+      "final_url": "https://www.campsuisse.com/activities/languages-at-camp-suisse/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 68328,
+      "sha256": "7b741f061808ccd41a8f7d74dbf414274e9db45dab2a2b0e8d65c6f2dddbfe6f"
+    },
+    {
+      "key": "suisse-day-about",
+      "url": "https://www.campsuisse.com/summer-day-camp/",
+      "final_url": "https://www.campsuisse.com/summer-day-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 66813,
+      "sha256": "aaeede9c64a2c3cf79b1253956180923ad4b9cd8c4a13dad965154b81d831971"
+    },
+    {
+      "key": "suisse-downloads",
+      "url": "https://www.campsuisse.com/downloads/",
+      "final_url": "https://www.campsuisse.com/summer-camp/downloads/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 61050,
+      "sha256": "ed9705cb394dbd46b11e0be47cef8f17cc660abb451d89e3d8c01703756144ef"
+    },
+    {
+      "key": "zuoz-junior",
+      "url": "https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/",
+      "final_url": "https://www.lyceum-alpinum.ch/en/summer-camps/junior-day-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 127212,
+      "sha256": "fb6ffeb227b0e56fa3b828aab5bc955607a92a3976d801e13ce78fee037273f5"
+    },
+    {
+      "key": "zuoz-boarding",
+      "url": "https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/",
+      "final_url": "https://www.lyceum-alpinum.ch/en/summer-camps/boarding-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 149466,
+      "sha256": "19fdb16b70b464eec6d1819475db654603898ce23b2596a68fc84a725017d457"
+    },
+    {
+      "key": "elfes-dates",
+      "url": "https://www.leselfes.com/dates-and-pricing/",
+      "final_url": "https://www.leselfes.com/dates-and-pricing/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 944482,
+      "sha256": "e86507f0a76009f26cd1b1e7b55398a45ae65ddb1f2e49c4c7aa3d5c6cc451ca"
+    },
+    {
+      "key": "elfes-faq",
+      "url": "https://www.leselfes.com/about-us/faq/",
+      "final_url": "https://www.leselfes.com/about-us/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 925845,
+      "sha256": "73c3902e386863160149f3003bf1ba5de420f16d5ec9543d22bdfe211ed7bc7a"
+    },
+    {
+      "key": "elfes-winter",
+      "url": "https://www.leselfes.com/winter-camp/",
+      "final_url": "https://www.leselfes.com/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1308861,
+      "sha256": "e5643b67d5ab059f0e89e3049020fb503f2a1ba94e0fddfb5922ef88a8994d5a"
+    },
+    {
+      "key": "zuoz-digital",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2026/09/Factsheet-Digital-Skills.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 307529,
+      "sha256": "e4cfb5cebd5123b46f775c72efaf3397ab39087beca841487e357d8498d8eb33"
+    },
+    {
+      "key": "zuoz-junior-language",
+      "url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2024/11/Junior-Day-Camp-language-course-factsheet.pdf",
+      "final_url": "https://www.lyceum-alpinum.ch/wp-content/uploads/2024/11/Junior-Day-Camp-language-course-factsheet.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 214590,
+      "sha256": "bb1f766c117d42c533acb26f2bdb166d7f415a6dadb7eeece2f10f03a3d14e51"
+    }
+  ],
+  "hash_verified_responses": 23,
+  "unique_urls": 22,
+  "raw_content": "Private research archive; not included in the public repository.",
+  "forms_submitted": false,
+  "agreements_accepted": false
+}

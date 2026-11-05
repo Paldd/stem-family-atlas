@@ -41,7 +41,7 @@ RELATED.update({'techspark-games':TECHSPARK_GAMES,'techspark-lego':['L131'],
 REUSE_DATES['techspark-games']=TECHSPARK_GAMES
 RELATED.update({'kidsrobots-kids':['L347'],'kidsrobots-mini':['L%03d'%i for i in range(339,347)],'natuk-robotics':['L227','L228'],'costablanca-robotics':['L414'],'logiscool-spain-wedo':['L422']})
 REUSE_DATES['kidsrobots-mini']=RELATED['kidsrobots-mini']
-SEASON_WINDOWS = {'prefleuri','aiglon','rosenberg','newtonshow','ilsc-ubc','yres-sports-steam','yres-ai-robotics','swallowdale-forest','camp-suisse-day','lacunza-general','madrid-chess-robotics'}
+SEASON_WINDOWS = {'prefleuri','aiglon','rosenberg','newtonshow','ilsc-ubc','yres-sports-steam','yres-ai-robotics','swallowdale-forest','lacunza-general','madrid-chess-robotics'}
 RELATED.update({'troonic-robotics-camp':['L149','L150'],
                 'wecode-pocitos-lab':['L155'], 'wecode-pocitos-ia':['L157'],
                 'wecode-pocitos-minecraft':['L159']})

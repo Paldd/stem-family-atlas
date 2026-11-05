@@ -1,0 +1,57 @@
+{
+  "version": 154,
+  "checked": "2026-11-05",
+  "scope": "Swiss 2027 day and residential programmes plus French spring camp: exact weeks, actual language role, child-specific age gates, published prices, linked contract editions, and family budgets.",
+  "updated_dossiers": [
+    "CP129",
+    "CP130",
+    "CP157",
+    "CP158",
+    "CP268"
+  ],
+  "updated_legacy_event_ids": [
+    "L170",
+    "L171",
+    "L172"
+  ],
+  "new_dossiers": 0,
+  "new_calendar_rows": 8,
+  "new_budget_offers": 2,
+  "updated_budget_offers": 4,
+  "source_hash_verified_responses": 23,
+  "previous_published_commit": "66c5a1a51c935b3602d56143ec7f7a28bcf90dc4",
+  "previous_workflow_run": 42008127680,
+  "verified_findings": [
+    "Camp Suisse public 2027 form enumerates eight five-weekday cohorts; no weekend attendance invented. Day care hours 08:30–17:30 Europe/Zurich, CHF 1000 per child per five weekdays; both CHF 2000, plus optional return minibus CHF 200 for both five days.",
+    "Camp Suisse main boarding dates remain four existing two-week stays; custom Saturday-to-Saturday seven-night price CHF 2200 does not establish new accepted or dated cohorts. Oscar boarding requires actual seventh birthday.",
+    "Camp Suisse English camp life is distinguished from technical instruction. Current site still links contract BA-DF-04-18-1.0 from 2018: do not claim a newly issued 2027 contract; day applicability unresolved.",
+    "Zuoz Junior is language lessons EN/DE for age 6–9. Matvey only before tenth birthday; Oscar age fits but non-native/placement condition remains unresolved for both. Four existing weeks now export actual Monday–Friday care days, 08:30–16:00 local.",
+    "Current Zuoz cancellation terms: 60+ days free, 59–30 days 50% refund, 29 or fewer no refund. Full invoice after approval, payable within 15 days; no advance. New linked 2027 cancellation insurance CHF 30 Junior/week or CHF 160 International/two weeks is optional and ends at camp start, not medical cover during camp.",
+    "Zuoz International Digital Skills age 10–17, English teaching, own laptop, four alternative tracks; nine morning lessons do not supply their exact dates. Old AI/ML 2026 module and new 2027 AI & Innovation / Lean Startup are not the same curriculum or age category.",
+    "American Village Cour-et-Buis customer spring card is The Original, 11–16 April 2027, age 8–15, from EUR 779; job start 9 April includes staff preparation, not child arrival. No invented summer 2027 child cohorts."
+  ],
+  "unresolved": [
+    "Exact child birthdays and Junior English course placement / native-language restrictions.",
+    "Camp Suisse applicable current day contract, availability and under-seven overnight admission.",
+    "Zuoz four-week tariff / between-camps weekend invoice treatment; no automatic extra charge.",
+    "American Village final route/city quote and international individual admission.",
+    "Les Elfes Niseko primary campus and network pages do not establish exact individual Christmas 2026/27 cohorts, price or enrollment. Secondary dates and capacity conflicts not promoted into confirmed rows.",
+    "French summer 2027 staff periods are not child session dates.",
+    "Worldwide competitions, camps, exhibitions and schools remain under active audit; no fully audited country."
+  ],
+  "pdf_visual_review": [
+    "Junior 2027 flyer p1",
+    "Digital Skills factsheet p1",
+    "Junior language factsheet p1",
+    "2027 cancellation insurance p1",
+    "International 2027 brochure pp2–4",
+    "Camp Suisse linked 2018 terms p3"
+  ],
+  "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "organizer_messages": 0,
+  "registrations": 0,
+  "agreements_accepted": 0,
+  "payments": 0
+}

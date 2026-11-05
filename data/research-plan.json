@@ -305,6 +305,92 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
+    "version": 154,
+    "asof": "2026-11-05",
+    "status": "verified-local-build-and-exports",
+    "scope": "Восемь точных дневных недель Camp Suisse на лето 2027; уточнены пять досье Швейцарии и Франции, фактические языковые роли, возраст детей, текущая отмена Zuoz, отдельные страховки и два семейных бюджета. Старые AI-модули и staff-периоды отделены от актуальных детских программ. Мировой аудит продолжается.",
+    "new_records": 8,
+    "updated_event_rows": 15,
+    "new_dossiers": 0,
+    "updated_dossiers": 5,
+    "new_budget_offers": 2,
+    "updated_budget_offers": 4,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
+    "registration_forms_not_submitted": true,
+    "source_receipts": "data/camp-europe-source-receipts-v154.json",
+    "audit": "data/camp-europe-audit-v154.json",
+    "source_responses_hash_verified": 23,
+    "source_requests_failed": 0,
+    "previous_published_commit": "66c5a1a51c935b3602d56143ec7f7a28bcf90dc4",
+    "previous_goal_turn": "progress-v153-live-version-and-unpublished-v154-work-verified",
+    "source_gaps": [
+      "Exact child birthdays and Junior English course placement / native-language restrictions.",
+      "Camp Suisse applicable current day contract, availability and under-seven overnight admission.",
+      "Zuoz four-week tariff / between-camps weekend invoice treatment; no automatic extra charge.",
+      "American Village final route/city quote and international individual admission.",
+      "Les Elfes Niseko primary campus and network pages do not establish exact individual Christmas 2026/27 cohorts, price or enrollment. Secondary dates and capacity conflicts not promoted into confirmed rows.",
+      "French summer 2027 staff periods are not child session dates.",
+      "Worldwide competitions, camps, exhibitions and schools remain under active audit; no fully audited country."
+    ],
+    "verified_at": "2026-11-05",
+    "events": 4163,
+    "competition_records": 1265,
+    "exhibition_records": 219,
+    "camp_learning_records": 2679,
+    "programme_dossiers": 1182,
+    "countries_with_dossiers": 41,
+    "official_dossier_urls": 1799,
+    "league_profiles": 147,
+    "schools": 62,
+    "source_country_coverage": 85,
+    "family_calendar_entries": 3826,
+    "exhibition_calendar_entries": 100,
+    "budget_offers": 73,
+    "javascript_syntax_files": 43,
+    "runtime_validation": "isolated-node-vm-both-language-camp-child-language-format-filters-five-dossier-templates-two-new-budgets-and-60-UTC-care-day-exports-passed"
+  },
+  "completeness_audit": "data/audit-v51.json",
+  "family_context": {
+    "matvey_birth_year": 2017,
+    "oscar_birth_year": 2020,
+    "source": "Прямой ответ пользователя 01.10.2026",
+    "exact_birthdays": null,
+    "school_grades": null,
+    "full_day_english_readiness": true,
+    "learning_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "learning_languages_by_child": {
+      "mat": [
+        "EN",
+        "ES",
+        "RU"
+      ],
+      "osc": [
+        "EN",
+        "ES",
+        "RU"
+      ]
+    },
+    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
+    "relocation_readiness": true,
+    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
+  },
+  "schools_success_criteria": [
+    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
+    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
+    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
+    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
+    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
+    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
+    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
+  ],
+  "native_goal_status": "active",
+  "latest_validation_previous": {
     "version": 153,
     "asof": "2026-11-05",
     "status": "verified-local-build-and-exports",
@@ -352,92 +438,6 @@
     "runtime_validation": "isolated-node-vm-both-language-all-vex-event-index-child-admission-local-team-minimum-birthday-policy-and-UTC-export-checks-passed",
     "calendar_counters_use_current_catalog_asof": true,
     "all_league_calendar_counters_checked": 147
-  },
-  "completeness_audit": "data/audit-v51.json",
-  "family_context": {
-    "matvey_birth_year": 2017,
-    "oscar_birth_year": 2020,
-    "source": "Прямой ответ пользователя 01.10.2026",
-    "exact_birthdays": null,
-    "school_grades": null,
-    "full_day_english_readiness": true,
-    "learning_languages": [
-      "EN",
-      "ES",
-      "RU"
-    ],
-    "learning_languages_by_child": {
-      "mat": [
-        "EN",
-        "ES",
-        "RU"
-      ],
-      "osc": [
-        "EN",
-        "ES",
-        "RU"
-      ]
-    },
-    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
-    "relocation_readiness": true,
-    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
-  },
-  "schools_success_criteria": [
-    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
-    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
-    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
-    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
-    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
-    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
-    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
-  ],
-  "native_goal_status": "active",
-  "latest_validation_previous": {
-    "version": 152,
-    "asof": "2026-11-05",
-    "status": "verified-local-build-and-exports",
-    "scope": "Обновлены семь карточек выставок Азии и добавлен CIIF Shanghai 2027. Открытие World Robot Conference 18 августа 2027 отделено от неизвестных дней Expo. У G-STAR подтверждены семейный BTC, цены и онлайн-продажа; тайваньские 12+ и 18+, текущие QR / тарифы и конфликт площадок TIMTOS показаны отдельно. Недоступные страницы Японии и новые даты неподтверждённых выставок не заменены догадками. Мировой аудит продолжается.",
-    "new_exhibition_rows": 1,
-    "updated_event_rows": 7,
-    "new_dossiers": 0,
-    "new_budget_offers": 0,
-    "worldwide_complete": false,
-    "fully_audited_countries": 0,
-    "source_receipts": "data/asia-exhibition-source-receipts-v152.json",
-    "audit": "data/asia-exhibition-audit-v152.json",
-    "source_responses_hash_verified": 21,
-    "source_requests_failed": 4,
-    "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
-    "registration_forms_not_submitted": true,
-    "previous_published_commit": "ad586e233128b26c7ff62a8674144feab721d46a",
-    "previous_goal_turn": "progress-v151-published-and-fresh-local-and-production-version-match-verified",
-    "source_gaps": [
-      "WRC 2027 opening only: end date, public expo days and child admission unknown.",
-      "CIIF 2027 dates announced by coorganizer; visitor price and child policy unknown.",
-      "G-STAR youth / preschool ticket rules checked; foreign preschool status and each game age gate need confirmation.",
-      "COMPUTEX standing 18+ guidelines lack specific 2027 edition year; public day / fees of 2026 not copied.",
-      "TIMTOS current FAQ names TaiNEX 1/2; earlier visually checked exhibitor kit also names TWTC Hall 1.",
-      "RoboNext and iREX primary bodies HTTP 403; no invented iREX 2027 dates.",
-      "ROBOTWORLD visitor URL returns a JavaScript access challenge, not readable programme content; no challenge executed.",
-      "ARCE both official host variants fail TLS hostname validation; no fresh dated record created.",
-      "Taipei Game Show B2C method page contains exhibitor booth fees, not visitor tickets or family deadlines.",
-      "No EN / ES instruction inferred from English webpages; no new camp, school, league or international award claim."
-    ],
-    "verified_at": "2026-11-05",
-    "events": 4155,
-    "competition_records": 1265,
-    "exhibition_records": 219,
-    "camp_learning_records": 2671,
-    "programme_dossiers": 1182,
-    "countries_with_dossiers": 41,
-    "official_dossier_urls": 1795,
-    "league_profiles": 147,
-    "schools": 62,
-    "source_country_coverage": 85,
-    "family_calendar_entries": 3772,
-    "exhibition_calendar_entries": 100,
-    "runtime_validation": "isolated-node-vm-both-language-exhibition-filters-cards-opening-only-date-and-ticket-deadline-exports-passed",
-    "javascript_syntax_files": 43
   },
   "research_passes": [
     {
@@ -1730,6 +1730,15 @@
       "exhibition_calendar_entries": 100,
       "runtime_validation": "isolated-node-vm-both-language-exhibition-filters-cards-opening-only-date-and-ticket-deadline-exports-passed",
       "javascript_syntax_files": 43
+    },
+    {
+      "version": 154,
+      "asof": "2026-11-05",
+      "scope": "Swiss 2027 day and residential programmes plus French spring camp: exact weeks, actual language role, child-specific age gates, published prices, linked contract editions, and family budgets.",
+      "audit": "data/camp-europe-audit-v154.json",
+      "new_records": 8,
+      "new_dossiers": 0,
+      "worldwide_complete": false
     }
   ],
   "previous_goal_turn_classification": "progress",
