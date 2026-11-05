@@ -247,7 +247,7 @@ def enrich_v149(d):
             url=s['url'];srcs[url]=dict(url=url,title=s.get('label',s.get('title','')),checked=CHECKED,evidence=T('Текущая официальная страница или связанный PDF; границы проверки в карточке.','Página oficial actual o PDF enlazado; alcance de comprobación en ficha.'))
     d['sources']=list(srcs.values());d['asof']=max(d['asof'],CHECKED)
     def profile(pid,name,events,robot=False):
-        chosen=[by_key[k] for k in events];return dict(id=pid,name=name,group='international',age_summary=RM_AGE if robot else IM_AGE,age_tags=['6','9','10','12'],summary=RM_TEAM if robot else IM_TEAM,
+        chosen=[by_key[k] for k in events];return dict(id=pid,name=name,group='international',age_summary=RM_AGE if robot else IM_AGE,age_tags=['6','9','10-12','teen','university'],summary=RM_TEAM if robot else IM_TEAM,
             categories=[dict(name=e['title'],age=e['age'],age_rule=e['age'],team=e['format'],hardware=e['gear'],event_id=e['id'],entry=e['entry'],language=e['language'],note=e['note'],source=e['source'],checked=CHECKED) for e in chosen],
             event_ids=[e['id'] for e in authored if e['title'].startswith('Robomatrix' if robot else 'Infomatrix')],legacy_ids=['C045'],route=chosen[0]['entry'],hardware=SUMO_GEAR if robot else IM_GEAR,
             language=chosen[0]['language'],importance=T('Доказанный региональный / международный путь; награды конкретного этапа, а не общий мировой титул.','Vía regional / internacional acreditada; premios de fase concreta, no título mundial general.'),
