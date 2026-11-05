@@ -60,7 +60,8 @@ HEADERS.update({
  'programme_category':'Categoría de programa','available_staff_languages':'Idiomas del personal',
  'catalog_participation':'Participación en el catálogo','programme_type':'Tipo de programa',
  'canonical_event_id':'ID de la ficha principal','parent_programme_id':'ID del programa principal',
- 'related_programme_ids':'IDs de programas relacionados'
+ 'related_programme_ids':'IDs de programas relacionados',
+ 'requires_parent_programme_ids':'IDs de programas base obligatorios'
 })
 def column(index):
     name=''

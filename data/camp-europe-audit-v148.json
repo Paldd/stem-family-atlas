@@ -1,0 +1,124 @@
+{
+  "version": 148,
+  "checked": "2026-11-04",
+  "new_programme_ids": [
+    "CP1164",
+    "CP1165",
+    "CP1166",
+    "CP1167",
+    "CP1168",
+    "CP1169",
+    "CP1170",
+    "CP1171",
+    "CP1172"
+  ],
+  "updated_programme_ids": [
+    "CP003",
+    "CP866"
+  ],
+  "prefleuri": {
+    "boarding_date_variants": 15,
+    "day_date_variants": 15,
+    "day_timed_lesson_entries_across_alternative_variants": 250,
+    "minimum_weeks": 2,
+    "ages_5_14_boarding_CHF": [
+      6150,
+      8950,
+      10750,
+      13300,
+      15750
+    ],
+    "ages_5_14_day_CHF": [
+      3575,
+      5250,
+      6800,
+      8400,
+      9900
+    ],
+    "durations_weeks": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "language_evidence": "EN language lessons from 6; not whole-day or excursion-guide English",
+    "options_require_base_camp": true,
+    "option_age_conflict": "Extreme Adventure: both 2027 PDFs from 8; current programme and fees pages from 10",
+    "second_child_discount": "non-cumulative; boarding excludes uniform/insurance/taxes; day PDF excludes uniform only; automatic deduction disabled",
+    "board_uniform_conflict": "PDF 3 T-shirts and sweater; page 2 T-shirts and sweater",
+    "deposit_inside_tuition_CHF": 1000,
+    "base_two_board_CHF": 12300,
+    "base_two_day_CHF": 7150,
+    "conditional_two_children_UM_roundtrip_CHF": 1000,
+    "general_overview_retained_not_duplicated_as_six_week_cohort": true
+  },
+  "tctc": {
+    "ages": "7–11 at 2026-12-28",
+    "matvey": "age_candidate",
+    "oscar": "below_minimum",
+    "venues": [
+      "Naxxar",
+      "Paola"
+    ],
+    "teaching_dates": [
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30",
+      "2027-01-04",
+      "2027-01-05"
+    ],
+    "basic_EUR": 200,
+    "full_EUR": 225,
+    "full_increment_EUR": 25,
+    "basic_hours": "09:00–12:30",
+    "full_hours": "08:00–12:30",
+    "timezone": "Europe/Malta",
+    "campus_tariff_variants": 4,
+    "English": "explicit general classes policy; Maltese requires unanimous teacher and student agreement",
+    "basic_timing_and_dates_visual_PDF_checked": true,
+    "full_timing_from_course_page": true,
+    "robot_platform_and_takehome_device_unknown": true
+  },
+  "nuejos": {
+    "adventure": "2–12, eight general camp windows; not invented daily attendance",
+    "academics": "6–12 specific programme; no dated rows because general calendar is not track confirmation",
+    "language": "unconfirmed; English subject or EAL teacher is not EN robotics instruction",
+    "summer_2027": "Dates available Soon",
+    "weekly_CHF_before_published_8_10_MWST": {
+      "adventure": 680,
+      "academics": 880
+    },
+    "cancelled_registration": "actual Camp Policy PDF from Read Policy; cafe page is not camp contract",
+    "meals": "no own food allowed; which meals included and invoice cost unknown; cafe prices not reused"
+  },
+  "frilingue": {
+    "preserved_seven_start_only_markers": true,
+    "departure_dates_not_invented": true,
+    "weekly_venue_and_transfer_conditions_updated": true
+  },
+  "hif": {
+    "current_direct_page_dates": [
+      "2027-02-10",
+      "2027-02-20"
+    ],
+    "existing_CP1013_unchanged": true,
+    "cached_search_dates_not_authoritative": true
+  },
+  "not_promoted_leads": {
+    "richer_NAO": "13–17; both children below minimum",
+    "lindeln": "no ages or fees; neither institutional endorsement nor family acceptance proven"
+  },
+  "pdf_visual_reviews": [
+    "prefleuri-board-prices-2027",
+    "prefleuri-day-prices-2027",
+    "tctc-naxxar-timetable",
+    "tctc-paola-timetable",
+    "nuejos-camp-policy"
+  ],
+  "source_responses_hash_verified": 27,
+  "unused_fetched_pages_not_claimed_fully_reaudited": true,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "stale_shortlist_and_family_review_price_claims_corrected": true
+}

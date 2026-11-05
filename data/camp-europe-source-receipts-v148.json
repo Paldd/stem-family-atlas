@@ -1,0 +1,227 @@
+{
+  "checked": "2026-11-04",
+  "method": "public-primary-GET; raw files private outside repository; no enrollment or payments",
+  "responses": [
+    {
+      "key": "tctc-naxxar-schedule",
+      "url": "https://www.tctcmalta.com/viewer/7115/download.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 291457,
+      "sha256": "efe384b1e092cb7ab11c88ac593d1fff4015a51a011183131f3eb4e530cbd8e2"
+    },
+    {
+      "key": "tctc-paola-schedule",
+      "url": "https://www.tctcmalta.com/viewer/7116/download.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 290517,
+      "sha256": "a87b9f1dc4fefd4e61a876fb4611563703deab3b23f33da7048f8277c7eda8e0"
+    },
+    {
+      "key": "tctc-centres",
+      "url": "https://www.tctcmalta.com/en/tctc-centres.htm",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 27247,
+      "sha256": "316ccdbc7375b360b4ab13dccaca28c9f3bbb762b7c357978c2a18556a7f2762"
+    },
+    {
+      "key": "tctc-terms",
+      "url": "https://www.tctcmalta.com/en/terms-conditions.htm",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 40566,
+      "sha256": "3e16d63f1f9b6834b19058a23f3cd7c7bd4f15ab7f0978bc27f314a384275106"
+    },
+    {
+      "key": "tctc-about",
+      "url": "https://www.tctcmalta.com/en/about-us.htm",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21523,
+      "sha256": "ea1cbbd2b85da6dac77b8060887e02d4784f662b7e4a0820a5a8d8fb4b6c77b7"
+    },
+    {
+      "key": "nuejos-policy",
+      "url": "https://www.nuejos.com/about-3",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1071594,
+      "sha256": "88c1fde0cef2b4312296296c3d50b20a8fa83a5046769d5148f345b68644bd97"
+    },
+    {
+      "key": "nuejos-why",
+      "url": "https://www.nuejos.com/why-choose-us",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "frilingue-terms",
+      "url": "https://www.frilingue.ch/en/language-camps-switzerland/terms-conditions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 156732,
+      "sha256": "cbd7a867a11201b1641bb7306ba01aeb64a781948459deba247458fd1b4ffdb0"
+    },
+    {
+      "key": "prefleuri-summer",
+      "url": "https://www.prefleuricamps.ch/en/summer/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 145598,
+      "sha256": "dfe1124768101829e47f91df9237ebcf41d3aba8741a8c6620786db992b73630"
+    },
+    {
+      "key": "prefleuri-fees",
+      "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 184802,
+      "sha256": "0c3701af562ccbce676949ebae21d77ea2623c0a29da472725e31058e44f5b1e"
+    },
+    {
+      "key": "frilingue-winter",
+      "url": "https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 248265,
+      "sha256": "ab115185c64a7cf7dc54db073eacbb0ab027afd9795b09ac8be6b6347764e649"
+    },
+    {
+      "key": "lovell-summer",
+      "url": "https://lovellcamps.ch/summer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 109187,
+      "sha256": "efccdfa0e1edd14a53337f397efd5cc2bd68e691aa3cad98b2161966eb695fd0"
+    },
+    {
+      "key": "lovell-winter",
+      "url": "https://lovellcamps.ch/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 89517,
+      "sha256": "4c806926bd8b71b5d5fc2be920f3635ec4482deff7cd6642df8d1652f8f4cd6a"
+    },
+    {
+      "key": "aiglon",
+      "url": "https://www.aiglon.ch/2027-summer-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 100495,
+      "sha256": "882d34c5710d2863645b781f2612e077893d3a0bd1326fa38b92c334c52b2b7a"
+    },
+    {
+      "key": "hif-winter",
+      "url": "https://hif.ch/camps/winter-camp-2027/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 331296,
+      "sha256": "adf675e93b16b2347429af78cbdaccbe2c9c545524a8e3eee263571bde60a5f6"
+    },
+    {
+      "key": "tctc-christmas",
+      "url": "https://www.tctcmalta.com/en/private-courses/courses/720/christmas-camp.htm",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29694,
+      "sha256": "10cbc61b850dc226e4170d6b8f854e96b86e5da4dedebdaa7dcdd6e135f5f8c5"
+    },
+    {
+      "key": "nuejos-camps",
+      "url": "https://www.nuejos.com/holiday-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1382892,
+      "sha256": "80aaaaa1a8f97e8d0ab5ffa230ae0ce5c69de5df179fc27a6762341625c2fd5a"
+    },
+    {
+      "key": "richer-nao",
+      "url": "https://www.richereducation.co.uk/humanoid-robotics-christmas-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 487268,
+      "sha256": "aa8102c55c44f706a4fe9c01b7effc8b64faa321fbfa6ad5dae66d67d5b84bcc"
+    },
+    {
+      "key": "lindeln-camps",
+      "url": "https://lindelnlanguageclub.ch/de/uber-uns/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 196056,
+      "sha256": "d24b16575164429e2a796ce980dbc30cafa3ed2429f734040e6762ae2262a0fd"
+    },
+    {
+      "key": "nuejos-camp-policy",
+      "url": "https://www.nuejos.com/_files/ugd/a1036d_1854ea51a9f24cc885811da4c3bba6cd.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 313326,
+      "sha256": "bf7ffa506e492804e81613932cd13e059b1c73c6d2afbf8ad465c0d611af0fed"
+    },
+    {
+      "key": "nuejos-why-current",
+      "url": "https://www.nuejos.com/why-choose-us-1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1083477,
+      "sha256": "f68975ab66c322bc5f449b0648540fcd2562c340e1fce57a5b2012d22a8f923a"
+    },
+    {
+      "key": "prefleuri-pdf-0",
+      "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/Brochure-summer-camps-2027-EN-HD.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 5359899,
+      "sha256": "2ddb7544466496a10badb2f0cde36d611ad5269e21ea00b8f8cb276e7b38a904"
+    },
+    {
+      "key": "prefleuri-pdf-1",
+      "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1038669,
+      "sha256": "3edef0a755379913889d40b78846fc134d4b5d6fa85e3eed04abb2427d3ba13d"
+    },
+    {
+      "key": "prefleuri-pdf-2",
+      "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 944619,
+      "sha256": "1b4690559167a906e6ceb6e2f3250ca392bf77ea55ae54ad70754594544b8c1a"
+    },
+    {
+      "key": "prefleuri-terms",
+      "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 96817,
+      "sha256": "58c4c28cbc539083b9d08693fee2f8a9181996fc0f04230ebf62c82557931fa5"
+    },
+    {
+      "key": "prefleuri-faq",
+      "url": "https://www.prefleuricamps.ch/en/infos/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116035,
+      "sha256": "07c22618e44a58d8c6cd9cd28031844b3820f773054ac1f06c8fe3cbca88094c"
+    },
+    {
+      "key": "hif-application",
+      "url": "https://hif.ch/camps/winter-camps-application-form/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 187064,
+      "sha256": "bf04d5b76d50fa79e8f12687979f3f309f5256b6d614d30d7390766f7589a043"
+    },
+    {
+      "key": "elfes-winter-enrol",
+      "url": "https://www.leselfes.com/winter-camp/enrol/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 900320,
+      "sha256": "f44fa64e9e24a069641ec5f8f284d0197cbda2c553280eb4249b78127f345ac6"
+    }
+  ]
+}

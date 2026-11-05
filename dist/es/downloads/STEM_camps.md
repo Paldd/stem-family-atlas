@@ -35224,7 +35224,7 @@ Comprobado: 2026-10-06
 
 ### CP866-20270117-20270117-2027-01-17 · friLingue · Alps Winter Language Camp · Inicio · el tiempo completo para negociar · 2027-01-17–2027-01-17
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Liddes · Relais de Dranse
 Fecha: 2027-01-17 国 2027-01-17
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35234,13 +35234,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270124-20270124-2027-01-24 · friLingue · Alps Winter Language Camp · Comienzo completo · 2027-01-24 CLAIM2027-01-24
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Liddes · Relais de Dranse
 Fecha: 2027-01-24 国 2027-01-24
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35250,13 +35250,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270131-20270131-2027-01-31 · friLingue · Alps Winter Language Camp · Inicio · el tiempo completo para negociar · 2027-01-31–2027-01-31
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Bourg-Saint-Pierre · Petit Vélan
 Fecha: 2027-01-31 ♫ 2027-01-31
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35266,13 +35266,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270207-20270207-2027-02-07 · friLingue · Alps Winter Language Camp · Inicio · el tiempo completo para negociar · 2027-02-07–2027-02-07
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Bourg-Saint-Pierre · Petit Vélan
 Fecha: 2027-02-07 国 2027-02-07
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35282,13 +35282,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270214-20270214-2027-02-14 · friLingue · Alps Winter Language Camp · Inicio · el tiempo completo para negociar · 2027-02-14–2027-02-14
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · La Fouly · Maison Dolent
 Fecha: 2027-02-14 国 2027-02-14
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35298,13 +35298,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270221-20270221-2027-02-21 · friLingue · Alps Winter Language Camp · Inicio · el tiempo completo para negociar · 2027-02-21–2027-02-21
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Bourg-Saint-Pierre · Petit Vélan
 Fecha: 2027-02-21 国 2027-02-21
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35314,13 +35314,13 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP866-20270228-20270228-2027-02-28 · FriLingue · Alps Winter Language Camp · Comienza a acordar el tiempo completo · 2027-02-28-2027-02-28
 
-Lugar: Suiza · Liddes / Bourg-Saint-Pierre / La Fouly; depende de la semana
+lugar: Suiza · Bourg-Saint-Pierre · Petit Vélan
 Fecha: 2027-02-28 国 2027-02-28
 Edad: 8–17
 Matway: Condicional; comprobar la edad, clase y admisión
@@ -35330,9 +35330,9 @@ Idioma: English, French o German A1–C2; FAQ Confirma a los profesores native/p
 Marca de idioma: language_lessons; soporte: no declarado
 Costo: 2027 - CHF 1200 por 1 semana; duración seleccionada y extras por separado - pagos adicionales y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es la adecuada, Recepción personal y lugar de confirmación. Oscar: Al menos 8; Oscar en 2027 Sólo 6–7. La participación de los padres no elimina la edad mínima de los hijos Alps Camp. Gastos adicionales: Habitación en 4/6 En lugar de un dormitorio común +100–300/Ned de alojamiento; algunas habitaciones en otro edificio, 10 minutos a pie. Nutrición limitada +100/Ned; Seguro/La carretera por separado. Específicamente extras semanas para confirmar. Pago: CHF 500 por adelantado durante el período 10 días, Saldo 30 días; Grabación tardía por 5 días puede añadir CHF 50. Cancelación: antes 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. Día 7 Dos veces: borde exacto. Después de la puesta en marcha/No se ha devuelto la salida temprana. Para Swiss language camps se describe el arrastre a 24 mes antes 10 días antes de la puesta en marcha; Una nueva modificación puede costar CHF 100. El seguro de cancelación se tramita por separado; Por un adulto Family Workation La aplicación de las reglas aún no ha sido verificada..
+Limitaciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción individual y el lugar para confirmar. Oscar: por lo menos 8; Oscar en el 2027 Sólo que 6–7. la participación de los padres no anula el límite de edad del niño Alps Camp. Suplementos: Geneva domingo fuera de horas publicadas 400 CHF / trayecto, Lu–Sá 500. UM service 100 / trayecto más reglas / cargo de aerolínea. Habitaciones: 100 / 200 / 275 / 300 CHF semanales; Hotel Gd 400 / 450 / 500 según tipo. Algunas habitaciones separadas, 10 minutos a pie. Alquiler de esquí 150 o premium 300 semanal; seguro 50 semanal si no tiene propio. Lavandería 40 y dieta especial 100 — confirmar unidad de cobro. Día extra Verbier 150 incluye viaje, ski pass, merienda y supervisión, solo intermediate / advanced. Confirmar factura completa. Pago: CHF 500 el anticipo en el plazo 10 días, el resto por 30 días; registro tardío de menos de 5 días puede agregar CHF 50. Cancelación: hasta 30 días — CHF 500; 29–14 — 50%; 13–7 — 80%; 7–1 — 100%. el día 7 se indicó dos veces: el límite exacto de acuerdo. después del arranque/de irse temprano no regresa. para el Swiss language camps se describe el traslado a 24 un mes antes 10 días antes del inicio; La modificación puede costar CHF 100. la cancelación del seguro se realiza por separado; por adulto Family Workation la aplicabilidad de las reglas también comprobar.
 Fuente: https://www.frilingue.ch/en/juniors/learn-languages-switzerland-youth/liddes-saint-bernard/alps-winter-camp
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### CP867-20261011-20261011-2026-10-11 · friLingue St Bernard · Family Workation · Comienzo de adultos Family Workation · Cambio de turno de los niños por separado · 2026-10-11–2026-10-11
 
@@ -41540,6 +41540,742 @@ Precio: 2026/27 · Configuración pública de entrada concreta: type=free. Mater
 Acceso: Tipo de entrada separado. Configuración pública actual: require_approval=false; no acredita admisión infantil. Confirmar edad, adulto y plaza; sin inscripción realizada.
 Limitaciones: Matvey: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Oscar: Confirmar edad, acompañamiento e idioma del taller elegido; plaza sin reservar. Suplementos: Viaje, acompañamiento, equipo y materiales: gastos obligatorios finales aún sin determinar. Pago: Pago y cancelación según condiciones escritas de oferta elegida; sin inscripción realizada.
 Fuente: https://luma.com/i5cz5p70
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270626-20270710 · Préfleuri · verano 2027 · residencia 5–14 · 2 semanas · residencia · 2027-06-26–2027-07-10
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-26 — 2027-07-10
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6150 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270626-20270717 · Préfleuri · verano 2027 · residencia 5–14 · 3 semanas · residencia · 2027-06-26–2027-07-17
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-26 - 2027-07-17
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8950 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270626-20270724 · Préfleuri · verano 2027 · residencia 5–14 · 4 semanas · residencia · 2027-06-26–2027-07-24
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-26 - 2027-07-24
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 10750 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270626-20270731 · Préfleuri · verano 2027 · residencia 5–14 · 5 semanas · residencia · 2027-06-26–2027-07-31
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-26 — 2027-07-31
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 13300 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270626-20270807 · Préfleuri · verano 2027 · residencia 5–14 · 6 semanas · residencia · 2027-06-26–2027-08-07
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-26 — 2027-08-07
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 15750 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270703-20270717 · Préfleuri · verano 2027 · residencia 5–14 · 2 semanas · residencia · 2027-07-03–2027-07-17
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-03 - 2027-07-17
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6150 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270703-20270724 · Préfleuri · verano 2027 · residencia 5–14 · 3 semanas · residencia · 2027-07-03–2027-07-24
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-03 — 2027-07-24
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8950 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270703-20270731 · Préfleuri · verano 2027 · residencia 5–14 · 4 semanas · residencia · 2027-07-03–2027-07-31
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-03 — 2027-07-31
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 10750 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270703-20270807 · Préfleuri · verano 2027 · residencia 5–14 · 5 semanas · residencia · 2027-07-03–2027-08-07
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-03 — 2027-08-07
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 13300 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270710-20270724 · Préfleuri · verano 2027 · residencia 5–14 · 2 semanas · residencia · 2027-07-10–2027-07-24
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-10 - 2027-07-24
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6150 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270710-20270731 · Préfleuri · verano 2027 · residencia 5–14 · 3 semanas · residencia · 2027-07-10–2027-07-31
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-10 - 2027-07-31
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8950 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270710-20270807 · Préfleuri · verano 2027 · residencia 5–14 · 4 semanas · residencia · 2027-07-10–2027-08-07
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-10 - 2027-08-07
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 10750 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270717-20270731 · Préfleuri · verano 2027 · residencia 5–14 · 2 semanas · residencia · 2027-07-17–2027-07-31
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-17 - 2027-07-31
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6150 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270717-20270807 · Préfleuri · verano 2027 · residencia 5–14 · 3 semanas · residencia · 2027-07-17–2027-08-07
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-17 - 2027-08-07
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8950 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1164-20270724-20270807 · Préfleuri · verano 2027 · residencia 5–14 · 2 semanas · residencia · 2027-07-24–2027-08-07
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-24 - 2027-08-07
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: residente
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6150 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Fuera de tarifa base: semanas temáticas elegidas y equitación. Group Geneva UM CHF 250 por niño / trayecto los sábados en horarios publicados; individual taxi CHF 600 / trip. Vuelos y factura completa aparte. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270628-20270709 · Préfleuri · verano 2027 · diurno 5–14 · 2 semanas · diurno Lu–Vi · 2027-06-28–2027-07-09
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-28 2027-07-09
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 3575 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270628-20270716 · Préfleuri · verano 2027 · diurno 5–14 · 3 semanas · diurno Lu–Vi · 2027-06-28–2027-07-16
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-28 - 2027-07-16
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 5250 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270628-20270723 · Préfleuri · verano 2027 · diurno 5–14 · 4 semanas · diurno Lu–Vi · 2027-06-28–2027-07-23
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-28 2027-07-23
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6800 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270628-20270730 · Préfleuri · verano 2027 · diurno 5–14 · 5 semanas · diurno Lu–Vi · 2027-06-28–2027-07-30
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-28 — 2027-07-30
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8400 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270628-20270806 · Préfleuri · verano 2027 · diurno 5–14 · 6 semanas · diurno Lu–Vi · 2027-06-28–2027-08-06
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-06-28 — 2027-08-06
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 9900 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270705-20270716 · Préfleuri · verano 2027 · diurno 5–14 · 2 semanas · diurno Lu–Vi · 2027-07-05–2027-07-16
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-05 — 2027-07-16
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 3575 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270705-20270723 · Préfleuri · verano 2027 · diurno 5–14 · 3 semanas · diurno Lu–Vi · 2027-07-05–2027-07-23
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-05 — 2027-07-23
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 5250 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270705-20270730 · Préfleuri · verano 2027 · diurno 5–14 · 4 semanas · diurno Lu–Vi · 2027-07-05–2027-07-30
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-05 — 2027-07-30
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6800 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270705-20270806 · Préfleuri · verano 2027 · diurno 5–14 · 5 semanas · diurno Lu–Vi · 2027-07-05–2027-08-06
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-05 — 2027-08-06
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 8400 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270712-20270723 · Préfleuri · verano 2027 · diurno 5–14 · 2 semanas · diurno Lu–Vi · 2027-07-12–2027-07-23
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-12 — 2027-07-23
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 3575 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270712-20270730 · Préfleuri · verano 2027 · diurno 5–14 · 3 semanas · diurno Lu–Vi · 2027-07-12–2027-07-30
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-12 — 2027-07-30
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 5250 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270712-20270806 · Préfleuri · verano 2027 · diurno 5–14 · 4 semanas · diurno Lu–Vi · 2027-07-12–2027-08-06
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-12 — 2027-08-06
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 6800 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270719-20270730 · Préfleuri · verano 2027 · diurno 5–14 · 2 semanas · diurno Lu–Vi · 2027-07-19–2027-07-30
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-19 国 2027-07-30
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 3575 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270719-20270806 · Préfleuri · verano 2027 · diurno 5–14 · 3 semanas · diurno Lu–Vi · 2027-07-19–2027-08-06
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-19 - 2027-08-06
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 5250 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1165-20270726-20270806 · Préfleuri · verano 2027 · diurno 5–14 · 2 semanas · diurno Lu–Vi · 2027-07-26–2027-08-06
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-26 国 2027-08-06
+edad: 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Desde 6 se puede elegir English / French language course o apoyo académico; PDF indica 15 horas semanales. EN confirmado para curso de idioma; confirmar idioma de día completo y cada opción de excursión.
+Marca de idioma: language_lessons; soporte: no declarado
+Precio: 2027 · 3575 CHF por niño por periodo elegido completo; anticipo dentro de precio · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Oscar: En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte. Suplementos: Seguro infantil por padres, comida según paquete day confirmado, opciones temáticas, alojamiento familiar y viaje aparte. Minibus local incluido; no sumarlo otra vez. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1166-20270703-20270709 · Préfleuri · Element Rangers · opción de campamento general · Opción temática · no campamento separado · 2027-07-03–2027-07-09
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-03 - 2027-07-09
+edad: Desde 8 años según página del programa.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 400 CHF suplemento del campamento general · suplementos y condiciones en el dossier
+Acceso: Acordar y pagar campamento base mínimo 2 semanas; después opción separada disponible por edad. Suplemento por sí solo no reserva alojamiento ni campamento completo.
+Limitaciones: Matvey: Edad 9–10 en verano 2027: mínimo 8 compatible; mínimo 10 solo tras cumpleaños. Acordar discrepancias de opción concreta. Oscar: En 2027 solo 6–7: menor de cualquier mínimo indicado 8 / 10. Puede considerar campamento general de su grupo, no esta opción. Suplementos: Paquete base day / boarding mínimo 2 semanas, gastos personales y viaje aparte. Confirmar posible sustitución de clases de idioma por excursiones. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/en/summer/
+Se ha comprobado: 2026-11-04
+
+### CP1167-20270710-20270716 · Préfleuri · Expedition · opción de campamento general · Opción temática · no campamento separado · 2027-07-10–2027-07-16
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-10 - 2027-07-16
+edad: de 10 años según página del programa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 600 CHF suplemento del campamento general · suplementos y condiciones en el dossier
+Acceso: Acordar y pagar campamento base mínimo 2 semanas; después opción separada disponible por edad. Suplemento por sí solo no reserva alojamiento ni campamento completo.
+Limitaciones: Matvey: Edad 9–10 en verano 2027: mínimo 8 compatible; mínimo 10 solo tras cumpleaños. Acordar discrepancias de opción concreta. Oscar: En 2027 solo 6–7: menor de cualquier mínimo indicado 8 / 10. Puede considerar campamento general de su grupo, no esta opción. Suplementos: Paquete base day / boarding mínimo 2 semanas, gastos personales y viaje aparte. Confirmar posible sustitución de clases de idioma por excursiones. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/en/summer/
+Se ha comprobado: 2026-11-04
+
+### CP1168-20270717-20270723 · Préfleuri · Extreme Adventure · opción de campamento general · Opción temática · no campamento separado · 2027-07-17–2027-07-23
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-17 - 2027-07-23
+edad: Discrepancia: página de programa y tarifas desde 10, ambos PDF 2027 desde 8. Admisión de menor de 10 sin confirmar.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 650 CHF suplemento del campamento general · suplementos y condiciones en el dossier
+Acceso: Acordar y pagar campamento base mínimo 2 semanas; después opción separada disponible por edad. Suplemento por sí solo no reserva alojamiento ni campamento completo.
+Limitaciones: Matvey: Edad 9–10 en verano 2027: mínimo 8 compatible; mínimo 10 solo tras cumpleaños. Acordar discrepancias de opción concreta. Oscar: En 2027 solo 6–7: menor de cualquier mínimo indicado 8 / 10. Puede considerar campamento general de su grupo, no esta opción. Suplementos: Paquete base day / boarding mínimo 2 semanas, gastos personales y viaje aparte. Confirmar posible sustitución de clases de idioma por excursiones. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/en/summer/
+Se ha comprobado: 2026-11-04
+
+### CP1169-20270724-20270730 · Préfleuri · Swiss Tour · opción de campamento general · Opción temática · no campamento separado · 2027-07-24–2027-07-30
+
+lugar: Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
+Fecha: 2027-07-24 - 2027-07-30
+edad: de 10 años según página del programa.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: mixed_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · 950 CHF suplemento del campamento general · suplementos y condiciones en el dossier
+Acceso: Acordar y pagar campamento base mínimo 2 semanas; después opción separada disponible por edad. Suplemento por sí solo no reserva alojamiento ni campamento completo.
+Limitaciones: Matvey: Edad 9–10 en verano 2027: mínimo 8 compatible; mínimo 10 solo tras cumpleaños. Acordar discrepancias de opción concreta. Oscar: En 2027 solo 6–7: menor de cualquier mínimo indicado 8 / 10. Puede considerar campamento general de su grupo, no esta opción. Suplementos: Paquete base day / boarding mínimo 2 semanas, gastos personales y viaje aparte. Confirmar posible sustitución de clases de idioma por excursiones. Pago: PDF 2027: anticipo CHF 1000 por niño incluido en precio, saldo 60 días antes de llegada / inicio. General terms menciona a la vez full payment y confirmación con deposit; acordar condición exacta de reserva. Cancelación Summer 60–45 días — retención 1000, menos de 45 — precio completo; plazo anterior y límites sin aclarar. Casos especiales acreditados describen traslado del pago, sin prometer cash refund. Sin aceptar condiciones.
+Fuente: https://www.prefleuricamps.ch/en/summer/
+Se ha comprobado: 2026-11-04
+
+### CP1170-20261228-20270105-naxxar-basic · TCTC Malta · Christmas Tech Camp · Naxxar · Basic · 2026-12-28–2027-01-05
+
+lugar: Malta · Naxxar · TCTC Business & Education Centre · 151 Labour Avenue
+Fecha: 2026-12-28 — 2027-01-05
+Edad: 7–11 al inicio 28 de diciembre de 2026; días de enero separados no anunciados como convocatoria independiente.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Política general TCTC: clases en inglés, requieren comprensión, escritura y debate EN. Maltese solo por acuerdo de todos los alumnos y profesor; asegurar grupo inglés antes de inscripción.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 200 EUR por 5 días completos · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio edad 8–9, dentro de 7–11. Grupo inglés y plaza aparte, experiencia puede superar nivel introductorio. Oscar: El 28 de diciembre de 2026 niño nacido en 2020 tiene como máximo 6, menor de 7. Cumpleaños posterior en enero no permite automáticamente curso completo. Suplementos: Alojamiento familiar, viaje y comida aparte. Política general prohíbe comer en aula; confirmar descansos y merienda. Pago: General terms: anticipo habitual EUR 100, puede variar por curso; saldo al inicio. Cancelación por alumno sin prometer cash refund, credit note de 3 meses con posible extensión de 3 por decisión de escuela. Cancelación por escuela describe reembolso de parte cancelada. Aplicación y pago sin confirmar; condiciones no aceptadas.
+Fuente: https://www.tctcmalta.com/viewer/7115/download.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1170-20261228-20270105-naxxar-full · TCTC Malta · Christmas Tech Camp · Naxxar · Full · 2026-12-28–2027-01-05
+
+lugar: Malta · Naxxar · TCTC Business & Education Centre · 151 Labour Avenue
+Fecha: 2026-12-28 — 2027-01-05
+Edad: 7–11 al inicio 28 de diciembre de 2026; días de enero separados no anunciados como convocatoria independiente.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Política general TCTC: clases en inglés, requieren comprensión, escritura y debate EN. Maltese solo por acuerdo de todos los alumnos y profesor; asegurar grupo inglés antes de inscripción.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 225 EUR por 5 días completos · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio edad 8–9, dentro de 7–11. Grupo inglés y plaza aparte, experiencia puede superar nivel introductorio. Oscar: El 28 de diciembre de 2026 niño nacido en 2020 tiene como máximo 6, menor de 7. Cumpleaños posterior en enero no permite automáticamente curso completo. Suplementos: Alojamiento familiar, viaje y comida aparte. Política general prohíbe comer en aula; confirmar descansos y merienda. Pago: General terms: anticipo habitual EUR 100, puede variar por curso; saldo al inicio. Cancelación por alumno sin prometer cash refund, credit note de 3 meses con posible extensión de 3 por decisión de escuela. Cancelación por escuela describe reembolso de parte cancelada. Aplicación y pago sin confirmar; condiciones no aceptadas.
+Fuente: https://www.tctcmalta.com/viewer/7115/download.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1170-20261228-20270105-paola-basic · TCTC Malta · Christmas Tech Camp · Paola · Basic · 2026-12-28–2027-01-05
+
+lugar: Malta · Paola · edificio exacto por confirmar
+Fecha: 2026-12-28 — 2027-01-05
+Edad: 7–11 al inicio 28 de diciembre de 2026; días de enero separados no anunciados como convocatoria independiente.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Política general TCTC: clases en inglés, requieren comprensión, escritura y debate EN. Maltese solo por acuerdo de todos los alumnos y profesor; asegurar grupo inglés antes de inscripción.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 200 EUR por 5 días completos · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio edad 8–9, dentro de 7–11. Grupo inglés y plaza aparte, experiencia puede superar nivel introductorio. Oscar: El 28 de diciembre de 2026 niño nacido en 2020 tiene como máximo 6, menor de 7. Cumpleaños posterior en enero no permite automáticamente curso completo. Suplementos: Alojamiento familiar, viaje y comida aparte. Política general prohíbe comer en aula; confirmar descansos y merienda. Pago: General terms: anticipo habitual EUR 100, puede variar por curso; saldo al inicio. Cancelación por alumno sin prometer cash refund, credit note de 3 meses con posible extensión de 3 por decisión de escuela. Cancelación por escuela describe reembolso de parte cancelada. Aplicación y pago sin confirmar; condiciones no aceptadas.
+Fuente: https://www.tctcmalta.com/viewer/7116/download.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1170-20261228-20270105-paola-full · TCTC Malta · Christmas Tech Camp · Paola · Full · 2026-12-28–2027-01-05
+
+lugar: Malta · Paola · edificio exacto por confirmar
+Fecha: 2026-12-28 — 2027-01-05
+Edad: 7–11 al inicio 28 de diciembre de 2026; días de enero separados no anunciados como convocatoria independiente.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Política general TCTC: clases en inglés, requieren comprensión, escritura y debate EN. Maltese solo por acuerdo de todos los alumnos y profesor; asegurar grupo inglés antes de inscripción.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · 225 EUR por 5 días completos · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio edad 8–9, dentro de 7–11. Grupo inglés y plaza aparte, experiencia puede superar nivel introductorio. Oscar: El 28 de diciembre de 2026 niño nacido en 2020 tiene como máximo 6, menor de 7. Cumpleaños posterior en enero no permite automáticamente curso completo. Suplementos: Alojamiento familiar, viaje y comida aparte. Política general prohíbe comer en aula; confirmar descansos y merienda. Pago: General terms: anticipo habitual EUR 100, puede variar por curso; saldo al inicio. Cancelación por alumno sin prometer cash refund, credit note de 3 meses con posible extensión de 3 por decisión de escuela. Cancelación por escuela describe reembolso de parte cancelada. Aplicación y pago sin confirmar; condiciones no aceptadas.
+Fuente: https://www.tctcmalta.com/viewer/7116/download.pdf
+Se ha comprobado: 2026-11-04
+
+### CP1171-20261218-20261222 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2026-12-18–2026-12-22
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2026-12-18 — 2026-12-22
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270208-20270212 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-02-08–2027-02-12
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-02-08 — 2027-02-12
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270215-20270219 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-02-15–2027-02-19
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-02-15 国 2027-02-19
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270222-20270226 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-02-22–2027-02-26
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-02-22 国 2027-02-26
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270329-20270402 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-03-29–2027-04-02
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-03-29 - 2027-04-02
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270405-20270409 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-04-05–2027-04-09
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-04-05 — 2027-04-09
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270419-20270423 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-04-19–2027-04-23
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-04-19 国 2027-04-23
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
+Se ha comprobado: 2026-11-04
+
+### CP1171-20270426-20270430 · NUEJOS · Adventure / Multi-activity Camp · Periodo para elegir día / semana · 2027-04-26–2027-04-30
+
+lugar: Suiza · Baar · Sihlbruggstrasse 3a
+Fecha: 2027-04-26 - 2027-04-30
+edad: 2–12 según Adventure; confirmar grupo infantil concreto.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma EN/ES/RU del programa concreto aún sin confirmar; web inglesa y lista de asignaturas no acreditan idioma de clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Tarifa actual sin fecha 680 CHF por semana completa antes de 8.10% MWST publicados; confirmar para sesión elegida. · suplementos y condiciones en el dossier
+Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye fin de semana; no deducir asistencia / precio final de tarifa semanal.
+Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
+Fuente: https://www.nuejos.com/holiday-camps
 Se ha comprobado: 2026-11-04
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

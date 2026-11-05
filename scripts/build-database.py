@@ -72,6 +72,8 @@ from maker_festivals_v146 import enrich_v146
 enrich_v146(d)
 from roborave_routes_v147 import enrich_v147
 enrich_v147(d)
+from camp_europe_v148 import enrich_v148
+enrich_v148(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
