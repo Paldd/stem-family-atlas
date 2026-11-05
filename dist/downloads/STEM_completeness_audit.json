@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 4962,
-    "competition_cards": 1441,
-    "event_cards": 231,
-    "camp_cards": 3290,
-    "league_profiles": 152,
+    "cards": 4988,
+    "competition_cards": 1451,
+    "event_cards": 234,
+    "camp_cards": 3303,
+    "league_profiles": 153,
     "major_exhibition_cards": 149,
     "vex_cards": 518,
-    "countries_with_records": 92,
+    "countries_with_records": 97,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 105,
-      "countries_with_records": 11,
-      "competitions": 63,
-      "events": 12,
+      "total": 130,
+      "countries_with_records": 16,
+      "competitions": 73,
+      "events": 15,
       "major_exhibitions": 7,
-      "camps": 30,
+      "camps": 42,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1358,
+      "total": 1359,
       "countries_with_records": 29,
       "competitions": 369,
       "events": 72,
       "major_exhibitions": 64,
-      "camps": 917,
+      "camps": 918,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -1127,13 +1127,20 @@
       "name": "International Robot Challenge · Egypt",
       "group": "international",
       "event_ids": [
-        "C069"
+        "C069",
+        "C1443",
+        "C1444",
+        "C1445",
+        "C1446",
+        "C1447",
+        "C1448",
+        "C1449"
       ],
-      "cards": 1,
+      "cards": 8,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 8,
       "status": "Есть профиль и карточки; местный охват частичный",
-      "source": "https://www.international-robotchallenge.org/competition/",
+      "source": "https://international-robotchallenge.org/competition/robo-boom",
       "new": false
     },
     {
@@ -3500,6 +3507,20 @@
       "linked_card_count": 111,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://firstrobotics.kz/",
+      "new": false
+    },
+    {
+      "id": "zambia-jets",
+      "name": "Zambia JETS · Digital, Robotics & Intelligent Systems",
+      "group": "regional",
+      "event_ids": [
+        "C1450"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.dnsc.gov.zm/jets26/index.php?year=2026",
       "new": false
     },
     {
@@ -7302,11 +7323,11 @@
       }
     ],
     "counts": {
-      "records": 3290,
-      "holiday": 3171,
-      "regular": 95,
+      "records": 3303,
+      "holiday": 3178,
+      "regular": 101,
       "self_paced_materials": 2,
-      "boarding": 953,
+      "boarding": 954,
       "en_es_instruction": 906,
       "en_es_support": 11,
       "family_instruction": 906,
@@ -7315,7 +7336,7 @@
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 56
+      "countries": 60
     },
     "validation": {
       "version": 51,

@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Tarjetas en la base: 4962; competiciones: 1441; eventos: 231; campamentos / programas: 3290. Perfiles de ligas y programas: 152. Tarjetas de exposiciones importantes y especializadas: 149 — son ediciones y sedes, no número de marcas únicas.
+Tarjetas en la base: 4988; competiciones: 1451; eventos: 234; campamentos / programas: 3303. Perfiles de ligas y programas: 153. Tarjetas de exposiciones importantes y especializadas: 149 — son ediciones y sedes, no número de marcas únicas.
 
-Hay registros específicos para 92 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
+Hay registros específicos para 97 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -17,13 +17,13 @@ Hay registros específicos para 92 de 249 países y territorios; países auditad
 | América del Norte | 14 | 594 | 19 | 941 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 23 | 178 | 50 | 1170 |
-| África | 11 | 63 | 7 | 30 |
-| Asia | 29 | 369 | 64 | 917 |
+| África | 16 | 73 | 7 | 42 |
+| Asia | 29 | 369 | 64 | 918 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1441 tarjetas de competiciones (35.9%). Es un desequilibrio evidente de cobertura.
+VEX: 518 de 1451 tarjetas de competiciones (35.7%). Es un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -110,7 +110,7 @@ VEX: 518 de 1441 tarjetas de competiciones (35.9%). Es un desequilibrio evidente
 - *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
 - **International Robot Olympiad**: 11 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.iroc.org/home?l=ko&s=10280
 - **IYRC**: 1 tarjeta, 0 con fechas exactas futuras. https://www.myrobotacademy.ai/iyrcasean2026
-- * International Robot Challenge · Egypt**: 1 tarjeta, 0 con fechas exactas futuras. https://www.international-robotchallenge.org/competition/
+- **International Robot Challenge · Egypt**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://international-robotchallenge.org/competition/robo-boom
 - **TechnoXian**: 5 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.technoxian.com/events
 - **Robofest · Azerbaijan**: 1 tarjeta, 0 con fechas exactas futuras. https://robofestinternational.org/sumo-strike-junior-6-10-yas/
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
@@ -242,6 +242,7 @@ VEX: 518 de 1441 tarjetas de competiciones (35.9%). Es un desequilibrio evidente
 - **RoboCupJunior Américas · Primary / SuperRegional**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupamericas.org/es/
 - **Eduvisión Robotics Challenge Panamá**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eduvisionpnm.com/challenge/
 - **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 fichas, 98 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstrobotics.kz/
+- **Zambia JETS · Digital, Robotics & Intelligent Systems**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.dnsc.gov.zm/jets26/index.php?year=2026
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

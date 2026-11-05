@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1291,
-    "countries": 46,
+    "dossiers": 1307,
+    "countries": 51,
     "swiss": 136,
     "by_status": {
-      "published_2026_27": 177,
+      "published_2026_27": 180,
       "published_2027": 334,
-      "partial_2027": 118,
-      "next_unannounced": 241,
-      "published_2026": 276,
+      "partial_2027": 120,
+      "next_unannounced": 248,
+      "published_2026": 277,
       "partial_2026_27": 20,
       "partial_2026": 14,
-      "archive_next_unannounced": 111
+      "archive_next_unannounced": 114
     },
-    "source_urls": 1926
+    "source_urls": 1944
   },
   "countries": [
     {
@@ -61,6 +61,10 @@
     {
       "country": "Bélgica",
       "count": 2
+    },
+    {
+      "country": "Botsuana",
+      "count": 4
     },
     {
       "country": "Brasil",
@@ -131,6 +135,10 @@
       "count": 2
     },
     {
+      "country": "Mauricio",
+      "count": 2
+    },
+    {
       "country": "Malasia",
       "count": 8
     },
@@ -141,6 +149,10 @@
     {
       "country": "México",
       "count": 58
+    },
+    {
+      "country": "Namibia",
+      "count": 4
     },
     {
       "country": "Países Bajos",
@@ -172,7 +184,7 @@
     },
     {
       "country": "Singapur",
-      "count": 153
+      "count": 154
     },
     {
       "country": "Tailandia",
@@ -181,6 +193,10 @@
     {
       "country": "Taiwán",
       "count": 66
+    },
+    {
+      "country": "Tanzania",
+      "count": 4
     },
     {
       "country": "Uganda",
@@ -220,6 +236,10 @@
     },
     {
       "country": "Ecuador",
+      "count": 1
+    },
+    {
+      "country": "de la ciudad",
       "count": 1
     },
     {
@@ -205577,6 +205597,1623 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1292",
+      "slug": "robotschool-namibia-holiday-junior",
+      "provider": "Robotschool Namibia · Holiday JUNIOR",
+      "iso": "NAM",
+      "country": "Namibia",
+      "place": "16 Seder Street · Suiderhof · Windhoek",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–8",
+      "programme": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sistema actual muestra 14 mañanas independientes 23 de noviembre – 11 de diciembre 2026, 09:00–12:00; 10 de diciembre no figura. Sin trasladar agosto–septiembre antiguos del resumen de búsqueda. Plazas son instantánea variable, no reserva.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-12-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-23",
+            "end": "2026-12-11",
+            "variant_key": "junior",
+            "label": "Holiday JUNIOR",
+            "price": "2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí.",
+            "source": "https://www.robotschoolnamibia.com/holiday-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T07:00:00Z",
+                "end_utc": "2026-11-23T10:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T07:00:00Z",
+                "end_utc": "2026-11-24T10:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T07:00:00Z",
+                "end_utc": "2026-11-25T10:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T07:00:00Z",
+                "end_utc": "2026-11-26T10:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T07:00:00Z",
+                "end_utc": "2026-11-27T10:00:00Z"
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-30T07:00:00Z",
+                "end_utc": "2026-11-30T10:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T07:00:00Z",
+                "end_utc": "2026-12-01T10:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T07:00:00Z",
+                "end_utc": "2026-12-02T10:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T07:00:00Z",
+                "end_utc": "2026-12-03T10:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T07:00:00Z",
+                "end_utc": "2026-12-04T10:00:00Z"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-07T07:00:00Z",
+                "end_utc": "2026-12-07T10:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T07:00:00Z",
+                "end_utc": "2026-12-08T10:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T07:00:00Z",
+                "end_utc": "2026-12-09T10:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T07:00:00Z",
+                "end_utc": "2026-12-11T10:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "NAD",
+        "amount": 450,
+        "unit": "child_session",
+        "label": "2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí.",
+        "included": "Una mañana elegida 09:00–12:00; confirmar materiales, portátil, comida y devolución específica del campamento.",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current Holiday Camp",
+          "url": "https://www.robotschoolnamibia.com/holiday-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Public available dates snapshot",
+          "url": "https://www.robotschoolnamibia.com/api/holiday-camp-availability",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1292-20261123-20261211-junior"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1293",
+      "slug": "robotschool-namibia-holiday-senior",
+      "provider": "Robotschool Namibia · Holiday SENIOR",
+      "iso": "NAM",
+      "country": "Namibia",
+      "place": "16 Seder Street · Suiderhof · Windhoek",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–14",
+      "programme": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Sistema actual muestra 14 mañanas independientes 23 de noviembre – 11 de diciembre 2026, 09:00–12:00; 10 de diciembre no figura. Sin trasladar agosto–septiembre antiguos del resumen de búsqueda. Plazas son instantánea variable, no reserva.",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-12-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-23",
+            "end": "2026-12-11",
+            "variant_key": "senior",
+            "label": "Holiday SENIOR",
+            "price": "2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí.",
+            "source": "https://www.robotschoolnamibia.com/holiday-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "open_application",
+            "sessions": [
+              {
+                "date": "2026-11-23",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-23T07:00:00Z",
+                "end_utc": "2026-11-23T10:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T07:00:00Z",
+                "end_utc": "2026-11-24T10:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T07:00:00Z",
+                "end_utc": "2026-11-25T10:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T07:00:00Z",
+                "end_utc": "2026-11-26T10:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T07:00:00Z",
+                "end_utc": "2026-11-27T10:00:00Z"
+              },
+              {
+                "date": "2026-11-30",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-11-30T07:00:00Z",
+                "end_utc": "2026-11-30T10:00:00Z"
+              },
+              {
+                "date": "2026-12-01",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-01T07:00:00Z",
+                "end_utc": "2026-12-01T10:00:00Z"
+              },
+              {
+                "date": "2026-12-02",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-02T07:00:00Z",
+                "end_utc": "2026-12-02T10:00:00Z"
+              },
+              {
+                "date": "2026-12-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-03T07:00:00Z",
+                "end_utc": "2026-12-03T10:00:00Z"
+              },
+              {
+                "date": "2026-12-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-04T07:00:00Z",
+                "end_utc": "2026-12-04T10:00:00Z"
+              },
+              {
+                "date": "2026-12-07",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-07T07:00:00Z",
+                "end_utc": "2026-12-07T10:00:00Z"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-08T07:00:00Z",
+                "end_utc": "2026-12-08T10:00:00Z"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-09T07:00:00Z",
+                "end_utc": "2026-12-09T10:00:00Z"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "Africa/Windhoek",
+                "topic": "Clases prácticas matinales de robótica: construir, programar, probar y mejorar proyecto. Junior 4–8 para Oscar y Senior 9–14 para Matvey tienen mismo horario; niños en grupos de edad distintos. Cada grupo tiene máximo 8 niños.",
+                "ical_timed": true,
+                "start_utc": "2026-12-11T07:00:00Z",
+                "end_utc": "2026-12-11T10:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "NAD",
+        "amount": 450,
+        "unit": "child_session",
+        "label": "2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí.",
+        "included": "Una mañana elegida 09:00–12:00; confirmar materiales, portátil, comida y devolución específica del campamento.",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current Holiday Camp",
+          "url": "https://www.robotschoolnamibia.com/holiday-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Public available dates snapshot",
+          "url": "https://www.robotschoolnamibia.com/api/holiday-camp-availability",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1293-20261123-20261211-senior"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1294",
+      "slug": "robotschool-namibia-2027-junior",
+      "provider": "Robotschool Namibia · Junior membership 2027",
+      "iso": "NAM",
+      "country": "Namibia",
+      "place": "16 Seder Street · Suiderhof · Windhoek",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8",
+      "programme": "Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NAD",
+        "amount": 1125,
+        "unit": "child_month",
+        "label": "NAD 1125 / month + 160.50 registration. Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current 2027 registration and membership contract",
+          "url": "https://www.robotschoolnamibia.com/register",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular",
+      "related_event_ids": [
+        "L464"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1295",
+      "slug": "robotschool-namibia-2027-senior",
+      "provider": "Robotschool Namibia · Senior membership 2027",
+      "iso": "NAM",
+      "country": "Namibia",
+      "place": "16 Seder Street · Suiderhof · Windhoek",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–11",
+      "programme": "Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "NAD",
+        "amount": 1230,
+        "unit": "child_month",
+        "label": "NAD 1230 / month + 160.50 registration. Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Current 2027 registration and membership contract",
+          "url": "https://www.robotschoolnamibia.com/register",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular",
+      "related_event_ids": [
+        "L465"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1296",
+      "slug": "xtream-green-2026",
+      "provider": "Xtream Robotics · Green Light Robotics & Coding",
+      "iso": "BWA",
+      "country": "Botsuana",
+      "place": "Block 8 · Gaborone · Green Light Day Care Centre",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6",
+      "programme": "Construcción de robots, retos lúdicos de programación, Scratch, electrónica y STEM. Team competitions internos y Certificate of Participation no son título mundial.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar. 2026-11-23–2026-11-27 · 08:00–13:00",
+        "sessions": [
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "variant_key": "green",
+            "label": "Green Light Robotics & Coding",
+            "price": "BWP 1150 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+            "source": "https://xtreamrobotics.com/robotics-coding-camp-green-light-day-care-centre/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "closed",
+              "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+            },
+            "admission_kind": "closed",
+            "registration_status": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BWP",
+        "amount": 1150,
+        "unit": "child_camp",
+        "label": "BWP 1150 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Green Light Robotics & Coding",
+          "url": "https://xtreamrobotics.com/robotics-coding-camp-green-light-day-care-centre/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current closed camp directory",
+          "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund policy",
+          "url": "https://xtreamrobotics.com/refund-policy/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "closed",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+      },
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-23",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1296-20261123-20261127-green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1297",
+      "slug": "xtream-steam-2026",
+      "provider": "Xtream Robotics · Treasure Quest STEAM",
+      "iso": "BWA",
+      "country": "Botsuana",
+      "place": "Partial · Gaborone · Treasure Quest Pre School",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–9",
+      "programme": "Construcción de robots, retos lúdicos de programación, Scratch, electrónica y STEM. Team competitions internos y Certificate of Participation no son título mundial.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar. 2026-09-07–2026-09-09 · 09:00–12:00",
+        "sessions": [
+          [
+            "2026-09-07",
+            "2026-09-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-09-07",
+            "end": "2026-09-09",
+            "variant_key": "steam",
+            "label": "Treasure Quest STEAM",
+            "price": "BWP 550 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+            "source": "https://xtreamrobotics.com/steam-camp-treasure-quest-preschool/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "closed",
+              "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+            },
+            "admission_kind": "closed",
+            "registration_status": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BWP",
+        "amount": 550,
+        "unit": "child_camp",
+        "label": "BWP 550 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Treasure Quest STEAM",
+          "url": "https://xtreamrobotics.com/steam-camp-treasure-quest-preschool/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current closed camp directory",
+          "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund policy",
+          "url": "https://xtreamrobotics.com/refund-policy/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "closed",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1298",
+      "slug": "xtream-fun-2026",
+      "provider": "Xtream Robotics · Treasure Quest Robotics Fun",
+      "iso": "BWA",
+      "country": "Botsuana",
+      "place": "Partial · Gaborone · Treasure Quest Pre School",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–12",
+      "programme": "Construcción de robots, retos lúdicos de programación, Scratch, electrónica y STEM. Team competitions internos y Certificate of Participation no son título mundial.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar. 2026-09-10–2026-09-12 · 09:00–12:00",
+        "sessions": [
+          [
+            "2026-09-10",
+            "2026-09-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-09-10",
+            "end": "2026-09-12",
+            "variant_key": "fun",
+            "label": "Treasure Quest Robotics Fun",
+            "price": "BWP 550 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+            "source": "https://xtreamrobotics.com/robotics-fun-camp-treasure-quest-preschool/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "closed",
+              "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+            },
+            "admission_kind": "closed",
+            "registration_status": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BWP",
+        "amount": 550,
+        "unit": "child_camp",
+        "label": "BWP 550 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Treasure Quest Robotics Fun",
+          "url": "https://xtreamrobotics.com/robotics-fun-camp-treasure-quest-preschool/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current closed camp directory",
+          "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund policy",
+          "url": "https://xtreamrobotics.com/refund-policy/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "closed",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1299",
+      "slug": "xtream-hillcrest-2026",
+      "provider": "Xtream Robotics · Hillcrest Robotics & AI",
+      "iso": "ZAF",
+      "country": "de la ciudad",
+      "place": "Hillcrest Secondary School · Durban",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–13",
+      "programme": "Construcción de robots, retos lúdicos de programación, Scratch, electrónica y STEM. Team competitions internos y Certificate of Participation no son título mundial.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar. 2026-08-14–2026-08-15 · 08:00–13:00",
+        "sessions": [
+          [
+            "2026-08-14",
+            "2026-08-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-08-14",
+            "end": "2026-08-15",
+            "variant_key": "hillcrest",
+            "label": "Hillcrest Robotics & AI",
+            "price": "ZAR 800 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+            "source": "https://xtreamrobotics.com/robotics-ai-camp-hillcrest-secondary-school/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_session",
+            "availability": {
+              "status": "closed",
+              "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+            },
+            "admission_kind": "closed",
+            "registration_status": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "ZAR",
+        "amount": 800,
+        "unit": "child_camp",
+        "label": "ZAR 800 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hillcrest Robotics & AI",
+          "url": "https://xtreamrobotics.com/robotics-ai-camp-hillcrest-secondary-school/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Current closed camp directory",
+          "url": "https://xtreamrobotics.com/physical-steam-robotics-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund policy",
+          "url": "https://xtreamrobotics.com/refund-policy/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "availability": {
+        "status": "closed",
+        "label": "Inscripción cerrada según página actual aunque fecha sea futura. Archivo / seguimiento de próxima convocatoria, no oferta abierta familiar."
+      },
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1300",
+      "slug": "xtream-weekend-gaborone",
+      "provider": "Xtream Robotics · Saturday term classes",
+      "iso": "BWA",
+      "country": "Botsuana",
+      "place": "Treasure Quest Pre School · Plot 5438 · Partial · Gaborone",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–7 / 8–12",
+      "programme": "10 sábados de 2 horas por term, no campamento vacacional. Grupo menor 4–7: 09:00–11:00; mayor 8–12: 12:00–14:00. Hermanos en horarios distintos. Robotics, block coding, circuits y fundamentos AI por nivel; fechas del term sin anunciar.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "BWP",
+        "amount": 2500,
+        "unit": "child_term",
+        "label": "BWP 2500 por niño / term de 10 clases de dos horas; ambos 5000 antes de cargos no indicados.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Weekend classes programme",
+          "url": "https://xtreamrobotics.com/weekend-robotics-coding-classes/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Refund policy",
+          "url": "https://xtreamrobotics.com/refund-policy/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular",
+      "related_event_ids": [
+        "L466"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1301",
+      "slug": "projekt-inspire-holiday-camps",
+      "provider": "Projekt Inspire · Holiday Camps",
+      "iso": "TZA",
+      "country": "Tanzania",
+      "place": "Dar es Salaam · confirmar sede elegida",
+      "themes": [
+        "science",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 / 7–14",
+      "programme": "4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Vacaciones NECTA / Cambridge: lunes–viernes hasta cuatro semanas, mañana o tarde de 2½ horas con descanso de 30 minutos. Elegir grupo y tema de robótica concreto; todo período vacacional no equivale a una sesión.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Holiday Camps",
+          "url": "https://projektinspire.co.tz/programmes/holiday-camps",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday",
+      "related_event_ids": [
+        "L467"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1302",
+      "slug": "projekt-inspire-saturday-stem-sessions",
+      "provider": "Projekt Inspire · Saturday STEM",
+      "iso": "TZA",
+      "country": "Tanzania",
+      "place": "Dar es Salaam · confirmar sede elegida",
+      "themes": [
+        "science",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 / 7–14",
+      "programme": "4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Grupo de sábado 10:00–13:00, 3 horas con descanso de 30 minutos; clases regulares, no campamento.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Saturday STEM",
+          "url": "https://projektinspire.co.tz/programmes/saturday-stem-sessions",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular",
+      "related_event_ids": [
+        "L468"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1303",
+      "slug": "projekt-inspire-daily-private-sessions",
+      "provider": "Projekt Inspire · Private STEM",
+      "iso": "TZA",
+      "country": "Tanzania",
+      "place": "Dar es Salaam · confirmar sede elegida",
+      "themes": [
+        "science",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–6 / 7–14",
+      "programme": "4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Clases STEM individuales de 2½ horas con descanso de 30 minutos; concertadas dentro de horario laboral 08:30–17:00. No jornada completa ni campamento.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Private STEM",
+          "url": "https://projektinspire.co.tz/programmes/daily-private-sessions",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular",
+      "related_event_ids": [
+        "L469"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1304",
+      "slug": "projekt-inspire-youth-bootcamp",
+      "provider": "Projekt Inspire · STEM Youth Bootcamp",
+      "iso": "TZA",
+      "country": "Tanzania",
+      "place": "Tanzania · sede de próxima edición sin anunciar",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "O-Level / A-Level / college / university",
+      "programme": "Youth bootcamp anual: coding, robotics, engineering, digital tools, leadership, proyectos y pitch. Admite O-Level y superiores; ambos niños aún menores del nivel escolar requerido. Fechas nuevas coming soon, pernocta sin establecer.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Formato diurno / residencial sin confirmar; para ambos niños es nivel escolar futuro.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Youth bootcamp anual: coding, robotics, engineering, digital tools, leadership, proyectos y pitch. Admite O-Level y superiores; ambos niños aún menores del nivel escolar requerido. Fechas nuevas coming soon, pernocta sin establecer."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Youth bootcamp anual: coding, robotics, engineering, digital tools, leadership, proyectos y pitch. Admite O-Level y superiores; ambos niños aún menores del nivel escolar requerido. Fechas nuevas coming soon, pernocta sin establecer."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Youth bootcamp programme",
+          "url": "https://projektinspire.co.tz/programmes/youth-bootcamps",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L470"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1305",
+      "slug": "ttc-singapore-exchange-2026",
+      "provider": "TTC · Tanzania–Singapore STEM Exchange",
+      "iso": "SGP",
+      "country": "Singapur",
+      "place": "Singapore · viaje desde Dar es Salaam",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "science"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "8–17",
+      "programme": "Organizador de Tanzania anuncia viaje STEM a Singapore, robotics / AI / coding, OWIS, Science Centre, NUS e IEEE session. Visitas declaradas por TTC, sin confirmación separada de sedes receptoras. Programa dirigido a Tanzanian students; acceso familiar extranjero y acompañamiento desconocidos.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "7–17 de diciembre 2026 según página. Organizador dice 10 Days, pero son 11 fechas naturales inclusive; confirmar itinerario / noches exactos. Rótulo 6 slots es anuncio variable, no garantía de plaza.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-17"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-17",
+            "variant_key": "exchange",
+            "label": "STEM Exchange",
+            "price": "Página indica $2850 DAR-to-DAR y posible suplemento de hasta $350 por vuelo, es decir hasta $3200. Código de moneda no indicado. Llegada a Dar es Salaam, gastos parentales, trámites de pasaporte / entrada, exclusiones de seguro y cancelación aparte; all-inclusive no es presupuesto familiar completo.",
+            "source": "https://ttc.or.tz/events/singapore/",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_session",
+            "admission_kind": "school"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "child_trip",
+        "label": "Página indica $2850 DAR-to-DAR y posible suplemento de hasta $350 por vuelo, es decir hasta $3200. Código de moneda no indicado. Llegada a Dar es Salaam, gastos parentales, trámites de pasaporte / entrada, exclusiones de seguro y cancelación aparte; all-inclusive no es presupuesto familiar completo.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Anunciados shared 4/5-star accommodation, todas comidas y transporte Singapore; viaje educativo, no internado escolar. Reglas de supervisión, alojamiento y contrato de seguro sin leer.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "TTC programme and package inclusions",
+          "url": "https://ttc.or.tz/events/singapore/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1305-20261207-20261217-exchange"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1306",
+      "slug": "cyberskills-coding-wizards",
+      "provider": "Cyberskills · The Coding Wizards",
+      "iso": "MUS",
+      "country": "Mauricio",
+      "place": "Zone 5 · Freeport · Mer Rouge · Mauritius",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–13",
+      "programme": "Workshop presencial inicial Scratch / Blockly: 3 días consecutivos de 1 hora, total 3 horas; no campamento de jornada completa ni de varias semanas. Interactive story, debugging y muestra familiar. Tras tres años de competiciones evaluar dificultad para Matvey.",
+      "language": "Web y syllabus exigen expresamente Basic English; inglés necesario para participar. Idioma exacto de explicaciones y apoyo español / ruso sin indicar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "english_prerequisite_not_explicit_teaching_language",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Specific workshop",
+          "url": "https://www.cyberskills.mu/courses/the-coding-wizards/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Published course syllabus",
+          "url": "https://www.cyberskills.mu/wp-content/uploads/2025/04/Course-Content-The-Coding-Wizards.pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "related_event_ids": [
+        "L471"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1307",
+      "slug": "mauritius-child-school-programme",
+      "provider": "MDPA · ChILD school coding & robotics",
+      "iso": "MUS",
+      "country": "Mauricio",
+      "place": "Primary schools · Mauritius",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 4–6",
+      "programme": "Programa público ChILD introduce coding y robotics a alumnos Grades 4–6 mediante escuelas de Mauritius y SENA. Iniciativa escolar, no campamento estival extranjero abierto; edad no sustituye curso y matrícula escolar.",
+      "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "included": "",
+        "extras": "Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero.",
+        "deposit": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Condicional — curso escolar real, escuela local y acceso extranjero sin establecer. Edad no sustituye nivel escolar."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Condicional — curso escolar real, escuela local y acceso extranjero sin establecer. Edad no sustituye nivel escolar."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Official ChILD programme",
+          "url": "https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "school_route",
+      "related_event_ids": [
+        "L472"
+      ],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -210822,7 +212459,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 163,
+  "version": 166,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -226374,6 +228011,71 @@
       "programme_id": "CP1291",
       "event_id": "CP1291-20270104-20270115-junior",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1292",
+      "event_id": "CP1292-20261123-20261211-junior",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1293",
+      "event_id": "CP1293-20261123-20261211-senior",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1296",
+      "event_id": "CP1296-20261123-20261127-green",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1305",
+      "event_id": "CP1305-20261207-20261217-exchange",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1294",
+      "event_id": "L464",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1295",
+      "event_id": "L465",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1300",
+      "event_id": "L466",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1301",
+      "event_id": "L467",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1302",
+      "event_id": "L468",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1303",
+      "event_id": "L469",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1304",
+      "event_id": "L470",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1306",
+      "event_id": "L471",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1307",
+      "event_id": "L472",
+      "relation": "existing_programme"
     }
   ],
   "generated_event_ids": [
@@ -229203,10 +230905,14 @@
     "CP1290-20270113-20270113-burwood-20270113",
     "CP1290-20261218-20261218-zetland-20261218",
     "CP1290-20270113-20270113-zetland-20270113",
-    "CP1291-20270104-20270115-junior"
+    "CP1291-20270104-20270115-junior",
+    "CP1292-20261123-20261211-junior",
+    "CP1293-20261123-20261211-senior",
+    "CP1296-20261123-20261127-green",
+    "CP1305-20261207-20261217-exchange"
   ],
   "integration": {
-    "generated_sessions": 2827,
+    "generated_sessions": 2831,
     "reused_legacy_events": 69,
     "seasonal_windows": 54,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

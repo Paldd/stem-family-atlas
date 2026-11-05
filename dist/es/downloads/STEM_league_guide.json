@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 165,
+    "version": 166,
     "checked": "2026-11-05",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -2624,57 +2624,144 @@
         "id": "irc",
         "name": "International Robot Challenge · Egypt",
         "group": "international",
-        "age_summary": "RoboBoom 6–10; otras disciplinas por separado",
+        "age_summary": "Siete disciplinas RoboBoom: edad y curso escolar distintos, discrepancia web / PDF.",
         "age_tags": [
           "6",
           "9",
           "10-12"
         ],
-        "summary": "un concurso internacional abierto con categoría menor.",
+        "summary": "Leídos bundle actual y siete PDF enlazados. Etiqueta general 6–10 sustituida por condiciones de categorías; ediciones anteriores no declaradas reglamento nuevo 2027.",
         "categories": [
           {
-            "name": "International Robot Challenge Egypt 2027 — RoboBoom",
-            "age": "RoboBoom 6–10 años; otras disciplinas según sus propias reglas",
-            "team": "Equipo; confirmar el tamaño según la categoría",
-            "hardware": "RC Code, sumo, bowling, golf, line follower y otros; kit RoboBoom para comprobar",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
-            "event_id": "C069",
-            "entry": "elegir RoboBoom; obtener el reglamento completo, el tamaño del equipo y la entrada extranjera directa",
-            "language": "EN sitio; lengua del grupo menor y jueces confirmar",
-            "note": "No hay un organizador independiente; no hay una conexión con RobotChallenge China.",
-            "source": "https://www.international-robotchallenge.org/competition/",
-            "checked": "2026-09-29"
+            "name": "RoboBoom Discover",
+            "age": "≤6 · Age: 4-6, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "Bloques grandes de cualquier marca, transporte mecánico y brazo, 10 minutos; PDF ≤6, web 4–6. Edad exacta de Oscar en fecha aún desconocida.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1443"
+          },
+          {
+            "name": "RoboBoom Construction Smart",
+            "age": "Preschool · Age: 4-6, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "Preschool en PDF; mecanismos manuales, sin motores automáticos, sensors ni controllers. Web 4–6. Requiere condición preescolar, no solo edad.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1444"
+          },
+          {
+            "name": "RoboBoom LEGO Sprint",
+            "age": "≤ Grade 4 · Age: 6-10, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "PDF ≤ Grade 4; LEGO, tamaño <20 × <20 × <20 cm, masa <1.5 kg, Drive Motors <3; autonomous line sprint. Revisions indican 30 minutos debugging, cuerpo 60 — conservar conflicto.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1445"
+          },
+          {
+            "name": "RoboBoom Construction LEGO",
+            "age": "≤ Grade 3 · Age: 6-10, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "PDF ≤ Grade 3, LEGO WeDo, construcción y programación presencial 40 minutos. Documento conserva tema 2022–2023; no aplicar como tema estacional 2027.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1446"
+          },
+          {
+            "name": "RoboBoom Challenge",
+            "age": "≤9 · Age: 6-10, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "PDF ≤9, web 6–10. Bloques plásticos, controller ports ≤4; robot y code preparados permitidos, tareas autónomas y remote-control. Matvey en 2027 tendrá 9–10: día exacto y cutoff determinan acceso.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1447"
+          },
+          {
+            "name": "RoboBoom Curling",
+            "age": "≤ Grade 3 · Age: 6-10, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "PDF ≤ Grade 3; remote-control curling, máximo 5 minutos por ronda y dos rondas. Web 6–10 no sustituye grupo escolar.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1448"
+          },
+          {
+            "name": "RoboBoom Robot Parade",
+            "age": "≤12; 1–3 members · Age: 6-10, Team size: 3-5 people",
+            "team": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "hardware": "PDF ≤12 y 1–3 participantes, uno recibe menor teamwork score; web 6–10 y 3–5. Float line-following totalmente autónomo con parada ante otro robot. Dos hermanos cumplen número solo según PDF, sin admisión Egypt 2027 acreditada.",
+            "entry": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+            "event_id": "C1449"
           }
         ],
         "event_ids": [
-          "C069"
+          "C069",
+          "C1443",
+          "C1444",
+          "C1445",
+          "C1446",
+          "C1447",
+          "C1448",
+          "C1449"
         ],
         "legacy_ids": [
           "C069"
         ],
-        "route": "elegir RoboBoom; obtener el reglamento completo, el tamaño del equipo y la entrada extranjera directa",
-        "hardware": "RC Code, sumo, bowling, golf, line follower y otros; kit RoboBoom para comprobar",
+        "route": "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+        "hardware": "Siete categorías con kits y límites distintos; elegir según PDF y handbook 2027 acordado.",
         "language": "EN sitio; lengua del grupo menor y jueces confirmar",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "un concurso internacional abierto con categoría menor.",
         "requirements": [
-          "elegir una categoría específica y la redacción de las reglas: el nombre de la red por sí mismo no da permiso.",
-          "comprobar la edad para la fecha, el grado, la formación del equipo, el coach, la plataforma y la lengua de defensa.",
-          "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
+          "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+          "Egypt 2027 anunciado. Countdown 2027-03-26T24:00:00 no sustituye días y venue confirmados; fechas exactas, plazo y cuotas sin establecer.",
+          "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
         ],
         "nuances": [
-          "No hay un organizador independiente; no hay una conexión con RobotChallenge China."
+          "Web indica 3–5 participantes; PDF RoboParade admite 1–3. PDF fijan curso escolar u otra edad frente a fichas web. Enlaces publicados a ediciones anteriores, no handbook nuevo Egypt 2027. Resolver discrepancias por escrito antes de elegir equipo / kit; dos hermanos no declarados equipo automáticamente admitido.",
+          "Egypt 2027 anunciado. Countdown 2027-03-26T24:00:00 no sustituye días y venue confirmados; fechas exactas, plazo y cuotas sin establecer."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
         "sources": [
           {
-            "title": "fuente oficial C069",
-            "url": "https://www.international-robotchallenge.org/competition/",
-            "checked": "2026-09-29"
+            "title": "Current category pages",
+            "url": "https://international-robotchallenge.org/competition/robo-boom",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Discover · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1rt8-iTgVT-YGyD0dn4Nvo1ROQ6pP0s_v",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Construction Smart · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1sM4mCyu8PLZ2sDVYpwlPMI9Q3YhT-1H0",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom LEGO Sprint · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1P1HJVP1eyajIBZ0c67YBm44iM0mZxUF8",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Construction LEGO · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1x-qVwrzmI-DXkHPpQNf54imwQOVTj3OW",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Challenge · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1oT6-nXHFxDIBEz2xO-2tgwKBtsB6NScX",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Curling · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1y64exSL_iYqsP9nO2Be2XPc18swPPg7S",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboBoom Robot Parade · linked PDF",
+            "url": "https://drive.google.com/uc?export=download&id=1acYr3DQKkiEn644mHV7nNKwYnOG0eO5c",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado.",
+        "checked": "2026-11-05"
       },
       {
         "id": "technoxian",
@@ -13233,6 +13320,46 @@
         "evidence": "Calendario y programas verificados en datos públicos del operador; reglas en documento completo."
       },
       {
+        "id": "zambia-jets",
+        "name": "Zambia JETS · Digital, Robotics & Intelligent Systems",
+        "group": "regional",
+        "age_summary": "ECE / Primary / Secondary",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Software, robotics, AI, automation e IoT; cinco dominios y Skills evaluados según sus rúbricas.",
+        "categories": [],
+        "event_ids": [
+          "C1450"
+        ],
+        "legacy_ids": [],
+        "route": "Escuela → district → province → national. Calendario público de Zambia, no torneo familiar extranjero libre. National Fair 2026 indicado en septiembre; nueva temporada y admisión extranjera sin establecer.",
+        "hardware": "Software, robotics, AI, automation e IoT; cinco dominios y Skills evaluados según sus rúbricas.",
+        "language": "Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Condicional — curso escolar real y aplicación de PDF antiguo a 2027 desconocidos; edad no sustituye curso.",
+          "Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Aprendizaje / proyecto propio; certificado y concurso interno no equivalen a victoria internacional."
+        ],
+        "cost": "Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.",
+        "award": "Aprendizaje / proyecto propio; certificado y concurso interno no equivalen a victoria internacional.",
+        "sources": [
+          {
+            "title": "DNSC official programme",
+            "url": "https://www.dnsc.gov.zm/jets26/index.php?year=2026",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Fuente oficial leída; condiciones desconocidas conservadas expresamente."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -13625,7 +13752,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "152 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "153 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

@@ -7542,6 +7542,150 @@ Restricciones: 2026, tres semanas, el 6 y 24 de julio, el camp común de inglés
 Fuente: https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
 Comprobado: 2026-10-02
 
+### L464 · Robotschool Namibia · Junior membership 2027
+
+lugar: Namibia · 16 Seder Street · Suiderhof · Windhoek
+Fecha: Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.
+Edad: 6–8
+Matvey: No — edad o nivel escolar incompatible
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: NAD 1125 / month + 160.50 registration. Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://www.robotschoolnamibia.com/register
+Se ha comprobado: 2026-11-05
+
+### L465 · Robotschool Namibia · Senior membership 2027
+
+lugar: Namibia · 16 Seder Street · Suiderhof · Windhoek
+Fecha: Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.
+Edad: 9–11
+Matway: Sí, por edad; inscripción separada
+Oscar: No ahora — edad futura
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: NAD 1230 / month + 160.50 registration. Membresía 2027 por 12 meses naturales con renovación automática; aviso escrito al menos 30 días antes de renovar. Registration NAD 160.50 por niño, VAT incluido, sin devolución. Precio mensual no es tarifa vacacional única; ausencias sin devolución. Condiciones de campamento y membresía distintas, sin consentimiento.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Programa permanente de robótica por edad. Membresía de año educativo, no sesión de campamento; confirmar nivel individual y horario. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://www.robotschoolnamibia.com/register
+Se ha comprobado: 2026-11-05
+
+### L466 · Xtream Robotics · Saturday term classes
+
+lugar: Botsuana · Treasure Quest Pre School · Plot 5438 · Partial · Gaborone
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Edad: 4–7 / 8–12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: BWP 2500 por niño / term de 10 clases de dos horas; ambos 5000 antes de cargos no indicados.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: 10 sábados de 2 horas por term, no campamento vacacional. Grupo menor 4–7: 09:00–11:00; mayor 8–12: 12:00–14:00. Hermanos en horarios distintos. Robotics, block coding, circuits y fundamentos AI por nivel; fechas del term sin anunciar. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://xtreamrobotics.com/weekend-robotics-coding-classes/
+Se ha comprobado: 2026-11-05
+
+### L467 · Projekt Inspire · Holiday Camps
+
+lugar: Tanzania · Dar es Salaam · confirmar sede elegida
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Edad: 4–6 / 7–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: 4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Vacaciones NECTA / Cambridge: lunes–viernes hasta cuatro semanas, mañana o tarde de 2½ horas con descanso de 30 minutos. Elegir grupo y tema de robótica concreto; todo período vacacional no equivale a una sesión. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://projektinspire.co.tz/programmes/holiday-camps
+Se ha comprobado: 2026-11-05
+
+### L468 · Projekt Inspire · Saturday STEM
+
+lugar: Tanzania · Dar es Salaam · confirmar sede elegida
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Edad: 4–6 / 7–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: 4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Grupo de sábado 10:00–13:00, 3 horas con descanso de 30 minutos; clases regulares, no campamento. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://projektinspire.co.tz/programmes/saturday-stem-sessions
+Se ha comprobado: 2026-11-05
+
+### L469 · Projekt Inspire · Private STEM
+
+lugar: Tanzania · Dar es Salaam · confirmar sede elegida
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Edad: 4–6 / 7–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: 4–6 y 7–14, grupos de edad separados; ambos niños compatibles por edad, pero idioma, nivel y admisión extranjera sin confirmar. Clases STEM individuales de 2½ horas con descanso de 30 minutos; concertadas dentro de horario laboral 08:30–17:00. No jornada completa ni campamento. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://projektinspire.co.tz/programmes/daily-private-sessions
+Se ha comprobado: 2026-11-05
+
+### L470 · Projekt Inspire · STEM Youth Bootcamp
+
+lugar: Tanzania · Tanzania · sede de próxima edición sin anunciar
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+edad: O-Level / A-Level / college / university
+Matvey: No — edad o nivel escolar incompatible
+Oscar: No — edad o nivel escolar incompatible
+Formato: day_camp
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Youth bootcamp anual: coding, robotics, engineering, digital tools, leadership, proyectos y pitch. Admite O-Level y superiores; ambos niños aún menores del nivel escolar requerido. Fechas nuevas coming soon, pernocta sin establecer. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://projektinspire.co.tz/programmes/youth-bootcamps
+Se ha comprobado: 2026-11-05
+
+### L471 · Cyberskills · The Coding Wizards
+
+lugar: Mauricio · Zone 5 · Freeport · Mer Rouge · Mauritius
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Edad: 8–13
+Matway: Sí, por edad; inscripción separada
+Oscar: No ahora — edad futura
+Formato: day_camp
+Idioma: Web y syllabus exigen expresamente Basic English; inglés necesario para participar. Idioma exacto de explicaciones y apoyo español / ruso sin indicar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Workshop presencial inicial Scratch / Blockly: 3 días consecutivos de 1 hora, total 3 horas; no campamento de jornada completa ni de varias semanas. Interactive story, debugging y muestra familiar. Tras tres años de competiciones evaluar dificultad para Matvey. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://www.cyberskills.mu/courses/the-coding-wizards/
+Se ha comprobado: 2026-11-05
+
+### L472 · MDPA · ChILD school coding & robotics
+
+lugar: Mauricio · Primary schools · Mauritius
+Fecha: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+edad: Grades 4–6
+Matvey: Condicional — curso escolar real, escuela local y acceso extranjero sin establecer. Edad no sustituye nivel escolar.
+Oscar: Condicional — curso escolar real, escuela local y acceso extranjero sin establecer. Edad no sustituye nivel escolar.
+Formato: regular
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Acceso: Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Limitaciones: Programa público ChILD introduce coding y robotics a alumnos Grades 4–6 mediante escuelas de Mauritius y SENA. Iniciativa escolar, no campamento estival extranjero abierto; edad no sustituye curso y matrícula escolar. Confirmar acceso extranjero individual, idioma docente, nivel adecuado, plaza y factura completa. Compatibilidad de edad no es admisión. Sin formularios, consentimientos, solicitudes, mensajes ni pagos.
+Fuente: https://mdpa.govmu.org/mdpa/index.php/children-innovative-learning-design-child-programme/
+Se ha comprobado: 2026-11-05
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -52772,6 +52916,70 @@ Precio: 2027 · AUD 595 launch antes del 1 de diciembre, luego 695; GST incluido
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Viaje, alojamiento familiar externo, comida fuera de inclusiones y cargos finales aparte; importe desconocido no es cero. Pago: 99 refundable hasta 1 de diciembre; terms prometen full programme refund hasta fin de Day 2. Plazo de admisión 18 de diciembre separado de precio 1 de diciembre y pago 3 de diciembre. Sin aceptar consents de cámara / grabación / trabajo infantil.
 Fuente: https://kids.giofai.com.au/
+Se ha comprobado: 2026-11-05
+
+### CP1292-20261123-20261211-junior · Robotschool Namibia · Holiday JUNIOR · Holiday JUNIOR · 2026-11-23–2026-12-11
+
+lugar: Namibia · 16 Seder Street · Suiderhof · Windhoek
+Fecha: 2026-11-23 — 2026-12-11
+Edad: 4–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Fuente: https://www.robotschoolnamibia.com/holiday-camp
+Se ha comprobado: 2026-11-05
+
+### CP1293-20261123-20261211-senior · Robotschool Namibia · Holiday SENIOR · Holiday SENIOR · 2026-11-23–2026-12-11
+
+lugar: Namibia · 16 Seder Street · Suiderhof · Windhoek
+Fecha: 2026-11-23 — 2026-12-11
+Edad: 9–14
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · 2026: NAD 450 por niño / mañana elegida; member 225. Non-member Book 6 get 3 free: 9 mañanas elegidas por 2700 para uno, si aplica oferta. Dos hermanos en grupos de edad distintos: 900 por mañana compartida o 5400 por 9 mañanas cada uno. Confirmar combinación de ventajas y factura. En 2027 publicada tarifa 481.50 / 240.75, pero sesiones 2027 no anunciadas aquí. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Fuente: https://www.robotschoolnamibia.com/holiday-camp
+Se ha comprobado: 2026-11-05
+
+### CP1296-20261123-20261127-green · Xtream Robotics · Green Light Robotics & Coding · Green Light Robotics & Coding · 2026-11-23–2026-11-27
+
+lugar: Botsuana · Block 8 · Gaborone · Green Light Day Care Centre
+Fecha: 2026-11-23 国 2026-11-27
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · BWP 1150 / child / camp. Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Pago confirma pedido; programas educativos generalmente sin devolución. Traslado a otro curso o producto disponible solo con decisión del operador. Baja recurrente exige aviso escrito de 30 días; ausencias normalmente sin reposición. Condiciones sin aceptar.
+Fuente: https://xtreamrobotics.com/robotics-coding-camp-green-light-day-care-centre/
+Se ha comprobado: 2026-11-05
+
+### CP1305-20261207-20261217-exchange · TTC · Tanzania–Singapore STEM Exchange · STEM Exchange · 2026-12-07–2026-12-17
+
+Lugar: Singapur Singapore · viaje desde Dar es Salaam
+Fecha: 2026-12-07 — 2026-12-17
+Edad: 8–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Idioma de estas clases EN / ES / RU sin confirmar. Página inglesa no equivale a enseñanza inglesa; comprobar apoyo al grupo elegido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Página indica $2850 DAR-to-DAR y posible suplemento de hasta $350 por vuelo, es decir hasta $3200. Código de moneda no indicado. Llegada a Dar es Salaam, gastos parentales, trámites de pasaporte / entrada, exclusiones de seguro y cancelación aparte; all-inclusive no es presupuesto familiar completo. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento y acompañamiento parental, comida, traslados, seguro, equipo y cancelación requieren factura final; gastos desconocidos no son cero. Pago: Precio, moneda, inclusiones y fechas del grupo elegido no publicados en fuente leída; solicitar factura completa.
+Fuente: https://ttc.or.tz/events/singapore/
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
