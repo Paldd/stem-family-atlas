@@ -108,18 +108,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E014@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261105T184441Z
 SUMMARY:[Exposición · visita en familia] Hannover Messe 2027
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Regla publi
- cada: visitantes menores de 15 años con un adulto\; el boleto infantil 
- especifique. Entrada de adultos: billete actual + adulto\; seleccionar l
- as zonas interactivas de antemano. una exposición industrial\; el valor
-  educativo requiere un recorrido previamente elegido. Empresas: utilizar
-  el catálogo HANNOVER MESSE 2027 y elegir puestos de robótica\; todo e
- l complejo de la feria es mucho más amplio que la robótica.. Fuente ve
- rificada el 2026-09-29.
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Menores de 
+ 15 solo con adulto responsable. DE explícito: gratis hasta 5 inclusive\
+ , desde 6 exige billete. EN dice a la vez up to 6 y from 6: sin prometer
+  entrada gratuita a Oscar\; confirmar tarifa infantil individual. Entrad
+ a de adultos: Cada persona exige billete vigente de su categoría de eda
+ d\; menores de 15 con adulto. DE exige billete desde 6 años. Confirmar 
+ tarifa infantil y apertura real del ticket shop antes de comprar.. una e
+ xposición industrial\; el valor educativo requiere un recorrido previam
+ ente elegido. Empresas: utilizar el catálogo HANNOVER MESSE 2027 y eleg
+ ir puestos de robótica\; todo el complejo de la feria es mucho más amp
+ lio que la robótica.. Fuente verificada el 2026-11-05.
 LOCATION:Hannover\, Alemania
 URL:https://www.hannovermesse.de/en/for-visitors/tickets/index-2
 STATUS:TENTATIVE
@@ -207,19 +210,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E019@family-stem.local
-DTSTAMP:20261006T205843Z
+DTSTAMP:20261105T184441Z
 SUMMARY:[Exposición · confirmar admisión de menores] automatica 2027
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270626
 DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No se ha en
  contrado visitor gate 2027 para niños de 6 y 9 años. Entrada de adulto
- s: confirmar la edad y formato antes de reservar. la compatibilidad de e
- dad no es igual a la admisión a un torneo concreto Empresas: comprobar 
- el exhibitor directory automatica 2027. las marcas de la edición anteri
- or  orientaciones\, no los puestos confirmados 2027.. Fuente verificada 
- el 2026-09-29.
+ s: confirmar la edad y formato antes de reservar. Exposición profesiona
+ l de robótica. FAQ exige ticket individual y photo ID\; acceso infantil
+  y categoría adecuada desconocidos. PLUS TICKET es suplemento voluntari
+ o\, no precio completo. Empresas: comprobar el exhibitor directory autom
+ atica 2027. las marcas de la edición anterior  orientaciones\, no los p
+ uestos confirmados 2027.. Fuente verificada el 2026-11-05.
 LOCATION:Munich\, Alemania
-URL:https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines
+URL:https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -568,6 +572,27 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Página act
  -04.
 LOCATION:Singapore — Marina Bay Sands\, Singapur
 URL:https://gitexasia.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E082@family-stem.local
+DTSTAMP:20261105T184441Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] GITEX Africa 20
+ 27
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. en el artí
+ culo FAQ 18+. exclusión 16–17 años con la escuela no es adecuado par
+ a los niños 6 y 9 años\; las nuevas condiciones y fechas de aclarar. E
+ ntrada de adultos: comprobar los billetes / registros actuales y las lim
+ itaciones de la actividad seleccionada. Fechas 2027 localizadas y conser
+ vadas de páginas propias nuevas. FAQ sigue describiendo otras temporada
+ s\; confirmar sede final\, tarifa y nueva edición de visitor conditions
+ . Empresas: La lista de las futuras ediciones aún se está revisando.. 
+ Fuente verificada el 2026-11-05.
+LOCATION:Marrakech · confirmar sede 2027\, Marruecos
+URL:https://gitexafrica.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -929,21 +954,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stem-exhibition-E107@family-stem.local
-DTSTAMP:20261006T205843Z
-SUMMARY:[Exposición · confirmar admisión de menores] Automation Expo I
- ndia 2027
+DTSTAMP:20261105T184441Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Automation Expo
+  India 2027
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270606
-DESCRIPTION:Idea de visita\; no es una inscripción aceptada. No hay una 
- autorización clara para los niños 6/9 en la fuente que se lee\; obtene
- r la respuesta del organizador antes de comprar los boletos. Entrada de 
- adultos: Free visitor registration\, el permiso del organizador\; audien
- cia profesional. entrada infantil\, especifique..  Empresas: la presenci
- a de industrias / expo confirmada. la lista separada de las empresas de 
- esta edición no se ha comprobado\; la participación de los expositores
-  pasados no se garantiza.. Fuente verificada el 2026-09-30.
-LOCATION:Mumbai · B.E.C. Goregaon\, India
-URL:https://www.automationindiaexpo.com/
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Visitor pag
+ e propia prohíbe entrada a menores de 18. Student entry solo 5 de junio
+  de 2027 no se declara excepción de edad\; ninguno de los niños admiti
+ do. Entrada de adultos: Visitor registration gratuita para profesional a
+ dulto. Prohibida entrada de menores de 18\; student day 5 de junio no es
+  excepción para escolares de 6 y 9. Sin billete ni confirmación recibi
+ dos..  Empresas: la presencia de industrias / expo confirmada. la lista 
+ separada de las empresas de esta edición no se ha comprobado\; la parti
+ cipación de los expositores pasados no se garantiza.. Fuente verificada
+  el 2026-11-05.
+LOCATION:Bombay Exhibition Centre · Goregaon\, Mumbai · Halls 2\, 3\, 4
+  & 6\, India
+URL:https://www.automationindiaexpo.com/visit
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2208,6 +2236,220 @@ DESCRIPTION:Idea de visita\; no es una inscripción aceptada. el visitor
  ún sin confirmar.. Fuente verificada el 2026-11-05.
 LOCATION:Shanghai / Shanghai · NECC Hongqiao\, China
 URL:https://www.hmf-china.com/En/Co/?AID=191&CID=21
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E220@family-stem.local
+DTSTAMP:20261105T184441Z
+SUMMARY:[Exposición · confirmar admisión de menores] China Hi-Tech Fai
+ r · CHTF 2026
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Ticket noti
+ ce chino permite menores de 16 con tutor y acuerdo firmado presencialmen
+ te. Otra entry page china prohíbe menores de 16\; inglesa exige edad ab
+ ove 16. Todas páginas propias CHTF. Sin confirmar regla vigente\, pasap
+ ortes extranjeros y acuerdo no considerar permitida visita infantil. Ent
+ rada de adultos: Registro profesional\; pasaporte / ID\, QR o badge. Pá
+ gina china dirige documentos extranjeros al visitor service desk. 26–2
+ 8 de noviembre 09:00–17:00\, última entrada 16:00.. Ticket notice chi
+ no permite menores de 16 con tutor y acuerdo firmado presencialmente. Ot
+ ra entry page china prohíbe menores de 16\; inglesa exige edad above 16
+ . Todas páginas propias CHTF. Sin confirmar regla vigente\, pasaportes 
+ extranjeros y acuerdo no considerar permitida visita infantil. Idea de v
+ isita\, no registro aceptado. Sin formularios enviados\, mensajes\, cons
+ entimientos\, compras ni pagos. Empresas: Confirmar empresas de edición
+  elegida y acceso a demostraciones en catálogo vigente. Logotipos pasad
+ os y escala prevista no prueban participación de todas empresas en nuev
+ a temporada.. Fuente verificada el 2026-11-05.
+LOCATION:Shenzhen World · Bao’an · No.1 Zhancheng Rd\, China
+URL:https://www.chtf.com/english/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E221@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] ITES Shenzhen 2
+ 027 · robotics / industrial manufacturing
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270328
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Ambos regis
+ tros propios ITES\, EN y CN\, prohíben visitantes menores de 18\; acces
+ o solo profesional. Ninguno de los niños admitido. Entrada de adultos: 
+ Extranjeros dirigidos a registro EN. FAQ: confirmation\, pasaporte / ID 
+ y dos business cards\; miércoles–viernes 09:00–17:00\, sábado 09:0
+ 0–15:00. Footer Contact simplifica hasta 17:00 todos días: referencia
+  es tabla FAQ detallada\; confirmar horario final.. Idea de visita\, no 
+ registro aceptado. Sin formularios enviados\, mensajes\, consentimientos
+ \, compras ni pagos. Empresas: Confirmar empresas de edición elegida y 
+ acceso a demostraciones en catálogo vigente. Logotipos pasados y escala
+  prevista no prueban participación de todas empresas en nueva temporada
+ .. Fuente verificada el 2026-11-05.
+LOCATION:Shenzhen World · Bao’an · No.1 Zhancheng Rd\, China
+URL:https://global.iteschina.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E222@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] Infosecurity Eu
+ rope 2027
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. FAQ prohíb
+ e expresamente menores de 16. Student Pass dirigido a estudiantes / grad
+ uados que buscan empleo\, no niños de 6 y 9\; exige confirmación. Entr
+ ada de adultos: Verificar categoría propia Visitor / Student / Conferen
+ ce Pass. Martes y miércoles 09:30–17:30\, jueves 09:30–16:00\; even
+ to profesional de cybersecurity\, no exposición de todos fabricantes de
+  robots.. Idea de visita\, no registro aceptado. Sin formularios enviado
+ s\, mensajes\, consentimientos\, compras ni pagos. Empresas: Confirmar e
+ mpresas de edición elegida y acceso a demostraciones en catálogo vigen
+ te. Logotipos pasados y escala prevista no prueban participación de tod
+ as empresas en nueva temporada.. Fuente verificada el 2026-11-05.
+LOCATION:ExCeL London · One Western Gateway\, Reino Unido
+URL:https://www.infosecurityeurope.com/en-gb/help.html
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E223@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · confirmar admisión de menores] automatica Shangh
+ ai 2027
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270311
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Sin estable
+ cer regla directa para entrada de niños de 6 y 9 años en salas elegida
+ s\; acompañamiento adulto por sí solo no acredita admisión. Entrada d
+ e adultos: Verificar perfil profesional\, visitor pass vigente y acceso 
+ a salas elegidas.. Primera edición internacional automatica\, organizad
+ a por Messe Muenchen Shanghai con asociaciones sectoriales. Paralela a L
+ ASER World of Photonics China\, pero exposiciones temáticas distintas. 
+ Lunes / martes 09:00–17:00\, miércoles hasta 16:00. Sin trasladar reg
+ las infantiles Munich a Shanghai. Empresas: Confirmar empresas de edici
+ ón elegida y acceso a demostraciones en catálogo vigente. Logotipos pa
+ sados y escala prevista no prueban participación de todas empresas en n
+ ueva temporada.. Fuente verificada el 2026-11-05.
+LOCATION:Shanghai New International Expo Centre · No.2345 Longyang Rd\, 
+ Pudong\, China
+URL:https://www.automatica-sh.com.cn/en/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E224@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] GITEX AI LATAM 
+ 2027
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270318
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condiciones
+  propias de este país: solo trade / business professionals\, entrada de
+ sde 18. Niños de 6 y 9 no admitidos\; Student Pass no elimina límite d
+ e edad. Entrada de adultos: Verificar perfil profesional\, visitor pass 
+ vigente y acceso a salas elegidas.. Idea de visita\, no registro aceptad
+ o. Sin formularios enviados\, mensajes\, consentimientos\, compras ni pa
+ gos. Empresas: Confirmar empresas de edición elegida y acceso a demostr
+ aciones en catálogo vigente. Logotipos pasados y escala prevista no pru
+ eban participación de todas empresas en nueva temporada.. Fuente verifi
+ cada el 2026-11-05.
+LOCATION:São Paulo · Anhembi Convention Center\, Brasil
+URL:https://www.gitexlatam.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E225@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] GITEX AI Medite
+ rranean / Italy 2027
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270423
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condiciones
+  propias de este país: solo trade / business professionals\, entrada de
+ sde 18. Niños de 6 y 9 no admitidos\; Student Pass no elimina límite d
+ e edad. Entrada de adultos: Verificar perfil profesional\, visitor pass 
+ vigente y acceso a salas elegidas.. Idea de visita\, no registro aceptad
+ o. Sin formularios enviados\, mensajes\, consentimientos\, compras ni pa
+ gos. Empresas: Confirmar empresas de edición elegida y acceso a demostr
+ aciones en catálogo vigente. Logotipos pasados y escala prevista no pru
+ eban participación de todas empresas en nueva temporada.. Fuente verifi
+ cada el 2026-11-05.
+LOCATION:Rome · Roma Convention Center La Nuvola\, Italia
+URL:https://www.gitexitaly.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E226@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] GITEX AI Belgra
+ de 2027
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condiciones
+  propias de este país: solo trade / business professionals\, entrada de
+ sde 18. Niños de 6 y 9 no admitidos\; Student Pass no elimina límite d
+ e edad. Entrada de adultos: Verificar perfil profesional\, visitor pass 
+ vigente y acceso a salas elegidas.. Idea de visita\, no registro aceptad
+ o. Sin formularios enviados\, mensajes\, consentimientos\, compras ni pa
+ gos. Empresas: Confirmar empresas de edición elegida y acceso a demostr
+ aciones en catálogo vigente. Logotipos pasados y escala prevista no pru
+ eban participación de todas empresas en nueva temporada.. Fuente verifi
+ cada el 2026-11-05.
+LOCATION:Belgrade Fair · Serbia\, Serbia
+URL:https://www.gitexbelgrade.com/home
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E227@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · niños de 6/9 años no admitidos] GITEX AI India 
+ 2027
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Condiciones
+  propias de este país: solo trade / business professionals\, entrada de
+ sde 18. Niños de 6 y 9 no admitidos\; Student Pass no elimina límite d
+ e edad. Entrada de adultos: Verificar perfil profesional\, visitor pass 
+ vigente y acceso a salas elegidas.. Hero y FAQ: 2–4 de junio de 2027\,
+  BIEC Bengaluru. Meta title aún dice April 2027\; fecha de junio corres
+ ponde a India\, no Berlin. Supernova selecciona startups comerciales\, n
+ o liga robótica junior. Empresas: Confirmar empresas de edición elegid
+ a y acceso a demostraciones en catálogo vigente. Logotipos pasados y es
+ cala prevista no prueban participación de todas empresas en nueva tempo
+ rada.. Fuente verificada el 2026-11-05.
+LOCATION:BIEC · Bengaluru\, India
+URL:https://www.gitex-india.com/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stem-exhibition-E228@family-stem.local
+DTSTAMP:20261105T183423Z
+SUMMARY:[Exposición · confirmar admisión de menores] GITEX AI Kazakhst
+ an 2027
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270609
+DESCRIPTION:Idea de visita\; no es una inscripción aceptada. Formulario 
+ 2027 exige solicitante 18+\, edad del autor de consulta de interés\, no
+  regla confirmada de entrada de niños acompañados. Sin localizar visit
+ or gate infantil separado\; admisión aún desconocida. Entrada de adult
+ os: Verificar perfil profesional\, visitor pass vigente y acceso a salas
+  elegidas.. Body actual y formulario coinciden en 7–8 de junio de 2027
+  en Almaty. Footer terms conserva lunes 4 de mayo / martes 5 de mayo de 
+ edición anterior\; sin trasladar esas horas a junio de 2027. Empresas: 
+ Confirmar empresas de edición elegida y acceso a demostraciones en cat
+ álogo vigente. Logotipos pasados y escala prevista no prueban participa
+ ción de todas empresas en nueva temporada.. Fuente verificada el 2026-1
+ 1-05.
+LOCATION:Almaty · confirmar sede 2027\, Kazajistán
+URL:https://www.gitexcac.com/
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT

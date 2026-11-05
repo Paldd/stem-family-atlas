@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 4728,
+    "cards": 4740,
     "competition_cards": 1319,
-    "event_cards": 219,
+    "event_cards": 231,
     "camp_cards": 3190,
     "league_profiles": 151,
-    "major_exhibition_cards": 137,
+    "major_exhibition_cards": 149,
     "vex_cards": 518,
-    "countries_with_records": 87,
+    "countries_with_records": 88,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -48,11 +48,11 @@
       "regions": [
         "América del Sur"
       ],
-      "total": 281,
+      "total": 282,
       "countries_with_records": 10,
       "competitions": 159,
-      "events": 9,
-      "major_exhibitions": 6,
+      "events": 10,
+      "major_exhibitions": 7,
       "camps": 113,
       "status": "Se ha estudiado parcialmente",
       "remaining": "muchos tarjetas de Ecuador y rutas regionales de Chile; Brasil, Perú y otros países requieren etapas, cuotas y calendarios locales."
@@ -62,11 +62,11 @@
       "regions": [
         "Europa"
       ],
-      "total": 1415,
-      "countries_with_records": 22,
+      "total": 1418,
+      "countries_with_records": 23,
       "competitions": 178,
-      "events": 67,
-      "major_exhibitions": 47,
+      "events": 70,
+      "major_exhibitions": 50,
       "camps": 1170,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
@@ -76,11 +76,11 @@
       "regions": [
         "África"
       ],
-      "total": 103,
+      "total": 105,
       "countries_with_records": 11,
       "competitions": 63,
-      "events": 10,
-      "major_exhibitions": 5,
+      "events": 12,
+      "major_exhibitions": 7,
       "camps": 30,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
@@ -90,11 +90,11 @@
       "regions": [
         "Asia"
       ],
-      "total": 1230,
+      "total": 1236,
       "countries_with_records": 25,
       "competitions": 247,
-      "events": 66,
-      "major_exhibitions": 58,
+      "events": 72,
+      "major_exhibitions": 64,
       "camps": 917,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
@@ -3560,7 +3560,7 @@
       "start": "2027-06-22",
       "end": "2027-06-25",
       "visitor_policy": "confirm_children",
-      "source": "https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines",
+      "source": "https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/",
       "new": false
     },
     {
@@ -3862,13 +3862,13 @@
     },
     {
       "id": "E082",
-      "name": "GITEX Africa  la siguiente edición",
+      "name": "GITEX Africa 2027",
       "country": "Marruecos",
       "region": "África",
-      "start": "",
-      "end": "",
+      "start": "2027-04-26",
+      "end": "2027-04-28",
       "visitor_policy": "adults_only",
-      "source": "https://gitexafrica.com/faqs",
+      "source": "https://gitexafrica.com/",
       "new": false
     },
     {
@@ -4131,8 +4131,8 @@
       "region": "Asia",
       "start": "2027-06-02",
       "end": "2027-06-05",
-      "visitor_policy": "confirm_children",
-      "source": "https://www.automationindiaexpo.com/",
+      "visitor_policy": "adults_only",
+      "source": "https://www.automationindiaexpo.com/visit",
       "new": false
     },
     {
@@ -4925,6 +4925,138 @@
       "end": "2027-09-24",
       "visitor_policy": "confirm_children",
       "source": "https://www.hmf-china.com/En/Co/?AID=191&CID=21",
+      "new": false
+    },
+    {
+      "id": "E220",
+      "name": "China Hi-Tech Fair · CHTF 2026",
+      "country": "China",
+      "region": "Asia",
+      "start": "2026-11-26",
+      "end": "2026-11-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.chtf.com/english/",
+      "new": false
+    },
+    {
+      "id": "E221",
+      "name": "ITES Shenzhen 2027 · robotics / industrial manufacturing",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-03-24",
+      "end": "2027-03-27",
+      "visitor_policy": "adults_only",
+      "source": "https://global.iteschina.com/",
+      "new": false
+    },
+    {
+      "id": "E222",
+      "name": "Infosecurity Europe 2027",
+      "country": "Reino Unido",
+      "region": "Europa",
+      "start": "2027-06-08",
+      "end": "2027-06-10",
+      "visitor_policy": "adults_only",
+      "source": "https://www.infosecurityeurope.com/en-gb/help.html",
+      "new": false
+    },
+    {
+      "id": "E223",
+      "name": "automatica Shanghai 2027",
+      "country": "China",
+      "region": "Asia",
+      "start": "2027-03-08",
+      "end": "2027-03-10",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.automatica-sh.com.cn/en/",
+      "new": false
+    },
+    {
+      "id": "E224",
+      "name": "GITEX AI LATAM 2027",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "start": "2027-03-16",
+      "end": "2027-03-17",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gitexlatam.com/",
+      "new": false
+    },
+    {
+      "id": "E225",
+      "name": "GITEX AI Mediterranean / Italy 2027",
+      "country": "Italia",
+      "region": "Europa",
+      "start": "2027-04-21",
+      "end": "2027-04-22",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gitexitaly.com/",
+      "new": false
+    },
+    {
+      "id": "E226",
+      "name": "GITEX AI Belgrade 2027",
+      "country": "Serbia",
+      "region": "Europa",
+      "start": "2027-05-25",
+      "end": "2027-05-27",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gitexbelgrade.com/home",
+      "new": false
+    },
+    {
+      "id": "E227",
+      "name": "GITEX AI India 2027",
+      "country": "India",
+      "region": "Asia",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "visitor_policy": "adults_only",
+      "source": "https://www.gitex-india.com/",
+      "new": false
+    },
+    {
+      "id": "E228",
+      "name": "GITEX AI Kazakhstan 2027",
+      "country": "Kazajistán",
+      "region": "Asia",
+      "start": "2027-06-07",
+      "end": "2027-06-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gitexcac.com/",
+      "new": false
+    },
+    {
+      "id": "E229",
+      "name": "GITEX AI Vietnam · fechas de edición por contrastar",
+      "country": "Vietnam",
+      "region": "Asia",
+      "start": "",
+      "end": "",
+      "visitor_policy": "adults_only",
+      "source": "https://gitexvietnam.com/",
+      "new": false
+    },
+    {
+      "id": "E230",
+      "name": "AI Everything Kenya × GITEX Kenya · próxima edición / confirmar horario",
+      "country": "Kenia",
+      "region": "África",
+      "start": "",
+      "end": "",
+      "visitor_policy": "adults_only",
+      "source": "https://www.aieverythingkenya.com/register",
+      "new": false
+    },
+    {
+      "id": "E231",
+      "name": "Ai Everything MEA Egypt 2027",
+      "country": "Egipto",
+      "region": "África",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.aieverythingegypt.com/",
       "new": false
     }
   ],

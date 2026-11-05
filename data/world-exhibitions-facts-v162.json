@@ -1,0 +1,242 @@
+{
+  "version": 162,
+  "checked": "2026-11-05",
+  "new_event_ids": [
+    "E220",
+    "E221",
+    "E222",
+    "E223",
+    "E224",
+    "E225",
+    "E226",
+    "E227",
+    "E228",
+    "E229",
+    "E230",
+    "E231"
+  ],
+  "updated_event_ids": [
+    "E014",
+    "E019",
+    "E081",
+    "E082",
+    "E107"
+  ],
+  "CHTF": {
+    "source": "https://www.chtf.com/canguanzhiyin/gonggao/",
+    "start": "2026-11-26",
+    "end": "2026-11-28",
+    "daily_open": "09:00",
+    "last_entry": "16:00",
+    "daily_close": "17:00",
+    "timezone": "Asia/Shanghai",
+    "free_preregistration_cutoff_local": "2026-11-25T12:00:00",
+    "free_preregistration_is_not_registration_deadline": true,
+    "late_price": 120,
+    "currency": "CNY",
+    "ticket_registration_end_local": "2026-11-28T15:00:00",
+    "ticket_registration_end_utc": "2026-11-28T07:00:00Z",
+    "own_Chinese_ticket_notice": "under16-guardian-and-onsite-agreement",
+    "own_Chinese_entry_page": "under16-forbidden",
+    "own_English_entry_page": "above16-only",
+    "child_permission_consistent": false,
+    "foreign_child_ID_route_confirmed": false,
+    "agreement_not_accepted": true
+  },
+  "ITES": {
+    "source": "https://global.iteschina.com/en/page/faq",
+    "start": "2027-03-24",
+    "end": "2027-03-27",
+    "online_preregistration_end": "2027-03-23",
+    "deadline_time_unknown": true,
+    "weekday_open": "09:00",
+    "weekday_close": "17:00",
+    "saturday_close": "15:00",
+    "contact_footer_saturday_close": "17:00",
+    "English_minimum_age": 18,
+    "Chinese_minimum_age": 18,
+    "foreigners_use_English_registration": true,
+    "passport_and_business_cards": 2
+  },
+  "Hannover": {
+    "start": "2027-04-05",
+    "end": "2027-04-08",
+    "hours": [
+      "09:00",
+      "18:00"
+    ],
+    "currency": "EUR",
+    "advance_day": 35,
+    "onsite_day": 57,
+    "advance_full": 93,
+    "onsite_full": 111,
+    "reduced_day": 24,
+    "VAT_included": true,
+    "public_transport_included": false,
+    "under15_adult_required": true,
+    "DE_free_max_age": 5,
+    "DE_ticket_from_age": 6,
+    "EN_free_wording_max_age": 6,
+    "EN_ticket_from_age": 6,
+    "EN_shop_opening": "early-November",
+    "DE_shop_opening": "late-November",
+    "child_ticket_price_confirmed": false,
+    "checkout_not_used": true
+  },
+  "Berlin": {
+    "next_confirmed_date": false,
+    "own_FAQ_dates": [
+      "2026-06-30",
+      "2026-07-01"
+    ],
+    "cross_country_carousel_2_4_June_2027": "India-Bengaluru",
+    "cancellation_primary_statement_read": false
+  },
+  "Automatica_Munich": {
+    "start": "2027-06-22",
+    "end": "2027-06-25",
+    "Tue_Thu_hours": [
+      "09:00",
+      "17:00"
+    ],
+    "Friday_hours": [
+      "09:00",
+      "16:00"
+    ],
+    "ticket_base_price_published": false,
+    "optional_PLUS_EUR": 5,
+    "EN_ticket_opening_typo": "20257",
+    "DE_ticket_opening_year": 2027,
+    "child_rule_found": false
+  },
+  "GITEX_Africa": {
+    "start": "2027-04-26",
+    "end": "2027-04-28",
+    "current_home_and_startup_agree": true,
+    "FAQ_other_edition_dates": [
+      [
+        "2026-04-07",
+        "2026-04-09"
+      ],
+      [
+        "2025-04-14",
+        "2025-04-16"
+      ]
+    ],
+    "standard_adult_age": 18,
+    "school_exception_age": [
+      16,
+      17
+    ],
+    "new_venue_and_price_confirmed": false
+  },
+  "Automation_India": {
+    "start": "2027-06-02",
+    "end": "2027-06-05",
+    "minimum_age": 18,
+    "student_day": "2027-06-05",
+    "student_day_overrides_age": false
+  },
+  "country_events": [
+    {
+      "id": "E222",
+      "iso": "GBR",
+      "start": "2027-06-08",
+      "end": "2027-06-10",
+      "minimum_age": 16
+    },
+    {
+      "id": "E223",
+      "iso": "CHN",
+      "start": "2027-03-08",
+      "end": "2027-03-10",
+      "minimum_age": null
+    },
+    {
+      "id": "E224",
+      "iso": "BRA",
+      "start": "2027-03-16",
+      "end": "2027-03-17",
+      "minimum_age": 18
+    },
+    {
+      "id": "E225",
+      "iso": "ITA",
+      "start": "2027-04-21",
+      "end": "2027-04-22",
+      "minimum_age": 18
+    },
+    {
+      "id": "E226",
+      "iso": "SRB",
+      "start": "2027-05-25",
+      "end": "2027-05-27",
+      "minimum_age": 18
+    },
+    {
+      "id": "E227",
+      "iso": "IND",
+      "start": "2027-06-02",
+      "end": "2027-06-04",
+      "minimum_age": 18
+    },
+    {
+      "id": "E228",
+      "iso": "KAZ",
+      "start": "2027-06-07",
+      "end": "2027-06-08",
+      "minimum_age": null
+    }
+  ],
+  "Kazakhstan": {
+    "registration_author_min_age": 18,
+    "author_declaration_proves_child_gate": false,
+    "old_footer_dates_month_day": [
+      "05-04",
+      "05-05"
+    ],
+    "old_footer_hours_not_reused": true
+  },
+  "watch_records": {
+    "Vietnam": {
+      "id": "E229",
+      "header_claim": [
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "footer_claim": [
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "entry_wording": "over18",
+      "interest_author_age_declaration": 21,
+      "operational_calendar": false
+    },
+    "Kenya": {
+      "id": "E230",
+      "title_brand_window": [
+        "2027-05-12",
+        "2027-05-14"
+      ],
+      "previous_FAQ_summit": "2026-05-19",
+      "previous_FAQ_expo": [
+        "2026-05-20",
+        "2026-05-21"
+      ],
+      "next_actual_exhibition_days_confirmed": false,
+      "next_venue_confirmed": false,
+      "entry_wording": "strictly-over21-only",
+      "root_final_URL": "https://gitexafrica.com/",
+      "root_redirect_is_not_cancellation": true,
+      "operational_calendar": false
+    },
+    "Egypt": {
+      "id": "E231",
+      "published_month": "2027-06",
+      "published_duration_days": 3,
+      "published_halls": 2,
+      "two_day_network_date_not_used": true,
+      "operational_calendar": false
+    }
+  }
+}

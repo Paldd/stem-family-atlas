@@ -6,19 +6,19 @@
 
 CHE/ESP/FRA family decision scenarios, junior course levels and Rosenberg school / camp gates
 
-Карточек в базе: 4728; соревнований: 1319; событий: 219; лагерей / программ: 3190. Профилей лиг и программ: 151. Карточек крупных и профильных выставок: 137 — это издания и площадки, не число уникальных брендов.
+Карточек в базе: 4740; соревнований: 1319; событий: 231; лагерей / программ: 3190. Профилей лиг и программ: 151. Карточек крупных и профильных выставок: 149 — это издания и площадки, не число уникальных брендов.
 
-Конкретные записи есть для 87 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
+Конкретные записи есть для 88 из 249 стран и территорий; полностью проаудированных стран: 0. Архивный проход v51: добавлено карточек 21, профилей 3. Все прежние карточки сохранены.
 
 ## Охват по континентам
 
 | Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |
 |---|---:|---:|---:|---:|
 | Северная Америка | 14 | 594 | 19 | 941 |
-| Южная Америка | 10 | 159 | 6 | 113 |
-| Европа | 22 | 178 | 47 | 1170 |
-| Африка | 11 | 63 | 5 | 30 |
-| Азия | 25 | 247 | 58 | 917 |
+| Южная Америка | 10 | 159 | 7 | 113 |
+| Европа | 23 | 178 | 50 | 1170 |
+| Африка | 11 | 63 | 7 | 30 |
+| Азия | 25 | 247 | 64 | 917 |
 | Океания | 4 | 29 | 2 | 13 |
 
 Межрегиональные / глобальные карточки, не приписанные одному континенту: 60. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.
@@ -259,7 +259,7 @@ VEX: 518 из 1319 карточек соревнований (39.3%). Это я�
 - **CES 2027** — США; 2027-01-06 – 2027-01-09. Детям 6/9 нельзя. https://www.ces.tech/attendee-guides/registration-information
 - **MWC Barcelona 2027** — Испания; 2027-03-01 – 2027-03-04. Детям 6/9 нельзя. https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
 - **GITEX Global 2026 — выставка** — ОАЭ; 2026-12-08 – 2026-12-11. Детский допуск уточнить. https://www.gitex.com/
-- **automatica 2027** — Германия; 2027-06-22 – 2027-06-25. Детский допуск уточнить. https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines
+- **automatica 2027** — Германия; 2027-06-22 – 2027-06-25. Детский допуск уточнить. https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/
 - **TAIREX 2027** — Тайвань; 2027-03-18 – 2027-03-21. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 - **TAIROS / Automation Taipei 2027** — Тайвань; 2027-08-04 – 2027-08-07. Детям 6/9 нельзя. https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 - **Touch Taiwan 2027** — Тайвань; 2027-04-21 – 2027-04-23. Детям 6/9 нельзя. https://www.touchtaiwan.com/visitor.asp
@@ -287,7 +287,7 @@ VEX: 518 из 1319 карточек соревнований (39.3%). Это я�
 - **Lisboa Games Week 2026** — Португалия; 2026-11-19 – 2026-11-22. Детский допуск уточнить. https://lisboagamesweek.pt/visitar/
 - **GITEX AI Asia 2027** — Сингапур; 2027-04-29 – 2027-04-30. Детям 6/9 нельзя. https://gitexasia.com/
 - **GITEX AI Europe — следующее издание** — Германия; дата неизвестна. Детям 6/9 нельзя. https://www.gitexeurope.com/faqs
-- **GITEX Africa — следующее издание** — Марокко; дата неизвестна. Детям 6/9 нельзя. https://gitexafrica.com/faqs
+- **GITEX Africa 2027** — Марокко; 2027-04-26 – 2027-04-28. Детям 6/9 нельзя. https://gitexafrica.com/
 - **CIIF 2026 — Robotics Show / Industrial Automation Show** — Китай; 2026-10-12 – 2026-10-16. Детский допуск уточнить. https://www.ciif-expo.com/
 - **AWE 2027 — AI, домашние и сервисные роботы** — Китай; 2027-03-17 – 2027-03-20. Детский допуск уточнить. https://www.awe.com.cn/contents/161/15509.html
 - **SPS — Smart Production Solutions Shenzhen 2027 (ранее Guangzhou)** — Китай; 2027-09-01 – 2027-09-03. Детский допуск уточнить. https://spsinchina.cn.messefrankfurt.com/shenzhen/en.html
@@ -311,7 +311,7 @@ VEX: 518 из 1319 карточек соревнований (39.3%). Это я�
 - **World AI Cannes Festival 2027** — France; 2027-02-10 – 2027-02-11. Детский допуск уточнить. https://waicf.com/
 - **SPS Smart Production Solutions 2026** — Германия; 2026-11-24 – 2026-11-26. Детям 6/9 нельзя. https://sps.mesago.com/nuernberg/en/expo.html
 - **AI EXPO KOREA 2027** — Южная Корея; 2027-04-14 – 2027-04-16. Детям 6/9 нельзя. https://aiexpo.co.kr/전시회-개요/
-- **Automation Expo India 2027** — India; 2027-06-02 – 2027-06-05. Детский допуск уточнить. https://www.automationindiaexpo.com/
+- **Automation Expo India 2027** — India; 2027-06-02 – 2027-06-05. Детям 6/9 нельзя. https://www.automationindiaexpo.com/visit
 - **LEAP / DeepFest 2027** — Saudi Arabia; 2027-04-12 – 2027-04-15. Детям 6/9 нельзя. https://onegiantleap.com/
 - **Web Summit Lisbon 2026** — Portugal; 2026-11-09 – 2026-11-12. Детский допуск уточнить. https://websummit.com/
 - **Web Summit Rio 2027** — Brazil; 2027-06-14 – 2027-06-17. Детский допуск уточнить. https://rio.websummit.com/
@@ -384,6 +384,18 @@ VEX: 518 из 1319 карточек соревнований (39.3%). Это я�
 - **Maker Faire Bay Area 2027** — США; 2027-09-24 – 2027-09-26. Детский допуск уточнить. https://makerfaire.com/bay-area/?2026
 - **Maker Faire Bilbao 2026** — Испания; 2026-11-16 – 2026-11-22. Со взрослым; условия взрослого входа отдельно. https://bilbao.makerfaire.com/programa-2026/
 - **CIIF 2027 · Robotics Show / Industrial Automation Show** — Китай; 2027-09-20 – 2027-09-24. Детский допуск уточнить. https://www.hmf-china.com/En/Co/?AID=191&CID=21
+- **China Hi-Tech Fair · CHTF 2026** — Китай; 2026-11-26 – 2026-11-28. Детский допуск уточнить. https://www.chtf.com/english/
+- **ITES Shenzhen 2027 · robotics / industrial manufacturing** — Китай; 2027-03-24 – 2027-03-27. Детям 6/9 нельзя. https://global.iteschina.com/
+- **Infosecurity Europe 2027** — Великобритания; 2027-06-08 – 2027-06-10. Детям 6/9 нельзя. https://www.infosecurityeurope.com/en-gb/help.html
+- **automatica Shanghai 2027** — Китай; 2027-03-08 – 2027-03-10. Детский допуск уточнить. https://www.automatica-sh.com.cn/en/
+- **GITEX AI LATAM 2027** — Бразилия; 2027-03-16 – 2027-03-17. Детям 6/9 нельзя. https://www.gitexlatam.com/
+- **GITEX AI Mediterranean / Italy 2027** — Италия; 2027-04-21 – 2027-04-22. Детям 6/9 нельзя. https://www.gitexitaly.com/
+- **GITEX AI Belgrade 2027** — Сербия; 2027-05-25 – 2027-05-27. Детям 6/9 нельзя. https://www.gitexbelgrade.com/home
+- **GITEX AI India 2027** — Индия; 2027-06-02 – 2027-06-04. Детям 6/9 нельзя. https://www.gitex-india.com/
+- **GITEX AI Kazakhstan 2027** — Казахстан; 2027-06-07 – 2027-06-08. Детский допуск уточнить. https://www.gitexcac.com/
+- **GITEX AI Vietnam · даты выпуска требуют сверки** — Вьетнам; дата неизвестна. Детям 6/9 нельзя. https://gitexvietnam.com/
+- **AI Everything Kenya × GITEX Kenya · следующий выпуск / расписание уточнить** — Кения; дата неизвестна. Детям 6/9 нельзя. https://www.aieverythingkenya.com/register
+- **Ai Everything MEA Egypt 2027** — Египет; дата неизвестна. Детский допуск уточнить. https://www.aieverythingegypt.com/
 
 ## Добавлено в этой версии
 

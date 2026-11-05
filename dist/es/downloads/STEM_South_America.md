@@ -2427,6 +2427,19 @@ Limitaciones: Versión de equipo separada de recogida de objetos con Beetbot Ard
 Fuente: https://somosgrupora.com/assets/docs/reglamento-saca-basura-beet-bot.pdf
 Se ha comprobado: 2026-11-05
 
+### E224 · GITEX AI LATAM 2027
+
+Fecha: 2027-03-16 — 2027-03-17
+edad: Condiciones propias de este país: solo trade / business professionals, entrada desde 18. Niños de 6 y 9 no admitidos; Student Pass no elimina límite de edad.
+Matvey: No: niños menores del límite publicado.
+Oscar: No: niños menores del límite publicado.
+Idioma: Confirmar idioma del stand, visita infantil y apoyo EN / ES por separado. Web inglesa no acredita acompañamiento familiar en inglés.
+Acceso: Visitante profesional: verificar registro, documentos y categoría de billete; acceso infantil aparte.
+Precio: Confirmar tarifa actual, impuestos, condiciones infantiles y paquete final. Precio desconocido no equivale a cero.
+Limitaciones: Idea de visita, no registro aceptado. Sin formularios enviados, mensajes, consentimientos, compras ni pagos.
+Fuente: https://www.gitexlatam.com/
+Se ha comprobado: 2026-11-05
+
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 
 Fecha: 2027-01-03 国 2027-01-08

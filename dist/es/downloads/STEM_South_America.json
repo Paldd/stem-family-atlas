@@ -6129,7 +6129,7 @@
       "language": "el idioma de la etapa concreta y la capacidad de EN/ES para especificar",
       "languages": [],
       "cost": "el equipo, el registro y el viaje se calculan por separado",
-      "level": "exposición de empresas y tecnologías",
+      "level": "Exposición de empresas y tecnologías",
       "reward": "demostraciones, comunicación y conocimiento de las tecnologías; no medalla de competición",
       "priority": "P4  No se puede a los niños, el camino de los adultos",
       "action": "comprobar el pase, la regla infantil, el programa de demostraciones y la lista de los objetos de exposición.",
@@ -6193,7 +6193,7 @@
       "language": "el idioma de la etapa concreta y la capacidad de EN/ES para especificar",
       "languages": [],
       "cost": "el equipo, el registro y el viaje se calculan por separado",
-      "level": "exposición de empresas y tecnologías",
+      "level": "Exposición de empresas y tecnologías",
       "reward": "demostraciones, comunicación y conocimiento de las tecnologías; no medalla de competición",
       "priority": "P3  Visita en un viaje cómodo",
       "action": "comprobar el pase, la regla infantil, el programa de demostraciones y la lista de los objetos de exposición.",
@@ -11825,6 +11825,77 @@
       "timezone": "America/Guayaquil",
       "canonical_event_id": "C1298",
       "parent_event_id": "C1298"
+    },
+    {
+      "id": "E224",
+      "block": "Eventos",
+      "title": "GITEX AI LATAM 2027",
+      "country": "Brasil",
+      "region": "América del Sur",
+      "city": "São Paulo · Anhembi Convention Center",
+      "start": "2027-03-16",
+      "end": "2027-03-17",
+      "period": "",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Condiciones propias de este país: solo trade / business professionals, entrada desde 18. Niños de 6 y 9 no admitidos; Student Pass no elimina límite de edad.",
+      "mat": "No: niños menores del límite publicado.",
+      "osc": "No: niños menores del límite publicado.",
+      "format": "Visitante de exposición",
+      "entry": "Visitante profesional: verificar registro, documentos y categoría de billete; acceso infantil aparte.",
+      "gear": "No necesario para visitar; demo y workshop pueden tener condiciones propias.",
+      "language": "Confirmar idioma del stand, visita infantil y apoyo EN / ES por separado. Web inglesa no acredita acompañamiento familiar en inglés.",
+      "languages": [],
+      "language_certainty": "Confirmar idioma del stand, visita infantil y apoyo EN / ES por separado. Web inglesa no acredita acompañamiento familiar en inglés.",
+      "cost": "Confirmar tarifa actual, impuestos, condiciones infantiles y paquete final. Precio desconocido no equivale a cero.",
+      "level": "Exposición de empresas y tecnologías",
+      "reward": "Visita de empresas y tecnologías; demostración, certificado o startup pitch no es premio competitivo infantil.",
+      "priority": "P4 — ruta adulta",
+      "action": "Sin incluir en plan familiar con niños; ruta de visitante adulto aparte. Idea de visita, no registro aceptado. Sin formularios enviados, mensajes, consentimientos, compras ni pagos.",
+      "source": "https://www.gitexlatam.com/",
+      "references": [
+        {
+          "label": "Fechas y sede de edición propias",
+          "url": "https://www.gitexlatam.com/"
+        },
+        {
+          "label": "Own admission / registration conditions",
+          "url": "https://www.gitexlatam.com/terms-and-conditions"
+        }
+      ],
+      "proof": "Leídas páginas propias del organizador y visitor rules disponibles; conservadas condiciones incompletas y contradictorias.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Idea de visita, no registro aceptado. Sin formularios enviados, mensajes, consentimientos, compras ni pagos.",
+      "themes": [
+        "ai",
+        "technology",
+        "entrepreneurship"
+      ],
+      "scope": "international",
+      "participation": "visitor",
+      "admission_kind": "visitor",
+      "evidence_level": "event_page",
+      "registration_status": "Idea de visita, no registro aceptado. Sin formularios enviados, mensajes, consentimientos, compras ni pagos.",
+      "exhibition_tier": "regional_major",
+      "visitor_policy": "adults_only",
+      "visitor_policy_note": "Condiciones propias de este país: solo trade / business professionals, entrada desde 18. Niños de 6 y 9 no admitidos; Student Pass no elimina límite de edad.",
+      "highlights": [
+        "IA y tecnologías digitales",
+        "Enterprise / startups / ecosistemas de inversión",
+        "Exposiciones sectoriales y programa profesional"
+      ],
+      "exhibitor_note": "Confirmar empresas de edición elegida y acceso a demostraciones en catálogo vigente. Logotipos pasados y escala prevista no prueban participación de todas empresas en nueva temporada.",
+      "exhibitor_directory_url": "",
+      "importance_reason": "Nueva edición regional de red tecnológica internacional; escala prevista y ponentes de otros países no son resultados de un evento local ya celebrado.",
+      "adult_entry": "Verificar perfil profesional, visitor pass vigente y acceso a salas elegidas.",
+      "iso": [
+        "BRA"
+      ],
+      "date_scope": "exhibition_window",
+      "event_group": "GITEX AI LATAM 2027",
+      "language_mode": "unconfirmed",
+      "visitor_age_min": 18
     },
     {
       "id": "CP047-20270103-20270108",

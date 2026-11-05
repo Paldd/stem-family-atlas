@@ -6,19 +6,19 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 4728; competiciones: 1319; eventos: 219; campamentos / programas: 3190. Perfiles de ligas y programas: 151. Fichas de exposiciones importantes y especializadas: 137; representan ediciones y sedes, no cantidad de marcas únicas.
+Fichas en base: 4740; competiciones: 1319; eventos: 231; campamentos / programas: 3190. Perfiles de ligas y programas: 151. Fichas de exposiciones importantes y especializadas: 149; representan ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros específicos para 87 de 249 países y territorios; países auditados por completo: 0. Revisión de archivo v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores se conservan.
+Registros concretos para 88 de 249 países y territorios; países completamente auditados: 0. Revisión archivada v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
 | América del Norte | 14 | 594 | 19 | 941 |
-| América del Sur | 10 | 159 | 6 | 113 |
-| Europa | 22 | 178 | 47 | 1170 |
-| África | 11 | 63 | 5 | 30 |
-| Asia | 25 | 247 | 58 | 917 |
+| América del Sur | 10 | 159 | 7 | 113 |
+| Europa | 23 | 178 | 50 | 1170 |
+| África | 11 | 63 | 7 | 30 |
+| Asia | 25 | 247 | 64 | 917 |
 | Oceanía | 4 | 29 | 2 | 13 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
@@ -259,7 +259,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **CES 2027** EE.UU.; 2027-01-06 2027-01-09, no se permite a los niños 6/9 https://www.ces.tech/attendee-guides/registration-information
 - **MWC Barcelona 2027** España; 2027-03-01 2027-03-04 No se permite a los niños 6/9 https://www.mwcbarcelona.com/virtual-assistance/va-venue-information
 - **GITEX Global 2026 ○ Exposición** - Estados Unidos de América; 2026-12-08 BWC 2026-12-11. https://www.gitex.com/
-- **automatica 2027** - Alemania; 2027-06-22 - 2027-06-25. https://automatica-munich.com/en/trade-fair/exhibitors/tips-dates-deadlines
+- **automatica 2027** - Alemania; 2027-06-22 - 2027-06-25. https://automatica-munich.com/en/trade-fair/plan-your-visit/opening-hours/
 - **TAIREX 2027** Taiwán; 2027-03-18 2027-03-21; no se permite a los niños 6/9. https://www.chanchao.com.tw/expoDetail.asp?id=TAIREX2027
 - **TAIROS / Automation Taipei 2027** Taiwán; 2027-08-04 2027-08-07 No se permite a los niños 6/9 https://www.chanchao.com.tw/expoDetail.asp?id=ROBOT2027
 - **Touch Taiwan 2027** — Taiwán; 2027-04-21 – 2027-04-23. Niños 6/9 No puedes.. https://www.touchtaiwan.com/visitor.asp
@@ -287,7 +287,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **Lisboa Games Week 2026** Portugal; 2026-11-19 2026-11-22. https://lisboagamesweek.pt/visitar/
 - **GITEX AI Asia 2027** — Singapur; 2027-04-29 – 2027-04-30. Los niños del 6/9 no pueden. https://gitexasia.com/
 - **GITEX AI Europe — próxima edición** — Alemania; Fecha desconocida. Niños 6/9 No puedes.. https://www.gitexeurope.com/faqs
-- **GITEX Africa ○ próxima edición** - Marruecos; fecha desconocida; los niños 6/9 no pueden. https://gitexafrica.com/faqs
+- **GITEX Africa 2027** — Marruecos; 2027-04-26 – 2027-04-28. Los niños del 6/9 no pueden. https://gitexafrica.com/
 - **CIIF 2026 ○ Robotics Show / Industrial Automation Show** China; 2026-10-12 2026-10-16. https://www.ciif-expo.com/
 - **AWE 2027, AI, robots domésticos y de servicio** China; 2027-03-17, 2027-03-20. https://www.awe.com.cn/contents/161/15509.html
 - **SPS ○ Smart Production Solutions Shenzhen 2027 (anteriormente Guangzhou) ** China; 2027-09-01 国 2027-09-03. https://spsinchina.cn.messefrankfurt.com/shenzhen/en.html
@@ -311,7 +311,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **World AI Cannes Federal 2027** English France; 2027-02-10 国 2027-02-11, precisando el acceso de los niños. https://waicf.com/
 - **SPS Smart Production Solutions 2026** — Alemania; 2026-11-24 – 2026-11-26. Niños 6/9 No puedes.. https://sps.mesago.com/nuernberg/en/expo.html
 - **AI EXPO KOREA 2027** ○ Corea del Sur; 2027-04-14 2027-04-16; los niños 6/9 no pueden. https://aiexpo.co.kr/전시회-개요/
-- **Automation Expo India 2027** India; 2027-06-02 2027-06-05. https://www.automationindiaexpo.com/
+- **Automation Expo India 2027** — India; 2027-06-02 – 2027-06-05. Los niños del 6/9 no pueden. https://www.automationindiaexpo.com/visit
 - **LEAP / DeepFest 2027** — Saudi Arabia; 2027-04-12 – 2027-04-15. Niños 6/9 No puedes.. https://onegiantleap.com/
 - **Web Summit Lisbon 2026** Portugal; 2026-11-09 2026-11-12. https://websummit.com/
 - **Web Summit Rio 2027** Brasil; 2027-06-14 2027-06-17. https://rio.websummit.com/
@@ -384,6 +384,18 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **Maker Faire Bay Area 2027** — Estados Unidos; 2027-09-24 – 2027-09-26. el permiso de entrada de niños. https://makerfaire.com/bay-area/?2026
 - **Maker Faire Bilbao 2026** — España; 2026-11-16 – 2026-11-22. con un adulto; condiciones de entrada adulta aparte. https://bilbao.makerfaire.com/programa-2026/
 - **CIIF 2027 · Robotics Show / Industrial Automation Show** — China; 2027-09-20 – 2027-09-24. el permiso de entrada de niños. https://www.hmf-china.com/En/Co/?AID=191&CID=21
+- **China Hi-Tech Fair · CHTF 2026** — China; 2026-11-26 – 2026-11-28. el permiso de entrada de niños. https://www.chtf.com/english/
+- **ITES Shenzhen 2027 · robotics / industrial manufacturing** — China; 2027-03-24 – 2027-03-27. Los niños del 6/9 no pueden. https://global.iteschina.com/
+- **Infosecurity Europe 2027** — Reino Unido; 2027-06-08 – 2027-06-10. Los niños del 6/9 no pueden. https://www.infosecurityeurope.com/en-gb/help.html
+- **automatica Shanghai 2027** — China; 2027-03-08 – 2027-03-10. el permiso de entrada de niños. https://www.automatica-sh.com.cn/en/
+- **GITEX AI LATAM 2027** — Brasil; 2027-03-16 – 2027-03-17. Los niños del 6/9 no pueden. https://www.gitexlatam.com/
+- **GITEX AI Mediterranean / Italy 2027** — Italia; 2027-04-21 – 2027-04-22. Los niños del 6/9 no pueden. https://www.gitexitaly.com/
+- **GITEX AI Belgrade 2027** — Serbia; 2027-05-25 – 2027-05-27. Los niños del 6/9 no pueden. https://www.gitexbelgrade.com/home
+- **GITEX AI India 2027** — India; 2027-06-02 – 2027-06-04. Los niños del 6/9 no pueden. https://www.gitex-india.com/
+- **GITEX AI Kazakhstan 2027** — Kazajistán; 2027-06-07 – 2027-06-08. el permiso de entrada de niños. https://www.gitexcac.com/
+- **GITEX AI Vietnam · fechas de edición por contrastar** — Vietnam; fecha desconocida. Niños de 6/9 no admitidos. https://gitexvietnam.com/
+- **AI Everything Kenya × GITEX Kenya · próxima edición / confirmar horario** — Kenia; fecha desconocida. Niños de 6/9 no admitidos. https://www.aieverythingkenya.com/register
+- **Ai Everything MEA Egypt 2027** — Egipto; fecha desconocida. Confirmar admisión infantil. https://www.aieverythingegypt.com/
 
 ## ~ Añadida en esta versión
 
