@@ -1980,7 +1980,7 @@
         "id": "robofest",
         "name": "Robofest · LTU",
         "group": "international",
-        "age_summary": "Explorer: 1–4 las clases; Junior: 5–8 las clases; Senior: 9–12",
+        "age_summary": "RoboParade Explorer: cursos 1–4 en primavera de 2027; Junior 5–8. Equipo de 1–5 estudiantes, un robot. Se permite uno con nota mínima de teamwork. Edades 6/9 no acreditan nivel escolar. Otros Jr cursos 5–8 / Sr 9–12; excepciones con aprobación.",
         "age_tags": [
           "unknown"
         ],
@@ -1988,16 +1988,16 @@
         "categories": [
           {
             "name": "Robofest World Championship 2027",
-            "age": "NEW RoboParade Explorer: clases escolares 1–4 en la primavera 2027; Junior Game/Exhibition/RoboArts/RoboMed las clases 5–8",
+            "age": "RoboParade Explorer: cursos 1–4 en primavera de 2027; Junior 5–8. Equipo de 1–5 estudiantes, un robot. Se permite uno con nota mínima de teamwork. Edades 6/9 no acreditan nivel escolar.",
             "team": "RoboParade / Game / Exhibition hasta 5 alumnos; coach adulto. BottleSumo hasta 3; UMC hasta 4",
-            "hardware": "RoboParade: cualquier plataforma autorizada; robot autónomo, tema Fun and Games; reglamento de categoría separado",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
+            "hardware": "RoboParade V2 del 4 de noviembre de 2026: cualquier plataforma autónoma y lenguaje; velocidad 7–16 cm/sec, anchura hasta 35 cm, longitud total hasta 60 cm y cada sección hasta 35 cm. Altura total y masa sin límite; número de controladores, sensores y motores sin límite. Bumper plano trasero de al menos 10 cm de alto y 28 cm de ancho, a 2.54 cm del suelo. Explorer no exige mostrar velocidad en pantalla. Explorer tiene una ronda horaria: 10 minutos parade y 2 minutos judging; ronda inversa solo Junior. Línea negra, detección del robot delantero, stop/restart. V2 elimina concesión straight-lines-only de V1, preparar curvas; confirmar versión local.",
+            "age_rule": "Curso en primavera de 2027; waiver oficial separado sin garantía.",
             "event_id": "C053",
-            "entry": "Member country: a través de International Director, incluyendo categorías abiertas y cuotas nacionales.",
-            "language": "EN; lenguaje de presentación de la categoría elegida para confirmar",
-            "note": "La clase escolar en primavera es determinante 2027, No es la edad. 6/9 - Sí , por sí mismo .. México tiene una autorización oficial Director Dr. Ramiro Marrero Quintana; Costa Rica no se muestra en la lista de lectura. No estar en la lista no significa una autorización automática de entrada directa. antes de la solicitud debe acordarse el país y grade.",
-            "source": "https://www.robofest.net/images/2627/General2027_V1.pdf",
-            "checked": "2026-09-30"
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
           },
           {
             "name": "Taiwan Robofest 2027 · festival nacional / clasificación",
@@ -2038,6 +2038,136 @@
             "hardware": "Plataforma autónoma de cualquier marca, línea negra y parada ante robot; tema Fun and Games. Ancho hasta 35 cm, longitud total hasta 60 cm, sección hasta 35 cm; velocidad 7–16 cm/sec. Reglas 2027 V1 de 25.09.2026.",
             "entry": "Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.",
             "event_id": "C1188"
+          },
+          {
+            "name": "Game · RoboPetCare · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente. Solo Game/Exhibition Junior cursos 5–8 o Senior 9–12 en primavera de 2027; menores exigen Age Division Waiver aprobada, sin acceso automático. International Video Qualifier para non-member country teams; US tiene canal separado. No es clasificación por vídeo de RoboParade Explorer. V2 fija entrega el 12 de abril de 2027 a las 23:59 Eastern = 13 de abril 03:59 UTC. RMS muestra 23:00–23:30, pero texto dice submission deadline 23:59: sin exportar franja live ficticia.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1269"
+          },
+          {
+            "name": "Exhibition · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente. Solo Game/Exhibition Junior cursos 5–8 o Senior 9–12 en primavera de 2027; menores exigen Age Division Waiver aprobada, sin acceso automático. International Video Qualifier para non-member country teams; US tiene canal separado. No es clasificación por vídeo de RoboParade Explorer. V2 fija entrega el 12 de abril de 2027 a las 23:59 Eastern = 13 de abril 03:59 UTC. RMS muestra 23:00–23:30, pero texto dice submission deadline 23:59: sin exportar franja live ficticia.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1270"
+          },
+          {
+            "name": "BottleSumo Classic / Unlimited · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 3 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Classic: NXT / EV3 / SPIKE Prime / Robot Inventor / VEX IQ; Unlimited: Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "Unknown Mission Challenge · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 4 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "NXT / EV3 / SPIKE Prime / Robot Inventor / VEX IQ · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "Vision Centric Challenge · LTU 2027 V2",
+            "age": "Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "DroneQuest · LTU 2027 V2",
+            "age": "Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Tello / Tello Talent / CoDrone EDU 10 Plus; others allowed · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "BipedQuest · LTU 2027 V2",
+            "age": "Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Recommended humanoid platforms; others allowed · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboArts · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboMed · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "Any · revisar además reglamento específico.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboParade · Explorer / Junior · LTU 2027 V2",
+            "age": "Explorer 1–4 / Jr 5–8 · cursos escolares, no edad",
+            "team": "Hasta 5 estudiantes; mínimo y excepciones según norma específica.",
+            "hardware": "RoboParade V2 del 4 de noviembre de 2026: cualquier plataforma autónoma y lenguaje; velocidad 7–16 cm/sec, anchura hasta 35 cm, longitud total hasta 60 cm y cada sección hasta 35 cm. Altura total y masa sin límite; número de controladores, sensores y motores sin límite. Bumper plano trasero de al menos 10 cm de alto y 28 cm de ancho, a 2.54 cm del suelo. Explorer no exige mostrar velocidad en pantalla. Explorer tiene una ronda horaria: 10 minutos parade y 2 minutos judging; ronda inversa solo Junior. Línea negra, detección del robot delantero, stop/restart. V2 elimina concesión straight-lines-only de V1, preparar curvas; confirmar versión local.",
+            "age_rule": "Curso escolar en primavera de 2027, excepción solo tras aprobación.",
+            "entry": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+            "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+            "note": "Robot y programa son trabajo autónomo infantil: coaches/padres no construyen robot ni escriben/editan código por equipo. Pueden enseñar y explicar; sin ayuda adulta en pit de trabajo. Exige coach adulto, pledge / privacy / consent vigentes; sin aceptar documentos ni inscribirse.",
+            "source": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1268"
           }
         ],
         "event_ids": [
@@ -2047,14 +2177,25 @@
           "C1185",
           "C1186",
           "C1187",
-          "C1188"
+          "C1188",
+          "C1267",
+          "C1268",
+          "C1269",
+          "C1270",
+          "C1271",
+          "C1272",
+          "C1273",
+          "C1274",
+          "C1275",
+          "CP1188-20270116-20270116",
+          "CP1189-20270213-20270213"
         ],
         "legacy_ids": [
           "C053"
         ],
-        "route": "Member country: a través de International Director, incluyendo categorías abiertas y cuotas nacionales.",
-        "hardware": "RoboParade: cualquier plataforma autorizada; robot autónomo, tema Fun and Games; reglamento de categoría separado",
-        "language": "EN; lenguaje de presentación de la categoría elegida para confirmar",
+        "route": "Equipos de member countries requieren aprobación del International Director y cuota nacional, incluido Open. Non-member countries pueden acceder directamente a Open con plazas; Game/Exhibition mediante International Video Qualifier. Lista oficial incluye Robofest Mexico / Dr. Ramiro Marrero Quintana. Costa Rica no localizada en lista, pero ausencia no prueba estatus non-member. Confirmar país del equipo y ruta familiar; pasaporte parental no lo determina automáticamente.",
+        "hardware": "RoboParade V2 del 4 de noviembre de 2026: cualquier plataforma autónoma y lenguaje; velocidad 7–16 cm/sec, anchura hasta 35 cm, longitud total hasta 60 cm y cada sección hasta 35 cm. Altura total y masa sin límite; número de controladores, sensores y motores sin límite. Bumper plano trasero de al menos 10 cm de alto y 28 cm de ancho, a 2.54 cm del suelo. Explorer no exige mostrar velocidad en pantalla. Explorer tiene una ronda horaria: 10 minutos parade y 2 minutos judging; ronda inversa solo Junior. Línea negra, detección del robot delantero, stop/restart. V2 elimina concesión straight-lines-only de V1, preparar curvas; confirmar versión local.",
+        "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "robótica autónoma y proyectos de ingeniería; categorías con diferentes vías de entrada.",
         "requirements": [
@@ -2067,10 +2208,13 @@
           "Game / Exhibition se realiza a través de un calificador, incluido el video; Open-categorias tienen una entrada separada. no todas las nominaciones requieren la misma selección.",
           "Seúl 28–31.05.2027 en la página oficial se marcó TENTATIVE. No se han confirmado los días de viaje..",
           "RoboParade Explorer para el 1–4 de las clases — nuevo nivel más bajo; Junior Game comienza con 5 de clase.",
+          "V2: Game/Exhibition — 1 equipo con 5–49 locales, 2 con 50+; máximo 2. Open — 1 con 5–74, 2 con 75+; máximo 2 por categoría. Si categoría Open no se celebró localmente, director puede seleccionar 1 equipo. Cuota depende del informe oficial del organizador; sin prometer plaza familiar.",
+          "General Rules V2 nuevo del 4 de noviembre de 2026 indica 28–31 de mayo de 2027 en Seúl sin TENTATIVE; coinciden página World y universidad anfitriona. HTML del calendario general aún conserva TENTATIVE. Registrado periodo general anunciado según V2 y página específica; día de RoboParade y agenda definitiva sin publicar. Se conserva discrepancia de estatus para revisión antes del viaje.",
+          "Si se inscriben menos de 5 equipos pueden cancelar categoría y ofrecer transferencia. Pago no prueba celebración efectiva ni pase a final.",
           "v135 · México/LATAM 2026 publica las páginas locales 6–14 contra grade 5–8 overview, de los diferentes W193 drones/football y mezclado General 2025/2026. No es un cambio de reglas. LTU World 2027; nuevo LATAM calendario/no se ha anunciado. cf.. un perfil separado robofest-latam."
         ],
-        "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
-        "award": "Puesto o premio según los resultados oficiales",
+        "cost": "USD 110 por equipo/categoría en US-event y USD 135 en World; tarifas locales internacionales pueden diferir, posible check-in fee. Cuotas no reembolsables. Qualifier Game/Exhibition y final se pagan aparte. Al transferir Pre-Registration a Open obtener abono ya pagado en invoice, sin inventar suplemento. Equipo, viaje y alojamiento aparte.",
+        "award": "En RoboParade reciben trophies el 20% de equipos de división según rubric; posibles premios especiales. Participation certificate / medal no acredita puesto premiado. Distinguir resultado World, US y local mediante acta.",
         "sources": [
           {
             "title": "Robofest LTU: 2027 y el orden de entrada",
@@ -2086,9 +2230,34 @@
             "title": "Anuncio actual 2027",
             "url": "https://robofest.me/",
             "checked": "2026-11-04"
+          },
+          {
+            "title": "General 2027 V2",
+            "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboParade 2027 V2",
+            "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Directores internacionales",
+            "url": "https://www.robofest.net/index.php/about/international-directors",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "World 2027",
+            "url": "https://www.robofest.net/index.php/world-championship-26",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "US 2027",
+            "url": "https://www.robofest.net/index.php/us-championship",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "Se ha completado por las lecturas de las reglas oficiales / páginas 30.09.2026; la recepción local de la familia se confirma por separado."
+        "evidence": "General V2 y RoboParade V2 leídos el 5 de noviembre de 2026; vistas páginas clave. Sin declarar auditadas por completo otras normas específicas ni documentos nacionales."
       },
       {
         "id": "robotex",

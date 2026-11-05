@@ -1,0 +1,355 @@
+{
+  "version": 156,
+  "checked": "2026-11-05",
+  "responses": [
+    {
+      "key": "robofest-us-correct",
+      "url": "https://www.robofest.net/index.php/us-championship",
+      "final_url": "https://www.robofest.net/index.php/us-championship",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 44512,
+      "sha256": "71150bd3966f6870eed9165e59d5599d7618a09fcdae4d960f4c4b7e9b34b617",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-faq-correct",
+      "url": "https://www.robofest.net/index.php/about/faqs",
+      "final_url": "https://www.robofest.net/index.php/about/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80850,
+      "sha256": "664c5862842a48fb114dcb811cee3c0689ee99dfd56c8062df4cd47afcb3dc84",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-overview",
+      "url": "https://www.robofest.net/index.php/current-competitions/overview",
+      "final_url": "https://www.robofest.net/index.php/current-competitions/overview",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 51888,
+      "sha256": "68aa4e111ac01d912956f9f3da99efe1dc2a5782f5dd7fe18b145355ca67ab59",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-sites",
+      "url": "https://www.robofest.net/rms/sites",
+      "final_url": "https://www.robofest.net/rms/sites",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29421,
+      "sha256": "26dcee2d849aa5f8d1458445e6d086797ee6bd0fcac47bc47404fd6d972dc6a4",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-prereg",
+      "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 11527,
+      "sha256": "e788130abc2e902d56648242241715ea1a95142749a6d7c60df44330d0174464",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "taiwan-home",
+      "url": "https://robofest.me/",
+      "final_url": "https://robofest.me/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 170726,
+      "sha256": "06b76a872053b5b1c7e8b13109372bdf982673d2e915065279a1ffa49efd0d9d",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "taiwan-parade-linked",
+      "url": "https://drive.google.com/uc?export=download&id=1JWxtu2wH5XGJPUXrRe8ERbbe9IRnvft_",
+      "final_url": "https://drive.usercontent.google.com/download?id=1JWxtu2wH5XGJPUXrRe8ERbbe9IRnvft_&export=download",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 517173,
+      "sha256": "9e8891cd64e59f0d49fd81adc4caced83ea7dc5196a24b151e3f7acb3c1f5ce7",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-main",
+      "url": "https://www.robofest.net/index.php/current-competitions/main-page/",
+      "final_url": "https://www.robofest.net/index.php/current-competitions/main-page/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45744,
+      "sha256": "4fb32090f4c063deee32cb7a94bc66a3364fd8ba24e55ec86c977d63166d1d4a",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-parade",
+      "url": "https://www.robofest.net/index.php/current-competitions/roboparade",
+      "final_url": "https://www.robofest.net/index.php/current-competitions/roboparade",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 39662,
+      "sha256": "af0d73b911d52e1ad3045449735233643b2ddbcd8592d3ecd6d8e2f5a5cc6885",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-world",
+      "url": "https://www.robofest.net/index.php/world-championship-26",
+      "final_url": "https://www.robofest.net/index.php/world-championship-26",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36166,
+      "sha256": "852d3491d07e617ba7aa298253a6165ef91a3285f8bf3ac36e0955c5a39c5172",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-host",
+      "url": "https://oia.kw.ac.kr/guide/focus.php?BoardMode=view&CURRENT_PAGE=1&UID=995",
+      "final_url": "https://oia.kw.ac.kr/guide/focus.php?BoardMode=view&CURRENT_PAGE=1&UID=995",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 26999,
+      "sha256": "b91ff4c4d348cd551ca5ffb57d4005a4c1678dff05b2002424529be90e3bdd65",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "irc-egypt",
+      "url": "https://international-robotchallenge.org/",
+      "final_url": "https://international-robotchallenge.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1459,
+      "sha256": "aaea2364300d2ad2ff4ba9f9e003a72af723bbc38758b426739da30605058d48",
+      "content_status": "access_challenge_not_programme_evidence"
+    },
+    {
+      "key": "irc-competition",
+      "url": "https://international-robotchallenge.org/competition/",
+      "final_url": "https://international-robotchallenge.org/competition/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1459,
+      "sha256": "aaea2364300d2ad2ff4ba9f9e003a72af723bbc38758b426739da30605058d48",
+      "content_status": "access_challenge_not_programme_evidence"
+    },
+    {
+      "key": "robotchallenge-china",
+      "url": "https://www.robotchallenge.org.cn/",
+      "final_url": "https://www.robotchallenge.org.cn/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 82238,
+      "sha256": "08aed7b528dd388639f7abb331db37157d614330e5eaf76d17aa625f8fb9637a",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "codeavour",
+      "url": "https://codeavour.org/",
+      "final_url": "https://codeavour.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 324832,
+      "sha256": "71ac6d593aebc9faf17b6e6acba9c2d3965b437b4efbfcb5899f154d0cc188f0",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-main-pdf-58",
+      "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+      "final_url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 450982,
+      "sha256": "87ea11b84dd292675ee38c8ae830df855e6336fb94c11db18def3e7651a3e338",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-main-pdf-59",
+      "url": "https://www.robofest.net/images/2627/Kickoff_I_2027.pdf",
+      "final_url": "https://www.robofest.net/images/2627/Kickoff_I_2027.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1048268,
+      "sha256": "b665a628b427ec90dd059ba9040cc681758cceb8a8ba24ebc5be5c7bab0499c3",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-main-pdf-64",
+      "url": "https://www.robofest.net/RobofestConsentReleaseForm.pdf",
+      "final_url": "https://www.robofest.net/RobofestConsentReleaseForm.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 209471,
+      "sha256": "16549a8221a3726b52380991ab0e3423a2596d0888d9a5ed489114397dba5e73",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-parade-pdf-58",
+      "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+      "final_url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 525525,
+      "sha256": "6e7aa415953deaf3611ebc9ea3e1859d7344cc8f96c39335c73c2cbf588d556d",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-parade-pdf-59",
+      "url": "https://www.robofest.net/images/2627/RoboParade2027Rubric.pdf",
+      "final_url": "https://www.robofest.net/images/2627/RoboParade2027Rubric.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 197772,
+      "sha256": "2378b963c2f07b5a71895a9500cdc3a477776afc950f10ae6ab92312aa7e2a91",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-parade-pdf-60",
+      "url": "https://www.robofest.net/images/2627/RoboParade2027Checklist.pdf",
+      "final_url": "https://www.robofest.net/images/2627/RoboParade2027Checklist.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 243049,
+      "sha256": "83f2919359a94c5de90fa9572713d8b48b7a86effed19b6694fd3035147edd93",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-parade-pdf-62",
+      "url": "https://robofest.net/ConsentReleaseForm.pdf",
+      "final_url": "https://www.robofest.net/ConsentReleaseForm.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 24260,
+      "sha256": "eab312dab5d9eec7631966aa1cf3a37b6051b37915cbb2a80b430153fce07ed1",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "robofest-directors",
+      "url": "https://www.robofest.net/index.php/about/international-directors",
+      "final_url": "https://www.robofest.net/index.php/about/international-directors",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 46035,
+      "sha256": "bcadfc3d2314a8e62b44627a4873dc5b62d11e9d2ea807cfd3898bbd8a5cab60",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-0",
+      "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+      "final_url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8334,
+      "sha256": "ec84bd79977b743a61ffdad378d241e9c5308ff3027381833b1a7f49268a36cc",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-1",
+      "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+      "final_url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8315,
+      "sha256": "fdf7ca9363716c3e8d66229ccaac47d0894bf400ff3275228716ac4c377d0609",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-2",
+      "url": "https://www.robofest.net/rms/sites/2027/Lutz_FL",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Lutz_FL",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7208,
+      "sha256": "26246a31a0c424e443c9fa0854df01cf82d9732e82d41a0d2f019c2a93f9e250",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-3",
+      "url": "https://www.robofest.net/rms/sites/2027/Houston_UrbanSTEM_TX",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Houston_UrbanSTEM_TX",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6591,
+      "sha256": "23246b576edf2b99891cb4be58705fb52911d860d5773b40583ab8278a2fb970",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-4",
+      "url": "https://www.robofest.net/rms/sites/2027/ClintonTwp_MISD_MI",
+      "final_url": "https://www.robofest.net/rms/sites/2027/ClintonTwp_MISD_MI",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 6631,
+      "sha256": "f18c924babc53b6073d448b0478f214cf7cc0c04024f9e8e685853b592b04166",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-5",
+      "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8871,
+      "sha256": "437de5fc1d31148c7d5d15803f111697f72b2520d8112c307c9de18b8d24fef8",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-6",
+      "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_USA",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_USA",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8811,
+      "sha256": "daa398e6c928ab7a1b628bb60c2a80f7a97f0857b3fe211864a27dbeef25ef58",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-7",
+      "url": "https://www.robofest.net/rms/sites/2027/Benghazi_Libya",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Benghazi_Libya",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 8589,
+      "sha256": "df0de1386f1a95221bb977c464dec72b1ee68c05cc90bcc8032edfc4c065b9bf",
+      "content_status": "readable_primary_source"
+    },
+    {
+      "key": "site-8",
+      "url": "https://www.robofest.net/rms/sites/2027/Tripoli_Libya",
+      "final_url": "https://www.robofest.net/rms/sites/2027/Tripoli_Libya",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 7660,
+      "sha256": "b3263b05451eb3c2c79c7f64f96f44382aaf30a927ca23e27fd057aeeac98235",
+      "content_status": "readable_primary_source"
+    }
+  ],
+  "failed_requests": [
+    {
+      "key": "robofest-us",
+      "url": "https://www.robofest.net/index.php/current-competitions/us-championship",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "robofest-faq",
+      "url": "https://www.robofest.net/index.php/about/faq",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "robofest-getstarted",
+      "url": "https://www.robofest.net/index.php/get-involved/get-started",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "robofest-registration",
+      "url": "https://www.robofest.net/index.php/registration",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "hash_verified_responses": 32,
+  "readable_primary_source_responses": 30,
+  "challenge_responses_not_used_for_updates": 2,
+  "raw_files_public": false,
+  "forms_submitted": false,
+  "consents_accepted": false,
+  "organizer_messages": 0
+}

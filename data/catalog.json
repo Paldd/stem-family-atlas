@@ -2563,28 +2563,28 @@
       "country": "Южная Корея",
       "region": "Азия",
       "city": "Сеул, KwangWoon University",
-      "start": "",
-      "end": "",
-      "period": "28–31 мая 2027, KwangWoon University, Сеул — TENTATIVE",
-      "date_status": "Предварительно",
+      "start": "2027-05-28",
+      "end": "2027-05-31",
+      "period": "Новый General Rules V2 от 4 ноября 2026 прямо указывает 28–31 мая 2027 в Сеуле без TENTATIVE; то же объявляют страница World и университет-host. В HTML общего календаря пометка TENTATIVE всё ещё есть. Записано опубликованное общее окно чемпионата по V2 и специальной странице; конкретный день RoboParade и окончательное расписание не опубликованы. Сохраняем расхождение статусов для проверки перед поездкой.",
+      "date_status": "Подтверждено",
       "deadline": "",
-      "age": "NEW RoboParade Explorer: школьные классы 1–4 весной 2027; Junior Game/Exhibition/RoboArts/RoboMed классы 5–8",
+      "age": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс. Другие Junior 5–8 / Senior 9–12 классов.",
       "mat": "Условно: Explorer, если класс 1–4 весной 2027",
       "osc": "Условно: Explorer, если класс 1–4 весной 2027",
       "format": "RoboParade / Game / Exhibition до 5 учеников; взрослый coach. BottleSumo до 3; UMC до 4",
-      "entry": "Member country: через International Director, включая Open categories и национальные квоты. Non-member country: возможен прямой Open-вход при наличии мест. Выбор страны представительства согласовать.",
-      "gear": "RoboParade: любая разрешённая платформа; автономный робот, тема Fun and Games; отдельный регламент категории",
-      "language": "EN; язык презентации выбранной категории подтвердить",
-      "cost": "USD 135 за категорию/команду — предварительно; локальные check-in fees отдельно",
+      "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "gear": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
       "level": "A — мировой финал Robofest LTU",
-      "reward": "Место / награда только по официальному протоколу",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
       "priority": "P2 — Explorer после проверки класса",
       "action": "Родитель: получить актуальные правила и подтверждение допуска до бронирования",
-      "source": "https://www.robofest.net/images/2627/General2027.pdf",
-      "proof": "Прочитаны current General2027 V1 от25.09.2026 (selected timeline/category clauses) и собственное сообщение KwangWoon: host объявил28–31мая2027 подтверждёнными, но международный PDF всё ещёTENTATIVE.",
-      "checked": "2026-10-05",
+      "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+      "proof": "General 2027 V2 от 4 ноября, отдельная страница World и cohost подтверждают опубликованный общий период. Сохраняющуюся пометку HTML и отсутствие точного дня категории сохраняем явно.",
+      "checked": "2026-11-05",
       "status": "Идея",
-      "note": "Определяющим является школьный класс весной2027, а не только возраст. Explorer1–4; Game/Exhibition Junior5–8, waiver отдельно и не гарантирован. Национальное представительство/квота отдельно. Университет-host в августе2026 сообщает официальный28–31мая2027; более новый международный V1 25сентября всё ещёTENTATIVE. Конфликт полномочий/версий не снят: поездку пока не считать подтверждённой.",
+      "note": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически. Новый General Rules V2 от 4 ноября 2026 прямо указывает 28–31 мая 2027 в Сеуле без TENTATIVE; то же объявляют страница World и университет-host. В HTML общего календаря пометка TENTATIVE всё ещё есть. Записано опубликованное общее окно чемпионата по V2 и специальной странице; конкретный день RoboParade и окончательное расписание не опубликованы. Сохраняем расхождение статусов для проверки перед поездкой. Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
       "iso": [
         "KOR"
       ],
@@ -2611,8 +2611,25 @@
         {
           "label": "International Directors",
           "url": "https://www.robofest.net/index.php/about/international-directors"
+        },
+        {
+          "label": "World · объявленный период",
+          "url": "https://www.robofest.net/index.php/world-championship-26"
+        },
+        {
+          "label": "Сообщение университета-host",
+          "url": "https://oia.kw.ac.kr/guide/focus.php?BoardMode=view&CURRENT_PAGE=1&UID=995"
+        },
+        {
+          "label": "RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
         }
-      ]
+      ],
+      "date_scope": "festival_window",
+      "date_precision": "announced_festival_window",
+      "language_mode": "materials",
+      "admission_kind": "unknown",
+      "evidence_level": "rules"
     },
     {
       "block": "Соревнования",
@@ -2626,23 +2643,23 @@
       "period": "",
       "date_status": "Подтверждено",
       "deadline": "",
-      "age": "NEW RoboParade Explorer: школьные классы 1–4 весной 2027; Junior Game/Exhibition/RoboArts/RoboMed классы 5–8",
+      "age": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс. Другие Junior 5–8 / Senior 9–12 классов.",
       "mat": "Условно: Explorer, если класс 1–4 весной 2027",
       "osc": "Условно: Explorer, если класс 1–4 весной 2027",
       "format": "RoboParade / Game / Exhibition до 5 учеников; взрослый coach. BottleSumo до 3; UMC до 4",
       "entry": "US Game/Exhibition Finals — после US qualifier. Open events без общего qualifier, но иностранный вход именно на US Championship подтвердить; правила World Championship не переносятся автоматически.",
-      "gear": "RoboParade: любая разрешённая платформа; автономный робот, тема Fun and Games; отдельный регламент категории",
-      "language": "EN; язык презентации выбранной категории подтвердить",
-      "cost": "USD 110 за категорию/команду; возможен site check-in fee",
+      "gear": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
       "level": "C — открытый или национальный турнир",
-      "reward": "Место / награда только по официальному протоколу",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
       "priority": "P2 — Explorer / правила иностранного входа",
       "action": "Родитель: получить актуальные правила и подтверждение допуска до бронирования",
-      "source": "https://www.robofest.net/images/2627/General2027_V1.pdf",
-      "proof": "Открыты General Rules V1 и текущий календарь: US Championship 7–8.05.2027 подтверждён; возрастные дивизионы по классу. Иностранный вход на этот US-event ещё проверить.",
-      "checked": "2026-09-30",
+      "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+      "proof": "V2 и отдельная US-страница: 7–8 мая подтверждены как общий период. Категорийная таблица пока TENTATIVE; время RoboParade не экспортировано как окончательное.",
+      "checked": "2026-11-05",
       "status": "Идея",
-      "note": "Определяющим является школьный класс весной 2027, а не возраст 6/9 сам по себе. México имеет официального Director Dr. Ramiro Marrero Quintana; Costa Rica не указана в прочитанном списке. Отсутствие в списке не означает автоматическое разрешение прямого входа. Перед заявкой нужно согласовать страну и grade.",
+      "note": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически. Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
       "iso": [
         "USA"
       ],
@@ -2664,8 +2681,20 @@
         {
           "label": "Официальные International Directors",
           "url": "https://www.robofest.net/index.php/about/international-directors"
+        },
+        {
+          "label": "US · общий период и черновое расписание",
+          "url": "https://www.robofest.net/index.php/us-championship"
+        },
+        {
+          "label": "RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
         }
-      ]
+      ],
+      "date_scope": "festival_window",
+      "language_mode": "materials",
+      "admission_kind": "unknown",
+      "evidence_level": "rules"
     },
     {
       "block": "Соревнования",
@@ -109697,9 +109726,9 @@
       "action": "Уточнить площадку, день категории, класс по зарубежной школе, EN помощь, взнос и способ регистрации; локальное участие и отбор на мир разные условия.",
       "source": "https://robofest.me/",
       "proof": "Прочитаны текущее объявление и связанные публичные PDF; старые версии и неизвестные условия сохранены явно.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "status": "Идея",
-      "note": "Главная страница объявляет Taiwan Robofest 06–07.03.2027, но день каждой категории, площадка, взносы, срок и приём иностранной семьи не раскрыты. Двухдневный диапазон — окно фестиваля, не обещание 2 дней участия. Локальные категории не гарантируют отбор на мировой финал.",
+      "note": "Главная страница объявляет Taiwan Robofest 06–07.03.2027, но день каждой категории, площадка, взносы, срок и приём иностранной семьи не раскрыты. Двухдневный диапазон — окно фестиваля, не обещание 2 дней участия. Локальные категории не гарантируют отбор на мировой финал. Перепроверено 5 ноября: Taiwan по-прежнему ссылается на RoboParade V1 от 25 сентября, глобальный сайт уже V2 от 4 ноября. В V1 есть straight-lines-only Explorer, в V2 это послабление удалено; глобальное обновление не объявлено автоматически местным правилом. Редакцию Taiwan и фактическую трассу согласовать.",
       "iso": [
         "TWN"
       ],
@@ -109708,7 +109737,9 @@
       ],
       "scope": "national",
       "importance_reason": "Местный формат и школьный возраст проверены по первичным источникам; допуск семьи и международный переход отдельно.",
-      "languages": [],
+      "languages": [
+        "EN"
+      ],
       "participation": "team",
       "language_certainty": "Языковая отметка описывает найденный вариант; точный поток и язык преподавания/судейства проверяются перед записью",
       "references": [
@@ -109719,12 +109750,19 @@
         {
           "label": "Связанный регламент выбранной категории",
           "url": "https://drive.google.com/file/d/1JWxtu2wH5XGJPUXrRe8ERbbe9IRnvft_/view"
+        },
+        {
+          "label": "Глобальный V2 · применимость к Taiwan подтвердить",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
         }
       ],
       "date_scope": "festival_window",
       "admission_kind": "qualifier",
       "registration_status": "Форма и срок 2027 для семьи не установлены.",
-      "parent_event_id": "C1184"
+      "parent_event_id": "C1184",
+      "language_mode": "materials",
+      "evidence_level": "rules",
+      "date_precision": "published_festival_window"
     },
     {
       "block": "Соревнования",
@@ -114888,6 +114926,553 @@
       ],
       "date_scope": "exhibition_window",
       "event_group": "CIIF Shanghai 2027"
+    },
+    {
+      "id": "C1267",
+      "block": "Соревнования",
+      "title": "Robofest US 2027 · RoboParade Explorer",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Southfield · LTU",
+      "start": "2027-05-07",
+      "end": "2027-05-08",
+      "period": "Общее окно US Championship 7–8 мая; черновик ставит RoboParade на 8 мая, но день и часы категории ещё TENTATIVE.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Один участник или команда до 5 учеников, один робот и взрослый coach; одиночный состав получает минимум teamwork.",
+      "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "gear": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
+      "level": "C — национальный US Championship",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/index.php/us-championship",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась. Робот, teamwork и презентация оцениваются судьями. Вход иностранной семьи на US Championship отдельно подтвердить; Open без обычного qualifier не означает автоматическое разрешение любой иностранной команде.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "individual_or_team",
+      "admission_kind": "unknown",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        }
+      ],
+      "date_scope": "festival_window",
+      "date_precision": "announced_festival_window",
+      "parent_event_id": "C054",
+      "team_min": 1,
+      "team_max": 5,
+      "grade_min": 1,
+      "grade_max": 4,
+      "grade_asof": "spring_2027"
+    },
+    {
+      "id": "C1268",
+      "block": "Соревнования",
+      "title": "Robofest World 2027 · RoboParade Explorer",
+      "country": "Южная Корея",
+      "region": "Азия",
+      "city": "Seoul · KwangWoon University",
+      "start": "2027-05-28",
+      "end": "2027-05-31",
+      "period": "Новый General Rules V2 от 4 ноября 2026 прямо указывает 28–31 мая 2027 в Сеуле без TENTATIVE; то же объявляют страница World и университет-host. В HTML общего календаря пометка TENTATIVE всё ещё есть. Записано опубликованное общее окно чемпионата по V2 и специальной странице; конкретный день RoboParade и окончательное расписание не опубликованы. Сохраняем расхождение статусов для проверки перед поездкой.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Один участник или команда до 5 учеников, один робот и взрослый coach; одиночный состав получает минимум teamwork.",
+      "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "gear": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
+      "level": "A — мировой финал Robofest LTU",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/index.php/world-championship-26",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась. Новый General Rules V2 от 4 ноября 2026 прямо указывает 28–31 мая 2027 в Сеуле без TENTATIVE; то же объявляют страница World и университет-host. В HTML общего календаря пометка TENTATIVE всё ещё есть. Записано опубликованное общее окно чемпионата по V2 и специальной странице; конкретный день RoboParade и окончательное расписание не опубликованы. Сохраняем расхождение статусов для проверки перед поездкой.",
+      "iso": [
+        "KOR"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "individual_or_team",
+      "admission_kind": "unknown",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        }
+      ],
+      "date_scope": "festival_window",
+      "date_precision": "announced_festival_window",
+      "parent_event_id": "C053",
+      "team_min": 1,
+      "team_max": 5,
+      "grade_min": 1,
+      "grade_max": 4,
+      "grade_asof": "spring_2027"
+    },
+    {
+      "id": "C1269",
+      "block": "Соревнования",
+      "title": "Robofest 2027 · Video Qualifier · Game · US / International",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Online · LTU coordinator",
+      "start": "",
+      "end": "",
+      "period": "Событие — срок подачи видео, не очный финал и не live-встреча 23:00–23:30.",
+      "date_status": "Даты уточняются",
+      "deadline": "2027-04-12",
+      "age": "Junior классы 5–8, Senior 9–12 весной 2027; младше только после одобренного waiver.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "gear": "Game: самостоятельный робот RoboPetCare и неизвестные задания от 1 апреля. Exhibition: автономный инженерный проект, презентация 4 минуты и Q&A 2 минуты. Это разные категории и отдельные взносы.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду и одну категорию видеоотбора; последующий World USD 135 отдельно. Нужный kit / поле и отправку материалов в страну подтвердить.",
+      "level": "Международная программа Robofest LTU; уровень конкретного этапа указан отдельно.",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется. Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "online",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        },
+        {
+          "label": "RMS · International Video Qualifier",
+          "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International"
+        },
+        {
+          "label": "RMS · US Video Qualifier · только US teams",
+          "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_USA"
+        }
+      ],
+      "deadline_utc": "2027-04-13T03:59:00Z",
+      "deadline_timezone": "America/Detroit",
+      "deadline_label": "Сдать ссылку на видео · 23:59 Eastern",
+      "grade_min": 5,
+      "grade_max": 12,
+      "grade_asof": "spring_2027"
+    },
+    {
+      "id": "C1270",
+      "block": "Соревнования",
+      "title": "Robofest 2027 · Video Qualifier · Exhibition · US / International",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Online · LTU coordinator",
+      "start": "",
+      "end": "",
+      "period": "Событие — срок подачи видео, не очный финал и не live-встреча 23:00–23:30.",
+      "date_status": "Даты уточняются",
+      "deadline": "2027-04-12",
+      "age": "Junior классы 5–8, Senior 9–12 весной 2027; младше только после одобренного waiver.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "gear": "Game: самостоятельный робот RoboPetCare и неизвестные задания от 1 апреля. Exhibition: автономный инженерный проект, презентация 4 минуты и Q&A 2 минуты. Это разные категории и отдельные взносы.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду и одну категорию видеоотбора; последующий World USD 135 отдельно. Нужный kit / поле и отправку материалов в страну подтвердить.",
+      "level": "Международная программа Robofest LTU; уровень конкретного этапа указан отдельно.",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется. Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "online",
+      "admission_kind": "qualifier",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        },
+        {
+          "label": "RMS · International Video Qualifier",
+          "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International"
+        },
+        {
+          "label": "RMS · US Video Qualifier · только US teams",
+          "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_USA"
+        }
+      ],
+      "deadline_utc": "2027-04-13T03:59:00Z",
+      "deadline_timezone": "America/Detroit",
+      "deadline_label": "Сдать ссылку на видео · 23:59 Eastern",
+      "grade_min": 5,
+      "grade_max": 12,
+      "grade_asof": "spring_2027"
+    },
+    {
+      "id": "C1271",
+      "block": "Соревнования",
+      "title": "Robofest 2027 · Houston_UrbanSTEM_TX · Game qualifier",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Houston · Houston City College",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "period": "08:00–15:00 по местному времени площадки; час закрытия регистрации не опубликован.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-03-10",
+      "age": "RMS: Jr Game / Sr Game. По V2 классы 5–8 / 9–12 весной 2027; для младших нужно одобренное исключение.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Местный US qualifier Game; зарубежный вход и возможность перехода именно через US-путь подтвердить. Правило международного non-member видео не заменяется поездкой на любой US-этап.",
+      "gear": "RoboPetCare · текущие отдельные Game-правила и unknown factors нужны дополнительно.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 / команда. Houston: дополнительный check-in уточнить; MISD: check-in не взимается, парковка бесплатна.",
+      "level": "Международная программа Robofest LTU; уровень конкретного этапа указан отдельно.",
+      "reward": "Результат квалификации по протоколу; участие и выход в финал — разные состояния.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Houston_UrbanSTEM_TX",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "C1272",
+      "block": "Соревнования",
+      "title": "Robofest 2027 · ClintonTwp_MISD_MI · Game qualifier",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Clinton Township · MISD",
+      "start": "2027-04-03",
+      "end": "2027-04-03",
+      "period": "09:00–13:00 по местному времени площадки; час закрытия регистрации не опубликован.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-03-24",
+      "age": "RMS: Jr Game / Sr Game. По V2 классы 5–8 / 9–12 весной 2027; для младших нужно одобренное исключение.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Местный US qualifier Game; зарубежный вход и возможность перехода именно через US-путь подтвердить. Правило международного non-member видео не заменяется поездкой на любой US-этап.",
+      "gear": "RoboPetCare · текущие отдельные Game-правила и unknown factors нужны дополнительно.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 / команда. Houston: дополнительный check-in уточнить; MISD: check-in не взимается, парковка бесплатна.",
+      "level": "Международная программа Robofest LTU; уровень конкретного этапа указан отдельно.",
+      "reward": "Результат квалификации по протоколу; участие и выход в финал — разные состояния.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/ClintonTwp_MISD_MI",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась. Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "C1273",
+      "block": "Соревнования",
+      "title": "Robofest 2027 · Lutz FL · конфликт даты и срока",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "Lutz · Sunlake Academy",
+      "start": "",
+      "end": "",
+      "period": "RMS объявляет событие 3 марта 2027 09:00–13:00, но регистрацию до 24 марта 2027. Дата не исправлена догадкой; календарная дата и deadline оставлены пустыми до уточнения.",
+      "date_status": "Даты уточняются · конфликт RMS",
+      "deadline": "",
+      "age": "Jr Exhibition и Jr BottleSumo Classic; местный класс и версия по сезону требуют подтверждения.",
+      "mat": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "osc": "Условно: класс весной 2027 и допуск страны команды подтвердить.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Сначала уточнить ошибку календаря и иностранный допуск; две категории имеют разные технические правила.",
+      "gear": "Exhibition: самостоятельный проект; BottleSumo Classic: регламент платформ и поля отдельно.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
+      "level": "Международная программа Robofest LTU; уровень конкретного этапа указан отдельно.",
+      "reward": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
+      "priority": "P2 — после проверки класса и маршрута",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Lutz_FL",
+      "proof": "Прочитаны General 2027 V2 от 4 ноября 2026 и соответствующая карточка RMS / регламент.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "HTTP 200 и надпись Open не устраняют логическое расхождение дат. Никакое участие не оформлялось.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "materials",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "rules",
+      "references": [
+        {
+          "label": "General 2027 V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        },
+        {
+          "label": "Правила RoboParade V2",
+          "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf"
+        }
+      ],
+      "reported_start": "2027-03-03",
+      "reported_deadline": "2027-03-24"
+    },
+    {
+      "id": "C1274",
+      "block": "Соревнования",
+      "title": "Robofest · Benghazi_Libya · архив сезона 2027",
+      "country": "Ливия",
+      "region": "Африка",
+      "city": "Benghazi · Libyan International University",
+      "start": "2026-09-20",
+      "end": "2026-09-20",
+      "period": "В RMS сезон назван 2027, фактическая дата местного этапа в 2026. Новый будущий набор не объявлен.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-09-17",
+      "age": "RMS перечисляет Jr / Sr категории; местный возраст и правила того прошедшего этапа не перепроверены. Ноябрьский V2 не переносится задним числом.",
+      "mat": "Нет сейчас: опубликованная дата в прошлом.",
+      "osc": "Нет сейчас: опубликованная дата в прошлом.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Архивная опубликованная площадка LYBOTICS; факт проведения, иностранный вход и следующий сезон ещё не подтверждены.",
+      "gear": "Несколько местных категорий из RMS; результаты и точные технические редакции ещё не разобраны.",
+      "language": "Язык местного судейства архивной карточкой не установлен.",
+      "cost": "Benghazi: site check-in 300 LYD, регистрационный тариф собирает host и не назван. Tripoli: сумма у host не опубликована; не считать бесплатным.",
+      "level": "Местный этап серии; архив, не мировой финал.",
+      "reward": "Официальные призовые результаты этого этапа не проверены.",
+      "priority": "P4 — архив прошедшего этапа",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Benghazi_Libya",
+      "proof": "Прочитана публичная RMS-карточка прошедшей даты; факт проведения и результаты не проверены.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Архив RMS подтверждает опубликованную запись, но не проведение этапа, победу, открытый приём 2027 или доступ иностранной семье.",
+      "iso": [
+        "LBY"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "label": "Архивная карточка RMS",
+          "url": "https://www.robofest.net/rms/sites/2027/Benghazi_Libya"
+        }
+      ]
+    },
+    {
+      "id": "C1275",
+      "block": "Соревнования",
+      "title": "Robofest · Tripoli_Libya · архив сезона 2027",
+      "country": "Ливия",
+      "region": "Африка",
+      "city": "Tripoli · School of Tomorrow Generation",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "period": "В RMS сезон назван 2027, фактическая дата местного этапа в 2026. Новый будущий набор не объявлен.",
+      "date_status": "Подтверждено",
+      "deadline": "2026-10-27",
+      "age": "RMS перечисляет Jr / Sr категории; местный возраст и правила того прошедшего этапа не перепроверены. Ноябрьский V2 не переносится задним числом.",
+      "mat": "Нет сейчас: опубликованная дата в прошлом.",
+      "osc": "Нет сейчас: опубликованная дата в прошлом.",
+      "format": "Команда и взрослый coach; самостоятельный робот и код.",
+      "entry": "Архивная опубликованная площадка LYBOTICS; факт проведения, иностранный вход и следующий сезон ещё не подтверждены.",
+      "gear": "Несколько местных категорий из RMS; результаты и точные технические редакции ещё не разобраны.",
+      "language": "Язык местного судейства архивной карточкой не установлен.",
+      "cost": "Benghazi: site check-in 300 LYD, регистрационный тариф собирает host и не назван. Tripoli: сумма у host не опубликована; не считать бесплатным.",
+      "level": "Местный этап серии; архив, не мировой финал.",
+      "reward": "Официальные призовые результаты этого этапа не проверены.",
+      "priority": "P4 — архив прошедшего этапа",
+      "action": "Проверить класс, страну представительства, доступные места, invoice и точное расписание; заявка не подана.",
+      "source": "https://www.robofest.net/rms/sites/2027/Tripoli_Libya",
+      "proof": "Прочитана публичная RMS-карточка прошедшей даты; факт проведения и результаты не проверены.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Архив RMS подтверждает опубликованную запись, но не проведение этапа, победу, открытый приём 2027 или доступ иностранной семье.",
+      "iso": [
+        "LBY"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "national",
+      "importance_reason": "Редакционная оценка типа этапа; национальный отбор, мировой финал и обучение различаются.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "team",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "references": [
+        {
+          "label": "Архивная карточка RMS",
+          "url": "https://www.robofest.net/rms/sites/2027/Tripoli_Libya"
+        }
+      ]
     },
     {
       "id": "CP001-20270606-20270619",
@@ -282872,6 +283457,156 @@
       "camp_programme_id": "CP1187"
     },
     {
+      "id": "CP1188-20270116-20270116",
+      "block": "Лагеря",
+      "title": "LTU Robofest · Game workshop · EV3 / SPIKE Scratch · EV3 / SPIKE Scratch · 2027-01-16–2027-01-16",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "period": "Одна суббота 09:00–12:00 по времени Michigan; три часа занятий, без проживания.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-01-13",
+      "age": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Трёхчасовой дневной воркшоп на кампусе, не пансион.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Очная техническая подготовка на предсобранных учебных роботах; свой робот возможен по спецификации организатора. Регистрация воркшопа создаёт отдельный team ID. Самостоятельный компьютер / ПО и доступ младших уточнить; учебная практика не конкурсная победа.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "2027 · Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.; Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.; Сверить состав двух братьев, участие coach, компьютер/ПО, транспорт и действительный остаток оплаты. Участие не оформлялось.",
+      "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+      "references": [
+        {
+          "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+          "label": "Воркшоп 2027 · время, срок и условный нулевой тариф"
+        },
+        {
+          "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+          "label": "Pre-Registration · платёжная основа, не реальный турнир"
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "label": "Общие правила сезона V2"
+        }
+      ],
+      "proof": "Текущая публичная RMS-карточка 2027; срок без опубликованного часа, не применять общий срок соревнований за десять дней.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Матвей: Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения. Оскар: Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения. Доплаты: Перелёт, местный транспорт, жильё семьи, питание и нужный компьютер отдельно. В RMS максимум 8 регистраций команд; это не обещание свободных мест или восьми индивидуальных детей. Оплата: Воркшоп 0, но обязательная регистрация команды должна быть оплачена. Взнос соревнования не возвращается; применимость переноса и доступ на занятие подтвердить до оплаты.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ltu-robofest-ev3-spike-workshop-2027",
+      "camp_programme_id": "CP1188",
+      "sessions": [
+        {
+          "date": "2027-01-16",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Detroit",
+          "topic": "Практика Robofest; допущенная оплаченная команда, не соревнование.",
+          "ical_timed": true,
+          "start_utc": "2027-01-16T14:00:00Z",
+          "end_utc": "2027-01-16T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1189-20270213-20270213",
+      "block": "Лагеря",
+      "title": "LTU Robofest · Game workshop · VEX IQ / VEXcode · VEX IQ / VEXcode · 2027-02-13–2027-02-13",
+      "country": "США",
+      "region": "Северная Америка",
+      "city": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "period": "Одна суббота 09:00–12:00 по времени Michigan; три часа занятий, без проживания.",
+      "date_status": "Подтверждено",
+      "deadline": "2027-02-11",
+      "age": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+      "mat": "Условно; проверить возраст, класс и допуск",
+      "osc": "Условно; проверить возраст, класс и допуск",
+      "format": "Трёхчасовой дневной воркшоп на кампусе, не пансион.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Очная техническая подготовка на предсобранных учебных роботах; свой робот возможен по спецификации организатора. Регистрация воркшопа создаёт отдельный team ID. Самостоятельный компьютер / ПО и доступ младших уточнить; учебная практика не конкурсная победа.",
+      "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "cost": "2027 · Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп. · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P2 — поездка после подтверждения допуска",
+      "action": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.; Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.; Сверить состав двух братьев, участие coach, компьютер/ПО, транспорт и действительный остаток оплаты. Участие не оформлялось.",
+      "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+      "references": [
+        {
+          "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+          "label": "Воркшоп 2027 · время, срок и условный нулевой тариф"
+        },
+        {
+          "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+          "label": "Pre-Registration · платёжная основа, не реальный турнир"
+        },
+        {
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "label": "Общие правила сезона V2"
+        }
+      ],
+      "proof": "Текущая публичная RMS-карточка 2027; срок без опубликованного часа, не применять общий срок соревнований за десять дней.",
+      "checked": "2026-11-05",
+      "status": "Идея",
+      "note": "Матвей: Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения. Оскар: Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения. Доплаты: Перелёт, местный транспорт, жильё семьи, питание и нужный компьютер отдельно. В RMS максимум 8 регистраций команд; это не обещание свободных мест или восьми индивидуальных детей. Оплата: Воркшоп 0, но обязательная регистрация команды должна быть оплачена. Взнос соревнования не возвращается; применимость переноса и доступ на занятие подтвердить до оплаты.",
+      "iso": [
+        "USA"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+      "participation": "holiday_workshop",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ltu-robofest-vexiq-workshop-2027",
+      "camp_programme_id": "CP1189",
+      "sessions": [
+        {
+          "date": "2027-02-13",
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "timezone": "America/Detroit",
+          "topic": "Практика Robofest; допущенная оплаченная команда, не соревнование.",
+          "ical_timed": true,
+          "start_utc": "2027-02-13T14:00:00Z",
+          "end_utc": "2027-02-13T17:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "TC2027-SHOWCASE",
       "block": "События",
       "title": "The Tech Challenge 2027 · Game On! · показ инженерных проектов",
@@ -290740,7 +291475,7 @@
       "checked": "2026-09-29"
     }
   ],
-  "source_count": 3903,
+  "source_count": 3917,
   "sources": [
     {
       "url": "https://www.torneoluva.com",
@@ -314051,6 +314786,90 @@
       "title": "Официальный праздник 8 декабря 2026",
       "evidence": "Официальный источник досье; неизвестные условия отмечены в программе",
       "checked": "2026-11-05"
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+      "title": "Воркшоп 2027 · время, срок и условный нулевой тариф",
+      "evidence": "Официальный источник досье; неизвестные условия отмечены в программе",
+      "checked": "2026-11-05"
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+      "title": "Pre-Registration · платёжная основа, не реальный турнир",
+      "evidence": "Официальный источник досье; неизвестные условия отмечены в программе",
+      "checked": "2026-11-05"
+    },
+    {
+      "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+      "title": "Общие правила сезона V2",
+      "evidence": "Официальный источник досье; неизвестные условия отмечены в программе",
+      "checked": "2026-11-05"
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+      "title": "Воркшоп 2027 · время, срок и условный нулевой тариф",
+      "evidence": "Официальный источник досье; неизвестные условия отмечены в программе",
+      "checked": "2026-11-05"
+    },
+    {
+      "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+      "title": "RoboParade 2027 V2",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/index.php/world-championship-26",
+      "title": "World 2027",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/index.php/us-championship",
+      "title": "US 2027",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_International",
+      "title": "Robofest 2027 · International Video Qualifier · Game",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Houston_UrbanSTEM_TX",
+      "title": "Robofest 2027 · Houston_UrbanSTEM_TX · Game qualifier",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/ClintonTwp_MISD_MI",
+      "title": "Robofest 2027 · ClintonTwp_MISD_MI · Game qualifier",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Lutz_FL",
+      "title": "Robofest 2027 · Lutz FL · конфликт даты и срока",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Benghazi_Libya",
+      "title": "Robofest · Benghazi_Libya · архив сезона 2027",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Tripoli_Libya",
+      "title": "Robofest · Tripoli_Libya · архив сезона 2027",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
+    },
+    {
+      "url": "https://www.robofest.net/rms/sites/2027/Video_Qualifier_USA",
+      "title": "US Video Qualifier",
+      "checked": "2026-11-05",
+      "evidence": "Первичный документ прочитан; неизвестные условия отмечены."
     }
   ],
   "wro_members": 107,
@@ -315267,11 +316086,11 @@
       "iso": "LBY",
       "country": "Ливия",
       "region": "Африка",
-      "research_status": "Местный календарь ещё не исследован",
-      "competitions": 0,
+      "research_status": "Частично: есть записи; полный местный аудит не завершён",
+      "competitions": 2,
       "exhibitions": 0,
       "camps": 0,
-      "dated": 0,
+      "dated": 2,
       "organizer": "Не найден в каталоге WRO; это не доказательство отсутствия robotics",
       "organizer_url": ""
     },
@@ -316636,10 +317455,10 @@
       "country": "Соединенные Штаты Америки",
       "region": "Северная Америка",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 373,
+      "competitions": 379,
       "exhibitions": 31,
-      "camps": 399,
-      "dated": 795,
+      "camps": 401,
+      "dated": 800,
       "organizer": "US Engineering League",
       "organizer_url": "https://www.uselyouthrobotics.com"
     },
@@ -316792,10 +317611,10 @@
       "country": "Республика Корея",
       "region": "Азия",
       "research_status": "Частично: есть записи; полный местный аудит не завершён",
-      "competitions": 19,
+      "competitions": 20,
       "exhibitions": 3,
       "camps": 16,
-      "dated": 35,
+      "dated": 37,
       "organizer": "Hands on Learning",
       "organizer_url": "http://www.wrokorea.kr"
     },
@@ -318230,7 +319049,7 @@
   ],
   "coverage_summary": {
     "countries": 249,
-    "countries_with_records": 85,
+    "countries_with_records": 86,
     "fully_audited_countries": 0,
     "unmapped_global_records": 64
   },
@@ -320284,7 +321103,7 @@
         "id": "robofest",
         "name": "Robofest · LTU",
         "group": "international",
-        "age_summary": "Explorer: 1–4 классы; Junior: 5–8 классы; Senior: 9–12",
+        "age_summary": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс. Остальные Jr 5–8 / Sr 9–12 классов; исключения по одобрению.",
         "age_tags": [
           "unknown"
         ],
@@ -320292,16 +321111,16 @@
         "categories": [
           {
             "name": "Robofest World Championship 2027",
-            "age": "NEW RoboParade Explorer: школьные классы 1–4 весной 2027; Junior Game/Exhibition/RoboArts/RoboMed классы 5–8",
+            "age": "RoboParade Explorer: классы 1–4 весной 2027; Junior 5–8. Команда 1–5 учеников, один робот. Один участник разрешён с минимальным баллом teamwork. Возраст 6/9 не устанавливает школьный класс.",
             "team": "RoboParade / Game / Exhibition до 5 учеников; взрослый coach. BottleSumo до 3; UMC до 4",
-            "hardware": "RoboParade: любая разрешённая платформа; автономный робот, тема Fun and Games; отдельный регламент категории",
-            "age_rule": "Дату отсечения / класс сверить с действующим местным регламентом.",
+            "hardware": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+            "age_rule": "Класс весной 2027; официальный waiver отдельно и не гарантирован.",
             "event_id": "C053",
-            "entry": "Member country: через International Director, включая Open categories и национальные квоты. Non-member country: возможен прямой Open-вход при наличии мест. Выбор страны представительства согласовать.",
-            "language": "EN; язык презентации выбранной категории подтвердить",
-            "note": "Определяющим является школьный класс весной 2027, а не возраст 6/9 сам по себе. México имеет официального Director Dr. Ramiro Marrero Quintana; Costa Rica не указана в прочитанном списке. Отсутствие в списке не означает автоматическое разрешение прямого входа. Перед заявкой нужно согласовать страну и grade.",
-            "source": "https://www.robofest.net/images/2627/General2027_V1.pdf",
-            "checked": "2026-09-30"
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
           },
           {
             "name": "Taiwan Robofest 2027 · национальный фестиваль / отбор",
@@ -320342,6 +321161,136 @@
             "hardware": "Автономная платформа любой марки, чёрная линия и остановка перед роботом; тема Fun and Games. Ширина до 35 cm, вся длина до 60 cm, секция до 35 cm; скорость 7–16 cm/sec. Правила 2027 V1 от 25.09.2026.",
             "entry": "Главная страница объявляет Taiwan Robofest 06–07.03.2027, но день каждой категории, площадка, взносы, срок и приём иностранной семьи не раскрыты. Двухдневный диапазон — окно фестиваля, не обещание 2 дней участия. Локальные категории не гарантируют отбор на мировой финал.",
             "event_id": "C1188"
+          },
+          {
+            "name": "Game · RoboPetCare · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически. Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1269"
+          },
+          {
+            "name": "Exhibition · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически. Только Game/Exhibition Junior 5–8 или Senior 9–12 классов весной 2027; для младших нужна одобренная Age Division Waiver, не автоматический допуск. International Video Qualifier предназначен non-member country teams; US имеет отдельный канал. Это не видеоотбор RoboParade Explorer. По V2 дедлайн 12 апреля 2027 в 23:59 Eastern = 13 апреля 03:59 UTC. RMS показывает 23:00–23:30, но текст прямо называет submission deadline 23:59: фиктивный live-слот не экспортируется.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1270"
+          },
+          {
+            "name": "BottleSumo Classic / Unlimited · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 3 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Classic: NXT / EV3 / SPIKE Prime / Robot Inventor / VEX IQ; Unlimited: Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "Unknown Mission Challenge · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 4 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "NXT / EV3 / SPIKE Prime / Robot Inventor / VEX IQ · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "Vision Centric Challenge · LTU 2027 V2",
+            "age": "Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "DroneQuest · LTU 2027 V2",
+            "age": "Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Tello / Tello Talent / CoDrone EDU 10 Plus; others allowed · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "BipedQuest · LTU 2027 V2",
+            "age": "Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Recommended humanoid platforms; others allowed · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboArts · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboMed · LTU 2027 V2",
+            "age": "Jr 5–8 / Sr 9–12 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "Any · подробный регламент категории ещё сверить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C053"
+          },
+          {
+            "name": "RoboParade · Explorer / Junior · LTU 2027 V2",
+            "age": "Explorer 1–4 / Jr 5–8 · школьные классы, не возраст",
+            "team": "До 5 учеников; минимум и исключения по отдельному правилу.",
+            "hardware": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+            "age_rule": "Школьный класс весной 2027, исключение только после одобрения.",
+            "entry": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+            "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+            "note": "Робот и программа — самостоятельная работа детей: coaches/родители не собирают робот и не пишут/редактируют код за команду. Учить и объяснять можно; в рабочем pit взрослые не помогают. Нужен взрослый coach, текущие pledge / privacy / consent; документы не принимались и регистрация не выполнялась.",
+            "source": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+            "checked": "2026-11-05",
+            "event_id": "C1268"
           }
         ],
         "event_ids": [
@@ -320351,14 +321300,25 @@
           "C1185",
           "C1186",
           "C1187",
-          "C1188"
+          "C1188",
+          "C1267",
+          "C1268",
+          "C1269",
+          "C1270",
+          "C1271",
+          "C1272",
+          "C1273",
+          "C1274",
+          "C1275",
+          "CP1188-20270116-20270116",
+          "CP1189-20270213-20270213"
         ],
         "legacy_ids": [
           "C053"
         ],
-        "route": "Member country: через International Director, включая Open categories и национальные квоты. Non-member country: возможен прямой Open-вход при наличии мест. Выбор страны представительства согласовать.",
-        "hardware": "RoboParade: любая разрешённая платформа; автономный робот, тема Fun and Games; отдельный регламент категории",
-        "language": "EN; язык презентации выбранной категории подтвердить",
+        "route": "Команды из member countries проходят согласование International Director и национальной квоты, включая Open. Для non-member countries возможен прямой Open-вход при наличии мест; Game/Exhibition — через International Video Qualifier. В официальном списке есть Robofest Mexico / Dr. Ramiro Marrero Quintana. Коста-Рика в списке не найдена, но отсутствие записи не доказывает non-member статус. Страну команды и путь семьи подтвердить; паспорт родителя её не определяет автоматически.",
+        "hardware": "RoboParade V2 от 4 ноября 2026: любая автономная платформа и язык программирования; скорость 7–16 cm/sec, ширина до 35 cm, общая длина до 60 cm и каждая секция до 35 cm. Общая высота и масса не ограничены; число контроллеров, датчиков и моторов не ограничено. Задний плоский bumper минимум 10 cm высотой и 28 cm шириной, на 2.54 cm над полом. Explorer не обязан показывать скорость на дисплее. Для Explorer один раунд по часовой стрелке: 10 минут parade и 2 минуты judging; обратный раунд только Junior. Чёрная линия, обнаружение робота впереди, stop/restart. В V2 удалено послабление straight-lines-only из V1, поэтому готовить прохождение поворотов; локальную редакцию подтвердить.",
+        "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
         "importance": "Редакционная группа по типу маршрута, а не официальный рейтинг всех лиг.",
         "strengths": "Автономная робототехника и инженерные проекты; категории с разными путями входа.",
         "requirements": [
@@ -320371,10 +321331,13 @@
           "Game / Exhibition проходят через qualifier, в том числе video; Open-категории имеют отдельный вход. Не все номинации требуют одинакового отбора.",
           "Сеул 28–31.05.2027 на официальной странице помечен TENTATIVE. Это пока не подтверждённые дни поездки.",
           "RoboParade Explorer для 1–4 классов — новая младшая ступень; Junior Game начинается с 5 класса.",
+          "V2: Game/Exhibition — 1 команда при 5–49 местных, 2 при 50+; максимум 2. Open — 1 при 5–74, 2 при 75+; максимум 2 на категорию. Если Open-категория не проводилась локально, директор может выбрать 1 команду. Квота зависит от официального отчёта организатора; это не обещание места семье.",
+          "Новый General Rules V2 от 4 ноября 2026 прямо указывает 28–31 мая 2027 в Сеуле без TENTATIVE; то же объявляют страница World и университет-host. В HTML общего календаря пометка TENTATIVE всё ещё есть. Записано опубликованное общее окно чемпионата по V2 и специальной странице; конкретный день RoboParade и окончательное расписание не опубликованы. Сохраняем расхождение статусов для проверки перед поездкой.",
+          "Если зарегистрируется менее 5 команд, категорию могут отменить и предложить перенос. Оплата не равна фактическому проведению или выходу в финал.",
           "v135 · México/LATAM 2026 публикует локальные 6–14 против grade 5–8 overview, отдельные W193 drones/football и смешанный General 2025/2026. Это не изменение правил LTU World 2027; новый LATAM календарь/квота не объявлены. См. отдельный профиль robofest-latam."
         ],
-        "cost": "Бюджет: kit / компьютер, поле и сезонные детали, регистрация, подготовка, поездка и проживание. Точная сумма — в карточке этапа; не рассчитана для всей лиги.",
-        "award": "Место / награда только по официальному протоколу",
+        "cost": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
+        "award": "В RoboParade призовые trophies получают 20% команд дивизиона по rubric; возможны специальные призы. Participation certificate / medal для участника не доказывает призовое место. World, US и местный результат фиксировать отдельно по протоколу.",
         "sources": [
           {
             "title": "Robofest LTU: 2027 и порядок входа",
@@ -320390,9 +321353,34 @@
             "title": "Текущий анонс 2027",
             "url": "https://robofest.me/",
             "checked": "2026-11-04"
+          },
+          {
+            "title": "General 2027 V2",
+            "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboParade 2027 V2",
+            "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "International Directors",
+            "url": "https://www.robofest.net/index.php/about/international-directors",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "World 2027",
+            "url": "https://www.robofest.net/index.php/world-championship-26",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "US 2027",
+            "url": "https://www.robofest.net/index.php/us-championship",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "Дополнено по прочитанным официальным правилам / страницам 30.09.2026; местный приём семьи подтверждается отдельно."
+        "evidence": "General V2 и RoboParade V2 прочитаны 5 ноября 2026; ключевые страницы просмотрены. Остальные специальные правила и национальные документы не объявлены полностью проаудированными."
       },
       {
         "id": "robotex",
@@ -331044,14 +332032,14 @@
       "fully_audited_countries": 0
     },
     "counts": {
-      "cards": 4195,
-      "competition_cards": 1265,
+      "cards": 4206,
+      "competition_cards": 1274,
       "event_cards": 219,
-      "camp_cards": 2711,
+      "camp_cards": 2713,
       "league_profiles": 147,
       "major_exhibition_cards": 137,
       "vex_cards": 518,
-      "countries_with_records": 85,
+      "countries_with_records": 86,
       "fully_audited_countries": 0
     },
     "continents": [
@@ -331062,12 +332050,12 @@
           "Центральная Америка",
           "Карибский регион"
         ],
-        "total": 1390,
+        "total": 1398,
         "countries_with_records": 14,
-        "competitions": 573,
+        "competitions": 579,
         "events": 58,
         "major_exhibitions": 19,
-        "camps": 759,
+        "camps": 761,
         "status": "Частично исследовано",
         "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
       },
@@ -331104,9 +332092,9 @@
         "regions": [
           "Африка"
         ],
-        "total": 101,
-        "countries_with_records": 10,
-        "competitions": 61,
+        "total": 103,
+        "countries_with_records": 11,
+        "competitions": 63,
         "events": 10,
         "major_exhibitions": 5,
         "camps": 30,
@@ -331118,9 +332106,9 @@
         "regions": [
           "Азия"
         ],
-        "total": 936,
+        "total": 937,
         "countries_with_records": 24,
-        "competitions": 236,
+        "competitions": 237,
         "events": 66,
         "major_exhibitions": 58,
         "camps": 634,
@@ -332034,11 +333022,20 @@
           "C1185",
           "C1186",
           "C1187",
-          "C1188"
+          "C1188",
+          "C1267",
+          "C1268",
+          "C1269",
+          "C1270",
+          "C1271",
+          "C1272",
+          "C1273",
+          "C1274",
+          "C1275"
         ],
-        "cards": 7,
-        "future_dated": 6,
-        "linked_card_count": 7,
+        "cards": 16,
+        "future_dated": 11,
+        "linked_card_count": 18,
         "status": "Есть профиль и карточки; местный охват частичный",
         "source": "https://www.robofest.net/index.php/current-competitions/main-page",
         "new": false
@@ -337965,8 +338962,8 @@
         }
       ],
       "counts": {
-        "records": 2711,
-        "holiday": 2594,
+        "records": 2713,
+        "holiday": 2596,
         "regular": 95,
         "self_paced_materials": 2,
         "boarding": 938,
@@ -340772,8 +341769,8 @@
       }
     ],
     "counts": {
-      "records": 2711,
-      "holiday": 2594,
+      "records": 2713,
+      "holiday": 2596,
       "regular": 95,
       "self_paced_materials": 2,
       "boarding": 938,
@@ -351419,7 +352416,7 @@
     ]
   },
   "family_strategy": {
-    "version": 153,
+    "version": 156,
     "checked": "2026-11-05",
     "kind": "editorial_family_recommendation",
     "title": "Одна база. Два собственных маршрута.",
@@ -351753,7 +352750,8 @@
           "При трёх годах опыта beginner-camp выбирать только если диагностика показывает пробелы; искать подходящие задачи, а не возраст на рекламе.",
           "RoboRAVE Puerto Vallarta: для SumoLEGO / FastBot / a-MAZE-ing искать партнёра 8–11, а не записывать младшего брата автоматически. Сначала собственная программа и серия повторяемых испытаний, затем согласованный challenge и счёт.",
           "Infomatrix: собственный инженерный прототип или программа, испытания и отчёт с раскрытием AI-помощи. Можно семейную команду до 3 учеников; смешанный уровень определяется старшим. Для Халапы 27–28 ноября проверить класс и страну команды до срока 6 ноября.",
-          "VEX México 2026/27: братьям нужен третий участник IQ, наставник и подтверждённый школьный маршрут. Girl Powered для них закрыт; до ставки на Worlds получить разъяснение противоречивого обязательного участия. Для подготовки вести notebook и объяснять собственный код; для ближайшего совместного проекта сравнить уже проверенный Infomatrix."
+          "VEX México 2026/27: братьям нужен третий участник IQ, наставник и подтверждённый школьный маршрут. Girl Powered для них закрыт; до ставки на Worlds получить разъяснение противоречивого обязательного участия. Для подготовки вести notebook и объяснять собственный код; для ближайшего совместного проекта сравнить уже проверенный Infomatrix.",
+          "Robofest Explorer: проверить классы обоих весной 2027. В одной команде разрешены 1–5 учеников, поэтому два брата потенциально могут идти вместе. Согласовать страну команды с LTU / национальным директором; затем готовить автономный Fun and Games float по V2. Объявленный World 28–31 мая в Сеуле; это план после допуска, не полученная квота или победа."
         ],
         "proof": "Через сезон: самостоятельно собранный / запрограммированный робот, дневник испытаний, личная роль на защите, официальный результат или честно измеримый прогресс.",
         "sources": [
@@ -351800,7 +352798,8 @@
           "Дополнительный online-проект — только при понятном авторстве и правилах конкретной программы.",
           "В 2027 RoboRAVE ES 8+ пока рано по опубликованным глобальным таблицам. Сохранить младший учебный / соревновательный маршрут и семейный показ; корейский школьный override требует собственного подтверждения.",
           "Infomatrix разрешает участников с 5 лет и независимые семейные команды: выделить Оскару собственную понятную часть проекта. Codi-Bot — только последний preschool или 1–3 класс, не просто любой ребёнок 6 лет. В TecPro Artifact минимум уже исполненные 6; поздний день рождения учитывать.",
-          "VEX México 2026/27: братьям нужен третий участник IQ, наставник и подтверждённый школьный маршрут. Girl Powered для них закрыт; до ставки на Worlds получить разъяснение противоречивого обязательного участия. Для подготовки вести notebook и объяснять собственный код; для ближайшего совместного проекта сравнить уже проверенный Infomatrix."
+          "VEX México 2026/27: братьям нужен третий участник IQ, наставник и подтверждённый школьный маршрут. Girl Powered для них закрыт; до ставки на Worlds получить разъяснение противоречивого обязательного участия. Для подготовки вести notebook и объяснять собственный код; для ближайшего совместного проекта сравнить уже проверенный Infomatrix.",
+          "Robofest Explorer: проверить классы обоих весной 2027. В одной команде разрешены 1–5 учеников, поэтому два брата потенциально могут идти вместе. Согласовать страну команды с LTU / национальным директором; затем готовить автономный Fun and Games float по V2. Объявленный World 28–31 мая в Сеуле; это план после допуска, не полученная квота или победа."
         ],
         "proof": "Может собрать свою часть, изменить последовательность, проверить результат и объяснить идею. Не требуется догонять старшего по наградам.",
         "sources": [
@@ -352184,6 +353183,18 @@
         "url": "https://drive.google.com/file/d/11Gn3vV5Sjb52os8OHjKJl2UYfVGhXqn_/view",
         "checked": "2026-11-05",
         "claim": "Последний дошкольный год либо Primaria 1–3 по специальному регламенту. Общий заголовок Junior говорит Primaria–Preparatoria: дошкольный вход подтвердить. Матвею особенно проверить, не старше ли 3 класса."
+      },
+      {
+        "title": "Robofest General 2027 V2",
+        "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+        "checked": "2026-11-05",
+        "claim": "Классы весной 2027, международный маршрут, опубликованный период финала и взносы по V2."
+      },
+      {
+        "title": "RoboParade 2027 V2",
+        "url": "https://www.robofest.net/images/2627/RoboParade2027_V2.pdf",
+        "checked": "2026-11-05",
+        "claim": "RoboParade Explorer: классы 1–4, команда 1–5, самостоятельная работа и технический формат V2."
       }
     ],
     "confidence": "Средняя: младшие программы найдены, но свободные места, текущие тренеры и самостоятельный уровень детей ещё не подтверждены.",
@@ -359404,12 +360415,12 @@
       "school_grades_known": false
     },
     "counts": {
-      "dossiers": 1187,
+      "dossiers": 1189,
       "countries": 41,
       "swiss": 136,
       "by_status": {
         "published_2026_27": 138,
-        "published_2027": 325,
+        "published_2027": 327,
         "partial_2027": 115,
         "next_unannounced": 233,
         "published_2026": 239,
@@ -359417,7 +360428,7 @@
         "partial_2026": 10,
         "archive_next_unannounced": 106
       },
-      "source_urls": 1808
+      "source_urls": 1812
     },
     "countries": [
       {
@@ -359522,7 +360533,7 @@
       },
       {
         "country": "США",
-        "count": 133
+        "count": 135
       },
       {
         "country": "Сингапур",
@@ -518747,6 +519758,242 @@
             ]
           }
         ]
+      },
+      {
+        "id": "CP1188",
+        "slug": "ltu-robofest-ev3-spike-workshop-2027",
+        "provider": "LTU Robofest · Game workshop · EV3 / SPIKE Scratch",
+        "country": "США",
+        "iso": "USA",
+        "place": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+        "themes": [
+          "robotics",
+          "coding"
+        ],
+        "formats": [
+          "day"
+        ],
+        "catalog_participation": "holiday_workshop",
+        "age": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+        "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+        "language_evidence_role": "unconfirmed",
+        "confirmed_instruction_languages": [],
+        "programme": "Очная техническая подготовка на предсобранных учебных роботах; свой робот возможен по спецификации организатора. Регистрация воркшопа создаёт отдельный team ID. Самостоятельный компьютер / ПО и доступ младших уточнить; учебная практика не конкурсная победа.",
+        "timing": {
+          "status": "published_2027",
+          "label": "Одна суббота 09:00–12:00 по времени Michigan; три часа занятий, без проживания.",
+          "sessions": [
+            [
+              "2027-01-16",
+              "2027-01-16"
+            ]
+          ],
+          "session_details": [
+            {
+              "start": "2027-01-16",
+              "end": "2027-01-16",
+              "label": "EV3 / SPIKE Scratch",
+              "price": "Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп.",
+              "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+              "formats": [
+                "day"
+              ],
+              "date_scope": "session_days",
+              "sessions": [
+                {
+                  "date": "2027-01-16",
+                  "start_time": "09:00",
+                  "end_time": "12:00",
+                  "timezone": "America/Detroit",
+                  "topic": "Практика Robofest; допущенная оплаченная команда, не соревнование.",
+                  "ical_timed": true,
+                  "start_utc": "2027-01-16T14:00:00Z",
+                  "end_utc": "2027-01-16T17:00:00Z"
+                }
+              ],
+              "deadline": "2027-01-13",
+              "proof": "Текущая публичная RMS-карточка 2027; срок без опубликованного часа, не применять общий срок соревнований за десять дней."
+            }
+          ],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "currency": "USD",
+          "amount": 0,
+          "unit": "conditional_team_workshop",
+          "label": "Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп.",
+          "included": "Предсобранный робот для практики; право забрать оборудование не заявлено.",
+          "extras": "Перелёт, местный транспорт, жильё семьи, питание и нужный компьютер отдельно. В RMS максимум 8 регистраций команд; это не обещание свободных мест или восьми индивидуальных детей.",
+          "deposit": "Воркшоп 0, но обязательная регистрация команды должна быть оплачена. Взнос соревнования не возвращается; применимость переноса и доступ на занятие подтвердить до оплаты."
+        },
+        "accommodation": "Трёхчасовой дневной воркшоп на кампусе, не пансион.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения."
+          }
+        },
+        "editorial_reason": "Практическая часть маршрута в Robofest; самостоятельный возраст и иностранный вход ещё не подтверждены.",
+        "shortlist": [
+          "technical"
+        ],
+        "questions": [
+          "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+          "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+          "Сверить состав двух братьев, участие coach, компьютер/ПО, транспорт и действительный остаток оплаты. Участие не оформлялось."
+        ],
+        "sources": [
+          {
+            "title": "Воркшоп 2027 · время, срок и условный нулевой тариф",
+            "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Pre-Registration · платёжная основа, не реальный турнир",
+            "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Общие правила сезона V2",
+            "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
+          }
+        ],
+        "checked": "2026-11-05",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1188-20270116-20270116"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CP1189",
+        "slug": "ltu-robofest-vexiq-workshop-2027",
+        "provider": "LTU Robofest · Game workshop · VEX IQ / VEXcode",
+        "country": "США",
+        "iso": "USA",
+        "place": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+        "themes": [
+          "robotics",
+          "coding"
+        ],
+        "formats": [
+          "day"
+        ],
+        "catalog_participation": "holiday_workshop",
+        "age": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+        "language": "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+        "language_evidence_role": "unconfirmed",
+        "confirmed_instruction_languages": [],
+        "programme": "Очная техническая подготовка на предсобранных учебных роботах; свой робот возможен по спецификации организатора. Регистрация воркшопа создаёт отдельный team ID. Самостоятельный компьютер / ПО и доступ младших уточнить; учебная практика не конкурсная победа.",
+        "timing": {
+          "status": "published_2027",
+          "label": "Одна суббота 09:00–12:00 по времени Michigan; три часа занятий, без проживания.",
+          "sessions": [
+            [
+              "2027-02-13",
+              "2027-02-13"
+            ]
+          ],
+          "session_details": [
+            {
+              "start": "2027-02-13",
+              "end": "2027-02-13",
+              "label": "VEX IQ / VEXcode",
+              "price": "Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп.",
+              "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+              "formats": [
+                "day"
+              ],
+              "date_scope": "session_days",
+              "sessions": [
+                {
+                  "date": "2027-02-13",
+                  "start_time": "09:00",
+                  "end_time": "12:00",
+                  "timezone": "America/Detroit",
+                  "topic": "Практика Robofest; допущенная оплаченная команда, не соревнование.",
+                  "ical_timed": true,
+                  "start_utc": "2027-02-13T14:00:00Z",
+                  "end_utc": "2027-02-13T17:00:00Z"
+                }
+              ],
+              "deadline": "2027-02-11",
+              "proof": "Текущая публичная RMS-карточка 2027; срок без опубликованного часа, не применять общий срок соревнований за десять дней."
+            }
+          ],
+          "precision": "published_sessions"
+        },
+        "price": {
+          "year": 2027,
+          "currency": "USD",
+          "amount": 0,
+          "unit": "conditional_team_workshop",
+          "label": "Занятие USD 0 для допущенной оплаченной команды; отдельная регистрационная основа qualifier / Pre-Registration USD 110. Это условная бесплатность, не нулевая стоимость сезона. Одну уже оплаченную регистрацию не прибавлять повторно за второй воркшоп.",
+          "included": "Предсобранный робот для практики; право забрать оборудование не заявлено.",
+          "extras": "Перелёт, местный транспорт, жильё семьи, питание и нужный компьютер отдельно. В RMS максимум 8 регистраций команд; это не обещание свободных мест или восьми индивидуальных детей.",
+          "deposit": "Воркшоп 0, но обязательная регистрация команды должна быть оплачена. Взнос соревнования не возвращается; применимость переноса и доступ на занятие подтвердить до оплаты."
+        },
+        "accommodation": "Трёхчасовой дневной воркшоп на кампусе, не пансион.",
+        "family_fit": {
+          "matvey": {
+            "status": "conditional",
+            "detail": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения."
+          },
+          "oscar": {
+            "status": "conditional",
+            "detail": "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения."
+          }
+        },
+        "editorial_reason": "Практическая часть маршрута в Robofest; самостоятельный возраст и иностранный вход ещё не подтверждены.",
+        "shortlist": [
+          "technical"
+        ],
+        "questions": [
+          "Самостоятельный возраст воркшопа не указан. Требуется уже зарегистрированная и оплаченная команда qualifying event или Pre-Registration; доступ иностранной семьи и младших участников согласовать. Правила Game обычно требуют классы 5–8 / 9–12 либо одобренное исключение; не переносить их автоматически на возраст обучения.",
+          "Правила и материалы EN; отдельное подтверждение языка судейства / занятия и EN/ES помощи на выбранной площадке требуется.",
+          "Сверить состав двух братьев, участие coach, компьютер/ПО, транспорт и действительный остаток оплаты. Участие не оформлялось."
+        ],
+        "sources": [
+          {
+            "title": "Воркшоп 2027 · время, срок и условный нулевой тариф",
+            "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Pre-Registration · платёжная основа, не реальный турнир",
+            "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Общие правила сезона V2",
+            "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+            "checked": "2026-11-05"
+          }
+        ],
+        "checked": "2026-11-05",
+        "related_event_ids": [],
+        "calendar_links": [
+          {
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "kind": "catalogue_session",
+            "event_ids": [
+              "CP1189-20270213-20270213"
+            ]
+          }
+        ]
       }
     ],
     "gaps": [
@@ -523992,7 +525239,7 @@
       "Младшие группы и языковое доказательство для всех приоритетных операторов.",
       "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
     ],
-    "version": 155,
+    "version": 156,
     "family_review": {
       "version": 150,
       "asof": "2026-11-05",
@@ -536649,6 +537896,16 @@
         "programme_id": "CP1187",
         "event_id": "CP1187-20270104-20270108",
         "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1188",
+        "event_id": "CP1188-20270116-20270116",
+        "relation": "catalogue_session"
+      },
+      {
+        "programme_id": "CP1189",
+        "event_id": "CP1189-20270213-20270213",
+        "relation": "catalogue_session"
       }
     ],
     "generated_event_ids": [
@@ -538899,10 +540156,12 @@
       "CP1185-20270215-20270219",
       "CP1185-20270222-20270226",
       "CP1186-20270104-20270108",
-      "CP1187-20270104-20270108"
+      "CP1187-20270104-20270108",
+      "CP1188-20270116-20270116",
+      "CP1189-20270213-20270213"
     ],
     "integration": {
-      "generated_sessions": 2248,
+      "generated_sessions": 2250,
       "reused_legacy_events": 69,
       "seasonal_windows": 54,
       "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
@@ -538910,7 +540169,7 @@
   },
   "camp_planning": {
     "schema_version": 1,
-    "version": 155,
+    "version": 156,
     "asof": "2026-11-05",
     "title": "План каникул и семейная смета",
     "offers": [
@@ -543529,6 +544788,57 @@
         "scope": "Опубликованная цена пяти дневных дней для двоих, до жилья/перелёта/мест и возможных доплат. Early 25600 либо standard27600; две новые футболки отдельно600, не обязательны всем.",
         "checked": "2026-10-06",
         "format": "day"
+      },
+      {
+        "id": "ltu-workshop-one-paid-team-2027",
+        "slug": "ltu-robofest-ev3-spike-workshop-2027",
+        "label": "Robofest LTU · оплаченная команда + учебный воркшоп",
+        "currency": "USD",
+        "price_year": 2027,
+        "format": "day",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "base_by_child": {
+          "matvey": 0,
+          "oscar": 0
+        },
+        "discount_second": 0,
+        "required": [
+          {
+            "label": "Одна регистрационная основа qualifier / Pre-Registration · на команду",
+            "amount": 110
+          }
+        ],
+        "unknown_required": [],
+        "optional": [],
+        "unknown_trip": [
+          "travel",
+          "lodging",
+          "misc"
+        ],
+        "sessions": [
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ],
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ]
+        ],
+        "sources": [
+          "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+          "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+          "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+          "https://www.robofest.net/images/2627/General2027_V2.pdf"
+        ],
+        "checked": "2026-11-05",
+        "gate": "Только после подтверждения состава, школьного уровня и оплаченной команды; доступ двух младших братьев на воркшоп отдельно не подтверждён. Два занятия используют разные робототехнические платформы.",
+        "deposit_note": "USD 110 за команду/категорию на US-event и USD 135 на World; международные локальные тарифы могут отличаться, возможен check-in fee. Взносы не возвращаются. Game/Exhibition qualifier и финал оплачиваются отдельно. При переносе Pre-Registration в Open зачёт уже внесённого получить в invoice, не придумывать доплату. Техника, дорога и жильё отдельно.",
+        "included": "Воркшоп USD 0 при выполнении оплаченного условия; практика на предсобранных роботах. Компьютер, сопровождение детей и выдачу техники уточнить.",
+        "scope": "Сезонная регистрационная база USD 110 учтена один раз, а не за каждого ребёнка или каждый воркшоп. Если она уже оплачена, это ранее понесённый расход, не новый счёт. Расчёт не включает World-взнос и не обещает вычет при переносе в Open. Субботние занятия по 3 часа; жильё взрослых и дорога отдельно."
       }
     ],
     "methodology": [

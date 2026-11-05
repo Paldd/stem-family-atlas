@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 4195,
-    "competition_cards": 1265,
+    "cards": 4206,
+    "competition_cards": 1274,
     "event_cards": 219,
-    "camp_cards": 2711,
+    "camp_cards": 2713,
     "league_profiles": 147,
     "major_exhibition_cards": 137,
     "vex_cards": 518,
-    "countries_with_records": 85,
+    "countries_with_records": 86,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1390,
+      "total": 1398,
       "countries_with_records": 14,
-      "competitions": 573,
+      "competitions": 579,
       "events": 58,
       "major_exhibitions": 19,
-      "camps": 759,
+      "camps": 761,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -76,9 +76,9 @@
       "regions": [
         "Африка"
       ],
-      "total": 101,
-      "countries_with_records": 10,
-      "competitions": 61,
+      "total": 103,
+      "countries_with_records": 11,
+      "competitions": 63,
       "events": 10,
       "major_exhibitions": 5,
       "camps": 30,
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 936,
+      "total": 937,
       "countries_with_records": 24,
-      "competitions": 236,
+      "competitions": 237,
       "events": 66,
       "major_exhibitions": 58,
       "camps": 634,
@@ -1006,11 +1006,20 @@
         "C1185",
         "C1186",
         "C1187",
-        "C1188"
+        "C1188",
+        "C1267",
+        "C1268",
+        "C1269",
+        "C1270",
+        "C1271",
+        "C1272",
+        "C1273",
+        "C1274",
+        "C1275"
       ],
-      "cards": 7,
-      "future_dated": 6,
-      "linked_card_count": 7,
+      "cards": 16,
+      "future_dated": 11,
+      "linked_card_count": 18,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robofest.net/index.php/current-competitions/main-page",
       "new": false
@@ -6937,8 +6946,8 @@
       }
     ],
     "counts": {
-      "records": 2711,
-      "holiday": 2594,
+      "records": 2713,
+      "holiday": 2596,
       "regular": 95,
       "self_paced_materials": 2,
       "boarding": 938,

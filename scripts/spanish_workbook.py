@@ -61,7 +61,12 @@ HEADERS.update({
  'catalog_participation':'Participación en el catálogo','programme_type':'Tipo de programa',
  'canonical_event_id':'ID de la ficha principal','parent_programme_id':'ID del programa principal',
  'related_programme_ids':'IDs de programas relacionados',
- 'requires_parent_programme_ids':'IDs de programas base obligatorios'
+ 'requires_parent_programme_ids':'IDs de programas base obligatorios',
+ 'deadline_timezone':'Zona horaria del plazo',
+ 'grade_min':'Curso escolar mínimo','grade_max':'Curso escolar máximo',
+ 'grade_asof':'Período de referencia del curso escolar',
+ 'reported_start':'Inicio publicado pendiente de aclaración',
+ 'reported_deadline':'Plazo publicado pendiente de aclaración'
 })
 def column(index):
     name=''

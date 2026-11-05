@@ -43510,6 +43510,38 @@ Limitaciones: Matvey: Exige cursar realmente 5°/6° en 2026 y selección por no
 Fuente: https://www.edv.uchile.cl/portfolio/desarrollando-el-pensamiento-computacional-en-scratch-5/
 Se ha comprobado: 2026-11-05
 
+### CP1188-20270116-20270116 · LTU Robofest · Game workshop · EV3 / SPIKE Scratch · EV3 / SPIKE Scratch · 2027-01-16–2027-01-16
+
+lugar: Estados Unidos · CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI
+Fecha: 2027-01-16 — 2027-01-16
+edad: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Oscar: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Suplementos: Vuelo, transporte local, alojamiento familiar, comida y ordenador necesario aparte. RMS limita a 8 registros de equipos; sin prometer plazas ni ocho niños individuales. Pago: Taller 0, pero inscripción obligatoria del equipo debe estar pagada. Cuota competitiva no reembolsable; confirmar transferencia y acceso antes de pagar.
+Fuente: https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch
+Se ha comprobado: 2026-11-05
+
+### CP1189-20270213-20270213 · LTU Robofest · Game workshop · VEX IQ / VEXcode · VEX IQ / VEXcode · 2027-02-13–2027-02-13
+
+lugar: Estados Unidos · CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI
+Fecha: 2027-02-13 ♫ 2027-02-13
+edad: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: holiday_workshop
+Idioma: Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Oscar: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Suplementos: Vuelo, transporte local, alojamiento familiar, comida y ordenador necesario aparte. RMS limita a 8 registros de equipos; sin prometer plazas ni ocho niños individuales. Pago: Taller 0, pero inscripción obligatoria del equipo debe estar pagada. Cuota competitiva no reembolsable; confirmar transferencia y acceso antes de pagar.
+Fuente: https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

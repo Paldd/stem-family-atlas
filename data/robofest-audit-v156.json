@@ -1,0 +1,58 @@
+{
+  "version": 156,
+  "checked": "2026-11-05",
+  "scope": "Robofest 2027 V2 worldwide route, Explorer requirements, actual RMS sites and conditional training. Preserve separate national Taiwan edition and uncertain calendars.",
+  "previous_published_commit": "39923a0ed0bdb635a22ac011f000cf4f7a535ea6",
+  "previous_workflow_run": 42019043710,
+  "new_competition_records": 9,
+  "new_learning_calendar_records": 2,
+  "new_dossiers": 2,
+  "new_budget_offers": 1,
+  "updated_event_ids": [
+    "C053",
+    "C054",
+    "C1188"
+  ],
+  "updated_league_profiles": [
+    "robofest"
+  ],
+  "both_child_current_route_updated": true,
+  "source_hash_verified_responses": 32,
+  "source_requests_failed": 4,
+  "source_primary_responses_readable": 30,
+  "verified_findings": [
+    "General 2027 V2 dated November 4 now announces May 28–31 Seoul without the old tentative qualifier; dedicated World page and official cohost corroborate. Generic HTML timeline still says TENTATIVE: retained as a residual status conflict, not silently erased. Calendar stores the announced overall championship window, not a confirmed RoboParade category day or a travel booking.",
+    "US May 7–8 championship is an overall window; May 8 RoboParade times in its category table remain TENTATIVE and are not timed calendar entries.",
+    "RoboParade Explorer grades 1–4 in spring 2027, Junior 5–8; one to five students and one float. Two siblings may form one team only after actual school grades and country route are confirmed. Single-student team permitted but lowest teamwork score.",
+    "RoboParade V2 removes the V1 straight-lines-only Explorer concession. Explorer has one clockwise 10+2 minute round and no required speed display; full dimensions, bumper, autonomous stop/restart and rubric trophy distinction preserved.",
+    "Taiwan still links V1 as checked from the live home and downloaded linked PDF; global V2 does not automatically become the local edition. Do not apply global category metadata to Taiwan through a cloned template.",
+    "Member countries use International Directors and conditional quotas, including Open; non-members can seek direct Open or Game/Exhibition International Video. Mexico director is listed; no Costa Rica listing does not prove non-member eligibility. Country choice is not automatic from parental passport.",
+    "Video qualifier covers Game/Exhibition only, not Explorer. April 12 23:59 Eastern = April 13 03:59 UTC is an exact submission deadline; RMS 23:00–23:30 is not treated as a live event. Game tasks April 1, Exhibition 4-minute presentation and 2-minute Q&A.",
+    "Two actual 2027 US Game qualifiers listed in Houston and Clinton Township, with published date-only closing dates. Lutz has event March 3 but closing March 24; both operational dates left out until clarification.",
+    "Two LTU Saturday workshops have zero workshop charge only for an already paid qualifying/pre-registration team. Budget counts one USD 110 registration foundation, not one fee per child or per workshop. Pre-Registration December 31 explicitly is not a real event and never becomes a calendar competition.",
+    "Two Libya RMS archive records are season 2027 listings dated in 2026. They establish published historical records, not actual event delivery, participation, trophies or a future open intake. Country coverage becomes 86 with records, not 86 complete audits.",
+    "All ten global category families are summarized from the general category table. Only General V2 and RoboParade V2 key technical parts were deeply reviewed; do not call every category or national rulebook fully audited."
+  ],
+  "unresolved": [
+    "Actual school grades in spring 2027; optional family question asked, research continued with conditional admission.",
+    "Team domicile / representation, Mexico director approval or verified non-member status; actual foreign entry on US Championship and local qualifiers.",
+    "World generic HTML status conflict; final category days, agenda and registration sites.",
+    "Taiwan adoption of global V2 and actual local line geometry; venue, category day, foreign admission and language still unresolved.",
+    "Lutz contradictory dates, site-specific extras and final invoices; workshop age, spoken teaching language, computer and equipment needs.",
+    "Egypt primary hosts return HTTP 200 access-challenge bodies, not readable current rules. No date or fresh eligibility claim inferred.",
+    "RobotChallenge China body remains 2026; Codeavour body has current 8.0 but no newly confirmed event dates. Botswana reliable 2027 calendar remains unestablished; no absence-of-events claim.",
+    "Worldwide competitions, exhibitions, camps, schools and historic award coverage remain incomplete; no country fully audited."
+  ],
+  "pdf_visual_review": [
+    "General V2 pp11,27,44,45,47",
+    "RoboParade V2 pp6,12; other relevant text extracted",
+    "Taiwan linked V1 text checked separately"
+  ],
+  "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "registrations": 0,
+  "payments": 0,
+  "organizer_messages": 0,
+  "agreements_accepted": 0
+}

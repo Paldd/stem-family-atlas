@@ -305,6 +305,96 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
+    "version": 156,
+    "asof": "2026-11-05",
+    "status": "verified-local-build-and-exports",
+    "scope": "Robofest 2027 V2 reciente: periodo anunciado de World en Seúl, RoboParade Explorer para menores y rutas internacionales según país del equipo. Añadidos nueve registros competitivos y dos talleres formativos gratuitos bajo condición, un presupuesto familiar de inscripción. Plazo de vídeo separado del horario live ficticio, conflicto Lutz sin convertir en fecha. V1 de Taiwán se conserva separada de V2 global; archivos de Libia no se presentan como torneos futuros ni victorias demostradas. Continúa la auditoría mundial.",
+    "new_records": 11,
+    "new_competition_records": 9,
+    "new_learning_records": 2,
+    "updated_event_rows": 3,
+    "new_dossiers": 2,
+    "new_budget_offers": 1,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
+    "registration_forms_not_submitted": true,
+    "source_receipts": "data/robofest-source-receipts-v156.json",
+    "audit": "data/robofest-audit-v156.json",
+    "source_responses_hash_verified": 32,
+    "source_primary_responses_readable": 30,
+    "source_access_challenges": 2,
+    "source_requests_failed": 4,
+    "previous_published_commit": "39923a0ed0bdb635a22ac011f000cf4f7a535ea6",
+    "previous_goal_turn": "progress-v155-published-and-live-multilingual-full-exports-verified",
+    "source_gaps": [
+      "Actual school grades in spring 2027; optional family question asked, research continued with conditional admission.",
+      "Team domicile / representation, Mexico director approval or verified non-member status; actual foreign entry on US Championship and local qualifiers.",
+      "World generic HTML status conflict; final category days, agenda and registration sites.",
+      "Taiwan adoption of global V2 and actual local line geometry; venue, category day, foreign admission and language still unresolved.",
+      "Lutz contradictory dates, site-specific extras and final invoices; workshop age, spoken teaching language, computer and equipment needs.",
+      "Egypt primary hosts return HTTP 200 access-challenge bodies, not readable current rules. No date or fresh eligibility claim inferred.",
+      "RobotChallenge China body remains 2026; Codeavour body has current 8.0 but no newly confirmed event dates. Botswana reliable 2027 calendar remains unestablished; no absence-of-events claim.",
+      "Worldwide competitions, exhibitions, camps, schools and historic award coverage remain incomplete; no country fully audited."
+    ],
+    "verified_at": "2026-11-05",
+    "events": 4206,
+    "competition_records": 1274,
+    "exhibition_records": 219,
+    "camp_learning_records": 2713,
+    "programme_dossiers": 1189,
+    "countries_with_dossiers": 41,
+    "official_dossier_urls": 1812,
+    "league_profiles": 147,
+    "schools": 62,
+    "source_country_coverage": 86,
+    "family_calendar_entries": 3983,
+    "exhibition_calendar_entries": 100,
+    "javascript_syntax_files": 43,
+    "runtime_validation": "isolated-node-vm-both-languages-robofest-grade-country-language-gates-templates-budget-and-calendar-passed",
+    "all_prior_calendar_UID_dates_preserved": true,
+    "both_language_full_archives_verified": true
+  },
+  "completeness_audit": "data/audit-v51.json",
+  "family_context": {
+    "matvey_birth_year": 2017,
+    "oscar_birth_year": 2020,
+    "source": "respuesta directa del usuario 01.10.2026",
+    "exact_birthdays": null,
+    "school_grades": null,
+    "full_day_english_readiness": true,
+    "learning_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "learning_languages_by_child": {
+      "mat": [
+        "EN",
+        "ES",
+        "RU"
+      ],
+      "osc": [
+        "EN",
+        "ES",
+        "RU"
+      ]
+    },
+    "language_confirmation": "mensajes directos de la familia: EN / ES para el día completo;01.10.2026 se ha añadido el ruso como lengua admitida.",
+    "relocation_readiness": true,
+    "relocation_confirmation": "respuesta directa del usuario 01.10.2026: están listos para considerar la mudanza y la nueva escuela."
+  },
+  "schools_success_criteria": [
+    "La identificación de cada campus y su tipo; 249 países y territorios tienen un estatuto claro de investigación y la falta de descubrimiento no significa que no existan escuelas sólidas.",
+    "Para la categoría, el resultado mundial es la temporada exacta, la liga, la categoría, la etapa, el título del premio; el protocolo oficial independiente es preferible, y el mensaje escolar se presenta por separado.",
+    "El círculo, la asignatura, el laboratorio y el equipo externo son diferentes; la victoria del graduado o del equipo de la ciudad no se atribuye a toda la escuela.",
+    "Matway y Oscar: La edad diaria, la clase, el acceso al equipo y el internado se verifican por separado; la fecha de nacimiento y la clase se desconocen.",
+    "EN / ES la enseñanza está confirmada por el texto del programa; el sitio en inglés no es una prueba. IB PYP / MYP / DP y candidate se registran por separado.",
+    "Ingreso: documentos extranjeros, residencia / catchment, pruebas, calendario, pago de matrícula, gastos adicionales; lo desconocido está claramente marcado.",
+    "La sección de las escuelas se encuentra en un sitio web público y en JSON / CSV / SQLite, y se mantienen los acontecimientos anteriores, las ligas y los calendarios."
+  ],
+  "native_goal_status": "active",
+  "latest_validation_previous": {
     "version": 155,
     "asof": "2026-11-05",
     "status": "verified-local-build-and-exports",
@@ -349,92 +439,6 @@
     "budget_offers": 78,
     "javascript_syntax_files": 43,
     "runtime_validation": "isolated-node-vm-both-language-32-new-cohorts-five-dossiers-child-language-grade-filters-five-budgets-holiday-window-and-144-calendar-exports-passed"
-  },
-  "completeness_audit": "data/audit-v51.json",
-  "family_context": {
-    "matvey_birth_year": 2017,
-    "oscar_birth_year": 2020,
-    "source": "respuesta directa del usuario 01.10.2026",
-    "exact_birthdays": null,
-    "school_grades": null,
-    "full_day_english_readiness": true,
-    "learning_languages": [
-      "EN",
-      "ES",
-      "RU"
-    ],
-    "learning_languages_by_child": {
-      "mat": [
-        "EN",
-        "ES",
-        "RU"
-      ],
-      "osc": [
-        "EN",
-        "ES",
-        "RU"
-      ]
-    },
-    "language_confirmation": "mensajes directos de la familia: EN / ES para el día completo;01.10.2026 se ha añadido el ruso como lengua admitida.",
-    "relocation_readiness": true,
-    "relocation_confirmation": "respuesta directa del usuario 01.10.2026: están listos para considerar la mudanza y la nueva escuela."
-  },
-  "schools_success_criteria": [
-    "La identificación de cada campus y su tipo; 249 países y territorios tienen un estatuto claro de investigación y la falta de descubrimiento no significa que no existan escuelas sólidas.",
-    "Para la categoría, el resultado mundial es la temporada exacta, la liga, la categoría, la etapa, el título del premio; el protocolo oficial independiente es preferible, y el mensaje escolar se presenta por separado.",
-    "El círculo, la asignatura, el laboratorio y el equipo externo son diferentes; la victoria del graduado o del equipo de la ciudad no se atribuye a toda la escuela.",
-    "Matway y Oscar: La edad diaria, la clase, el acceso al equipo y el internado se verifican por separado; la fecha de nacimiento y la clase se desconocen.",
-    "EN / ES la enseñanza está confirmada por el texto del programa; el sitio en inglés no es una prueba. IB PYP / MYP / DP y candidate se registran por separado.",
-    "Ingreso: documentos extranjeros, residencia / catchment, pruebas, calendario, pago de matrícula, gastos adicionales; lo desconocido está claramente marcado.",
-    "La sección de las escuelas se encuentra en un sitio web público y en JSON / CSV / SQLite, y se mantienen los acontecimientos anteriores, las ligas y los calendarios."
-  ],
-  "native_goal_status": "active",
-  "latest_validation_previous": {
-    "version": 154,
-    "asof": "2026-11-05",
-    "status": "verified-local-build-and-exports",
-    "scope": "Ocho semanas diurnas exactas de Camp Suisse para verano de 2027; actualizadas cinco fichas de Suiza y Francia, función real del idioma, edades infantiles, cancelación vigente de Zuoz, seguros separados y dos presupuestos familiares. Módulos AI antiguos y periodos de personal separados de programas infantiles actuales. Continúa la auditoría mundial.",
-    "new_records": 8,
-    "updated_event_rows": 15,
-    "new_dossiers": 0,
-    "updated_dossiers": 5,
-    "new_budget_offers": 2,
-    "updated_budget_offers": 4,
-    "worldwide_complete": false,
-    "fully_audited_countries": 0,
-    "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
-    "registration_forms_not_submitted": true,
-    "source_receipts": "data/camp-europe-source-receipts-v154.json",
-    "audit": "data/camp-europe-audit-v154.json",
-    "source_responses_hash_verified": 23,
-    "source_requests_failed": 0,
-    "previous_published_commit": "66c5a1a51c935b3602d56143ec7f7a28bcf90dc4",
-    "previous_goal_turn": "progress-v153-live-version-and-unpublished-v154-work-verified",
-    "source_gaps": [
-      "Exact child birthdays and Junior English course placement / native-language restrictions.",
-      "Camp Suisse applicable current day contract, availability and under-seven overnight admission.",
-      "Zuoz four-week tariff / between-camps weekend invoice treatment; no automatic extra charge.",
-      "American Village final route/city quote and international individual admission.",
-      "Les Elfes Niseko primary campus and network pages do not establish exact individual Christmas 2026/27 cohorts, price or enrollment. Secondary dates and capacity conflicts not promoted into confirmed rows.",
-      "French summer 2027 staff periods are not child session dates.",
-      "Worldwide competitions, camps, exhibitions and schools remain under active audit; no fully audited country."
-    ],
-    "verified_at": "2026-11-05",
-    "events": 4163,
-    "competition_records": 1265,
-    "exhibition_records": 219,
-    "camp_learning_records": 2679,
-    "programme_dossiers": 1182,
-    "countries_with_dossiers": 41,
-    "official_dossier_urls": 1799,
-    "league_profiles": 147,
-    "schools": 62,
-    "source_country_coverage": 85,
-    "family_calendar_entries": 3826,
-    "exhibition_calendar_entries": 100,
-    "budget_offers": 73,
-    "javascript_syntax_files": 43,
-    "runtime_validation": "isolated-node-vm-both-language-camp-child-language-format-filters-five-dossier-templates-two-new-budgets-and-60-UTC-care-day-exports-passed"
   },
   "research_passes": [
     {
@@ -1744,6 +1748,15 @@
       "audit": "data/camp-latam-audit-v155.json",
       "new_records": 32,
       "new_dossiers": 5,
+      "worldwide_complete": false
+    },
+    {
+      "version": 156,
+      "asof": "2026-11-05",
+      "scope": "Robofest 2027 V2 worldwide route, Explorer requirements, actual RMS sites and conditional training. Preserve separate national Taiwan edition and uncertain calendars.",
+      "audit": "data/robofest-audit-v156.json",
+      "new_records": 11,
+      "new_dossiers": 2,
       "worldwide_complete": false
     }
   ],
@@ -9023,10 +9036,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 153,
+    "prepared_ui_version": 156,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 152,
-    "previous_verified_commit": "8df94caa9305b148b6c539b7d5d07e378c6f8c98"
+    "previous_verified_ui_version": 155,
+    "previous_verified_commit": "39923a0ed0bdb635a22ac011f000cf4f7a535ea6"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,

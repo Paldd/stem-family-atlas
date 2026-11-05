@@ -635,9 +635,9 @@ Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admi
 Idioma: Anuncio ZH; hay reglas EN RoboParade. Idioma de jueces y apoyo EN/ES sin confirmar.
 Acceso: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
 Precio: Cuota y precio de etapa local 2027 sin acreditar; no trasladar tarifa mundial.
-Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.
+Limitaciones: Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial. Revisado el 5 de noviembre: Taiwan aún enlaza RoboParade V1 del 25 de septiembre, web global ya V2 del 4 de noviembre. V1 admite straight-lines-only Explorer, V2 elimina concesión; actualización global no se declara automáticamente norma local. Acordar edición Taiwan y recorrido real.
 Fuente: https://robofest.me/
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-05
 
 ### C1189 · MARC 2027 · International Final · Taipei
 

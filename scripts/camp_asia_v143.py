@@ -228,6 +228,8 @@ def competition_updates(d):
         if ident=='C1180':e['themes']=['robotics','ai']
         added.append(e)
     base=deepcopy(idx['C053'])
+    # Global championship metadata must not become evidence for local Taiwan rules.
+    for inherited in ['language_mode','date_precision','evidence_level']:base.pop(inherited,None)
     tw_note=T('Главная страница объявляет Taiwan Robofest 06–07.03.2027, но день каждой категории, площадка, взносы, срок и приём иностранной семьи не раскрыты. Двухдневный диапазон — окно фестиваля, не обещание 2 дней участия. Локальные категории не гарантируют отбор на мировой финал.',
               'Web principal anuncia Taiwan Robofest 06–07.03.2027, sin día por categoría, sede, cuota, plazo ni admisión de familia extranjera. Rango de dos días es ventana del festival, sin promesa de participar 2 días. Categorías locales no garantizan clasificación mundial.')
     rules={

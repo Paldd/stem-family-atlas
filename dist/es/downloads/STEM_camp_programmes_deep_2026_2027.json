@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1187,
+    "dossiers": 1189,
     "countries": 41,
     "swiss": 136,
     "by_status": {
       "published_2026_27": 138,
-      "published_2027": 325,
+      "published_2027": 327,
       "partial_2027": 115,
       "next_unannounced": 233,
       "published_2026": 239,
@@ -43,7 +43,7 @@
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1808
+    "source_urls": 1812
   },
   "countries": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "country": "Estados Unidos",
-      "count": 133
+      "count": 135
     },
     {
       "country": "Singapur",
@@ -159373,6 +159373,242 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1188",
+      "slug": "ltu-robofest-ev3-spike-workshop-2027",
+      "provider": "LTU Robofest · Game workshop · EV3 / SPIKE Scratch",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "catalog_participation": "holiday_workshop",
+      "age": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.",
+      "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+      "language_evidence_role": "unconfirmed",
+      "confirmed_instruction_languages": [],
+      "programme": "Preparación técnica presencial con robots educativos premontados; robot propio posible según especificación del organizador. Taller crea team ID separado. Confirmar ordenador / software propio y acceso menor; práctica formativa no es victoria competitiva.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Un sábado 09:00–12:00 hora Michigan; tres horas de clase, sin alojamiento.",
+        "sessions": [
+          [
+            "2027-01-16",
+            "2027-01-16"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-16",
+            "end": "2027-01-16",
+            "label": "EV3 / SPIKE Scratch",
+            "price": "Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller.",
+            "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-16",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Detroit",
+                "topic": "Práctica Robofest; equipo admitido y pagado, sin competición.",
+                "ical_timed": true,
+                "start_utc": "2027-01-16T14:00:00Z",
+                "end_utc": "2027-01-16T17:00:00Z"
+              }
+            ],
+            "deadline": "2027-01-13",
+            "proof": "Ficha RMS pública vigente de 2027; plazo sin hora publicada, sin aplicar cierre general de competiciones diez días antes."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 0,
+        "unit": "conditional_team_workshop",
+        "label": "Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller.",
+        "included": "Robot premontado de práctica; sin promesa de llevar equipo a casa.",
+        "extras": "Vuelo, transporte local, alojamiento familiar, comida y ordenador necesario aparte. RMS limita a 8 registros de equipos; sin prometer plazas ni ocho niños individuales.",
+        "deposit": "Taller 0, pero inscripción obligatoria del equipo debe estar pagada. Cuota competitiva no reembolsable; confirmar transferencia y acceso antes de pagar."
+      },
+      "accommodation": "Taller diurno de tres horas en campus, sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller."
+        }
+      },
+      "editorial_reason": "Parte práctica de ruta Robofest; edad propia y acceso extranjero aún sin confirmar.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.",
+        "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+        "Verificar equipo de dos hermanos, presencia de coach, ordenador/software, transporte y saldo real de pago. Sin tramitar participación."
+      ],
+      "sources": [
+        {
+          "title": "Taller 2027 · horario, plazo y tarifa cero condicional",
+          "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_EV3_SPIKE_Scratch",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Pre-Registration · base de pago, no torneo real",
+          "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Reglas generales de temporada V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-16",
+          "end": "2027-01-16",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1188-20270116-20270116"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1189",
+      "slug": "ltu-robofest-vexiq-workshop-2027",
+      "provider": "LTU Robofest · Game workshop · VEX IQ / VEXcode",
+      "country": "Estados Unidos",
+      "iso": "USA",
+      "place": "CS Robotics Lab · Room J234 · 21000 W 10 Mile Road · Southfield MI",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "catalog_participation": "holiday_workshop",
+      "age": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.",
+      "language": "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+      "language_evidence_role": "unconfirmed",
+      "confirmed_instruction_languages": [],
+      "programme": "Preparación técnica presencial con robots educativos premontados; robot propio posible según especificación del organizador. Taller crea team ID separado. Confirmar ordenador / software propio y acceso menor; práctica formativa no es victoria competitiva.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Un sábado 09:00–12:00 hora Michigan; tres horas de clase, sin alojamiento.",
+        "sessions": [
+          [
+            "2027-02-13",
+            "2027-02-13"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-02-13",
+            "end": "2027-02-13",
+            "label": "VEX IQ / VEXcode",
+            "price": "Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller.",
+            "source": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Detroit",
+                "topic": "Práctica Robofest; equipo admitido y pagado, sin competición.",
+                "ical_timed": true,
+                "start_utc": "2027-02-13T14:00:00Z",
+                "end_utc": "2027-02-13T17:00:00Z"
+              }
+            ],
+            "deadline": "2027-02-11",
+            "proof": "Ficha RMS pública vigente de 2027; plazo sin hora publicada, sin aplicar cierre general de competiciones diez días antes."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "USD",
+        "amount": 0,
+        "unit": "conditional_team_workshop",
+        "label": "Clase USD 0 para equipo admitido y pagado; base separada de qualifier / Pre-Registration USD 110. Gratuidad condicional, no temporada de coste cero. No sumar otra vez misma inscripción ya pagada por segundo taller.",
+        "included": "Robot premontado de práctica; sin promesa de llevar equipo a casa.",
+        "extras": "Vuelo, transporte local, alojamiento familiar, comida y ordenador necesario aparte. RMS limita a 8 registros de equipos; sin prometer plazas ni ocho niños individuales.",
+        "deposit": "Taller 0, pero inscripción obligatoria del equipo debe estar pagada. Cuota competitiva no reembolsable; confirmar transferencia y acceso antes de pagar."
+      },
+      "accommodation": "Taller diurno de tres horas en campus, sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller."
+        }
+      },
+      "editorial_reason": "Parte práctica de ruta Robofest; edad propia y acceso extranjero aún sin confirmar.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller.",
+        "Reglas y materiales EN; confirmar por separado idioma de jueces / clase y ayuda EN/ES en sede elegida.",
+        "Verificar equipo de dos hermanos, presencia de coach, ordenador/software, transporte y saldo real de pago. Sin tramitar participación."
+      ],
+      "sources": [
+        {
+          "title": "Taller 2027 · horario, plazo y tarifa cero condicional",
+          "url": "https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Pre-Registration · base de pago, no torneo real",
+          "url": "https://www.robofest.net/rms/sites/2027/Pre-Registration",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Reglas generales de temporada V2",
+          "url": "https://www.robofest.net/images/2627/General2027_V2.pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-02-13",
+          "end": "2027-02-13",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1189-20270213-20270213"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -164618,7 +164854,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 155,
+  "version": 156,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -177275,6 +177511,16 @@
       "programme_id": "CP1187",
       "event_id": "CP1187-20270104-20270108",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1188",
+      "event_id": "CP1188-20270116-20270116",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1189",
+      "event_id": "CP1189-20270213-20270213",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -179525,10 +179771,12 @@
     "CP1185-20270215-20270219",
     "CP1185-20270222-20270226",
     "CP1186-20270104-20270108",
-    "CP1187-20270104-20270108"
+    "CP1187-20270104-20270108",
+    "CP1188-20270116-20270116",
+    "CP1189-20270213-20270213"
   ],
   "integration": {
-    "generated_sessions": 2248,
+    "generated_sessions": 2250,
     "reused_legacy_events": 69,
     "seasonal_windows": 54,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

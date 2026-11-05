@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 4195; competiciones: 1265; eventos: 219; campamentos / programas: 2711. Perfiles de ligas y programas: 147. Fichas de exposiciones grandes y especializadas: 137 — representan ediciones y sedes, sin contar marcas únicas.
+Fichas en la base: 4206; competiciones: 1274; eventos: 219; campamentos / programas: 2713. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y exposiciones especializadas: 137 — son ediciones y sedes, no el número de marcas únicas.
 
-Hay registros concretos de 85 de 249 países y territorios; países completamente auditados: 0. Pase archivado v51: fichas añadidas 21, perfiles 3. Todas las fichas anteriores conservadas.
+Hay registros específicos para 86 de 249 países y territorios; países auditados por completo: 0. Revisión de archivo v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores se conservan.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 573 | 19 | 759 |
+| América del Norte | 14 | 579 | 19 | 761 |
 | América del Sur | 10 | 148 | 6 | 113 |
 | Europa | 22 | 174 | 47 | 1156 |
-| África | 10 | 61 | 5 | 30 |
-| Asia | 24 | 236 | 58 | 634 |
+| África | 11 | 63 | 5 | 30 |
+| Asia | 24 | 237 | 58 | 634 |
 ○ Oceanía ♫ 4 ♫ 28 ♫ 2 ♫ 13 ♫
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 518 de 1265 fichas de competiciones (40.9%). Existe un claro desequilibrio de cobertura.
+VEX: 518 de 1274 fichas de competiciones (40.7%). Esto refleja un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -103,7 +103,7 @@ VEX: 518 de 1265 fichas de competiciones (40.9%). Existe un claro desequilibrio 
 - **WER**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
 - **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
-- **Robofest · LTU**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
+- **Robofest · LTU**: 16 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
