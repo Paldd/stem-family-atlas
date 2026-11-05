@@ -30,20 +30,20 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1250,
-    "countries": 42,
+    "dossiers": 1264,
+    "countries": 45,
     "swiss": 136,
     "by_status": {
       "published_2026_27": 157,
       "published_2027": 334,
       "partial_2027": 117,
-      "next_unannounced": 232,
-      "published_2026": 271,
+      "next_unannounced": 235,
+      "published_2026": 276,
       "partial_2026_27": 20,
-      "partial_2026": 13,
-      "archive_next_unannounced": 106
+      "partial_2026": 14,
+      "archive_next_unannounced": 111
     },
-    "source_urls": 1876
+    "source_urls": 1889
   },
   "countries": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "country": "Argentina",
-      "count": 2
+      "count": 4
     },
     {
       "country": "Bélgica",
@@ -71,6 +71,14 @@
       "count": 19
     },
     {
+      "country": "Venezuela",
+      "count": 1
+    },
+    {
+      "country": "Guatemala",
+      "count": 5
+    },
+    {
       "country": "Alemania",
       "count": 11
     },
@@ -81,6 +89,10 @@
     {
       "country": "Dinamarca",
       "count": 1
+    },
+    {
+      "country": "República Dominicana",
+      "count": 3
     },
     {
       "country": "Irlanda",
@@ -108,7 +120,7 @@
     },
     {
       "country": "Colombia",
-      "count": 10
+      "count": 11
     },
     {
       "country": "Costa Rica",
@@ -128,7 +140,7 @@
     },
     {
       "country": "México",
-      "count": 57
+      "count": 58
     },
     {
       "country": "Países Bajos",
@@ -140,7 +152,7 @@
     },
     {
       "country": "Panamá",
-      "count": 8
+      "count": 9
     },
     {
       "country": "Perú",
@@ -196388,6 +196400,3417 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1251",
+      "slug": "cosami-robotics-level1",
+      "provider": "COSAMI · Robótica Educativa · Nivel 1",
+      "iso": "GTM",
+      "country": "Guatemala",
+      "place": "Aulas COSAMI · 7 regiones, confirmar direcciones",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "8–10",
+      "programme": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Periodo anunciado 3–26 de noviembre de 2026. Póster original contiene siete regiones y ocho proyectos; cada uno tiene día separado y bloque matutino o vespertino. Dos celdas de Quetzaltenango dicen 19 de diciembre contra periodo de noviembre: pendientes de aclaración sin fecha de calendario. Convocatoria ya iniciada, incorporación tardía sin confirmar.",
+        "sessions": [
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "totonicapan-walls",
+            "label": "Totonicapán · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T14:00:00Z",
+                "end_utc": "2026-11-03T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "quetzaltenango-walls",
+            "label": "Quetzaltenango · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T14:00:00Z",
+                "end_utc": "2026-11-05T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "quiche-walls",
+            "label": "Quiché · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T14:00:00Z",
+                "end_utc": "2026-11-24T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "nebaj-walls",
+            "label": "Nebaj · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T14:00:00Z",
+                "end_utc": "2026-11-26T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "suchitepequez-walls",
+            "label": "Suchitepéquez · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T14:00:00Z",
+                "end_utc": "2026-11-10T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "retalhuleu-walls",
+            "label": "Retalhuleu · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T14:00:00Z",
+                "end_utc": "2026-11-12T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "solola-walls",
+            "label": "Sololá · Robot seguidor de paredes",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T14:00:00Z",
+                "end_utc": "2026-11-17T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "totonicapan-obstacles",
+            "label": "Totonicapán · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T20:00:00Z",
+                "end_utc": "2026-11-03T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "quetzaltenango-obstacles",
+            "label": "Quetzaltenango · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T20:00:00Z",
+                "end_utc": "2026-11-05T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "quiche-obstacles",
+            "label": "Quiché · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "nebaj-obstacles",
+            "label": "Nebaj · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "suchitepequez-obstacles",
+            "label": "Suchitepéquez · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "retalhuleu-obstacles",
+            "label": "Retalhuleu · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "solola-obstacles",
+            "label": "Sololá · Robot evita obstáculos",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T20:00:00Z",
+                "end_utc": "2026-11-17T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "totonicapan-light",
+            "label": "Totonicapán · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T14:00:00Z",
+                "end_utc": "2026-11-10T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "quetzaltenango-light",
+            "label": "Quetzaltenango · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T14:00:00Z",
+                "end_utc": "2026-11-12T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "quiche-light",
+            "label": "Quiché · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T14:00:00Z",
+                "end_utc": "2026-11-03T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "nebaj-light",
+            "label": "Nebaj · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T14:00:00Z",
+                "end_utc": "2026-11-05T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "suchitepequez-light",
+            "label": "Suchitepéquez · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T14:00:00Z",
+                "end_utc": "2026-11-17T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "variant_key": "retalhuleu-light",
+            "label": "Retalhuleu · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-19T14:00:00Z",
+                "end_utc": "2026-11-19T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "solola-light",
+            "label": "Sololá · Robot seguidor de luz",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T14:00:00Z",
+                "end_utc": "2026-11-24T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "totonicapan-button",
+            "label": "Totonicapán · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "quetzaltenango-button",
+            "label": "Quetzaltenango · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "quiche-button",
+            "label": "Quiché · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T20:00:00Z",
+                "end_utc": "2026-11-03T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "nebaj-button",
+            "label": "Nebaj · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T20:00:00Z",
+                "end_utc": "2026-11-05T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "suchitepequez-button",
+            "label": "Suchitepéquez · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T20:00:00Z",
+                "end_utc": "2026-11-17T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "retalhuleu-button",
+            "label": "Retalhuleu · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "solola-button",
+            "label": "Sololá · Robot push button control",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:30:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "GTQ",
+        "amount": 0,
+        "unit": "workshop",
+        "label": "Enseñanza anunciada GRATIS. Cuota académica cero, no viaje familiar gratuito; admisión extranjera / no asociada sin establecer.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Cursos Vacacionales 2026 · ages / free tuition",
+          "url": "https://www.cosami.com.gt/cursos-vacacionales-2026/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Original project × region × day timetable",
+          "url": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Linked public form · fields unavailable",
+          "url": "https://forms.cloud.microsoft/r/MtvhMtb5CB",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261105-20261105-quetzaltenango-walls"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261124-20261124-quiche-walls"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261126-20261126-nebaj-walls"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261110-20261110-suchitepequez-walls"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261112-20261112-retalhuleu-walls"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261117-20261117-solola-walls"
+          ]
+        },
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261105-20261105-quetzaltenango-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261124-20261124-quiche-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261126-20261126-nebaj-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261110-20261110-suchitepequez-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261112-20261112-retalhuleu-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261117-20261117-solola-obstacles"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261110-20261110-totonicapan-light"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261112-20261112-quetzaltenango-light"
+          ]
+        },
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261105-20261105-nebaj-light"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261117-20261117-suchitepequez-light"
+          ]
+        },
+        {
+          "start": "2026-11-19",
+          "end": "2026-11-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261119-20261119-retalhuleu-light"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261124-20261124-solola-light"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261110-20261110-totonicapan-button"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261112-20261112-quetzaltenango-button"
+          ]
+        },
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261105-20261105-nebaj-button"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261117-20261117-suchitepequez-button"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261126-20261126-retalhuleu-button"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1251-20261124-20261124-solola-button"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1252",
+      "slug": "cosami-robotics-level2",
+      "provider": "COSAMI · Robótica Educativa · Nivel 2",
+      "iso": "GTM",
+      "country": "Guatemala",
+      "place": "Aulas COSAMI · 7 regiones, confirmar direcciones",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "11–14",
+      "programme": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Periodo anunciado 3–26 de noviembre de 2026. Póster original contiene siete regiones y ocho proyectos; cada uno tiene día separado y bloque matutino o vespertino. Dos celdas de Quetzaltenango dicen 19 de diciembre contra periodo de noviembre: pendientes de aclaración sin fecha de calendario. Convocatoria ya iniciada, incorporación tardía sin confirmar.",
+        "sessions": [
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-19",
+            "2026-11-19"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-05",
+            "2026-11-05"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ],
+          [
+            "2026-11-17",
+            "2026-11-17"
+          ],
+          [
+            "2026-11-10",
+            "2026-11-10"
+          ],
+          [
+            "2026-11-12",
+            "2026-11-12"
+          ],
+          [
+            "2026-11-24",
+            "2026-11-24"
+          ],
+          [
+            "2026-11-26",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-03"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "totonicapan-coding",
+            "label": "Totonicapán · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T14:00:00Z",
+                "end_utc": "2026-11-24T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "quetzaltenango-coding",
+            "label": "Quetzaltenango · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T14:00:00Z",
+                "end_utc": "2026-11-26T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "quiche-coding",
+            "label": "Quiché · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T14:00:00Z",
+                "end_utc": "2026-11-17T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "variant_key": "nebaj-coding",
+            "label": "Nebaj · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-19T14:00:00Z",
+                "end_utc": "2026-11-19T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "suchitepequez-coding",
+            "label": "Suchitepéquez · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T14:00:00Z",
+                "end_utc": "2026-11-03T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "retalhuleu-coding",
+            "label": "Retalhuleu · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T14:00:00Z",
+                "end_utc": "2026-11-05T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "solola-coding",
+            "label": "Sololá · First coding",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T14:00:00Z",
+                "end_utc": "2026-11-10T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "totonicapan-pneumatics",
+            "label": "Totonicapán · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "quetzaltenango-pneumatics",
+            "label": "Quetzaltenango · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quetzaltenango · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "quiche-pneumatics",
+            "label": "Quiché · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T20:00:00Z",
+                "end_utc": "2026-11-17T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-19",
+            "end": "2026-11-19",
+            "variant_key": "nebaj-pneumatics",
+            "label": "Nebaj · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-19",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-19T20:00:00Z",
+                "end_utc": "2026-11-19T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "suchitepequez-pneumatics",
+            "label": "Suchitepéquez · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T20:00:00Z",
+                "end_utc": "2026-11-03T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-05",
+            "end": "2026-11-05",
+            "variant_key": "retalhuleu-pneumatics",
+            "label": "Retalhuleu · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-05",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T20:00:00Z",
+                "end_utc": "2026-11-05T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "solola-pneumatics",
+            "label": "Sololá · Stem pneumatics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "totonicapan-mechanics",
+            "label": "Totonicapán · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T14:00:00Z",
+                "end_utc": "2026-11-17T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "quiche-mechanics",
+            "label": "Quiché · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T14:00:00Z",
+                "end_utc": "2026-11-10T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "nebaj-mechanics",
+            "label": "Nebaj · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T14:00:00Z",
+                "end_utc": "2026-11-12T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "suchitepequez-mechanics",
+            "label": "Suchitepéquez · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T14:00:00Z",
+                "end_utc": "2026-11-24T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "retalhuleu-mechanics",
+            "label": "Retalhuleu · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T14:00:00Z",
+                "end_utc": "2026-11-26T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "solola-mechanics",
+            "label": "Sololá · Stem mechanic 2.0",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T14:00:00Z",
+                "end_utc": "2026-11-03T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-17",
+            "end": "2026-11-17",
+            "variant_key": "totonicapan-electronics",
+            "label": "Totonicapán · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Totonicapán · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-17",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T20:00:00Z",
+                "end_utc": "2026-11-17T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-10",
+            "end": "2026-11-10",
+            "variant_key": "quiche-electronics",
+            "label": "Quiché · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Quiché · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-12",
+            "end": "2026-11-12",
+            "variant_key": "nebaj-electronics",
+            "label": "Nebaj · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Nebaj · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-24",
+            "end": "2026-11-24",
+            "variant_key": "suchitepequez-electronics",
+            "label": "Suchitepéquez · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Suchitepéquez · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-26",
+            "end": "2026-11-26",
+            "variant_key": "retalhuleu-electronics",
+            "label": "Retalhuleu · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Retalhuleu · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-03",
+            "variant_key": "solola-electronics",
+            "label": "Sololá · Stem electronics",
+            "price": "GRATIS",
+            "source": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "place": "COSAMI · Sololá · confirmar dirección exacta",
+            "admission_kind": "unknown",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "14:00",
+                "end_time": "17:30",
+                "timezone": "America/Guatemala",
+                "topic": "Proyectos prácticos en fechas separadas: seguir pared, evitar obstáculos, seguir luz y control por botón para Nivel 1; First coding, pneumatics, mechanics y electronics para Nivel 2. Selección de clases individuales, no jornada completa diaria durante un mes.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T20:00:00Z",
+                "end_utc": "2026-11-03T23:30:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "GTQ",
+        "amount": 0,
+        "unit": "workshop",
+        "label": "Enseñanza anunciada GRATIS. Cuota académica cero, no viaje familiar gratuito; admisión extranjera / no asociada sin establecer.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Cursos Vacacionales 2026 · ages / free tuition",
+          "url": "https://www.cosami.com.gt/cursos-vacacionales-2026/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Original project × region × day timetable",
+          "url": "https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Linked public form · fields unavailable",
+          "url": "https://forms.cloud.microsoft/r/MtvhMtb5CB",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261124-20261124-totonicapan-coding"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261126-20261126-quetzaltenango-coding"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261117-20261117-quiche-coding"
+          ]
+        },
+        {
+          "start": "2026-11-19",
+          "end": "2026-11-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261119-20261119-nebaj-coding"
+          ]
+        },
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261105-20261105-retalhuleu-coding"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261110-20261110-solola-coding"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261124-20261124-totonicapan-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261126-20261126-quetzaltenango-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261117-20261117-quiche-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-19",
+          "end": "2026-11-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261119-20261119-nebaj-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-05",
+          "end": "2026-11-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261105-20261105-retalhuleu-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261110-20261110-solola-pneumatics"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261117-20261117-totonicapan-mechanics"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261110-20261110-quiche-mechanics"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261112-20261112-nebaj-mechanics"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261124-20261124-suchitepequez-mechanics"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261126-20261126-retalhuleu-mechanics"
+          ]
+        },
+        {
+          "start": "2026-11-17",
+          "end": "2026-11-17",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261117-20261117-totonicapan-electronics"
+          ]
+        },
+        {
+          "start": "2026-11-10",
+          "end": "2026-11-10",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261110-20261110-quiche-electronics"
+          ]
+        },
+        {
+          "start": "2026-11-12",
+          "end": "2026-11-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261112-20261112-nebaj-electronics"
+          ]
+        },
+        {
+          "start": "2026-11-24",
+          "end": "2026-11-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261124-20261124-suchitepequez-electronics"
+          ]
+        },
+        {
+          "start": "2026-11-26",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1252-20261126-20261126-retalhuleu-electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1253",
+      "slug": "munitec-37",
+      "provider": "MuniTec 3/7 · Tec Camp",
+      "iso": "GTM",
+      "country": "Guatemala",
+      "place": "39 calle 10-70, zona 3 · Ciudad de Guatemala",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–14",
+      "programme": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+        "sessions": [
+          [
+            "2026-11-03",
+            "2026-11-26"
+          ],
+          [
+            "2026-11-03",
+            "2026-11-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-26",
+            "variant_key": "am",
+            "label": "MuniTec 3/7 · Tec Camp · am",
+            "price": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+            "source": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "entry": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.",
+            "date_precision": "published_rule",
+            "date_rule": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T15:00:00Z",
+                "end_utc": "2026-11-03T18:00:00Z"
+              },
+              {
+                "date": "2026-11-05",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T15:00:00Z",
+                "end_utc": "2026-11-05T18:00:00Z"
+              },
+              {
+                "date": "2026-11-10",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T15:00:00Z",
+                "end_utc": "2026-11-10T18:00:00Z"
+              },
+              {
+                "date": "2026-11-12",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T15:00:00Z",
+                "end_utc": "2026-11-12T18:00:00Z"
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T15:00:00Z",
+                "end_utc": "2026-11-17T18:00:00Z"
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-19T15:00:00Z",
+                "end_utc": "2026-11-19T18:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T15:00:00Z",
+                "end_utc": "2026-11-24T18:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T15:00:00Z",
+                "end_utc": "2026-11-26T18:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-11-03",
+            "end": "2026-11-26",
+            "variant_key": "pm",
+            "label": "MuniTec 3/7 · Tec Camp · pm",
+            "price": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+            "source": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "entry": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.",
+            "date_precision": "published_rule",
+            "date_rule": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+            "sessions": [
+              {
+                "date": "2026-11-03",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-03T20:00:00Z",
+                "end_utc": "2026-11-03T23:00:00Z"
+              },
+              {
+                "date": "2026-11-05",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-05T20:00:00Z",
+                "end_utc": "2026-11-05T23:00:00Z"
+              },
+              {
+                "date": "2026-11-10",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-10T20:00:00Z",
+                "end_utc": "2026-11-10T23:00:00Z"
+              },
+              {
+                "date": "2026-11-12",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-12T20:00:00Z",
+                "end_utc": "2026-11-12T23:00:00Z"
+              },
+              {
+                "date": "2026-11-17",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-17T20:00:00Z",
+                "end_utc": "2026-11-17T23:00:00Z"
+              },
+              {
+                "date": "2026-11-19",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-19T20:00:00Z",
+                "end_utc": "2026-11-19T23:00:00Z"
+              },
+              {
+                "date": "2026-11-24",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-24T20:00:00Z",
+                "end_utc": "2026-11-24T23:00:00Z"
+              },
+              {
+                "date": "2026-11-26",
+                "start_time": "14:00",
+                "end_time": "17:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-26T20:00:00Z",
+                "end_utc": "2026-11-26T23:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Municipal press · starts, weekdays, ages and documents",
+          "url": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-03",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1253-20261103-20261126-am"
+          ]
+        },
+        {
+          "start": "2026-11-03",
+          "end": "2026-11-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1253-20261103-20261126-pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1254",
+      "slug": "munitec-21-junior",
+      "provider": "MuniTec 21 · Tec Camp Junior",
+      "iso": "GTM",
+      "country": "Guatemala",
+      "place": "4.ª avenida y 6.ª calle, zona 21 · Ciudad de Guatemala",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–14",
+      "programme": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+        "sessions": [
+          [
+            "2026-11-04",
+            "2026-11-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-04",
+            "end": "2026-11-27",
+            "variant_key": "am",
+            "label": "MuniTec 21 · Tec Camp Junior · am",
+            "price": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+            "source": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "entry": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.",
+            "date_precision": "published_rule",
+            "date_rule": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+            "sessions": [
+              {
+                "date": "2026-11-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-04T15:00:00Z",
+                "end_utc": "2026-11-04T18:00:00Z"
+              },
+              {
+                "date": "2026-11-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-06T15:00:00Z",
+                "end_utc": "2026-11-06T18:00:00Z"
+              },
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-11T15:00:00Z",
+                "end_utc": "2026-11-11T18:00:00Z"
+              },
+              {
+                "date": "2026-11-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-13T15:00:00Z",
+                "end_utc": "2026-11-13T18:00:00Z"
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-18T15:00:00Z",
+                "end_utc": "2026-11-18T18:00:00Z"
+              },
+              {
+                "date": "2026-11-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-20T15:00:00Z",
+                "end_utc": "2026-11-20T18:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T15:00:00Z",
+                "end_utc": "2026-11-25T18:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T15:00:00Z",
+                "end_utc": "2026-11-27T18:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Municipal press · starts, weekdays, ages and documents",
+          "url": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-04",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1254-20261104-20261127-am"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1255",
+      "slug": "munitec-21-teen",
+      "provider": "MuniTec 21 · Tec Camp Teen",
+      "iso": "GTM",
+      "country": "Guatemala",
+      "place": "4.ª avenida y 6.ª calle, zona 21 · Ciudad de Guatemala",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "15–17",
+      "programme": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+        "sessions": [
+          [
+            "2026-11-04",
+            "2026-11-27"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-11-04",
+            "end": "2026-11-27",
+            "variant_key": "am",
+            "label": "MuniTec 21 · Tec Camp Teen · am",
+            "price": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+            "source": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "admission_kind": "unknown",
+            "entry": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.",
+            "date_precision": "published_rule",
+            "date_rule": "Prensa publica inicio 3 o 4 de noviembre de 2026 y cuatro semanas dos veces por semana. Últimos días calculados con esa regla, no fecha de cierre separada; incorporación tras inicio sin confirmar.",
+            "sessions": [
+              {
+                "date": "2026-11-04",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-04T15:00:00Z",
+                "end_utc": "2026-11-04T18:00:00Z"
+              },
+              {
+                "date": "2026-11-06",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-06T15:00:00Z",
+                "end_utc": "2026-11-06T18:00:00Z"
+              },
+              {
+                "date": "2026-11-11",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-11T15:00:00Z",
+                "end_utc": "2026-11-11T18:00:00Z"
+              },
+              {
+                "date": "2026-11-13",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-13T15:00:00Z",
+                "end_utc": "2026-11-13T18:00:00Z"
+              },
+              {
+                "date": "2026-11-18",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-18T15:00:00Z",
+                "end_utc": "2026-11-18T18:00:00Z"
+              },
+              {
+                "date": "2026-11-20",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-20T15:00:00Z",
+                "end_utc": "2026-11-20T18:00:00Z"
+              },
+              {
+                "date": "2026-11-25",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-25T15:00:00Z",
+                "end_utc": "2026-11-25T18:00:00Z"
+              },
+              {
+                "date": "2026-11-27",
+                "start_time": "09:00",
+                "end_time": "12:00",
+                "timezone": "America/Guatemala",
+                "topic": "Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar.",
+                "ical_timed": true,
+                "start_utc": "2026-11-27T15:00:00Z",
+                "end_utc": "2026-11-27T18:00:00Z"
+              }
+            ]
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Municipal press · starts, weekdays, ages and documents",
+          "url": "https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "catalog_participation": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-04",
+          "end": "2026-11-27",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1255-20261104-20261127-am"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1256",
+      "slug": "cajamag-robotics-december",
+      "provider": "Cajamag · Vacacional de Robótica 12 horas",
+      "iso": "COL",
+      "country": "Colombia",
+      "place": "Santa Marta · Av. del Libertador #19–97",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Descripción 5–17; campo de sistema 14–99: conflicto.",
+      "programme": "Curso breve de robótica de 12 horas totales. Descripción indica días laborables 14:00–17:00, sin publicar cuatro días lectivos concretos. Ventana de catálogo 1–31 de diciembre 08:00–18:00 no implica clases diarias todo el mes.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2026",
+        "label": "Diciembre de 2026; confirmar días lectivos exactos y conflicto de edad. Ventana 1–31 de diciembre conservada en evidencias, sin sesión operativa de calendario.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Muestra categorías A $27600, B $31100, C $69000, D $76000. Código de moneda sin establecer expresamente en ficha leída; confirmar categoría familiar y unidad de tarifa. Sin aplicar automáticamente precio A.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Own market listing · conflicting ages and category fees",
+          "url": "https://market.cajamag.com.co/product-page/119",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "holiday_workshop",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1257",
+      "slug": "cultivatec-winter-online",
+      "provider": "Cultivatec · Robotics Winter Camp online",
+      "iso": "MEX",
+      "country": "México",
+      "place": "En línea · zona horaria sin anunciar",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "online"
+      ],
+      "age": "10–13",
+      "programme": "Tinkercad: mecanismos 3D, circuitos virtuales, programación y automatización. Cinco sábados de dos horas, diez horas totales; descripción no exige comprar componentes electrónicos. Ordenador, conexión y nivel aparte.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Indica 19 de diciembre–23 de enero sin año, horario ni zona horaria. Posible temporada 2026–2027 contiene seis sábados frente a cinco clases: sin indicar omisión. Sin deducir año del copyright ni crear clases fechadas.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "MXN",
+        "amount": 1599,
+        "unit": "programme",
+        "label": "MXN 1599 por curso anunciado; confirmar año, impuestos, pagos y devolución.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Desde casa con navegador; curso en línea, sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Actualmente 9 y 6, ambos menores del mínimo 10. Para Matvey futuro primero establecer año del curso y edad al inicio."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Actualmente 9 y 6, ambos menores del mínimo 10. Para Matvey futuro primero establecer año del curso y edad al inicio."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Specific winter course / five sessions / MXN",
+          "url": "https://cultivatec.com.mx/curso-robotics-winter-camp.html",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Operator and separate school courses",
+          "url": "https://cultivatec.com.mx/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "catalog_participation": "online_camp",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1258",
+      "slug": "robotiki-holiday-camps",
+      "provider": "Robotiki · Colonias tecnológicas",
+      "iso": "ARG",
+      "country": "Argentina",
+      "place": "Buenos Aires · confirmar sede elegida",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino.",
+      "programme": "LEGO Education, programación, electrónica y primeros proyectos 3D y AI. Para vacaciones anuncia jornada completa / media jornada en Zona Activa Belgrano o sedes asociadas; footer indica oficina Vicente López, no sede automática de campamento. Constructores es curso regular inicial separado de 6–10.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Próxima sesión exacta y plazas aún sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Holiday structure, no upcoming dates",
+          "url": "https://www.robotiki.com.ar/campamentos-tecnologicos-vacaciones-caba",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Own regular group 6–10",
+          "url": "https://www.robotiki.com.ar/sedes/para-constructores",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Operator / office and groups",
+          "url": "https://www.robotiki.com.ar/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1259",
+      "slug": "robotiki-constructores",
+      "provider": "Robotiki · Constructores",
+      "iso": "ARG",
+      "country": "Argentina",
+      "place": "Buenos Aires · confirmar sede elegida",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–10",
+      "programme": "LEGO Education, programación, electrónica y primeros proyectos 3D y AI. Para vacaciones anuncia jornada completa / media jornada en Zona Activa Belgrano o sedes asociadas; footer indica oficina Vicente López, no sede automática de campamento. Constructores es curso regular inicial separado de 6–10.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Próxima sesión exacta y plazas aún sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Ambos cumplen 6–10 del grupo regular. Programa inicial: tras tres años de competiciones exige ajustar dificultad; no grupo de edad de campamento confirmado."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Ambos cumplen 6–10 del grupo regular. Programa inicial: tras tres años de competiciones exige ajustar dificultad; no grupo de edad de campamento confirmado."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Holiday structure, no upcoming dates",
+          "url": "https://www.robotiki.com.ar/campamentos-tecnologicos-vacaciones-caba",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Own regular group 6–10",
+          "url": "https://www.robotiki.com.ar/sedes/para-constructores",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Operator / office and groups",
+          "url": "https://www.robotiki.com.ar/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "programme_type": "regular_learning",
+      "catalog_participation": "regular",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1260",
+      "slug": "vst-camp-1260",
+      "provider": "Villacampa · Titan Bot · VEX IQ",
+      "iso": "DOM",
+      "country": "República Dominicana",
+      "place": "Santo Domingo · archivo ABC School, confirmar sede futura",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Campamento general 6–17, edad de pista concreta aparte.",
+      "programme": "Diseño y programación VEX IQ, sensores, engranajes, lógica y estrategia de equipo.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo: inicio 22 de junio de 2026, cinco semanas L–V 09:00–14:00 en ABC School; convocatoria cerrada. Sin fechas ni precio nuevos. Lista de interés no reserva plaza ni genera pago.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 800,
+        "unit": "programme",
+        "label": "Precio archivado USD 800 por cinco semanas de 2026; no tarifa futura. Confirmar inclusiones, materiales y cancelación.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Own three closed camps and future watchlist",
+          "url": "https://villacampast.com/campamentos",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1261",
+      "slug": "vst-camp-1261",
+      "provider": "Villacampa · Neural Ninja · AI Revolution",
+      "iso": "DOM",
+      "country": "República Dominicana",
+      "place": "Santo Domingo · archivo ABC School, confirmar sede futura",
+      "themes": [
+        "ai",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Campamento general 6–17, edad de pista concreta aparte.",
+      "programme": "Modelos, soluciones inteligentes, juegos automatizados y proyectos propios AI.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo: inicio 22 de junio de 2026, cinco semanas L–V 09:00–14:00 en ABC School; convocatoria cerrada. Sin fechas ni precio nuevos. Lista de interés no reserva plaza ni genera pago.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 800,
+        "unit": "programme",
+        "label": "Precio archivado USD 800 por cinco semanas de 2026; no tarifa futura. Confirmar inclusiones, materiales y cancelación.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Own three closed camps and future watchlist",
+          "url": "https://villacampast.com/campamentos",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1262",
+      "slug": "vst-camp-1262",
+      "provider": "Villacampa · Studio Prime · Creator Lab",
+      "iso": "DOM",
+      "country": "República Dominicana",
+      "place": "Santo Domingo · archivo ABC School, confirmar sede futura",
+      "themes": [
+        "art",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Campamento general 6–17, edad de pista concreta aparte.",
+      "programme": "Cine, podcast, edición, relato visual y producción de contenido digital.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo: inicio 22 de junio de 2026, cinco semanas L–V 09:00–14:00 en ABC School; convocatoria cerrada. Sin fechas ni precio nuevos. Lista de interés no reserva plaza ni genera pago.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 800,
+        "unit": "programme",
+        "label": "Precio archivado USD 800 por cinco semanas de 2026; no tarifa futura. Confirmar inclusiones, materiales y cancelación.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Own three closed camps and future watchlist",
+          "url": "https://villacampast.com/campamentos",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1263",
+      "slug": "uvm-poweron",
+      "provider": "UVM · POWER ON · Inglés Básico + Robótica",
+      "iso": "VEN",
+      "country": "Venezuela",
+      "place": "Trujillo · sede Estovacuy",
+      "themes": [
+        "robotics",
+        "languages",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino.",
+      "programme": "Curso vacacional de inglés básico y robótica: laboratorios, modelos 3D y proyectos prácticos. Inglés es asignatura de aprendizaje separada; idioma de explicación robótica sin establecer.",
+      "language": "Curso vacacional de inglés básico y robótica: laboratorios, modelos 3D y proyectos prácticos. Inglés es asignatura de aprendizaje separada; idioma de explicación robótica sin establecer.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "language_lessons",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Universidad informó de curso iniciado el 12 de agosto de 2026. Fecha de noticia no es próximo inicio; duración, edad numérica y temporada 2027 sin establecer.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "University report · English as a subject plus robotics",
+          "url": "https://uvm.edu.ve/uvm-impulsa-talento-juvenil-con-el-inicio-del-plan-vacacional-power-on/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1264",
+      "slug": "utp-labsi-summer",
+      "provider": "UTP · LabSI Summer Camp de Robótica Básica",
+      "iso": "PAN",
+      "country": "Panamá",
+      "place": "Campus Metropolitano Dr. Víctor Levi Sasso · confirmar sede de próximo curso",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino.",
+      "programme": "Curso universitario archivado: 20 horas académicas, programación, sensores, actuadores y proyecto final. Participantes que completaron recibieron kits por edad; no confirma kit incluido en futura tarifa desconocida. Sin equiparar automáticamente hora académica a 60 minutos.",
+      "language": "Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Informe de 24 de marzo de 2026 comunica finalización; sin días pasados concretos ni fecha futura. Artículo bilingüe no acredita grupo docente en inglés.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "programme",
+        "label": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.",
+        "included": "Confirmar inclusiones, equipo de clase y kit para llevar.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar edad numérica del campamento elegido; sin trasladar automáticamente edad de curso regular vecino."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "University laboratory completion report · no future intake",
+          "url": "https://sistemasinteligentes.utp.ac.pa/2026/03/24/labsi-summer-camp-de-robotica-basica-2026/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -201633,7 +205056,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 159,
+  "version": 161,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -216435,6 +219858,256 @@
       "programme_id": "CP1250",
       "event_id": "CP1250-20270125-20270131-boarding",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261105-20261105-quetzaltenango-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261124-20261124-quiche-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261126-20261126-nebaj-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261110-20261110-suchitepequez-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261112-20261112-retalhuleu-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261117-20261117-solola-walls",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261105-20261105-quetzaltenango-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261124-20261124-quiche-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261126-20261126-nebaj-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261110-20261110-suchitepequez-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261112-20261112-retalhuleu-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261117-20261117-solola-obstacles",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261110-20261110-totonicapan-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261112-20261112-quetzaltenango-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261105-20261105-nebaj-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261117-20261117-suchitepequez-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261119-20261119-retalhuleu-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261124-20261124-solola-light",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261110-20261110-totonicapan-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261112-20261112-quetzaltenango-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261105-20261105-nebaj-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261117-20261117-suchitepequez-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261126-20261126-retalhuleu-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1251",
+      "event_id": "CP1251-20261124-20261124-solola-button",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261124-20261124-totonicapan-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261126-20261126-quetzaltenango-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261117-20261117-quiche-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261119-20261119-nebaj-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261105-20261105-retalhuleu-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261110-20261110-solola-coding",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261124-20261124-totonicapan-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261126-20261126-quetzaltenango-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261117-20261117-quiche-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261119-20261119-nebaj-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261105-20261105-retalhuleu-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261110-20261110-solola-pneumatics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261117-20261117-totonicapan-mechanics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261110-20261110-quiche-mechanics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261112-20261112-nebaj-mechanics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261124-20261124-suchitepequez-mechanics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261126-20261126-retalhuleu-mechanics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261117-20261117-totonicapan-electronics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261110-20261110-quiche-electronics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261112-20261112-nebaj-electronics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261124-20261124-suchitepequez-electronics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1252",
+      "event_id": "CP1252-20261126-20261126-retalhuleu-electronics",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1253",
+      "event_id": "CP1253-20261103-20261126-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1253",
+      "event_id": "CP1253-20261103-20261126-pm",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1254",
+      "event_id": "CP1254-20261104-20261127-am",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1255",
+      "event_id": "CP1255-20261104-20261127-am",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -219114,10 +222787,60 @@
     "CP1247-20261226-20261230-beijing",
     "CP1248-20261214-20261218-shanghai",
     "CP1248-20261226-20261230-beijing",
-    "CP1250-20270125-20270131-boarding"
+    "CP1250-20270125-20270131-boarding",
+    "CP1251-20261105-20261105-quetzaltenango-walls",
+    "CP1251-20261124-20261124-quiche-walls",
+    "CP1251-20261126-20261126-nebaj-walls",
+    "CP1251-20261110-20261110-suchitepequez-walls",
+    "CP1251-20261112-20261112-retalhuleu-walls",
+    "CP1251-20261117-20261117-solola-walls",
+    "CP1251-20261105-20261105-quetzaltenango-obstacles",
+    "CP1251-20261124-20261124-quiche-obstacles",
+    "CP1251-20261126-20261126-nebaj-obstacles",
+    "CP1251-20261110-20261110-suchitepequez-obstacles",
+    "CP1251-20261112-20261112-retalhuleu-obstacles",
+    "CP1251-20261117-20261117-solola-obstacles",
+    "CP1251-20261110-20261110-totonicapan-light",
+    "CP1251-20261112-20261112-quetzaltenango-light",
+    "CP1251-20261105-20261105-nebaj-light",
+    "CP1251-20261117-20261117-suchitepequez-light",
+    "CP1251-20261119-20261119-retalhuleu-light",
+    "CP1251-20261124-20261124-solola-light",
+    "CP1251-20261110-20261110-totonicapan-button",
+    "CP1251-20261112-20261112-quetzaltenango-button",
+    "CP1251-20261105-20261105-nebaj-button",
+    "CP1251-20261117-20261117-suchitepequez-button",
+    "CP1251-20261126-20261126-retalhuleu-button",
+    "CP1251-20261124-20261124-solola-button",
+    "CP1252-20261124-20261124-totonicapan-coding",
+    "CP1252-20261126-20261126-quetzaltenango-coding",
+    "CP1252-20261117-20261117-quiche-coding",
+    "CP1252-20261119-20261119-nebaj-coding",
+    "CP1252-20261105-20261105-retalhuleu-coding",
+    "CP1252-20261110-20261110-solola-coding",
+    "CP1252-20261124-20261124-totonicapan-pneumatics",
+    "CP1252-20261126-20261126-quetzaltenango-pneumatics",
+    "CP1252-20261117-20261117-quiche-pneumatics",
+    "CP1252-20261119-20261119-nebaj-pneumatics",
+    "CP1252-20261105-20261105-retalhuleu-pneumatics",
+    "CP1252-20261110-20261110-solola-pneumatics",
+    "CP1252-20261117-20261117-totonicapan-mechanics",
+    "CP1252-20261110-20261110-quiche-mechanics",
+    "CP1252-20261112-20261112-nebaj-mechanics",
+    "CP1252-20261124-20261124-suchitepequez-mechanics",
+    "CP1252-20261126-20261126-retalhuleu-mechanics",
+    "CP1252-20261117-20261117-totonicapan-electronics",
+    "CP1252-20261110-20261110-quiche-electronics",
+    "CP1252-20261112-20261112-nebaj-electronics",
+    "CP1252-20261124-20261124-suchitepequez-electronics",
+    "CP1252-20261126-20261126-retalhuleu-electronics",
+    "CP1253-20261103-20261126-am",
+    "CP1253-20261103-20261126-pm",
+    "CP1254-20261104-20261127-am",
+    "CP1255-20261104-20261127-am"
   ],
   "integration": {
-    "generated_sessions": 2677,
+    "generated_sessions": 2727,
     "reused_legacy_events": 69,
     "seasonal_windows": 54,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

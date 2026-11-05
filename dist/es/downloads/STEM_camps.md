@@ -50374,6 +50374,806 @@ Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspond
 Fuente: https://assets.dulwich.org/dulwich/blocks/201790/p/0/download/winter-camps-en-v1.pdf
 Se ha comprobado: 2026-11-05
 
+### CP1251-20261105-20261105-quetzaltenango-walls · COSAMI · Robótica Educativa · Nivel 1 · Quetzaltenango · Robot seguidor de paredes · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261124-20261124-quiche-walls · COSAMI · Robótica Educativa · Nivel 1 · Quiché · Robot seguidor de paredes · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261126-20261126-nebaj-walls · COSAMI · Robótica Educativa · Nivel 1 · Nebaj · Robot seguidor de paredes · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261110-20261110-suchitepequez-walls · COSAMI · Robótica Educativa · Nivel 1 · Suchitepéquez · Robot seguidor de paredes · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261112-20261112-retalhuleu-walls · COSAMI · Robótica Educativa · Nivel 1 · Retalhuleu · Robot seguidor de paredes · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261117-20261117-solola-walls · COSAMI · Robótica Educativa · Nivel 1 · Sololá · Robot seguidor de paredes · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261105-20261105-quetzaltenango-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Quetzaltenango · Robot evita obstáculos · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261124-20261124-quiche-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Quiché · Robot evita obstáculos · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261126-20261126-nebaj-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Nebaj · Robot evita obstáculos · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261110-20261110-suchitepequez-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Suchitepéquez · Robot evita obstáculos · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261112-20261112-retalhuleu-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Retalhuleu · Robot evita obstáculos · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261117-20261117-solola-obstacles · COSAMI · Robótica Educativa · Nivel 1 · Sololá · Robot evita obstáculos · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261110-20261110-totonicapan-light · COSAMI · Robótica Educativa · Nivel 1 · Totonicapán · Robot seguidor de luz · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261112-20261112-quetzaltenango-light · COSAMI · Robótica Educativa · Nivel 1 · Quetzaltenango · Robot seguidor de luz · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261105-20261105-nebaj-light · COSAMI · Robótica Educativa · Nivel 1 · Nebaj · Robot seguidor de luz · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261117-20261117-suchitepequez-light · COSAMI · Robótica Educativa · Nivel 1 · Suchitepéquez · Robot seguidor de luz · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261119-20261119-retalhuleu-light · COSAMI · Robótica Educativa · Nivel 1 · Retalhuleu · Robot seguidor de luz · 2026-11-19–2026-11-19
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-19 国 2026-11-19
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261124-20261124-solola-light · COSAMI · Robótica Educativa · Nivel 1 · Sololá · Robot seguidor de luz · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261110-20261110-totonicapan-button · COSAMI · Robótica Educativa · Nivel 1 · Totonicapán · Robot push button control · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261112-20261112-quetzaltenango-button · COSAMI · Robótica Educativa · Nivel 1 · Quetzaltenango · Robot push button control · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261105-20261105-nebaj-button · COSAMI · Robótica Educativa · Nivel 1 · Nebaj · Robot push button control · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261117-20261117-suchitepequez-button · COSAMI · Robótica Educativa · Nivel 1 · Suchitepéquez · Robot push button control · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261126-20261126-retalhuleu-button · COSAMI · Robótica Educativa · Nivel 1 · Retalhuleu · Robot push button control · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1251-20261124-20261124-solola-button · COSAMI · Robótica Educativa · Nivel 1 · Sololá · Robot push button control · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261124-20261124-totonicapan-coding · COSAMI · Robótica Educativa · Nivel 2 · Totonicapán · First coding · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261126-20261126-quetzaltenango-coding · COSAMI · Robótica Educativa · Nivel 2 · Quetzaltenango · First coding · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261117-20261117-quiche-coding · COSAMI · Robótica Educativa · Nivel 2 · Quiché · First coding · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261119-20261119-nebaj-coding · COSAMI · Robótica Educativa · Nivel 2 · Nebaj · First coding · 2026-11-19–2026-11-19
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-19 国 2026-11-19
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261105-20261105-retalhuleu-coding · COSAMI · Robótica Educativa · Nivel 2 · Retalhuleu · First coding · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261110-20261110-solola-coding · COSAMI · Robótica Educativa · Nivel 2 · Sololá · First coding · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261124-20261124-totonicapan-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Totonicapán · Stem pneumatics · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261126-20261126-quetzaltenango-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Quetzaltenango · Stem pneumatics · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Quetzaltenango · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261117-20261117-quiche-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Quiché · Stem pneumatics · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261119-20261119-nebaj-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Nebaj · Stem pneumatics · 2026-11-19–2026-11-19
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-19 国 2026-11-19
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261105-20261105-retalhuleu-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Retalhuleu · Stem pneumatics · 2026-11-05–2026-11-05
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-05 — 2026-11-05
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261110-20261110-solola-pneumatics · COSAMI · Robótica Educativa · Nivel 2 · Sololá · Stem pneumatics · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Sololá · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261117-20261117-totonicapan-mechanics · COSAMI · Robótica Educativa · Nivel 2 · Totonicapán · Stem mechanic 2.0 · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261110-20261110-quiche-mechanics · COSAMI · Robótica Educativa · Nivel 2 · Quiché · Stem mechanic 2.0 · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261112-20261112-nebaj-mechanics · COSAMI · Robótica Educativa · Nivel 2 · Nebaj · Stem mechanic 2.0 · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261124-20261124-suchitepequez-mechanics · COSAMI · Robótica Educativa · Nivel 2 · Suchitepéquez · Stem mechanic 2.0 · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261126-20261126-retalhuleu-mechanics · COSAMI · Robótica Educativa · Nivel 2 · Retalhuleu · Stem mechanic 2.0 · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261117-20261117-totonicapan-electronics · COSAMI · Robótica Educativa · Nivel 2 · Totonicapán · Stem electronics · 2026-11-17–2026-11-17
+
+lugar: Guatemala · COSAMI · Totonicapán · confirmar dirección exacta
+Fecha: 2026-11-17 — 2026-11-17
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261110-20261110-quiche-electronics · COSAMI · Robótica Educativa · Nivel 2 · Quiché · Stem electronics · 2026-11-10–2026-11-10
+
+lugar: Guatemala · COSAMI · Quiché · confirmar dirección exacta
+Fecha: 2026-11-10 国 2026-11-10
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261112-20261112-nebaj-electronics · COSAMI · Robótica Educativa · Nivel 2 · Nebaj · Stem electronics · 2026-11-12–2026-11-12
+
+lugar: Guatemala · COSAMI · Nebaj · confirmar dirección exacta
+Fecha: 2026-11-12 — 2026-11-12
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261124-20261124-suchitepequez-electronics · COSAMI · Robótica Educativa · Nivel 2 · Suchitepéquez · Stem electronics · 2026-11-24–2026-11-24
+
+lugar: Guatemala · COSAMI · Suchitepéquez · confirmar dirección exacta
+Fecha: 2026-11-24 国 2026-11-24
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1252-20261126-20261126-retalhuleu-electronics · COSAMI · Robótica Educativa · Nivel 2 · Retalhuleu · Stem electronics · 2026-11-26–2026-11-26
+
+lugar: Guatemala · COSAMI · Retalhuleu · confirmar dirección exacta
+Fecha: 2026-11-26 — 2026-11-26
+edad: 11–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GRATIS · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Oscar: Nivel 1: Matvey de 9 cumple 8–10; Oscar de 6 menor del mínimo 8. Nivel 2 de 11–14 aún no corresponde a ninguno. Membresía, documentos, grupo concreto e idioma aparte; formulario público Microsoft solo mostró Loading. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://bucket-l1kf8c.s3.amazonaws.com/wp-content/uploads/2026/09/horarios-robotica-2.jpg
+Se ha comprobado: 2026-11-05
+
+### CP1253-20261103-20261126-am · MuniTec 3/7 · Tec Camp · MuniTec 3/7 · Tec Camp · am · 2026-11-03–2026-11-26
+
+lugar: Guatemala · 39 calle 10-70, zona 3 · Ciudad de Guatemala
+Fecha: 2026-11-03 — 2026-11-26
+Edad: 10–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero. · suplementos y condiciones en el dossier
+Acceso: Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Oscar: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/
+Se ha comprobado: 2026-11-05
+
+### CP1253-20261103-20261126-pm · MuniTec 3/7 · Tec Camp · MuniTec 3/7 · Tec Camp · pm · 2026-11-03–2026-11-26
+
+lugar: Guatemala · 39 calle 10-70, zona 3 · Ciudad de Guatemala
+Fecha: 2026-11-03 — 2026-11-26
+Edad: 10–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero. · suplementos y condiciones en el dossier
+Acceso: Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Oscar: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/
+Se ha comprobado: 2026-11-05
+
+### CP1254-20261104-20261127-am · MuniTec 21 · Tec Camp Junior · MuniTec 21 · Tec Camp Junior · am · 2026-11-04–2026-11-27
+
+lugar: Guatemala · 4.ª avenida y 6.ª calle, zona 21 · Ciudad de Guatemala
+Fecha: 2026-11-04 — 2026-11-27
+Edad: 10–14
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero. · suplementos y condiciones en el dossier
+Acceso: Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Oscar: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/
+Se ha comprobado: 2026-11-05
+
+### CP1255-20261104-20261127-am · MuniTec 21 · Tec Camp Teen · MuniTec 21 · Tec Camp Teen · am · 2026-11-04–2026-11-27
+
+lugar: Guatemala · 4.ª avenida y 6.ª calle, zona 21 · Ciudad de Guatemala
+Fecha: 2026-11-04 — 2026-11-27
+Edad: 15*17
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Descripción en español; sin localizar confirmación expresa del idioma EN / ES del grupo elegido ni acceso extranjero individual. Idioma de página no sustituye idioma de enseñanza.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero. · suplementos y condiciones en el dossier
+Acceso: Programación, robótica e impresión 3D en curso municipal vacacional de cuatro semanas. Exige certificado de nacimiento, DPI del adulto responsable y recibo de servicios con dirección en municipio de Guatemala. Acceso extranjero separado sin confirmar. Verificar edad y nivel tras tres años de competiciones, idioma de clases, sede exacta, plaza, admisión extranjera y factura final. Sin enviar formularios, mensajes, consentimientos ni pagos.
+Limitaciones: Matvey: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Oscar: Ambos menores del grupo de edad publicado; dirección municipal y documentos también obligatorios. Alternativa para edad posterior. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Tarifa completa y condiciones de cancelación sin publicar en fuente leída; importe desconocido no es cero.
+Fuente: https://muniguatealfrente.com/tec-camp-las-vacaciones-se-convierten-en-una-aventura-tecnologica-para-ninos-y-jovenes/
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz
