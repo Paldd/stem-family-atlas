@@ -37,7 +37,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -68,7 +68,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -99,7 +99,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -130,7 +130,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -160,7 +160,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -190,7 +190,7 @@
         "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
         "family_calendar_entries": 2656,
         "exhibition_calendar_entries": 86,
-        "browser_ui_validation": "pending-remote-public-browser-check"
+        "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
       }
     },
     {
@@ -274,28 +274,28 @@
   ],
   "completion_rule": "No declarar el objetivo de las tarjetas de identificación completadas, la lista de 249 países o los puntos verdes de UI. Se requiere una cobertura de referencia y condiciones pertinentes demostradas, o información manifiestamente inaccesible o no declarada con fuentes verificadas.",
   "latest_validation": {
-    "version": 140,
+    "version": 141,
     "asof": "2026-11-04",
-    "events": 3859,
-    "competition_records": 1168,
+    "events": 3886,
+    "competition_records": 1178,
     "exhibition_records": 208,
-    "camp_learning_records": 2483,
-    "programme_dossiers": 1123,
+    "camp_learning_records": 2500,
+    "programme_dossiers": 1135,
     "countries_with_dossiers": 39,
-    "official_dossier_urls": 1672,
+    "official_dossier_urls": 1674,
     "league_profiles": 144,
     "schools": 62,
-    "new_dossiers": 4,
-    "new_camp_calendar_rows": 11,
-    "new_exhibition_rows": 1,
-    "updated_event_rows": 19,
+    "new_dossiers": 12,
+    "new_camp_calendar_rows": 17,
+    "new_competition_rows": 10,
+    "updated_event_rows": 3,
     "worldwide_complete": false,
     "fully_audited_countries": 0,
     "status": "verified-local-build-and-exports",
-    "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
-    "family_calendar_entries": 2656,
-    "exhibition_calendar_entries": 86,
-    "browser_ui_validation": "pending-remote-public-browser-check"
+    "browser_ui_validation": "not-run-local-browser-disabled",
+    "scope": "Verificados Bebras México, vía escolar Bebras Costa Rica, 8 retos RoboJam Monterrey y 12 programas FOD con 17 sesiones. Continúa auditoría mundial.",
+    "family_calendar_entries": 2731,
+    "exhibition_calendar_entries": 86
   },
   "completeness_audit": "data/audit-v51.json",
   "family_context": {
@@ -337,23 +337,28 @@
   ],
   "native_goal_status": "active",
   "latest_validation_previous": {
-    "version": 136,
-    "asof": "2026-10-06",
-    "events": 3847,
+    "version": 140,
+    "asof": "2026-11-04",
+    "events": 3859,
     "competition_records": 1168,
-    "exhibition_records": 207,
-    "camp_learning_records": 2472,
-    "programme_dossiers": 1119,
+    "exhibition_records": 208,
+    "camp_learning_records": 2483,
+    "programme_dossiers": 1123,
     "countries_with_dossiers": 39,
-    "official_dossier_urls": 1669,
-    "editorial_scenarios": 258,
-    "budget_scenarios": 59,
-    "family_ical": 3064,
-    "exhibition_ical": 104,
+    "official_dossier_urls": 1672,
     "league_profiles": 144,
+    "schools": 62,
+    "new_dossiers": 4,
+    "new_camp_calendar_rows": 11,
+    "new_exhibition_rows": 1,
+    "updated_event_rows": 19,
     "worldwide_complete": false,
     "fully_audited_countries": 0,
-    "status": "Adiciones de invierno seleccionadas y exclusión coreana, preparadas localmente, no publicadas."
+    "status": "verified-local-build-and-exports",
+    "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
+    "family_calendar_entries": 2656,
+    "exhibition_calendar_entries": 86,
+    "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
   },
   "research_passes": [
     {
@@ -1299,14 +1304,34 @@
       "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
       "family_calendar_entries": 2656,
       "exhibition_calendar_entries": 86,
-      "browser_ui_validation": "pending-remote-public-browser-check"
+      "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
+    },
+    {
+      "version": 141,
+      "asof": "2026-11-04",
+      "events": 3886,
+      "competition_records": 1178,
+      "exhibition_records": 208,
+      "camp_learning_records": 2500,
+      "programme_dossiers": 1135,
+      "countries_with_dossiers": 39,
+      "official_dossier_urls": 1674,
+      "league_profiles": 144,
+      "schools": 62,
+      "new_dossiers": 12,
+      "new_camp_calendar_rows": 17,
+      "new_competition_rows": 10,
+      "updated_event_rows": 3,
+      "worldwide_complete": false,
+      "fully_audited_countries": 0,
+      "status": "verified-local-build-and-exports",
+      "browser_ui_validation": "not-run-local-browser-disabled",
+      "scope": "Verificados Bebras México, vía escolar Bebras Costa Rica, 8 retos RoboJam Monterrey y 12 programas FOD con 17 sesiones. Continúa auditoría mundial.",
+      "family_calendar_entries": 2731,
+      "exhibition_calendar_entries": 86
     }
   ],
-  "previous_goal_turn_classification": {
-    "classification": "progress",
-    "asof": "2026-11-04",
-    "evidence": "verified-bilingual-publication-v139-9e294c0"
-  },
+  "previous_goal_turn_classification": "progress",
   "camp_success_criteria": [
     "El organizador, el emplazamiento, el programa y el cambio de rumbo son diferentes. Varias fechas del curso no se consideran campamentos diferentes.",
     "Todos los 249 países/territorios gozan de un estatuto de camp discovery separado; los candidatos a la lista se seleccionan de acuerdo con los criterios publicados; Suiza exige un pase completo por los operadores generales y temáticos encontrados.",
@@ -8582,9 +8607,9 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 140,
+    "prepared_ui_version": 141,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 139
+    "previous_verified_ui_version": 140
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -10271,6 +10296,37 @@
     "scope": "Verificados calendarios actuales MakeX y WAICY, cuatro programas de Singapur y TIMTOS. Auditoría mundial, nacional y de campamentos aún incompleta.",
     "family_calendar_entries": 2656,
     "exhibition_calendar_entries": 86,
-    "browser_ui_validation": "pending-remote-public-browser-check"
+    "browser_ui_validation": "unavailable-local-browser-disabled-remote-timeout"
+  },
+  "research_refresh_v141": {
+    "version": 141,
+    "asof": "2026-11-04",
+    "events": 3886,
+    "competition_records": 1178,
+    "exhibition_records": 208,
+    "camp_learning_records": 2500,
+    "programme_dossiers": 1135,
+    "countries_with_dossiers": 39,
+    "official_dossier_urls": 1674,
+    "league_profiles": 144,
+    "schools": 62,
+    "new_dossiers": 12,
+    "new_camp_calendar_rows": 17,
+    "new_competition_rows": 10,
+    "updated_event_rows": 3,
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "status": "verified-local-build-and-exports",
+    "browser_ui_validation": "not-run-local-browser-disabled",
+    "scope": "Verificados Bebras México, vía escolar Bebras Costa Rica, 8 retos RoboJam Monterrey y 12 programas FOD con 17 sesiones. Continúa auditoría mundial.",
+    "source_receipts": "data/opportunities-source-receipts-v141.json",
+    "previous_published_commit": "4343eaee9ffb003b24d0198d56d80e01c2b3b191",
+    "previous_goal_turn": "verified-v140-publication",
+    "source_gaps": [
+      "FIRST Costa Rica: HTTPS directo devolvió certificado vencido; caché contiene evento antiguo de marzo 2026, no temporada nueva 2027. Sin omitir verificación TLS.",
+      "FOD: fechas y precio exactos confirmados; idioma oral, equipo, comida, tamaño del grupo y plazas sin establecer."
+    ],
+    "family_calendar_entries": 2731,
+    "exhibition_calendar_entries": 86
   }
 }

@@ -179,7 +179,7 @@ Comprobado: 2026-10-02
 Fecha: 2026-11-27 — 2026-11-29
 Edad: 11 Especialistas: mTiny 4–6; Codey 6–9; Inspire 6–12; Starter 6–13; Otros — Tarjetas
 Matway: Sí, por edad, en varias disciplinas; autorización para confirmar
-Oscar: Sí por edad en mTiny, Socker, Inspire/Starter; el código depende de la fecha de nacimiento
+Oscar: Por edad posibles mTiny, Inspire/Starter; Codey depende del cumpleaños. Soccer sigue sin convocatoria nueva.
 Idioma: ES candidato; idioma del juez: confirmación
 Entrada: CreativaKids: ficha de categoría: regla de orden; recepción extranjera para confirmar
 Costo: entrada del afiliado inscrito y coach incluida; contribución de la disciplina; entradas de la familia separadas
@@ -364,10 +364,10 @@ Matway: Condicionalmente en clase.
 Óscar: No para 1o grado; 2o grado debe ser aclarado
 Idioma: ES
 Entrada: El profesor registra la escuela Costa Rica; Registro 28.09–16.10; Trabajos escolares durante el horario escolar
-Costo: No publicado / Comprobar la edición actual
+Precio: 4000 CRC por alumno, IVA incluido, según portal oficial Bebras Costa Rica.
 Limitaciones: Edad 9 Años no prueba 3 Clase. Comprueba esto. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.
 Fuente: https://cangurocr.org/bebras/agenda
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-04
 
 ### C072 · Pokémon Puebla ♫ 2027
 
@@ -1409,6 +1409,136 @@ restricciones: El título se enumera 11–14 mayo 2027 (cuatro días.), el texto
 Fuente: https://femexrobotica.org/mexcir2027/
 Comprobado: 2026-10-02
 
+### C1170 · Bebras México · Otoño 2026 · N1–N6
+
+Fecha: 2026-11-09 — 2026-11-30
+edad: 6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.
+Matvey: Sí por edad; confirmar curso y participación desde Costa Rica.
+Oscar: Condicional: 6 cumplidos y mínimo curso 1; cumpleaños y curso desconocidos.
+Idioma: Español indicado expresamente en la convocatoria.
+Acceso: Un progenitor puede administrar cuenta familiar / homeschool; escuela no obligatoria. CURP y email infantiles opcionales en modalidad familiar; registro independiente tiene otros requisitos. Claves pueden tardar hasta 72 horas; recomiendan registrarse antes del 9 de noviembre.
+Precio: Gratis: convocatoria indica 100% gratuita.
+Limitaciones: Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.
+Fuente: https://bebras.mx/
+Se ha comprobado: 2026-11-04
+
+### C1171 · RoboJam MX Norestense · ASFM · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1172 · RoboJam MX Norestense · Bristle Race · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.
+Matvey: Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.
+Oscar: Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1173 · RoboJam MX Norestense · Path Attack Junior · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1174 · RoboJam MX Norestense · CrossBot · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1175 · RoboJam MX Norestense · Skill Drive · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Cualquier edad según PDF; menores necesitan asesor adulto.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1176 · RoboJam MX Norestense · Stack.IN · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Cualquier edad según PDF; menores necesitan asesor adulto.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1177 · RoboJam MX Norestense · BumperBot Evolution · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Cualquier edad según PDF; menores necesitan asesor adulto.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1178 · RoboJam MX Norestense · Path Attack Pro · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Cualquier edad según PDF; menores necesitan asesor adulto.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
+### C1179 · RoboJam MX Norestense · Disk Derby · 2027
+
+Fecha: 2027-04-17 — 2027-04-17
+edad: Cualquier edad según PDF; menores necesitan asesor adulto.
+Matvey: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Oscar: Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.
+Idioma: Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.
+Acceso: Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.
+Precio: Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.
+Limitaciones: Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.
+Fuente: https://www.robojam.live/mexico
+Se ha comprobado: 2026-11-04
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02
@@ -1785,6 +1915,227 @@ Costo: 2026 · USD 120 + 2% IVA = USD 122.40 por curso de capacitación; US$ se 
 Limitaciones: Matway: Ambos niños son menores de un grupo de adolescentes publicado; es un futuro ciclo de aprendizaje, no una matrícula actual. Oscar: ambos niños son menores de un grupo de adolescentes publicado; es un futuro ciclo de aprendizaje, no una matrícula actual. Los pagos adicionales: carreteras, vivienda familiar, alimentación, seguro y otros gastos no especificados por separado; no es un costo total de viaje. Paga: total: 100% de la jornada laboral antes del curso, 80% después, después de la fecha de inicio; la cancelación de la compra es posible hasta una hora antes del comienzo; sin embargo, la misma página limita el plazo de la semana de entrega a la familia antes del comienzo. Esta contradicción exige condiciones escritas para la orden de compra en particular, y no una promesa de devolución incondicional. El curso puede aplazarse/retirarse si se trata de un pequeño juego, con un aviso de un día como mínimo y una solicitud de devolución.
 Fuente: https://ucenfotec.ac.cr/ecommerce/producto/ruta-explorador-ia/
 Comprobado: 2026-10-06
+
+### CP1124-20261207-20261211 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 6–8 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1124-20270111-20270115 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1124-20270125-20270129 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1125-20270118-20270122 · FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1126-20270125-20270129 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 7–9 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1127-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1127-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1128-20270118-20270122 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1129-20270125-20270129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1130-20270111-20270115 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 9*16 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1131-20270118-20270122 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 10*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1133-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1134-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1135-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle
 

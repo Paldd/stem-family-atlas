@@ -1,0 +1,222 @@
+{
+  "checked": "2026-11-04",
+  "retrievals": [
+    {
+      "url": "https://www.robojam.live/mexico",
+      "final_url": "https://www.robojam.live/mexico",
+      "status": 200,
+      "bytes": 478390,
+      "sha256": "55a600fbbc9dd053e9136624aad9f6777cd91faf94858a52b5c74c2e3f80c6f7",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://www.robojam.live/challenges",
+      "final_url": "https://www.robojam.live/challenges",
+      "status": 200,
+      "bytes": 501716,
+      "sha256": "add4ce66ce48d933f18106d353a1d9327f79172cb20d7fc5032017032c00ed7e",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://bebras.mx/",
+      "final_url": "https://bebras.mx/",
+      "status": 200,
+      "bytes": 110590,
+      "sha256": "a45557534ebf085959a4bc13b8ca497ffa4d106be7cff81e74abf5f3b4c34a68",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://bebras.mx/participa/",
+      "final_url": "https://bebras.mx/participa/",
+      "status": 200,
+      "bytes": 98497,
+      "sha256": "0183270decc71cab26c3943553ce82b8e7e30cba7d1898823419067bbb298082",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://bebras.mx/wp-content/uploads/2026/08/Bebras-Otono-2026-%C2%B7-Convocatoria-Detalle.pdf",
+      "final_url": "https://bebras.mx/wp-content/uploads/2026/08/Bebras-Otono-2026-%C2%B7-Convocatoria-Detalle.pdf",
+      "status": 200,
+      "bytes": 501867,
+      "sha256": "362e6d1b8a81becb30376102ac83edfbc9e26bd05668044f4a81e4d1efe0b6a3",
+      "content_type": "application/pdf"
+    },
+    {
+      "url": "https://fod.ac.cr/",
+      "final_url": "https://fod.ac.cr/",
+      "status": 200,
+      "bytes": 675888,
+      "sha256": "43e6eea552e2baca9d0e1c70da6b4b7d9084452000875dae6d0c81a5e754e66a",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://fod.ac.cr/oferta-formativa/",
+      "final_url": "https://fod.ac.cr/oferta-formativa/",
+      "status": 200,
+      "bytes": 469033,
+      "sha256": "110b744900bda6b4faf9a9ce06ac543bd67b075fa74c6e431b524b634406c446",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://fod.ac.cr/noticias/",
+      "final_url": "https://fod.ac.cr/noticias/",
+      "status": 200,
+      "bytes": 451032,
+      "sha256": "576754640f1a15ad8845bf5b69a7a01c2b9c305f3b2cff97c9b7afc0b6abe933",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://cangurocr.org/api/bebras/pages/agenda",
+      "final_url": "https://cangurocr.org/api/bebras/pages/agenda",
+      "status": 200,
+      "bytes": 470,
+      "sha256": "8167a837f174193270ec2549b238f13aa4ca5e39cbc48216897db439071f7ad8",
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://cangurocr.org/api/bebras/pages/reglamento",
+      "final_url": "https://cangurocr.org/api/bebras/pages/reglamento",
+      "status": 200,
+      "bytes": 5035,
+      "sha256": "e97f069226172019a4fb69e95d69f5eef15363df4309c72a7989358179855898",
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.firstlegoleaguecr.com/inscripcion/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+    },
+    {
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "status": 200,
+      "bytes": 70283,
+      "sha256": "1beaf74c694cc27ca07cfddaffbeb056c59180d55a6a543f9571e8ecc9377cce",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "final_url": "https://roboraveinternational.org/eventos/roborave-puerto-vallarta-open-2027",
+      "status": 200,
+      "bytes": 102251,
+      "sha256": "79114d3ceb90efa364ec6480e777b1189b9325addd40e109dbf98c7da494c24d",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://femexrobotica.org/tmr2027/",
+      "final_url": "https://femexrobotica.org/tmr2027/",
+      "status": 200,
+      "bytes": 71148,
+      "sha256": "dfaab2328fda843c569b9ef216b07329dc8eb06909918f483c23413c1e622bc5",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1kVQryskZCdxlHbYAKP8vUOqS6WFijI9g",
+      "final_url": "https://drive.google.com/drive/folders/1kVQryskZCdxlHbYAKP8vUOqS6WFijI9g",
+      "status": 200,
+      "sha256": "7df1442e6f3f94edc411ecd46d1ca0bf9222eba6cf6442612e54ebceef211c46",
+      "bytes": 322798
+    },
+    {
+      "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "final_url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+      "status": 200,
+      "sha256": "28984d167cde65c1f4400198e940a934de2550cc8562f09dd99cd271ec664c37",
+      "bytes": 429313
+    },
+    {
+      "url": "https://costarica.cuttle.org/index.php?action=content&id=31",
+      "final_url": "https://costarica.cuttle.org/index.php?action=content&id=31",
+      "status": 200,
+      "sha256": "f0bd746c3cb68a1cace75cde90d38b236d4bd487292f5cd69b3712bf4ff5a6ab",
+      "bytes": 7329
+    },
+    {
+      "url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "final_url": "https://survey.zohopublic.com/zs/SjzWbS",
+      "status": 200,
+      "bytes": 321756,
+      "sha256": "31d512048dc57dad98a9bc6db81f2a93eda7fc4bed63f393310530cb1215ceb2"
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1A4CBWGp648-MStxDHqoHta2mXaMTa7vY",
+      "final_url": "https://drive.google.com/drive/folders/1A4CBWGp648-MStxDHqoHta2mXaMTa7vY",
+      "status": 200,
+      "bytes": 510491,
+      "sha256": "2f0fb1f5be8a148ac13906978585f857f38b51e944b89026e5f6c37a3e945355"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu",
+      "final_url": "https://drive.usercontent.google.com/download?id=1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu&export=download",
+      "name": "BRISTLE RACE Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 403166,
+      "sha256": "b10536206798162c1ac047f698544a020ce573d4e05825ac42006a5f6b46fc8e",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY",
+      "final_url": "https://drive.usercontent.google.com/download?id=1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY&export=download",
+      "name": "BUMPERBOT EVOLUTION Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 317003,
+      "sha256": "ab8c3e5724928645696b3c01c4da9e91a4844becabf8e3397d31472d82ed1783",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1bSv88FAoh5xHH539hr9IiGAYu4_awKXY",
+      "final_url": "https://drive.usercontent.google.com/download?id=1bSv88FAoh5xHH539hr9IiGAYu4_awKXY&export=download",
+      "name": "CROSSBOT Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 285478,
+      "sha256": "d8e5f6d6d1866166b4dcdcf3114e9971f597ba492e3a3f7487dd1d1dc791ee5e",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1rianC2YLngELwIx_npHOLOV46dwE_X2t",
+      "final_url": "https://drive.usercontent.google.com/download?id=1rianC2YLngELwIx_npHOLOV46dwE_X2t&export=download",
+      "name": "DISK DERBY Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 387794,
+      "sha256": "4e2a5fc69e785cd1b522c1fafcd762336bb54db39e0a6d05c2b0ed5966defe93",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl",
+      "final_url": "https://drive.usercontent.google.com/download?id=1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl&export=download",
+      "name": "PATH ATTACK JUNIOR  Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 323951,
+      "sha256": "29051c5fd183b3786656c7ee5dd72c3d7df5dd2f0668afdfd9d0a5ffc7e40517",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7",
+      "final_url": "https://drive.usercontent.google.com/download?id=1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7&export=download",
+      "name": "PATH ATTACK PRO Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 366205,
+      "sha256": "6a616de380ce044238fb791fd475a0d222fe4973f9b3ea846f5dc6e8581363c2",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki",
+      "final_url": "https://drive.usercontent.google.com/download?id=1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki&export=download",
+      "name": "SKILL DRIVE Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 709002,
+      "sha256": "8eb0f9f6e13f80c36bfb676626430dc7c8233402a34383896f7193288ef9ac73",
+      "pdf": true
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo",
+      "final_url": "https://drive.usercontent.google.com/download?id=1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo&export=download",
+      "name": "STACK.IN Reglas ESP.docx.pdf",
+      "status": 200,
+      "bytes": 472590,
+      "sha256": "3019fde97e0660d4a273c435138a0a0d647a28a67ffe18fc10f3d5f614d8f855",
+      "pdf": true
+    }
+  ],
+  "scope": "Официальные публичные страницы, анкета предложения и регламенты; только чтение. Никакие ответы семьи, платежи и согласия не отправлялись.",
+  "worldwide_complete": false
+}

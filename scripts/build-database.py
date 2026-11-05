@@ -60,6 +60,8 @@ from camp_asia_v136 import extend_planning_v136
 extend_planning_v136(d)
 from opportunities_v140 import enrich_v140
 enrich_v140(d)
+from nearby_opportunities_v141 import enrich_v141
+enrich_v141(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -587,7 +589,7 @@ for e in d['events']:
                 end=(datetime.date.fromisoformat(session['date'])+datetime.timedelta(days=1)).strftime('%Y%m%d')
                 cal_event(row,e['id']+'-'+session['date'],'[Учебный день] '+e['title'],session['date'].replace('-',''),end)
         else:
-            prefix='[Открытие регистрации] ' if e.get('date_scope')=='registration_open' else '[Открытие подачи проектов] ' if e.get('date_scope')=='submission_open' else '[Виртуальная защита] ' if e.get('date_scope')=='judging' else '[Окно подачи результатов] ' if e.get('date_scope')=='submission_window' else '[Дни мероприятия] ' if e.get('date_scope')=='festival_window' else '[Окно смены · расписание уточнить] ' if e.get('date_scope')=='camp_window' else '[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else '[Дни выбора мастер-класса] ' if e.get('date_scope')=='workshop_window' else ('[Окно дневного лагеря · Пн–Пт] ' if e.get('attendance_weekdays') else '[Окно дневного лагеря · расписание уточнить] ') if e.get('date_scope')=='day_camp_window' else '[Смена лагеря] ' if e.get('date_scope')=='camp_session' else '[Идея] '
+            prefix='[Открытие регистрации] ' if e.get('date_scope')=='registration_open' else '[Открытие подачи проектов] ' if e.get('date_scope')=='submission_open' else '[Виртуальная защита] ' if e.get('date_scope')=='judging' else '[Окно прохождения конкурса] ' if e.get('date_scope')=='assessment_window' else '[Окно подачи результатов] ' if e.get('date_scope')=='submission_window' else '[Дни мероприятия] ' if e.get('date_scope')=='festival_window' else '[Окно смены · расписание уточнить] ' if e.get('date_scope')=='camp_window' else '[Начало · полный период уточнить] ' if e.get('date_scope')=='activity_start' else '[Дни выбора мастер-класса] ' if e.get('date_scope')=='workshop_window' else ('[Окно дневного лагеря · Пн–Пт] ' if e.get('attendance_weekdays') else '[Окно дневного лагеря · расписание уточнить] ') if e.get('date_scope')=='day_camp_window' else '[Смена лагеря] ' if e.get('date_scope')=='camp_session' else '[Идея] '
             end=(datetime.date.fromisoformat(e['end'])+datetime.timedelta(days=1)).strftime('%Y%m%d')
             cal_event(e,e['id'],prefix+e['title'],e['start'].replace('-',''),end)
     deadline=e.get('deadline','')

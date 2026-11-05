@@ -731,14 +731,36 @@
     ]
   },
   "nearby_participation_v118": {
-    "version": 140,
+    "version": 141,
     "checked": "2026-11-04",
     "status": "editorial_plan_with_unconfirmed_admission",
     "title": "Próximos comienzos · Costa Rica y México",
     "scope": "Oportunidades actuales de noviembre y rutas futuras; eventos de octubre archivados en esta selección. Cobertura mundial parcial.",
     "age_note": "2017 /2020: en el 2026 ¿Qué es esto? 8–9 /5–6, en el 2027 —9–10 /6–7. No se sabe el día de nacimiento y el grado.; fijados 9/6 No se puede retrasar a cada fecha..",
-    "conclusion": "Oscar: mTiny27–28 de noviembre; Matvey: Codey28–29, previa confirmación de inscripción. Starter puede evaluarse juntos, pero cumplir DOB no confirma plazas, preparación ni coste final.",
+    "conclusion": "Opción próxima en línea: Bebras México 9–30 de noviembre, tras confirmar curso y admisión desde CR. Después MakeX de noviembre por categoría infantil. Cursos locales FOD de diciembre/enero sirven de preparación; RoboJam Monterrey el 17 de abril es etapa abierta propia, sin promesa de título mundial.",
     "items": [
+      {
+        "id": "C1170",
+        "title": "Bebras México · Otoño 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
+        "step": "Comprobar curso, cumpleaños de Oscar y admisión familiar desde CR; después el progenitor elige la modalidad familiar. Preparar claves con antelación."
+      },
+      {
+        "id": "C1173",
+        "title": "RoboJam Monterrey · Path Attack Junior",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.",
+        "step": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje."
+      },
       {
         "id": "C608",
         "title": "MakeX · mTiny para el Oscar",
@@ -1029,6 +1051,28 @@
         "mode": "closed",
         "gate": "El plazo de cálculo 04.10 ya ha pasado; la certificación escolar y la autonomía en los pits son obligatorias.",
         "step": "Sólo la entrada previamente registrada, la confirmación posterior de la exclusión o la siguiente etapa. los viejos 15 cm/1 kg vs 20 cm/2 kgs Sumo siguen siendo conflicto."
+      },
+      {
+        "id": "C1170",
+        "title": "Bebras México · Otoño 2026",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
+        "step": "Comprobar curso, cumpleaños de Oscar y admisión familiar desde CR; después el progenitor elige la modalidad familiar. Preparar claves con antelación."
+      },
+      {
+        "id": "C1173",
+        "title": "RoboJam Monterrey · Path Attack Junior",
+        "children": [
+          "matvey",
+          "oscar"
+        ],
+        "mode": "check",
+        "gate": "Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.",
+        "step": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje."
       }
     ]
   },

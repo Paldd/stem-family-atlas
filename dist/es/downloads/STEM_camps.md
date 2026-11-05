@@ -39862,6 +39862,278 @@ Limitaciones: Matvey: Matvey, nacido en 2017, supera 8 años en todas estas sesi
 Fuente: https://www.worklab.com.sg/_files/ugd/4223d1_8b1592ea2e724f0d8f61cdfdc611bbab.pdf
 Se ha comprobado: 2026-11-04
 
+### CP1124-20261207-20261211 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2026-12-07–2026-12-11
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 6–8 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1124-20270111-20270115 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1124-20270125-20270129 · FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1125-20270118-20270122 · FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 6–8 años según opción del formulario
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1126-20270125-20270129 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 7–9 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1127-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1127-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1128-20270118-20270122 · FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1129-20270125-20270129 · FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 9*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1130-20270111-20270115 · FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 9*16 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1131-20270118-20270122 · FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 10*12 años según opción del formulario
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20261207-20261211 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2026-12-07 — 2026-12-11
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 8–9 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20270111-20270115 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-11 — 2027-01-15
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1132-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1133-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1134-20270118-20270122 · FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-18 国 2027-01-22
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
+### CP1135-20270125-20270129 · FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29
+
+Lugar: Costa Rica Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 12*16 años según opción del formulario
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.
+Clasificación del idioma: unconfirmed; apoyo: ES
+Precio: 2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.
+Fuente: https://survey.zohopublic.com/zs/SjzWbS
+Se ha comprobado: 2026-11-04
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 140,
+    "version": 141,
     "checked": "2026-11-04",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -2355,7 +2355,11 @@
         "group": "ai",
         "age_summary": "grupos escolares de edad / clase por reglas nacionales",
         "age_tags": [
-          "unknown"
+          "unknown",
+          "6",
+          "9",
+          "10-12",
+          "teen"
         ],
         "summary": "y las tareas individuales para el pensamiento computacional.",
         "categories": [
@@ -2371,11 +2375,38 @@
             "note": "No se puede llamar una medalla internacional el certificado Bebras.",
             "source": "https://www.bebras.org/countries",
             "checked": "2026-09-29"
+          },
+          {
+            "name": "Bebras México · Otoño 2026 · N1–N6",
+            "age": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
+            "team": "Individual: una sesión continua de 50 minutos; cuenta familiar administra accesos separados de los hijos.",
+            "hardware": "Dispositivo con internet por participante; ordenador, tableta o teléfono. Sin robot ni equipo de pago.",
+            "age_rule": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
+            "event_id": "C1170",
+            "entry": "Un progenitor puede administrar cuenta familiar / homeschool; escuela no obligatoria. CURP y email infantiles opcionales en modalidad familiar; registro independiente tiene otros requisitos. Claves pueden tardar hasta 72 horas; recomiendan registrarse antes del 9 de noviembre.",
+            "language": "Español indicado expresamente en la convocatoria.",
+            "note": "Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.",
+            "source": "https://bebras.mx/",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "Bebras Costa Rica 2026  Pensamiento computacional",
+            "age": "el reglamento principal: 3–6 las clases primaria; la página principal también indica Pre-Ecolier para el 2 de clase",
+            "team": "individuales, 45 minutos; a través de la escuela",
+            "hardware": "computadora / tableta / iPad, navegador y Internet",
+            "age_rule": "el reglamento principal: 3–6 las clases primaria; la página principal también indica Pre-Ecolier para el 2 de clase",
+            "event_id": "C064",
+            "entry": "el maestro registra la escuela Costa Rica; registro 28.09–16.10; tareas en la escuela en el tiempo de la escuela",
+            "language": "ES",
+            "note": "No se puede probar que los niños de 9 años son de 3o grado. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.",
+            "source": "https://cangurocr.org/bebras/agenda",
+            "checked": "2026-11-04"
           }
         ],
         "event_ids": [
           "C040",
-          "C064"
+          "C064",
+          "C1170"
         ],
         "legacy_ids": [
           "C040"
@@ -2391,7 +2422,8 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "No se puede llamar una medalla internacional el certificado Bebras."
+          "No se puede llamar una medalla internacional el certificado Bebras.",
+          "México 2026: gratis, modalidad familiar, 9–30 de noviembre. Costa Rica 2026: 4000 CRC, solo escuela, plazo de registro 16 de octubre. No trasladar reglas entre países."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "el balón nacional / certificado; no hay una final mundial única",
@@ -2400,6 +2432,21 @@
             "title": "fuente oficial C040",
             "url": "https://www.bebras.org/countries",
             "checked": "2026-09-29"
+          },
+          {
+            "title": "Bebras · ES",
+            "url": "https://bebras.mx/",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Bebras · ES",
+            "url": "https://bebras.mx/wp-content/uploads/2026/08/Bebras-Otono-2026-%C2%B7-Convocatoria-Detalle.pdf",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "Bebras · ES",
+            "url": "https://costarica.cuttle.org/index.php?action=content&id=31",
+            "checked": "2026-11-04"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -2859,34 +2906,150 @@
         "id": "robojam",
         "name": "RoboJam",
         "group": "regional",
-        "age_summary": "edad, clase y equipo  para cada challenge",
+        "age_summary": "Según PDF enlazados: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes categorías presenciales leídas sin límite de edad.",
         "age_tags": [
-          "unknown"
+          "6",
+          "9",
+          "10-12",
+          "teen"
         ],
         "summary": "pruebas presenciales y virtuales de la red internacional.",
         "categories": [
           {
             "name": "RoboJam  pruebas internacionales en presencia o en línea",
-            "age": "La edad, el grado y el tamaño del equipo dependen de la llamada; no se establece en la página de inicio",
-            "team": "Virtual y presencial; el formato de la prueba concreta se confirma",
+            "age": "Según PDF enlazados: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes categorías presenciales leídas sin límite de edad.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
             "hardware": "por las reglas de la categoría; el equipo no es universal",
             "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
             "event_id": "C685",
             "entry": "elegir el reto y una convocatoria específica; solicitar la edad, la composición, la técnica, la lengua y el permiso extranjero",
             "language": "ES candidato; lengua de juez para confirmar",
-            "note": "en la lista Bristle Race, PathAttack Junior/Pro, CrossBot, DiskDerby, StackIN, BumperBot, SkillDrive, RandoMap, Pixart. no consideran a Junior automáticamente adecuado para 6 años; no se han obtenido reglas exactas.",
+            "note": "Encontrada etapa mexicana presencial 17.04.2027 con 8 retos. Pixart y RandoMap no anunciados en esta lista presencial; red global distinta de final mundial fechada.",
             "source": "https://www.robojam.live/",
-            "checked": "2026-09-30"
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Bristle Race · 2027",
+            "age": "Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Bristlebot 10 × 10 cm, máximo 1 motor y 9 V; cerdas en lugar de ruedas/orugas; inicio remoto prohibido. Distancia 150 cm.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1172",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Path Attack Junior · 2027",
+            "age": "Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot autónomo 15 × 15 cm para 10 hexágonos. Sin sensores externos; encoders, gyroscope y accelerometer integrados permitidos. Sin programación ni inicio remoto durante intento oficial.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1173",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · CrossBot · 2027",
+            "age": "Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot autónomo 20 × 20 cm; mínimo 1 sensor para reconocer color; un programa para elegir zona según color.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1174",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1bSv88FAoh5xHH539hr9IiGAYu4_awKXY/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Skill Drive · 2027",
+            "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot teleoperado 20 × 20 cm, sin sensores de guía. Empujar objeto sin agarrarlo; guías máximo 3.5 cm. Ronda 120 segundos.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1175",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Stack.IN · 2027",
+            "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot teleoperado 30 × 30 cm, sin sensores de guía; se puede empujar o agarrar objeto. Ronda 120 segundos.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1176",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · BumperBot Evolution · 2027",
+            "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot autónomo 20 × 20 cm; un programa independiente de la salida. Retirar 10 obstáculos en 120 segundos.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1177",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Path Attack Pro · 2027",
+            "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot teleoperado 15 × 15 cm; sin sensores de guía; 5 hexágonos y 5 obstáculos. Pro no implica modo autónomo.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1178",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "name": "RoboJam MX Norestense · Disk Derby · 2027",
+            "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+            "team": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+            "hardware": "Robot teleoperado 20 × 20 cm; sin sensores de guía; agarrar discos y llevar a zona propia. Ronda 120 segundos.",
+            "age_rule": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "event_id": "C1179",
+            "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+            "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+            "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+            "source": "https://drive.google.com/file/d/1rianC2YLngELwIx_npHOLOV46dwE_X2t/view",
+            "checked": "2026-11-04"
           }
         ],
         "event_ids": [
-          "C685"
+          "C685",
+          "C1171",
+          "C1172",
+          "C1173",
+          "C1174",
+          "C1175",
+          "C1176",
+          "C1177",
+          "C1178",
+          "C1179"
         ],
         "legacy_ids": [
           "C685"
         ],
-        "route": "elegir el reto y una convocatoria específica; solicitar la edad, la composición, la técnica, la lengua y el permiso extranjero",
-        "hardware": "por las reglas de la categoría; el equipo no es universal",
+        "route": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+        "hardware": "Bristlebot, robot autónomo y teleoperado según categoría; dimensiones 10 × 10, 15 × 15, 20 × 20 o 30 × 30 cm.",
         "language": "ES candidato; lengua de juez para confirmar",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "pruebas presenciales y virtuales de la red internacional.",
@@ -2896,18 +3059,69 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "en la lista Bristle Race, PathAttack Junior/Pro, CrossBot, DiskDerby, StackIN, BumperBot, SkillDrive, RandoMap, Pixart. no consideran a Junior automáticamente adecuado para 6 años; no se han obtenido reglas exactas."
+          "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
-        "award": "premios de una etapa concreta por su protocolo; los premios históricos sumarios de la red no se prometieron a cada participante",
+        "award": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
         "sources": [
           {
             "title": "fuente oficial C685",
             "url": "https://www.robojam.live/",
             "checked": "2026-09-30"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://www.robojam.live/mexico",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://www.robojam.live/challenges",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1bSv88FAoh5xHH539hr9IiGAYu4_awKXY/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7/view",
+            "checked": "2026-11-04"
+          },
+          {
+            "title": "RoboJam · ES",
+            "url": "https://drive.google.com/file/d/1rianC2YLngELwIx_npHOLOV46dwE_X2t/view",
+            "checked": "2026-11-04"
           }
         ],
-        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
+        "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado.",
+        "checked": "2026-11-04"
       },
       {
         "id": "roboliga",

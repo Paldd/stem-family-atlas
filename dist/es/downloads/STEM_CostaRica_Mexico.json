@@ -528,7 +528,7 @@
       "deadline": "",
       "age": "11 de las disciplinas: mTiny 4–6; Codey 6–9; Inspire 6–12; Starter 6–13; los demás — por las tarjetas",
       "mat": "si por edad en varias disciplinas; el permiso confirmar",
-      "osc": "Sí por edad en mTiny, Soccer, Inspire/Starter; Codey depende de la fecha de nacimiento",
+      "osc": "Por edad posibles mTiny, Inspire/Starter; Codey depende del cumpleaños. Soccer sigue sin convocatoria nueva.",
       "format": "disciplinas individuales y de equipo; 11 rutas separadas en las tarjetas vinculadas",
       "entry": "CreativaKids: tarjeta de categoría → reglas → registro de equipo; confirmación de recepción extranjera",
       "gear": "mTiny / Codey Rocky / mBot 2 / MakeX por categoría; Soccer: robots proporcionados por el organizador",
@@ -1183,14 +1183,14 @@
       "entry": "el maestro registra la escuela Costa Rica; registro 28.09–16.10; tareas en la escuela en el tiempo de la escuela",
       "gear": "computadora / tableta / iPad, navegador y Internet",
       "language": "ES",
-      "cost": "no se publicó / comprobar la actual edición",
+      "cost": "4000 CRC por alumno, IVA incluido, según portal oficial Bebras Costa Rica.",
       "level": "C  el concurso nacional en la red internacional",
-      "reward": "el balón oficial y el reconocimiento nacional por las reglas; no el título mundial",
-      "priority": "P0  conjunto abierto",
-      "action": "padre + maestro: hasta las 16.10 confirmen el registro de la escuela y la clase Matvey; para la clase 2 obtener una explicación",
+      "reward": "Certificado digital a todos; mejor 10% nacional de categoría recibe mención y publicación oficial. Reconocimiento nacional, sin título mundial.",
+      "priority": "P2 — registro terminado; comprobar inscripción escolar previa",
+      "action": "Comprobar con escuela si los hijos quedaron registrados antes del 16 de octubre y categoría. Sin registro previo no se promete admisión tardía; evaluar reglas propias de Bebras México.",
       "source": "https://cangurocr.org/bebras/agenda",
-      "proof": "06.10 revisado su propio public API agenda/rules y las páginas que se muestran. registro 28.09–16.10, el concurso 09–13.11, publicando los resultados 18.11. página principal de-de la antigua 2.º Pre-Ecolier, Reglamento de la 3–6 primaria: No se permite la diferencia.",
-      "checked": "2026-10-06",
+      "proof": "Releídos JSON oficiales agenda/reglamento y portal cuttle: plazos, vía escolar, 4000 CRC con IVA y premios. Discrepancia sobre curso 2 sin resolver.",
+      "checked": "2026-11-04",
       "status": "Idea",
       "note": "No se puede probar que los niños de 9 años son de 3o grado. https://cangurocr.org/bebras/reglamento y https://cangurocr.org/bebras; La edad de pasaporte es más importante que la clase.",
       "iso": [
@@ -1218,8 +1218,13 @@
         {
           "label": "principal · 2.o grado",
           "url": "https://cangurocr.org/bebras/"
+        },
+        {
+          "label": "Portal oficial: precio y registro escolar",
+          "url": "https://costarica.cuttle.org/index.php?action=content&id=31"
         }
-      ]
+      ],
+      "registration_status": "Registro terminó el 16.10.2026. Sin solicitud familiar directa; excepción tardía no confirmada."
     },
     {
       "block": "Competiciones",
@@ -5995,6 +6000,633 @@
       ]
     },
     {
+      "id": "C1170",
+      "block": "Competiciones",
+      "title": "Bebras México · Otoño 2026 · N1–N6",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "En línea desde casa o escuela; confirmar participación desde Costa Rica",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "period": "",
+      "date_status": "Confirmado",
+      "age": "6–18 años, 1 de primaria — fin de bachillerato. N1: cursos 1–2; N2: 3–4; N3: 5–6. Categoría según curso escolar real.",
+      "mat": "Sí por edad; confirmar curso y participación desde Costa Rica.",
+      "osc": "Condicional: 6 cumplidos y mínimo curso 1; cumpleaños y curso desconocidos.",
+      "format": "Individual: una sesión continua de 50 minutos; cuenta familiar administra accesos separados de los hijos.",
+      "entry": "Un progenitor puede administrar cuenta familiar / homeschool; escuela no obligatoria. CURP y email infantiles opcionales en modalidad familiar; registro independiente tiene otros requisitos. Claves pueden tardar hasta 72 horas; recomiendan registrarse antes del 9 de noviembre.",
+      "gear": "Dispositivo con internet por participante; ordenador, tableta o teléfono. Sin robot ni equipo de pago.",
+      "language": "Español indicado expresamente en la convocatoria.",
+      "languages": [
+        "ES"
+      ],
+      "language_mode": "primary",
+      "cost": "Gratis: convocatoria indica 100% gratuita.",
+      "level": "C — edición nacional de Bebras internacional",
+      "reward": "Resultados y reconocimientos digitales; publicación hacia el 7 de diciembre aún sin confirmar. No es final mundial de robótica.",
+      "priority": "P0 — opción próxima gratuita en línea",
+      "action": "Comprobar curso, cumpleaños de Oscar y admisión familiar desde CR; después el progenitor elige la modalidad familiar. Preparar claves con antelación.",
+      "source": "https://bebras.mx/",
+      "proof": "Leídas convocatoria de 3 páginas, portada y modalidad familiar; verificadas fechas, gratuidad, ES y datos de cuenta.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Registro desde el 19 de octubre hasta el 30 de noviembre; 9 de noviembre es recomendación, no plazo obligatorio. Se permite realizar desde casa, pero residencia fuera de México sin regular por separado. No se creó cuenta familiar.",
+      "deadline_note": "Último día de registro 30.11.2026; hora y UTC no publicados. Hasta 72 horas para claves; evitar registro y prueba el último día.",
+      "themes": [
+        "coding"
+      ],
+      "scope": "national",
+      "participation": "individual",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "assessment_window",
+      "references": [
+        {
+          "label": "Convocatoria oficial 2026",
+          "url": "https://bebras.mx/wp-content/uploads/2026/08/Bebras-Otono-2026-%C2%B7-Convocatoria-Detalle.pdf"
+        },
+        {
+          "label": "Modalidad familiar",
+          "url": "https://bebras.mx/participa/"
+        }
+      ],
+      "language_certainty": "Español indicado expresamente en la convocatoria.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        }
+      ],
+      "id": "C1171",
+      "title": "RoboJam MX Norestense · ASFM · 2027",
+      "age": "Por reto: Bristle Race máximo 9; Path Attack Junior máximo 12; CrossBot máximo 15; restantes para cualquier edad.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot y pista según reto; Bristlebot, programa autónomo y teleoperado tienen requisitos distintos.",
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1kZnAbk3euwqJe8TvVFEnRGvJbJpslGKu/view"
+        }
+      ],
+      "id": "C1172",
+      "title": "RoboJam MX Norestense · Bristle Race · 2027",
+      "age": "Máximo 9 años según PDF; fecha de corte y mínimo sin indicar.",
+      "mat": "Condicional: máximo 9 años; al 17.04.2027 cumple solo si nació después del 17.04.2017, suponiendo corte el día del torneo. Confirmar regla de corte.",
+      "osc": "Cumple edad máxima: en abril 2027 tendrá 6–7; confirmar mínimo y admisión.",
+      "gear": "Bristlebot 10 × 10 cm, máximo 1 motor y 9 V; cerdas en lugar de ruedas/orugas; inicio remoto prohibido. Distancia 150 cm.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1fyX_eHjw7JjtGsxRiBj7Zc_hl5wmltpl/view"
+        }
+      ],
+      "id": "C1173",
+      "title": "RoboJam MX Norestense · Path Attack Junior · 2027",
+      "age": "Máximo 12 años según PDF; fecha de corte y mínimo sin indicar.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot autónomo 15 × 15 cm para 10 hexágonos. Sin sensores externos; encoders, gyroscope y accelerometer integrados permitidos. Sin programación ni inicio remoto durante intento oficial.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1bSv88FAoh5xHH539hr9IiGAYu4_awKXY/view"
+        }
+      ],
+      "id": "C1174",
+      "title": "RoboJam MX Norestense · CrossBot · 2027",
+      "age": "Máximo 15 años según PDF; fecha de corte y mínimo sin indicar.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot autónomo 20 × 20 cm; mínimo 1 sensor para reconocer color; un programa para elegir zona según color.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1s48BOFoZxwxQhjWFzUsQgYmqWCnrjwki/view"
+        }
+      ],
+      "id": "C1175",
+      "title": "RoboJam MX Norestense · Skill Drive · 2027",
+      "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot teleoperado 20 × 20 cm, sin sensores de guía. Empujar objeto sin agarrarlo; guías máximo 3.5 cm. Ronda 120 segundos.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1z_9FW_6gRtcHLJ7V4J1qkM6Qce96YTqo/view"
+        }
+      ],
+      "id": "C1176",
+      "title": "RoboJam MX Norestense · Stack.IN · 2027",
+      "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot teleoperado 30 × 30 cm, sin sensores de guía; se puede empujar o agarrar objeto. Ronda 120 segundos.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1_bsjNHppKRGpBd8IyGWnmNwP4Z85PFdY/view"
+        }
+      ],
+      "id": "C1177",
+      "title": "RoboJam MX Norestense · BumperBot Evolution · 2027",
+      "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot autónomo 20 × 20 cm; un programa independiente de la salida. Retirar 10 obstáculos en 120 segundos.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1wfKwvELYUCqNaKoIPOB4PsOf98gP8Ui7/view"
+        }
+      ],
+      "id": "C1178",
+      "title": "RoboJam MX Norestense · Path Attack Pro · 2027",
+      "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot teleoperado 15 × 15 cm; sin sensores de guía; 5 hexágonos y 5 obstáculos. Pro no implica modo autónomo.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
+      "block": "Competiciones",
+      "country": "México",
+      "region": "América del Norte",
+      "city": "ASFM · Av. Dr. Ignacio Morones Prieto 1500 · Santa Catarina, Nuevo León",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "deadline": "2027-02-26",
+      "period": "",
+      "date_status": "Confirmado",
+      "format": "Hasta 3 participantes + asesor adulto; el tamaño mínimo del equipo no se indica por separado.",
+      "entry": "Etapa presencial ASFM abierta a equipos de cualquier país; registro desde 02.11.2026. Cada reto requiere mínimo 5 equipos; máximo 5 inscripciones de un club por reto. Solicitud a esta etapa, sin clasificación mundial automática.",
+      "language": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "languages": [],
+      "support_languages": [
+        "ES",
+        "EN"
+      ],
+      "language_mode": "unconfirmed",
+      "cost": "Tarifas publicadas: hasta 11.12.2026 — 450 MXN / 25 USD / 80000 COP; hasta 15.01.2027 — 630 MXN / 35 USD / 112000 COP; hasta 26.02.2027 — 900 MXN / 50 USD / 160000 COP. Confirmar unidad de pago y varias disciplinas; robot, transporte y alojamiento aparte.",
+      "level": "B — Open internacional de una etapa concreta",
+      "reward": "Primeros 3 puestos: acreditaciones para un evento ROBOJAM según reglamento; los demás pueden solicitar certificado de participación. Próximo evento y premios adicionales sin identificar; certificado distinto de puesto premiado.",
+      "priority": "P1 — etapa mexicana abierta; admisión aparte",
+      "action": "Elegir reto y asesor adulto; confirmar corte de edad, equipo mínimo, plazas, unidad de pago y edición de reglas antes del viaje.",
+      "source": "https://www.robojam.live/mexico",
+      "proof": "Leídas web mexicana y 8 reglamentos españoles enlazados; verificados por separado fecha, entrada extranjera, edad, equipo y robot.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Leídos los PDF españoles enlazados, edición 25.06.2026. Se permiten cambios locales: antes del pago confirmar edición 2027 y corte de edad. La página indica 20:00, pero mezcla -6 GMT y PDT; no se asigna UTC. Autorización de datos e imagen indicada antes del 14 de marzo. Sin registro, consentimiento ni pago familiar.",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "international",
+      "participation": "team",
+      "admission_kind": "open_application",
+      "evidence_level": "rules",
+      "date_scope": "festival_window",
+      "deadline_note": "26.02.2027 20:00 según web; zona horaria contradictoria pendiente, sin UTC exacto.",
+      "references": [
+        {
+          "label": "Descripción de retos",
+          "url": "https://www.robojam.live/challenges"
+        },
+        {
+          "label": "Reglamento ES leído · 25.06.2026",
+          "url": "https://drive.google.com/file/d/1rianC2YLngELwIx_npHOLOV46dwE_X2t/view"
+        }
+      ],
+      "id": "C1179",
+      "title": "RoboJam MX Norestense · Disk Derby · 2027",
+      "age": "Cualquier edad según PDF; menores necesitan asesor adulto.",
+      "mat": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "osc": "Condicional: cumple edad máxima; confirmar mínimo, corte, autonomía y admisión local.",
+      "gear": "Robot teleoperado 20 × 20 cm; sin sensores de guía; agarrar discos y llevar a zona propia. Ronda 120 segundos.",
+      "related_ids": [
+        "C1171"
+      ],
+      "language_certainty": "Reglamentos ES leídos; web breve bilingüe. Idioma de jueces y asistencia EN sin confirmar por separado.",
+      "importance_reason": "Edición nacional o etapa abierta concreta de red internacional; sin puesto declarado en ranking mundial.",
+      "iso": [
+        "MEX"
+      ]
+    },
+    {
       "id": "CP041-20270329-20270402",
       "block": "Campamentos",
       "title": "Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02",
@@ -7991,6 +8623,1774 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "cenfotec-ai-teen",
       "camp_programme_id": "CP1080"
+    },
+    {
+      "id": "CP1124-20261207-20261211",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2026-12-07–2026-12-11",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 8–9 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-juguemos-robots-2026-27",
+      "camp_programme_id": "CP1124",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1124-20270111-20270115",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-11–2027-01-15",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años según opción del formulario",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-juguemos-robots-2026-27",
+      "camp_programme_id": "CP1124",
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1124-20270125-20270129",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Juguemos a crear Robots · Juguemos a crear Robots · 2027-01-25–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años según opción del formulario",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-juguemos-robots-2026-27",
+      "camp_programme_id": "CP1124",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Juguemos a crear Robots",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1125-20270118-20270122",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Mis Historias Animadas · Mis Historias Animadas · 2027-01-18–2027-01-22",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "6–8 años según opción del formulario",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 6–8. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "coding",
+        "arts"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-historias-animadas-2026-27",
+      "camp_programme_id": "CP1125",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Mis Historias Animadas",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Mis Historias Animadas",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Mis Historias Animadas",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-21",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Mis Historias Animadas",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Mis Historias Animadas",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1126-20270125-20270129",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9 · Creatividad y diseño con robótica · 7–9 · 2027-01-25–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–9 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 7–9. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-creatividad-7-9-2026-27",
+      "camp_programme_id": "CP1126",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 7–9",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 7–9",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 7–9",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 7–9",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 7–9",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1127-20261207-20261211",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2026-12-07–2026-12-11",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–12 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 8–9 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-robotica-nivel-1-2026-27",
+      "camp_programme_id": "CP1127",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1127-20270111-20270115",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación · Nivel 1 · Principios de construcción y programación · 2027-01-11–2027-01-15",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–12 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-robotica-nivel-1-2026-27",
+      "camp_programme_id": "CP1127",
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Principios de construcción y programación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1128-20270118-20270122",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes · Nivel 2 · Sistemas inteligentes: sensores y engranajes · 2027-01-18–2027-01-22",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–12 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-robotica-nivel-2-2026-27",
+      "camp_programme_id": "CP1128",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-21",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1129-20270125-20270129",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación · Nivel 3 · Grados de libertad, sincronización y publicación · 2027-01-25–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–12 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-robotica-nivel-3-2026-27",
+      "camp_programme_id": "CP1129",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1130-20270111-20270115",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos · Nivel 4 · Líneas de procesamiento y acciones de datos · 2027-01-11–2027-01-15",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "9–16 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 9–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-robotica-nivel-4-2026-27",
+      "camp_programme_id": "CP1130",
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1131-20270118-20270122",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12 · Creatividad y diseño con robótica · 10–12 · 2027-01-18–2027-01-22",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10–12 años según opción del formulario",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 10–12. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-creatividad-10-12-2026-27",
+      "camp_programme_id": "CP1131",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 10–12",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 10–12",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 10–12",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-21",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 10–12",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Creatividad y diseño con robótica · 10–12",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1132-20261207-20261211",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2026-12-07–2026-12-11",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2026/27 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 8–9 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 5–6 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
+      "camp_programme_id": "CP1132",
+      "sessions": [
+        {
+          "date": "2026-12-07",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1132-20270111-20270115",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-11–2027-01-15",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
+      "camp_programme_id": "CP1132",
+      "sessions": [
+        {
+          "date": "2027-01-11",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-12",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-13",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-14",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-15",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1132-20270118-20270122",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D · Nivel 1 · Edificaciones en 3D · 2027-01-18–2027-01-22",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-edificaciones-3d-nivel-1-2026-27",
+      "camp_programme_id": "CP1132",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-21",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1133-20270125-20270129",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D · Nivel 2 · Edificaciones en 3D · 2027-01-25–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-edificaciones-3d-nivel-2-2026-27",
+      "camp_programme_id": "CP1133",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "08:00",
+          "end_time": "12:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Edificaciones en 3D",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1134-20270118-20270122",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables · Nivel 1 · Makers, Microplacas programables · 2027-01-18–2027-01-22",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-microplacas-nivel-1-2026-27",
+      "camp_programme_id": "CP1134",
+      "sessions": [
+        {
+          "date": "2027-01-18",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-19",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-20",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-21",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-22",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 1 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
+    },
+    {
+      "id": "CP1135-20270125-20270129",
+      "block": "Campamentos",
+      "title": "FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables · Nivel 2 · Makers, Microplacas programables · 2027-01-25–2027-01-29",
+      "country": "Costa Rica",
+      "region": "América Central",
+      "city": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "period": "Diciembre 2026 — enero 2027; cursos concretos de 5 días según horario publicado.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "12–16 años según opción del formulario",
+      "mat": "No ahora; el futuro nivel de edad",
+      "osc": "No ahora; el futuro nivel de edad",
+      "format": "Curso diurno en sede central FOD; sin alojamiento nocturno.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Formulario publica nombre, edad, fechas y horario. Temario detallado, versión del equipo / dispositivo, tamaño de grupo y resultados docentes sin detallar. 5 días de 4 horas = 20 horas de estancia; pausas sin describir.",
+      "language": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "cost": "2027 · 60000 CRC por curso elegido, IVAI incluido. Alojamiento, transporte, comida y equipo para llevar no constan incluidos. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P4  edad futura",
+      "action": "Confirmar idioma docente, admisión con pasaporte / DIMEX, plaza, corte de edad y nivel.; Aclarar robot, dispositivo, materiales, comida e importe total; comprobar preparación para niveles superiores.; La familia revisa pago, cancelación y elección de consentimiento de imagen; formulario no completado ni enviado.",
+      "source": "https://survey.zohopublic.com/zs/SjzWbS",
+      "references": [
+        {
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "label": "Anuncio oficial de temporada"
+        },
+        {
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "label": "Programa público, fechas y condiciones de precio"
+        }
+      ],
+      "proof": "Leídas opciones públicas del formulario del operador: edad, fechas y horas exactas. Sin datos familiares ni envío.",
+      "checked": "2026-11-04",
+      "status": "Idea",
+      "note": "Matvey: Al inicio puede tener 9–10 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Oscar: Al inicio puede tener 6–7 años; curso 12–16. Cumpleaños exacto y corte desconocidos; idioma, nivel y admisión aparte. Suplementos: Alojamiento y transporte familiar aparte; comida, materiales y dispositivo sin detallar. Pago: 100% del precio antes del curso. Sin reembolso por inasistencia o abandono; sin cambio de fecha por participante. Apertura sujeta a mínimo de alumnos no especificado; cancelación del operador y su reembolso sin detallar.",
+      "iso": [
+        "CRI"
+      ],
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Solicitud pública y descripción en ES; idioma docente oral, apoyo EN y requisitos lingüísticos sin indicar por separado.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "fod-microplacas-nivel-2-2026-27",
+      "camp_programme_id": "CP1135",
+      "sessions": [
+        {
+          "date": "2027-01-25",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-26",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-27",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-28",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        },
+        {
+          "date": "2027-01-29",
+          "start_time": "13:00",
+          "end_time": "17:00",
+          "timezone": "America/Costa_Rica",
+          "topic": "Nivel 2 · Makers, Microplacas programables",
+          "time_note": "Hora local; pausas dentro del bloque sin describir"
+        }
+      ],
+      "support_languages": [
+        "ES"
+      ]
     },
     {
       "block": "Competiciones",

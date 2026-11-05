@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base:3859; competiciones:1168; eventos:208; campamentos/programas:2483. Perfiles de ligas y programas:144. Fichas de exposiciones grandes y sectoriales:121; son ediciones y sedes, no marcas únicas.
+Fichas en la base: 3886; competiciones: 1178; eventos: 208; campamentos / programas: 2500. Perfiles de ligas y programas: 144. Fichas de exposiciones grandes y especializadas: 121 — son ediciones y sedes, no número de marcas únicas.
 
 Existen registros específicos para 82 de los 249 países y territorios; países totalmente auditados: 0. Nuevas tarjetas: 21; nuevos perfiles: 3. Todas las tarjetas anteriores se han conservado.
 
@@ -14,7 +14,7 @@ Existen registros específicos para 82 de los 249 países y territorios; países
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-América del Norte 14 - 514 10 - 720 -
+| América del Norte | 14 | 524 | 10 | 737 |
 América del Sur 9 - 122 - 6 - 81 -
 Europa 21 - 172 - 44 - 1024 -
 África 10 61 5 27
@@ -23,7 +23,7 @@ Europa 21 - 172 - 44 - 1024 -
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 469 de 1168 tarjetas de competencia (40.2%), lo que representa una clara distorsión de la cobertura.
+VEX: 469 de 1178 fichas de competiciones (39.8%). Hay un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -116,14 +116,14 @@ VEX: 469 de 1168 tarjetas de competencia (40.2%), lo que representa una clara di
 - **WAICY**: 4 tarjetas, 0 con fechas exactas futuras. https://www.waicy.org/waicy-2026/
 - **Codeavour**: 1 tarjeta, 0 con fechas exactas futuras. https://codeavour.org/
 - **Coolest Projects**: 1 tarjeta, 0 con fechas exactas futuras. https://online.coolestprojects.org/help
-- **Bebras**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.bebras.org/countries
+- **Bebras**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.bebras.org/countries
 - **ACSL**: 1 tarjeta, 0 con fechas exactas futuras. https://www.acsl.org/get-started/divisions
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
 - **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
 - *ITR Brazil**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://internationaltournamentofrobots.org/BRAZIL/
 - **TecPro Challenge · LATAM / Virtual**: 10 tarjetas, 4 con fechas exactas futuras. https://tdrobotica.co/tecpro-challenge-2026-2027
 - **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
-- **RoboJam**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.robojam.live/
+- **RoboJam**: 10 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
 - *RoboLiga · Argentina**: 11 tarjetas, 11 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://roboliga.edu.ar/edicion-2026/default.asp
 - **STEMLab Sumo League**: 5 tarjetas, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://stemlab.co.za/sumo-robotics-league/
 - **FCTI · Costa Rica**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.mep.go.cr/sites/default/files/2026-04/ManualFCTI2026.pdf

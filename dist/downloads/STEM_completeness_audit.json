@@ -16,10 +16,10 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 3859,
-    "competition_cards": 1168,
+    "cards": 3886,
+    "competition_cards": 1178,
     "event_cards": 208,
-    "camp_cards": 2483,
+    "camp_cards": 2500,
     "league_profiles": 144,
     "major_exhibition_cards": 121,
     "vex_cards": 469,
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1285,
+      "total": 1312,
       "countries_with_records": 14,
-      "competitions": 514,
+      "competitions": 524,
       "events": 51,
       "major_exhibitions": 10,
-      "camps": 720,
+      "camps": 737,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -1085,11 +1085,12 @@
       "group": "ai",
       "event_ids": [
         "C040",
-        "C064"
+        "C064",
+        "C1170"
       ],
-      "cards": 2,
-      "future_dated": 1,
-      "linked_card_count": 2,
+      "cards": 3,
+      "future_dated": 2,
+      "linked_card_count": 3,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.bebras.org/countries",
       "new": false
@@ -1203,11 +1204,20 @@
       "name": "RoboJam",
       "group": "regional",
       "event_ids": [
-        "C685"
+        "C685",
+        "C1171",
+        "C1172",
+        "C1173",
+        "C1174",
+        "C1175",
+        "C1176",
+        "C1177",
+        "C1178",
+        "C1179"
       ],
-      "cards": 1,
-      "future_dated": 0,
-      "linked_card_count": 1,
+      "cards": 10,
+      "future_dated": 9,
+      "linked_card_count": 10,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.robojam.live/",
       "new": false
@@ -6516,8 +6526,8 @@
       }
     ],
     "counts": {
-      "records": 2483,
-      "holiday": 2369,
+      "records": 2500,
+      "holiday": 2386,
       "regular": 92,
       "self_paced_materials": 2,
       "boarding": 906,

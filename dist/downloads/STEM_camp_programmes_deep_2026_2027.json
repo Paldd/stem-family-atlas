@@ -30,11 +30,11 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1123,
+    "dossiers": 1135,
     "countries": 39,
     "swiss": 127,
     "by_status": {
-      "published_2026_27": 113,
+      "published_2026_27": 125,
       "published_2027": 299,
       "partial_2027": 114,
       "next_unannounced": 239,
@@ -43,7 +43,7 @@
       "partial_2026": 9,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1672
+    "source_urls": 1674
   },
   "countries": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "country": "Коста-Рика",
-      "count": 25
+      "count": 37
     },
     {
       "country": "Мексика",
@@ -134860,6 +134860,2152 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1124",
+      "slug": "fod-juguemos-robots-2026-27",
+      "provider": "FOD Líderes del Futuro · Juguemos a crear Robots",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 8–9 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "На начало возможны 5–6 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На начало возможны 9–10 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "На начало возможны 6–7 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Juguemos a crear Robots",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На начало возможны 9–10 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "На начало возможны 6–7 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Juguemos a crear Robots",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1124-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1124-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1124-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1125",
+      "slug": "fod-historias-animadas-2026-27",
+      "provider": "FOD Líderes del Futuro · Mis Historias Animadas",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "coding",
+        "arts"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Mis Historias Animadas",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "6–8 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "На начало возможны 9–10 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "На начало возможны 6–7 лет; курс 6–8. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Mis Historias Animadas",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1125-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1126",
+      "slug": "fod-creatividad-7-9-2026-27",
+      "provider": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 7–9",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–9 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Creatividad y diseño con robótica · 7–9",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "7–9 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 7–9. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "На начало возможны 6–7 лет; курс 7–9. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 7–9",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1126-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1127",
+      "slug": "fod-robotica-nivel-1-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 1 · Principios de construcción y programación",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 8–9 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 5–6 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 1 · Principios de construcción y programación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Principios de construcción y programación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1127-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1127-20270111-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1128",
+      "slug": "fod-robotica-nivel-2-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Sistemas inteligentes: sensores y engranajes",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1128-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1129",
+      "slug": "fod-robotica-nivel-3-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 3 · Grados de libertad, sincronización y publicación",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nivel 3 · Grados de libertad, sincronización y publicación",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 9–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 3 · Grados de libertad, sincronización y publicación",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1129-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1130",
+      "slug": "fod-robotica-nivel-4-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 4 · Líneas de procesamiento y acciones de datos",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "9–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 9–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 9–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 4 · Líneas de procesamiento y acciones de datos",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1130-20270111-20270115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1131",
+      "slug": "fod-creatividad-10-12-2026-27",
+      "provider": "FOD Líderes del Futuro · Creatividad y diseño con robótica · 10–12",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "robotics",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–12 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Creatividad y diseño con robótica · 10–12",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "10–12 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "conditional",
+                "detail": "На начало возможны 9–10 лет; курс 10–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 10–12. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 10–12",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 10–12",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 10–12",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 10–12",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Creatividad y diseño con robótica · 10–12",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1131-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1132",
+      "slug": "fod-edificaciones-3d-nivel-1-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 1 · Edificaciones en 3D",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Nivel 1 · Edificaciones en 3D",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 8–9 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 5–6 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-07",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-08",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-09",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-10",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2026-12-11",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Nivel 1 · Edificaciones en 3D",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 9–10 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nivel 1 · Edificaciones en 3D",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 9–10 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1132-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1132-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1132-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1133",
+      "slug": "fod-edificaciones-3d-nivel-2-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 2 · Edificaciones en 3D",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "technology",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nivel 2 · Edificaciones en 3D",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 9–10 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "08:00",
+                "end_time": "12:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Edificaciones en 3D",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1133-20270125-20270129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1134",
+      "slug": "fod-microplacas-nivel-1-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 1 · Makers, Microplacas programables",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Nivel 1 · Makers, Microplacas programables",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 9–10 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 1 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1134-20270118-20270122"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1135",
+      "slug": "fod-microplacas-nivel-2-2026-27",
+      "provider": "FOD Líderes del Futuro · Nivel 2 · Makers, Microplacas programables",
+      "country": "Коста-Рика",
+      "iso": "CRI",
+      "place": "Fundación Omar Dengo · San José · Avenidas 10 y 12, Calle 25-A, Barrio Francisco Peralta",
+      "themes": [
+        "coding",
+        "makers"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–16 лет; контрольную дату подтвердить, класс не заменяет возраст",
+      "language": "Публичная заявка и описание на ES; язык устного преподавания, поддержка EN и языковые требования отдельно не указаны.",
+      "confirmed_instruction_languages": [],
+      "programme": "В форме опубликованы название курса, возраст, даты и часы. Детальная программа, версия робототехники / устройства, размер группы и учебные результаты не раскрыты. 5 дней по 4 часа = 20 часов пребывания; перерывы отдельно не описаны.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Декабрь 2026 — январь 2027; конкретные 5-дневные курсы по опубликованному расписанию.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Nivel 2 · Makers, Microplacas programables",
+            "source": "https://survey.zohopublic.com/zs/SjzWbS",
+            "price": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+            "age": "12–16 лет по выбранному пункту формы",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "На начало возможны 9–10 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "На начало возможны 6–7 лет; курс 12–16. Точная дата рождения и правило отсечения неизвестны; язык, уровень и зачисление отдельно."
+              }
+            },
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "13:00",
+                "end_time": "17:00",
+                "timezone": "America/Costa_Rica",
+                "topic": "Nivel 2 · Makers, Microplacas programables",
+                "time_note": "Местное время; перерывы внутри блока не описаны"
+              }
+            ],
+            "proof": "Публично прочитаны варианты курса в форме оператора: диапазон возраста, точные даты и часы. Поля семьи не вводили, отправку не выполняли."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "season": "2026/27",
+        "currency": "CRC",
+        "amount": 60000,
+        "tax_included": true,
+        "unit": "course",
+        "label": "60000 CRC за выбранный курс, IVAI включён. Проживание, дорога, питание и выдача техники домой не заявлены включёнными.",
+        "included": "Объявленная цена курса с налогом; состав комплекта и предоставление устройства уточнить.",
+        "extras": "Жильё и транспорт семьи отдельно; еда, расходники и устройство не детализированы.",
+        "deposit": "100% стоимости до курса. Нет возврата за неявку или прекращение участия; перенос даты участником не разрешён. Открытие зависит от минимального набора, число не указано; отмена оператором и её возврат отдельно не описаны."
+      },
+      "accommodation": "Дневной курс в центральном офисе FOD; ночное проживание не предлагается.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Посменный допуск указан в расписании: возраст декабря и января может различаться. Язык, уровень и зачисление подтвердить."
+        }
+      },
+      "editorial_reason": "Близкий вариант с точным расписанием и ценой; это учебный курс, а не международная награда или доказанный мировой рейтинг лагерей.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить язык преподавания, вход с паспортом / DIMEX, свободное место, точную возрастную отсечку и уровень.",
+        "Уточнить робот, устройство, материалы, питание и полную сумму; для старших уровней проверить предварительную подготовку.",
+        "Родителям самостоятельно проверить условия оплаты, отмены и выбор согласия на изображение; эту форму не заполняли и не отправляли."
+      ],
+      "sources": [
+        {
+          "title": "Официальное объявление сезона",
+          "url": "https://fod.ac.cr/noticias/mas-alla-de-las-pantallas-por-que-es-importante-que-ninas-ninos-y-adolescentes-aprendan-a-crear-con-tecnologia/",
+          "checked": "2026-11-04"
+        },
+        {
+          "title": "Публичная программа, даты и условия стоимости",
+          "url": "https://survey.zohopublic.com/zs/SjzWbS",
+          "checked": "2026-11-04"
+        }
+      ],
+      "checked": "2026-11-04",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1135-20270125-20270129"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -140104,7 +142250,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 140,
+  "version": 141,
   "family_review": {
     "version": 136,
     "asof": "2026-10-06",
@@ -151595,6 +153741,91 @@
       "programme_id": "CP1123",
       "event_id": "CP1123-20270104-20270107",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1124",
+      "event_id": "CP1124-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1124",
+      "event_id": "CP1124-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1124",
+      "event_id": "CP1124-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1125",
+      "event_id": "CP1125-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1126",
+      "event_id": "CP1126-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1127",
+      "event_id": "CP1127-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1127",
+      "event_id": "CP1127-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1128",
+      "event_id": "CP1128-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1129",
+      "event_id": "CP1129-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1130",
+      "event_id": "CP1130-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1131",
+      "event_id": "CP1131-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1132",
+      "event_id": "CP1132-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1132",
+      "event_id": "CP1132-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1132",
+      "event_id": "CP1132-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1133",
+      "event_id": "CP1133-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1134",
+      "event_id": "CP1134-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1135",
+      "event_id": "CP1135-20270125-20270129",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -153617,10 +155848,27 @@
     "CP1123-20261214-20261217",
     "CP1123-20261221-20261224",
     "CP1123-20261228-20261231",
-    "CP1123-20270104-20270107"
+    "CP1123-20270104-20270107",
+    "CP1124-20261207-20261211",
+    "CP1124-20270111-20270115",
+    "CP1124-20270125-20270129",
+    "CP1125-20270118-20270122",
+    "CP1126-20270125-20270129",
+    "CP1127-20261207-20261211",
+    "CP1127-20270111-20270115",
+    "CP1128-20270118-20270122",
+    "CP1129-20270125-20270129",
+    "CP1130-20270111-20270115",
+    "CP1131-20270118-20270122",
+    "CP1132-20261207-20261211",
+    "CP1132-20270111-20270115",
+    "CP1132-20270118-20270122",
+    "CP1133-20270125-20270129",
+    "CP1134-20270118-20270122",
+    "CP1135-20270125-20270129"
   ],
   "integration": {
-    "generated_sessions": 2020,
+    "generated_sessions": 2037,
     "reused_legacy_events": 69,
     "seasonal_windows": 55,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
