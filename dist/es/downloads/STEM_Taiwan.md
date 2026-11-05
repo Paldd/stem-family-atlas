@@ -509,18 +509,18 @@ restricciones: Oscar puede llegar. ESM en el caso de Kindergarten o SPM en el ca
 Fuente: https://www.typa.org.tw/course/activities/technology/
 Comprobado: 2026-10-01
 
-### # C870 · Robotek Grand Tournament 2027 · Taipei
+### C870 · Ruta RGT → MARC Taiwan · final vigente C1189
 
-Fecha: 2027-05-29 - 2027-05-30
+Fecha: Fechas antiguas 29–30.05.2027 sustituidas; MARC Final vigente 20–23.05.2027 en C1189.
 Edad: Cinco categorías de 2027: Rising Pioneers, League of Mecha-Clash, Task Master, Robotech, Robot-proveedor.
 Mateway: Condicionalmente, se necesita un reglamento y una autorización extranjera.
 Óscar: Condicionalmente, se necesita un reglamento y una autorización extranjera.
 Idioma: Información en ruso disponible; idioma de la judicatura/educación no confirmado.
-Entrada: 2027: No se han planificado las selecciones regionales, la primera fase ha sido declarada abierta internacionalmente.
+Acceso: Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
 Costo: Tarifas, equipo, viajes y alojamiento no confirmados.
-Limitaciones: La página reciente de la página 01.10.2026 sustituye al calendario de clases 2026. Taipei: sello/sector local y derecho a participar en la segunda etapa.
-Fuente: https://rgt.robotek.kz/
-Comprobado: 2026-10-01
+Limitaciones: Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
+Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
+Se ha comprobado: 2026-11-05
 
 ### L459 · STEAM SQUAD · ESM Early Simple Machines · curso ordinario
 
@@ -642,15 +642,15 @@ Se ha comprobado: 2026-11-05
 ### C1189 · MARC 2027 · International Final · Taipei
 
 Fecha: 2027-05-20 — 2027-05-23
-edad: Edades, cursos y categorías de final 2027 aún sin anunciar.
+edad: Publicadas reglas generales MARC 2027: LOM Elementary 2016–2021; TM / Rising Pioneers Elementary 2015–2019. Categorías finales y cupos del Taipei Final requieren event handbook.
 Matvey: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
 Oscar: Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.
 Idioma: Leído anuncio EN; idioma de jueces y apoyo familiar aún sin acreditar.
 Acceso: Operador invita equipos de todo el mundo; solicitud directa, clasificación y wildcard 2027 aún sin publicar. No trasladar automáticamente vía de 2026.
 Precio: Cuota, equipo, viaje y alojamiento 2027 sin acreditar.
-Limitaciones: NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida.
+Limitaciones: NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida. Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.
 Fuente: https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan
-Se ha comprobado: 2026-11-04
+Se ha comprobado: 2026-11-05
 
 ### C1291 · Taiwan Bebras 115-1 · Grades 5–6
 
@@ -663,6 +663,19 @@ Acceso: Docente con cuenta verificada registra clase escolar. Solicitudes 21 de 
 Precio: Sin importe establecido por páginas vigentes; sin asumir gratuidad.
 Limitaciones: Curso 115 = 2026/27. 2–6 de noviembre es practice, no resultado oficial; ambos semestres usan mismas tareas. Idioma de interfaz no prueba EN / ES.
 Fuente: https://bebras.csie.ntnu.edu.tw/
+Se ha comprobado: 2026-11-05
+
+### C1442 · MARC Rising Pioneers 2027 · proyectos online
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Elementary 2015–2019
+Matvey: Sí por nacimiento 2017; proyecto individual permitido.
+Oscar: No — 2020 fuera de grupo oficial 2015–2019.
+Idioma: Reglas inglesas y comentarios ingleses de lógica clave obligatorios en Competitive Track; verificar idioma de defensa presencial y apoyo local.
+Acceso: Competitive Track y Showcase Track son distintos; Creator Badge por envío válido no es victoria. URL de entrega, fechas trimestrales concretas y plaza requieren anuncio actual. General Rules limita dos proyectos por temporada, Entry Guidelines dos por trimestre: conflicto no se convierte en promesa de límite mayor.
+Precio: Tarifa de participación, robot kit, mentor, viaje y alojamiento sin confirmar por separado; importe desconocido no es cero.
+Limitaciones: Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
+Fuente: https://drive.google.com/file/d/16hLampOpxPmeO-bzCKjPGn8gcfiA6wHh/view
 Se ha comprobado: 2026-11-05
 
 ### CP025-20270705-20270710 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-05–2027-07-10

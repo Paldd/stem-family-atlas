@@ -1,49 +1,56 @@
 {
-  "version": 26,
-  "checked": "2026-10-01",
+  "version": 165,
+  "checked": "2026-11-05",
   "title": "Kazakstán · ruso se tiene en cuenta, la admisión se verifica por el programa",
-  "conclusion": "Para el Oscar  Explore y su propio papel menor; para Matvey  WRO Elementary / nuevo reglamento Maze. RGT vincula a Astana y Taipei en 2027, pero las categorías de edad aún se esperan.",
+  "conclusion": "Para ambos juntos: RGT LOM por nacimiento 2016–2021 y equipo 2–3. FIRST Explore 6–10 / 2–4 también compatible por edad y número, pero confirmar región y cupo. Robotek y Rising Pioneers compatibles con nacimiento de Matvey; Task Master exige segundo compañero elegible. Sin acreditar base escolar familiar permanente en Kazajistán.",
   "announced": [
     {
       "id": "C869",
-      "date": "3 4 de marzo de 2027",
-      "city": "de la ciudad de"
+      "date": "03–04.03.2027",
+      "city": "Astana",
+      "label": "RGT · LOM 2016–2021"
     },
     {
-      "id": "C870",
-      "date": "29–30 mayo 2027",
-      "city": "Taibeí"
+      "id": "C1189",
+      "date": "20–23.05.2027",
+      "city": "Taipéi",
+      "label": "MARC · licencia según reglas"
     }
   ],
   "children": [
     {
       "id": "mat",
       "name": "Matvey · 2017",
-      "detail": "WRO Elementary 8–12 confirmado por las reglas 2026; buscar compañeros y entrenadores. RoboLand Maze 9–12 — el local 2026 el indicador. Challenge en la página publicada de Kazajstán comienza con 10, Por eso la nueva fecha de corte de edad es importante.. RGT 2027 — esperar las reglas de edad.",
+      "detail": "Matvey 2017: LOM con Oscar o Robotek / Rising Pioneers separados; Task Master exige segundo niño elegible. No se puede competir simultáneamente en varias categorías RGT. FIRST Explore compatible por edad; Challenge local desde 10 requiere comprobar cumpleaños y acceso 2027, edad insuficiente en 2026.",
       "event_ids": [
-        "C872",
-        "C877",
+        "C869",
+        "C874",
+        "C1321",
+        "C1322",
+        "C1323",
         "C875",
-        "C869"
+        "C872",
+        "C877"
       ]
     },
     {
       "id": "osc",
       "name": "Oscar · 2020",
-      "detail": "Explore 6–10 — el camino más joven publicado. WRO Elementary 8+ Está cerrado.. RoboBalapan 2026 era preescolar. 4–6/6: en el 2027 Oscar cumplirá 7, por lo que no se sabe qué es la nueva entrada.. en el RGT 2027 la categoría menor aún no está confirmada.",
+      "detail": "Oscar 2020: LOM Elementary 2016–2021 con Matvey y FIRST Explore 6–10. Aún no elegible para Task Master / Rising Pioneers 2015–2019. Discover 4–6 exige mantener edad hasta 01.05.2027; día exacto desconocido. WRO Elementary 8+ sigue como vía futura.",
       "event_ids": [
+        "C869",
         "C874",
-        "C883",
-        "C869"
+        "C883"
       ]
     }
   ],
   "gates": [
-    "equipo extranjero: el inicio internacional invitado y la representación de Kazajstán / cuota se comprueban por separado.",
-    "lengua: RU-site / rusas reglas no son iguales a RU-entrenamiento o arbitraje. comprobar el curso técnico, entrevistas, ayuda del entrenador y la protección global de EN.",
-    "La próxima temporada: WRO, FIRST, RoboLand, KazRoboSport / Project y TechCup no han obtenido fechas imaginarias de 2027.",
-    "Campos / escuelas: Robotek  candidato regular; campamento en RU, pensión y espacio libre para 6/9 aún no confirmados.",
-    "Prueba de resultado: el reconocimiento de Explore, el espectáculo preescolar, el lugar regional, la selección nacional y la victoria internacional se registran por separado."
+    "Reglamento local exige cumplir edad durante temporada principal y hasta 01.05.2027 inclusive; off-season se verifica en fecha de su evento. No es regla solo por año de nacimiento.",
+    "Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+    "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático.",
+    "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
+    "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT.",
+    "Existen materiales oficiales en ruso / inglés; confirmar idioma de arbitraje, entrevista y apoyo al equipo elegido. Idioma del documento no equivale al de todas las clases."
   ],
   "event_ids": [
     "C869",
@@ -64,7 +71,111 @@
     "C884",
     "E133",
     "E134",
-    "L205"
+    "L205",
+    "C1329",
+    "C1330",
+    "C1331",
+    "C1332",
+    "C1333",
+    "C1334",
+    "C1335",
+    "C1336",
+    "C1337",
+    "C1338",
+    "C1339",
+    "C1340",
+    "C1341",
+    "C1342",
+    "C1343",
+    "C1344",
+    "C1345",
+    "C1346",
+    "C1347",
+    "C1348",
+    "C1349",
+    "C1350",
+    "C1351",
+    "C1352",
+    "C1353",
+    "C1354",
+    "C1355",
+    "C1356",
+    "C1357",
+    "C1358",
+    "C1359",
+    "C1360",
+    "C1361",
+    "C1362",
+    "C1363",
+    "C1364",
+    "C1365",
+    "C1366",
+    "C1371",
+    "C1372",
+    "C1373",
+    "C1374",
+    "C1375",
+    "C1376",
+    "C1377",
+    "C1378",
+    "C1379",
+    "C1380",
+    "C1381",
+    "C1382",
+    "C1383",
+    "C1384",
+    "C1385",
+    "C1386",
+    "C1387",
+    "C1388",
+    "C1389",
+    "C1390",
+    "C1391",
+    "C1392",
+    "C1393",
+    "C1394",
+    "C1395",
+    "C1396",
+    "C1397",
+    "C1398",
+    "C1399",
+    "C1404",
+    "C1405",
+    "C1406",
+    "C1407",
+    "C1408",
+    "C1409",
+    "C1410",
+    "C1411",
+    "C1412",
+    "C1413",
+    "C1414",
+    "C1415",
+    "C1416",
+    "C1417",
+    "C1418",
+    "C1419",
+    "C1420",
+    "C1421",
+    "C1428",
+    "C1429",
+    "C1430",
+    "C1431",
+    "C1432",
+    "C1433",
+    "C1434",
+    "C1435",
+    "C1436",
+    "C1437",
+    "C1321",
+    "C1322",
+    "C1323",
+    "C1324",
+    "C1325",
+    "C1326",
+    "C1327",
+    "C1328",
+    "C1189"
   ],
   "sources": [
     {
@@ -96,7 +207,17 @@
       "url": "https://www.gov.kz/memleket/entities/almaty/press/news/details/1250916?lang=ru",
       "title": "fuente primaria · techcup",
       "checked": "2026-10-01"
+    },
+    {
+      "title": "Current FIRST season",
+      "url": "https://firstrobotics.kz/",
+      "checked": "2026-11-05"
+    },
+    {
+      "title": "Current RGT regulation",
+      "url": "https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view",
+      "checked": "2026-11-05"
     }
   ],
-  "limitations": "la auditoría parcial primaria, no completa lista de todas las empresas de la provincia y de la escuela de Kazajstán. las nuevas fechas futuras se confirmaron sólo en dos etapas de la RGT."
+  "limitations": "Extraídas completas solo pestañas elegidas del calendario oficial. Scrimmages, eventos escolares y regionales, campamentos y escuelas sin declarar auditoría completa. Sin registrar nada."
 }

@@ -2339,24 +2339,24 @@
     {
       "id": "C870",
       "block": "Competiciones",
-      "title": "Robotek Grand Tournament 2027 · taibe",
+      "title": "Ruta RGT → MARC Taiwan · final vigente C1189",
       "country": "Taiwán",
       "region": "Asia",
-      "city": "Taibeí",
-      "source": "https://rgt.robotek.kz/",
-      "checked": "2026-10-01",
-      "start": "2027-05-29",
-      "end": "2027-05-30",
+      "city": "Taipéi",
+      "source": "https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan",
+      "checked": "2026-11-05",
+      "start": "",
+      "end": "",
       "deadline": "",
-      "period": "",
-      "date_status": "Confirmado",
+      "period": "Fechas antiguas 29–30.05.2027 sustituidas; MARC Final vigente 20–23.05.2027 en C1189.",
+      "date_status": "No se ha anunciado",
       "age": "Las categorías 2027: Rising Pioneers, League of Mecha-Clash, Task Master, robot, robot proveedor.",
       "mat": "requisito de un reglamento y un permiso extranjero",
       "osc": "requirió un reglamento menor y un permiso extranjero",
       "format": "concurso de equipo; especificar las condiciones de la disciplina específica",
       "participation": "team",
       "admission_kind": "open_application",
-      "entry": "2027: las selecciones regionales no se planean, la primera etapa se declara abierta a los requisitos internacionales de presentación a través del comité organizador, los documentos, la relación de los dos etapas y el lugar del equipo para aclarar.",
+      "entry": "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
       "gear": "Matrix Robotics para tres categorías; dos autorías Robotek. La compatibilidad de la existente LEGO no se ha establecido.",
       "cost": "No se confirmó el precio, el equipo, el viaje y la estancia.",
       "language": "la información en ruso está disponible; el idioma de la juzgadía / enseñanza no está confirmado.",
@@ -2368,7 +2368,7 @@
       "level": "etapa internacional de la RGT; camino separado, no WRO / FIRST Worlds",
       "importance_reason": "la evaluación editorial familiar; la participación de equipos extranjeros no hace que el torneo sea una final mundial.",
       "reward": "RGT por el protocolo; título mundial / cuota WRO o FIRST no se promete.",
-      "priority": "P2  después del reglamento y del permiso extranjero",
+      "priority": "P4 — categoría superior / registro vinculado",
       "status": "Idea",
       "action": "comprobar la nueva temporada, la categoría y el documento de admisión antes de viajar; la familia no está registrada.",
       "themes": [
@@ -2379,16 +2379,19 @@
       "evidence_level": "page",
       "references": [],
       "related_ids": [
-        "C869"
+        "C869",
+        "C1189"
       ],
       "registration_status": "No se ha confirmado el puesto de la familia y la aceptación del equipo.",
-      "note": "la página nueva 01.10.2026 reemplaza el calendario caché de 2026. taibeï: el sitio / socio local y el derecho de participación en la segunda etapa no se indican. primero el reglamento, luego la elección de la categoría de edad.",
-      "proof": "Nuevo organizador HTML: Marzo 3–4 Astana y mayo 29–30 Taipei 2027; No se planean clasificaciones regionales; cinco categorías, Reglas de edad que se publicarán. En caché 2026 la búsqueda se sustituye.",
+      "note": "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
+      "proof": "Página RGT actual y anuncio propio MARC coinciden en 20–23 de mayo. ID C870 conservado como ruta vinculada sin segundo evento de calendario.",
       "provider": "escuela de robótica / RGT",
       "date_scope": "event",
       "iso": [
         "TWN"
-      ]
+      ],
+      "canonical_event_id": "C1189",
+      "superseded_by": "C1189"
     },
     {
       "id": "L459",
@@ -2907,7 +2910,7 @@
       "period": "20–23 de mayo de 2027 · final; días por categoría aún pendientes",
       "date_status": "Confirmado",
       "deadline": "",
-      "age": "Edades, cursos y categorías de final 2027 aún sin anunciar.",
+      "age": "Publicadas reglas generales MARC 2027: LOM Elementary 2016–2021; TM / Rising Pioneers Elementary 2015–2019. Categorías finales y cupos del Taipei Final requieren event handbook.",
       "mat": "Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.",
       "osc": "Condicional: confirmar curso escolar, edad en fecha, nivel, idioma y admisión familiar.",
       "format": "Composición de equipo y categorías de final aún TBA.",
@@ -2921,9 +2924,9 @@
       "action": "Seguir registro, categorías, edades y sede; no reservar viaje familiar mediante fotos de sede 2026.",
       "source": "https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan",
       "proof": "Leído anuncio propio MARC: Taipéi, 20–23.05.2027 y nueva categoría de drones; reglas detalladas aún prometidas.",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "status": "Idea",
-      "note": "NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida.",
+      "note": "NTSEC aparece como recuerdo de 2026, sin confirmar sede 2027. Invitación internacional no garantiza plaza ni edad admitida. Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
       "iso": [
         "TWN"
       ],
@@ -2941,6 +2944,18 @@
         {
           "label": "MARC · International Final 2027",
           "url": "https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan"
+        },
+        {
+          "label": "MARC LOM 2027",
+          "url": "https://drive.google.com/file/d/1D-yhgab1kvzpFs0MTa2pSqrN-BLjKCee/view"
+        },
+        {
+          "label": "MARC Rising Pioneers 2027",
+          "url": "https://drive.google.com/file/d/16hLampOpxPmeO-bzCKjPGn8gcfiA6wHh/view"
+        },
+        {
+          "label": "MARC Task Master 2027",
+          "url": "https://drive.google.com/file/d/124BV9Ayo34ZDyhlywWc6-j8Caj-EJhyg/view"
         }
       ],
       "date_scope": "festival_window",
@@ -3006,6 +3021,59 @@
       "date_scope": "assessment_window",
       "grade_min": 5,
       "grade_max": 6
+    },
+    {
+      "id": "C1442",
+      "block": "Competiciones",
+      "title": "MARC Rising Pioneers 2027 · proyectos online",
+      "country": "Taiwán",
+      "region": "Asia",
+      "city": "Online / MARC",
+      "start": "",
+      "end": "",
+      "period": "",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "Elementary 2015–2019",
+      "mat": "Sí por nacimiento 2017; proyecto individual permitido.",
+      "osc": "No — 2020 fuera de grupo oficial 2015–2019.",
+      "format": "1–3 participantes, individual o equipo; un mentor.",
+      "entry": "Competitive Track y Showcase Track son distintos; Creator Badge por envío válido no es victoria. URL de entrega, fechas trimestrales concretas y plaza requieren anuncio actual. General Rules limita dos proyectos por temporada, Entry Guidelines dos por trimestre: conflicto no se convierte en promesa de límite mayor.",
+      "gear": "Globalmente Designated Division con MATRIX, Maker Division sin marca obligatoria. Maker en Astana sin acreditar.",
+      "language": "Reglas inglesas y comentarios ingleses de lógica clave obligatorios en Competitive Track; verificar idioma de defensa presencial y apoyo local.",
+      "cost": "Tarifa de participación, robot kit, mentor, viaje y alojamiento sin confirmar por separado; importe desconocido no es cero.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — condiciones regionales / referencia futura",
+      "action": "Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "source": "https://drive.google.com/file/d/16hLampOpxPmeO-bzCKjPGn8gcfiA6wHh/view",
+      "proof": "Fuente oficial leída en esta revisión; límites conservados expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
+      "iso": [
+        "TWN"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "international",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Existen materiales oficiales en ruso / inglés; confirmar idioma de arbitraje, entrevista y apoyo al equipo elegido. Idioma del documento no equivale al de todas las clases.",
+      "participation": "individual_or_team",
+      "admission_kind": "unknown",
+      "evidence_level": "program",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Online submission and entry 2027",
+          "url": "https://drive.google.com/file/d/1cwAf_q4wMxlPcSoK05KyzztvheN-yK-D/view"
+        }
+      ],
+      "support_languages": [],
+      "team_min": 1,
+      "team_max": 3
     },
     {
       "id": "CP025-20270705-20270710",

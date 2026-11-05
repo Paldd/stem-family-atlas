@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 160,
+    "version": 165,
     "checked": "2026-11-05",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -5488,7 +5488,7 @@
         "id": "marc",
         "name": "MARC Taiwan",
         "group": "regional",
-        "age_summary": "LOM: nacimiento 2016–2021; TM: 2015–2019; 2–3",
+        "age_summary": "LOM Elementary: 2016–2021, 2–3; Task Master: 2015–2019, 2–3; Rising Pioneers: 2015–2019, 1–3.",
         "age_tags": [
           "6",
           "9",
@@ -5515,8 +5515,16 @@
             "event_id": "C779"
           },
           {
+            "name": "MARC Rising Pioneers 2027 · proyectos online",
+            "age": "Elementary 2015–2019",
+            "team": "1–3 participantes, individual o equipo; un mentor.",
+            "hardware": "Globalmente Designated Division con MATRIX, Maker Division sin marca obligatoria. Maker en Astana sin acreditar.",
+            "entry": "Competitive Track y Showcase Track son distintos; Creator Badge por envío válido no es victoria. URL de entrega, fechas trimestrales concretas y plaza requieren anuncio actual. General Rules limita dos proyectos por temporada, Entry Guidelines dos por trimestre: conflicto no se convierte en promesa de límite mayor.",
+            "event_id": "C1442"
+          },
+          {
             "name": "MARC 2027 · International Final · Taipei",
-            "age": "Edades, cursos y categorías de final 2027 aún sin anunciar.",
+            "age": "Publicadas reglas generales MARC 2027: LOM Elementary 2016–2021; TM / Rising Pioneers Elementary 2015–2019. Categorías finales y cupos del Taipei Final requieren event handbook.",
             "team": "Composición de equipo y categorías de final aún TBA.",
             "hardware": "Nueva Drone Competition anunciada; equipo, edad y reglas 2027 TBA. No trasladar hardware LOM / TM sin reglamento de final.",
             "entry": "Operador invita equipos de todo el mundo; solicitud directa, clasificación y wildcard 2027 aún sin publicar. No trasladar automáticamente vía de 2026.",
@@ -5526,11 +5534,12 @@
         "event_ids": [
           "C035",
           "C779",
-          "C1189"
+          "C1189",
+          "C1442"
         ],
         "legacy_ids": [],
-        "route": "registro 01.10 12:00  22.10 23:59 taiwan; permiso extranjero y derecho a la cuota para especificar antes de pagar",
-        "hardware": "FLL Founders / MARC por su categoría",
+        "route": "Registro de octubre ERA Taiwan ya cerrado. Final internacional Taipei 20–23.05.2027 es etapa separada con confirmación de cupo. Rising Pioneers global 2027 tiene reglas publicadas, pero URL de entrega y fechas trimestrales aún requieren anuncio.",
+        "hardware": "LOM: MATRIX Mini V2.0+ o R4 V1.0, MATRIX MJ2 / MJ5, máximo dos MATRIX TT drive motors; inicio 32 × 32 cm y hasta 1200 g en Elementary. Reglas globales permiten piezas estructurales no MATRIX en Elementary; confirmar aplicación local. Robot kit, portátil y alimentación propios. Globalmente Designated Division con MATRIX, Maker Division sin marca obligatoria. Maker en Astana sin acreditar.",
         "language": "la lengua de los materiales internacionales y la lengua de los jueces locales se comprueba por separado.",
         "importance": "no tiene un índice de competencia y accesibilidad; no hay un índice mundial oficial de la liga.",
         "strengths": "MARC Taiwan — LOM / TM",
@@ -5541,7 +5550,9 @@
         "nuances": [
           "Matvey 2017 se adapta por año de nacimiento de LOM / TM; Oscar 2020 sólo LOM.",
           "un niño elige una disciplina MARC; se permite combinar con la FIRST.",
-          "No hay una cuota mundial extranjera. Para LOM se necesitan al menos seis equipos en cada categoría."
+          "No hay una cuota mundial extranjera. Para LOM se necesitan al menos seis equipos en cada categoría.",
+          "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT.",
+          "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado."
         ],
         "cost": "La inscripción, la técnica, el tutor y el viaje dependen de la etapa; el presupuesto familiar no se calcula.",
         "award": "El resultado oficial y la recompensa de la etapa seleccionada.",
@@ -5555,6 +5566,21 @@
             "title": "Anuncio actual 2027",
             "url": "https://www.marc-association.org/post/marc-2027-international-final-coming-to-taiwan",
             "checked": "2026-11-04"
+          },
+          {
+            "title": "MARC 2027 category rules",
+            "url": "https://drive.google.com/file/d/1D-yhgab1kvzpFs0MTa2pSqrN-BLjKCee/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MARC 2027 category rules",
+            "url": "https://drive.google.com/file/d/16hLampOpxPmeO-bzCKjPGn8gcfiA6wHh/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MARC 2027 category rules",
+            "url": "https://drive.google.com/file/d/124BV9Ayo34ZDyhlywWc6-j8Caj-EJhyg/view",
+            "checked": "2026-11-05"
           }
         ],
         "evidence": "Se lee el ERA completo v4; los años de nacimiento de la familia son reportados por el usuario."
@@ -6904,7 +6930,7 @@
         "id": "robotek-rgt",
         "name": "Robotek Grand Tournament · Kazajstán / Taiwán",
         "group": "regional",
-        "age_summary": "2027: se esperan reglamentaciones de edad",
+        "age_summary": "LOM 2016–2021; Robotek 2014–2018; RP / TM 2015–2019",
         "age_tags": [
           "6",
           "9",
@@ -6912,53 +6938,81 @@
           "teen",
           "unknown"
         ],
-        "summary": "dos etapas internacionales de 2027; cinco categorías de Matrix / Robotek.",
+        "summary": "RGT 2027: reglas de edad publicadas, equipos extranjeros admitidos; selección local y final internacional son distintos.",
         "categories": [
           {
-            "name": "RGT 2027 Astana / Taipei",
-            "age": "edad aún no se sabe",
-            "age_rule": "reglamento estacional / cutoff por separado",
-            "team": "el contenido de la disciplina específica",
-            "hardware": "por el reglamento actual",
-            "entry": "la primera etapa está abierta; las selecciones regionales no se planean",
+            "name": "Robotek Grand Tournament 2027 · LOM Elementary",
+            "age": "2016–2021",
+            "team": "2–3 niños + un mentor 18+; ambos hermanos cumplen años y composición mínima.",
+            "hardware": "LOM: MATRIX Mini V2.0+ o R4 V1.0, MATRIX MJ2 / MJ5, máximo dos MATRIX TT drive motors; inicio 32 × 32 cm y hasta 1200 g en Elementary. Reglas globales permiten piezas estructurales no MATRIX en Elementary; confirmar aplicación local. Robot kit, portátil y alimentación propios.",
+            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local.",
             "event_id": "C869"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Robotek",
+            "age": "2014–2018",
+            "team": "1–2 participantes + un mentor 18+",
+            "hardware": "Cualquier plataforma robótica permitida por reglamento propio; no selección a Taiwan.",
+            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "event_id": "C1321"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Rising Pioneers Elementary",
+            "age": "2015–2019",
+            "team": "1–3 participantes + un mentor 18+",
+            "hardware": "Proyecto, demostración, informe y comprobación de contribución personal. RGT exige Matrix; Maker track local sin acreditar.",
+            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "event_id": "C1322"
+          },
+          {
+            "name": "Robotek Grand Tournament 2027 · Task Master Elementary",
+            "age": "2015–2019",
+            "team": "2–3 participantes + un mentor 18+",
+            "hardware": "Matrix; ronda híbrida: hasta 30 segundos autónomos + hasta 90 segundos de control. Un niño y mentor no forman equipo.",
+            "entry": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local. Un participante — un equipo y una categoría RGT por temporada. Si Matvey elige otra disciplina, Oscar necesita otro compañero elegible en LOM. RGT art.6.6 exige Matrix; Rising Pioneers Maker global sin marca no se traslada automáticamente a Astana.",
+            "event_id": "C1323"
           }
         ],
         "event_ids": [
           "C869",
-          "C870",
-          "L205"
+          "C1189",
+          "C1321",
+          "C1322",
+          "C1323",
+          "C1324",
+          "C1325",
+          "C1326",
+          "C1327",
+          "C1328"
         ],
         "legacy_ids": [],
-        "route": "selección de programa → el reglamento de edad actual → admisión de un equipo extranjero → solicitud / selección → resultado por protocolo.",
-        "hardware": "no se puede comprar hasta que se elija el reglamento.",
+        "route": "Reglamento 2027 art.4.2 admite equipos escolares, clubes y particulares de Kazajistán y otros países. RGT internacional en Astana 03–04.03.2027. Kazajistán tiene dos selecciones: liga pública Daryn hasta 15.02.2027 y privada Birlik 30–31.01.2027, solicitud hasta 20.01.2027. Vía extranjera y plaza familiar requieren decisión del comité; ciudadanía no habilita liga local.",
+        "hardware": "LOM: MATRIX Mini V2.0+ o R4 V1.0, MATRIX MJ2 / MJ5, máximo dos MATRIX TT drive motors; inicio 32 × 32 cm y hasta 1200 g en Elementary. Reglas globales permiten piezas estructurales no MATRIX en Elementary; confirmar aplicación local. Robot kit, portátil y alimentación propios.",
         "language": "los materiales / información rusos están disponibles; RU / EN / KK el juez y la ayuda se comprueban por separado.",
         "importance": "una ruta regional / internacional adicional; no sustituye a todas las ligas mundiales.",
         "strengths": "dos etapas internacionales de 2027; cinco categorías de Matrix / Robotek.",
         "requirements": [
-          "la ciudadanía / turismo / equipo independiente no se igualará al derecho de representar a Kazajstán.",
-          "Confirmar la edad, el grado, la composición, el kit, el idioma y el costo para la nueva temporada."
+          "Años de nacimiento 2017 / 2020 conocidos; fechas exactas y cursos sin establecer. Verificar admisión del equipo, idioma, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos."
         ],
         "nuances": [
-          "3–4 marzo de Astana;29–30 mayo taibe. las fechas se anunciaron, pero el permiso 6/9 No está probado.",
-          "la etapa taibeí no se ha demostrado como una calificación automática de la ciudad; la plaza y el derecho de entrada se aclaran.",
-          "Los grupos de edad de 2026 anteriores y las selecciones no se han trasladado al nuevo formato de 2027."
+          "Selección a MARC Taiwan posible solo mediante LOM / Rising Pioneers / Task Master. Reglamento no fija número de licencias ni Wild Card: exige acta final, requisitos del socio y confirmación. Viaje, alojamiento, trámites migratorios y cuotas aparte. No es acceso automático ni viaje financiado.",
+          "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT."
         ],
         "cost": "el precio de la etapa actual, el equipo, la preparación y el viaje por separado.",
-        "award": "Tipo de premio y lugar  según las reglas y el protocolo; las demostraciones / premios del participante no son victorias mundiales.",
+        "award": "En LOM Elementary Gold / Silver / Bronze son certificados de estímulo para quienes terminan clasificación: tercio superior / tercio medio / resto. Puesto de alianza, special award y Wild Card se cuentan aparte. Club Division no otorga ranking formal, special awards ni avance; Club no anunciado por separado en RGT.",
         "sources": [
           {
-            "url": "https://rgt.robotek.kz/",
-            "title": "fuente primaria · rgt",
-            "checked": "2026-10-01"
+            "title": "RGT 2027 official regulation",
+            "url": "https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view",
+            "checked": "2026-11-05"
           },
           {
-            "url": "https://robotek.kz/",
-            "title": "fuente primaria · robotek",
-            "checked": "2026-10-01"
+            "title": "RGT current season",
+            "url": "https://rgt.robotek.kz/",
+            "checked": "2026-11-05"
           }
         ],
-        "evidence": "Se ha comprobado 01.10.2026; no se ha confirmado el nuevo permiso familiar."
+        "evidence": "Leídos reglamento RGT 2027 y PDF MARC actuales. Sin trasladar selección 2026; documento nuevo 2027 sí contiene dos ligas kazajas."
       },
       {
         "id": "roboland-kz",
@@ -12985,6 +13039,200 @@
         "evidence": "Leídos documento general y seis categorías; inspeccionadas páginas de edad / composición / equipo y fecha de póster. Sin localizar tarifa ni fechas nuevas en estas fuentes."
       },
       {
+        "id": "first-central-asia",
+        "name": "FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan",
+        "group": "regional",
+        "age_summary": "Discover 4–6; Explore 6–10; Challenge 10–16; FTC 12–18",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Calendario oficial 2026–27; importan región de origen, etapa y edad hasta 01.05.2027.",
+        "categories": [
+          {
+            "name": "Kazakhstan Central Asia FIRST Championship 2027 · FLL-D",
+            "age": "Discover 4–6",
+            "team": "2–4 niños, hasta dos mentores 18+.",
+            "hardware": "LEGO DUPLO / Discover set",
+            "entry": "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático. Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+            "event_id": "C1420"
+          },
+          {
+            "name": "Kazakhstan Central Asia FIRST Championship 2027 · FLL-E",
+            "age": "Explore 6–10",
+            "team": "2–4 niños, uno o dos mentores 18+; dos hermanos cumplen número de participantes.",
+            "hardware": "LEGO WeDo / SPIKE Essential + Explore set / poster",
+            "entry": "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático. Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+            "event_id": "C874"
+          },
+          {
+            "name": "Kazakhstan Central Asia FIRST Championship 2027 · FLL-C",
+            "age": "Challenge 10–16",
+            "team": "2–8 participantes, hasta dos mentores 18+.",
+            "hardware": "LEGO SPIKE Prime / permitted legacy system + BIOGLOW field",
+            "entry": "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático. Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+            "event_id": "C875"
+          },
+          {
+            "name": "Kazakhstan Central Asia FIRST Championship 2027 · FTC",
+            "age": "FTC 12–18",
+            "team": "2–15 participantes, hasta dos mentores 18+.",
+            "hardware": "FTC kit / BIOBUZZ 2026–27",
+            "entry": "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático. Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+            "event_id": "C1421"
+          }
+        ],
+        "event_ids": [
+          "C1329",
+          "C1330",
+          "C1331",
+          "C1332",
+          "C1333",
+          "C1334",
+          "C1335",
+          "C1336",
+          "C1337",
+          "C1338",
+          "C1339",
+          "C1340",
+          "C1341",
+          "C1342",
+          "C1343",
+          "C1344",
+          "C1345",
+          "C1346",
+          "C1347",
+          "C1348",
+          "C1349",
+          "C1350",
+          "C1351",
+          "C1352",
+          "C1353",
+          "C1354",
+          "C1355",
+          "C1356",
+          "C1357",
+          "C1358",
+          "C1359",
+          "C1360",
+          "C1361",
+          "C1362",
+          "C1363",
+          "C1364",
+          "C1365",
+          "C1366",
+          "C1367",
+          "C1368",
+          "C1369",
+          "C1370",
+          "C1371",
+          "C1372",
+          "C1373",
+          "C1374",
+          "C1375",
+          "C1376",
+          "C1377",
+          "C1378",
+          "C1379",
+          "C1380",
+          "C1381",
+          "C1382",
+          "C1383",
+          "C1384",
+          "C1385",
+          "C1386",
+          "C1387",
+          "C1388",
+          "C1389",
+          "C1390",
+          "C1391",
+          "C1392",
+          "C1393",
+          "C1394",
+          "C1395",
+          "C1396",
+          "C1397",
+          "C1398",
+          "C1399",
+          "C1400",
+          "C1401",
+          "C1402",
+          "C1403",
+          "C1404",
+          "C1405",
+          "C1406",
+          "C1407",
+          "C1408",
+          "C1409",
+          "C1410",
+          "C1411",
+          "C1412",
+          "C1413",
+          "C1414",
+          "C1415",
+          "C1416",
+          "C1417",
+          "C1418",
+          "C1419",
+          "C1420",
+          "C874",
+          "C875",
+          "C1421",
+          "C1422",
+          "C1423",
+          "C1424",
+          "C1425",
+          "C1426",
+          "C1427",
+          "C1428",
+          "C1429",
+          "C1430",
+          "C1431",
+          "C1432",
+          "C1433",
+          "C1434",
+          "C1435",
+          "C1436",
+          "C1437"
+        ],
+        "legacy_ids": [],
+        "route": "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático. Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán.",
+        "hardware": "LEGO DUPLO / WeDo / SPIKE / FTC · separate categories",
+        "language": "Existen materiales oficiales en ruso / inglés; confirmar idioma de arbitraje, entrevista y apoyo al equipo elegido. Idioma del documento no equivale al de todas las clases.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Reglamento local exige cumplir edad durante temporada principal y hasta 01.05.2027 inclusive; off-season se verifica en fecha de su evento. No es regla solo por año de nacimiento.",
+          "Registro mediante uSTEM Connect y Team Number local, formulario a cargo de mentor adulto. Enlace no acredita inscripción abierta del torneo elegido, plazas ni admisión familiar. Regional / Qualifier / Championship son etapas distintas; cupo no automático.",
+          "Reglamento del operador: en 2026 Explore / Challenge obtienen cupo solo en su región. Qualifier de enero tiene lista de regiones admitidas; pasaporte o viaje turístico no convierte equipo familiar extranjero en local. Confirmar por separado admisión y aplicación de edades en Kirguistán / Uzbekistán."
+        ],
+        "nuances": [
+          "Explore tiene 2–4 participantes, Challenge 2–8; dos hermanos cumplen número solo en Explore. Challenge aquí desde 10, no desde 9 globales. Future Edition K–2 es 5–7 con mínimo de equipo desconocido; 3–8 es 8–16, 4–8 participantes y Grades 3–8 reales. Future Edition no anunciada en todos los torneos del calendario."
+        ],
+        "cost": "Tarifa de participación, robot kit, mentor, viaje y alojamiento sin confirmar por separado; importe desconocido no es cero.",
+        "award": "Reconocimiento de festival, puesto, national quota y Houston son distintos; números de cupos mundiales 2027 aún pendientes.",
+        "sources": [
+          {
+            "title": "Current season operator",
+            "url": "https://firstrobotics.kz/",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Official calendar snapshot",
+            "url": "https://docs.google.com/spreadsheets/d/1QJbpsCGQfsV_idUxsbKhKHm1SgQgFZAqQCVM67HY6VY/edit",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "Local season rulebook",
+            "url": "https://docs.google.com/document/d/1UYpkDZL86SZpFMcgtpUmEJi4qnT7Oj-1BdGGisJD9ws/edit",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Calendario y programas verificados en datos públicos del operador; reglas en documento completo."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -13377,7 +13625,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "151 perfiles de ligas, familias y programas; conservadas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
+    "methodology": "152 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

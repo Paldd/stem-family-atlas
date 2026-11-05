@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 4840; competiciones: 1319; eventos: 231; campamentos / programas: 3290. Perfiles de ligas y programas: 151. Fichas de exposiciones importantes y especializadas: 149; representan ediciones y sedes, no cantidad de marcas únicas.
+Tarjetas en la base: 4962; competiciones: 1441; eventos: 231; campamentos / programas: 3290. Perfiles de ligas y programas: 152. Tarjetas de exposiciones importantes y especializadas: 149 — son ediciones y sedes, no número de marcas únicas.
 
-Registros concretos para 88 de 249 países y territorios; países completamente auditados: 0. Revisión archivada v51: añadidas 21 fichas, 3 perfiles. Conservadas todas las fichas anteriores.
+Hay registros específicos para 92 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -18,12 +18,12 @@ Registros concretos para 88 de 249 países y territorios; países completamente 
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 23 | 178 | 50 | 1170 |
 | África | 11 | 63 | 7 | 30 |
-| Asia | 25 | 247 | 64 | 917 |
+| Asia | 29 | 369 | 64 | 917 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequilibrio de cobertura.
+VEX: 518 de 1441 tarjetas de competiciones (35.9%). Es un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -94,7 +94,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 ## ~ Proyecciones de ligas y programas
 
 - **WRO**: 80 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
-- **FIRST**: 45 fichas, 25 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
+- **FIRST**: 45 fichas, 27 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -146,7 +146,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **ABU Robocon**: 1 tarjeta, 0 con fechas exactas futuras. https://www.abu.org.my/news/hong-kong-hosts-abu-robocon-2026-as-young-innovators-take-on-kung-fu-quest/
 - **ROBO-ONE / Light / auto / Beginners**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robo-one.com/en/
 - *RoboCup Major · Socker / Rescue / @Home / Industrial**: 1 tarjeta, 1 con fechas exactas futuras. https://www.robocup.org/
-- **MARC Taiwan**: 3 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
+- **MARC Taiwan**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.era.org.tw/main/wp-content/uploads/2026/09/2026-2027-FIRST%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B3%BD-%E5%8F%B0%E7%81%A3%E9%81%B8%E6%8B%94%E8%B3%BD_%E7%B0%A1%E7%AB%A0-1.pdf
 - **TIRT Taiwan**: 5 tarjetas, 5 tarjetas con fechas exactas futuras. https://www.tirtpointsrace.org/Registration/Event/ca28e72a-26a0-49fc-8bc6-8e26fac27c68
 - **OBR / CBR / LARC · Brazil**: 16 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotica.robocup.org.br/
 - **Liga Robótica Chile**: 6 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.torneorobotica.cl/
@@ -164,7 +164,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - *Games for Change · Student Challenge**: 1 tarjeta, 0 con fechas exactas futuras. https://learn.gamesforchange.org/student-challenge
 - *Astro Pi · Proyecto de capacitación espacial**: 0 tarjetas, 0 con fechas exactas futuras; programa de capacitación/alumnos; no hay etapas competitivas. https://astro-pi.org/mission-zero/eligibility
 - **Avishkaar League · IRC / Makeathon / CodeQuest / Soccer**: 13 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://community.avishkaar.cc/avishkaar-league-2026
-- **Robotek Grand Tournament ·Kazajstán / Taiwán**: 2 tarjetas, 2 con fechas exactas futuras. https://rgt.robotek.kz/
+- **Robotek Grand Tournament · Kazajstán / Taiwán**: 10 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1yMRdrTBuEpfDksU-C0ViP6vfu3SuInWQ/view
 - **RoboLand · Kazajstán**: 2 tarjetas, 0 con fechas exactas futuras. https://www.gov.kz/memleket/entities/edu-osakarovka/press/news/details/1141030?lang=kk
 - **CazRobotics · KazRoboSport / Project / RoboBalapan**: 5 tarjetas, 0 con fechas exactas futuras. https://t.me/s/kazrobotics2020
 - **Almaty TechCup · robotics / AI / hackathons**: 1 tarjeta, 0 con fechas exactas futuras. https://www.gov.kz/memleket/entities/almaty/press/news/details/1250916?lang=ru
@@ -241,6 +241,7 @@ VEX: 518 de 1319 fichas de competiciones (39.3%). Esto indica un claro desequili
 - **FIRE · nueva red institucional**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://federacionfire.org/
 - **RoboCupJunior Américas · Primary / SuperRegional**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robocupamericas.org/es/
 - **Eduvisión Robotics Challenge Panamá**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.eduvisionpnm.com/challenge/
+- **FIRST Central Asia · Kazakhstan / Kyrgyzstan / Uzbekistan**: 111 fichas, 98 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstrobotics.kz/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

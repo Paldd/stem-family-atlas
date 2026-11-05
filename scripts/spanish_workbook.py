@@ -67,7 +67,9 @@ HEADERS.update({
  'grade_asof':'Período de referencia del curso escolar',
  'reported_start':'Inicio publicado pendiente de aclaración',
  'reported_end':'Fin publicado pendiente de aclaración',
- 'reported_deadline':'Plazo publicado pendiente de aclaración'
+ 'reported_deadline':'Plazo publicado pendiente de aclaración',
+ 'entry_extra':'Condiciones adicionales de participación','fixture_id':'ID del torneo',
+ 'league_id':'ID de la liga','superseded_by':'Sustituido por'
 })
 def column(index):
     name=''
