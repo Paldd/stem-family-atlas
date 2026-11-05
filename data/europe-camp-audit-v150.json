@@ -1,0 +1,50 @@
+{
+  "version": 150,
+  "asof": "2026-11-05",
+  "scope": "France, Spain and Swiss family camps: published 2026/27 facts, not a complete European ranking",
+  "new_dossiers": [
+    "CP1173"
+  ],
+  "updated_dossiers": [
+    "CP002",
+    "CP060",
+    "CP061"
+  ],
+  "new_camp_catalog_rows": 16,
+  "new_budget_offers": 7,
+  "findings": [
+    "NLD: three Spanish cities, 8–15, whole programme explicitly English, EUR 960 / 1850 / 2680 for 1 / 2 / 3 weeks. One dossier, three separate city windows; exact short arrivals and campus addresses unknown.",
+    "NLD: robotics in illustrative general camp schedule; NLD League Houses is an internal house game, not a world robotics league. No invented kit, teaching hours or world ranking.",
+    "NLD: EUR 300 European management charge already in price; deposit amount assigned per programme; balance 45 days before start. Cancellation boundary at 60 days overlaps; no application submitted.",
+    "IH: 2026/27 standard and premium PDF confirm 5–30 July 2027, Paris / Nice / Biarritz. Twelve summer week variants added; exact addresses checked visually in PDF page 5.",
+    "IH: standard 340 Paris / Nice, 360 Biarritz; premium 430 / 450. Registration fee waived; premium increment 90, meals and possible activity transport excluded.",
+    "IH: fifteen future non-conflicting cohorts have five timed weekdays each. Three 12–16 July windows retain uncertain 14 July attendance due general holiday exclusion. Do not prorate weekly fee or promise five teaching days.",
+    "Wander: fresh HTML replaces autumn card with Christmas MiniCamp 21–23 December 2026. Both children fit 3–12; no published three-day fee. Spring still says 2017 and is not promoted to 2027.",
+    "Wander: seven future variants yield 38 actual timed day entries; weekly discount applies to multiple weeks per child, not two siblings sharing one week. Terms page is a Wix drafting template, not an operational refund contract.",
+    "La Garenne: 2027 PDF confirms existing fees. Three two-week day sessions have 11 days including first Saturday, 08:50–18:00. Four-week day attendance kept as windows because intermediate Saturdays unspecified. Nearby parent stay requires day format.",
+    "TASIS / Camp Suisse: reviewed current price pages agree with existing 2027 tariff facts; no duplicate dossiers or claim that all prior dossier fields were freshly reverified.",
+    "Ermitage: current autumn 2026 body tariff does not establish 2027 fee. TECS: yearless session dates and general 2027 navigation do not prove a dated 2027 session. Sotogrande / King’s returned access wrappers; no source-refresh claim."
+  ],
+  "primary_http_responses": 18,
+  "response_hashes_verified": true,
+  "rendered_pdf_pages_inspected": [
+    "IH standard pages 5–7",
+    "IH premium pages 3–4",
+    "La Garenne 2027 pages 2–3"
+  ],
+  "qualifications": [
+    "Age-compatible does not mean accepted",
+    "EN camp life differs from EN language lessons",
+    "Programme windows differ from exact teaching days",
+    "Published tariff differs from full family travel quote"
+  ],
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "enrolment_actions": 0,
+  "status": "verified-local-build-and-exports",
+  "events": 4133,
+  "dossiers": 1173,
+  "updated_camp_catalog_rows": 22,
+  "verified_family_ICS_entries": 3677,
+  "verification_method": "Isolated Node VM for both language filters, templates, budget estimates and calendar export; full JSON/SQLite integrity; 43 non-vendor JavaScript syntax checks. Browser UI validation unavailable; data-only release."
+}

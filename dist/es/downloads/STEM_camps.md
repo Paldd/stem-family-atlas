@@ -7972,7 +7972,7 @@ Precio: 2027 · CHF 7 200 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270711-20270724 · La Garenne Summer Camp · Session 2 A · 2 semanas · internado · 2027-07-11 国2027-07-24
 
@@ -7988,7 +7988,7 @@ Precio: 2027 · CHF 7 200 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270725-20270807 · La Garenne Summer Camp · Session 3 · 2 semanas · internado · 2027-07-25-2027-08-07
 
@@ -8004,7 +8004,7 @@ Precio: 2027 · CHF 7 200 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270627-20270724 · La Garenne Summer Camp · Session 1 B · 4 semanas · internado · 2027-06-27-2027-07-24
 
@@ -8020,7 +8020,7 @@ Precio: 2027 · CHF 13 400 Base 5–12; opciones/insurance/pocketmoney Por separ
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270711-20270807 · La Garenne Summer Camp · Session 2 B · 4 semanas · internado · 2027-07-11–2027-08-07
 
@@ -8036,7 +8036,7 @@ Precio: 2027 · CHF 13 400 Base 5–12; opciones/insurance/pocketmoney Por separ
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270628-20270709 · La Garenne Summer Camp · Session 1 A · 2 semanas · día · 2027-06-28–2027-07-09
 
@@ -8052,7 +8052,7 @@ Precio: 2027 · CHF 6 550 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270712-20270723 · La Garenne Summer Camp · Session 2 A · 2 semanas · Día · 2027-07-12 国2027-07-23
 
@@ -8068,7 +8068,7 @@ Precio: 2027 · CHF 6 550 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270726-20270806 · La Garenne Summer Camp · Session 3 · 2 semanas · día · 2027-07-26–2027-08-06
 
@@ -8084,7 +8084,7 @@ Precio: 2027 · CHF 6 550 Base 5–12; opciones/insurance/pocketmoney Por separa
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270628-20270723 · La Garenne Summer Camp · Session 1 B · 4 semanas · día · 2027-06-28–2027-07-23
 
@@ -8097,10 +8097,10 @@ Formato: day_camp
 Idioma: Mañana EN/FR language lessons confirmado 2027 PDF; se desconoce por separado el idioma de los talleres técnicos y todas las actividades de campamento.
 Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 12 400 Base 5–12; opciones/insurance/pocketmoney Por separado · y condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Acceso: Periodo diurno de 4 semanas. Confirmar sábados intermedios; no es residencia continua ni asistencia confirmada todos los días de calendario.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP002-20270712-20270806 · La Garenne Summer Camp · Session 2 B · 4 semanas · Día · 2027-07-12 国2027-08-06
 
@@ -8113,10 +8113,10 @@ Formato: day_camp
 Idioma: Mañana EN/FR language lessons confirmado 2027 PDF; se desconoce por separado el idioma de los talleres técnicos y todas las actividades de campamento.
 Marca de idioma: language_lessons; soporte: no declarado
 Precio: 2027 · CHF 12 400 Base 5–12; opciones/insurance/pocketmoney Por separado · y condiciones del expediente
-Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Acceso: Periodo diurno de 4 semanas. Confirmar sábados intermedios; no es residencia continua ni asistencia confirmada todos los días de calendario.
 Limitaciones: Matvey: La edad del programa principal es la adecuada; La opción técnica depende del grupo. Oscar: Grupo básico pequeño; Robotics & 3 D Design no confirmado para 6–7 años. Gastos adicionales: Robotics 8–12 CHF 500 / 3 Actividades. Swiss medical insurance 10/day se añade a invoice; form Obligatoria para non-Swiss residents, Número de pagos day/student días para confirmar. Pocket money 5–9: 30/week, 10–12: 50/week; se añade a invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Vivienda familiar y vuelos separados. Base familiar con un cambio de turno/un formato y 10%Segundo: CHF12 445 day o 13 680 boarding; Uno Robotics opción+500. Más 2×10×Número de pagos insurance days y pocket money Edad; Número de días que no se han presentado. Pago: Fees Incluyen los no devueltos CHF 500, No es eso. extra. El lugar sólo está confirmado por el pago completo. Cancelación ≥65 días: devolución minus 500; más tarde sin retorno. PDF deadlines: 23 abril Session 1 A/1 B, 7 mayo 2 A/2 B, 21 mayo 3; para day aplicación deadline cotejar. Extras ≤28 Días no devueltos. Sibling discount 10% segundo con un cambio y el mismo day o board; No se permite mezclar los formatos de los hermanos. Cambio invoice CHF 25.
 Fuente: https://www.la-garenne.ch/summer/repository/summer-conditions.pdf
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP004-20270627-20270717 ·TASIS Switzerland · CDE / Minnows · turno general / selección de pista · 2027-06-27-2027-07-17
 
@@ -10434,9 +10434,9 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/de la tierra.; €360/de la tierra. en dos semanas o más · el resultado se confirma · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/summer-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP060-20270712-20270716 · Wander & Wonder · Nature Camps · Semana de verano · 09 CLAIM16 · 2027-07-12 国2027-07-16
 
@@ -10450,9 +10450,9 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/de la tierra.; €360/de la tierra. en dos semanas o más · el resultado se confirma · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/summer-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP060-20270719-20270723 · Wander & Wonder · Nature Camps · Semana de verano · 09 CLAIM16 · 2027-07-19国2027-07-23
 
@@ -10466,9 +10466,9 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/de la tierra.; €360/de la tierra. en dos semanas o más · el resultado se confirma · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/summer-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP060-20270726-20270730 · Wander & Wonder · Nature Camps · Semana de verano · 09–16 · 2027-07-26–2027-07-30
 
@@ -10482,9 +10482,9 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/de la tierra.; €360/de la tierra. en dos semanas o más · el resultado se confirma · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/summer-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP060-20270823-20270827 · Wander & Wonder · Nature Camps · Semana de verano · 09–16 · 2027-08-23–2027-08-27
 
@@ -10498,9 +10498,9 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/de la tierra.; €360/de la tierra. en dos semanas o más · el resultado se confirma · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/summer-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP060-20261019-20261030 · Wander & Wonder · Nature Camps · La ventana de otoño · seleccionar 1/2 semanas · 2026-10-19–2026-10-30
 
@@ -10530,9 +10530,25 @@ Idioma: English immersion, personal de EN/FR; confirmado para actividades genera
 Marca de idioma: camp_life; soporte: no declarado
 Precio: 2027 · €380/1 de la tierra.; €720/2 de la tierra. · ventana diurna de la–¿Qué es esto ? · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Correspondente 3–12; especificar el grupo superior. Oscar: Correspondente 3–12; Necesitamos estar preparados para el día de la naturaleza.. Gastos adicionales: Almuerzo con nosotros, vivienda familiar, carreteras y ropa para outdoor. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
 Fuente: https://www.wanderandwonderclub.com/holiday-camp
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
+
+### CP060-20261221-20261223 · Wander & Wonder · Nature Camps · Christmas MiniCamp · tres días · 2026-12-21–2026-12-23
+
+Lugar: Francia · París / Saint-Germain-en-Laye
+Fecha: 2026-12-21 - 2026-12-23
+Edad: 3*12
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: English immersion, personal de EN/FR; confirmado para actividades generales de outdoor.
+Marca de idioma: camp_life; soporte: no declarado
+Precio: 2026/27 · Tarifa de tres días sin publicar; sin trasladar ni dividir automáticamente 380 semanales. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: corresponde 3–12; aclarar el grupo mayor. Oscar: corresponde 3–12; Necesita estar preparado para el día en la naturaleza.. Suplementos: Almuerzo con usted, vivienda familiar, carretera y ropa para el exterior. Pago: Terms & Conditions lleva a plantilla Wix sin completar sobre cómo redactar condiciones. Sin contrato real, plazo de pago, cancelación, devolución, clima ni cambios establecidos. Antes de reservar obtener contrato de la sesión elegida; plantilla no tratada como reglas del operador.
+Fuente: https://www.wanderandwonderclub.com/holiday-camp
+Se ha comprobado: 2026-11-05
 
 ### CP061-20261019-20261023-paris-autumn · International House / France Langue · English Day Camps · París · Otoño · 2026-10-19 Å2026-10-23
 
@@ -10552,7 +10568,7 @@ Comprobado: 2026-10-04
 
 ### CP061-20270208-20270212-paris-winter · International House / France Langue · English Day Camps · Paris · Invierno · 2027-02-08 CLAIM2027-02-12
 
-Lugar: Francia - París
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
 Fecha: 2027-02-08 — 2027-02-12
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10562,13 +10578,13 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €340 estándar / €430 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP061-20270405-20270409-paris-spring · International House / France Langue · English Day Camps · París · primavera · 2027-04-05–2027-04-09
 
-Lugar: Francia - París
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
 Fecha: 2027-04-05 — 2027-04-09
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10578,9 +10594,9 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €340 estándar / €430 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP061-20261019-20261023-nice-autumn · International House / France Langue · English Day Camps · Niza · Otoño · 2026-10-19 CLAIM2026-10-23
 
@@ -10600,7 +10616,7 @@ Comprobado: 2026-10-04
 
 ### CP061-20270222-20270226-nice-winter · International House / France Langue · English Day Camps · Niza · Invierno · 2027-02-22-2027-02-26
 
-Lugar: Francia · Niza
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
 Fecha: 2027-02-22 国 2027-02-26
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10610,13 +10626,13 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €340 estándar / €430 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP061-20270419-20270423-nice-spring · International House / France Langue · English Day Camps · Niza · Primavera · 2027-04-19 CLAIM2027-04-23
 
-Lugar: Francia · Niza
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
 Fecha: 2027-04-19 国 2027-04-23
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10626,9 +10642,9 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €340 estándar / €430 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP061-20261019-20261023-biorritz-autumn · International House / France Langue · English Day Camps · Biarritz · Otoño · 2026-10-19 CLAIM2026-10-23
 
@@ -10648,7 +10664,7 @@ Comprobado: 2026-10-04
 
 ### CP061-20270215-20270219-biorritz-winter · International House / France Langue · English Day Camps · Biarritz · Invierno · 2027-02-15 encaminados2027-02-19
 
-Lugar: Francia - Biarriz
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
 Fecha: 2027-02-15 国 2027-02-19
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10658,13 +10674,13 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €360 estándar / €450 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
 
 ### CP061-20270412-20270416-biarritz-spring · International House / France Langue · English Day Camps · Biarriz · primavera · 2027-04-12–2027-04-16
 
-Lugar: Francia - Biarriz
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
 Fecha: 2027-04-12 — 2027-04-16
 Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
 Matway: Sí, por edad; inscripción separada
@@ -10674,9 +10690,201 @@ Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
 Marca de idioma: primary; soporte: no declarado
 Precio: 2027 · €360 estándar / €450 premium en una semana · el precio 2026/27 · los pagos adicionales y las condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: Al menos 8 años; Oscar en 2027 Sí. 6–7. Gastos adicionales: Comida fría con nosotros, El camino y la vivienda de la familia. Premium — Aranceles separados, Suplemento no obligatorio. Pago: Condiciones completas para el pago y la cancelación de la temporada seleccionada.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
 Fuente: https://ih.fl-france.com/anglais/day-camp/
-Comprobado: 2026-10-04
+Se ha comprobado: 2026-11-05
+
+### CP061-20270705-20270709-paris-summer-1 · International House / France Langue · English Day Camps · Paris · verano · semana 1 · 2027-07-05–2027-07-09
+
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270712-20270716-paris-summer-2 · International House / France Langue · English Day Camps · Paris · verano · semana 2 · 2027-07-12–2027-07-16
+
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Acceso: 12–16 de julio: CGV excluyen en general clases en festivos; funcionamiento de Holiday Camp el 14 de julio sin confirmar aparte. Se conserva periodo semanal, sin prometer cinco días reales ni calcular descuento.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270719-20270723-paris-summer-3 · International House / France Langue · English Day Camps · Paris · verano · semana 3 · 2027-07-19–2027-07-23
+
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270726-20270730-paris-summer-4 · International House / France Langue · English Day Camps · Paris · Verano · semana 4 · 2027-07-26–2027-07-30
+
+lugar: Francia · Paris · 9 rue de Saint-Pétersbourg · 75008
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270705-20270709-nice-summer-1 · International House / France Langue · English Day Camps · Nice · verano · semana 1 · 2027-07-05–2027-07-09
+
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270712-20270716-nice-summer-2 · International House / France Langue · English Day Camps · Nice · verano · semana 2 · 2027-07-12–2027-07-16
+
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Acceso: 12–16 de julio: CGV excluyen en general clases en festivos; funcionamiento de Holiday Camp el 14 de julio sin confirmar aparte. Se conserva periodo semanal, sin prometer cinco días reales ni calcular descuento.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270719-20270723-nice-summer-3 · International House / France Langue · English Day Camps · Nice · verano · semana 3 · 2027-07-19–2027-07-23
+
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270726-20270730-nice-summer-4 · International House / France Langue · English Day Camps · Nice · Verano · semana 4 · 2027-07-26–2027-07-30
+
+lugar: Francia · Nice · 3 rue Alfred Mortier · 06100
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 340 estándar / 430 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270705-20270709-biarritz-summer-1 · International House / France Langue · English Day Camps · Biarritz · verano · semana 1 · 2027-07-05–2027-07-09
+
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 360 estándar / 450 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270712-20270716-biarritz-summer-2 · International House / France Langue · English Day Camps · Biarritz · verano · semana 2 · 2027-07-12–2027-07-16
+
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 360 estándar / 450 premium por semana · suplementos y condiciones en el dossier
+Acceso: 12–16 de julio: CGV excluyen en general clases en festivos; funcionamiento de Holiday Camp el 14 de julio sin confirmar aparte. Se conserva periodo semanal, sin prometer cinco días reales ni calcular descuento.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270719-20270723-biarritz-summer-3 · International House / France Langue · English Day Camps · Biarritz · verano · semana 3 · 2027-07-19–2027-07-23
+
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 360 estándar / 450 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
+
+### CP061-20270726-20270730-biarritz-summer-4 · International House / France Langue · English Day Camps · Biarritz · Verano · semana 4 · 2027-07-26–2027-07-30
+
+lugar: Francia · Biarritz · 6 avenue Jaulerry · 64200
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 8–17: Grupo 8–10, 11–12, 13–14, 15–17
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Inglés, clases y misiones de aventura; es un campamento de idiomas.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 360 estándar / 450 premium por semana · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Edad 9–10 corresponde Explorers 8–10. Oscar: por lo menos 8 años; Oscar en el 2027 ¿Qué es lo que va a ser? 6–7. Suplementos: Comida fría propia; posible transporte de actividades, seguro y viaje familiar aparte. Tarifa semanal en semana festiva sin reducir sin factura. Pago: Brochure 2026/27 exime registration fee. CGV generales prevén pago completo para inscripción definitiva y condiciones específicas para menores / no EEE. Confirmar por escrito aplicación de cancelación a English Holiday Camp y premium: desistimiento de 14 días en CGV se refiere expresamente solo a French courses. Sin trasladarlo automáticamente a este campamento.
+Fuente: https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf
+Se ha comprobado: 2026-11-05
 
 ### CP069-20261019-20261023 · Camp Asia · Robotics Makerspace · Fantastic Fall · Sólo Robotics 6–8 · 2026-10-19–2026-10-23
 
@@ -42277,6 +42485,54 @@ Acceso: Elegir días concretos y paquete. Periodo 18–22 de diciembre incluye f
 Limitaciones: Matvey: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Oscar: Edad de oferta general parece compatible; confirmar fecha, grupo escolar, EN/ES real y admisión individual. Academics 6+ requiere edad cumplida. Suplementos: CHF 50 membership única para alumnos nuevos; confirmar unidad familiar e impuesto. Bus semanal: Zug 85 / Zürich Affoltern 100 / Luzern 125; drop-off temprano 15 al día por niño. Descuento 10% para siblings / extra weeks solo semana completa, base y acumulación sin definir. No restarlo automáticamente. Pago: Camp Policy: tras confirmar registro no contempla cancelación / reembolso ni compensación por ausencias. Informar alergias; prohíbe comida propia, confirmar menú y coste. Plaza y condiciones sin aceptar.
 Fuente: https://www.nuejos.com/holiday-camps
 Se ha comprobado: 2026-11-04
+
+### CP1173-20270704-20270725-salamanca · NLD Education · English Camp España 2027 · Salamanca · periodo para elegir 1 / 2 / 3 semanas · 2027-07-04–2027-07-25
+
+lugar: España - Salamanca
+Fecha: 2027-07-04 - 2027-07-25
+Edad: 8–15; Matvey 9–10 en 2027, Oscar 6–7 por debajo del mínimo
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Operador declara inglés para clases, actividades, excursiones y toda la vida del campamento. Web española no implica programa en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 960 / 1 semana; 1850 / 2 semanas; 2680 / 3 semanas por niño. Mismos precios en Salamanca, Granada y Zaragoza. Llegadas exactas de paquetes cortos aún sin indicar. · suplementos y condiciones en el dossier
+Acceso: Publicado periodo general 4–25 de julio de 2027 en las tres ciudades y elección de 1 / 2 / 3 semanas. Sin lista de todas las combinaciones de llegada: periodo de elección, sin confirmar estancia de 22 días de calendario. Obtener fechas del paquete concreto en ficha técnica.
+Limitaciones: Matvey: Edad compatible con 8–15; confirmar admisión extranjera, nivel, llegada concreta y plaza. Oscar: Todo 2027 tiene 6–7: no alcanza mínimo de 8. Acompañar al hermano mayor no elimina la regla. Suplementos: Vuelos, seguro y traslado a residencia no figuran expresamente incluidos. Presupuesto final por email prevalece sobre precio web. Equipo / modelo de robot / horas de robotics sin publicar; compra de kit no asumida como obligación confirmada. Pago: Reserva no confirmada por un formulario: operador comprueba plazas y emite ficha técnica / factura. Anticipo fijado aparte e incluido en precio; saldo como máximo 45 días antes del inicio. Management fee EUR 300 para Europa ya incluido, sin sumarlo otra vez. En cancelación no se devuelven este cargo, gastos de visado / envío y posibles cargos del proveedor; además 10% a 90–60 días, 25% a 31–60, 40% a 8–30, 100% a 7 o menos días / inasistencia. En límite de 60 días hay dos tasas y cancelación temprana incompleta: obtener regla exacta del paquete elegido. Sin aceptar condiciones.
+Fuente: https://www.nldeducation.com/english-camp-espana-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1173-20270704-20270725-granada · NLD Education · English Camp España 2027 · Granada · periodo para elegir 1 / 2 / 3 semanas · 2027-07-04–2027-07-25
+
+Lugar: España · Granada
+Fecha: 2027-07-04 - 2027-07-25
+Edad: 8–15; Matvey 9–10 en 2027, Oscar 6–7 por debajo del mínimo
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Operador declara inglés para clases, actividades, excursiones y toda la vida del campamento. Web española no implica programa en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 960 / 1 semana; 1850 / 2 semanas; 2680 / 3 semanas por niño. Mismos precios en Salamanca, Granada y Zaragoza. Llegadas exactas de paquetes cortos aún sin indicar. · suplementos y condiciones en el dossier
+Acceso: Publicado periodo general 4–25 de julio de 2027 en las tres ciudades y elección de 1 / 2 / 3 semanas. Sin lista de todas las combinaciones de llegada: periodo de elección, sin confirmar estancia de 22 días de calendario. Obtener fechas del paquete concreto en ficha técnica.
+Limitaciones: Matvey: Edad compatible con 8–15; confirmar admisión extranjera, nivel, llegada concreta y plaza. Oscar: Todo 2027 tiene 6–7: no alcanza mínimo de 8. Acompañar al hermano mayor no elimina la regla. Suplementos: Vuelos, seguro y traslado a residencia no figuran expresamente incluidos. Presupuesto final por email prevalece sobre precio web. Equipo / modelo de robot / horas de robotics sin publicar; compra de kit no asumida como obligación confirmada. Pago: Reserva no confirmada por un formulario: operador comprueba plazas y emite ficha técnica / factura. Anticipo fijado aparte e incluido en precio; saldo como máximo 45 días antes del inicio. Management fee EUR 300 para Europa ya incluido, sin sumarlo otra vez. En cancelación no se devuelven este cargo, gastos de visado / envío y posibles cargos del proveedor; además 10% a 90–60 días, 25% a 31–60, 40% a 8–30, 100% a 7 o menos días / inasistencia. En límite de 60 días hay dos tasas y cancelación temprana incompleta: obtener regla exacta del paquete elegido. Sin aceptar condiciones.
+Fuente: https://www.nldeducation.com/english-camp-espana-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1173-20270704-20270725-zaragoza · NLD Education · English Camp España 2027 · Zaragoza · periodo para elegir 1 / 2 / 3 semanas · 2027-07-04–2027-07-25
+
+lugar: España · Zaragoza
+Fecha: 2027-07-04 - 2027-07-25
+Edad: 8–15; Matvey 9–10 en 2027, Oscar 6–7 por debajo del mínimo
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Operador declara inglés para clases, actividades, excursiones y toda la vida del campamento. Web española no implica programa en español.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 960 / 1 semana; 1850 / 2 semanas; 2680 / 3 semanas por niño. Mismos precios en Salamanca, Granada y Zaragoza. Llegadas exactas de paquetes cortos aún sin indicar. · suplementos y condiciones en el dossier
+Acceso: Publicado periodo general 4–25 de julio de 2027 en las tres ciudades y elección de 1 / 2 / 3 semanas. Sin lista de todas las combinaciones de llegada: periodo de elección, sin confirmar estancia de 22 días de calendario. Obtener fechas del paquete concreto en ficha técnica.
+Limitaciones: Matvey: Edad compatible con 8–15; confirmar admisión extranjera, nivel, llegada concreta y plaza. Oscar: Todo 2027 tiene 6–7: no alcanza mínimo de 8. Acompañar al hermano mayor no elimina la regla. Suplementos: Vuelos, seguro y traslado a residencia no figuran expresamente incluidos. Presupuesto final por email prevalece sobre precio web. Equipo / modelo de robot / horas de robotics sin publicar; compra de kit no asumida como obligación confirmada. Pago: Reserva no confirmada por un formulario: operador comprueba plazas y emite ficha técnica / factura. Anticipo fijado aparte e incluido en precio; saldo como máximo 45 días antes del inicio. Management fee EUR 300 para Europa ya incluido, sin sumarlo otra vez. En cancelación no se devuelven este cargo, gastos de visado / envío y posibles cargos del proveedor; además 10% a 90–60 días, 25% a 31–60, 40% a 8–30, 100% a 7 o menos días / inasistencia. En límite de 60 días hay dos tasas y cancelación temprana incompleta: obtener regla exacta del paquete elegido. Sin aceptar condiciones.
+Fuente: https://www.nldeducation.com/english-camp-espana-2027/
+Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 

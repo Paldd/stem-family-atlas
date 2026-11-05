@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "asof": "2026-11-04",
+  "asof": "2026-11-05",
   "title": "Каникулы 2026–2027 · подробные досье операторов",
   "scope": "Приоритетный углублённый проход: общие и тематические лагеря, технические курсы и каникулярные пансионы. Это отдельный реестр программ/операторов, а не количество уникальных лагерей в старой базе смен и занятий.",
   "methodology": [
@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1172,
+    "dossiers": 1173,
     "countries": 41,
     "swiss": 136,
     "by_status": {
       "published_2026_27": 134,
-      "published_2027": 316,
+      "published_2027": 317,
       "partial_2027": 113,
       "next_unannounced": 233,
       "published_2026": 239,
@@ -43,7 +43,7 @@
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1763
+    "source_urls": 1770
   },
   "countries": [
     {
@@ -88,7 +88,7 @@
     },
     {
       "country": "Испания",
-      "count": 98
+      "count": 99
     },
     {
       "country": "Италия",
@@ -1109,7 +1109,7 @@
       "programme": "Общие языковые занятия, спорт, творчество и поездки. Текущее меню уже показывает Robotics в группах 5–9 и 10–12. Конкретные форма и договор 2027 задают 8–12: три занятия за CHF500. Оскару 6–7 доступна общая программа. В мастер-классе заявлены VEX IQ/V5, Python и 3 D дизайн; PDF содержит «три занятия» в заголовке и «два» в финале. Часы, язык и сложность уточнить: это короткая опция внутри смены.",
       "timing": {
         "status": "published_2027",
-        "label": "2027: пять boarding и пять day вариантов,2 или 4 недели. Даты из summer conditions2027; weekday режим day включает субботу первой недели, поэтому не маркируется как обычныйПн–Пт.",
+        "label": "Те же опубликованные смены 2027 и цены 5–12 подтверждены повторно. Три day-пакета по 2 недели включают субботу первой недели: 11 дней 08:50–18:00, не только Пн–Пт. Два day-пакета по 4 недели остаются окнами: расписание промежуточных суббот не разъяснено.",
         "sessions": [
           [
             "2027-06-27",
@@ -1233,9 +1233,121 @@
             "price": "CHF 6 550 базовая 5–12; опции/insurance/pocketmoney отдельно",
             "place": "Villars-sur-Ollon",
             "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-            "date_scope": "camp_session",
+            "date_scope": "session_days",
             "proof": "Точная строка SummerCamp2027 PDF 5–12; day schedule не обычныйПн–Пт.",
-            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно."
+            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно.",
+            "sessions": [
+              {
+                "date": "2027-06-28",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-06-28T06:50:00Z",
+                "end_utc": "2027-06-28T16:00:00Z"
+              },
+              {
+                "date": "2027-06-29",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-06-29T06:50:00Z",
+                "end_utc": "2027-06-29T16:00:00Z"
+              },
+              {
+                "date": "2027-06-30",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-06-30T06:50:00Z",
+                "end_utc": "2027-06-30T16:00:00Z"
+              },
+              {
+                "date": "2027-07-01",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-01T06:50:00Z",
+                "end_utc": "2027-07-01T16:00:00Z"
+              },
+              {
+                "date": "2027-07-02",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-02T06:50:00Z",
+                "end_utc": "2027-07-02T16:00:00Z"
+              },
+              {
+                "date": "2027-07-03",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-03T06:50:00Z",
+                "end_utc": "2027-07-03T16:00:00Z"
+              },
+              {
+                "date": "2027-07-05",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:50:00Z",
+                "end_utc": "2027-07-05T16:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:50:00Z",
+                "end_utc": "2027-07-06T16:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:50:00Z",
+                "end_utc": "2027-07-07T16:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:50:00Z",
+                "end_utc": "2027-07-08T16:00:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T06:50:00Z",
+                "end_utc": "2027-07-09T16:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-07-12",
@@ -1247,9 +1359,121 @@
             "price": "CHF 6 550 базовая 5–12; опции/insurance/pocketmoney отдельно",
             "place": "Villars-sur-Ollon",
             "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-            "date_scope": "camp_session",
+            "date_scope": "session_days",
             "proof": "Точная строка SummerCamp2027 PDF 5–12; day schedule не обычныйПн–Пт.",
-            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно."
+            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно.",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T06:50:00Z",
+                "end_utc": "2027-07-12T16:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T06:50:00Z",
+                "end_utc": "2027-07-13T16:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T06:50:00Z",
+                "end_utc": "2027-07-14T16:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T06:50:00Z",
+                "end_utc": "2027-07-15T16:00:00Z"
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-16T06:50:00Z",
+                "end_utc": "2027-07-16T16:00:00Z"
+              },
+              {
+                "date": "2027-07-17",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-17T06:50:00Z",
+                "end_utc": "2027-07-17T16:00:00Z"
+              },
+              {
+                "date": "2027-07-19",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:50:00Z",
+                "end_utc": "2027-07-19T16:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:50:00Z",
+                "end_utc": "2027-07-20T16:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:50:00Z",
+                "end_utc": "2027-07-21T16:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:50:00Z",
+                "end_utc": "2027-07-22T16:00:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T06:50:00Z",
+                "end_utc": "2027-07-23T16:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-07-26",
@@ -1261,9 +1485,121 @@
             "price": "CHF 6 550 базовая 5–12; опции/insurance/pocketmoney отдельно",
             "place": "Villars-sur-Ollon",
             "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-            "date_scope": "camp_session",
+            "date_scope": "session_days",
             "proof": "Точная строка SummerCamp2027 PDF 5–12; day schedule не обычныйПн–Пт.",
-            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно."
+            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно.",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T06:50:00Z",
+                "end_utc": "2027-07-26T16:00:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T06:50:00Z",
+                "end_utc": "2027-07-27T16:00:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T06:50:00Z",
+                "end_utc": "2027-07-28T16:00:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T06:50:00Z",
+                "end_utc": "2027-07-29T16:00:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T06:50:00Z",
+                "end_utc": "2027-07-30T16:00:00Z"
+              },
+              {
+                "date": "2027-07-31",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-31T06:50:00Z",
+                "end_utc": "2027-07-31T16:00:00Z"
+              },
+              {
+                "date": "2027-08-02",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-02T06:50:00Z",
+                "end_utc": "2027-08-02T16:00:00Z"
+              },
+              {
+                "date": "2027-08-03",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-03T06:50:00Z",
+                "end_utc": "2027-08-03T16:00:00Z"
+              },
+              {
+                "date": "2027-08-04",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-04T06:50:00Z",
+                "end_utc": "2027-08-04T16:00:00Z"
+              },
+              {
+                "date": "2027-08-05",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-05T06:50:00Z",
+                "end_utc": "2027-08-05T16:00:00Z"
+              },
+              {
+                "date": "2027-08-06",
+                "start_time": "08:50",
+                "end_time": "18:00",
+                "timezone": "Europe/Zurich",
+                "topic": "La Garenne · Day Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-06T06:50:00Z",
+                "end_utc": "2027-08-06T16:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-06-28",
@@ -1275,9 +1611,10 @@
             "price": "CHF 12 400 базовая 5–12; опции/insurance/pocketmoney отдельно",
             "place": "Villars-sur-Ollon",
             "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-            "date_scope": "camp_session",
+            "date_scope": "camp_window",
             "proof": "Точная строка SummerCamp2027 PDF 5–12; day schedule не обычныйПн–Пт.",
-            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно."
+            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно.",
+            "entry": "Дневное окно 4 недель. Уточнить субботы промежуточных недель; это не непрерывный пансион и не подтверждённое посещение всех календарных дней."
           },
           {
             "start": "2027-07-12",
@@ -1289,9 +1626,10 @@
             "price": "CHF 12 400 базовая 5–12; опции/insurance/pocketmoney отдельно",
             "place": "Villars-sur-Ollon",
             "source": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-            "date_scope": "camp_session",
+            "date_scope": "camp_window",
             "proof": "Точная строка SummerCamp2027 PDF 5–12; day schedule не обычныйПн–Пт.",
-            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно."
+            "accommodation": "Day 08:50–18:00; Пн–Сб первой / Пн–Пт второй недели; 4-недельный цикл подтвердить, родители живут отдельно.",
+            "entry": "Дневное окно 4 недель. Уточнить субботы промежуточных недель; это не непрерывный пансион и не подтверждённое посещение всех календарных дней."
           }
         ]
       },
@@ -1302,7 +1640,7 @@
         "extras": "Robotics 8–12 CHF 500 / 3 занятия. Swiss medical insurance 10/day добавляется в invoice; form обязательна для non-Swiss residents, количество оплачиваемых day/student дней подтвердить. Pocket money 5–9: 30/week, 10–12: 50/week; добавляется в invoice. Off-slot Geneva 600, Zurich 900, UM 130, private language 130/week (min 2 = 260). Жильё семьи и перелёты отдельно. Семейная база при одной смене/одном формате и 10%второму: CHF12 445 day или 13 680 boarding; одна Robotics опция+500. Дополнительно 2×10×число оплачиваемых insurance days и pocket money по возрасту; количество дней пока не подставляем.",
         "deposit": "Fees включают невозвратный CHF 500, это не extra. Место подтверждается только полной оплатой. Отмена ≥65 дней: возврат minus 500; позже без возврата. PDF deadlines: 23 апреля Session 1 A/1 B, 7 мая 2 A/2 B, 21 мая 3; для day применение deadline сверить. Extras ≤28 дней невозвратны. Sibling discount 10% второму при одной смене и одинаковом day или board; смешивать форматы братьев не разрешается. Изменение invoice CHF 25."
       },
-      "accommodation": "5–12 boarding: chalet rooms 4–6. Day 08:50–18:00, Пн–Сб первой / Пн–Пт второй недели; для 4 недель цикл подтвердить. Утренний путь родителями, вечером free village shuttle, нет campus pickup. Родительское посещение по appointment; жильё и трансферы взрослых не организуются.",
+      "accommodation": "Пансион 5–12: комнаты 4–6; day без ночёвок 08:50–18:00. Если родители живут поблизости во время смены, PDF разрешает ребёнку только day, не boarding. Пансион братьев и day нельзя смешивать в одной смене. Конкретная техническая опция и язык ведущего отдельно.",
       "family_fit": {
         "matvey": {
           "status": "candidate",
@@ -1323,9 +1661,9 @@
       ],
       "sources": [
         {
-          "title": "Текущий menu2027: Robotics уже есть в 5–9 и 10–12",
+          "title": "Summer Camp · общий обзор",
           "url": "https://www.la-garenne.ch/summer-camps/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         },
         {
           "title": "Workshop PDF:8–12, заголовок 3/finalphrase2, уровень и проекты",
@@ -1333,9 +1671,9 @@
           "checked": "2026-10-05"
         },
         {
-          "title": "Summer2027 conditions:9 страниц, relevant extras/cancellation",
+          "title": "Summer Camp 2027 · conditions / fees / day attendance",
           "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         },
         {
           "title": "Read-only form: конкретные 8–12/500/3",
@@ -1343,7 +1681,7 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-05",
       "language_evidence_role": "language_lessons"
     },
     {
@@ -7352,7 +7690,7 @@
       "programme": "Лес, наблюдение природы, укрытия, игры и творчество; дневной outdoor-отдых. Летние недели Пн–Пт 09–16; конкретную площадку выбирают при записи.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Лето 2027: 05–09.07, 12–16.07, 19–23.07, 26–30.07, 23–27.08. Также 19–30.10.2026 и 08–19.02.2027. Весна напечатана как 2017: в календарь 2027 не перенесена.",
+        "label": "Лето: пять отдельных недель 2027; зима 8–19 февраля — выбор 1 / 2 недель; Christmas MiniCamp 21–23 декабря 2026 — три дня. Весенний год на странице остаётся 2017, поэтому весну 2027 не подтверждаем. Старое осеннее окно сохранено как архив.",
         "sessions": [
           [
             "2027-07-05",
@@ -7381,6 +7719,10 @@
           [
             "2027-02-08",
             "2027-02-19"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-23"
           ]
         ],
         "session_details": [
@@ -7394,7 +7736,59 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T07:00:00Z",
+                "end_utc": "2027-07-05T14:00:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T07:00:00Z",
+                "end_utc": "2027-07-06T14:00:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T07:00:00Z",
+                "end_utc": "2027-07-07T14:00:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T07:00:00Z",
+                "end_utc": "2027-07-08T14:00:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T07:00:00Z",
+                "end_utc": "2027-07-09T14:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-07-12",
@@ -7406,7 +7800,59 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-12",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-12T07:00:00Z",
+                "end_utc": "2027-07-12T14:00:00Z"
+              },
+              {
+                "date": "2027-07-13",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-13T07:00:00Z",
+                "end_utc": "2027-07-13T14:00:00Z"
+              },
+              {
+                "date": "2027-07-14",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-14T07:00:00Z",
+                "end_utc": "2027-07-14T14:00:00Z"
+              },
+              {
+                "date": "2027-07-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-15T07:00:00Z",
+                "end_utc": "2027-07-15T14:00:00Z"
+              },
+              {
+                "date": "2027-07-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-16T07:00:00Z",
+                "end_utc": "2027-07-16T14:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-07-19",
@@ -7418,7 +7864,59 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T07:00:00Z",
+                "end_utc": "2027-07-19T14:00:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T07:00:00Z",
+                "end_utc": "2027-07-20T14:00:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T07:00:00Z",
+                "end_utc": "2027-07-21T14:00:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T07:00:00Z",
+                "end_utc": "2027-07-22T14:00:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T07:00:00Z",
+                "end_utc": "2027-07-23T14:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-07-26",
@@ -7430,7 +7928,59 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T07:00:00Z",
+                "end_utc": "2027-07-26T14:00:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T07:00:00Z",
+                "end_utc": "2027-07-27T14:00:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T07:00:00Z",
+                "end_utc": "2027-07-28T14:00:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T07:00:00Z",
+                "end_utc": "2027-07-29T14:00:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T07:00:00Z",
+                "end_utc": "2027-07-30T14:00:00Z"
+              }
+            ]
           },
           {
             "start": "2027-08-23",
@@ -7442,7 +7992,59 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-08-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-23T07:00:00Z",
+                "end_utc": "2027-08-23T14:00:00Z"
+              },
+              {
+                "date": "2027-08-24",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-24T07:00:00Z",
+                "end_utc": "2027-08-24T14:00:00Z"
+              },
+              {
+                "date": "2027-08-25",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-25T07:00:00Z",
+                "end_utc": "2027-08-25T14:00:00Z"
+              },
+              {
+                "date": "2027-08-26",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-26T07:00:00Z",
+                "end_utc": "2027-08-26T14:00:00Z"
+              },
+              {
+                "date": "2027-08-27",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-08-27T07:00:00Z",
+                "end_utc": "2027-08-27T14:00:00Z"
+              }
+            ]
           },
           {
             "start": "2026-10-19",
@@ -7466,16 +8068,162 @@
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window"
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T08:00:00Z",
+                "end_utc": "2027-02-08T15:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T08:00:00Z",
+                "end_utc": "2027-02-09T15:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T08:00:00Z",
+                "end_utc": "2027-02-10T15:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T08:00:00Z",
+                "end_utc": "2027-02-11T15:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T08:00:00Z",
+                "end_utc": "2027-02-12T15:00:00Z"
+              },
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T08:00:00Z",
+                "end_utc": "2027-02-15T15:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T08:00:00Z",
+                "end_utc": "2027-02-16T15:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T08:00:00Z",
+                "end_utc": "2027-02-17T15:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T08:00:00Z",
+                "end_utc": "2027-02-18T15:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T08:00:00Z",
+                "end_utc": "2027-02-19T15:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-23",
+            "label": "Christmas MiniCamp · три дня",
+            "price": "Тариф трёх дней не опубликован; недельные 380 не переносим и не делим автоматически.",
+            "place": "Париж / Saint-Germain-en-Laye",
+            "source": "https://www.wanderandwonderclub.com/holiday-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T08:00:00Z",
+                "end_utc": "2026-12-21T15:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T08:00:00Z",
+                "end_utc": "2026-12-22T15:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "16:00",
+                "timezone": "Europe/Paris",
+                "topic": "English Nature Camp",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T08:00:00Z",
+                "end_utc": "2026-12-23T15:00:00Z"
+              }
+            ]
           }
         ]
       },
       "price": {
         "year": 2027,
-        "label": "Летний продукт: €380/неделю; summer-page обещает €360/нед. при двух и более неделях. Holiday: €380 за одну неделю или €720/две. Применение скидки в итоговом расчёте подтвердить.",
+        "label": "Лето / обычные holiday-недели: EUR 380 за 1 неделю; EUR 360 за неделю при выборе 2 и более недель одним ребёнком. Два брата на одну неделю не равны многонедельной скидке. Christmas MiniCamp 21–23 декабря: отдельный трёхдневный тариф не опубликован.",
         "included": "Дневные занятия и два перекуса; это указано и для летних, и для holiday-недель.",
         "extras": "Обед с собой, жильё семьи, дорога и одежда для outdoor.",
-        "deposit": "Полные условия оплаты и отмены выбранного сезона ещё подтвердить."
+        "deposit": "Terms & Conditions ведут на незаполненный шаблон Wix о том, как писать условия. Реальный договор, срок оплаты, отмена, возврат, погода и переносы не установлены. До брони нужен договор именно выбранной смены; шаблон не принят за правила оператора."
       },
       "accommodation": "Без ночёвок; Bois de Boulogne или лес Saint-Germain-en-Laye, точная точка встречи после выбора площадки.",
       "family_fit": {
@@ -7494,13 +8242,14 @@
         "general"
       ],
       "questions": [
-        "Подтвердить площадку, группировку братьев, питание, скидки и отмену; исправленный год весенней программы получить у оператора."
+        "Подтвердить конкретную площадку и группу братьев, наличие мест, реальный договор и правила погоды / отмены. Christmas: получить цену именно трёх дней.",
+        "Два перекуса включены, lunchbox свой. Полная поездка, цена public transport для экскурсии и страховка отдельно. Исправленный год весны получить у оператора."
       ],
       "sources": [
         {
-          "title": "Лето 2027",
+          "title": "Летние недели 2027, EN и многонедельная цена",
           "url": "https://www.wanderandwonderclub.com/summer-camp",
-          "checked": "2026-10-04"
+          "checked": "2026-11-05"
         },
         {
           "title": "Летние недели, цена и площадки",
@@ -7508,12 +8257,17 @@
           "checked": "2026-10-04"
         },
         {
-          "title": "Другие каникулы / питание / опечатка года",
+          "title": "Christmas 2026, зима 2027 и опечатка весны",
           "url": "https://www.wanderandwonderclub.com/holiday-camp",
-          "checked": "2026-10-04"
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Незаполненный шаблон условий · не договор",
+          "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-04",
+      "checked": "2026-11-05",
       "language_evidence_role": "camp_life"
     },
     {
@@ -7535,10 +8289,10 @@
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "Практика английского через культурные задания и командные проекты. Пн–Пт 08:30–16:30; стандарт и premium с online-подготовкой/сопровождением. Максимум группы 12 — заявление оператора.",
+      "programme": "Языковой дневной лагерь 8–17, группы 8–10 / 11–12 / 13–14 / 15–17, максимум 12 по brochure. Все уровни английского принимаются; утром English workshops, после обеда игры, культура и спорт, английский во всех взаимодействиях. Пансиона нет. Premium brochure: 3 индивидуальных онлайн-сессии до, 1 после и тест; точную комплектацию согласовать из-за неоднозначной нумерации на странице.",
       "timing": {
         "status": "published_2026_27",
-        "label": "Общая осень 19–23.10.2026; зима/весна 2027 по городам ниже. Текущая страница под тарифами 2026/27 оставляет лето 29.06–24.07.2026; поисковый снимок показывал другие даты 2027. Лето 2027 до устранения расхождения не создаём в календаре.",
+        "label": "Brochure 2026/27 и текущая страница подтверждают лето 5–30 июля 2027 во всех трёх городах: четыре недельных варианта на город. Зима / весна сохранены. Реальные дни 08:30–16:30 вынесены отдельно; неделя 12–16 июля остаётся окном из-за неопределённости 14 июля.",
         "sessions": [
           [
             "2026-10-19",
@@ -7575,6 +8329,54 @@
           [
             "2027-04-12",
             "2027-04-16"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
+          ],
+          [
+            "2027-07-05",
+            "2027-07-09"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-16"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-23"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-30"
           ]
         ],
         "session_details": [
@@ -7596,26 +8398,130 @@
             "end": "2027-02-12",
             "label": "Париж · Зима",
             "price": "€340 стандарт / €430 premium за неделю · тариф 2026/27",
-            "place": "Париж",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window",
-            "variant_key": "paris-winter"
+            "date_scope": "session_days",
+            "variant_key": "paris-winter",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T07:30:00Z",
+                "end_utc": "2027-02-08T15:30:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T07:30:00Z",
+                "end_utc": "2027-02-09T15:30:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T07:30:00Z",
+                "end_utc": "2027-02-10T15:30:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T07:30:00Z",
+                "end_utc": "2027-02-11T15:30:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T07:30:00Z",
+                "end_utc": "2027-02-12T15:30:00Z"
+              }
+            ]
           },
           {
             "start": "2027-04-05",
             "end": "2027-04-09",
             "label": "Париж · Весна",
             "price": "€340 стандарт / €430 premium за неделю · тариф 2026/27",
-            "place": "Париж",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window",
-            "variant_key": "paris-spring"
+            "date_scope": "session_days",
+            "variant_key": "paris-spring",
+            "sessions": [
+              {
+                "date": "2027-04-05",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-05T06:30:00Z",
+                "end_utc": "2027-04-05T14:30:00Z"
+              },
+              {
+                "date": "2027-04-06",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-06T06:30:00Z",
+                "end_utc": "2027-04-06T14:30:00Z"
+              },
+              {
+                "date": "2027-04-07",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-07T06:30:00Z",
+                "end_utc": "2027-04-07T14:30:00Z"
+              },
+              {
+                "date": "2027-04-08",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-08T06:30:00Z",
+                "end_utc": "2027-04-08T14:30:00Z"
+              },
+              {
+                "date": "2027-04-09",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-09T06:30:00Z",
+                "end_utc": "2027-04-09T14:30:00Z"
+              }
+            ]
           },
           {
             "start": "2026-10-19",
@@ -7635,26 +8541,130 @@
             "end": "2027-02-26",
             "label": "Ницца · Зима",
             "price": "€340 стандарт / €430 premium за неделю · тариф 2026/27",
-            "place": "Ницца",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window",
-            "variant_key": "nice-winter"
+            "date_scope": "session_days",
+            "variant_key": "nice-winter",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T07:30:00Z",
+                "end_utc": "2027-02-22T15:30:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T07:30:00Z",
+                "end_utc": "2027-02-23T15:30:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T07:30:00Z",
+                "end_utc": "2027-02-24T15:30:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T07:30:00Z",
+                "end_utc": "2027-02-25T15:30:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T07:30:00Z",
+                "end_utc": "2027-02-26T15:30:00Z"
+              }
+            ]
           },
           {
             "start": "2027-04-19",
             "end": "2027-04-23",
             "label": "Ницца · Весна",
             "price": "€340 стандарт / €430 premium за неделю · тариф 2026/27",
-            "place": "Ницца",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window",
-            "variant_key": "nice-spring"
+            "date_scope": "session_days",
+            "variant_key": "nice-spring",
+            "sessions": [
+              {
+                "date": "2027-04-19",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-19T06:30:00Z",
+                "end_utc": "2027-04-19T14:30:00Z"
+              },
+              {
+                "date": "2027-04-20",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-20T06:30:00Z",
+                "end_utc": "2027-04-20T14:30:00Z"
+              },
+              {
+                "date": "2027-04-21",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-21T06:30:00Z",
+                "end_utc": "2027-04-21T14:30:00Z"
+              },
+              {
+                "date": "2027-04-22",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-22T06:30:00Z",
+                "end_utc": "2027-04-22T14:30:00Z"
+              },
+              {
+                "date": "2027-04-23",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-23T06:30:00Z",
+                "end_utc": "2027-04-23T14:30:00Z"
+              }
+            ]
           },
           {
             "start": "2026-10-19",
@@ -7674,26 +8684,760 @@
             "end": "2027-02-19",
             "label": "Биарриц · Зима",
             "price": "€360 стандарт / €450 premium за неделю · тариф 2026/27",
-            "place": "Биарриц",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
-            "date_scope": "day_camp_window",
-            "variant_key": "biarritz-winter"
+            "date_scope": "session_days",
+            "variant_key": "biarritz-winter",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T07:30:00Z",
+                "end_utc": "2027-02-15T15:30:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T07:30:00Z",
+                "end_utc": "2027-02-16T15:30:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T07:30:00Z",
+                "end_utc": "2027-02-17T15:30:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T07:30:00Z",
+                "end_utc": "2027-02-18T15:30:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T07:30:00Z",
+                "end_utc": "2027-02-19T15:30:00Z"
+              }
+            ]
           },
           {
             "start": "2027-04-12",
             "end": "2027-04-16",
             "label": "Биарриц · Весна",
             "price": "€360 стандарт / €450 premium за неделю · тариф 2026/27",
-            "place": "Биарриц",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
             "source": "https://ih.fl-france.com/anglais/day-camp/",
             "formats": [
               "day"
             ],
+            "date_scope": "session_days",
+            "variant_key": "biarritz-spring",
+            "sessions": [
+              {
+                "date": "2027-04-12",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-12T06:30:00Z",
+                "end_utc": "2027-04-12T14:30:00Z"
+              },
+              {
+                "date": "2027-04-13",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-13T06:30:00Z",
+                "end_utc": "2027-04-13T14:30:00Z"
+              },
+              {
+                "date": "2027-04-14",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-14T06:30:00Z",
+                "end_utc": "2027-04-14T14:30:00Z"
+              },
+              {
+                "date": "2027-04-15",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-15T06:30:00Z",
+                "end_utc": "2027-04-15T14:30:00Z"
+              },
+              {
+                "date": "2027-04-16",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-04-16T06:30:00Z",
+                "end_utc": "2027-04-16T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Paris · Лето · неделя 1",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "paris-summer-1",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:30:00Z",
+                "end_utc": "2027-07-05T14:30:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:30:00Z",
+                "end_utc": "2027-07-06T14:30:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:30:00Z",
+                "end_utc": "2027-07-07T14:30:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:30:00Z",
+                "end_utc": "2027-07-08T14:30:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T06:30:00Z",
+                "end_utc": "2027-07-09T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Paris · Лето · неделя 2",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
             "date_scope": "day_camp_window",
-            "variant_key": "biarritz-spring"
+            "variant_key": "paris-summer-2",
+            "attendance_weekdays": [],
+            "entry": "12–16 июля: в CGV есть общее исключение занятий в праздничные дни; работа Holiday Camp 14 июля отдельно не подтверждена. Сохраняем недельное окно, без обещания пяти фактических дней и без рассчитанной скидки."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Paris · Лето · неделя 3",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "paris-summer-3",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:30:00Z",
+                "end_utc": "2027-07-19T14:30:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:30:00Z",
+                "end_utc": "2027-07-20T14:30:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:30:00Z",
+                "end_utc": "2027-07-21T14:30:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:30:00Z",
+                "end_utc": "2027-07-22T14:30:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T06:30:00Z",
+                "end_utc": "2027-07-23T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Paris · Лето · неделя 4",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Paris · 9 rue de Saint-Pétersbourg · 75008",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "paris-summer-4",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T06:30:00Z",
+                "end_utc": "2027-07-26T14:30:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T06:30:00Z",
+                "end_utc": "2027-07-27T14:30:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T06:30:00Z",
+                "end_utc": "2027-07-28T14:30:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T06:30:00Z",
+                "end_utc": "2027-07-29T14:30:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T06:30:00Z",
+                "end_utc": "2027-07-30T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Nice · Лето · неделя 1",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "nice-summer-1",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:30:00Z",
+                "end_utc": "2027-07-05T14:30:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:30:00Z",
+                "end_utc": "2027-07-06T14:30:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:30:00Z",
+                "end_utc": "2027-07-07T14:30:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:30:00Z",
+                "end_utc": "2027-07-08T14:30:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T06:30:00Z",
+                "end_utc": "2027-07-09T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Nice · Лето · неделя 2",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "variant_key": "nice-summer-2",
+            "attendance_weekdays": [],
+            "entry": "12–16 июля: в CGV есть общее исключение занятий в праздничные дни; работа Holiday Camp 14 июля отдельно не подтверждена. Сохраняем недельное окно, без обещания пяти фактических дней и без рассчитанной скидки."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Nice · Лето · неделя 3",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "nice-summer-3",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:30:00Z",
+                "end_utc": "2027-07-19T14:30:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:30:00Z",
+                "end_utc": "2027-07-20T14:30:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:30:00Z",
+                "end_utc": "2027-07-21T14:30:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:30:00Z",
+                "end_utc": "2027-07-22T14:30:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T06:30:00Z",
+                "end_utc": "2027-07-23T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Nice · Лето · неделя 4",
+            "price": "EUR 340 стандарт / 430 premium за неделю",
+            "place": "Nice · 3 rue Alfred Mortier · 06100",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "nice-summer-4",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T06:30:00Z",
+                "end_utc": "2027-07-26T14:30:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T06:30:00Z",
+                "end_utc": "2027-07-27T14:30:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T06:30:00Z",
+                "end_utc": "2027-07-28T14:30:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T06:30:00Z",
+                "end_utc": "2027-07-29T14:30:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T06:30:00Z",
+                "end_utc": "2027-07-30T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-09",
+            "label": "Biarritz · Лето · неделя 1",
+            "price": "EUR 360 стандарт / 450 premium за неделю",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "biarritz-summer-1",
+            "sessions": [
+              {
+                "date": "2027-07-05",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-05T06:30:00Z",
+                "end_utc": "2027-07-05T14:30:00Z"
+              },
+              {
+                "date": "2027-07-06",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-06T06:30:00Z",
+                "end_utc": "2027-07-06T14:30:00Z"
+              },
+              {
+                "date": "2027-07-07",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-07T06:30:00Z",
+                "end_utc": "2027-07-07T14:30:00Z"
+              },
+              {
+                "date": "2027-07-08",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-08T06:30:00Z",
+                "end_utc": "2027-07-08T14:30:00Z"
+              },
+              {
+                "date": "2027-07-09",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-09T06:30:00Z",
+                "end_utc": "2027-07-09T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-16",
+            "label": "Biarritz · Лето · неделя 2",
+            "price": "EUR 360 стандарт / 450 premium за неделю",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "variant_key": "biarritz-summer-2",
+            "attendance_weekdays": [],
+            "entry": "12–16 июля: в CGV есть общее исключение занятий в праздничные дни; работа Holiday Camp 14 июля отдельно не подтверждена. Сохраняем недельное окно, без обещания пяти фактических дней и без рассчитанной скидки."
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-23",
+            "label": "Biarritz · Лето · неделя 3",
+            "price": "EUR 360 стандарт / 450 premium за неделю",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "biarritz-summer-3",
+            "sessions": [
+              {
+                "date": "2027-07-19",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-19T06:30:00Z",
+                "end_utc": "2027-07-19T14:30:00Z"
+              },
+              {
+                "date": "2027-07-20",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-20T06:30:00Z",
+                "end_utc": "2027-07-20T14:30:00Z"
+              },
+              {
+                "date": "2027-07-21",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-21T06:30:00Z",
+                "end_utc": "2027-07-21T14:30:00Z"
+              },
+              {
+                "date": "2027-07-22",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-22T06:30:00Z",
+                "end_utc": "2027-07-22T14:30:00Z"
+              },
+              {
+                "date": "2027-07-23",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-23T06:30:00Z",
+                "end_utc": "2027-07-23T14:30:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-30",
+            "label": "Biarritz · Лето · неделя 4",
+            "price": "EUR 360 стандарт / 450 premium за неделю",
+            "place": "Biarritz · 6 avenue Jaulerry · 64200",
+            "source": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "variant_key": "biarritz-summer-4",
+            "sessions": [
+              {
+                "date": "2027-07-26",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-26T06:30:00Z",
+                "end_utc": "2027-07-26T14:30:00Z"
+              },
+              {
+                "date": "2027-07-27",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-27T06:30:00Z",
+                "end_utc": "2027-07-27T14:30:00Z"
+              },
+              {
+                "date": "2027-07-28",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-28T06:30:00Z",
+                "end_utc": "2027-07-28T14:30:00Z"
+              },
+              {
+                "date": "2027-07-29",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-29T06:30:00Z",
+                "end_utc": "2027-07-29T14:30:00Z"
+              },
+              {
+                "date": "2027-07-30",
+                "start_time": "08:30",
+                "end_time": "16:30",
+                "timezone": "Europe/Paris",
+                "topic": "English Holiday Camp",
+                "ical_timed": true,
+                "start_utc": "2027-07-30T06:30:00Z",
+                "end_utc": "2027-07-30T14:30:00Z"
+              }
+            ]
           }
         ],
         "variant_keyed": true
@@ -7701,9 +9445,9 @@
       "price": {
         "year": 2027,
         "label": "Учебный год 2026/27: Париж/Ницца €340 стандарт или €430 premium за неделю; Биарриц €360/€450.",
-        "included": "Языковая дневная программа; premium добавляет online-занятия, их количество в блоках страницы расходится.",
-        "extras": "Холодный обед с собой, дорога и жильё семьи. Premium — отдельный тариф, не обязательная доплата.",
-        "deposit": "Полные условия оплаты и отмены выбранного сезона ещё подтвердить."
+        "included": "Стандарт: недельная дневная программа; registration fee отменён. Premium: отдельный пакет с online-подготовкой и итоговой сессией, не обязательная доплата.",
+        "extras": "Холодный обед с собой; возможный транспорт по активностям, страховка и семейная поездка отдельно. Недельный тариф на праздничной неделе не уменьшен без счёта.",
+        "deposit": "Brochure 2026/27 отменяет registration fee. Общие CGV предусматривают полную оплату для окончательного зачисления и отдельные условия несовершеннолетним / не-ЕЭЗ. Применимость разделов отмены именно к English Holiday Camp и premium нужно письменно подтвердить: 14-дневный отказ в CGV прямо относится только к French courses. Не переносим его автоматически на этот лагерь."
       },
       "accommodation": "Только днём; три городские площадки, не пансион.",
       "family_fit": {
@@ -7721,16 +9465,33 @@
         "general"
       ],
       "questions": [
-        "Подтвердить конкретный адрес, доступные места, premium-пакет и отмену. Для Оскара нужен другой оператор."
+        "Подтвердить места, адрес, работу 14 июля и условия English Holiday Camp для иностранного несовершеннолетнего; Оскару нужен лагерь с минимумом ниже 8.",
+        "Уточнить местный транспорт, страхование, premium-пакет, оплату и отмену. Полный недельный тариф не гарантирует пять дней при праздничном исключении."
       ],
       "sources": [
         {
-          "title": "Программы, календарь 2026/27 и тарифы",
+          "title": "Текущая страница · лето 2027",
           "url": "https://ih.fl-france.com/anglais/day-camp/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Holiday Camp 2026/27 · PDF",
+          "url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Holiday Camp Premium 2026/27 · PDF",
+          "url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-Premium-avec-HiPe-Kids-2026-2027.pdf",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "CGV · применимость к английскому лагерю уточнить",
+          "url": "https://sejour.fl-france.fr/cgv/",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-11-05",
+      "language_evidence_role": "primary"
     },
     {
       "id": "CP062",
@@ -128602,6 +130363,158 @@
         }
       ],
       "checked": "2026-11-04"
+    },
+    {
+      "id": "CP1173",
+      "slug": "nld-english-spain-2027",
+      "provider": "NLD Education · English Camp España 2027",
+      "country": "Испания",
+      "iso": "ESP",
+      "place": "Salamanca / Granada / Zaragoza",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "8–15; Матвей 9–10 в 2027, Оскар 6–7 ниже минимума",
+      "language": "Оператор прямо указывает английский для уроков, активностей, экскурсий и всей лагерной жизни. Испанский сайт не означает испанский язык программы.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "programme": "Общий языковой пансион: английский, спорт, театр, кино, debate, творчество и robotics в примерном плане. NLD League Houses — внутренняя игра домов; её очки и награды не мировая соревновательная лига. Отдельный робототехнический интенсив, конкретный kit и число технических часов не подтверждены.",
+      "timing": {
+        "status": "published_2027",
+        "label": "Опубликовано общее окно 4–25 июля 2027 во всех трёх городах и выбор 1 / 2 / 3 недель. Все комбинации заездов не перечислены: это окно выбора, а не подтверждённое проживание на 22 календарных дня. Даты конкретного пакета получить в ficha técnica.",
+        "variant_keyed": true,
+        "sessions": [
+          [
+            "2027-07-04",
+            "2027-07-25"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-25"
+          ],
+          [
+            "2027-07-04",
+            "2027-07-25"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-25",
+            "variant_key": "salamanca",
+            "label": "Salamanca · окно выбора 1 / 2 / 3 недель",
+            "place": "Salamanca",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window",
+            "price": "EUR 960 / 1 неделя; 1850 / 2 недели; 2680 / 3 недели на ребёнка. Одинаковые цены в Salamanca, Granada и Zaragoza. Точные заезды коротких пакетов ещё не указаны.",
+            "source": "https://www.nldeducation.com/english-camp-espana-2027/",
+            "entry": "Опубликовано общее окно 4–25 июля 2027 во всех трёх городах и выбор 1 / 2 / 3 недель. Все комбинации заездов не перечислены: это окно выбора, а не подтверждённое проживание на 22 календарных дня. Даты конкретного пакета получить в ficha técnica.",
+            "questions": [
+              "Получить ficha técnica с названием и адресом резиденции, выбранными датами 1 / 2 / 3 недель и местом для иностранного ребёнка.",
+              "Подтвердить требуемый английский: в примерном плане группы A2–C1; это не опубликованный обязательный порог допуска.",
+              "Уточнить robotics: фактические часы, оборудование, ведущего и обязательность / выбор занятия. Примерный план не гарантирует ежедневный технический интенсив.",
+              "Получить полный счёт, страховку, трансфер, минимальную группу и правила отмены; общий минимум группы 15 может уточняться в ficha técnica."
+            ]
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-25",
+            "variant_key": "granada",
+            "label": "Granada · окно выбора 1 / 2 / 3 недель",
+            "place": "Granada",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window",
+            "price": "EUR 960 / 1 неделя; 1850 / 2 недели; 2680 / 3 недели на ребёнка. Одинаковые цены в Salamanca, Granada и Zaragoza. Точные заезды коротких пакетов ещё не указаны.",
+            "source": "https://www.nldeducation.com/english-camp-espana-2027/",
+            "entry": "Опубликовано общее окно 4–25 июля 2027 во всех трёх городах и выбор 1 / 2 / 3 недель. Все комбинации заездов не перечислены: это окно выбора, а не подтверждённое проживание на 22 календарных дня. Даты конкретного пакета получить в ficha técnica.",
+            "questions": [
+              "Получить ficha técnica с названием и адресом резиденции, выбранными датами 1 / 2 / 3 недель и местом для иностранного ребёнка.",
+              "Подтвердить требуемый английский: в примерном плане группы A2–C1; это не опубликованный обязательный порог допуска.",
+              "Уточнить robotics: фактические часы, оборудование, ведущего и обязательность / выбор занятия. Примерный план не гарантирует ежедневный технический интенсив.",
+              "Получить полный счёт, страховку, трансфер, минимальную группу и правила отмены; общий минимум группы 15 может уточняться в ficha técnica."
+            ]
+          },
+          {
+            "start": "2027-07-04",
+            "end": "2027-07-25",
+            "variant_key": "zaragoza",
+            "label": "Zaragoza · окно выбора 1 / 2 / 3 недель",
+            "place": "Zaragoza",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window",
+            "price": "EUR 960 / 1 неделя; 1850 / 2 недели; 2680 / 3 недели на ребёнка. Одинаковые цены в Salamanca, Granada и Zaragoza. Точные заезды коротких пакетов ещё не указаны.",
+            "source": "https://www.nldeducation.com/english-camp-espana-2027/",
+            "entry": "Опубликовано общее окно 4–25 июля 2027 во всех трёх городах и выбор 1 / 2 / 3 недель. Все комбинации заездов не перечислены: это окно выбора, а не подтверждённое проживание на 22 календарных дня. Даты конкретного пакета получить в ficha técnica.",
+            "questions": [
+              "Получить ficha técnica с названием и адресом резиденции, выбранными датами 1 / 2 / 3 недель и местом для иностранного ребёнка.",
+              "Подтвердить требуемый английский: в примерном плане группы A2–C1; это не опубликованный обязательный порог допуска.",
+              "Уточнить robotics: фактические часы, оборудование, ведущего и обязательность / выбор занятия. Примерный план не гарантирует ежедневный технический интенсив.",
+              "Получить полный счёт, страховку, трансфер, минимальную группу и правила отмены; общий минимум группы 15 может уточняться в ficha técnica."
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "EUR 960 / 1 неделя; 1850 / 2 недели; 2680 / 3 недели на ребёнка. Одинаковые цены в Salamanca, Granada и Zaragoza. Точные заезды коротких пакетов ещё не указаны.",
+        "included": "Пансион и питание в резиденции, учебная и социальная программа заявлены. Налоги и management fee 300 включены по общим условиям. Точный перечень услуг выбранного тарифа закрепляется ficha técnica.",
+        "extras": "Перелёты, страховка и трансфер к резиденции в цену явно не включены. Финальный email-счёт имеет приоритет над ценой сайта. Техника / модель робота / часы robotics не опубликованы; покупку набора не закладываем как подтверждённую обязанность.",
+        "deposit": "Бронь не подтверждается одной формой: оператор проверяет места и выдаёт ficha técnica / счёт. Сумма аванса назначается отдельно и входит в цену; остаток максимум за 45 дней до начала. Включённый management fee EUR 300 для Европы не добавлять повторно. При отмене этот сбор, визовые / почтовые расходы и возможные удержания поставщика не возвращают; дополнительно 10% за 90–60 дней, 25% за 31–60, 40% за 8–30, 100% за 7 и менее дней / неявку. На границе 60 дней две ставки, ранняя отмена описана не полностью — получить точное правило выбранного пакета. Условия не принимались."
+      },
+      "accommodation": "Salamanca: campus и отдельные спальни в общих апартаментах; Granada / Zaragoza: студенческие резиденции. Названия площадок и точные адреса не опубликованы, не подставляем случайный университет. Жильё родителей отдельно.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст подходит 8–15; иностранный приём, уровень, конкретный заезд и место ещё подтвердить."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Весь 2027 год 6–7: минимум 8 не достигается. Сопровождение старшего брата не отменяет правило."
+        }
+      },
+      "editorial_reason": "Кандидат Матвею на английский пансион с разнообразными занятиями в Испании; доступный прайс не доказывает мировой рейтинг качества или интенсивность робототехники.",
+      "shortlist": [
+        "general"
+      ],
+      "questions": [
+        "Получить ficha técnica с названием и адресом резиденции, выбранными датами 1 / 2 / 3 недель и местом для иностранного ребёнка.",
+        "Подтвердить требуемый английский: в примерном плане группы A2–C1; это не опубликованный обязательный порог допуска.",
+        "Уточнить robotics: фактические часы, оборудование, ведущего и обязательность / выбор занятия. Примерный план не гарантирует ежедневный технический интенсив.",
+        "Получить полный счёт, страховку, трансфер, минимальную группу и правила отмены; общий минимум группы 15 может уточняться в ficha técnica."
+      ],
+      "sources": [
+        {
+          "title": "English Camp España 2027 · города, язык, цены и окно",
+          "url": "https://www.nldeducation.com/english-camp-espana-2027/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Порядок брони и подтверждение места",
+          "url": "https://www.nldeducation.com/como-reservar/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Оплата, включённый management fee и отмена",
+          "url": "https://www.nldeducation.com/condiciones-generales-contratacion/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05"
     }
   ],
   "gaps": [
@@ -133847,10 +135760,10 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 148,
+  "version": 150,
   "family_review": {
-    "version": 136,
-    "asof": "2026-10-06",
+    "version": 150,
+    "asof": "2026-11-05",
     "entries": [
       {
         "slug": "la-garenne",
@@ -134531,6 +136444,17 @@
         "reason": "Общий младший EN-led научный трек для братьев, если оба в текущих 1–4 классах.",
         "key_limit": "Двуязычная среда; preschool не подходит. Ранний срок 16 октября, late pickup отдельно.",
         "dossier_checked": "2026-10-06"
+      },
+      {
+        "slug": "nld-english-spain-2027",
+        "goals": [
+          "general",
+          "boarding"
+        ],
+        "reason": "Сравнить три испанских города для английского пансиона Матвея.",
+        "key_limit": "8–15 исключает Оскара. Robotics в примерном плане, без доказанного технического интенсива; конкретные короткие заезды и адреса резиденций ещё нужны.",
+        "dossier_checked": "2026-11-05",
+        "evidence": "editorial_interpretation_of_linked_primary_dossier"
       }
     ],
     "title": "С чего начать семье: общий отдых, техника и пансион",

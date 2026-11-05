@@ -1,0 +1,184 @@
+[
+  {
+    "key": "nld-english",
+    "url": "https://www.nldeducation.com/english-camp-espana-2027/",
+    "final_url": "https://www.nldeducation.com/english-camp-espana-2027/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 230353,
+    "sha256": "7b56404aa21d1eafdf99a1e1138f4af7098bcc22b34dbf3be12f305f04c63d4f",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "nld-booking",
+    "url": "https://www.nldeducation.com/como-reservar/",
+    "final_url": "https://www.nldeducation.com/como-reservar/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 187043,
+    "sha256": "5b3e3d79324bfa7e756055bbaa40d002df9c215675831cd4f4b46e71eb20f972",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "la-garenne-summer",
+    "url": "https://www.la-garenne.ch/summer-camps/",
+    "final_url": "https://www.la-garenne.ch/summer-camps/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 558813,
+    "sha256": "4ff554f7352e2012e345df17a2555e5e7b4b65a046c25fc96e5f2188f76e3d16",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "la-garenne-pdf",
+    "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+    "final_url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 1074363,
+    "sha256": "114a583a8a6a573e2e16e8f320767ba97f606301afbf7cf1b9632ad749d0b536",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ih-day-camp",
+    "url": "https://ih.fl-france.com/anglais/day-camp/",
+    "final_url": "https://ih.fl-france.com/anglais/day-camp/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 135422,
+    "sha256": "8018d4b773889d737dbb1ce73124e57c8d3ff87d675cef010ecea7a4cb58d2f3",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "wander-summer",
+    "url": "https://www.wanderandwonderclub.com/summer-camp",
+    "final_url": "https://www.wanderandwonderclub.com/summer-camp",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 2186262,
+    "sha256": "c89ceff1516c7e8af746c0ffbabf4bf1c8f5fbbacd52f46a4cc46deed988ff04",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "wander-holiday",
+    "url": "https://www.wanderandwonderclub.com/holiday-camp",
+    "final_url": "https://www.wanderandwonderclub.com/holiday-camp",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 1823226,
+    "sha256": "b886c44f0d2393cdce3c7bf88045c0ac0a43df3e879e443b31d8b44b2bc08ea9",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ermitage-holiday",
+    "url": "https://fr.ermitage.fr/activities/holidaycamp",
+    "final_url": "https://fr.ermitage.fr/activities/holidaycamp",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 113300,
+    "sha256": "8aca0d439f0e06416a954b802c31fbb5c94a1af71014882489091ed28c30777b",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "camp-suisse-prices",
+    "url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+    "final_url": "https://www.campsuisse.com/register-online/dates-and-prices/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 67963,
+    "sha256": "120ceeec72ed2ad4030cc6cd9c3d9d8b26d5360bea599c3140b82efe4abc80d0",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "tasis-prices",
+    "url": "https://summer.tasis.ch/dates-and-fees",
+    "final_url": "https://summer.tasis.ch/dates-and-fees",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 38705,
+    "sha256": "e7505b2786449320d1498cc489c31231de9a23cd5a9a30deda847d5b7b98e73a",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "sotogrande",
+    "url": "https://www.sis.ac/school-life/summer-camps",
+    "final_url": "https://www.sis.ac/school-life/summer-camps",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 1975,
+    "sha256": "b3d77bbc1ddfb684bc09d83ce7a67d52b4347479a4259430018d81db582eca16",
+    "checked": "2026-11-05",
+    "evidence_limit": "HTTP 200 challenge / access wrapper; no current programme facts established"
+  },
+  {
+    "key": "kings-soto",
+    "url": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+    "final_url": "https://www.madrid-soto.kingscollegeschools.org/en/summer-camps",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 2813,
+    "sha256": "b7410ee2210acfe753ad08978f92345e2933c8201a15461b293fc2f771d6aebc",
+    "checked": "2026-11-05",
+    "evidence_limit": "HTTP 200 challenge / access wrapper; no current programme facts established"
+  },
+  {
+    "key": "tecs-puerto",
+    "url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+    "final_url": "https://www.tecs.es/tecs/tecs-puerto-kids/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 134241,
+    "sha256": "b3bdb7ce7405ddd4a942d5b39515e86edb86999464c3e9cbf600547dcaa5bace",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ih-brochure",
+    "url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+    "final_url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-2026-2027.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2425540,
+    "sha256": "091eb7ca1583ced28d4f4e5b15d96833e069cb9ee4087ca39b32b95073b0836a",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ih-premium",
+    "url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-Premium-avec-HiPe-Kids-2026-2027.pdf",
+    "final_url": "https://ih.fl-france.com/wp-content/uploads/2026/07/Brochure-Holiday-Camp-Premium-avec-HiPe-Kids-2026-2027.pdf",
+    "status": 200,
+    "mime": "application/pdf",
+    "bytes": 2704607,
+    "sha256": "7383e3116c77ec983232b5bd434f2b7999e0cc139ad80bfd9c570f919e3139c0",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "ih-terms",
+    "url": "https://sejour.fl-france.fr/cgv/",
+    "final_url": "https://sejour.fl-france.fr/cgv/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 363680,
+    "sha256": "048cddd2ed894becd94f85b891c5d88c58e722586faaf5f8cad03df017cb1e3a",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "nld-terms",
+    "url": "https://www.nldeducation.com/condiciones-generales-contratacion/",
+    "final_url": "https://www.nldeducation.com/condiciones-generales-contratacion/",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 214112,
+    "sha256": "3928e18fb1f2bea09b7ea7895be7f05713b6c28f01a2edac3601cddda134847a",
+    "checked": "2026-11-05"
+  },
+  {
+    "key": "wander-terms",
+    "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+    "final_url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+    "status": 200,
+    "mime": "text/html",
+    "bytes": 1074199,
+    "sha256": "51d3e2b0b37cbc11ed7e4ce5315449a4fbfce4cb3a97c1e21b6fc1e16b71d43a",
+    "checked": "2026-11-05"
+  }
+]
