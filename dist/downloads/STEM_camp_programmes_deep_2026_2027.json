@@ -30,12 +30,12 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1182,
+    "dossiers": 1187,
     "countries": 41,
     "swiss": 136,
     "by_status": {
-      "published_2026_27": 135,
-      "published_2027": 323,
+      "published_2026_27": 138,
+      "published_2027": 325,
       "partial_2027": 115,
       "next_unannounced": 233,
       "published_2026": 239,
@@ -43,7 +43,7 @@
       "partial_2026": 10,
       "archive_next_unannounced": 106
     },
-    "source_urls": 1799
+    "source_urls": 1808
   },
   "countries": [
     {
@@ -188,7 +188,7 @@
     },
     {
       "country": "Чили",
-      "count": 13
+      "count": 18
     },
     {
       "country": "Швейцария",
@@ -7049,12 +7049,12 @@
       ],
       "sources": [
         {
-          "title": "Colonia 2027: недели и программы",
+          "title": "Colonia 2027 · повторно проверены недели и ARS 95000",
           "url": "https://programable.com.ar/colonia-tecno-2027/",
-          "checked": "2026-10-06"
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-06",
+      "checked": "2026-11-05",
       "related_event_ids": [
         "L147",
         "L148"
@@ -44294,7 +44294,7 @@
       "programme": "Роботы, алгоритмы, программируемые рисунки, электричество и опыты. Четыре встречи по 2 ч, но текст предлагает дважды в неделю — полный объём уточнить.",
       "timing": {
         "status": "next_unannounced",
-        "label": "Архив Feb 2026, без конкретных новых дат 2027; homepage 3 встречи/нед. расходитсяс выбранной карточкой.",
+        "label": "Перепроверено 5 ноября: текущая летняя страница всё ещё явно Feb 2026 и классы в 2026. Даты 2027 не объявлены; это архивный курс / ожидание следующего набора. Не переносить недельные встречи и цены в новый сезон.",
         "sessions": [],
         "precision": "published_sessions"
       },
@@ -44323,17 +44323,17 @@
       ],
       "sources": [
         {
-          "title": "Конкретный курс, цена и оборудование",
+          "title": "Текущая карточка старого летнего набора",
           "url": "https://www.wecode.edu.uy/cursos/lab-pocitos",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         },
         {
-          "title": "Каникулярный сезон",
+          "title": "Летняя страница с явным 2026",
           "url": "https://www.wecode.edu.uy/verano",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-05",
       "related_event_ids": [
         "L155"
       ],
@@ -44359,7 +44359,7 @@
       "programme": "Модели распознаваниярисунков/голоса/движения, Pictionary/BopIt;4 встречи по 2 ч. Это обучение собственных моделей, не просто пользованиечатботом.",
       "timing": {
         "status": "next_unannounced",
-        "label": "Архив Feb 2026, без конкретных новых дат 2027; homepage 3 встречи/нед. расходитсяс выбранной карточкой.",
+        "label": "Перепроверено 5 ноября: текущая летняя страница всё ещё явно Feb 2026 и классы в 2026. Даты 2027 не объявлены; это архивный курс / ожидание следующего набора. Не переносить недельные встречи и цены в новый сезон.",
         "sessions": [],
         "precision": "published_sessions"
       },
@@ -44388,17 +44388,17 @@
       ],
       "sources": [
         {
-          "title": "Конкретный курс, цена и оборудование",
+          "title": "Текущая карточка старого летнего набора",
           "url": "https://www.wecode.edu.uy/cursos/ia-pocitos",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         },
         {
-          "title": "Каникулярный сезон",
+          "title": "Летняя страница с явным 2026",
           "url": "https://www.wecode.edu.uy/verano",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-05",
       "related_event_ids": [
         "L157"
       ],
@@ -44424,7 +44424,7 @@
       "programme": "Координаты 3 D, переменные, loops и conditions для построек Minecraft;2 ч 1 раз/неделю.",
       "timing": {
         "status": "next_unannounced",
-        "label": "Архив Feb 2026, без конкретных новых дат 2027; homepage 3 встречи/нед. расходитсяс выбранной карточкой.",
+        "label": "Перепроверено 5 ноября: текущая летняя страница всё ещё явно Feb 2026 и классы в 2026. Даты 2027 не объявлены; это архивный курс / ожидание следующего набора. Не переносить недельные встречи и цены в новый сезон.",
         "sessions": [],
         "precision": "published_sessions"
       },
@@ -44458,12 +44458,17 @@
           "checked": "2026-10-05"
         },
         {
-          "title": "Каникулярный сезон",
+          "title": "Летняя страница с явным 2026",
           "url": "https://www.wecode.edu.uy/verano",
-          "checked": "2026-10-05"
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Текущая карточка старого летнего набора",
+          "url": "https://www.wecode.edu.uy/cursos/minecraft1-pocitos",
+          "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-05",
       "related_event_ids": [
         "L159"
       ],
@@ -156422,6 +156427,2952 @@
       "checked": "2026-11-05",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1183",
+      "slug": "techlab-chile-kids-holidays",
+      "provider": "TechLab Kids Chile · Kids WeDo · Robotics AM",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Vitacura · Santiago",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Kids 6–8; старшая группа 9–11 отдельно.",
+      "language": "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "programme": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две рождественские недели декабря 2026 и восемь недель января–февраля 2027. Утро и день — разные выбираемые блоки; три расширенных тарифа присмотра приведены в прайсе, не отдельные независимые лагеря.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Human Evolution · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "camp_window",
+            "proof": "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели."
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "EVO BOTS · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T12:00:00Z",
+                "end_utc": "2026-12-14T16:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T12:00:00Z",
+                "end_utc": "2026-12-15T16:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T12:00:00Z",
+                "end_utc": "2026-12-16T16:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T12:00:00Z",
+                "end_utc": "2026-12-17T16:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T12:00:00Z",
+                "end_utc": "2026-12-18T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T12:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T12:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T12:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T12:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T12:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T16:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T16:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T16:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T16:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "C · Space · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T12:00:00Z",
+                "end_utc": "2027-01-18T16:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T12:00:00Z",
+                "end_utc": "2027-01-19T16:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T12:00:00Z",
+                "end_utc": "2027-01-20T16:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T12:00:00Z",
+                "end_utc": "2027-01-21T16:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T12:00:00Z",
+                "end_utc": "2027-01-22T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T12:00:00Z",
+                "end_utc": "2027-01-25T16:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T12:00:00Z",
+                "end_utc": "2027-01-26T16:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T12:00:00Z",
+                "end_utc": "2027-01-27T16:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T12:00:00Z",
+                "end_utc": "2027-01-28T16:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T12:00:00Z",
+                "end_utc": "2027-01-29T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T12:00:00Z",
+                "end_utc": "2027-02-01T16:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T12:00:00Z",
+                "end_utc": "2027-02-02T16:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T12:00:00Z",
+                "end_utc": "2027-02-03T16:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T12:00:00Z",
+                "end_utc": "2027-02-04T16:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T12:00:00Z",
+                "end_utc": "2027-02-05T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "C · Space · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T12:00:00Z",
+                "end_utc": "2027-02-08T16:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T12:00:00Z",
+                "end_utc": "2027-02-09T16:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T12:00:00Z",
+                "end_utc": "2027-02-10T16:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T12:00:00Z",
+                "end_utc": "2027-02-11T16:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T12:00:00Z",
+                "end_utc": "2027-02-12T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T12:00:00Z",
+                "end_utc": "2027-02-15T16:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T12:00:00Z",
+                "end_utc": "2027-02-16T16:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T12:00:00Z",
+                "end_utc": "2027-02-17T16:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T12:00:00Z",
+                "end_utc": "2027-02-18T16:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T12:00:00Z",
+                "end_utc": "2027-02-19T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T12:00:00Z",
+                "end_utc": "2027-02-22T16:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T12:00:00Z",
+                "end_utc": "2027-02-23T16:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T12:00:00Z",
+                "end_utc": "2027-02-24T16:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T12:00:00Z",
+                "end_utc": "2027-02-25T16:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: основы робототехники на LEGO WeDo 2.0. Темы Earth / Ocean / Space циклически повторяются летом; это не восемь разных продвинутых уровней.",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T12:00:00Z",
+                "end_utc": "2027-02-26T16:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 115000,
+        "unit": "week",
+        "label": "CLP на ребёнка за неделю: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Обед включён только в три плана 09:00–14:00 / 16:00 / 18:00. Отдельные дни от CLP 25000 требуют расчёта; эта минимальная цена не задаёт даты и полную стоимость выбранного дня.",
+        "included": "Киты и notebooks лаборатории включены, свой компьютер по желанию. Предыдущая подготовка не требуется; после трёх лет соревнований уровень группы согласовать.",
+        "extras": "Перекусы, вода, шляпа и солнцезащита с собой; парковка платная. Родители не могут ждать в помещении. Договор предусматривает выход в парк в двух кварталах; условия сопровождения согласовать до согласия. Жильё и поездка семьи отдельно.",
+        "deposit": "Приём до заполнения, оплата 100% либо резерв 50% с остатком не позднее 15 дней до старта; это срок остатка, не дедлайн регистрации. Общая политика: отмена письменно; за 7 и более календарных дней возврат 75% либо ваучер полной оплаченной суммы на год; менее 7 дней без возврата, медицинские исключения отдельно. После старта / no-show возврата нет, документированная невозможность посещать может давать 75%. При недоборе отменяет организатор с возвратом взноса, без иной компенсации. Согласие не давалось. Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена."
+      },
+      "accommodation": "Дневной лабораторный центр Av. Vitacura 3568, Oficina 611; пансион не предложен.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Семья сообщила возраст Матвея 9 лет: Kids максимум 8, поэтому нужен отдельный Junior. В начале 2027 ему 9–10."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Семья сообщила возраст Оскара 6 лет: в декабре 2026 и начале 2027 диапазон 6–8 подходит."
+        }
+      },
+      "editorial_reason": "Точные близкие технические недели и раздельные возрастные группы для семейной поездки; международная победа не обещается.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+        "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели.",
+        "Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена.",
+        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Лето 2027 · 8 недель и полная таблица тарифов",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Рождество 2026 · две недели",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Правила оплаты, отмены и скидок",
+          "url": "https://techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Официальный праздник 8 декабря 2026",
+          "url": "https://csigo.cancilleria.gob.ar/es/feriados-2026-1",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L033"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270208-20270212"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270215-20270219"
+          ]
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1183-20270222-20270226"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1184",
+      "slug": "techlab-chile-junior-holidays",
+      "provider": "TechLab Kids Chile · Junior EV3 · Robotics AM",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Vitacura · Santiago",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Junior 9–11; в тексте ниже также 9+, поэтому верхнюю границу отдельного EV3-потока согласовать.",
+      "language": "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "programme": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две рождественские недели декабря 2026 и восемь недель января–февраля 2027. Утро и день — разные выбираемые блоки; три расширенных тарифа присмотра приведены в прайсе, не отдельные независимые лагеря.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Human Evolution · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "camp_window",
+            "proof": "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели."
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "EVO BOTS · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T12:00:00Z",
+                "end_utc": "2026-12-14T16:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T12:00:00Z",
+                "end_utc": "2026-12-15T16:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T12:00:00Z",
+                "end_utc": "2026-12-16T16:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T12:00:00Z",
+                "end_utc": "2026-12-17T16:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T12:00:00Z",
+                "end_utc": "2026-12-18T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T12:00:00Z",
+                "end_utc": "2027-01-04T16:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T12:00:00Z",
+                "end_utc": "2027-01-05T16:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T12:00:00Z",
+                "end_utc": "2027-01-06T16:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T12:00:00Z",
+                "end_utc": "2027-01-07T16:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T12:00:00Z",
+                "end_utc": "2027-01-08T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T12:00:00Z",
+                "end_utc": "2027-01-11T16:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T12:00:00Z",
+                "end_utc": "2027-01-12T16:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T12:00:00Z",
+                "end_utc": "2027-01-13T16:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T12:00:00Z",
+                "end_utc": "2027-01-14T16:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T12:00:00Z",
+                "end_utc": "2027-01-15T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "C · Space · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T12:00:00Z",
+                "end_utc": "2027-01-18T16:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T12:00:00Z",
+                "end_utc": "2027-01-19T16:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T12:00:00Z",
+                "end_utc": "2027-01-20T16:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T12:00:00Z",
+                "end_utc": "2027-01-21T16:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T12:00:00Z",
+                "end_utc": "2027-01-22T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T12:00:00Z",
+                "end_utc": "2027-01-25T16:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T12:00:00Z",
+                "end_utc": "2027-01-26T16:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T12:00:00Z",
+                "end_utc": "2027-01-27T16:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T12:00:00Z",
+                "end_utc": "2027-01-28T16:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T12:00:00Z",
+                "end_utc": "2027-01-29T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T12:00:00Z",
+                "end_utc": "2027-02-01T16:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T12:00:00Z",
+                "end_utc": "2027-02-02T16:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T12:00:00Z",
+                "end_utc": "2027-02-03T16:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T12:00:00Z",
+                "end_utc": "2027-02-04T16:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T12:00:00Z",
+                "end_utc": "2027-02-05T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "C · Space · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T12:00:00Z",
+                "end_utc": "2027-02-08T16:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T12:00:00Z",
+                "end_utc": "2027-02-09T16:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T12:00:00Z",
+                "end_utc": "2027-02-10T16:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T12:00:00Z",
+                "end_utc": "2027-02-11T16:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T12:00:00Z",
+                "end_utc": "2027-02-12T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "A · Earth · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T12:00:00Z",
+                "end_utc": "2027-02-15T16:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T12:00:00Z",
+                "end_utc": "2027-02-16T16:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T12:00:00Z",
+                "end_utc": "2027-02-17T16:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T12:00:00Z",
+                "end_utc": "2027-02-18T16:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T12:00:00Z",
+                "end_utc": "2027-02-19T16:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "B · Ocean · Robotics AM",
+            "price": "CLP 115000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T12:00:00Z",
+                "end_utc": "2027-02-22T16:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T12:00:00Z",
+                "end_utc": "2027-02-23T16:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T12:00:00Z",
+                "end_utc": "2027-02-24T16:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T12:00:00Z",
+                "end_utc": "2027-02-25T16:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "09:00",
+                "end_time": "13:00",
+                "timezone": "America/Santiago",
+                "topic": "Утро 09:00–13:00: LEGO Mindstorms EV3, датчики и механизмы. Kids WeDo и Junior EV3 — разные возрастные группы одной площадки; дневной Scratch/MakeCode отдельный выбор.",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T12:00:00Z",
+                "end_utc": "2027-02-26T16:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 115000,
+        "unit": "week",
+        "label": "CLP на ребёнка за неделю: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Обед включён только в три плана 09:00–14:00 / 16:00 / 18:00. Отдельные дни от CLP 25000 требуют расчёта; эта минимальная цена не задаёт даты и полную стоимость выбранного дня.",
+        "included": "Киты и notebooks лаборатории включены, свой компьютер по желанию. Предыдущая подготовка не требуется; после трёх лет соревнований уровень группы согласовать.",
+        "extras": "Перекусы, вода, шляпа и солнцезащита с собой; парковка платная. Родители не могут ждать в помещении. Договор предусматривает выход в парк в двух кварталах; условия сопровождения согласовать до согласия. Жильё и поездка семьи отдельно.",
+        "deposit": "Приём до заполнения, оплата 100% либо резерв 50% с остатком не позднее 15 дней до старта; это срок остатка, не дедлайн регистрации. Общая политика: отмена письменно; за 7 и более календарных дней возврат 75% либо ваучер полной оплаченной суммы на год; менее 7 дней без возврата, медицинские исключения отдельно. После старта / no-show возврата нет, документированная невозможность посещать может давать 75%. При недоборе отменяет организатор с возвратом взноса, без иной компенсации. Согласие не давалось. Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена."
+      },
+      "accommodation": "Дневной лабораторный центр Av. Vitacura 3568, Oficina 611; пансион не предложен.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Семья сообщила возраст Матвея 9 лет: декабрь 2026 и январь–февраль 2027 входят в Junior 9–11. Сложность после соревнований согласовать."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Оскар ниже 9; доступен отдельный Kids 6–8."
+        }
+      },
+      "editorial_reason": "Точные близкие технические недели и раздельные возрастные группы для семейной поездки; международная победа не обещается.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+        "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели.",
+        "Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена.",
+        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Лето 2027 · 8 недель и полная таблица тарифов",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Рождество 2026 · две недели",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Правила оплаты, отмены и скидок",
+          "url": "https://techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Официальный праздник 8 декабря 2026",
+          "url": "https://csigo.cancilleria.gob.ar/es/feriados-2026-1",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L033"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270208-20270212"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270215-20270219"
+          ]
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1184-20270222-20270226"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1185",
+      "slug": "techlab-chile-coding-afternoon",
+      "provider": "TechLab Kids Chile · Scratch / MakeCode · PM",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Vitacura · Santiago",
+      "themes": [
+        "coding",
+        "gaming"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Kids и Junior 6–11. В одном месте Navidad указано mayores de 6, в общей таблице 6–11: допуск ровно в 6 уточнить.",
+      "language": "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "programme": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "Две рождественские недели декабря 2026 и восемь недель января–февраля 2027. Утро и день — разные выбираемые блоки; три расширенных тарифа присмотра приведены в прайсе, не отдельные независимые лагеря.",
+        "sessions": [
+          [
+            "2026-12-07",
+            "2026-12-11"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-07",
+            "end": "2026-12-11",
+            "label": "Human Evolution · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "camp_window",
+            "proof": "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели."
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "EVO BOTS · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2026-12-14",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2026-12-14T17:00:00Z",
+                "end_utc": "2026-12-14T21:00:00Z"
+              },
+              {
+                "date": "2026-12-15",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2026-12-15T17:00:00Z",
+                "end_utc": "2026-12-15T21:00:00Z"
+              },
+              {
+                "date": "2026-12-16",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2026-12-16T17:00:00Z",
+                "end_utc": "2026-12-16T21:00:00Z"
+              },
+              {
+                "date": "2026-12-17",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2026-12-17T17:00:00Z",
+                "end_utc": "2026-12-17T21:00:00Z"
+              },
+              {
+                "date": "2026-12-18",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2026-12-18T17:00:00Z",
+                "end_utc": "2026-12-18T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "A · Earth · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T17:00:00Z",
+                "end_utc": "2027-01-04T21:00:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T17:00:00Z",
+                "end_utc": "2027-01-05T21:00:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T17:00:00Z",
+                "end_utc": "2027-01-06T21:00:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T17:00:00Z",
+                "end_utc": "2027-01-07T21:00:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T17:00:00Z",
+                "end_utc": "2027-01-08T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "B · Ocean · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-11",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-11T17:00:00Z",
+                "end_utc": "2027-01-11T21:00:00Z"
+              },
+              {
+                "date": "2027-01-12",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-12T17:00:00Z",
+                "end_utc": "2027-01-12T21:00:00Z"
+              },
+              {
+                "date": "2027-01-13",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-13T17:00:00Z",
+                "end_utc": "2027-01-13T21:00:00Z"
+              },
+              {
+                "date": "2027-01-14",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-14T17:00:00Z",
+                "end_utc": "2027-01-14T21:00:00Z"
+              },
+              {
+                "date": "2027-01-15",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-15T17:00:00Z",
+                "end_utc": "2027-01-15T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "C · Space · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-18",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-18T17:00:00Z",
+                "end_utc": "2027-01-18T21:00:00Z"
+              },
+              {
+                "date": "2027-01-19",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-19T17:00:00Z",
+                "end_utc": "2027-01-19T21:00:00Z"
+              },
+              {
+                "date": "2027-01-20",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-20T17:00:00Z",
+                "end_utc": "2027-01-20T21:00:00Z"
+              },
+              {
+                "date": "2027-01-21",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-21T17:00:00Z",
+                "end_utc": "2027-01-21T21:00:00Z"
+              },
+              {
+                "date": "2027-01-22",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-22T17:00:00Z",
+                "end_utc": "2027-01-22T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "A · Earth · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-01-25",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-25T17:00:00Z",
+                "end_utc": "2027-01-25T21:00:00Z"
+              },
+              {
+                "date": "2027-01-26",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-26T17:00:00Z",
+                "end_utc": "2027-01-26T21:00:00Z"
+              },
+              {
+                "date": "2027-01-27",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-27T17:00:00Z",
+                "end_utc": "2027-01-27T21:00:00Z"
+              },
+              {
+                "date": "2027-01-28",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-28T17:00:00Z",
+                "end_utc": "2027-01-28T21:00:00Z"
+              },
+              {
+                "date": "2027-01-29",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-01-29T17:00:00Z",
+                "end_utc": "2027-01-29T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "B · Ocean · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-01",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-01T17:00:00Z",
+                "end_utc": "2027-02-01T21:00:00Z"
+              },
+              {
+                "date": "2027-02-02",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-02T17:00:00Z",
+                "end_utc": "2027-02-02T21:00:00Z"
+              },
+              {
+                "date": "2027-02-03",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-03T17:00:00Z",
+                "end_utc": "2027-02-03T21:00:00Z"
+              },
+              {
+                "date": "2027-02-04",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-04T17:00:00Z",
+                "end_utc": "2027-02-04T21:00:00Z"
+              },
+              {
+                "date": "2027-02-05",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-05T17:00:00Z",
+                "end_utc": "2027-02-05T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "C · Space · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-08",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-08T17:00:00Z",
+                "end_utc": "2027-02-08T21:00:00Z"
+              },
+              {
+                "date": "2027-02-09",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-09T17:00:00Z",
+                "end_utc": "2027-02-09T21:00:00Z"
+              },
+              {
+                "date": "2027-02-10",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-10T17:00:00Z",
+                "end_utc": "2027-02-10T21:00:00Z"
+              },
+              {
+                "date": "2027-02-11",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-11T17:00:00Z",
+                "end_utc": "2027-02-11T21:00:00Z"
+              },
+              {
+                "date": "2027-02-12",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-12T17:00:00Z",
+                "end_utc": "2027-02-12T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "A · Earth · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-15",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-15T17:00:00Z",
+                "end_utc": "2027-02-15T21:00:00Z"
+              },
+              {
+                "date": "2027-02-16",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-16T17:00:00Z",
+                "end_utc": "2027-02-16T21:00:00Z"
+              },
+              {
+                "date": "2027-02-17",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-17T17:00:00Z",
+                "end_utc": "2027-02-17T21:00:00Z"
+              },
+              {
+                "date": "2027-02-18",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-18T17:00:00Z",
+                "end_utc": "2027-02-18T21:00:00Z"
+              },
+              {
+                "date": "2027-02-19",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-19T17:00:00Z",
+                "end_utc": "2027-02-19T21:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "B · Ocean · Coding PM",
+            "price": "CLP 120000 / ребёнок / неделя",
+            "source": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+            "formats": [
+              "day"
+            ],
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+              }
+            },
+            "date_scope": "session_days",
+            "proof": "Неделя и блок опубликованы оператором; это варианты для выбора, не принятая заявка.",
+            "sessions": [
+              {
+                "date": "2027-02-22",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-22T17:00:00Z",
+                "end_utc": "2027-02-22T21:00:00Z"
+              },
+              {
+                "date": "2027-02-23",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-23T17:00:00Z",
+                "end_utc": "2027-02-23T21:00:00Z"
+              },
+              {
+                "date": "2027-02-24",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-24T17:00:00Z",
+                "end_utc": "2027-02-24T21:00:00Z"
+              },
+              {
+                "date": "2027-02-25",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-25T17:00:00Z",
+                "end_utc": "2027-02-25T21:00:00Z"
+              },
+              {
+                "date": "2027-02-26",
+                "start_time": "14:00",
+                "end_time": "18:00",
+                "timezone": "America/Santiago",
+                "topic": "День 14:00–18:00: логика видеоигр, Scratch и MakeCode для 6–11. Python / Roblox Studio относятся к отдельному 12+ Teens, не к этому детскому блоку. Обед в тариф дневного блока не заявлен.",
+                "ical_timed": true,
+                "start_utc": "2027-02-26T17:00:00Z",
+                "end_utc": "2027-02-26T21:00:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 120000,
+        "unit": "week",
+        "label": "CLP на ребёнка за неделю: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Обед включён только в три плана 09:00–14:00 / 16:00 / 18:00. Отдельные дни от CLP 25000 требуют расчёта; эта минимальная цена не задаёт даты и полную стоимость выбранного дня.",
+        "included": "Киты и notebooks лаборатории включены, свой компьютер по желанию. Предыдущая подготовка не требуется; после трёх лет соревнований уровень группы согласовать.",
+        "extras": "Перекусы, вода, шляпа и солнцезащита с собой; парковка платная. Родители не могут ждать в помещении. Договор предусматривает выход в парк в двух кварталах; условия сопровождения согласовать до согласия. Жильё и поездка семьи отдельно.",
+        "deposit": "Приём до заполнения, оплата 100% либо резерв 50% с остатком не позднее 15 дней до старта; это срок остатка, не дедлайн регистрации. Общая политика: отмена письменно; за 7 и более календарных дней возврат 75% либо ваучер полной оплаченной суммы на год; менее 7 дней без возврата, медицинские исключения отдельно. После старта / no-show возврата нет, документированная невозможность посещать может давать 75%. При недоборе отменяет организатор с возвратом взноса, без иной компенсации. Согласие не давалось. Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена."
+      },
+      "accommodation": "Дневной лабораторный центр Av. Vitacura 3568, Oficina 611; пансион не предложен.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Возраст Матвея по сообщению семьи 9; в начале 2027 ему 9–10, входит в 6–11. Сложность и место отдельно."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Семья сообщила возраст Оскара 6 лет; в 2027 ему 6–7. Подтвердить противоречие 6–11 / mayores de 6 до признания допуска."
+        }
+      },
+      "editorial_reason": "Точные близкие технические недели и раздельные возрастные группы для семейной поездки; международная победа не обещается.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+        "7–11 декабря — опубликованная неделя, но 8 декабря 2026 официальный праздник Чили. Отдельное подтверждение работы во вторник не найдено: неделя показана окном, без выдуманных ежедневных часов и без заявления, что лагерь закрыт. Согласовать фактические дни и цену этой недели.",
+        "Объявлена скидка 5%: братьям/сёстрам либо за две и более недели одним заказом. Основания не складываются. Общая политика запрещает накопление скидок; рождественская карточка исключает отдельные дни и рассрочку. Базу скидки, распределение между детьми и совместимость с резервом 50% подтвердить в счёте; в семейных сметах оставлена полная цена.",
+        "Подтвердить индивидуальный иностранный приём, свободное место и подходящую сложность. Регистрация, оплата, согласие на прогулку и фото не выполнялись."
+      ],
+      "sources": [
+        {
+          "title": "Лето 2027 · 8 недель и полная таблица тарифов",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Рождество 2026 · две недели",
+          "url": "https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Правила оплаты, отмены и скидок",
+          "url": "https://techlabkids.cl/politica-reserva-descuentos-cancelaciones-devoluciones/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Официальный праздник 8 декабря 2026",
+          "url": "https://csigo.cancilleria.gob.ar/es/feriados-2026-1",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L033"
+      ],
+      "calendar_links": [
+        {
+          "start": "2026-12-07",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20261207-20261211"
+          ]
+        },
+        {
+          "start": "2026-12-14",
+          "end": "2026-12-18",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20261214-20261218"
+          ]
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270104-20270108"
+          ]
+        },
+        {
+          "start": "2027-01-11",
+          "end": "2027-01-15",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270111-20270115"
+          ]
+        },
+        {
+          "start": "2027-01-18",
+          "end": "2027-01-22",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270118-20270122"
+          ]
+        },
+        {
+          "start": "2027-01-25",
+          "end": "2027-01-29",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270125-20270129"
+          ]
+        },
+        {
+          "start": "2027-02-01",
+          "end": "2027-02-05",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270201-20270205"
+          ]
+        },
+        {
+          "start": "2027-02-08",
+          "end": "2027-02-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270208-20270212"
+          ]
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-02-19",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270215-20270219"
+          ]
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-02-26",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1185-20270222-20270226"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1186",
+      "slug": "uchile-edv-robotics-2027",
+      "provider": "Universidad de Chile · EdV · Exploradores de la Robótica",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Beauchef 850 · Facultad de Ciencias Físicas y Matemáticas · Santiago",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Класс 5° или 6° Educación Básica во время 2026; это не возраст 5–6 лет.",
+      "language": "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "programme": "Очный университетский курс. Электроника / LED, HelloBlocks, Arduino, датчики, servomotors и итоговый проект. PDF содержит 5 сессий: 09:00–10:30 и 11:00–12:30; между ними перерыв. Диплом участия не международная медаль.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–8 января 2027, 09:00–12:30; выборочное зачисление. Два курса идут одновременно, их нельзя выбрать вместе.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Exploradores de la Robótica",
+            "price": "CLP 98000",
+            "source": "https://www.edv.uchile.cl/portfolio/exploradores-de-la-robotica-descubre-construye-y-aprende-como-funcionan-las-maquinas-del-futuro-2/",
+            "formats": [
+              "day"
+            ],
+            "admission_kind": "qualifier",
+            "entry": "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить.",
+            "date_scope": "session_days",
+            "proof": "Карточка EdV сезона 2027: цена 98000 CLP, 50 мест — объявленный лимит, не live-остаток. Класс и документы обязательны.",
+            "sessions": [
+              {
+                "date": "2027-01-04",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "topic": "Присутствие EdV: два блока по 90 минут и перерыв; не 3.5 часа непрерывного обучения.",
+                "ical_timed": true,
+                "start_utc": "2027-01-04T12:00:00Z",
+                "end_utc": "2027-01-04T15:30:00Z"
+              },
+              {
+                "date": "2027-01-05",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "topic": "Присутствие EdV: два блока по 90 минут и перерыв; не 3.5 часа непрерывного обучения.",
+                "ical_timed": true,
+                "start_utc": "2027-01-05T12:00:00Z",
+                "end_utc": "2027-01-05T15:30:00Z"
+              },
+              {
+                "date": "2027-01-06",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "topic": "Присутствие EdV: два блока по 90 минут и перерыв; не 3.5 часа непрерывного обучения.",
+                "ical_timed": true,
+                "start_utc": "2027-01-06T12:00:00Z",
+                "end_utc": "2027-01-06T15:30:00Z"
+              },
+              {
+                "date": "2027-01-07",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "topic": "Присутствие EdV: два блока по 90 минут и перерыв; не 3.5 часа непрерывного обучения.",
+                "ical_timed": true,
+                "start_utc": "2027-01-07T12:00:00Z",
+                "end_utc": "2027-01-07T15:30:00Z"
+              },
+              {
+                "date": "2027-01-08",
+                "start_time": "09:00",
+                "end_time": "12:30",
+                "timezone": "America/Santiago",
+                "topic": "Присутствие EdV: два блока по 90 минут и перерыв; не 3.5 часа непрерывного обучения.",
+                "ical_timed": true,
+                "start_utc": "2027-01-08T12:00:00Z",
+                "end_utc": "2027-01-08T15:30:00Z"
+              }
+            ]
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 98000,
+        "unit": "course",
+        "label": "CLP 98000 за выбранный курс 4–8 января 2027; два курса в одно время не суммировать как совместный маршрут.",
+        "included": "FAQ включает учебные материалы; тетрадь и ручка с собой. Право забрать киты домой не заявлено.",
+        "extras": "Питание, транспорт и жильё не включены; помощи с отелями нет. Приём иностранных документов, язык и refund подтвердить.",
+        "deposit": "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить."
+      },
+      "accommodation": "Дневные занятия в университете, не школа-пансион и не жилой лагерь.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Нужен действительный 5°/6° класс в 2026 и отбор по оценкам; год 2017 это не доказывает."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Курс 5°/6° класса: для Оскара будущая ступень, действительный класс семьи неизвестен. Возраст не заменяет школьный документ."
+        }
+      },
+      "editorial_reason": "Чёткая университетская программа для будущего школьного уровня; текущий семейный допуск не установлен.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+        "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить.",
+        "Уточнить текущие даты подачи 2027, эквивалент иностранного класса, документы, сложность, свободные места и подтверждение зачисления. Регистрация не подана."
+      ],
+      "sources": [
+        {
+          "title": "Карточка курса января 2027",
+          "url": "https://www.edv.uchile.cl/portfolio/exploradores-de-la-robotica-descubre-construye-y-aprende-como-funcionan-las-maquinas-del-futuro-2/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Отбор, обязательный класс, стоимость материалов и возврат",
+          "url": "https://www.edv.uchile.cl/postulacion-y-matricula/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Связанный учебный PDF · пять сессий",
+          "url": "https://docs.google.com/document/d/1vvsr32wCL_eEGvxHbalL21-PxyPoh9Eb/export?format=pdf",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1186-20270104-20270108"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1187",
+      "slug": "uchile-edv-scratch-2027",
+      "provider": "Universidad de Chile · EdV · Pensamiento Computacional en Scratch",
+      "country": "Чили",
+      "iso": "CHL",
+      "place": "Beauchef 850 · Facultad de Ciencias Físicas y Matemáticas · Santiago",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Класс 5° или 6° Educación Básica во время 2026; это не возраст 5–6 лет.",
+      "language": "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "programme": "Очный курс логики и вычислительного мышления в Scratch: декомпозиция, закономерности, последовательности и совместное решение задач. Присутствие 09:00–12:30 опубликовано, отдельное ежедневное содержание не дано.",
+      "timing": {
+        "status": "published_2027",
+        "label": "4–8 января 2027, 09:00–12:30; выборочное зачисление. Два курса идут одновременно, их нельзя выбрать вместе.",
+        "sessions": [
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "Pensamiento Computacional en Scratch",
+            "price": "CLP 98000",
+            "source": "https://www.edv.uchile.cl/portfolio/desarrollando-el-pensamiento-computacional-en-scratch-5/",
+            "formats": [
+              "day"
+            ],
+            "admission_kind": "qualifier",
+            "entry": "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить.",
+            "date_scope": "camp_session",
+            "proof": "Карточка EdV сезона 2027: цена 98000 CLP, 50 мест — объявленный лимит, не live-остаток. Класс и документы обязательны."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "CLP",
+        "amount": 98000,
+        "unit": "course",
+        "label": "CLP 98000 за выбранный курс 4–8 января 2027; два курса в одно время не суммировать как совместный маршрут.",
+        "included": "FAQ включает учебные материалы; тетрадь и ручка с собой. Право забрать киты домой не заявлено.",
+        "extras": "Питание, транспорт и жильё не включены; помощи с отелями нет. Приём иностранных документов, язык и refund подтвердить.",
+        "deposit": "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить."
+      },
+      "accommodation": "Дневные занятия в университете, не школа-пансион и не жилой лагерь.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Нужен действительный 5°/6° класс в 2026 и отбор по оценкам; год 2017 это не доказывает."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Курс 5°/6° класса: для Оскара будущая ступень, действительный класс семьи неизвестен. Возраст не заменяет школьный документ."
+        }
+      },
+      "editorial_reason": "Чёткая университетская программа для будущего школьного уровня; текущий семейный допуск не установлен.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "Сайт и учебное описание по-испански; отдельного прямого подтверждения языка преподавания ES или EN не найдено. До ответа организатора не включать в фильтр подтверждённого EN/ES преподавания.",
+        "Конкурсный приём по годовым оценкам без вступительного теста; максимум три курса без пересечения. Обязателен требуемый класс: заявка не своего уровня аннулируется. Для этих карточек нужен 5°/6° в 2026 и certificado anual 2025. Правила для не-MINEDUC школ и возвращавшихся из-за рубежа не доказывают приём впервые прибывших иностранцев. После отбора WebPay. Общая страница всё ещё упоминает результаты 11 июня без подходящего сезона — не переносить это в 2027 дедлайн. Возврат только по исключительной причине до начала, удерживают 20%; запрос не позднее 5 рабочих дней до старта, обработка не менее 15 рабочих дней. Актуальность к выбранному лету и иностранный invoice уточнить.",
+        "Уточнить текущие даты подачи 2027, эквивалент иностранного класса, документы, сложность, свободные места и подтверждение зачисления. Регистрация не подана."
+      ],
+      "sources": [
+        {
+          "title": "Карточка курса января 2027",
+          "url": "https://www.edv.uchile.cl/portfolio/desarrollando-el-pensamiento-computacional-en-scratch-5/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "Отбор, обязательный класс, стоимость материалов и возврат",
+          "url": "https://www.edv.uchile.cl/postulacion-y-matricula/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-04",
+          "end": "2027-01-08",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1187-20270104-20270108"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -161667,7 +164618,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 154,
+  "version": 155,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -174149,6 +177100,181 @@
       "programme_id": "CP1180",
       "event_id": "CP1180-20270117-20270228",
       "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270208-20270212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "CP1183-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1183",
+      "event_id": "L033",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270208-20270212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "CP1184-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1184",
+      "event_id": "L033",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20261207-20261211",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20261214-20261218",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270111-20270115",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270118-20270122",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270125-20270129",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270201-20270205",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270208-20270212",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270215-20270219",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "CP1185-20270222-20270226",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1185",
+      "event_id": "L033",
+      "relation": "related_track_or_operator"
+    },
+    {
+      "programme_id": "CP1186",
+      "event_id": "CP1186-20270104-20270108",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1187",
+      "event_id": "CP1187-20270104-20270108",
+      "relation": "catalogue_session"
     }
   ],
   "generated_event_ids": [
@@ -176367,10 +179493,42 @@
     "CP1177-20270119-20270223",
     "CP1178-20270120-20270224",
     "CP1179-20270121-20270225",
-    "CP1180-20270117-20270228"
+    "CP1180-20270117-20270228",
+    "CP1183-20261207-20261211",
+    "CP1183-20261214-20261218",
+    "CP1183-20270104-20270108",
+    "CP1183-20270111-20270115",
+    "CP1183-20270118-20270122",
+    "CP1183-20270125-20270129",
+    "CP1183-20270201-20270205",
+    "CP1183-20270208-20270212",
+    "CP1183-20270215-20270219",
+    "CP1183-20270222-20270226",
+    "CP1184-20261207-20261211",
+    "CP1184-20261214-20261218",
+    "CP1184-20270104-20270108",
+    "CP1184-20270111-20270115",
+    "CP1184-20270118-20270122",
+    "CP1184-20270125-20270129",
+    "CP1184-20270201-20270205",
+    "CP1184-20270208-20270212",
+    "CP1184-20270215-20270219",
+    "CP1184-20270222-20270226",
+    "CP1185-20261207-20261211",
+    "CP1185-20261214-20261218",
+    "CP1185-20270104-20270108",
+    "CP1185-20270111-20270115",
+    "CP1185-20270118-20270122",
+    "CP1185-20270125-20270129",
+    "CP1185-20270201-20270205",
+    "CP1185-20270208-20270212",
+    "CP1185-20270215-20270219",
+    "CP1185-20270222-20270226",
+    "CP1186-20270104-20270108",
+    "CP1187-20270104-20270108"
   ],
   "integration": {
-    "generated_sessions": 2216,
+    "generated_sessions": 2248,
     "reused_legacy_events": 69,
     "seasonal_windows": 54,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."

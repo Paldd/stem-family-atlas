@@ -24,7 +24,7 @@ python3 scripts/verify-spanish.py
 
 [Открыть сайт](https://paldd.github.io/stem-family-atlas/) · [Статус публикации](https://github.com/Paldd/stem-family-atlas/actions/workflows/pages.yml)
 
-Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **154**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе — 4 163 записи, 1 182 досье программ лагерей/обучения, 147 профилей лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
+Интерактивный семейный атлас соревнований, лиг, выставок, лагерей, постоянных школ и образовательных маршрутов. Текущая версия оформления — **155**: 13 цветовых направлений, интерактивные фильтры, карты и календарь. В исходной базе — 4 195 записей, 1 187 досье программ лагерей/обучения, 147 профилей лиг/программ и 62 школьных досье. Это продолжающееся исследование: охват мира и проверки местного допуска пока неполные.
 
 ## Как обновляется сайт
 
@@ -428,3 +428,5 @@ The VEX league index also now includes all 516 existing official event cards: 49
 All league future-event counters now use the current catalog as-of date rather than the historical audit date; source verification dates remain unchanged.
 
 Swiss / French camp v154 (2026-11-05): eight explicitly listed Camp Suisse 2027 day weeks, actual local care days in calendars, refreshed Zuoz 60-day cancellation terms and optional 2027 cancellation insurance, non-native Junior language placement gate, English Digital Skills and actual birthday 10+ for Matvey. Preserve four boarding and four Junior stays, separate old AI/ML module from the new 2027 AI/Innovation track, and keep American Village staff preparation out of child dates. Add two conditional single-child budgets; no enrollment, consent, payment or organizer contact. Worldwide audit remains active.
+
+Latin American camp v155 (2026-11-05): Chile adds three age/subject holiday tracks and two grade-based university courses, with 32 selectable cohort records. Keep Kids WeDo, Junior EV3 and Scratch/MakeCode distinct; Teens Python/Roblox are outside those younger tracks. December 8 holiday is unresolved for the first Christmas week, so it stays a window. Five family budgets retain full prices without stacking the conditional 5% discount. EdV requires grade 5/6 in 2026 and academic selection, not a birth-year shortcut. Uruguay pages remain February 2026, New Hope identity/age/calendar gaps remain unresolved, and Mexican holiday-service pages do not establish new dated cohorts. Instruction languages stay unconfirmed where only webpage language is known. Worldwide audit remains active.

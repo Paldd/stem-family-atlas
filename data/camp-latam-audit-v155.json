@@ -1,0 +1,56 @@
+{
+  "version": 155,
+  "checked": "2026-11-05",
+  "scope": "Southern summer and upcoming Latin American technical camps: Chile holiday robotics and university grade selection; fresh Argentina/Uruguay, Costa Rica and Mexico checks.",
+  "new_dossiers": [
+    "CP1183",
+    "CP1184",
+    "CP1185",
+    "CP1186",
+    "CP1187"
+  ],
+  "updated_dossiers": [
+    "CP046",
+    "CP309",
+    "CP310",
+    "CP311"
+  ],
+  "new_calendar_rows": 32,
+  "updated_legacy_rows": [
+    "L033"
+  ],
+  "new_budget_offers": 5,
+  "previous_published_commit": "b1d28dcda9acea57099a5a774519bb8cd9eeba58",
+  "previous_workflow_run": 42014118955,
+  "source_hash_verified_responses": 19,
+  "source_requests_failed": 4,
+  "verified_findings": [
+    "TechLab Chile two December 2026 and eight January–February 2027 weeks: Kids WeDo 6–8, Junior EV3 9–11 and afternoon Scratch/MakeCode 6–11 are separate course options, not thirty independent providers. Teens Python/Roblox not transferred to younger children.",
+    "Family explicitly reported Matvey age 9 and Oscar age 6: Matvey is over Kids maximum 8, Junior age fits; Oscar Kids age fits. Actual birthdays remain needed for other exact-date rules. Afternoon wording for exactly six remains unresolved.",
+    "First December week 7–11 overlaps the official Chilean December 8 holiday; operator has not clarified that day. Show one weekly window per track, without inventing closure or daily timed sessions.",
+    "Five published weekly price plans retained. Five family calculators keep undiscounted two-child bases 230000 / 350000 / 390000 / 500000 / 240000 CLP, lunch scope separate. Published 5% sibling or multiple-week condition not automatically applied twice or assumed valid with installment reservation.",
+    "TechLab full payment or 50% reservation plus balance 15 days before start is not a registration deadline. Current linked refund and minimum-participant cancellation terms read; no terms accepted.",
+    "EdV Universidad de Chile robotics and Scratch 4–8 January 2027 cost 98000 CLP each and require actually attending school grade 5 or 6 during 2026, prior-year academic documents and selective admission. Grade is not age; no claim foreign admission is established. Courses overlap and cannot form a simultaneous itinerary.",
+    "Robotics linked curriculum supplies five sessions with two 90-minute teaching blocks plus a break each morning, not continuous 3.5 hours of teaching. Diploma is participation, not international victory or special university admission.",
+    "Programable six 2027 weeks and ARS 95000 weekly price remain published. WeCode current pages still explicitly February 2026: no invented 2027 recurrence or refreshed 2027 prices."
+  ],
+  "unresolved": [
+    "No explicit TechLab, Programable or EdV instruction-language EN/ES confirmation found; Spanish webpage is not proof. New dated rows excluded from confirmed EN/ES instruction filters.",
+    "New Hope blank public form still gives periods but identity/link with the school, age, final price and attendance calendar remain unresolved; homepage TLS verification failed. Existing three watch dossiers remain undated.",
+    "Robotecnia and Ciberbots advertise holiday services without a new exact winter season calendar; existing records preserved.",
+    "MoscaLab product direct GET 405, old or ambiguous year cannot prove a 2027 cohort.",
+    "EdV generic admissions page still refers to June 11 results and an exceptional refund policy: no invented 2027 submission deadline. New-to-Chile foreign documents unresolved.",
+    "Government Chile holiday article fetch 403; official Argentine Consulate in Santiago full page corroborates December 8 as Chile holiday. No certificate bypass.",
+    "Worldwide competitions, exhibitions, camps, languages, schools and award histories remain incomplete; no fully audited country."
+  ],
+  "pdf_visual_review": [
+    "Linked EdV robotics PDF pp2–3; remaining text extracted"
+  ],
+  "browser_ui_validation": "unavailable-local-browser-disabled-in-Work-settings",
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "registrations": 0,
+  "agreements_accepted": 0,
+  "payments": 0,
+  "organizer_messages": 0
+}

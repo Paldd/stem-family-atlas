@@ -282,18 +282,18 @@ Limitaciones: 09.10 — Día especial de prensa/business; normal pass da 10–12
 Fuente: https://www.brasilgameshow.com.br/ingressos/
 Comprobado: 2026-09-30
 
-### ~#L033 · TechLab Kids Chile ○ Tech workshops
+### L033 · TechLab Kids Chile · programas vacacionales vigentes de 2026–27
 
-Fecha: Hay una página Verano 2026; siguiente conjunto sin fechas confirmadas
+Fecha: Diciembre de 2026 y enero–febrero de 2027: opciones exactas en fichas Kids / Junior / Tardes Tech enlazadas. Resumen de operador, no sesión independiente adicional.
 Edad: No se ha encontrado la edad del turno de vacaciones
 Condicional: turno
 Condicional: turno
 Idioma: No se ha instalado el idioma de turno de vacaciones ES / EN
 Entrada: Comprobar el registro actual y las condiciones de recepción del organizador
-Costo: No se confirma el precio actual
-Limitaciones: Retirada ES Marca sin prueba de la enseñanza. Regular Bases 6–8 / Elemental 9+ no arrastrados a holiday workshop; El nuevo conjunto requiere una selección programme page.
-Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2026/
-Comprobado: 2026-10-01
+Precio: CLP por niño / semana: 09:00–13:00 115000; 09:00–14:00 175000; 09:00–16:00 195000; 09:00–18:00 250000; 14:00–18:00 120000. Almuerzo incluido solo en tres planes 09:00–14:00 / 16:00 / 18:00. Días sueltos desde CLP 25000 requieren presupuesto; sin inventar fechas ni total con esa tarifa mínima.
+Limitaciones: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada. 7–11 de diciembre es semana publicada, pero el 8 de diciembre de 2026 es feriado oficial chileno. Sin confirmación separada de apertura el martes: semana mostrada como periodo, sin horas diarias inventadas ni afirmar cierre. Acordar días efectivos y precio de esa semana.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
 
 ### C081 · TecPro Colombia · próxima convocatoria presencial sin confirmar
 
@@ -3063,6 +3063,422 @@ Costo: 2027 - Tarifas/monedas/una unidad de edad no se ha publicado. - Suplement
 Limitaciones: Matway: No hay suficiente edad y edad para este niño en su propia página. Oscar: No hay suficiente edad y no hay suficiente personal para este niño. No se dispone de fondos: carretera/presupuesto completo. La remuneración: todavía es necesario entrar por conducto de la organización y el futuro contrato; no se ha presentado ningún formulario.
 Fuente: https://www.manquechile.cl/2026/08/29/inscribete-y-participa-en-el-campamento-internacional-verano-2027-manque-chile-international-summer-camp-2027-manque-chile/
 Comprobado: 2026-10-06
+
+### CP1183-20261207-20261211 · TechLab Kids Chile · Kids WeDo · Robotics AM · Human Evolution · Robotics AM · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20261214-20261218 · TechLab Kids Chile · Kids WeDo · Robotics AM · EVO BOTS · Robotics AM · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270104-20270108 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270111-20270115 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270118-20270122 · TechLab Kids Chile · Kids WeDo · Robotics AM · C · Space · Robotics AM · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270125-20270129 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270201-20270205 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-02-01–2027-02-05
+
+Fecha: 2027-02-01 国 2027-02-05
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270208-20270212 · TechLab Kids Chile · Kids WeDo · Robotics AM · C · Space · Robotics AM · 2027-02-08–2027-02-12
+
+Fecha: 2027-02-08 — 2027-02-12
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270215-20270219 · TechLab Kids Chile · Kids WeDo · Robotics AM · A · Earth · Robotics AM · 2027-02-15–2027-02-19
+
+Fecha: 2027-02-15 国 2027-02-19
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1183-20270222-20270226 · TechLab Kids Chile · Kids WeDo · Robotics AM · B · Ocean · Robotics AM · 2027-02-22–2027-02-26
+
+Fecha: 2027-02-22 国 2027-02-26
+edad: Kids 6–8; grupo mayor 9–11 separado.
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: Kids admite hasta 8, necesita Junior separado. A inicio de 2027 tiene 9–10. Oscar: Familia informó que Oscar tiene 6 años: en diciembre de 2026 e inicio de 2027 cumple rango 6–8. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20261207-20261211 · TechLab Kids Chile · Junior EV3 · Robotics AM · Human Evolution · Robotics AM · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20261214-20261218 · TechLab Kids Chile · Junior EV3 · Robotics AM · EVO BOTS · Robotics AM · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270104-20270108 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270111-20270115 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270118-20270122 · TechLab Kids Chile · Junior EV3 · Robotics AM · C · Space · Robotics AM · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270125-20270129 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270201-20270205 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-02-01–2027-02-05
+
+Fecha: 2027-02-01 国 2027-02-05
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270208-20270212 · TechLab Kids Chile · Junior EV3 · Robotics AM · C · Space · Robotics AM · 2027-02-08–2027-02-12
+
+Fecha: 2027-02-08 — 2027-02-12
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270215-20270219 · TechLab Kids Chile · Junior EV3 · Robotics AM · A · Earth · Robotics AM · 2027-02-15–2027-02-19
+
+Fecha: 2027-02-15 国 2027-02-19
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1184-20270222-20270226 · TechLab Kids Chile · Junior EV3 · Robotics AM · B · Ocean · Robotics AM · 2027-02-22–2027-02-26
+
+Fecha: 2027-02-22 国 2027-02-26
+edad: Junior 9–11; texto inferior también dice 9+, confirmar límite superior del grupo EV3 separado.
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 115000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Familia informó que Matvey tiene 9 años: diciembre de 2026 y enero–febrero de 2027 cumplen Junior 9–11. Acordar dificultad tras competiciones. Oscar: Oscar menor de 9; existe Kids 6–8 separado. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20261207-20261211 · TechLab Kids Chile · Scratch / MakeCode · PM · Human Evolution · Coding PM · 2026-12-07–2026-12-11
+
+Fecha: 2026-12-07 — 2026-12-11
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20261214-20261218 · TechLab Kids Chile · Scratch / MakeCode · PM · EVO BOTS · Coding PM · 2026-12-14–2026-12-18
+
+Fecha: 2026-12-14 - 2026-12-18
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2026/27 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-navidad-2026/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270104-20270108 · TechLab Kids Chile · Scratch / MakeCode · PM · A · Earth · Coding PM · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270111-20270115 · TechLab Kids Chile · Scratch / MakeCode · PM · B · Ocean · Coding PM · 2027-01-11–2027-01-15
+
+Fecha: 2027-01-11 — 2027-01-15
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270118-20270122 · TechLab Kids Chile · Scratch / MakeCode · PM · C · Space · Coding PM · 2027-01-18–2027-01-22
+
+Fecha: 2027-01-18 国 2027-01-22
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270125-20270129 · TechLab Kids Chile · Scratch / MakeCode · PM · A · Earth · Coding PM · 2027-01-25–2027-01-29
+
+Fecha: 2027-01-25 国 2027-01-29
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270201-20270205 · TechLab Kids Chile · Scratch / MakeCode · PM · B · Ocean · Coding PM · 2027-02-01–2027-02-05
+
+Fecha: 2027-02-01 国 2027-02-05
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270208-20270212 · TechLab Kids Chile · Scratch / MakeCode · PM · C · Space · Coding PM · 2027-02-08–2027-02-12
+
+Fecha: 2027-02-08 — 2027-02-12
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270215-20270219 · TechLab Kids Chile · Scratch / MakeCode · PM · A · Earth · Coding PM · 2027-02-15–2027-02-19
+
+Fecha: 2027-02-15 国 2027-02-19
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1185-20270222-20270226 · TechLab Kids Chile · Scratch / MakeCode · PM · B · Ocean · Coding PM · 2027-02-22–2027-02-26
+
+Fecha: 2027-02-22 国 2027-02-26
+edad: Kids y Junior 6–11. Un apartado Navidad dice mayores de 6 y tabla general 6–11: confirmar admisión con exactamente 6.
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Precio: 2027 · CLP 120000 / niño / semana · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Edad de Matvey informada por familia 9; a inicio de 2027 tiene 9–10, cumple 6–11. Dificultad y plaza aparte. Oscar: Familia informó que Oscar tiene 6 años; en 2027 tiene 6–7. Confirmar conflicto 6–11 / mayores de 6 antes de dar admisión por confirmada. Suplementos: Llevar colaciones, agua, gorro y protección solar; aparcamiento de pago. Padres no pueden esperar dentro. Contrato contempla salida al parque a dos cuadras; acordar acompañamiento antes de consentir. Alojamiento y viaje familiar aparte. Pago: Admisión hasta llenar plazas, pago 100% o reserva 50% con saldo como máximo 15 días antes de inicio; plazo del saldo, no de inscripción. Política general: cancelación escrita; con 7 o más días naturales devolución 75% o vale del total pagado por un año; menos de 7 días sin devolución, salvo excepciones médicas. Tras inicio / no-show sin devolución, imposibilidad justificada documentalmente puede dar 75%. Si falta mínimo cancela organizador y devuelve cuota, sin otra compensación. Sin dar consentimiento. Anunciado 5%: hermanos o dos o más semanas en mismo pedido. No acumular ambos motivos. Política general no acumula descuentos; Navidad excluye días sueltos y pagos en cuotas. Base, reparto entre hermanos y compatibilidad con reserva 50% deben figurar en invoice; presupuestos conservan tarifa íntegra.
+Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2027/
+Se ha comprobado: 2026-11-05
+
+### CP1186-20270104-20270108 · Universidad de Chile · EdV · Exploradores de la Robótica · Exploradores de la Robótica · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+edad: Cursando 5° o 6° Educación Básica durante 2026; no es edad de 5–6 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Acceso: Admisión selectiva por notas anuales sin prueba; máximo tres cursos sin solaparse. Nivel exigido obligatorio: solicitud de otro nivel anulada. Estas fichas exigen 5°/6° en 2026 y certificado anual 2025. Reglas para escuelas no MINEDUC y quienes regresaron del extranjero no prueban admisión de extranjeros recién llegados. Tras selección WebPay. Página general aún menciona resultados el 11 de junio sin temporada adecuada: no convertir en plazo de 2027. Devolución solo excepcional antes de inicio, retienen 20%; pedir como máximo 5 días hábiles antes, tramitación al menos 15 días hábiles. Confirmar vigencia para verano elegido y factura extranjera.
+Precio: 2027 · CLP 98000 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Exige cursar realmente 5°/6° en 2026 y selección por notas; año 2017 no lo demuestra. Oscar: Curso de 5°/6°: etapa futura para Oscar, curso escolar real de familia desconocido. Edad no sustituye documento escolar. Suplementos: Comida, transporte y alojamiento no incluidos; sin ayuda de hoteles. Confirmar documentos extranjeros, idioma y refund. Pago: Admisión selectiva por notas anuales sin prueba; máximo tres cursos sin solaparse. Nivel exigido obligatorio: solicitud de otro nivel anulada. Estas fichas exigen 5°/6° en 2026 y certificado anual 2025. Reglas para escuelas no MINEDUC y quienes regresaron del extranjero no prueban admisión de extranjeros recién llegados. Tras selección WebPay. Página general aún menciona resultados el 11 de junio sin temporada adecuada: no convertir en plazo de 2027. Devolución solo excepcional antes de inicio, retienen 20%; pedir como máximo 5 días hábiles antes, tramitación al menos 15 días hábiles. Confirmar vigencia para verano elegido y factura extranjera.
+Fuente: https://www.edv.uchile.cl/portfolio/exploradores-de-la-robotica-descubre-construye-y-aprende-como-funcionan-las-maquinas-del-futuro-2/
+Se ha comprobado: 2026-11-05
+
+### CP1187-20270104-20270108 · Universidad de Chile · EdV · Pensamiento Computacional en Scratch · Pensamiento Computacional en Scratch · 2027-01-04–2027-01-08
+
+Fecha: 2027-01-04 — 2027-01-08
+edad: Cursando 5° o 6° Educación Básica durante 2026; no es edad de 5–6 años.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Idioma: Web y descripción académica en español; sin localizar confirmación expresa separada de enseñanza en ES o EN. Hasta respuesta del organizador no incluir en filtro de enseñanza EN/ES confirmada.
+Acceso: Admisión selectiva por notas anuales sin prueba; máximo tres cursos sin solaparse. Nivel exigido obligatorio: solicitud de otro nivel anulada. Estas fichas exigen 5°/6° en 2026 y certificado anual 2025. Reglas para escuelas no MINEDUC y quienes regresaron del extranjero no prueban admisión de extranjeros recién llegados. Tras selección WebPay. Página general aún menciona resultados el 11 de junio sin temporada adecuada: no convertir en plazo de 2027. Devolución solo excepcional antes de inicio, retienen 20%; pedir como máximo 5 días hábiles antes, tramitación al menos 15 días hábiles. Confirmar vigencia para verano elegido y factura extranjera.
+Precio: 2027 · CLP 98000 · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Exige cursar realmente 5°/6° en 2026 y selección por notas; año 2017 no lo demuestra. Oscar: Curso de 5°/6°: etapa futura para Oscar, curso escolar real de familia desconocido. Edad no sustituye documento escolar. Suplementos: Comida, transporte y alojamiento no incluidos; sin ayuda de hoteles. Confirmar documentos extranjeros, idioma y refund. Pago: Admisión selectiva por notas anuales sin prueba; máximo tres cursos sin solaparse. Nivel exigido obligatorio: solicitud de otro nivel anulada. Estas fichas exigen 5°/6° en 2026 y certificado anual 2025. Reglas para escuelas no MINEDUC y quienes regresaron del extranjero no prueban admisión de extranjeros recién llegados. Tras selección WebPay. Página general aún menciona resultados el 11 de junio sin temporada adecuada: no convertir en plazo de 2027. Devolución solo excepcional antes de inicio, retienen 20%; pedir como máximo 5 días hábiles antes, tramitación al menos 15 días hábiles. Confirmar vigencia para verano elegido y factura extranjera.
+Fuente: https://www.edv.uchile.cl/portfolio/desarrollando-el-pensamiento-computacional-en-scratch-5/
+Se ha comprobado: 2026-11-05
 
 ## ~ Comprobar de nuevo
 
