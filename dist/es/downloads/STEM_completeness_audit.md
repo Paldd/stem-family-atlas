@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 4225; competiciones: 1293; eventos: 219; campamentos / programas: 2713. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y exposiciones especializadas: 137 — son ediciones y sedes, no el número de marcas únicas.
+Fichas en base: 4369; competiciones: 1293; eventos: 219; campamentos / programas: 2857. Perfiles de ligas y programas: 147. Fichas de grandes exposiciones y especializadas: 137 — son ediciones y sedes, no marcas únicas.
 
 Hay registros específicos para 87 de 249 países y territorios; países auditados por completo: 0. Revisión de archivo v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores se conservan.
 
@@ -14,9 +14,9 @@ Hay registros específicos para 87 de 249 países y territorios; países auditad
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 583 | 19 | 761 |
+| América del Norte | 14 | 583 | 19 | 891 |
 | América del Sur | 10 | 148 | 6 | 113 |
-| Europa | 22 | 178 | 47 | 1156 |
+| Europa | 22 | 178 | 47 | 1170 |
 | África | 11 | 63 | 5 | 30 |
 | Asia | 25 | 247 | 58 | 634 |
 | Oceanía | 4 | 29 | 2 | 13 |

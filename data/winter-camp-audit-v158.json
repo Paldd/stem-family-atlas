@@ -1,0 +1,91 @@
+{
+  "version": 158,
+  "checked": "2026-11-05",
+  "scope": "Зимние лагеря и мастер-классы Великобритании, Канады и ОАЭ; реальные пансионные предложения FunTech на август 2027. Добавлено 18 досье, 144 варианта дат и 10 семейных смет; уточнены шесть прежних досье. Неизвестный язык, школьные условия, конфликт дат Дубая и нерабочие билеты Science North сохранены. Мировой аудит продолжается.",
+  "new_dossiers": 18,
+  "new_learning_records": 144,
+  "new_budget_offers": 10,
+  "updated_raw_dossiers": [
+    "CP020",
+    "CP218",
+    "CP296",
+    "CP297",
+    "CP298",
+    "CP375"
+  ],
+  "source_requests": 79,
+  "source_responses_hash_verified": 72,
+  "source_requests_failed": 7,
+  "fully_audited_countries": 0,
+  "worldwide_complete": false,
+  "registration_forms_not_submitted": true,
+  "changes": [
+    "Distinct BlueShift Junior / Senior and exact package versus single-day prices",
+    "STEMA K–2 / Grades 3–6 conditional on actual grade, not inferred age",
+    "Zebra native seasonal fees matched by four keys; optional extended care separated from mandatory fee",
+    "Only current FunTech 2027 offers, not hidden 2020 modal dates; boarding devices and VAT included",
+    "W5 repeated workshop alternatives, choose only one; no international medal claim",
+    "Three Bears resources do not imply on-demand full show; no timezone invented",
+    "Science North current landing versus broken tickets and older conflicting product names",
+    "UWR conflicting dates and unpublished teaching language remain undated watch dossiers"
+  ],
+  "next_gaps": [
+    "Fresh language confirmation for winter providers except separately evidenced Science North English stream",
+    "Taiwan, Japan, Korea, Singapore and continental Europe winter / summer passes remain in worldwide queue",
+    "Latin America, Mexico and Costa Rica continue alongside worldwide national and regional competition research",
+    "School grades, exact birthdays, actual admission and places remain unconfirmed"
+  ],
+  "validation": {
+    "version": 158,
+    "records": 4369,
+    "new_dossiers": 18,
+    "new_dated_variants": 144,
+    "new_ICS_entries": 568,
+    "new_budget_offers": 10,
+    "all_4225_previous_ids_and_4010_calendar_timings_preserved": true,
+    "competitions_exhibitions_schools_leagues_routes_preserved": true,
+    "grade_gates_conditional": true,
+    "no_website_only_English_claims": true,
+    "actual_native_fee_matching_and_optional_care": true,
+    "old_2020_2025_dates_excluded": true,
+    "FunTech_boarding_and_age10_gates": true,
+    "W5_repeated_workshop_alternatives": true,
+    "ThreeBears_no_invented_timezone_or_replay": true,
+    "ScienceNorth_broken_tickets_not_acceptance": true,
+    "both_language_archives_verified": true,
+    "source_hashes_verified": 72,
+    "source_failures": 7,
+    "worldwide_complete": false
+  },
+  "runtime_validation": [
+    {
+      "lang": "ru",
+      "records": 4369,
+      "new_dossiers_rendered": 18,
+      "new_variants_filtered": 144,
+      "new_calendar_entries": 568,
+      "native_seasonal_fees_and_optional_care": true,
+      "actual_grade_and_language_conditions": true,
+      "boarding_age10_gate_and_Oscar_exclusion": true,
+      "month_country_theme_and_online_filters": true,
+      "no_invented_timezone_or_2025_dates": true,
+      "ten_budget_calculations": true,
+      "unknown_prices_not_zero_or_undefined": true
+    },
+    {
+      "lang": "es",
+      "records": 4369,
+      "new_dossiers_rendered": 18,
+      "new_variants_filtered": 144,
+      "new_calendar_entries": 568,
+      "native_seasonal_fees_and_optional_care": true,
+      "actual_grade_and_language_conditions": true,
+      "boarding_age10_gate_and_Oscar_exclusion": true,
+      "month_country_theme_and_online_filters": true,
+      "no_invented_timezone_or_2025_dates": true,
+      "ten_budget_calculations": true,
+      "unknown_prices_not_zero_or_undefined": true
+    }
+  ],
+  "visual_browser_check": "unavailable: Local browser use is disabled in Work settings; no visual QA claim"
+}

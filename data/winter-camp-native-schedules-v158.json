@@ -1,0 +1,1365 @@
+{
+  "checked": "2026-11-05",
+  "method": "Selected official public course data only; no registrations, personal tuition products or unrelated names. Fees matched by inclusive day count, delivery_type_id, half_day_ind and camp_type_id, as read in provider pricing code.",
+  "zebra": {
+    "building": {
+      "url": "https://www.zebrarobotics.com/langley/camps/58",
+      "course_code": "SR150",
+      "currency": "CAD",
+      "min_grade": 1,
+      "max_grade": 3,
+      "branch_tax": 0.05,
+      "fee_tax_ind": 1,
+      "weeks": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "days": 4,
+          "native_session_id": 7371,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 198,
+              "fee_id": 15991,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 198,
+              "fee_id": 15991,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 396,
+              "fee_id": 15990,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-01-09",
+          "end": "2027-01-09",
+          "days": 1,
+          "native_session_id": 8005,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15229,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15229,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15202,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "days": 1,
+          "native_session_id": 8004,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15229,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15229,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15202,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "days": 5,
+          "native_session_id": 7973,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "days": 4,
+          "native_session_id": 7976,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 240,
+              "fee_id": 5881,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 240,
+              "fee_id": 5881,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 410,
+              "fee_id": 5870,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "days": 5,
+          "native_session_id": 7979,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "days": 5,
+          "native_session_id": 7982,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "days": 5,
+          "native_session_id": 7985,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "days": 5,
+          "native_session_id": 7988,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "days": 5,
+          "native_session_id": 7991,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "days": 5,
+          "native_session_id": 7994,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "days": 5,
+          "native_session_id": 7997,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-30",
+          "end": "2027-09-03",
+          "days": 5,
+          "native_session_id": 8000,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5055,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5054,
+              "optional_extended_care": 50
+            }
+          ]
+        }
+      ]
+    },
+    "adventures": {
+      "url": "https://www.zebrarobotics.com/langley/camps/61",
+      "course_code": "SR350",
+      "currency": "CAD",
+      "min_grade": 3,
+      "max_grade": 4,
+      "branch_tax": 0.05,
+      "fee_tax_ind": 1,
+      "weeks": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "days": 4,
+          "native_session_id": 7371,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 198,
+              "fee_id": 15993,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 198,
+              "fee_id": 15993,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 396,
+              "fee_id": 15992,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-01-09",
+          "end": "2027-01-09",
+          "days": 1,
+          "native_session_id": 8005,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15232,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15232,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15205,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "days": 1,
+          "native_session_id": 8004,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15232,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15232,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15205,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "days": 5,
+          "native_session_id": 7973,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "days": 4,
+          "native_session_id": 7976,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 240,
+              "fee_id": 5884,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 240,
+              "fee_id": 5884,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 410,
+              "fee_id": 5873,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "days": 5,
+          "native_session_id": 7979,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "days": 5,
+          "native_session_id": 7982,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "days": 5,
+          "native_session_id": 7985,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "days": 5,
+          "native_session_id": 7988,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "days": 5,
+          "native_session_id": 7991,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "days": 5,
+          "native_session_id": 7994,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "days": 5,
+          "native_session_id": 7997,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-30",
+          "end": "2027-09-03",
+          "days": 5,
+          "native_session_id": 8000,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5857,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5842,
+              "optional_extended_care": 50
+            }
+          ]
+        }
+      ]
+    },
+    "engineer": {
+      "url": "https://www.zebrarobotics.com/langley/camps/73",
+      "course_code": "SR400",
+      "currency": "CAD",
+      "min_grade": 4,
+      "max_grade": 9,
+      "branch_tax": 0.05,
+      "fee_tax_ind": 1,
+      "weeks": [
+        {
+          "start": "2026-12-21",
+          "end": "2026-12-24",
+          "days": 4,
+          "native_session_id": 7371,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 198,
+              "fee_id": 15995,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 198,
+              "fee_id": 15995,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 396,
+              "fee_id": 15994,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-01-09",
+          "end": "2027-01-09",
+          "days": 1,
+          "native_session_id": 8005,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15239,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15239,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15212,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-02-20",
+          "end": "2027-02-20",
+          "days": 1,
+          "native_session_id": 8004,
+          "camp_type_id": 5,
+          "batch_type": "Winter Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 50,
+              "fee_id": 15239,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 50,
+              "fee_id": 15239,
+              "optional_extended_care": null
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 99,
+              "fee_id": 15212,
+              "optional_extended_care": null
+            }
+          ]
+        },
+        {
+          "start": "2027-03-15",
+          "end": "2027-03-19",
+          "days": 5,
+          "native_session_id": 7973,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-03-22",
+          "end": "2027-03-25",
+          "days": 4,
+          "native_session_id": 7976,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 240,
+              "fee_id": 5890,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 240,
+              "fee_id": 5890,
+              "optional_extended_care": 40
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 410,
+              "fee_id": 5877,
+              "optional_extended_care": 40
+            }
+          ]
+        },
+        {
+          "start": "2027-07-05",
+          "end": "2027-07-09",
+          "days": 5,
+          "native_session_id": 7979,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-12",
+          "end": "2027-07-16",
+          "days": 5,
+          "native_session_id": 7982,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-19",
+          "end": "2027-07-23",
+          "days": 5,
+          "native_session_id": 7985,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-07-26",
+          "end": "2027-07-30",
+          "days": 5,
+          "native_session_id": 7988,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-09",
+          "end": "2027-08-13",
+          "days": 5,
+          "native_session_id": 7991,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-16",
+          "end": "2027-08-20",
+          "days": 5,
+          "native_session_id": 7994,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-23",
+          "end": "2027-08-27",
+          "days": 5,
+          "native_session_id": 7997,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        },
+        {
+          "start": "2027-08-30",
+          "end": "2027-09-03",
+          "days": 5,
+          "native_session_id": 8000,
+          "camp_type_id": 6,
+          "batch_type": "Spring Break Camp",
+          "variants": [
+            {
+              "key": "am",
+              "start_time": "09:00",
+              "end_time": "12:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": null
+            },
+            {
+              "key": "pm",
+              "start_time": "13:00",
+              "end_time": "16:30",
+              "amount": 290,
+              "fee_id": 5864,
+              "optional_extended_care": 50
+            },
+            {
+              "key": "full",
+              "start_time": "09:00",
+              "end_time": "16:30",
+              "amount": 495,
+              "fee_id": 5849,
+              "optional_extended_care": 50
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

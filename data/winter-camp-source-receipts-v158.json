@@ -1,0 +1,763 @@
+{
+  "checked": "2026-11-05",
+  "requests": 79,
+  "readable": 72,
+  "failed": 7,
+  "receipts": [
+    {
+      "key": "uwr-registration",
+      "url": "https://winter.uwr.ae/",
+      "final_url": "https://winter.uwr.ae/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84852,
+      "sha256": "2ea1eadab46961af16b90fba8ea8149e0fba4f094e8ccd7415c0cdc361041955",
+      "file": "uwr-registration.html"
+    },
+    {
+      "key": "uwr-course-search",
+      "url": "https://uniqueworldrobotics.com/wp-json/wp/v2/search?search=winter%20camp&per_page=20",
+      "final_url": "https://uniqueworldrobotics.com/wp-json/wp/v2/search?search=winter%20camp&per_page=20",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 443,
+      "sha256": "623882f18a789d93e22d8d5794eeb379c4ad4b030aeb9b424641f6d70b749d13",
+      "file": "uwr-course-search.html"
+    },
+    {
+      "key": "blue-faq",
+      "url": "https://www.blueshift.education/apps/frequently-asked-questions",
+      "final_url": "https://www.blueshift.education/apps/frequently-asked-questions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1046746,
+      "sha256": "cbab51157efc8b3e282a3256a98d9598c5a1e1eb153456ee93b97b0b7ecd730d",
+      "file": "blue-faq.html"
+    },
+    {
+      "key": "blue-products",
+      "url": "https://www.blueshift.education/products.json?limit=250",
+      "final_url": "https://www.blueshift.education/products.json?limit=250",
+      "status": 200,
+      "mime": "application/json",
+      "bytes": 356919,
+      "sha256": "d0067e75c1bb50072f881e81533419cf12875c5fbed2adae628c2cadf9c84e49",
+      "file": "blue-products.html"
+    },
+    {
+      "key": "premier-camps",
+      "url": "https://www.premiergenie.com/camps/",
+      "final_url": "https://www.premiergenie.com/camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 130960,
+      "sha256": "400462db60d70dfafcaf56b6acec0a82d136fa64117e5fe7f3799e279b47568b",
+      "file": "premier-camps.html"
+    },
+    {
+      "key": "science-north-robo68",
+      "url": "https://order.sciencenorth.ca/183345/183380",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "science-north-robo-directory",
+      "url": "https://order.sciencenorth.ca/183345",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "stema-faq",
+      "url": "https://surrey.stemalearning.com/faqs/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "zebra-faq",
+      "url": "https://www.zebrarobotics.com/general-faqs",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "brainstem-faq",
+      "url": "https://www.brainstemlearning.ca/faq",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "codekids-book",
+      "url": "https://www.codekids.org.uk/book/?swoof=1&paged=1&dates=holidays",
+      "final_url": "https://www.codekids.org.uk/book/?swoof=1&dates=holidays",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214256,
+      "sha256": "96813b6d79e473be6996e06c4ca76199cbd3589e68c165621bf773da4f8b491e",
+      "file": "codekids-book.html"
+    },
+    {
+      "key": "funtech-course-roblox",
+      "url": "https://funtech.co.uk/camp_types/view_residential/roblox-level-1",
+      "final_url": "https://funtech.co.uk/camp_types/v2_residential/roblox-level-1",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81471,
+      "sha256": "89fbec4e552805865dd4449000aa75ea0b7c69a77a7c09bb96d788e33292f954",
+      "file": "funtech-course-roblox.html"
+    },
+    {
+      "key": "funtech-course-python",
+      "url": "https://funtech.co.uk/camp_types/view_residential/python-coder",
+      "final_url": "https://funtech.co.uk/camp_types/v2_residential/python-coder",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 86772,
+      "sha256": "d7fff6a2f7cba08a78a84f776bd04094911525b27ec012958178dd4f2ab01237",
+      "file": "funtech-course-python.html"
+    },
+    {
+      "key": "funtech-course-3d",
+      "url": "https://funtech.co.uk/camp_types/view_residential/unreal-game-design",
+      "final_url": "https://funtech.co.uk/camp_types/view_residential/unreal-game-design",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 81188,
+      "sha256": "623296beac2608385d84b2eeffddbf507d8d7bac2c78da38e5ca981a2837fc15",
+      "file": "funtech-course-3d.html"
+    },
+    {
+      "key": "funtech-course-ai",
+      "url": "https://funtech.co.uk/camp_types/view_residential/ai-vibe-coder",
+      "final_url": "https://funtech.co.uk/camp_types/v2_residential/ai-vibe-coder",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83259,
+      "sha256": "8dcae25fe4cad6c01223e3e55c3a9101cbec2104d8723f5a8a08da55afa73fe5",
+      "file": "funtech-course-ai.html"
+    },
+    {
+      "key": "funtech-offers",
+      "url": "https://funtech.co.uk/residentials/offer_search",
+      "final_url": "https://funtech.co.uk/residentials/offer_search",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 146224,
+      "sha256": "9d217628ebca4c30e03da3654d24a842714225ef53c180dfa356e5ba8d592f6f",
+      "file": "funtech-offers.html"
+    },
+    {
+      "key": "funtech-residential-types",
+      "url": "https://funtech.co.uk/camp_types/residential",
+      "final_url": "https://funtech.co.uk/camp_types/residential",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 73437,
+      "sha256": "f05d43fc771684e4a739e00a897f61f5640c9775e2d4ae076d7e862b0b55af54",
+      "file": "funtech-residential-types.html"
+    },
+    {
+      "key": "uwr-winter",
+      "url": "https://uniqueworldrobotics.com/winter-camp/",
+      "final_url": "https://uniqueworldrobotics.com/winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116170,
+      "sha256": "a6a057747e12047a5b26360b3f23ac1b7e0aca16a3e7dff4099509dfefac1284",
+      "file": "uwr-winter.html"
+    },
+    {
+      "key": "uwr-home",
+      "url": "https://uniqueworldrobotics.com/",
+      "final_url": "https://uniqueworldrobotics.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 158036,
+      "sha256": "9262f5d29944d070214c4a1b2088017eb124e1042a4c9c9b2478126331dea950",
+      "file": "uwr-home.html"
+    },
+    {
+      "key": "stema-winter",
+      "url": "https://surrey.stemalearning.com/product/steam-winter-camp/",
+      "final_url": "https://surrey.stemalearning.com/product/steam-winter-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 297863,
+      "sha256": "0343ee9be020e9196e90c26a90faaa6c0d3206ac14a9667c9d567340e7121ee2",
+      "file": "stema-winter.html"
+    },
+    {
+      "key": "zebra-langley",
+      "url": "https://www.zebrarobotics.com/langley/camps",
+      "final_url": "https://www.zebrarobotics.com/langley/camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 366446,
+      "sha256": "f356bfd41c9b3cdc34508e6b363cd8ec01970fa02e2099019a9e4d3bdd18ca45",
+      "file": "zebra-langley.html"
+    },
+    {
+      "key": "brainstem-winter",
+      "url": "https://www.brainstemlearning.ca/programs/winter-camp",
+      "final_url": "https://www.brainstemlearning.ca/programs/winter-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 101355,
+      "sha256": "1e6641478e986fb78589484d7e0e27a4dc02c369235f1b81ff7cc2cba924d176",
+      "file": "brainstem-winter.html"
+    },
+    {
+      "key": "science-north-break",
+      "url": "https://www.sciencenorth.ca/school-break-camps",
+      "final_url": "https://www.sciencenorth.ca/school-break-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 87110,
+      "sha256": "46d7816b7c067806ceec8f6c38b98baab22a1893ff4c2f86409dad68cb794c11",
+      "file": "science-north-break.html"
+    },
+    {
+      "key": "blue-camps",
+      "url": "https://www.blueshift.education/pages/in-person-camps",
+      "final_url": "https://www.blueshift.education/pages/in-person-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 189201,
+      "sha256": "9874176e76cc5276a217a2df81518b849b303fbf650d8adeb71682ae7bfeafe5",
+      "file": "blue-camps.html"
+    },
+    {
+      "key": "blue-home",
+      "url": "https://www.blueshift.education/",
+      "final_url": "https://www.blueshift.education/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 235371,
+      "sha256": "62fd4cef6212e33e2de6319462139d95c9e821cee285b3d184e600bc4f4c3061",
+      "file": "blue-home.html"
+    },
+    {
+      "key": "codekids-home",
+      "url": "https://www.codekids.org.uk/",
+      "final_url": "https://www.codekids.org.uk/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 488088,
+      "sha256": "68a8998693fce9b0f8e9b7b28fdd1b16232500fba05c6a2723e0cf7c02def509",
+      "file": "codekids-home.html"
+    },
+    {
+      "key": "stemotics-winter",
+      "url": "https://stemotics.com/product/winter-break-camp/",
+      "final_url": "https://stemotics.com/product/winter-break-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 513271,
+      "sha256": "6929b1ecaf73000177bc27342042add481fc758386d374055f6e031bf6110868",
+      "file": "stemotics-winter.html"
+    },
+    {
+      "key": "premier-genie",
+      "url": "https://premiergenie.com/",
+      "final_url": "https://www.premiergenie.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 144995,
+      "sha256": "d81181c9d217e8309a1df4c562e1f09bd741990ea835c217e1ac33b02e7158ad",
+      "file": "premier-genie.html"
+    },
+    {
+      "key": "zebra-chunk-0-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/57c7ae8bd2a79d6a.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/57c7ae8bd2a79d6a.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 30165,
+      "sha256": "92a033e5697dbb1b7e03a89a3ae12acb593469c3efa4020d114b32e68809c594",
+      "file": "zebra-chunk-0-js.js"
+    },
+    {
+      "key": "zebra-chunk-1-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/4738479eb33af51c.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/4738479eb33af51c.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 111078,
+      "sha256": "d498ef20299f7cb7f7cdedd2683e481d2dbeb80b1bc79e81b899c0d813db47d5",
+      "file": "zebra-chunk-1-js.js"
+    },
+    {
+      "key": "zebra-chunk-2-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/e9db456e6febb5bf.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/e9db456e6febb5bf.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 223454,
+      "sha256": "ab72f1e215ba07e19f6d53327786d111ec24112329dc55f726dcdf2e5caa4dd9",
+      "file": "zebra-chunk-2-js.js"
+    },
+    {
+      "key": "zebra-chunk-3-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/f091501564eb2ea3.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/f091501564eb2ea3.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 32831,
+      "sha256": "24f2a36549563e381b86c1cb7e8a1ea4fefe89eb208169d56d0932d0c1164a9b",
+      "file": "zebra-chunk-3-js.js"
+    },
+    {
+      "key": "zebra-chunk-4-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/turbopack-99a8f9180f329b6d.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/turbopack-99a8f9180f329b6d.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 10268,
+      "sha256": "340aa26d187964a25a25d8b15b31374f72d53ed9052a5eec04291e8e65ddba9d",
+      "file": "zebra-chunk-4-js.js"
+    },
+    {
+      "key": "zebra-chunk-5-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/ff1a16fafef87110.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/ff1a16fafef87110.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 282,
+      "sha256": "e9786b1305894e4119bb9811a816dac9cf576755596dd989ee15b455749fc35e",
+      "file": "zebra-chunk-5-js.js"
+    },
+    {
+      "key": "zebra-chunk-6-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/d2be314c3ece3fbe.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/d2be314c3ece3fbe.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 30681,
+      "sha256": "a6248517cd3ee53a8186b51c59e1e764e3dc0c512f4acbd50e818f9884663e21",
+      "file": "zebra-chunk-6-js.js"
+    },
+    {
+      "key": "zebra-chunk-7-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/5b03474fbc99064d.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/5b03474fbc99064d.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 35292,
+      "sha256": "2af688a0e6368be8334f6156b001020d2a6381ba46f87f6ae19dd55ec1f70959",
+      "file": "zebra-chunk-7-js.js"
+    },
+    {
+      "key": "zebra-chunk-8-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/74a9a71a2ddcb2dd.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/74a9a71a2ddcb2dd.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 28509,
+      "sha256": "21dc28bab57d58ab129dd4db57c8a2fde43d055109f452edadda17cf6059be8d",
+      "file": "zebra-chunk-8-js.js"
+    },
+    {
+      "key": "zebra-chunk-9-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/a282182c45a46111.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/a282182c45a46111.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 27750,
+      "sha256": "af66df5a39c990d93f19f5382bfd7cf02ae1becebf3cd58fbe6205e95b3d89ea",
+      "file": "zebra-chunk-9-js.js"
+    },
+    {
+      "key": "zebra-chunk-10-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/0f37ef3ec3097fce.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/0f37ef3ec3097fce.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 26493,
+      "sha256": "a8aea0adeac4bb06c7ae29611d6ef4403a8ce6bda5f35370c137f6fc229974c1",
+      "file": "zebra-chunk-10-js.js"
+    },
+    {
+      "key": "zebra-chunk-11-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/5caad9160c481163.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/5caad9160c481163.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 28094,
+      "sha256": "6df931edb929a062600c8a9a408f32ff96c331810e3383766280ac7c81c84c84",
+      "file": "zebra-chunk-11-js.js"
+    },
+    {
+      "key": "zebra-chunk-12-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/ff6a2ba85756c3e0.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/ff6a2ba85756c3e0.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 49595,
+      "sha256": "2be56f908e524eca05ac87846e13bc83dbbfedef73629584668892dfd427bb72",
+      "file": "zebra-chunk-12-js.js"
+    },
+    {
+      "key": "zebra-chunk-13-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/41821205e32a8131.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/41821205e32a8131.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 64879,
+      "sha256": "e634bc8c2d0e413ccab3ba3d4ae3614e8c2d180e74461bc468e46cedd2359c5f",
+      "file": "zebra-chunk-13-js.js"
+    },
+    {
+      "key": "zebra-chunk-14-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/c477649a801f5d67.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/c477649a801f5d67.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 3203,
+      "sha256": "c4058fac01087581873751e6b57e87c322ae4701a6d62ffe829b43b4e6833748",
+      "file": "zebra-chunk-14-js.js"
+    },
+    {
+      "key": "zebra-chunk-15-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/e87aeeea848a3545.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/e87aeeea848a3545.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 862,
+      "sha256": "e0232bf619940be1a8addde0578460e84a1c432582a774aec881a003ce7b9ba4",
+      "file": "zebra-chunk-15-js.js"
+    },
+    {
+      "key": "zebra-chunk-16-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/ad5d0c1660b30bee.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/ad5d0c1660b30bee.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 15010,
+      "sha256": "6f19ae0a3dff5fd351200a6bfcdd778448fe6b2d5b8b8f51f91ca30fd57c91f8",
+      "file": "zebra-chunk-16-js.js"
+    },
+    {
+      "key": "zebra-chunk-17-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/e64833784be84e09.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/e64833784be84e09.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 26559,
+      "sha256": "146372336382d2ff5091a8c82269cf0baf25c807f6367c57665bb9d152df550d",
+      "file": "zebra-chunk-17-js.js"
+    },
+    {
+      "key": "zebra-chunk-18-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/fe8999ddd306e057.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/fe8999ddd306e057.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 45827,
+      "sha256": "8de85e5e120a1fbdff426274c1ae85e1b88cda43b17d7511f7771589804ea944",
+      "file": "zebra-chunk-18-js.js"
+    },
+    {
+      "key": "zebra-chunk-19-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/31f16dcc3eb393d8.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/31f16dcc3eb393d8.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 3203,
+      "sha256": "c9f9d2b045eae3eb1abdfca0cb3ae651bfeccc0544ce41e823c1447cdb1b1bd5",
+      "file": "zebra-chunk-19-js.js"
+    },
+    {
+      "key": "zebra-chunk-20-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/854ce43527e4e98f.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/854ce43527e4e98f.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 2388,
+      "sha256": "4310ea4458a59e4e38ffd2631f4b41bce420927695d619514a79a782c1ca7d32",
+      "file": "zebra-chunk-20-js.js"
+    },
+    {
+      "key": "zebra-chunk-21-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/a6dad97d9634a72d.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/a6dad97d9634a72d.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 112594,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "file": "zebra-chunk-21-js.js"
+    },
+    {
+      "key": "zebra-chunk-22-js",
+      "url": "https://www.zebrarobotics.com/_next/static/chunks/66a8c16702b8a250.js",
+      "final_url": "https://www.zebrarobotics.com/_next/static/chunks/66a8c16702b8a250.js",
+      "status": 200,
+      "mime": "application/javascript",
+      "bytes": 2529,
+      "sha256": "fae4747d48f3747ef49cc9e20eee391418c880044107cf872a95a116ec3cf273",
+      "file": "zebra-chunk-22-js.js"
+    },
+    {
+      "key": "science-north-terms",
+      "url": "https://www.sciencenorth.ca/terms-and-conditions",
+      "final_url": "https://www.sciencenorth.ca/terms-and-conditions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 59894,
+      "sha256": "8e20c052f4de4f79fe1f0991366e3b4b4715687dc801536ece57cd6a3ce265b5",
+      "file": "science-north-terms.html"
+    },
+    {
+      "key": "stema-terms",
+      "url": "https://surrey.stemalearning.com/terms-policies-waiver/",
+      "final_url": "https://surrey.stemalearning.com/terms-policies-waiver/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 70514,
+      "sha256": "ec587a191c6e422fbc35565c9cbf2bcac291f0d569fc5f0d6122ca7dd5c2f3d2",
+      "file": "stema-terms.html"
+    },
+    {
+      "key": "zebra-faq-correct",
+      "url": "https://www.zebrarobotics.com/faq",
+      "final_url": "https://www.zebrarobotics.com/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 318756,
+      "sha256": "5e0ac4c6d27a7f1095d3a6ae0a46c115795b164e394a4e67c452cc5b3d8cc9a0",
+      "file": "zebra-faq-correct.html"
+    },
+    {
+      "key": "zebra-policy",
+      "url": "https://www.zebrarobotics.com/langley/policy",
+      "final_url": "https://www.zebrarobotics.com/langley/policy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 179352,
+      "sha256": "1e6a1cc12ead012a2c25df31466eca5da51018962d5464c19aadabfcd91c508e",
+      "file": "zebra-policy.html"
+    },
+    {
+      "key": "zebra-building",
+      "url": "https://www.zebrarobotics.com/langley/camps/58",
+      "final_url": "https://www.zebrarobotics.com/langley/camps/58",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 230465,
+      "sha256": "2e0e80f9ec8dcfb878eafd6bb36b5236410c156b5aca413e0682a0a6c120b72c",
+      "file": "zebra-building.html"
+    },
+    {
+      "key": "zebra-adventures",
+      "url": "https://www.zebrarobotics.com/langley/camps/61",
+      "final_url": "https://www.zebrarobotics.com/langley/camps/61",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 232361,
+      "sha256": "c0f1b9c0d1c80662617a5d40ed3adc235c9dea0644d8ba84e5c7880a68097364",
+      "file": "zebra-adventures.html"
+    },
+    {
+      "key": "zebra-engineer",
+      "url": "https://www.zebrarobotics.com/langley/camps/73",
+      "final_url": "https://www.zebrarobotics.com/langley/camps/73",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 247340,
+      "sha256": "8fa0ae1ca71dbcafdfa75faa13a39248be3a1676ea907a12345c1f8e0fe808a3",
+      "file": "zebra-engineer.html"
+    },
+    {
+      "key": "techcamp-residential",
+      "url": "https://www.techcamp.org.uk/info/residential-camps",
+      "final_url": "https://www.techcamp.org.uk/info/residential-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 34547,
+      "sha256": "bf9bf2b46a4fe56e6d414dceb46c3786838e9bb450d1bf41d86939e73e236487",
+      "file": "techcamp-residential.html"
+    },
+    {
+      "key": "funtech-board",
+      "url": "https://funtech.co.uk/residential-kids-coding-camps",
+      "final_url": "https://funtech.co.uk/residential-kids-coding-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 62724,
+      "sha256": "9a7b41efb50fa6fe503d73501b11e501039d397ede0b27fc6e7f9460d63a5de5",
+      "file": "funtech-board.html"
+    },
+    {
+      "key": "blue-product-winter-workshop-21st-22nd-december-senior",
+      "url": "https://www.blueshift.education/products/winter-workshop-21st-22nd-december-senior",
+      "final_url": "https://www.blueshift.education/products/winter-workshop-21st-22nd-december-senior",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 188010,
+      "sha256": "ecd5048634420512c5747e090a88d7890b8d9daf54e8ba0631ea1a6d747f6b7d",
+      "file": "blue-product-winter-workshop-21st-22nd-december-senior.html"
+    },
+    {
+      "key": "blue-product-winter-workshop-ages-5-8-two-days",
+      "url": "https://www.blueshift.education/products/winter-workshop-ages-5-8-two-days",
+      "final_url": "https://www.blueshift.education/products/winter-workshop-ages-5-8-two-days",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 188292,
+      "sha256": "93ef053f4431b7dc5f38cc361587686043daf3740472ee2dee2dda00b20356da",
+      "file": "blue-product-winter-workshop-ages-5-8-two-days.html"
+    },
+    {
+      "key": "blue-product-winter-wonder-workshop-ages-5-8",
+      "url": "https://www.blueshift.education/products/winter-wonder-workshop-ages-5-8",
+      "final_url": "https://www.blueshift.education/products/winter-wonder-workshop-ages-5-8",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 220274,
+      "sha256": "c670b39dab7f4db4cda57947d9677b3255128a8d8adc8058ac4ad25004c285bc",
+      "file": "blue-product-winter-wonder-workshop-ages-5-8.html"
+    },
+    {
+      "key": "blue-product-december-workshop-senior-8-14",
+      "url": "https://www.blueshift.education/products/december-workshop-senior-8-14",
+      "final_url": "https://www.blueshift.education/products/december-workshop-senior-8-14",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 221998,
+      "sha256": "ffaad739e582ddd8e2866f06a5072257355e48e84dabce0f272dd8c0d4fe4ee5",
+      "file": "blue-product-december-workshop-senior-8-14.html"
+    },
+    {
+      "key": "brainstem-faq-correct",
+      "url": "https://www.brainstemlearning.ca/faqs/",
+      "final_url": "https://www.brainstemlearning.ca/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 103375,
+      "sha256": "0b36a9a88f01d598b7f6d1d290f64e5e9a3bddada047bb2df731bf8239ee0774",
+      "file": "brainstem-faq-correct.html"
+    },
+    {
+      "key": "science-north-robo911",
+      "url": "https://order.sciencenorth.ca/183346/183381",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "funtech-faq",
+      "url": "https://funtech.co.uk/faqs",
+      "final_url": "https://funtech.co.uk/faqs",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 58104,
+      "sha256": "eae0c19bfbfd513bf48dd2dc7e7c00992eb354345e91cf1a507724e8eedb3f2d",
+      "file": "funtech-faq.html"
+    },
+    {
+      "key": "funtech-terms",
+      "url": "https://funtech.co.uk/terms/holiday-camps",
+      "final_url": "https://funtech.co.uk/terms/holiday-camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 52164,
+      "sha256": "56a67357799daf262b68e9bf2c10c02fd22500931d8abc9f11e33c41ef4742fe",
+      "file": "funtech-terms.html"
+    },
+    {
+      "key": "funtech-laptop",
+      "url": "https://funtech.co.uk/bring-your-own-laptop",
+      "final_url": "https://funtech.co.uk/bring-your-own-laptop",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 33223,
+      "sha256": "0479e024a30708e0bd15d50bc678632c430d6d2fb999172d71e72f95fd893acc",
+      "file": "funtech-laptop.html"
+    },
+    {
+      "key": "techcamp-overseas",
+      "url": "https://www.techcamp.org.uk/info/overseas-campers",
+      "final_url": "https://www.techcamp.org.uk/info/overseas-campers",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 29775,
+      "sha256": "11f61fb2ba3733f5bbde5b35692f70585fc116dec6cec1869795b88e94544035",
+      "file": "techcamp-overseas.html"
+    },
+    {
+      "key": "techcamp-booking",
+      "url": "https://booking.techcamp.org.uk?location=Winchester",
+      "final_url": "https://booking.techcamp.org.uk?location=Winchester",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 21830,
+      "sha256": "e1a861ce4199f1bcf7b5b39c4288da79995842a624bece276ed5b73a9bc40b0a",
+      "file": "techcamp-booking.html"
+    },
+    {
+      "key": "blue-december",
+      "url": "https://www.blueshift.education/pages/december-camp-2026",
+      "final_url": "https://www.blueshift.education/pages/december-camp-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211489,
+      "sha256": "937e14098cb37ef7baecf2cfeec40c5d573b97621ca9e92cbe9c54da11147777",
+      "file": "blue-december.html"
+    },
+    {
+      "key": "codekids-camps",
+      "url": "https://www.codekids.org.uk/holiday-camps/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "next-home",
+      "url": "https://www.nextthing.education/",
+      "final_url": "https://www.nextthing.education/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 356544,
+      "sha256": "18afa8177a19b25c3b0438d5fa9513f936737ce10a78919a0496e0c7d3e9bf3d",
+      "file": "next-home.html"
+    },
+    {
+      "key": "w5-christmas",
+      "url": "https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026",
+      "final_url": "https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 83259,
+      "sha256": "68e2d3150e15f352e061f569b62d037fea738e234230503060bb32be6c37e374",
+      "file": "w5-christmas.html"
+    },
+    {
+      "key": "stemhub-event",
+      "url": "https://thestemhub.org.uk/events/more-information/threebears-panto-coding-adventure",
+      "final_url": "https://thestemhub.org.uk/events/more-information/threebears-panto-coding-adventure",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14587,
+      "sha256": "184f318e67f2404e0b780861591d9e64d9f8b0c03383a98d399aa13992996a61",
+      "file": "stemhub-event.html"
+    },
+    {
+      "key": "stemhub-resources",
+      "url": "https://www.getwiththeprogram.org.uk/three-bears-free-resources-2026",
+      "final_url": "https://www.getwiththeprogram.org.uk/three-bears-free-resources-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 783951,
+      "sha256": "97c00940b0136301fc19349a22ba3b111bcd026cd9bb48bf3fab2cc343e69095",
+      "file": "stemhub-resources.html"
+    },
+    {
+      "key": "richer-camps",
+      "url": "https://www.richereducation.co.uk/",
+      "final_url": "https://www.richereducation.co.uk/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 469948,
+      "sha256": "780967eefba17f045b92ba9a653a801eb203206645ab35d3c0fe0158300b9d23",
+      "file": "richer-camps.html"
+    },
+    {
+      "key": "sup-christmas",
+      "url": "https://www.sup-education.com/christmas-camp-2026",
+      "final_url": "https://www.sup-education.com/christmas-camp-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 84254,
+      "sha256": "5eb558d316825b1548f46ab2af575008b29f320d036827ad153b6a0bbfc6a2c9",
+      "file": "sup-christmas.html"
+    }
+  ]
+}

@@ -16347,16 +16347,16 @@ Comprobado: 2026-10-05
 Lugar: Canadá · Sudbury · Science North, 100 Ramsey Lake Road
 Fecha: 2026-11-20 国 2026-11-20
 Edad: 6–8; Grupo de Trabajo, no toda la regla 4–11
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: No según la pista seleccionada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Tarjeta de pasaje llama directamente English; es el flujo de entrada de EN el que se elige.
 Marca de idioma: primary; soporte: no declarado
 Costo: 2026/27 · $57 public; tax inclusion clarifique los pagos y las condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Solo si Matvey sigue siendo el indicado. 8 en 20 noviembre 2026; en 9 Hace falta una sola. 9–11 Grupo, Su nombre es contradictorio.. Oscar: Necesitamos los que ya están hechos. 6 años 20 noviembre; Si aún no lo es 5, No es un grupo adecuado.. Gastos adicionales: Extension y food como en School Break; específicas charges Desconocidos. Hay una página en la que se puede ver member early-access notice y public price option: No es un lugar libre confirmado./Depósito. Pago: Cancelación ≥14 días laborables: devuelve menos $10 + applicable taxes; antes 2 días laborables: service charge $20 + taxes; menor que 2 días laborables — sin retorno. Al menos 4 participantes, de la cancelación por el explotador, notificación por 2 semanas; La inscripción habitual se cierra por 3 días. Confirmar el contrato del año seleccionado.
+Limitaciones: Matvey: Matvey ya tiene 9, este grupo 6–8 no cumple; grupo 9–11 publicado, ficha CP1207 con enlace de billete no operativo. Oscar: Oscar ya tiene 6, cumple rango 6–8; billete anterior ahora 404, acordar plaza y billete nuevo. Suplementos: Extension y food como en School Break; los cargos específicos no se conocen. En la página hay un member early-access notice y una opción de precio público: no es un lugar libre confirmado. Pago: cancelación ≥14 días laborables: devolución menos $10 + taxes aplicables; hasta 2 días laborables: service charge $20 + taxes; menos de 2 días laborables  sin devolución. mínimo 4 participantes, en caso de cancelación por el operador de devolución, notificación en 2 semanas; registro habitual se cierra en 3 días. confirmar el contrato del año elegido.
 Fuente: https://order.sciencenorth.ca/183345/183380
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP219-20261019-20261019 · Science North · Homeschool Bee-Bot · 10:00 · workshop, final desconocido · 2026-10-19 国2026-10-19
 
@@ -18706,9 +18706,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 240 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Matways mayores6; separada Specialists Grupo. Oscar: Diciembre2026 Sí.5–6; es la edad Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Matvey es mayor.6; de la misma Specialists grupo. Oscar: Familia informó que Oscar ya tiene 6: cumple Little Brains 4–6 por edad. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP296-20261228-20261231-pm · BrainSTEM Vancouver · Winter Little Brains · Little Brains · 13:00–15:30 · 2026-12-28–2026-12-31
 
@@ -18722,9 +18722,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 240 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Matways mayores6; separada Specialists Grupo. Oscar: Diciembre2026 Sí.5–6; es la edad Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Matvey es mayor.6; de la misma Specialists grupo. Oscar: Familia informó que Oscar ya tiene 6: cumple Little Brains 4–6 por edad. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP296-20261228-20261231-full · BrainSTEM Vancouver · Winter Little Brains · Little Brains · 09:30–15:30 · 2026-12-28–2026-12-31
 
@@ -18738,9 +18738,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 528 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Matways mayores6; separada Specialists Grupo. Oscar: Diciembre2026 Sí.5–6; es la edad Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Matvey es mayor.6; de la misma Specialists grupo. Oscar: Familia informó que Oscar ya tiene 6: cumple Little Brains 4–6 por edad. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP297-20261228-20261231-am · BrainSTEM Vancouver · Winter Specialists · Specialists · 09:00–12:00 · 2026-12-28–2026-12-31
 
@@ -18754,9 +18754,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 240 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Diciembre2026 Sí.8–9; es la edad Specialists. Oscar: Diciembre2026 Sí.5–6, por debajo7; elegir Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Familia informó que Matvey ya tiene 9: cumple Specialists 7–11. Oscar: Oscar ya tiene 6, Specialists desde 7; elegir Little Brains. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP297-20261228-20261231-pm · BrainSTEM Vancouver · Winter Specialists · Specialists · 13:00–16:00 · 2026-12-28–2026-12-31
 
@@ -18770,9 +18770,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 240 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Diciembre2026 Sí.8–9; es la edad Specialists. Oscar: Diciembre2026 Sí.5–6, por debajo7; elegir Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Familia informó que Matvey ya tiene 9: cumple Specialists 7–11. Oscar: Oscar ya tiene 6, Specialists desde 7; elegir Little Brains. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP297-20261228-20261231-full · BrainSTEM Vancouver · Winter Specialists · Specialists · 09:00–16:00 · 2026-12-28–2026-12-31
 
@@ -18786,9 +18786,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · CAD 528 / 4 días; GST-exempt · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Diciembre2026 Sí.8–9; es la edad Specialists. Oscar: Diciembre2026 Sí.5–6, por debajo7; elegir Little Brains. Gastos adicionales: Voy para allá./Traer bebidas. Optional lunch CAD48 para la versión completa; La extensión y el período de este pago adicional deben confirmarse. Pago: Pertinencia FAQ: mayor que14días menos15%; dentro14 Exclusión médica únicamente. Pagos mayores90días de reembolso; En la parte inferior, los términos antiguos son diferentes.
+Limitaciones: Matvey: Familia informó que Matvey ya tiene 9: cumple Specialists 7–11. Oscar: Oscar ya tiene 6, Specialists desde 7; elegir Little Brains. Suplementos: Opcional lunch CAD48 para la opción completa; confirma la duración y el período de este pago adicional. Pago: en la actualidad FAQ: más de 14 días menos15%; dentro de 14 sólo la excepción médica. los pagos mayores de 90 días se devuelven con crédito; abajo las formulaciones antiguas son diferentes.
 Fuente: https://www.brainstemlearning.ca/programs/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP298-20261221-20261224 · STEMOTICS Cambridge · Winter Break · Días de invierno · 09:00–16:00 · tema seleccionado por separado · 2026-12-21–2026-12-24
 
@@ -18802,9 +18802,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 - CAD: las tarifas publicadas son contradictorias; el resultado es la confirmación de los pagos y las condiciones de los expedientes
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Por edad, encaja; diciembre2026 Sí.8–9, El flujo de más edad no se produce hasta después de9-años. Oscar: Edad5–6 Ajustado a la menor4–8; EN y tema específico de la armonización. Gastos adicionales: Almuerzo/¿Quieres que traigan algo de comer?, nut-free. Prórroga CAD20/20 o40CAD+HST por semana; de los precios básicos. Pago: 2+ semanas: Menos35CAD; dentro2:50%. Diferente refund policy Y aún resta.35 de50%; menor que3No hay retornos de días laborables. Resolución de conflictos por escrito.
+Limitaciones: Matvey: Matvey ya tiene 9, cumple grupo mayor 9–12; conflicto publicado de precios sin resolver. Oscar: Oscar ya tiene 6, cumple grupo menor 4–8; confirmar idioma y plazas. Suplementos: almuerzo/desayuno, nut-free. prórroga CAD20/20 o 40CAD+HST por semana; el impuesto del precio básico se especifique. Pago: 2+ semanas: menos 35CAD; dentro de 2:50%. la política de reembolso separada extrae aún 35 de 50%; menos de 3 días laborables de devolución.
 Fuente: https://stemotics.com/product/winter-break-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP298-20261228-20261231 · STEMOTICS Cambridge · Winter Break · Días de invierno · 09:00–16:00 · tema seleccionado por separado · 2026-12-28–2026-12-31
 
@@ -18818,9 +18818,9 @@ Idioma: El idioma de la enseñanza técnica no está claramente establecido; el 
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 - CAD: las tarifas publicadas son contradictorias; el resultado es la confirmación de los pagos y las condiciones de los expedientes
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Por edad, encaja; diciembre2026 Sí.8–9, El flujo de más edad no se produce hasta después de9-años. Oscar: Edad5–6 Ajustado a la menor4–8; EN y tema específico de la armonización. Gastos adicionales: Almuerzo/¿Quieres que traigan algo de comer?, nut-free. Prórroga CAD20/20 o40CAD+HST por semana; de los precios básicos. Pago: 2+ semanas: Menos35CAD; dentro2:50%. Diferente refund policy Y aún resta.35 de50%; menor que3No hay retornos de días laborables. Resolución de conflictos por escrito.
+Limitaciones: Matvey: Matvey ya tiene 9, cumple grupo mayor 9–12; conflicto publicado de precios sin resolver. Oscar: Oscar ya tiene 6, cumple grupo menor 4–8; confirmar idioma y plazas. Suplementos: almuerzo/desayuno, nut-free. prórroga CAD20/20 o 40CAD+HST por semana; el impuesto del precio básico se especifique. Pago: 2+ semanas: menos 35CAD; dentro de 2:50%. la política de reembolso separada extrae aún 35 de 50%; menos de 3 días laborables de devolución.
 Fuente: https://stemotics.com/product/winter-break-camp/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-05
 
 ### CP301-20270107-20270110 · Sailing Club Panamá · Sea Camp 2027 · Sea Camp · 4 días / 3 Noche. · 2027-01-07–2027-01-10
 
@@ -43540,6 +43540,2310 @@ Precio: 2027 · Clase USD 0 para equipo admitido y pagado; base separada de qual
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Oscar: Sin edad propia publicada del taller. Exige equipo ya inscrito y pagado en qualifying event o Pre-Registration; acordar acceso extranjero y menores. Game suele exigir cursos 5–8 / 9–12 o excepción aprobada; sin trasladar automáticamente a edad del taller. Suplementos: Vuelo, transporte local, alojamiento familiar, comida y ordenador necesario aparte. RMS limita a 8 registros de equipos; sin prometer plazas ni ocho niños individuales. Pago: Taller 0, pero inscripción obligatoria del equipo debe estar pagada. Cuota competitiva no reembolsable; confirmar transferencia y acceso antes de pagar.
 Fuente: https://www.robofest.net/rms/sites/2027/WS_GAME_VEXIQ_VEXcode
+Se ha comprobado: 2026-11-05
+
+### CP1192-20261214-20261218-package · BlueShift · Junior 5–8 · Junior · 2026-12-14–2026-12-18
+
+Lugar: Gran Bretaña London · Notting Hill Prep
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 5–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 400 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, Junior máximo 8. Oscar: Oscar tiene 6: cumple tanto título Junior 5–8 como subtítulo más estrecho 5–6. Suplementos: Llevar almuerzo y agua. Confirmar régimen fiscal y factura familiar final; sin aplicar automáticamente sibling discount. Pago: Camp FAQ: cancelación con 14+ días — devolución total o crédito; con 13–7 — devolución 50% o crédito total; dentro de una semana — crédito sin cash refund. Primer cliente tras primer día: devolución de días restantes; desde segundo día: crédito. Ausencias, retraso y salida anticipada sin reembolso. CampShift con 7+ días sujeto a plazas; crédito solo hasta fin del año natural. Confirmar aplicación a diciembre; contrato sin aceptar.
+Fuente: https://www.blueshift.education/products/winter-wonder-workshop-ages-5-8
+Se ha comprobado: 2026-11-05
+
+### CP1193-20261214-20261218-package · BlueShift · Senior 8–14 · Senior · 2026-12-14–2026-12-18
+
+Lugar: Gran Bretaña London · Notting Hill Prep
+Fecha: 2026-12-14 - 2026-12-18
+edad: 8–14
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 400 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, cumple Senior 8–14. Oscar: Oscar tiene 6, Senior desde 8. Suplementos: Llevar almuerzo y agua. Confirmar régimen fiscal y factura familiar final; sin aplicar automáticamente sibling discount. Pago: Camp FAQ: cancelación con 14+ días — devolución total o crédito; con 13–7 — devolución 50% o crédito total; dentro de una semana — crédito sin cash refund. Primer cliente tras primer día: devolución de días restantes; desde segundo día: crédito. Ausencias, retraso y salida anticipada sin reembolso. CampShift con 7+ días sujeto a plazas; crédito solo hasta fin del año natural. Confirmar aplicación a diciembre; contrato sin aceptar.
+Fuente: https://www.blueshift.education/products/december-workshop-senior-8-14
+Se ha comprobado: 2026-11-05
+
+### CP1194-20261221-20261222-package · BlueShift · Junior 5–8 · Junior · 2026-12-21–2026-12-22
+
+Lugar: Gran Bretaña London · Notting Hill Prep
+Fecha: 2026-12-21 — 2026-12-22
+Edad: 5–8
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, Junior máximo 8. Oscar: Oscar tiene 6: cumple tanto título Junior 5–8 como subtítulo más estrecho 5–6. Suplementos: Llevar almuerzo y agua. Confirmar régimen fiscal y factura familiar final; sin aplicar automáticamente sibling discount. Pago: Camp FAQ: cancelación con 14+ días — devolución total o crédito; con 13–7 — devolución 50% o crédito total; dentro de una semana — crédito sin cash refund. Primer cliente tras primer día: devolución de días restantes; desde segundo día: crédito. Ausencias, retraso y salida anticipada sin reembolso. CampShift con 7+ días sujeto a plazas; crédito solo hasta fin del año natural. Confirmar aplicación a diciembre; contrato sin aceptar.
+Fuente: https://www.blueshift.education/products/winter-workshop-ages-5-8-two-days
+Se ha comprobado: 2026-11-05
+
+### CP1195-20261221-20261222-package · BlueShift · Senior 8–14 · Senior · 2026-12-21–2026-12-22
+
+Lugar: Gran Bretaña London · Notting Hill Prep
+Fecha: 2026-12-21 — 2026-12-22
+edad: 8–14
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 160 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, cumple Senior 8–14. Oscar: Oscar tiene 6, Senior desde 8. Suplementos: Llevar almuerzo y agua. Confirmar régimen fiscal y factura familiar final; sin aplicar automáticamente sibling discount. Pago: Camp FAQ: cancelación con 14+ días — devolución total o crédito; con 13–7 — devolución 50% o crédito total; dentro de una semana — crédito sin cash refund. Primer cliente tras primer día: devolución de días restantes; desde segundo día: crédito. Ausencias, retraso y salida anticipada sin reembolso. CampShift con 7+ días sujeto a plazas; crédito solo hasta fin del año natural. Confirmar aplicación a diciembre; contrato sin aceptar.
+Fuente: https://www.blueshift.education/products/winter-workshop-21st-22nd-december-senior
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261221-20261224-20261221-am · STEMA Surrey · Junior K–2 · AM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261221-20261224-20261221-pm · STEMA Surrey · Junior K–2 · PM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261221-20261224-20261221-full · STEMA Surrey · Junior K–2 · FULL · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261228-20261231-20261228-am · STEMA Surrey · Junior K–2 · AM · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261228-20261231-20261228-pm · STEMA Surrey · Junior K–2 · PM · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1196-20261228-20261231-20261228-full · STEMA Surrey · Junior K–2 · FULL · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades K–2
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261221-20261224-20261221-am · STEMA Surrey · Explorer 3–6 · AM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261221-20261224-20261221-pm · STEMA Surrey · Explorer 3–6 · PM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261221-20261224-20261221-full · STEMA Surrey · Explorer 3–6 · FULL · 2026-12-21–2026-12-24
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261228-20261231-20261228-am · STEMA Surrey · Explorer 3–6 · AM · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261228-20261231-20261228-pm · STEMA Surrey · Explorer 3–6 · PM · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 159 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1197-20261228-20261231-20261228-full · STEMA Surrey · Explorer 3–6 · FULL · 2026-12-28–2026-12-31
+
+lugar: Canadá · Surrey · 703–9686 137 Street
+Fecha: 2026-12-28 - 2026-12-31
+edad: Grades 3–6
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 299 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Llevar almuerzo, meriendas y agua; impuestos adicionales al precio publicado, acordar tipo exacto. Pago: Camp terms, actualizados el 22 de julio de 2026: pago total al inscribir; cancelación con 3+ semanas — retención CAD 20, con 2–3 semanas — CAD 50, dentro de 14 días y tras inicio sin devolución. Cambio sujeto a plazas. Impuestos excluidos según price specification; confirmar tipo final.
+Fuente: https://surrey.stemalearning.com/product/steam-winter-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1198-20261221-20261224-20261221-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20261221-20261224-20261221-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20261221-20261224-20261221-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 396 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270109-20270109-20270109-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270109-20270109-20270109-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270109-20270109-20270109-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270220-20270220-20270220-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270220-20270220-20270220-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270220-20270220-20270220-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270315-20270319-20270315-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270315-20270319-20270315-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270315-20270319-20270315-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270322-20270325-20270322-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270322-20270325-20270322-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270322-20270325-20270322-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 410 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270705-20270709-20270705-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270705-20270709-20270705-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270705-20270709-20270705-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270712-20270716-20270712-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270712-20270716-20270712-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270712-20270716-20270712-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270719-20270723-20270719-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270719-20270723-20270719-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270719-20270723-20270719-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270726-20270730-20270726-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270726-20270730-20270726-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270726-20270730-20270726-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270809-20270813-20270809-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270809-20270813-20270809-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270809-20270813-20270809-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270816-20270820-20270816-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270816-20270820-20270816-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270816-20270820-20270816-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270823-20270827-20270823-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270823-20270827-20270823-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270823-20270827-20270823-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270830-20270903-20270830-am · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · AM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270830-20270903-20270830-pm · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · PM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1198-20270830-20270903-20270830-full · Zebra Robotics Langley · SR150 Building Enthusiasts · SR150 · FULL · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 1–3 · approx 6–8
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/58
+Se ha comprobado: 2026-11-05
+
+### CP1199-20261221-20261224-20261221-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20261221-20261224-20261221-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20261221-20261224-20261221-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 396 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270109-20270109-20270109-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270109-20270109-20270109-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270109-20270109-20270109-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270220-20270220-20270220-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270220-20270220-20270220-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270220-20270220-20270220-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270315-20270319-20270315-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270315-20270319-20270315-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270315-20270319-20270315-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270322-20270325-20270322-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270322-20270325-20270322-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270322-20270325-20270322-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 410 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270705-20270709-20270705-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270705-20270709-20270705-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270705-20270709-20270705-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270712-20270716-20270712-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270712-20270716-20270712-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270712-20270716-20270712-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270719-20270723-20270719-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270719-20270723-20270719-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270719-20270723-20270719-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270726-20270730-20270726-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270726-20270730-20270726-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270726-20270730-20270726-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270809-20270813-20270809-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270809-20270813-20270809-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270809-20270813-20270809-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270816-20270820-20270816-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270816-20270820-20270816-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270816-20270820-20270816-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270823-20270827-20270823-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270823-20270827-20270823-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270823-20270827-20270823-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270830-20270903-20270830-am · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · AM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270830-20270903-20270830-pm · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · PM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1199-20270830-20270903-20270830-full · Zebra Robotics Langley · SR350 Adventures in Building · SR350 · FULL · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 3–4 · approx 8–9
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/61
+Se ha comprobado: 2026-11-05
+
+### CP1200-20261221-20261224-20261221-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20261221-20261224-20261221-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 198 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20261221-20261224-20261221-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2026-12-21–2026-12-24
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2026-12-21 - 2026-12-24
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · CAD 396 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270109-20270109-20270109-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270109-20270109-20270109-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270109-20270109-20270109-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-01-09–2027-01-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-01-09 — 2027-01-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270220-20270220-20270220-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270220-20270220-20270220-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 50 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270220-20270220-20270220-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-02-20–2027-02-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-02-20 — 2027-02-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 99 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270315-20270319-20270315-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270315-20270319-20270315-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270315-20270319-20270315-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-03-15–2027-03-19
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-15 — 2027-03-19
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270322-20270325-20270322-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270322-20270325-20270322-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 240 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270322-20270325-20270322-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-03-22–2027-03-25
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-03-22 — 2027-03-25
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 410 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270705-20270709-20270705-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270705-20270709-20270705-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270705-20270709-20270705-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-07-05–2027-07-09
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-05 - 2027-07-09
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270712-20270716-20270712-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270712-20270716-20270712-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270712-20270716-20270712-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-07-12–2027-07-16
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-12 — 2027-07-16
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270719-20270723-20270719-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270719-20270723-20270719-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270719-20270723-20270719-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-07-19–2027-07-23
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-19 国 2027-07-23
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270726-20270730-20270726-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270726-20270730-20270726-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270726-20270730-20270726-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-07-26–2027-07-30
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-07-26 Å 2027-07-30
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270809-20270813-20270809-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270809-20270813-20270809-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270809-20270813-20270809-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-08-09–2027-08-13
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-09 — 2027-08-13
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270816-20270820-20270816-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270816-20270820-20270816-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270816-20270820-20270816-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-08-16–2027-08-20
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-16 — 2027-08-20
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270823-20270827-20270823-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270823-20270827-20270823-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270823-20270827-20270823-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-08-23–2027-08-27
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-23 — 2027-08-27
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270830-20270903-20270830-am · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · AM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270830-20270903-20270830-pm · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · PM · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 290 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1200-20270830-20270903-20270830-full · Zebra Robotics Langley · SR400 Robotics Engineer I Bootcamp · SR400 · FULL · 2027-08-30–2027-09-03
+
+lugar: Canadá · Langley · Unit 108, 20486 64 Avenue
+Fecha: 2027-08-30 - 2027-09-03
+edad: Grades 4–9 · approx 9–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · CAD 495 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Oscar: Admisión según curso escolar real y nivel acordado; cursos de los niños desconocidos, la edad por sí sola no los acredita. Suplementos: Configuración nativa branch_tax 0.05 y fee_tax_ind 1: cálculo 5% mostrado como cálculo según configuración del operador, confirmar invoice final. added_fee es cuidado opcional full / PM hasta 17:30: 10 CAD por día real (40 / 50 por 4 / 5 días). AM y dos sábados sueltos sin cuidado ampliado ofrecido. Pago: Camp policy: cancelación con 3+ semanas — devolución menos CAD 50; más cerca del inicio sin devolución. Cierre meteorológico del campamento sin makeup. Reglas de curso mensual no sustituyen reglas del campamento.
+Fuente: https://www.zebrarobotics.com/langley/camps/73
+Se ha comprobado: 2026-11-05
+
+### CP1201-20261212-20261212-20261212-am · W5 LIFE · The Great Christmas Build-Off · Minecraft · AM · 2026-12-12–2026-12-12
+
+Lugar: Gran Bretaña Belfast · W5 LIFE, The O2 Belfast, 2 Queens Quay BT3 9QQ
+Fecha: 2026-12-12 — 2026-12-12
+edad: 8+
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 10 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9: cumple 8+. Oscar: Oscar tiene 6: menor de 8+, sin prometer excepción. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Confirmar cancelación del billete elegido y equipo antes de pagar.
+Fuente: https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026
+Se ha comprobado: 2026-11-05
+
+### CP1201-20261212-20261212-20261212-pm · W5 LIFE · The Great Christmas Build-Off · Minecraft · PM · 2026-12-12–2026-12-12
+
+Lugar: Gran Bretaña Belfast · W5 LIFE, The O2 Belfast, 2 Queens Quay BT3 9QQ
+Fecha: 2026-12-12 — 2026-12-12
+edad: 8+
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 10 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9: cumple 8+. Oscar: Oscar tiene 6: menor de 8+, sin prometer excepción. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Confirmar cancelación del billete elegido y equipo antes de pagar.
+Fuente: https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026
+Se ha comprobado: 2026-11-05
+
+### CP1201-20261219-20261219-20261219-am · W5 LIFE · The Great Christmas Build-Off · Minecraft · AM · 2026-12-19–2026-12-19
+
+Lugar: Gran Bretaña Belfast · W5 LIFE, The O2 Belfast, 2 Queens Quay BT3 9QQ
+Fecha: 2026-12-19 - 2026-12-19
+edad: 8+
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 10 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9: cumple 8+. Oscar: Oscar tiene 6: menor de 8+, sin prometer excepción. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Confirmar cancelación del billete elegido y equipo antes de pagar.
+Fuente: https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026
+Se ha comprobado: 2026-11-05
+
+### CP1201-20261219-20261219-20261219-pm · W5 LIFE · The Great Christmas Build-Off · Minecraft · PM · 2026-12-19–2026-12-19
+
+Lugar: Gran Bretaña Belfast · W5 LIFE, The O2 Belfast, 2 Queens Quay BT3 9QQ
+Fecha: 2026-12-19 - 2026-12-19
+edad: 8+
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: holiday_workshop
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · GBP 10 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9: cumple 8+. Oscar: Oscar tiene 6: menor de 8+, sin prometer excepción. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Confirmar cancelación del billete elegido y equipo antes de pagar.
+Fuente: https://w5online.co.uk/whats-on/the-great-christmas-build-off-2026
+Se ha comprobado: 2026-11-05
+
+### CP1202-20261210-20261210-show · STEM Hub / Get with the Program · Three Bears · Online coding show · 2026-12-10–2026-12-10
+
+Lugar: Gran Bretaña En línea · Microsoft Teams Live
+Fecha: 2026-12-10 — 2026-12-10
+edad: Grupo objetivo 5–7 / KS1
+Matway: Condicional; comprobar la edad, clase y admisión
+Oscar: Sí por edad; inscripción separada
+Formato: online
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Gratis · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9, mayor que objetivo KS1 5–7: posible sesión con hermano, no itinerario avanzado ni prohibición formal acreditada. Oscar: Oscar tiene 6, cumple objetivo 5–7. Acordar acceso familiar desde extranjero. Suplementos: Requiere internet, dispositivo y adulto para conexión; cuenta / acceso familiar fuera de UK sin confirmar. Pago: Sin registro docente / familiar; gratuidad no confirma entrada individual libre.
+Fuente: https://thestemhub.org.uk/events/more-information/threebears-panto-coding-adventure
+Se ha comprobado: 2026-11-05
+
+### CP1203-20270808-20270813-20270808 · FunTech Tonbridge · Roblox Game Designer · Roblox Game Designer · 2027-08-08–2027-08-13
+
+lugar: Gran Bretaña · Tonbridge School · Kent
+Fecha: 2027-08-08 — 2027-08-13
+Edad: 8–10
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · GBP 1095 November Sale / 1595 standard · VAT included · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey en verano de 2027 tendrá 9–10: cumple residencia Roblox 8–10. Autonomía, idioma y plaza aparte. Oscar: Oscar en verano de 2027 tendrá 6–7, por debajo de mínimo residencial 8. Suplementos: Airport transfer aparte: Heathrow / Gatwick GBP 345 ida, 650 ida y vuelta; tarifa por journey, confirmar pasajeros y condiciones. Seguro, vuelos, ropa y estancia parental aparte. Pago: Promoción November Sale: GBP 1095 frente a 1595 estándar por estancia; sin fecha final de descuento acreditada. Terms: Flash Sale no reembolsable; Early Bird / full fee — depósito no reembolsable, con 40+ días devolución menos depósito, con 39–31 días 50% menos depósito, con 30 o menos sin devolución. Determinar categoría contractual de November Sale. Swap hasta dos semanas sujeto a plazas; mínimo cuatro alumnos para apertura. GBP 50 deposit no es precio completo. Sin aceptar contrato ni consentimientos.
+Fuente: https://funtech.co.uk/residentials/offer_search
+Se ha comprobado: 2026-11-05
+
+### CP1204-20270808-20270813-20270808 · FunTech Tonbridge · Python Coder · Python Coder · 2027-08-08–2027-08-13
+
+lugar: Gran Bretaña · Tonbridge School · Kent
+Fecha: 2027-08-08 — 2027-08-13
+Edad: 10*16
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · GBP 1095 November Sale / 1595 standard · VAT included · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey debe haber cumplido 10 al inicio de estancia. Año 2017 sin fecha de nacimiento no lo acredita. Oscar: Oscar en verano de 2027 tendrá 6–7, por debajo de mínimo residencial 8. Suplementos: Airport transfer aparte: Heathrow / Gatwick GBP 345 ida, 650 ida y vuelta; tarifa por journey, confirmar pasajeros y condiciones. Seguro, vuelos, ropa y estancia parental aparte. Pago: Promoción November Sale: GBP 1095 frente a 1595 estándar por estancia; sin fecha final de descuento acreditada. Terms: Flash Sale no reembolsable; Early Bird / full fee — depósito no reembolsable, con 40+ días devolución menos depósito, con 39–31 días 50% menos depósito, con 30 o menos sin devolución. Determinar categoría contractual de November Sale. Swap hasta dos semanas sujeto a plazas; mínimo cuatro alumnos para apertura. GBP 50 deposit no es precio completo. Sin aceptar contrato ni consentimientos.
+Fuente: https://funtech.co.uk/residentials/offer_search
+Se ha comprobado: 2026-11-05
+
+### CP1204-20270815-20270820-20270815 · FunTech Tonbridge · Python Coder · Python Coder · 2027-08-15–2027-08-20
+
+lugar: Gran Bretaña · Tonbridge School · Kent
+Fecha: 2027-08-15 — 2027-08-20
+Edad: 10*16
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · GBP 1095 November Sale / 1595 standard · VAT included · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey debe haber cumplido 10 al inicio de estancia. Año 2017 sin fecha de nacimiento no lo acredita. Oscar: Oscar en verano de 2027 tendrá 6–7, por debajo de mínimo residencial 8. Suplementos: Airport transfer aparte: Heathrow / Gatwick GBP 345 ida, 650 ida y vuelta; tarifa por journey, confirmar pasajeros y condiciones. Seguro, vuelos, ropa y estancia parental aparte. Pago: Promoción November Sale: GBP 1095 frente a 1595 estándar por estancia; sin fecha final de descuento acreditada. Terms: Flash Sale no reembolsable; Early Bird / full fee — depósito no reembolsable, con 40+ días devolución menos depósito, con 39–31 días 50% menos depósito, con 30 o menos sin devolución. Determinar categoría contractual de November Sale. Swap hasta dos semanas sujeto a plazas; mínimo cuatro alumnos para apertura. GBP 50 deposit no es precio completo. Sin aceptar contrato ni consentimientos.
+Fuente: https://funtech.co.uk/residentials/offer_search
+Se ha comprobado: 2026-11-05
+
+### CP1205-20270808-20270813-20270808 · FunTech Tonbridge · 3D Game Design Developer · 3D Game Design Developer · 2027-08-08–2027-08-13
+
+lugar: Gran Bretaña · Tonbridge School · Kent
+Fecha: 2027-08-08 — 2027-08-13
+Edad: 10–14
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · GBP 1095 November Sale / 1595 standard · VAT included · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey debe haber cumplido 10 al inicio de estancia. Año 2017 sin fecha de nacimiento no lo acredita. Oscar: Oscar en verano de 2027 tendrá 6–7, por debajo de mínimo residencial 8. Suplementos: Airport transfer aparte: Heathrow / Gatwick GBP 345 ida, 650 ida y vuelta; tarifa por journey, confirmar pasajeros y condiciones. Seguro, vuelos, ropa y estancia parental aparte. Pago: Promoción November Sale: GBP 1095 frente a 1595 estándar por estancia; sin fecha final de descuento acreditada. Terms: Flash Sale no reembolsable; Early Bird / full fee — depósito no reembolsable, con 40+ días devolución menos depósito, con 39–31 días 50% menos depósito, con 30 o menos sin devolución. Determinar categoría contractual de November Sale. Swap hasta dos semanas sujeto a plazas; mínimo cuatro alumnos para apertura. GBP 50 deposit no es precio completo. Sin aceptar contrato ni consentimientos.
+Fuente: https://funtech.co.uk/residentials/offer_search
+Se ha comprobado: 2026-11-05
+
+### CP1206-20270808-20270813-20270808 · FunTech Tonbridge · AI Vibe Coder · AI Vibe Coder · 2027-08-08–2027-08-13
+
+lugar: Gran Bretaña · Tonbridge School · Kent
+Fecha: 2027-08-08 — 2027-08-13
+Edad: 10*16
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Web y materiales en inglés; sin localizar confirmación expresa separada del idioma de enseñanza de esta sesión. Enseñanza EN/ES aún sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · GBP 1095 November Sale / 1595 standard · VAT included · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey debe haber cumplido 10 al inicio de estancia. Año 2017 sin fecha de nacimiento no lo acredita. Oscar: Oscar en verano de 2027 tendrá 6–7, por debajo de mínimo residencial 8. Suplementos: Airport transfer aparte: Heathrow / Gatwick GBP 345 ida, 650 ida y vuelta; tarifa por journey, confirmar pasajeros y condiciones. Seguro, vuelos, ropa y estancia parental aparte. Pago: Promoción November Sale: GBP 1095 frente a 1595 estándar por estancia; sin fecha final de descuento acreditada. Terms: Flash Sale no reembolsable; Early Bird / full fee — depósito no reembolsable, con 40+ días devolución menos depósito, con 39–31 días 50% menos depósito, con 30 o menos sin devolución. Determinar categoría contractual de November Sale. Swap hasta dos semanas sujeto a plazas; mínimo cuatro alumnos para apertura. GBP 50 deposit no es precio completo. Sin aceptar contrato ni consentimientos.
+Fuente: https://funtech.co.uk/residentials/offer_search
+Se ha comprobado: 2026-11-05
+
+### CP1207-20261120-20261120-pa-day · Science North Sudbury · Robo Ready 9–11 · Robo Ready 9–11 · 2026-11-20–2026-11-20
+
+lugar: Canadá · Sudbury · 100 Ramsey Lake Road
+Fecha: 2026-11-20 国 2026-11-20
+Edad: 9–11
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Landing ofrece grupos English / French separados; elegido English. Billete del grupo de edad ahora no abre; revisar idioma y plaza en nuevo billete.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Tabla general PA Day: public $57 / member $51.50. Confirmar moneda, impuestos y precio del nuevo billete operativo; no dar precio de socio por disponible a familia. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey ya tiene 9, cumple grupo 9–11 por edad; enlace actual de billete 404, admisión / plaza sin confirmar. Oscar: Oscar tiene 6: elegir ficha separada Robo Ready 6–8 CP218. Suplementos: Alojamiento familiar, viaje, comidas fuera de inclusiones y factura final aparte. Pago: Comprobar condiciones actuales de reserva y cancelación: enlace actual 9–11 https://order.sciencenorth.ca/183346/183381 responde 404. Sin consentimientos ni solicitud.
+Fuente: https://www.sciencenorth.ca/school-break-camps
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
