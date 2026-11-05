@@ -4,7 +4,7 @@ La comparación principal para la siguiente base permanente  México y Taiwan: M
 
 el traslado debe dar un entorno de ingeniería diario: los hombres de su edad., un maestro adulto, acceso al campo y el trabajo propio de los niños. El premio de un equipo juvenil o la fama del país por sí mismo no confirma este acceso a 6 / 9 años.
 
-Comprobado 2026-11-04. Recomendación editorial con condiciones; plazas / coste / admisión migratoria sin confirmar.
+Comprobado 2026-11-05. Recomendación editorial con condiciones; plazas / coste / admisión migratoria sin confirmar.
 
 ## Base de referencia #
 
@@ -252,6 +252,7 @@ FLL combina robótica, investigación, innovación y protección; lo elegiría p
 - Al mismo tiempo, un proyecto útil propio, matemáticas y explicaciones en EN / ES.
 - En tres años de experiencia de beginner-camp, sólo se puede elegir si el diagnóstico muestra lagunas; si se buscan objetivos adecuados, no la edad en la publicidad.
 - RoboRAVE Puerto Vallarta: para SumoLEGO / FastBot / a-MAZE-ing buscar compañero 8–11, sin inscribir automáticamente al hermano menor. Primero programa propio y pruebas repetibles, después challenge y factura acordados.
+- Infomatrix: prototipo de ingeniería o programa propio, pruebas e informe declarando ayuda AI. Equipo familiar hasta 3 alumnos posible; nivel mixto según mayor. Para Xalapa 27–28 de noviembre comprobar curso y país del equipo antes del plazo 6 de noviembre.
 
 Estación siguiente: temporada siguiente: robot/programado por su cuenta, diario de pruebas, función personal de protección, resultado oficial o progreso razonable.
 
@@ -264,6 +265,7 @@ Explore en México  un formato de demostración con el reconocimiento de la part
 - Los proyectos domésticos con un hermano son posibles; la contribución y la complejidad de cada uno.
 - Un proyecto en línea adicional sólo con una autoría comprensible y las reglas de un programa determinado.
 - En 2027 RoboRAVE ES 8+ aún temprano según tablas globales publicadas. Mantener vía educativa / competitiva menor y exposición familiar; modificación coreana por colegio requiere confirmación propia.
+- Infomatrix permite desde 5 años y equipos familiares independientes: asignar a Oscar parte propia y comprensible del proyecto. Codi-Bot solo último preschool o curso 1–3, no cualquier niño de 6. TecPro Artifact exige 6 cumplidos; considerar cumpleaños tardío.
 
 Después de la temporada, puede reunir su parte, cambiar la secuencia, comprobar el resultado y explicar la idea. No es necesario que el mayor se acerque a los premios.
 
@@ -318,6 +320,14 @@ encontrar un usuario comprensible, hacer la primera versión, obtener la retroal
 ### ~ En 90 días ~ Verificar que el miércoles funciona
 
 Se han dado decisiones independientes, un equipo regular, tareas complejas y la voluntad de continuar. si no se ha cambiado la metodología / tutor.
+
+### 5–6 de noviembre de 2026 · Xalapa: comprobar acceso menor real antes del plazo
+
+Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente. Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+
+### 2026–2027 · Proyecto propio → regional → acreditación
+
+Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Diploma de participación para todos; diploma de puesto, medalla y acreditación solo por resultado. Tras Infomatrix internacional acreditado desde regional / nacional no recibe nueva acreditación en ese evento internacional: ciclo del proyecto concluido.
 
 ### Antes de temporada 2027 · Equipo y presupuesto según reglamento concreto
 
@@ -382,3 +392,6 @@ FLL México Future 6–9 exige 4 alumnos, dos hermanos no bastan. RoboRAVE ES gl
 - [De RRID a Confirmed](https://www.roboraveinternational.org/en/guides/how-to-register-a-team) — Ficha actual de reglas o registro; discrepancias de edad y precio conservadas. No confirma solicitud familiar.
 - [Socio Costa Rica: directorio actual](https://firstlegoleague.org/) — Socio Fundación STEAM confirmado; convocatoria local actual e idioma BIOGLOW sin confirmar.
 - [Puerto Vallarta: precio y unidad de pago actuales](https://www.roboraveinternational.org/en/events/roborave-puerto-vallarta-open-2027) — Ficha actual de reglas o registro; discrepancias de edad y precio conservadas. No confirma solicitud familiar.
+- [Reglas verificadas de proyectos / robótica menores](https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view) — 1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior. Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos.
+- [Reglas verificadas de proyectos / robótica menores](https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view) — Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado. Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+- [Reglas verificadas de proyectos / robótica menores](https://drive.google.com/file/d/11Gn3vV5Sjb52os8OHjKJl2UYfVGhXqn_/view) — Último curso preescolar o Primaria 1–3 según reglamento específico. Título general Junior indica Primaria–Preparatoria: confirmar admisión preescolar. Matvey debe comprobar especialmente no superar 3er curso.

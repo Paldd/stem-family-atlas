@@ -6,16 +6,16 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 4058; competiciones: 1206; eventos: 218; campamentos / programas: 2634. Perfiles de ligas y programas: 145. Fichas de exposiciones grandes y especializadas: 136 — son ediciones y sedes, no número de marcas únicas.
+Fichas en base: 4117; competiciones: 1265; eventos: 218; campamentos / programas: 2634. Perfiles de ligas y programas: 147. Fichas de exposiciones grandes y especializadas: 136 — son ediciones y sedes, no número de marcas únicas.
 
-Hay registros específicos para 84 de 249 países y territorios; países completamente auditados: 0. Fichas nuevas: 21; perfiles nuevos: 3. Todas las fichas anteriores conservadas.
+Hay registros concretos de 85 de 249 países y territorios; países completamente auditados: 0. Pase archivado v51: fichas añadidas 21, perfiles 3. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 534 | 19 | 738 |
-| América del Sur | 9 | 128 | 6 | 81 |
+| América del Norte | 14 | 573 | 19 | 738 |
+| América del Sur | 10 | 148 | 6 | 81 |
 | Europa | 22 | 174 | 47 | 1132 |
 | África | 10 | 61 | 5 | 30 |
 | Asia | 24 | 236 | 57 | 634 |
@@ -23,7 +23,7 @@ Hay registros específicos para 84 de 249 países y territorios; países complet
 
 56. América del Norte incluye América Central y el Caribe, y las cifras muestran el inventario de la base, no el porcentaje de exhaustividad.
 
-VEX: 469 de 1206 fichas de competiciones (38.9%). Existe un claro desequilibrio de cobertura.
+VEX: 469 de 1265 fichas de competiciones (37.1%). Es un sesgo evidente de cobertura.
 
 ## Lo que queda
 
@@ -100,8 +100,8 @@ VEX: 469 de 1206 fichas de competiciones (38.9%). Existe un claro desequilibrio 
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
 - **RECF Robotics**: 5 tarjetas, 4 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://recf.org/teams/recf-robotics-competition/
 - **RECF Aerial Drone**: 1 tarjeta, 0 con fechas exactas futuras. https://kb.roboticseducation.org/hc/en-us/articles/41294778999063-Aerial-Drone-Competition-Frequently-Asked-Questions-FAQ
-- **WER**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjetas; cobertura local parcial. https://www.wermexico.com/competencia
-- **RoboMatrix / Infomatrix**: 2 tarjetas, 0 con fechas exactas futuras. https://robomatrix.org/
+- **WER**: 3 fichas, 2 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wermexico.com/competencia
+- **RoboMatrix / Infomatrix**: 59 fichas, 37 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 7 fichas, 6 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
 - **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
@@ -121,7 +121,7 @@ VEX: 469 de 1206 fichas de competiciones (38.9%). Existe un claro desequilibrio 
 - **Torneo Mexicano de Robótica**: 1 tarjeta, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://femexrobotica.org/tmr2026/index.php/participantes/inscripciones
 - **TJR Mini / RoboLeague**: 1 tarjeta, 0 con fechas exactas futuras. https://www.torneiojrobotica.org/TJR-MINI/
 - **ITR · serie internacional TJR / RoboLeague**: 6 fichas, 4 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://internationaltournamentofrobots.org/contribution/
-- **TecPro Challenge · LATAM / Virtual**: 10 tarjetas, 4 con fechas exactas futuras. https://tdrobotica.co/tecpro-challenge-2026-2027
+- **TecPro Challenge · LATAM / Virtual**: 10 fichas, 5 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://tdrobotica.co/tecpro-challenge-2026-2027
 - **Ceibal · Uruguay**: 12 tarjetas, 0 con fechas exactas futuras; perfil y tarjetas; cobertura local parcial. https://ceibal.edu.uy/institucional/articulos/tematica-olimpiada-de-robotica-programacion-y-videojuegos-edicion13/
 - **RoboJam**: 10 fichas, 9 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robojam.live/
 - *RoboLiga · Argentina**: 11 tarjetas, 11 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://roboliga.edu.ar/edicion-2026/default.asp
@@ -235,6 +235,8 @@ VEX: 469 de 1206 fichas de competiciones (38.9%). Existe un claro desequilibrio 
 - *China · junior VEX / FIRST through school or academy**: 3 tarjetas, 3 con fechas exactas futuras. https://www.ycyw-edu.com/en/2026-ycyw-summer-programme-primary-programme
 - **World Robot League / IREA · KoreaOpen**: 11 fichas, 10 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldrobotleague.net/
 - **RoboLiga Virtual**: 4 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://virtual.roboliga.ar/
+- **Infomatrix · SOLACYT · proyectos**: 40 fichas, 25 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
+- **Robomatrix · Junior / Master**: 17 fichas, 12 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

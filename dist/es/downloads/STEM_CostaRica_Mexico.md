@@ -103,11 +103,11 @@ Edad: Primaria: Reto; Sumo en 2026 secundaria
 Matway: Condicional
 Óscar: Condicional
 Idioma: ES
-Entrada: Nueva solicitud a través de LUVÁ; seleccionar la categoría por nivel de la escuela
+Acceso: Infomatrix Costa Rica oficial solo indica fase finalizada el 10 de octubre de 2026 en CEDES Don Bosco; futura LUVÁ 2027 sin anunciar. Para vía internacional elegir acreditación y categoría concreta.
 Costo: No publicado / Comprobar la edición actual
 Limitaciones: No aplazar la exención 2026 hasta la próxima temporada; condiciones precisas para la acreditación internacional.
 Fuente: https://www.torneoluva.com
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-05
 
 ### C003 · FIRST LEGO League BIOGLOW — Explore / Challenge
 
@@ -200,31 +200,31 @@ Limitaciones: 23 Categoría, cerca 300 y 1 200 en la comunicación — Proyecci�
 Fuente: https://turismo.zacatecas.gob.mx/sera-zacatecas-sede-del-torneo-mexicano-de-robotica-2027/
 Se ha comprobado: 2026-11-04
 
-### # C044  - WER Mexico ○ Primaria / Mayor
+### C044 · WER México · Primaria · nueva convocatoria sin confirmar
 
 Fecha: 2026*27: fecha de la conclusión nacional no se ha fijado
-Edad: Primaria está presente; años exactos/clases de verificación
-Matway: Condicional
-Óscar: Condicional
+edad: Enlace Primaria lleva a convocatoria 2019: 9–15 y curso Primaria vigente. Archivo, no admisión actual 2026/27. Nuevas convocatoria 2026 son Secundaria / Bachillerato / Universidad.
+Matvey: Condicional: nueva convocatoria Primaria y edad sin confirmar.
+Oscar: Condicional: convocatoria menor sin anunciar; archivo 2019 desde 9 no aplicado como regla de nueva temporada.
 Idioma: ES
 Entrada: Ruta regional/nacional y condición de la escuela
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: La base de referencia sólo secundaria es incorrecta como conclusión general; la presencia de Primaria aún no confirma la admisión de ambos.
-Fuente: https://www.wermexico.com/competencia
-Comprobado: 2026-09-29
+Limitaciones: INSCRIPCIONES ABIERTAS en portada no invalida plazos vencidos 2 / 9 de octubre. Premios y financiación China de distintos años / categorías no mezclados.
+Fuente: https://www.wermexico.com/wer2026
+Se ha comprobado: 2026-11-05
 
 ### ~#C045 · Robomatrix / Infomatrix ○ Red internacional
 
 Fecha: 2026*27: nuevos productos específicos / acreditaciones
-Edad: Al día actual convocatoria; No de la antigua. PDF 2015–2018
+edad: Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.
 Matway: Condicional
 Óscar: Condicional
 Idioma: ES / EN en las finales
-Entrada: Open nacional occreditación LUVÁ; derechos y contribuciones de cada financista por separado
+Acceso: Elegir Infomatrix de proyectos o Robomatrix de robots; fases regionales y finales actuales separadas. Geografía, acreditación extranjera y derecho de siguiente fase se comprueban antes de pago.
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: La lista de afiliados históricos no demuestra la cuota actual; no hay fecha de inicio exacta.
+Limitaciones: Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial.
 Fuente: https://robomatrix.org/
-Comprobado: 2026-09-29
+Se ha comprobado: 2026-11-05
 
 ### ~#C063 · SumoBot UCenfotec ○ La próxima temporada
 
@@ -1681,6 +1681,513 @@ Precio: Página: 580 USD por participante / coach, incluye alojamiento, comida /
 Limitaciones: Comparte ciudad, fechas y hotel con Open, pero programa y paquete son distintos. Inclusiones hoteleras no se trasladan al Open. Primary del anuncio y MS / 13+ del challenge enlazado discrepan; días exactos de presentaciones sin anunciar.
 Fuente: https://roboraveinternational.org/eventos/roborave-ruta-cientifica-puerto-vallarta-2027
 Se ha comprobado: 2026-11-04
+
+### C1208 · Infomatrix Iberoamérica 2027
+
+Fecha: 2027-05-19 — 2027-05-22
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Oscar: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Acreditados de regionales / afiliados e invitados. PDF junto a plazo 23 de abril indica Registro por Cerrado; página sin plazo. Acordar admisión actual y condición de no acreditados.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/iberoamericana/
+Se ha comprobado: 2026-11-05
+
+### C1209 · Infomatrix Nacional México 2027
+
+Fecha: 2027-06-16 — 2027-06-19
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Oscar: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Acreditación regional Infomatrix o feria afiliada. Acreditados regionales no crean nueva solicitud; feria externa requiere registro, informe y pago hasta 21 de mayo de 2027.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/nacionalmexico/
+Se ha comprobado: 2026-11-05
+
+### C1210 · Infomatrix General Virtual 2027
+
+Fecha: 2027-04-09 — 2027-04-09
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Oscar: Condicional: edad posible, requiere acreditación / permiso para esta fase concreta.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Acceso virtual excepcional: falta de sede propia o dificultades económicas / de salud acreditadas para viajar. Requiere autorización del organizador. Solo acreditaciones nacionales y premios digitales; no final online libre para todos.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view
+Se ha comprobado: 2026-11-05
+
+### C1211 · Infomatrix · Aguascalientes / Zacatecas · 2027
+
+Fecha: 2027-02-20 — 2027-02-20
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/aguascalientes/
+Se ha comprobado: 2026-11-05
+
+### C1212 · Infomatrix · Baja California · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/baja-california/
+Se ha comprobado: 2026-11-05
+
+### C1213 · Infomatrix · Baja California Sur · 2027
+
+Fecha: 2027-02-25 — 2027-02-27
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/baja-california-sur/
+Se ha comprobado: 2026-11-05
+
+### C1214 · Infomatrix · Campeche · 2026
+
+Fecha: 2026-11-27 2026-11-28
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/campeche/
+Se ha comprobado: 2026-11-05
+
+### C1215 · Infomatrix · Centro CDMX / EDOMEX · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones: Página: 5–6 de febrero de 2027 y plazo 8 de febrero de 2026; PDF: 5–6 de marzo de 2027 y 8 de febrero. Sin corregir fecha / plazo por suposición; fuera del calendario confirmado.
+Fuente: https://infomatrix.lat/mexico-centro/
+Se ha comprobado: 2026-11-05
+
+### C1216 · Infomatrix · Chihuahua · 2027
+
+Fecha: 2027-03-05 — 2027-03-06
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/chihuahua/
+Se ha comprobado: 2026-11-05
+
+### C1217 · Infomatrix · Coahuila · 2027
+
+Fecha: 2027-03-06 — 2027-03-06
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/coahuila/
+Se ha comprobado: 2026-11-05
+
+### C1218 · Infomatrix · Colima · 2027
+
+Fecha: 2027-03-11 — 2027-03-12
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/colima/
+Se ha comprobado: 2026-11-05
+
+### C1219 · Infomatrix · Golfo Norte · 2027
+
+Fecha: 2027-03-04 — 2027-03-05
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/golfo/
+Se ha comprobado: 2026-11-05
+
+### C1220 · Infomatrix · Guanajuato · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/guanajuato/
+Se ha comprobado: 2026-11-05
+
+### C1221 · Infomatrix · Jalisco · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/jalisco/
+Se ha comprobado: 2026-11-05
+
+### C1222 · Infomatrix · Michoacán / Guerrero · 2027
+
+Fecha: 2027-03-05 — 2027-03-05
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones: CBTA 233 coincide, página indica Tarímbaro y PDF Morelia. Confirmar dirección exacta.
+Fuente: https://infomatrix.lat/michoacan/
+Se ha comprobado: 2026-11-05
+
+### C1223 · Infomatrix · Nuevo León · 2027
+
+Fecha: 2027-02-26 — 2027-02-27
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones: Fecha y año de nueva temporada según convocatoria general 2027; página específica puede ser anterior o no repetir año del plazo. Fuentes no se declaran totalmente concordantes.
+Fuente: https://infomatrix.lat/nuevo-leon/
+Se ha comprobado: 2026-11-05
+
+### C1224 · Infomatrix · Oaxaca / Chiapas · 2027
+
+Fecha: 2027-04-09 — 2027-04-10
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones: Fecha y año de nueva temporada según convocatoria general 2027; página específica puede ser anterior o no repetir año del plazo. Fuentes no se declaran totalmente concordantes.
+Fuente: https://infomatrix.lat/oaxaca/
+Se ha comprobado: 2026-11-05
+
+### C1225 · Infomatrix · Pacífico · 2027
+
+Fecha: 2027-03-04 — 2027-03-06
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/pacifico/
+Se ha comprobado: 2026-11-05
+
+### C1226 · Infomatrix · Puebla · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/puebla/
+Se ha comprobado: 2026-11-05
+
+### C1227 · Infomatrix · Querétaro · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/queretaro/
+Se ha comprobado: 2026-11-05
+
+### C1228 · Infomatrix · Quintana Roo · 2027
+
+Fecha: 2027-02-25 — 2027-02-26
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/quintana-roo/
+Se ha comprobado: 2026-11-05
+
+### C1229 · Infomatrix · San Luis Potosí · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/san-luis/
+Se ha comprobado: 2026-11-05
+
+### C1230 · Infomatrix · Sonora · 2027
+
+Fecha: 2027-03-04 — 2027-03-04
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones: Fecha y año de nueva temporada según convocatoria general 2027; página específica puede ser anterior o no repetir año del plazo. Fuentes no se declaran totalmente concordantes.
+Fuente: https://infomatrix.lat/sonora/
+Se ha comprobado: 2026-11-05
+
+### C1231 · Infomatrix · Tabasco · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/tabasco/
+Se ha comprobado: 2026-11-05
+
+### C1232 · Infomatrix · Veracruz Sur · 2026
+
+Fecha: 2026-12-11 — 2026-12-11
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/golfo-sur/
+Se ha comprobado: 2026-11-05
+
+### C1233 · Infomatrix · Yucatán · 2027
+
+Fecha: 2027-02-18 国 2027-02-19
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Oscar: Sí por edad general 5–25; categoría local, región y admisión aparte. No confirma registro.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.
+Precio: Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.
+Limitaciones:
+Fuente: https://infomatrix.lat/yucatan/
+Se ha comprobado: 2026-11-05
+
+### C1247 · Infomatrix · Costa Rica · 2026
+
+Fecha: 2026-10-10 国 2026-10-10
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/costa-rica/
+Se ha comprobado: 2026-11-05
+
+### C1248 · Robomatrix · Continental Master · 2026
+
+Fecha: 2026-12-04 — 2026-12-05
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: No por nivel requerido Preparatoria / Universidad; Junior es otra fase.
+Oscar: No por nivel requerido Preparatoria / Universidad; Junior es otra fase.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/continental/
+Se ha comprobado: 2026-11-05
+
+### C1249 · Robomatrix · Continental Junior · 2026
+
+Fecha: 2026-11-27 2026-11-28
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/sede-continental-junior-xalapa-mexico/
+Se ha comprobado: 2026-11-05
+
+### C1250 · Robomatrix · Baja California · 2026
+
+Fecha: 2026-10-31 - 2026-10-31
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/tijuana/
+Se ha comprobado: 2026-11-05
+
+### C1251 · Robomatrix · Occidente · 2026
+
+Fecha: 2026-07-01 — 2026-07-01
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/guadalajara/
+Se ha comprobado: 2026-11-05
+
+### C1252 · Robomatrix · Puebla · 2026
+
+Fecha: 2026-06-26 — 2026-06-26
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/regional-puebla/
+Se ha comprobado: 2026-11-05
+
+### C1253 · Robomatrix · Oaxaca · 2026
+
+Fecha: 2026-10-23 — 2026-10-24
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/oaxaca/
+Se ha comprobado: 2026-11-05
+
+### C1261 · Robomatrix · Costa Rica · 2026
+
+Fecha: 2026-10-10 国 2026-10-10
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
+Se ha comprobado: 2026-11-05
+
+### C1262 · Robomatrix Junior Xalapa · Sumo LEGO
+
+Fecha: 2026-11-27 2026-11-28
+edad: Primaria / Secundaria / Bachillerato; ambos requieren curso Primaria confirmado.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/1EgxgIEvysRcIzXE7M1a_QAdz3nJbOxlq/view
+Se ha comprobado: 2026-11-05
+
+### C1263 · Robomatrix Junior Xalapa · Codi-Bot
+
+Fecha: 2026-11-27 2026-11-28
+edad: Último curso preescolar o Primaria 1–3 según reglamento específico. Título general Junior indica Primaria–Preparatoria: confirmar admisión preescolar. Matvey debe comprobar especialmente no superar 3er curso.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/11Gn3vV5Sjb52os8OHjKJl2UYfVGhXqn_/view
+Se ha comprobado: 2026-11-05
+
+### C1264 · Robomatrix Junior Xalapa · Seguidor de Líneas Kits
+
+Fecha: 2026-11-27 2026-11-28
+edad: Primaria / Secundaria / Bachillerato según tabla Junior; confirmar curso de ambos.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.
+Limitaciones:
+Fuente: https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view
+Se ha comprobado: 2026-11-05
+
+### C1265 · WER México 2026 · Secundaria
+
+Fecha: 2026-11-04 — 2026-11-05
+edad: Requiere nivel escolar Secundaria
+Matvey: No por nivel escolar requerido; itinerario futuro.
+Oscar: No por nivel escolar requerido; itinerario futuro.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Inscripción a final nacional 2026 cerrada según plazo publicado. Categorías mayores concretas, no convocatoria Primaria actual.
+Precio: Paquete y precio actual no encontrados en convocatoria; beneficios de premio mundial varían por categoría y no aplican a menores.
+Limitaciones:
+Fuente: https://www.wermexico.com/_files/ugd/aa4c42_c63f55bc987441a3a131ff600bb36a5c.pdf
+Se ha comprobado: 2026-11-05
+
+### C1266 · WER México 2026 · Bachillerato / Universidad
+
+Fecha: 2026-11-04 — 2026-11-05
+edad: Requiere nivel escolar Bachillerato / Universidad
+Matvey: No por nivel escolar requerido; itinerario futuro.
+Oscar: No por nivel escolar requerido; itinerario futuro.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Inscripción a final nacional 2026 cerrada según plazo publicado. Categorías mayores concretas, no convocatoria Primaria actual.
+Precio: Paquete y precio actual no encontrados en convocatoria; beneficios de premio mundial varían por categoría y no aplican a menores.
+Limitaciones:
+Fuente: https://www.wermexico.com/_files/ugd/aa4c42_0468a5fddb0647caa479f5544552eb07.pdf
+Se ha comprobado: 2026-11-05
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 

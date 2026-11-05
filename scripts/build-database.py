@@ -74,6 +74,8 @@ from roborave_routes_v147 import enrich_v147
 enrich_v147(d)
 from camp_europe_v148 import enrich_v148
 enrich_v148(d)
+from latam_project_routes_v149 import enrich_v149
+enrich_v149(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -378,7 +380,7 @@ if 'school_history' in d:
 a=d['completeness_audit']; n=a['counts']
 report=['# STEM Atlas: аудит полноты', '', 'Проверка: '+a['checked']+f". Версия {a['version']}.", '', '**'+a['conclusion']+'**', '', a['scope'], '',
     f"Карточек в базе: {n['cards']}; соревнований: {n['competition_cards']}; событий: {n['event_cards']}; лагерей / программ: {n['camp_cards']}. Профилей лиг и программ: {n['league_profiles']}. Карточек крупных и профильных выставок: {n['major_exhibition_cards']} — это издания и площадки, не число уникальных брендов.", '',
-    f"Конкретные записи есть для {n['countries_with_records']} из {len(countries)} стран и территорий; полностью проаудированных стран: {n['fully_audited_countries']}. Новых карточек: {len(a['new_ids'])}; новых профилей: {len(a['new_profiles'])}. Все прежние карточки сохранены.", '',
+    f"Конкретные записи есть для {n['countries_with_records']} из {len(countries)} стран и территорий; полностью проаудированных стран: {n['fully_audited_countries']}. Архивный проход v{a['version']}: добавлено карточек {len(a['new_ids'])}, профилей {len(a['new_profiles'])}. Все прежние карточки сохранены.", '',
     '## Охват по континентам', '', '| Континент | Страны / территории с записями | Соревнования | Крупные выставки | Лагеря / программы |', '|---|---:|---:|---:|---:|']
 report += [f"| {c['name']} | {c['countries_with_records']} | {c['competitions']} | {c['major_exhibitions']} | {c['camps']} |" for c in a['continents']]
 report += ['',f"Межрегиональные / глобальные карточки, не приписанные одному континенту: {a['interregional_cards']}. Северная Америка включает Центральную Америку и Карибский регион. Количества показывают инвентарь базы, а не процент полноты.", '',
@@ -447,7 +449,7 @@ if local_focus:
             'Возраст: '+e['age'],'Матвей: '+e['mat'],'Оскар: '+e['osc'],'Язык: '+e['language'],
             'Вход: '+e['entry'],'Стоимость: '+e['cost'],'Ограничения: '+e['note'],'Источник: '+e['source'],'Проверено: '+e['checked'],'']
     report+=['## Ещё проверить','']+['- '+x for x in local_focus['open_questions']]
-    (out/'STEM_CostaRica_Mexico.md').write_text('\n'.join(report)+'\n')
+    (out/'STEM_CostaRica_Mexico.md').write_text('\n'.join(line.rstrip() for line in report)+'\n')
 (out/'STEM_research_plan.json').write_text((ROOT/'data/research-plan.json').read_text())
 if 'schools' in d:
     (out/'STEM_schools.json').write_text(json.dumps(dict(audit=d['school_focus'],schools=d['schools']),ensure_ascii=False,indent=2))

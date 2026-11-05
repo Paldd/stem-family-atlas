@@ -1,0 +1,194 @@
+{
+  "version": 149,
+  "checked": "2026-11-05",
+  "new_ids": [
+    "C1208",
+    "C1209",
+    "C1210",
+    "C1211",
+    "C1212",
+    "C1213",
+    "C1214",
+    "C1215",
+    "C1216",
+    "C1217",
+    "C1218",
+    "C1219",
+    "C1220",
+    "C1221",
+    "C1222",
+    "C1223",
+    "C1224",
+    "C1225",
+    "C1226",
+    "C1227",
+    "C1228",
+    "C1229",
+    "C1230",
+    "C1231",
+    "C1232",
+    "C1233",
+    "C1234",
+    "C1235",
+    "C1236",
+    "C1237",
+    "C1238",
+    "C1239",
+    "C1240",
+    "C1241",
+    "C1242",
+    "C1243",
+    "C1244",
+    "C1245",
+    "C1246",
+    "C1247",
+    "C1248",
+    "C1249",
+    "C1250",
+    "C1251",
+    "C1252",
+    "C1253",
+    "C1254",
+    "C1255",
+    "C1256",
+    "C1257",
+    "C1258",
+    "C1259",
+    "C1260",
+    "C1261",
+    "C1262",
+    "C1263",
+    "C1264",
+    "C1265",
+    "C1266"
+  ],
+  "new_profiles": [
+    "infomatrix-solacyt",
+    "robomatrix"
+  ],
+  "network_pages": {
+    "infomatrix": 39,
+    "robomatrix": 13
+  },
+  "im_current_call": {
+    "updated": "2026-11-03",
+    "ages": "5–25 at registration close; preschool to university",
+    "students_max": 3,
+    "advisor": "older than 18; family allowed",
+    "homeschool_and_independent_teams_allowed": true,
+    "mixed_school_levels": "highest level",
+    "project_date": "from April 2026, or declared continuing project",
+    "AI_assistance_disclosure_required": true,
+    "national_final": [
+      "2027-06-16",
+      "2027-06-19"
+    ],
+    "national_final_deadline": "2027-05-21",
+    "ibero_final": [
+      "2027-05-19",
+      "2027-05-22"
+    ],
+    "ibero_deadline": "2027-04-23",
+    "ibero_registration_status_conflict": "PDF Registro por Cerrado despite future dates; not declared open",
+    "restricted_virtual": {
+      "date": "2027-04-09",
+      "deadline": "2027-03-16",
+      "approval_required": true,
+      "reasons": "missing home venue or documented economic / health travel difficulty",
+      "awards": "digital; only national accreditation"
+    },
+    "geographic_home_venue_required": true,
+    "participation_medal_and_accreditation_separate": true,
+    "international_project_cycle_does_not_issue_new_accreditation": true,
+    "Mexico_fee_MXN_by_students": {
+      "1": 450,
+      "2": 900,
+      "3": 1350
+    },
+    "advisor_entry_fee": 0,
+    "possible_local_kit_fee_includes_advisor": true
+  },
+  "conflicts": {
+    "mexico_centro": "page February 5–6 2027 / deadline February 8 2026 vs current PDF March 5–6 2027 / February 8; no confirmed date or deadline exported",
+    "manabi": "page December 4 2027 vs PDF December 4 2026 / November 16 2026; neither window exported as confirmed",
+    "yucatan": "page January 29 2027 vs PDF February 1; earlier page deadline retained with conflict note",
+    "ecuador": "page January 29 2027 vs PDF February 1; earlier page deadline retained with conflict note",
+    "costa_rica": "page September 17 vs PDF September 19 2026; both expired; no 2027 intake inferred",
+    "Michoacan": "Tarimbaro vs Morelia for CBTA233; address unresolved",
+    "Chile": "page September 4–6 / August 6 vs PDF September 4–5 / August 16 2026; archived conflict explicit",
+    "Bolivia": "page still March 2026; current call 2027 TBD",
+    "Peru": "page October 2025; new call no dates and closed"
+  },
+  "robomatrix": {
+    "call_updated": "2026-10-16",
+    "students_max": 2,
+    "school_document_required": true,
+    "Xalapa_Junior": [
+      "2026-11-27",
+      "2026-11-28"
+    ],
+    "registration_and_payment_confirmation": "2026-11-06",
+    "Continental_Master": [
+      "2026-12-04",
+      "2026-12-05"
+    ],
+    "Master_level": "Preparatoria / Universidad; both children not eligible",
+    "fees_per_project": {
+      "national_MXN": 900,
+      "foreign_USD": 85
+    },
+    "family_team_country_not_inferred_from_passports": true,
+    "foreign_Continental_accreditation_required": true,
+    "Codi_Bot": "last preschool or primary grades1–3; generic Junior primary header conflict retained",
+    "Sumo_LEGO": "primary / secondary / bachillerato;15x15cm;1kg;one LEGO controller;USB;5second delay",
+    "category_minimum_confirmed_teams": 6
+  },
+  "wer": {
+    "Primaria_menu_links_2019_call": true,
+    "new_Primaria_intake_not_proven": true,
+    "current_2026_calls": "Secundaria and Bachillerato / Universidad only; November4–5; registration deadlines October9 / October2",
+    "individual_classification_corrected_to_team": true
+  },
+  "tecpro": {
+    "Panama_date": "2026-10-28",
+    "venue": "Ciudad del Saber",
+    "past_event_not_future": true,
+    "Colombia_date_not_announced": true,
+    "Match2_2027_stays_undated": true,
+    "age_at_start_not_assumed_from_year": true
+  },
+  "source_access_gaps": [
+    "LUVÁ current direct page only brief wrapper",
+    "SOLACYT primary page bot verification; not used as age authority"
+  ],
+  "mislabeled_private_download_keys": {
+    "im_general_pdf": "actually Latin America venue map JPEG, not rulebook",
+    "rm_general_pdf": "what is Robomatrix overview, not convocatoria",
+    "rm_junior_pdf": "2015–2018 overview; not current rules",
+    "wer_secondary_pdf": "actually 2025 day1 result, not 2026 secondary call"
+  },
+  "primary_pdf_visual_pages_reviewed": [
+    "im-call1",
+    "im-call5",
+    "im-call6",
+    "im-call7",
+    "im-call8",
+    "rm-call2",
+    "rm-call4",
+    "im-call9",
+    "rm-call7",
+    "codi-bot2",
+    "wer-Primaria2019"
+  ],
+  "all_prior_records_preserved": true,
+  "source_responses_hash_verified": 74,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "calendar_date_advance": {
+    "from_date": "2026-11-04",
+    "to_date": "2026-11-05",
+    "old_entries_expired": 5,
+    "new_entries": 51,
+    "all_original_catalogue_records_retained": true
+  }
+}

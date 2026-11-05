@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 147,
+    "version": 149,
     "checked": "2026-11-04",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -1359,34 +1359,62 @@
         "id": "wer",
         "name": "WER",
         "group": "international",
-        "age_summary": "Primaria y mayores; las clases y la edad dependen del país",
+        "age_summary": "Enlace Primaria lleva a convocatoria 2019: 9–15 y curso Primaria vigente. Archivo, no admisión actual 2026/27. Nuevas convocatoria 2026 son Secundaria / Bachillerato / Universidad.",
         "age_tags": [
           "unknown"
         ],
         "summary": "la robótica educativa con etapas nacionales.",
         "categories": [
           {
-            "name": "WER México  Primaria / mayores",
-            "age": "Primaria está presente; años / clases exactas para comprobar",
-            "team": "3 participantes + coach",
+            "name": "WER México · Primaria · nueva convocatoria sin confirmar",
+            "age": "Enlace Primaria lleva a convocatoria 2019: 9–15 y curso Primaria vigente. Archivo, no admisión actual 2026/27. Nuevas convocatoria 2026 son Secundaria / Bachillerato / Universidad.",
+            "age_rule": "Enlace Primaria lleva a convocatoria 2019: 9–15 y curso Primaria vigente. Archivo, no admisión actual 2026/27. Nuevas convocatoria 2026 son Secundaria / Bachillerato / Universidad.",
+            "team": "Equipos WER actuales no individuales; 3 o 2–3 según categoría mayor. Primaria 2019: 3. Nueva convocatoria menor requiere edición nueva.",
             "hardware": "Abilix / conjunto de reglamentos de la WER actual",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
             "event_id": "C044",
             "entry": "ruta regional / nacional y el estatus de la escuela",
             "language": "ES",
-            "note": "La primera sólo secundaria es incorrecta como conclusión general; la presencia de Primaria aún no confirma la admisión de ambos.",
-            "source": "https://www.wermexico.com/competencia",
-            "checked": "2026-09-29"
+            "note": "INSCRIPCIONES ABIERTAS en portada no invalida plazos vencidos 2 / 9 de octubre. Premios y financiación China de distintos años / categorías no mezclados.",
+            "source": "https://www.wermexico.com/wer2026",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "WER México 2026 · Secundaria",
+            "age": "Requiere nivel escolar Secundaria",
+            "age_rule": "Requiere nivel escolar Secundaria",
+            "team": "3 alumnos + docente coach; Secondary máximo 15 años.",
+            "hardware": "Abilix Krypton y arena WER 2026 según categoría propia; Oculus 5 de Primaria 2019 no se traslada.",
+            "event_id": "C1265",
+            "entry": "Inscripción a final nacional 2026 cerrada según plazo publicado. Categorías mayores concretas, no convocatoria Primaria actual.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://www.wermexico.com/_files/ugd/aa4c42_c63f55bc987441a3a131ff600bb36a5c.pdf",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "WER México 2026 · Bachillerato / Universidad",
+            "age": "Requiere nivel escolar Bachillerato / Universidad",
+            "age_rule": "Requiere nivel escolar Bachillerato / Universidad",
+            "team": "2–3 alumnos + docente coach; condiciones separadas de edad y experiencia beginner / master.",
+            "hardware": "Abilix Krypton y arena WER 2026 según categoría propia; Oculus 5 de Primaria 2019 no se traslada.",
+            "event_id": "C1266",
+            "entry": "Inscripción a final nacional 2026 cerrada según plazo publicado. Categorías mayores concretas, no convocatoria Primaria actual.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://www.wermexico.com/_files/ugd/aa4c42_0468a5fddb0647caa479f5544552eb07.pdf",
+            "checked": "2026-11-05"
           }
         ],
         "event_ids": [
-          "C044"
+          "C044",
+          "C1265",
+          "C1266"
         ],
         "legacy_ids": [
           "C044"
         ],
         "route": "ruta regional / nacional y el estatus de la escuela",
-        "hardware": "Abilix / conjunto de reglamentos de la WER actual",
+        "hardware": "Abilix Krypton y arena WER 2026 según categoría propia; Oculus 5 de Primaria 2019 no se traslada.",
         "language": "ES",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
         "strengths": "la robótica educativa con etapas nacionales.",
@@ -1396,7 +1424,7 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "La primera sólo secundaria es incorrecta como conclusión general; la presencia de Primaria aún no confirma la admisión de ambos."
+          "INSCRIPCIONES ABIERTAS en portada no invalida plazos vencidos 2 / 9 de octubre. Premios y financiación China de distintos años / categorías no mezclados."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -1405,6 +1433,26 @@
             "title": "fuente oficial C044",
             "url": "https://www.wermexico.com/competencia",
             "checked": "2026-09-29"
+          },
+          {
+            "url": "https://www.wermexico.com/wer2026",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
+          },
+          {
+            "url": "https://www.wermexico.com/_files/ugd/aa4c42_ac3bc924c15d4833916cda0a469eaa1f.pdf",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
+          },
+          {
+            "url": "https://www.wermexico.com/_files/ugd/aa4c42_c63f55bc987441a3a131ff600bb36a5c.pdf",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
+          },
+          {
+            "url": "https://www.wermexico.com/_files/ugd/aa4c42_0468a5fddb0647caa479f5544552eb07.pdf",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -1413,34 +1461,91 @@
         "id": "matrix",
         "name": "RoboMatrix / Infomatrix",
         "group": "international",
-        "age_summary": "edad y número de participantes  por convocatoria vigente",
+        "age_summary": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
         "age_tags": [
           "unknown"
         ],
-        "summary": "red de concursos de robótica y disciplinas de proyecto.",
+        "summary": "Comprobadas redes actuales de sedes, convocatoria Infomatrix de 3 de noviembre y Robomatrix de 16 de octubre de 2026. Discrepancias de fechas y reglas conservadas.",
         "categories": [
           {
             "name": "Robomatrix / Infomatrix  red internacional",
-            "age": "en el marco del convocatoria; No por lo viejo. PDF 2015–2018",
-            "team": "Equipo; confirmar el tamaño según la categoría",
+            "age": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
+            "age_rule": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
+            "team": "Infomatrix hasta 3 / Robomatrix hasta 2 + asesor adulto",
             "hardware": "por el reglamento de la categoría",
-            "age_rule": "la fecha de corte / clase se ajuste al reglamento local vigente.",
             "event_id": "C045",
-            "entry": "la apertura nacional o la acreditación de LUVÁ; los derechos y las contribuciones de cada final por separado",
+            "entry": "Elegir Infomatrix de proyectos o Robomatrix de robots; fases regionales y finales actuales separadas. Geografía, acreditación extranjera y derecho de siguiente fase se comprueban antes de pago.",
             "language": "ES / EN en las finales para acordar",
-            "note": "La lista de afiliados históricos no prueba la cuota vigente actual; no hay fechas exactas de inicio.",
-            "source": "https://robomatrix.org/",
-            "checked": "2026-09-29"
+            "note": "Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial.",
+            "source": "https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view",
+            "checked": "2026-11-05"
           }
         ],
         "event_ids": [
           "C045",
-          "C002"
+          "C002",
+          "C1208",
+          "C1209",
+          "C1210",
+          "C1211",
+          "C1212",
+          "C1213",
+          "C1214",
+          "C1215",
+          "C1216",
+          "C1217",
+          "C1218",
+          "C1219",
+          "C1220",
+          "C1221",
+          "C1222",
+          "C1223",
+          "C1224",
+          "C1225",
+          "C1226",
+          "C1227",
+          "C1228",
+          "C1229",
+          "C1230",
+          "C1231",
+          "C1232",
+          "C1233",
+          "C1234",
+          "C1235",
+          "C1236",
+          "C1237",
+          "C1238",
+          "C1239",
+          "C1240",
+          "C1241",
+          "C1242",
+          "C1243",
+          "C1244",
+          "C1245",
+          "C1246",
+          "C1247",
+          "C1248",
+          "C1249",
+          "C1250",
+          "C1251",
+          "C1252",
+          "C1253",
+          "C1254",
+          "C1255",
+          "C1256",
+          "C1257",
+          "C1258",
+          "C1259",
+          "C1260",
+          "C1261",
+          "C1262",
+          "C1263",
+          "C1264"
         ],
         "legacy_ids": [
           "C045"
         ],
-        "route": "la apertura nacional o la acreditación de LUVÁ; los derechos y las contribuciones de cada final por separado",
+        "route": "Elegir Infomatrix de proyectos o Robomatrix de robots; fases regionales y finales actuales separadas. Geografía, acreditación extranjera y derecho de siguiente fase se comprueban antes de pago.",
         "hardware": "por el reglamento de la categoría",
         "language": "ES / EN en las finales para acordar",
         "importance": "El grupo de redacción por tipo de ruta, no el ranking oficial de todas las ligas.",
@@ -1451,7 +1556,7 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "La lista de afiliados históricos no prueba la cuota vigente actual; no hay fechas exactas de inicio."
+          "Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -1460,6 +1565,16 @@
             "title": "fuente oficial C045",
             "url": "https://robomatrix.org/",
             "checked": "2026-09-29"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
+          },
+          {
+            "url": "https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -3181,7 +3296,9 @@
           "El equipo de 6 / 9 años no encaja en una categoría de Artifact / Game: se necesitan diferentes socios y equipos.",
           "La categoría virtual se determina por la mayoría de las edades; el equipo mezclado se acuerda de antemano. en 2027 Matvey cambia la edad de 9 a 10.",
           "en el virtual PDF v1.0 tabla en la página. 6 y lo hace Entornos Inteligentes 13–18, y la sección 3.4.4 en la página. 17 — 15–18. prioridad de la versión / el límite de la. en el Animaciones 5–9 y Videojuegos 8–12 no se ha encontrado ninguna diferencia de este tipo.",
-          "en el hardware virtual Animaciones no es obligatorio; esta excepción no se aplica a la vista Artifact / Game. video de menos de 5 minutos, al menos 3 fotos y bitácora al menos 3 páginas en general v1.0."
+          "en el hardware virtual Animaciones no es obligatorio; esta excepción no se aplica a la vista Artifact / Game. video de menos de 5 minutos, al menos 3 fotos y bitácora al menos 3 páginas en general v1.0.",
+          "Fase presencial publicada de 28 de octubre de 2026 ya pasada; próxima fecha desconocida.",
+          "Lista actual de sedes presenciales sin fechas Colombia; ausencia no prueba cancelación."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "el certificado de participación y el lugar de la entrega del premio son diferentes; los premios se confirman con un protocolo oficial .",
@@ -3200,6 +3317,11 @@
             "title": "TecPro Virtual v1.0",
             "url": "https://drive.google.com/file/d/1UQ-IF-hHl0svWxMTaNlo9qI2H_29MxNi/preview?usp=drive_link",
             "checked": "2026-10-01"
+          },
+          {
+            "url": "https://www.tdrobotica.co/tecpro-challenge-2026-2027",
+            "title": "Fuente actual verificada / archivo señalado explícitamente",
+            "checked": "2026-11-05"
           }
         ],
         "evidence": "se han vuelto a leer ambos PDF primarios v1.0 y el calendario actual: las diferencias de hardware / edad y los plazos futuros están divididos."
@@ -11598,6 +11720,254 @@
         "evidence": "Leídos reglamentos HTML actuales, calendario, FAQ y selección nacional. Sin ejecutar código de juego ni paquetes binarios."
       },
       {
+        "id": "infomatrix-solacyt",
+        "name": "Infomatrix · SOLACYT · proyectos",
+        "group": "international",
+        "age_summary": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+        "age_tags": [
+          "6",
+          "9",
+          "10",
+          "12"
+        ],
+        "summary": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+        "categories": [
+          {
+            "name": "Infomatrix · Quintana Roo · 2027",
+            "age": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "age_rule": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "team": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+            "hardware": "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos.",
+            "event_id": "C1228",
+            "entry": "Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.",
+            "language": "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.",
+            "note": "",
+            "source": "https://infomatrix.lat/quintana-roo/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Infomatrix Nacional México 2027",
+            "age": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "age_rule": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "team": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+            "hardware": "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos.",
+            "event_id": "C1209",
+            "entry": "Acreditación regional Infomatrix o feria afiliada. Acreditados regionales no crean nueva solicitud; feria externa requiere registro, informe y pago hasta 21 de mayo de 2027.",
+            "language": "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.",
+            "note": "",
+            "source": "https://infomatrix.lat/nacionalmexico/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Infomatrix Iberoamérica 2027",
+            "age": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "age_rule": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "team": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+            "hardware": "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos.",
+            "event_id": "C1208",
+            "entry": "Acreditados de regionales / afiliados e invitados. PDF junto a plazo 23 de abril indica Registro por Cerrado; página sin plazo. Acordar admisión actual y condición de no acreditados.",
+            "language": "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.",
+            "note": "",
+            "source": "https://infomatrix.lat/iberoamericana/",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Infomatrix General Virtual 2027",
+            "age": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "age_rule": "Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.",
+            "team": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+            "hardware": "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos.",
+            "event_id": "C1210",
+            "entry": "Acceso virtual excepcional: falta de sede propia o dificultades económicas / de salud acreditadas para viajar. Requiere autorización del organizador. Solo acreditaciones nacionales y premios digitales; no final online libre para todos.",
+            "language": "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.",
+            "note": "",
+            "source": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view",
+            "checked": "2026-11-05"
+          }
+        ],
+        "event_ids": [
+          "C1208",
+          "C1209",
+          "C1210",
+          "C1211",
+          "C1212",
+          "C1213",
+          "C1214",
+          "C1215",
+          "C1216",
+          "C1217",
+          "C1218",
+          "C1219",
+          "C1220",
+          "C1221",
+          "C1222",
+          "C1223",
+          "C1224",
+          "C1225",
+          "C1226",
+          "C1227",
+          "C1228",
+          "C1229",
+          "C1230",
+          "C1231",
+          "C1232",
+          "C1233",
+          "C1234",
+          "C1235",
+          "C1236",
+          "C1237",
+          "C1238",
+          "C1239",
+          "C1240",
+          "C1241",
+          "C1242",
+          "C1243",
+          "C1244",
+          "C1245",
+          "C1246",
+          "C1247"
+        ],
+        "legacy_ids": [
+          "C045"
+        ],
+        "route": "Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Sede corresponde al estado / región indicado; vivir en Costa Rica y pasaporte mexicano no sustituye permiso geográfico.",
+        "hardware": "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos.",
+        "language": "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.",
+        "importance": "Vía regional / internacional acreditada; premios de fase concreta, no título mundial general.",
+        "strengths": "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+        "requirements": [
+          "1–3 estudiantes + asesor mayor de 18; admite familiar, independent teams, clubes y homeschooling. Puede mezclar escuelas y niveles; clasificación al nivel superior.",
+          "Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos.",
+          "Proyecto propio: robótica / electrónica con kit o piezas abiertas, software / videogame o proyecto científico. AI permitido como apoyo declarando contribución en informe. Proyecto desde abril de 2026 o continuación explícita. Informe básico recomendado para Primaria; exposición hasta 7 minutos."
+        ],
+        "nuances": [
+          "Diploma de participación para todos; diploma de puesto, medalla y acreditación solo por resultado. Tras Infomatrix internacional acreditado desde regional / nacional no recibe nueva acreditación en ese evento internacional: ciclo del proyecto concluido.",
+          "Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida."
+        ],
+        "cost": "Tabla México: 450 / 900 / 1350 MXN por proyecto de 1 / 2 / 3 alumnos; asesor sin cuota de registro. Posible kit fee adicional por finalista y asesor según guía local. Viaje y alojamiento aparte; no es factura final.",
+        "award": "Diploma de participación para todos; diploma de puesto, medalla y acreditación solo por resultado. Tras Infomatrix internacional acreditado desde regional / nacional no recibe nueva acreditación en ese evento internacional: ciclo del proyecto concluido.",
+        "sources": [
+          {
+            "title": "Convocatoria actual",
+            "url": "https://drive.google.com/file/d/1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27/view",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Recomprobados reglas y todas las páginas actuales de red; campos desconocidos y discutidos no declarados confirmados."
+      },
+      {
+        "id": "robomatrix",
+        "name": "Robomatrix · Junior / Master",
+        "group": "international",
+        "age_summary": "Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.",
+        "age_tags": [
+          "6",
+          "9",
+          "10",
+          "12"
+        ],
+        "summary": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+        "categories": [
+          {
+            "name": "Robomatrix Junior Xalapa · Sumo LEGO",
+            "age": "Primaria / Secundaria / Bachillerato; ambos requieren curso Primaria confirmado.",
+            "age_rule": "Primaria / Secundaria / Bachillerato; ambos requieren curso Primaria confirmado.",
+            "team": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+            "hardware": "LEGO autónomo: un NXT / EV3 / SPIKE / 15151; todas las piezas LEGO, 15×15 cm, hasta 1 kg. Bluetooth / Wi-Fi apagados, carga USB, espera inicial 5 s. Algoritmo se presenta al juez si lo solicita.",
+            "event_id": "C1262",
+            "entry": "Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://drive.google.com/file/d/1EgxgIEvysRcIzXE7M1a_QAdz3nJbOxlq/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Robomatrix Junior Xalapa · Codi-Bot",
+            "age": "Último curso preescolar o Primaria 1–3 según reglamento específico. Título general Junior indica Primaria–Preparatoria: confirmar admisión preescolar. Matvey debe comprobar especialmente no superar 3er curso.",
+            "age_rule": "Último curso preescolar o Primaria 1–3 según reglamento específico. Título general Junior indica Primaria–Preparatoria: confirmar admisión preescolar. Matvey debe comprobar especialmente no superar 3er curso.",
+            "team": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+            "hardware": "Bee-Bot, Andy o similar con botones: paso 15 cm, giro 90°. Hasta 2 alumnos; cada uno programa al menos una vez. Padres y coach no intervienen, pista cambia en cada evento.",
+            "event_id": "C1263",
+            "entry": "Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://drive.google.com/file/d/11Gn3vV5Sjb52os8OHjKJl2UYfVGhXqn_/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Robomatrix Junior Xalapa · Seguidor de Líneas Kits",
+            "age": "Primaria / Secundaria / Bachillerato según tabla Junior; confirmar curso de ambos.",
+            "age_rule": "Primaria / Secundaria / Bachillerato según tabla Junior; confirmar curso de ambos.",
+            "team": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+            "hardware": "Tabla admite kit Mbot / LEGO / VEX / Zmrobot. Dimensiones, sensores y edición del reglamento de kit elegido aún por comprobar; no categoría de hardware abierto.",
+            "event_id": "C1264",
+            "entry": "Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view",
+            "checked": "2026-11-05"
+          },
+          {
+            "name": "Robomatrix · Continental Master · 2026",
+            "age": "Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.",
+            "age_rule": "Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.",
+            "team": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+            "hardware": "Categorías y robots solo según tabla actual de sede elegida; Junior no admite automáticamente todas las tareas.",
+            "event_id": "C1248",
+            "entry": "Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.",
+            "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+            "note": "",
+            "source": "https://robomatrix.org/continental/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "event_ids": [
+          "C1248",
+          "C1249",
+          "C1250",
+          "C1251",
+          "C1252",
+          "C1253",
+          "C1254",
+          "C1255",
+          "C1256",
+          "C1257",
+          "C1258",
+          "C1259",
+          "C1260",
+          "C1261",
+          "C1262",
+          "C1263",
+          "C1264"
+        ],
+        "legacy_ids": [
+          "C045"
+        ],
+        "route": "Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.",
+        "hardware": "LEGO autónomo: un NXT / EV3 / SPIKE / 15151; todas las piezas LEGO, 15×15 cm, hasta 1 kg. Bluetooth / Wi-Fi apagados, carga USB, espera inicial 5 s. Algoritmo se presenta al juez si lo solicita.",
+        "language": "Reglas ES; confirmar idioma del jurado y comunicación con equipo.",
+        "importance": "Vía regional / internacional acreditada; premios de fase concreta, no título mundial general.",
+        "strengths": "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+        "requirements": [
+          "Hasta 2 alumnos + asesor adulto; requiere documento escolar vigente. Permite distintas escuelas; niveles mixtos por curso superior. Cada categoría / robot tiene pago de registro separado.",
+          "Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel."
+        ],
+        "nuances": [
+          "Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.",
+          "Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte."
+        ],
+        "cost": "Continental Junior / Master: 900 MXN para equipo nacional o 85 USD extranjero por proyecto registrado, no por cada niño. Acreditados según acreditación; socio 10% solo con estado confirmado. Viaje completo y equipo aparte.",
+        "award": "Diploma de participación, puesto y acreditación internacional distintos; premio concreto según acta y reglas de sede.",
+        "sources": [
+          {
+            "title": "Convocatoria actual",
+            "url": "https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Recomprobados reglas y todas las páginas actuales de red; campos desconocidos y discutidos no declarados confirmados."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -11990,7 +12360,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "145 perfiles de ligas, familias y programas; conservadas todas las 46 rutas anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos según categorías propias. Cobertura mundial parcial.",
+    "methodology": "147 perfiles de ligas, familias y programas; todos los 46 itinerarios anteriores conservados. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por categorías propias. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

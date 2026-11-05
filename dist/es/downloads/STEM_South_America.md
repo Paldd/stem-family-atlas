@@ -295,18 +295,18 @@ Limitaciones: Retirada ES Marca sin prueba de la enseñanza. Regular Bases 6–8
 Fuente: https://techlabkids.cl/producto/taller-vacaciones-de-verano-2026/
 Comprobado: 2026-10-01
 
-### C081 · TecPro Challenge Colombia 2026 — Artifact / Game Fest
+### C081 · TecPro Colombia · próxima convocatoria presencial sin confirmar
 
-Fecha: Octubre 2026; día y lugar exactos no declarados
+Fecha: Lista actual de sedes presenciales sin fechas Colombia; ausencia no prueba cancelación.
 Edad: Artifact Fest 6–8; Game Fest 9–12; Smart Cities 13–18; URFI 11–16
-Sí, por edad: Game Fest 9*12
-Oscar: Sí, por edad: Artifact Fest 6–8
+Matvey: Condicional por edad: en 2026 Matvey tiene 8–9; Game Fest requiere 9 cumplidos. Antes de cumpleaños posible otra categoría aparte.
+Oscar: Condicional: Artifact 6–8 solo tras cumplir 6; en 2026 edad 5–6.
 Idioma: ES: Tiempo y comunicación; idioma de la intervención específica
 Entrada: Por conducto de un especialista local en TecPro/Santillana, para confirmar por escrito la aceptación de equipos familiares independientes y la disponibilidad de los conjuntos necesarios
 Costo: No se ha publicado el valor actual
 Limitaciones: Matway y Oscar son diferentes categorías de edad. Se necesitan equipos diferentes. Mentor ○ adulto autorizado por la institución de formación; el registro de la unidad familiar requiere confirmación. El proyecto es entregado a los adultos; el adulto no construye ni programa por los niños.
 Fuente: https://tdrobotica.co/tecpro-challenge-2026-2027
-Comprobado: 2026-09-30
+Se ha comprobado: 2026-11-05
 
 ### # E042 · Argentina Game Show ○ próxima edición
 
@@ -2023,6 +2023,266 @@ Precio: Tarifa histórica de esta etapa sin verificar; precios internacionales a
 Limitaciones: Geografía histórica de serie internacional; no oportunidad activa de inscripción.
 Fuente: https://internationaltournamentofrobots.org/CHILE/
 Se ha comprobado: 2026-11-04
+
+### C1234 · Infomatrix · Ecuador · 2027
+
+Fecha: 2027-02-24 — 2027-02-27
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/ecuador/
+Se ha comprobado: 2026-11-05
+
+### C1235 · Infomatrix · Guayaquil · 2027
+
+Fecha: 2027-01-08 — 2027-01-09
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/infomatrix-regional-guayaquil/
+Se ha comprobado: 2026-11-05
+
+### C1236 · Infomatrix · Cuenca · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/infomatrix-regional-cuenca/
+Se ha comprobado: 2026-11-05
+
+### C1237 · Infomatrix · Manabí · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones: PDF: 4 de diciembre de 2026, plazo 16 de noviembre de 2026; página: 4 de diciembre de 2027 sin plazo. Ningún año se declara inequívoco; no añadido a ICS.
+Fuente: https://infomatrix.lat/infomatrix-regional-manabi/
+Se ha comprobado: 2026-11-05
+
+### C1238 · Infomatrix · Santo Domingo · 2026
+
+Fecha: 2026-10-15 — 2026-10-15
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/santo-domingo/
+Se ha comprobado: 2026-11-05
+
+### C1239 · Infomatrix · Colombia · 2026
+
+Fecha: 2026-11-11 — 2026-11-13
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/colombia/
+Se ha comprobado: 2026-11-05
+
+### C1240 · Infomatrix · Bolivia · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/bolivia/
+Se ha comprobado: 2026-11-05
+
+### C1241 · Infomatrix · Cochabamba · 2026
+
+Fecha: 2026-07-18 — 2026-07-19
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/cochabamba/
+Se ha comprobado: 2026-11-05
+
+### C1242 · Infomatrix · Santa Cruz · 2026
+
+Fecha: 2026-11-06 — 2026-11-07
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/santa-cruz/
+Se ha comprobado: 2026-11-05
+
+### C1243 · Infomatrix · Brasil · 2026
+
+Fecha: 2026-09-15 — 2026-09-18
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/brasil/
+Se ha comprobado: 2026-11-05
+
+### C1244 · Infomatrix · Chile · 2026
+
+Fecha: 2026-09-04 — 2026-09-06
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones: Página indica 4–6 de septiembre y plazo 6 de agosto; PDF 4–5 de septiembre y 16 de agosto de 2026. Archivo fechado de página con discrepancia explícita, no temporada futura.
+Fuente: https://infomatrix.lat/nacional-chile/
+Se ha comprobado: 2026-11-05
+
+### C1245 · Infomatrix · Argentina · 2026
+
+Fecha: 2026-10-08 — 2026-10-10
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones:
+Fuente: https://infomatrix.lat/nacional-argentina/
+Se ha comprobado: 2026-11-05
+
+### C1246 · Infomatrix · Perú · próxima convocatoria
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Convocatoria general del 3 de noviembre de 2026: 5–25 años al cierre de inscripción, preescolar–universidad. Equivalencia de curso y condiciones locales aparte; equipo mixto compite al nivel del mayor.
+Matvey: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Oscar: Condicional por marco general 5–25; edición local, equivalencia de curso y acreditación extranjera aparte.
+Idioma: Convocatoria española; cuento científico admite ES / PT / EN, película inglesa con subtítulos españoles. No confirma EN / ES de defensa de cada proyecto en cada sede; acordar categoría elegida.
+Acceso: Primero sede regional por geografía del equipo; otra sede o nacionalidad familiar no da acceso automático. Antes del plazo requiere registro, comprobante de pago e informe; después estado Finalista. Solicitud, Finalista, medalla y acreditación son resultados distintos. Páginas nacionales suelen exigir acreditación a extranjeros; open local no se traslada a familia visitante.
+Precio: Tarifa del país / proyecto extranjero según tabla PDF actual; 90 USD de varias sedes nacionales es por proyecto de 1–3 niños. No trasladar 450 MXN mexicanos a otros países; kit fee y viaje aparte.
+Limitaciones: Página específica aún 29–31 de octubre de 2025, PDF sin fechas futuras e indica Registro Cerrado; 2027 no inventado.
+Fuente: https://infomatrix.lat/infomatrix-sudamerica-peru/
+Se ha comprobado: 2026-11-05
+
+### C1254 · Robomatrix · Argentina · 2026
+
+Fecha: 2026-10-10 国 2026-10-10
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/sudamerica-argentina/
+Se ha comprobado: 2026-11-05
+
+### C1255 · Robomatrix · Cochabamba · 2026
+
+Fecha: 2026-06-26 — 2026-06-27
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/cochabamba/
+Se ha comprobado: 2026-11-05
+
+### C1256 · Robomatrix · Santa Cruz · 2026
+
+Fecha: 2026-11-06 — 2026-11-07
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/santa-cruz/
+Se ha comprobado: 2026-11-05
+
+### C1257 · Robomatrix · Chile · 2026
+
+Fecha: 2026-09-03 — 2026-09-03
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/sudamerica-chile/
+Se ha comprobado: 2026-11-05
+
+### C1258 · Robomatrix · Ecuador · 2026
+
+Fecha: 2026-03-04 — 2026-03-07
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/sudamerica-ecuador/
+Se ha comprobado: 2026-11-05
+
+### C1259 · Robomatrix · Guayaquil · 2026
+
+Fecha: 2026-10-03 — 2026-10-03
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/guayaquil/
+Se ha comprobado: 2026-11-05
+
+### C1260 · Robomatrix · Santo Domingo · 2026
+
+Fecha: 2026-10-15 — 2026-10-15
+edad: Según categoría escolar de tabla actual: Primaria / Secundaria / Bachillerato / Universidad; edad numérica no sustituye curso. Mínimo 6 equipos confirmados para abrir categoría; más de 12 permite divisiones por nivel.
+Matvey: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Oscar: Condicional: confirmar curso real y admisión de categoría elegida. Equipo de Costa Rica con nacionalidad México debe acordar país del equipo; nacionalidad no determina tarifa ni acreditación automáticamente.
+Idioma: Reglas ES; confirmar idioma del jurado y comunicación con equipo.
+Acceso: Primero elegir disciplina escolar y país del equipo. Antes del plazo registrar robot, pagar y confirmar comprobante; estado final Finalista se verifica aparte. Continental exige acreditación a extranjeros; open para equipos mexicanos no equivale a open para todos los extranjeros.
+Precio: Tabla 2026 por proyecto: México regional 650 MXN; Costa Rica 21600 CRC nacional / 90 USD extranjero; Santa Cruz 105 BOB; Ecuador / Argentina 35 USD local. NA extranjero no significa participación gratis; paquete local vigente aparte.
+Limitaciones:
+Fuente: https://robomatrix.org/santo-domingo/
+Se ha comprobado: 2026-11-05
 
 ### CP047-20270103-20270108 · Camp Mákemáke · 2027-01-03–2027-01-08
 

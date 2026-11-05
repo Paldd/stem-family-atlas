@@ -1,0 +1,598 @@
+{
+  "checked": "2026-11-05",
+  "method": "public-primary-GET; raw evidence private outside repository; no forms, contacts, payments or account access",
+  "responses": [
+    {
+      "key": "im-call-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1x9HlwJ4FOtPf9cu_bJsSwAPXUdW9jp27",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 1102345,
+      "sha256": "80b83fd183d09abe545e372efdbff8e268e5cfd0852f78053e40358e02dbc75c"
+    },
+    {
+      "key": "rm-call-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=10BTty6JLpHxooXhXKXwx7OQOeY6KulVI",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 934839,
+      "sha256": "c5789d1038ba4329e8aa6532a0e1ff4aa1742bad7cd46cf9b4c321bc86f070f1"
+    },
+    {
+      "key": "rm-junior-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=11qli05htkFwKINUYVS5S43n_2AMTAKrO",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 2643213,
+      "sha256": "d150dea954ffb6d2007f347efe87f28ff7eb33f1dc81d646ceefdcc8f3ba6911"
+    },
+    {
+      "key": "rm-sumo-lego-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1EgxgIEvysRcIzXE7M1a_QAdz3nJbOxlq",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 804441,
+      "sha256": "da7b68a9e6311e32ce0b52eeb07b1e60e8f67b999ea4165964b4f44cccb6369c"
+    },
+    {
+      "key": "rm-beebot-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=11Gn3vV5Sjb52os8OHjKJl2UYfVGhXqn_",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 336721,
+      "sha256": "9d1a410fdfa1d036da39c80a083a6032957b81069597820718eb44c228c3c40f"
+    },
+    {
+      "key": "infomatrix-home",
+      "url": "https://infomatrix.lat/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 241380,
+      "sha256": "cb2a3bd10fea55b5544b0453af5184b3c8ac4c660b0d9a0404dbd5904d6aeb01"
+    },
+    {
+      "key": "im-national",
+      "url": "https://infomatrix.lat/nacionalmexico/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 218664,
+      "sha256": "31775d12b3fc079f156af4752bdf9378c0f7d1092a420828995e8c3edaf2d12d"
+    },
+    {
+      "key": "im-ibero",
+      "url": "https://infomatrix.lat/iberoamericana/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212563,
+      "sha256": "355c9d73a7b67301a48b649e1b90dab14f2676c4cf947e5710e1626804948839"
+    },
+    {
+      "key": "im-colombia",
+      "url": "https://infomatrix.lat/colombia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 221395,
+      "sha256": "d4d38c7d90e2b0b57ec435aa34447882e59898040399c9e0f1e1b78d4a9cea8c"
+    },
+    {
+      "key": "robomatrix-home",
+      "url": "https://robomatrix.org/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 742935,
+      "sha256": "7fa5d1d0a3b562ccf8534c57075e131f7d1763511f0e005197ff3b67936d03a5"
+    },
+    {
+      "key": "luva-home",
+      "url": "https://www.torneoluva.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1692,
+      "sha256": "ad1e555945e376a76df4d0ef243d4c7422a72e4134b207105f1a924ea4604fe3"
+    },
+    {
+      "key": "tecpro",
+      "url": "https://www.tdrobotica.co/tecpro-challenge-2026-2027",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120521,
+      "sha256": "c69e4eb5d69f94774b0b89606a01d16f247650f739ea4346813c68c024b6d8e5"
+    },
+    {
+      "key": "wer-2026",
+      "url": "https://www.wermexico.com/wer2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1619869,
+      "sha256": "c31fe81c72abc8cfe7b45f7a909b7ae89c6d2a9358fc7501bccd8711655055f1"
+    },
+    {
+      "key": "wer-home",
+      "url": "https://www.wermexico.com/torneoswermx",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 858586,
+      "sha256": "4fc8a5aa6a033f314e315e8877924e43ced7289defc820d34e1f5bd3154cbd35"
+    },
+    {
+      "key": "wer-rules",
+      "url": "https://www.wermexico.com/competencia",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 591411,
+      "sha256": "df56d5fc17d58ce557cf69c17ae8cfc3f941b686160b2f1d2281c2224a566392"
+    },
+    {
+      "key": "wer-news",
+      "url": "https://www.wermexico.com/noticias",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 828471,
+      "sha256": "c10d7aae35cb3f47fc10eb75d8969cc1134acbe2c0a6742ed5e6680540b91f84"
+    },
+    {
+      "key": "solacyt-primary",
+      "url": "https://solacyt.org/nivel-primaria/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1705,
+      "sha256": "4846bcf80def177d3d31ce636221f71a9c0ecaf178313f16defca97ad1830efb"
+    },
+    {
+      "key": "im-aguascalientes",
+      "url": "https://infomatrix.lat/aguascalientes/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 217718,
+      "sha256": "69e5ed4494f7d23878d71fa6c6eff1a17d5a069e9b85b38cae7c59d83dec4e80"
+    },
+    {
+      "key": "im-baja-california",
+      "url": "https://infomatrix.lat/baja-california/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213551,
+      "sha256": "f638328c2d3bc2189ff79d9a83d5bdfe491c437eda135845c4f5d8a83a077a11"
+    },
+    {
+      "key": "im-baja-california-sur",
+      "url": "https://infomatrix.lat/baja-california-sur/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214197,
+      "sha256": "1d86529e9a92d1c1c2d9a11ef18fa05797b42e8ac757e5182ebb5720fb16eb6b"
+    },
+    {
+      "key": "im-campeche",
+      "url": "https://infomatrix.lat/campeche/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212185,
+      "sha256": "681dccb5cc448d16cec88bf74f5abf3d134865826a02e5c98721a5848f4a8494"
+    },
+    {
+      "key": "im-mexico-centro",
+      "url": "https://infomatrix.lat/mexico-centro/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 218193,
+      "sha256": "c053f69da2b1f35d5c5ec611d2bbc14a4f9f814f80db2f95668b987c69c2e671"
+    },
+    {
+      "key": "im-chihuahua",
+      "url": "https://infomatrix.lat/chihuahua/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 215283,
+      "sha256": "19240aea62f8744a3a30c35437cd61e52f09de8357f63e51205b295109955e48"
+    },
+    {
+      "key": "im-coahuila",
+      "url": "https://infomatrix.lat/coahuila/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213589,
+      "sha256": "445c52456a53d4c415b38f61160c087f99ef2a3484ef847582c679788c4a029d"
+    },
+    {
+      "key": "im-colima",
+      "url": "https://infomatrix.lat/colima/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213088,
+      "sha256": "934cb31843ee8300a4c2ad2ad3f44ee463d0b933e4a3491c0d04559d88aee6ab"
+    },
+    {
+      "key": "im-golfo",
+      "url": "https://infomatrix.lat/golfo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 217717,
+      "sha256": "096badcf5b5c2b596ce828699b9aea89fb012459b1d2ea192384682185a9e2d1"
+    },
+    {
+      "key": "im-guanajuato",
+      "url": "https://infomatrix.lat/guanajuato/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 215092,
+      "sha256": "34341d3793ad760d18ccf629b4c496837da5277718321b3a347bf70fd798c367"
+    },
+    {
+      "key": "im-jalisco",
+      "url": "https://infomatrix.lat/jalisco/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213074,
+      "sha256": "27cbf5e9fb0c8a9a93952ac5e3583a6cddefcf0e67933614dffeb07899516338"
+    },
+    {
+      "key": "im-michoacan",
+      "url": "https://infomatrix.lat/michoacan/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 217164,
+      "sha256": "45f4492a0cbc333ee3a2a4cc3b1ca3a9d7d5efb468b8df45b3e72abdef4e06c9"
+    },
+    {
+      "key": "im-nuevo-leon",
+      "url": "https://infomatrix.lat/nuevo-leon/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 210144,
+      "sha256": "d92b85d2aba49d84e48cf17858e2f1b4bee01b07c9078268da450815ecaace3e"
+    },
+    {
+      "key": "im-oaxaca",
+      "url": "https://infomatrix.lat/oaxaca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 226417,
+      "sha256": "21e8c4192cc56048886dfccdbebb6a3ac002548aedf65d54a5ae50f14cc6e948"
+    },
+    {
+      "key": "im-pacifico",
+      "url": "https://infomatrix.lat/pacifico/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214176,
+      "sha256": "345233bf7aeecab02332f126601da0b9eb1b216a929c248c3bd1f7029d03ced3"
+    },
+    {
+      "key": "im-puebla",
+      "url": "https://infomatrix.lat/puebla/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211021,
+      "sha256": "b1988056cb288503fd1815933f60e7480802261180a14e66355d87c2a1e92f66"
+    },
+    {
+      "key": "im-queretaro",
+      "url": "https://infomatrix.lat/queretaro/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 210206,
+      "sha256": "88d6f2ccb0442f41dbec9f0aaba8bea7cca43b511134e88a372546c7790825da"
+    },
+    {
+      "key": "im-quintana-roo",
+      "url": "https://infomatrix.lat/quintana-roo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213355,
+      "sha256": "c44f60892680e1575760e7c7d2d9699040c2c34b33f03dfc2789fe94afa59ac4"
+    },
+    {
+      "key": "im-san-luis",
+      "url": "https://infomatrix.lat/san-luis/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 216210,
+      "sha256": "2d8baeab4829bd4ddf23dc813ea397935c38906244ae3c07581a396357495320"
+    },
+    {
+      "key": "im-sonora",
+      "url": "https://infomatrix.lat/sonora/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211039,
+      "sha256": "c82174e2ed72daf50b0ae9eb81ddb693a65f50705f23bad57916a656ef38e5db"
+    },
+    {
+      "key": "im-tabasco",
+      "url": "https://infomatrix.lat/tabasco/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212478,
+      "sha256": "15861761493f605ce81477fb9f4945dab0f08a0c2239c2fef5e6fc3a61dc7490"
+    },
+    {
+      "key": "im-golfo-sur",
+      "url": "https://infomatrix.lat/golfo-sur/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 215555,
+      "sha256": "91ba209b3c7e8619230307b4a3aa25e7171497c151eb2bf9fc3f7a4f3170572f"
+    },
+    {
+      "key": "im-yucatan",
+      "url": "https://infomatrix.lat/yucatan/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214645,
+      "sha256": "9fba3c02f1681a47164898b7e08a5fd853f4c40b4d92156e2c4bd48d4d5d75fe"
+    },
+    {
+      "key": "im-ecuador",
+      "url": "https://infomatrix.lat/ecuador/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 219437,
+      "sha256": "f22b9e4ee74ae41bb44b1339ff02506b3065d7edc31537c642c070557570bde2"
+    },
+    {
+      "key": "im-infomatrix-regional-guayaquil",
+      "url": "https://infomatrix.lat/infomatrix-regional-guayaquil/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214700,
+      "sha256": "0ab40feb676bf0c38e45338fdc8db3fea5bd2af0574c597d59a84d761ca5a633"
+    },
+    {
+      "key": "im-infomatrix-regional-cuenca",
+      "url": "https://infomatrix.lat/infomatrix-regional-cuenca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212396,
+      "sha256": "c6ff87524e0d20afd0b07bf2ba861e968dc24e89f99d689b4d3eca17790c5936"
+    },
+    {
+      "key": "im-infomatrix-regional-manabi",
+      "url": "https://infomatrix.lat/infomatrix-regional-manabi/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212031,
+      "sha256": "5f33984b8fccc4040b21ca93447e4659b9d1ba4581c2d0fb36c67fc293540bf8"
+    },
+    {
+      "key": "im-santo-domingo",
+      "url": "https://infomatrix.lat/santo-domingo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211472,
+      "sha256": "6766365a521bce4c8b04ba6b4f0d9838ec1724b0d606b870a5da7b7ffce8a18f"
+    },
+    {
+      "key": "im-bolivia",
+      "url": "https://infomatrix.lat/bolivia/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211965,
+      "sha256": "de1c296efaf313158dd019cacccb3f88caca3d7b1d5ee736957c4248a5c1b67a"
+    },
+    {
+      "key": "im-cochabamba",
+      "url": "https://infomatrix.lat/cochabamba/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211657,
+      "sha256": "e2b25acad7acb34ee43edad590400a485562da54e75854156e8d5f94d371fdea"
+    },
+    {
+      "key": "im-santa-cruz",
+      "url": "https://infomatrix.lat/santa-cruz/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 211207,
+      "sha256": "6f6e66ec6ddc8f135f44e4879440c81386d3cf725db646956e9fdba40f897985"
+    },
+    {
+      "key": "im-brasil",
+      "url": "https://infomatrix.lat/brasil/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 216241,
+      "sha256": "6f00351492acd4f32e3eba5fe12cb2273e55bc16cfea5b7d9ced73fef5733e1b"
+    },
+    {
+      "key": "im-nacional-chile",
+      "url": "https://infomatrix.lat/nacional-chile/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 212971,
+      "sha256": "523ffc927aee59c7059c2753460e5518af83d8967d798b9ebe53a792b17c9e95"
+    },
+    {
+      "key": "im-nacional-argentina",
+      "url": "https://infomatrix.lat/nacional-argentina/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 232413,
+      "sha256": "286bb88fdaf769169ff4cdc355b462dd83008f655da7b78cb328ca4e2207440c"
+    },
+    {
+      "key": "im-infomatrix-sudamerica-peru",
+      "url": "https://infomatrix.lat/infomatrix-sudamerica-peru/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 214858,
+      "sha256": "f6669d4d08602ac31109f0503870d01fa5ee6d39bf75dc4cf1b59a000143c827"
+    },
+    {
+      "key": "im-costa-rica",
+      "url": "https://infomatrix.lat/costa-rica/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 213342,
+      "sha256": "8b6eaeef2e8b99420b28d5a33fdf816ea4f5e4e6ad42ee007f50f0d68753d5f4"
+    },
+    {
+      "key": "rm-continental",
+      "url": "https://robomatrix.org/continental/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 703193,
+      "sha256": "892c4b5ef94205d833ac6820df46ee757a77f7496f7975df2642cbcb960d951c"
+    },
+    {
+      "key": "rm-sede-continental-junior-xalapa-mexico",
+      "url": "https://robomatrix.org/sede-continental-junior-xalapa-mexico/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 703426,
+      "sha256": "0970aff637c964ce3efa83a36b250cb7be3a57f435c146286722b9bdd874a8fc"
+    },
+    {
+      "key": "rm-tijuana",
+      "url": "https://robomatrix.org/tijuana/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701492,
+      "sha256": "dc2b9ba7d6e66b575630dc38c434f6d2ac216971061cba774ac937792382b946"
+    },
+    {
+      "key": "rm-guadalajara",
+      "url": "https://robomatrix.org/guadalajara/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 702102,
+      "sha256": "6fac921cfaa5559b9dea1f269a6cf34c1a96beeb76dac14f6a6dcb830f7acca0"
+    },
+    {
+      "key": "rm-regional-puebla",
+      "url": "https://robomatrix.org/regional-puebla/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701408,
+      "sha256": "2c75d116ffd428bb30beb2b9d08164ffb89dfa26cd4dc647e76e7f44201577c0"
+    },
+    {
+      "key": "rm-oaxaca",
+      "url": "https://robomatrix.org/oaxaca/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701466,
+      "sha256": "30228fac4e613c1aba800d53d9e554ac5ccb0e3e6f89de3fe6b7ce2855fd950d"
+    },
+    {
+      "key": "rm-sudamerica-argentina",
+      "url": "https://robomatrix.org/sudamerica-argentina/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701707,
+      "sha256": "91abff51ff427ddfd7c90035554622196e59707e8a377d9625892558744d32a0"
+    },
+    {
+      "key": "rm-cochabamba",
+      "url": "https://robomatrix.org/cochabamba/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701966,
+      "sha256": "506139ebbeae6c29fd704c6bb17866a396b91045bcc1ef9cde113c130e97c082"
+    },
+    {
+      "key": "rm-santa-cruz",
+      "url": "https://robomatrix.org/santa-cruz/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 702426,
+      "sha256": "b9636f9fa7cd34d47eb350c1f4ef567f04487def87ea26ef4a5d13b68e041517"
+    },
+    {
+      "key": "rm-sudamerica-chile",
+      "url": "https://robomatrix.org/sudamerica-chile/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 702121,
+      "sha256": "611e8780a6d08a943f61bd6df8abef17bbc37d85d440116ba3309f7e1a272136"
+    },
+    {
+      "key": "rm-sudamerica-ecuador",
+      "url": "https://robomatrix.org/sudamerica-ecuador/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 702555,
+      "sha256": "0d3da4ac15fadddedc490a8e1f6c92a4e7eb92c057ca01bc3eb015d362785074"
+    },
+    {
+      "key": "rm-guayaquil",
+      "url": "https://robomatrix.org/guayaquil/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701970,
+      "sha256": "3ec9a8ef6a10b636cff72a9140a0e8f4e7b3dbc3f582c6386b7b10be71fcfb0b"
+    },
+    {
+      "key": "rm-santo-domingo",
+      "url": "https://robomatrix.org/santo-domingo/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 701951,
+      "sha256": "994a29a2ad6bb0cd4726f6d833f0029c263474c446d697842b25257fcdc89b47"
+    },
+    {
+      "key": "im-general-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1NT_3bj5OpGQwT-IQO71pb-oOr2ux3cA8",
+      "status": 200,
+      "mime": "image/jpeg",
+      "bytes": 2273108,
+      "sha256": "4dac3ec4b9157dbd76d910e7797d615ab38ae7d510ea7c06016cd65ef8339659"
+    },
+    {
+      "key": "rm-general-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1RWQz6kn2pUk3AM1c4AmWwydpBdHc9KKS",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 2378616,
+      "sha256": "bd6d40082ebe5e7ce6e67ee7011e72e832e78d16d7d4cf8c45c32bd5b3d9ef5f"
+    },
+    {
+      "key": "wer-primary-pdf",
+      "url": "https://www.wermexico.com/_files/ugd/aa4c42_ac3bc924c15d4833916cda0a469eaa1f.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 516937,
+      "sha256": "f8692338230e938ccb9c5e14a6af5f432fca4ea0348f1e2c28e2715137c5bc7c"
+    },
+    {
+      "key": "wer-secondary-pdf",
+      "url": "https://www.wermexico.com/_files/ugd/aa4c42_2e28ca6abb2c4f888f89fbaff0bd43b8.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 173230,
+      "sha256": "0b5204a5f265f5139d8bc43697a8720c4157549bb8a10579d64523e0936dcc43"
+    },
+    {
+      "key": "tecpro-presential-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=155FHPkwTjHMRqx2FVbaGtKlrFt3H2VA9",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 2411042,
+      "sha256": "219634f16ea6dde2de20eb205fc410e522e57cc2f0b9ff1fd0a2090bded46ec5"
+    },
+    {
+      "key": "tecpro-virtual-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1UQ-IF-hHl0svWxMTaNlo9qI2H_29MxNi",
+      "status": 200,
+      "mime": "application/octet-stream",
+      "bytes": 3660804,
+      "sha256": "2dd9f7f4f6c815e034a5161a0cec16e658b5a5b7d35ec6f047b34338f3240d82"
+    },
+    {
+      "key": "wer-current-secondary-pdf",
+      "url": "https://www.wermexico.com/_files/ugd/aa4c42_c63f55bc987441a3a131ff600bb36a5c.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 324503,
+      "sha256": "d12a4a33358739e3e9774a0489d79c82802850096ab03133f0922dce6a69f42b"
+    },
+    {
+      "key": "wer-current-senior-pdf",
+      "url": "https://www.wermexico.com/_files/ugd/aa4c42_0468a5fddb0647caa479f5544552eb07.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 292518,
+      "sha256": "3bfe5185191548745dd001bad130c4d2657e8b289728cad498f3401cc098236b"
+    }
+  ]
+}
