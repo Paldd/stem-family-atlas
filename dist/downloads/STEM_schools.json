@@ -154,13 +154,13 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 68,
-      "countries": 24,
+      "records": 70,
+      "countries": 26,
       "public": 13,
-      "private": 55,
-      "boarding": 10,
+      "private": 57,
+      "boarding": 11,
       "world_result": 14,
-      "organizer_protocol": 13,
+      "organizer_protocol": 14,
       "fully_audited_countries": 0
     },
     "coverage": [
@@ -441,15 +441,15 @@
         "iso": "SWZ",
         "country": "Эсватини",
         "region": "Африка",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "LSO",
         "country": "Лесото",
         "region": "Африка",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "NAM",
@@ -7556,6 +7556,169 @@
       "priority": 2,
       "research_status": "partial",
       "verification": "Подтвердить класс, индивидуальный приём, язык именно команды, наставника, роль ребёнка и полную смету. Заявки, согласия, сообщения и оплаты не выполнялись."
+    },
+    {
+      "id": "S069",
+      "name": "Soofia International School",
+      "iso": "LSO",
+      "country": "Лесото",
+      "region": "Африка",
+      "city": "Butha-Buthe",
+      "school_type": "private",
+      "curriculum": "Cambridge Primary, Secondary, AS / A Level; IB не установлен",
+      "ib_programmes": [],
+      "ages": "Primary Grades 1–7; Grade 1: 5 лет к началу года и 2 года preschool. Страница preschool описывает 4–5, а admission отдельно 3 / 4: ступень уточнить.",
+      "instruction_languages": [],
+      "language_note": "English, Literature, French и Sesotho перечислены как предметы. История English Medium School 1950-х не подтверждает современный язык всех уроков робототехники.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      },
+      "boarding": "yes",
+      "boarding_note": "Pauline Hostel — отдельный партнёр: комнаты, питание, персонал заявлены; младший возраст, цена и место не подтверждены. Не переносить на bootcamp.",
+      "programme": "Собственная Robotics Lab: 16 компьютеров и 3D-принтер, клуб и школьный bootcamp 2024. Школа сообщает о региональном Innovation Project 2026; это не мировой чемпионат.",
+      "labs": "Собственная Robotics Lab: 16 компьютеров и 3D-принтер, клуб и школьный bootcamp 2024. Школа сообщает о региональном Innovation Project 2026; это не мировой чемпионат.",
+      "ai": "Отдельный младший AI-трек не подтверждён",
+      "results": [
+        {
+          "league": "FIRST LEGO League",
+          "season": 2026,
+          "stage": "Regional · NULIS · Maseru",
+          "award": "1st · Innovation Project",
+          "team": "Soofia robotics team",
+          "team_id": null,
+          "source": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+          "provenance": "school_report",
+          "limit": "Школа Soofia 5 ноября 2026 сообщила о первом месте Innovation Project на региональном FLL в NULIS, Maseru, и отборе в финал ЮАР. Точный день соревнования в публикации не дан. Партнёр FIRST SA описывает Explore как 6–9 на overview и 6–10 на подробной странице; там 2–6 детей и 2 взрослых тренера, но материалы ещё UNEARTHED. Местные правила нового сезона и внешняя квота не подтверждены."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Есть оценка / интервью и требуемые документы. Grade 8 внешним по результатам и местам, внутренним приоритет; взнос невозвратный, сумма не дана. Иностранный приём и места детей отдельно.",
+      "cost": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Soofia International School",
+          "url": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "Школа Soofia 5 ноября 2026 сообщила о первом месте Innovation Project на региональном FLL в NULIS, Maseru, и отборе в финал ЮАР. Точный день соревнования в публикации не дан. Партнёр FIRST SA описывает Explore как 6–9 на overview и 6–10 на подробной странице; там 2–6 детей и 2 взрослых тренера, но материалы ещё UNEARTHED. Местные правила нового сезона и внешняя квота не подтверждены."
+        },
+        {
+          "title": "Soofia · primary",
+          "url": "https://www.soofiainternational.org/cambridge-primary/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "Primary Grades 1–7; Grade 1: 5 лет к началу года и 2 года preschool. Страница preschool описывает 4–5, а admission отдельно 3 / 4: ступень уточнить."
+        },
+        {
+          "title": "Soofia · admission",
+          "url": "https://www.soofiainternational.org/admission-requirements/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "Есть оценка / интервью и требуемые документы. Grade 8 внешним по результатам и местам, внутренним приоритет; взнос невозвратный, сумма не дана. Иностранный приём и места детей отдельно."
+        },
+        {
+          "title": "Soofia · robotics lab",
+          "url": "https://www.soofiainternational.org/robotics-lab/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "Собственная Robotics Lab: 16 компьютеров и 3D-принтер, клуб и школьный bootcamp 2024. Школа сообщает о региональном Innovation Project 2026; это не мировой чемпионат."
+        },
+        {
+          "title": "Soofia · hostel",
+          "url": "https://www.soofiainternational.org/pauline-hostel/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "Pauline Hostel — отдельный партнёр: комнаты, питание, персонал заявлены; младший возраст, цена и место не подтверждены. Не переносить на bootcamp."
+        },
+        {
+          "title": "Soofia · languages",
+          "url": "https://www.soofiainternational.org/languages-department/",
+          "checked": "2026-11-06",
+          "kind": "school",
+          "claim": "English, Literature, French и Sesotho перечислены как предметы. История English Medium School 1950-х не подтверждает современный язык всех уроков робототехники."
+        }
+      ],
+      "checked": "2026-11-06",
+      "priority": "research",
+      "research_status": "partial",
+      "verification": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+    },
+    {
+      "id": "S070",
+      "name": "Thembelisha Preparatory School",
+      "iso": "SWZ",
+      "country": "Эсватини",
+      "region": "Африка",
+      "city": "Simunye",
+      "school_type": "private",
+      "curriculum": "Частная начальная школа; IB не установлен",
+      "ib_programmes": [],
+      "ages": "Primary Grades 1–7; Robotics только Grades 4–7. Класс детей и младший технический доступ отдельно.",
+      "instruction_languages": [
+        "EN"
+      ],
+      "language_note": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+      "programme": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения.",
+      "labs": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения.",
+      "ai": "Отдельный младший AI-трек не подтверждён",
+      "results": [
+        {
+          "league": "WRO",
+          "season": 2024,
+          "stage": "South Africa National Final · International Guest Teams · Elementary",
+          "award": "Rank 1 · guest section",
+          "team": "Thembelisha King Coders",
+          "team_id": null,
+          "source": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+          "provenance": "organizer_protocol",
+          "limit": "45 баллов, 90 секунд; первое место только в гостевой подгруппе, не национальный титул ЮАР и не мировой финал."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Школа прежде всего для семей работников RES. Упомянутые 21% детей других семей на недатированной странице — не текущая квота для иностранцев.",
+      "cost": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Thembelisha Preparatory School",
+          "url": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+          "checked": "2026-11-06",
+          "kind": "organizer",
+          "claim": "45 баллов, 90 секунд; первое место только в гостевой подгруппе, не национальный титул ЮАР и не мировой финал."
+        },
+        {
+          "title": "RES · English medium",
+          "url": "https://www.res.co.sz/csi/education.php",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения."
+        },
+        {
+          "title": "RES · robotics Grades 4–7",
+          "url": "https://www.res.co.sz/admin/documents/1762111404.pdf",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения."
+        }
+      ],
+      "checked": "2026-11-06",
+      "priority": "research",
+      "research_status": "partial",
+      "verification": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
     }
   ]
 }

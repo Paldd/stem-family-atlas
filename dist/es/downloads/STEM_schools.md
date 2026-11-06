@@ -1890,6 +1890,59 @@ Fuentes (comprobación 2026-11-05):
 Lo que queda por comprobar es:
 - Confirmar curso, admisión individual, idioma del equipo, mentor, función del niño y presupuesto completo. Sin solicitudes, consentimientos, mensajes ni pagos.
 
+## S069 · Soofia International School
+
+Lesoto · Butha-Buthe
+Tipo: private
+Cambridge Primary, Secondary, AS / A Level; IB sin establecer
+edad: Primary Grades 1–7; Grade 1: 5 años al inicio y 2 años de preschool. Página preschool describe 4–5, admission indica 3 / 4 por separado: confirmar etapa.
+Matvey: candidate; Oscar: candidate. Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Idioma: English, Literature, French y Sesotho figuran como asignaturas. Historia de English Medium School de los años 1950 no confirma idioma actual de todas las clases de robótica.
+Internado: Pauline Hostel es socio separado: anuncia habitaciones, comidas y personal; edad menor, precio y plaza sin confirmar. No trasladar al bootcamp.
+Robótica: Robotics Lab propia: 16 ordenadores e impresora 3D, club y bootcamp escolar 2024. Colegio informa de Innovation Project regional 2026; no es campeonato mundial.
+Laboratorios: Robotics Lab propia: 16 ordenadores e impresora 3D, club y bootcamp escolar 2024. Colegio informa de Innovation Project regional 2026; no es campeonato mundial.
+IA: Track AI infantil separado sin confirmar
+Admisión: Hay evaluación / entrevista y documentación requerida. Grade 8 externo según resultados y plazas, internos prioritarios; cuota no reembolsable sin importe. Admisión extranjera y plazas infantiles por separado.
+Precio: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+
+- el resultado: 2026 · FIRST LEGO League · Regional · NULIS · Maseru · 1st · Innovation Project · Soofia robotics team. Colegio Soofia informó el 5 de noviembre de 2026 de primer puesto Innovation Project en FLL regional de NULIS, Maseru, y selección a final de Sudáfrica. Publicación no indica día exacto del torneo. Socio FIRST SA describe Explore como 6–9 en overview y 6–10 en detalle; allí 2–6 niños y 2 entrenadores adultos, pero materiales aún UNEARTHED. Reglas locales nuevas y cupo externo sin confirmar. Fuente: https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/
+
+Fuentes (revisión 2026-11-06):
+- Soofia International School: https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/ — Colegio Soofia informó el 5 de noviembre de 2026 de primer puesto Innovation Project en FLL regional de NULIS, Maseru, y selección a final de Sudáfrica. Publicación no indica día exacto del torneo. Socio FIRST SA describe Explore como 6–9 en overview y 6–10 en detalle; allí 2–6 niños y 2 entrenadores adultos, pero materiales aún UNEARTHED. Reglas locales nuevas y cupo externo sin confirmar.
+- Soofia · primary: https://www.soofiainternational.org/cambridge-primary/ — Primary Grades 1–7; Grade 1: 5 años al inicio y 2 años de preschool. Página preschool describe 4–5, admission indica 3 / 4 por separado: confirmar etapa.
+- Soofia · admission: https://www.soofiainternational.org/admission-requirements/ — Hay evaluación / entrevista y documentación requerida. Grade 8 externo según resultados y plazas, internos prioritarios; cuota no reembolsable sin importe. Admisión extranjera y plazas infantiles por separado.
+- Soofia · robotics lab: https://www.soofiainternational.org/robotics-lab/ — Robotics Lab propia: 16 ordenadores e impresora 3D, club y bootcamp escolar 2024. Colegio informa de Innovation Project regional 2026; no es campeonato mundial.
+- Soofia · hostel: https://www.soofiainternational.org/pauline-hostel/ — Pauline Hostel es socio separado: anuncia habitaciones, comidas y personal; edad menor, precio y plaza sin confirmar. No trasladar al bootcamp.
+- Soofia · languages: https://www.soofiainternational.org/languages-department/ — English, Literature, French y Sesotho figuran como asignaturas. Historia de English Medium School de los años 1950 no confirma idioma actual de todas las clases de robótica.
+
+Lo que queda por comprobar es:
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+## S070 · Thembelisha Preparatory School
+
+Esuatini · Simunye
+Tipo: private
+Primaria privada; IB sin establecer
+edad: Primary Grades 1–7; Robotics solo Grades 4–7. Curso de niños y acceso técnico menor por separado.
+Matvey: candidate; Oscar: candidate. Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Idioma: Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+Internado: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+Robótica: Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+Laboratorios: Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+IA: Track AI infantil separado sin confirmar
+Admisión: Colegio principalmente para familias de empleados RES. El 21% de otras familias citado en página sin fecha no es cupo actual para extranjeros.
+Precio: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+
+- el resultado: 2024 · WRO · South Africa National Final · International Guest Teams · Elementary · Rank 1 · guest section · Thembelisha King Coders. 45 puntos, 90 segundos; primer puesto solo en subgrupo invitado, no título nacional de Sudáfrica ni final mundial. Fuente: https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf
+
+Fuentes (revisión 2026-11-06):
+- Thembelisha Preparatory School: https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf — 45 puntos, 90 segundos; primer puesto solo en subgrupo invitado, no título nacional de Sudáfrica ni final mundial.
+- RES · English medium: https://www.res.co.sz/csi/education.php — Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+- RES · robotics Grades 4–7: https://www.res.co.sz/admin/documents/1762111404.pdf — Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+
+Lo que queda por comprobar es:
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
 ## Lagunas de cobertura
 
 - 32 expedientes escolares; no se ha completado la auditoría completa mundial y nacional de las escuelas.

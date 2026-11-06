@@ -8198,6 +8198,134 @@ Limitaciones: Confirmar grupo concreto, edad en fecha pertinente / curso, admisi
 Fuente: https://www.codeforukraine.org/apply
 Se ha comprobado: 2026-11-06
 
+### L589 · Altruistech Luminary · Primary STEAM
+
+lugar: Sierra Leona · Freetown
+Fecha: No se ha fijado el período/plan de trabajo
+Edad: 5–9
+Matvey: Ahora 9 años; intervalo publicado 5–9. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 5–9. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Operador describe programa STEM inicial de 5–9 años. Dirección lectiva, sin turno vacacional confirmado ni inscripción internacional abierta. Matvey está en límite superior: en 2027 tendrá 9–10 años, por lo que exige edad del grupo concreto.
+Fuente: https://www.altruistechluminarycenter.org/
+Se ha comprobado: 2026-11-06
+
+### L590 · Altruistech · Weekend Robotics / Chess / Arts
+
+lugar: Sierra Leona · 9B Ogoo Lane 2 · Brookfields · Freetown
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 4–17
+Matvey: Edad 4–17 incluye edad del menor, pero formulario exige base en Freetown; familia vive en Costa Rica. Admisión visitante y convocatoria nueva sin probar.
+Oscar: Edad 4–17 incluye edad del menor, pero formulario exige base en Freetown; familia vive en Costa Rica. Admisión visitante y convocatoria nueva sin probar.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Archivo 2026: SLE 800 por programa al mes; conjunto SLE 2000, alumnos continuadores SLE 400 al mes. Estas condiciones no son precios de convocatoria nueva.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Formulario describe programa de sábados de 3 meses para 4–17 años: IoT, robots de cartón, ajedrez y creatividad. Exige que menor tenga base en Freetown. Pregunta de horario indica a la vez 1 mes y 17 de enero — 4 de marzo de 2026; día final no es sábado. Archivo contradictorio, sin turno 2027. Operador anuncia certificado y kit IoT al terminar; acreditación externa sin confirmar.
+Fuente: https://docs.google.com/forms/d/e/1FAIpQLSfzzmrayHg8ppdANvQIddzM7WP-Xw6N9mC-8l6QfSINPmYNBQ/viewform?usp=header
+Se ha comprobado: 2026-11-06
+
+### L591 · Altruistech · Summer Camps · programme watch
+
+lugar: Sierra Leona · Sede del campamento siguiente sin anunciar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Edad del campamento concreto sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: USD 5000–10000 en web es presupuesto anual de donaciones a iniciativa, no precio por niño. Coste del campamento desconocido.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Operador enumera Summer Camps entre iniciativas. Días vacacionales 2026–27, edad infantil específica, programa, admisión extranjera e idioma sin detallar. Donación a iniciativa no es inscripción de menor.
+Fuente: https://www.altruistechluminary.org/get-involved/
+Se ha comprobado: 2026-11-06
+
+### L592 · SLGS / AWMS · STEM Holiday Club
+
+lugar: Sierra Leona · Sierra Leone Grammar School · Murray Town · Freetown
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Todos los colegios; edad infantil exacta sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: SLE 1500 es cuota de inscripción 2026. Cartel añade SLE 30 de cash-out al pagar por móvil. Comidas, equipos, seguro, devolución y factura completa sin establecer; importe 2027 sin publicar.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Archivo confirmado del 27 de julio — 21 de agosto de 2026, cuatro semanas en Sierra Leone Grammar School, Murray Town. Ofrece Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, emprendimiento y ajedrez. Colegio invita alumnos de todos los colegios; no confirma admisión extranjera. Banner «applications open» corresponde a 2026. Formulario muestra error de carga. Turnos nuevos 2027 e idioma docente sin establecer.
+Fuente: https://awms.edu.sl/stem-summer-school-club/
+Se ha comprobado: 2026-11-06
+
+### L593 · Girls Coding Academy · LEGO / Coding / 3D
+
+lugar: Lesoto · Maseru
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Edad infantil y curso sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Cada ficha de curso muestra LSL 450 / mes. Confirmar año de tarifa, unidad por alumno, kit, horas y factura completa.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Nombre Girls Coding Academy no restringe participación a niñas: operador admite explícitamente ambos géneros. Hay LEGO Robotics, código, impresión 3D y FTC Robotics separado. Edad infantil mínima, horas, idioma y admisión externa sin publicar. Curso FTC no elimina edad / curso de liga competitiva. Convocatoria vacacional 2027 sin confirmar.
+Fuente: https://girlscodingacademy.co.ls/
+Se ha comprobado: 2026-11-06
+
+### L594 · STEAMLes · regular robotics / outreach
+
+lugar: Lesoto · Maseru Preparatory Campus · next to Machabeng College · Maseru
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Niños y jóvenes; límites exactos sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Objetivos de donación a proyectos no son cuota de curso ni entrada de exposición. Tarifa de alumno desconocida.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Organización imparte robótica y actividades en colegios, describe equipos FLL / FRC y proyectos. Páginas de donaciones enumeran Robothon y Expo 2024; no son calendario exacto de campamentos infantiles nuevos. Convocatoria, edad del grupo menor, precio e idioma desconocidos.
+Fuente: https://steamles.org/
+Se ha comprobado: 2026-11-06
+
+### L595 · Soofia · school robotics bootcamp · archive
+
+lugar: Lesoto · Soofia International School · Butha-Buthe
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grupo escolar; edad sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Colegio describió bootcamp invernal de dos semanas en publicación del 7 de agosto de 2024. Día de publicación no se toma como inicio del turno. Días siguientes, edad mínima, admisión externa, idioma y tarifa sin anunciar. Pauline Hostel asociado al colegio no prueba residencia de este bootcamp ni admisión a los 6 / 9 años.
+Fuente: https://www.soofiainternational.org/robotics-boot-camp/
+Se ha comprobado: 2026-11-06
+
+### L596 · Thembelisha · in-school Robotics · Grades 4–7
+
+lugar: Esuatini · Simunye
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Grades 4–7
+Matvey: Matvey tiene 9 años; exige matrícula real en Grade 4–7, su curso actual no comunicado. Edad sola no acredita acceso a robótica.
+Oscar: Para Oscar de 6 años no se confirma curso Grade 4–7. Existencia de primaria menor no acredita acceso a esta asignatura.
+Formato: individual
+Idioma: Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+Marca de idioma: primary; soporte: no declarado
+Precio: Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+Acceso: Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+Limitaciones: Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+Fuente: https://www.res.co.sz/csi/education.php
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier

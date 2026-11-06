@@ -153,13 +153,13 @@
     "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
   ],
   "counts": {
-    "records": 68,
-    "countries": 24,
+    "records": 70,
+    "countries": 26,
     "public": 13,
-    "private": 55,
-    "boarding": 10,
+    "private": 57,
+    "boarding": 11,
     "world_result": 14,
-    "organizer_protocol": 13,
+    "organizer_protocol": 14,
     "fully_audited_countries": 0
   },
   "coverage": [
@@ -440,15 +440,15 @@
       "iso": "SWZ",
       "country": "Эсватини",
       "region": "Африка",
-      "records": 0,
-      "status": "unresearched"
+      "records": 1,
+      "status": "partial"
     },
     {
       "iso": "LSO",
       "country": "Лесото",
       "region": "Африка",
-      "records": 0,
-      "status": "unresearched"
+      "records": 1,
+      "status": "partial"
     },
     {
       "iso": "NAM",

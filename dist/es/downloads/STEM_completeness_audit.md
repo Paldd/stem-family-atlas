@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5834; competiciones: 1942; eventos: 264; campamentos / programas: 3628. Perfiles de ligas y programas: 230. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5848; competiciones: 1948; eventos: 264; campamentos / programas: 3636. Perfiles de ligas y programas: 235. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Registros concretos para 135 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
+Hay registros concretos de 139 de 249 países y territorios; países auditados completamente: 0. Revisión archivada v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -17,13 +17,13 @@ Registros concretos para 135 de 249 países y territorios; países auditados por
 | América del Norte | 22 | 619 | 22 | 997 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 42 | 383 | 54 | 1251 |
-| África | 20 | 81 | 15 | 58 |
+| África | 24 | 87 | 15 | 66 |
 | Asia | 37 | 528 | 71 | 1087 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin asignar a un solo continente: 81. América del Norte incluye Centroamérica y Caribe. Cifras indican inventario de base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1942 fichas de competiciones (26.7%). Es un desequilibrio claro de cobertura.
+VEX: 518 de 1948 fichas de competiciones (26.6%). Es un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -255,6 +255,11 @@ VEX: 518 de 1942 fichas de competiciones (26.7%). Es un desequilibrio claro de c
 - **WRO Ukraine**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotica.in.ua/site/wro.php
 - **Infomatrix World Finals · Romania**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://infomatrix.ro/
 - **Infomatrix Ukraine**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://infomatrix-ukraine.com/
+- **WRO · São Tomé & Príncipe**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.escolaportuguesastp.com/c%C3%B3pia-proj-fgc
+- **FIRST LEGO League · Lesotho**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/
+- **FIRST LEGO League · Sierra Leone**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://docs.google.com/forms/d/e/1FAIpQLSc1YOlpivTDVNi7sCj6L0RBb5dTNfUWkcyukl56KyRvANFhog/viewform?usp=header
+- **Robotics for Good · Lesotho / STEAMLes**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
+- **FTC · eSwatini Qualifier / South Africa region**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf

@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1468,
-    "countries": 84,
+    "dossiers": 1476,
+    "countries": 87,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 129,
-      "next_unannounced": 316,
+      "next_unannounced": 321,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 130,
+      "archive_next_unannounced": 133,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2132
+    "source_urls": 2147
   },
   "countries": [
     {
@@ -200,6 +200,10 @@
       "count": 8
     },
     {
+      "country": "Лесото",
+      "count": 3
+    },
+    {
       "country": "Лихтенштейн",
       "count": 2
     },
@@ -292,6 +296,10 @@
       "count": 154
     },
     {
+      "country": "Сьерра-Леоне",
+      "count": 4
+    },
+    {
       "country": "Таджикистан",
       "count": 4
     },
@@ -361,6 +369,10 @@
     },
     {
       "country": "Эквадор",
+      "count": 1
+    },
+    {
+      "country": "Эсватини",
       "count": 1
     },
     {
@@ -231569,6 +231581,595 @@
       },
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1469",
+      "slug": "luminary-sierra-leone-primary",
+      "provider": "Altruistech Luminary · Primary STEAM",
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "place": "Freetown",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–9",
+      "programme": "Оператор описывает начальную STEM-программу 5–9 лет. Это учебное направление, не подтверждённая каникулярная смена или открытая международная запись. Матвей находится у верхней границы: в 2027 ему будет 9–10 лет, поэтому возраст конкретной группы обязателен.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярный курс; точные даты нового набора и каникулярная смена не опубликованы. Дневное обучение без подтверждённого пансиона.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "SLE",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Сейчас 9 лет; опубликованный диапазон 5–9. Возраст новой смены, уровень и язык подтвердить."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Сейчас 6 лет; опубликованный диапазон 5–9. Возраст новой смены, уровень и язык подтвердить."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Luminary Center · Primary Education",
+          "url": "https://www.altruistechluminarycenter.org/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Altruistech · current programmes",
+          "url": "https://www.altruistechluminary.org/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1470",
+      "slug": "luminary-sierra-leone-weekend",
+      "provider": "Altruistech · Weekend Robotics / Chess / Arts",
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "place": "9B Ogoo Lane 2 · Brookfields · Freetown",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–17",
+      "programme": "Форма описывает субботнюю программу на 3 месяца для 4–17 лет: IoT, картонные роботы, шахматы и творчество. Обязательна база ребёнка во Фритауне. Вопрос расписания одновременно говорит 1 месяц и 17 января — 4 марта 2026; конечный день не суббота. Это противоречивый архив, не смена 2027. Сертификат и IoT-комплект после окончания заявлены оператором; внешняя аккредитация не подтверждена.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Форма описывает субботнюю программу на 3 месяца для 4–17 лет: IoT, картонные роботы, шахматы и творчество. Обязательна база ребёнка во Фритауне. Вопрос расписания одновременно говорит 1 месяц и 17 января — 4 марта 2026; конечный день не суббота. Это противоречивый архив, не смена 2027. Сертификат и IoT-комплект после окончания заявлены оператором; внешняя аккредитация не подтверждена.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "note": "Форма описывает субботнюю программу на 3 месяца для 4–17 лет: IoT, картонные роботы, шахматы и творчество. Обязательна база ребёнка во Фритауне. Вопрос расписания одновременно говорит 1 месяц и 17 января — 4 марта 2026; конечный день не суббота. Это противоречивый архив, не смена 2027. Сертификат и IoT-комплект после окончания заявлены оператором; внешняя аккредитация не подтверждена."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SLE",
+        "amount": 800,
+        "unit": "course_per_month",
+        "label": "Архив 2026: SLE 800 за программу в месяц; комплекс SLE 2000, продолжающим ученикам SLE 400 в месяц. Эти условия не стали ценами нового набора.",
+        "included": "По форме: учебный сертификат и выпускной IoT-комплект; состав полного пакета уточнить.",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Возраст 4–17 допускает возраст ребёнка, но форма требует базу во Фритауне; семья живёт в Коста-Рике. Гостевой приём и новый набор не доказаны."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Возраст 4–17 допускает возраст ребёнка, но форма требует базу во Фритауне; семья живёт в Коста-Рике. Гостевой приём и новый набор не доказаны."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Altruistech · published public course form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzzmrayHg8ppdANvQIddzM7WP-Xw6N9mC-8l6QfSINPmYNBQ/viewform?usp=header",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Altruistech · home",
+          "url": "https://www.altruistechluminary.org/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1471",
+      "slug": "altruistech-sierra-leone-summer",
+      "provider": "Altruistech · Summer Camps · programme watch",
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "place": "Место следующего лагеря не объявлено",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Возраст конкретного лагеря не опубликован",
+      "programme": "Оператор перечисляет Summer Camps среди инициатив. Каникулярные дни 2026–27, отдельный детский возраст, программа, иностранный приём и язык не раскрыты. Пожертвование на инициативу не является регистрацией ребёнка.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярный курс; точные даты нового набора и каникулярная смена не опубликованы. Дневное обучение без подтверждённого пансиона.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "SLE",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "USD 5000–10000 на сайте — годовой бюджет пожертвований инициативе, не цена за ребёнка. Стоимость лагеря неизвестна.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Altruistech · summer camp initiative",
+          "url": "https://www.altruistechluminary.org/get-involved/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1472",
+      "slug": "slgs-awms-sierra-leone-holiday",
+      "provider": "SLGS / AWMS · STEM Holiday Club",
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "place": "Sierra Leone Grammar School · Murray Town · Freetown",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "creative",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Все школы; точный детский возраст не опубликован",
+      "programme": "Подтверждён архив 27 июля — 21 августа 2026, четыре недели на площадке Sierra Leone Grammar School, Murray Town. Есть Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, предпринимательство и шахматы. Школа приглашает учащихся всех школ; это не подтверждённый иностранный приём. Баннер «applications open» относится к 2026. Форма показывает ошибку загрузки. Новые смены 2027 и язык преподавателя не установлены.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Подтверждён архив 27 июля — 21 августа 2026, четыре недели на площадке Sierra Leone Grammar School, Murray Town. Есть Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, предпринимательство и шахматы. Школа приглашает учащихся всех школ; это не подтверждённый иностранный приём. Баннер «applications open» относится к 2026. Форма показывает ошибку загрузки. Новые смены 2027 и язык преподавателя не установлены.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-27",
+                "2026-08-21"
+              ]
+            ],
+            "note": "Подтверждён архив 27 июля — 21 августа 2026, четыре недели на площадке Sierra Leone Grammar School, Murray Town. Есть Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, предпринимательство и шахматы. Школа приглашает учащихся всех школ; это не подтверждённый иностранный приём. Баннер «applications open» относится к 2026. Форма показывает ошибку загрузки. Новые смены 2027 и язык преподавателя не установлены."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "SLE",
+        "amount": 1500,
+        "unit": "registration",
+        "label": "SLE 1500 — регистрационный взнос 2026. На плакате ещё SLE 30 cash-out при мобильной оплате. Питание, техника, страховка, возврат и полный счёт не установлены; сумма 2027 не опубликована.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "AWMS · official 2026 programme",
+          "url": "https://awms.edu.sl/stem-summer-school-club/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "AWMS · official 2026 poster",
+          "url": "https://awms.edu.sl/wp-content/uploads/2026/07/SLGS-Club.jpeg",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1473",
+      "slug": "girls-coding-lesotho-courses",
+      "provider": "Girls Coding Academy · LEGO / Coding / 3D",
+      "iso": "LSO",
+      "country": "Лесото",
+      "place": "Maseru",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Детский возраст и класс не опубликованы",
+      "programme": "Название Girls Coding Academy не ограничивает участие девочками: оператор прямо принимает оба пола. Есть LEGO Robotics, код, 3D-печать и отдельный FTC Robotics. Минимальный детский возраст, часы, язык и внешний приём не опубликованы. Курс FTC не отменяет возраст / класс конкурсной лиги. Набор каникулярного лагеря 2027 не подтверждён.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярный курс; точные даты нового набора и каникулярная смена не опубликованы. Дневное обучение без подтверждённого пансиона.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "LSL",
+        "amount": 450,
+        "unit": "course_month_unit_unconfirmed",
+        "label": "Каждая карточка курса показывает LSL 450 / месяц. Год тарифа, единицу за ученика, комплект, число часов и полный счёт нужно подтвердить.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Girls Coding Academy · all genders",
+          "url": "https://girlscodingacademy.co.ls/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Girls Coding Academy · course prices",
+          "url": "https://girlscodingacademy.co.ls/Courses.php",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1474",
+      "slug": "steamles-lesotho-robotics",
+      "provider": "STEAMLes · regular robotics / outreach",
+      "iso": "LSO",
+      "country": "Лесото",
+      "place": "Maseru Preparatory Campus · next to Machabeng College · Maseru",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Дети и молодёжь; точные границы не опубликованы",
+      "programme": "Организация ведёт обучение роботам и школьные выездные занятия, описывает FLL / FRC-команды и проекты. Страницы пожертвований перечисляют Robothon и Expo 2024; это не точное расписание новых детских лагерей. Набор, возраст младшей группы, цена и язык неизвестны.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярный курс; точные даты нового набора и каникулярная смена не опубликованы. Дневное обучение без подтверждённого пансиона.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "LSL",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Цели пожертвований на проекты не являются оплатой курса или билетом выставки. Ученический тариф неизвестен.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "STEAMLes · children and outreach",
+          "url": "https://steamles.org/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEAMLes · projects and donation goals",
+          "url": "https://steamles.org/projects/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEAMLes · campus",
+          "url": "https://steamles.org/board/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1475",
+      "slug": "soofia-lesotho-winter-bootcamp",
+      "provider": "Soofia · school robotics bootcamp · archive",
+      "iso": "LSO",
+      "country": "Лесото",
+      "place": "Soofia International School · Butha-Buthe",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Школьная группа; возраст не опубликован",
+      "programme": "Школа описала двухнедельный зимний bootcamp в публикации 7 августа 2024. День публикации не принят за начало смены. Следующие дни, минимальный возраст, внешний приём, язык и тариф не объявлены. Партнёрский Pauline Hostel школы не доказывает пансион именно этого bootcamp или допуск детей 6 / 9 лет.",
+      "language": "Английская страница не подтверждает EN / ES / RU преподавания. Язык выбранной группы неизвестен.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Школа описала двухнедельный зимний bootcamp в публикации 7 августа 2024. День публикации не принят за начало смены. Следующие дни, минимальный возраст, внешний приём, язык и тариф не объявлены. Партнёрский Pauline Hostel школы не доказывает пансион именно этого bootcamp или допуск детей 6 / 9 лет.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2024,
+            "note": "Школа описала двухнедельный зимний bootcamp в публикации 7 августа 2024. День публикации не принят за начало смены. Следующие дни, минимальный возраст, внешний приём, язык и тариф не объявлены. Партнёрский Pauline Hostel школы не доказывает пансион именно этого bootcamp или допуск детей 6 / 9 лет."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "LSL",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить индивидуальный приём иностранного ребёнка, возраст / класс, язык преподавания, место и окончательный счёт. Заявки, сообщения, согласия и оплаты не выполнялись."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+      ],
+      "sources": [
+        {
+          "title": "Soofia · archived robotics bootcamp",
+          "url": "https://www.soofiainternational.org/robotics-boot-camp/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Soofia · partner hostel",
+          "url": "https://www.soofiainternational.org/pauline-hostel/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1476",
+      "slug": "thembelisha-eswatini-school-robotics",
+      "provider": "Thembelisha · in-school Robotics · Grades 4–7",
+      "iso": "SWZ",
+      "country": "Эсватини",
+      "place": "Simunye",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 4–7",
+      "programme": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения.",
+      "language": "В отчёте владельца за 2024/25 робототехника включена в Grades 4–7, создана Digital Literacy / Robotics Classroom. Это школьный предмет для зачисленных учеников, не открытый каникулярный лагерь. Владелец прямо называет школу English-medium; отдельные язык тренера и соревновательная группа требуют уточнения.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Регулярный курс; точные даты нового набора и каникулярная смена не опубликованы. Дневное обучение без подтверждённого пансиона.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "SZL",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новые даты, наличие мест, точный возраст и полный счёт не опубликованы.",
+        "included": "",
+        "extras": "Жильё семьи, дорога, питание вне включений и страховка отдельно. Неизвестная цена не равна нулю.",
+        "deposit": "Новые даты, наличие мест и окончательный счёт не подтверждены."
+      },
+      "accommodation": "Дневная программа без пансиона.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Матвею 9 лет; требуется реальное зачисление в Grade 4–7, его текущий класс не сообщён. Один возраст не доказывает доступ к робототехнике."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Для Оскара 6 лет не подтверждён класс Grade 4–7. Наличие младшей школы не доказывает допуск к этому предмету."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+        "Школа прежде всего для семей работников RES. Упомянутые 21% детей других семей на недатированной странице — не текущая квота для иностранцев."
+      ],
+      "sources": [
+        {
+          "title": "RES · English-medium school",
+          "url": "https://www.res.co.sz/csi/education.php",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "RES · robotics curriculum 2024/25",
+          "url": "https://www.res.co.sz/admin/documents/1762111404.pdf",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -234296,6 +234897,30 @@
       "detail": "FLL использует возраст на 1 августа начала сезона; нужны точные дни рождения, внешний приём и язык. Новые camp даты / цены не объявлены, действуют отдельные адресные и очные условия.",
       "next_action": "Подтвердить конкретную группу, возраст на нужную дату / класс, иностранный приём, язык, места и окончательный счёт. Заявки, документы, согласия, сообщения и оплаты не выполнялись.",
       "url": "http://firstlegoleague.org.ua/"
+    },
+    {
+      "iso": "SLE",
+      "country": "Сьерра-Леоне",
+      "provider": "Local programmes and foreign admission",
+      "detail": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "next_action": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "url": "https://www.altruistechluminary.org/"
+    },
+    {
+      "iso": "LSO",
+      "country": "Лесото",
+      "provider": "Local programmes and foreign admission",
+      "detail": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "next_action": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "url": "https://steamles.org/"
+    },
+    {
+      "iso": "SWZ",
+      "country": "Эсватини",
+      "provider": "Local programmes and foreign admission",
+      "detail": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "next_action": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.",
+      "url": "https://www.res.co.sz/csi/education.php"
     }
   ],
   "shortlist": [
@@ -236870,7 +237495,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 185,
+  "version": 186,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

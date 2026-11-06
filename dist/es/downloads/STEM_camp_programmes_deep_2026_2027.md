@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-06. 1468 fichas en 84 países. Fechas de comprobación de cada fuente indicadas en cada ficha.
+Estado de base: 2026-11-06. 1476 fichas en 87 países. Fechas de revisión de fuentes individuales indicadas en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -105370,6 +105370,314 @@ Ucrania · Lviv / UCU + online
 
 - [Official current travel context](https://www.gov.uk/foreign-travel-advice/ukraine) · 2026-11-06
 
+## CP1469 · Altruistech Luminary · Primary STEAM
+
+Sierra Leona · Freetown
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 5–9
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Operador describe programa STEM inicial de 5–9 años. Dirección lectiva, sin turno vacacional confirmado ni inscripción internacional abierta. Matvey está en límite superior: en 2027 tendrá 9–10 años, por lo que exige edad del grupo concreto.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 5–9. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 5–9. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [Luminary Center · Primary Education](https://www.altruistechluminarycenter.org/) · 2026-11-06
+
+- [Altruistech · current programmes](https://www.altruistechluminary.org/) · 2026-11-06
+
+## CP1470 · Altruistech · Weekend Robotics / Chess / Arts
+
+Sierra Leona · 9B Ogoo Lane 2 · Brookfields · Freetown
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 4–17
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Formulario describe programa de sábados de 3 meses para 4–17 años: IoT, robots de cartón, ajedrez y creatividad. Exige que menor tenga base en Freetown. Pregunta de horario indica a la vez 1 mes y 17 de enero — 4 de marzo de 2026; día final no es sábado. Archivo contradictorio, sin turno 2027. Operador anuncia certificado y kit IoT al terminar; acreditación externa sin confirmar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Formulario describe programa de sábados de 3 meses para 4–17 años: IoT, robots de cartón, ajedrez y creatividad. Exige que menor tenga base en Freetown. Pregunta de horario indica a la vez 1 mes y 17 de enero — 4 de marzo de 2026; día final no es sábado. Archivo contradictorio, sin turno 2027. Operador anuncia certificado y kit IoT al terminar; acreditación externa sin confirmar.
+
+**Precio / año:** 2026 · Archivo 2026: SLE 800 por programa al mes; conjunto SLE 2000, alumnos continuadores SLE 400 al mes. Estas condiciones no son precios de convocatoria nueva.
+
+**Incluido:** Según formulario: certificado lectivo y kit IoT al graduarse; confirmar paquete completo.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Edad 4–17 incluye edad del menor, pero formulario exige base en Freetown; familia vive en Costa Rica. Admisión visitante y convocatoria nueva sin probar.
+
+**Oscar:** Edad 4–17 incluye edad del menor, pero formulario exige base en Freetown; familia vive en Costa Rica. Admisión visitante y convocatoria nueva sin probar.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [Altruistech · published public course form](https://docs.google.com/forms/d/e/1FAIpQLSfzzmrayHg8ppdANvQIddzM7WP-Xw6N9mC-8l6QfSINPmYNBQ/viewform?usp=header) · 2026-11-06
+
+- [Altruistech · home](https://www.altruistechluminary.org/) · 2026-11-06
+
+## CP1471 · Altruistech · Summer Camps · programme watch
+
+Sierra Leona · Sede del campamento siguiente sin anunciar
+
+**Se ha comprobado:** 2026-11-06
+
+** Edad: ** No se ha publicado la edad de un campamento concreto**
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Operador enumera Summer Camps entre iniciativas. Días vacacionales 2026–27, edad infantil específica, programa, admisión extranjera e idioma sin detallar. Donación a iniciativa no es inscripción de menor.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+
+**Precio / año:** sin establecer · USD 5000–10000 en web es presupuesto anual de donaciones a iniciativa, no precio por niño. Coste del campamento desconocido.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [Altruistech · summer camp initiative](https://www.altruistechluminary.org/get-involved/) · 2026-11-06
+
+## CP1472 · SLGS / AWMS · STEM Holiday Club
+
+Sierra Leona · Sierra Leone Grammar School · Murray Town · Freetown
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Todos los colegios; edad infantil exacta sin publicar
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Archivo confirmado del 27 de julio — 21 de agosto de 2026, cuatro semanas en Sierra Leone Grammar School, Murray Town. Ofrece Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, emprendimiento y ajedrez. Colegio invita alumnos de todos los colegios; no confirma admisión extranjera. Banner «applications open» corresponde a 2026. Formulario muestra error de carga. Turnos nuevos 2027 e idioma docente sin establecer.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Archivo confirmado del 27 de julio — 21 de agosto de 2026, cuatro semanas en Sierra Leone Grammar School, Murray Town. Ofrece Robotics, Coding & AI, AI Innovation & Hackathon, multimedia, emprendimiento y ajedrez. Colegio invita alumnos de todos los colegios; no confirma admisión extranjera. Banner «applications open» corresponde a 2026. Formulario muestra error de carga. Turnos nuevos 2027 e idioma docente sin establecer.
+
+**Precio / año:** 2026 · SLE 1500 es cuota de inscripción 2026. Cartel añade SLE 30 de cash-out al pagar por móvil. Comidas, equipos, seguro, devolución y factura completa sin establecer; importe 2027 sin publicar.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [AWMS · official 2026 programme](https://awms.edu.sl/stem-summer-school-club/) · 2026-11-06
+
+- [AWMS · official 2026 poster](https://awms.edu.sl/wp-content/uploads/2026/07/SLGS-Club.jpeg) · 2026-11-06
+
+## CP1473 · Girls Coding Academy · LEGO / Coding / 3D
+
+Lesoto · Maseru
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad infantil y curso sin publicar
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Nombre Girls Coding Academy no restringe participación a niñas: operador admite explícitamente ambos géneros. Hay LEGO Robotics, código, impresión 3D y FTC Robotics separado. Edad infantil mínima, horas, idioma y admisión externa sin publicar. Curso FTC no elimina edad / curso de liga competitiva. Convocatoria vacacional 2027 sin confirmar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+
+**Precio / año:** sin establecer · Cada ficha de curso muestra LSL 450 / mes. Confirmar año de tarifa, unidad por alumno, kit, horas y factura completa.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [Girls Coding Academy · all genders](https://girlscodingacademy.co.ls/) · 2026-11-06
+
+- [Girls Coding Academy · course prices](https://girlscodingacademy.co.ls/Courses.php) · 2026-11-06
+
+## CP1474 · STEAMLes · regular robotics / outreach
+
+Lesoto · Maseru Preparatory Campus · next to Machabeng College · Maseru
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Niños y jóvenes; límites exactos sin publicar
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Organización imparte robótica y actividades en colegios, describe equipos FLL / FRC y proyectos. Páginas de donaciones enumeran Robothon y Expo 2024; no son calendario exacto de campamentos infantiles nuevos. Convocatoria, edad del grupo menor, precio e idioma desconocidos.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+
+**Precio / año:** sin establecer · Objetivos de donación a proyectos no son cuota de curso ni entrada de exposición. Tarifa de alumno desconocida.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [STEAMLes · children and outreach](https://steamles.org/) · 2026-11-06
+
+- [STEAMLes · projects and donation goals](https://steamles.org/projects/) · 2026-11-06
+
+- [STEAMLes · campus](https://steamles.org/board/) · 2026-11-06
+
+## CP1475 · Soofia · school robotics bootcamp · archive
+
+Lesoto · Soofia International School · Butha-Buthe
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Grupo escolar; edad sin publicar
+
+**Idioma:** Página en inglés no confirma enseñanza EN / ES / RU. Idioma del grupo elegido desconocido.
+
+**Programa:** Colegio describió bootcamp invernal de dos semanas en publicación del 7 de agosto de 2024. Día de publicación no se toma como inicio del turno. Días siguientes, edad mínima, admisión externa, idioma y tarifa sin anunciar. Pauline Hostel asociado al colegio no prueba residencia de este bootcamp ni admisión a los 6 / 9 años.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Colegio describió bootcamp invernal de dos semanas en publicación del 7 de agosto de 2024. Día de publicación no se toma como inicio del turno. Días siguientes, edad mínima, admisión externa, idioma y tarifa sin anunciar. Pauline Hostel asociado al colegio no prueba residencia de este bootcamp ni admisión a los 6 / 9 años.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+### Fuentes
+
+- [Soofia · archived robotics bootcamp](https://www.soofiainternational.org/robotics-boot-camp/) · 2026-11-06
+
+- [Soofia · partner hostel](https://www.soofiainternational.org/pauline-hostel/) · 2026-11-06
+
+## CP1476 · Thembelisha · in-school Robotics · Grades 4–7
+
+Esuatini · Simunye
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Grades 4–7
+
+**Idioma:** Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+
+**Programa:** Informe del propietario de 2024/25 incluye robótica en Grades 4–7 y aula Digital Literacy / Robotics. Asignatura para alumnos matriculados, no campamento vacacional abierto. Propietario llama explícitamente al colegio English-medium; confirmar por separado idioma del entrenador y grupo competitivo.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas, edad exacta y factura completa sin publicar.
+
+**Suplementos:** Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Matvey tiene 9 años; exige matrícula real en Grade 4–7, su curso actual no comunicado. Edad sola no acredita acceso a robótica.
+
+**Oscar:** Para Oscar de 6 años no se confirma curso Grade 4–7. Existencia de primaria menor no acredita acceso a esta asignatura.
+
+**Motivo de selección:** Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+- Colegio principalmente para familias de empleados RES. El 21% de otras familias citado en página sin fecha no es cupo actual para extranjeros.
+
+### Fuentes
+
+- [RES · English-medium school](https://www.res.co.sz/csi/education.php) · 2026-11-06
+
+- [RES · robotics curriculum 2024/25](https://www.res.co.sz/admin/documents/1762111404.pdf) · 2026-11-06
+
 ## ~ Comprobaciones no cerradas
 
 ### EE.UU. / Canadá · Tamwood · La disponibilidad actual no está confirmada
@@ -108093,3 +108401,27 @@ FLL usa edad al 1 de agosto del inicio de temporada; exige cumpleaños exactos, 
 Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
 
 http://firstlegoleague.org.ua/
+
+### Sierra Leona · Local programmes and foreign admission
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+https://www.altruistechluminary.org/
+
+### Lesoto · Local programmes and foreign admission
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+https://steamles.org/
+
+### Esuatini · Local programmes and foreign admission
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
+
+https://www.res.co.sz/csi/education.php

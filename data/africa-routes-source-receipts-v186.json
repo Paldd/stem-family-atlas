@@ -1,0 +1,535 @@
+{
+  "version": 186,
+  "checked": "2026-11-06",
+  "request_count": 52,
+  "hash_verified": 51,
+  "failures": [
+    {
+      "key": "first-sa",
+      "url": "https://firstsa.org/",
+      "checked_at": "2026-11-06T16:16:09.893440+00:00",
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+    }
+  ],
+  "requests": [
+    {
+      "key": "first-sa",
+      "url": "https://firstsa.org/",
+      "checked_at": "2026-11-06T16:16:09.893440+00:00",
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+    },
+    {
+      "key": "steamles",
+      "url": "https://steamlesrobotics.wordpress.com/",
+      "checked_at": "2026-11-06T16:16:09.893858+00:00",
+      "status": 200,
+      "final_url": "https://steamlesrobotics.wordpress.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129032,
+      "sha256": "aafbe38c3e56a51c010af3e00d30570639f7bffedd8a702f91ad74be9aee0d1a"
+    },
+    {
+      "key": "soofia-fll-nov2026",
+      "url": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+      "checked_at": "2026-11-06T16:16:09.893991+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 161546,
+      "sha256": "21e659f4bb4b1fcbc173d5ee6f2f6caaa0855625edfe9aa3899cf747518f8329"
+    },
+    {
+      "key": "soofia-home",
+      "url": "https://www.soofiainternational.org/",
+      "checked_at": "2026-11-06T16:16:09.894137+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240118,
+      "sha256": "9eaa1ed4dfbea817979d55e5ac45fb0bb27fba77d5104e652c3f3fc9f0150458"
+    },
+    {
+      "key": "altruistech-home",
+      "url": "https://www.altruistechluminary.org/",
+      "checked_at": "2026-11-06T16:16:09.894450+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 369878,
+      "sha256": "8ecc052a8cb5b0d45c99ccfef25a0b368ead8f84ce75ace525d30c77b4675d6a"
+    },
+    {
+      "key": "altruistech-report",
+      "url": "https://www.altruistechluminary.org/wp-content/uploads/2025/06/Altruistech-Engagement-Report.pdf",
+      "checked_at": "2026-11-06T16:16:11.106583+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/wp-content/uploads/2025/06/Altruistech-Engagement-Report.pdf",
+      "content_type": "application/pdf",
+      "bytes": 13790547,
+      "sha256": "b422c94b625a6d2bd59d623d23c1d6078d0426cb3bbd3679eddbfce334ccc372"
+    },
+    {
+      "key": "creative-fll-sle",
+      "url": "https://creativeabdulkarim.com/first-lego-league-sierra-leone/",
+      "checked_at": "2026-11-06T16:16:11.447375+00:00",
+      "status": 200,
+      "final_url": "https://creativeabdulkarim.com/first-lego-league-sierra-leone/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 123208,
+      "sha256": "f06526f208d49c2b68bd4774cd5ead671e6822087083ae62f06302b14815cf22"
+    },
+    {
+      "key": "fgc-lesotho",
+      "url": "https://first.global/2026-nations/lesotho-2026/",
+      "checked_at": "2026-11-06T16:16:12.459811+00:00",
+      "status": 200,
+      "final_url": "https://first.global/2026-nations/lesotho-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 164590,
+      "sha256": "3627d0a8112bd700b14bd5791216b07c1b537f9a9a014e618ea02c547c215687"
+    },
+    {
+      "key": "stp-wro",
+      "url": "https://www.escolaportuguesastp.com/c%C3%B3pia-proj-fgc",
+      "checked_at": "2026-11-06T16:16:12.683173+00:00",
+      "status": 200,
+      "final_url": "https://www.escolaportuguesastp.com/c%C3%B3pia-proj-fgc",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 861625,
+      "sha256": "ac45fdaff3880b8aaf2777cde1eb0f30328d0dd56c6348f49c3e1258977f5033"
+    },
+    {
+      "key": "awms-holiday",
+      "url": "https://awms.edu.sl/stem-summer-school-club/",
+      "checked_at": "2026-11-06T16:17:41.916571+00:00",
+      "status": 200,
+      "final_url": "https://awms.edu.sl/stem-summer-school-club/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 79303,
+      "sha256": "1b176d1ee2eba967471d9a2d435352f40f084fc9b50ae5516e9f1aff8906ac72"
+    },
+    {
+      "key": "ophelcs-holiday",
+      "url": "https://ophelcs.com/stem-holiday-club",
+      "checked_at": "2026-11-06T16:17:41.916945+00:00",
+      "status": 200,
+      "final_url": "https://ophelcs.com/stem-holiday-club",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 15723,
+      "sha256": "03e568bdd0d49e20a3543d4154beef09f232adf06aaa6f9d652f81f0f356b129"
+    },
+    {
+      "key": "luminary-center",
+      "url": "https://www.altruistechluminarycenter.org/",
+      "checked_at": "2026-11-06T16:17:41.917055+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminarycenter.org/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 28452,
+      "sha256": "b63313b1ee4e9a85b53d1a236859d23bdff51a5d260028178e8d732fa76e9c0e"
+    },
+    {
+      "key": "altruistech-involved",
+      "url": "https://www.altruistechluminary.org/get-involved/",
+      "checked_at": "2026-11-06T16:17:41.917138+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/get-involved/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 375194,
+      "sha256": "b60e6444a20741202d055b4cc9b34ebc64e0d64a05fcaf0ac1713ffaa0bb2b8a"
+    },
+    {
+      "key": "lego-2027",
+      "url": "https://www.education.lego.com/en-us/lego-league/program-update/",
+      "checked_at": "2026-11-06T16:17:41.917432+00:00",
+      "status": 200,
+      "final_url": "https://www.education.lego.com/en-us/lego-league/program-update/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 131149,
+      "sha256": "c3648a1915ff930e492256af64742bd5b0160f4f6dfd281346f70706e481c9a7"
+    },
+    {
+      "key": "first-transition",
+      "url": "https://www.firstinspires.org/community-blog/first-lego-education-partnership-update",
+      "checked_at": "2026-11-06T16:17:42.691063+00:00",
+      "status": 200,
+      "final_url": "https://www.firstinspires.org/community-blog/first-lego-education-partnership-update",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 108882,
+      "sha256": "c08ed72e3d19f75854a174558324290229cddb37d27453751a628a7351e856d7"
+    },
+    {
+      "key": "dach-transition",
+      "url": "https://www.first-lego-league.org/en/transition-and-future",
+      "checked_at": "2026-11-06T16:17:42.802807+00:00",
+      "status": 200,
+      "final_url": "https://www.first-lego-league.org/en/transition-and-future",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 66128,
+      "sha256": "b0c8ce37d2773d8b1438c0138f1550ab6e702ada50646a7445f82f653fb8b25d"
+    },
+    {
+      "key": "soofia-admission",
+      "url": "https://www.soofiainternational.org/admission-requirements/",
+      "checked_at": "2026-11-06T16:17:42.905502+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/admission-requirements/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 143736,
+      "sha256": "6ece6bdf36ffea829ca369d809954c64ce1fc53d67c031cad9e39672b62e0735"
+    },
+    {
+      "key": "soofia-robotics",
+      "url": "https://www.soofiainternational.org/robotics-club/",
+      "checked_at": "2026-11-06T16:17:43.262266+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/robotics-club/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 141501,
+      "sha256": "c52642b6b113df5f7df50c7abe3d33bbc2d1e6e66db0710569807c66087f24b6"
+    },
+    {
+      "key": "soofia-lab",
+      "url": "https://www.soofiainternational.org/robotics-lab/",
+      "checked_at": "2026-11-06T16:17:43.780882+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/robotics-lab/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 135311,
+      "sha256": "e353ea7c25435ccadc2628158e807392b9ae28aa7d12cbee9b763e39fed74a3f"
+    },
+    {
+      "key": "soofia-primary",
+      "url": "https://www.soofiainternational.org/cambridge-primary/",
+      "checked_at": "2026-11-06T16:17:43.960246+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/cambridge-primary/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 157401,
+      "sha256": "586a8fa21735df2f9fc6abdafdd52505ee1788c4c6aacd121bc95d7c49eb655c"
+    },
+    {
+      "key": "soofia-preschool",
+      "url": "https://www.soofiainternational.org/preschool/",
+      "checked_at": "2026-11-06T16:17:44.543172+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/preschool/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 149710,
+      "sha256": "9a741b944fd15da8438896e644217e51497010c167fa4918bc781cb8deb664f1"
+    },
+    {
+      "key": "ftc-events-home",
+      "url": "https://ftc-events.firstinspires.org/",
+      "checked_at": "2026-11-06T16:18:30.596047+00:00",
+      "status": 200,
+      "final_url": "https://ftc-events.firstinspires.org/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 630742,
+      "sha256": "6cda2797f8bf76c2cc6ec757c64b4f7fa667cd88712bade8de9f1c3efe7e5edb"
+    },
+    {
+      "key": "soofia-bootcamp2024",
+      "url": "https://www.soofiainternational.org/robotics-boot-camp/",
+      "checked_at": "2026-11-06T16:18:30.596399+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/robotics-boot-camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 165643,
+      "sha256": "f2833f004b127e880d11f25480a409fbd51a1eaca41480ed83ed14774cce7a0a"
+    },
+    {
+      "key": "soofia-showcase2023",
+      "url": "https://www.soofiainternational.org/the-robotic-club-showcase/",
+      "checked_at": "2026-11-06T16:18:30.596486+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/the-robotic-club-showcase/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 166640,
+      "sha256": "3329c9907877a3f8d62124e3f044b65a02ff21d929014c28a35edbda926d4dae"
+    },
+    {
+      "key": "soofia-hostel",
+      "url": "https://www.soofiainternational.org/pauline-hostel/",
+      "checked_at": "2026-11-06T16:18:30.596555+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/pauline-hostel/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 153963,
+      "sha256": "fa3a5e8cf705ac9c73736f8860fdba035cece1516c80514e0ec5060806adb500"
+    },
+    {
+      "key": "girls-coding-about",
+      "url": "https://girlscodingacademy.co.ls/About-Us",
+      "checked_at": "2026-11-06T16:18:30.596790+00:00",
+      "status": 200,
+      "final_url": "https://girlscodingacademy.co.ls/About-Us",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 14881,
+      "sha256": "f239bc035316d92c8ad7f9e8105ca3886548efa1b96a0002120baf4418c03994"
+    },
+    {
+      "key": "altruistech-products",
+      "url": "https://www.altruistechluminary.org/products-services/",
+      "checked_at": "2026-11-06T16:18:32.091563+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/products-services/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 289981,
+      "sha256": "220efc56e99fa71efec110b1a740de63cf5ebcfacaba96c3d6b95785d3c6de99"
+    },
+    {
+      "key": "altruistech-about",
+      "url": "https://www.altruistechluminary.org/about-us/",
+      "checked_at": "2026-11-06T16:18:32.560666+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/about-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 337277,
+      "sha256": "7208a0b73904ae971cc8370f44793b21358dd8d8a6322d691b13fa6e86f6eacb"
+    },
+    {
+      "key": "altruistech-reports",
+      "url": "https://www.altruistechluminary.org/reports-downloads/",
+      "checked_at": "2026-11-06T16:18:32.852763+00:00",
+      "status": 200,
+      "final_url": "https://www.altruistechluminary.org/reports-downloads/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 255893,
+      "sha256": "9ad967843f22049ba94f7ef430b412763a052025b6cb6024171c84791df08156"
+    },
+    {
+      "key": "luminary-weekend-public-form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfzzmrayHg8ppdANvQIddzM7WP-Xw6N9mC-8l6QfSINPmYNBQ/viewform?usp=header",
+      "checked_at": "2026-11-06T16:21:16.167188+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfzzmrayHg8ppdANvQIddzM7WP-Xw6N9mC-8l6QfSINPmYNBQ/viewform?usp=header",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 97313,
+      "sha256": "316907e49635648c9f69043907470380395dfd5b7686aa4be3bf0619c2abc669"
+    },
+    {
+      "key": "luminary-school-public-form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSc1YOlpivTDVNi7sCj6L0RBb5dTNfUWkcyukl56KyRvANFhog/viewform?usp=header",
+      "checked_at": "2026-11-06T16:21:16.167591+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSc1YOlpivTDVNi7sCj6L0RBb5dTNfUWkcyukl56KyRvANFhog/viewform?usp=header",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 96474,
+      "sha256": "ec4f598c3f674ef5dfd0c8cd6abc465934f3d257aadd473ad322c07756b35a52"
+    },
+    {
+      "key": "awms-public-form",
+      "url": "http://slgsstemclub.paperform.co",
+      "checked_at": "2026-11-06T16:21:16.167728+00:00",
+      "status": 200,
+      "final_url": "https://slgsstemclub.paperform.co/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 96676,
+      "sha256": "a4d748cc32050b0a4eb99e813653182f1889d13984e56c6af906c4bd542872e5"
+    },
+    {
+      "key": "steamles-current",
+      "url": "https://steamles.org/board/",
+      "checked_at": "2026-11-06T16:21:16.167821+00:00",
+      "status": 200,
+      "final_url": "https://steamles.org/board/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 120551,
+      "sha256": "cd4f3c01286527276868c994c31e3812d4242be0e87b6f81a5a3a86fb1949a25"
+    },
+    {
+      "key": "girls-coding-home",
+      "url": "https://girlscodingacademy.co.ls/",
+      "checked_at": "2026-11-06T16:21:16.168121+00:00",
+      "status": 200,
+      "final_url": "https://girlscodingacademy.co.ls/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 46900,
+      "sha256": "3e4763506c3fb393930572d861672391c66427e216c2dbcae8dd0191860e3ee9"
+    },
+    {
+      "key": "swazi-school-report",
+      "url": "https://www.ese.co.sz/news/docs/RES%20Integrated%20Report%202025%20compressed.pdf",
+      "checked_at": "2026-11-06T16:21:16.916052+00:00",
+      "status": 200,
+      "final_url": "https://www.ese.co.sz/news/docs/RES%20Integrated%20Report%202025%20compressed.pdf",
+      "content_type": "application/pdf",
+      "bytes": 6088934,
+      "sha256": "2ae4fffd789371338c33c688ef8c36eab2f43cdbba9668eacc6e8ec1bc0cceef"
+    },
+    {
+      "key": "wro-sa-guest-ranking",
+      "url": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+      "checked_at": "2026-11-06T16:21:16.921429+00:00",
+      "status": 200,
+      "final_url": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+      "content_type": "application/pdf",
+      "bytes": 260887,
+      "sha256": "f86ae0885e515c4dd95ce1bb3032aacac0e61e799b0a57a5e98ec85952f6a077"
+    },
+    {
+      "key": "steamles-home",
+      "url": "https://steamles.org/",
+      "checked_at": "2026-11-06T16:23:17.220819+00:00",
+      "status": 200,
+      "final_url": "https://steamles.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 139936,
+      "sha256": "981205017c7327ee78e7d350c7c0ecc02c636f03c834e51e3e2ffb7aa0d906d0"
+    },
+    {
+      "key": "steamles-projects",
+      "url": "https://steamles.org/projects/",
+      "checked_at": "2026-11-06T16:23:17.221217+00:00",
+      "status": 200,
+      "final_url": "https://steamles.org/projects/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 113074,
+      "sha256": "cd1b49efd43df136b025a95701454980ce2333de4c87e402654c2a748330d7de"
+    },
+    {
+      "key": "steamles-news",
+      "url": "https://steamles.org/news/",
+      "checked_at": "2026-11-06T16:23:17.221325+00:00",
+      "status": 200,
+      "final_url": "https://steamles.org/news/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 86251,
+      "sha256": "a589b6b89d00e75a07c40de09b2681d35ec91d119a700cdd5fa841d3f88f566b"
+    },
+    {
+      "key": "girls-coding-courses",
+      "url": "https://girlscodingacademy.co.ls/Courses.php",
+      "checked_at": "2026-11-06T16:23:17.221390+00:00",
+      "status": 200,
+      "final_url": "https://girlscodingacademy.co.ls/Courses",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 21552,
+      "sha256": "6085d5d6c95d6fce711741c4c74ce488af82aacb5f8a50fbc9ff529e2ad6946c"
+    },
+    {
+      "key": "first-sa-http",
+      "url": "http://firstsa.org/",
+      "checked_at": "2026-11-06T16:23:17.221676+00:00",
+      "status": 200,
+      "final_url": "https://firstsa.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 63951,
+      "sha256": "e9df3f7c962c8a590280393c829ed2a30821fca2443c2469a4b0eaf39c9c3a24"
+    },
+    {
+      "key": "ftc-home-public-js",
+      "url": "https://ftc-events-cdn.global-prod.ftclive.org/evtwebextFTC/appFTCHome-C1j2XAHI.js",
+      "checked_at": "2026-11-06T16:23:18.037335+00:00",
+      "status": 200,
+      "final_url": "https://ftc-events-cdn.global-prod.ftclive.org/evtwebextFTC/appFTCHome-C1j2XAHI.js",
+      "content_type": "application/x-javascript",
+      "bytes": 100056,
+      "sha256": "82ec37aa3e9af22f6d6c8d06f5288f451f49434ef21488980b280f81472630e3"
+    },
+    {
+      "key": "soofia-languages",
+      "url": "https://www.soofiainternational.org/languages-department/",
+      "checked_at": "2026-11-06T16:23:18.175515+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/languages-department/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 140498,
+      "sha256": "055ea74aefc4ae9dbbf74b143953bf7cd312d6b608b815a73af8b98ba8650910"
+    },
+    {
+      "key": "ftc-eswatini-page",
+      "url": "https://ftc-events.firstinspires.org/2026/ZAESQ",
+      "checked_at": "2026-11-06T16:25:44.550969+00:00",
+      "status": 200,
+      "final_url": "https://ftc-events.firstinspires.org/2026/ZAESQ",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 16038,
+      "sha256": "9d261d7087e4a0a73a10898e3b21dff601adfab54bb82f8b2296d6674e3dd5a3"
+    },
+    {
+      "key": "steamles-ai2026",
+      "url": "https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/",
+      "checked_at": "2026-11-06T16:25:44.551434+00:00",
+      "status": 200,
+      "final_url": "https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 106370,
+      "sha256": "c3eea7ade38b83b6aec496fb3170dd33ecb7cf1b9dc295d7d46cd45a9b53aa22"
+    },
+    {
+      "key": "soofia-about",
+      "url": "https://www.soofiainternational.org/about-soofia/",
+      "checked_at": "2026-11-06T16:25:44.551541+00:00",
+      "status": 200,
+      "final_url": "https://www.soofiainternational.org/about-soofia/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 143364,
+      "sha256": "3bb4c6cff6f0699c1d6d1c9000bf4572f0ebd249494493e52c5c71aff17d94f9"
+    },
+    {
+      "key": "swazi-owner-language",
+      "url": "https://www.res.co.sz/csi/education.php",
+      "checked_at": "2026-11-06T16:26:23.106820+00:00",
+      "status": 200,
+      "final_url": "https://www.res.co.sz/csi/education.php",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 48790,
+      "sha256": "21136f81a4a47a238eda36cdfe18342c9fc3e0548384c346637a0b3bff6a91c4"
+    },
+    {
+      "key": "swazi-owner-report",
+      "url": "https://www.res.co.sz/admin/documents/1762111404.pdf",
+      "checked_at": "2026-11-06T16:26:23.107231+00:00",
+      "status": 200,
+      "final_url": "https://www.res.co.sz/admin/documents/1762111404.pdf",
+      "content_type": "application/pdf",
+      "bytes": 6088934,
+      "sha256": "2ae4fffd789371338c33c688ef8c36eab2f43cdbba9668eacc6e8ec1bc0cceef"
+    },
+    {
+      "key": "fll-sa-explore",
+      "url": "https://firstsa.org/first-lego-league-explore-welcome/",
+      "checked_at": "2026-11-06T16:26:23.107317+00:00",
+      "status": 200,
+      "final_url": "https://firstsa.org/first-lego-league-explore-welcome/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 69015,
+      "sha256": "11358707fec9f1bdf961cfc4eb2a64a73ac847aa9a33fda20f1c7137f13ef35c"
+    },
+    {
+      "key": "fll-sa-challenge",
+      "url": "https://firstsa.org/first-lego-league-divisions/",
+      "checked_at": "2026-11-06T16:26:23.107378+00:00",
+      "status": 200,
+      "final_url": "https://firstsa.org/first-lego-league-divisions/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 63066,
+      "sha256": "3799b8201a0dab34ab85bbe4d45d8380c704e873ab18b06b1e06d610a77e249a"
+    },
+    {
+      "key": "first-new-era",
+      "url": "https://community.firstinspires.org/new-era-first-lego-league-future-edition",
+      "checked_at": "2026-11-06T16:29:12.182085+00:00",
+      "status": 200,
+      "final_url": "https://www.firstinspires.org/community-blog/new-era-first-lego-league-future-edition",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 139695,
+      "sha256": "21f7f38809699395dab76de1cac2fac91dd2bc5d4424f2397adea81b1e3f9613"
+    },
+    {
+      "url": "https://awms.edu.sl/wp-content/uploads/2026/07/SLGS-Club.jpeg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "sha256": "d847e88baa44dd78f5cea654a2658e6c72907b13834eb6fd49d7bd35a69f7a2d",
+      "bytes": 266020,
+      "checked": "2026-11-06"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_or_organizer_contacts": true,
+  "raw_source_bodies_private": true,
+  "public_form_definitions_read_without_execution_or_submission": true,
+  "public_FTC_script_read_statically_only": true
+}

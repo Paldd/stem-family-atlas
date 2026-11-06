@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5834,
-    "competition_cards": 1942,
+    "cards": 5848,
+    "competition_cards": 1948,
     "event_cards": 264,
-    "camp_cards": 3628,
-    "league_profiles": 230,
+    "camp_cards": 3636,
+    "league_profiles": 235,
     "major_exhibition_cards": 172,
     "vex_cards": 518,
-    "countries_with_records": 135,
+    "countries_with_records": 139,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 162,
-      "countries_with_records": 20,
-      "competitions": 81,
+      "total": 176,
+      "countries_with_records": 24,
+      "competitions": 87,
       "events": 23,
       "major_exhibitions": 15,
-      "camps": 58,
+      "camps": 66,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -4001,6 +4001,77 @@
       "new": false
     },
     {
+      "id": "wro-sao-tome-local",
+      "name": "WRO · São Tomé & Príncipe",
+      "group": "regional",
+      "event_ids": [
+        "C1944",
+        "C1945"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.escolaportuguesastp.com/c%C3%B3pia-proj-fgc",
+      "new": false
+    },
+    {
+      "id": "fll-lesotho-local",
+      "name": "FIRST LEGO League · Lesotho",
+      "group": "regional",
+      "event_ids": [
+        "C1946"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+      "new": false
+    },
+    {
+      "id": "fll-sierra-leone-local",
+      "name": "FIRST LEGO League · Sierra Leone",
+      "group": "regional",
+      "event_ids": [
+        "C1947"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://docs.google.com/forms/d/e/1FAIpQLSc1YOlpivTDVNi7sCj6L0RBb5dTNfUWkcyukl56KyRvANFhog/viewform?usp=header",
+      "new": false
+    },
+    {
+      "id": "robotics-for-good-lesotho",
+      "name": "Robotics for Good · Lesotho / STEAMLes",
+      "group": "regional",
+      "event_ids": [
+        "C1948"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/",
+      "new": false
+    },
+    {
+      "id": "ftc-eswatini-local",
+      "name": "FTC · eSwatini Qualifier / South Africa region",
+      "group": "regional",
+      "event_ids": [
+        "C1949"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://ftc-events.firstinspires.org/2026/ZAESQ",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -5922,7 +5993,7 @@
     {
       "id": "E100",
       "name": "Africa Tech Festival 2026",
-      "country": "de la ciudad",
+      "country": "Sudáfrica",
       "region": "África",
       "start": "2026-11-17",
       "end": "2026-11-19",
@@ -5933,7 +6004,7 @@
     {
       "id": "E101",
       "name": "AI Expo Africa 2026",
-      "country": "de la ciudad",
+      "country": "Sudáfrica",
       "region": "África",
       "start": "2026-10-28",
       "end": "2026-10-29",
@@ -9294,20 +9365,20 @@
       }
     ],
     "counts": {
-      "records": 3628,
+      "records": 3636,
       "holiday": 3395,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 981,
-      "en_es_instruction": 1040,
+      "en_es_instruction": 1041,
       "en_es_support": 12,
-      "family_instruction": 1040,
+      "family_instruction": 1041,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
       "camp_life_language": 226,
       "language_unclassified": 119,
-      "countries": 91
+      "countries": 94
     },
     "validation": {
       "version": 51,
@@ -9512,13 +9583,13 @@
       "El hogar familiar, la inmigración, las visas escolares, los viajes del equipo y el total de la cuenta aún no se han evaluado."
     ],
     "counts": {
-      "records": 68,
-      "countries": 24,
+      "records": 70,
+      "countries": 26,
       "public": 13,
-      "private": 55,
-      "boarding": 10,
+      "private": 57,
+      "boarding": 11,
       "world_result": 14,
-      "organizer_protocol": 13,
+      "organizer_protocol": 14,
       "fully_audited_countries": 0
     },
     "coverage": [
@@ -9799,15 +9870,15 @@
         "iso": "SWZ",
         "country": "Esuatini",
         "region": "África",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "LSO",
         "country": "Lesoto",
         "region": "África",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "NAM",

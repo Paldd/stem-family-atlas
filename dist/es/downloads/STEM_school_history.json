@@ -1,5 +1,5 @@
 {
-  "version": 185,
+  "version": 186,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1431,6 +1431,33 @@
       "country": "Ucrania",
       "age": "FLL Challenge · colegio sin identificar",
       "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "school_id": null
+    },
+    {
+      "id": "LSO-SOOFIA",
+      "name": "Soofia International School",
+      "kind": "school",
+      "country": "Lesoto",
+      "age": "Verificar por separado edad / curso de admisión menor",
+      "note": "Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.",
+      "school_id": "S069"
+    },
+    {
+      "id": "SWZ-THEMBELISHA",
+      "name": "Thembelisha Preparatory School",
+      "kind": "school",
+      "country": "Esuatini",
+      "age": "Verificar por separado edad / curso de admisión menor",
+      "note": "Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.",
+      "school_id": "S070"
+    },
+    {
+      "id": "ZAF-PARKLANDS",
+      "name": "Parklands College",
+      "kind": "school",
+      "country": "Sudáfrica",
+      "age": "Verificar por separado edad / curso de admisión menor",
+      "note": "Certificado lectivo, puesto en categoría específica y título mundial se registran por separado.",
       "school_id": null
     }
   ],
@@ -4905,6 +4932,70 @@
       "team": "NEVER GIVE UP",
       "team_id": null,
       "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H218",
+      "entity_id": "LSO-SOOFIA",
+      "year": 2026,
+      "league": "FIRST LEGO League",
+      "category": "Innovation Project",
+      "stage": "Regional · NULIS · Maseru",
+      "award": "1st · Proyecto de Innovación",
+      "level": "regional_judged",
+      "source": "https://www.soofiainternational.org/soofia-international-school-qualifies-for-the-first-lego-league-finals-in-south-africa/",
+      "provenance": "school_report",
+      "team": "Equipo de robótica de Soofia",
+      "team_id": null,
+      "note": "Colegio Soofia informó el 5 de noviembre de 2026 de primer puesto Innovation Project en FLL regional de NULIS, Maseru, y selección a final de Sudáfrica. Publicación no indica día exacto del torneo. Socio FIRST SA describe Explore como 6–9 en overview y 6–10 en detalle; allí 2–6 niños y 2 entrenadores adultos, pero materiales aún UNEARTHED. Reglas locales nuevas y cupo externo sin confirmar.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H219",
+      "entity_id": "SWZ-THEMBELISHA",
+      "year": 2024,
+      "league": "WRO",
+      "category": "RoboMission Elementary · equipos invitados internacionales",
+      "stage": "Final nacional de Sudáfrica · sección invitada",
+      "award": "Puesto 1 · sección invitada",
+      "level": "national_other",
+      "source": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+      "provenance": "organizer_protocol",
+      "team": "Thembelisha King Coders",
+      "team_id": null,
+      "note": "45 puntos, 90 segundos; primer puesto solo en subgrupo invitado, no título nacional de Sudáfrica ni final mundial.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H220",
+      "entity_id": "ZAF-PARKLANDS",
+      "year": 2024,
+      "league": "WRO",
+      "category": "RoboMission Elementary",
+      "stage": "Final nacional de Sudáfrica",
+      "award": "Rank 1 · Elementary",
+      "level": "national_match",
+      "source": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+      "provenance": "organizer_protocol",
+      "team": "High Tech Dragon Riders",
+      "team_id": null,
+      "note": "132 puntos, 103 segundos. Categoría nacional Robot Mission, no victoria mundial; admisión menor actual del colegio sin investigar.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H221",
+      "entity_id": "ZAF-PARKLANDS",
+      "year": 2024,
+      "league": "WRO",
+      "category": "RoboMission Junior",
+      "stage": "Final nacional de Sudáfrica",
+      "award": "Rank 1 · Junior",
+      "level": "national_match",
+      "source": "https://www.wrosa.co.za/_files/ugd/e63a66_a38aec1ba7144001b7204daf579260aa.pdf",
+      "provenance": "organizer_protocol",
+      "team": "TechnoBlade",
+      "team_id": null,
+      "note": "146 puntos, 76 segundos. Categoría nacional Robot Mission, no título mundial ni prueba de admisión de menores.",
       "checked": "2026-11-06"
     }
   ],
