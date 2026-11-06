@@ -45,6 +45,8 @@ jobs:
         run: node scripts/verify-nearby-wro.cjs
       - name: Verify required camp costs and optional childcare separately
         run: node scripts/verify-camp-required-costs.cjs
+      - name: Verify Asian camp prices, sibling routes and source availability
+        run: node scripts/verify-asia-editorial.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages

@@ -1,0 +1,2719 @@
+{
+  "version": 193,
+  "checked": "2026-11-06",
+  "modified_raw_profile_ids": [
+    "CP025",
+    "CP069",
+    "CP118",
+    "CP122",
+    "CP336",
+    "CP377",
+    "CP378",
+    "CP386",
+    "CP875",
+    "CP877"
+  ],
+  "previous_raw_profiles": {
+    "CP025": {
+      "id": "CP025",
+      "slug": "camp-taiwan",
+      "provider": "Camp Taiwan",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Wanli / New Taipei",
+      "themes": [
+        "general",
+        "languages",
+        "sport"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "Youth Summer 7–12; Teens 13–16; el formato familiar tiene reglas separadas",
+      "language": "FAQ confirma directamente el inglés para instrucciones, comunicación, canciones y actividades del campamento residencial de verano; Mandarin-speaking counsellor ayuda a cada equipo.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "naturaleza, outdoor, tareas de equipo y autonomía; no robótica intensiva.",
+      "timing": {
+        "status": "published_2027",
+        "label": "el verano 2027: 5–10, 12–17, 19–24, 26–31 de julio; 2–7 y 16–21 de agosto. Seis turnos, El conjunto no está abierto.. 9–14 agosto no está en el horario.",
+        "sessions": [
+          [
+            "2027-07-05",
+            "2027-07-10"
+          ],
+          [
+            "2027-07-12",
+            "2027-07-17"
+          ],
+          [
+            "2027-07-19",
+            "2027-07-24"
+          ],
+          [
+            "2027-07-26",
+            "2027-07-31"
+          ],
+          [
+            "2027-08-02",
+            "2027-08-07"
+          ],
+          [
+            "2027-08-16",
+            "2027-08-21"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-05",
+            "end": "2027-07-10",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          },
+          {
+            "start": "2027-07-12",
+            "end": "2027-07-17",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          },
+          {
+            "start": "2027-07-19",
+            "end": "2027-07-24",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          },
+          {
+            "start": "2027-07-26",
+            "end": "2027-07-31",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          },
+          {
+            "start": "2027-08-02",
+            "end": "2027-08-07",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          },
+          {
+            "start": "2027-08-16",
+            "end": "2027-08-21",
+            "label": "verano 2027 · el conjunto aún no se ha abierto",
+            "price": "página actual: Youth NT$24 000; grupo 2–5 por 23 000. cuentas finales 2027 - ¿Qué es ?.",
+            "source": "https://www.camptaiwan.com.tw/summer-camp",
+            "place": "Wanli / New Taipei",
+            "entry": "El conjunto 2027 aún no ha abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.",
+            "availability": {
+              "status": "not_open_yet",
+              "label": "La inscripción aún no está abierta",
+              "checked": "2026-10-05"
+            }
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "página actual con calendario 2027: Youth 7–12 años NT$24 000 por 6 días / 5 de noche; grupo 2–5 de los niños de 23 000, 6–10 por 22 000, 11+ por 21 000. Teen 13–16 años 26 000, tarifas de grupo 25 000 / 24 000 / 23 000. los precios no tienen un estampado anual separado: cuentas finales 2027 ¿Qué es lo que me hace sentir?. La inscripción aún no está abierta.",
+        "included": "la notificación divide el precio general para el registro NT$1 000, autobús obligatorio NT$1 000 y el resto de la formación. las dos primeras sumas ya entran en el precio general, no se añaden de nuevo. FAQ y el monumento describe las tiendas y tres comidas al día. autobuses de Taibe; transfer de aeropuerto por separado. el balance final de la cuenta 2027 - ¿Qué es eso ?.",
+        "extras": "El pago internacional se suma al 5% en el aviso de pago Pay Pal/tarjeta; esta tasa es irrevocable incluso si se devuelve el precio principal. el vuelo, el traslado al aeropuerto, el seguro y las vacaciones familiares por separado.",
+        "deposit": "notificación sin fecha: pago en el plazo 14 días después de la inscripción. de registro NT$1 000 No se pueden devolver. en caso de discrepancia , la versión oficial en inglés: por 30 / 21–29 / 11–20 / 4–10 / 1–3 el día vuelven 100 / 90 / 70 / 50 / 30% educación y transporte; el día del lanzamiento 0. en la versión china por 21–29 / 11–20 / 4–10 los días de transporte devuelven completamente, por 1–3 días — 50%; se ha conservado la prioridad de la versión en inglés. más de un año 30 días y el límite exacto. en caso de enfermedad/Tifón después de un día de campamento completo — el reembolso proporcional por la formación; la cancelación por parte del operador da un crédito o un reembolso por la misma tabla, 100% no está garantizado con dinero. al menos un tutor debe estar en Taiwán y recoger al niño enfermo. vigencia del contrato para 2027 - ¿Qué es eso ?."
+      },
+      "accommodation": "Safari tents en la plataforma de madera, electricidad y camas; Por lo general 4–6 de los niños, general bath-house. Counselors cerca de; mi propia almohada. por FAQ Los hermanos no pueden elegir entre sí. tentmate. por notificación de al menos un padre/El tutor debe estar en Taiwán durante el campamento, para llevar a un niño en caso de enfermedad o lesión.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Youth 7–12."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Sólo después de cumplir 7 años; antes de que lo haga, compruebe el formato familiar."
+        }
+      },
+      "editorial_reason": "Es el primer candidato general de exterior inglés en Taiwán después de la verificación de edad de Oscar.",
+      "shortlist": [
+        "general"
+      ],
+      "questions": [
+        "confirmar la apertura de los seis turnos 2027, El logro de Oscar 7 años hasta el comienzo, el ingreso extranjero y la cuenta completa con seguro. tener en cuenta a los tutores en Taiwán; obtener condiciones actuales 2027 y el límite exacto de devolución de 30 días. vacaciones familiares — un programa separado: fechas de octubre 16–18 contra 17–18 No se ha acordado."
+      ],
+      "sources": [
+        {
+          "title": "campamentos y programas",
+          "url": "https://www.camptaiwan.com.tw/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Summer: edad / precio / cambios de edad",
+          "url": "https://www.camptaiwan.com.tw/summer-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "FAQ: Inglés / tiendas de campaña / hermanos",
+          "url": "https://www.camptaiwan.com.tw/faq",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Ownsummerhandbook: bus/meals/communication",
+          "url": "https://www.camptaiwan.com.tw/parent-handbook-getting-ready-for-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Linked CAMPnotice, actualseasoncontract aún en control",
+          "url": "https://drive.google.com/file/d/1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9/view?usp=sharing",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "camp_life",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "La inscripción aún no está abierta",
+        "checked": "2026-10-05"
+      }
+    },
+    "CP069": {
+      "id": "CP069",
+      "slug": "campasia-robotics",
+      "provider": "Camp Asia · Robotics Makerspace",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "Singapur · campus de la semana elegida",
+      "themes": [
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–8 / 9–12",
+      "language": "Our Promise identifica expresamente inglés como idioma principal; FAQ acoge niños de distintas nacionalidades, colegios y países. Ruta publicada de acceso extranjero individual, no admisión personal ni permiso migratorio.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+      "timing": {
+        "status": "published_2026",
+        "label": "Board invernal actual: Robotics 6–8 solo 21–24 de diciembre, Robotics 9–12 solo 28–31 de diciembre de 2026. Niños no se inscriben en una sesión robótica conjunta. Octubre antiguo conservado como historia, no próxima oferta.",
+        "sessions": [
+          [
+            "2026-10-19",
+            "2026-10-23"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-19",
+            "end": "2026-10-23",
+            "label": "Fantastic Fall · Sólo que Robotics 6–8",
+            "age": "6–8",
+            "price": "SGD 725 / 5 días",
+            "place": "Stamford American International School · Singapore",
+            "source": "https://www.campasia.asia/book-a-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "para este cambio el máximo 8, a Matvey 9. grupo general 9–12 No está expuesto ahora.."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Se necesitan 6 a 8 años para comenzar y confirmar el idioma/localidad."
+              }
+            },
+            "proof": "en el actual October board ¿Qué hay? Robotics 6–8, Available; estado leído 04.10 y puede cambiar. el banner de otros cursos no es un conjunto separado de ellos."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Robotics 6–8",
+            "price": "SGD 655 / 4 days",
+            "source": "https://www.campasia.asia/book-a-camp",
+            "place": "Stamford American International School",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "age": "6–8",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+              },
+              "oscar": {
+                "status": "candidate",
+                "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2026-12-21",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-21T01:00:00Z",
+                "end_utc": "2026-12-21T07:00:00Z"
+              },
+              {
+                "date": "2026-12-22",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-22T01:00:00Z",
+                "end_utc": "2026-12-22T07:00:00Z"
+              },
+              {
+                "date": "2026-12-23",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-23T01:00:00Z",
+                "end_utc": "2026-12-23T07:00:00Z"
+              },
+              {
+                "date": "2026-12-24",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-24T01:00:00Z",
+                "end_utc": "2026-12-24T07:00:00Z"
+              }
+            ]
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Robotics 9–12",
+            "price": "SGD 655 / 4 days",
+            "source": "https://www.campasia.asia/book-a-camp",
+            "place": "Stamford American International School",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "session_days",
+            "age": "9–12",
+            "family_fit": {
+              "matvey": {
+                "status": "candidate",
+                "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+              }
+            },
+            "sessions": [
+              {
+                "date": "2026-12-28",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-28T01:00:00Z",
+                "end_utc": "2026-12-28T07:00:00Z"
+              },
+              {
+                "date": "2026-12-29",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-29T01:00:00Z",
+                "end_utc": "2026-12-29T07:00:00Z"
+              },
+              {
+                "date": "2026-12-30",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-30T01:00:00Z",
+                "end_utc": "2026-12-30T07:00:00Z"
+              },
+              {
+                "date": "2026-12-31",
+                "start_time": "09:00",
+                "end_time": "15:00",
+                "timezone": "Asia/Singapore",
+                "topic": "LEGO y VEX: la construcción, código de bloque y tareas diarias. selección de los menores WeDo/SPIKE/VEX GO; de los mayores SPIKE/VEX. En el calendario de la semana, hay legacy EV3 — el conjunto real de especificar. ¿Qué es esto ?–¿Qué es esto ? 09–15.",
+                "ical_timed": true,
+                "start_utc": "2026-12-31T01:00:00Z",
+                "end_utc": "2026-12-31T07:00:00Z"
+              }
+            ]
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "Board invernal vigente SGD 655 por cuatro días / niño; página general con 725 por cinco días no sustituye esta tarifa.",
+        "included": "Programa, almuerzo, dos refrigerios y una camiseta; se ofrece el conjunto del curso.",
+        "extras": "Bus  opción; vivienda familiar/caminos por separado, seguro especificar.",
+        "deposit": "Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.",
+        "currency": "SGD",
+        "amount": 655
+      },
+      "accommodation": "sólo durante el día; Stamford / Australian International School en una semana específica.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "el candidato técnico de la ciudad; FAQ admite directamente a niños de diferentes escuelas, países y nacionalidades.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "confirmar el EN del profesor, la selección específica/edad, el precio completo del bus y el equipo; verificar los lugares antes de pagar."
+      ],
+      "sources": [
+        {
+          "title": "programa específico / edad / precio",
+          "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Winter booking board",
+          "url": "https://www.campasia.asia/book-a-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "International individual route",
+          "url": "https://www.campasia.asia/about-us/faqs.html",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "condiciones de cambio / cancelación",
+          "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+          "checked": "2026-10-04"
+        },
+        {
+          "title": "Current English-primary promise",
+          "url": "https://www.campasia.asia/about-us/our-promise.html",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "language_evidence_role": "primary"
+    },
+    "CP118": {
+      "id": "CP118",
+      "slug": "lighthouse-winter",
+      "provider": "Lighthouse · vacaciones de invierno en inglés",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Taipei · Xinyi, junto al MRT Taipei City Hall; dirección exacta",
+      "themes": [
+        "general",
+        "robotics",
+        "coding",
+        "science",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "de los grupos 5–7 y 8–12; VEX GO Sólo que 8–12",
+      "language": "El operador indica directamente la enseñanza de codificación, STEM y otros temas en inglés. para las artes lingüísticas se requiere experiencia de lectura/escritura en EN; los demás cursos admiten diferentes niveles.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "la elección de invierno 5–7: Junior Tech, arte, restaurante Shark Tank, anatomía y otros temas. para el 8–12: VEX GO, de la empresa, Podcast/TED-Ed/Youtube y delincuencia. un día completo puede combinar dos temas: No prometemos un día completo de robots.. VEX IQ No se indican temas de invierno.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "14–18 diciembre / 21–24 diciembre / 28–31 diciembre 2026; 25–29 enero 2027. por la mañana 09:30–12:30, día 13:30–16:30; la designación de un tema concreto por fecha y hora requiere confirmación.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "5 días · elección de la pista de edad",
+            "price": "TWD completo normal 20 000 / media 11 000; con GO 22 500 / 13 500",
+            "place": "Taipei · Xinyi, junto al MRT Taipei City Hall; dirección exacta",
+            "source": "https://www.lighthousecamps.com/schedule",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Se publican cambios generales de invierno y temas de edad; un tema específico por hora/semana requiere confirmación, incluido el grupo mínimo 4."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "4 días · elección de la pista de edad",
+            "price": "TWD completo normal 16 000 / media 8 800; con GO 18 000 / 10 800",
+            "place": "Taipei · Xinyi, junto al MRT Taipei City Hall; dirección exacta",
+            "source": "https://www.lighthousecamps.com/schedule",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Se publican cambios generales de invierno y temas de edad; un tema específico por hora/semana requiere confirmación, incluido el grupo mínimo 4."
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días · elección de la pista de edad",
+            "price": "TWD completo normal 16 000 / media 8 800; con GO 18 000 / 10 800",
+            "place": "Taipei · Xinyi, junto al MRT Taipei City Hall; dirección exacta",
+            "source": "https://www.lighthousecamps.com/schedule",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Se publican cambios generales de invierno y temas de edad; un tema específico por hora/semana requiere confirmación, incluido el grupo mínimo 4."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "5 días · elección de la pista de edad",
+            "price": "TWD completo normal 20 000 / media 11 000; con GO 22 500 / 13 500",
+            "place": "Taipei · Xinyi, junto al MRT Taipei City Hall; dirección exacta",
+            "source": "https://www.lighthousecamps.com/schedule",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "Se publican cambios generales de invierno y temas de edad; un tema específico por hora/semana requiere confirmación, incluido el grupo mínimo 4."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "5 días: TWD normal completo 20 000 / medio 11 000; con VEX GO 22 500 / 13 500. 4 días: normal 16 000 / 8 800; con GO 18 000 / 10 800.",
+        "included": "las clases y materiales de enseñanza seleccionados; FAQ confirma el comodidad/agua.",
+        "extras": "almuerzo TWD 220 / día; art-materials TWD 100 / día. VEX GO requiere un reembolso de TWD 2 000 cuando se conserva el equipo; es una suma temporal por separado del precio. vivienda familiar / carretera por separado.",
+        "deposit": "por lo menos 4 participante para el grupo ordinario. el pago hasta el campamento. FAQ: cancelación temprana menos TWD 500 / la semana / el niño, por 1–13 días menos TWD 1 000; Retorno tardío/credit tienen varias formulaciones — confirmar por escrito. Early bird 10% requiere inscripciones y pagos hasta 14 de octubre 2026; combinación de descuentos no se sabe.",
+        "season": "2026/27"
+      },
+      "accommodation": "campamento de día; los padres organizan vivienda, camino y acompañamiento fuera de las clases.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "edad del grupo 8–12 Es muy bueno.; ¿Qué es lo que quieres? VEX GO por el nivel."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Edad 5–7 Es muy bueno.; Junior Tech por separado, VEX GO No está disponible."
+        }
+      },
+      "editorial_reason": "Una opción específica para viajar en invierno a un mismo área de Taipei con una pista de edad inglesa.",
+      "shortlist": [
+        "both",
+        "technical"
+      ],
+      "questions": [
+        "confirmar el tema y el horario de cada niño en las mismas fechas, direcciones, un mínimo de 4 puestos libres y la composición del día completo; no considerar el menú como el horario de cada curso."
+      ],
+      "sources": [
+        {
+          "title": "invierno 2026/27: fechas, temas, plataforma y pagos adicionales",
+          "url": "https://www.lighthousecamps.com/schedule",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "precio: días completos y medio",
+          "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "la solicitud en el idioma del operador",
+          "url": "https://www.lighthousecamps.com/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "FAQ: lengua, almuerzo, acompañamiento y devoluciones",
+          "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP122": {
+      "id": "CP122",
+      "slug": "elev8-tokyo",
+      "provider": "Elev8 · Tokyo Coding / Maths holiday camp",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+      "themes": [
+        "coding",
+        "science",
+        "general",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "edad de base 5–12; grupos por nivel de experiencia, No sólo la edad",
+      "language": "Coding-page: fully in English; Terms confirman directamente programming y maths primarily in English. japonés  un módulo de lenguaje separado elegido.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Elige Programming, Maths, English o Japanese; puedes tener uno o dos temas. Programación desde la alfabetización digital inicial hasta Scratch y Python en el nivel de lectura/experiencia.",
+      "timing": {
+        "status": "published_2026_27",
+        "label": "publicados 14 en el otoño-las semanas de invierno 2026/27 y 9 en la primavera-las semanas pascuarias 2027 hasta 7 mayo. 09–17; se pueden elegir días particulares. en la semana Christmas/New Year comprobar los lugares reales/el régimen.",
+        "sessions": [
+          [
+            "2026-10-12",
+            "2026-10-16"
+          ],
+          [
+            "2026-10-19",
+            "2026-10-23"
+          ],
+          [
+            "2026-10-26",
+            "2026-10-30"
+          ],
+          [
+            "2026-11-09",
+            "2026-11-13"
+          ],
+          [
+            "2026-11-23",
+            "2026-11-27"
+          ],
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ],
+          [
+            "2027-01-04",
+            "2027-01-08"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-02-01",
+            "2027-02-05"
+          ],
+          [
+            "2027-02-08",
+            "2027-02-12"
+          ],
+          [
+            "2027-02-15",
+            "2027-02-19"
+          ],
+          [
+            "2027-02-22",
+            "2027-02-26"
+          ],
+          [
+            "2027-03-08",
+            "2027-03-12"
+          ],
+          [
+            "2027-03-15",
+            "2027-03-19"
+          ],
+          [
+            "2027-03-22",
+            "2027-03-26"
+          ],
+          [
+            "2027-03-29",
+            "2027-04-02"
+          ],
+          [
+            "2027-04-05",
+            "2027-04-09"
+          ],
+          [
+            "2027-04-12",
+            "2027-04-16"
+          ],
+          [
+            "2027-04-19",
+            "2027-04-23"
+          ],
+          [
+            "2027-04-26",
+            "2027-04-30"
+          ],
+          [
+            "2027-05-03",
+            "2027-05-07"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2026-10-12",
+            "end": "2026-10-16",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-10-19",
+            "end": "2026-10-23",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-10-26",
+            "end": "2026-10-30",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-11-09",
+            "end": "2026-11-13",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-11-23",
+            "end": "2026-11-27",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "4 días · selección de módulos",
+            "price": "JPY 101 200 con tax / 4 días sin descuento de paquete",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-01-04",
+            "end": "2027-01-08",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-02-01",
+            "end": "2027-02-05",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-02-08",
+            "end": "2027-02-12",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-02-15",
+            "end": "2027-02-19",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-02-22",
+            "end": "2027-02-26",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/winter-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-03-08",
+            "end": "2027-03-12",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-03-15",
+            "end": "2027-03-19",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-03-22",
+            "end": "2027-03-26",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-03-29",
+            "end": "2027-04-02",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-04-05",
+            "end": "2027-04-09",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-04-12",
+            "end": "2027-04-16",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-04-19",
+            "end": "2027-04-23",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-04-26",
+            "end": "2027-04-30",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          },
+          {
+            "start": "2027-05-03",
+            "end": "2027-05-07",
+            "label": "5 días · elegir los módulos",
+            "price": "JPY 120 175 con tax / 5 días con descuento 5+; 25 300 / día",
+            "place": "Tokyo · Roppongi, Houraiya Building 7F, 5-2-1",
+            "source": "https://www.elev8.co.jp/spring-camp",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window",
+            "proof": "el calendario oficial de las semanas; cada miércoles  la salida de todo el campamento, no el día de entrenamiento técnico. el módulo elegido y el lugar confirmen."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "label": "JPY 23 000 + 10% tax = 25 300 / día. en el caso de 5+ de los días: 109 250 + 10% = 120 175 / 5 días. 28–31 diciembre: sin descuento de paquete 101 200 de la tax / 4 días.",
+        "included": "Las clases, materiales, computadoras portátiles, actividades, boletos para excursiones planificadas, almuerzos/comidas/bebedores.",
+        "extras": "Los padres pagan los boletos de transporte público para acompañar y hacer excursiones: IC card / dinero en efectivo. vivienda familiar y sanidad/seguro de turismo por separado. el día prolongado en el registro previo JPY 2 000/hora; el impuesto de especificar.",
+        "deposit": "Terms: pago completo por 3 día en el registro de 21+ día, de otro modo 24 horas (la página corta dice simplemente 3 días). Cancelación: 96.5% en las primeras 48 horas antes de que comience, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin regreso. Camp credit/traslado en el 180 días — una alternativa separada.",
+        "season": "2026/27"
+      },
+      "accommodation": "campamento de día; los padres organizan vivienda, camino y acompañamiento fuera de las clases.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "9–10 Es muy bueno.; elegir el más complicado programming nivel por experiencia anterior."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "6–7 Es muy bueno.; Necesita su propio nivel de edad y de educación."
+        }
+      },
+      "editorial_reason": "una de las opciones más transparentes para viajar a Tokio en familia: las fechas reales, el codificación en inglés, los impuestos y los exenciones de transporte son conocidos.",
+      "shortlist": [
+        "both",
+        "technical"
+      ],
+      "questions": [
+        "confirmar el módulo/nivel elegido y su disponibilidad; lugares libres, horas y rutas de medio ambiente precisas; necesitar un contacto de emergencia disponible en Japón."
+      ],
+      "sources": [
+        {
+          "title": "otoño/invierno 2026/27, fechas y precios",
+          "url": "https://www.elev8.co.jp/winter-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Spring / Easter 2027",
+          "url": "https://www.elev8.co.jp/spring-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Coding: Inglés y niveles",
+          "url": "https://www.elev8.co.jp/coding-summer-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Terms: pago, transporte, crédito, seguro",
+          "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05"
+    },
+    "CP336": {
+      "id": "CP336",
+      "slug": "grove-flight",
+      "provider": "The Grove · Ready to Soar / Ingeniería de vuelo inglesa",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Zhubei · No.96 Jiaxing 1st Street, Hsinchu County",
+      "themes": [
+        "science",
+        "technology",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "escuela primaria (國小); la frontera numérica no se publicó. grupo de ocho niños.",
+      "language": "Tr Shelly ayuda en chino cuando sea necesario; directamente en las reglas de un turno concreto.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "5 días de mañana: un avión de papel, windsock, bird glider, paracaídas, flyer propio. lectura Ready to Soar, pronóstico/teste/cambio, Flight Log y explicación en inglés; libro y proyectos para casa. no robotecnia ni AI.",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–29.01.2027,09:00–12:00. Ya tenemos un calendario. L143: la nueva tarjeta está vinculada a él sin cambios repetidos.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "5 días de la mañana",
+            "price": "NT$8 800 early /9 700 regular, los materiales incluidos",
+            "source": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+            "formats": [
+              "day"
+            ],
+            "place": "Zhubei · No.96 Jiaxing 1st Street, Hsinchu County",
+            "date_scope": "day_camp_window"
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "hasta el 16.10.2026: NT$7 900 + materiales obligatorios 900 =8 800; luego 8 800+900=9 700.",
+        "included": "5 clases de la mañana, un libro original, cinco proyectos STEM principales y el Flight Log; los materiales por separado ya se han incluido en el resultado 8 800/9 700.",
+        "extras": "alimentación/vivienda/caminos por separado; especificar las nuevas condiciones de reserva/deposito, no agregar el antiguo depósito de nuevo.",
+        "deposit": "Early bird se aplica para la entrega hasta el 16 de octubre inclusive Taiwan time; el pago/depósito no es una condición de tarifa temprana."
+      },
+      "accommodation": "curso de mañana; llegada no antes de las 08:40, salida no más tarde de las 12:20; sin pensión.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "se necesita una clase de escuela primaria y EN-La lectura; edad 9–10 No es un registro en sí mismo.."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "sólo en caso de que haya sido admitido un grado elemental adecuado y se haya confirmado el grado menor; la edad de 6 no es igual a la de Grade 1."
+        }
+      },
+      "editorial_reason": "un proyecto de ingeniería inglés comprensible para viajes familiares; la cuestión principal es la admisión escolar menor.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "confirmar las clases de ambos, la dificultad de lectura, la falta de chino, la cancelación de todos los turnos y la disponibilidad de plazas."
+      ],
+      "sources": [
+        {
+          "title": "winter2027 completo: plan de estudios, EN, dirección, tarifa temprana",
+          "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "primary"
+    },
+    "CP377": {
+      "id": "CP377",
+      "slug": "see-future-dreamers",
+      "provider": "S.E.E. · Future Dreamers",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Taipei / Xinzhuang / Tainan",
+      "themes": [
+        "general",
+        "languages",
+        "art",
+        "sport",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "grupo mayor del kindergarten  Grade 4; Grade 5+ sólo por acuerdo.",
+      "language": "todas las clases de inglés programadas con un profesor extranjero; ayuda china si es necesario.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "cinco días para conocer las profesiones a través de tareas de roles: cocina, aviación, escenario y medicina; creatividad, deporte y comunicación.",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–29 enero 2027 en tres plazas. de las clases 09:00–17:00; el cerrojo 17:10 o 17:40. el día de la mañana 08:00–08:40.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ],
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Los futuros soñadores · Taipei",
+            "place": "National Taipei University of Business · 321 Jinan Road Section 1, Zhongzheng, Taipei 100025",
+            "price": "NT$13 800; personal early NT$11 730 hasta el 11.10.2026",
+            "variant_key": "taipei",
+            "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Los soñadores del futuro",
+            "place": "Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei",
+            "price": "NT$13 800; personal early NT$11 730 hasta el 11.10.2026",
+            "variant_key": "xinzhuang",
+            "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Los futuros soñadores · tainan",
+            "place": "NCKU Green Magic School · 25 Xiaodong Road, North District, Tainan",
+            "price": "NT$13 800; personal early NT$11 730 hasta el 11.10.2026",
+            "variant_key": "tainan",
+            "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "NT$13 800 / 5 días. hasta el 11.10.2026: individualmente NT$11 730; grupo 3+ NT$11 040; 6+ NT$10 350.",
+        "included": "materiales, almuerzo, aperitivo; se ha declarado una camiseta de campamento para el primer día.",
+        "extras": "No se incluye el seguro de viaje diario. Precio tardío: después de las 18:00 NT$100, después de las 18:30 NT$200; hasta las 18:00 las ventanas de ventaja.",
+        "deposit": "pago dentro de tres días; lugar confirmado por carta del operador. cancelación: en 30 días retención NT$1 000; en 20/10/5 días devolución 80/70/50%; en 3 días de devolución no. para los plazos intermedios se necesita un contrato. en caso de desastres naturales retenciones separadas; no es una garantía de devolución completa."
+      },
+      "accommodation": "Campamento de día; un máximo de 18 niños. profesor extranjero, profesor local y acompañamiento administrativo.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "se adapta a Grado 4 o inferior; la clase actual no se conoce."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "sólo es adecuado si se ha aceptado en un grupo preescolar superior o superior; el año 2020 no prueba la clase."
+        }
+      },
+      "editorial_reason": "Un candidato para un viaje conjunto a Taiwán con pruebas diarias de inglés y profesionales.",
+      "shortlist": [
+        "both",
+        "general"
+      ],
+      "questions": [
+        "confirmar las clases, la recepción de los niños de una escuela extranjera, la disponibilidad de plazas, el punto exacto de reunión y el precio final después del período de descuento."
+      ],
+      "sources": [
+        {
+          "title": "Future Dreamers 2027: lugares, lengua y precios",
+          "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "pago, cancelación y seguro diario",
+          "url": "https://seecamp.com.tw/precautions/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Universidad confirma el domicilio de Taipei",
+          "url": "https://som.ntub.edu.tw/index.php?Lang=en",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "primary"
+    },
+    "CP378": {
+      "id": "CP378",
+      "slug": "see-esl-engineering",
+      "provider": "S.E.E. · ESL Engineering",
+      "country": "Taiwán",
+      "iso": "TWN",
+      "place": "Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei",
+      "themes": [
+        "science",
+        "engineering",
+        "languages"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Grades 3–6; Grades 1–2 — en inglés no inferior al inglés Grade 2.",
+      "language": "Todas las clases son en inglés; se necesitan escuchas básicas, hablar, leer y escribir.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Los niños diseñan y prueban modelos: ruedas y ejes, palancas, elevación hidráulica y flotabilidad. STEAM con experiencia práctica; no se ha anunciado ninguna tecnología de robótica programada por separado.",
+      "timing": {
+        "status": "published_2027",
+        "label": "25–29 enero 2027, Sólo que Fu Jen / Xinzhuang, 09:00–17:00; el cerrojo 17:10 o 17:40.",
+        "sessions": [
+          [
+            "2027-01-25",
+            "2027-01-29"
+          ]
+        ],
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "start": "2027-01-25",
+            "end": "2027-01-29",
+            "label": "Ingeniería de ESL · Fu Jen",
+            "place": "Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei",
+            "price": "NT$16 800; individual early NT$14 280 hasta el 11.10.2026",
+            "variant_key": "xinzhuang",
+            "source": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          }
+        ]
+      },
+      "price": {
+        "year": 2027,
+        "label": "NT$16 800 / 5 días. hasta el 11.10.2026: NT$14 280; 3+ NT$13 440; 6+ NT$12 600.",
+        "included": "materiales, almuerzo, bocadillos y camiseta de campo.",
+        "extras": "No se incluye el seguro de viaje diario. Precio tardío: después de las 18:00 NT$100, después de las 18:30 NT$200; hasta las 18:00 las ventanas de ventaja.",
+        "deposit": "pago dentro de tres días; lugar confirmado por carta del operador. cancelación: en 30 días retención NT$1 000; en 20/10/5 días devolución 80/70/50%; en 3 días de devolución no. para los plazos intermedios se necesita un contrato. en caso de desastres naturales retenciones separadas; no es una garantía de devolución completa."
+      },
+      "accommodation": "campus universitario diurno; un máximo de 18 niños. la residencia de la universidad no entra y no se declara.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "si Grade 3–6, se adapta a la categoría de enseñanza; para el Grade 1–2 Necesitamos una evaluación de inglés por separado.."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "el ordinario Grade 3 mínimo superior a la clase probable. Sólo que Grade 1–2 con un nivel de inglés comprobado Grade 2 y con una autorización clara; no se ha declarado la admisión de los niños de preescolar."
+        }
+      },
+      "editorial_reason": "una alternativa de ingeniería más significativa al campo de lenguaje para Matvey; Oscar no promete una admisión automática.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "obtener la confirmación de clase extranjera, el idioma de las explicaciones técnicas, la evaluación de lectura/escritura, las tareas por nivel y el cálculo final."
+      ],
+      "sources": [
+        {
+          "title": "Engineering 2027: requisitos y precios",
+          "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "las condiciones de S.E.E.",
+          "url": "https://seecamp.com.tw/precautions/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "primary"
+    },
+    "CP386": {
+      "id": "CP386",
+      "slug": "oyis-winter-intensive",
+      "provider": "Osaka YMCA International School · Winter Intensive",
+      "country": "Japón",
+      "iso": "JPN",
+      "place": "Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071",
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Pre-K  Grade 6; las clases se distribuyen por nivel de inglés, el límite numérico no se ha publicado.",
+      "language": "La mayoría de los proyectos y las clases básicas de Science/Technology/Engineering se realizan en inglés.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Winter 2026: Survival Island y Winter Wonderland. lenguaje a través de proyectos, creatividad, PE, lectura y tareas conjuntas; a cada intensive se promete una excursión.",
+      "timing": {
+        "status": "published_2026",
+        "label": "14–18 y 21–25 diciembre 2026; 09:30–15:00. abrir la grabación 20 de octubre. en el 05.10.2026 el detalle winter flyer ¿Qué más? Coming Soon.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-25"
+          ]
+        ],
+        "variant_keyed": true,
+        "session_details": [
+          {
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Isla de la supervivencia 09:30-15:00",
+            "place": "Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071",
+            "price": "Invierno 2026 precio aún desconocido",
+            "variant_key": "survival",
+            "source": "https://external.oyis.org/intensives/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          },
+          {
+            "start": "2026-12-21",
+            "end": "2026-12-25",
+            "label": "El país de las maravillas del invierno · 09:30–15:00",
+            "place": "Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071",
+            "price": "Invierno 2026 precio aún desconocido",
+            "variant_key": "wonderland",
+            "source": "https://external.oyis.org/intensives/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "day_camp_window"
+          }
+        ]
+      },
+      "price": {
+        "year": null,
+        "label": "Precio de Winter 2026 aún no se ha publicado en la página que se lee. Precios de verano o viejo winter flyer no se pueden retrasar.",
+        "included": "Se describen proyectos y una excursión; se deben confirmar las inclusiones financieras, el almuerzo y el transporte.",
+        "extras": "La evaluación del inglés para elemental; las tarifas, materiales, comida, bus y extensión aún no se conocen.",
+        "deposit": "El anticipo y la cancelación de Winter 2026 no se publican en la descripción que se lee."
+      },
+      "accommodation": "Los participantes de la universidad de la ciudad de Japón y otros países han declarado directamente; no hay pensión.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "la conformidad con el Grado 6 o inferior y la evaluación de colocación; el contenido del lenguaje ordinario puede ser demasiado simple."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Hay grupos pre-K/juniores; edad, independencia y colocación concretas confirmar."
+        }
+      },
+      "editorial_reason": "Una versión internacional de día para ambos en el Osak con dos semanas independientes de diciembre.",
+      "shortlist": [
+        "both",
+        "general"
+      ],
+      "questions": [
+        "después de 20 en octubre para comprobar flyer, precio de la propiedad, age cutoffs, la excursión, incluye y un grupo adecuado para el inglés libre. viejo winter PDF firmado 2025, Pero ... URL contiene 2024."
+      ],
+      "sources": [
+        {
+          "title": "Winter 2026, English immersion y niños extranjeros",
+          "url": "https://external.oyis.org/intensives/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-10-05",
+      "language_evidence_role": "primary"
+    },
+    "CP875": {
+      "id": "CP875",
+      "slug": "beaumont-sg-nlcs",
+      "provider": "Camp Beaumont Singapore · NLCS Multi-Activity",
+      "country": "Singapur",
+      "iso": "SGP",
+      "place": "NLCS Singapore · 130 Depot Road",
+      "themes": [
+        "general",
+        "arts",
+        "sport",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Magic 5–7; Active 8–12; Playtime 3–4 por separado, media noche",
+      "language": "La FAQ requiere una buena lengua de habla para participar. es el lenguaje de comunicación del campamento; las 20 horas de clases de inglés se refieren solo a otro inglés en acción.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "Matvey en Active, Oscar en Magic; un campus, diferentes grupos.",
+      "timing": {
+        "status": "published_2026",
+        "label": "diciembre 2026: 14–18; 21–24; 28–31. La tarjeta de la universidad termina por error la segunda semana. 25-¿Qué es eso ?; la vitrina abierta real muestra 21–24, sin 25 diciembre.",
+        "sessions": [
+          [
+            "2026-12-14",
+            "2026-12-18"
+          ],
+          [
+            "2026-12-21",
+            "2026-12-24"
+          ],
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2026-12-14",
+            "start": "2026-12-14",
+            "end": "2026-12-18",
+            "label": "Magic 5–7 / Active 8–12 · el turno de día",
+            "price": "SGD 550/niño; dos 1100 hasta las opciones",
+            "source": "https://booknow.campbeaumont.asia/",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "place": "NLCS Singapore · 130 Depot Road",
+            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+          },
+          {
+            "variant_key": "2026-12-21",
+            "start": "2026-12-21",
+            "end": "2026-12-24",
+            "label": "Magic 5–7 / Active 8–12 · el turno de día",
+            "price": "SGD 440/niño; dos 880 hasta las opciones",
+            "source": "https://booknow.campbeaumont.asia/",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH"
+            ],
+            "place": "NLCS Singapore · 130 Depot Road",
+            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+          },
+          {
+            "variant_key": "2026-12-28",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Magic 5–7 / Active 8–12 · el turno de día",
+            "price": "SGD 440/niño; dos 880 hasta las opciones",
+            "source": "https://booknow.campbeaumont.asia/",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH"
+            ],
+            "place": "NLCS Singapore · 130 Depot Road",
+            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "label": "SGD 110/día; 550 por 14–18 diciembre; 440 cada cuatro días de la semana.. la suma de dos hijos 1100 / 880 hasta las opciones.",
+        "included": "Un programa de edades diarias, un certificado interno final y fotografías. No es un premio de la liga internacional.",
+        "extras": "El almuerzo y dos aperitivos solo se prometieron para los turnos de verano; la comida de diciembre también se confirmará. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de familia por separado.",
+        "deposit": "pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro."
+      },
+      "accommodation": "09:00–15:00; No hay ni una noche.. La familia vive cerca.. rutas de autobús precisas/El precio y la alimentación aún no se conocen..",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción externa y el lugar para confirmar."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "a Oscar 5–6 en el 2026 y 6–7 en el 2027; La edad es adecuada, el grupo y la recepción externa individual confirmar."
+        }
+      },
+      "editorial_reason": "una de las viajes en inglés más cercanas confirmadas de ambos niños.",
+      "shortlist": [
+        "both",
+        "general"
+      ],
+      "questions": [
+        "Determine la alimentación de diciembre, la cuenta completa, FLEX para cuatro días de semana y el conflicto de siete días/días laborables.",
+        "SUPER15WINTER hasta el 20 de octubre declarado por la escuela; aplicabilidad a los grupos seleccionados confirmar, automáticamente el descuento no se tiene en cuenta."
+      ],
+      "sources": [
+        {
+          "title": "campus y los precios semanales",
+          "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "Las fechas reales, Magic/Active y las apuestas diarias",
+          "url": "https://booknow.campbeaumont.asia/",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "FAQ: Inglés, alimentación y traslado",
+          "url": "https://www.campbeaumont.asia/faqs",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "un contrato de Singapur vinculado a su página",
+          "url": "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "el anuncio escolar 23 de septiembre de 2026",
+          "url": "https://nlcssingapore.sg/stories/december-camps-with-camp-beaumont-asia-14-31-december-2026/",
+          "checked": "2026-10-06"
+        }
+      ],
+      "checked": "2026-10-06",
+      "language_evidence_role": "camp_life"
+    },
+    "CP877": {
+      "id": "CP877",
+      "slug": "dcamps-daewon-winter",
+      "provider": "D.CAMPS · Daewon English STEM Winter",
+      "country": "Corea del Sur",
+      "iso": "KOR",
+      "place": "Daewon Campus · Seoul Gwangjin-gu",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding",
+        "science",
+        "arts"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "el campus de invierno: 1–6 las clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.",
+      "language": "La declaración 2027 confirma el programa inglés; la FAQ especifica que la seguridad explica en coreano.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "programme": "CTEB 1–3: Ringbit de la micro:bit, programable LEGO, sensores y misiones. Art & Technology 1–3: generative AI/mediarete. para el 4–6: AI storytelling/presentation, el espacio rover y reverse engineering. ¿Qué módulos están disponibles cada semana?, más confirmación por el juego 2027.",
+      "timing": {
+        "status": "published_2027",
+        "label": "11–15 y 18–22 enero 2027, 09:00–14:30. por 15 de los niños en curriculum. fechas de la antigua Location páginas 2024 no se han utilizado.",
+        "sessions": [
+          [
+            "2027-01-11",
+            "2027-01-15"
+          ],
+          [
+            "2027-01-18",
+            "2027-01-22"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "2027-01-11",
+            "start": "2027-01-11",
+            "end": "2027-01-15",
+            "label": "Daewon · English STEM; clase/modules para confirmar",
+            "price": "KRW 989000; el precio habitual",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "place": "Daewon Campus · Seoul Gwangjin-gu",
+            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+          },
+          {
+            "variant_key": "2027-01-18",
+            "start": "2027-01-18",
+            "end": "2027-01-22",
+            "label": "Daewon · English STEM; clase/modules para confirmar",
+            "price": "KRW 989000; el precio habitual",
+            "source": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH",
+              "FR"
+            ],
+            "place": "Daewon Campus · Seoul Gwangjin-gu",
+            "proof": "El año y los plazos se han leído en su propio anuncio; el lugar y la recepción de la familia aún no se han confirmado."
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "label": "KRW 989000 en cinco días diarios; los 890100 de septiembre ya no funcionan.",
+        "included": "English STEM, los materiales preparados; el comedor/el almuerzo y el profesor médico están descritos en las instrucciones de invierno.",
+        "extras": "la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar.",
+        "deposit": "sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026."
+      },
+      "accommodation": "El campamento de día; el shuttle se forma por dirección. Conocerse en línea de unos cinco minutos no es un examen de selección obligatorio.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra."
+        }
+      },
+      "editorial_reason": "Un candidato técnico inglés Matvey prioritario con un calendario específico de enero; un Oscar necesita una prueba de primera clase.",
+      "shortlist": [
+        "technical"
+      ],
+      "questions": [
+        "confirmar el equivalente de clase, el EN de acompañamiento de seguridad, la recepción individual en el extranjero y el módulo específico de la semana.",
+        "SNU/Harvard las menciones del operador no significan créditos universitarios o una recompensa externa."
+      ],
+      "sources": [
+        {
+          "title": "Dates del día, reloj y lanzadera",
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "el conjunto actual de invierno: clases , precio y lenguas",
+          "url": "https://www.dcampskorea.com/post/early1-winter-2027",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "programa por clases",
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "FAQ: Inglés, seguridad coreana y grupos",
+          "url": "https://www.dcampskorea.com/faq",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "condiciones de devolución",
+          "url": "https://www.dcampskorea.com/policy",
+          "checked": "2026-10-06"
+        }
+      ],
+      "checked": "2026-10-06"
+    }
+  },
+  "new_budget_offer_ids": [
+    "grove-flight-2027-1-children",
+    "elev8-five-days-1-children",
+    "oyis-winter-2026-1-children",
+    "grove-flight-2027-2-children",
+    "elev8-five-days-2-children",
+    "oyis-winter-2026-2-children",
+    "lighthouse-winter-mixed-siblings-five",
+    "see-2027-fju-mixed-siblings",
+    "dcamps-daewon-two-children-2027"
+  ],
+  "modified_budget_offer_ids": [
+    "beaumont-sg-five",
+    "beaumont-sg-four"
+  ],
+  "previous_budget_offers": {
+    "beaumont-sg-five": {
+      "id": "beaumont-sg-five",
+      "slug": "beaumont-sg-nlcs",
+      "label": "Singapore NLCS · ¿Qué es eso? 14–18 diciembre 2026",
+      "currency": "SGD",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 550,
+        "oscar": 550
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "alimentación, autobús y pagos adicionales obligatorios finales · especificar",
+          "unit": "amount",
+          "rate": 1,
+          "min": 0
+        }
+      ],
+      "optional": [
+        {
+          "id": "flex",
+          "label": "FLEX por tarifa diaria 20 SGD × días × 2 · la aplicabilidad del contrato actual aclarar",
+          "amount": 200
+        }
+      ],
+      "sources": [
+        "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+        "https://booknow.campbeaumont.asia/",
+        "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf"
+      ],
+      "sessions": [
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ]
+      ],
+      "gate": "La edad de ambos es adecuada.. EN la comunicación es obligatoria y la familia lo indicó; la recepción externa individual, la disponibilidad de lugares, Almuerzo y el shuttle confirman aún. 25 diciembre no entra. SUPER15WINTER no se cuenta automáticamente.",
+      "deposit_note": "pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.",
+      "included": "base de dos SGD 1100: Matvey Active 8–12, Oscar Magic 5–7; programa general, grupos diferentes. No se promete la comida de diciembre ..",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "la parte del costo de los dos hijos. La cuenta completa y el lugar son confirmados por el organizador.",
+      "checked": "2026-10-06",
+      "format": "day"
+    },
+    "beaumont-sg-four": {
+      "id": "beaumont-sg-four",
+      "slug": "beaumont-sg-nlcs",
+      "label": "Singapore NLCS · ambas semanas de cuatro días de diciembre",
+      "currency": "SGD",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 440,
+        "oscar": 440
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "alimentación, autobús y pagos adicionales obligatorios finales · especificar",
+          "unit": "amount",
+          "rate": 1,
+          "min": 0
+        }
+      ],
+      "optional": [
+        {
+          "id": "flex",
+          "label": "FLEX por tarifa diaria 20 SGD × días × 2 · la aplicabilidad del contrato actual aclarar",
+          "amount": 160
+        }
+      ],
+      "sources": [
+        "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+        "https://booknow.campbeaumont.asia/",
+        "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf"
+      ],
+      "sessions": [
+        [
+          "2026-12-21",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-28",
+          "2026-12-31"
+        ]
+      ],
+      "gate": "La edad de ambos es adecuada.. EN la comunicación es obligatoria y la familia lo indicó; la recepción externa individual, la disponibilidad de lugares, Almuerzo y el shuttle confirman aún. 25 diciembre no entra. SUPER15WINTER no se cuenta automáticamente.",
+      "deposit_note": "pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.",
+      "included": "base de dos SGD 880: Matvey Active 8–12, Oscar Magic 5–7; programa general, grupos diferentes. No se promete la comida de diciembre ..",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "la parte del costo de los dos hijos. La cuenta completa y el lugar son confirmados por el organizador.",
+      "checked": "2026-10-06",
+      "format": "day"
+    }
+  },
+  "budget_offers": [
+    {
+      "id": "grove-flight-2027-1-children",
+      "slug": "grove-flight",
+      "label": "The Grove · Matvey · cinco mañanas",
+      "currency": "TWD",
+      "price_year": 2027,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 8800
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "materials",
+          "label": "Materiales obligatorios · TWD 900 por niño",
+          "amount": 900
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/"
+      ],
+      "sessions": [
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Primaria y nivel de lectura adecuado; confirmar el curso de cada niño. Cuidado familiar después del mediodía.",
+      "deposit_note": "Las ausencias no se reembolsan ni recuperan. La página actual ya no contiene la antigua condición de inscripción anticipada de octubre; confirmar el contrato de cancelación y reserva aparte.",
+      "included": "Curso, libro, proyectos y Flight Log; los materiales obligatorios se incluyen por separado en el importe conocido.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "elev8-five-days-1-children",
+      "slug": "elev8-tokyo",
+      "label": "Elev8 · Matvey · cinco días con impuesto",
+      "currency": "JPY",
+      "price_year": 2026,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 109250
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "tax",
+          "label": "Impuesto del 10% sobre la base publicada",
+          "amount": 10925
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        },
+        {
+          "id": "local_tickets",
+          "label": "Billetes de transporte local para acompañamiento y excursiones",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.elev8.co.jp/winter-camp",
+        "https://www.elev8.co.jp/spring-camp",
+        "https://www.elev8.co.jp/coding-summer-camp",
+        "https://www.elev8.co.jp/camp-terms-and-conditions"
+      ],
+      "sessions": [
+        [
+          "2026-11-09",
+          "2026-11-13"
+        ],
+        [
+          "2026-11-23",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-25"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-08"
+        ],
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ],
+        [
+          "2027-02-01",
+          "2027-02-05"
+        ],
+        [
+          "2027-02-08",
+          "2027-02-12"
+        ],
+        [
+          "2027-02-15",
+          "2027-02-19"
+        ],
+        [
+          "2027-02-22",
+          "2027-02-26"
+        ],
+        [
+          "2027-03-08",
+          "2027-03-12"
+        ],
+        [
+          "2027-03-15",
+          "2027-03-19"
+        ],
+        [
+          "2027-03-22",
+          "2027-03-26"
+        ],
+        [
+          "2027-03-29",
+          "2027-04-02"
+        ],
+        [
+          "2027-04-05",
+          "2027-04-09"
+        ],
+        [
+          "2027-04-12",
+          "2027-04-16"
+        ],
+        [
+          "2027-04-19",
+          "2027-04-23"
+        ],
+        [
+          "2027-04-26",
+          "2027-04-30"
+        ],
+        [
+          "2027-05-03",
+          "2027-05-07"
+        ]
+      ],
+      "gate": "Edad 5–12; elegir el nivel de programación aparte. El paquete de cinco días no equivale a cinco días solo de código: el miércoles es excursión.",
+      "deposit_note": "Terms: pago completo por 3 día en el registro de 21+ día, de otro modo 24 horas (la página corta dice simplemente 3 días). Cancelación: 96.5% en las primeras 48 horas antes de que comience, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin regreso. Camp credit/traslado en el 180 días — una alternativa separada.",
+      "included": "Bloques lectivos, materiales, equipos, comida y entradas de excursión; billetes de transporte no incluidos.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "oyis-winter-2026-1-children",
+      "slug": "oyis-winter-intensive",
+      "label": "OYIS Winter · Matvey · cinco días con impuesto",
+      "currency": "JPY",
+      "price_year": 2026,
+      "children": [
+        "matvey"
+      ],
+      "base_by_child": {
+        "matvey": 60000
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "tax",
+          "label": "Impuesto del folleto de invierno · JPY 6000 por niño",
+          "amount": 6000
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        },
+        {
+          "id": "lunch_care_bus",
+          "label": "Almuerzo, cuidado adicional y autobús · servicios elegidos y precios",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://external.oyis.org/intensives/",
+        "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2"
+      ],
+      "sessions": [
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-25"
+        ]
+      ],
+      "gate": "Preschool–Grade 6, distribución por inglés; se anuncia admisión extranjera, pero hay que confirmar grupo y plaza reales.",
+      "deposit_note": "El anticipo y la cancelación de Winter 2026 no se publican en la descripción que se lee.",
+      "included": "Un intensivo temático de cinco días. Almuerzo escolar, autobús y cuidado adicional figuran como servicios extra.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "grove-flight-2027-2-children",
+      "slug": "grove-flight",
+      "label": "The Grove · ambos niños · cinco mañanas",
+      "currency": "TWD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 8800,
+        "oscar": 8800
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "materials",
+          "label": "Materiales obligatorios · TWD 900 por niño",
+          "amount": 1800
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/"
+      ],
+      "sessions": [
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Primaria y nivel de lectura adecuado; confirmar el curso de cada niño. Cuidado familiar después del mediodía.",
+      "deposit_note": "Las ausencias no se reembolsan ni recuperan. La página actual ya no contiene la antigua condición de inscripción anticipada de octubre; confirmar el contrato de cancelación y reserva aparte.",
+      "included": "Curso, libro, proyectos y Flight Log; los materiales obligatorios se incluyen por separado en el importe conocido.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "elev8-five-days-2-children",
+      "slug": "elev8-tokyo",
+      "label": "Elev8 · ambos niños · cinco días con impuesto",
+      "currency": "JPY",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 109250,
+        "oscar": 109250
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "tax",
+          "label": "Impuesto del 10% sobre la base publicada",
+          "amount": 21850
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        },
+        {
+          "id": "local_tickets",
+          "label": "Billetes de transporte local para acompañamiento y excursiones",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.elev8.co.jp/winter-camp",
+        "https://www.elev8.co.jp/spring-camp",
+        "https://www.elev8.co.jp/coding-summer-camp",
+        "https://www.elev8.co.jp/camp-terms-and-conditions"
+      ],
+      "sessions": [
+        [
+          "2026-11-09",
+          "2026-11-13"
+        ],
+        [
+          "2026-11-23",
+          "2026-11-27"
+        ],
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-25"
+        ],
+        [
+          "2027-01-04",
+          "2027-01-08"
+        ],
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ],
+        [
+          "2027-02-01",
+          "2027-02-05"
+        ],
+        [
+          "2027-02-08",
+          "2027-02-12"
+        ],
+        [
+          "2027-02-15",
+          "2027-02-19"
+        ],
+        [
+          "2027-02-22",
+          "2027-02-26"
+        ],
+        [
+          "2027-03-08",
+          "2027-03-12"
+        ],
+        [
+          "2027-03-15",
+          "2027-03-19"
+        ],
+        [
+          "2027-03-22",
+          "2027-03-26"
+        ],
+        [
+          "2027-03-29",
+          "2027-04-02"
+        ],
+        [
+          "2027-04-05",
+          "2027-04-09"
+        ],
+        [
+          "2027-04-12",
+          "2027-04-16"
+        ],
+        [
+          "2027-04-19",
+          "2027-04-23"
+        ],
+        [
+          "2027-04-26",
+          "2027-04-30"
+        ],
+        [
+          "2027-05-03",
+          "2027-05-07"
+        ]
+      ],
+      "gate": "Edad 5–12; elegir el nivel de programación aparte. El paquete de cinco días no equivale a cinco días solo de código: el miércoles es excursión.",
+      "deposit_note": "Terms: pago completo por 3 día en el registro de 21+ día, de otro modo 24 horas (la página corta dice simplemente 3 días). Cancelación: 96.5% en las primeras 48 horas antes de que comience, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin regreso. Camp credit/traslado en el 180 días — una alternativa separada.",
+      "included": "Bloques lectivos, materiales, equipos, comida y entradas de excursión; billetes de transporte no incluidos.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "oyis-winter-2026-2-children",
+      "slug": "oyis-winter-intensive",
+      "label": "OYIS Winter · ambos niños · cinco días con impuesto",
+      "currency": "JPY",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 60000,
+        "oscar": 60000
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "tax",
+          "label": "Impuesto del folleto de invierno · JPY 6000 por niño",
+          "amount": 12000
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        },
+        {
+          "id": "lunch_care_bus",
+          "label": "Almuerzo, cuidado adicional y autobús · servicios elegidos y precios",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://external.oyis.org/intensives/",
+        "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2"
+      ],
+      "sessions": [
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2026-12-21",
+          "2026-12-25"
+        ]
+      ],
+      "gate": "Preschool–Grade 6, distribución por inglés; se anuncia admisión extranjera, pero hay que confirmar grupo y plaza reales.",
+      "deposit_note": "El anticipo y la cancelación de Winter 2026 no se publican en la descripción que se lee.",
+      "included": "Un intensivo temático de cinco días. Almuerzo escolar, autobús y cuidado adicional figuran como servicios extra.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "lighthouse-winter-mixed-siblings-five",
+      "slug": "lighthouse-winter",
+      "label": "Lighthouse · Matvey GO y Oscar Junior · cinco días completos",
+      "currency": "TWD",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 22500,
+        "oscar": 20000
+      },
+      "discount_second": 0,
+      "required": [
+        {
+          "id": "go_deposit",
+          "label": "Depósito VEX GO reembolsable si se devuelve sin daños",
+          "amount": 2000
+        }
+      ],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [
+        {
+          "id": "lunch",
+          "label": "Almuerzo para ambos · TWD 220 × cinco días × dos niños",
+          "amount": 2200
+        }
+      ],
+      "sources": [
+        "https://www.lighthousecamps.com/schedule",
+        "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+        "https://www.lighthousecamps.com/",
+        "https://www.lighthousecamps.com/faqs-241203521121839389883529931572"
+      ],
+      "sessions": [
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ],
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Itinerarios 8–12 y 5–7. Acordar temas y dos bloques en una misma semana; mínimo 4 niños por grupo ordinario.",
+      "deposit_note": "por lo menos 4 participante para el grupo ordinario. el pago hasta el campamento. FAQ: cancelación temprana menos TWD 500 / la semana / el niño, por 1–13 días menos TWD 1 000; Retorno tardío/credit tienen varias formulaciones — confirmar por escrito. Early bird 10% requiere inscripciones y pagos hasta 14 de octubre 2026; combinación de descuentos no se sabe.",
+      "included": "Materiales de cursos ordinarios elegidos y tentempiés. El depósito GO reembolsable se incluye aparte: es una suma temporal, no un coste definitivo.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "see-2027-fju-mixed-siblings",
+      "slug": "see-esl-engineering",
+      "label": "S.E.E. FJU · Engineering y Future Dreamers · ambos niños",
+      "currency": "TWD",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 16800,
+        "oscar": 13800
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+        "https://seecamp.com.tw/precautions/",
+        "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/"
+      ],
+      "sessions": [
+        [
+          "2027-01-25",
+          "2027-01-29"
+        ]
+      ],
+      "gate": "Confirmar Grades 3–6 para Matvey y el itinerario general infantil para Oscar. Ambas ofertas incluyen el campus Fu Jen University; admisión extranjera individual y grupos no garantizados.",
+      "deposit_note": "pago dentro de tres días; lugar confirmado por carta del operador. cancelación: en 30 días retención NT$1 000; en 20/10/5 días devolución 80/70/50%; en 3 días de devolución no. para los plazos intermedios se necesita un contrato. en caso de desastres naturales retenciones separadas; no es una garantía de devolución completa.",
+      "included": "Dos cursos distintos de cinco días, materiales, almuerzo y tentempié. Cálculo con tarifas ordinarias sin descuento automático.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero. La tarifa anticipada individual hasta el 10.11.2026 podría sumar TWD 26928 por ambos cursos, pero el organizador debe confirmar condiciones y factura; el grupo 3+ no se aplica automáticamente a dos hermanos.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "dcamps-daewon-two-children-2027",
+      "slug": "dcamps-daewon-winter",
+      "label": "D.CAMPS Daewon · ambos niños · pago inicial completo",
+      "currency": "KRW",
+      "price_year": 2027,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 989000,
+        "oscar": 989000
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "Seguro y cargos obligatorios finales · confirmar",
+          "rate": 1,
+          "min": 0,
+          "unit": "invoice"
+        }
+      ],
+      "optional": [],
+      "sources": [
+        "https://www.dcampskorea.com/post/2027-winter-daewon",
+        "https://www.dcampskorea.com/post/early1-winter-2027",
+        "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+        "https://www.dcampskorea.com/faq",
+        "https://www.dcampskorea.com/policy",
+        "https://www.dcampskorea.com/post/2027-winter-dcamps"
+      ],
+      "sessions": [
+        [
+          "2027-01-11",
+          "2027-01-15"
+        ],
+        [
+          "2027-01-18",
+          "2027-01-22"
+        ]
+      ],
+      "gate": "Confirmar para ambos la equivalencia extranjera de Grades 1–6 y la admisión al itinerario concreto. No trasladar automáticamente la robótica de Grades 1–3 a cursos superiores.",
+      "deposit_note": "sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.",
+      "included": "Paquete STEM diurno; autobús y cargos obligatorios finales aparte. Se paga la tarifa completa; el 5% para dos participantes se devuelve después del campamento si se cumplen las condiciones.",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "Cálculo familiar parcial, no oferta final. Confirmar admisión, curso, nivel, plazas y factura completa. Los gastos desconocidos no se consideran cero.",
+      "checked": "2026-11-06",
+      "format": "day"
+    },
+    {
+      "id": "beaumont-sg-five",
+      "slug": "beaumont-sg-nlcs",
+      "label": "Cálculo histórico · vigencia sin confirmar · Singapore NLCS · ¿Qué es eso? 14–18 diciembre 2026",
+      "currency": "SGD",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 550,
+        "oscar": 550
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "alimentación, autobús y pagos adicionales obligatorios finales · especificar",
+          "unit": "amount",
+          "rate": 1,
+          "min": 0
+        }
+      ],
+      "optional": [
+        {
+          "id": "flex",
+          "label": "FLEX por tarifa diaria 20 SGD × días × 2 · la aplicabilidad del contrato actual aclarar",
+          "amount": 200
+        }
+      ],
+      "sources": [
+        "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+        "https://booknow.campbeaumont.asia/",
+        "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf"
+      ],
+      "sessions": [
+        [
+          "2026-12-14",
+          "2026-12-18"
+        ]
+      ],
+      "gate": "No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.",
+      "deposit_note": "pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.",
+      "included": "base de dos SGD 1100: Matvey Active 8–12, Oscar Magic 5–7; programa general, grupos diferentes. No se promete la comida de diciembre ..",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-06"
+      }
+    },
+    {
+      "id": "beaumont-sg-four",
+      "slug": "beaumont-sg-nlcs",
+      "label": "Cálculo histórico · vigencia sin confirmar · Singapore NLCS · ambas semanas de cuatro días de diciembre",
+      "currency": "SGD",
+      "price_year": 2026,
+      "children": [
+        "matvey",
+        "oscar"
+      ],
+      "base_by_child": {
+        "matvey": 440,
+        "oscar": 440
+      },
+      "discount_second": 0,
+      "required": [],
+      "unknown_required": [
+        {
+          "id": "programme_extras",
+          "label": "alimentación, autobús y pagos adicionales obligatorios finales · especificar",
+          "unit": "amount",
+          "rate": 1,
+          "min": 0
+        }
+      ],
+      "optional": [
+        {
+          "id": "flex",
+          "label": "FLEX por tarifa diaria 20 SGD × días × 2 · la aplicabilidad del contrato actual aclarar",
+          "amount": 160
+        }
+      ],
+      "sources": [
+        "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+        "https://booknow.campbeaumont.asia/",
+        "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf"
+      ],
+      "sessions": [
+        [
+          "2026-12-21",
+          "2026-12-24"
+        ],
+        [
+          "2026-12-28",
+          "2026-12-31"
+        ]
+      ],
+      "gate": "No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.",
+      "deposit_note": "pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.",
+      "included": "base de dos SGD 880: Matvey Active 8–12, Oscar Magic 5–7; programa general, grupos diferentes. No se promete la comida de diciembre ..",
+      "unknown_trip": [
+        "travel",
+        "lodging",
+        "misc"
+      ],
+      "scope": "No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.",
+      "checked": "2026-11-06",
+      "format": "day",
+      "availability": {
+        "status": "unconfirmed",
+        "checked": "2026-11-06"
+      }
+    }
+  ],
+  "withdrawn_programme_id": "CP875",
+  "withdrawn_announcement_note": "No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.",
+  "deadline_updates": [
+    {
+      "event_id": "CP377-20270125-20270129-tainan",
+      "deadline": "2026-11-10",
+      "deadline_label": "Fin de la tarifa anticipada"
+    },
+    {
+      "event_id": "CP378-20270125-20270129-xinzhuang",
+      "deadline": "2026-11-10",
+      "deadline_label": "Fin de la tarifa anticipada"
+    },
+    {
+      "event_id": "CP386-20261214-20261218-survival",
+      "deadline": "2026-11-30",
+      "deadline_label": "Inscripción Winter 2026"
+    },
+    {
+      "event_id": "CP877-20270111-20270115-2027-01-11",
+      "deadline": "2026-11-13",
+      "deadline_label": "Inscripción ordinaria"
+    }
+  ]
+}

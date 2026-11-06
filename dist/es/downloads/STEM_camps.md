@@ -9972,7 +9972,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270712-20270717 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-12–2027-07-17
 
@@ -9988,7 +9988,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270719-20270724 · Camp Taiwan · Verano 2027 · Conjunto aún no abierto ~ 2027-07-19 CLAIM2027-07-24
 
@@ -10004,7 +10004,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270726-20270731 · Camp Taiwan · Verano 2027 · Conjunto aún no abierto · 2027-07-26-2027-07-31
 
@@ -10020,7 +10020,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270802-20270807 · Camp Taiwan · Verano 2027 · El juego aún no está abierto · 2027-08-02-2027-08-07
 
@@ -10036,7 +10036,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270816-20270821 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-08-16–2027-08-21
 
@@ -10052,7 +10052,7 @@ Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuent
 Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirmar la fecha exacta de nacimiento y la recepción extranjera.
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP036-20270314-20270319 · U.S. Space & Rocket Center · Space Camp · 2027-03-14–2027-03-19
 
@@ -12036,7 +12036,7 @@ Precio: 2026/27 · SGD 655 / 4 days · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Bus  opción; vivienda familiar/caminos por separado, seguro especificar. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
 Fuente: https://www.campasia.asia/book-a-camp
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-06
 
 ### CP069-20261228-20261231 · Camp Asia · Robotics Makerspace · Robotics 9–12 · 2026-12-28–2026-12-31
 
@@ -12052,7 +12052,7 @@ Precio: 2026/27 · SGD 655 / 4 days · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Bus  opción; vivienda familiar/caminos por separado, seguro especificar. Pago: Prepago total; tras confirmación y pago sin cancelación / devolución de campamento, autobús ni merchandise, incluidas enfermedad, cierre meteorológico e imposibilidad de llegar. Cambio de curso al menos 10 días antes sujeto a plazas, abonando diferencia de curso más caro. Liability insurance del operador no sustituye accident / medical insurance personal del niño. FAQ no promete descuento por hermanos. Sin aceptar condiciones.
 Fuente: https://www.campasia.asia/book-a-camp
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-06
 
 ### CP075-20261226-20261230 · English Adventure · Winter Holiday · English Immersion · 4 noches / 5 días · 2026-12-26-2026-12-30
 
@@ -13044,7 +13044,7 @@ Precio: 2026/27 · Normalmente completo TWD 20 000 / medio 11 000; c GO 22 500 /
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20261221-20261224 · Lighthouse · Vacaciones inglesas de invierno · 4 días · Selección de la línea de edad · 2026-12-21–2026-12-24
 
@@ -13060,7 +13060,7 @@ Precio: 2026/27 · Normalmente completo TWD 16 000 / medio 8 800; c GO 18 000 / 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20261228-20261231 · Lighthouse · Vacaciones inglesas de invierno · 4 días · Selección de la línea de edad · 2026-12-28–2026-12-31
 
@@ -13076,7 +13076,7 @@ Precio: 2026/27 · Normalmente completo TWD 16 000 / medio 8 800; c GO 18 000 / 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20270125-20270129 · Lighthouse · Vacaciones inglesas de invierno · 5 días · elección de la línea de edad · 2027-01-25-2027-01-29
 
@@ -13092,7 +13092,7 @@ Precio: 2027 · Normalmente completo TWD 20 000 / medio 11 000; c GO 22 500 / 13
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20261012-20261016 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2026-10-12-2026-10-16
 
@@ -13156,7 +13156,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20261123-20261127 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2026-11-23-2026-11-27
 
@@ -13172,7 +13172,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20261214-20261218 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2026-12-14***2026-12-18
 
@@ -13188,7 +13188,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20261221-20261225 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2026-12-21–2026-12-25
 
@@ -13204,7 +13204,7 @@ Costo: 2026/27 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - p
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20261228-20261231 · Elev8 · Tokyo Coding / Mats holiday camp · 4 días - Selección de módulos · 2026-12-28-2026-12-31
 
@@ -13220,7 +13220,7 @@ Precio: 2026/27 · JPY 101 200 c tax / 4 Días sin descuentos · y condiciones d
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270104-20270108 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-01-04–2027-01-08
 
@@ -13236,7 +13236,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270125-20270129 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-01-25-2027-01-29
 
@@ -13252,7 +13252,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270201-20270205 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-01-2027-02-05
 
@@ -13268,7 +13268,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270208-20270212 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-08国2027-02-12
 
@@ -13284,7 +13284,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270215-20270219 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-02-15–2027-02-19
 
@@ -13300,7 +13300,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270222-20270226 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-02-22-2027-02-26
 
@@ -13316,7 +13316,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/winter-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270308-20270312 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-03-08 CLAIM2027-03-12
 
@@ -13332,7 +13332,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270315-20270319 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-03-15-2027-03-19
 
@@ -13348,7 +13348,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270322-20270326 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-03-22–2027-03-26
 
@@ -13364,7 +13364,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270329-20270402 · Elev8 · Tokyo Coding / Mats holiday camp · 5 días - Selección de módulos ·2027-03-29-2027-04-02
 
@@ -13380,7 +13380,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270405-20270409 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días - selección de módulos · 2027-04-05-2027-04-09
 
@@ -13396,7 +13396,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270412-20270416 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · selección de módulos · 2027-04-12–2027-04-16
 
@@ -13412,7 +13412,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270419-20270423 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-04-19-2027-04-23
 
@@ -13428,7 +13428,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270426-20270430 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-04-26-2027-04-30
 
@@ -13444,7 +13444,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP122-20270503-20270507 · Elev8 · Tokyo Coding / Maths holiday camp · 5 días · Selección de módulos · 2027-05-03-2027-05-07
 
@@ -13460,7 +13460,7 @@ Costo: 2027 · JPY 120 175 con tax/5 días de descuento 5+; 25 300 / día - pago
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; seleccionar un grupo más complejo programming experiencia anterior. Oscar: 6–7 Ajustado; Necesitas tu propia edad y tu propio nivel de aprendizaje.. Gastos adicionales: Los padres pagan los billetes de transporte público para acompañar y visitar a los pasajeros: IC card / Efectivo. Vivienda familiar y atención médica/Seguro de turismo por separado. Día ampliado en la grabación previa JPY 2 000/hora; Aclarar el impuesto. Pago: Terms: Pago total de 3 día en que se registró 21+ día, de otro modo 24 horas (La página de resumen dice simplemente 3 días). Cancelación: 96.5% Primeras 48 horas previas al comienzo, 90% por 21+ día, 50% por 8–20, 20% por 24 horas–7 días; más tarde sin devolución. Camp credit/arrastrar dentro de 180 días — alternativa separada.
 Fuente: https://www.elev8.co.jp/spring-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP126-20270419-20270422-zug-20270419 · TechSpark ·Animation & Game Design Junior · Zug · 4 días · 2027-04-19 CLAIM2027-04-22
 
@@ -22448,11 +22448,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP377-20270125-20270129-xinzhuang · S.E.E. · Future Dreamers · Future Dreamers · xinzhuang · 2027-01-25–2027-01-29
 
@@ -22464,11 +22464,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP377-20270125-20270129-tainan · S.E.E. · Future Dreamers · Future Dreamers · tainan · 2027-01-25–2027-01-29
 
@@ -22480,11 +22480,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP378-20270125-20270129-xinzhuang · S.E.E. · ESL Engineering · ESL Engineering · Fu Jen · 2027-01-25–2027-01-29
 
@@ -22496,11 +22496,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Todas las clases en inglés; necesitas la lista básica, el registro, la renovación y la ayuda de China en caso necesario.
 Marca de idioma: primary; soporte: no declarado
-Precio: 2027 · NT$16 800; individual early NT$14 280 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 16800 por cinco días. Hasta el 10.11.2026: individual TWD 14784; grupo 3+ TWD 14280; 6+ TWD 13440. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Si Grade 3–6, se ajusta a la categoría de formación; para Grade 1–2 - ¿Qué? - ¿Qué?. Oscar: Normal Grade 3 mínimo por encima de la clase probable. Sólo Grade 1–2 Nivel de inglés demostrado Grade 2 y una autorización expresa; No se ha concedido a los niños de preescolar la admisión. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP379-20261221-20261224-rochester-ingenious · Nullspace · EV3 Robotics Engineer · Ingenious · 09:30–12:00 · rochester · 2026-12-21–2026-12-24
 
@@ -22688,11 +22688,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Inmersión completa en inglés; los proyectos temáticos y la hora principal de la ciencia/technology/Engineering se realizan en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2026/27 · Winter 2026 precio todavía desconocido - pagos complementarios y condiciones de los archivos
+Precio: 2026/27 · JPY 66000 con impuesto por cinco días; extras aparte · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Conformidad Grade 6 o menos, y placement assessment; El contenido lingüístico normal puede ser demasiado sencillo. Oscar: Sí. Pre-K/Grupos asociados; edad específica, autonomía y placement confirmar. Gastos adicionales: Evaluación del inglés para elementary; Derechos, materiales, lunch, bus y prórroga aún no se ha determinado. Pago: Anticipo y cancelación Winter 2026 no publicado en la descripción leído.
+Limitaciones: Matvey: la conformidad con el Grado 6 o inferior y la evaluación de colocación; el contenido del lenguaje ordinario puede ser demasiado simple. Oscar: Hay grupos pre-K/juniores; edad, independencia y colocación concretas confirmar. Suplementos: Confirmar costes de almuerzo, cuidado, autobús, materiales y posible evaluación de nivel; alojamiento familiar y viaje aparte. Pago: El anticipo y la cancelación de Winter 2026 no se publican en la descripción que se lee.
 Fuente: https://external.oyis.org/intensives/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP386-20261221-20261225-wonderland · Osaka YMCA International School · Winter Intensive · Winter Wonderland · 09:30–15:00 · 2026-12-21–2026-12-25
 
@@ -22704,11 +22704,11 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Formato: day_camp
 Idioma: Inmersión completa en inglés; los proyectos temáticos y la hora principal de la ciencia/technology/Engineering se realizan en inglés.
 Marca de idioma: primary; soporte: no declarado
-Costo: 2026/27 · Winter 2026 precio todavía desconocido - pagos complementarios y condiciones de los archivos
+Precio: 2026/27 · JPY 66000 con impuesto por cinco días; extras aparte · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Conformidad Grade 6 o menos, y placement assessment; El contenido lingüístico normal puede ser demasiado sencillo. Oscar: Sí. Pre-K/Grupos asociados; edad específica, autonomía y placement confirmar. Gastos adicionales: Evaluación del inglés para elementary; Derechos, materiales, lunch, bus y prórroga aún no se ha determinado. Pago: Anticipo y cancelación Winter 2026 no publicado en la descripción leído.
+Limitaciones: Matvey: la conformidad con el Grado 6 o inferior y la evaluación de colocación; el contenido del lenguaje ordinario puede ser demasiado simple. Oscar: Hay grupos pre-K/juniores; edad, independencia y colocación concretas confirmar. Suplementos: Confirmar costes de almuerzo, cuidado, autobús, materiales y posible evaluación de nivel; alojamiento familiar y viaje aparte. Pago: El anticipo y la cancelación de Winter 2026 no se publican en la descripción que se lee.
 Fuente: https://external.oyis.org/intensives/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP390-20270704-20270710 · Camp Muskoka · internado de una semana de duración · 2027-07-04________________2027-07-10
 
@@ -37499,48 +37499,48 @@ Comprobado: 2026-10-06
 Lugar: Singapur · NLCS Singapore · 130 Depot Road
 Fecha: 2026-12-14 - 2026-12-18
 Edad: Magic 5–7; Active 8–12; Playtime 3–4 Por separado, Media jornada
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
 Formato: day_camp
 Idioma: FAQ requiere una buena conversación en inglés para participar, es el idioma de comunicación del campamento; 20 horas de lessons se refieren únicamente a otro inglés en acción.
 Marca de idioma: camp_life; soporte: no declarado
-Precio: 2026/27 · SGD 550/Niño; Dos. 1100 antes de las opciones · y condiciones del expediente
+Precio: 2026/27 · Tarifa histórica: SGD 550/niño; dos 1100 hasta las opciones · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-restricciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción externa y el lugar para confirmar. Oscar: a Oscar 5–6 en el 2026 y 6–7 en el 2027; La edad es adecuada, el grupo y la recepción externa individual confirmar. Gastos adicionales: Almuerzo y dos aperitivos solo se prometieron para los turnos de verano.; el alimento de diciembre aún confirmar. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de la familia por separado. el pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
+Limitaciones: Matvey: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Oscar: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Suplementos: El almuerzo y dos aperitivos solo se prometieron para los turnos de verano; la comida de diciembre también se confirmará. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de familia por separado. Pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
 Fuente: https://booknow.campbeaumont.asia/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP875-20261221-20261224-2026-12-21 · Camp Beaumont Singapore · NLCS Multi-Activity · Magic 5–7 / Active 8–12 · turno diario · 2026-12-21–2026-12-24
 
 Lugar: Singapur · NLCS Singapore · 130 Depot Road
 Fecha: 2026-12-21 - 2026-12-24
 Edad: Magic 5–7; Active 8–12; Playtime 3–4 Por separado, Media jornada
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
 Formato: day_camp
 Idioma: FAQ requiere una buena conversación en inglés para participar, es el idioma de comunicación del campamento; 20 horas de lessons se refieren únicamente a otro inglés en acción.
 Marca de idioma: camp_life; soporte: no declarado
-Precio: 2026/27 · SGD 440/Niño; Dos. 880 antes de las opciones · y condiciones del expediente
+Precio: 2026/27 · Tarifa histórica: SGD 440/niño; dos 880 hasta las opciones · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-restricciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción externa y el lugar para confirmar. Oscar: a Oscar 5–6 en el 2026 y 6–7 en el 2027; La edad es adecuada, el grupo y la recepción externa individual confirmar. Gastos adicionales: Almuerzo y dos aperitivos solo se prometieron para los turnos de verano.; el alimento de diciembre aún confirmar. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de la familia por separado. el pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
+Limitaciones: Matvey: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Oscar: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Suplementos: El almuerzo y dos aperitivos solo se prometieron para los turnos de verano; la comida de diciembre también se confirmará. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de familia por separado. Pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
 Fuente: https://booknow.campbeaumont.asia/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP875-20261228-20261231-2026-12-28 · Camp Beaumont Singapore · NLCS Multi-Activity · Magic 5–7 / Active 8–12 · turno diario · 2026-12-28–2026-12-31
 
 Lugar: Singapur · NLCS Singapore · 130 Depot Road
 Fecha: 2026-12-28 - 2026-12-31
 Edad: Magic 5–7; Active 8–12; Playtime 3–4 Por separado, Media jornada
-Matway: Condicional; comprobar la edad, clase y admisión
-Óscar: Condicional; comprobar la edad, la clase y la admisión
+Matway: especificar; no se ha establecido la edad de admisión
+Oscar: especificar; no se ha establecido la edad de admisión
 Formato: day_camp
 Idioma: FAQ requiere una buena conversación en inglés para participar, es el idioma de comunicación del campamento; 20 horas de lessons se refieren únicamente a otro inglés en acción.
 Marca de idioma: camp_life; soporte: no declarado
-Precio: 2026/27 · SGD 440/Niño; Dos. 880 antes de las opciones · y condiciones del expediente
+Precio: 2026/27 · Tarifa histórica: SGD 440/niño; dos 880 hasta las opciones · suplementos y condiciones en el dossier
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-restricciones: Matvey: a Matvey 8–9 en el 2026 y 9–10 en el 2027; La edad es adecuada, la recepción externa y el lugar para confirmar. Oscar: a Oscar 5–6 en el 2026 y 6–7 en el 2027; La edad es adecuada, el grupo y la recepción externa individual confirmar. Gastos adicionales: Almuerzo y dos aperitivos solo se prometieron para los turnos de verano.; el alimento de diciembre aún confirmar. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de la familia por separado. el pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
+Limitaciones: Matvey: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Oscar: No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Suplementos: El almuerzo y dos aperitivos solo se prometieron para los turnos de verano; la comida de diciembre también se confirmará. autobús por inscripción previa por pago adicional. FLEX por separado; seguro médico de familia por separado. Pago: pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
 Fuente: https://booknow.campbeaumont.asia/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP877-20270111-20270115-2027-01-11 · D.CAMPS · Daewon English STEM Winter · Daewon · English STEM; Clase/complemento de confirmación · 2027-01-11–2027-01-15
 
@@ -37554,9 +37554,9 @@ Idioma: El anuncio 2027 confirma el programa inglés; FAQ precisa que la segurid
 Marca de idioma: primary; soporte: no declarado
 Costo: 2027 - KRW 989000; tarifa normal - pagos adicionales y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Se requiere clase confirmada: 1–3 para CTEB o 4–6 para AI. De 2017 No se puede sacar la clase coreana correcta.. Oscar: 2020 Año de nacimiento no prueba 1-¡Vaya clase para enero!. Si aún es un niño de preescolar., juego estándar 1–6 No encaja.; separado junior intake No encontrado. Gastos adicionales: Vehículo de transporte escolar por pago adicional; La familia vive sola.. Laptop/micro:bit, Seguro, Recepción extranjera y cuenta final de confirmación.. Pago: Normas internas: hasta el inicio 100% por 20 días, 90% por 10, 80% Por uno; al día de comienzo 70%, hasta la mitad del turno 50%, luego no.. Aplicabilidad a la selección, Seguro y gastos médicos de un niño extranjero para verificar el contrato. El descuento de septiembre terminó. 18.09.2026.
+Limitaciones: Matvey: Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario. Oscar: 2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra. Suplementos: la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP877-20270118-20270122-2027-01-18 · D.CAMPS · Daewon English STEM Winter · Daewon · English STEM; clase/módulo de confirmación · 2027-01-18 CLAIM2027-01-22
 
@@ -37570,9 +37570,9 @@ Idioma: El anuncio 2027 confirma el programa inglés; FAQ precisa que la segurid
 Marca de idioma: primary; soporte: no declarado
 Costo: 2027 - KRW 989000; tarifa normal - pagos adicionales y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Se requiere clase confirmada: 1–3 para CTEB o 4–6 para AI. De 2017 No se puede sacar la clase coreana correcta.. Oscar: 2020 Año de nacimiento no prueba 1-¡Vaya clase para enero!. Si aún es un niño de preescolar., juego estándar 1–6 No encaja.; separado junior intake No encontrado. Gastos adicionales: Vehículo de transporte escolar por pago adicional; La familia vive sola.. Laptop/micro:bit, Seguro, Recepción extranjera y cuenta final de confirmación.. Pago: Normas internas: hasta el inicio 100% por 20 días, 90% por 10, 80% Por uno; al día de comienzo 70%, hasta la mitad del turno 50%, luego no.. Aplicabilidad a la selección, Seguro y gastos médicos de un niño extranjero para verificar el contrato. El descuento de septiembre terminó. 18.09.2026.
+Limitaciones: Matvey: Se requiere una clase confirmada: 1–3 para el CTEB de la misma 4–6 para el AI. de la 2017 No se puede sacar el curso coreano necesario. Oscar: 2020 el año de nacimiento no prueba 1-clase para enero. si todavía es preescolar, conjunto estándar 1–6 No es adecuado.; de la misma junior intake No se encuentra. Suplementos: la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real. Pago: sus propias reglas: hasta que comience el regreso 100% por 20 días, 90% por 10, 80% por uno; el día de la primera 70%, hasta la mitad del turno 50%, y luego no.. aplicabilidad para el conjunto seleccionado, el seguro y los gastos médicos del niño extranjero para verificar por contrato. Se acabó el descuento de septiembre. 18.09.2026.
 Fuente: https://www.dcampskorea.com/post/2027-winter-daewon
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP878-20270104-20270108 · D.CAMPS · Seoul National University STEM Boarding · 2027-01-04–2027-01-08
 

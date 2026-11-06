@@ -5844,7 +5844,7 @@ Italia · Roncade / Venice
 
 Taiwán · Wanli / New Taipei
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 * Edad:** Youth Summer 7*12; Teens 13*16; el formato familiar tiene reglas separadas.
 
@@ -5869,6 +5869,50 @@ Taiwán · Wanli / New Taipei
 **Oscar:** Sólo después 7-años; Comprobar el formato de la familia antes de que lo haga.
 
 ** Por qué en la selección:** Primer candidato inglés general en Taiwán después de la prueba de edad de Oscar.
+
+### Análisis editorial
+
+Residencia de aventura en inglés con normas concretas de autonomía; el menor debe tener al menos siete años.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Estancia general de aventura con entorno inglés; es esencial estar preparado para dormir separado de los hermanos.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Primer internado:** Considerar como alternativa · Para una primera estancia residencial, revisar la edad mínima de siete años, la autonomía nocturna y la comunicación limitada con la familia.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general o lingüística; no se ha establecido un programa específico de robótica.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Naturaleza, retos con cuerdas, creatividad, deporte y juegos de equipo. Es una estancia general, no un curso técnico intensivo.
+
+[fuente oficial](https://www.camptaiwan.com.tw/summer-camp) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · El grupo Youth de verano es para 7–12. Matvey cumple por edad; Oscar solo después de cumplir siete años. Hay seis turnos de 2027 publicados, todos sin inscripción abierta.
+
+[fuente oficial](https://www.camptaiwan.com.tw/summer-camp) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Las preguntas frecuentes asignan el inglés a las instrucciones, comunicación, canciones y actividades. Cada equipo cuenta con monitores de inglés y chino; no hay clases de idiomas separadas.
+
+[fuente oficial](https://www.camptaiwan.com.tw/faq) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El organizador describe una enfermera, formación en primeros auxilios y normalmente 1:6 en actividades. Es su declaración; aún se desconoce el personal del turno concreto.
+
+[fuente oficial](https://www.camptaiwan.com.tw/faq) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Las tiendas suelen alojar a 4–6 niños y el personal duerme cerca. Los hermanos no comparten tienda; se prohíben llamadas a los niños y dispositivos electrónicos personales. El aviso exige que un tutor permanezca en Taiwán.
+
+[fuente oficial](https://www.camptaiwan.com.tw/faq) · 2026-11-06
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Youth: TWD 24000 por seis días; en un grupo de 2–5, TWD 23000. Inscripción y autobús forman parte de la tarifa total; el pago internacional con tarjeta añade un 5%. Confirmar la factura final de 2027 y el viaje aparte.
+
+[fuente oficial](https://www.camptaiwan.com.tw/summer-camp) · 2026-11-06
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -5962,9 +6006,9 @@ Taiwán · Wanli / New Taipei
 
 - [campamentos y programas](https://www.camptaiwan.com.tw/) · 2026-10-05
 
-- [Summer: edad / precio / cambios de edad](https://www.camptaiwan.com.tw/summer-camp) · 2026-10-05
+- [Summer: edad / precio / cambios de edad](https://www.camptaiwan.com.tw/summer-camp) · 2026-11-06
 
-- [FAQ: Inglés / tiendas de campaña / hermanos](https://www.camptaiwan.com.tw/faq) · 2026-10-05
+- [FAQ: Inglés / tiendas de campaña / hermanos](https://www.camptaiwan.com.tw/faq) · 2026-11-06
 
 - [Ownsummerhandbook: bus/meals/communication](https://www.camptaiwan.com.tw/parent-handbook-getting-ready-for-camp) · 2026-10-05
 
@@ -9532,7 +9576,7 @@ España · Madrid · Argentina 6
 
 Singapur · Singapore · Campus de la semana seleccionada
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 6–8 / 9–12
 
@@ -9557,6 +9601,50 @@ Singapur · Singapore · Campus de la semana seleccionada
 **Oscar:** Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte.
 
 ** Por qué en la selección:** Candidato Técnico Municipal Conservante; FAQ permite expresamente a los niños de escuelas, países y nacionalidades diferentes.
+
+### Análisis editorial
+
+Robótica con grupos por edad; en el calendario actual de diciembre los hermanos corresponden a semanas distintas.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica con plataformas definidas; tras tres años de experiencia, confirmar la dificultad y buscar otro curso en el mismo campus para el segundo niño.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · LEGO, SPIKE y VEX, construcción, código por bloques, pruebas y retos diarios. El ejemplo de cinco días no garantiza todos sus retos en un turno de cuatro días.
+
+[fuente oficial](https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Para el 21–24 de diciembre de 2026 solo figura el grupo 6–8, y para el 28–31 de diciembre solo el de 9–12. Oscar y Matvey no pueden elegir ambos Robotics en una de esas semanas según la oferta actual.
+
+[fuente oficial](https://www.campasia.asia/book-a-camp) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El entorno principal es inglés; las preguntas frecuentes aceptan alumnos de distintas escuelas, nacionalidades y países. Esto no garantiza una plaza.
+
+[fuente oficial](https://www.campasia.asia/about-us/faqs.html) · 2026-11-06
+
+[fuente oficial](https://www.campasia.asia/about-us/our-promise.html) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se identifica al responsable del área con experiencia en robótica y equipos escolares. No se han confirmado el profesor ni el tamaño del grupo de invierno concreto.
+
+[fuente oficial](https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Programa diurno 09:00–15:00, almuerzo y dos tentempiés. Las normas describen una enfermera los días laborables de vacaciones; después de 15:00 hay un cargo de SGD 50 por cada diez minutos de retraso.
+
+[fuente oficial](https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html) · 2026-11-06
+
+[fuente oficial](https://www.campasia.asia/about-us/terms-and-conditions.html) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · El turno actual de cuatro días cuesta SGD 655; el ejemplo general de cinco días a SGD 725 no sustituye esa tarifa. Autobús aparte; no hay reembolso tras el pago y los cambios requieren aviso con diez días y disponibilidad.
+
+[fuente oficial](https://www.campasia.asia/book-a-camp) · 2026-11-06
+
+[fuente oficial](https://www.campasia.asia/about-us/terms-and-conditions.html) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -9628,15 +9716,15 @@ Singapur · Singapore · Campus de la semana seleccionada
 
 ### Fuentes
 
-- [programa específico / edad / precio](https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html) · 2026-10-04
+- [programa específico / edad / precio](https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html) · 2026-11-06
 
-- [Winter booking board](https://www.campasia.asia/book-a-camp) · 2026-11-05
+- [Winter booking board](https://www.campasia.asia/book-a-camp) · 2026-11-06
 
-- [International individual route](https://www.campasia.asia/about-us/faqs.html) · 2026-11-05
+- [International individual route](https://www.campasia.asia/about-us/faqs.html) · 2026-11-06
 
-- [condiciones de cambio / cancelación](https://www.campasia.asia/about-us/terms-and-conditions.html) · 2026-10-04
+- [condiciones de cambio / cancelación](https://www.campasia.asia/about-us/terms-and-conditions.html) · 2026-11-06
 
-- [Current English-primary promise](https://www.campasia.asia/about-us/our-promise.html) · 2026-11-05
+- [Current English-primary promise](https://www.campasia.asia/about-us/our-promise.html) · 2026-11-06
 
 ## CP070 · Camp Asia · Creative Coding
 
@@ -12372,7 +12460,7 @@ Singapur · Forum The Shopping Mall · #02-01/02, 583 Orchard Road; 09:30–12:0
 
 Taiwán · Taipei · Xinyi, cerca del MRT Taipei City Hall; dirección exacta para especificar
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Grupos 5–7 y 8–12; VEX GO Sólo 8–12
 
@@ -12397,6 +12485,56 @@ Taiwán · Taipei · Xinyi, cerca del MRT Taipei City Hall; dirección exacta pa
 **Oscar:** Edad 5–7 Definitiva.; Junior Tech Por separado, VEX GO no disponible.
 
 ** Por qué en la selección:** una versión específica del viaje de invierno de ambos en la misma zona de Taipei, con pistas de edad inglesas; tres años de robótica deben probarse con suficiente complejidad.
+
+### Análisis editorial
+
+Semanas temáticas en inglés con un itinerario técnico infantil y VEX GO separado para el mayor.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Confirmar la dificultad del VEX GO inicial para Matvey y la lógica infantil separada para Oscar. Un día completo no equivale a robótica durante todo el día.
+
+**de la empresa:** Considerar como alternativa · Hay temas Shark Tank para ambas edades, pero hay que elegir la semana y el resultado de aprendizaje concretos.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · El menú de invierno incluye Junior Tech para 5–7 y VEX GO para 8–12, además de emprendimiento y medios. El tema, horario y combinación de bloques concretos aún deben asignarse al grupo.
+
+[fuente oficial](https://www.lighthousecamps.com/schedule) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Las edades generales sirven para ambos, pero son cursos distintos. La presencia de VEX IQ en la tarifa general no confirma ese curso de invierno.
+
+[fuente oficial](https://www.lighthousecamps.com/schedule) · 2026-11-06
+
+[fuente oficial](https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El organizador describe enseñanza de materias en inglés; los temas lingüísticos y escritos requieren experiencia adecuada de lectura y escritura.
+
+[fuente oficial](https://www.lighthousecamps.com/) · 2026-11-06
+
+[fuente oficial](https://www.lighthousecamps.com/faqs-241203521121839389883529931572) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Un grupo ordinario abre desde 4 participantes. No se publican el máximo del grupo ni los profesores asignados al tema elegido.
+
+[fuente oficial](https://www.lighthousecamps.com/schedule) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Dos bloques 09:30–12:30 y 13:30–16:30; hay que acordar el almuerzo entre ellos. Los padres no acompañan las clases y reciben comentarios y material sobre los trabajos al terminar.
+
+[fuente oficial](https://www.lighthousecamps.com/schedule) · 2026-11-06
+
+[fuente oficial](https://www.lighthousecamps.com/faqs-241203521121839389883529931572) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Por 5 días completos, el curso ordinario cuesta TWD 20000 y con GO TWD 22500. GO exige un depósito reembolsable de TWD 2000; almuerzo opcional TWD 220 al día. El descuento anticipado de octubre ya terminó.
+
+[fuente oficial](https://www.lighthousecamps.com/schedule) · 2026-11-06
+
+[fuente oficial](https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080) · 2026-11-06
+
+[fuente oficial](https://www.lighthousecamps.com/faqs-241203521121839389883529931572) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -12444,13 +12582,13 @@ Taiwán · Taipei · Xinyi, cerca del MRT Taipei City Hall; dirección exacta pa
 
 ### Fuentes
 
-- [invierno 2026/27: fechas, temas, plataforma y pagos adicionales](https://www.lighthousecamps.com/schedule) · 2026-10-05
+- [invierno 2026/27: fechas, temas, plataforma y pagos adicionales](https://www.lighthousecamps.com/schedule) · 2026-11-06
 
-- [precio: días completos y medio](https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080) · 2026-10-05
+- [precio: días completos y medio](https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080) · 2026-11-06
 
-- [la solicitud en el idioma del operador](https://www.lighthousecamps.com/) · 2026-10-05
+- [la solicitud en el idioma del operador](https://www.lighthousecamps.com/) · 2026-11-06
 
-- [FAQ: lengua, almuerzo, acompañamiento y devoluciones](https://www.lighthousecamps.com/faqs-241203521121839389883529931572) · 2026-10-05
+- [FAQ: lengua, almuerzo, acompañamiento y devoluciones](https://www.lighthousecamps.com/faqs-241203521121839389883529931572) · 2026-11-06
 
 ## CP119 · Lighthouse · Junior Tech 1 + 2
 
@@ -12594,13 +12732,13 @@ Taiwán · Taipei · Xinyi, cerca del MRT Taipei City Hall; dirección exacta pa
 
 Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Edad básica 5–12; por nivel de experiencia, no sólo la edad
 
 ** Idioma:** Conding página: fully in English; Terms confirman expresamente el programa y las muertes en inglés.
 
-** Programa:** Elegir Programming, Mats, English o Japanese; puede haber uno o dos temas: programar desde la digitalización inicial hasta Scratch y Python, según el nivel de lectura/experiencia; mañana y día de aprendizaje, con movimiento/juegos; cada miércoles, todo el campamento se va a una excursión; los ordenadores están disponibles, no es obligatorio.
+**Programa:** Cuatro módulos a elegir: Programming, Maths, English, Japanese. Programación en inglés desde alfabetización digital y Scratch hasta Python según habilidades. Mañana y tarde combinan bloques lectivos, deporte y proyectos; cada miércoles se dedica íntegramente a excursión. No son cinco días completos de programación.
 
 ** Residencia:** Campamento diurno; los padres organizan alojamiento, caminos y escoltas fuera de la escuela.
 
@@ -12619,6 +12757,58 @@ Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 **Oscar:** 6–7 Definitiva.; Necesitas tu propio nivel de edad y de aprendizaje..
 
 ** Por qué en la selección:** Una de las opciones más transparentes para el viaje de estudio familiar a Tokio: fechas reales, coding en inglés, impuestos y excepciones al transporte.
+
+### Análisis editorial
+
+Programación en inglés con grupos por habilidad; el miércoles se dedica íntegramente a una excursión.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Entre las opciones revisadas ofrece un paso definido Scratch–Python y elección de nivel; confirmar las horas técnicas concretas.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Itinerario desde alfabetización digital y Scratch hasta Python, funciones y depuración. Los bloques lectivos se combinan con deporte y proyectos; cada miércoles es excursión, no clases de código.
+
+[fuente oficial](https://www.elev8.co.jp/winter-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Edad principal 5–12 y grupos por nivel. Ambos cumplen por edad; tras tres años de experiencia, elegir un reto según habilidades reales en lugar de un curso inicial por su nombre.
+
+[fuente oficial](https://www.elev8.co.jp/winter-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Programming y Maths se enseñan principalmente en inglés. Scratch y Python tienen distintos requisitos de comprensión, lectura y autonomía.
+
+[fuente oficial](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se anuncia un máximo de 5:1 y se publican nombres y materias del equipo. Confirmar el profesor asignado a la semana y sus cualificaciones.
+
+[fuente oficial](https://www.elev8.co.jp/winter-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/our-team) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Jornada urbana aproximada 09:00–17:00 con comida incluida. El acompañamiento desde estaciones seleccionadas es gratuito, pero los billetes de transporte se pagan aparte. Sin residencia.
+
+[fuente oficial](https://www.elev8.co.jp/winter-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · JPY 23000 al día más 10% de impuesto; cinco días con descuento suman JPY 120175 con impuesto. La excursión está incluida; billetes de transporte y cuidado adicional aparte. Reembolso y crédito tienen reglas distintas.
+
+[fuente oficial](https://www.elev8.co.jp/winter-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/spring-camp) · 2026-11-06
+
+[fuente oficial](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -12856,13 +13046,13 @@ Japón · Tokyo · Roppongi, Houraiya Building 7F, 5-2-1
 
 ### Fuentes
 
-- [otoño/invierno 2026/27, fechas y precios](https://www.elev8.co.jp/winter-camp) · 2026-10-05
+- [otoño/invierno 2026/27, fechas y precios](https://www.elev8.co.jp/winter-camp) · 2026-11-06
 
-- [Spring / Easter 2027](https://www.elev8.co.jp/spring-camp) · 2026-10-05
+- [Spring / Easter 2027](https://www.elev8.co.jp/spring-camp) · 2026-11-06
 
-- [Coding: Inglés y niveles](https://www.elev8.co.jp/coding-summer-camp) · 2026-10-05
+- [Coding: Inglés y niveles](https://www.elev8.co.jp/coding-summer-camp) · 2026-11-06
 
-- [Terms: pago, transporte, crédito, seguro](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-10-05
+- [Terms: pago, transporte, crédito, seguro](https://www.elev8.co.jp/camp-terms-and-conditions) · 2026-11-06
 
 ## CP123 · Dwight Seoul · Junior Summer Academy
 
@@ -27568,7 +27758,7 @@ Singapur - Varios centros; dirección exacta del turno seleccionado
 
 Taiwán · Zhubei · No. 96 Jiaxing 1st Street, Hsinchu County
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad: ** Escuela primaria (Escuela primaria); no se ha publicado la frontera numérica.
 
@@ -27580,19 +27770,57 @@ Taiwán · Zhubei · No. 96 Jiaxing 1st Street, Hsinchu County
 
 **Fechas / situación:** 25–29.01.2027,09:00–12:00. Ya hay un calendario. L143: La nueva tarjeta está relacionada con ella sin volver a cambiar..
 
-**Precio / año:** 2027 · Antes 16.10.2026: NT$7 900 + Material obligatorio 900 =8 800; más tarde 8 800+900=9 700.
+**Precio / año:** 2027 · Página actual: TWD 8800 de curso + TWD 900 de materiales obligatorios = TWD 9700 por cinco mañanas. Ya no aparece el precio anticipado de octubre.
 
 **Activado:** 5 sesiones matutinas, libro original, cinco principales STEM-proyectos y proyectos Flight Log; materials ya se han incluido por separado en el total 8 800/9 700.
 
 ** Pagadero:** Nutrición/vivienda/carretera por separado; nuevas condiciones para la reserva/depósito especificar, no añadir de nuevo el depósito antiguo.
 
-** Pago:** Early bird se aplica a la presentación hasta el 16 de octubre inclusive Taiwan time; pago/depositamiento de NE como condición para la tarifa temprana.
+**Pago:** Las ausencias no se reembolsan ni recuperan. La página actual ya no contiene la antigua condición de inscripción anticipada de octubre; confirmar el contrato de cancelación y reserva aparte.
 
 ** Matwey: ** Se necesitan clases de enseñanza primaria y de lectura en inglés; la edad de 9 a 10 no es por sí sola un requisito de admisión.
 
 **Oscar:** únicamente en la clase elementary adecuada y la confirmación de la admisión menor; la edad civil 6 no es el Grade 1.
 
 ** Por qué en la selección:** Proyecto de ingeniería inglesa para el viaje familiar; pregunta principal: admisión en la escuela secundaria.
+
+### Análisis editorial
+
+Ingeniería de vuelo y lectura en inglés en un grupo de ocho; sin programación de robots.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Se describen las pruebas y el diario del proyecto, pero el nivel es inicial; acordar un reto más profundo para el mayor.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Cinco mañanas: avión de papel, viento, planeador, paracaídas y un proyecto volador propio. Los niños predicen, prueban, modifican la estructura y llevan un Flight Log.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Se indica primaria sin un límite numérico. Ambos necesitan el curso correspondiente y confirmación del nivel; la edad por sí sola no supone admisión.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El idioma principal es inglés, con apoyo en chino de Tr Shelly si hace falta. Las preguntas del libro orientan el debate y no son una prueba formal de ingreso.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se publica un máximo de 8 niños y apoyo de Tr Shelly. No se han establecido las cualificaciones del profesor extranjero ni el equipo concreto.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · 25–29 de enero de 2027, 09:00–12:00; llegada no antes de 08:40 y recogida hasta 12:20. No se ofrece cuidado por la tarde ni residencia.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · La tarifa actual es TWD 8800 más materiales obligatorios TWD 900, total TWD 9700. Ya no se muestra el antiguo precio anticipado de octubre. Las ausencias no se reembolsan ni recuperan.
+
+[fuente oficial](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -27604,13 +27832,13 @@ Taiwán · Zhubei · No. 96 Jiaxing 1st Street, Hsinchu County
 
 **lugar:** Zhubei · No.96 Jiaxing 1st Street, Hsinchu County
 
-**Precio:** NT$8 800 early /9 700 regular, los materiales incluidos
+**Precio:** TWD 9700 con materiales obligatorios; tarifa ordinaria actual
 
 [fuente](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/)
 
 ### Fuentes
 
-- [winter2027 completo: plan de estudios, EN, dirección, tarifa temprana](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-10-05
+- [winter2027 completo: plan de estudios, EN, dirección, tarifa temprana](https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/) · 2026-11-06
 
 ## CP337 · LT Brown · Edison AI Scientist Camp
 
@@ -29980,7 +30208,7 @@ España · Madrid · CiudadUniversitaria; campus 2027
 
 Taiwán · Taipei / Xinzhuang / Tainan
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad: ** Grupo Superior de Jardines de infantes - Grade 4; Grade 5+ sólo por acuerdo.
 
@@ -29992,7 +30220,7 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 *Datos/estatuto:** (25 de mayo a 29 de enero) 2027 en tres lugares: 09:00 a 17:00; rejas: 17:10 ó 17:40; sesión matutina 08:00 a 08:40.
 
-**Precio / año:** 2027 · NT$13 800 / 5 días. Antes 11.10.2026: individual NT$11 730; Grupo 3+ NT$11 040; 6+ NT$10 350.
+**Precio / año:** 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa.
 
 * Incluida:** Material, almuerzo, bocadillos; el primer día se presentó una camiseta de campamento.
 
@@ -30006,6 +30234,56 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 ** Por qué en la selección: ** Candidato para un viaje conjunto de ambos a Taiwán con muestras diarias de inglés y de profesión.
 
+### Análisis editorial
+
+Inglés mediante profesiones, juegos y actividades de equipo; campamento diurno general.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general o lingüística; no se ha establecido un programa específico de robótica.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar para inglés temático y ocio general tras confirmar el grupo y el campus.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Roles de cocina, aviación, escenario y medicina, deporte y comunicación. Es una estancia lingüística temática, no una liga de ingeniería.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · El ingreso general va desde el último año infantil hasta Grade 4. Los mayores requieren acuerdo; confirmar la equivalencia del curso extranjero.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se anuncian actividades en inglés con profesor extranjero y local; apoyo en chino si hace falta. Engineering requiere lectura y escritura básicas.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Máximo 18 niños, profesor extranjero y local, y apoyo administrativo. Es la descripción del organizador, no una comprobación independiente del personal asignado.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · 25–29 de enero de 2027, 09:00–17:00. Incluye almuerzo y tentempié; recogida tardía con cargo después de 18:00, sin seguro de viaje diurno incluido.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/precautions/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Tarifa ordinaria TWD 13800; anticipada individual TWD 12144 hasta el 10 de noviembre de 2026. Los colegios asociados aplican sus propias tarifas.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/precautions/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
+
 ### Antes de solicitar plaza
 
 - confirmar las clases, la recepción de los niños de una escuela extranjera, la disponibilidad de plazas, el punto exacto de reunión y el precio final después del período de descuento.
@@ -30016,7 +30294,7 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 **lugar:** National Taipei University of Business · 321 Jinan Road Section 1, Zhongzheng, Taipei 100025
 
-**Precio:** NT$13 800; personal early NT$11 730 hasta el 11.10.2026
+**Precio:** TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa.
 
 [fuente](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/)
 
@@ -30026,7 +30304,7 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 **lugar:** Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei
 
-**Precio:** NT$13 800; personal early NT$11 730 hasta el 11.10.2026
+**Precio:** TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa.
 
 [fuente](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/)
 
@@ -30036,15 +30314,15 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 **lugar:** NCKU Green Magic School · 25 Xiaodong Road, North District, Tainan
 
-**Precio:** NT$13 800; personal early NT$11 730 hasta el 11.10.2026
+**Precio:** TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa.
 
 [fuente](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/)
 
 ### Fuentes
 
-- [Future Dreamers 2027: lugares, lengua y precios](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-10-05
+- [Future Dreamers 2027: lugares, lengua y precios](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
 
-- [pago, cancelación y seguro diario](https://seecamp.com.tw/precautions/) · 2026-10-05
+- [pago, cancelación y seguro diario](https://seecamp.com.tw/precautions/) · 2026-11-06
 
 - [Universidad confirma el domicilio de Taipei](https://som.ntub.edu.tw/index.php?Lang=en) · 2026-10-05
 
@@ -30052,7 +30330,7 @@ Taiwán · Taipei / Xinzhuang / Tainan
 
 Taiwán · Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Grades 3–6; Grades 1–2 — En inglés, individualmente, por lo menos, el inglés Grade 2.
 
@@ -30064,7 +30342,7 @@ Taiwán · Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Tai
 
 ** Fechas/estatuto:** (25 de mayo a 29 de enero de 2027, sólo Fu Jen / Xinzhuang, 09:00 a 17:00; valla 17:10 ó 17:40.
 
-**Precio / año:** 2027 · NT$16 800 / 5 días. Antes 11.10.2026: individual NT$14 280; 3+ NT$13 440; 6+ NT$12 600.
+**Precio / año:** 2027 · TWD 16800 por cinco días. Hasta el 10.11.2026: individual TWD 14784; grupo 3+ TWD 14280; 6+ TWD 13440. Los colegios asociados tienen su propia tarifa.
 
 * Incluida:** Materiales, almuerzo, bocadillos y camiseta de campamento.
 
@@ -30078,6 +30356,56 @@ Taiwán · Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Tai
 
 ** Por qué en la selección:** Mayor alternativa de ingeniería al campamento de idiomas de Matway; Oscar no promete la admisión automática.
 
+### Análisis editorial
+
+Experimentos de ingeniería en inglés; el curso y el nivel lingüístico importan más que la edad.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Ingeniería práctica sin programación confirmada; verificar el nivel y la admisión del menor.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerar para inglés temático y ocio general tras confirmar el grupo y el campus.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Se describen ruedas, palancas, hidráulica y flotabilidad; ese resultado no equivale a robótica específica ni IA.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Engineering es para Grades 3–6; Grades 1–2 solo por acuerdo y con inglés de Grade 2 anglófono. Hay que confirmar el curso de Matvey y Oscar.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se anuncian actividades en inglés con profesor extranjero y local; apoyo en chino si hace falta. Engineering requiere lectura y escritura básicas.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Máximo 18 niños, profesor extranjero y local, y apoyo administrativo. Es la descripción del organizador, no una comprobación independiente del personal asignado.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · 25–29 de enero de 2027, 09:00–17:00. Incluye almuerzo y tentempié; recogida tardía con cargo después de 18:00, sin seguro de viaje diurno incluido.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/precautions/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Tarifa ordinaria TWD 16800; anticipada individual TWD 14784 hasta el 10 de noviembre de 2026. Dos hermanos no forman el grupo de tres exigido para el descuento colectivo.
+
+[fuente oficial](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
+
+[fuente oficial](https://seecamp.com.tw/precautions/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
+
 ### Antes de solicitar plaza
 
 - obtener la confirmación de clase extranjera, el idioma de las explicaciones técnicas, la evaluación de lectura/escritura, las tareas por nivel y el cálculo final.
@@ -30088,15 +30416,15 @@ Taiwán · Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Tai
 
 **lugar:** Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei
 
-**Precio:** NT$16 800; individual early NT$14 280 hasta el 11.10.2026
+**Precio:** TWD 16800 por cinco días. Hasta el 10.11.2026: individual TWD 14784; grupo 3+ TWD 14280; 6+ TWD 13440. Los colegios asociados tienen su propia tarifa.
 
 [fuente](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/)
 
 ### Fuentes
 
-- [Engineering 2027: requisitos y precios](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-10-05
+- [Engineering 2027: requisitos y precios](https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/) · 2026-11-06
 
-- [las condiciones de S.E.E.](https://seecamp.com.tw/precautions/) · 2026-10-05
+- [las condiciones de S.E.E.](https://seecamp.com.tw/precautions/) · 2026-11-06
 
 ## CP379 · Nullspace · EV3 Robotics Engineer
 
@@ -30506,7 +30834,7 @@ Singapur · Singapore · centro de entrenamiento específico que requiere confir
 
 Japón · Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Pre-K 国 Grade 6; las clases se distribuyen a nivel inglés, sin que se publique un límite numérico.
 
@@ -30516,13 +30844,13 @@ Japón · Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
 ** Residencia:** Campus de la ciudad de día, con participantes del Japón y de otros países; no hay internado.
 
-**Fechas / situación:** 14–18 y 21–25 diciembre 2026; 09:30–15:00. Apertura de la entrada 20 octubre. En 05.10.2026 detallado winter flyer Otra vez. Coming Soon.
+**Fechas / estado:** 14–18 y 21–25 de diciembre de 2026, 09:30–15:00. Solicitudes anunciadas: 20 de octubre–30 de noviembre; plaza real y condiciones de admisión aparte.
 
-**Capital/año:** no se ha instalado / Price Winter 2026 no se ha publicado aún en la página de lectura. Los precios del verano o del viejo winter flyer no se pueden transferir.
+**Precio / año:** 2026 · Winter 2026: JPY 60000 sin impuesto, JPY 66000 con impuesto por cinco días. Precio del nuevo folleto de invierno, no de verano.
 
-** Incluye:** Desclasificados los proyectos y una visita guiada; se debe confirmar la inclusión financiera, el almuerzo y el transporte.
+**Incluido:** Actividades temáticas y práctica de inglés. Almuerzo, cuidado y autobús figuran como servicios adicionales; confirmar su precio y contenido aparte.
 
-** Pagadero: ** Evaluación del inglés para elementary; tasas, materiales, lunch, bus y prórrogas todavía no se conocen.
+**Suplementos:** Confirmar costes de almuerzo, cuidado, autobús, materiales y posible evaluación de nivel; alojamiento familiar y viaje aparte.
 
 ** Paga:** Anticipo y cancelación de Winter 2026 no se ha publicado en la descripción que se lee.
 
@@ -30531,6 +30859,48 @@ Japón · Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 **Oscar: ** Hay pre-K/grupos jóvenes; edad, autonomía y lugar de residencia específicos.
 
 ** Por qué en la selección:** versión internacional confirmada de día para ambos en Osaka, con dos semanas independientes en diciembre.
+
+### Análisis editorial
+
+Intensivo general de inglés en Osaka: ya hay tarifa de invierno, sin especialización técnica confirmada.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Es una estancia general o lingüística; no se ha establecido un programa específico de robótica.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Opción de inmersión escolar general en inglés con dos temas independientes en diciembre.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Dos temas independientes Survival Island y Winter Wonderland, debate, lectura, PE y creatividad. Las referencias generales a robots en la web no constituyen un curso de invierno específico.
+
+[fuente oficial](https://external.oyis.org/intensives/) · 2026-11-06
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Preschool–Grade 6; se aceptan expresamente alumnos extranjeros. Hay evaluación de inglés en primaria y agrupación por nivel, no solo edad.
+
+[fuente oficial](https://external.oyis.org/intensives/) · 2026-11-06
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Formato principal de inmersión en inglés mediante proyectos y comunicación. Es un intensivo lingüístico con actividades, no una semana completa de enseñanza técnica.
+
+[fuente oficial](https://external.oyis.org/intensives/) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · Los materiales de invierno leídos no establecen el tamaño del grupo ni los profesores asignados.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Clases 09:30–15:00; se enumeran por separado almuerzo escolar, cuidado y autobús, sin tarifas ni horarios detallados en el folleto.
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Cinco días JPY 60000 sin impuesto, JPY 66000 con impuesto. La inscripción se anuncia del 20 de octubre al 30 de noviembre de 2026; confirmar plaza, extras y cancelación.
+
+[fuente oficial](https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -30542,7 +30912,7 @@ Japón · Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
 **lugar:** Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
-**Precio:** Invierno 2026 precio aún desconocido
+**Precio:** JPY 66000 con impuesto por cinco días; extras aparte
 
 [fuente](https://external.oyis.org/intensives/)
 
@@ -30552,13 +30922,15 @@ Japón · Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
 **lugar:** Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071
 
-**Precio:** Invierno 2026 precio aún desconocido
+**Precio:** JPY 66000 con impuesto por cinco días; extras aparte
 
 [fuente](https://external.oyis.org/intensives/)
 
 ### Fuentes
 
-- [Winter 2026, English immersion y niños extranjeros](https://external.oyis.org/intensives/) · 2026-10-05
+- [Winter 2026, English immersion y niños extranjeros](https://external.oyis.org/intensives/) · 2026-11-06
+
+- [OYIS · Winter Intensive Program 2026 · JP/EN Brochure](https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2) · 2026-11-06
 
 ## CP387 · English Adventure · Summer Immersion · Grades 1–2
 
@@ -61032,7 +61404,7 @@ Francia - París19: Internet 93bisrueManin, PDF6rueGeorgesAuric; ubicación exac
 
 Singapur · NLCS Singapore · 130 Depot Road
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Magic 5–7; Active 8–12; Playtime 3–4 Por separado, Media jornada
 
@@ -61042,9 +61414,9 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 *Vivir:** 09:00:15:00; no hay noches, la familia vive cerca.
 
-**Fechas / situación:** Diciembre 2026: 14–18; 21–24; 28–31. La tarjeta del campus termina mal la segunda semana. 25-go; Un verdadero vitrine abierto muestra 21–24, sin 25 diciembre.
+**Fechas / estado:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura. Antes se anunciaron 14–18, 21–24 y 28–31 de diciembre de 2026. Se conservan esos períodos, pero la convocatoria actual no está confirmada.
 
-**Precio / año:** 2026 · SGD 110/día; 550 por 14–18 diciembre; 440 Por cada cuatro días. Cuantía de dos hijos 1100 / 880 antes de las opciones.
+**Precio / año:** 2026 · Tarifa histórica: SGD 110/día; 550 por 14–18 diciembre; 440 cada cuatro días de la semana.. la suma de dos hijos 1100 / 880 hasta las opciones.
 
 *Incluido el programa diario de edad, el certificado interno final y las fotografías, no es un premio de la Liga Internacional.
 
@@ -61052,11 +61424,45 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 **el pago:** pago completo en el momento de la grabación. página de condiciones en la que se encuentra PDF 2025: sin FLEX de regreso/No se puede trasladar; FLEX ¿Qué es esto? SGD 20/día o 100/una semana por niño. en caso de cancelación FLEX se guardan, se mantienen 3.5%; la enfermedad da crédito si se cumplen las reglas. FAQ requiere siete días laborables, PDF — siete días: límite y aplicabilidad del contrato para diciembre 2026 - ¿Qué es ?. FLEX no paga el tratamiento y no sustituye el seguro.
 
-**Matvey:** a Matvey 8–9 en 2026 y 9–10 en 2027; La edad es adecuada, Recepción personal externa y lugar de confirmación.
+**Matvey:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
 
-**Oscar:** a Oscar 5–6 en 2026 y 6–7 en 2027; La edad es adecuada, Grupo y recepción externa personal para confirmar.
+**Oscar:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
 
 ** Por qué en la selección:** es uno de los viajes más cercanos y comunes en inglés de los dos niños.
+
+### Análisis editorial
+
+El NLCS Singapore de diciembre requiere nueva confirmación: ya no están disponibles la página específica ni el anuncio escolar.
+
+**Análisis verificado:** 2026-11-06
+
+**Contenido, horas y proyecto infantil:** Hay una contradicción · Se conserva el programa anterior como historial. Ahora la URL del campus lleva a la web general y no se encontraron Singapore ni NLCS en la lista actual de reservas leída.
+
+[fuente oficial](https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore) · 2026-11-06
+
+[fuente oficial](https://booknow.campbeaumont.asia/) · 2026-11-06
+
+**Adaptación a la edad:** no se ha establecido · Los antiguos Magic 5–7 y Active 8–12 no confirman una convocatoria vigente para ambos niños.
+
+[fuente oficial](https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore) · 2026-11-06
+
+[fuente oficial](https://booknow.campbeaumont.asia/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · No se ha confirmado el idioma del turno NLCS vigente; la declaración general de la marca no basta.
+
+**Instructores y grupo:** no se ha establecido · No se han establecido el personal ni la apertura del grupo concreto.
+
+**Alojamiento y apoyo a los más pequeños:** no se ha establecido · El antiguo anuncio escolar devuelve 404. Se deben confirmar el campus, comidas y horario actuales.
+
+[fuente oficial](https://nlcssingapore.sg/stories/december-camps-with-camp-beaumont-asia-14-31-december-2026/) · 2026-11-06
+
+**Precio y condiciones:** Hay una contradicción · Los importes anteriores se conservan como cálculo histórico. El antiguo contrato Singapore disponible no prueba un turno vigente ni una tarifa actual.
+
+[fuente oficial](https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore) · 2026-11-06
+
+[fuente oficial](https://booknow.campbeaumont.asia/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -61070,7 +61476,13 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 **lugar:** NLCS Singapore · 130 Depot Road
 
-**Precio:** SGD 550/niño; dos 1100 hasta las opciones
+**Precio:** Tarifa histórica: SGD 550/niño; dos 1100 hasta las opciones
+
+**Disponibilidad de plazas:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Matvey:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Oscar:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
 
 [fuente](https://booknow.campbeaumont.asia/)
 
@@ -61080,7 +61492,13 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 **lugar:** NLCS Singapore · 130 Depot Road
 
-**Precio:** SGD 440/niño; dos 880 hasta las opciones
+**Precio:** Tarifa histórica: SGD 440/niño; dos 880 hasta las opciones
+
+**Disponibilidad de plazas:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Matvey:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Oscar:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
 
 [fuente](https://booknow.campbeaumont.asia/)
 
@@ -61090,7 +61508,13 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 **lugar:** NLCS Singapore · 130 Depot Road
 
-**Precio:** SGD 440/niño; dos 880 hasta las opciones
+**Precio:** Tarifa histórica: SGD 440/niño; dos 880 hasta las opciones
+
+**Disponibilidad de plazas:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Matvey:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
+
+**Oscar:** No se confirma la convocatoria actual de NLCS Singapore: la página del campus redirige a la web general, el anuncio escolar devuelve 404 y Singapore/NLCS no aparece en el booking list actual. Esto no demuestra cancelación; antes del viaje se necesita confirmación directa del programa y la factura.
 
 [fuente](https://booknow.campbeaumont.asia/)
 
@@ -61098,7 +61522,7 @@ Singapur · NLCS Singapore · 130 Depot Road
 
 - [campus y los precios semanales](https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore) · 2026-10-06
 
-- [Las fechas reales, Magic/Active y las apuestas diarias](https://booknow.campbeaumont.asia/) · 2026-10-06
+- [Las fechas reales, Magic/Active y las apuestas diarias](https://booknow.campbeaumont.asia/) · 2026-11-06
 
 - [FAQ: Inglés, alimentación y traslado](https://www.campbeaumont.asia/faqs) · 2026-10-06
 
@@ -61152,13 +61576,13 @@ Singapur · Nexus International School · Singapore
 
 Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Campus de invierno: 1–6 Clases; Coding & Robotics / Art & Technology 1–3; AI y Astronaut 4–6.
 
 ** Idioma: ** El anuncio 2027 confirma el programa inglés; FAQ precisa que la seguridad se explica en coreano.
 
-**Programa:** CTEB 1–3: Ringbit c micro:bit, programable LEGO, Sensores y misiones. Art & Technology 1–3: generative AI/Marco de medios. Para 4–6: AI storytelling/presentation, espacio ultraterrestre rover y reverse engineering. ¿Qué módulos están disponibles cada semana?, otra confirmación de selección 2027.
+**Programa:** CTEB 1–3: Ringbit de la micro:bit, programable LEGO, sensores y misiones. Art & Technology 1–3: generative AI/mediarete. para el 4–6: AI storytelling/presentation, el espacio rover y reverse engineering. ¿Qué módulos están disponibles cada semana?, más confirmación por el juego 2027. En la convocatoria ordinaria, AI para Grades 4–6 figura solo del 18–22 de enero; no aparece en la lista diurna del 11–15 de enero.
 
 ** Reclutamiento:** Campamento diurno; trasbordador a domicilio; la reunión en línea no es obligatoria durante cinco minutos.
 
@@ -61168,7 +61592,7 @@ Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
 
 ** Incluye:** English STEEM, material preparado; la cafetería y la comida y la educación médica se describen en las instrucciones de invierno.
 
-**Gastos adicionales:** un chofer de escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, el ingreso extranjero y la cuenta final también confirmar.
+**Suplementos:** la escuela de la escuela por pago adicional; la familia vive por separado. portátil/micro:bit, cobertura de seguro, recepción extranjera y la cuenta final también confirmar. En el anuncio ordinario hasta el 13.11.2026: 5% para dos participantes y 10% para tres, sin acumular descuentos. Primero se paga la tarifa completa; el descuento se devuelve tras verificar la participación real.
 
 **Pago:** Normas internas: hasta el inicio 100% por 20 días, 90% por 10, 80% Por uno; al día de comienzo 70%, hasta la mitad del turno 50%, luego no.. Aplicabilidad a la selección, Seguro y gastos médicos de un niño extranjero para verificar el contrato. El descuento de septiembre terminó. 18.09.2026.
 
@@ -61177,6 +61601,52 @@ Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
 **Oscar:** 2020 Fecha de nacimiento no prueba 1-¡Vaya clase para enero!. Si aún es preescolar., juego estándar 1–6 No encaja.; separado junior intake no encontrado.
 
 ** Por qué en la selección:** el candidato técnico inglés de Matway con un calendario específico en enero; Oscar necesita un examen de primera clase.
+
+### Análisis editorial
+
+STEM en inglés en Seúl: la semana y el curso escolar determinan las opciones de robótica e IA.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Primero confirmar cursos extranjeros y admisión individual, después elegir robótica o AI según la semana concreta.
+
+**Práctica de idiomas:** Considerar primero · El inglés se utiliza en las actividades y la comunicación; confirmar el nivel y el grupo adecuados.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Considerar un viaje familiar tras confirmar el grupo, el horario, las plazas y la factura completa.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Para Grades 1–3 figuran Coding & Robotics y Art & Technology. AI para Grades 4–6 se ofrece del 18–22 de enero, pero no en la lista diurna del 11–15 de enero.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+
+[fuente oficial](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Daewon acepta Grades 1–6, no cualquier edad. Hay que confirmar la equivalencia escolar y admisión individual extranjera de ambos niños; la residencia en Seoul National University tiene otro umbral.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El STEM de invierno se anuncia íntegramente en inglés; esto no se aplica al MPG cercano en coreano. Confirmar apoyo a la familia sin coreano.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+
+[fuente oficial](https://www.dcampskorea.com/post/early1-winter-2027) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Hasta 15 niños por itinerario; las preguntas frecuentes describen docentes, tutor bilingüe y asistentes. Esto no confirma personalmente el equipo del turno elegido.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+
+[fuente oficial](https://www.dcampskorea.com/faq) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Día 09:00–14:30, comedor y personal sanitario educativo; autobús según domicilios con cargo aparte. La entrevista previa de cinco minutos no es un examen obligatorio.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Cinco días KRW 989000. Para dos participantes el descuento del 5% se devuelve después del campamento: primero se paga la tarifa completa, sin acumular descuentos. Inscripción ordinaria hasta el 13 de noviembre de 2026.
+
+[fuente oficial](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
+
+[fuente oficial](https://www.dcampskorea.com/policy) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno; los testimonios de la web del organizador son material propio.
 
 ### Antes de solicitar plaza
 
@@ -61206,15 +61676,17 @@ Corea del Sur · Daewon Campus · Seoul Gwangjin-gu
 
 ### Fuentes
 
-- [Dates del día, reloj y lanzadera](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-10-06
+- [Dates del día, reloj y lanzadera](https://www.dcampskorea.com/post/2027-winter-daewon) · 2026-11-06
 
-- [el conjunto actual de invierno: clases , precio y lenguas](https://www.dcampskorea.com/post/early1-winter-2027) · 2026-10-06
+- [el conjunto actual de invierno: clases , precio y lenguas](https://www.dcampskorea.com/post/early1-winter-2027) · 2026-11-06
 
-- [programa por clases](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-10-06
+- [programa por clases](https://www.dcampskorea.com/curriculum-dcampsenglishstem) · 2026-11-06
 
-- [FAQ: Inglés, seguridad coreana y grupos](https://www.dcampskorea.com/faq) · 2026-10-06
+- [FAQ: Inglés, seguridad coreana y grupos](https://www.dcampskorea.com/faq) · 2026-11-06
 
-- [condiciones de devolución](https://www.dcampskorea.com/policy) · 2026-10-06
+- [condiciones de devolución](https://www.dcampskorea.com/policy) · 2026-11-06
+
+- [D.CAMPS · 2027 Winter Regular Registration](https://www.dcampskorea.com/post/2027-winter-dcamps) · 2026-11-06
 
 ## CP878 · D.CAMPS · Seoul National University STEM Boarding
 

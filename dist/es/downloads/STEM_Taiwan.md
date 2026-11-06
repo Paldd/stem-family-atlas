@@ -689,7 +689,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270712-20270717 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-07-12–2027-07-17
 
@@ -702,7 +702,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270719-20270724 · Camp Taiwan · Verano 2027 · Conjunto aún no abierto ~ 2027-07-19 CLAIM2027-07-24
 
@@ -715,7 +715,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270726-20270731 · Camp Taiwan · Verano 2027 · Conjunto aún no abierto · 2027-07-26-2027-07-31
 
@@ -728,7 +728,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270802-20270807 · Camp Taiwan · Verano 2027 · El juego aún no está abierto · 2027-08-02-2027-08-07
 
@@ -741,7 +741,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP025-20270816-20270821 · Camp Taiwan · Verano 2027 · El juego aún no está abierto. · 2027-08-16–2027-08-21
 
@@ -754,7 +754,7 @@ Entrada: El juego 2027 aún no está abierto; esperar a que se anuncie y confirm
 Precio: 2027 · Página actual: Youth NT$24 000; Grupo 2–5 hasta 23 000. Cuenta final 2027 confirmar. · y condiciones del expediente
 Limitaciones: Matvey: Youth 7–12. Oscar: Sólo después 7-años; Verificar el formato familiar antes de que se haga. Gastos adicionales: Notificación de pago internacional Pay Pal/de la tarjeta añadida 5%; Este derecho es irrevocable incluso cuando se devuelve el precio principal. Vuelo, Transmisores del aeropuerto, Seguro y vacaciones familiares separadas. La nota de orientación incluye a los participantes extranjeros, Pero la recepción de estos niños no está confirmada.. Pago: Notificación no fechada: pagar durante el período 14 días después de la inscripción. Registro NT$1 000 no recuperables. En caso de disensión, se ha formalizado la versión inglesa: por 30 / 21–29 / 11–20 / 4–10 / 1–3 día devuelven 100 / 90 / 70 / 50 / 30% y transporte; Fecha de inicio 0. En chino, 21–29 / 11–20 / 4–10 El transporte devuelve la totalidad de los días, por 1–3 días — 50%; Se ha mantenido la prioridad de la versión inglesa. Más tiempo 30 días y límite preciso. En caso de enfermedad/tifones después de un día completo de campamento — Reintegro proporcional de la matrícula; La cancelación por el operador da crédito o devolución en la misma tabla, 100% No se garantiza el dinero. Al menos un tutor debe permanecer en Taiwán y llevarse a un niño enfermo.. Validez del contrato para la 2027 confirmar.
 Fuente: https://www.camptaiwan.com.tw/summer-camp
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20261214-20261218 · Lighthouse · Vacaciones inglesas de invierno · 5 días · elección de la línea de edad · 2026-12-14 Å2026-12-18
 
@@ -767,7 +767,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · Normalmente completo TWD 20 000 / medio 11 000; c GO 22 500 / 13 500 · y condiciones del expediente
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20261221-20261224 · Lighthouse · Vacaciones inglesas de invierno · 4 días · Selección de la línea de edad · 2026-12-21–2026-12-24
 
@@ -780,7 +780,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · Normalmente completo TWD 16 000 / medio 8 800; c GO 18 000 / 10 800 · y condiciones del expediente
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20261228-20261231 · Lighthouse · Vacaciones inglesas de invierno · 4 días · Selección de la línea de edad · 2026-12-28–2026-12-31
 
@@ -793,7 +793,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2026/27 · Normalmente completo TWD 16 000 / medio 8 800; c GO 18 000 / 10 800 · y condiciones del expediente
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP118-20270125-20270129 · Lighthouse · Vacaciones inglesas de invierno · 5 días · elección de la línea de edad · 2027-01-25-2027-01-29
 
@@ -806,7 +806,7 @@ Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y di
 Precio: 2027 · Normalmente completo TWD 20 000 / medio 11 000; c GO 22 500 / 13 500 · y condiciones del expediente
 Limitaciones: Matvey: Edad del grupo 8–12 Ajustado; puede seleccionar VEX GO Nivel. Oscar: Edad 5–7 Ajustado; Junior Tech Por separado, VEX GO no disponible. Gastos adicionales: Comida optima TWD 220 / día; art-materiales TWD 100 / día. VEX GO exige la fianza de devolución TWD 2 000 de seguridad del equipo; es una suma temporal separada del precio. Vivienda familiar/La carretera por separado. Pago: Al menos 4 miembro del grupo normal. Pago a los campamentos. FAQ: Cancelación temprana menos TWD 500 / Semana / Niño, por 1–13 días menos TWD 1 000; Devolución tardía/credit con varias formulaciones — Confirmar por escrito. Early bird 10% exige que se grabe y pague a los 14 octubre 2026; de descuentos desconocidos.
 Fuente: https://www.lighthousecamps.com/schedule
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP284-20270121-20270203 · STEAM SQUAD · Taiwan Expedition 2027 · Curso único · 10 días laborables · 09:00________________17:30 · Salida libre · 2027-01-21-2027-02-03
 
@@ -907,10 +907,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP377-20270125-20270129-xinzhuang · S.E.E. · Future Dreamers · Future Dreamers · xinzhuang · 2027-01-25–2027-01-29
 
@@ -920,10 +920,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP377-20270125-20270129-tainan · S.E.E. · Future Dreamers · Future Dreamers · tainan · 2027-01-25–2027-01-29
 
@@ -933,10 +933,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las clases previstas en inglés con un profesor extranjero; asistencia china en caso necesario.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · NT$13 800; individual early NT$11 730 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 13800 por cinco días. Hasta el 10.11.2026: individual TWD 12144; grupo 3+ TWD 11730; 6+ TWD 11040. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Es apropiado para Grade 4 o por debajo; Clase actual desconocida. Recepción y contenido extranjeros para la confirmación de la libertad de inglés. Oscar: Sólo es apropiado si se acepta al grupo de enseñanza preescolar superior o superior; año 2020 no prueba clase. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP378-20270125-20270129-xinzhuang · S.E.E. · ESL Engineering · ESL Engineering · Fu Jen · 2027-01-25–2027-01-29
 
@@ -946,10 +946,10 @@ Matway: Condicional; comprobar la edad, clase y admisión
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Idioma: Todas las clases en inglés; necesitas la lista básica, el registro, la renovación y la ayuda de China en caso necesario.
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Precio: 2027 · NT$16 800; individual early NT$14 280 antes 11.10.2026 · y condiciones del expediente
+Precio: 2027 · TWD 16800 por cinco días. Hasta el 10.11.2026: individual TWD 14784; grupo 3+ TWD 14280; 6+ TWD 13440. Los colegios asociados tienen su propia tarifa. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Si Grade 3–6, se ajusta a la categoría de formación; para Grade 1–2 - ¿Qué? - ¿Qué?. Oscar: Normal Grade 3 mínimo por encima de la clase probable. Sólo Grade 1–2 Nivel de inglés demostrado Grade 2 y una autorización expresa; No se ha concedido a los niños de preescolar la admisión. Gastos adicionales: Diurno travel insurance no incluido en las normas. La valla tardía: después 18:00 NT$100, después 18:30 NT$200; antes 18:00 ventana de favor. Vivienda familiar, transporte y seguro. Price es diferente en las escuelas asociadas.. Pago: Pago de tres días; el lugar está confirmado por carta del operador. Cancelación: por 30 días de retención NT$1 000; por 20/10/5 días de devolución 80/70/50%; por 3 No hay fecha de retorno. Los plazos provisionales requieren un contrato. En casos de desastre natural, la retención individual; No es una garantía de devolución total..
 Fuente: https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP441-20270121-20270122-taipei · S.E.E. · Discover Japan, Taiwan · National Taipei University of Business, Taipei · 2027-01-21–2027-01-22
 

@@ -4424,6 +4424,40 @@
         {
           "title": "Summer: возраст / price / старые смены",
           "url": "https://www.camptaiwan.com.tw/summer-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "FAQ: English / палатки / братья",
+          "url": "https://www.camptaiwan.com.tw/faq",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Ownsummerhandbook: bus/meals/communication",
+          "url": "https://www.camptaiwan.com.tw/parent-handbook-getting-ready-for-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Linked CAMPnotice, actualseasoncontract ещёпроверить",
+          "url": "https://drive.google.com/file/d/1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9/view?usp=sharing",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "camp_life",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Набор ещё не открыт",
+        "checked": "2026-10-05"
+      },
+      "previous_source_checks": [
+        {
+          "title": "Лагеря и программы",
+          "url": "https://www.camptaiwan.com.tw/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Summer: возраст / price / старые смены",
+          "url": "https://www.camptaiwan.com.tw/summer-camp",
           "checked": "2026-10-05"
         },
         {
@@ -4442,12 +4476,10 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "camp_life",
-      "availability": {
-        "status": "not_open_yet",
-        "label": "Набор ещё не открыт",
-        "checked": "2026-10-05"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
       }
     },
     {
@@ -10481,6 +10513,35 @@
         {
           "title": "Конкретная программа / возраст / цена",
           "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Winter booking board",
+          "url": "https://www.campasia.asia/book-a-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "International individual route",
+          "url": "https://www.campasia.asia/about-us/faqs.html",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Условия изменения / отмены",
+          "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Current English-primary promise",
+          "url": "https://www.campasia.asia/about-us/our-promise.html",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "primary",
+      "previous_source_checks": [
+        {
+          "title": "Конкретная программа / возраст / цена",
+          "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
           "checked": "2026-10-04"
         },
         {
@@ -10504,8 +10565,11 @@
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
-      "language_evidence_role": "primary"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP070",
@@ -15143,6 +15207,29 @@
         {
           "title": "Зима 2026/27: даты, темы, площадка и доплаты",
           "url": "https://www.lighthousecamps.com/schedule",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Прайс: полные и половинные дни",
+          "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Языковое заявление оператора",
+          "url": "https://www.lighthousecamps.com/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "FAQ: язык, обед, сопровождение и возвраты",
+          "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_source_checks": [
+        {
+          "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+          "url": "https://www.lighthousecamps.com/schedule",
           "checked": "2026-10-05"
         },
         {
@@ -15161,7 +15248,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP119",
@@ -15424,7 +15515,7 @@
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "Выбирают Programming, Maths, English или Japanese; можно одну или две темы. Программирование от вводного digital literacy до Scratch и Python по уровню чтения/опыта. Утро и день учебные, с движением/играми; каждую среду весь лагерь уезжает на экскурсию. Ноутбуки доступны, свой не обязателен.",
+      "programme": "Четыре модуля на выбор: Programming, Maths, English, Japanese. Кодинг на английском от цифровой грамотности и Scratch к Python по навыкам. Утро и день содержат учебные блоки, спорт и проекты; каждая среда полностью отведена экскурсии. Это не пять полных дней программирования.",
       "timing": {
         "status": "published_2026_27",
         "label": "Опубликованы 14 осенне-зимних недель 2026/27 и 9 весенне-пасхальных недель 2027 до 7 мая. 09–17; можно выбрать отдельные дни. В недели Christmas/New Year проверить фактические места/режим.",
@@ -15855,6 +15946,29 @@
         {
           "title": "Осень/зима 2026/27, даты и прайс",
           "url": "https://www.elev8.co.jp/winter-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Spring / Easter 2027",
+          "url": "https://www.elev8.co.jp/spring-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Coding: английский и уровни",
+          "url": "https://www.elev8.co.jp/coding-summer-camp",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Terms: payment, транспорт, credit, страховка",
+          "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_source_checks": [
+        {
+          "title": "Осень/зима 2026/27, даты и прайс",
+          "url": "https://www.elev8.co.jp/winter-camp",
           "checked": "2026-10-05"
         },
         {
@@ -15873,7 +15987,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP123",
@@ -40801,7 +40919,7 @@
             "start": "2027-01-25",
             "end": "2027-01-29",
             "label": "5 утренних дней",
-            "price": "NT$8 800 early /9 700 regular, материалы включены",
+            "price": "TWD 9700 с обязательными материалами; текущий обычный тариф",
             "source": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
             "formats": [
               "day"
@@ -40813,10 +40931,10 @@
       },
       "price": {
         "year": 2027,
-        "label": "До 16.10.2026: NT$7 900 + обязательные материалы 900 =8 800; затем 8 800+900=9 700.",
+        "label": "Текущая страница: TWD 8800 курс + TWD 900 обязательные материалы = TWD 9700 за пять утренних дней. Октябрьская ранняя цена больше не показана.",
         "included": "5 утренних занятий, оригинальная книга, пять основных STEM-проектов и Flight Log; materials отдельно уже включены в итог 8 800/9 700.",
         "extras": "Питание/жильё/дорога отдельно; новые условия резервирования/депозита уточнить, не прибавлять старый депозит повторно.",
-        "deposit": "Early bird применяется по подаче до 16 октября включительно Taiwan time; оплата/депозит НЕ условие раннего тарифа. Пропуски без возврата/отработки."
+        "deposit": "Пропуски без возврата и отработки. Текущая страница не содержит прежнего условия октябрьской ранней записи; договор отмены и резервирования подтвердить отдельно."
       },
       "accommodation": "Утренний дневной курс; приезд не ранее 08:40, уход не позже 12:20; без пансиона.",
       "family_fit": {
@@ -40840,11 +40958,23 @@
         {
           "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
           "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "primary",
+      "previous_source_checks": [
+        {
+          "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+          "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "primary"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP337",
@@ -44980,7 +45110,7 @@
             "end": "2027-01-29",
             "label": "Future Dreamers · taipei",
             "place": "National Taipei University of Business · 321 Jinan Road Section 1, Zhongzheng, Taipei 100025",
-            "price": "NT$13 800; индивидуальный early NT$11 730 до 11.10.2026",
+            "price": "TWD 13800 за пять дней. До 10.11.2026: индивидуально TWD 12144; группа 3+ TWD 11730; 6+ TWD 11040. Партнёрские школы имеют отдельный прайс.",
             "variant_key": "taipei",
             "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
             "formats": [
@@ -44993,7 +45123,7 @@
             "end": "2027-01-29",
             "label": "Future Dreamers · xinzhuang",
             "place": "Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei",
-            "price": "NT$13 800; индивидуальный early NT$11 730 до 11.10.2026",
+            "price": "TWD 13800 за пять дней. До 10.11.2026: индивидуально TWD 12144; группа 3+ TWD 11730; 6+ TWD 11040. Партнёрские школы имеют отдельный прайс.",
             "variant_key": "xinzhuang",
             "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
             "formats": [
@@ -45006,7 +45136,7 @@
             "end": "2027-01-29",
             "label": "Future Dreamers · tainan",
             "place": "NCKU Green Magic School · 25 Xiaodong Road, North District, Tainan",
-            "price": "NT$13 800; индивидуальный early NT$11 730 до 11.10.2026",
+            "price": "TWD 13800 за пять дней. До 10.11.2026: индивидуально TWD 12144; группа 3+ TWD 11730; 6+ TWD 11040. Партнёрские школы имеют отдельный прайс.",
             "variant_key": "tainan",
             "source": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
             "formats": [
@@ -45018,7 +45148,7 @@
       },
       "price": {
         "year": 2027,
-        "label": "NT$13 800 / 5 дней. До 11.10.2026: индивидуально NT$11 730; группа 3+ NT$11 040; 6+ NT$10 350.",
+        "label": "TWD 13800 за пять дней. До 10.11.2026: индивидуально TWD 12144; группа 3+ TWD 11730; 6+ TWD 11040. Партнёрские школы имеют отдельный прайс.",
         "included": "Материалы, обед, перекус; на первый день заявлена лагерная футболка.",
         "extras": "Дневная travel insurance не включена по правилам. Поздний забор: после 18:00 NT$100, после 18:30 NT$200; до 18:00 льготное окно. Семейное жильё, транспорт и страховку считать отдельно. Прайс партнёрских школ отличается.",
         "deposit": "Оплата в течение трёх дней; место подтверждается письмом оператора. Отмена: за 30 дней удержание NT$1 000; за 20/10/5 дней возврат 80/70/50%; за 3 дня возврата нет. Для промежуточных сроков нужен договор. При стихийном бедствии отдельные удержания; это не гарантированный полный возврат."
@@ -45046,6 +45176,25 @@
         {
           "title": "Future Dreamers 2027: места, язык и цены",
           "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Оплата, отмена и дневная страховка",
+          "url": "https://seecamp.com.tw/precautions/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Университет подтверждает адрес Taipei",
+          "url": "https://som.ntub.edu.tw/index.php?Lang=en",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "primary",
+      "previous_source_checks": [
+        {
+          "title": "Future Dreamers 2027: места, язык и цены",
+          "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
           "checked": "2026-10-05"
         },
         {
@@ -45059,8 +45208,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "primary"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP378",
@@ -45099,7 +45251,7 @@
             "end": "2027-01-29",
             "label": "ESL Engineering · Fu Jen",
             "place": "Fu Jen Catholic University · 510 Zhongzheng Road, Xinzhuang, New Taipei",
-            "price": "NT$16 800; individual early NT$14 280 до 11.10.2026",
+            "price": "TWD 16800 за пять дней. До 10.11.2026: индивидуально TWD 14784; группа 3+ TWD 14280; 6+ TWD 13440. Партнёрские школы имеют отдельный прайс.",
             "variant_key": "xinzhuang",
             "source": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
             "formats": [
@@ -45111,7 +45263,7 @@
       },
       "price": {
         "year": 2027,
-        "label": "NT$16 800 / 5 дней. До 11.10.2026: индивидуально NT$14 280; 3+ NT$13 440; 6+ NT$12 600.",
+        "label": "TWD 16800 за пять дней. До 10.11.2026: индивидуально TWD 14784; группа 3+ TWD 14280; 6+ TWD 13440. Партнёрские школы имеют отдельный прайс.",
         "included": "Материалы, обед, перекус и лагерная футболка.",
         "extras": "Дневная travel insurance не включена по правилам. Поздний забор: после 18:00 NT$100, после 18:30 NT$200; до 18:00 льготное окно. Семейное жильё, транспорт и страховку считать отдельно. Прайс партнёрских школ отличается.",
         "deposit": "Оплата в течение трёх дней; место подтверждается письмом оператора. Отмена: за 30 дней удержание NT$1 000; за 20/10/5 дней возврат 80/70/50%; за 3 дня возврата нет. Для промежуточных сроков нужен договор. При стихийном бедствии отдельные удержания; это не гарантированный полный возврат."
@@ -45138,6 +45290,20 @@
         {
           "title": "Engineering 2027: требования и прайс",
           "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Условия S.E.E.",
+          "url": "https://seecamp.com.tw/precautions/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "primary",
+      "previous_source_checks": [
+        {
+          "title": "Engineering 2027: требования и прайс",
+          "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
           "checked": "2026-10-05"
         },
         {
@@ -45146,8 +45312,11 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "primary"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP379",
@@ -45882,7 +46051,7 @@
       "programme": "Winter 2026: Survival Island и Winter Wonderland. Язык через проекты, творчество, PE, чтение и совместные задания; каждому intensive обещана экскурсия. Robotics — пример прошлых тем, не гарантированный отдельный зимний модуль.",
       "timing": {
         "status": "published_2026",
-        "label": "14–18 и 21–25 декабря 2026; 09:30–15:00. Открытие записи 20 октября. На 05.10.2026 подробный winter flyer ещё Coming Soon.",
+        "label": "14–18 и 21–25 декабря 2026, 09:30–15:00. Заявленный период подачи: 20 октября–30 ноября; реальное место и условия приёма отдельно.",
         "sessions": [
           [
             "2026-12-14",
@@ -45900,7 +46069,7 @@
             "end": "2026-12-18",
             "label": "Survival Island · 09:30–15:00",
             "place": "Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071",
-            "price": "Winter 2026 цена пока неизвестна",
+            "price": "JPY 66000 с налогом за пять дней; дополнительные услуги отдельно",
             "variant_key": "survival",
             "source": "https://external.oyis.org/intensives/",
             "formats": [
@@ -45913,7 +46082,7 @@
             "end": "2026-12-25",
             "label": "Winter Wonderland · 09:30–15:00",
             "place": "Nakatsu Campus · 6-7-34 Nakatsu, Kita-ku, Osaka 531-0071",
-            "price": "Winter 2026 цена пока неизвестна",
+            "price": "JPY 66000 с налогом за пять дней; дополнительные услуги отдельно",
             "variant_key": "wonderland",
             "source": "https://external.oyis.org/intensives/",
             "formats": [
@@ -45924,11 +46093,13 @@
         ]
       },
       "price": {
-        "year": null,
-        "label": "Прайс Winter 2026 ещё не опубликован на прочитанной странице. Цены летнего или старого winter flyer не переносить.",
-        "included": "Описаны проекты и одна экскурсия; финансовые включения, обед и транспорт надо подтвердить.",
-        "extras": "Оценка английского для elementary; сборы, материалы, lunch, bus и продление пока неизвестны.",
-        "deposit": "Аванс и отмена Winter 2026 не опубликованы в прочитанном описании."
+        "year": 2026,
+        "label": "Winter 2026: JPY 60000 без налога, JPY 66000 с налогом за пять дней. Цена из новой зимней брошюры, не из летней программы.",
+        "included": "Тематические занятия и английская практика. Обед, присмотр и автобус перечислены как дополнительные услуги; их стоимость и состав подтверждаются отдельно.",
+        "extras": "Стоимость обеда, присмотра, автобуса, материалов и возможной оценки уровня ещё уточнить; семейное жильё и дорога отдельно.",
+        "deposit": "Аванс и отмена Winter 2026 не опубликованы в прочитанном описании.",
+        "currency": "JPY",
+        "amount": 66000
       },
       "accommodation": "Дневной городской кампус. Прямо заявлены участники из Японии и других стран; пансион отсутствует.",
       "family_fit": {
@@ -45953,11 +46124,28 @@
         {
           "title": "Winter 2026, English immersion и зарубежные дети",
           "url": "https://external.oyis.org/intensives/",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+          "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "primary",
+      "previous_source_checks": [
+        {
+          "title": "Winter 2026, English immersion и зарубежные дети",
+          "url": "https://external.oyis.org/intensives/",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "primary"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP387",
@@ -98021,7 +98209,7 @@
       "programme": "Спорт, творческие проекты, командные игры и открытия по возрасту. Матвей в Active, Оскар в Magic; один кампус, разные группы. Отдельная робототехническая смена здесь не доказана.",
       "timing": {
         "status": "published_2026",
-        "label": "Декабрь 2026: 14–18; 21–24; 28–31. Карточка кампуса ошибочно заканчивает вторую неделю 25-го; реальная открытая витрина показывает 21–24, без 25 декабря.",
+        "label": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта. Ранее объявлялись 14–18, 21–24 и 28–31 декабря 2026. Эти периоды сохранены, но текущий набор не подтверждён.",
         "sessions": [
           [
             "2026-12-14",
@@ -98042,7 +98230,7 @@
             "start": "2026-12-14",
             "end": "2026-12-18",
             "label": "Magic 5–7 / Active 8–12 · дневная смена",
-            "price": "SGD 550/ребёнок; двое 1100 до опций",
+            "price": "Исторический тариф: SGD 550/ребёнок; двое 1100 до опций",
             "source": "https://booknow.campbeaumont.asia/",
             "date_scope": "day_camp_window",
             "attendance_weekdays": [
@@ -98053,14 +98241,29 @@
               "FR"
             ],
             "place": "NLCS Singapore · 130 Depot Road",
-            "proof": "Год и сроки прочитаны в собственном объявлении; место и приём семьи ещё не подтверждены."
+            "proof": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+              "checked": "2026-11-06"
+            },
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              },
+              "oscar": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              }
+            }
           },
           {
             "variant_key": "2026-12-21",
             "start": "2026-12-21",
             "end": "2026-12-24",
             "label": "Magic 5–7 / Active 8–12 · дневная смена",
-            "price": "SGD 440/ребёнок; двое 880 до опций",
+            "price": "Исторический тариф: SGD 440/ребёнок; двое 880 до опций",
             "source": "https://booknow.campbeaumont.asia/",
             "date_scope": "day_camp_window",
             "attendance_weekdays": [
@@ -98070,14 +98273,29 @@
               "TH"
             ],
             "place": "NLCS Singapore · 130 Depot Road",
-            "proof": "Год и сроки прочитаны в собственном объявлении; место и приём семьи ещё не подтверждены."
+            "proof": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+              "checked": "2026-11-06"
+            },
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              },
+              "oscar": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              }
+            }
           },
           {
             "variant_key": "2026-12-28",
             "start": "2026-12-28",
             "end": "2026-12-31",
             "label": "Magic 5–7 / Active 8–12 · дневная смена",
-            "price": "SGD 440/ребёнок; двое 880 до опций",
+            "price": "Исторический тариф: SGD 440/ребёнок; двое 880 до опций",
             "source": "https://booknow.campbeaumont.asia/",
             "date_scope": "day_camp_window",
             "attendance_weekdays": [
@@ -98087,14 +98305,29 @@
               "TH"
             ],
             "place": "NLCS Singapore · 130 Depot Road",
-            "proof": "Год и сроки прочитаны в собственном объявлении; место и приём семьи ещё не подтверждены."
+            "proof": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+            "availability": {
+              "status": "unconfirmed",
+              "label": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+              "checked": "2026-11-06"
+            },
+            "family_fit": {
+              "matvey": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              },
+              "oscar": {
+                "status": "unknown",
+                "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
+              }
+            }
           }
         ],
         "variant_keyed": true
       },
       "price": {
         "year": 2026,
-        "label": "SGD 110/день; 550 за 14–18 декабря; 440 за каждую четырёхдневную неделю. Сумма двух детей 1100 / 880 до опций.",
+        "label": "Исторический тариф: SGD 110/день; 550 за 14–18 декабря; 440 за каждую четырёхдневную неделю. Сумма двух детей 1100 / 880 до опций.",
         "included": "Дневная возрастная программа, итоговый внутренний сертификат и фотографии. Это не награда международной лиги.",
         "extras": "Обед и два перекуса обещаны только летним сменам; декабрьское питание ещё подтвердить. Автобус по предварительной записи за доплату. FLEX отдельно; медицинская страховка семьи отдельно.",
         "deposit": "Оплата полностью при записи. Собственная страница условий ссылается на PDF 2025: без FLEX возврата/переноса нет; FLEX стоит дополнительно SGD 20/день или 100/неделю на ребёнка. При отмене FLEX сохраняют, дополнительно удерживают 3.5%; болезнь даёт кредит при соблюдении правил. FAQ требует семь рабочих дней, PDF — семь дней: границу и применимость договора к декабрю 2026 подтвердить. FLEX не оплачивает лечение и не заменяет страховку."
@@ -98102,12 +98335,12 @@
       "accommodation": "09:00–15:00; ночёвок нет. Семья живёт рядом. Точные автобусные маршруты/стоимость и питание ещё неизвестны.",
       "family_fit": {
         "matvey": {
-          "status": "conditional",
-          "detail": "Матвею 8–9 в 2026 и 9–10 в 2027; возраст подходит, внешний индивидуальный приём и место подтвердить."
+          "status": "unknown",
+          "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
         },
         "oscar": {
-          "status": "conditional",
-          "detail": "Оскару 5–6 в 2026 и 6–7 в 2027; возраст подходит, группу и внешний индивидуальный приём подтвердить."
+          "status": "unknown",
+          "detail": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта."
         }
       },
       "editorial_reason": "Одна из подтверждённых ближайших общих англоязычных поездок обоих детей.",
@@ -98120,6 +98353,40 @@
         "SUPER15WINTER до 20 октября заявлен школой; применимость к выбранным группам подтвердить, автоматически скидка не учтена."
       ],
       "sources": [
+        {
+          "title": "Кампус и недельные цены",
+          "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "Реальные даты, Magic/Active и дневные ставки",
+          "url": "https://booknow.campbeaumont.asia/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "FAQ: английский, питание и перенос",
+          "url": "https://www.campbeaumont.asia/faqs",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "Сингапурский договор, связанный с собственной страницей",
+          "url": "https://cdn.prod.website-files.com/6374a86e6d81a837a7564a87/6a9f904bb24f19851518ce13_CBA%20(Singapore)%20Booking%20Terms%20Conditions%202025%20-%2010.07.25.pdf",
+          "checked": "2026-10-06"
+        },
+        {
+          "title": "Школьное объявление 23 сентября 2026",
+          "url": "https://nlcssingapore.sg/stories/december-camps-with-camp-beaumont-asia-14-31-december-2026/",
+          "checked": "2026-10-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "camp_life",
+      "availability": {
+        "status": "unconfirmed",
+        "label": "Текущий набор NLCS Singapore не подтверждён: страница кампуса перенаправляет на общий сайт, школьное объявление возвращает 404, в текущем booking list Singapore/NLCS не найден. Это не доказанная отмена; до поездки требуется прямое подтверждение программы и счёта.",
+        "checked": "2026-11-06"
+      },
+      "previous_source_checks": [
         {
           "title": "Кампус и недельные цены",
           "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
@@ -98146,8 +98413,11 @@
           "checked": "2026-10-06"
         }
       ],
-      "checked": "2026-10-06",
-      "language_evidence_role": "camp_life"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "current_programme_recheck_required",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP876",
@@ -98243,7 +98513,7 @@
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "CTEB 1–3: Ringbit с micro:bit, программируемый LEGO, сенсоры и миссии. Art & Technology 1–3: generative AI/медиаарт. Для 4–6: AI storytelling/presentation, космический rover и reverse engineering. Какие модули доступны в каждую неделю, ещё подтвердить по набору 2027.",
+      "programme": "CTEB 1–3: Ringbit с micro:bit, программируемый LEGO, сенсоры и миссии. Art & Technology 1–3: generative AI/медиаарт. Для 4–6: AI storytelling/presentation, космический rover и reverse engineering. Какие модули доступны в каждую неделю, ещё подтвердить по набору 2027. В регулярном наборе AI для Grades 4–6 указан только 18–22 января; для 11–15 января в дневном списке его нет.",
       "timing": {
         "status": "published_2027",
         "label": "11–15 и 18–22 января 2027, 09:00–14:30. По 15 детей на curriculum. Даты старой Location страницы 2024 не использованы.",
@@ -98301,7 +98571,7 @@
         "year": 2027,
         "label": "KRW 989000 за пять дневных дней; сентябрьские 890100 уже не действуют.",
         "included": "English STEM, подготовленные материалы; столовая/обед и медицинский педагог описаны в зимних инструкциях. Полный состав оплаченного пакета ещё сверить.",
-        "extras": "Школьный шаттл за доплату; семья живёт отдельно. Ноутбук/micro:bit, страховое покрытие, иностранный приём и итоговый счёт ещё подтвердить.",
+        "extras": "Школьный шаттл за доплату; семья живёт отдельно. Ноутбук/micro:bit, страховое покрытие, иностранный приём и итоговый счёт ещё подтвердить. В регулярном объявлении до 13.11.2026: 5% за двух участников и 10% за трёх, без сложения скидок. Сначала полная оплата; возврат скидки после проверки фактического участия.",
         "deposit": "Собственные правила: до старта возврат 100% за 20 дней, 90% за 10, 80% за один; в день начала 70%, до половины смены 50%, затем нет. Применимость к выбранному набору, страховку и медицинские расходы иностранного ребёнка сверить по договору. Сентябрьская скидка закончилась 18.09.2026."
       },
       "accommodation": "Дневной лагерь; шаттл формируют по адресам. Онлайн знакомство около пяти минут не является обязательным отборочным экзаменом.",
@@ -98324,6 +98594,39 @@
         "SNU/Harvard упоминания оператора не означают университетские кредиты или внешнюю награду."
       ],
       "sources": [
+        {
+          "title": "Дневные даты, часы и шаттл",
+          "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Текущий зимний набор: классы, цена и языки",
+          "url": "https://www.dcampskorea.com/post/early1-winter-2027",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Программа по классам",
+          "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "FAQ: English, Korean safety и группы",
+          "url": "https://www.dcampskorea.com/faq",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Условия возврата",
+          "url": "https://www.dcampskorea.com/policy",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+          "title": "D.CAMPS · 2027 Winter Regular Registration",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_source_checks": [
         {
           "title": "Дневные даты, часы и шаттл",
           "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
@@ -98350,7 +98653,11 @@
           "checked": "2026-10-06"
         }
       ],
-      "checked": "2026-10-06"
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "editorial_review_and_targeted_refresh",
+        "limits": "Обновлены редакционный разбор и указанные условия; открытие группы, места, индивидуальный приём и фактический персонал не подтверждены."
+      }
     },
     {
       "id": "CP878",
@@ -209742,7 +210049,7 @@
     ]
   },
   "editorial_selection": {
-    "version": 192,
+    "version": 193,
     "checked": "2026-11-06",
     "title": "Редакционный выбор под задачу",
     "scope": "Первый набор подробных разборов. Это редакционная оценка, не официальный мировой рейтинг и не полный список лучших лагерей.",
@@ -215238,14 +215545,1516 @@
             "read_status": "read"
           }
         ]
+      },
+      {
+        "programme_id": "CP025",
+        "slug": "camp-taiwan",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Английский outdoor-пансион с конкретными правилами автономности; младшему нужен возраст от семи лет.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Природа, верёвочные задания, творчество, спорт и командные игры. Это общий отдых, а не технический интенсив.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/summer-camp",
+                "title": "Summer: возраст / price / старые смены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Летняя Youth-группа 7–12. Матвей подходит по возрасту; Оскар только после семилетия. Опубликованы шесть смен 2027, все ещё без открытого набора.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/summer-camp",
+                "title": "Summer: возраст / price / старые смены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "FAQ относит английский к инструкциям, общению, песням и всем активностям. В команде есть англоязычный и китайскоязычный вожатые; отдельных уроков языка нет.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/faq",
+                "title": "FAQ: English / палатки / братья",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Оператор описывает медсестру, подготовку первой помощи и обычно 1:6 на активностях. Это его заявление; состав сотрудников конкретной смены ещё неизвестен.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/faq",
+                "title": "FAQ: English / палатки / братья",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Палатки обычно на 4–6 детей, сотрудники спят рядом. Братьев не размещают в одной палатке; телефонные звонки детям и личные электронные устройства запрещены. По уведомлению один опекун должен оставаться на Тайване.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/faq",
+                "title": "FAQ: English / палатки / братья",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9",
+                "title": "Camp Taiwan · Registration Notice and Refund Policies",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Youth: TWD 24000 за шесть дней, при группе 2–5 по TWD 23000. Регистрация и автобус входят в общий тариф; международная оплата картой добавляет 5%. Финальный счёт 2027 и поездка отдельно.",
+            "sources": [
+              {
+                "url": "https://www.camptaiwan.com.tw/summer-camp",
+                "title": "Summer: возраст / price / старые смены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9",
+                "title": "Camp Taiwan · Registration Notice and Refund Policies",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Содержательный общий outdoor-отдых с английской средой; готовность к отдельному размещению важнее самой международной вывески."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Для первого пансиона заранее проверить семилетний минимум, ночную самостоятельность и ограниченную связь с семьёй."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Это общий или языковой отдых; самостоятельная робототехническая программа не установлена."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.camptaiwan.com.tw/summer-camp",
+            "title": "Summer: возраст / price / старые смены",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.camptaiwan.com.tw/faq",
+            "title": "FAQ: English / палатки / братья",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://drive.google.com/uc?export=download&id=1XPmUl76jQm7HKBq62Se3KbZ4p8SWV9Y9",
+            "title": "Camp Taiwan · Registration Notice and Refund Policies",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP069",
+        "slug": "campasia-robotics",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Настоящая робототехника по возрастным группам; в текущем декабре братья попадают на разные недели.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "LEGO, SPIKE и VEX, сборка, блочный код, тестирование и ежедневные задачи. Пример пятидневного плана не обещает все его задания в четырёхдневной смене.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+                "title": "Конкретная программа / возраст / цена",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "21–24 декабря 2026 опубликована только группа 6–8, а 28–31 декабря только 9–12. Оскар и Матвей не могут оба выбрать Robotics на одну из этих недель по текущей сетке.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/book-a-camp",
+                "title": "Winter booking board",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Основная среда лагеря английская; FAQ прямо допускает учеников разных школ, национальностей и стран. Это не гарантия свободного места.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/about-us/faqs.html",
+                "title": "International individual route",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campasia.asia/about-us/our-promise.html",
+                "title": "Current English-primary promise",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Назван руководитель направления с опытом робототехники и школьных команд. Кто ведёт конкретную зимнюю группу и каков её размер, отдельно не подтверждено.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+                "title": "Конкретная программа / возраст / цена",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Дневная программа 09:00–15:00, обед и два перекуса. По правилам есть медсестра в каникулярные будни; после 15:00 штраф SGD 50 за каждые десять минут опоздания.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+                "title": "Конкретная программа / возраст / цена",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+                "title": "Условия изменения / отмены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Текущая четырёхдневная смена SGD 655, общий пятидневный пример SGD 725 не заменяет эту цену. Автобус отдельно; после оплаты возврата нет, перенос требует десятидневного предупреждения и наличия мест.",
+            "sources": [
+              {
+                "url": "https://www.campasia.asia/book-a-camp",
+                "title": "Winter booking board",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+                "title": "Условия изменения / отмены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Технический вариант с понятной платформой; после трёх лет опыта проверить сложность, а для второго ребёнка подобрать другой курс на том же кампусе."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.campasia.asia/holiday-camps/tech-savvy/robotics-makerspace.html",
+            "title": "Конкретная программа / возраст / цена",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.campasia.asia/book-a-camp",
+            "title": "Winter booking board",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.campasia.asia/about-us/faqs.html",
+            "title": "International individual route",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.campasia.asia/about-us/our-promise.html",
+            "title": "Current English-primary promise",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.campasia.asia/about-us/terms-and-conditions.html",
+            "title": "Условия изменения / отмены",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP118",
+        "slug": "lighthouse-winter",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Английские тематические недели с младшим техническим треком и отдельным VEX GO для старшего.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Зимнее меню содержит Junior Tech для 5–7 и VEX GO для 8–12, а также предпринимательство и медиа. Конкретную тему, часы и сочетание двух блоков ещё назначают группе.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/schedule",
+                "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Возрастные группы подходят обоим, но это разные курсы. Наличие VEX IQ в общем прайсе не подтверждает такой зимний курс.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/schedule",
+                "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+                "title": "Прайс: полные и половинные дни",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Оператор описывает обучение предметам на английском; для языковых и письменных тем нужен соответствующий опыт чтения и письма.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/",
+                "title": "Языковое заявление оператора",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+                "title": "FAQ: язык, обед, сопровождение и возвраты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Обычная группа открывается от 4 участников. Максимум группы и назначенные наставники выбранной темы не опубликованы.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/schedule",
+                "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Два блока 09:30–12:30 и 13:30–16:30; обед между ними надо согласовать. Родители не сопровождают занятия, а после курса получают обратную связь и материалы о работах.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/schedule",
+                "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+                "title": "FAQ: язык, обед, сопровождение и возвраты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "За 5 полных дней обычный курс TWD 20000, с GO TWD 22500. Для GO нужен возвратный залог TWD 2000; обед TWD 220 в день по желанию. Октябрьская ранняя скидка уже закончилась.",
+            "sources": [
+              {
+                "url": "https://www.lighthousecamps.com/schedule",
+                "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+                "title": "Прайс: полные и половинные дни",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+                "title": "FAQ: язык, обед, сопровождение и возвраты",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Матвею проверить сложность вводного VEX GO, Оскару — отдельную младшую логику. Полный день не означает весь день робототехники."
+          },
+          "enterprise": {
+            "tier": "alternative",
+            "reason": "Обоим есть возрастные темы Shark Tank, но конкретную неделю и учебный результат нужно выбрать отдельно."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.lighthousecamps.com/schedule",
+            "title": "Зима 2026/27: даты, темы, площадка и доплаты",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://cdn1.artcltn.com/storage/23685/a226e1ec-2b60-4159-9f31-ced4a10d77ae/camp_fees_pricing_slide.png?w=1080",
+            "title": "Прайс: полные и половинные дни",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.lighthousecamps.com/",
+            "title": "Языковое заявление оператора",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.lighthousecamps.com/faqs-241203521121839389883529931572",
+            "title": "FAQ: язык, обед, сопровождение и возвраты",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP336",
+        "slug": "grove-flight",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Короткая инженерия полёта и чтение на английском в группе из восьми; без программирования роботов.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Пять утренних дней: бумажный самолёт, ветер, планер, парашют и собственный летательный проект. Дети прогнозируют, испытывают, меняют конструкцию и ведут Flight Log.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Указана начальная школа без числовой границы. Для обоих нужны соответствующий класс и подтверждение уровня; календарный возраст сам по себе не является зачислением.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Основной язык английский, Tr Shelly помогает на китайском при необходимости. Вопросы из книги — направления обсуждения, а не формальный вступительный тест.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Опубликован максимум 8 детей и помощь Tr Shelly. Квалификации иностранного ведущего и персональный состав ещё не установлены.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "25–29 января 2027, 09:00–12:00; привоз не ранее 08:40, забор не позднее 12:20. Послеобеденный присмотр и пансион не предусмотрены.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Текущий тариф TWD 8800 плюс обязательные материалы TWD 900, всего TWD 9700. Прежняя октябрьская ранняя цена сейчас не показана. Пропуски без возврата и отработки.",
+            "sources": [
+              {
+                "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+                "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Хорошо описаны испытания и дневник проекта, но сложность начальная; старшему заранее согласовать более глубокую задачу."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://thegrove.com.tw/seasonal-camps-2026-space-adventure/2027-winter-camp-ready-to-soar/",
+            "title": "Полный winter2027: учебный план, EN, адрес, ранний тариф",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP377",
+        "slug": "see-future-dreamers",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Английский через профессии, игры и командные занятия; общий дневной лагерь.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Кулинарные, авиационные, сценические и медицинские роли, спорт и общение. Это тематический языковой отдых, не инженерная лига.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Основной приём от старшей группы детского сада до Grade 4. Более старшие только по согласованию; соответствие иностранного класса подтвердить.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Все занятия заявлены на английском с иностранным и местным преподавателями; китайская помощь по необходимости. Для Engineering нужны базовые чтение и письмо.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Максимум 18 детей, иностранный и местный преподаватели, административное сопровождение. Это описание оператора, не независимая проверка назначенных сотрудников.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "25–29 января 2027, 09:00–17:00. Обед и перекус включены, после 18:00 платный поздний забор; дневная туристическая страховка не включена.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/precautions/",
+                "title": "Условия S.E.E.",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Обычная цена TWD 13800; индивидуальная ранняя TWD 12144 до 10 ноября 2026. У партнёрских школ свои тарифы.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/precautions/",
+                "title": "Условия S.E.E.",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Это общий или языковой отдых; самостоятельная робототехническая программа не установлена."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Рассмотреть для тематического английского и общего отдыха после проверки группы и площадки."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+            "title": "Future Dreamers 2027: места, язык и цены",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+            "title": "Engineering 2027: требования и прайс",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://seecamp.com.tw/precautions/",
+            "title": "Условия S.E.E.",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP378",
+        "slug": "see-esl-engineering",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Практические инженерные опыты на английском; класс и языковой порог важнее возраста.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Заявлены колёса, рычаги, гидравлика и плавучесть; опубликованный результат не равен самостоятельной робототехнике или ИИ.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Engineering рассчитан на Grades 3–6; Grades 1–2 только по согласованию при английском уровня англоязычного Grade 2. Для Матвея и Оскара нужно проверить класс.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Все занятия заявлены на английском с иностранным и местным преподавателями; китайская помощь по необходимости. Для Engineering нужны базовые чтение и письмо.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Максимум 18 детей, иностранный и местный преподаватели, административное сопровождение. Это описание оператора, не независимая проверка назначенных сотрудников.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "25–29 января 2027, 09:00–17:00. Обед и перекус включены, после 18:00 платный поздний забор; дневная туристическая страховка не включена.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+                "title": "Future Dreamers 2027: места, язык и цены",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/precautions/",
+                "title": "Условия S.E.E.",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Обычная цена TWD 16800; индивидуальная ранняя TWD 14784 до 10 ноября 2026. Два брата не образуют группу из трёх для групповой скидки.",
+            "sources": [
+              {
+                "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+                "title": "Engineering 2027: требования и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://seecamp.com.tw/precautions/",
+                "title": "Условия S.E.E.",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Практическая инженерия без подтверждённого программирования; проверить учебный уровень и допуск младшего."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Рассмотреть для тематического английского и общего отдыха после проверки группы и площадки."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://seecamp.com.tw/product/2027see-winter-esl-engineering-5d/",
+            "title": "Engineering 2027: требования и прайс",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://seecamp.com.tw/product/2027see-winter-future-dreamers-5d/",
+            "title": "Future Dreamers 2027: места, язык и цены",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://seecamp.com.tw/precautions/",
+            "title": "Условия S.E.E.",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP122",
+        "slug": "elev8-tokyo",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Кодинг на английском с распределением по навыкам; среда целиком отведена экскурсии.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Путь от цифровой грамотности и Scratch к Python, функциям и отладке. Учебные блоки сочетаются со спортом и проектами; каждая среда — экскурсия, а не уроки кода.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/winter-camp",
+                "title": "Осень/зима 2026/27, даты и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/coding-summer-camp",
+                "title": "Coding: английский и уровни",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Основной возраст 5–12, группы по уровню. Оба подходят по общему возрасту; для трёхлетнего опыта выбрать задачу по реальным навыкам, а не вводный курс по названию.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/winter-camp",
+                "title": "Осень/зима 2026/27, даты и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/coding-summer-camp",
+                "title": "Coding: английский и уровни",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Programming и Maths преимущественно на английском. Для Scratch и Python разные требования к пониманию, чтению и самостоятельной работе.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/coding-summer-camp",
+                "title": "Coding: английский и уровни",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+                "title": "Terms: payment, транспорт, credit, страховка",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Обещан максимум 5:1, опубликованы имена и предметы команды. Назначенного преподавателя конкретной недели и его квалификацию отдельно подтвердить.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/winter-camp",
+                "title": "Осень/зима 2026/27, даты и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/our-team",
+                "title": "Elev8 · Our Team",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Городской день около 09:00–17:00, питание включено. Сопровождение от выбранных станций бесплатно, но билеты транспорта оплачиваются отдельно. Пансиона нет.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/winter-camp",
+                "title": "Осень/зима 2026/27, даты и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+                "title": "Terms: payment, транспорт, credit, страховка",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "JPY 23000 в день плюс 10% налога; пять дней со скидкой дают JPY 120175 с налогом. Экскурсия входит в цену, транспортные билеты и продлёнка отдельно. Правила возврата и кредита различаются.",
+            "sources": [
+              {
+                "url": "https://www.elev8.co.jp/winter-camp",
+                "title": "Осень/зима 2026/27, даты и прайс",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/spring-camp",
+                "title": "Spring / Easter 2027",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+                "title": "Terms: payment, транспорт, credit, страховка",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Из проверенных вариантов даёт понятный переход Scratch–Python и подбор уровня; количество именно технических часов согласовать."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.elev8.co.jp/winter-camp",
+            "title": "Осень/зима 2026/27, даты и прайс",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.elev8.co.jp/coding-summer-camp",
+            "title": "Coding: английский и уровни",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.elev8.co.jp/camp-terms-and-conditions",
+            "title": "Terms: payment, транспорт, credit, страховка",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.elev8.co.jp/our-team",
+            "title": "Elev8 · Our Team",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.elev8.co.jp/spring-camp",
+            "title": "Spring / Easter 2027",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP386",
+        "slug": "oyis-winter-intensive",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Общий английский интенсив в Осаке: новый зимний прайс опубликован, техническая специализация не подтверждена.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Две независимые темы Survival Island и Winter Wonderland, обсуждения, чтение, PE и творчество. Общие слова о роботах на сайте не являются отдельным зимним курсом.",
+            "sources": [
+              {
+                "url": "https://external.oyis.org/intensives/",
+                "title": "Winter 2026, English immersion и зарубежные дети",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+                "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Preschool–Grade 6; иностранные ученики прямо допускаются. Для начальной школы предусмотрена оценка английского, группируют по уровню, а не только возрасту.",
+            "sources": [
+              {
+                "url": "https://external.oyis.org/intensives/",
+                "title": "Winter 2026, English immersion и зарубежные дети",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+                "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Основной формат английского погружения через проекты и общение. Это языковой интенсив с активностями, не целая неделя технического обучения.",
+            "sources": [
+              {
+                "url": "https://external.oyis.org/intensives/",
+                "title": "Winter 2026, English immersion и зарубежные дети",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "В прочитанных зимних материалах не установлены размер группы и назначенные наставники.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Классы 09:30–15:00; отдельно перечислены школьный обед, присмотр и автобус, но их цены и расписание в брошюре не раскрыты.",
+            "sources": [
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+                "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Пять дней JPY 60000 без налога, JPY 66000 с налогом. Приём заявлен 20 октября–30 ноября 2026; место, дополнительные услуги и отмену ещё подтвердить.",
+            "sources": [
+              {
+                "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+                "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Это общий или языковой отдых; самостоятельная робототехническая программа не установлена."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Вариант общего школьного погружения в английский с двумя самостоятельными декабрьскими темами."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://external.oyis.org/intensives/",
+            "title": "Winter 2026, English immersion и зарубежные дети",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://drive.google.com/uc?export=download&id=1TrhKh7uZPGTjBF2DVdZF0Og5Ai2T1oS2",
+            "title": "OYIS · Winter Intensive Program 2026 · JP/EN Brochure",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP877",
+        "slug": "dcamps-daewon-winter",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Английский STEM в Сеуле: конкретная неделя и школьный класс определяют доступные робототехнику и ИИ.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Для Grades 1–3 опубликованы Coding & Robotics и Art & Technology. AI для Grades 4–6 есть 18–22 января, но не в дневном списке 11–15 января.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+                "title": "D.CAMPS · 2027 Winter Regular Registration",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+                "title": "Программа по классам",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Daewon принимает Grades 1–6, а не любой возраст. Иностранный школьный эквивалент обоих детей и индивидуальный приём требуют подтверждения; пансион Seoul National University имеет другой порог.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+                "title": "D.CAMPS · 2027 Winter Regular Registration",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Конкретный зимний STEM заявлен полностью на английском; это не относится к соседнему корейскоязычному MPG. Поддержку семье без корейского подтвердить.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+                "title": "D.CAMPS · 2027 Winter Regular Registration",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.dcampskorea.com/post/early1-winter-2027",
+                "title": "Текущий зимний набор: классы, цена и языки",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "До 15 детей на направление; FAQ описывает профиль преподавателей, bilingual homeroom и ассистентов. Это не персональное подтверждение состава выбранной смены.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+                "title": "D.CAMPS · 2027 Winter Regular Registration",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.dcampskorea.com/faq",
+                "title": "FAQ: English, Korean safety и группы",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "День 09:00–14:30, столовая и медицинский педагог; шаттл строят по адресам за доплату. Предварительное пятиминутное знакомство не является обязательным экзаменом.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+                "title": "Дневные даты, часы и шаттл",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Пять дней KRW 989000. При двух участниках скидка 5% возвращается после лагеря: сначала платят полную цену, скидки не складывают. Обычный набор указан до 13 ноября 2026.",
+            "sources": [
+              {
+                "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+                "title": "D.CAMPS · 2027 Winter Regular Registration",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.dcampskorea.com/policy",
+                "title": "Условия возврата",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Сначала подтвердить иностранные классы и индивидуальный приём, затем выбрать робототехнику или AI по конкретной неделе."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Английский используется в занятиях и общении; подходящий уровень и группу подтвердить."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассмотреть семейную поездку после подтверждения группы, расписания, свободных мест и полного счёта."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.dcampskorea.com/post/2027-winter-dcamps",
+            "title": "D.CAMPS · 2027 Winter Regular Registration",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.dcampskorea.com/curriculum-dcampsenglishstem",
+            "title": "Программа по классам",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.dcampskorea.com/post/early1-winter-2027",
+            "title": "Текущий зимний набор: классы, цена и языки",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.dcampskorea.com/faq",
+            "title": "FAQ: English, Korean safety и группы",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.dcampskorea.com/post/2027-winter-daewon",
+            "title": "Дневные даты, часы и шаттл",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.dcampskorea.com/policy",
+            "title": "Условия возврата",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP875",
+        "slug": "beaumont-sg-nlcs",
+        "checked": "2026-11-06",
+        "status": "refresh_pending",
+        "summary": "Декабрьский NLCS Singapore пока требует повторного подтверждения: конкретная страница и школьное объявление больше не доступны.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "conflict",
+            "note": "Прежняя программа сохранена для истории. Сейчас URL кампуса ведёт на общий сайт, а в прочитанном текущем списке бронирования Singapore и NLCS не найдены.",
+            "sources": [
+              {
+                "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+                "title": "Кампус и недельные цены",
+                "checked": "2026-11-06",
+                "read_status": "redirected_to_general_catalogue"
+              },
+              {
+                "url": "https://booknow.campbeaumont.asia/",
+                "title": "Реальные даты, Magic/Active и дневные ставки",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "unknown",
+            "note": "Прежние Magic 5–7 и Active 8–12 не подтверждают новый действующий набор обоих детей.",
+            "sources": [
+              {
+                "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+                "title": "Кампус и недельные цены",
+                "checked": "2026-11-06",
+                "read_status": "redirected_to_general_catalogue"
+              },
+              {
+                "url": "https://booknow.campbeaumont.asia/",
+                "title": "Реальные даты, Magic/Active и дневные ставки",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Язык именно действующей смены NLCS ещё не подтверждён; общее заявление бренда недостаточно.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Состав сотрудников и открытие конкретной группы не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "unknown",
+            "note": "Прежнее школьное объявление возвращает 404. Актуальные площадка, питание и часы требуют подтверждения.",
+            "sources": [
+              {
+                "url": "https://nlcssingapore.sg/stories/december-camps-with-camp-beaumont-asia-14-31-december-2026/",
+                "title": "Школьное объявление 23 сентября 2026",
+                "checked": "2026-11-06",
+                "read_status": "failed"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "conflict",
+            "note": "Прежние суммы сохранены как исторический расчёт. Доступный старый договор Singapore не доказывает новую работающую смену или актуальный прайс.",
+            "sources": [
+              {
+                "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+                "title": "Кампус и недельные цены",
+                "checked": "2026-11-06",
+                "read_status": "redirected_to_general_catalogue"
+              },
+              {
+                "url": "https://booknow.campbeaumont.asia/",
+                "title": "Реальные даты, Magic/Active и дневные ставки",
+                "checked": "2026-11-06",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы родителей и внешняя проверка именно этой смены не установлены; отзывы на сайте оператора считаются его собственным материалом.",
+            "sources": []
+          }
+        ],
+        "goals": {},
+        "sources": [
+          {
+            "url": "https://www.campbeaumont.asia/our-camps/north-london-collegiate-school-singapore",
+            "title": "Кампус и недельные цены",
+            "checked": "2026-11-06",
+            "read_status": "redirected_to_general_catalogue"
+          },
+          {
+            "url": "https://booknow.campbeaumont.asia/",
+            "title": "Реальные даты, Magic/Active и дневные ставки",
+            "checked": "2026-11-06",
+            "read_status": "read"
+          },
+          {
+            "url": "https://nlcssingapore.sg/stories/december-camps-with-camp-beaumont-asia-14-31-december-2026/",
+            "title": "Школьное объявление 23 сентября 2026",
+            "checked": "2026-11-06",
+            "read_status": "failed"
+          }
+        ]
       }
     ],
     "coverage": {
       "total_dossiers": 1497,
-      "reviewed": 35,
-      "refresh_pending": 3,
-      "review_dossiers": 38,
-      "countries": 14,
+      "reviewed": 44,
+      "refresh_pending": 4,
+      "review_dossiers": 48,
+      "countries": 15,
       "independent_review_sources": 0,
       "full_trip_value_assessments": 0,
       "external_institutional_sources": 5

@@ -22,7 +22,7 @@ for(const lang of ['', 'es/']){
  reset();assert.equal(U.filtered().length,guide.profiles.length,'Editorial feature must retain all dossiers');
  U.state.review='reviewed';assert.equal(U.filtered().length,selection.reviews.length);
  Object.assign(U.state,{country:'JPN',child:'both',language:'EN',month:'2026-12',sort:'recommend_engineering'});
- assert.deepEqual(Array.from(U.filtered().map(p=>p.id)),['CP031'],'Country, month, language, age and review filters must apply together');
+ assert.deepEqual(Array.from(U.filtered().map(p=>p.id)),['CP122','CP031','CP386'],'The three reviewed Japanese December programmes must pass the combined filters, with the matched coding track first');
  Object.assign(U.state,{country:'CHE',child:'oscar',language:'',month:''});
  const young=Array.from(U.filtered().map(p=>p.id));assert(!young.includes('CP012')&&!young.includes('CP622'),'Older technical courses must not pass Oscar filter');
  reset();Object.assign(U.state,{country:'CAN',child:'oscar',review:'reviewed',sort:'recommend_future'});assert(U.filtered().some(p=>p.id==='CP152'),'Future routes must remain visible for the selected child despite current age');
