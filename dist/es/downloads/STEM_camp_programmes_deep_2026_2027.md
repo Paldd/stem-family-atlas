@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de base: 2026-11-06. 1448 fichas en 77 países. Fechas de verificación de cada fuente indicadas en cada ficha.
+Estado de base: 2026-11-06. 1453 fichas en 79 países. Fechas de verificación de cada fuente indicadas en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -104582,6 +104582,200 @@ Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
 
 - [Hundred Tech · main address](https://robotics.co.zw/contact/) · 2026-11-06
 
+## CP1449 · MoBot · Build Workshop
+
+Argelia · Actividad en sede del cliente en Argelia; cliente aporta espacio
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 6–10
+
+**Idioma:** Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+
+**Programa:** Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.
+
+**Precio / año:** sin establecer · Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+- Academy anuncia vídeos FR / AR / EN / ES; no acredita idioma del docente desplazado. Publicados ahora 21 tutorial / 3 h 51; 120 horas es currículo completo de publicación progresiva. Certificado del curso no es premio competitivo internacional.
+
+### Fuentes
+
+- [MoBot · group workshops](https://mobot.dz/en/ateliers) · 2026-11-06
+
+- [MoBot · separate workshop agreement](https://mobot.dz/en/conditions-generales) · 2026-11-06
+
+## CP1450 · MoBot · Program Workshop
+
+Argelia · Actividad en sede del cliente en Argelia; cliente aporta espacio
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 11–17
+
+**Idioma:** Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+
+**Programa:** Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.
+
+**Precio / año:** sin establecer · Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 11–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 11–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+- Academy anuncia vídeos FR / AR / EN / ES; no acredita idioma del docente desplazado. Publicados ahora 21 tutorial / 3 h 51; 120 horas es currículo completo de publicación progresiva. Certificado del curso no es premio competitivo internacional.
+
+### Fuentes
+
+- [MoBot · group workshops](https://mobot.dz/en/ateliers) · 2026-11-06
+
+- [MoBot · separate workshop agreement](https://mobot.dz/en/conditions-generales) · 2026-11-06
+
+## CP1451 · Oued Ghir · Summer Camp · diaspora 2026
+
+Argelia · Centre de loisirs scientifiques · Oued Ghir · Béjaïa
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Niños / jóvenes; edad numérica sin indicar
+
+**Idioma:** Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+
+**Programa:** Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Ficha oficial ministerial: actividades interactivas científicas, robóticas y tecnológicas de un día el 5 de agosto de 2026 para comunidad argelina en el extranjero. Compatibilidad de familia con ese requisito sin establecer. GET directo agotó tiempo; leída representación oficial de búsqueda.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** 5 de agosto de 2026, un día, finalizado; sin fechas futuras.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin publicar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+### Fuentes
+
+- [Ministry of Youth · archived programme](https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223) · 2026-11-06
+
+## CP1452 · Tipaza · National Scientific Robotics Camp 2026
+
+Argelia · Tipaza Province
+
+**Se ha comprobado:** 2026-11-06
+
+* Edad:** 10*16 young category / 17–30 youth · event-specific
+
+**Idioma:** Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+
+**Programa:** Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Universidad confirma 4–9 de julio de 2026 y nominación por clubes estudiantiles. Ficha ministerial describe categorías de 10–16 y 17–30 según etapa / formato; no grupo abierto único para todos. Ambos niños eran menores de 10. Residencia, idioma y admisión familiar libre sin confirmar; ficha ministerial leída mediante lector web oficial tras timeout GET.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** 4–9 de julio de 2026, finalizado; edición nueva sin anunciar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin publicar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 10–30. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 10–30. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+### Fuentes
+
+- [University of Souk Ahras · invitation](https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities) · 2026-11-06
+
+- [Ministry of Youth · archived campaign](https://youthconnect.mjeunesse.gov.dz/showcampaignpage/5504) · 2026-11-06
+
+## CP1453 · Osuwela · WRO School Robotics Preparation
+
+Mozambique · Equipos escolares de Mozambique; siguiente sede formativa desconocida
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** competition 8–19; training intake unconfirmed
+
+**Idioma:** Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+
+**Programa:** Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin publicar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.
+
+### Antes de solicitar plaza
+
+- Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+### Fuentes
+
+- [WRO Mozambique · preparation report](https://wromozambique.co.mz/events.html) · 2026-11-06
+
+- [Local categories](https://wromozambique.co.mz/categories.html) · 2026-11-06
+
+- [National rules 2026](https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi) · 2026-11-06
+
 ## ~ Comprobaciones no cerradas
 
 ### EE.UU. / Canadá · Tamwood · La disponibilidad actual no está confirmada
@@ -107249,3 +107443,19 @@ especificar origen no coreano, verdadero EN traducción de las actividades/segur
 https://kle.ewha.ac.kr/kle/notice/notice.do?articleNo=799162&mode=view
 
 - Invierno 2027: Code Camp normalmente DE, grupo EN/ES sin acreditar; Masters 7–12 en fichas frente a 8–13 en menú; AI 9–13 frente a cuenta 13+. Smart Kids: idioma, zona horaria, tema por semana y descuento segundo hijo 99 CHF frente a 11% sin resolver.
+
+### Argelia · Algeria · language / group / future season
+
+Ningún grupo lectivo presencial nuevo confirmó EN / ES. MoBot es servicio grupal desplazado, no campamento individual. Archivo ministerial y Al Jazari inaccesible no tomados como inscripción abierta 2027.
+
+Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+https://mobot.dz/en/ateliers
+
+### Mozambique · Mozambique · national WRO versus training
+
+Informe competitivo, vídeo y presentación exigen portugués; inglés internacional no sustituye etapa nacional. Idioma formativo, admisión extranjera y temporada nueva sin confirmar aparte.
+
+Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+https://wromozambique.co.mz/

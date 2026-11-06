@@ -580,7 +580,7 @@
       }
     ],
     "counts": {
-      "records": 3608,
+      "records": 3613,
       "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
@@ -593,7 +593,7 @@
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 84
+      "countries": 86
     },
     "validation": {
       "version": 51,
@@ -281446,6 +281446,286 @@
         {
           "label": "Hundred Tech · main address",
           "url": "https://robotics.co.zw/contact/"
+        }
+      ]
+    },
+    {
+      "id": "L570",
+      "block": "Campamentos",
+      "title": "MoBot · Build Workshop",
+      "country": "Argelia",
+      "region": "África",
+      "city": "Actividad en sede del cliente en Argelia; cliente aporta espacio",
+      "start": "",
+      "end": "",
+      "period": "A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "6–10",
+      "mat": "Ahora 9 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.",
+      "osc": "Ahora 6 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "cost": "Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://mobot.dz/en/ateliers",
+      "proof": "Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "iso": [
+        "DZA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "MoBot · group workshops",
+          "url": "https://mobot.dz/en/ateliers"
+        },
+        {
+          "label": "MoBot · separate workshop agreement",
+          "url": "https://mobot.dz/en/conditions-generales"
+        }
+      ]
+    },
+    {
+      "id": "L571",
+      "block": "Campamentos",
+      "title": "MoBot · Program Workshop",
+      "country": "Argelia",
+      "region": "África",
+      "city": "Actividad en sede del cliente en Argelia; cliente aporta espacio",
+      "start": "",
+      "end": "",
+      "period": "A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "11–17",
+      "mat": "No ahora; etapa futura",
+      "osc": "No ahora; etapa futura",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "cost": "Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://mobot.dz/en/ateliers",
+      "proof": "Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "iso": [
+        "DZA"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "MoBot · group workshops",
+          "url": "https://mobot.dz/en/ateliers"
+        },
+        {
+          "label": "MoBot · separate workshop agreement",
+          "url": "https://mobot.dz/en/conditions-generales"
+        }
+      ]
+    },
+    {
+      "id": "L572",
+      "block": "Campamentos",
+      "title": "Oued Ghir · Summer Camp · diaspora 2026",
+      "country": "Argelia",
+      "region": "África",
+      "city": "Centre de loisirs scientifiques · Oued Ghir · Béjaïa",
+      "start": "2026-08-05",
+      "end": "2026-08-05",
+      "period": "5 de agosto de 2026, un día, finalizado; sin fechas futuras.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Niños / jóvenes; edad numérica sin indicar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Ficha oficial ministerial: actividades interactivas científicas, robóticas y tecnológicas de un día el 5 de agosto de 2026 para comunidad argelina en el extranjero. Compatibilidad de familia con ese requisito sin establecer. GET directo agotó tiempo; leída representación oficial de búsqueda.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "cost": "Fechas nuevas, plazas y precio final sin publicar.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223",
+      "proof": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Ficha oficial ministerial: actividades interactivas científicas, robóticas y tecnológicas de un día el 5 de agosto de 2026 para comunidad argelina en el extranjero. Compatibilidad de familia con ese requisito sin establecer. GET directo agotó tiempo; leída representación oficial de búsqueda.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar.",
+      "iso": [
+        "DZA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "science"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Ministry of Youth · archived programme",
+          "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223"
+        }
+      ]
+    },
+    {
+      "id": "L573",
+      "block": "Campamentos",
+      "title": "Tipaza · National Scientific Robotics Camp 2026",
+      "country": "Argelia",
+      "region": "África",
+      "city": "Tipaza Province",
+      "start": "2026-07-04",
+      "end": "2026-07-09",
+      "period": "4–9 de julio de 2026, finalizado; edición nueva sin anunciar.",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "10–16 categoría menor / 17–30 jóvenes · según evento",
+      "mat": "No ahora; etapa futura",
+      "osc": "No ahora; etapa futura",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Universidad confirma 4–9 de julio de 2026 y nominación por clubes estudiantiles. Ficha ministerial describe categorías de 10–16 y 17–30 según etapa / formato; no grupo abierto único para todos. Ambos niños eran menores de 10. Residencia, idioma y admisión familiar libre sin confirmar; ficha ministerial leída mediante lector web oficial tras timeout GET.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "cost": "Fechas nuevas, plazas y precio final sin publicar.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities",
+      "proof": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Universidad confirma 4–9 de julio de 2026 y nominación por clubes estudiantiles. Ficha ministerial describe categorías de 10–16 y 17–30 según etapa / formato; no grupo abierto único para todos. Ambos niños eran menores de 10. Residencia, idioma y admisión familiar libre sin confirmar; ficha ministerial leída mediante lector web oficial tras timeout GET.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar.",
+      "iso": [
+        "DZA"
+      ],
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "University of Souk Ahras · invitation",
+          "url": "https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities"
+        },
+        {
+          "label": "Ministry of Youth · archived campaign",
+          "url": "https://youthconnect.mjeunesse.gov.dz/showcampaignpage/5504"
+        }
+      ]
+    },
+    {
+      "id": "L574",
+      "block": "Campamentos",
+      "title": "Osuwela · WRO School Robotics Preparation",
+      "country": "Mozambique",
+      "region": "África",
+      "city": "Equipos escolares de Mozambique; siguiente sede formativa desconocida",
+      "start": "",
+      "end": "",
+      "period": "Fechas nuevas, plazas y factura final sin confirmar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "competición 8–19; admisión formativa sin confirmar",
+      "mat": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "osc": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "format": "Equipo; composición exacta según reglamento de categoría.",
+      "entry": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "cost": "Fechas nuevas, plazas y precio final sin publicar.",
+      "level": "C — ruta regional / local",
+      "reward": "Puesto o premio competitivo solo según acta oficial. Certificado, medalla de participación y acreditación institucional no prueban victoria internacional.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://wromozambique.co.mz/events.html",
+      "proof": "Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.",
+      "checked": "2026-11-06",
+      "status": "Idea",
+      "note": "Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.",
+      "iso": [
+        "MOZ"
+      ],
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "participation": "individual",
+      "admission_kind": "unknown",
+      "evidence_level": "event_page",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "WRO Mozambique · preparation report",
+          "url": "https://wromozambique.co.mz/events.html"
+        },
+        {
+          "label": "Local categories",
+          "url": "https://wromozambique.co.mz/categories.html"
+        },
+        {
+          "label": "National rules 2026",
+          "url": "https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi"
         }
       ]
     }

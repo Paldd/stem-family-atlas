@@ -57862,6 +57862,86 @@ Limitaciones: Seguridad en internet y conceptos iniciales de ethical hacking. Pr
 Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
 Se ha comprobado: 2026-11-06
 
+### L570 · MoBot · Build Workshop
+
+lugar: Argelia · Actividad en sede del cliente en Argelia; cliente aporta espacio
+Fecha: A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.
+Edad: 6 &apos; 10
+Matvey: Ahora 9 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.
+Acceso: Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.
+Fuente: https://mobot.dz/en/ateliers
+Se ha comprobado: 2026-11-06
+
+### L571 · MoBot · Program Workshop
+
+lugar: Argelia · Actividad en sede del cliente en Argelia; cliente aporta espacio
+Fecha: A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.
+Edad: 11–17
+Matvey: No ahora; etapa futura
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.
+Acceso: Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.
+Fuente: https://mobot.dz/en/ateliers
+Se ha comprobado: 2026-11-06
+
+### L572 · Oued Ghir · Summer Camp · diaspora 2026
+
+lugar: Argelia · Centre de loisirs scientifiques · Oued Ghir · Béjaïa
+Fecha: 2026-08-05 — 2026-08-05
+edad: Niños / jóvenes; edad numérica sin indicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y precio final sin publicar.
+Acceso: Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar.
+Fuente: https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223
+Se ha comprobado: 2026-11-06
+
+### L573 · Tipaza · National Scientific Robotics Camp 2026
+
+lugar: Argelia · Tipaza Province
+Fecha: 2026-07-04 — 2026-07-09
+Edad: 10*16 young category / 17–30 youth · event-specific
+Matvey: No ahora; etapa futura
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y precio final sin publicar.
+Acceso: Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar.
+Fuente: https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities
+Se ha comprobado: 2026-11-06
+
+### L574 · Osuwela · WRO School Robotics Preparation
+
+lugar: Mozambique · Equipos escolares de Mozambique; siguiente sede formativa desconocida
+Fecha: Fechas nuevas, plazas y factura final sin confirmar.
+edad: competition 8–19; training intake unconfirmed
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas nuevas, plazas y precio final sin publicar.
+Acceso: Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.
+Fuente: https://wromozambique.co.mz/events.html
+Se ha comprobado: 2026-11-06
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 lugar: en línea / mundo

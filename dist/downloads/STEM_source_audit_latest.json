@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5788,
-    "competition_cards": 1928,
-    "event_cards": 252,
-    "camp_cards": 3608,
-    "league_profiles": 220,
-    "major_exhibition_cards": 160,
+    "cards": 5803,
+    "competition_cards": 1930,
+    "event_cards": 260,
+    "camp_cards": 3613,
+    "league_profiles": 222,
+    "major_exhibition_cards": 168,
     "vex_cards": 518,
-    "countries_with_records": 128,
+    "countries_with_records": 130,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 147,
-      "countries_with_records": 18,
-      "competitions": 79,
-      "events": 15,
-      "major_exhibitions": 7,
-      "camps": 53,
+      "total": 162,
+      "countries_with_records": 20,
+      "competitions": 81,
+      "events": 23,
+      "major_exhibitions": 15,
+      "camps": 58,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -5146,6 +5146,33 @@
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://girlsinstemtrust.org/",
       "new": false
+    },
+    {
+      "id": "wro-mozambique-local",
+      "name": "WRO · Mozambique / Osuwela",
+      "group": "regional",
+      "event_ids": [
+        "C1930",
+        "C1931"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi",
+      "new": false
+    },
+    {
+      "id": "fll-algeria-local",
+      "name": "FIRST LEGO League · Algeria / Robot Éducatif Algérie",
+      "group": "regional",
+      "event_ids": [],
+      "cards": 0,
+      "future_dated": 0,
+      "linked_card_count": 0,
+      "status": "Только профиль; календарь этапов не добавлен",
+      "source": "https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -6907,6 +6934,94 @@
       "end": "2027-06-21",
       "visitor_policy": "family",
       "source": "https://www.rtsperth.com/",
+      "new": false
+    },
+    {
+      "id": "E253",
+      "name": "Algeria Mobile Summit 2027",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "2027-01-27",
+      "end": "2027-01-30",
+      "visitor_policy": "family",
+      "source": "https://algeriamobilesummit.com/en",
+      "new": false
+    },
+    {
+      "id": "E254",
+      "name": "ICT Africa Summit 2027",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "2027-04-26",
+      "end": "2027-04-28",
+      "visitor_policy": "confirm_children",
+      "source": "https://ictafricasummit.com/en/home/",
+      "new": false
+    },
+    {
+      "id": "E255",
+      "name": "ALGER-IA 2027",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "2027-01-19",
+      "end": "2027-01-21",
+      "visitor_policy": "confirm_children",
+      "source": "https://alger-ia.net/en",
+      "new": false
+    },
+    {
+      "id": "E256",
+      "name": "ACF · Annaba Entrepreneurship / Training / Digital Economy 2027",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "2027-05-06",
+      "end": "2027-05-08",
+      "visitor_policy": "confirm_children",
+      "source": "https://acf-expo.com/en/salon-annaba",
+      "new": false
+    },
+    {
+      "id": "E257",
+      "name": "AI Week Mozambique · announced programme",
+      "country": "Мозамбик",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://amia.co.mz/en/eventos",
+      "new": false
+    },
+    {
+      "id": "E258",
+      "name": "Mozambique International AI Conference · announced programme",
+      "country": "Мозамбик",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://amia.co.mz/en/eventos",
+      "new": false
+    },
+    {
+      "id": "E259",
+      "name": "Games & Comic Con Dzaïr · 2027 date conflict",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.gccdz.com/",
+      "new": false
+    },
+    {
+      "id": "E260",
+      "name": "FIBDA · gaming programme / next edition watch",
+      "country": "Алжир",
+      "region": "Африка",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.fibda-dz.com/",
       "new": false
     }
   ],
@@ -9019,7 +9134,7 @@
       }
     ],
     "counts": {
-      "records": 3608,
+      "records": 3613,
       "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
@@ -9032,7 +9147,7 @@
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 84
+      "countries": 86
     },
     "validation": {
       "version": 51,

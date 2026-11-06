@@ -1,0 +1,474 @@
+{
+  "version": 183,
+  "checked": "2026-11-06",
+  "request_count": 43,
+  "hash_verified": 36,
+  "failures": [
+    {
+      "key": "aljazari-home",
+      "url": "https://aljazari-robotics.com/",
+      "checked_at": "2026-11-06T13:02:13.853523+00:00",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "key": "algeria-youth-camp",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showcampaignpage/5504",
+      "checked_at": "2026-11-06T13:02:14.500867+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "algeria-diaspora-camp",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223",
+      "checked_at": "2026-11-06T13:02:15.684278+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "mobot-academy",
+      "url": "https://mobot.dz/en/academy",
+      "checked_at": "2026-11-06T13:03:50.807127+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "aljazari-retry",
+      "url": "https://aljazari-robotics.com/",
+      "checked_at": "2026-11-06T13:04:38.039918+00:00",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "key": "fibda",
+      "url": "https://www.fibda-dz.com/",
+      "checked_at": "2026-11-06T13:18:52.639357+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fibda-dz.com'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "fibda-apex",
+      "url": "https://fibda-dz.com/",
+      "checked_at": "2026-11-06T13:21:46.223342+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fibda-dz.com'. (_ssl.c:1082)>"
+    }
+  ],
+  "requests": [
+    {
+      "key": "wro-moz-home",
+      "url": "https://wromozambique.co.mz/index.html",
+      "checked_at": "2026-11-06T13:02:12.847341+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/index.html",
+      "content_type": "text/html",
+      "bytes": 5282,
+      "sha256": "8e2d8cd1d5640996d4516b83c60a0d1334c92b1a9588a01fff7081cd7dab4939"
+    },
+    {
+      "key": "wro-moz-events",
+      "url": "https://wromozambique.co.mz/events.html",
+      "checked_at": "2026-11-06T13:02:12.847720+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/events.html",
+      "content_type": "text/html",
+      "bytes": 9356,
+      "sha256": "2de730ac3f99f01a6d23590b61a928fcd8001c6512df60ef3bf5b0e2d0f0959b"
+    },
+    {
+      "key": "wro-moz-challenges",
+      "url": "https://wromozambique.co.mz/challenges.html",
+      "checked_at": "2026-11-06T13:02:12.847817+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/challenges.html",
+      "content_type": "text/html",
+      "bytes": 4175,
+      "sha256": "ebc2abaafb495c8731be8e6c2d7c8ce8134ce0012ea01b720461982247c25258"
+    },
+    {
+      "key": "osuwela",
+      "url": "https://osuwela.org/",
+      "checked_at": "2026-11-06T13:02:12.847881+00:00",
+      "status": 200,
+      "final_url": "https://osuwela.org/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 33092,
+      "sha256": "44d315fb5767c54987ce340bfa0c7f2130fd09639b4f087ecd3e9bbbe9c787c7"
+    },
+    {
+      "key": "mobot-workshops",
+      "url": "https://mobot.dz/en/ateliers",
+      "checked_at": "2026-11-06T13:02:12.848140+00:00",
+      "status": 200,
+      "final_url": "https://mobot.dz/en/ateliers",
+      "content_type": "text/html",
+      "bytes": 26418,
+      "sha256": "ad3eb4a5370d4f367f537211aa8f4d775a4563ad26d89d82ecc3572ece36ad76"
+    },
+    {
+      "key": "aljazari-home",
+      "url": "https://aljazari-robotics.com/",
+      "checked_at": "2026-11-06T13:02:13.853523+00:00",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "key": "algeria-youth-camp",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showcampaignpage/5504",
+      "checked_at": "2026-11-06T13:02:14.500867+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "algeria-diaspora-camp",
+      "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223",
+      "checked_at": "2026-11-06T13:02:15.684278+00:00",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "key": "coderina",
+      "url": "https://www.coderina.org",
+      "checked_at": "2026-11-06T13:02:15.795096+00:00",
+      "status": 200,
+      "final_url": "https://www.coderina.org",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 24739,
+      "sha256": "3634454e6655a3a15d95737f11b41878f7a939c955b6dc71310a050e24a951da"
+    },
+    {
+      "key": "wro-moz-categories",
+      "url": "https://wromozambique.co.mz/categories.html",
+      "checked_at": "2026-11-06T13:03:50.215487+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/categories.html",
+      "content_type": "text/html",
+      "bytes": 3794,
+      "sha256": "a81c51f4a89eaa49bf11bc47615ba6f97d237a53fb73da1960b1b6818894e250"
+    },
+    {
+      "key": "wro-moz-resources",
+      "url": "https://wromozambique.co.mz/resources.html",
+      "checked_at": "2026-11-06T13:03:50.215893+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/resources.html",
+      "content_type": "text/html",
+      "bytes": 3185,
+      "sha256": "5817d104613c0a26ee0c50b77ca9a6eb76baa05d058dbf8886cb2699d8cd3fb0"
+    },
+    {
+      "key": "wro-moz-about",
+      "url": "https://wromozambique.co.mz/about.html",
+      "checked_at": "2026-11-06T13:03:50.215983+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/about.html",
+      "content_type": "text/html",
+      "bytes": 4149,
+      "sha256": "a8d9e702302e987da5d9d6a2a7619eb0b1c2d97ed9bf802ac85270f14a3bdb6d"
+    },
+    {
+      "key": "wro-moz-contact",
+      "url": "https://wromozambique.co.mz/contact.html",
+      "checked_at": "2026-11-06T13:03:50.216044+00:00",
+      "status": 200,
+      "final_url": "https://wromozambique.co.mz/contact.html",
+      "content_type": "text/html",
+      "bytes": 4065,
+      "sha256": "dc44cbbd0edef521c0e19ad509cd527dd8d1216563d2d6ef48ad9452976ef3f7"
+    },
+    {
+      "key": "mobot-smart-car",
+      "url": "https://mobot.dz/en/kits/smart-car",
+      "checked_at": "2026-11-06T13:03:50.216270+00:00",
+      "status": 200,
+      "final_url": "https://mobot.dz/en/kits/smart-car",
+      "content_type": "text/html",
+      "bytes": 31976,
+      "sha256": "c8dd38139253989e8b40af58d1af09040c7474e612b7493b8bd65e610f91437a"
+    },
+    {
+      "key": "mobot-academy",
+      "url": "https://mobot.dz/en/academy",
+      "checked_at": "2026-11-06T13:03:50.807127+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "first-annual-2025",
+      "url": "https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf",
+      "checked_at": "2026-11-06T13:04:38.039430+00:00",
+      "status": 200,
+      "final_url": "https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf",
+      "content_type": "application/pdf",
+      "bytes": 17651535,
+      "sha256": "5334d05e42356166b3ba960b05dff341ee85e7ef3ba2400cd56e705ebebade9c"
+    },
+    {
+      "key": "first-annual-2024",
+      "url": "https://www.firstinspires.org/sites/default/files/uploads/annual-report/FIRST-AR-FY24-Report.pdf",
+      "checked_at": "2026-11-06T13:04:38.039825+00:00",
+      "status": 200,
+      "final_url": "https://info.firstinspires.org/hubfs/web/about/report/annual_report_2024.pdf",
+      "content_type": "application/pdf",
+      "bytes": 16111427,
+      "sha256": "95307b53e94844866f2e051bf3072a801a1ea9ccab8443852bfa9ed5b09da12e"
+    },
+    {
+      "key": "aljazari-retry",
+      "url": "https://aljazari-robotics.com/",
+      "checked_at": "2026-11-06T13:04:38.039918+00:00",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>"
+    },
+    {
+      "key": "mobot-academie",
+      "url": "https://mobot.dz/en/academie",
+      "checked_at": "2026-11-06T13:08:31.543420+00:00",
+      "status": 200,
+      "final_url": "https://mobot.dz/en/academie",
+      "content_type": "text/html",
+      "bytes": 16830,
+      "sha256": "d609f72f6054c7d1472c107b5ca357d60074da0c9fcdfb2b788c943d8d92c1c5"
+    },
+    {
+      "key": "mobot-schools",
+      "url": "https://mobot.dz/en/ecoles",
+      "checked_at": "2026-11-06T13:08:31.543947+00:00",
+      "status": 200,
+      "final_url": "https://mobot.dz/en/ecoles",
+      "content_type": "text/html",
+      "bytes": 35315,
+      "sha256": "6bed40b9b1be408e11a4a2219d976626bafb9f24db9ca85e0c67ea7dc84d4ae9"
+    },
+    {
+      "key": "wro-moz-rules-folder",
+      "url": "https://drive.google.com/drive/folders/1QoPX5E4CwtfsFbxOghrnkqxYIRigHNwC?usp=drive_link",
+      "checked_at": "2026-11-06T13:08:31.544042+00:00",
+      "status": 200,
+      "final_url": "https://drive.google.com/drive/folders/1QoPX5E4CwtfsFbxOghrnkqxYIRigHNwC?usp=drive_link",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 338627,
+      "sha256": "640c1f677d8aafa33830d71415670665b826d75551b02e8a640b4075daf35f10"
+    },
+    {
+      "key": "wro-moz-materials-folder",
+      "url": "https://drive.google.com/drive/folders/1-RAxSKJqTLpKJYIbHKt16FJcO1csUvWw?usp=drive_link",
+      "checked_at": "2026-11-06T13:08:31.544107+00:00",
+      "status": 200,
+      "final_url": "https://drive.google.com/drive/folders/1-RAxSKJqTLpKJYIbHKt16FJcO1csUvWw?usp=drive_link",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 315234,
+      "sha256": "497b10436b39221de02f56f6a3e0c4375e83155eef034d27a653c554ad735da0"
+    },
+    {
+      "key": "algeria-university-camp",
+      "url": "https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities",
+      "checked_at": "2026-11-06T13:08:31.544372+00:00",
+      "status": 200,
+      "final_url": "https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 64292,
+      "sha256": "ecf16deb6c329ea22451f0defc1e1f7054f3449b8cf84da503f319ff77ef3e6e"
+    },
+    {
+      "key": "wro-moz-general-rules-pdf",
+      "url": "https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi",
+      "checked_at": "2026-11-06T13:09:43.335108+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi&export=download",
+      "content_type": "application/octet-stream",
+      "bytes": 985678,
+      "sha256": "8969496f0692d2573aaf7bd9d92eb93ab73786753484bf9a9562e57e39b06a99"
+    },
+    {
+      "key": "algeria-mobile",
+      "url": "https://algeriamobilesummit.com/en",
+      "checked_at": "2026-11-06T13:15:39.499873+00:00",
+      "status": 200,
+      "final_url": "https://algeriamobilesummit.com/en",
+      "content_type": "text/html",
+      "bytes": 168552,
+      "sha256": "7aff7a803a58b295be6624e2d24b59b1613f9bc9ca72128fd38fa1b890f949f4"
+    },
+    {
+      "key": "ict-africa",
+      "url": "https://ictafricasummit.com/en/home/",
+      "checked_at": "2026-11-06T13:15:39.500482+00:00",
+      "status": 200,
+      "final_url": "https://ictafricasummit.com/en/home/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 181202,
+      "sha256": "2fb00410ac74c584ab85742f0415773fba6ec75fb09c54ac12caac399041f60e"
+    },
+    {
+      "key": "alger-ia",
+      "url": "https://alger-ia.net/en",
+      "checked_at": "2026-11-06T13:15:39.500581+00:00",
+      "status": 200,
+      "final_url": "https://alger-ia.net/en",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 70949,
+      "sha256": "66f26cdb803d45cf50e260a3559b2e5254a470c545856b07840c5b35bcc97d23"
+    },
+    {
+      "key": "acf-annaba",
+      "url": "https://acf-expo.com/en/salon-annaba",
+      "checked_at": "2026-11-06T13:15:39.500648+00:00",
+      "status": 200,
+      "final_url": "https://acf-expo.com/en/salon-annaba",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 24831,
+      "sha256": "f7ab0f99a495c7633988195ebbdbd69e3ffd55a2a6b2b9ceb602f86cf307c9bd"
+    },
+    {
+      "key": "acf-digital",
+      "url": "https://acf-expo.com/en/digital-algerie",
+      "checked_at": "2026-11-06T13:15:39.500907+00:00",
+      "status": 200,
+      "final_url": "https://acf-expo.com/en/digital-algerie",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 38268,
+      "sha256": "b1a1f562e70e40b65314cfa9c8db9b043839950fcc60e2738c4f00bbe9113254"
+    },
+    {
+      "key": "amia-events",
+      "url": "https://amia.co.mz/en/eventos",
+      "checked_at": "2026-11-06T13:15:40.782555+00:00",
+      "status": 200,
+      "final_url": "https://amia.co.mz/en/eventos",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 90609,
+      "sha256": "25f4daed6afdf99fda77b0281823fe32fe9198a874114178a8716265d9d8cefb"
+    },
+    {
+      "key": "gccdz",
+      "url": "https://www.gccdz.com/",
+      "checked_at": "2026-11-06T13:18:52.638871+00:00",
+      "status": 200,
+      "final_url": "https://www.gccdz.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 80422,
+      "sha256": "d0fe549d474f9d6017e2d2eec7fe6555be3e7c4f8e1506e19378bc32ae6702c9"
+    },
+    {
+      "key": "fibda",
+      "url": "https://www.fibda-dz.com/",
+      "checked_at": "2026-11-06T13:18:52.639357+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fibda-dz.com'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "kidz-world",
+      "url": "https://kidzworldexpoalgeria.com/",
+      "checked_at": "2026-11-06T13:18:52.639441+00:00",
+      "status": 200,
+      "final_url": "https://kidzworldexpoalgeria.com/",
+      "content_type": "text/html",
+      "bytes": 9613,
+      "sha256": "faebbe5ce111ed5719657fc3f6e6ae2eb77dc357ec8cfb199211a34ced263748"
+    },
+    {
+      "key": "mobot-terms",
+      "url": "https://mobot.dz/en/conditions-generales",
+      "checked_at": "2026-11-06T13:18:52.639503+00:00",
+      "status": 200,
+      "final_url": "https://mobot.dz/en/conditions-generales",
+      "content_type": "text/html",
+      "bytes": 33174,
+      "sha256": "494987ff745b5f5543a8273ce4e912b41a74bc78b73e8190bfd837966c111400"
+    },
+    {
+      "key": "mobile-visit",
+      "url": "https://algeriamobilesummit.com/en/visiter",
+      "checked_at": "2026-11-06T13:19:12.173241+00:00",
+      "status": 200,
+      "final_url": "https://algeriamobilesummit.com/en/visiter",
+      "content_type": "text/html",
+      "bytes": 51348,
+      "sha256": "0a117f4395aba4d26bbf432619ff01231e75cb3befe8f86257bc4114fb8c9e07"
+    },
+    {
+      "key": "mobile-rules",
+      "url": "https://algeriamobilesummit.com/en/reglement",
+      "checked_at": "2026-11-06T13:19:12.173603+00:00",
+      "status": 200,
+      "final_url": "https://algeriamobilesummit.com/en/reglement",
+      "content_type": "text/html",
+      "bytes": 64869,
+      "sha256": "30fb9f53b8190e17daf6fdfa71a795428c14d223db3fec9327893f3f08c23a28"
+    },
+    {
+      "key": "ict-visitors",
+      "url": "https://ictafricasummit.com/en/visitors",
+      "checked_at": "2026-11-06T13:19:12.173688+00:00",
+      "status": 200,
+      "final_url": "https://ictafricasummit.com/en/visitors/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 107901,
+      "sha256": "05bce9ac907fcf0ab340bdda9f21dd23ff14e3eb69b8ee237c4183938c4dff85"
+    },
+    {
+      "key": "ict-useful",
+      "url": "https://ictafricasummit.com/en/useful",
+      "checked_at": "2026-11-06T13:19:12.173750+00:00",
+      "status": 200,
+      "final_url": "https://ictafricasummit.com/en/useful/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 120488,
+      "sha256": "173800160e938b24022ebff7d5ba65ee3ecf3d2cc0b7c10caef577522a9be0ae"
+    },
+    {
+      "key": "acf-visit",
+      "url": "https://acf-expo.com/en/visiter",
+      "checked_at": "2026-11-06T13:19:12.173984+00:00",
+      "status": 200,
+      "final_url": "https://acf-expo.com/en/visiter",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 25972,
+      "sha256": "c0f26854f50c6cdeb44270585df2f2a2b4f1e9b785a5bff01303a3d0e8726126"
+    },
+    {
+      "key": "acf-faq",
+      "url": "https://acf-expo.com/en/faq",
+      "checked_at": "2026-11-06T13:19:13.126426+00:00",
+      "status": 200,
+      "final_url": "https://acf-expo.com/en/faq",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 29549,
+      "sha256": "438d50006fbc31f2b79cc2d0c7b313892b130f53d83666fcbe687b0547a09060"
+    },
+    {
+      "key": "fibda-apex",
+      "url": "https://fibda-dz.com/",
+      "checked_at": "2026-11-06T13:21:46.223342+00:00",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fibda-dz.com'. (_ssl.c:1082)>"
+    },
+    {
+      "key": "amaliqa-facebook",
+      "url": "https://www.facebook.com/1858589940884127/",
+      "checked_at": "2026-11-06T13:24:02.306345+00:00",
+      "status": 200,
+      "final_url": "https://www.facebook.com/robotech.skikda/",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "bytes": 512851,
+      "sha256": "bebbabebb8577f4a7cf4cfe0284047612b44d1dd5409fc45fd80da56b819da61"
+    },
+    {
+      "key": "fll-algeria-facebook",
+      "url": "https://www.facebook.com/teamdz.fgc/",
+      "checked_at": "2026-11-06T13:24:02.306873+00:00",
+      "status": 200,
+      "final_url": "https://www.facebook.com/teamdz.fgc/",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "bytes": 510761,
+      "sha256": "8d83af59d3b4d028eae4026b9624bb4dcf93942c842e6419b5c1ec4939c91ef7"
+    }
+  ],
+  "additional_official_readers": [
+    {
+      "private_evidence_name": "initial-primary-search.txt",
+      "sha256": "b8555f4795f3b58df8bd4e47210fbd90391f46bb91ce4319bf564d4aa91152a6",
+      "role": "representación oficial indexada / lector web; fallos directos indicados aparte"
+    },
+    {
+      "private_evidence_name": "algeria-government-primary-reader.txt",
+      "sha256": "e672e9c1fdb41adc0a92503a8cf89eb2ed2e7d00c7dfef994b1ede65b6be8781",
+      "role": "representación oficial indexada / lector web; fallos directos indicados aparte"
+    },
+    {
+      "private_evidence_name": "gaming-and-family-primary-reader.txt",
+      "sha256": "970f8c97f4a8ae0836678c966dee844b15305ef375863db1aa8ffde522c872c7",
+      "role": "representación oficial indexada / lector web; fallos directos indicados aparte"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

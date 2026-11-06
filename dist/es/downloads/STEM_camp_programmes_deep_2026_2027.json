@@ -30,24 +30,24 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1448,
-    "countries": 77,
+    "dossiers": 1453,
+    "countries": 79,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 127,
-      "next_unannounced": 301,
+      "next_unannounced": 304,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 128,
+      "archive_next_unannounced": 130,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2103
+    "source_urls": 2111
   },
   "countries": [
     {
@@ -57,6 +57,10 @@
     {
       "country": "Austria",
       "count": 3
+    },
+    {
+      "country": "Argelia",
+      "count": 4
     },
     {
       "country": "Andorra",
@@ -209,6 +213,10 @@
     {
       "country": "México",
       "count": 58
+    },
+    {
+      "country": "Mozambique",
+      "count": 1
     },
     {
       "country": "Namibia",
@@ -230061,6 +230069,358 @@
       "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1449",
+      "slug": "mobot-algeria-build",
+      "provider": "MoBot · Build Workshop",
+      "iso": "DZA",
+      "country": "Argelia",
+      "place": "Actividad en sede del cliente en Argelia; cliente aporta espacio",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–10",
+      "programme": "Montaje de unas dos horas de robot seguidor de línea con piezas, ordenadores y tapetes del operador; trabajo en parejas. Ambos compatibles por edad numérica actual. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "DZD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 6–10. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+        "Academy anuncia vídeos FR / AR / EN / ES; no acredita idioma del docente desplazado. Publicados ahora 21 tutorial / 3 h 51; 120 horas es currículo completo de publicación progresiva. Certificado del curso no es premio competitivo internacional."
+      ],
+      "sources": [
+        {
+          "title": "MoBot · group workshops",
+          "url": "https://mobot.dz/en/ateliers",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "MoBot · separate workshop agreement",
+          "url": "https://mobot.dz/en/conditions-generales",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1450",
+      "slug": "mobot-algeria-program",
+      "provider": "MoBot · Program Workshop",
+      "iso": "DZA",
+      "country": "Argelia",
+      "place": "Actividad en sede del cliente en Argelia; cliente aporta espacio",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "11–17",
+      "programme": "Misiones de unas dos horas con robots montados, Scratch y C++; ambos niños aún menores de 11. Servicio grupal para empresas, colegios y organizadores. No acredita entrada individual en campamento vacacional. Pedido mínimo para dos hermanos desconocido; padres pueden participar.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "A solicitud del cliente, unas 2 horas; días concretos aún sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "DZD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Precio por propuesta y contrato aparte: número de niños, duración, sede y material proporcionado. Precio de kit en tienda no equivale a cuota del taller.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ahora 9 años; intervalo publicado 11–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 11–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+        "Academy anuncia vídeos FR / AR / EN / ES; no acredita idioma del docente desplazado. Publicados ahora 21 tutorial / 3 h 51; 120 horas es currículo completo de publicación progresiva. Certificado del curso no es premio competitivo internacional."
+      ],
+      "sources": [
+        {
+          "title": "MoBot · group workshops",
+          "url": "https://mobot.dz/en/ateliers",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "MoBot · separate workshop agreement",
+          "url": "https://mobot.dz/en/conditions-generales",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1451",
+      "slug": "oued-ghir-diaspora-summer-archive",
+      "provider": "Oued Ghir · Summer Camp · diaspora 2026",
+      "iso": "DZA",
+      "country": "Argelia",
+      "place": "Centre de loisirs scientifiques · Oued Ghir · Béjaïa",
+      "themes": [
+        "robotics",
+        "ai",
+        "science"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Niños / jóvenes; edad numérica sin indicar",
+      "programme": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Ficha oficial ministerial: actividades interactivas científicas, robóticas y tecnológicas de un día el 5 de agosto de 2026 para comunidad argelina en el extranjero. Compatibilidad de familia con ese requisito sin establecer. GET directo agotó tiempo; leída representación oficial de búsqueda.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "5 de agosto de 2026, un día, finalizado; sin fechas futuras.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "DZD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin publicar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Ministry of Youth · archived programme",
+          "url": "https://youthconnect.mjeunesse.gov.dz/showactivitypg/53223",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1452",
+      "slug": "tipaza-national-robotics-archive",
+      "provider": "Tipaza · National Scientific Robotics Camp 2026",
+      "iso": "DZA",
+      "country": "Argelia",
+      "place": "Tipaza Province",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "10–16 categoría menor / 17–30 jóvenes · según evento",
+      "programme": "Archivo 2026, no inscripción abierta para vacaciones futuras. Edición nueva y condiciones aún sin anunciar. Universidad confirma 4–9 de julio de 2026 y nominación por clubes estudiantiles. Ficha ministerial describe categorías de 10–16 y 17–30 según etapa / formato; no grupo abierto único para todos. Ambos niños eran menores de 10. Residencia, idioma y admisión familiar libre sin confirmar; ficha ministerial leída mediante lector web oficial tras timeout GET.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "4–9 de julio de 2026, finalizado; edición nueva sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "DZD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin publicar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ahora 9 años; intervalo publicado 10–30. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 10–30. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "University of Souk Ahras · invitation",
+          "url": "https://univ-soukahras.dz/en/actualites/participation-in-the-national-camp-for-scientific-robotics-activities",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Ministry of Youth · archived campaign",
+          "url": "https://youthconnect.mjeunesse.gov.dz/showcampaignpage/5504",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1453",
+      "slug": "osuwela-mozambique-school-preparation",
+      "provider": "Osuwela · WRO School Robotics Preparation",
+      "iso": "MOZ",
+      "country": "Mozambique",
+      "place": "Equipos escolares de Mozambique; siguiente sede formativa desconocida",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "unknown"
+      ],
+      "age": "competición 8–19; admisión formativa sin confirmar",
+      "programme": "Informe oficial describe preparación de alumnos y docentes para final nacional 2026. Preparación de equipos escolares, no campamento vacacional abierto anunciado para familia visitante. Edad e idioma del grupo lectivo sin publicar; informe competitivo en portugués no acredita idioma docente.",
+      "language": "Idioma de web o vídeo no acredita idioma del docente presencial. EN / ES / RU del grupo lectivo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "MZN",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin publicar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "WRO Mozambique · preparation report",
+          "url": "https://wromozambique.co.mz/events.html",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Local categories",
+          "url": "https://wromozambique.co.mz/categories.html",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "National rules 2026",
+          "url": "https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -232732,7 +233092,23 @@
       "detail": "El anuncio/sin firmar DOCX: 4–22 enero 2027, 15 días de la semana 10–16:30, grade2–6, hasta60/min40. el objetivo — el coreano y la identidad de la diáspora coreana; EN/ES/RU No se ha declarado. KRW4000000, los materiales/almuerzo/un aperitivo/camino de excursión/los boletos están incluidos; la vivienda no se ha declarado, el local guardian Necesitamos una forma.. cinco STEAM Bloques sin una descripción de la robótica específica/AI. no se ha añadido como un campamento familiar de inglés confirmado o un concurso mundial.",
       "next_action": "especificar origen no coreano, verdadero EN traducción de las actividades/seguridad y contenido de STEAM; antes no se recomienda a la familia. DOCX sólo se ha leído, no se ha completado/firmado/enviado."
     },
-    "Invierno 2027: Code Camp normalmente DE, grupo EN/ES sin acreditar; Masters 7–12 en fichas frente a 8–13 en menú; AI 9–13 frente a cuenta 13+. Smart Kids: idioma, zona horaria, tema por semana y descuento segundo hijo 99 CHF frente a 11% sin resolver."
+    "Invierno 2027: Code Camp normalmente DE, grupo EN/ES sin acreditar; Masters 7–12 en fichas frente a 8–13 en menú; AI 9–13 frente a cuenta 13+. Smart Kids: idioma, zona horaria, tema por semana y descuento segundo hijo 99 CHF frente a 11% sin resolver.",
+    {
+      "country": "Argelia",
+      "iso": "DZA",
+      "provider": "Algeria · language / group / future season",
+      "detail": "Ningún grupo lectivo presencial nuevo confirmó EN / ES. MoBot es servicio grupal desplazado, no campamento individual. Archivo ministerial y Al Jazari inaccesible no tomados como inscripción abierta 2027.",
+      "next_action": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "url": "https://mobot.dz/en/ateliers"
+    },
+    {
+      "country": "Mozambique",
+      "iso": "MOZ",
+      "provider": "Mozambique · national WRO versus training",
+      "detail": "Informe competitivo, vídeo y presentación exigen portugués; inglés internacional no sustituye etapa nacional. Idioma formativo, admisión extranjera y temporada nueva sin confirmar aparte.",
+      "next_action": "Confirmar temporada concreta, edad / curso, admisión individual extranjera, idioma de trabajo, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.",
+      "url": "https://wromozambique.co.mz/"
+    }
   ],
   "shortlist": [
     {
@@ -235306,7 +235682,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 182,
+  "version": 183,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

@@ -1,5 +1,5 @@
 {
-  "version": 182,
+  "version": 183,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1341,6 +1341,33 @@
       "country": "Объединенная Республика Танзания",
       "age": "Историческая категория; текущий приём неизвестен",
       "note": "Исторический результат 2024 года. Это не запись на следующий сезон и не доказательство текущего младшего набора, пансиона или международной победы. Категория сохранена словами источника; числовой возраст, школьная ступень детей и текущая связь с командой отдельно не доказаны. STEM Center при университете не принят за постоянную школу. Одного сезона недостаточно для вывода о лидерстве за 5–10 лет.",
+      "school_id": null
+    },
+    {
+      "id": "MOZ-BONIFACIO-GRUVETA",
+      "name": "Escola Secundária Bonifácio Gruveta",
+      "kind": "school",
+      "country": "Мозамбик",
+      "age": "Secondary; текущий младший приём не проверен",
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
+      "school_id": null
+    },
+    {
+      "id": "MOZ-18-NOVEMBRO",
+      "name": "Escola Secundária 18 de Novembro",
+      "kind": "school",
+      "country": "Мозамбик",
+      "age": "Secondary; текущий младший приём не проверен",
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
+      "school_id": null
+    },
+    {
+      "id": "MOZ-CHONGOENE",
+      "name": "Escola Secundária de Chongoene",
+      "kind": "school",
+      "country": "Мозамбик",
+      "age": "Secondary; текущий младший приём не проверен",
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
       "school_id": null
     }
   ],
@@ -4607,6 +4634,54 @@
       "team": "Azania Secondary School",
       "team_id": null,
       "note": "Исторический результат 2024 года. Это не запись на следующий сезон и не доказательство текущего младшего набора, пансиона или международной победы. Категория сохранена словами источника; числовой возраст, школьная ступень детей и текущая связь с командой отдельно не доказаны. STEM Center при университете не принят за постоянную школу. Одного сезона недостаточно для вывода о лидерстве за 5–10 лет. Отчёт ECA доступен в официальном поисковом представлении; прямые GET ссылок вернули HTTP 404. Архивная информация проверена по этому представлению, оригинал целиком не получен.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H205",
+      "entity_id": "MOZ-BONIFACIO-GRUVETA",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators · national overall",
+      "stage": "National Final · Mozambique",
+      "award": "1st place",
+      "level": "national_other",
+      "source": "https://wromozambique.co.mz/events.html",
+      "provenance": "organizer_report",
+      "team": "Escola Secundária Bonifácio Gruveta",
+      "team_id": null,
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H206",
+      "entity_id": "MOZ-18-NOVEMBRO",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators · national overall",
+      "stage": "National Final · Mozambique",
+      "award": "2nd place",
+      "level": "national_other",
+      "source": "https://wromozambique.co.mz/events.html",
+      "provenance": "organizer_report",
+      "team": "Escola Secundária 18 de Novembro",
+      "team_id": null,
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H207",
+      "entity_id": "MOZ-CHONGOENE",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators · national overall",
+      "stage": "National Final · Mozambique",
+      "award": "3rd place",
+      "level": "national_other",
+      "source": "https://wromozambique.co.mz/events.html",
+      "provenance": "organizer_report",
+      "team": "Escola Secundária de Chongoene",
+      "team_id": null,
+      "note": "Национальный финал 11 июля 2026, общая группа WRO Future Innovators. Это не мировой титул, не десятилетнее лидерство и не доказательство приёма в школу детей 6 / 9 или работы на EN / ES.",
       "checked": "2026-11-06"
     }
   ],

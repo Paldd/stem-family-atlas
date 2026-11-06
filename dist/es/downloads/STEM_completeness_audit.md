@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5788; competiciones: 1928; eventos: 252; campamentos / programas: 3608. Perfiles de ligas y programas: 220. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5803; competiciones: 1930; eventos: 260; campamentos / programas: 3613. Perfiles de ligas y programas: 222. Fichas de exposiciones grandes y especializadas: 168 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 128 de 249 países y territorios; países completamente auditados: 0. Revisión histórica v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores conservadas.
+Hay registros concretos para 130 de 249 países y territorios; países completamente auditados: 0. Revisión histórica v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -17,13 +17,13 @@ Hay registros concretos para 128 de 249 países y territorios; países completam
 | América del Norte | 19 | 615 | 20 | 991 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 41 | 376 | 52 | 1246 |
-| África | 18 | 79 | 7 | 53 |
+| África | 20 | 81 | 15 | 58 |
 | Asia | 36 | 528 | 71 | 1083 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un continente: 80. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1928 fichas competitivas (26.9%). Existe un claro desequilibrio de cobertura.
+VEX: 518 de 1930 fichas competitivas (26.8%). Existe un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -313,6 +313,8 @@ VEX: 518 de 1928 fichas competitivas (26.9%). Existe un claro desequilibrio de c
 - **WRO · Maldives / IGS**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://igs.mv/wro/
 - **WRO · Ethiopia / STEMpower**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.stempower.org/
 - **WRO · Zimbabwe / Girls in STEM Trust**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://girlsinstemtrust.org/
+- **WRO · Mozambique / Osuwela**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/uc?export=download&id=12B27_qlYAcDiwe6UqNV1c7mqe34tl0Xi
+- **FIRST LEGO League · Algeria / Robot Éducatif Algérie**: 0 fichas, 0 con fechas futuras precisas. sólo el perfil; no se ha añadido el calendario de etapas. https://www.firstinspires.org/hubfs/web/about/report/annual_report_2025.pdf
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -476,6 +478,14 @@ VEX: 518 de 1928 fichas competitivas (26.9%). Existe un claro desequilibrio de c
 - **TEKNOFEST · aviation, space & technology festival · next edition watch** — Turquía; fecha desconocida. Con adulto; condiciones de entrada adulta aparte. https://teknofest.org/tr/kurumsal/sss/
 - **WRO International Final · EdTech & Robotics Expo 2026** — Puerto Rico; 2026-12-08 – 2026-12-10. con un adulto; condiciones de admisión adulta por separado. https://wro2026.org/
 - **Resources Technology Showcase Perth 2027** — Australia; 2027-06-18 – 2027-06-21. con un adulto; condiciones de admisión adulta por separado. https://www.rtsperth.com/
+- **Algeria Mobile Summit 2027** — Argelia; 2027-01-27 – 2027-01-30. con un adulto; condiciones de admisión adulta por separado. https://algeriamobilesummit.com/en
+- **ICT Africa Summit 2027** — Argelia; 2027-04-26 – 2027-04-28. el permiso de entrada de niños. https://ictafricasummit.com/en/home/
+- **ALGER-IA 2027** — Argelia; 2027-01-19 – 2027-01-21. el permiso de entrada de niños. https://alger-ia.net/en
+- **ACF · Annaba Entrepreneurship / Training / Digital Economy 2027** — Argelia; 2027-05-06 – 2027-05-08. el permiso de entrada de niños. https://acf-expo.com/en/salon-annaba
+- **AI Week Mozambique · announced programme** — Mozambique; fecha desconocida. el permiso de entrada de niños. https://amia.co.mz/en/eventos
+- **Mozambique International AI Conference · announced programme** — Mozambique; fecha desconocida. el permiso de entrada de niños. https://amia.co.mz/en/eventos
+- **Games & Comic Con Dzaïr · 2027 date conflict** — Argelia; fecha desconocida. el permiso de entrada de niños. https://www.gccdz.com/
+- **FIBDA · gaming programme / next edition watch** — Argelia; fecha desconocida. el permiso de entrada de niños. https://www.fibda-dz.com/
 
 ## ~ Añadida en esta versión
 

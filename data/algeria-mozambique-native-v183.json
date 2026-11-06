@@ -1,0 +1,138 @@
+{
+  "status": "prepared-with-explicit-source-gates",
+  "Mozambique": {
+    "official_WRO_events_source": "https://wromozambique.co.mz/events.html",
+    "actual_national_date": "2026-07-11",
+    "next_season_unannounced": true,
+    "Future_Innovators_currently_offered": true,
+    "RoboMission_RoboSports_FutureEngineers_explicitly_not_offered": true,
+    "English_portuguese_site_not_teaching_language_proof": true,
+    "results_national_not_world": true,
+    "national_general_rules_public_pdf_verified": true,
+    "national_team_students": 2,
+    "national_coach_minimum_age": 18,
+    "national_FI_elementary_age": [
+      8,
+      12
+    ],
+    "national_junior_age": [
+      11,
+      15
+    ],
+    "national_senior_age": [
+      14,
+      19
+    ],
+    "source_Junior_Senior_calendar_year_typo_vs_2026_birth_ranges": true,
+    "national_judging_one_general_group_not_separate_age_winners": true,
+    "current_Oscar_below_minimum_8": true,
+    "next_season_rules_not_guaranteed": true,
+    "national_report_video_and_presentation_must_be_Portuguese": true,
+    "international_English_does_not_prove_local_English_access": true,
+    "elementary_2026_category_confirmed_foreign_intake_still_unknown": true
+  },
+  "Algeria": {
+    "FIRST_FY2025_annual_report_page41_visually_checked": true,
+    "Robot_Educatif_Algerie_red_dot_Challenge_only_2025": true,
+    "Explore_currently_not_confirmed": true,
+    "annual_report_does_not_confirm_2026_2027_calendar": true,
+    "Mobot_workshop_Build_age": [
+      6,
+      10
+    ],
+    "Mobot_workshop_Program_age": [
+      11,
+      17
+    ],
+    "group_client_supplies_venue": true,
+    "workshop_price_unknown": true,
+    "software_tutorials_claim_EN_ES_not_inperson_teaching": true,
+    "Aljazari_direct_GET_SSL_error_twice": true,
+    "government_youth_programmes_direct_GET_timeout": true,
+    "government_web_reader_available": true,
+    "July_4_9_camp_2026_archived": true,
+    "August_5_2026_diaspora_day_archived_and_Algerian_community_abroad_gate": true
+  },
+  "excluded_search_noise": [
+    "2005/2007 national holiday camp reports are not current offers",
+    "English tuition for baccalaureate is not English robotics for 6/9",
+    "Secondary school WRO wins do not establish primary school admission",
+    "Vendor kit price is not workshop tuition"
+  ],
+  "version": 183,
+  "checked": "2026-11-06",
+  "baseline_published_commit": "c4782d877e20ae54a54bee1b4e4fc3cbb035a935",
+  "new_dossier_ids": [
+    "CP1449",
+    "CP1450",
+    "CP1451",
+    "CP1452",
+    "CP1453"
+  ],
+  "new_event_ids": [
+    "C1930",
+    "C1931",
+    "L570",
+    "L571",
+    "L572",
+    "L573",
+    "L574",
+    "E253",
+    "E254",
+    "E255",
+    "E256",
+    "E257",
+    "E258",
+    "E259",
+    "E260"
+  ],
+  "all_new_learning_instruction_languages_unconfirmed": true,
+  "all_old_dossiers_preserved": true,
+  "expos": {
+    "confirmed_2027_dates": {
+      "AlgeriaMobile": [
+        "2027-01-27",
+        "2027-01-30"
+      ],
+      "ICTAfrica": [
+        "2027-04-26",
+        "2027-04-28"
+      ],
+      "ALGER_IA": [
+        "2027-01-19",
+        "2027-01-21"
+      ],
+      "ACF": [
+        "2027-05-06",
+        "2027-05-08"
+      ]
+    },
+    "mobile_minors_explicitly_admitted_with_adult_supervision": true,
+    "mobile_free_general_badge_no_childcare": true,
+    "mobile_expected_figures_not_actual_roster": true,
+    "ICT_entry_fee_unknown_not_inferred_from_free_parking_or_shuttle": true,
+    "ALGER_IA_B2B_invitation_or_approved_paid_request": true,
+    "ALGER_IA_speaker_languages": [
+      "FR",
+      "EN",
+      "AR"
+    ],
+    "ACF_visitor_registration_not_yet_open": true,
+    "ACF_child_age_gate_unconfirmed": true,
+    "GCCDZ_mixed_2026_2027_and_weekdays_conflict": true,
+    "GCCDZ_dates_not_in_calendar": true,
+    "FIBDA_direct_TLS_name_mismatch_both_hosts": true,
+    "FIBDA_reader_only_and_old_season": true,
+    "AMIA_planned_events_not_dated_as_association_launch": true,
+    "KidzWorld_toy_fair_without_verified_tech_programme_excluded": true
+  },
+  "UI": {
+    "mixed_string_gap_previously_blank": true,
+    "render_string_and_object_gap_with_HTML_escaping": true,
+    "stale_October6_intro_date_removed": true
+  },
+  "new_history_rows": 3,
+  "national_results_not_world_titles": true,
+  "raw_source_bodies_private": true,
+  "worldwide_complete": false
+}
