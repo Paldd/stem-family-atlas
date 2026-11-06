@@ -154,10 +154,10 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 70,
-      "countries": 26,
+      "records": 71,
+      "countries": 27,
       "public": 13,
-      "private": 57,
+      "private": 58,
       "boarding": 11,
       "world_result": 14,
       "organizer_protocol": 14,
@@ -1113,8 +1113,8 @@
         "iso": "MMR",
         "country": "Мьянма",
         "region": "Азия",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "PHL",
@@ -7719,6 +7719,147 @@
       "priority": "research",
       "research_status": "partial",
       "verification": "Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету."
+    },
+    {
+      "id": "S071",
+      "name": "ILBC International School · network",
+      "iso": "MMR",
+      "country": "Мьянма",
+      "region": "Азия",
+      "city": "Yangon / Nay Pyi Taw / national branches",
+      "school_type": "private",
+      "curriculum": "Pearson Edexcel IGCSE / IAL; дошкольное и начальное образование. IB не установлен.",
+      "ib_programmes": [],
+      "ages": "Preschool / KG / P1–P6 / Secondary",
+      "instruction_languages": [
+        "EN"
+      ],
+      "language_note": "Школа прямо указывает English как язык преподавания; язык конкретного robotics-coach уточнить.",
+      "fit": {
+        "mat": "candidate",
+        "osc": "candidate",
+        "note": "Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде."
+      },
+      "boarding": "unknown",
+      "boarding_note": "Пансион и приём младших на проживание не подтверждены.",
+      "programme": "В P1–P6 есть IT и Coding; отдельный extracurricular перечисляет Robotics, AI и 3D Printing. Для KG–P3 школьные компьютеры выдаются на уроке, дома нужен собственный ноутбук. Оператор прямо указывает English как язык обучения. Это программа зачисленной школы: возраст / класс технической группы и приём в команду отдельно. Не открытая каникулярная смена.",
+      "labs": "Science / computer labs, Technology Integrated Classrooms; KG–P3 используют школьные компьютеры, дома нужен свой ноутбук.",
+      "ai": "В extracurricular явно перечислены AI, Robotics и 3D Printing; возраст младшей группы не установлен.",
+      "results": [
+        {
+          "league": "WRO",
+          "season": 2025,
+          "stage": "Myanmar National Championship · Future Innovators Junior",
+          "award": "Champion",
+          "team": "ILBC Future Innovators",
+          "team_id": null,
+          "source": "https://ilbc.edu.mm/steam-education/",
+          "provenance": "school_report",
+          "limit": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
+        },
+        {
+          "league": "WRO",
+          "season": 2025,
+          "stage": "Myanmar National Championship · Future Innovators Senior",
+          "award": "Champion",
+          "team": "ILBC Future Innovators",
+          "team_id": null,
+          "source": "https://ilbc.edu.mm/steam-education/",
+          "provenance": "school_report",
+          "limit": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
+        },
+        {
+          "league": "WRO",
+          "season": 2026,
+          "stage": "Myanmar National Championship · Future Innovators Senior",
+          "award": "Champion",
+          "team": "ILBC Future Innovators",
+          "team_id": null,
+          "source": "https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/",
+          "provenance": "school_report",
+          "limit": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
+        },
+        {
+          "league": "WRO",
+          "season": 2026,
+          "stage": "Open Championship Asia & Pacific · Future Innovators Senior",
+          "award": "5th Place",
+          "team": "ILBC Future Innovators",
+          "team_id": null,
+          "source": "https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/",
+          "provenance": "school_report",
+          "limit": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
+        }
+      ],
+      "evidence": "other_result",
+      "admissions": "Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде.",
+      "cost": "Новый набор, тариф и места не установлены.",
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт.",
+        "Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде."
+      ],
+      "sources": [
+        {
+          "title": "ILBC · English medium and Pearson Edexcel",
+          "url": "https://ilbc.edu.mm/about/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно."
+        },
+        {
+          "title": "ILBC · primary",
+          "url": "https://ilbc.edu.mm/primary/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно."
+        },
+        {
+          "title": "ILBC · foreign admissions",
+          "url": "https://ilbc.edu.mm/admissions/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде."
+        },
+        {
+          "title": "ILBC · technology",
+          "url": "https://ilbc.edu.mm/technology-integrated-learning/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно."
+        },
+        {
+          "title": "ILBC · extracurricular",
+          "url": "https://ilbc.edu.mm/extracurricular/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно."
+        },
+        {
+          "title": "ILBC · 2025 national results",
+          "url": "https://ilbc.edu.mm/steam-education/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Школьное сообщение о результате; независимый протокол организатора не проверен."
+        },
+        {
+          "title": "ILBC · 2026 national results",
+          "url": "https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Школьное сообщение о результате; независимый протокол организатора не проверен."
+        },
+        {
+          "title": "ILBC · 2026 Open result",
+          "url": "https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/",
+          "checked": "2026-11-06",
+          "kind": "school_operator",
+          "claim": "Школьное сообщение о результате; независимый протокол организатора не проверен."
+        }
+      ],
+      "checked": "2026-11-06",
+      "priority": "research",
+      "research_status": "partial",
+      "verification": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших."
     }
   ]
 }

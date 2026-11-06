@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5857; competiciones: 1950; eventos: 264; campamentos / programas: 3643. Perfiles de ligas y programas: 236. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5927; competiciones: 2012; eventos: 265; campamentos / programas: 3650. Perfiles de ligas y programas: 242. Fichas de exposiciones grandes y especializadas: 173 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos de 139 de 249 países y territorios; países auditados completamente: 0. Revisión archivada v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
+Registros concretos para 152 de 249 países y territorios; países con auditoría completa: 0. Revisión archivada v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 22 | 620 | 22 | 1002 |
-| América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 42 | 384 | 54 | 1252 |
-| África | 24 | 87 | 15 | 66 |
-| Asia | 37 | 528 | 71 | 1087 |
-| Oceanía | 4 | 104 | 3 | 114 |
+| América del Norte | 23 | 624 | 22 | 1003 |
+| América del Sur | 10 | 163 | 7 | 113 |
+| Europa | 42 | 392 | 55 | 1252 |
+| África | 34 | 112 | 15 | 68 |
+| Asia | 39 | 548 | 71 | 1091 |
+| Oceanía | 4 | 105 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un solo continente: 82. América del Norte incluye Centroamérica y el Caribe. Cantidades indican inventario de base, sin porcentaje de exhaustividad.
 
-VEX: 518 de 1950 fichas de competiciones (26.6%). Existe un desequilibrio evidente de cobertura.
+VEX: 518 de 2012 fichas de competiciones (25.7%). Existe un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -261,6 +261,12 @@ VEX: 518 de 1950 fichas de competiciones (26.6%). Existe un desequilibrio eviden
 - **Robotics for Good · Lesotho / STEAMLes**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ftc-events.firstinspires.org/2026/ZAESQ
 - **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
+- **ITU · Robotics for Good Youth Challenge**: 50 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf
+- **WRO Myanmar · national route**: 6 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wro-mm.com/
+- **WRO Haiti · Pennies / STEM Alliance**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
+- **Robotics for Good Haiti · operator claim**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.haitistemalliance.com/national-organizer
+- **KOLESHA · WRO / Robotics for Good DRC**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/about-wro/association/member-countries/
+- **TechnoXian Iraq · national programme**: 7 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://iraq.technoxian.com/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -489,6 +495,7 @@ VEX: 518 de 1950 fichas de competiciones (26.6%). Existe un desequilibrio eviden
 - **Village des Sciences Martinique · family day / AI stand** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.carbet-sciences.com/fete-de-la-science/
 - **Infomatrix World Finals · public exhibition watch** — Rumanía; fecha desconocida. Confirmar acceso infantil. https://infomatrix.ro/
 - **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Ucrania; fecha desconocida. Confirmar acceso infantil. http://robotica.in.ua/
+- **AI for Good Global Summit · Innovation Expo 2027** — Suiza; 2027-06-21 – 2027-06-24. con un adulto; condiciones de admisión adulta por separado. https://2027summit.aiforgood.itu.int/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors

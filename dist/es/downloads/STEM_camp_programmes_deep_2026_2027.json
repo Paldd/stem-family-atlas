@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1481,
-    "countries": 87,
+    "dossiers": 1488,
+    "countries": 90,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 129,
-      "next_unannounced": 323,
-      "published_2026": 297,
+      "next_unannounced": 327,
+      "published_2026": 298,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 134,
+      "archive_next_unannounced": 136,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2155
+    "source_urls": 2167
   },
   "countries": [
     {
@@ -112,6 +112,10 @@
       "count": 4
     },
     {
+      "country": "Haití",
+      "count": 1
+    },
+    {
       "country": "Guadalupe",
       "count": 1
     },
@@ -138,6 +142,10 @@
     {
       "country": "Dinamarca",
       "count": 1
+    },
+    {
+      "country": "República Democrática del Congo",
+      "count": 2
     },
     {
       "country": "República Dominicana",
@@ -234,6 +242,10 @@
     {
       "country": "Mozambique",
       "count": 1
+    },
+    {
+      "country": "Myanmar (Birmania)",
+      "count": 4
     },
     {
       "country": "Namibia",
@@ -232663,6 +232675,572 @@
       "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1482",
+      "slug": "ciy-myanmar-weekly",
+      "provider": "CIY.Club Myanmar · weekly learning",
+      "iso": "MMR",
+      "country": "Myanmar (Birmania)",
+      "place": "Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–17",
+      "programme": "Operador y página asociada de WRO describen clases regulares de 7–17 años: código, robots, electrónica, 3D, aplicaciones y juegos. Según socio se proporciona equipo informático. Sede concreta, tarifa y horas sin establecer. Curso de club separado del grupo escolar LFIR con mínimo de 6 años. Interfaz inglesa no demuestra enseñanza EN.",
+      "language": "Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Operador y página asociada de WRO describen clases regulares de 7–17 años: código, robots, electrónica, 3D, aplicaciones y juegos. Según socio se proporciona equipo informático. Sede concreta, tarifa y horas sin establecer. Curso de club separado del grupo escolar LFIR con mínimo de 6 años. Interfaz inglesa no demuestra enseñanza EN.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Convocatoria nueva, tarifa y plazas sin establecer.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "CIY Myanmar · programmes",
+          "url": "https://www.ciyclub.com.mm/en/programs",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "WRO Myanmar · partner",
+          "url": "https://www.wro-mm.com/partners",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1483",
+      "slug": "ciy-myanmar-holiday",
+      "provider": "CIY.Club Myanmar · holiday programmes",
+      "iso": "MMR",
+      "country": "Myanmar (Birmania)",
+      "place": "Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Oferta general 7–17; confirmar grupo de verano concreto",
+      "programme": "Página de programas distingue intensivos de verano de 3 meses y clubes extraescolares / de fin de semana. Fechas vacacionales 2026–2027, horas, coste y edad del turno concreto sin publicar. Oferta general sin convertir en campamento internacional confirmado ni internado.",
+      "language": "Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Página de programas distingue intensivos de verano de 3 meses y clubes extraescolares / de fin de semana. Fechas vacacionales 2026–2027, horas, coste y edad del turno concreto sin publicar. Oferta general sin convertir en campamento internacional confirmado ni internado.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Convocatoria nueva, tarifa y plazas sin establecer.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "CIY Myanmar · holiday programme model",
+          "url": "https://www.ciyclub.com.mm/en/programs",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1484",
+      "slug": "ilbc-primary-technology",
+      "provider": "ILBC · primary technology / extracurricular",
+      "iso": "MMR",
+      "country": "Myanmar (Birmania)",
+      "place": "Yangon",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "KG / P1–P6",
+      "programme": "En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.",
+      "language": "En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Convocatoria nueva, tarifa y plazas sin establecer.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "ILBC · English medium",
+          "url": "https://ilbc.edu.mm/about/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · primary curriculum",
+          "url": "https://ilbc.edu.mm/primary/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · technology access",
+          "url": "https://ilbc.edu.mm/technology-integrated-learning/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · extracurricular",
+          "url": "https://ilbc.edu.mm/extracurricular/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1485",
+      "slug": "haiti-stem-alliance-workshops",
+      "provider": "Haiti STEM Alliance · workshops / labs",
+      "iso": "HTI",
+      "country": "Haití",
+      "place": "Sede en Haití sin establecer",
+      "themes": [
+        "coding",
+        "robotics",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad del grupo infantil sin publicar",
+      "programme": "Operador enumera coding workshops, robotics labs, AI seminars y vídeos lectivos. Edad, sede presencial, idioma, precio y días vacacionales sin establecer. Dirección Tamarac, Florida es contacto administrativo, sin ser sede de campamento en Haití. Donación no es pago de plaza infantil; admisión individual visitante desconocida.",
+      "language": "Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Operador enumera coding workshops, robotics labs, AI seminars y vídeos lectivos. Edad, sede presencial, idioma, precio y días vacacionales sin establecer. Dirección Tamarac, Florida es contacto administrativo, sin ser sede de campamento en Haití. Donación no es pago de plaza infantil; admisión individual visitante desconocida.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Convocatoria nueva, tarifa y plazas sin establecer.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "Haiti STEM Alliance · programmes",
+          "url": "https://www.haitistemalliance.com/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Haiti STEM Alliance · local role",
+          "url": "https://www.haitistemalliance.com/national-organizer",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1486",
+      "slug": "kolesha-junior-camp",
+      "provider": "Kolesha · Junior Innovators · archive 2026",
+      "iso": "COD",
+      "country": "República Democrática del Congo",
+      "place": "Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "programme": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+      "language": "Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-06",
+                "2026-07-17"
+              ],
+              [
+                "2026-07-20",
+                "2026-07-31"
+              ],
+              [
+                "2026-08-03",
+                "2026-08-14"
+              ]
+            ],
+            "note": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "parcours_length_unconfirmed",
+        "label": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "Play & Code / Kolesha · published 2026 programmes",
+          "url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1487",
+      "slug": "kolesha-ai-camp",
+      "provider": "Kolesha · AI Creators · archive 2026",
+      "iso": "COD",
+      "country": "República Democrática del Congo",
+      "place": "Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–15",
+      "programme": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+      "language": "Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-06",
+                "2026-07-17"
+              ],
+              [
+                "2026-07-20",
+                "2026-07-31"
+              ],
+              [
+                "2026-08-03",
+                "2026-08-14"
+              ]
+            ],
+            "note": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "parcours_length_unconfirmed",
+        "label": "Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Convocatoria nueva, tarifa y plazas sin establecer."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "Play & Code / Kolesha · published 2026 programmes",
+          "url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1488",
+      "slug": "lfir-ciy-creative-coding",
+      "provider": "LFIR / CIY · Creative Coding · 2026–2027",
+      "iso": "MMR",
+      "country": "Myanmar (Birmania)",
+      "place": "LFIR campus · Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–14",
+      "programme": "Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.",
+      "language": "Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "published_2026",
+        "label": "Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.",
+        "sessions": [
+          [
+            "2026-10-01",
+            "2027-02-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "school-semester",
+            "start": "2026-10-01",
+            "end": "2027-02-09",
+            "label": "Creative Coding · ENG · miércoles 12:30–14:00",
+            "price": "USD 150 + 25 externo / semestre",
+            "source": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+            "date_scope": "school_enrichment_window"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "semester_activity",
+        "label": "USD 150 + 25 por semestre para alumno externo = 175; base ambos 350, viaje / alojamiento aparte.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.",
+        "deposit": "Plazas por orden de inscripción con pago; sin devolución / cambio salvo cancelación escolar. Formularios y consentimientos sin enviar."
+      },
+      "accommodation": "Enseñanza diurna; internado sin confirmar.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Certificado lectivo, puesto nacional y título mundial se registran por separado.",
+      "shortlist": [
+        "both",
+        "robotics"
+      ],
+      "questions": [
+        "Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.",
+        "¿Se proporciona ordenador, se admite entrada a mitad de semestre y nivel adecuado para menores con experiencia?"
+      ],
+      "sources": [
+        {
+          "title": "LFIR · current activities",
+          "url": "https://lfir-yangon.com/after-school-activities/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "LFIR · current ENG course and fees",
+          "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "LFIR · current registration fee",
+          "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-10-01",
+          "end": "2027-02-09",
+          "kind": "season_window",
+          "event_ids": []
+        }
+      ]
     }
   ],
   "gaps": [
@@ -237988,7 +238566,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 187,
+  "version": 188,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -258106,7 +258684,7 @@
   "integration": {
     "generated_sessions": 3044,
     "reused_legacy_events": 69,
-    "seasonal_windows": 60,
+    "seasonal_windows": 61,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."
   }
 }

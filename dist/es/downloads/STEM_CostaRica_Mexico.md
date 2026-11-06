@@ -2306,6 +2306,19 @@ Limitaciones: Archivo ExpoCiencias Sonora del 21–24 de abril de 2026 en Parque
 Fuente: https://dimexideas.com/expociencias-sonora/
 Se ha comprobado: 2026-11-06
 
+### C1988 · Robotics for Good Youth Challenge Mexico
+
+Fecha: 2026-04-25 — 2026-04-25
+edad: Página indica 10–18; confirmar años exactos de temporada local
+Matvey: Más adelante
+Oscar: Más adelante
+Idioma: Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+Acceso: Página oficial ITU describe etapa clasificatoria local, sin inscripción libre al final mundial. Idioma, composición, cuota local, cupo y admisión de equipo extranjero necesitan confirmación separada. Fecha publicada no significa plaza disponible. Etapa archivada de 2026 sin trasladar reglas de edad de temporada nueva 2026–2027. Con mínimo de 10 años Matvey 2017 y Oscar 2020 eran menores; sin convocatoria nueva disponible. Página marca solicitudes cerradas.
+Precio: Convocatoria nueva, tarifa y plazas sin establecer.
+Limitaciones: Página oficial ITU describe etapa clasificatoria local, sin inscripción libre al final mundial. Idioma, composición, cuota local, cupo y admisión de equipo extranjero necesitan confirmación separada. Fecha publicada no significa plaza disponible. Etapa archivada de 2026 sin trasladar reglas de edad de temporada nueva 2026–2027. Con mínimo de 10 años Matvey 2017 y Oscar 2020 eran menores; sin convocatoria nueva disponible. Página marca solicitudes cerradas.
+Fuente: https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mexico/
+Se ha comprobado: 2026-11-06
+
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
 Fecha: 2027-03-29 - 2027-04-02

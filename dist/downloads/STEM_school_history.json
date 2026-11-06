@@ -1,5 +1,5 @@
 {
-  "version": 186,
+  "version": 188,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1459,6 +1459,15 @@
       "age": "Возраст / класс младшего приёма проверять отдельно",
       "note": "Учебный сертификат, место в отдельной категории и мировой титул учитываются отдельно.",
       "school_id": null
+    },
+    {
+      "id": "MMR-ILBC",
+      "name": "ILBC International School · network",
+      "kind": "school",
+      "country": "Мьянма",
+      "age": "Технический возраст младших групп не установлен",
+      "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
+      "school_id": "S071"
     }
   ],
   "results": [
@@ -4996,6 +5005,70 @@
       "team": "TechnoBlade",
       "team_id": null,
       "note": "146 баллов, 76 секунд. Национальная категория Robot Mission, не мировой титул и не свидетельство приёма младших.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H222",
+      "entity_id": "MMR-ILBC",
+      "year": 2025,
+      "league": "WRO",
+      "category": "Future Innovators Junior",
+      "stage": "Myanmar National Championship",
+      "award": "Champion",
+      "level": "national_other",
+      "source": "https://ilbc.edu.mm/steam-education/",
+      "provenance": "school_report",
+      "team": "ILBC Future Innovators",
+      "team_id": null,
+      "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H223",
+      "entity_id": "MMR-ILBC",
+      "year": 2025,
+      "league": "WRO",
+      "category": "Future Innovators Senior",
+      "stage": "Myanmar National Championship",
+      "award": "Champion",
+      "level": "national_other",
+      "source": "https://ilbc.edu.mm/steam-education/",
+      "provenance": "school_report",
+      "team": "ILBC Future Innovators",
+      "team_id": null,
+      "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H224",
+      "entity_id": "MMR-ILBC",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Senior",
+      "stage": "Myanmar National Championship",
+      "award": "Champion",
+      "level": "national_other",
+      "source": "https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/",
+      "provenance": "school_report",
+      "team": "ILBC Future Innovators",
+      "team_id": null,
+      "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H225",
+      "entity_id": "MMR-ILBC",
+      "year": 2026,
+      "league": "WRO",
+      "category": "Future Innovators Senior",
+      "stage": "Open Championship Asia & Pacific",
+      "award": "5th Place",
+      "level": "international_open_judged",
+      "source": "https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/",
+      "provenance": "school_report",
+      "team": "ILBC Future Innovators",
+      "team_id": null,
+      "note": "Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших.",
       "checked": "2026-11-06"
     }
   ],

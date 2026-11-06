@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1481,
-    "countries": 87,
+    "dossiers": 1488,
+    "countries": 90,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 129,
-      "next_unannounced": 323,
-      "published_2026": 297,
+      "next_unannounced": 327,
+      "published_2026": 298,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 134,
+      "archive_next_unannounced": 136,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2155
+    "source_urls": 2167
   },
   "countries": [
     {
@@ -112,6 +112,10 @@
       "count": 4
     },
     {
+      "country": "Гаити",
+      "count": 1
+    },
+    {
       "country": "Гваделупа",
       "count": 1
     },
@@ -138,6 +142,10 @@
     {
       "country": "Дания",
       "count": 1
+    },
+    {
+      "country": "Демократическая Республика Конго",
+      "count": 2
     },
     {
       "country": "Доминиканская Республика",
@@ -234,6 +242,10 @@
     {
       "country": "Мозамбик",
       "count": 1
+    },
+    {
+      "country": "Мьянма",
+      "count": 4
     },
     {
       "country": "Намибия",
@@ -201798,6 +201810,545 @@
         }
       ],
       "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1482",
+      "slug": "ciy-myanmar-weekly",
+      "provider": "CIY.Club Myanmar · weekly learning",
+      "iso": "MMR",
+      "country": "Мьянма",
+      "place": "Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–17",
+      "programme": "Оператор и партнёрская страница WRO описывают регулярные занятия 7–17 лет: код, роботы, электроника, 3D, приложения и игры. Компьютерная техника предоставляется по описанию партнёра. Конкретная площадка, тариф и часы не установлены. Это клубный курс, отдельный от школьного потока LFIR с минимумом 6 лет. Английский интерфейс не доказывает EN-преподавание.",
+      "language": "Язык сайта не подтверждает язык преподавания или судейства; EN / ES / RU выбранной группы согласовать.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Оператор и партнёрская страница WRO описывают регулярные занятия 7–17 лет: код, роботы, электроника, 3D, приложения и игры. Компьютерная техника предоставляется по описанию партнёра. Конкретная площадка, тариф и часы не установлены. Это клубный курс, отдельный от школьного потока LFIR с минимумом 6 лет. Английский интерфейс не доказывает EN-преподавание.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новый набор, тариф и места не установлены.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "CIY Myanmar · programmes",
+          "url": "https://www.ciyclub.com.mm/en/programs",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "WRO Myanmar · partner",
+          "url": "https://www.wro-mm.com/partners",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1483",
+      "slug": "ciy-myanmar-holiday",
+      "provider": "CIY.Club Myanmar · holiday programmes",
+      "iso": "MMR",
+      "country": "Мьянма",
+      "place": "Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Общая линейка 7–17; конкретную летнюю группу уточнить",
+      "programme": "Страница программ выделяет интенсивные летние программы продолжительностью 3 месяца и послеурочные / выходные клубы. Даты каникул 2026–2027, часы, стоимость и возраст конкретной смены не опубликованы. Не превращаем общую программу в подтверждённый международный лагерь или пансион.",
+      "language": "Язык сайта не подтверждает язык преподавания или судейства; EN / ES / RU выбранной группы согласовать.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Страница программ выделяет интенсивные летние программы продолжительностью 3 месяца и послеурочные / выходные клубы. Даты каникул 2026–2027, часы, стоимость и возраст конкретной смены не опубликованы. Не превращаем общую программу в подтверждённый международный лагерь или пансион.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новый набор, тариф и места не установлены.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "CIY Myanmar · holiday programme model",
+          "url": "https://www.ciyclub.com.mm/en/programs",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1484",
+      "slug": "ilbc-primary-technology",
+      "provider": "ILBC · primary technology / extracurricular",
+      "iso": "MMR",
+      "country": "Мьянма",
+      "place": "Yangon",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "KG / P1–P6",
+      "programme": "В P1–P6 есть IT и Coding; отдельный extracurricular перечисляет Robotics, AI и 3D Printing. Для KG–P3 школьные компьютеры выдаются на уроке, дома нужен собственный ноутбук. Оператор прямо указывает English как язык обучения. Это программа зачисленной школы: возраст / класс технической группы и приём в команду отдельно. Не открытая каникулярная смена.",
+      "language": "В P1–P6 есть IT и Coding; отдельный extracurricular перечисляет Robotics, AI и 3D Printing. Для KG–P3 школьные компьютеры выдаются на уроке, дома нужен собственный ноутбук. Оператор прямо указывает English как язык обучения. Это программа зачисленной школы: возраст / класс технической группы и приём в команду отдельно. Не открытая каникулярная смена.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "В P1–P6 есть IT и Coding; отдельный extracurricular перечисляет Robotics, AI и 3D Printing. Для KG–P3 школьные компьютеры выдаются на уроке, дома нужен собственный ноутбук. Оператор прямо указывает English как язык обучения. Это программа зачисленной школы: возраст / класс технической группы и приём в команду отдельно. Не открытая каникулярная смена.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новый набор, тариф и места не установлены.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "ILBC · English medium",
+          "url": "https://ilbc.edu.mm/about/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · primary curriculum",
+          "url": "https://ilbc.edu.mm/primary/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · technology access",
+          "url": "https://ilbc.edu.mm/technology-integrated-learning/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "ILBC · extracurricular",
+          "url": "https://ilbc.edu.mm/extracurricular/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1485",
+      "slug": "haiti-stem-alliance-workshops",
+      "provider": "Haiti STEM Alliance · workshops / labs",
+      "iso": "HTI",
+      "country": "Гаити",
+      "place": "Площадка в Гаити не установлена",
+      "themes": [
+        "coding",
+        "robotics",
+        "ai"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Возраст детского потока не опубликован",
+      "programme": "Оператор перечисляет coding workshops, robotics labs, AI seminars и учебные видео. Возраст, очная площадка, язык, цена и каникулярные дни не установлены. Адрес Tamarac, Florida — административный контакт, не площадка лагеря в Гаити. Пожертвование не является оплатой места ребёнка; гостевой индивидуальный приём неизвестен.",
+      "language": "Язык сайта не подтверждает язык преподавания или судейства; EN / ES / RU выбранной группы согласовать.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Оператор перечисляет coding workshops, robotics labs, AI seminars и учебные видео. Возраст, очная площадка, язык, цена и каникулярные дни не установлены. Адрес Tamarac, Florida — административный контакт, не площадка лагеря в Гаити. Пожертвование не является оплатой места ребёнка; гостевой индивидуальный приём неизвестен.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Новый набор, тариф и места не установлены.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "Haiti STEM Alliance · programmes",
+          "url": "https://www.haitistemalliance.com/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Haiti STEM Alliance · local role",
+          "url": "https://www.haitistemalliance.com/national-organizer",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1486",
+      "slug": "kolesha-junior-camp",
+      "provider": "Kolesha · Junior Innovators · archive 2026",
+      "iso": "COD",
+      "country": "Демократическая Республика Конго",
+      "place": "Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–11",
+      "programme": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+      "language": "Язык сайта не подтверждает язык преподавания или судейства; EN / ES / RU выбранной группы согласовать.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-06",
+                "2026-07-17"
+              ],
+              [
+                "2026-07-20",
+                "2026-07-31"
+              ],
+              [
+                "2026-08-03",
+                "2026-08-14"
+              ]
+            ],
+            "note": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "parcours_length_unconfirmed",
+        "label": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "Play & Code / Kolesha · published 2026 programmes",
+          "url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1487",
+      "slug": "kolesha-ai-camp",
+      "provider": "Kolesha · AI Creators · archive 2026",
+      "iso": "COD",
+      "country": "Демократическая Республика Конго",
+      "place": "Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "12–15",
+      "programme": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+      "language": "Язык сайта не подтверждает язык преподавания или судейства; EN / ES / RU выбранной группы согласовать.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-06",
+                "2026-07-17"
+              ],
+              [
+                "2026-07-20",
+                "2026-07-31"
+              ],
+              [
+                "2026-08-03",
+                "2026-08-14"
+              ]
+            ],
+            "note": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет."
+          }
+        ]
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "parcours_length_unconfirmed",
+        "label": "Официальные посты оператора: 6–17 июля, 20–31 июля и 3–14 августа 2026 в Silikin Village, Kinshasa. Junior 7–11: Scratch и роботы; AI Creators 12–15: AI, Canva и SPIKE Prime. Цена USD 150 за parcours со своим ноутбуком; аренда ноутбука ещё 50. Одна ли сессия оплачивается или вся траектория — не установлено. Это архив, новых дат 2027 нет.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Новый набор, тариф и места не установлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+      ],
+      "sources": [
+        {
+          "title": "Play & Code / Kolesha · published 2026 programmes",
+          "url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "CP1488",
+      "slug": "lfir-ciy-creative-coding",
+      "provider": "LFIR / CIY · Creative Coding · 2026–2027",
+      "iso": "MMR",
+      "country": "Мьянма",
+      "place": "LFIR campus · Yangon",
+      "themes": [
+        "coding",
+        "robotics",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–14",
+      "programme": "Семестр 1 октября 2026 — 9 февраля 2027. Creative Coding 6–14 лет, ENG, среда 12:30–14:00 на кампусе LFIR. Принимают учеников других школ. Это регулярный школьный курс, каникулы исключены; не ежедневный лагерь. Текущий документ даёт USD 150 за занятие-программу семестра и 25 за семестр внешнему ученику: база 175 каждому, 350 двум детям. Старый тариф 50 в год не применён. Места и дозачисление в начавшийся семестр неизвестны.",
+      "language": "Семестр 1 октября 2026 — 9 февраля 2027. Creative Coding 6–14 лет, ENG, среда 12:30–14:00 на кампусе LFIR. Принимают учеников других школ. Это регулярный школьный курс, каникулы исключены; не ежедневный лагерь. Текущий документ даёт USD 150 за занятие-программу семестра и 25 за семестр внешнему ученику: база 175 каждому, 350 двум детям. Старый тариф 50 в год не применён. Места и дозачисление в начавшийся семестр неизвестны.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "instruction",
+      "timing": {
+        "status": "published_2026",
+        "label": "Семестр 1 октября 2026 — 9 февраля 2027. Creative Coding 6–14 лет, ENG, среда 12:30–14:00 на кампусе LFIR. Принимают учеников других школ. Это регулярный школьный курс, каникулы исключены; не ежедневный лагерь. Текущий документ даёт USD 150 за занятие-программу семестра и 25 за семестр внешнему ученику: база 175 каждому, 350 двум детям. Старый тариф 50 в год не применён. Места и дозачисление в начавшийся семестр неизвестны.",
+        "sessions": [
+          [
+            "2026-10-01",
+            "2027-02-09"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "school-semester",
+            "start": "2026-10-01",
+            "end": "2027-02-09",
+            "label": "Creative Coding · ENG · Wednesday 12:30–14:00",
+            "price": "USD 150 + 25 external / semester",
+            "source": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+            "date_scope": "school_enrichment_window"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "season_window"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "USD",
+        "amount": 150,
+        "unit": "semester_activity",
+        "label": "USD 150 + 25 за семестр внешнему ученику = 175; база двум 350, дорога / жильё отдельно.",
+        "included": "",
+        "extras": "Дорога, жильё семьи, питание вне включений и страховка отдельно; неизвестная цена не равна нулю.",
+        "deposit": "Места по порядку регистрации с оплатой; возврата / обмена нет, кроме отмены школой. Формы и согласия не отправлены."
+      },
+      "accommodation": "Дневное обучение; пансион не подтверждён.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт."
+        }
+      },
+      "editorial_reason": "Учебный сертификат, национальное место и мировой титул учитываются отдельно.",
+      "shortlist": [
+        "both",
+        "robotics"
+      ],
+      "questions": [
+        "Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт.",
+        "Выдаётся ли компьютер, возможен ли вход в середине семестра и подходящая сложность для опытных детей?"
+      ],
+      "sources": [
+        {
+          "title": "LFIR · current activities",
+          "url": "https://lfir-yangon.com/after-school-activities/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "LFIR · current ENG course and fees",
+          "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "LFIR · current registration fee",
+          "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06"
     }
   ],
   "gaps": [
@@ -207123,7 +207674,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 187,
+  "version": 188,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

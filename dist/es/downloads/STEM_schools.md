@@ -1943,6 +1943,40 @@ Fuentes (revisión 2026-11-06):
 Lo que queda por comprobar es:
 - Confirmar curso / edad real, admisión individual extranjera, idioma del grupo, convocatoria vigente y presupuesto final.
 
+## S071 · ILBC International School · network
+
+Myanmar (Birmania) · Yangon / Nay Pyi Taw / national branches
+Tipo: private
+Pearson Edexcel IGCSE / IAL; educación infantil y primaria. IB sin establecer.
+edad: Preschool / KG / P1–P6 / Secondary
+Matvey: candidate; Oscar: candidate. Alumnos internacionales previstos expresamente: pasaporte, expediente previo, screening / English y Mathematics, evaluación médica y cuotas. Procedimiento de revisión, sin plaza aceptada. Para familia confirmar campus, curso real y acceso de menores al equipo de robotics.
+Idioma: Colegio indica expresamente English como idioma lectivo; confirmar idioma del coach de robotics concreto.
+Internado: Internado y alojamiento para menores sin confirmar.
+Robótica: En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.
+Laboratorios: Science / computer labs, Technology Integrated Classrooms; KG–P3 usan ordenadores escolares, en casa necesitan portátil propio.
+IA: Extracurricular enumera expresamente AI, Robotics e impresión 3D; edad del grupo menor sin establecer.
+Admisión: Alumnos internacionales previstos expresamente: pasaporte, expediente previo, screening / English y Mathematics, evaluación médica y cuotas. Procedimiento de revisión, sin plaza aceptada. Para familia confirmar campus, curso real y acceso de menores al equipo de robotics.
+Precio: Convocatoria nueva, tarifa y plazas sin establecer.
+
+- el resultado: 2025 · WRO · Myanmar Campeonato nacional · Innovatores futuros Junior · Champion · ILBC Future Innovators. Red ILBC informa victorias nacionales Future Innovators Junior y Senior 2025 y Senior 2026, además de puesto 5 Senior en Open Asia & Pacific 2026. Informes escolares; protocolo separado del organizador sin revisar. Quinto puesto no es podio mundial; éxito de mayores no acredita admisión técnica de menores. Fuente: https://ilbc.edu.mm/steam-education/
+- el resultado: 2025 · WRO · Myanmar Campeonato nacional · Future Innovators Senior · Champion · ILBC Future Innovators. Red ILBC informa victorias nacionales Future Innovators Junior y Senior 2025 y Senior 2026, además de puesto 5 Senior en Open Asia & Pacific 2026. Informes escolares; protocolo separado del organizador sin revisar. Quinto puesto no es podio mundial; éxito de mayores no acredita admisión técnica de menores. Fuente: https://ilbc.edu.mm/steam-education/
+- el resultado: 2026 · WRO · Myanmar Campeonato nacional · Future Innovators Senior · Champion · ILBC Future Innovators. Red ILBC informa victorias nacionales Future Innovators Junior y Senior 2025 y Senior 2026, además de puesto 5 Senior en Open Asia & Pacific 2026. Informes escolares; protocolo separado del organizador sin revisar. Quinto puesto no es podio mundial; éxito de mayores no acredita admisión técnica de menores. Fuente: https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/
+- el resultado: 2026 · WRO · Open Championship Asia & Pacific · Future Innovators Senior · 5th Place · ILBC Future Innovators. Red ILBC informa victorias nacionales Future Innovators Junior y Senior 2025 y Senior 2026, además de puesto 5 Senior en Open Asia & Pacific 2026. Informes escolares; protocolo separado del organizador sin revisar. Quinto puesto no es podio mundial; éxito de mayores no acredita admisión técnica de menores. Fuente: https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/
+
+Fuentes (revisión 2026-11-06):
+- ILBC · English medium and Pearson Edexcel: https://ilbc.edu.mm/about/ — Página propia del programa escolar leída; condiciones de curso concreto se confirman aparte.
+- ILBC · primary: https://ilbc.edu.mm/primary/ — Página propia del programa escolar leída; condiciones de curso concreto se confirman aparte.
+- ILBC · foreign admissions: https://ilbc.edu.mm/admissions/ — Alumnos internacionales previstos expresamente: pasaporte, expediente previo, screening / English y Mathematics, evaluación médica y cuotas. Procedimiento de revisión, sin plaza aceptada. Para familia confirmar campus, curso real y acceso de menores al equipo de robotics.
+- ILBC · technology: https://ilbc.edu.mm/technology-integrated-learning/ — Página propia del programa escolar leída; condiciones de curso concreto se confirman aparte.
+- ILBC · extracurricular: https://ilbc.edu.mm/extracurricular/ — Página propia del programa escolar leída; condiciones de curso concreto se confirman aparte.
+- ILBC · 2025 national results: https://ilbc.edu.mm/steam-education/ — Informe escolar sobre resultado; protocolo independiente del organizador sin revisar.
+- ILBC · 2026 national results: https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/ — Informe escolar sobre resultado; protocolo independiente del organizador sin revisar.
+- ILBC · 2026 Open result: https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/ — Informe escolar sobre resultado; protocolo independiente del organizador sin revisar.
+
+Lo que queda por comprobar es:
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+- Alumnos internacionales previstos expresamente: pasaporte, expediente previo, screening / English y Mathematics, evaluación médica y cuotas. Procedimiento de revisión, sin plaza aceptada. Para familia confirmar campus, curso real y acceso de menores al equipo de robotics.
+
 ## Lagunas de cobertura
 
 - 32 expedientes escolares; no se ha completado la auditoría completa mundial y nacional de las escuelas.

@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de base: 2026-11-06. 1481 dossiers en 87 países. Fechas de revisión de fuentes individuales en cada dossier.
+Estado de base: 2026-11-06. 1488 dossiers en 90 países. Fechas de revisión de fuentes individuales en cada dossier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -105923,6 +105923,282 @@ España · Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
 ### Fuentes
 
 - [MMM Academy · Maker programme and equipment](https://mmmacademy.es/cursos/taller-maker/) · 2026-11-06
+
+## CP1482 · CIY.Club Myanmar · weekly learning
+
+Myanmar (Birmania) · Yangon
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 7–17
+
+**Idioma:** Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+
+**Programa:** Operador y página asociada de WRO describen clases regulares de 7–17 años: código, robots, electrónica, 3D, aplicaciones y juegos. Según socio se proporciona equipo informático. Sede concreta, tarifa y horas sin establecer. Curso de club separado del grupo escolar LFIR con mínimo de 6 años. Interfaz inglesa no demuestra enseñanza EN.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Operador y página asociada de WRO describen clases regulares de 7–17 años: código, robots, electrónica, 3D, aplicaciones y juegos. Según socio se proporciona equipo informático. Sede concreta, tarifa y horas sin establecer. Curso de club separado del grupo escolar LFIR con mínimo de 6 años. Interfaz inglesa no demuestra enseñanza EN.
+
+**Precio / año:** sin establecer · Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [CIY Myanmar · programmes](https://www.ciyclub.com.mm/en/programs) · 2026-11-06
+
+- [WRO Myanmar · partner](https://www.wro-mm.com/partners) · 2026-11-06
+
+## CP1483 · CIY.Club Myanmar · holiday programmes
+
+Myanmar (Birmania) · Yangon
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Oferta general 7–17; confirmar grupo de verano concreto
+
+**Idioma:** Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+
+**Programa:** Página de programas distingue intensivos de verano de 3 meses y clubes extraescolares / de fin de semana. Fechas vacacionales 2026–2027, horas, coste y edad del turno concreto sin publicar. Oferta general sin convertir en campamento internacional confirmado ni internado.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Página de programas distingue intensivos de verano de 3 meses y clubes extraescolares / de fin de semana. Fechas vacacionales 2026–2027, horas, coste y edad del turno concreto sin publicar. Oferta general sin convertir en campamento internacional confirmado ni internado.
+
+**Precio / año:** sin establecer · Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [CIY Myanmar · holiday programme model](https://www.ciyclub.com.mm/en/programs) · 2026-11-06
+
+## CP1484 · ILBC · primary technology / extracurricular
+
+Myanmar (Birmania) · Yangon
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** KG / P1–P6
+
+**Idioma:** En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.
+
+**Programa:** En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** En P1–P6 hay IT y Coding; extracurricular separado enumera Robotics, AI e impresión 3D. Para KG–P3 el colegio proporciona ordenadores en clase, en casa se necesita portátil propio. Operador indica expresamente English como idioma lectivo. Programa del colegio para matriculados: edad / curso del grupo técnico y admisión al equipo por separado. Sin turno vacacional abierto.
+
+**Precio / año:** sin establecer · Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [ILBC · English medium](https://ilbc.edu.mm/about/) · 2026-11-06
+
+- [ILBC · primary curriculum](https://ilbc.edu.mm/primary/) · 2026-11-06
+
+- [ILBC · technology access](https://ilbc.edu.mm/technology-integrated-learning/) · 2026-11-06
+
+- [ILBC · extracurricular](https://ilbc.edu.mm/extracurricular/) · 2026-11-06
+
+## CP1485 · Haiti STEM Alliance · workshops / labs
+
+Haití · Sede en Haití sin establecer
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad del grupo infantil sin publicar
+
+**Idioma:** Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+
+**Programa:** Operador enumera coding workshops, robotics labs, AI seminars y vídeos lectivos. Edad, sede presencial, idioma, precio y días vacacionales sin establecer. Dirección Tamarac, Florida es contacto administrativo, sin ser sede de campamento en Haití. Donación no es pago de plaza infantil; admisión individual visitante desconocida.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Operador enumera coding workshops, robotics labs, AI seminars y vídeos lectivos. Edad, sede presencial, idioma, precio y días vacacionales sin establecer. Dirección Tamarac, Florida es contacto administrativo, sin ser sede de campamento en Haití. Donación no es pago de plaza infantil; admisión individual visitante desconocida.
+
+**Precio / año:** sin establecer · Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [Haiti STEM Alliance · programmes](https://www.haitistemalliance.com/) · 2026-11-06
+
+- [Haiti STEM Alliance · local role](https://www.haitistemalliance.com/national-organizer) · 2026-11-06
+
+## CP1486 · Kolesha · Junior Innovators · archive 2026
+
+República Democrática del Congo · Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 7–11
+
+**Idioma:** Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+
+**Programa:** Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Precio / año:** 2026 · Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [Play & Code / Kolesha · published 2026 programmes](https://cd.linkedin.com/company/play-code-academy-r-d-c) · 2026-11-06
+
+## CP1487 · Kolesha · AI Creators · archive 2026
+
+República Democrática del Congo · Silikin Village · 63 Colonel Mondjiba · Kinshasa Ngaliema
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 12–15
+
+**Idioma:** Idioma del sitio no confirma idioma de enseñanza o evaluación; acordar EN / ES / RU del grupo elegido.
+
+**Programa:** Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Precio / año:** 2026 · Publicaciones oficiales del operador: 6–17 de julio, 20–31 de julio y 3–14 de agosto de 2026 en Silikin Village, Kinshasa. Junior 7–11: Scratch y robots; AI Creators 12–15: AI, Canva y SPIKE Prime. Precio USD 150 por parcours con portátil propio; alquiler de portátil añade 50. Sin establecer si se paga una sesión o trayectoria completa. Archivo sin fechas nuevas 2027.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Convocatoria nueva, tarifa y plazas sin establecer.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [Play & Code / Kolesha · published 2026 programmes](https://cd.linkedin.com/company/play-code-academy-r-d-c) · 2026-11-06
+
+## CP1488 · LFIR / CIY · Creative Coding · 2026–2027
+
+Myanmar (Birmania) · LFIR campus · Yangon
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 6–14
+
+**Idioma:** Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.
+
+**Programa:** Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.
+
+**Alojamiento:** Enseñanza diurna; internado sin confirmar.
+
+**Fechas / estado:** Semestre del 1 de octubre de 2026 — 9 de febrero de 2027. Creative Coding 6–14 años, ENG, miércoles 12:30–14:00 en campus LFIR. Admite alumnos de otros colegios. Curso escolar regular que excluye vacaciones; sin campamento diario. Documento actual indica USD 150 por actividad-programa del semestre y 25 por semestre para alumno externo: base 175 cada uno, 350 ambos menores. Tarifa antigua de 50 al año sin aplicar. Plazas y admisión al semestre ya iniciado desconocidas.
+
+**Precio / año:** 2026 · USD 150 + 25 por semestre para alumno externo = 175; base ambos 350, viaje / alojamiento aparte.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; precio desconocido no equivale a cero.
+
+**Pago:** Plazas por orden de inscripción con pago; sin devolución / cambio salvo cancelación escolar. Formularios y consentimientos sin enviar.
+
+**Matvey:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Certificado lectivo, puesto nacional y título mundial se registran por separado.
+
+### Antes de solicitar plaza
+
+- Confirmar edad / curso real, plazas, idioma, admisión individual extranjera y factura final.
+
+- ¿Se proporciona ordenador, se admite entrada a mitad de semestre y nivel adecuado para menores con experiencia?
+
+### Creative Coding · ENG · Wednesday 12:30–14:00
+
+**Fechas / estado:** 2026-10-01 — 2027-02-09
+
+**Precio:** USD 150 + 25 external / semester
+
+[fuente](https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf)
+
+### Fuentes
+
+- [LFIR · current activities](https://lfir-yangon.com/after-school-activities/) · 2026-11-06
+
+- [LFIR · current ENG course and fees](https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf) · 2026-11-06
+
+- [LFIR · current registration fee](https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf) · 2026-11-06
 
 ## ~ Comprobaciones no cerradas
 

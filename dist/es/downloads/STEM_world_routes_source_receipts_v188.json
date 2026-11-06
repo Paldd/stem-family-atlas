@@ -1,0 +1,1374 @@
+{
+  "version": 188,
+  "checked": "2026-11-06",
+  "request_count": 136,
+  "hash_verified": 136,
+  "failures": [],
+  "requests": [
+    {
+      "key": "myanmar-wro-home",
+      "url": "https://www.wro-mm.com/",
+      "checked_at": "2026-11-06T17:47:44.551447+00:00",
+      "status": 200,
+      "final_url": "https://www.wro-mm.com/",
+      "content_type": "text/html",
+      "bytes": 224840,
+      "sha256": "4b96e1c66d47551dedc461b1cb220664c42da87b50e801219e254ebca4c4d157"
+    },
+    {
+      "key": "myanmar-season",
+      "url": "https://www.wro-mm.com/season-this-year",
+      "checked_at": "2026-11-06T17:48:29.680430+00:00",
+      "status": 200,
+      "final_url": "https://www.wro-mm.com/season-this-year",
+      "content_type": "text/html",
+      "bytes": 221506,
+      "sha256": "caeed12ac4bf894fcf9ce10aa40bc996bb382140300c06d15bc35eecce80749b"
+    },
+    {
+      "key": "myanmar-register",
+      "url": "https://www.wro-mm.com/register",
+      "checked_at": "2026-11-06T17:48:29.680814+00:00",
+      "status": 200,
+      "final_url": "https://www.wro-mm.com/register",
+      "content_type": "text/html",
+      "bytes": 181897,
+      "sha256": "c9e263dbb1d9b82b30867f08090750e0e5d3377ecf1b5aaab2b6d9b9eb2c4545"
+    },
+    {
+      "key": "myanmar-partners",
+      "url": "https://www.wro-mm.com/partners",
+      "checked_at": "2026-11-06T17:48:29.680914+00:00",
+      "status": 200,
+      "final_url": "https://www.wro-mm.com/partners",
+      "content_type": "text/html",
+      "bytes": 179169,
+      "sha256": "9be69d87a366b54bfcb5342d14de492c38cdce752f39a980f9e2c65d295d53cc"
+    },
+    {
+      "key": "myanmar-news",
+      "url": "https://www.wro-mm.com/news",
+      "checked_at": "2026-11-06T17:48:29.680974+00:00",
+      "status": 200,
+      "final_url": "https://www.wro-mm.com/news",
+      "content_type": "text/html",
+      "bytes": 181286,
+      "sha256": "0ce98ac19587cbf1a9687b521ec219e5aedd70e546381372d6af18a21c65ba28"
+    },
+    {
+      "key": "ciy-myanmar-home",
+      "url": "https://www.ciyclub.com.mm/",
+      "checked_at": "2026-11-06T17:51:24.713409+00:00",
+      "status": 200,
+      "final_url": "https://www.ciyclub.com.mm/en",
+      "content_type": "text/html",
+      "bytes": 163080,
+      "sha256": "47979a49e86ac3695526dabd52c5292d9b8211a97c495c19ca6bdfae90f020ab"
+    },
+    {
+      "key": "ciy-myanmar-programs",
+      "url": "https://www.ciyclub.com.mm/en/programs",
+      "checked_at": "2026-11-06T17:56:08.379364+00:00",
+      "status": 200,
+      "final_url": "https://www.ciyclub.com.mm/en/programs",
+      "content_type": "text/html",
+      "bytes": 67893,
+      "sha256": "0517f4cedcb8e8e04eadd9a90312e4ae4b27d64c388542e294e75d7c95a76113"
+    },
+    {
+      "key": "ciy-myanmar-scope",
+      "url": "https://www.ciyclub.com.mm/en/scope-it",
+      "checked_at": "2026-11-06T17:56:08.379759+00:00",
+      "status": 200,
+      "final_url": "https://www.ciyclub.com.mm/en/scope-it",
+      "content_type": "text/html",
+      "bytes": 82165,
+      "sha256": "abdfae95c18e07c6614e9337a67043ddb19ad9a698e77a3865a001a286d9d94d"
+    },
+    {
+      "key": "ciy-myanmar-about",
+      "url": "https://www.ciyclub.com.mm/en/about",
+      "checked_at": "2026-11-06T17:56:08.379848+00:00",
+      "status": 200,
+      "final_url": "https://www.ciyclub.com.mm/en/about",
+      "content_type": "text/html",
+      "bytes": 118324,
+      "sha256": "12db2355d7a90b2676722938d876074f59b730a3567a6b14531c53c1c8f0404a"
+    },
+    {
+      "key": "ciy-myanmar-contact",
+      "url": "https://www.ciyclub.com.mm/en/contact",
+      "checked_at": "2026-11-06T17:56:08.379930+00:00",
+      "status": 200,
+      "final_url": "https://www.ciyclub.com.mm/en/contact",
+      "content_type": "text/html",
+      "bytes": 59697,
+      "sha256": "899b93489199845e050c0776125847951fdd24efda1cc78b67995a1716e3e047"
+    },
+    {
+      "key": "wro-world-members",
+      "url": "https://wro-association.org/about-wro/association/member-countries/",
+      "checked_at": "2026-11-06T17:56:08.380207+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/about-wro/association/member-countries/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 165420,
+      "sha256": "58348ae67f17560ef14d5a36ce4fab34eec412ea998d40855e81ced36e4735d0"
+    },
+    {
+      "key": "wro-2026-global",
+      "url": "https://wro-association.org/competition/2026-season/",
+      "checked_at": "2026-11-06T17:56:08.782417+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/competition/2026-season/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 250432,
+      "sha256": "04c2374a90cf75eef504a0f358f99a7e0770009d5700a8ce00a433167ffaac35"
+    },
+    {
+      "key": "haiti-alliance-home",
+      "url": "https://www.haitistemalliance.com/",
+      "checked_at": "2026-11-06T17:56:08.822340+00:00",
+      "status": 200,
+      "final_url": "https://www.haitistemalliance.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1688691,
+      "sha256": "9c38e2a2bab331d7942913837db3bb1865720d572c55866bf779eb697d50408f"
+    },
+    {
+      "key": "haiti-alliance-national",
+      "url": "https://www.haitistemalliance.com/national-organizer",
+      "checked_at": "2026-11-06T17:56:09.328910+00:00",
+      "status": 200,
+      "final_url": "https://www.haitistemalliance.com/national-organizer",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1245232,
+      "sha256": "86d48e1307c146fa4ac072c5c7534584a6da4f568208b197fdc39fa010ce5c13"
+    },
+    {
+      "key": "haiti-pennies-home",
+      "url": "https://penniesforhaiti.reachapp.co/",
+      "checked_at": "2026-11-06T17:56:09.393315+00:00",
+      "status": 200,
+      "final_url": "https://penniesforhaiti.reachapp.co/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 97533,
+      "sha256": "88c936cad039692a410c4493419d1c46dff77412ee05b72f000551e7a463c697"
+    },
+    {
+      "key": "iraq-technoxian-home",
+      "url": "https://iraq.technoxian.com/",
+      "checked_at": "2026-11-06T17:56:09.586928+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 52957,
+      "sha256": "4a41fd41d76d4b6d068d0974ec957b4d8f420155dddfd791e0fe4d44b0ae49b2"
+    },
+    {
+      "key": "iraq-technoxian-combat",
+      "url": "https://iraq.technoxian.com/bots-combat",
+      "checked_at": "2026-11-06T17:56:10.126550+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/bots-combat",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 47006,
+      "sha256": "a52022ac225d6c050706a56a2e52a45d4da242d676d94436e3434d0013f8615a"
+    },
+    {
+      "key": "iraq-schedule",
+      "url": "https://iraq.technoxian.com/schedule",
+      "checked_at": "2026-11-06T17:56:54.441845+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/schedule",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 22912,
+      "sha256": "b837fd4de69a07074ad4feb95dc59848951e81574c0c408f6773bf0c06f293e5"
+    },
+    {
+      "key": "iraq-tickets",
+      "url": "https://iraq.technoxian.com/tickets",
+      "checked_at": "2026-11-06T17:56:54.442228+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/tickets",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 59682,
+      "sha256": "6c56c0a622218636ea4548409025605b95c7a735860e9cba4568b2ce226821e9"
+    },
+    {
+      "key": "iraq-innovation",
+      "url": "https://iraq.technoxian.com/innovation-challenge",
+      "checked_at": "2026-11-06T17:56:54.442319+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/innovation-challenge",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 42744,
+      "sha256": "d81dda3f4eb1c2c3f617fff9abea68c664faf742b33b872f96d420132c88d388"
+    },
+    {
+      "key": "iraq-line",
+      "url": "https://iraq.technoxian.com/fastest-line-follower",
+      "checked_at": "2026-11-06T17:56:54.442381+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/fastest-line-follower",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 42368,
+      "sha256": "c2e9b8e60832a14048d8453a70754311edb899306edcfb300ada858cd26b0a2a"
+    },
+    {
+      "key": "iraq-sumo",
+      "url": "https://iraq.technoxian.com/sumobots",
+      "checked_at": "2026-11-06T17:56:54.442618+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/sumobots",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 56101,
+      "sha256": "6f2f77c4d65756ced216fee479fbf4a0204e9078b722fef220907287f497b9d8"
+    },
+    {
+      "key": "iraq-soccer",
+      "url": "https://iraq.technoxian.com/robosoccer",
+      "checked_at": "2026-11-06T17:56:55.145559+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/robosoccer",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 41283,
+      "sha256": "78d5bd7245fd453fc01fefcf74298aaadd1d98b4c6742da88d7f30aec5ac9191"
+    },
+    {
+      "key": "iraq-drone",
+      "url": "https://iraq.technoxian.com/drone-rescue",
+      "checked_at": "2026-11-06T17:56:55.244799+00:00",
+      "status": 200,
+      "final_url": "https://iraq.technoxian.com/drone-rescue",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 42998,
+      "sha256": "ee0376ec2bb1aca2baa4edae87ecc45987d3f0b45f46864f7161f7ffa102647d"
+    },
+    {
+      "key": "iraq-noniraqi-form",
+      "url": "https://forms.gle/1aRtpBhMBGbCF4bn9",
+      "checked_at": "2026-11-06T17:56:55.755868+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSd5xH6Cjtl6opafBA1SScye6bBNWQIuvflm1VYX57-tIF05GQ/viewform?usp=send_form",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 112305,
+      "sha256": "639212ed7533ac2e44872924ff648eec0d7e182f3431fb27a55a977cfd4aa02b"
+    },
+    {
+      "key": "iraq-local-form",
+      "url": "https://forms.gle/P9tWA6PYQSdNpP4x7",
+      "checked_at": "2026-11-06T17:56:55.977782+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSdDkC3BN9rKvCk1zlHdzFYMz9WQGUx2uHitbN_tAWLt1nVt-A/viewform?usp=send_form",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 104639,
+      "sha256": "78bc3c3730fb609b33ceccc4e430132706962fec103883b2f6f730290dde318c"
+    },
+    {
+      "key": "haiti-stem-conference",
+      "url": "https://www.haitistemalliance.com/post/discover-stem-conference-2025-launches-in-haiti-today",
+      "checked_at": "2026-11-06T17:56:56.572833+00:00",
+      "status": 200,
+      "final_url": "https://www.haitistemalliance.com/post/discover-stem-conference-2025-launches-in-haiti-today",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1415675,
+      "sha256": "39777d38984c1a34ebeac397b542c88e75fe1055544b2e3381375e3c62ed7b6b"
+    },
+    {
+      "key": "haiti-stem-workshops",
+      "url": "https://www.haitistemalliance.com/post/building-a-brighter-future-stem-programs-in-haiti",
+      "checked_at": "2026-11-06T17:56:56.657830+00:00",
+      "status": 200,
+      "final_url": "https://www.haitistemalliance.com/post/building-a-brighter-future-stem-programs-in-haiti",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1407440,
+      "sha256": "e6057a3b059cf5fd2bb746062856d239dd34acb5acec2c4dc6532891fd2ce06b"
+    },
+    {
+      "key": "ilbc-steam",
+      "url": "https://ilbc.edu.mm/steam-education/",
+      "checked_at": "2026-11-06T17:56:56.731090+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/steam-education/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 96730,
+      "sha256": "d9c8ad3cc00f12871d49e1a802e94f6bff3d443d706881e7a5df5c2fd9864fae"
+    },
+    {
+      "key": "ilbc-home",
+      "url": "https://ilbc.edu.mm/",
+      "checked_at": "2026-11-06T17:56:56.880567+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 124692,
+      "sha256": "d1019718a70f6bee70bd276fbb5162defaa095a3d2bb979cff55bf6fbb30fa4b"
+    },
+    {
+      "key": "kolesha-owner",
+      "url": "https://www.linkedin.com/company/kolesha/",
+      "checked_at": "2026-11-06T17:56:56.945386+00:00",
+      "status": 200,
+      "final_url": "https://www.linkedin.com/company/kolesha/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 312988,
+      "sha256": "5961b8a80ccf1689ec61fc4629f484da4ce1c03127e7a804e60a28b748c170fa"
+    },
+    {
+      "key": "itu-rfg-global",
+      "url": "https://aiforgood.itu.int/robotics-for-good-youth-challenge/",
+      "checked_at": "2026-11-06T17:58:19.818896+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/robotics-for-good-youth-challenge/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1268280,
+      "sha256": "a7c01648cbaac7f533884c4bfa776dd68830d1e3a12f2bb7278ba37f367e1bf2"
+    },
+    {
+      "key": "itu-kijaninova",
+      "url": "https://aiforgood.itu.int/speaker/kijaninova/",
+      "checked_at": "2026-11-06T17:58:19.819276+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/speaker/kijaninova/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 614916,
+      "sha256": "bc8ca31a14b2d432bb30a4d782ca6c2157a8f8a93b52e3a6ab36ee9f2f85450e"
+    },
+    {
+      "key": "itu-partner-events",
+      "url": "https://aiforgood.itu.int/events-partners/",
+      "checked_at": "2026-11-06T17:58:19.819378+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/events-partners/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1206745,
+      "sha256": "9fc53d76220a55e990a892d97fbe48c42b95fc8f9a0e406c619c766ba9e88349"
+    },
+    {
+      "key": "ilbc-primary",
+      "url": "https://ilbc.edu.mm/primary/",
+      "checked_at": "2026-11-06T17:58:19.819455+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/primary/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 101627,
+      "sha256": "bd9739e76b29853b9cff0e20c27dad5ac5806fde3b197b9d458cf2465daa90ff"
+    },
+    {
+      "key": "ilbc-admissions",
+      "url": "https://ilbc.edu.mm/admissions/",
+      "checked_at": "2026-11-06T17:58:19.819711+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/admissions/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 98332,
+      "sha256": "9ed14395cd8179d3abe804fc013c1fde9cdea1eb4b2c2d2cac86ab9c9b1f83f7"
+    },
+    {
+      "key": "ilbc-faq",
+      "url": "https://ilbc.edu.mm/faqs/",
+      "checked_at": "2026-11-06T17:58:21.837937+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/faqs/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 140141,
+      "sha256": "b3023416bee760e906085b26a24ccda961722405bee813768b63af1eed8a38de"
+    },
+    {
+      "key": "ilbc-extracurricular",
+      "url": "https://ilbc.edu.mm/extracurricular/",
+      "checked_at": "2026-11-06T17:58:21.910166+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/extracurricular/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 106376,
+      "sha256": "a6ed1dddf59563cb4aa4bd6acc971db1a6999a982c7f5d0b6e6d53498168bbba"
+    },
+    {
+      "key": "ilbc-english-summer",
+      "url": "https://ilbc.edu.mm/summer-english-courses/",
+      "checked_at": "2026-11-06T17:58:21.999033+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/summer-english-courses/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 103649,
+      "sha256": "ff9421c7c7474c755daa964b90f098775218f03c9bcbf89313834e2c77a15ad5"
+    },
+    {
+      "key": "itu-health-v11",
+      "url": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
+      "checked_at": "2026-11-06T18:00:02.788950+00:00",
+      "status": 200,
+      "final_url": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
+      "content_type": "application/pdf",
+      "bytes": 1989070,
+      "sha256": "5a7544e47cfb21bda93b0db7bebffbeb67364965f15b64db8db360237fc3c1dd"
+    },
+    {
+      "key": "itu-food-2025-26",
+      "url": "https://s41721.pcdn.co/wp-content/uploads/2021/12/RFGYC-2025-2026-Rulebook.pdf",
+      "checked_at": "2026-11-06T18:00:02.789352+00:00",
+      "status": 200,
+      "final_url": "https://s41721.pcdn.co/wp-content/uploads/2021/12/RFGYC-2025-2026-Rulebook.pdf",
+      "content_type": "application/pdf",
+      "bytes": 2442435,
+      "sha256": "03c5ab8a4f569c0da2bfdcec8b00fefee51575f07bf2de895903f7765e779f69"
+    },
+    {
+      "key": "myanmar-rm-general",
+      "url": "https://cdn.sanity.io/files/e7flbmx4/production/bb18fd64a118d04cba5bfebda6acafc1b9e6af1e.pdf",
+      "checked_at": "2026-11-06T18:00:02.789445+00:00",
+      "status": 200,
+      "final_url": "https://cdn.sanity.io/files/e7flbmx4/production/bb18fd64a118d04cba5bfebda6acafc1b9e6af1e.pdf",
+      "content_type": "application/pdf",
+      "bytes": 3967741,
+      "sha256": "90a28d8bf77f628227e5f544ec57b5230d620f3ae581f092bed1fda23de9e795"
+    },
+    {
+      "key": "myanmar-fi-general",
+      "url": "https://cdn.sanity.io/files/e7flbmx4/production/317d875972077096b2819c95dd9ee8e53267dac2.pdf",
+      "checked_at": "2026-11-06T18:00:02.789509+00:00",
+      "status": 200,
+      "final_url": "https://cdn.sanity.io/files/e7flbmx4/production/317d875972077096b2819c95dd9ee8e53267dac2.pdf",
+      "content_type": "application/pdf",
+      "bytes": 947066,
+      "sha256": "8a8430486983249ada0e97fbdd78be95a0123ceb3e4075bb0d180b9da6f24b95"
+    },
+    {
+      "key": "myanmar-fi-season",
+      "url": "https://cdn.sanity.io/files/e7flbmx4/production/b055c1a5d48cf7c24f8be5bdcae1618a72af49ce.pdf",
+      "checked_at": "2026-11-06T18:00:02.789754+00:00",
+      "status": 200,
+      "final_url": "https://cdn.sanity.io/files/e7flbmx4/production/b055c1a5d48cf7c24f8be5bdcae1618a72af49ce.pdf",
+      "content_type": "application/pdf",
+      "bytes": 1182622,
+      "sha256": "16512a09be58bcb7dca86d50715afe49e5c960c6a1c02fa42a8255a3c7c2ccaa"
+    },
+    {
+      "key": "lfir-coding-archive",
+      "url": "https://lfir-yangon.com/wp-content/uploads/2025/09/AES-Hebdo-2025-1st-sem_1.pdf",
+      "checked_at": "2026-11-06T18:00:04.260710+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/wp-content/uploads/2025/09/AES-Hebdo-2025-1st-sem_1.pdf",
+      "content_type": "application/pdf",
+      "bytes": 445368,
+      "sha256": "d02600d1cd21c33462fbba70e6a50fdbf65873542469c57350da25bd381fe0b1"
+    },
+    {
+      "key": "itu-congo-event",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-dem-rep-of-the-congo/",
+      "checked_at": "2026-11-06T18:00:04.261060+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-dem-rep-of-the-congo/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634803,
+      "sha256": "4138f751bc705c1d066fa1d6fdb35c06c30e16b6cd8745f552596dd3129b50c5"
+    },
+    {
+      "key": "ilbc-2026-national",
+      "url": "https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/",
+      "checked_at": "2026-11-06T18:00:04.864016+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 120398,
+      "sha256": "05edeb0692e7270569af7fdbf03b975188964bf6519c4987af44d7b5f9f8a346"
+    },
+    {
+      "key": "ilbc-til",
+      "url": "https://ilbc.edu.mm/technology-integrated-learning/",
+      "checked_at": "2026-11-06T18:00:04.866795+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/technology-integrated-learning/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 150280,
+      "sha256": "8cc7ae64eee9632289257426a8c926253b94937756d47d8a3fde34afb11fe9f1"
+    },
+    {
+      "key": "playcode-owner",
+      "url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+      "checked_at": "2026-11-06T18:00:05.005183+00:00",
+      "status": 200,
+      "final_url": "https://cd.linkedin.com/company/play-code-academy-r-d-c",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 322026,
+      "sha256": "7496d9bc21e9ed9422d00d88a5b55f222d94df2524bc9a195e517a5ca42a4689"
+    },
+    {
+      "key": "kolesha-wro-first",
+      "url": "https://fr.linkedin.com/posts/kolesha_competition-robotique-worldrobotolympiad-activity-7267966684995440640-vetm",
+      "checked_at": "2026-11-06T18:00:05.576479+00:00",
+      "status": 200,
+      "final_url": "https://fr.linkedin.com/posts/kolesha_competition-robotique-worldrobotolympiad-activity-7267966684995440640-vetm",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 99219,
+      "sha256": "1cc1c09e084e5d5a0d889221827ab6f497ff2c0fa7457c924dff171af54bbfbd"
+    },
+    {
+      "key": "ilbc-2026-open-result",
+      "url": "https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/",
+      "checked_at": "2026-11-06T18:00:06.199734+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 105665,
+      "sha256": "feb38c4e6ac91175e20dfce95404c6d4bbce84b8bcb81d16a754c438b73f6809"
+    },
+    {
+      "key": "itu-finale-2027",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-grand-finale-2027/",
+      "checked_at": "2026-11-06T18:02:01.840263+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-grand-finale-2027/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633458,
+      "sha256": "1a5a36584fc5bb923692108388b92a7e74068d7c0a9ecb067fca5d8f86660019"
+    },
+    {
+      "key": "itu-summit-2027",
+      "url": "https://2027summit.aiforgood.itu.int/",
+      "checked_at": "2026-11-06T18:02:01.840627+00:00",
+      "status": 200,
+      "final_url": "https://2027summit.aiforgood.itu.int/",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 567722,
+      "sha256": "a334846d22020ff3aaf85036b785d4277ea4b1580d7a27c95e70c490c17699a0"
+    },
+    {
+      "key": "itu-passes-2027",
+      "url": "https://2027summit.aiforgood.itu.int/passes",
+      "checked_at": "2026-11-06T18:02:01.840723+00:00",
+      "status": 200,
+      "final_url": "https://2027summit.aiforgood.itu.int/passes",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 272115,
+      "sha256": "6210498fa9da294dbb68eae341ca12d831db876763187944b02c0a34b0d02653"
+    },
+    {
+      "key": "itu-practical-2027",
+      "url": "https://2027summit.aiforgood.itu.int/practical-information",
+      "checked_at": "2026-11-06T18:02:01.840808+00:00",
+      "status": 200,
+      "final_url": "https://2027summit.aiforgood.itu.int/practical-information",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 91141,
+      "sha256": "b9e9f7df2e148892899baac3ca6c7a66c8de17bc6f016f5e393a33bf415b0aad"
+    },
+    {
+      "key": "itu-rfg-terms",
+      "url": "https://s41721.pcdn.co/wp-content/uploads/2022/06/RFGYC-Terms-and-Conditions.pdf",
+      "checked_at": "2026-11-06T18:02:45.843622+00:00",
+      "status": 200,
+      "final_url": "https://s41721.pcdn.co/wp-content/uploads/2022/06/RFGYC-Terms-and-Conditions.pdf",
+      "content_type": "application/pdf",
+      "bytes": 886302,
+      "sha256": "54e83e02066a2d9993ad82f47b19d55c39f4f681a38cd20aa720bfbb98e05027"
+    },
+    {
+      "key": "ilbc-about",
+      "url": "https://ilbc.edu.mm/about/",
+      "checked_at": "2026-11-06T18:02:45.843954+00:00",
+      "status": 200,
+      "final_url": "https://ilbc.edu.mm/about/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 102312,
+      "sha256": "b92365abcd369eb39be591fb55ab9661e69ab2130de252438020ea3eb43929ba"
+    },
+    {
+      "key": "lfir-home",
+      "url": "https://lfir-yangon.com/",
+      "checked_at": "2026-11-06T18:02:45.844046+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 140952,
+      "sha256": "6aaaebc740443bf4d9284bcd23d80ce3547b0b993461250723700f7a37e13ae6"
+    },
+    {
+      "key": "lfir-after-school",
+      "url": "https://lfir-yangon.com/after-school-activities/",
+      "checked_at": "2026-11-06T18:05:35.270016+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/after-school-activities/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 134551,
+      "sha256": "3a16f0c63676ae1ea569730547233dac0b88672f833be0044ec2b244afe7363f"
+    },
+    {
+      "key": "lfir-coding-current",
+      "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+      "checked_at": "2026-11-06T18:07:16.048039+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-presentation-1st-sem-2026.pdf",
+      "content_type": "application/pdf",
+      "bytes": 505909,
+      "sha256": "9e0cffef74c461343b537e5166693f228e8bd7b71e5232fd49d3c7978828e0db"
+    },
+    {
+      "key": "lfir-registration-current",
+      "url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf",
+      "checked_at": "2026-11-06T18:07:16.048699+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/wp-content/uploads/2026/09/AES-Registration-for-2026-2027.pdf",
+      "content_type": "application/pdf",
+      "bytes": 175767,
+      "sha256": "23bac4144758d9ffcab3f5a5c9ba3115fb3a69596b6b71b2ffed61a3178f5e4a"
+    },
+    {
+      "key": "lfir-linked-regulations",
+      "url": "https://lfir-yangon.com/wp-content/uploads/2026/01/AES-Regulations-2025-26.pdf",
+      "checked_at": "2026-11-06T18:07:16.048811+00:00",
+      "status": 200,
+      "final_url": "https://lfir-yangon.com/wp-content/uploads/2026/01/AES-Regulations-2025-26.pdf",
+      "content_type": "application/pdf",
+      "bytes": 173632,
+      "sha256": "5c7dc94c86a0dced44d4e50f258e782712885eadf64fe9cebf9bc02b270408b1"
+    },
+    {
+      "key": "itu-chapter-001",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-australia/",
+      "checked_at": "2026-11-06T18:09:30.141486+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-australia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 636140,
+      "sha256": "a2739b79609d79766fb827b3f1358e2cb8231f6906ad1bcc21c396aaa0f690c9"
+    },
+    {
+      "key": "itu-chapter-002",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-bolivia/",
+      "checked_at": "2026-11-06T18:09:30.142159+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-bolivia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 636476,
+      "sha256": "bb5265fdfe797f25978651c5b7eb95a87be7ebd847c90ca6db237fb9457ad22e"
+    },
+    {
+      "key": "itu-chapter-003",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-bosnia-and-herzegovina/",
+      "checked_at": "2026-11-06T18:09:30.142440+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-bosnia-and-herzegovina/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633961,
+      "sha256": "2d5efb1258b436875b34c7923e5bb843b22c8b33359d67a94af797ed7f5fa94b"
+    },
+    {
+      "key": "itu-chapter-004",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-botswana/",
+      "checked_at": "2026-11-06T18:09:30.142681+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-botswana/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635705,
+      "sha256": "6249f972e1c9107ec1e10336c9393bfcb3f77dd1f11cf0afe41b9ecf68f09f7e"
+    },
+    {
+      "key": "itu-chapter-005",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-brazil/",
+      "checked_at": "2026-11-06T18:09:30.143123+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-brazil/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635215,
+      "sha256": "2006be2c46e966df102bb045f588a549f1f525948211b2a9a6656857fd9853e3"
+    },
+    {
+      "key": "itu-chapter-006",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-burkina-faso-2/",
+      "checked_at": "2026-11-06T18:09:32.011245+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-burkina-faso-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634921,
+      "sha256": "d312ec8870e729a50191e8560b48bdd643f7d934ee9778aefc9e20e9271d4126"
+    },
+    {
+      "key": "itu-chapter-007",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-burkina-faso/",
+      "checked_at": "2026-11-06T18:09:33.415749+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-burkina-faso/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 629558,
+      "sha256": "01af110da9ff7c66fb8d83cff40fc3af69f8b99ab33abb1c157a0accee1f0d7e"
+    },
+    {
+      "key": "itu-chapter-008",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-chad/",
+      "checked_at": "2026-11-06T18:09:33.685396+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-chad/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 631241,
+      "sha256": "4e9e40c8d38d4f1000b8d6e674353dcdb719bf9c9f3d3b0b98dd254ad632e9e9"
+    },
+    {
+      "key": "itu-chapter-009",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-china/",
+      "checked_at": "2026-11-06T18:09:34.066419+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-china/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634372,
+      "sha256": "e4ff9bdb2817a7438f1ffbb243524edb0ce5ec295a4ebcc8805df21d07c5cfd6"
+    },
+    {
+      "key": "itu-chapter-010",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-cote-divoire/",
+      "checked_at": "2026-11-06T18:09:35.195350+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-cote-divoire/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 657277,
+      "sha256": "e8fa3ee489d1fb4e98fa4207d7a73b450b900ea95a56a0176bb6ece075274644"
+    },
+    {
+      "key": "itu-chapter-012",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-dominican-republic/",
+      "checked_at": "2026-11-06T18:09:36.585464+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-dominican-republic/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 625672,
+      "sha256": "d4ab274265b0eb2fd7e666c5ac80068f24bcef8ebccdb573d941c655b734874c"
+    },
+    {
+      "key": "itu-chapter-013",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-egypt/",
+      "checked_at": "2026-11-06T18:09:36.709183+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-egypt/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633373,
+      "sha256": "487c9f5a0b70c9daf69b98f7e47c44553218e4ba7a60dc8966e1d7b7ae3f2ccd"
+    },
+    {
+      "key": "itu-chapter-014",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ethiopia-2/",
+      "checked_at": "2026-11-06T18:09:37.279067+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ethiopia-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635704,
+      "sha256": "b76d1ae2efa538b10f005edc6efae8d9632691010a78c09196fb0f988981407a"
+    },
+    {
+      "key": "itu-chapter-015",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ethiopia/",
+      "checked_at": "2026-11-06T18:09:38.803546+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ethiopia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634591,
+      "sha256": "7b1b01b0ca79d0ec4e6be7c5e756827b6693850e6e43a03a99f798d815e2cef5"
+    },
+    {
+      "key": "itu-chapter-016",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ghana-2/",
+      "checked_at": "2026-11-06T18:09:39.262479+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ghana-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 657232,
+      "sha256": "0b7252004de885fbca04f251f21f726065ffc146a6a725db8220c31fec491992"
+    },
+    {
+      "key": "itu-chapter-017",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ghana/",
+      "checked_at": "2026-11-06T18:09:39.383337+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ghana/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634790,
+      "sha256": "24d245b57b898ef812032bd063b51e19a5b1b3fa9c82694dec231db38d19e584"
+    },
+    {
+      "key": "itu-chapter-018",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-guinea/",
+      "checked_at": "2026-11-06T18:09:39.702255+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-guinea/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635737,
+      "sha256": "ae4353b859d5c86c1aaa80da6379c81504ebf761026532d0f56b10127c6c0c68"
+    },
+    {
+      "key": "itu-chapter-019",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-hungary/",
+      "checked_at": "2026-11-06T18:09:39.880690+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-hungary/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632597,
+      "sha256": "d1e0e072245758b7d0c14e8d9c0e6762732f42b6a51eaed162e1eba0c2b4f5a8"
+    },
+    {
+      "key": "itu-chapter-020",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india-2/",
+      "checked_at": "2026-11-06T18:09:40.803163+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 659232,
+      "sha256": "5df15d834c6f85ebee882212b9c06066709010fd0d075f73d4439432122891b1"
+    },
+    {
+      "key": "itu-chapter-021",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india-2027/",
+      "checked_at": "2026-11-06T18:09:41.266217+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india-2027/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 680196,
+      "sha256": "3685c50c5fd572dd1449b4d70390baf8cb96ddd839a6ba440107e3edb7711bf0"
+    },
+    {
+      "key": "itu-chapter-022",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india/",
+      "checked_at": "2026-11-06T18:09:42.645662+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-india/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 669531,
+      "sha256": "a4e651b87156430109e031a885b970df8ba078d3d819f8ed404419e3265912ea"
+    },
+    {
+      "key": "itu-chapter-023",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kazakhstan/",
+      "checked_at": "2026-11-06T18:09:43.142597+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kazakhstan/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634117,
+      "sha256": "3ca13bd0fdfaef674bb37da4e34bda027bb457d56f19038a2f74aa75d577babc"
+    },
+    {
+      "key": "itu-chapter-024",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-2/",
+      "checked_at": "2026-11-06T18:09:43.285581+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 652598,
+      "sha256": "beeed1c364404335b32b6481420199b80541a00d7ba16443ff2692bb52817b03"
+    },
+    {
+      "key": "itu-chapter-025",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-kiambu-county/",
+      "checked_at": "2026-11-06T18:09:44.231544+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-kiambu-county/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632722,
+      "sha256": "f2edd9789d43898881f49f2a9f810c37e83f628dff2a7d771ae3dc11129ba90c"
+    },
+    {
+      "key": "itu-chapter-026",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-mombasa-county/",
+      "checked_at": "2026-11-06T18:09:44.580336+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya-mombasa-county/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632487,
+      "sha256": "072ada84e3b06df206074798881552b89d64c934eda982a2dac595e1bb366d1a"
+    },
+    {
+      "key": "itu-chapter-027",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya/",
+      "checked_at": "2026-11-06T18:09:46.216240+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-kenya/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630126,
+      "sha256": "af578e6529c970825c0bada1931ba043bfbcadaea4288f4a235a5ca1e23ccbdb"
+    },
+    {
+      "key": "itu-chapter-028",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lesotho-2/",
+      "checked_at": "2026-11-06T18:09:46.939287+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lesotho-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634932,
+      "sha256": "05e6086b6ea7617a0891c858a06fb9333a9c7ca48b35f36953333d29c0b1bbf9"
+    },
+    {
+      "key": "itu-chapter-029",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lesotho/",
+      "checked_at": "2026-11-06T18:09:47.553034+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lesotho/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634479,
+      "sha256": "bdce86dac59fb2a7194baf3c176bda0f68705cda289c467df706bb938ee70bff"
+    },
+    {
+      "key": "itu-chapter-030",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lithuania/",
+      "checked_at": "2026-11-06T18:09:47.686388+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-lithuania/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635377,
+      "sha256": "486eeae7272e3173e66c6c502759f13d9b7093cc6e9e8fb437167739c77bf3f9"
+    },
+    {
+      "key": "itu-chapter-031",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-malawi/",
+      "checked_at": "2026-11-06T18:09:47.714546+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-malawi/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 626655,
+      "sha256": "7b34410fdf1698d2501e84a7be8dd74351a348bf052b2ef7fbc83f6ad0291f68"
+    },
+    {
+      "key": "itu-chapter-032",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mali/",
+      "checked_at": "2026-11-06T18:09:48.565136+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mali/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634742,
+      "sha256": "503fe794b2b2d26db41ab47692521aab7e1e8b8e577badb4316cf2dab1114349"
+    },
+    {
+      "key": "itu-chapter-033",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mexico/",
+      "checked_at": "2026-11-06T18:09:50.247988+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-mexico/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635017,
+      "sha256": "35fe234027c3ee71451bdbfa0546ce3785bbf2f43937bf6a71da048607208c98"
+    },
+    {
+      "key": "itu-chapter-034",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-2/",
+      "checked_at": "2026-11-06T18:09:50.940780+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 631242,
+      "sha256": "e10ac5304adc4c44d94622cac7aa92ef95ee2bcaaf38371ae5a8f31e23f146dd"
+    },
+    {
+      "key": "itu-chapter-035",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-chitwan-district/",
+      "checked_at": "2026-11-06T18:09:52.144328+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-chitwan-district/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632058,
+      "sha256": "be9f189a08da40539248d957162c6e9b52361f2daeb1010108e2dfe3154d57fe"
+    },
+    {
+      "key": "itu-chapter-036",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-junior-category/",
+      "checked_at": "2026-11-06T18:09:52.195132+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-junior-category/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632472,
+      "sha256": "4cf4b47eb460575a871448e129c1bd054c1fb2805e4cc0782d99af49c766f74a"
+    },
+    {
+      "key": "itu-chapter-037",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-senior-category/",
+      "checked_at": "2026-11-06T18:09:52.908154+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal-senior-category/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632568,
+      "sha256": "f419ecaef624752cf9d252efc9f552030778b191dd797c23f725037b5851f5c4"
+    },
+    {
+      "key": "itu-chapter-038",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal/",
+      "checked_at": "2026-11-06T18:09:52.997403+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nepal/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630845,
+      "sha256": "f1535d990997336ccc59ac72930b465bc1054e4e3715deb242e1cca98a4f3b63"
+    },
+    {
+      "key": "itu-chapter-039",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-niger/",
+      "checked_at": "2026-11-06T18:09:53.930666+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-niger/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634418,
+      "sha256": "885dc3c55d3848d1af52ceaa507068249808b1ee8adecd10b12b10303e5b2310"
+    },
+    {
+      "key": "itu-chapter-040",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-2/",
+      "checked_at": "2026-11-06T18:09:54.482800+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 653263,
+      "sha256": "43d306775fee63e69d834afc15d140a532f37596fe66bb6fb7f829ad613d83c4"
+    },
+    {
+      "key": "itu-chapter-041",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-abuja-fct/",
+      "checked_at": "2026-11-06T18:09:55.279749+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-abuja-fct/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 631890,
+      "sha256": "87afd9c11ccda63e6aa1892d135ed8aee95f1fd65823486d3e934c3cb92db68f"
+    },
+    {
+      "key": "itu-chapter-042",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-lagos-state-2026/",
+      "checked_at": "2026-11-06T18:09:56.105487+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria-lagos-state-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632623,
+      "sha256": "8232c03305ac7aa85741498e1fd5478e4b3be3e6cef0be9224d813c59969dab7"
+    },
+    {
+      "key": "itu-chapter-043",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria/",
+      "checked_at": "2026-11-06T18:09:56.361010+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-nigeria/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630221,
+      "sha256": "db194f423134d769c78176482fc2e8bad501de32af9440fc2cc6fbc57725d97a"
+    },
+    {
+      "key": "itu-chapter-044",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-romania/",
+      "checked_at": "2026-11-06T18:09:57.097540+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-romania/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634318,
+      "sha256": "9caa7e23870cf35e28975baa73ff6aed41a2c75c7ec130b9291f5f894fb8e473"
+    },
+    {
+      "key": "itu-chapter-045",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-senegal/",
+      "checked_at": "2026-11-06T18:09:58.410874+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-senegal/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635351,
+      "sha256": "2dddf42afd01410aaf7a8cd5d144b4ddbc37cac4b94e2ac7ed3bdba199d9bf49"
+    },
+    {
+      "key": "itu-chapter-046",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-sierra-leone-2026/",
+      "checked_at": "2026-11-06T18:09:58.772245+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-sierra-leone-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634974,
+      "sha256": "abc9623928a819e66cafc15c43d160d83e19f4c7399dc400b7f4db142d2c157a"
+    },
+    {
+      "key": "itu-chapter-047",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa-2/",
+      "checked_at": "2026-11-06T18:09:59.333765+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 668602,
+      "sha256": "3255f0ed6aa609db087f1404b4073f6b79ee4b061b9a8659261c0d9ad6d83d66"
+    },
+    {
+      "key": "itu-chapter-048",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa-limpopo/",
+      "checked_at": "2026-11-06T18:09:59.551047+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa-limpopo/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633189,
+      "sha256": "57374e2bcb7727f2d00f4ec3437cb887bc58d63835dfc566f48f191607128921"
+    },
+    {
+      "key": "itu-chapter-049",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa/",
+      "checked_at": "2026-11-06T18:10:01.358280+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-africa/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 628653,
+      "sha256": "e8ac5f664bcb48a1ea3d908621d1c8286f093755c5336753e4f55ce3d4f5cb92"
+    },
+    {
+      "key": "itu-chapter-050",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea-2/",
+      "checked_at": "2026-11-06T18:10:01.787962+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 636694,
+      "sha256": "5042809f92fb0f284b19c3b4131b8fbfab5b0cb2574b60975d05fbbce59200bb"
+    },
+    {
+      "key": "itu-chapter-051",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea-2027/",
+      "checked_at": "2026-11-06T18:10:02.234399+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea-2027/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632182,
+      "sha256": "36a79a91334bc0178ce51c2ed86c9434cdf1aab8c036ead241f5f1432a667f67"
+    },
+    {
+      "key": "itu-chapter-052",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea/",
+      "checked_at": "2026-11-06T18:10:02.790262+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-korea/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 628581,
+      "sha256": "519331f632e8d2d99fdadfaf71189ee8f2e57918a15b9ee046511d1c199fa125"
+    },
+    {
+      "key": "itu-chapter-053",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-sudan-2/",
+      "checked_at": "2026-11-06T18:10:02.816949+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-sudan-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635925,
+      "sha256": "9e76aee2939c23f51fe0211352298f634a9d190ac72afa1a7e400a7125f27085"
+    },
+    {
+      "key": "itu-chapter-054",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-sudan/",
+      "checked_at": "2026-11-06T18:10:04.255762+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-south-sudan/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 628618,
+      "sha256": "ddabd23c4729f66a0c74948d24aa7d30887bfe523dd9db5906d7b64c8353f496"
+    },
+    {
+      "key": "itu-chapter-055",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-spain/",
+      "checked_at": "2026-11-06T18:10:04.515483+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-spain/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634522,
+      "sha256": "7c14eab5228809b762869ee54003070ea64be19e353e8aef08837c27b93f770d"
+    },
+    {
+      "key": "itu-chapter-056",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-switzerland/",
+      "checked_at": "2026-11-06T18:10:04.543350+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-switzerland/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634804,
+      "sha256": "b04ca8e09d274269f8bb0a9c2001f4f4ca5a397fd7612a715f7d07769629ad33"
+    },
+    {
+      "key": "itu-chapter-057",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-the-gambia-2026/",
+      "checked_at": "2026-11-06T18:10:04.951466+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-the-gambia-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635202,
+      "sha256": "9a5508c3642317df7114773b4a550946aa45d3c0e49bf204c13b441c03116628"
+    },
+    {
+      "key": "itu-chapter-058",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-the-gambia/",
+      "checked_at": "2026-11-06T18:10:05.852723+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-the-gambia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633286,
+      "sha256": "1c70d1735c4aef9c0e6a4495c38cc6f160a2b36874cf01eb57c7cd02fc6adc29"
+    },
+    {
+      "key": "itu-chapter-059",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-togo/",
+      "checked_at": "2026-11-06T18:10:07.702590+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-togo/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633447,
+      "sha256": "13ba30d637c3d92f3b5d6d724f8b5f374a3673e2ef8a58e8f7dff80528a6150c"
+    },
+    {
+      "key": "itu-chapter-060",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-uganda-2/",
+      "checked_at": "2026-11-06T18:10:07.798804+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-uganda-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 634750,
+      "sha256": "e082b8a4d259f1dc8c76898044e08bc4cd7e1e2f5315b8ac9795f46a41c4f700"
+    },
+    {
+      "key": "itu-chapter-061",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-uganda/",
+      "checked_at": "2026-11-06T18:10:07.860960+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-uganda/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630736,
+      "sha256": "8beff4158f2ba4bab9798c49d0b4fab23cd6e5b56e04cbb6403a065a3ca08f64"
+    },
+    {
+      "key": "itu-chapter-062",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ukraine/",
+      "checked_at": "2026-11-06T18:10:09.245912+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-ukraine/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 633458,
+      "sha256": "3ac630d23af36b9de6adc89c1bb7140a57553dfb7e657d63f1d5b38ae3d89814"
+    },
+    {
+      "key": "itu-chapter-063",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-2026/",
+      "checked_at": "2026-11-06T18:10:09.783383+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 636386,
+      "sha256": "85c88696a30c2d2a12d2649529c0c91451ec09f0e5d944c1d68f8eddd40ae86a"
+    },
+    {
+      "key": "itu-chapter-064",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-carabobo-state-2026/",
+      "checked_at": "2026-11-06T18:10:10.068412+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-carabobo-state-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632850,
+      "sha256": "dc8467d9d10ed3d453d4c64ea500cb2857d0e96f6fa10d1f3af8937cd0d88387"
+    },
+    {
+      "key": "itu-chapter-065",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-carabobo-state/",
+      "checked_at": "2026-11-06T18:10:10.138356+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-carabobo-state/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 627784,
+      "sha256": "37032b275bf54a9fbf376de4eec34c201115eee704a8f764b5997bedafa41f80"
+    },
+    {
+      "key": "itu-chapter-066",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-distrito-capital-2/",
+      "checked_at": "2026-11-06T18:10:10.289552+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-distrito-capital-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632878,
+      "sha256": "ff7d228ce11051a80ec64cd1d13d157178f28cee419065a2a3c5519cf7836d10"
+    },
+    {
+      "key": "itu-chapter-067",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-distrito-capital/",
+      "checked_at": "2026-11-06T18:10:11.612770+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-distrito-capital/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 627395,
+      "sha256": "af51eec7b8d6f2149c72004b004794c3e27ed66e8042fe36520061e7f4ec9e9f"
+    },
+    {
+      "key": "itu-chapter-068",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-nueva-esparta-2026/",
+      "checked_at": "2026-11-06T18:10:13.282624+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-nueva-esparta-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 632308,
+      "sha256": "b9d99989a9c9744b21e63855d0917b2fc9c29aa33789107b18277cecb8b94846"
+    },
+    {
+      "key": "itu-chapter-069",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-nueva-esparta-state/",
+      "checked_at": "2026-11-06T18:10:13.796783+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela-nueva-esparta-state/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 626574,
+      "sha256": "7e4a482b1fa6377c2d52e52a4f544c1ab0d7054ab619d563bcd68270fd379c13"
+    },
+    {
+      "key": "itu-chapter-070",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela/",
+      "checked_at": "2026-11-06T18:10:14.076907+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-venezuela/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630567,
+      "sha256": "b9bba73bede2832b520dc34af65907845dcf1041ebbcda123e3f1c41b36e6fd3"
+    },
+    {
+      "key": "itu-chapter-071",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-vietnam/",
+      "checked_at": "2026-11-06T18:10:15.440614+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-vietnam/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635865,
+      "sha256": "635bfc0a2f03c0ce80c5cc3e00754859de77adc8d9acd310c87af57eea509924"
+    },
+    {
+      "key": "itu-chapter-072",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zambia-2/",
+      "checked_at": "2026-11-06T18:10:15.801072+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zambia-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635507,
+      "sha256": "2e763cd2103e534dd40d04f59b75626ce2242fbdb1fbb44da427b3c22bb879d6"
+    },
+    {
+      "key": "itu-chapter-073",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zambia/",
+      "checked_at": "2026-11-06T18:10:16.907024+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zambia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 630236,
+      "sha256": "cab5fb846e3d96ad271eaa223cabceb2898e0d3b508ec106ae3aaac5ee98b680"
+    },
+    {
+      "key": "itu-chapter-074",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zimbabwe-2/",
+      "checked_at": "2026-11-06T18:10:16.913713+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zimbabwe-2/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635737,
+      "sha256": "eeaa8cde4e3a33092488ff07f766840e3e67cba949eedd5828bd54c74661ba87"
+    },
+    {
+      "key": "itu-chapter-075",
+      "url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zimbabwe/",
+      "checked_at": "2026-11-06T18:10:17.599465+00:00",
+      "status": 200,
+      "final_url": "https://aiforgood.itu.int/event/robotics-for-good-youth-challenge-zimbabwe/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 635420,
+      "sha256": "e7960297e7acf3679626625c3f66e83c16bf704b667dc8d43e98d6167fd127e4"
+    }
+  ],
+  "all_requests_get_only": true,
+  "raw_source_bodies_private": true,
+  "PDF_relevant_pages_visually_reviewed": true,
+  "public_forms_read_only": true,
+  "no_contacts_forms_agreements_or_payments": true
+}

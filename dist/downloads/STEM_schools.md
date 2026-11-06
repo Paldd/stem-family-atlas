@@ -1943,6 +1943,40 @@ Cambridge Primary, Secondary, AS / A Level; IB не установлен
 Осталось проверить:
 - Подтвердить фактический класс / возраст, индивидуальный иностранный приём, язык именно группы, действующий набор и окончательную смету.
 
+## S071 · ILBC International School · network
+
+Мьянма · Yangon / Nay Pyi Taw / national branches
+Тип: private
+Pearson Edexcel IGCSE / IAL; дошкольное и начальное образование. IB не установлен.
+Возраст: Preschool / KG / P1–P6 / Secondary
+Матвей: candidate; Оскар: candidate. Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде.
+Язык: Школа прямо указывает English как язык преподавания; язык конкретного robotics-coach уточнить.
+Пансион: Пансион и приём младших на проживание не подтверждены.
+Робототехника: В P1–P6 есть IT и Coding; отдельный extracurricular перечисляет Robotics, AI и 3D Printing. Для KG–P3 школьные компьютеры выдаются на уроке, дома нужен собственный ноутбук. Оператор прямо указывает English как язык обучения. Это программа зачисленной школы: возраст / класс технической группы и приём в команду отдельно. Не открытая каникулярная смена.
+Лаборатории: Science / computer labs, Technology Integrated Classrooms; KG–P3 используют школьные компьютеры, дома нужен свой ноутбук.
+ИИ: В extracurricular явно перечислены AI, Robotics и 3D Printing; возраст младшей группы не установлен.
+Приём: Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде.
+Стоимость: Новый набор, тариф и места не установлены.
+
+- Результат: 2025 · WRO · Myanmar National Championship · Future Innovators Junior · Champion · ILBC Future Innovators. Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших. Источник: https://ilbc.edu.mm/steam-education/
+- Результат: 2025 · WRO · Myanmar National Championship · Future Innovators Senior · Champion · ILBC Future Innovators. Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших. Источник: https://ilbc.edu.mm/steam-education/
+- Результат: 2026 · WRO · Myanmar National Championship · Future Innovators Senior · Champion · ILBC Future Innovators. Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших. Источник: https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/
+- Результат: 2026 · WRO · Open Championship Asia & Pacific · Future Innovators Senior · 5th Place · ILBC Future Innovators. Сеть ILBC сообщает о национальных победах Future Innovators Junior и Senior 2025 и Senior 2026, а также 5-м месте Senior на Open Asia & Pacific 2026. Это школьные отчёты; отдельный протокол организатора не проверен. Пятое место не является мировым подиумом, успех старших не доказывает технический приём младших. Источник: https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/
+
+Источники (проверка 2026-11-06):
+- ILBC · English medium and Pearson Edexcel: https://ilbc.edu.mm/about/ — Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно.
+- ILBC · primary: https://ilbc.edu.mm/primary/ — Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно.
+- ILBC · foreign admissions: https://ilbc.edu.mm/admissions/ — Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде.
+- ILBC · technology: https://ilbc.edu.mm/technology-integrated-learning/ — Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно.
+- ILBC · extracurricular: https://ilbc.edu.mm/extracurricular/ — Прочитана собственная страница школьной программы; условия конкретного класса подтверждаются отдельно.
+- ILBC · 2025 national results: https://ilbc.edu.mm/steam-education/ — Школьное сообщение о результате; независимый протокол организатора не проверен.
+- ILBC · 2026 national results: https://ilbc.edu.mm/%F0%9F%8F%86-congratulations-to-our-ilbc-students-on-their-success-at-the-wro-2026-myanmar-national-championship-%F0%9F%A4%96/ — Школьное сообщение о результате; независимый протокол организатора не проверен.
+- ILBC · 2026 Open result: https://ilbc.edu.mm/%f0%9f%8f%86%f0%9f%87%b2%f0%9f%87%b2-ilbc-future-innovator-senior-team-secures-5th-place-in-asia-pacific-%f0%9f%8f%86/ — Школьное сообщение о результате; независимый протокол организатора не проверен.
+
+Осталось проверить:
+- Подтвердить возраст / реальный класс, места, язык, индивидуальный иностранный вход и итоговый счёт.
+- Иностранные учащиеся прямо предусмотрены: паспорт, прежние школьные записи, screening / English и Mathematics, медицинская оценка и сборы. Это процедура рассмотрения, не принятое место. Для семьи уточнить кампус, фактический класс и доступ младших к robotics-команде.
+
 ## Пробелы охвата
 
 - 32 школьных досье; полный мировой и национальный школьный аудит не завершён.

@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5857,
-    "competition_cards": 1950,
-    "event_cards": 264,
-    "camp_cards": 3643,
-    "league_profiles": 236,
-    "major_exhibition_cards": 172,
+    "cards": 5927,
+    "competition_cards": 2012,
+    "event_cards": 265,
+    "camp_cards": 3650,
+    "league_profiles": 242,
+    "major_exhibition_cards": 173,
     "vex_cards": 518,
-    "countries_with_records": 139,
+    "countries_with_records": 152,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -34,12 +34,12 @@
         "Центральная Америка",
         "Карибский регион"
       ],
-      "total": 1683,
-      "countries_with_records": 22,
-      "competitions": 620,
+      "total": 1688,
+      "countries_with_records": 23,
+      "competitions": 624,
       "events": 61,
       "major_exhibitions": 22,
-      "camps": 1002,
+      "camps": 1003,
       "status": "Частично исследовано",
       "remaining": "Сильный перекос в каталог VEX США. México / Costa Rica приоритетны, но полный список местных турниров, школ и заявок не закрыт."
     },
@@ -48,9 +48,9 @@
       "regions": [
         "Южная Америка"
       ],
-      "total": 282,
+      "total": 286,
       "countries_with_records": 10,
-      "competitions": 159,
+      "competitions": 163,
       "events": 10,
       "major_exhibitions": 7,
       "camps": 113,
@@ -62,11 +62,11 @@
       "regions": [
         "Европа"
       ],
-      "total": 1711,
+      "total": 1720,
       "countries_with_records": 42,
-      "competitions": 384,
-      "events": 75,
-      "major_exhibitions": 54,
+      "competitions": 392,
+      "events": 76,
+      "major_exhibitions": 55,
       "camps": 1252,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
@@ -76,12 +76,12 @@
       "regions": [
         "Африка"
       ],
-      "total": 176,
-      "countries_with_records": 24,
-      "competitions": 87,
+      "total": 203,
+      "countries_with_records": 34,
+      "competitions": 112,
       "events": 23,
       "major_exhibitions": 15,
-      "camps": 66,
+      "camps": 68,
       "status": "Частично исследовано",
       "remaining": "До расширения почти все соревнования были в South Africa. Добавлен PARC Senegal; Maghreb, East / West Africa и местные отборы остаются пробелами."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1698,
-      "countries_with_records": 37,
-      "competitions": 528,
+      "total": 1722,
+      "countries_with_records": 39,
+      "competitions": 548,
       "events": 83,
       "major_exhibitions": 71,
-      "camps": 1087,
+      "camps": 1091,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -104,9 +104,9 @@
       "regions": [
         "Океания"
       ],
-      "total": 225,
+      "total": 226,
       "countries_with_records": 4,
-      "competitions": 104,
+      "competitions": 105,
       "events": 7,
       "major_exhibitions": 3,
       "camps": 114,
@@ -4086,6 +4086,151 @@
       "new": false
     },
     {
+      "id": "robotics-for-good-global",
+      "name": "ITU · Robotics for Good Youth Challenge",
+      "group": "international",
+      "event_ids": [
+        "C1451",
+        "C1948",
+        "C1952",
+        "C1960",
+        "C1969",
+        "C1970",
+        "C1971",
+        "C1972",
+        "C1973",
+        "C1974",
+        "C1975",
+        "C1976",
+        "C1977",
+        "C1978",
+        "C1979",
+        "C1980",
+        "C1981",
+        "C1982",
+        "C1983",
+        "C1984",
+        "C1985",
+        "C1986",
+        "C1987",
+        "C1988",
+        "C1989",
+        "C1990",
+        "C1991",
+        "C1992",
+        "C1993",
+        "C1994",
+        "C1995",
+        "C1996",
+        "C1997",
+        "C1998",
+        "C1999",
+        "C2000",
+        "C2001",
+        "C2002",
+        "C2003",
+        "C2004",
+        "C2005",
+        "C2006",
+        "C2007",
+        "C2008",
+        "C2009",
+        "C2010",
+        "C2011",
+        "C2012",
+        "C2013",
+        "C1929"
+      ],
+      "cards": 50,
+      "future_dated": 3,
+      "linked_card_count": 50,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://s41721.pcdn.co/wp-content/uploads/2022/06/ENG-V11-Youth-Challenge-Rulebook-2026-2027-Health-Emergencies.pdf",
+      "new": false
+    },
+    {
+      "id": "wro-myanmar-local",
+      "name": "WRO Myanmar · national route",
+      "group": "regional",
+      "event_ids": [
+        "C1953",
+        "C1954",
+        "C1955",
+        "C1956",
+        "C1957",
+        "C1958"
+      ],
+      "cards": 6,
+      "future_dated": 0,
+      "linked_card_count": 6,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.wro-mm.com/",
+      "new": false
+    },
+    {
+      "id": "wro-haiti-local",
+      "name": "WRO Haiti · Pennies / STEM Alliance",
+      "group": "regional",
+      "event_ids": [
+        "C1959"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro-association.org/about-wro/association/member-countries/",
+      "new": false
+    },
+    {
+      "id": "rfg-haiti-operator",
+      "name": "Robotics for Good Haiti · operator claim",
+      "group": "regional",
+      "event_ids": [
+        "C1960"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.haitistemalliance.com/national-organizer",
+      "new": false
+    },
+    {
+      "id": "kolesha-congo-route",
+      "name": "KOLESHA · WRO / Robotics for Good DRC",
+      "group": "regional",
+      "event_ids": [
+        "C1961",
+        "C2013"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro-association.org/about-wro/association/member-countries/",
+      "new": false
+    },
+    {
+      "id": "technoxian-iraq-local",
+      "name": "TechnoXian Iraq · national programme",
+      "group": "regional",
+      "event_ids": [
+        "C1962",
+        "C1963",
+        "C1964",
+        "C1965",
+        "C1966",
+        "C1967",
+        "C1968"
+      ],
+      "cards": 7,
+      "future_dated": 0,
+      "linked_card_count": 7,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://iraq.technoxian.com/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -7105,6 +7250,17 @@
       "new": false
     },
     {
+      "id": "E265",
+      "name": "AI for Good Global Summit · Innovation Expo 2027",
+      "country": "Швейцария",
+      "region": "Европа",
+      "start": "2027-06-21",
+      "end": "2027-06-24",
+      "visitor_policy": "family",
+      "source": "https://2027summit.aiforgood.itu.int/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Польша",
@@ -9379,20 +9535,20 @@
       }
     ],
     "counts": {
-      "records": 3643,
-      "holiday": 3402,
+      "records": 3650,
+      "holiday": 3409,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 981,
-      "en_es_instruction": 1041,
+      "en_es_instruction": 1043,
       "en_es_support": 12,
-      "family_instruction": 1041,
+      "family_instruction": 1043,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
       "camp_life_language": 226,
       "language_unclassified": 119,
-      "countries": 94
+      "countries": 97
     },
     "validation": {
       "version": 51,
@@ -9597,10 +9753,10 @@
       "Жильё семьи, иммиграция, школьные визы, поездки команды и полная смета ещё не оценены."
     ],
     "counts": {
-      "records": 70,
-      "countries": 26,
+      "records": 71,
+      "countries": 27,
       "public": 13,
-      "private": 57,
+      "private": 58,
       "boarding": 11,
       "world_result": 14,
       "organizer_protocol": 14,
@@ -10556,8 +10712,8 @@
         "iso": "MMR",
         "country": "Мьянма",
         "region": "Азия",
-        "records": 0,
-        "status": "unresearched"
+        "records": 1,
+        "status": "partial"
       },
       {
         "iso": "PHL",
