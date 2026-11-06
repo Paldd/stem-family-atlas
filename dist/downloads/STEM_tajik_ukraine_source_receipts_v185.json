@@ -1,0 +1,567 @@
+{
+  "version": 185,
+  "checked": "2026-11-06",
+  "request_count": 55,
+  "hash_verified": 54,
+  "failures": [
+    {
+      "key": "fll-ukr-registration",
+      "url": "http://firstlegoleague.org.ua/правила-реєстрації-команди-та-участі/",
+      "checked_at": "2026-11-06T14:58:59.086152+00:00",
+      "error": "'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)"
+    }
+  ],
+  "requests": [
+    {
+      "key": "ukraine-wro",
+      "url": "http://inedt.org.ua/",
+      "checked_at": "2026-11-06T14:56:16.776258+00:00",
+      "status": 200,
+      "final_url": "https://inedt.org.ua/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 30756,
+      "sha256": "2972e77ce2d8024f1e159be3e8dfdcac2c2209645d8f58ad44b2faed682e8491"
+    },
+    {
+      "key": "ukraine-fll",
+      "url": "http://firstlegoleague.org.ua/",
+      "checked_at": "2026-11-06T14:56:16.776595+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 266027,
+      "sha256": "d84800c7c76c845bafd2190ff64b1a6985a8b88cf494fcd2988aaf30ec77f896"
+    },
+    {
+      "key": "ukraine-infomatrix",
+      "url": "https://infomatrix-ukraine.com/",
+      "checked_at": "2026-11-06T14:56:16.776689+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix-ukraine.com/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 7747,
+      "sha256": "141ad85c64a84fcb655e8a7b845640a6bda31b8e8629b49eada94e094a26fc85"
+    },
+    {
+      "key": "code-ukraine-apply",
+      "url": "https://www.codeforukraine.org/apply",
+      "checked_at": "2026-11-06T14:56:16.776757+00:00",
+      "status": 200,
+      "final_url": "https://www.codeforukraine.org/apply",
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 199434,
+      "sha256": "12ac49fbb0c4a741622502aedeaad390925b97b93053cadbf370fbb64fdfee7c"
+    },
+    {
+      "key": "bigfish-ukraine",
+      "url": "https://bigfish.careers/en/camps/ukraine",
+      "checked_at": "2026-11-06T14:56:16.776993+00:00",
+      "status": 200,
+      "final_url": "https://bigfish.careers/en/camps/ukraine",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 79535,
+      "sha256": "c1e988da503d41f072fa81c5ed382337b30c0e70c3496d673eaff185c61149a3"
+    },
+    {
+      "key": "dushanbe-children-centre",
+      "url": "https://mkn.tj/",
+      "checked_at": "2026-11-06T14:56:17.901786+00:00",
+      "status": 200,
+      "final_url": "https://mkn.tj/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 93060,
+      "sha256": "3cfc1bccebf1c322e78d4415122abe1676e32b9797a717845299753d6cabbc06"
+    },
+    {
+      "key": "wro-tajik-instagram",
+      "url": "https://www.instagram.com/wro.tj",
+      "checked_at": "2026-11-06T14:56:18.796387+00:00",
+      "status": 200,
+      "final_url": "https://www.instagram.com/wro.tj",
+      "content_type": "text/html; charset=\"utf-8\"",
+      "bytes": 695187,
+      "sha256": "f11f0ea706f23332b7cd6ba6028a97d807dc23a08e155a2867f637cc78f3bfc7"
+    },
+    {
+      "key": "liga-tajik",
+      "url": "https://ligarobotov.tj/",
+      "checked_at": "2026-11-06T14:57:06.456151+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 297057,
+      "sha256": "42ff3fd97d23dbc04aab0764b571daa7df44009c77c6a55075ebe6ba00dadf25"
+    },
+    {
+      "key": "liga-telegram",
+      "url": "https://t.me/s/ligarobotovdushanbe",
+      "checked_at": "2026-11-06T14:57:06.456525+00:00",
+      "status": 200,
+      "final_url": "https://t.me/s/ligarobotovdushanbe",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 140196,
+      "sha256": "2e79eab10b84b66f13de77360605200a2ecba449df79760896947bc05e7f5c61"
+    },
+    {
+      "key": "navovar-ai",
+      "url": "https://navovar-ai.tj/en/index.html",
+      "checked_at": "2026-11-06T14:57:06.456608+00:00",
+      "status": 200,
+      "final_url": "https://navovar-ai.tj/en/index.html",
+      "content_type": "text/html",
+      "bytes": 29509,
+      "sha256": "0874282a0ebb0ffd3389d7943d2be0cc7ed39c2f44447cef737943c30587627a"
+    },
+    {
+      "key": "tgem-camps",
+      "url": "https://tgem.tj/",
+      "checked_at": "2026-11-06T14:57:06.456707+00:00",
+      "status": 200,
+      "final_url": "https://tgem.tj/ru",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 286364,
+      "sha256": "36cb71e963e9f716174fc22d7c300302d1852baeeeee6d31d046c1a369aa4d02"
+    },
+    {
+      "key": "global-infomatrix",
+      "url": "https://infomatrix.ro/",
+      "checked_at": "2026-11-06T14:57:06.456984+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/",
+      "content_type": "text/html",
+      "bytes": 103988,
+      "sha256": "09d71ba17a43e9c3b9e53ca52d86e6cfca2d025957978d58233e358fa757d671"
+    },
+    {
+      "key": "robotica-wro",
+      "url": "https://robotica.in.ua/site/wro.php",
+      "checked_at": "2026-11-06T14:58:59.084701+00:00",
+      "status": 200,
+      "final_url": "https://robotica.in.ua/world-robot-olympiad-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 60026,
+      "sha256": "6f5aef6d4ebd3240b837e15426529cef7b0b81e50dc899946255a1a2e38ea824"
+    },
+    {
+      "key": "robotica-home",
+      "url": "http://robotica.in.ua/",
+      "checked_at": "2026-11-06T14:58:59.085473+00:00",
+      "status": 200,
+      "final_url": "https://robotica.in.ua/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 119407,
+      "sha256": "8a325804ec4862606b5a88ef12488fff700fcdc361d6f54592937796cce170f6"
+    },
+    {
+      "key": "fll-ukr-registration",
+      "url": "http://firstlegoleague.org.ua/правила-реєстрації-команди-та-участі/",
+      "checked_at": "2026-11-06T14:58:59.086152+00:00",
+      "error": "'ascii' codec can't encode characters in position 5-11: ordinal not in range(128)"
+    },
+    {
+      "key": "fll-ukr-challenge",
+      "url": "http://firstlegoleague.org.ua/shcho-take-fll/",
+      "checked_at": "2026-11-06T14:58:59.086632+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/shcho-take-fll/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 105092,
+      "sha256": "873c79119dc32793a9bedbc6ca69ce1062d51f17983e7b71a7904503954b0694"
+    },
+    {
+      "key": "fll-ukr-explore",
+      "url": "http://firstlegoleague.org.ua/shco-take-junior-fll/",
+      "checked_at": "2026-11-06T14:58:59.087258+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/shco-take-junior-fll/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 91006,
+      "sha256": "0aa487925a32a79fc767ec1e2401acc3385fd78e4581d044383c92e9eed4ca94"
+    },
+    {
+      "key": "fll-ukr-discover",
+      "url": "http://firstlegoleague.org.ua/fll-discovery/",
+      "checked_at": "2026-11-06T14:58:59.120593+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/fll-discovery/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 129396,
+      "sha256": "d5c45cf1e93e5f97ff99101f06c29d2c446efc5df5e794d80a79ae24915807f1"
+    },
+    {
+      "key": "bigfish-austria",
+      "url": "https://bigfish.careers/en/camps/austria",
+      "checked_at": "2026-11-06T14:59:01.050095+00:00",
+      "status": 200,
+      "final_url": "https://bigfish.careers/en/camps/austria",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 99312,
+      "sha256": "74b1b1c68d7f698fdb252dafe97355f79c0bf28703736801a02066e7221e63f1"
+    },
+    {
+      "key": "bigfish-greece",
+      "url": "https://bigfish.careers/en/camps/greece",
+      "checked_at": "2026-11-06T14:59:01.127127+00:00",
+      "status": 200,
+      "final_url": "https://bigfish.careers/en/camps/greece",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 66029,
+      "sha256": "6738981c688ead074067050d52ec2953c4f95dae044fc6da8fa20543086f6b00"
+    },
+    {
+      "key": "bigfish-portugal",
+      "url": "https://bigfish.careers/en/camps/portugal",
+      "checked_at": "2026-11-06T14:59:01.170282+00:00",
+      "status": 200,
+      "final_url": "https://bigfish.careers/en/camps/portugal",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 65913,
+      "sha256": "13fdabd3d9cc049958bbda56b852f3dc569d2ccbc47c6cd5f047fe4e58f98e32"
+    },
+    {
+      "key": "bigfish-terms",
+      "url": "https://bigfish.careers/en/terms",
+      "checked_at": "2026-11-06T14:59:01.543977+00:00",
+      "status": 200,
+      "final_url": "https://bigfish.careers/en/terms",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 42229,
+      "sha256": "f1623b0a7a06b113673fc920520ab94e15bf62205c5e6c360572e8f2414161ca"
+    },
+    {
+      "key": "code-ukraine-program",
+      "url": "https://www.codeforukraine.org/our-program",
+      "checked_at": "2026-11-06T14:59:02.056280+00:00",
+      "status": 200,
+      "final_url": "https://www.codeforukraine.org/our-program",
+      "content_type": "text/html;charset=utf-8",
+      "bytes": 274201,
+      "sha256": "6cbee014bf982ec6cefbe3030275eaf86d93fb6d7309898432d024b061667e03"
+    },
+    {
+      "key": "fll-ukr-results-5",
+      "url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2023-2024/",
+      "checked_at": "2026-11-06T14:59:02.066008+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2023-2024/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 108475,
+      "sha256": "45fb9d868c5ddb2279b9ce050301fa19f4ae0cf805878b53f617bc3d727ec2fc"
+    },
+    {
+      "key": "fll-ukr-results-6",
+      "url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2024-2025/",
+      "checked_at": "2026-11-06T14:59:02.066470+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2024-2025/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 93627,
+      "sha256": "c67969a9eb5d2a9f6eed708c0ea6443924aff14ea94d466933bd2c12450285b6"
+    },
+    {
+      "key": "fll-ukr-results-7",
+      "url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2025-2026/",
+      "checked_at": "2026-11-06T14:59:02.528031+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2025-2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 93807,
+      "sha256": "a33927e3aa222bb7694351708fc05e64e7c653d723f44c6e5c3e6240dc494ccb"
+    },
+    {
+      "key": "infomatrix-global-script",
+      "url": "https://infomatrix.ro/script.js?v=11",
+      "checked_at": "2026-11-06T15:01:11.225221+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/script.js?v=11",
+      "content_type": "text/javascript",
+      "bytes": 30454,
+      "sha256": "2524f80fdedd30febba637723fd295a265a52c79361356adc827ac15d60fa256"
+    },
+    {
+      "key": "infomatrix-ukraine-bundle",
+      "url": "https://infomatrix-ukraine.com/assets/index-B2CmpYan.js",
+      "checked_at": "2026-11-06T15:01:11.225721+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix-ukraine.com/assets/index-B2CmpYan.js",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 695796,
+      "sha256": "92197f8f34c229fbb56aa97d733eb1f8b8e83806875468e271a415d7af14d573"
+    },
+    {
+      "key": "liga-camps",
+      "url": "https://ligarobotov.tj/camp/",
+      "checked_at": "2026-11-06T15:01:11.225821+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/camp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 151697,
+      "sha256": "89b683f2855bce5a165186e74214fce961e7f282745953b238a7b0fbf711a746"
+    },
+    {
+      "key": "liga-summer",
+      "url": "https://ligarobotov.tj/camp/summer/",
+      "checked_at": "2026-11-06T15:01:11.225907+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/camp/summer/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 110208,
+      "sha256": "8256674e340360be43adf6e048f744398e365b4bddf2bbfe0d9f1f68b2759ea0"
+    },
+    {
+      "key": "liga-autumn",
+      "url": "https://ligarobotov.tj/camp/autumn/",
+      "checked_at": "2026-11-06T15:01:11.226217+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/camp/autumn/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 113298,
+      "sha256": "1cd1d89b35c4a83d1c426e83fb1d847bbdb541b85f75f9f7668c46cbe2326b02"
+    },
+    {
+      "key": "liga-spring",
+      "url": "https://ligarobotov.tj/camp/spring/",
+      "checked_at": "2026-11-06T15:01:12.081224+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/camp/spring/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 113371,
+      "sha256": "e7b4c0945275e758a863c30334cac4eef32bb467b7901d9c8239b3033601e54f"
+    },
+    {
+      "key": "liga-winter",
+      "url": "https://ligarobotov.tj/camp/winter/",
+      "checked_at": "2026-11-06T15:01:12.287510+00:00",
+      "status": 200,
+      "final_url": "https://ligarobotov.tj/camp/winter/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 113329,
+      "sha256": "10228a6a4cca4535a61db6440b6ce2c5028de700c420386d818dea599f644f93"
+    },
+    {
+      "key": "itpark-news",
+      "url": "https://it-park.tj/novosti/",
+      "checked_at": "2026-11-06T15:01:14.187413+00:00",
+      "status": 200,
+      "final_url": "https://it-park.tj/novosti/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 184242,
+      "sha256": "8d0a9718fc18fb31ca7d67093656214dd3bab49fe5d26f8413276b56642c10f3"
+    },
+    {
+      "key": "fll-ukr-registration-encoded",
+      "url": "http://firstlegoleague.org.ua/%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%b0-%d1%80%d0%b5%d1%94%d1%81%d1%82%d1%80%d0%b0%d1%86%d1%96%d1%97-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d0%b8-%d1%82%d0%b0-%d1%83%d1%87%d0%b0%d1%81%d1%82%d1%96/",
+      "checked_at": "2026-11-06T15:05:32.612958+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%b0-%d1%80%d0%b5%d1%94%d1%81%d1%82%d1%80%d0%b0%d1%86%d1%96%d1%97-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d0%b8-%d1%82%d0%b0-%d1%83%d1%87%d0%b0%d1%81%d1%82%d1%96/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 87164,
+      "sha256": "fea60a5e823825b38cd09ce22be3fb96eab095d2e7356deb53b4a42597b17e61"
+    },
+    {
+      "key": "infomatrix-world-creaithon",
+      "url": "https://infomatrix.ro/categories/creaithon.html",
+      "checked_at": "2026-11-06T15:06:42.379279+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/creaithon.html",
+      "content_type": "text/html",
+      "bytes": 17455,
+      "sha256": "bed402cb732a813bed1171b42e2e437d3a5b3b075fd5ac24b4ee7437ac5a9140"
+    },
+    {
+      "key": "infomatrix-world-digital-storytelling",
+      "url": "https://infomatrix.ro/categories/digital-storytelling.html",
+      "checked_at": "2026-11-06T15:06:42.379815+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/digital-storytelling.html",
+      "content_type": "text/html",
+      "bytes": 31172,
+      "sha256": "96bc354549f5c66b0ae01f6a80dae05002910e5db644bff3b420db9afaa73686"
+    },
+    {
+      "key": "infomatrix-world-hackathon-high-schools",
+      "url": "https://infomatrix.ro/categories/hackathon-high-schools.html",
+      "checked_at": "2026-11-06T15:06:42.379968+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/hackathon-high-schools.html",
+      "content_type": "text/html",
+      "bytes": 17548,
+      "sha256": "fee0b8f94a0a97699a692e099a8ef974fa92667903f4518464b00ba2b5c96b5e"
+    },
+    {
+      "key": "infomatrix-world-hackathon-universities",
+      "url": "https://infomatrix.ro/categories/hackathon-universities.html",
+      "checked_at": "2026-11-06T15:06:42.380187+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/hackathon-universities.html",
+      "content_type": "text/html",
+      "bytes": 17568,
+      "sha256": "60c202743dbb6fa7d20f5e5c4e476f9162d7d99d65f263b7fd42ddef2ff4dd2a"
+    },
+    {
+      "key": "infomatrix-world-lego-sumo",
+      "url": "https://infomatrix.ro/categories/lego-sumo.html",
+      "checked_at": "2026-11-06T15:06:42.380522+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/lego-sumo.html",
+      "content_type": "text/html",
+      "bytes": 25082,
+      "sha256": "c3288f42105a728682f3fa4185972239f722b981aa3cf9ad7e6d8d98719dc257"
+    },
+    {
+      "key": "infomatrix-world-line-follower-juniors",
+      "url": "https://infomatrix.ro/categories/line-follower-juniors.html",
+      "checked_at": "2026-11-06T15:06:43.177300+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/line-follower-juniors.html",
+      "content_type": "text/html",
+      "bytes": 25364,
+      "sha256": "5df52a65015b5b33735635b815487f11814bb3322e1a893a9c5f2fb6426a10eb"
+    },
+    {
+      "key": "infomatrix-world-line-follower",
+      "url": "https://infomatrix.ro/categories/line-follower.html",
+      "checked_at": "2026-11-06T15:06:43.190139+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/line-follower.html",
+      "content_type": "text/html",
+      "bytes": 25195,
+      "sha256": "b8e984b15d123b62c8e80e2fdcac7baddc1067ddacc7cb32cd3087ca4b635d07"
+    },
+    {
+      "key": "infomatrix-world-mechatronics",
+      "url": "https://infomatrix.ro/categories/mechatronics.html",
+      "checked_at": "2026-11-06T15:06:43.202403+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/mechatronics.html",
+      "content_type": "text/html",
+      "bytes": 30440,
+      "sha256": "68d05b0888a348d1412a5ca9f4066eb0e9e2210db22e6028c1f94bb6aa5cfd50"
+    },
+    {
+      "key": "infomatrix-world-mini-sumo",
+      "url": "https://infomatrix.ro/categories/mini-sumo.html",
+      "checked_at": "2026-11-06T15:06:43.275280+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/mini-sumo.html",
+      "content_type": "text/html",
+      "bytes": 25172,
+      "sha256": "b44aa771b47644421a60c48f5a83c1c4f6c2d14cebf96b412045d05df07088f7"
+    },
+    {
+      "key": "infomatrix-world-software-development",
+      "url": "https://infomatrix.ro/categories/software-development.html",
+      "checked_at": "2026-11-06T15:06:43.275670+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/categories/software-development.html",
+      "content_type": "text/html",
+      "bytes": 28621,
+      "sha256": "6e38706abc9a5d05e15d1798d20b484a386a5f96fd44275450afcd3266d8aa93"
+    },
+    {
+      "key": "infomatrix-world-awards",
+      "url": "https://infomatrix.ro/guide/awards.html",
+      "checked_at": "2026-11-06T15:06:44.017564+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/guide/awards.html",
+      "content_type": "text/html",
+      "bytes": 23860,
+      "sha256": "21b76550efa133ad9eef7e14b4518be0897141075a3d1d357df37c79da6c344a"
+    },
+    {
+      "key": "infomatrix-world-evaluation-rubrics",
+      "url": "https://infomatrix.ro/guide/evaluation-rubrics.html",
+      "checked_at": "2026-11-06T15:06:44.025444+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/guide/evaluation-rubrics.html",
+      "content_type": "text/html",
+      "bytes": 33399,
+      "sha256": "980481050bcc20bc6dee1d82492b98ccc348760a0353f7b9414be30fc9b8214a"
+    },
+    {
+      "key": "infomatrix-world-regulations",
+      "url": "https://infomatrix.ro/guide/regulations.html",
+      "checked_at": "2026-11-06T15:06:44.051365+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.ro/guide/regulations.html",
+      "content_type": "text/html",
+      "bytes": 25644,
+      "sha256": "34c8e1afc96893f6b879f9bbf7d17cd35ba5828cd59df2f223547bffbe18e2f6"
+    },
+    {
+      "key": "ukraine-travel-official",
+      "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+      "checked_at": "2026-11-06T15:06:44.076452+00:00",
+      "status": 200,
+      "final_url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 103251,
+      "sha256": "1e34a15398885e824fec45184349500cbddbfb5392e0e66796c4332a17e5aec4"
+    },
+    {
+      "key": "fll-ukr-start-challenge",
+      "url": "http://firstlegoleague.org.ua/treneram-fll/",
+      "checked_at": "2026-11-06T15:06:44.136323+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/treneram-fll/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 121737,
+      "sha256": "968d82ccac16cb901a256f4722425765caa919d9a18d8df5a93d38453496a8cd"
+    },
+    {
+      "key": "fll-ukr-start-explore",
+      "url": "http://firstlegoleague.org.ua/treneram-junior-fll/",
+      "checked_at": "2026-11-06T15:06:44.788803+00:00",
+      "status": 200,
+      "final_url": "http://firstlegoleague.org.ua/treneram-junior-fll/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 103442,
+      "sha256": "c2472b302db564e4b379dedf800aeb52ae6d44a948d383994e3f7908ad17534f"
+    },
+    {
+      "key": "infomatrix-mexico-national-2027",
+      "url": "https://infomatrix.lat/nacionalmexico/",
+      "checked_at": "2026-11-06T15:10:36.512865+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.lat/nacionalmexico/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 218664,
+      "sha256": "e60cc9af944cbd2612d30921e01f51137a10c8695feb81e34f75f964b6264d05"
+    },
+    {
+      "key": "infomatrix-iberoamerica-2027",
+      "url": "https://infomatrix.lat/iberoamericana/",
+      "checked_at": "2026-11-06T15:10:36.513266+00:00",
+      "status": 200,
+      "final_url": "https://infomatrix.lat/iberoamericana/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 212563,
+      "sha256": "f6db256255ed7ba2d88d29b9d983fc577f46452b9690f7e26f40fe473dc2f3d2"
+    },
+    {
+      "key": "bigfish-ukraine-public-offer",
+      "url": "https://drive.google.com/file/d/1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2/view?usp=drive_link",
+      "checked_at": "2026-11-06T15:27:29.076516+00:00",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2/view?usp=drive_link",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 91380,
+      "sha256": "6cbbfcb52e620a4145c7aedc311bac3c628f5553920dad66a29af3eabc2cef01"
+    },
+    {
+      "key": "bigfish-public-offer-pdf",
+      "url": "https://drive.usercontent.google.com/uc?id=1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2&export=download",
+      "checked_at": "2026-11-06T15:28:01.667007+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2&export=download",
+      "content_type": "application/octet-stream",
+      "bytes": 222283,
+      "sha256": "57bd3b469d3c62ff3afac6b2bf2242fafc6c10e6846e88f8b19dfe669826a018"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_or_organizer_contacts": true,
+  "raw_source_bodies_private": true,
+  "public_JS_read_statically_not_executed": true,
+  "offer_financial_identifiers_not_exported": true
+}

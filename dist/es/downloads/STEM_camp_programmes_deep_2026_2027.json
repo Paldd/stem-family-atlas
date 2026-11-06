@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1459,
-    "countries": 82,
+    "dossiers": 1468,
+    "countries": 84,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
-      "partial_2027": 127,
-      "next_unannounced": 310,
+      "partial_2027": 129,
+      "next_unannounced": 316,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -45,9 +45,10 @@
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
-      "announced_dates_programme_pending": 1
+      "announced_dates_programme_pending": 1,
+      "confirmed_2027": 1
     },
-    "source_urls": 2119
+    "source_urls": 2132
   },
   "countries": [
     {
@@ -56,7 +57,7 @@
     },
     {
       "country": "Austria",
-      "count": 3
+      "count": 4
     },
     {
       "country": "Argelia",
@@ -132,7 +133,7 @@
     },
     {
       "country": "Grecia",
-      "count": 2
+      "count": 3
     },
     {
       "country": "Dinamarca",
@@ -268,7 +269,7 @@
     },
     {
       "country": "Portugal",
-      "count": 4
+      "count": 5
     },
     {
       "country": "Puerto Rico",
@@ -291,6 +292,10 @@
       "count": 154
     },
     {
+      "country": "Tayikistán",
+      "count": 4
+    },
+    {
       "country": "Tailandia",
       "count": 11
     },
@@ -309,6 +314,10 @@
     {
       "country": "Uganda",
       "count": 3
+    },
+    {
+      "country": "Ucrania",
+      "count": 2
     },
     {
       "country": "Uruguay",
@@ -230847,6 +230856,719 @@
       ],
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1460",
+      "slug": "liga-tajik-robotics",
+      "provider": "Liga Robotov Tayikistán · robótica",
+      "iso": "TJK",
+      "country": "Tayikistán",
+      "place": "Dushanbe / Khujand; confirmar sede concreta",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–17",
+      "programme": "Robótica regular 6–17 y construcción 5–6 anunciadas por separado. Para 6 años confirmar nivel. Página incluye Perm y deducción 13%; plantilla de red, no factura tayika. Prueba figura de pago, FAQ describe descuentos / regalo sujeto a condiciones. Página rusa no acredita idioma del docente concreto.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TJS",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Liga · local school and FAQ",
+          "url": "https://ligarobotov.tj/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1461",
+      "slug": "liga-tajik-preschool",
+      "provider": "Liga Robotov Tayikistán · construcción preescolar",
+      "iso": "TJK",
+      "country": "Tayikistán",
+      "place": "Dushanbe / Khujand; confirmar sede concreta",
+      "themes": [
+        "robotics",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "5–6",
+      "programme": "Robótica regular 6–17 y construcción 5–6 anunciadas por separado. Para 6 años confirmar nivel. Página incluye Perm y deducción 13%; plantilla de red, no factura tayika. Prueba figura de pago, FAQ describe descuentos / regalo sujeto a condiciones. Página rusa no acredita idioma del docente concreto.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TJS",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Ahora 9 años; intervalo publicado 5–6. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 5–6. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Liga · local school and FAQ",
+          "url": "https://ligarobotov.tj/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1462",
+      "slug": "liga-tajik-holidays",
+      "provider": "Liga Robotov Tayikistán · programas vacacionales",
+      "iso": "TJK",
+      "country": "Tayikistán",
+      "place": "Tayikistán",
+      "themes": [
+        "robotics",
+        "gaming",
+        "general"
+      ],
+      "formats": [
+        "day",
+        "boarding"
+      ],
+      "age": "Edad de siguiente turno sin publicar",
+      "programme": "Publicaciones 552 / 553 del 19 / 27 de octubre de 2026: campamento 2–6 de noviembre, 5 días TJS 1000 o 1 día TJS 250. Primera publicación indica con / sin pernocta y 5 comidas. Turno nuevo sin anunciar. Mensaje anterior sobre 3–7 de noviembre corresponde a 2025, no a 2026. Edad del grupo nuevo desconocida.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Archivo 2–6 de noviembre de 2026; inscripción siguiente sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "TJS",
+        "amount": 1000,
+        "unit": "unconfirmed",
+        "label": "TJS 1000 por 5 días o TJS 250 por 1 día en 2026; precio 2027 desconocido.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Pernoctas anunciadas para archivo 2026; número de noches, dirección y cuidado nocturno sin establecer aparte.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Liga · dated public posts",
+          "url": "https://t.me/s/ligarobotovdushanbe",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Camp post 2026",
+          "url": "https://t.me/ligarobotovdushanbe/552",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_seasons": [
+        {
+          "year": 2026,
+          "start": "2026-11-02",
+          "end": "2026-11-06",
+          "source": "https://t.me/ligarobotovdushanbe/552"
+        }
+      ],
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1463",
+      "slug": "navovar-ai-dushanbe",
+      "provider": "NAVOVAR AI · four-year programme",
+      "iso": "TJK",
+      "country": "Tayikistán",
+      "place": "Dushanbe · Rudaki Avenue 57",
+      "themes": [
+        "ai",
+        "coding",
+        "technology"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Admisión en curso 8",
+      "programme": "Programa dirigido 2026–2030: admisión estricta en curso 8 con pruebas, no desde 8 años. Tres clases semanales 15:00–17:00; Python, ML, matemáticas y proyecto AI. Contenidos de cursos 5–11 no amplían regla de admisión. Nombre institucional TG / RU / EN en estatuto no acredita idioma lectivo. Vínculo con socio WRO Navovar sin establecer.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "TJS",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "NAVOVAR AI · programme and admission gate",
+          "url": "https://navovar-ai.tj/en/index.html",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1464",
+      "slug": "big-fish-ukraine-juniors",
+      "provider": "Big Fish Ukraine · Juniors",
+      "iso": "UKR",
+      "country": "Ucrania",
+      "place": "Mygove · Carpathians",
+      "themes": [
+        "ai",
+        "gaming",
+        "coding",
+        "general"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "7–12; Seniors 12+ por separado",
+      "programme": "Verano 2027 anunciado sin días ni precio. Dos áreas de proyecto: AI, juegos, diseño, medios / emprendimiento, Demo Day final. Productos de ejemplo corresponden a 2026. Inglés diario en equipos, presentaciones y conversación; idioma de todas las clases técnicas sin confirmar aparte. Juniors 7–12, Seniors 12+; 12 años se solapan.",
+      "language": "EN en vida del campamento y comunicación de proyectos; curso técnico íntegro EN sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "camp_life_projects",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "included": "Operador incluye alojamiento, 4 comidas, materiales de labs, English, Demo Day, apoyo médico y seguro; póliza concreta sin verificar.",
+        "extras": "Premium añade inglés con nativos y prueba vocacional; tarifas 2027 aún sin anunciar.",
+        "deposit": "Oferta pública ucraniana: punto 9.10 describe reembolso completo al cancelar al menos 30 días calendario antes del inicio del programa; punto 9.11 remite a condiciones del programa para cancelación posterior. Confirmar aplicación al turno nuevo; no trasladar condiciones a campamentos internacionales."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 7–12. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "En 2027 edad 6–7; exige mínimo 7 en fecha requerida por operador. Sin cumpleaños y turno admisión sin establecer."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial."
+      ],
+      "sources": [
+        {
+          "title": "Big Fish · Ukraine 2027",
+          "url": "https://bigfish.careers/en/camps/ukraine",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Operator and camp terms",
+          "url": "https://bigfish.careers/en/terms",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Official current travel context",
+          "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Ukraine public offer linked by operator",
+          "url": "https://drive.google.com/file/d/1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2/view?usp=drive_link",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "confirmed_support_languages": [
+        "EN"
+      ],
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1465",
+      "slug": "big-fish-austria-winter-2027",
+      "provider": "Dream Winter Camp Austria",
+      "iso": "AUT",
+      "country": "Austria",
+      "place": "Kyiv → Vienna → Mariazell → Kyiv",
+      "themes": [
+        "general",
+        "adventure",
+        "culture"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "11+",
+      "programme": "2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "confirmed_2027",
+        "label": "2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.",
+        "sessions": [
+          [
+            "2027-01-02",
+            "2027-01-11"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-01-02",
+            "end": "2027-01-11",
+            "label": "Ruta grupal de invierno · 10 días",
+            "source": "https://bigfish.careers/en/camps/austria",
+            "place": "Kyiv → Vienna → Mariazell → Kyiv",
+            "formats": [
+              "boarding"
+            ],
+            "price": "EUR 2350 es precio publicado de ruta; confirmar unidad e invoice final. Reserva anticipada terminó el 1 de noviembre.",
+            "date_precision": "exact",
+            "date_scope": "camp_session",
+            "entry": "2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.",
+            "variant_key": "austria-winter-route-2027",
+            "family_fit": {
+              "matvey": {
+                "status": "later",
+                "detail": "Mínimo 11 años; ambos niños menores también en enero de 2027."
+              },
+              "oscar": {
+                "status": "later",
+                "detail": "Mínimo 11 años; ambos niños menores también en enero de 2027."
+              }
+            }
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": 2350,
+        "unit": "unconfirmed",
+        "label": "EUR 2350 es precio publicado de ruta; confirmar unidad e invoice final. Reserva anticipada terminó el 1 de noviembre.",
+        "included": "Transporte de ruta publicada, hoteles, comidas, museos y programa universitario.",
+        "extras": "Ski school, equipment y ski pass aparte; vuelo desde Costa Rica sin anunciar como incluido.",
+        "deposit": "Calendario de pago / cancelación se entrega individualmente antes de pagar; reembolso de prueba vocacional no es condición de campamento."
+      },
+      "accommodation": "Hoteles de ruta, todas las comidas según descripción; confirmar habitación y cuidado nocturno en contrato.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Mínimo 11 años; ambos niños menores también en enero de 2027."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Mínimo 11 años; ambos niños menores también en enero de 2027."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial."
+      ],
+      "sources": [
+        {
+          "title": "Big Fish · Austria itinerary / price",
+          "url": "https://bigfish.careers/en/camps/austria",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "International camp booking terms",
+          "url": "https://bigfish.careers/en/terms",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Travel context for Kyiv departure",
+          "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-01-02",
+          "end": "2027-01-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1465-20270102-20270111-austria-winter-route-2027"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1466",
+      "slug": "big-fish-portugal",
+      "provider": "Big Fish Camp · Portugal",
+      "iso": "PRT",
+      "country": "Portugal",
+      "place": "Porto / Caminha",
+      "themes": [
+        "general",
+        "adventure",
+        "culture"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17",
+      "programme": "Verano 2027 anunciado sin fechas ni precio. Viajes, actividades de equipo y deporte. Turno anterior 2026 costó EUR 2400 promocionales frente a EUR 2600; no es precio 2027. Vuelos y traslado grupal desde Kyiv antes se pagaban aparte. Idioma completo de turno nuevo desconocido.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Verano 2027: días y meses exactos del turno sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 2400,
+        "unit": "unconfirmed",
+        "label": "EUR 2400 es promoción 2026, normal EUR 2600; precio nuevo 2027 sin anunciar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "Turno anterior incluía 5 días de surfing con instructores anglófonos; no confirma idioma de todo el turno 2027."
+      ],
+      "sources": [
+        {
+          "title": "Big Fish · country camp",
+          "url": "https://bigfish.careers/en/camps/portugal",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "International camp booking terms",
+          "url": "https://bigfish.careers/en/terms",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_seasons": [
+        {
+          "year": 2026,
+          "start": "2026-07-01",
+          "end": "2026-07-12",
+          "source": "https://bigfish.careers/en/camps/portugal"
+        }
+      ],
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1467",
+      "slug": "big-fish-greece",
+      "provider": "Big Fish Camp · Greece",
+      "iso": "GRC",
+      "country": "Grecia",
+      "place": "Athens / Crete",
+      "themes": [
+        "general",
+        "adventure",
+        "culture"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–17",
+      "programme": "Verano 2027 anunciado sin fechas ni precio. Viajes, actividades de equipo y deporte. Turno anterior 2026 costó EUR 2400 promocionales frente a EUR 2600; no es precio 2027. Vuelos y traslado grupal desde Kyiv antes se pagaban aparte. Idioma completo de turno nuevo desconocido.",
+      "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "partial_2027",
+        "label": "Verano 2027: días y meses exactos del turno sin anunciar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 2400,
+        "unit": "unconfirmed",
+        "label": "EUR 2400 es promoción 2026, normal EUR 2600; precio nuevo 2027 sin anunciar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Big Fish · country camp",
+          "url": "https://bigfish.careers/en/camps/greece",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "International camp booking terms",
+          "url": "https://bigfish.careers/en/terms",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_seasons": [
+        {
+          "year": 2026,
+          "start": "2026-07-14",
+          "end": "2026-07-25",
+          "source": "https://bigfish.careers/en/camps/greece"
+        }
+      ],
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1468",
+      "slug": "code-for-ukraine",
+      "provider": "Code for Ukraine · camps and year-long programme",
+      "iso": "UKR",
+      "country": "Ucrania",
+      "place": "Lviv / UCU + online",
+      "themes": [
+        "coding",
+        "technology",
+        "entrepreneurship"
+      ],
+      "formats": [
+        "online",
+        "unknown"
+      ],
+      "age": "14–17 AND ingreso en curso 10 / 11",
+      "programme": "Programa dirigido a escolares ucranianos de 14–17 de comunidades afectadas / vulnerables, que entran en curso 10 u 11. Dura 12 meses: campamentos, sesiones en línea e innovation residency final. Inscripción Summer 2027 aún no abierta; FAQ antiguo todavía dice 2026. Gratuidad, portátil, alojamiento y gastos finales sin publicar.",
+      "language": "Programa declarado expresamente en EN; nivel básico suficiente, asistentes locales ayudan con traducción.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Fechas nuevas, plazas y factura final sin confirmar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "",
+        "amount": null,
+        "unit": "unconfirmed",
+        "label": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "included": "",
+        "extras": "Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "not_eligible",
+          "detail": "Actualmente menor de 14; además programa ucraniano escolar / social dirigido, no campamento turístico abierto."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Actualmente menor de 14; además programa ucraniano escolar / social dirigido, no campamento turístico abierto."
+        }
+      },
+      "editorial_reason": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial."
+      ],
+      "sources": [
+        {
+          "title": "Code for Ukraine · eligibility and English FAQ",
+          "url": "https://www.codeforukraine.org/apply",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Code for Ukraine · targeted programme",
+          "url": "https://www.codeforukraine.org/our-program",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Official current travel context",
+          "url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "availability": {
+        "status": "not_open_yet",
+        "label": "Summer 2027: inscripción aún no abierta"
+      },
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -233558,6 +234280,22 @@
       "detail": "STEAM Campus confirma enriquecimiento lingüístico EN / ES, no curso técnico completo en esos idiomas. Edad exacta, entrada individual y turno nuevo sin anunciar; Numériklub en mantenimiento.",
       "next_action": "Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.",
       "url": "https://steamcampus.org/ateliers/"
+    },
+    {
+      "country": "Tayikistán",
+      "iso": "TJK",
+      "provider": "Local programmes and admission",
+      "detail": "NAVOVAR AI admite estrictamente curso 8. Vínculo con nombre parecido del socio WRO sin probar. Categorías / días WRO locales actuales e idioma docente EN / ES / RU requieren revisión.",
+      "next_action": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+      "url": "https://navovar-ai.tj/en/index.html"
+    },
+    {
+      "country": "Ucrania",
+      "iso": "UKR",
+      "provider": "Local programmes and admission",
+      "detail": "FLL usa edad al 1 de agosto del inicio de temporada; exige cumpleaños exactos, admisión externa e idioma. Fechas / precios nuevos de campamentos sin anunciar, con requisitos dirigidos y presenciales separados.",
+      "next_action": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+      "url": "http://firstlegoleague.org.ua/"
     }
   ],
   "shortlist": [
@@ -236132,7 +236870,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 184,
+  "version": 185,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -252746,6 +253484,11 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1465",
+      "event_id": "CP1465-20270102-20270111-austria-winter-route-2027",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -256215,10 +256958,11 @@
     "CP1437-20270320-20270320-evening-20270320",
     "CP1437-20270403-20270403-evening-20270403",
     "CP1437-20270417-20270417-evening-20270417",
-    "CP1437-20270501-20270501-evening-20270501"
+    "CP1437-20270501-20270501-evening-20270501",
+    "CP1465-20270102-20270111-austria-winter-route-2027"
   ],
   "integration": {
-    "generated_sessions": 3039,
+    "generated_sessions": 3040,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

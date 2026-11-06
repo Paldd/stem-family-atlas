@@ -1,5 +1,5 @@
 {
-  "version": 184,
+  "version": 185,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1404,6 +1404,33 @@
       "country": "Guadalupe",
       "age": "Collège",
       "note": "Premio regional Robotique First Guadeloupe; no campeonato de toda Francia ni mundial. Admisión escolar de niños de 6 / 9, EN / ES y residencia sin verificar aparte.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-SYNYTSIA",
+      "name": "Synytsia",
+      "kind": "team",
+      "country": "Ucrania",
+      "age": "FLL Challenge · colegio sin identificar",
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-TRIDENT",
+      "name": "Trident",
+      "kind": "team",
+      "country": "Ucrania",
+      "age": "FLL Challenge · colegio sin identificar",
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-NEVER-GIVE-UP",
+      "name": "NEVER GIVE UP",
+      "kind": "team",
+      "country": "Ucrania",
+      "age": "FLL Challenge · colegio sin identificar",
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
       "school_id": null
     }
   ],
@@ -4830,6 +4857,54 @@
       "team": "SJP BLOC",
       "team_id": null,
       "note": "Premio del jurado en festival Québec; no título mundial ni victoria en partidos de robots.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H215",
+      "entity_id": "UKR-SYNYTSIA",
+      "year": 2024,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "Final nacional · Ucrania · Poltava",
+      "award": "Puntuación máxima Robot Game",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2023-2024/",
+      "provenance": "organizer_report",
+      "team": "Synytsia",
+      "team_id": null,
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H216",
+      "entity_id": "UKR-TRIDENT",
+      "year": 2025,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "Final nacional · Ucrania · Pavlohrad",
+      "award": "Puntuación máxima Robot Game",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2024-2025/",
+      "provenance": "organizer_report",
+      "team": "Trident",
+      "team_id": null,
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H217",
+      "entity_id": "UKR-NEVER-GIVE-UP",
+      "year": 2026,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "Final nacional · Ucrania · Zymne",
+      "award": "Puntuación máxima Robot Game",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2025-2026/",
+      "provenance": "organizer_report",
+      "team": "NEVER GIVE UP",
+      "team_id": null,
+      "note": "Máxima puntuación nacional Robot Game; no título mundial ni prueba de colegio o admisión de menores. Fuente nombra equipo y ciudad; afiliación escolar sin establecer.",
       "checked": "2026-11-06"
     }
   ],

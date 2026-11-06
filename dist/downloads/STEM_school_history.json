@@ -1,5 +1,5 @@
 {
-  "version": 184,
+  "version": 185,
   "checked": "2026-11-06",
   "status": "partial",
   "period": [
@@ -1404,6 +1404,33 @@
       "country": "Гваделупа",
       "age": "Collège",
       "note": "Региональная награда Robotique First Guadeloupe; не чемпионство всей Франции или мира. Школьный приём детей 6 / 9, EN / ES и пансион отдельно не проверены.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-SYNYTSIA",
+      "name": "Синиця",
+      "kind": "team",
+      "country": "Украина",
+      "age": "FLL Challenge · school not identified",
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-TRIDENT",
+      "name": "Trident",
+      "kind": "team",
+      "country": "Украина",
+      "age": "FLL Challenge · school not identified",
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
+      "school_id": null
+    },
+    {
+      "id": "UKR-NEVER-GIVE-UP",
+      "name": "NEVER GIVE UP",
+      "kind": "team",
+      "country": "Украина",
+      "age": "FLL Challenge · school not identified",
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
       "school_id": null
     }
   ],
@@ -4830,6 +4857,54 @@
       "team": "SJP BLOC",
       "team_id": null,
       "note": "Награда жюри на фестивале Québec; не мировой титул и не победа в робот-матчах.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H215",
+      "entity_id": "UKR-SYNYTSIA",
+      "year": 2024,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "National Final · Ukraine · Poltava",
+      "award": "Highest Robot Game score",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2023-2024/",
+      "provenance": "organizer_report",
+      "team": "Синиця",
+      "team_id": null,
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H216",
+      "entity_id": "UKR-TRIDENT",
+      "year": 2025,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "National Final · Ukraine · Pavlohrad",
+      "award": "Highest Robot Game score",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2024-2025/",
+      "provenance": "organizer_report",
+      "team": "Trident",
+      "team_id": null,
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
+      "checked": "2026-11-06"
+    },
+    {
+      "id": "H217",
+      "entity_id": "UKR-NEVER-GIVE-UP",
+      "year": 2026,
+      "league": "FIRST LEGO League",
+      "category": "Challenge · Robot Game",
+      "stage": "National Final · Ukraine · Zymne",
+      "award": "Highest Robot Game score",
+      "level": "national_match",
+      "source": "http://firstlegoleague.org.ua/%d1%80%d0%b5%d0%b7%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d1%82%d0%b8-%d1%87%d0%b5%d0%bc%d0%bf%d1%96%d0%be%d0%bd%d0%b0%d1%82%d1%83-first-lego-league-2025-2026/",
+      "provenance": "organizer_report",
+      "team": "NEVER GIVE UP",
+      "team_id": null,
+      "note": "Национальный наивысший балл Robot Game; не мировой титул и не доказательство школы или её младшего приёма. Источник называет команду и город, школьная принадлежность не установлена.",
       "checked": "2026-11-06"
     }
   ],

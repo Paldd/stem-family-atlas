@@ -216,13 +216,13 @@ Se ha comprobado: 2026-11-05
 ### ~#C045 · Robomatrix / Infomatrix ○ Red internacional
 
 Fecha: 2026*27: nuevos productos específicos / acreditaciones
-edad: Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.
+edad: Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo.
 Matway: Condicional
 Óscar: Condicional
 Idioma: ES / EN en las finales
 Acceso: Elegir Infomatrix de proyectos o Robomatrix de robots; fases regionales y finales actuales separadas. Geografía, acreditación extranjera y derecho de siguiente fase se comprueban antes de pago.
 Costo: No publicado / Comprobar la edición actual
-Limitaciones: Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial.
+Limitaciones: Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial. Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo.
 Fuente: https://robomatrix.org/
 Se ha comprobado: 2026-11-05
 

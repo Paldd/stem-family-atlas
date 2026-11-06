@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 184,
+    "version": 185,
     "checked": "2026-11-06",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -1874,7 +1874,7 @@
         "id": "matrix",
         "name": "RoboMatrix / Infomatrix",
         "group": "international",
-        "age_summary": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
+        "age_summary": "Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo.",
         "age_tags": [
           "unknown"
         ],
@@ -1882,8 +1882,8 @@
         "categories": [
           {
             "name": "Robomatrix / Infomatrix  red internacional",
-            "age": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
-            "age_rule": "Infomatrix 5–25, hasta 3 alumnos; Robomatrix hasta 2 y categorías escolares. Concursos distintos de una red.",
+            "age": "Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo.",
+            "age_rule": "Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo.",
             "team": "Infomatrix hasta 3 / Robomatrix hasta 2 + asesor adulto",
             "hardware": "por el reglamento de la categoría",
             "event_id": "C045",
@@ -1969,7 +1969,8 @@
           "Mantener el resultado oficial: el nombre del paso, la categoría, el lugar / award, la composición del equipo y la referencia al protocolo."
         ],
         "nuances": [
-          "Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial."
+          "Acreditaciones internacionales actuales no garantizan admisión familiar ni equivalen a victoria en final mundial.",
+          "Infomatrix 5–25 y hasta 3 participantes corresponden a SOLACYT / LATAM; Robomatrix hasta 2 y categorías escolares. Infomatrix World Finals en Rumanía tiene reglas distintas de edad / etapa escolar y equipo."
         ],
         "cost": "presupuesto: kit / computadora, campo y detalles de temporada, registro, preparación, viaje y residencia. suma exacta  en la tarjeta de la etapa; no calculado para toda la liga.",
         "award": "Puesto o premio según los resultados oficiales",
@@ -1988,6 +1989,11 @@
             "url": "https://drive.google.com/file/d/10BTty6JLpHxooXhXKXwx7OQOeY6KulVI/view",
             "title": "Fuente actual verificada / archivo señalado explícitamente",
             "checked": "2026-11-05"
+          },
+          {
+            "title": "World Finals · separate rule set",
+            "url": "https://infomatrix.ro/guide/regulations.html",
+            "checked": "2026-11-06"
           }
         ],
         "evidence": "una revisión de las tarjetas verificadas anteriormente; las limitaciones de cada plataforma se han conservado."
@@ -14325,6 +14331,301 @@
         "evidence": "Maratón escolar de creación de juego: 2–3 alumnos, seis horas, Scratch o Python / Pyxel. Admitidos colegios franceses y francófonos de cualquier país. Categoría menor Scratch CM1–6e; exige curso real y participación del colegio. 9 años por sí solos no sustituyen CM1; grupo menor para Oscar sin confirmar. Equipo familiar sin colegio no es vía anunciada de inscripción."
       },
       {
+        "id": "fll-ukraine-local",
+        "name": "FIRST LEGO League Ukraine",
+        "group": "regional",
+        "age_summary": "4–6 / 6–10 / 9–16; cutoff 1 August",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Edad y mayoría de edad del entrenador se calculan al 1 de agosto del inicio de temporada; BIOGLOW 2026/27 corresponde al 1 de agosto de 2026. Challenge: 9–16 años, 2–10 niños, 1–2 entrenadores 18+; Explore: 6–10, 2–6 y 1 entrenador; Discover: 4–6, exactamente 4 niños y 1 entrenador. Exige inscripción, cuota y documentos de edad; participación en un solo equipo. Días, tarifas, cupo y admisión familiar externa actuales sin anunciar.",
+        "categories": [],
+        "event_ids": [
+          "C1938",
+          "C1939",
+          "C1940",
+          "C1943"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "hardware": "",
+        "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Edad y mayoría de edad del entrenador se calculan al 1 de agosto del inicio de temporada; BIOGLOW 2026/27 corresponde al 1 de agosto de 2026. Challenge: 9–16 años, 2–10 niños, 1–2 entrenadores 18+; Explore: 6–10, 2–6 y 1 entrenador; Discover: 4–6, exactamente 4 niños y 1 entrenador. Exige inscripción, cuota y documentos de edad; participación en un solo equipo. Días, tarifas, cupo y admisión familiar externa actuales sin anunciar.",
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte."
+        ],
+        "cost": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "award": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League Ukraine",
+            "url": "http://firstlegoleague.org.ua/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "FIRST LEGO League Ukraine",
+            "url": "http://firstlegoleague.org.ua/%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%b0-%d1%80%d0%b5%d1%94%d1%81%d1%82%d1%80%d0%b0%d1%86%d1%96%d1%97-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d0%b8-%d1%82%d0%b0-%d1%83%d1%87%d0%b0%d1%81%d1%82%d1%96/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Edad y mayoría de edad del entrenador se calculan al 1 de agosto del inicio de temporada; BIOGLOW 2026/27 corresponde al 1 de agosto de 2026. Challenge: 9–16 años, 2–10 niños, 1–2 entrenadores 18+; Explore: 6–10, 2–6 y 1 entrenador; Discover: 4–6, exactamente 4 niños y 1 entrenador. Exige inscripción, cuota y documentos de edad; participación en un solo equipo. Días, tarifas, cupo y admisión familiar externa actuales sin anunciar."
+      },
+      {
+        "id": "wro-ukraine-local",
+        "name": "WRO Ukraine",
+        "group": "regional",
+        "age_summary": "Reglas locales de próxima temporada por confirmar",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "categories": [],
+        "event_ids": [
+          "C1937"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "hardware": "",
+        "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte."
+        ],
+        "cost": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "award": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+        "sources": [
+          {
+            "title": "WRO Ukraine",
+            "url": "https://robotica.in.ua/site/wro.php",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "WRO Ukraine",
+            "url": "http://robotica.in.ua/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      },
+      {
+        "id": "infomatrix-world-finals",
+        "name": "Infomatrix World Finals · Romania",
+        "group": "international",
+        "age_summary": "7–18; Junior 7–14; Universidad 16+ + etapa escolar",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+        "categories": [
+          {
+            "name": "Software Development",
+            "age": "7–18; secundaria / bachillerato",
+            "team": "1–2",
+            "hardware": "Software / juego / aplicación",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/software-development.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Digital Storytelling",
+            "age": "7–18; secundaria / bachillerato",
+            "team": "1–2",
+            "hardware": "Medios digitales; declarar fuentes IA",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/digital-storytelling.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Mechatronics",
+            "age": "7–18; secundaria / bachillerato",
+            "team": "1–2",
+            "hardware": "Mecánica + electrónica + software",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/mechatronics.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Line Follower",
+            "age": "7–18; secundaria / bachillerato",
+            "team": "1–2",
+            "hardware": "25 × 30 cm; sin turbinas",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/line-follower.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Junior Line Follower",
+            "age": "7–14; requisito de etapa escolar",
+            "team": "1–2",
+            "hardware": "25 × 30 cm; LEGO / mBot / JoinMax",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/line-follower-juniors.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Mini Sumo",
+            "age": "7–18",
+            "team": "1–2",
+            "hardware": "10 × 10 cm; 500 g; arena 77 cm; 3 min",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/mini-sumo.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "LEGO Sumo",
+            "age": "7–18",
+            "team": "1–2",
+            "hardware": "15 × 15 cm; 1 kg; LEGO; 3 min",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/lego-sumo.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Hackathon K-12",
+            "age": "7–18 AND colegio",
+            "team": "1–4 frente a máximo general 2",
+            "hardware": "24 h; desafío presencial",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/hackathon-high-schools.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "Hackathon University",
+            "age": "16+ AND universidad",
+            "team": "1–4 frente a máximo general 2",
+            "hardware": "24 h; exige matrícula universitaria",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/hackathon-universities.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "name": "CreAIthon",
+            "age": "7–18",
+            "team": "1–4 frente a máximo general 2",
+            "hardware": "~24 h; narrativa IA; modelos / prompts citados",
+            "age_rule": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+            "entry": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+            "source": "https://infomatrix.ro/categories/creaithon.html",
+            "checked": "2026-11-06"
+          }
+        ],
+        "event_ids": [
+          "C1941"
+        ],
+        "legacy_ids": [],
+        "route": "Lista oficial de socios incluye SOLACYT para Latin America y Kyiv Aviation Institute para Ucrania. Si país tiene socio, se rechazan proyectos externos directos; exige etapa local y solicitud validada por socio. Operador debe determinar país de presentación de familia con ciudadanía mexicana y base en Costa Rica. Nacional mexicano del 16–19 de junio de 2027 es posterior a ventana mundial anunciada del 27–31 de mayo: no prometer cupo automático al mismo ciclo.",
+        "hardware": "",
+        "language": "EN en etapa mundial; idioma local aparte.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno.",
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Web anuncia 27–31 de mayo de 2027, pero etiquetas diarias Wed / Thu / Fri / Sat / Sun corresponden a 2026. Página ucraniana indica otro inicio mundial: 28 de mayo. Días mundiales fuera de calendario exacto hasta conciliar. Publica apertura de inscripción el 1 de enero, plazo de proyectos el 15 de marzo y finalistas el 20 de marzo de 2027; confirmar aplicación a solicitud de socio aparte.",
+          "En Software Development, Digital Storytelling y Mechatronics todos reciben medalla; otras categorías como máximo 50%. Entre medallistas: Platinum 10%, Gold 20%, Silver 30%, Bronze 40%; todos reciben certificado de participación. Por tanto medalla no implica primer puesto único."
+        ],
+        "cost": "Inscripción del proyecto: EUR 50, Romania / partner organizations EUR 5; no reembolsable. Para finalistas admitidos aparte: alumno EUR 200 / Romania o sponsor EUR 150; supervisor EUR 125 / sponsor EUR 100; guest EUR 200 / Romania o sponsor EUR 150. Partner y sponsor son bases distintas de descuento. Cuota cubre gastos organizativos; alojamiento, comidas, viaje y factura familiar completa sin confirmar.",
+        "award": "En Software Development, Digital Storytelling y Mechatronics todos reciben medalla; otras categorías como máximo 50%. Entre medallistas: Platinum 10%, Gold 20%, Silver 30%, Bronze 40%; todos reciben certificado de participación. Por tanto medalla no implica primer puesto único.",
+        "sources": [
+          {
+            "title": "Infomatrix World Finals · Romania",
+            "url": "https://infomatrix.ro/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Infomatrix World Finals · Romania",
+            "url": "https://infomatrix.ro/guide/regulations.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Infomatrix World Finals · Romania",
+            "url": "https://infomatrix.ro/guide/awards.html",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Infomatrix World Finals · Romania",
+            "url": "https://infomatrix-ukraine.com/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Mayoría de páginas de categorías: 7–18 años; Junior Line Follower 7–14, University 16+ y universidad real. Varias páginas exigen además secondary / high school: mínimo numérico 7 no elimina etapa escolar. Matvey necesita track acordado; Oscar en 2027 tendrá 6–7, exige cumpleaños y fecha de corte. Normalmente 1–2 alumnos, Hackathon / CreAIthon hasta 4 según páginas y FAQ; reglamento general aún dice máximo 2. Supervisor es rol separado mayor de 18, no cuenta como alumno."
+      },
+      {
+        "id": "infomatrix-ukraine-local",
+        "name": "Infomatrix Ukraine",
+        "group": "regional",
+        "age_summary": "Confirmar categoría 2027",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "categories": [],
+        "event_ids": [
+          "C1942"
+        ],
+        "legacy_ids": [],
+        "route": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+        "hardware": "",
+        "language": "Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.",
+          "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte."
+        ],
+        "cost": "Fechas nuevas, plazas y precio final sin confirmar.",
+        "award": "Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.",
+        "sources": [
+          {
+            "title": "Infomatrix Ukraine",
+            "url": "https://infomatrix-ukraine.com/",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Infomatrix Ukraine",
+            "url": "https://infomatrix.ro/",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -19626,7 +19927,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "226 perfiles de ligas, familias y programas; las 46 rutas anteriores se conservan. Formatos brasileños separados; Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "230 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados; Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

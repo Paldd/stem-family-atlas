@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5816,
-    "competition_cards": 1935,
-    "event_cards": 262,
-    "camp_cards": 3619,
-    "league_profiles": 226,
-    "major_exhibition_cards": 170,
+    "cards": 5834,
+    "competition_cards": 1942,
+    "event_cards": 264,
+    "camp_cards": 3628,
+    "league_profiles": 230,
+    "major_exhibition_cards": 172,
     "vex_cards": 518,
-    "countries_with_records": 133,
+    "countries_with_records": 135,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1695,
-      "countries_with_records": 41,
-      "competitions": 376,
-      "events": 73,
-      "major_exhibitions": 52,
-      "camps": 1246,
+      "total": 1709,
+      "countries_with_records": 42,
+      "competitions": 383,
+      "events": 75,
+      "major_exhibitions": 54,
+      "camps": 1251,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -90,12 +90,12 @@
       "regions": [
         "Asia"
       ],
-      "total": 1694,
-      "countries_with_records": 36,
+      "total": 1698,
+      "countries_with_records": 37,
       "competitions": 528,
       "events": 83,
       "major_exhibitions": 71,
-      "camps": 1083,
+      "camps": 1087,
       "status": "Se ha estudiado parcialmente",
       "remaining": "se han añadido India camp candidates y las primeras rutas de Pakistán / Bangladesh / Sri Lanka. no todos los nacionales calificados, las lenguas y la admisión extranjera están cerrados; otros países asiáticos han sido parcialmente investigados."
     },
@@ -3942,6 +3942,65 @@
       "new": false
     },
     {
+      "id": "fll-ukraine-local",
+      "name": "FIRST LEGO League Ukraine",
+      "group": "regional",
+      "event_ids": [
+        "C1938",
+        "C1939",
+        "C1940",
+        "C1943"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "http://firstlegoleague.org.ua/",
+      "new": false
+    },
+    {
+      "id": "wro-ukraine-local",
+      "name": "WRO Ukraine",
+      "group": "regional",
+      "event_ids": [
+        "C1937"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://robotica.in.ua/site/wro.php",
+      "new": false
+    },
+    {
+      "id": "infomatrix-world-finals",
+      "name": "Infomatrix World Finals · Romania",
+      "group": "international",
+      "event_ids": [
+        "C1941"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://infomatrix.ro/",
+      "new": false
+    },
+    {
+      "id": "infomatrix-ukraine-local",
+      "name": "Infomatrix Ukraine",
+      "group": "regional",
+      "event_ids": [
+        "C1942"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://infomatrix-ukraine.com/",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · programa de ingeniería y showcase",
       "group": "regional",
@@ -6939,6 +6998,28 @@
       "new": false
     },
     {
+      "id": "E263",
+      "name": "Infomatrix World Finals · public exhibition watch",
+      "country": "Rumanía",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://infomatrix.ro/",
+      "new": false
+    },
+    {
+      "id": "E264",
+      "name": "ROBOTICA + ROBOFIRST Ukraine · next festival watch",
+      "country": "Ucrania",
+      "region": "Europa",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "http://robotica.in.ua/",
+      "new": false
+    },
+    {
       "id": "E240",
       "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
       "country": "Polonia",
@@ -9213,20 +9294,20 @@
       }
     ],
     "counts": {
-      "records": 3619,
-      "holiday": 3394,
+      "records": 3628,
+      "holiday": 3395,
       "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 980,
-      "en_es_instruction": 1039,
+      "boarding": 981,
+      "en_es_instruction": 1040,
       "en_es_support": 12,
-      "family_instruction": 1039,
+      "family_instruction": 1040,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
-      "camp_life_language": 225,
+      "camp_life_language": 226,
       "language_unclassified": 119,
-      "countries": 89
+      "countries": 91
     },
     "validation": {
       "version": 51,

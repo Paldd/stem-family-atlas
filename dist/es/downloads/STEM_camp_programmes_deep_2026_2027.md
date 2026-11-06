@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de la base: 2026-11-06. 1459 fichas en 82 países. Fechas de verificación de cada fuente indicadas en cada ficha.
+Estado de la base: 2026-11-06. 1468 fichas en 84 países. Fechas de comprobación de cada fuente indicadas en cada ficha.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -104998,6 +104998,378 @@ Martinica · Martinica
 
 - [STEAM Campus · school report 2026](https://steamcampus.org/2026/06/30/ateliers-numeriques-pour-les-ecoliers-du-lamentin/) · 2026-11-06
 
+## CP1460 · Liga Robotov Tayikistán · robótica
+
+Tayikistán · Dushanbe / Khujand; confirmar sede concreta
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 6–17
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Robótica regular 6–17 y construcción 5–6 anunciadas por separado. Para 6 años confirmar nivel. Página incluye Perm y deducción 13%; plantilla de red, no factura tayika. Prueba figura de pago, FAQ describe descuentos / regalo sujeto a condiciones. Página rusa no acredita idioma del docente concreto.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Liga · local school and FAQ](https://ligarobotov.tj/) · 2026-11-06
+
+## CP1461 · Liga Robotov Tayikistán · construcción preescolar
+
+Tayikistán · Dushanbe / Khujand; confirmar sede concreta
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 5–6
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Robótica regular 6–17 y construcción 5–6 anunciadas por separado. Para 6 años confirmar nivel. Página incluye Perm y deducción 13%; plantilla de red, no factura tayika. Prueba figura de pago, FAQ describe descuentos / regalo sujeto a condiciones. Página rusa no acredita idioma del docente concreto.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 5–6. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 5–6. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Liga · local school and FAQ](https://ligarobotov.tj/) · 2026-11-06
+
+## CP1462 · Liga Robotov Tayikistán · programas vacacionales
+
+Tayikistán · Tayikistán
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Edad de siguiente turno sin publicar
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Publicaciones 552 / 553 del 19 / 27 de octubre de 2026: campamento 2–6 de noviembre, 5 días TJS 1000 o 1 día TJS 250. Primera publicación indica con / sin pernocta y 5 comidas. Turno nuevo sin anunciar. Mensaje anterior sobre 3–7 de noviembre corresponde a 2025, no a 2026. Edad del grupo nuevo desconocida.
+
+**Alojamiento:** Pernoctas anunciadas para archivo 2026; número de noches, dirección y cuidado nocturno sin establecer aparte.
+
+**Fechas / estado:** Archivo 2–6 de noviembre de 2026; inscripción siguiente sin anunciar.
+
+**Precio / año:** 2026 · TJS 1000 por 5 días o TJS 250 por 1 día en 2026; precio 2027 desconocido.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Liga · dated public posts](https://t.me/s/ligarobotovdushanbe) · 2026-11-06
+
+- [Camp post 2026](https://t.me/ligarobotovdushanbe/552) · 2026-11-06
+
+## CP1463 · NAVOVAR AI · four-year programme
+
+Tayikistán · Dushanbe · Rudaki Avenue 57
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Grade 8 admission
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Programa dirigido 2026–2030: admisión estricta en curso 8 con pruebas, no desde 8 años. Tres clases semanales 15:00–17:00; Python, ML, matemáticas y proyecto AI. Contenidos de cursos 5–11 no amplían regla de admisión. Nombre institucional TG / RU / EN en estatuto no acredita idioma lectivo. Vínculo con socio WRO Navovar sin establecer.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Oscar:** Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [NAVOVAR AI · programme and admission gate](https://navovar-ai.tj/en/index.html) · 2026-11-06
+
+## CP1464 · Big Fish Ukraine · Juniors
+
+Ucrania · Mygove · Carpathians
+
+**Se ha comprobado:** 2026-11-06
+
+* Edad:** 7*12; Seniors 12+ separately
+
+**Idioma:** EN en vida del campamento y comunicación de proyectos; curso técnico íntegro EN sin confirmar.
+
+**Programa:** Verano 2027 anunciado sin días ni precio. Dos áreas de proyecto: AI, juegos, diseño, medios / emprendimiento, Demo Day final. Productos de ejemplo corresponden a 2026. Inglés diario en equipos, presentaciones y conversación; idioma de todas las clases técnicas sin confirmar aparte. Juniors 7–12, Seniors 12+; 12 años se solapan.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin confirmar.
+
+**Incluido:** Operador incluye alojamiento, 4 comidas, materiales de labs, English, Demo Day, apoyo médico y seguro; póliza concreta sin verificar.
+
+**Suplementos:** Premium añade inglés con nativos y prueba vocacional; tarifas 2027 aún sin anunciar.
+
+**Pago:** Oferta pública ucraniana: punto 9.10 describe reembolso completo al cancelar al menos 30 días calendario antes del inicio del programa; punto 9.11 remite a condiciones del programa para cancelación posterior. Confirmar aplicación al turno nuevo; no trasladar condiciones a campamentos internacionales.
+
+**Matvey:** Ahora 9 años; intervalo publicado 7–12. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** En 2027 edad 6–7; exige mínimo 7 en fecha requerida por operador. Sin cumpleaños y turno admisión sin establecer.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+- Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial.
+
+### Fuentes
+
+- [Big Fish · Ukraine 2027](https://bigfish.careers/en/camps/ukraine) · 2026-11-06
+
+- [Operator and camp terms](https://bigfish.careers/en/terms) · 2026-11-06
+
+- [Official current travel context](https://www.gov.uk/foreign-travel-advice/ukraine) · 2026-11-06
+
+- [Ukraine public offer linked by operator](https://drive.google.com/file/d/1bTqNxOKa99LmbuojAAQ2xgOAVMc2Y2i2/view?usp=drive_link) · 2026-11-06
+
+## CP1465 · Dream Winter Camp Austria
+
+Austria · Kyiv → Vienna → Mariazell → Kyiv
+
+**Se ha comprobado:** 2026-11-06
+
+** Edad:** 11+
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** 2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.
+
+**Alojamiento:** Hoteles de ruta, todas las comidas según descripción; confirmar habitación y cuidado nocturno en contrato.
+
+**Fechas / estado:** 2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.
+
+**Precio / año:** 2027 · EUR 2350 es precio publicado de ruta; confirmar unidad e invoice final. Reserva anticipada terminó el 1 de noviembre.
+
+**Incluido:** Transporte de ruta publicada, hoteles, comidas, museos y programa universitario.
+
+**Suplementos:** Ski school, equipment y ski pass aparte; vuelo desde Costa Rica sin anunciar como incluido.
+
+**Pago:** Calendario de pago / cancelación se entrega individualmente antes de pagar; reembolso de prueba vocacional no es condición de campamento.
+
+**Matvey:** Mínimo 11 años; ambos niños menores también en enero de 2027.
+
+**Oscar:** Mínimo 11 años; ambos niños menores también en enero de 2027.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+- Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial.
+
+### Ruta grupal de invierno · 10 días
+
+**Fechas / estado:** 2027-01-02 — 2027-01-11
+
+**lugar:** Kyiv → Vienna → Mariazell → Kyiv
+
+**Precio:** EUR 2350 es precio publicado de ruta; confirmar unidad e invoice final. Reserva anticipada terminó el 1 de noviembre.
+
+**condiciones de participación:** 2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.
+
+**Matvey:** Mínimo 11 años; ambos niños menores también en enero de 2027.
+
+**Oscar:** Mínimo 11 años; ambos niños menores también en enero de 2027.
+
+[fuente](https://bigfish.careers/en/camps/austria)
+
+### Fuentes
+
+- [Big Fish · Austria itinerary / price](https://bigfish.careers/en/camps/austria) · 2026-11-06
+
+- [International camp booking terms](https://bigfish.careers/en/terms) · 2026-11-06
+
+- [Travel context for Kyiv departure](https://www.gov.uk/foreign-travel-advice/ukraine) · 2026-11-06
+
+## CP1466 · Big Fish Camp · Portugal
+
+Portugal · Porto / Caminha
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 9–17
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Verano 2027 anunciado sin fechas ni precio. Viajes, actividades de equipo y deporte. Turno anterior 2026 costó EUR 2400 promocionales frente a EUR 2600; no es precio 2027. Vuelos y traslado grupal desde Kyiv antes se pagaban aparte. Idioma completo de turno nuevo desconocido.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Verano 2027: días y meses exactos del turno sin anunciar.
+
+**Precio / año:** 2026 · EUR 2400 es promoción 2026, normal EUR 2600; precio nuevo 2027 sin anunciar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+- Turno anterior incluía 5 días de surfing con instructores anglófonos; no confirma idioma de todo el turno 2027.
+
+### Fuentes
+
+- [Big Fish · country camp](https://bigfish.careers/en/camps/portugal) · 2026-11-06
+
+- [International camp booking terms](https://bigfish.careers/en/terms) · 2026-11-06
+
+## CP1467 · Big Fish Camp · Greece
+
+Grecia · Athens / Crete
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 9–17
+
+**Idioma:** Idioma de web no acredita idioma docente ni de jueces. EN / ES / RU del grupo elegido sin confirmar.
+
+**Programa:** Verano 2027 anunciado sin fechas ni precio. Viajes, actividades de equipo y deporte. Turno anterior 2026 costó EUR 2400 promocionales frente a EUR 2600; no es precio 2027. Vuelos y traslado grupal desde Kyiv antes se pagaban aparte. Idioma completo de turno nuevo desconocido.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Verano 2027: días y meses exactos del turno sin anunciar.
+
+**Precio / año:** 2026 · EUR 2400 es promoción 2026, normal EUR 2600; precio nuevo 2027 sin anunciar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Oscar:** Ahora 6 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+### Fuentes
+
+- [Big Fish · country camp](https://bigfish.careers/en/camps/greece) · 2026-11-06
+
+- [International camp booking terms](https://bigfish.careers/en/terms) · 2026-11-06
+
+## CP1468 · Code for Ukraine · camps and year-long programme
+
+Ucrania · Lviv / UCU + online
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 14–17 AND entering Grade 10 / 11
+
+**Idioma:** Programa declarado expresamente en EN; nivel básico suficiente, asistentes locales ayudan con traducción.
+
+**Programa:** Programa dirigido a escolares ucranianos de 14–17 de comunidades afectadas / vulnerables, que entran en curso 10 u 11. Dura 12 meses: campamentos, sesiones en línea e innovation residency final. Inscripción Summer 2027 aún no abierta; FAQ antiguo todavía dice 2026. Gratuidad, portátil, alojamiento y gastos finales sin publicar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Precio / año:** sin establecer · Fechas nuevas, plazas y precio final sin confirmar.
+
+**Suplementos:** Alojamiento familiar, vuelos, traslados, seguro, material fuera de inclusiones e impuestos finales aparte; desconocido no equivale a cero.
+
+**Pago:** Fechas nuevas, plazas y factura final sin confirmar.
+
+**Matvey:** Actualmente menor de 14; además programa ucraniano escolar / social dirigido, no campamento turístico abierto.
+
+**Oscar:** Actualmente menor de 14; además programa ucraniano escolar / social dirigido, no campamento turístico abierto.
+
+**Motivo de selección:** Certificado de participación, nivel de medalla y primer puesto tienen significados distintos; nivel del resultado indicado aparte.
+
+### Antes de solicitar plaza
+
+- Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+- Recomendación FCDO comprobada el 6 de noviembre de 2026: para Kyiv desaconseja todo viaje; para regiones de Lviv y Chernivtsi desaconseja viajes no esenciales. Contexto actual de ruta presencial, no pronóstico para 2027 ni comprobación del derecho individual de entrada. Antes de plan presencial exige nueva revisión oficial.
+
+### Fuentes
+
+- [Code for Ukraine · eligibility and English FAQ](https://www.codeforukraine.org/apply) · 2026-11-06
+
+- [Code for Ukraine · targeted programme](https://www.codeforukraine.org/our-program) · 2026-11-06
+
+- [Official current travel context](https://www.gov.uk/foreign-travel-advice/ukraine) · 2026-11-06
+
 ## ~ Comprobaciones no cerradas
 
 ### EE.UU. / Canadá · Tamwood · La disponibilidad actual no está confirmada
@@ -107705,3 +108077,19 @@ STEAM Campus confirma enriquecimiento lingüístico EN / ES, no curso técnico c
 Confirmar temporada elegida, edad / curso, admisión de visitantes, idioma docente, plazas y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 
 https://steamcampus.org/ateliers/
+
+### Tayikistán · Local programmes and admission
+
+NAVOVAR AI admite estrictamente curso 8. Vínculo con nombre parecido del socio WRO sin probar. Categorías / días WRO locales actuales e idioma docente EN / ES / RU requieren revisión.
+
+Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+https://navovar-ai.tj/en/index.html
+
+### Ucrania · Local programmes and admission
+
+FLL usa edad al 1 de agosto del inicio de temporada; exige cumpleaños exactos, admisión externa e idioma. Fechas / precios nuevos de campamentos sin anunciar, con requisitos dirigidos y presenciales separados.
+
+Confirmar grupo concreto, edad en fecha pertinente / curso, admisión extranjera, idioma, plazas y factura final. Sin solicitudes, documentos enviados, consentimientos, mensajes ni pagos.
+
+http://firstlegoleague.org.ua/

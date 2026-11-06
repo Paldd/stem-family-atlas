@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5816; competiciones: 1935; eventos: 262; campamentos / programas: 3619. Perfiles de ligas y programas: 226. Fichas de exposiciones grandes y especializadas: 170 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5834; competiciones: 1942; eventos: 264; campamentos / programas: 3628. Perfiles de ligas y programas: 230. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 133 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
+Registros concretos para 135 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -16,14 +16,14 @@ Hay registros concretos para 133 de 249 países y territorios; países auditados
 |---|---:|---:|---:|---:|
 | América del Norte | 22 | 619 | 22 | 997 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 41 | 376 | 52 | 1246 |
+| Europa | 42 | 383 | 54 | 1251 |
 | África | 20 | 81 | 15 | 58 |
-| Asia | 36 | 528 | 71 | 1083 |
+| Asia | 37 | 528 | 71 | 1087 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin asignar a un solo continente: 81. América del Norte incluye Centroamérica y Caribe. Cifras indican inventario de base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1935 fichas de competiciones (26.8%). Es un desequilibrio claro de cobertura.
+VEX: 518 de 1942 fichas de competiciones (26.7%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -251,6 +251,10 @@ VEX: 518 de 1935 fichas de competiciones (26.8%). Es un desequilibrio claro de c
 - **Robotique First Martinique**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://site.ac-martinique.fr/technologie/decouvrir-la-robotique-first-martinique/
 - **FIRST Global · Antigua national pathway**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://first.global/2026-nations/antigua-and-barbuda-2026/
 - **Nuit du Code**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.nuitducode.net/
+- **FIRST LEGO League Ukraine**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. http://firstlegoleague.org.ua/
+- **WRO Ukraine**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotica.in.ua/site/wro.php
+- **Infomatrix World Finals · Romania**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://infomatrix.ro/
+- **Infomatrix Ukraine**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://infomatrix-ukraine.com/
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -477,6 +481,8 @@ VEX: 518 de 1935 fichas de competiciones (26.8%). Es un desequilibrio claro de c
 - **Malaysia Technology Expo · próxima edición presencial** — Malasia; fecha desconocida. Confirmar acceso infantil. https://www.mte.org.my/
 - **Fête de la Science Guadeloupe · AI / maker programme** — Guadalupe; 2026-11-12 – 2026-11-20. con un adulto; condiciones de admisión adulta por separado. https://www.archipel-des-sciences.org/actualites/la-fete-de-la-science/
 - **Village des Sciences Martinique · family day / AI stand** — Martinica; 2026-11-21. con un adulto; condiciones de admisión adulta por separado. https://www.carbet-sciences.com/fete-de-la-science/
+- **Infomatrix World Finals · public exhibition watch** — Rumanía; fecha desconocida. Confirmar acceso infantil. https://infomatrix.ro/
+- **ROBOTICA + ROBOFIRST Ukraine · next festival watch** — Ucrania; fecha desconocida. Confirmar acceso infantil. http://robotica.in.ua/
 - **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
 - **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 - **WIN EURASIA 2027** — Turquía; 2027-06-02 – 2027-06-05. el permiso de entrada de niños. https://www.win-eurasia.com/en/visitors
