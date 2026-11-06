@@ -30,24 +30,24 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1369,
-    "countries": 59,
+    "dossiers": 1373,
+    "countries": 62,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 189,
       "published_2027": 343,
-      "partial_2027": 120,
-      "next_unannounced": 255,
+      "partial_2027": 122,
+      "next_unannounced": 256,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 19,
-      "archive_next_unannounced": 115,
+      "archive_next_unannounced": 116,
       "regular_programme": 1,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2010
+    "source_urls": 2016
   },
   "countries": [
     {
@@ -79,6 +79,10 @@
       "count": 19
     },
     {
+      "country": "Hungría",
+      "count": 1
+    },
+    {
       "country": "Venezuela",
       "count": 1
     },
@@ -101,6 +105,10 @@
     {
       "country": "Hong Kong",
       "count": 37
+    },
+    {
+      "country": "Grecia",
+      "count": 2
     },
     {
       "country": "Dinamarca",
@@ -201,6 +209,10 @@
     {
       "country": "Perú",
       "count": 8
+    },
+    {
+      "country": "Polonia",
+      "count": 1
     },
     {
       "country": "Portugal",
@@ -220694,6 +220706,369 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1370",
+      "slug": "acs-athens-summer-2027",
+      "provider": "ACS Athens · Summer Camp 2027",
+      "iso": "GRC",
+      "country": "Grecia",
+      "place": "ACS Athens campus · Halandri / Athens",
+      "themes": [
+        "general",
+        "languages",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–14 según descripción; confirmar grupos / cursos 2027",
+      "programme": "Página anuncia por separado 22 de junio–2 de julio 2027. Abajo conserva encabezado 2026 y bloque antiguo Monday June 22–Friday July 3, correspondiente a 2026. Para 2027 solo se conserva ventana anunciada: horarios diarios, seis bloques, tecnologías y selección de actividades sin reconfirmar. Concepto general: inglés todo el día, deporte, creatividad y actividades digitales por edad. Enlace Available Programs devuelve contenido general, sin plan curricular verificado 2027.",
+      "language": "Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "partial_2027",
+        "label": "22 de junio–2 de julio 2027 · ventana anunciada; horario diario pendiente",
+        "sessions": [
+          [
+            "2027-06-22",
+            "2027-07-02"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-06-22",
+            "end": "2027-07-02",
+            "variant_key": "announced-window",
+            "label": "ACS Athens · ventana 2027",
+            "price": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.",
+            "source": "https://www.acs.gr/summer_camp/",
+            "formats": [
+              "day"
+            ],
+            "date_scope": "camp_window"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "child",
+        "label": "Tarifas 2027 y suplementos sin publicar. Página menciona descuentos familiares sin cuantía; no aplicados.",
+        "included": "Confirmar inclusiones y exclusiones del contrato concreto.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Bloque antiguo indica pago completo al registrar y apertura 15 de abril sin año; confirmar pago / cancelación 2027 en nuevo contrato."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "Confirmar factura final, supervisión, contrato, cancelación e idioma vigente del grupo elegido."
+      ],
+      "sources": [
+        {
+          "title": "ACS Athens · 2027 announcement / 2026 body",
+          "url": "https://www.acs.gr/summer_camp/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-06-22",
+          "end": "2027-07-02",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1370-20270622-20270702-announced-window"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1371",
+      "slug": "anatolia-rainbow-next-summer",
+      "provider": "Anatolia College · Rainbow",
+      "iso": "GRC",
+      "country": "Grecia",
+      "place": "Anatolia College · Thessaloniki",
+      "themes": [
+        "general",
+        "languages",
+        "robotics",
+        "science",
+        "sport",
+        "art"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–12",
+      "programme": "Rainbow diurno en inglés: programa general incluye mechanics, robotix, science, deporte, arte, cooking y teatro. Publicadas dos / tres semanas 15–26 de junio y 15 de junio–3 de julio 2026; 2027 aún sin anunciar. Horario antiguo lunes–viernes 08:30–15:30 no trasladado a sesiones inexistentes 2027.",
+      "language": "Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Próxima convocatoria sin anunciar; web muestra verano 2026",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "child",
+        "label": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.",
+        "included": "Confirmar inclusiones y exclusiones del contrato concreto.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "Confirmar factura final, supervisión, contrato, cancelación e idioma vigente del grupo elegido."
+      ],
+      "sources": [
+        {
+          "title": "Rainbow · published programme",
+          "url": "https://anatolia.edu.gr/en/ancillary-programs/rainbow/meet-rainbow",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L495"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1372",
+      "slug": "britannica-budapest-summer-watch",
+      "provider": "Britannica Budapest · Summer Camp",
+      "iso": "HUN",
+      "country": "Hungría",
+      "place": "Britannica International School · Budapest",
+      "themes": [
+        "robotics",
+        "sport",
+        "general"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Year 3 y superior; edad numérica sin publicar",
+      "programme": "Programa 2026 leído: LEGO Robotics, natación instruida y deporte exterior; 30 de junio–3 de julio y 6–10 de julio, 09:00–15:00. Llevar almuerzo. Year 3+ es categoría escolar, sin prometer admisión por edad sola. Convocatoria / programa 2027 sin anunciar.",
+      "language": "Idioma de enseñanza y vida del campamento sin confirmar. Página inglesa de colegio internacional no confirma idioma de todas las actividades.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo 2026; fechas 2027 sin anunciar",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2026,
+        "currency": "HUF",
+        "amount": null,
+        "unit": "child",
+        "label": "Tarifa archivada 2026: HUF 15000 diarios por niño; almuerzo propio aparte. No es presupuesto 2027.",
+        "included": "Confirmar inclusiones y exclusiones del contrato concreto.",
+        "extras": "Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte.",
+        "deposit": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Exige Year 3+; curso actual desconocido, acceso extranjero individual aparte."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Exige Year 3+; curso actual desconocido, acceso extranjero individual aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "Confirmar factura final, supervisión, contrato, cancelación e idioma vigente del grupo elegido."
+      ],
+      "sources": [
+        {
+          "title": "Britannica · Summer Camp 2026",
+          "url": "https://britannicaschool.hu/events/summer-camp-2026",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [
+        "L496"
+      ],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1373",
+      "slug": "justspeak-junior-poland-2027",
+      "provider": "JustSpeak · Junior 9–12",
+      "iso": "POL",
+      "country": "Polonia",
+      "place": "OW Kama · Darłówko / Hotel Delicjusz · Trzebaw",
+      "themes": [
+        "general",
+        "languages"
+      ],
+      "formats": [
+        "boarding"
+      ],
+      "age": "9–12",
+      "programme": "Internado lingüístico: 100% actividades en inglés, proyectos, juegos, deporte, búsqueda de tesoros, excursiones / Deli Park y conversación. Programa lingüístico, sin curso de robótica publicado. Junior 9–12 separado de Youth 12+ y adultos 1:1 / 1:2; viaje gratuito de voluntario anglófono no significa campamento gratis para niño. Dos turnos 2027: julio OW Kama, agosto Hotel Delicjusz. Julio ocupa siete días naturales, aunque texto general promete seis: confirmar paquete y noches.",
+      "language": "Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.",
+      "confirmed_instruction_languages": [
+        "EN"
+      ],
+      "language_evidence_role": "primary",
+      "timing": {
+        "status": "partial_2027",
+        "label": "18–24 de julio / 15–20 de agosto 2027 · solo Junior",
+        "sessions": [
+          [
+            "2027-07-18",
+            "2027-07-24"
+          ],
+          [
+            "2027-08-15",
+            "2027-08-20"
+          ]
+        ],
+        "session_details": [
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-24",
+            "variant_key": "junior-1",
+            "label": "Junior · Darłówko",
+            "price": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.",
+            "source": "https://justspeak.pl/oboz-jezykowy-dla-dzieci/",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window",
+            "place": "OW Kama · Darłówko"
+          },
+          {
+            "start": "2027-08-15",
+            "end": "2027-08-20",
+            "variant_key": "junior-2",
+            "label": "Junior · Trzebaw",
+            "price": "Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.",
+            "source": "https://justspeak.pl/oboz-jezykowy-dla-dzieci/",
+            "formats": [
+              "boarding"
+            ],
+            "date_scope": "camp_window",
+            "place": "Hotel Delicjusz · Trzebaw"
+          }
+        ],
+        "variant_keyed": true
+      },
+      "price": {
+        "year": 2027,
+        "currency": "PLN",
+        "amount": null,
+        "unit": "child",
+        "label": "Página del programa muestra desde PLN 3100, pero FAQ vincula tarifas a 2026. Precio exacto de dos turnos 2027 sin confirmar; tarifa antigua no usada en presupuesto familiar activo.",
+        "included": "Descritos alojamiento, cuatro comidas / tentempié, bebidas, supervisores, docentes, programa lingüístico, NNW y certificado; confirmar contrato 2027.",
+        "extras": "Página ofrece traslado opcional desde Poznań: PLN 300 ida y vuelta OW Kama, PLN 100 ida y vuelta Delicjusz; confirmar tarifas 2027. Seguro de cancelación aparte; 2.8% de FAQ antiguo no aplicado automáticamente. Vuelos y gastos parentales aparte.",
+        "deposit": "Apertura prometida en noviembre 2026 sin día; sin plaza confirmada. FAQ con PLN 700 inicial y resto corresponde a tarifa anterior; confirmar depósito, devoluciones y seguro nuevo en contrato 2027."
+      },
+      "accommodation": "Publicadas habitaciones de 2–4 personas con baño, pensión completa y supervisores / director. OW Kama en julio, Hotel Delicjusz en agosto. Confirmar noches concretas, guardia nocturna y contrato extranjero.",
+      "family_fit": {
+        "matvey": {
+          "status": "candidate",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte."
+        }
+      },
+      "editorial_reason": "Candidato editorial por contenido, edad y transparencia de condiciones; sin ranking mundial independiente de calidad acreditado. Proyecto / muestra / certificado educativo no es medalla competitiva internacional.",
+      "shortlist": [],
+      "questions": [
+        "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "Confirmar factura final, supervisión, contrato, cancelación e idioma vigente del grupo elegido."
+      ],
+      "sources": [
+        {
+          "title": "JustSpeak · Junior programme / dates 2027",
+          "url": "https://justspeak.pl/oboz-jezykowy-dla-dzieci/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "JustSpeak · dates by age group",
+          "url": "https://justspeak.pl/terminy-kursow-just-speak/",
+          "checked": "2026-11-05"
+        },
+        {
+          "title": "JustSpeak · FAQ with historical tariffs",
+          "url": "https://justspeak.pl/obozy-jezykowe-dla-dzieci-i-mlodziezy-najczesciej-zadawane-pytania/",
+          "checked": "2026-11-05"
+        }
+      ],
+      "checked": "2026-11-05",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-24",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1373-20270718-20270724-junior-1"
+          ]
+        },
+        {
+          "start": "2027-08-15",
+          "end": "2027-08-20",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1373-20270815-20270820-junior-2"
+          ]
+        }
+      ]
     }
   ],
   "gaps": [
@@ -225939,7 +226314,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 172,
+  "version": 173,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -242178,6 +242553,21 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1370",
+      "event_id": "CP1370-20270622-20270702-announced-window",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1373",
+      "event_id": "CP1373-20270718-20270724-junior-1",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1373",
+      "event_id": "CP1373-20270815-20270820-junior-2",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -242330,6 +242720,16 @@
     {
       "programme_id": "CP1368",
       "event_id": "L494",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1371",
+      "event_id": "L495",
+      "relation": "existing_programme"
+    },
+    {
+      "programme_id": "CP1372",
+      "event_id": "L496",
       "relation": "existing_programme"
     }
   ],
@@ -245297,10 +245697,13 @@
     "CP1364-20270403-20270417-saturdays-2027-04",
     "CP1364-20270508-20270522-saturdays-2027-05",
     "CP1369-20270227-20270228-weekend-1",
-    "CP1369-20270424-20270425-weekend-2"
+    "CP1369-20270424-20270425-weekend-2",
+    "CP1370-20270622-20270702-announced-window",
+    "CP1373-20270718-20270724-junior-1",
+    "CP1373-20270815-20270820-junior-2"
   ],
   "integration": {
-    "generated_sessions": 2964,
+    "generated_sessions": 2967,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

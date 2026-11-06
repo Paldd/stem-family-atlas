@@ -21,6 +21,9 @@ for key in ['events', 'countries', 'schools', 'league_guide', 'development_route
 for key in ['events', 'schools']:
     ids = [row['id'] for row in web[key]]
     assert len(ids) == len(set(ids)), f'Duplicate IDs in {key}'
+for profile in web['league_guide']['profiles']:
+    assert profile['group'] in web['league_guide']['groups'], (
+        f"Unknown league filter group: {profile['id']} / {profile['group']}")
 profiles = web['camp_programmes']['profiles']
 assert len({p['slug'] for p in profiles}) == len(profiles)
 assert web['camp_programmes']['counts']['dossiers'] == len(profiles)

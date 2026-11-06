@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5267,
-    "competition_cards": 1570,
-    "event_cards": 239,
-    "camp_cards": 3458,
-    "league_profiles": 158,
-    "major_exhibition_cards": 153,
+    "cards": 5340,
+    "competition_cards": 1636,
+    "event_cards": 241,
+    "camp_cards": 3463,
+    "league_profiles": 170,
+    "major_exhibition_cards": 155,
     "vex_cards": 518,
-    "countries_with_records": 105,
+    "countries_with_records": 112,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -62,12 +62,12 @@
       "regions": [
         "Европа"
       ],
-      "total": 1551,
-      "countries_with_records": 29,
-      "competitions": 265,
-      "events": 70,
-      "major_exhibitions": 50,
-      "camps": 1216,
+      "total": 1622,
+      "countries_with_records": 36,
+      "competitions": 329,
+      "events": 72,
+      "major_exhibitions": 52,
+      "camps": 1221,
       "status": "Частично исследовано",
       "remaining": "CHE/ESP/FRA углублены повторно. Не закрыты все местные лиги, новые qualifiers 2027, преподавание на английском / испанском, иностранные квоты, текущие juniormentors и полные школьные протоколы 5–10 лет. Германия / Нидерланды / Бельгия: первый частичный проход; все местные клубы, языки, иностранные квоты и полные школьные результаты остаются открыты."
     },
@@ -90,9 +90,9 @@
       "regions": [
         "Азия"
       ],
-      "total": 1485,
+      "total": 1487,
       "countries_with_records": 30,
-      "competitions": 390,
+      "competitions": 392,
       "events": 77,
       "major_exhibitions": 68,
       "camps": 1018,
@@ -201,11 +201,27 @@
         "C871",
         "C872",
         "C1566",
-        "C1567"
+        "C1567",
+        "C1618",
+        "C1619",
+        "C1620",
+        "C1621",
+        "C1622",
+        "C1623",
+        "C1624",
+        "C1625",
+        "C1626",
+        "C1627",
+        "C1628",
+        "C1629",
+        "C1630",
+        "C1631",
+        "C1632",
+        "C1633"
       ],
-      "cards": 82,
+      "cards": 98,
       "future_dated": 3,
-      "linked_card_count": 82,
+      "linked_card_count": 98,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://wro-association.org/competition/categories/",
       "new": false
@@ -345,11 +361,57 @@
         "C1568",
         "C1569",
         "C1570",
-        "C1571"
+        "C1571",
+        "C1572",
+        "C1573",
+        "C1574",
+        "C1575",
+        "C1576",
+        "C1577",
+        "C1578",
+        "C1579",
+        "C1580",
+        "C1581",
+        "C1582",
+        "C1583",
+        "C1584",
+        "C1585",
+        "C1586",
+        "C1587",
+        "C1588",
+        "C1589",
+        "C1590",
+        "C1591",
+        "C1592",
+        "C1593",
+        "C1594",
+        "C1595",
+        "C1596",
+        "C1597",
+        "C1598",
+        "C1599",
+        "C1600",
+        "C1601",
+        "C1602",
+        "C1603",
+        "C1604",
+        "C1605",
+        "C1606",
+        "C1607",
+        "C1608",
+        "C1609",
+        "C1610",
+        "C1611",
+        "C1612",
+        "C1613",
+        "C1614",
+        "C1615",
+        "C1616",
+        "C1617"
       ],
-      "cards": 131,
-      "future_dated": 83,
-      "linked_card_count": 131,
+      "cards": 177,
+      "future_dated": 108,
+      "linked_card_count": 177,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://www.firstinspires.org/programs/fll/",
       "new": false
@@ -1117,11 +1179,12 @@
       "name": "Robotex International",
       "group": "international",
       "event_ids": [
-        "C055"
+        "C055",
+        "C1636"
       ],
-      "cards": 1,
+      "cards": 2,
       "future_dated": 0,
-      "linked_card_count": 1,
+      "linked_card_count": 2,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://robotex.international/lego-sumo",
       "new": false
@@ -3017,7 +3080,7 @@
     {
       "id": "qatar-robotics-ai",
       "name": "Qatar Robotics & AI · национальный школьный маршрут",
-      "group": "national",
+      "group": "regional",
       "event_ids": [
         "C1069",
         "C1070",
@@ -3039,7 +3102,7 @@
     {
       "id": "jic-uae",
       "name": "Junior Innovators Challenge · UAE",
-      "group": "national",
+      "group": "regional",
       "event_ids": [
         "C1078",
         "C1079",
@@ -3055,7 +3118,7 @@
     {
       "id": "wro-oman",
       "name": "WRO Oman · Kids и мировой отбор",
-      "group": "national",
+      "group": "regional",
       "event_ids": [
         "C1081",
         "C1082",
@@ -3071,7 +3134,7 @@
     {
       "id": "wro-saudi",
       "name": "WRO Saudi Arabia · Mawhiba",
-      "group": "national",
+      "group": "regional",
       "event_ids": [
         "C1084",
         "C1085",
@@ -3746,7 +3809,7 @@
     {
       "id": "fll-scandinavia",
       "name": "FIRST LEGO League · Scandinavia",
-      "group": "FIRST · региональный вариант",
+      "group": "regional",
       "event_ids": [
         "C1484",
         "C1485",
@@ -3809,6 +3872,213 @@
       "linked_card_count": 55,
       "status": "Есть профиль и карточки; местный охват частичный",
       "source": "https://hjernekraft.org/no",
+      "new": false
+    },
+    {
+      "id": "fll-hun-local-2027",
+      "name": "FIRST LEGO League · Hungary · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1572",
+        "C1573",
+        "C1574",
+        "C1575",
+        "C1576",
+        "C1577",
+        "C1578",
+        "C1579",
+        "C1580",
+        "C1581",
+        "C1582",
+        "C1583",
+        "C1584",
+        "C1585",
+        "C1586",
+        "C1587",
+        "C1588",
+        "C1589"
+      ],
+      "cards": 18,
+      "future_dated": 18,
+      "linked_card_count": 18,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.firstlegoleague.hu/bioglow/",
+      "new": false
+    },
+    {
+      "id": "fll-cze-local-2027",
+      "name": "FIRST LEGO League · Czechia · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1590",
+        "C1591",
+        "C1592",
+        "C1593",
+        "C1594",
+        "C1595",
+        "C1596",
+        "C1616",
+        "C1617"
+      ],
+      "cards": 9,
+      "future_dated": 7,
+      "linked_card_count": 9,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.fllchallenge.cz/tema-rocniku-a-harmonogram-2026-27",
+      "new": false
+    },
+    {
+      "id": "fll-pol-local-2027",
+      "name": "FIRST LEGO League · Poland · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1599",
+        "C1600",
+        "C1601",
+        "C1602"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://fll.edu.pl/en/sezon-bioglow",
+      "new": false
+    },
+    {
+      "id": "fll-grc-local-2027",
+      "name": "FIRST LEGO League · Greece · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1597",
+        "C1598"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.he-ro.gr/minoan-robotsports-competition",
+      "new": false
+    },
+    {
+      "id": "fll-rou-local-2027",
+      "name": "FIRST LEGO League · Romania · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1603",
+        "C1604"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://firstlegoleague.ro/inscrieri-2026/",
+      "new": false
+    },
+    {
+      "id": "fll-bgr-local-2027",
+      "name": "FIRST LEGO League · Bulgaria · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1605",
+        "C1606",
+        "C1607"
+      ],
+      "cards": 3,
+      "future_dated": 0,
+      "linked_card_count": 3,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.fll.bg/teams-registrationbioglow",
+      "new": false
+    },
+    {
+      "id": "fll-ltu-local-2027",
+      "name": "FIRST LEGO League · Lithuania · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1608",
+        "C1609",
+        "C1610",
+        "C1611"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.lituanicax.lt/first-lego-league",
+      "new": false
+    },
+    {
+      "id": "fll-svk-local-2027",
+      "name": "FIRST LEGO League · Slovakia · local 2026/27",
+      "group": "regional",
+      "event_ids": [
+        "C1612",
+        "C1613",
+        "C1614",
+        "C1615"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.fll.sk/main/sezona/bioglow",
+      "new": false
+    },
+    {
+      "id": "mrc-global-olympiad",
+      "name": "MRC Global Olympiad / MRC Junior",
+      "group": "international",
+      "event_ids": [
+        "C1634",
+        "C1635"
+      ],
+      "cards": 2,
+      "future_dated": 1,
+      "linked_card_count": 2,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://www.he-ro.gr/minoan-robotsports-competition",
+      "new": false
+    },
+    {
+      "id": "wro-hungary-kids",
+      "name": "WRO Hungary · KIDS 6–10",
+      "group": "regional",
+      "event_ids": [
+        "C1633"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://wro.hu/kids_kategoria/",
+      "new": false
+    },
+    {
+      "id": "robotex-cyprus",
+      "name": "Robotex Cyprus · local school levels",
+      "group": "regional",
+      "event_ids": [
+        "C1636"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robotex.org.cy/en/page/competitions-page/",
+      "new": false
+    },
+    {
+      "id": "robochallenge-romania",
+      "name": "RoboChallenge Romania · international Kids / open robotics",
+      "group": "international",
+      "event_ids": [
+        "C1637"
+      ],
+      "cards": 1,
+      "future_dated": 0,
+      "linked_card_count": 1,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://robochallenge.ro/about",
       "new": false
     }
   ],
@@ -5494,6 +5764,28 @@
       "end": "",
       "visitor_policy": "confirm_children",
       "source": "https://www.mte.org.my/",
+      "new": false
+    },
+    {
+      "id": "E240",
+      "name": "Robotics Warsaw 2027 · industrial robotics trade fair",
+      "country": "Польша",
+      "region": "Европа",
+      "start": "2027-02-02",
+      "end": "2027-02-04",
+      "visitor_policy": "confirm_children",
+      "source": "https://roboticswarsaw.com/en/",
+      "new": false
+    },
+    {
+      "id": "E241",
+      "name": "ROBOFEST Bucharest · university robotics festival · next edition",
+      "country": "Румыния",
+      "region": "Европа",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://robofest.upb.ro/",
       "new": false
     }
   ],
@@ -7606,20 +7898,20 @@
       }
     ],
     "counts": {
-      "records": 3458,
-      "holiday": 3316,
+      "records": 3463,
+      "holiday": 3319,
       "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 958,
-      "en_es_instruction": 1017,
+      "boarding": 960,
+      "en_es_instruction": 1021,
       "en_es_support": 11,
-      "family_instruction": 1017,
+      "family_instruction": 1021,
       "family_support": 11,
       "ru_instruction": 3,
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 66
+      "countries": 69
     },
     "validation": {
       "version": 51,

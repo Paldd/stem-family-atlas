@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5267; competiciones: 1570; eventos: 239; campamentos / programas: 3458. Perfiles de ligas y programas: 158. Fichas de exposiciones grandes y especializadas: 153; son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5340; competiciones: 1636; eventos: 241; campamentos / programas: 3463. Perfiles de ligas y programas: 170. Fichas de exposiciones grandes y especializadas: 155 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos para 105 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
+Hay registros concretos para 112 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
@@ -16,14 +16,14 @@ Hay registros concretos para 105 de 249 países y territorios; países completam
 |---|---:|---:|---:|---:|
 | América del Norte | 15 | 605 | 19 | 950 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 29 | 265 | 50 | 1216 |
+| Europa | 36 | 329 | 52 | 1221 |
 | África | 16 | 73 | 7 | 42 |
-| Asia | 30 | 390 | 68 | 1018 |
+| Asia | 30 | 392 | 68 | 1018 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cobertura.
+VEX: 518 de 1636 fichas de competiciones (31.7%). Existe un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -93,8 +93,8 @@ VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cober
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 82 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
-- **FIRST**: 131 fichas, 83 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
+- **WRO**: 98 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **FIRST**: 177 fichas, 108 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -104,7 +104,7 @@ VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cober
 - **RoboMatrix / Infomatrix**: 59 fichas, 28 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robomatrix.org/
 - **RoboRAVE**: 20 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.roboraveinternational.org/eventos
 - **Robofest · LTU**: 16 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.robofest.net/index.php/current-competitions/main-page
-- **Robotex International**: 1 tarjeta, 0 con fechas exactas futuras, perfil y tarjeta; cobertura local parcial. https://robotex.international/lego-sumo
+- **Robotex International**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.international/lego-sumo
 - **RobotChallenge**: 1 tarjeta, 0 con fecha exacta en el futuro. https://www.robotchallenge.org.cn/competition-RobotSumo.html
 - **ENJOY AI**: 4 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.enjoyaiglobal.org/
 - *Junior Botball Challenge**: 2 tarjetas, 1 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://www.kipr.org/junior-botball-challenge
@@ -251,6 +251,18 @@ VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cober
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
 - **FIRST LEGO League · Scandinavia**: 55 fichas, 30 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hjernekraft.org/no
+- **FIRST LEGO League · Hungary · local 2026/27**: 18 fichas, 18 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstlegoleague.hu/bioglow/
+- **FIRST LEGO League · Czechia · local 2026/27**: 9 fichas, 7 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fllchallenge.cz/tema-rocniku-a-harmonogram-2026-27
+- **FIRST LEGO League · Poland · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://fll.edu.pl/en/sezon-bioglow
+- **FIRST LEGO League · Greece · local 2026/27**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
+- **FIRST LEGO League · Romania · local 2026/27**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://firstlegoleague.ro/inscrieri-2026/
+- **FIRST LEGO League · Bulgaria · local 2026/27**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.bg/teams-registrationbioglow
+- **FIRST LEGO League · Lithuania · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.lituanicax.lt/first-lego-league
+- **FIRST LEGO League · Slovakia · local 2026/27**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.fll.sk/main/sezona/bioglow
+- **MRC Global Olympiad / MRC Junior**: 2 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.he-ro.gr/minoan-robotsports-competition
+- **WRO Hungary · KIDS 6–10**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro.hu/kids_kategoria/
+- **Robotex Cyprus · local school levels**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robotex.org.cy/en/page/competitions-page/
+- **RoboChallenge Romania · international Kids / open robotics**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://robochallenge.ro/about
 
 ## Grandes exposiciones: tarjetas de identidad
 
@@ -407,6 +419,8 @@ VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cober
 - **Automation World · AW 2027** — Corea del Sur; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.automationworld.co.kr/?hl=en
 - **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Malasia; 2027-05-04 – 2027-05-05. el permiso de entrada de niños. https://www.malaysia.dccisummit.com/
 - **Malaysia Technology Expo · próxima edición presencial** — Malasia; fecha desconocida. Confirmar acceso infantil. https://www.mte.org.my/
+- **Robotics Warsaw 2027 · industrial robotics trade fair** — Polonia; 2027-02-02 – 2027-02-04. el permiso de entrada de niños. https://roboticswarsaw.com/en/
+- **ROBOFEST Bucharest · university robotics festival · next edition** — Rumanía; fecha desconocida. Confirmar admisión infantil. https://robofest.upb.ro/
 
 ## ~ Añadida en esta versión
 

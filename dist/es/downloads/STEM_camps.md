@@ -55398,6 +55398,54 @@ Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Conf
 Fuente: https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf
 Se ha comprobado: 2026-11-05
 
+### CP1370-20270622-20270702-announced-window · ACS Athens · Summer Camp 2027 · ACS Athens · 2027 window · 2027-06-22–2027-07-02
+
+lugar: Grecia · ACS Athens campus · Halandri / Athens
+Fecha: 2027-06-22 — 2027-07-02
+edad: 4–14 según descripción; confirmar grupos / cursos 2027
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Oscar: Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Suplementos: Vuelos, alojamiento parental, gastos familiares e inclusiones de factura final aparte. Pago: Bloque antiguo indica pago completo al registrar y apertura 15 de abril sin año; confirmar pago / cancelación 2027 en nuevo contrato.
+Fuente: https://www.acs.gr/summer_camp/
+Se ha comprobado: 2026-11-05
+
+### CP1373-20270718-20270724-junior-1 · JustSpeak · Junior 9–12 · Junior · Darłówko · 2027-07-18–2027-07-24
+
+lugar: Polonia · OW Kama · Darłówko
+Fecha: 2027-07-18 - 2027-07-24
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Página ofrece traslado opcional desde Poznań: PLN 300 ida y vuelta OW Kama, PLN 100 ida y vuelta Delicjusz; confirmar tarifas 2027. Seguro de cancelación aparte; 2.8% de FAQ antiguo no aplicado automáticamente. Vuelos y gastos parentales aparte. Pago: Apertura prometida en noviembre 2026 sin día; sin plaza confirmada. FAQ con PLN 700 inicial y resto corresponde a tarifa anterior; confirmar depósito, devoluciones y seguro nuevo en contrato 2027.
+Fuente: https://justspeak.pl/oboz-jezykowy-dla-dzieci/
+Se ha comprobado: 2026-11-05
+
+### CP1373-20270815-20270820-junior-2 · JustSpeak · Junior 9–12 · Junior · Trzebaw · 2027-08-15–2027-08-20
+
+lugar: Polonia · Hotel Delicjusz · Trzebaw
+Fecha: 2027-08-15 — 2027-08-20
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Página ofrece traslado opcional desde Poznań: PLN 300 ida y vuelta OW Kama, PLN 100 ida y vuelta Delicjusz; confirmar tarifas 2027. Seguro de cancelación aparte; 2.8% de FAQ antiguo no aplicado automáticamente. Vuelos y gastos parentales aparte. Pago: Apertura prometida en noviembre 2026 sin día; sin plaza confirmada. FAQ con PLN 700 inicial y resto corresponde a tarifa anterior; confirmar depósito, devoluciones y seguro nuevo en contrato 2027.
+Fuente: https://justspeak.pl/oboz-jezykowy-dla-dzieci/
+Se ha comprobado: 2026-11-05
+
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus
 
 lugar: Letonia · EIS Campus · Piņķi
@@ -55460,6 +55508,38 @@ Precio: Tarifa antigua 2026: desde EUR 295 por cinco días 09–17; dos comidas 
 Acceso: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
 Limitaciones: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
 Fuente: https://inovacijuskola.lv/pixelvasara
+Se ha comprobado: 2026-11-05
+
+### L495 · Anatolia College · Rainbow
+
+lugar: Grecia · Anatolia College · Thessaloniki
+Fecha: Próxima temporada local sin día confirmado. Página 2026 conservada como evidencia de vía; fecha / tarifa anterior no trasladadas a 2027.
+Edad: 4–12
+Matvey: Condicional: confirmar nueva temporada / grupo escolar
+Oscar: Condicional: confirmar nueva temporada / grupo escolar
+Formato: unconfirmed_program
+Idioma: Inglés indicado expresamente como idioma principal de vida / actividades del campamento. Confirmar nivel y grupos concretos.
+Marca de idioma: primary; soporte: no declarado
+Precio: Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.
+Acceso: Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.
+Fuente: https://anatolia.edu.gr/en/ancillary-programs/rainbow/meet-rainbow
+Se ha comprobado: 2026-11-05
+
+### L496 · Britannica Budapest · Summer Camp
+
+lugar: Hungría · Britannica International School · Budapest
+Fecha: Próxima temporada local sin día confirmado. Página 2026 conservada como evidencia de vía; fecha / tarifa anterior no trasladadas a 2027.
+edad: Year 3 y superior; edad numérica sin publicar
+Matvey: Condicional: confirmar nueva temporada / grupo escolar
+Oscar: Condicional: confirmar nueva temporada / grupo escolar
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza y vida del campamento sin confirmar. Página inglesa de colegio internacional no confirma idioma de todas las actividades.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa archivada 2026: HUF 15000 diarios por niño; almuerzo propio aparte. No es presupuesto 2027.
+Acceso: Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.
+Limitaciones: Precio final de temporada elegida, suplementos obligatorios y cancelación requieren confirmación. Gastos desconocidos no equivalen a cero.
+Fuente: https://britannicaschool.hu/events/summer-camp-2026
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

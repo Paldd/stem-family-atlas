@@ -138,7 +138,23 @@
           "C871",
           "C872",
           "C1566",
-          "C1567"
+          "C1567",
+          "C1618",
+          "C1619",
+          "C1620",
+          "C1621",
+          "C1622",
+          "C1623",
+          "C1624",
+          "C1625",
+          "C1626",
+          "C1627",
+          "C1628",
+          "C1629",
+          "C1630",
+          "C1631",
+          "C1632",
+          "C1633"
         ],
         "legacy_ids": [
           "C006",
@@ -411,7 +427,53 @@
           "C1568",
           "C1569",
           "C1570",
-          "C1571"
+          "C1571",
+          "C1572",
+          "C1573",
+          "C1574",
+          "C1575",
+          "C1576",
+          "C1577",
+          "C1578",
+          "C1579",
+          "C1580",
+          "C1581",
+          "C1582",
+          "C1583",
+          "C1584",
+          "C1585",
+          "C1586",
+          "C1587",
+          "C1588",
+          "C1589",
+          "C1590",
+          "C1591",
+          "C1592",
+          "C1593",
+          "C1594",
+          "C1595",
+          "C1596",
+          "C1597",
+          "C1598",
+          "C1599",
+          "C1600",
+          "C1601",
+          "C1602",
+          "C1603",
+          "C1604",
+          "C1605",
+          "C1606",
+          "C1607",
+          "C1608",
+          "C1609",
+          "C1610",
+          "C1611",
+          "C1612",
+          "C1613",
+          "C1614",
+          "C1615",
+          "C1616",
+          "C1617"
         ],
         "legacy_ids": [
           "C003",
@@ -2404,7 +2466,8 @@
           }
         ],
         "event_ids": [
-          "C055"
+          "C055",
+          "C1636"
         ],
         "legacy_ids": [
           "C055"
@@ -11050,7 +11113,7 @@
       {
         "id": "qatar-robotics-ai",
         "name": "Qatar Robotics & AI · ruta nacional de la escuela",
-        "group": "national",
+        "group": "regional",
         "age_summary": "Discovery KG/Grade1; Explore Grade2–6; FLL9–16; VEX IQ8–14; de la Comisión Beginner8/9+",
         "age_tags": [
           "6",
@@ -11157,7 +11220,7 @@
       {
         "id": "jic-uae",
         "name": "Junior Innovators Challenge · UAE",
-        "group": "national",
+        "group": "regional",
         "age_summary": "KG1–KG2 /Grade1–2 /Grade3–4; categorías escolares",
         "age_tags": [
           "6",
@@ -11239,7 +11302,7 @@
       {
         "id": "wro-oman",
         "name": "WRO Oman · Kids y selección mundial",
-        "group": "national",
+        "group": "regional",
         "age_summary": "Los niños6–9; Elementary8–12; Junior11–15; El mayor14–19",
         "age_tags": [
           "6",
@@ -11325,7 +11388,7 @@
       {
         "id": "wro-saudi",
         "name": "WRO Saudi Arabia · Mawhiba",
-        "group": "national",
+        "group": "regional",
         "age_summary": "Elementary8–12; Junior11–15; El mayor14–19; Universidad local18–22",
         "age_tags": [
           "9",
@@ -14299,7 +14362,7 @@
       {
         "id": "fll-scandinavia",
         "name": "FIRST LEGO League · Scandinavia",
-        "group": "FIRST · variante regional",
+        "group": "regional",
         "age_summary": "Explore 6–9; Challenge 10–16; Future 8–16",
         "age_tags": [
           "6",
@@ -14420,11 +14483,1049 @@
           }
         ],
         "evidence": "Leídas por separado 54 páginas de programas de sedes; no son 54 ligas mundiales. Fechas en conflicto / sin confirmación local conservadas sin inicio exacto."
+      },
+      {
+        "id": "fll-hun-local-2027",
+        "name": "FIRST LEGO League · Hungary · local 2026/27",
+        "group": "regional",
+        "age_summary": "9–16; 6–10",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera.",
+        "categories": [
+          {
+            "name": "Founders Challenge",
+            "age": "9–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: SPIKE / robot LEGO permitido y set estacional; compra de robot aparte.",
+            "age_rule": "Límite superior al 4 de agosto 2026; confirmar mínimo",
+            "entry": "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera."
+          },
+          {
+            "name": "Founders Explore",
+            "age": "6–10",
+            "team": "Explore: 2–6 niños y entrenador adulto; confirmar composición Future.",
+            "hardware": "Founders: SPIKE / robot LEGO permitido y set estacional; compra de robot aparte.",
+            "age_rule": "Límite superior al 4 de agosto 2026; confirmar mínimo",
+            "entry": "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera."
+          },
+          {
+            "name": "Future Challenge",
+            "age": "9–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Límite superior al 4 de agosto 2026; confirmar mínimo",
+            "entry": "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera."
+          },
+          {
+            "name": "Future Explore",
+            "age": "6–10",
+            "team": "Explore: 2–6 niños y entrenador adulto; confirmar composición Future.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Límite superior al 4 de agosto 2026; confirmar mínimo",
+            "entry": "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera."
+          }
+        ],
+        "event_ids": [
+          "C1572",
+          "C1573",
+          "C1574",
+          "C1575",
+          "C1576",
+          "C1577",
+          "C1578",
+          "C1579",
+          "C1580",
+          "C1581",
+          "C1582",
+          "C1583",
+          "C1584",
+          "C1585",
+          "C1586",
+          "C1587",
+          "C1588",
+          "C1589"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Hungría: equipos extranjeros participan solo con autorización HelloWorld. Una institución obtiene como máximo una clasificación internacional por temporada, incluso con éxito en Founders y Future. Plantilla entregada como mínimo 14 días antes; cambios acordados. Debe declararse uso de IA en presentaciones. Ayudas húngaras no prometidas a familia extranjera.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Hungría: Challenge HUF 109900 + VAT por equipo; Explore HUF 54900 + VAT. Robots aparte. Paquete escolar / doméstico no sustituye inscripción de torneo; subvención y devolución VAT no descontadas.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Hungary · local 2026/27",
+            "url": "https://www.firstlegoleague.hu/bioglow/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-cze-local-2027",
+        "name": "FIRST LEGO League · Czechia · local 2026/27",
+        "group": "regional",
+        "age_summary": "10–16 Founders / 8–16 Future; confirmar edición; 6–10; 8–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Chequia: Founders Challenge 10–16, Future Challenge 8–16. Calendario general no identifica edición de cada torneo; fechas no asignadas automáticamente a Future. Challenge publica 4–10 niños, por tanto dos hermanos no bastan. Límites superiores del calendario se vinculan al 1 de enero de 2026; confirmar aplicación del mínimo.",
+        "categories": [
+          {
+            "name": "Challenge Founders",
+            "age": "10–16",
+            "team": "4–10",
+            "hardware": "SPIKE Prime / EV3 / NXT / RCX y set estacional.",
+            "age_rule": "Chequia: Founders Challenge 10–16, Future Challenge 8–16. Calendario general no identifica edición de cada torneo; fechas no asignadas automáticamente a Future. Challenge publica 4–10 niños, por tanto dos hermanos no bastan. Límites superiores del calendario se vinculan al 1 de enero de 2026; confirmar aplicación del mínimo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Future",
+            "age": "8–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1590",
+          "C1591",
+          "C1592",
+          "C1593",
+          "C1594",
+          "C1595",
+          "C1596",
+          "C1616",
+          "C1617"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Chequia: Founders Challenge 10–16, Future Challenge 8–16. Calendario general no identifica edición de cada torneo; fechas no asignadas automáticamente a Future. Challenge publica 4–10 niños, por tanto dos hermanos no bastan. Límites superiores del calendario se vinculan al 1 de enero de 2026; confirmar aplicación del mínimo.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Challenge: tienda muestra CZK 8000 por producto de equipo; describe componentes CZK 4000 por set estacional y CZK 4000 por torneo. No sumar inscripción otra vez. Robot programable, envío, comidas y viaje aparte; confirmar invoice final.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Czechia · local 2026/27",
+            "url": "https://www.fllchallenge.cz/tema-rocniku-a-harmonogram-2026-27",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-pol-local-2027",
+        "name": "FIRST LEGO League · Poland · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–9; 9–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "Polonia: pequeños 6–9, mayores 9–16; rangos locales. Future de mayores exige 4–10 participantes y dos kits, con cuatro funciones en pista. Founders de mayores hasta 10, pequeños hasta 6 y entrenador adulto. Fecha de corte y acceso extranjero aparte. Cada participante recibe medalla; diploma ganador de categoría y Champion son distintos.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–9",
+            "team": "Hasta 6 niños y al menos un entrenador adulto; confirmar mínimo.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Condicional: pequeños 6–9, En 2027 Matvey tendrá 9–10; corte desconocido / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Explore Future",
+            "age": "6–9",
+            "team": "Hasta 6 niños y al menos un entrenador adulto; confirmar mínimo.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Condicional: pequeños 6–9, En 2027 Matvey tendrá 9–10; corte desconocido / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "9–16",
+            "team": "Hasta 10 niños y al menos un entrenador adulto; confirmar mínimo.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Future",
+            "age": "9–16",
+            "team": "4–10 niños y entrenador adulto; confirmar representación local.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1599",
+          "C1600",
+          "C1601",
+          "C1602"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Polonia: pequeños 6–9, mayores 9–16; rangos locales. Future de mayores exige 4–10 participantes y dos kits, con cuatro funciones en pista. Founders de mayores hasta 10, pequeños hasta 6 y entrenador adulto. Fecha de corte y acceso extranjero aparte. Cada participante recibe medalla; diploma ganador de categoría y Champion son distintos.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Poland · local 2026/27",
+            "url": "https://fll.edu.pl/en/sezon-bioglow",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-grc-local-2027",
+        "name": "FIRST LEGO League · Greece · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–10; 9–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "MRC Global Olympiad: verificadas secciones de edad y equipo de 18 reglamentos deportivos; Kids desde 10 años, restantes desde 12 / 14 / 15. Mínimo genérico 10 del equipo no reduce edad superior del deporte concreto. En 2027 Matvey tendrá 9–10: confirmar categoría y cómputo de edad. Oscar 6–7 menor que mínimos leídos. Kids normalmente 2–3 niños y entrenador desde 20; composición distinta en algunas luchas.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "2–6 niños y entrenador adulto; confirmar representación local.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "9–16",
+            "team": "2–10 niños y entrenador adulto; confirmar representación local.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Condicional: junto a edad 9–16 figuran cursos escolares desde quinto; confirmar regla concreta y curso actual de Matvey / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1597",
+          "C1598"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "MRC Global Olympiad: verificadas secciones de edad y equipo de 18 reglamentos deportivos; Kids desde 10 años, restantes desde 12 / 14 / 15. Mínimo genérico 10 del equipo no reduce edad superior del deporte concreto. En 2027 Matvey tendrá 9–10: confirmar categoría y cómputo de edad. Oscar 6–7 menor que mínimos leídos. Kids normalmente 2–3 niños y entrenador desde 20; composición distinta en algunas luchas.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Greece · local 2026/27",
+            "url": "https://www.he-ro.gr/minoan-robotsports-competition",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-rou-local-2027",
+        "name": "FIRST LEGO League · Romania · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–10; 9–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "FLL Romania: página 2026/27 anuncia participación gratuita y set de entrenamiento opcional. No confirma acceso extranjero ni viaje gratis.",
+        "categories": [
+          {
+            "name": "Explore",
+            "age": "6–10",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge",
+            "age": "9–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1603",
+          "C1604"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "FLL Romania: página 2026/27 anuncia participación gratuita y set de entrenamiento opcional. No confirma acceso extranjero ni viaje gratis.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Página oficial: participación sin cuotas de alumnos, padres y docentes; compra de set de entrenamiento opcional. No promete robot, viaje o comidas gratis. Acceso extranjero aparte.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Romania · local 2026/27",
+            "url": "https://firstlegoleague.ro/inscrieri-2026/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-bgr-local-2027",
+        "name": "FIRST LEGO League · Bulgaria · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–10; 10–16; 8–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "FLL Bulgaria: Founders Challenge 10–16, Explore 6–10, Future 8–16. Future 5–7 descrito, sin fecha / festival local separado anunciado.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "10–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Condicional: mínimo 10; En 2027 Matvey tendrá 9–10, confirmar cómputo / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Future",
+            "age": "8–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Para Future 8–16 se recomiendan dos kits básicos LEGO Education Computer Science & AI 11+ por equipo; set estacional de 4–8 alumnos no sustituye electrónica. Future 5–7 descrito, sin festival local separado anunciado.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1605",
+          "C1606",
+          "C1607"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "FLL Bulgaria: Founders Challenge 10–16, Explore 6–10, Future 8–16. Future 5–7 descrito, sin fecha / festival local separado anunciado.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Bulgaria · local 2026/27",
+            "url": "https://www.fll.bg/teams-registrationbioglow",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-ltu-local-2027",
+        "name": "FIRST LEGO League · Lithuania · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–10; 9–16; 5–7; 8–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "FLL Lithuania: Founders Challenge 9–16, Explore 6–10; Future 5–7 y 8–16. Publicados materiales, no día nacional exacto.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "9–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Future 5–7",
+            "age": "5–7",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "No: Future 5–7, Matvey es mayor / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Future 8–16",
+            "age": "8–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1608",
+          "C1609",
+          "C1610",
+          "C1611"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "FLL Lithuania: Founders Challenge 9–16, Explore 6–10; Future 5–7 y 8–16. Publicados materiales, no día nacional exacto.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Lithuania · local 2026/27",
+            "url": "https://www.lituanicax.lt/first-lego-league",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "fll-svk-local-2027",
+        "name": "FIRST LEGO League · Slovakia · local 2026/27",
+        "group": "regional",
+        "age_summary": "6–10; 9–16; 5–7; 8–16",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "FLL Slovakia: regiones enero–febrero 2027, final / festival en marzo; inscripción hasta 31 de diciembre 2026. Sin trasladar tarifas / días antiguos.",
+        "categories": [
+          {
+            "name": "Explore Founders",
+            "age": "6–10",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Challenge Founders",
+            "age": "9–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Founders: kit de categoría y robot LEGO permitido; robot no considerado incluido en set estacional.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Future 5–7",
+            "age": "5–7",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "No: Future 5–7, Matvey es mayor / Candidato por edad; categoría / curso y admisión aparte",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          },
+          {
+            "name": "Future 8–16",
+            "age": "8–16",
+            "team": "Equipo; composición exacta según reglamento de categoría.",
+            "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+            "age_rule": "Candidato por edad; corte de temporada y admisión aparte / No: mínimo 8 o superior; en 2027 Oscar tendrá 6–7",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1612",
+          "C1613",
+          "C1614",
+          "C1615"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Future utiliza LEGO Education Computer Science & AI; sin suponer compatibilidad con SPIKE. Verificar número de kits básicos y edición por edad concreta.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "FLL Slovakia: regiones enero–febrero 2027, final / festival en marzo; inscripción hasta 31 de diciembre 2026. Sin trasladar tarifas / días antiguos.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "FIRST LEGO League · Slovakia · local 2026/27",
+            "url": "https://www.fll.sk/main/sezona/bioglow",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Programas locales leídos; admisión internacional y fechas exactas sin confirmar permanecen pendientes."
+      },
+      {
+        "id": "mrc-global-olympiad",
+        "name": "MRC Global Olympiad / MRC Junior",
+        "group": "international",
+        "age_summary": "Global 10+ / Junior grupos escolares",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "MRC Global Olympiad: verificadas secciones de edad y equipo de 18 reglamentos deportivos; Kids desde 10 años, restantes desde 12 / 14 / 15. Mínimo genérico 10 del equipo no reduce edad superior del deporte concreto. En 2027 Matvey tendrá 9–10: confirmar categoría y cómputo de edad. Oscar 6–7 menor que mínimos leídos. Kids normalmente 2–3 niños y entrenador desde 20; composición distinta en algunas luchas.",
+        "categories": [
+          {
+            "name": "MRC · marathon",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-marathon?lang=en"
+          },
+          {
+            "name": "MRC · archery",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-archery?lang=en"
+          },
+          {
+            "name": "MRC · relay-race",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-relay-race?lang=en"
+          },
+          {
+            "name": "MRC · obstacle-race",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-obstacle-race?lang=en"
+          },
+          {
+            "name": "MRC · mountain-bike",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-mountain-bike?lang=en"
+          },
+          {
+            "name": "MRC · soccer",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Soccer: alianza de tres equipos de mismo colegio / institución, cada uno aporta un robot. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-soccer?lang=en"
+          },
+          {
+            "name": "MRC · rally",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-rally?lang=en"
+          },
+          {
+            "name": "MRC · shotput",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-shotput?lang=en"
+          },
+          {
+            "name": "MRC · shooting",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-shooting?lang=en"
+          },
+          {
+            "name": "MRC · rowing",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-rowing?lang=en"
+          },
+          {
+            "name": "MRC · drones",
+            "age": "10+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos. Reglamentos Kids leídos: entrenador desde 20 años y un asistente por cada tres equipos. Un participante designado en zona técnica; puede rotar entre intentos.",
+            "source": "https://www.he-ro.gr/mrc-drones?lang=en"
+          },
+          {
+            "name": "MRC · weightlifting-humanoid",
+            "age": "14+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-weightlifting-humanoid?lang=en"
+          },
+          {
+            "name": "MRC · obstacle-race-humanoid",
+            "age": "14+",
+            "team": "2–3",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-obstacle-race-humanoid?lang=en"
+          },
+          {
+            "name": "MRC · humanoid-wrestling",
+            "age": "14+",
+            "team": "2+",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-humanoid-wrestling?lang=en"
+          },
+          {
+            "name": "MRC · mega-wrestling",
+            "age": "15+",
+            "team": "2+",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-mega-wrestling?lang=en"
+          },
+          {
+            "name": "MRC · mini-wrestling",
+            "age": "12+",
+            "team": "2+",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-mini-wrestling?lang=en"
+          },
+          {
+            "name": "MRC · micro-wrestling",
+            "age": "12+",
+            "team": "2+",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-micro-wrestling?lang=en"
+          },
+          {
+            "name": "MRC · nano-wrestling",
+            "age": "12+",
+            "team": "2+",
+            "hardware": "Especificaciones del deporte; Basic / Advanced no intercambiables.",
+            "age_rule": "Edad de categoría prevalece sobre mínimo genérico del equipo.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "source": "https://www.he-ro.gr/mrc-nano-wrestling?lang=en"
+          }
+        ],
+        "event_ids": [
+          "C1634",
+          "C1635"
+        ],
+        "legacy_ids": [],
+        "route": "Global: elegir deporte por edad, equipo y entrenador, acordar acceso extranjero y pago. Junior: festival local separado que premia a todos, sin rango internacional automático.",
+        "hardware": "En deportes con Basic se requieren kits educativos modulares y hub educativo; modelos compatibles / antiguos según reglamento. Advanced y deportes concretos tienen especificaciones propias. No compartir robot entre equipos.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "MRC Global Olympiad: verificadas secciones de edad y equipo de 18 reglamentos deportivos; Kids desde 10 años, restantes desde 12 / 14 / 15. Mínimo genérico 10 del equipo no reduce edad superior del deporte concreto. En 2027 Matvey tendrá 9–10: confirmar categoría y cómputo de edad. Oscar 6–7 menor que mínimos leídos. Kids normalmente 2–3 niños y entrenador desde 20; composición distinta en algunas luchas.",
+          "MRC: EUR 95 por equipo en período anticipado, EUR 125 tardío; una cuota cubre deportes elegidos. Web indica anticipado hasta 25 de febrero, tardío desde 16 de febrero: solapamiento 16–25 de febrero requiere aclaración. Robot adicional EUR 20 solo donde permitido. Exención de colegios públicos griegos no aplicada a familia. No acudir a deporte inscrito puede anular premios en otras disciplinas.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "MRC: EUR 95 por equipo en período anticipado, EUR 125 tardío; una cuota cubre deportes elegidos. Web indica anticipado hasta 25 de febrero, tardío desde 16 de febrero: solapamiento 16–25 de febrero requiere aclaración. Robot adicional EUR 20 solo donde permitido. Exención de colegios públicos griegos no aplicada a familia. No acudir a deporte inscrito puede anular premios en otras disciplinas.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "MRC · 2027 programme",
+            "url": "https://www.he-ro.gr/minoan-robotsports-competition",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC Junior · local festivals",
+            "url": "https://www.he-ro.gr/mrc-junior",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · marathon",
+            "url": "https://www.he-ro.gr/mrc-marathon?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · archery",
+            "url": "https://www.he-ro.gr/mrc-archery?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · relay-race",
+            "url": "https://www.he-ro.gr/mrc-relay-race?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · obstacle-race",
+            "url": "https://www.he-ro.gr/mrc-obstacle-race?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · mountain-bike",
+            "url": "https://www.he-ro.gr/mrc-mountain-bike?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · soccer",
+            "url": "https://www.he-ro.gr/mrc-soccer?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · rally",
+            "url": "https://www.he-ro.gr/mrc-rally?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · shotput",
+            "url": "https://www.he-ro.gr/mrc-shotput?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · shooting",
+            "url": "https://www.he-ro.gr/mrc-shooting?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · rowing",
+            "url": "https://www.he-ro.gr/mrc-rowing?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · drones",
+            "url": "https://www.he-ro.gr/mrc-drones?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · weightlifting-humanoid",
+            "url": "https://www.he-ro.gr/mrc-weightlifting-humanoid?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · obstacle-race-humanoid",
+            "url": "https://www.he-ro.gr/mrc-obstacle-race-humanoid?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · humanoid-wrestling",
+            "url": "https://www.he-ro.gr/mrc-humanoid-wrestling?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · mega-wrestling",
+            "url": "https://www.he-ro.gr/mrc-mega-wrestling?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · mini-wrestling",
+            "url": "https://www.he-ro.gr/mrc-mini-wrestling?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · micro-wrestling",
+            "url": "https://www.he-ro.gr/mrc-micro-wrestling?lang=en",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "MRC · nano-wrestling",
+            "url": "https://www.he-ro.gr/mrc-nano-wrestling?lang=en",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Verificadas secciones de edad de 18 reglamentos deportivos publicados; invitados VEX IQ / ZMROBO Coming Soon no declarados categorías disponibles."
+      },
+      {
+        "id": "wro-hungary-kids",
+        "name": "WRO Hungary · KIDS 6–10",
+        "group": "regional",
+        "age_summary": "6–10 · published 2026",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "PDF oficial llama KIDS juego temático WRO no oficial a nivel nacional. SOLO significa ejecución separada del equipo, no inscripción individual. No es categoría internacional WRO ni vía automática a final mundial.",
+        "categories": [],
+        "event_ids": [
+          "C1633"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "PDF oficial llama KIDS juego temático WRO no oficial a nivel nacional. SOLO significa ejecución separada del equipo, no inscripción individual. No es categoría internacional WRO ni vía automática a final mundial.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "WRO Hungary · KIDS 6–10",
+            "url": "https://wro.hu/kids_kategoria/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Fuente oficial leída; condiciones desconocidas conservadas expresamente."
+      },
+      {
+        "id": "robotex-cyprus",
+        "name": "Robotex Cyprus · local school levels",
+        "group": "regional",
+        "age_summary": "Cursos 1–3 solo Educational Robotics; otros niveles escolares según disciplina",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12"
+        ],
+        "summary": "Reglamentos disponibles EN / EL, pero evaluación presencial y acceso extranjero aparte. Un participante de nivel menor puede subir una categoría según regla; inversa prohibida. Entrada pública gratuita 2026 no significa inscripción gratuita de equipo.",
+        "categories": [],
+        "event_ids": [
+          "C1636"
+        ],
+        "legacy_ids": [],
+        "route": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Confirmar kit y reglamento técnico de categoría elegida.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+        ],
+        "nuances": [
+          "Reglamentos disponibles EN / EL, pero evaluación presencial y acceso extranjero aparte. Un participante de nivel menor puede subir una categoría según regla; inversa prohibida. Entrada pública gratuita 2026 no significa inscripción gratuita de equipo.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "Cuota publicada 2026 EUR 50 por equipo de 2–5 personas. Tarifa / convocatoria 2027 sin anunciar; cuota anterior no prometida a equipo futuro.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "Robotex Cyprus · local school levels",
+            "url": "https://robotex.org.cy/en/page/competitions-page/",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Fuente oficial leída; condiciones desconocidas conservadas expresamente."
+      },
+      {
+        "id": "robochallenge-romania",
+        "name": "RoboChallenge Romania · international Kids / open robotics",
+        "group": "international",
+        "age_summary": "Mini Sumo / Line Follower Kids: menores de 18; Freestyle Kids: cursos 1–8",
+        "age_tags": [
+          "6",
+          "9",
+          "10-12",
+          "teen"
+        ],
+        "summary": "RoboChallenge Romania: leídas Mini Sumo Kids, Line Follower Kids y Freestyle Showcase Kids. Primeras dos admiten menores de 18; mínimo no indicado expresamente. En Mini Sumo Kids padres y docentes no pueden integrar / asistir al equipo. En ambas categorías Kids de carrera no ayudan tras inicio. Freestyle Kids es para cursos escolares 1–8, hasta 5 participantes supervisados por coordinador; exige póster A2 vertical en inglés. Confirmar reglas, autonomía infantil y acceso extranjero de próxima edición.",
+        "categories": [
+          {
+            "name": "Mini Sumo Kids",
+            "age": "Menores de 18; mínimo sin indicar",
+            "team": "Equipo infantil; padres sin integrar / asistir",
+            "hardware": "Robot dentro de cuadrado 10 cm / 100 mm, masa estrictamente menor que 500 g; start/stop según reglamento.",
+            "age_rule": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "entry": "RoboChallenge Romania: leídas Mini Sumo Kids, Line Follower Kids y Freestyle Showcase Kids. Primeras dos admiten menores de 18; mínimo no indicado expresamente. En Mini Sumo Kids padres y docentes no pueden integrar / asistir al equipo. En ambas categorías Kids de carrera no ayudan tras inicio. Freestyle Kids es para cursos escolares 1–8, hasta 5 participantes supervisados por coordinador; exige póster A2 vertical en inglés. Confirmar reglas, autonomía infantil y acceso extranjero de próxima edición."
+          },
+          {
+            "name": "Line Follower Kids",
+            "age": "Menores de 18; mínimo sin indicar",
+            "team": "Niños trabajan autónomamente tras inicio",
+            "hardware": "Line follower autónomo; dimensiones y homologación del reglamento elegido.",
+            "age_rule": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "entry": "RoboChallenge Romania: leídas Mini Sumo Kids, Line Follower Kids y Freestyle Showcase Kids. Primeras dos admiten menores de 18; mínimo no indicado expresamente. En Mini Sumo Kids padres y docentes no pueden integrar / asistir al equipo. En ambas categorías Kids de carrera no ayudan tras inicio. Freestyle Kids es para cursos escolares 1–8, hasta 5 participantes supervisados por coordinador; exige póster A2 vertical en inglés. Confirmar reglas, autonomía infantil y acceso extranjero de próxima edición."
+          },
+          {
+            "name": "Freestyle Showcase Kids",
+            "age": "Cursos escolares 1–8",
+            "team": "Hasta 5 participantes y supervisión de coordinador / docente; confirmar mínimo",
+            "hardware": "Proyecto electrónico / robot propio; stand y póster A2 vertical en inglés.",
+            "age_rule": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+            "entry": "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos."
+          }
+        ],
+        "event_ids": [
+          "C1637"
+        ],
+        "legacy_ids": [],
+        "route": "RoboChallenge Romania: leídas Mini Sumo Kids, Line Follower Kids y Freestyle Showcase Kids. Primeras dos admiten menores de 18; mínimo no indicado expresamente. En Mini Sumo Kids padres y docentes no pueden integrar / asistir al equipo. En ambas categorías Kids de carrera no ayudan tras inicio. Freestyle Kids es para cursos escolares 1–8, hasta 5 participantes supervisados por coordinador; exige póster A2 vertical en inglés. Confirmar reglas, autonomía infantil y acceso extranjero de próxima edición. Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+        "hardware": "Robot / proyecto preparado. En Kids padres no hacen trabajo infantil; reglas específicas por disciplina.",
+        "language": "Idioma de evaluación presencial, entrevistas y comunicación técnica EN / ES / RU sin confirmar. Web, reglamentos en inglés o traducciones de materiales no acreditan admisión lingüística.",
+        "importance": "",
+        "strengths": "",
+        "requirements": [
+          "Posibilidad por edad no acredita admisión. Verificar nacimiento / curso exactos, equipo y entrenador locales, participación extranjera, idioma, plazas y factura. Sin enviar solicitudes, consentimientos, mensajes ni pagos.",
+          "RoboChallenge Romania: leídas Mini Sumo Kids, Line Follower Kids y Freestyle Showcase Kids. Primeras dos admiten menores de 18; mínimo no indicado expresamente. En Mini Sumo Kids padres y docentes no pueden integrar / asistir al equipo. En ambas categorías Kids de carrera no ayudan tras inicio. Freestyle Kids es para cursos escolares 1–8, hasta 5 participantes supervisados por coordinador; exige póster A2 vertical en inglés. Confirmar reglas, autonomía infantil y acceso extranjero de próxima edición."
+        ],
+        "nuances": [
+          "FAQ de edición 2026: EUR 35 por equipo, no por robot; varias disciplinas sin cuota adicional. Exenciones para escolares rumanos menores de 18 o certificado reconocido y validado por organizador. Exención familiar sin establecer. Tarifas y plazos 2027 sin anunciar; cuota 2026 no es factura de siguiente temporada.",
+          "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado."
+        ],
+        "cost": "FAQ de edición 2026: EUR 35 por equipo, no por robot; varias disciplinas sin cuota adicional. Exenciones para escolares rumanos menores de 18 o certificado reconocido y validado por organizador. Exención familiar sin establecer. Tarifas y plazos 2027 sin anunciar; cuota 2026 no es factura de siguiente temporada.",
+        "award": "Certificado y medalla de participante no son victoria. Premio competitivo confirmado mediante acta oficial de categoría concreta; muestra de festival se considera por separado.",
+        "sources": [
+          {
+            "title": "RoboChallenge · programme",
+            "url": "https://robochallenge.ro/about",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboChallenge · FAQ",
+            "url": "https://robochallenge.ro/faq",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboChallenge · mini-sumo-kids",
+            "url": "https://robochallenge.ro/regulation/mini-sumo-kids",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboChallenge · line-follower-kids",
+            "url": "https://robochallenge.ro/regulation/line-follower-kids",
+            "checked": "2026-11-05"
+          },
+          {
+            "title": "RoboChallenge · freestyle-showcase-kids",
+            "url": "https://robochallenge.ro/regulation/freestyle-showcase-kids",
+            "checked": "2026-11-05"
+          }
+        ],
+        "evidence": "Verificados tres reglamentos Kids; otras disciplinas y reglas futuras requieren auditoría aparte. Edición 2027 sin anunciar queda en seguimiento."
       }
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "158 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "170 perfiles de ligas, familias y programas; conservadas las 46 vías anteriores. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",
