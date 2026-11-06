@@ -14579,8 +14579,24 @@ Marca de idioma: primary; soporte: no declarado
 Costo: 2027 · 2027 precios se aclaran - los pagos y las condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: B 2027 Más. 9–10; mínimo 14. Oscar: B 2027 Más. 6–7; mínimo 14. Gastos adicionales: Vuelo, Lavandería, Actividades pagadas, Derechos de aeropuerto, Seguro, El impuesto y el derecho de inscripción deben ser calculados. Pago: La referencia a la ayuda a los aranceles muestra el artículo How do I register? 2022. Nuevo tratado, Anticipos y condiciones de devolución aún no se conocen.
-Fuente: https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/
-Comprobado: 2026-10-05
+Fuente: https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf
+Se ha comprobado: 2026-11-06
+
+### CP152-20270718-20270731 · CISS at Trinity · Future Entrepreneurs · Future Entrepreneurs · Segundo turno · 2027-07-18–2027-07-31
+
+Lugar: Canadá · Toronto · Trinidad College, University of Toronto
+Fecha: 2027-07-18 - 2027-07-31
+Edad: 14*18
+Matvey: No ahora; la edad futura
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Inglés medio o avanzado, equivalente a IELTS 4.0+; 20 horas por semana. & Career Prep desde los 16 años de edad; otras opciones.
+Marca de idioma: primary; soporte: no declarado
+Costo: 2027 · 2027 precios se aclaran - los pagos y las condiciones del expediente
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: B 2027 Más. 9–10; mínimo 14. Oscar: B 2027 Más. 6–7; mínimo 14. Gastos adicionales: Vuelo, Lavandería, Actividades pagadas, Derechos de aeropuerto, Seguro, El impuesto y el derecho de inscripción deben ser calculados. Pago: La referencia a la ayuda a los aranceles muestra el artículo How do I register? 2022. Nuevo tratado, Anticipos y condiciones de devolución aún no se conocen.
+Fuente: https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf
+Se ha comprobado: 2026-11-06
 
 ### CP153-20261012-20261016 · Collège du Léman · Nano 4–7 · O otoño · Mythical Creatures · 2026-10-12–2026-10-16
 

@@ -3098,6 +3098,26 @@ Magic Factory 1–4 las clases 25–29 enero; Physical Workshop 1–5 las clases
 
 resultado = el precio del cambio elegido + obligatorio fee/tax + opciones elegidas + transfer + vuelos + vivienda/alimento de los padres en el day camp + seguro/documentos. depósito de devolución  por separado como suma temporal. no convertimos las divisas por el curso inventado.
 
+## Selección editorial por objetivos
+
+Primer conjunto de análisis detallados. Es una valoración editorial, no una clasificación mundial oficial ni una lista completa de los mejores campamentos.
+
+Primero elija país, tema, formato, niño y período. El orden editorial se aplica únicamente a los programas que cumplen esos filtros. El filtro «Con análisis editorial» muestra la parte del catálogo que ya se ha analizado.
+
+Dentro del conjunto elegido se consideran primero los requisitos de edad, el idioma confirmado y las próximas fechas; después, la valoración editorial según el objetivo. El modo para edades futuras mantiene los programas de mayores y muestra claramente las limitaciones actuales.
+
+La valoración editorial se basa en el contenido del programa. No se calcula mediante palabras clave, precio, fama de la marca ni cantidad de campos rellenados.
+
+El estado de cada criterio indica qué información se pudo obtener. Las condiciones concretas publicadas por el organizador no constituyen una verificación independiente de la calidad, la supervisión o la seguridad.
+
+Los programas no evaluados permanecen en el catálogo. Su posición no significa menor calidad. Los datos desconocidos no reciben un cero ni se convierten en estrellas inventadas.
+
+Las plazas, la admisión, el idioma del grupo y la preparación para alojarse sin los padres se verifican por separado. Una fecha o un botón de inscripción no prueban que haya plazas disponibles.
+
+Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes.
+
+La valoración del contenido frente al precio total queda aplazada: aún no se conoce el presupuesto familiar completo con todos los gastos obligatorios. Una tarifa parcial y monedas distintas no permiten afirmar qué campamento ofrece el mejor precio.
+
 ## CP001 · Les Elfes International
 
 Suiza - Verbier
@@ -3127,6 +3147,62 @@ Suiza - Verbier
 **Oscar:** Programa Principal desde los 6 años; no se dispone de robótica hasta los 10 años.
 
 ** Por qué en la selección:** Uno de los primeros candidatos a un internado inglés común para ambos, y comparar para un robot serio con un curso técnico completo.
+
+### Análisis editorial
+
+Para el descanso y la autonomía alpinos; la opción técnica no puede considerarse un programa básico.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Diferentes períodos de descanso activo y de residencia; seleccionar por separado el grupo de edad.
+
+**Práctica de idiomas:** Considerar como alternativa · Las lecciones de idiomas son una opción de pago; la carga lingüística debe elegirse en un paquete.
+
+**Primer internado:** Considerar como alternativa · Es necesario comprobar la autonomía y el apoyo de los jóvenes; el formato internacional no garantiza por sí solo la preparación para el internado.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El paquete básico incluye el deporte, la naturaleza y las visitas guiadas; las clases de idiomas y los talleres se eligen por separado.
+
+[fuente oficial](https://www.leselfes.com/summer-camp/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/dates-and-pricing/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/about-us/faq/) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Campamento 6*17: La edad de un taller técnico adicional concreto debe ser examinada por separado.
+
+[fuente oficial](https://www.leselfes.com/summer-camp/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/dates-and-pricing/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/about-us/faq/) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · El entorno principal de EN fue confirmado por la FAQ; el idioma del trabajo seleccionado debe ser armonizado.
+
+[fuente oficial](https://www.leselfes.com/summer-camp/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/dates-and-pricing/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/about-us/faq/) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · El organizador describe supervisión permanente y habitaciones para cuatro personas con baño.
+
+[fuente oficial](https://www.leselfes.com/summer-camp/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/dates-and-pricing/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/about-us/faq/) · 2026-11-06
+
+**Precio y condiciones:** Hay una contradicción · En la página del programa, en la página de tarifas y en el formulario que se lee anteriormente, se distingue entre las sumas básicas y las entradas. Antes de pagar, se necesita una sola cuenta de turno.
+
+[fuente oficial](https://www.leselfes.com/summer-camp/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/dates-and-pricing/) · 2026-11-06
+
+[fuente oficial](https://www.leselfes.com/about-us/faq/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -4028,6 +4104,58 @@ Suiza · Chesières / Villars
 
 ** Por qué en la selección:** Candidato fuerte para el primer campamento común para niños pequeños; las fechas ya son 2027 y las tarifas deben actualizarse.
 
+### Análisis editorial
+
+Uno de los primeros candidatos a las vacaciones comunes en los idiomas para dos niños; los grupos de edad serán diferentes.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Idiomas, deportes, naturaleza y creatividad con grupos de edad para ambos niños.
+
+**Práctica de idiomas:** Considerar primero · Se han publicado clases de idiomas matutinas y opciones de edad; seleccione EN o FR.
+
+**Primer internado:** Considerar primero · Los grupos de edad más jóvenes merecen ser examinados, pero la preparación de cada niño y el régimen de comunicación se examinan por separado.
+
+**Viaje familiar con campamento de día:** Considerar primero · El formato diario permite a la familia vivir cerca y a los niños trabajar en grupos diferentes.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Mañana se imparten clases de idiomas, después deportes y aventuras; no se ha declarado ningún robot especializado.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · grupos de verano 3–4, 5–7, 8–9 y 10–14
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se ofrecen clases de idiomas EN y FR; es un campamento de idiomas, no prueba de un curso técnico.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El operador indica el número de profesores de idiomas; el tamaño del grupo y la composición del turno son todavía más precisos.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · El servicio de alojamiento escolar es el de la escuela menor y la opción de día; la transición a las noches se discuten individualmente. en términos de dispositivo/hora con cámara y tracking se entregan, Air Tags sólo en el equipaje. visitas de los padres sólo por permiso previo; comunicación según las reglas comunicadas al reservar.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 2027, 5–14 años: boarding 2 / 3 / 4 / 5 / 6 semanas CHF 6150 / 8950 / 10750 / 13300 / 15750; day 3575 / 5250 / 6800 / 8400 / 9900. Tarifas 2026 sustituidas por actuales. Descuento 10% desde 4 semanas ya incluido. Descuento de segundo niño 10% no acumulable: residencia excluye uniforme, seguro e impuestos, PDF day enumera solo uniforme. Confirmar base de descuento del paquete elegido; presupuesto familiar no se reduce automáticamente.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - solicitar el precio y las clases semanales de 2027; no considerar la ventana de la escuela de invierno como una garantía de un turno abierto por separado.
@@ -4077,6 +4205,76 @@ Suiza · Montagnola / Lugano
 **Oscar:** Después 7-años CDE; Antes de él. Minnows Solo por la tarde.. La edad del primer día decide el formato.
 
 ** Por qué en la selección:** Una de las opciones más comprensibles para viajar en general con el STEAM diario y los diferentes grupos de hermanos.
+
+### Análisis editorial
+
+Un candidato fuerte para el idioma y un STEAM amplio, con formatos diferentes por edad.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · El CDE combina el idioma seleccionado con el STEAM diario; Minnows tiene un programa de segunda mano separado.
+
+**Actividades generales de esparcimiento:** Considerar primero · Un amplio conjunto de deportes, creaciones y excursiones; no es un día completo de robótica.
+
+**Viaje familiar con campamento de día:** Considerar primero · Si Oscar tiene seis más, Minnows solo está disponible esta tarde; Matway encaja con el CDE.
+
+**Primer internado:** Considerar como alternativa · La pensión CDE comienza desde los siete años; hasta el séptimo aniversario de Oscar, el escenario familiar no está confirmado.
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Es el mismo para el STEAM general, pero hay que confirmar un módulo robótico separado para este turno.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El CDE publica una hora diaria STEAM. Minnows tiene un programa de trabajo de segunda mano con una sesión semanal y otras actividades de STEAM.
+
+[fuente oficial](https://summer.tasis.ch/programs/cde) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/programs/minnows) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/dates-and-fees) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/admissions/faq) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · CDE 7–10; Minnows 4–6 Sólo durante el día.; MSP 11–13; HSP 14–17
+
+[fuente oficial](https://summer.tasis.ch/programs/cde) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/programs/minnows) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/dates-and-fees) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/admissions/faq) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El lenguaje de CDE seleccionado se utiliza también en STEAM; disponible en EN, FR e IT.
+
+[fuente oficial](https://summer.tasis.ch/programs/cde) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/programs/minnows) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/dates-and-fees) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/admissions/faq) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · El CDE permite la internación; Minnows sólo es de día. FAQ describe por separado las habitaciones y los seguros.
+
+[fuente oficial](https://summer.tasis.ch/programs/cde) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/programs/minnows) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/dates-and-fees) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/admissions/faq) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CDE: CHF 4 500 de día / 9 200 el pensión por 3 las semanas. Minnows: CHF 3 500 hasta 15:00 / 4 500 hasta 17:30.
+
+[fuente oficial](https://summer.tasis.ch/programs/cde) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/programs/minnows) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/dates-and-fees) · 2026-11-06
+
+[fuente oficial](https://summer.tasis.ch/admissions/faq) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -4560,6 +4758,78 @@ Suiza - Lausanne
 
 **Por qué en la selección:** Primer candidato suizo para el verano técnico avanzado de Matway después de 10-años: lenguaje descubierto, Índice, Horas y precio.
 
+### Análisis editorial
+
+Etapa técnica prioritaria de Matvei después de la edad mínima; Oscar más tarde.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Dos semanas con IA, un robot y un Python, y su propio ordenador es obligatorio.
+
+**En el futuro:** Considerar primero · Comprobar diez años para el cambio de Matway, es el siguiente paso de edad para Oscar.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Se han publicado una semana de IE y una semana de montaje y programación de robot Python; no se pueden repetir los dos mismos turnos.
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · curso de verano 10–16; el menor de edad para el inicio del turno debe confirmar
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El curso se imparte en EN; el inglés no es suficiente.
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se ha designado a un socio de TechSpark Academy; no se ha verificado la composición de los profesores ni el tamaño del equipo de trabajo.
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Hasta tres niños en una habitación; los pensiones están divididos por edad/sex, en cada piso resident teacher.
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CHF 7 000/2 Semanas con el robot. Language Academy CHF 3 000/de la tierra., por lo menos 2 las semanas.
+
+[fuente oficial](https://summer.brillantmont.ch/mornings/tech-academy) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply-fees) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/apply/questions) · 2026-11-06
+
+[fuente oficial](https://summer.brillantmont.ch/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar la edad de Tech Academy, los requisitos para el ordenador portátil, la duración del período y los detalles de la dos semanas del proyecto.
@@ -4653,6 +4923,82 @@ Francia - Megève
 **Oscar:** FUN 6–9.
 
 ** Por qué en la selección:** Uno de los primeros candidatos franceses a un campamento internacional común para ambos; no promete ninguna intensificación técnica.
+
+### Análisis editorial
+
+Examinar el idioma y el descanso alpino; aún no se ha establecido un nuevo turno de fecha.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · FUN es el más joven, después de cambiar de grupo de edad, Matway necesita un Adrenaline.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Deportes e idiomas; no se ha declarado ninguna intensificación técnica.
+
+**Primer internado:** Considerar como alternativa · El programa más pequeño merece ser examinado, pero las condiciones del nuevo año y el apoyo al primer internado aún no han sido aprobados.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El FUN describe las clases de idiomas, la creatividad y el descanso activo; es un curso de idiomas común.
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/prices) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/general-terms-and-conditions-of-sale) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/faq) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · FUN 6–9; Adrenaline 10–13; el límite de los adolescentes se especifique por separado
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/prices) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/general-terms-and-conditions-of-sale) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/faq) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Los programas incluyen el EN y el FR; seleccionar el idioma y el grupo de estudio.
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/prices) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/general-terms-and-conditions-of-sale) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/faq) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Diurno 09–18 o un pensión completo en Megève; la colocación de un track concreto se confirme.
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/prices) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/general-terms-and-conditions-of-sale) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/faq) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · El prys actual no está atado al año, no puede ser confirmado por el precio del próximo turno.
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/prices) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/general-terms-and-conditions-of-sale) · 2026-11-06
+
+[fuente oficial](https://internationallanguagecamps.com/faq) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -5146,6 +5492,72 @@ Gran Bretaña · Winchester; Londres / Oxford day
 
 ** Por qué en la selección: ** Un candidato de ingeniería fuerte para Matway con productos técnicos específicos y un trabajo por cuenta propia.
 
+### Análisis editorial
+
+Intensidad técnica y entorno inglés para Matway; Oscar menor de edad.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · El programa principal se centra en la tecnología y los proyectos, no en un círculo adicional separado.
+
+**Práctica de idiomas:** Considerar como alternativa · Todas las clases de EN, el operador recomienda B1 o más; es práctica a través de la técnica, sin un curso de idiomas separado.
+
+**En el futuro:** Considerar primero · El próximo viaje técnico para ambos después de que Oscar cumpla la edad mínima.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Normalmente cuatro unidades técnicas por día; un dispositivo específico y la entrega de un proyecto a casa para comprobar el curso seleccionado.
+
+[fuente oficial](https://www.techcamp.org.uk/info/residential-camps) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/faqs) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/pricing-discounts) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/overseas-campers) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–17
+
+[fuente oficial](https://www.techcamp.org.uk/info/residential-camps) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/faqs) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/pricing-discounts) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/overseas-campers) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Todos los cursos y el nivel recomendado B1 se denominan claramente operador.
+
+[fuente oficial](https://www.techcamp.org.uk/info/residential-camps) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/faqs) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/pricing-discounts) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/overseas-campers) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · La pensión Winchester tiene habitaciones de un solo lugar con un baño; el formato diario es diferente.
+
+[fuente oficial](https://www.techcamp.org.uk/info/residential-camps) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/faqs) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/pricing-discounts) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/overseas-campers) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · El precio numérico del curso elegido no está confirmado en las páginas leídas.
+
+[fuente oficial](https://www.techcamp.org.uk/info/residential-camps) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/faqs) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/pricing-discounts) · 2026-11-06
+
+[fuente oficial](https://www.techcamp.org.uk/info/overseas-campers) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - comprobar el curso, 2027, el horario exacto, el precio, el idioma de las instrucciones y la capacidad de adaptación.
@@ -5480,6 +5892,48 @@ Taipei American School campus
 
 ** Por qué en la selección: ** Un candidato técnico taiwanés fuerte con una clara edad de clase y reglas de aplicación admission.
 
+### Análisis editorial
+
+Un formato de ingeniería de día prometedor en Taiwán; hasta ahora, la orientación de la temporada anterior.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Las tareas de edad varían de simples experimentos a proyectos de ingeniería abiertos; hay que confirmar el nuevo turno.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Comprobar la clase actual, la pertenencia, las condiciones de pasaporte y el idioma de Tech Camp.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Describe diferentes STEM-tareas para el desarrollo Grades 1–2, 3–4 y 5–8; No es el mismo curso para todos..
+
+[fuente oficial](https://www.typa.org.tw/course/summer-camps/tech-camp/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/how-to-register/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/registration-information/) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · La categoría se define por clase, no sólo por el año de nacimiento.
+
+[fuente oficial](https://www.typa.org.tw/course/summer-camps/tech-camp/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/how-to-register/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/registration-information/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma del campo técnico aún no está confirmado por la confirmación directa de la tarjeta leída; el sitio web en inglés es insuficiente.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Solo en formato diurno; vivienda familiar por separado.
+
+[fuente oficial](https://www.typa.org.tw/course/summer-camps/tech-camp/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/how-to-register/) · 2026-11-06
+
+[fuente oficial](https://www.typa.org.tw/registration-information/) · 2026-11-06
+
+**Precio y condiciones:** no se ha establecido · El próximo Tech Camp no ha sido fijado aún.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar el EN técnico, el grado ascendente y el registro de verano 2027. regla para la doble ROC de la ciudadanía especificar separadamente: una prohibición clara en la página actual no se encuentra.
@@ -5500,7 +5954,7 @@ Taipei American School campus
 
 Taipei / Shilin
 
-** Verificado:** 2026-10-04
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Rising grade de un curso específico; Pre-K–12 en la Academia General
 
@@ -5510,7 +5964,7 @@ Taipei / Shilin
 
 ** Vivienda:** Actividades diarias; vivienda de la familia por separado.
 
-**Fechas / situación:** 2026: 08.06–03.07; Calendario 2027 No confirmado..
+**Fechas / situación:** Título Summer Academy 2027, pero la línea del período indica 7 junio–2 julio 2026. El año es contradictorio.; Fechas 2027 no confirmado y no arrastrado al calendario. Archivo anterior: 2026, 08.06–03.07.
 
 **Cabe/año:**2026 - Costo depende del tipo de cambio y la duración; no se ha confirmado la tarifa única.
 
@@ -5526,13 +5980,57 @@ Taipei / Shilin
 
 ** Por qué en la selección: ** La ruta técnica y académica de Taiwán es posible para los niños del exterior; la entrada requiere documentos y no está garantizada por el pasaporte.
 
+### Análisis editorial
+
+La ruta de la ingeniería académica en Taiwán; la proclamación de un año nuevo es contraria a las fechas.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Hay que elegir un curso específico para la clase escolar y comprobar los documentos de los alumnos externos.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Examinar una vez confirmado el nuevo calendario, el idioma y la admisión de cada niño.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · La escuela enumera las esferas académicas, incluidas las de ingeniería y computación; la carga y el proyecto dependen del curso.
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/home/faq) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/registration/fees-payment) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Se necesitan clases de niños y normas de curso; el pre-K-K-12 no significa que se pueda acceder a todas las clases técnicas.
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/home/faq) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/registration/fees-payment) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · la lengua académica de un curso específico; la escuela es de inglés, pero no es una prueba de cada curso.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · las clases diarias; la vivienda familiar por separado.
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/home/faq) · 2026-11-06
+
+[fuente oficial](https://www.tas.edu.tw/summer-academy/registration/fees-payment) · 2026-11-06
+
+**Precio y condiciones:** no se ha establecido · No se ha establecido una tarifa única de la Academia Summer.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - elegir un curso específico para 2027, comprobar el EN/clase/posición/valor final.
 
+- Obtener el calendario corregido de Summer Academy 2027: el año del período publicado contradice el título.
+
 ### Fuentes
 
-- [Summer Academy](https://www.tas.edu.tw/summer-academy/) · 2026-10-04
+- [Nueva comprobación del anuncio: contradicción 2027 / 2026](https://www.tas.edu.tw/summer-academy/) · 2026-11-06
 
 - [niños externos / documentos](https://www.tas.edu.tw/summer-academy/home/faq) · 2026-10-04
 
@@ -5588,13 +6086,13 @@ Singapur · Yishun / XCL World Academy
 
 Singapur - Red de centros de capacitación Singapore
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Little Explorer 5–6; STEM Explorer 7–8; SPIKE certificate 9–16; Arduino 10–16; Python 10–16 en el menú actual.
 
 ** Idioma: ** El idioma del curso técnico no está confirmado directamente por la página de la versión en la que se lee; hay que armonizar el flujo inglés.
 
-** Programa:** SPIKE certificate: 60 horas / 6 niveles; FLL Main después de Advanced, pero Novice Team toma 30 horas / 12 sesiones sin experiencia; Explore: 15 sesiones de team page, frente a 20 sesiones de STEM page; acceso a la admisión; no se puede representar a la escuela y a Nullspace en un torneo.
+**Programa:** Preparación regular y talleres de vacaciones separados. FLL Main: 45 horas / 18 sesiones Nov–Mar, requiere SPIKE Advanced; Novice: 30 horas / 12 sesiones Jan–Mar, sin experiencia. Team Explore: 20 horas / 10 sesiones Jan–Mar tras 15 sesiones de STEM Explorer. La página indica Explore 7–9, pero describe la categoría como 6–8: confirmar la admisión del menor. No se puede representar a la escuela y a Nullspace simultáneamente en una misma competición. Las fechas del torneo no son las fechas del campamento.
 
 ** Vivienda: ** Centro de formación diurna; internado no confirmado.
 
@@ -5614,6 +6112,38 @@ Singapur - Red de centros de capacitación Singapore
 
 ** Por qué en la selección: ** Un candidato fuerte para el desarrollo tecnológico progresivo de ambos con niveles diferentes.
 
+### Análisis editorial
+
+El camino a la competencia y a la tripulación regular; no es un turno de verano confirmado.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Hay niveles de capacitación y líneas de mando; el idioma y el acceso de los niños de visita todavía deben ser confirmados.
+
+**En el futuro:** Considerar como alternativa · Dividir los niveles de edad y pasar a la tripulación, excepto considerar el trabajo experimental como un acceso a la final internacional.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · En la página de órdenes se separan el FLL Main y el Novice con diferentes requisitos y cargas; al mismo tiempo, no se puede representar a la escuela y al centro en un torneo.
+
+[fuente oficial](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-11-06
+
+**Adaptación a la edad:** Hay una contradicción · En la página de órdenes Explore edad 7–9, en la categoría 6–8. La admisión de Oscar debe ser confirmada..
+
+[fuente oficial](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El idioma del curso técnico no está confirmado directamente por la página que se lee; se necesita acordar el flujo de inglés.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · centro de educación diurna; el pensión no está confirmado.
+
+[fuente oficial](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 10 horas alrededor de $520 sin registro/admin fee en la FAQ; la moneda, el impuesto y el costo de la temporada de equipo requieren confirmación.
+
+[fuente oficial](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar el EN de cada curso, la elegibilidad extranjera, la estimación completa, la selección en el equipo y el Explore threshold 15/20 de las clases.
@@ -5622,7 +6152,7 @@ Singapur - Red de centros de capacitación Singapore
 
 - [los niveles actuales](https://sg.nullspace.co/centre-for-robotics-learning/) · 2026-10-05
 
-- [Novice/Main/Explore](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-10-05
+- [Capacitación en mando de la BIOGLOW: Main / Novice / Explore · web reader, línea HTTP403](https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/) · 2026-11-06
 
 - [Reglas del centro](https://sg.nullspace.co/centre-for-robotics-learning/centre-policy/) · 2026-10-05
 
@@ -5698,6 +6228,44 @@ Japón · Tokyo / Nishi-Azabu
 
 ** Por qué en la selección:** Primer candidato técnico anglófono del Japón para el viaje conjunto de invierno de ambos países.
 
+### Análisis editorial
+
+Un día técnico práctico y general de día para ambos en un entorno de habla inglesa.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Hay proyectos técnicos, pero esta semana es la semana que hay que acordar la intensidad de la robótica y la II.
+
+**Viaje familiar con campamento de día:** Considerar primero · Ambos niños pertenecen a la misma edad; la familia vive por separado en Tokio.
+
+**Práctica de idiomas:** Considerar como alternativa · El inglés se utiliza en las sesiones técnicas y en el trabajo de los jefes.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El operador indica 15 horas + horas de ejercicio técnico durante cinco días con visitas guiadas; los Robotics / AI sólo pueden acceder a ellas en sesiones separadas.
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 5–12, diferentes niveles de experiencia
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Las clases están confirmadas en la EN.
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se indican los jefes técnicos anglófonos; no se han determinado las calificaciones ni el tamaño del equipo de ese turno.
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · campamento de día; no se ha anunciado el pensión.
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · JPY 129 000 + tax / 5 días.
+
+[fuente oficial](https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - - ¿Qué es eso ? robotics/AI Es decir, 19–23 diciembre, grupos de edad y el resultado con impuestos.
@@ -5735,6 +6303,42 @@ Japón · Appi Kogen / Iwate
 *Oscar:** Menos de 9 años.
 
 ** Por qué en la selección: ** Un fuerte internado invernal cercano para Matway: un proyecto específico y un horario detallado.
+
+### Análisis editorial
+
+Un invierno de ingeniería de corta duración y un internado para Matway; Oscar más tarde.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · El proyecto de un robot esquiador combina Micro:bit, física, mediciones e iteraciones.
+
+**En el futuro:** Considerar como alternativa · Un internado escolar con un tema técnico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Se ha publicado un proyecto de robot de esquí con programación, mediciones y ensayos.
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 9–13 durante el campo
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El internado de habla inglesa está declarado por el operador.
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · La escuela ha designado a un director de curso técnico; no se ha realizado una evaluación independiente de la enseñanza.
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Se publicaron seis noches de internado y un autobús organizado desde Morioka; las condiciones familiares exactas son claras.
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 440 000 JPY con el impuesto para el participante habitual. 352 000 JPY Sólo a los estudiantes actuales. Harrow Appi; No se aplica este descuento a la familia..
+
+[fuente oficial](https://winter.harrowappi.jp/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -5819,6 +6423,44 @@ Red de campus USA
 **Oscar:** B 2027 Se cumplirá7 antes 31 diciembre: Total day-course gate7 Puede venir antes de su cumpleaños.. Cursos estrictos por separado; overnight10 no disponible.
 
 ** Por qué en la selección:** Primer candidato técnico en línea de los Estados Unidos a ambos niveles; se ha demostrado que el inglés es la edad de un curso determinado.
+
+### Análisis editorial
+
+Elecciones de sistema para un curso y una edad específicos; el nombre del campus no sustituye al programa.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Elegir un curso separado por proyecto y nivel, no por logotipo universitario.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Los cursos de enseñanza secundaria de día pueden tener siete años; la edad del cutoff y el nuevo emplazamiento requieren confirmación.
+
+**En el futuro:** Considerar primero · VEX / Python y las direcciones de IA superiores son diferentes.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El catálogo se divide en programas de segunda línea, Python de mayor edad / VEX y IE adolescente; el contenido se selecciona según el curso.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · En el catálogo general de edad diaria 7*17; las reglas especiales del cutoff y la pensión deben ser examinadas por un nuevo turno.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · En el pasado, las FAQ fueron confirmadas por separado; en la lectura actual, las páginas de ayuda se recuperaron con el envoltorio vacío.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El operador describe a los profesores adultos, selecciona y verifica su biografía; es información de la operadora.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · campus universitarios, no en todas partes durante la noche; las condiciones de las habitaciones a comprobar.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · los indicadores actuales: diario de USD 949/día; Room & Board adicionalmente de USD 679/día. la suma mínima de estos dos  de USD 1 628, paquete no garantizado de 2027.
+
+[fuente oficial](https://www.idtech.com/tech-camps) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -6100,6 +6742,40 @@ Costa Rica · Montevideo
 
 ** Por qué en la selección:** Primer candidato general/científica local para ambos: las fechas exactas de primavera y verano de 2027 ya se han publicado.
 
+### Análisis editorial
+
+Una de las primeras opciones locales para un programa natural común para ambos.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Monteverde: ejercicios ecológicos, paseos, arte y deportes con fechas publicadas.
+
+**Viaje familiar con campamento de día:** Considerar primero · La base de Costa Rica permite combinar el campamento con el viaje familiar; no se prometen los equipos.
+
+**Práctica de idiomas:** Considerar como alternativa · Se mencionan las prácticas de conversación en el idioma y el idioma; no se ha determinado la proporción de idiomas en las clases básicas.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El programa se centra en la cubierta de nubes, la sostenibilidad y la naturaleza, la creatividad y la actividad física.
+
+[fuente oficial](https://cloudforestschool.org/camps-cec/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 5–13
+
+[fuente oficial](https://cloudforestschool.org/camps-cec/) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · Las llamadas en línea EN y ES son claras, pero no se especifica el idioma de instrucción de cada actividad.
+
+[fuente oficial](https://cloudforestschool.org/camps-cec/) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · campamento de día; vivienda familiar en Monteverde por separado.
+
+[fuente oficial](https://cloudforestschool.org/camps-cec/) · 2026-11-06
+
+**Precio y condiciones:** no se ha establecido · El primer turno completo del cambio seleccionado no se ha publicado en la página de lectura.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - obtener el costo, la lengua, la alimentación y las reglas de los niños extranjeros/huéspedes.
@@ -6176,6 +6852,38 @@ México · Toluca
 
 ** Por qué en la selección:** robótica local con temporadas futuras anunciadas; acceso real a ambos y nivel de holiday del grupo todavía no se conoce.
 
+### Análisis editorial
+
+Un candidato técnico mexicano útil, sin autorización de vacaciones demostrada.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · El operador describe los programas de robótica holiday, pero aún se necesitan la edad, el reloj, el idioma y el precio de un flujo concreto.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Posible programa en México; los niveles escolares regulares no sustituyen a las exigencias del campamento.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Se han identificado los conjuntos y temas de futuros programas holiday; aún no se conoce el proyecto y la carga de trabajo de cada grupo de edad.
+
+[fuente oficial](https://ciberbots.com.mx/inicio) · 2026-11-06
+
+[fuente oficial](https://www.ciberbots.com.mx/services) · 2026-11-06
+
+**Adaptación a la edad:** no se ha establecido · No se ha establecido la edad de los campamentos, y la edad de los cursos ordinarios no puede ser automáticamente arrastrada.
+
+**Idioma del programa concreto:** no se ha establecido · operador de español; el curso de vacaciones y el apoyo EN de la lengua principal.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · centro de educación diurna; el pensión no está confirmado.
+
+[fuente oficial](https://ciberbots.com.mx/inicio) · 2026-11-06
+
+[fuente oficial](https://www.ciberbots.com.mx/services) · 2026-11-06
+
+**Precio y condiciones:** no se ha establecido · El precio del tipo de cambio de vacaciones seleccionado aún no se ha determinado.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar las exactdates de Christmas2026/Summer/Easter2027, camp-specificage, lengua/ENsupport, reloj, robots/pares, el precio completo/cancelación y el camino al equipo de la competencia.
@@ -6215,6 +6923,38 @@ México · Valle de Bravo
 **Oscar:** BASE 6–14; No se dispone de muchas actividades especiales..
 
 ** Por qué en la selección: ** Candidato de internado mexicano común para ambos, con paquetes de archivo y pagos claros.
+
+### Análisis editorial
+
+Pasión general mexicana para el descanso activo; el futuro no está confirmado.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Naturaleza, aventuras y deportes; no es un campo de robot.
+
+**Primer internado:** Considerar como alternativa · La edad total permite que los jóvenes, pero la nueva temporada, el idioma y el apoyo para la primera salida, sean probados.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Se ha publicado un campamento general activo y se imparten clases especiales con distintos umbrales de edad.
+
+[fuente oficial](https://valleverde.com.mx/fechas-y-costos/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · BASE 6–14; PRO 14–17; las actividades especiales tienen límites 8+/10+
+
+[fuente oficial](https://valleverde.com.mx/fechas-y-costos/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · el idioma principal del campamento diario/el apoyo al inglés se especifique. el sitio web español no se considere una confirmación de la EN.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · el pensión de la ciudad; la habitación/ordenamiento exacto de los menores.
+
+[fuente oficial](https://valleverde.com.mx/fechas-y-costos/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Price leído es 2026, el nuevo precio aún no ha sido confirmado.
+
+[fuente oficial](https://valleverde.com.mx/fechas-y-costos/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -6291,6 +7031,40 @@ Argentina · Ramos Mejía / Buenos Aires
 **Oscar:** Junior 6–9.
 
 ** Por qué en la selección: ** Uno de los candidatos técnicos más designados de enero para América Latina.
+
+### Análisis editorial
+
+Uno de los primeros candidatos técnicos para la prueba del verano sudamericano.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Se describen detalladamente los proyectos de una semana de duración con dispositivos físicos y juegos; se selecciona a Junior o Senior por edad real.
+
+**Viaje familiar con campamento de día:** Considerar primero · Formato técnico de día corto; el idioma de enseñanza debe ser confirmado directamente.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Dos partes prácticas del día: un dispositivo físico y un juego conexo, con un cambio de equipo y tareas semanales.
+
+[fuente oficial](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Junior 6–9; El mayor 10–13
+
+[fuente oficial](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · Sitio web de ES y descripción de español; aún no se ha confirmado directamente el idioma de enseñanza.
+
+**Instructores y grupo:** Pruebas parciales · Se ha declarado un límite de 12 participantes, pero no se ha verificado la composición y las calificaciones de los profesores de una semana determinada.
+
+[fuente oficial](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · centro de educación diurna, no se ha anunciado el pensión.
+
+[fuente oficial](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · ARS 95 000/15 horas semanales para ambos niveles; descuento por varias semanas sin una cantidad fijada.
+
+[fuente oficial](https://programable.com.ar/colonia-tecno-2027/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -6391,6 +7165,56 @@ Chile · Pelarco / Maule
 **Oscar: ** La edad de homepage 6+ es adecuada, pero Classic exige Grade2+: sin confirmación de categoría/exclusión, no se considerará admisible.
 
 ** Por qué en la selección: ** Un fuerte internado inglés común de América Latina con 2027 turnos publicados; la clase Oscar puede ser un obstáculo.
+
+### Análisis editorial
+
+La naturaleza y la autonomía anglófonas en América Latina; la categoría escolar es más importante que la de la banda de edad general.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Un programa de seis días de duración sin pantallas, no prometo ningún robot.
+
+**Práctica de idiomas:** Considerar primero · Inmersión completa en EN durante las actividades normales, con traducción si es necesario.
+
+**Primer internado:** Considerar como alternativa · Las camas en las tiendas de campaña son primero un examen de la clase, la preparación y las condiciones de vida de cada niño.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Tareas de mando, naturaleza y liderazgo; no hay curso técnico.
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Todas las actividades en EN, si es necesario, traducción; los jefes bilingües son descritos por el operador.
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El operador indica los instructores internacionales y capacitados; no se ha realizado una verificación independiente.
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Se anuncian supervisión permanente, una proporción de 1:4 y enfermera; alojamiento en tiendas de campaña, no en un edificio escolar.
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CLP 535 000 en seis días, incluido VAT.
+
+[fuente oficial](https://www.campmakemake.com/dates-and-rates) · 2026-11-06
+
+[fuente oficial](https://www.campmakemake.com/everything-you-need-to-know) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -6552,6 +7376,46 @@ Suiza · Leysin / Swiss Alpine Centre
 
 **Por qué en la selección:** El internado general para Oscar no fue hasta después de 7-años, Matvey solo hasta que tenga un hijo. 9. Después de él. 10-El período de sesiones se celebrará por separado. STEM; EN No se han probado las dos pistas..
 
+### Análisis editorial
+
+Un internado auxiliar separado para la primera salida independiente; STEM no entra automáticamente.
+
+**Análisis verificado:** 2026-11-06
+
+**Primer internado:** Considerar primero · Programa especial Junior 7–9 con la atención que se le ha solicitado; Fecha de nacimiento y composición del grupo.
+
+**Actividades generales de esparcimiento:** Considerar primero · Las aventuras y los deportes por edades; Matway después de diez años y Oscar hasta siete, pueden necesitar otros grupos.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Se ha publicado un programa de juegos y actividades de jóvenes.
+
+[fuente oficial](https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Junior Adventure 7–9; de la misma STEM comienza con 10
+
+[fuente oficial](https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · Junior no se indica directamente en el programa/guide leído; la forma de inglés y el staff internacional no prueban la enseñanza EN. el inglés Language Camp 10+ separado no es una lección Junior.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · El operador describe la vigilancia 1:4, CPR / First Aid con los jefes y el apoyo médico.
+
+[fuente oficial](https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Junior: CHF5 200/5 500/5 500/5 100 en dos semanas en orden de cuatro turnos 2027. El último cambio de dos 10 200 por el campamento. si el traslado 200 y seguro no obligatorio 140 se le cuentan a cada uno, ejemplo 10 880 hasta otros gastos. el precio de transferencia y el contrato 2027 ¿Qué es lo que me hace sentir?.
+
+[fuente oficial](https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar la edad de cada uno para la entrada, inglés Junior/STEM, ubicación simultánea de diferentes pistas, contrato 2027, cuenta final, transfer, lavandería/pótate y plazo de información sobre el camino en caso de conflicto 1 de mayo/15 de mayo/30 días.
@@ -6647,6 +7511,26 @@ Canadá · British Columbia / plataforma
 **Oscar:** La clase determina el grupo; no arrastrar la edad total 6–7 en Grade 2/3.
 
 ** Por qué en la selección: ** Candidato a la semana de ingenieros en el viaje familiar al Canadá; aún no se dispone de los detalles de 2027.
+
+### Análisis editorial
+
+La actualización se ha aplazado: UBC necesita un navegador de seguridad; las condiciones del nuevo campamento no se han leído.
+
+**Análisis verificado:** 2026-11-06
+
+**Contenido, horas y proyecto infantil:** no se ha establecido · En los grupos de codificación 2/3 y 4/5  Scratch/MakeCode, también mecanismos y electrónica; no se requiere experiencia previa. el mismo tema se repite cada semana: para la diversidad cambiar el tema, no sólo la semana.
+
+**Adaptación a la edad:** no se ha establecido · selección por clase, que el niño comienza en otoño.; FAQ 2026 describe Grade 1–7, de la misma 2/3 y 4/5
+
+**Idioma del programa concreto:** no se ha establecido · La lengua de día completo en la FAQ no está directamente establecida. El texto en inglés del sitio no sustituye la confirmación para la familia invitada.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** no se ha establecido · La FAQ dice que no se ofrece más durante la noche.
+
+**Precio y condiciones:** no se ha establecido · No se indica el precio del curso elegido en la FAQ que se lee.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -7460,6 +8344,52 @@ Francia · Maisons-Laffitte / París
 
 ** Por qué en la selección:** Candidato a un viaje familiar conjunto a París con acompañamiento inglés y calendario de vacaciones.
 
+### Análisis editorial
+
+Un día de trabajo francés de fácil uso para el idioma y el descanso general, con una base de pruebas técnica limitada.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar como alternativa · El entorno bilingüe FR / EN; el idioma del turno futuro seleccionado todavía está en proceso de verificación.
+
+**Viaje familiar con campamento de día:** Considerar primero · Hay ventanas de vacaciones futuras, la familia vive por separado, los niños se ocupan de grupos de edad.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Juegos temáticos, creatividad y paseos; no es un asunto de robótica.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · La historia temática se describe para el otoño, y no se prometen las mismas clases de invierno y verano.
+
+[fuente oficial](https://fr.ermitage.fr/activities/holidaycamp) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog) · 2026-11-06
+
+**Adaptación a la edad:** Hay una contradicción · La página del otoño y la forma de contratación presentan diferentes límites de edad.
+
+[fuente oficial](https://fr.ermitage.fr/activities/holidaycamp) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · FR / EN está expresamente declarado para el otoño descrito; el turno futuro debe ser confirmado.
+
+[fuente oficial](https://fr.ermitage.fr/activities/holidaycamp) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Campamento de día; el internado de la escuela Ermitage no significa una estancia en este programa de menores.
+
+[fuente oficial](https://fr.ermitage.fr/activities/holidaycamp) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · otoño 2026: €610/semana o €135/día. los tarifas de las futuras vacaciones de 2027 no se publicaron en las fuentes leídas.
+
+[fuente oficial](https://fr.ermitage.fr/activities/holidaycamp) · 2026-11-06
+
+[fuente oficial](https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar a los líderes ingleses, el grupo de edad, la alimentación, el reloj y el precio del turno elegido en 2027.
@@ -8255,6 +9185,26 @@ España · Sotogrande / Cádiz
 **Oscar:** Mega 6–7 Sólo day camp; Junior/pensión con 8, intensive STEAM Junior no confirmado.
 
 ** Por qué en la selección:** Un campus familiar con diferentes formatos de hermanos, que puede viajar con sus padres después de la nueva temporada.
+
+### Análisis editorial
+
+La actualización se ha aplazado: la página actual devuelve la capa sin programa.
+
+**Análisis verificado:** 2026-11-06
+
+**Contenido, horas y proyecto infantil:** no se ha establecido · Junior elige el deporte de la mañana y una tarde-track para una sesión de dos semanas: STEAM, presentaciones públicas o otro curso. se declaran 10 horas de Junior académicos por semana, no 10 horas de robótica.
+
+**Adaptación a la edad:** no se ha establecido · Mega 6–7 Sólo durante el día.; Junior 8–12 día/el pensión; Masters 13–16; Nano 4–5 Sólo durante el día.
+
+**Idioma del programa concreto:** no se ha establecido · La lengua principal del campamento es el inglés; parte del personal habla español. El idioma del módulo STEAM elegido se confirmará por separado.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** no se ha establecido · Junior y mayores — el pensión; Mega Sólo durante el día., ¿Qué es esto ?–¿Qué es esto ?. Junior day en el horario 09–19; el reloj exacto 2027 aclarar.
+
+**Precio y condiciones:** no se ha establecido · Junior/Masters 2 las semanas: €2 375 día / €3 445 el pensión. Mega 1/2/3/4/5/6 una semana: €495 / 900 / 1 275 / 1 600 / 1 875 / 2 100.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 
@@ -12740,6 +13690,66 @@ Suiza · Pully / Petit-Lancy / Zürich / Zug
 
 ** Por qué en la selección: ** Candidato robótico de edad para ambos; no creamos un cambio de LEGO falso del horario general.
 
+### Análisis editorial
+
+Un curso de robótica de primer año, y todavía se necesita un turno en inglés.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · El programa y montaje de LEGO se adaptan a la ruta técnica de menor importancia; el calendario urbano general no garantiza este curso.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · La edad de LEGO Junior comienza con seis años; el lugar, los días, el idioma y el nivel del grupo deben ser acordados.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Se describe un curso LEGO específico para los más pequeños, con construcción, programación y pruebas de prototipos.
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 6+ en la descripción de LEGO Junior; Arduino  curso separado 12+
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · Listado EN, DE y FR para LEGO; el idioma de cambio no se ha seleccionado aún.
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El operador describe las clases y los profesores de las universidades técnicas; no se ha verificado la composición de un turno determinado.
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · campamento de día; vivienda familiar y acompañamiento fuera del campamento.
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · El resultado es LEGO No se sabe. de las empresas junior-los precios CHF 645–890 No lo consideramos confirmado. LEGO-por el precio.
+
+[fuente oficial](https://online.techsparkacademy.ch/robotics-course/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/in-person-camps/) · 2026-11-06
+
+[fuente oficial](https://techsparkacademy.ch/terms-conditions/) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar LEGO, las fechas, el lugar, la enseñanza EN de un grupo en particular y el costo.
@@ -14228,17 +15238,17 @@ Canadá · Toronto · University of Toronto · residence
 
 Canadá · Toronto · Trinity College, University of Toronto
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 14–18
 
 **Idioma:** Inglés medio o avanzado, equivalente IELTS 4.0+; 20 Horas semanales. Inglés e inglés Academic & Career Prep c 16 años — Otras opciones.
 
-** Programa:** Determinación de necesidades, ideas, soluciones y planes de negocios, pensamiento crítico y proyectos: comunicación y presentación en inglés; resultados de su propio inicio o victoria internacional no se prometen.
+**Programa:** Nuevo folleto 2027: 20 horas por semana, dos semanas, desarrollo de ideas y planes de negocios, comercialización, costos y rentabilidad, presentación final de Shark Tank-style, demandado por la Intermediate to Advanced EN, punto de referencia IELTS 4.0+, que es la formación empresarial, no una medalla internacional ni un préstamo universitario.
 
 ** Residencia: ** Uno o dos niños en la habitación, personal en la residencia, baños comunes.
 
-**Fechas / situación:** 4–17 julio 2027, Dos semanas; ventana general Trinity 27 junio–7 Agosto no sustituye las fechas Entrepreneurs.
+**Fechas / situación:** 4–17 y 18–31 julio 2027: dos turnos separados de dos semanas en el nuevo folleto. ventana general Trinity no cambia fechas Entrepreneurs.
 
 **Capital/año:** no se ha instalado / Price 2027 no se ha encontrado en las páginas oficiales que se leen; aún no se dispone de la cuenta completa.
 
@@ -14254,6 +15264,46 @@ Canadá · Toronto · Trinity College, University of Toronto
 
 ** Por qué en la selección: ** El futuro de la etapa empresarial después de la base de ingeniería; las condiciones de un curso separado son claras.
 
+### Análisis editorial
+
+El futuro negocio con un plan de negocios y protección; ambos niños todavía son demasiado jóvenes.
+
+**Análisis verificado:** 2026-11-06
+
+**de la empresa:** Considerar primero · Dos semanas con un plan de negocios y un pitch final, solo después de la edad.
+
+**En el futuro:** Considerar primero · Considerarlo desde los catorce años y con el inglés requerido; estar en un campus universitario no equivale a obtener un título universitario.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · El nuevo folleto 2027 indica 20 horas por semana, un plan de negocios, una comercialización, un cálculo de rentabilidad y una presentación final.
+
+[fuente oficial](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf) · 2026-11-06
+
+[fuente oficial](https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 14–18
+
+[fuente oficial](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf) · 2026-11-06
+
+[fuente oficial](https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El folleto requiere la utilización de medios de comunicación para la aplicación de la EN; es la etapa futura.
+
+[fuente oficial](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf) · 2026-11-06
+
+[fuente oficial](https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Residencia Trinity: habitaciones individuales, dobles o triples, baños compartidos, comidas y apoyo permanente.
+
+[fuente oficial](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf) · 2026-11-06
+
+[fuente oficial](https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/) · 2026-11-06
+
+**Precio y condiciones:** no se ha establecido · No se ha establecido una tarifa completa para el nuevo programa en las fuentes que se leen.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar el precio 2027, la profundidad de los proyectos, la selección y las condiciones de devolución.
@@ -14266,11 +15316,23 @@ Canadá · Toronto · Trinity College, University of Toronto
 
 **Precio:** 2027 el precio se aclara
 
-[fuente](https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/)
+[fuente](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf)
+
+### Future Entrepreneurs · segundo turno
+
+**Fechas / estado:** 2027-07-18 — 2027-07-31
+
+**lugar:** Toronto · Trinity College, University of Toronto
+
+**Precio:** 2027 el precio se aclara
+
+[fuente](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf)
 
 ### Fuentes
 
-- [Entrepreneurs 2027: edad, EN, fechas](https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/) · 2026-10-05
+- [Nuevo folleto Summer 2027: dos turnos, horas e idioma EN](https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf) · 2026-11-06
+
+- [Página anterior del curso · HTTP404 en la nueva comprobación](https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/) · 2026-11-06
 
 - [Trinity: horas, vivienda, alimentación, pagos adicionales](https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/) · 2026-10-05
 
@@ -44072,6 +45134,46 @@ Suiza · Leysin / Swiss Alpine Centre
 
 **Por qué en la selección:** Robótica de dos semanas para Matway después 10-años; para Oscar por separado Junior después 7-años. Profesor de inglés, La complejidad y la edad real de la carrera aún no se han verificado.
 
+### Análisis editorial
+
+Robótica especializada en el internado para el siguiente nivel de edad.
+
+**Análisis verificado:** 2026-11-06
+
+**Ingeniería, robótica y programación:** Considerar primero · Trabajo estructurado con LEGO SPIKE y su propio robot; el idioma de la clase técnica aún no está confirmado.
+
+**En el futuro:** Considerar primero · Matvey después de las diez, Oscar después, Junior de la misma red, un programa de trabajo.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Primero, las bases, luego las decisiones propias con sensores y motores; el último Robot Wars es un concurso interno.
+
+[fuente oficial](https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 10–17; se admiten participantes novatos y experimentados
+
+[fuente oficial](https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Idioma del programa concreto:** no se ha establecido · El programa/forma de inglés y la cuestión de la proficiencia en inglés no confirman el idioma del instructor.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Se describe la pensión Leysin; el apoyo a un flujo técnico específico debe verificarse por separado.
+
+[fuente oficial](https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · CHF5 500/el niño/dos semanas. a Oscar 6–7 Necesitamos un separado. Junior después de 7-años; en los cambios de julio su precio también 5 500. el matrimonio condicional STEM+Junior11 000 por el campamento; con el traslado 200 y seguro no obligatorio 140 a cada uno de ellos. 11 680 hasta otros gastos. tarifas de transferencia y contrato 2027 ¿Qué es lo que me hace sentir?.
+
+[fuente oficial](https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - Confirmar 10 años de carrera, un instructor técnico inglés, tareas para los participantes experimentados, horarios reales, excursiones en Suiza, Junior simultáneo para el hermano 7+ y un contrato completo/cuenta 2027.
@@ -53882,7 +54984,7 @@ Singapur · XCL World Academy · Yishun
 
 Singapur · XCL World Academy · Yishun
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 8–12
 
@@ -53908,11 +55010,33 @@ Singapur · XCL World Academy · Yishun
 
 ** Por qué en la selección: ** Candidato para comparar un proyecto/edad/idioma; programa de un operador que no es independiente en todo el mundo y no promete premios internacionales.
 
+### Análisis editorial
+
+Se ha aplazado la actualización: las páginas anteriores del curso y los tratados se han convertido en un directorio común de XWA.
+
+**Análisis verificado:** 2026-11-06
+
+**Contenido, horas y proyecto infantil:** no se ha establecido · las necesidades de los usuarios, la marca/marketing, el desarrollo de productos y el pitch de la solución.
+
+**Adaptación a la edad:** no se ha establecido · 8–12
+
+**Idioma del programa concreto:** no se ha establecido · FAQ permite un nivel bajo de inglés, pero no establece el idioma de enseñanza de este curso.
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** no se ha establecido · Diurno Mon–Fri09:00–15:00,2YishunStreet42,Singapore768039. No hay un alojamiento; vivienda de la familia por separado.
+
+**Precio y condiciones:** no se ha establecido · SGD760/5 de curso diario por niño; año del precio no está establecido, no el precio2027.
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - confirmar las fechas/precio/lugar reales del invierno de 2026/27 o del verano de 2027, la lengua de su instructor y la recepción extranjera individual; la edad para el primer día no se conoce.
 
 - cuenta completa con el autobús/de la ley de3%por la Comisión/por seguro y devolución vigente. por FAQ baño independiente y contacto de emergencia de un adulto. de las solicitudes/de pago/no se envió el consentimiento.
+
+- Confirmar la existencia y las nuevas condiciones es precisamente Entrepreneurship101, después de que las páginas antiguas se hayan convertido en un directorio común.
 
 ### Fuentes
 
@@ -106378,6 +107502,60 @@ Israel · Beit Yanai
 
 **Motivo de selección:** Candidato a primer internado corto: Hof ofrece 7 días, parte publicada de precio clara y entorno bilingüe; admisión de cada niño condicional. Selección editorial, sin ranking mundial.
 
+### Análisis editorial
+
+Un breve internado general en una red internacional bilingüe; es preciso eliminar las diferencias de edad.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · El mar, el deporte y la creatividad; tener en cuenta el programa cultural del campamento.
+
+**Primer internado:** Considerar como alternativa · El formato corto merece ser examinado después de confirmar la edad, apoyar a los jóvenes y las normas de admisión.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Vacaciones activas generales, autonomía y programa cultural; no se ha declarado ninguna intensificación técnica.
+
+[fuente oficial](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Adaptación a la edad:** Hay una contradicción · El título Kids y el texto básico varían según la edad mínima.
+
+[fuente oficial](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · FAQ de la red confirma EN / HE; el lenguaje de vida y la ayuda a un grupo determinado deben ser armonizados.
+
+[fuente oficial](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Programa con pernocta; confirmar alojamiento y grupo de edad.
+
+[fuente oficial](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · 2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.
+
+[fuente oficial](https://www.eng.campkimama.org/hof) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
+
 ### Antes de solicitar plaza
 
 - Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
@@ -106699,6 +107877,40 @@ Estados Unidos · Camp Half Moon · Great Barrington · Massachusetts
 **Oscar:** Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
 
 **Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+
+### Análisis editorial
+
+La versión diaria general de los Estados Unidos para los dos grupos de edad, pero un calendario exacto es un error.
+
+**Análisis verificado:** 2026-11-06
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Full day se ajusta a la estructura de edad general; las fechas, la disponibilidad y la inclusión requieren confirmación.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Vacaciones activas generales; no se ha anunciado ningún programa de robot.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Programa diario general, no de intensidad técnica.
+
+[fuente oficial](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · 2027: grupos 3–4 / 5–6 / 7+
+
+[fuente oficial](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · EN / HE confirmado FAQ red, el grupo de trabajo debe verificarse.
+
+[fuente oficial](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Programa diurno; alojamiento familiar aparte.
+
+[fuente oficial](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · La tarifa 2027 se ha publicado; las reglas de la skick sinbling se apartan de la temporada anterior y no se aplican automáticamente.
+
+[fuente oficial](https://www.kimamahalfmoon.org/datesrates2026) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.
 
 ### Antes de solicitar plaza
 

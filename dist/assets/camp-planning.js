@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const fields=['query','country','theme','format','child','phase','language','month','sort'];
+  const fields=['query','country','theme','format','child','phase','language','month','sort','review'];
   const searchCache=new WeakMap();
   const number=v=>v!==''&&v!=null&&Number.isFinite(Number(v))&&Number(v)>=0?Number(v):null;
   const money=(n,currency)=>new Intl.NumberFormat('ru-RU',{style:'currency',currency,maximumFractionDigits:2}).format(n);
@@ -34,16 +34,51 @@
     return out.sort((a,b)=>a.start.localeCompare(b.start)||a.matvey.profile.id.localeCompare(b.matvey.profile.id));
   }
   function searchText(p){if(!searchCache.has(p))searchCache.set(p,JSON.stringify(p).toLocaleLowerCase('ru'));return searchCache.get(p);}
-  function sortProfiles(profiles,sort,child,day=today()){
+  function editorialAssessment(p,goal,child,selection,day=today()){
+    const review=selection?.reviews?.find(r=>r.programme_id===p.id);
+    const assessment=review?.goals?.[goal];
+    const tier=!review?'unreviewed':review.status!=='reviewed'?'deferred':goal==='value'?'not_rated':assessment?.tier||'not_target';
+    const keys=child==='matvey'||child==='oscar'?[child]:['matvey','oscar'];
+    const fits=keys.map(k=>p.family_fit?.[k]?.status||'unknown');
+    const age=fits.some(s=>['later','not_eligible'].includes(s))?3:fits.includes('unknown')?2:fits.includes('conditional')?1:0;
+    const languageEvidence=review?.criteria?.find(c=>c.key==='language');
+    const language=(p.confirmed_instruction_languages||[]).some(l=>['EN','ES','RU'].includes(l))&&(!languageEvidence||languageEvidence.state==='documented')?0:1;
+    const closed=['closed','waitlist','not_open_yet','unavailable_online','unconfirmed'].includes(p.availability?.status);
+    const future=periods(p).some(([,end])=>end>=day);
+    const announced=(p.timing?.announced_months||[]).some(m=>m>=day.slice(0,7));
+    const windowOnly=p.timing?.precision==='season_window';
+    const season=closed?3:future?(windowOnly?1:0):announced?1:2;
+    const gates=[];
+    if(age)gates.push(age===3?'Возраст или условия выбранного ребёнка не подходят сейчас':age===2?'Возрастной или школьный допуск ещё не установлен':'Участие зависит от возраста, класса или дополнительных условий');
+    if(language)gates.push('Язык выбранной смены или активности EN / ES / RU ещё требует подтверждения');
+    if(closed)gates.push('Набор закрыт, ещё не открыт или наличие мест требует уточнения');
+    else if(future&&windowOnly)gates.push('Опубликовано сезонное окно; конкретную смену нужно подтвердить');
+    else if(!future)gates.push(announced?'Объявлен месяц; точных дней смены пока нет':'Будущие даты этой программы ещё не подтверждены');
+    const reason=goal==='value'?selection?.value_policy:assessment?.reason||review?.summary||selection?.unreviewed_policy||'';
+    return {review,assessment,tier,reason,gates,age,language,season};
+  }
+  function sortProfiles(profiles,sort,child,day=today(),selection){
     const a=profiles.slice();const value={candidate:2,conditional:1,later:0,unknown:0,not_eligible:-1};
     const fit=p=>{const ks=child==='matvey'||child==='oscar'?[child]:['matvey','oscar'];return Math.min(...ks.map(k=>value[p.family_fit?.[k]?.status]??0));};
     if(sort==='name')return a.sort((p,q)=>p.provider.localeCompare(q.provider,'ru'));
     if(sort==='age')return a.sort((p,q)=>fit(q)-fit(p)||nextDate(p,day).localeCompare(nextDate(q,day)));
     if(sort==='upcoming')return a.sort((p,q)=>nextDate(p,day).localeCompare(nextDate(q,day)));
+    const goal=sort.startsWith('recommend_')?sort.slice(10):'';
+    if(selection?.goal_labels?.[goal]){
+      // Internal ordinal groups are not quality scores; unknown evidence has no numeric rating.
+      const tiers={priority:0,alternative:1,not_rated:2,unreviewed:3,deferred:4,not_target:5};
+      const summaries=new Map(a.map(p=>[p.id,editorialAssessment(p,goal,child,selection,day)]));
+      return a.sort((p,q)=>{
+        const x=summaries.get(p.id),y=summaries.get(q.id);
+        // The future route deliberately retains older-age programmes, with their gate still visible.
+        const ageOrder=goal==='future'?0:x.age-y.age;
+        return ageOrder||x.language-y.language||x.season-y.season||tiers[x.tier]-tiers[y.tier]||nextDate(p,day).localeCompare(nextDate(q,day))||p.id.localeCompare(q.id);
+      });
+    }
     return a;
   }
   function filterURL(href,state){const u=new URL(href);u.searchParams.delete('camp');for(const k of fields){u.searchParams.delete('camp_'+k);if(state[k]&&!(k==='sort'&&state[k]==='upcoming'))u.searchParams.set('camp_'+k,state[k]);}u.hash='camps';return u.href;}
-  function readFilters(href,profiles,themes,formats){const p=new URL(href).searchParams;const out={};const allowed={country:new Set(profiles.map(p=>p.iso)),theme:new Set(Object.keys(themes)),format:new Set(Object.keys(formats)),child:new Set(['both','matvey','oscar']),phase:new Set(['2027','published_2026','partial_2026','next_unannounced','archive_next_unannounced']),language:new Set(['EN','ES','RU','EN-support']),sort:new Set(['upcoming','age','name','listed'])};for(const k of fields){const v=p.get('camp_'+k);if(v==null)continue;if(k==='query')out[k]=v.slice(0,200);else if(k==='month'&&/^(2026|2027)-(0[1-9]|1[0-2])$/.test(v))out[k]=v;else if(allowed[k]?.has(v))out[k]=v;}return out;}
+  function readFilters(href,profiles,themes,formats){const p=new URL(href).searchParams;const out={};const allowed={country:new Set(profiles.map(p=>p.iso)),theme:new Set(Object.keys(themes)),format:new Set(Object.keys(formats)),child:new Set(['both','matvey','oscar']),phase:new Set(['2027','published_2026','partial_2026','next_unannounced','archive_next_unannounced']),language:new Set(['EN','ES','RU','EN-support']),review:new Set(['reviewed']),sort:new Set(['upcoming','age','name','listed',...['engineering','language','general','enterprise','first_boarding','family_day','future','value'].map(g=>'recommend_'+g)])};for(const k of fields){const v=p.get('camp_'+k);if(v==null)continue;if(k==='query')out[k]=v.slice(0,200);else if(k==='month'&&/^(2026|2027)-(0[1-9]|1[0-2])$/.test(v))out[k]=v;else if(allowed[k]?.has(v))out[k]=v;}return out;}
   function estimate(offer,inputs={},selected=[]){
     const lines=[];const missing=[];const rejected=[];const add=(label,amount,kind)=>lines.push({label,amount:Math.round(amount*100)/100,kind});
     for(const [k,base] of Object.entries(offer.base_by_child))add((k==='matvey'?'Матвей':'Оскар')+' · базовая цена',base,'published');
@@ -87,5 +122,5 @@
     renderForm();
     return {panel,open(slug,month){const a=data.offers.filter(o=>o.slug===slug);offer=a.find(o=>matchesMonth(o,month))||a[0];if(!offer)return;panel.querySelector('[data-budget-offer]').value=offer.id;renderForm();panel.open=true;panel.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});panel.querySelector('[data-budget-offer]').focus({preventScroll:true});}};
   }
-  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,pairedSessions,searchText,sortProfiles,filterURL,readFilters,estimate,mountBudget};
+  window.STEM_CAMP_PLANNER={today,periods,matchesMonth,nextDate,pairedSessions,searchText,editorialAssessment,sortProfiles,filterURL,readFilters,estimate,mountBudget};
 })();

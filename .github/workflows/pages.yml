@@ -37,6 +37,8 @@ jobs:
         run: find dist -name '*.js' -print0 | xargs -0 -n 1 node --check
       - name: Verify month-only camp announcements without invented dates
         run: node scripts/verify-camp-month-filter.cjs
+      - name: Verify editorial camp goals, eligibility gates and shareable filters
+        run: node scripts/verify-camp-editorial.cjs
       - name: Verify sibling groups share a sourced venue and exact timetable
         run: node scripts/verify-family-pairing.cjs
       - name: Record the exact published source revision

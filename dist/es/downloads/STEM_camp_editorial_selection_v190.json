@@ -1,0 +1,3807 @@
+{
+  "version": 190,
+  "checked": "2026-11-06",
+  "title": "Selección editorial según el objetivo",
+  "scope": "Primer conjunto de análisis detallados. Es una valoración editorial, no una clasificación mundial oficial ni una lista completa de los mejores campamentos.",
+  "criteria": [
+    {
+      "key": "curriculum",
+      "label": "Contenido, horas y proyecto infantil"
+    },
+    {
+      "key": "age",
+      "label": "Adaptación a la edad"
+    },
+    {
+      "key": "language",
+      "label": "Idioma del programa concreto"
+    },
+    {
+      "key": "mentors",
+      "label": "Instructores y grupo"
+    },
+    {
+      "key": "care",
+      "label": "Alojamiento y apoyo a los más pequeños"
+    },
+    {
+      "key": "cost",
+      "label": "Precio y condiciones"
+    },
+    {
+      "key": "reputation",
+      "label": "Pruebas independientes de reputación"
+    }
+  ],
+  "states": {
+    "documented": "Condiciones concretas publicadas",
+    "partial": "Pruebas parciales",
+    "unknown": "no se ha establecido",
+    "conflict": "Hay una contradicción"
+  },
+  "goal_labels": {
+    "engineering": "Ingeniería, robótica y programación",
+    "language": "Práctica de idiomas",
+    "general": "Actividades generales de esparcimiento",
+    "enterprise": "de la empresa",
+    "first_boarding": "Primer internado",
+    "family_day": "Viaje familiar con campamento de día",
+    "future": "En el futuro",
+    "value": "Contenido / precio total"
+  },
+  "tier_labels": {
+    "priority": "Considerar primero",
+    "alternative": "Considerar como alternativa",
+    "not_target": "Este análisis responde a otro objetivo",
+    "not_rated": "Evaluación aplazada",
+    "deferred": "Hay que actualizar las pruebas",
+    "unreviewed": "Todavía sin evaluar"
+  },
+  "methodology": [
+    "Primero elija país, tema, formato, niño y período. El orden editorial se aplica únicamente a los programas que cumplen esos filtros. El filtro «Con análisis editorial» muestra la parte del catálogo que ya se ha analizado.",
+    "Dentro del conjunto elegido se consideran primero los requisitos de edad, el idioma confirmado y las próximas fechas; después, la valoración editorial según el objetivo. El modo para edades futuras mantiene los programas de mayores y muestra claramente las limitaciones actuales.",
+    "La valoración editorial se basa en el contenido del programa. No se calcula mediante palabras clave, precio, fama de la marca ni cantidad de campos rellenados.",
+    "El estado de cada criterio indica qué información se pudo obtener. Las condiciones concretas publicadas por el organizador no constituyen una verificación independiente de la calidad, la supervisión o la seguridad.",
+    "Los programas no evaluados permanecen en el catálogo. Su posición no significa menor calidad. Los datos desconocidos no reciben un cero ni se convierten en estrellas inventadas.",
+    "Las plazas, la admisión, el idioma del grupo y la preparación para alojarse sin los padres se verifican por separado. Una fecha o un botón de inscripción no prueban que haya plazas disponibles.",
+    "Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes."
+  ],
+  "value_policy": "La valoración del contenido frente al precio total queda aplazada: aún no se conoce el presupuesto familiar completo con todos los gastos obligatorios. Una tarifa parcial y monedas distintas no permiten afirmar qué campamento ofrece el mejor precio.",
+  "unreviewed_policy": "Todavía no se ha realizado el análisis editorial de este programa. Esto no es una valoración de su calidad.",
+  "independent_reviews": [],
+  "reviews": [
+    {
+      "programme_id": "CP001",
+      "slug": "les-elfes",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Para el descanso y la autonomía alpinos; la opción técnica no puede considerarse un programa básico.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El paquete básico incluye el deporte, la naturaleza y las visitas guiadas; las clases de idiomas y los talleres se eligen por separado.",
+          "sources": [
+            {
+              "url": "https://www.leselfes.com/summer-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/dates-and-pricing/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/about-us/faq/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "partial",
+          "note": "Campamento 6*17: La edad de un taller técnico adicional concreto debe ser examinada por separado.",
+          "sources": [
+            {
+              "url": "https://www.leselfes.com/summer-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/dates-and-pricing/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/about-us/faq/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "El entorno principal de EN fue confirmado por la FAQ; el idioma del trabajo seleccionado debe ser armonizado.",
+          "sources": [
+            {
+              "url": "https://www.leselfes.com/summer-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/dates-and-pricing/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/about-us/faq/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "El organizador describe supervisión permanente y habitaciones para cuatro personas con baño.",
+          "sources": [
+            {
+              "url": "https://www.leselfes.com/summer-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/dates-and-pricing/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/about-us/faq/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "conflict",
+          "note": "En la página del programa, en la página de tarifas y en el formulario que se lee anteriormente, se distingue entre las sumas básicas y las entradas. Antes de pagar, se necesita una sola cuenta de turno.",
+          "sources": [
+            {
+              "url": "https://www.leselfes.com/summer-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/dates-and-pricing/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.leselfes.com/about-us/faq/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "priority",
+          "reason": "Diferentes períodos de descanso activo y de residencia; seleccionar por separado el grupo de edad."
+        },
+        "language": {
+          "tier": "alternative",
+          "reason": "Las lecciones de idiomas son una opción de pago; la carga lingüística debe elegirse en un paquete."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "Es necesario comprobar la autonomía y el apoyo de los jóvenes; el formato internacional no garantiza por sí solo la preparación para el internado."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.leselfes.com/summer-camp/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.leselfes.com/dates-and-pricing/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.leselfes.com/about-us/faq/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP003",
+      "slug": "prefleuri",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Uno de los primeros candidatos a las vacaciones comunes en los idiomas para dos niños; los grupos de edad serán diferentes.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Mañana se imparten clases de idiomas, después deportes y aventuras; no se ha declarado ningún robot especializado.",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "grupos de verano 3–4, 5–7, 8–9 y 10–14",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "Se ofrecen clases de idiomas EN y FR; es un campamento de idiomas, no prueba de un curso técnico.",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "El operador indica el número de profesores de idiomas; el tamaño del grupo y la composición del turno son todavía más precisos.",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "El servicio de alojamiento escolar es el de la escuela menor y la opción de día; la transición a las noches se discuten individualmente. en términos de dispositivo/hora con cámara y tracking se entregan, Air Tags sólo en el equipaje. visitas de los padres sólo por permiso previo; comunicación según las reglas comunicadas al reservar.",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "2027, 5–14 años: boarding 2 / 3 / 4 / 5 / 6 semanas CHF 6150 / 8950 / 10750 / 13300 / 15750; day 3575 / 5250 / 6800 / 8400 / 9900. Tarifas 2026 sustituidas por actuales. Descuento 10% desde 4 semanas ya incluido. Descuento de segundo niño 10% no acumulable: residencia excluye uniforme, seguro e impuestos, PDF day enumera solo uniforme. Confirmar base de descuento del paquete elegido; presupuesto familiar no se reduce automáticamente.",
+          "sources": [
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "priority",
+          "reason": "Idiomas, deportes, naturaleza y creatividad con grupos de edad para ambos niños."
+        },
+        "language": {
+          "tier": "priority",
+          "reason": "Se han publicado clases de idiomas matutinas y opciones de edad; seleccione EN o FR."
+        },
+        "first_boarding": {
+          "tier": "priority",
+          "reason": "Los grupos de edad más jóvenes merecen ser examinados, pero la preparación de cada niño y el régimen de comunicación se examinan por separado."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "El formato diario permite a la familia vivir cerca y a los niños trabajar en grupos diferentes."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP004",
+      "slug": "tasis",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un candidato fuerte para el idioma y un STEAM amplio, con formatos diferentes por edad.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El CDE publica una hora diaria STEAM. Minnows tiene un programa de trabajo de segunda mano con una sesión semanal y otras actividades de STEAM.",
+          "sources": [
+            {
+              "url": "https://summer.tasis.ch/programs/cde",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/programs/minnows",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/dates-and-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/admissions/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "CDE 7–10; Minnows 4–6 Sólo durante el día.; MSP 11–13; HSP 14–17",
+          "sources": [
+            {
+              "url": "https://summer.tasis.ch/programs/cde",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/programs/minnows",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/dates-and-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/admissions/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "El lenguaje de CDE seleccionado se utiliza también en STEAM; disponible en EN, FR e IT.",
+          "sources": [
+            {
+              "url": "https://summer.tasis.ch/programs/cde",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/programs/minnows",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/dates-and-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/admissions/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "El CDE permite la internación; Minnows sólo es de día. FAQ describe por separado las habitaciones y los seguros.",
+          "sources": [
+            {
+              "url": "https://summer.tasis.ch/programs/cde",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/programs/minnows",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/dates-and-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/admissions/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "CDE: CHF 4 500 de día / 9 200 el pensión por 3 las semanas. Minnows: CHF 3 500 hasta 15:00 / 4 500 hasta 17:30.",
+          "sources": [
+            {
+              "url": "https://summer.tasis.ch/programs/cde",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/programs/minnows",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/dates-and-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.tasis.ch/admissions/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "language": {
+          "tier": "priority",
+          "reason": "El CDE combina el idioma seleccionado con el STEAM diario; Minnows tiene un programa de segunda mano separado."
+        },
+        "general": {
+          "tier": "priority",
+          "reason": "Un amplio conjunto de deportes, creaciones y excursiones; no es un día completo de robótica."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "Si Oscar tiene seis más, Minnows solo está disponible esta tarde; Matway encaja con el CDE."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "La pensión CDE comienza desde los siete años; hasta el séptimo aniversario de Oscar, el escenario familiar no está confirmado."
+        },
+        "engineering": {
+          "tier": "alternative",
+          "reason": "Es el mismo para el STEAM general, pero hay que confirmar un módulo robótico separado para este turno."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://summer.tasis.ch/programs/cde",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.tasis.ch/programs/minnows",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.tasis.ch/dates-and-fees",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.tasis.ch/admissions/faq",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP012",
+      "slug": "brillantmont",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Etapa técnica prioritaria de Matvei después de la edad mínima; Oscar más tarde.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Se han publicado una semana de IE y una semana de montaje y programación de robot Python; no se pueden repetir los dos mismos turnos.",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "curso de verano 10–16; el menor de edad para el inicio del turno debe confirmar",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "El curso se imparte en EN; el inglés no es suficiente.",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "Se ha designado a un socio de TechSpark Academy; no se ha verificado la composición de los profesores ni el tamaño del equipo de trabajo.",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Hasta tres niños en una habitación; los pensiones están divididos por edad/sex, en cada piso resident teacher.",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "CHF 7 000/2 Semanas con el robot. Language Academy CHF 3 000/de la tierra., por lo menos 2 las semanas.",
+          "sources": [
+            {
+              "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/apply/questions",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://summer.brillantmont.ch/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "Dos semanas con IA, un robot y un Python, y su propio ordenador es obligatorio."
+        },
+        "future": {
+          "tier": "priority",
+          "reason": "Comprobar diez años para el cambio de Matway, es el siguiente paso de edad para Oscar."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.brillantmont.ch/apply-fees",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.brillantmont.ch/apply/questions",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://summer.brillantmont.ch/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP014",
+      "slug": "ilc",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Examinar el idioma y el descanso alpino; aún no se ha establecido un nuevo turno de fecha.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El FUN describe las clases de idiomas, la creatividad y el descanso activo; es un curso de idiomas común.",
+          "sources": [
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/prices",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "FUN 6–9; Adrenaline 10–13; el límite de los adolescentes se especifique por separado",
+          "sources": [
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/prices",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "Los programas incluyen el EN y el FR; seleccionar el idioma y el grupo de estudio.",
+          "sources": [
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/prices",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Diurno 09–18 o un pensión completo en Megève; la colocación de un track concreto se confirme.",
+          "sources": [
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/prices",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "El prys actual no está atado al año, no puede ser confirmado por el precio del próximo turno.",
+          "sources": [
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/prices",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://internationallanguagecamps.com/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "language": {
+          "tier": "priority",
+          "reason": "FUN es el más joven, después de cambiar de grupo de edad, Matway necesita un Adrenaline."
+        },
+        "general": {
+          "tier": "alternative",
+          "reason": "Deportes e idiomas; no se ha declarado ninguna intensificación técnica."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "El programa más pequeño merece ser examinado, pero las condiciones del nuevo año y el apoyo al primer internado aún no han sido aprobados."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://internationallanguagecamps.com/prices",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://internationallanguagecamps.com/faq",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP020",
+      "slug": "techcamp-uk",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Intensidad técnica y entorno inglés para Matway; Oscar menor de edad.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Normalmente cuatro unidades técnicas por día; un dispositivo específico y la entrega de un proyecto a casa para comprobar el curso seleccionado.",
+          "sources": [
+            {
+              "url": "https://www.techcamp.org.uk/info/residential-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/faqs",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/overseas-campers",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "9–17",
+          "sources": [
+            {
+              "url": "https://www.techcamp.org.uk/info/residential-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/faqs",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/overseas-campers",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "Todos los cursos y el nivel recomendado B1 se denominan claramente operador.",
+          "sources": [
+            {
+              "url": "https://www.techcamp.org.uk/info/residential-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/faqs",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/overseas-campers",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "La pensión Winchester tiene habitaciones de un solo lugar con un baño; el formato diario es diferente.",
+          "sources": [
+            {
+              "url": "https://www.techcamp.org.uk/info/residential-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/faqs",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/overseas-campers",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "El precio numérico del curso elegido no está confirmado en las páginas leídas.",
+          "sources": [
+            {
+              "url": "https://www.techcamp.org.uk/info/residential-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/faqs",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.techcamp.org.uk/info/overseas-campers",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "El programa principal se centra en la tecnología y los proyectos, no en un círculo adicional separado."
+        },
+        "language": {
+          "tier": "alternative",
+          "reason": "Todas las clases de EN, el operador recomienda B1 o más; es práctica a través de la técnica, sin un curso de idiomas separado."
+        },
+        "future": {
+          "tier": "priority",
+          "reason": "El próximo viaje técnico para ambos después de que Oscar cumpla la edad mínima."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.techcamp.org.uk/info/residential-camps",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.techcamp.org.uk/info/faqs",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.techcamp.org.uk/info/overseas-campers",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP026",
+      "slug": "typa",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un formato de ingeniería de día prometedor en Taiwán; hasta ahora, la orientación de la temporada anterior.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Describe diferentes STEM-tareas para el desarrollo Grades 1–2, 3–4 y 5–8; No es el mismo curso para todos..",
+          "sources": [
+            {
+              "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/how-to-register/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/registration-information/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "partial",
+          "note": "La categoría se define por clase, no sólo por el año de nacimiento.",
+          "sources": [
+            {
+              "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/how-to-register/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/registration-information/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "El idioma del campo técnico aún no está confirmado por la confirmación directa de la tarjeta leída; el sitio web en inglés es insuficiente.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Solo en formato diurno; vivienda familiar por separado.",
+          "sources": [
+            {
+              "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/how-to-register/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.typa.org.tw/registration-information/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "El próximo Tech Camp no ha sido fijado aún.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "alternative",
+          "reason": "Las tareas de edad varían de simples experimentos a proyectos de ingeniería abiertos; hay que confirmar el nuevo turno."
+        },
+        "family_day": {
+          "tier": "alternative",
+          "reason": "Comprobar la clase actual, la pertenencia, las condiciones de pasaporte y el idioma de Tech Camp."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.typa.org.tw/how-to-register/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.typa.org.tw/registration-information/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP027",
+      "slug": "tas",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "La ruta de la ingeniería académica en Taiwán; la proclamación de un año nuevo es contraria a las fechas.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "La escuela enumera las esferas académicas, incluidas las de ingeniería y computación; la carga y el proyecto dependen del curso.",
+          "sources": [
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "partial",
+          "note": "Se necesitan clases de niños y normas de curso; el pre-K-K-12 no significa que se pueda acceder a todas las clases técnicas.",
+          "sources": [
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "la lengua académica de un curso específico; la escuela es de inglés, pero no es una prueba de cada curso.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "las clases diarias; la vivienda familiar por separado.",
+          "sources": [
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "No se ha establecido una tarifa única de la Academia Summer.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "alternative",
+          "reason": "Hay que elegir un curso específico para la clase escolar y comprobar los documentos de los alumnos externos."
+        },
+        "family_day": {
+          "tier": "alternative",
+          "reason": "Examinar una vez confirmado el nuevo calendario, el idioma y la admisión de cada niño."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.tas.edu.tw/summer-academy/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP029",
+      "slug": "nullspace",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "El camino a la competencia y a la tripulación regular; no es un turno de verano confirmado.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "En la página de órdenes se separan el FLL Main y el Novice con diferentes requisitos y cargas; al mismo tiempo, no se puede representar a la escuela y al centro en un torneo.",
+          "sources": [
+            {
+              "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+              "checked": "2026-11-06",
+              "title": "Página oficial de la orden · web reader",
+              "read_status": "web_reader_direct_http_403"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "conflict",
+          "note": "En la página de órdenes Explore edad 7–9, en la categoría 6–8. La admisión de Oscar debe ser confirmada..",
+          "sources": [
+            {
+              "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+              "checked": "2026-11-06",
+              "title": "Página oficial de la orden · web reader",
+              "read_status": "web_reader_direct_http_403"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "El idioma del curso técnico no está confirmado directamente por la página que se lee; se necesita acordar el flujo de inglés.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "centro de educación diurna; el pensión no está confirmado.",
+          "sources": [
+            {
+              "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+              "checked": "2026-11-06",
+              "title": "Página oficial de la orden · web reader",
+              "read_status": "web_reader_direct_http_403"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "10 horas alrededor de $520 sin registro/admin fee en la FAQ; la moneda, el impuesto y el costo de la temporada de equipo requieren confirmación.",
+          "sources": [
+            {
+              "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+              "checked": "2026-11-06",
+              "title": "Página oficial de la orden · web reader",
+              "read_status": "web_reader_direct_http_403"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "Hay niveles de capacitación y líneas de mando; el idioma y el acceso de los niños de visita todavía deben ser confirmados."
+        },
+        "future": {
+          "tier": "alternative",
+          "reason": "Dividir los niveles de edad y pasar a la tripulación, excepto considerar el trabajo experimental como un acceso a la final internacional."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+          "checked": "2026-11-06",
+          "title": "Página oficial de la orden · web reader",
+          "read_status": "web_reader_direct_http_403"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP031",
+      "slug": "tokyo-coding",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un día técnico práctico y general de día para ambos en un entorno de habla inglesa.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El operador indica 15 horas + horas de ejercicio técnico durante cinco días con visitas guiadas; los Robotics / AI sólo pueden acceder a ellas en sesiones separadas.",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "5–12, diferentes niveles de experiencia",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "Las clases están confirmadas en la EN.",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "Se indican los jefes técnicos anglófonos; no se han determinado las calificaciones ni el tamaño del equipo de ese turno.",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "campamento de día; no se ha anunciado el pensión.",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "JPY 129 000 + tax / 5 días.",
+          "sources": [
+            {
+              "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "alternative",
+          "reason": "Hay proyectos técnicos, pero esta semana es la semana que hay que acordar la intensidad de la robótica y la II."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "Ambos niños pertenecen a la misma edad; la familia vive por separado en Tokio."
+        },
+        "language": {
+          "tier": "alternative",
+          "reason": "El inglés se utiliza en las sesiones técnicas y en el trabajo de los jefes."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP032",
+      "slug": "harrow-appi",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un invierno de ingeniería de corta duración y un internado para Matway; Oscar más tarde.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Se ha publicado un proyecto de robot de esquí con programación, mediciones y ensayos.",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "9–13 durante el campo",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "El internado de habla inglesa está declarado por el operador.",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "La escuela ha designado a un director de curso técnico; no se ha realizado una evaluación independiente de la enseñanza.",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "Se publicaron seis noches de internado y un autobús organizado desde Morioka; las condiciones familiares exactas son claras.",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "440 000 JPY con el impuesto para el participante habitual. 352 000 JPY Sólo a los estudiantes actuales. Harrow Appi; No se aplica este descuento a la familia..",
+          "sources": [
+            {
+              "url": "https://winter.harrowappi.jp/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "El proyecto de un robot esquiador combina Micro:bit, física, mediciones e iteraciones."
+        },
+        "future": {
+          "tier": "alternative",
+          "reason": "Un internado escolar con un tema técnico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://winter.harrowappi.jp/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP034",
+      "slug": "id-tech",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Elecciones de sistema para un curso y una edad específicos; el nombre del campus no sustituye al programa.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El catálogo se divide en programas de segunda línea, Python de mayor edad / VEX y IE adolescente; el contenido se selecciona según el curso.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "partial",
+          "note": "En el catálogo general de edad diaria 7*17; las reglas especiales del cutoff y la pensión deben ser examinadas por un nuevo turno.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "En el pasado, las FAQ fueron confirmadas por separado; en la lectura actual, las páginas de ayuda se recuperaron con el envoltorio vacío.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "El operador describe a los profesores adultos, selecciona y verifica su biografía; es información de la operadora.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "campus universitarios, no en todas partes durante la noche; las condiciones de las habitaciones a comprobar.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "los indicadores actuales: diario de USD 949/día; Room & Board adicionalmente de USD 679/día. la suma mínima de estos dos  de USD 1 628, paquete no garantizado de 2027.",
+          "sources": [
+            {
+              "url": "https://www.idtech.com/tech-camps",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "Elegir un curso separado por proyecto y nivel, no por logotipo universitario."
+        },
+        "family_day": {
+          "tier": "alternative",
+          "reason": "Los cursos de enseñanza secundaria de día pueden tener siete años; la edad del cutoff y el nuevo emplazamiento requieren confirmación."
+        },
+        "future": {
+          "tier": "priority",
+          "reason": "VEX / Python y las direcciones de IA superiores son diferentes."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.idtech.com/tech-camps",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP041",
+      "slug": "cloud-forest",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Una de las primeras opciones locales para un programa natural común para ambos.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El programa se centra en la cubierta de nubes, la sostenibilidad y la naturaleza, la creatividad y la actividad física.",
+          "sources": [
+            {
+              "url": "https://cloudforestschool.org/camps-cec/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "5–13",
+          "sources": [
+            {
+              "url": "https://cloudforestschool.org/camps-cec/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "Las llamadas en línea EN y ES son claras, pero no se especifica el idioma de instrucción de cada actividad.",
+          "sources": [
+            {
+              "url": "https://cloudforestschool.org/camps-cec/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "campamento de día; vivienda familiar en Monteverde por separado.",
+          "sources": [
+            {
+              "url": "https://cloudforestschool.org/camps-cec/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "El primer turno completo del cambio seleccionado no se ha publicado en la página de lectura.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "priority",
+          "reason": "Monteverde: ejercicios ecológicos, paseos, arte y deportes con fechas publicadas."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "La base de Costa Rica permite combinar el campamento con el viaje familiar; no se prometen los equipos."
+        },
+        "language": {
+          "tier": "alternative",
+          "reason": "Se mencionan las prácticas de conversación en el idioma y el idioma; no se ha determinado la proporción de idiomas en las clases básicas."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://cloudforestschool.org/camps-cec/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP043",
+      "slug": "ciberbots",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un candidato técnico mexicano útil, sin autorización de vacaciones demostrada.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "Se han identificado los conjuntos y temas de futuros programas holiday; aún no se conoce el proyecto y la carga de trabajo de cada grupo de edad.",
+          "sources": [
+            {
+              "url": "https://ciberbots.com.mx/inicio",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.ciberbots.com.mx/services",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "unknown",
+          "note": "No se ha establecido la edad de los campamentos, y la edad de los cursos ordinarios no puede ser automáticamente arrastrada.",
+          "sources": []
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "operador de español; el curso de vacaciones y el apoyo EN de la lengua principal.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "centro de educación diurna; el pensión no está confirmado.",
+          "sources": [
+            {
+              "url": "https://ciberbots.com.mx/inicio",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.ciberbots.com.mx/services",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "El precio del tipo de cambio de vacaciones seleccionado aún no se ha determinado.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "alternative",
+          "reason": "El operador describe los programas de robótica holiday, pero aún se necesitan la edad, el reloj, el idioma y el precio de un flujo concreto."
+        },
+        "family_day": {
+          "tier": "alternative",
+          "reason": "Posible programa en México; los niveles escolares regulares no sustituyen a las exigencias del campamento."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://ciberbots.com.mx/inicio",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.ciberbots.com.mx/services",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP044",
+      "slug": "valle-verde",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Pasión general mexicana para el descanso activo; el futuro no está confirmado.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "Se ha publicado un campamento general activo y se imparten clases especiales con distintos umbrales de edad.",
+          "sources": [
+            {
+              "url": "https://valleverde.com.mx/fechas-y-costos/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "BASE 6–14; PRO 14–17; las actividades especiales tienen límites 8+/10+",
+          "sources": [
+            {
+              "url": "https://valleverde.com.mx/fechas-y-costos/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "el idioma principal del campamento diario/el apoyo al inglés se especifique. el sitio web español no se considere una confirmación de la EN.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "el pensión de la ciudad; la habitación/ordenamiento exacto de los menores.",
+          "sources": [
+            {
+              "url": "https://valleverde.com.mx/fechas-y-costos/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "Price leído es 2026, el nuevo precio aún no ha sido confirmado.",
+          "sources": [
+            {
+              "url": "https://valleverde.com.mx/fechas-y-costos/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "alternative",
+          "reason": "Naturaleza, aventuras y deportes; no es un campo de robot."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "La edad total permite que los jóvenes, pero la nueva temporada, el idioma y el apoyo para la primera salida, sean probados."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://valleverde.com.mx/fechas-y-costos/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP046",
+      "slug": "programable",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Uno de los primeros candidatos técnicos para la prueba del verano sudamericano.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Dos partes prácticas del día: un dispositivo físico y un juego conexo, con un cambio de equipo y tareas semanales.",
+          "sources": [
+            {
+              "url": "https://programable.com.ar/colonia-tecno-2027/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "Junior 6–9; El mayor 10–13",
+          "sources": [
+            {
+              "url": "https://programable.com.ar/colonia-tecno-2027/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "Sitio web de ES y descripción de español; aún no se ha confirmado directamente el idioma de enseñanza.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "Se ha declarado un límite de 12 participantes, pero no se ha verificado la composición y las calificaciones de los profesores de una semana determinada.",
+          "sources": [
+            {
+              "url": "https://programable.com.ar/colonia-tecno-2027/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "centro de educación diurna, no se ha anunciado el pensión.",
+          "sources": [
+            {
+              "url": "https://programable.com.ar/colonia-tecno-2027/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "ARS 95 000/15 horas semanales para ambos niveles; descuento por varias semanas sin una cantidad fijada.",
+          "sources": [
+            {
+              "url": "https://programable.com.ar/colonia-tecno-2027/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "Se describen detalladamente los proyectos de una semana de duración con dispositivos físicos y juegos; se selecciona a Junior o Senior por edad real."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "Formato técnico de día corto; el idioma de enseñanza debe ser confirmado directamente."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://programable.com.ar/colonia-tecno-2027/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP047",
+      "slug": "makemake",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "La naturaleza y la autonomía anglófonas en América Latina; la categoría escolar es más importante que la de la banda de edad general.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Tareas de mando, naturaleza y liderazgo; no hay curso técnico.",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "Homepage 6–17; Classic 2027 indican entering 2nd–8th básico — la clase escolar tiene prioridad",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "Todas las actividades en EN, si es necesario, traducción; los jefes bilingües son descritos por el operador.",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "El operador indica los instructores internacionales y capacitados; no se ha realizado una verificación independiente.",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "Se anuncian supervisión permanente, una proporción de 1:4 y enfermera; alojamiento en tiendas de campaña, no en un edificio escolar.",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "CLP 535 000 en seis días, incluido VAT.",
+          "sources": [
+            {
+              "url": "https://www.campmakemake.com/dates-and-rates",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.campmakemake.com/everything-you-need-to-know",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "priority",
+          "reason": "Un programa de seis días de duración sin pantallas, no prometo ningún robot."
+        },
+        "language": {
+          "tier": "priority",
+          "reason": "Inmersión completa en EN durante las actividades normales, con traducción si es necesario."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "Las camas en las tiendas de campaña son primero un examen de la clase, la preparación y las condiciones de vida de cada niño."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.campmakemake.com/dates-and-rates",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.campmakemake.com/everything-you-need-to-know",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP051",
+      "slug": "village-leysin",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un internado auxiliar separado para la primera salida independiente; STEM no entra automáticamente.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Se ha publicado un programa de juegos y actividades de jóvenes.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "Junior Adventure 7–9; de la misma STEM comienza con 10",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "Junior no se indica directamente en el programa/guide leído; la forma de inglés y el staff internacional no prueban la enseñanza EN. el inglés Language Camp 10+ separado no es una lección Junior.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "El operador describe la vigilancia 1:4, CPR / First Aid con los jefes y el apoyo médico.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "Junior: CHF5 200/5 500/5 500/5 100 en dos semanas en orden de cuatro turnos 2027. El último cambio de dos 10 200 por el campamento. si el traslado 200 y seguro no obligatorio 140 se le cuentan a cada uno, ejemplo 10 880 hasta otros gastos. el precio de transferencia y el contrato 2027 ¿Qué es lo que me hace sentir?.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "first_boarding": {
+          "tier": "priority",
+          "reason": "Programa especial Junior 7–9 con la atención que se le ha solicitado; Fecha de nacimiento y composición del grupo."
+        },
+        "general": {
+          "tier": "priority",
+          "reason": "Las aventuras y los deportes por edades; Matway después de diez años y Oscar hasta siete, pueden necesitar otros grupos."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP622",
+      "slug": "village-leysin-stem",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Robótica especializada en el internado para el siguiente nivel de edad.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Primero, las bases, luego las decisiones propias con sensores y motores; el último Robot Wars es un concurso interno.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "10–17; se admiten participantes novatos y experimentados",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "El programa/forma de inglés y la cuestión de la proficiencia en inglés no confirman el idioma del instructor.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Se describe la pensión Leysin; el apoyo a un flujo técnico específico debe verificarse por separado.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "CHF5 500/el niño/dos semanas. a Oscar 6–7 Necesitamos un separado. Junior después de 7-años; en los cambios de julio su precio también 5 500. el matrimonio condicional STEM+Junior11 000 por el campamento; con el traslado 200 y seguro no obligatorio 140 a cada uno de ellos. 11 680 hasta otros gastos. tarifas de transferencia y contrato 2027 ¿Qué es lo que me hace sentir?.",
+          "sources": [
+            {
+              "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "Trabajo estructurado con LEGO SPIKE y su propio robot; el idioma de la clase técnica aún no está confirmado."
+        },
+        "future": {
+          "tier": "priority",
+          "reason": "Matvey después de las diez, Oscar después, Junior de la misma red, un programa de trabajo."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP059",
+      "slug": "ermitage-holiday",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un día de trabajo francés de fácil uso para el idioma y el descanso general, con una base de pruebas técnica limitada.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "La historia temática se describe para el otoño, y no se prometen las mismas clases de invierno y verano.",
+          "sources": [
+            {
+              "url": "https://fr.ermitage.fr/activities/holidaycamp",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "conflict",
+          "note": "La página del otoño y la forma de contratación presentan diferentes límites de edad.",
+          "sources": [
+            {
+              "url": "https://fr.ermitage.fr/activities/holidaycamp",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "FR / EN está expresamente declarado para el otoño descrito; el turno futuro debe ser confirmado.",
+          "sources": [
+            {
+              "url": "https://fr.ermitage.fr/activities/holidaycamp",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Campamento de día; el internado de la escuela Ermitage no significa una estancia en este programa de menores.",
+          "sources": [
+            {
+              "url": "https://fr.ermitage.fr/activities/holidaycamp",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "otoño 2026: €610/semana o €135/día. los tarifas de las futuras vacaciones de 2027 no se publicaron en las fuentes leídas.",
+          "sources": [
+            {
+              "url": "https://fr.ermitage.fr/activities/holidaycamp",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "language": {
+          "tier": "alternative",
+          "reason": "El entorno bilingüe FR / EN; el idioma del turno futuro seleccionado todavía está en proceso de verificación."
+        },
+        "family_day": {
+          "tier": "priority",
+          "reason": "Hay ventanas de vacaciones futuras, la familia vive por separado, los niños se ocupan de grupos de edad."
+        },
+        "general": {
+          "tier": "alternative",
+          "reason": "Juegos temáticos, creatividad y paseos; no es un asunto de robótica."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://fr.ermitage.fr/activities/holidaycamp",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP064",
+      "slug": "sotogrande-camps",
+      "checked": "2026-11-06",
+      "status": "source_refresh_needed",
+      "summary": "La actualización se ha aplazado: la página actual devuelve la capa sin programa.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "unknown",
+          "note": "Junior elige el deporte de la mañana y una tarde-track para una sesión de dos semanas: STEAM, presentaciones públicas o otro curso. se declaran 10 horas de Junior académicos por semana, no 10 horas de robótica.",
+          "sources": []
+        },
+        {
+          "key": "age",
+          "state": "unknown",
+          "note": "Mega 6–7 Sólo durante el día.; Junior 8–12 día/el pensión; Masters 13–16; Nano 4–5 Sólo durante el día.",
+          "sources": []
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "La lengua principal del campamento es el inglés; parte del personal habla español. El idioma del módulo STEAM elegido se confirmará por separado.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "unknown",
+          "note": "Junior y mayores — el pensión; Mega Sólo durante el día., ¿Qué es esto ?–¿Qué es esto ?. Junior day en el horario 09–19; el reloj exacto 2027 aclarar.",
+          "sources": []
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "Junior/Masters 2 las semanas: €2 375 día / €3 445 el pensión. Mega 1/2/3/4/5/6 una semana: €495 / 900 / 1 275 / 1 600 / 1 875 / 2 100.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {},
+      "sources": [
+        {
+          "url": "https://www.sis.ac/school-life/summer-camps",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP052",
+      "slug": "geering-up",
+      "checked": "2026-11-06",
+      "status": "source_refresh_needed",
+      "summary": "La actualización se ha aplazado: UBC necesita un navegador de seguridad; las condiciones del nuevo campamento no se han leído.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "unknown",
+          "note": "En los grupos de codificación 2/3 y 4/5  Scratch/MakeCode, también mecanismos y electrónica; no se requiere experiencia previa. el mismo tema se repite cada semana: para la diversidad cambiar el tema, no sólo la semana.",
+          "sources": []
+        },
+        {
+          "key": "age",
+          "state": "unknown",
+          "note": "selección por clase, que el niño comienza en otoño.; FAQ 2026 describe Grade 1–7, de la misma 2/3 y 4/5",
+          "sources": []
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "La lengua de día completo en la FAQ no está directamente establecida. El texto en inglés del sitio no sustituye la confirmación para la familia invitada.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "unknown",
+          "note": "La FAQ dice que no se ofrece más durante la noche.",
+          "sources": []
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "No se indica el precio del curso elegido en la FAQ que se lee.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {},
+      "sources": [
+        {
+          "url": "https://geeringup.apsc.ubc.ca/camps/in-person-camps/faq/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP128",
+      "slug": "techspark-lego",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un curso de robótica de primer año, y todavía se necesita un turno en inglés.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "Se describe un curso LEGO específico para los más pequeños, con construcción, programación y pruebas de prototipos.",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "6+ en la descripción de LEGO Junior; Arduino  curso separado 12+",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "Listado EN, DE y FR para LEGO; el idioma de cambio no se ha seleccionado aún.",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "partial",
+          "note": "El operador describe las clases y los profesores de las universidades técnicas; no se ha verificado la composición de un turno determinado.",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "campamento de día; vivienda familiar y acompañamiento fuera del campamento.",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "El resultado es LEGO No se sabe. de las empresas junior-los precios CHF 645–890 No lo consideramos confirmado. LEGO-por el precio.",
+          "sources": [
+            {
+              "url": "https://online.techsparkacademy.ch/robotics-course/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/in-person-camps/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://techsparkacademy.ch/terms-conditions/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "engineering": {
+          "tier": "priority",
+          "reason": "El programa y montaje de LEGO se adaptan a la ruta técnica de menor importancia; el calendario urbano general no garantiza este curso."
+        },
+        "family_day": {
+          "tier": "alternative",
+          "reason": "La edad de LEGO Junior comienza con seis años; el lugar, los días, el idioma y el nivel del grupo deben ser acordados."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://online.techsparkacademy.ch/robotics-course/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://techsparkacademy.ch/in-person-camps/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://techsparkacademy.ch/terms-conditions/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP1491",
+      "slug": "kimama-hof",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "Un breve internado general en una red internacional bilingüe; es preciso eliminar las diferencias de edad.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "Vacaciones activas generales, autonomía y programa cultural; no se ha declarado ninguna intensificación técnica.",
+          "sources": [
+            {
+              "url": "https://www.eng.campkimama.org/hof",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/dates-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "conflict",
+          "note": "El título Kids y el texto básico varían según la edad mínima.",
+          "sources": [
+            {
+              "url": "https://www.eng.campkimama.org/hof",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/dates-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "FAQ de la red confirma EN / HE; el lenguaje de vida y la ayuda a un grupo determinado deben ser armonizados.",
+          "sources": [
+            {
+              "url": "https://www.eng.campkimama.org/hof",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/dates-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Programa con pernocta; confirmar alojamiento y grupo de edad.",
+          "sources": [
+            {
+              "url": "https://www.eng.campkimama.org/hof",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/dates-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "2027: 8800 ILS turno + 190 seguro obligatorio no residente = 8990 uno; 17980 dos, antes de viaje y suplementos desconocidos.",
+          "sources": [
+            {
+              "url": "https://www.eng.campkimama.org/hof",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/dates-fees",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.eng.campkimama.org/faq",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "general": {
+          "tier": "alternative",
+          "reason": "El mar, el deporte y la creatividad; tener en cuenta el programa cultural del campamento."
+        },
+        "first_boarding": {
+          "tier": "alternative",
+          "reason": "El formato corto merece ser examinado después de confirmar la edad, apoyar a los jóvenes y las normas de admisión."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.eng.campkimama.org/hof",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.eng.campkimama.org/dates-fees",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.eng.campkimama.org/faq",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP1496",
+      "slug": "kimama-halfmoon-day",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "La versión diaria general de los Estados Unidos para los dos grupos de edad, pero un calendario exacto es un error.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "partial",
+          "note": "Programa diario general, no de intensidad técnica.",
+          "sources": [
+            {
+              "url": "https://www.kimamahalfmoon.org/datesrates2026",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "2027: grupos 3–4 / 5–6 / 7+",
+          "sources": [
+            {
+              "url": "https://www.kimamahalfmoon.org/datesrates2026",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "partial",
+          "note": "EN / HE confirmado FAQ red, el grupo de trabajo debe verificarse.",
+          "sources": [
+            {
+              "url": "https://www.kimamahalfmoon.org/datesrates2026",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "partial",
+          "note": "Programa diurno; alojamiento familiar aparte.",
+          "sources": [
+            {
+              "url": "https://www.kimamahalfmoon.org/datesrates2026",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "partial",
+          "note": "La tarifa 2027 se ha publicado; las reglas de la skick sinbling se apartan de la temporada anterior y no se aplican automáticamente.",
+          "sources": [
+            {
+              "url": "https://www.kimamahalfmoon.org/datesrates2026",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "family_day": {
+          "tier": "alternative",
+          "reason": "Full day se ajusta a la estructura de edad general; las fechas, la disponibilidad y la inclusión requieren confirmación."
+        },
+        "general": {
+          "tier": "alternative",
+          "reason": "Vacaciones activas generales; no se ha anunciado ningún programa de robot."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.kimamahalfmoon.org/datesrates2026",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP152",
+      "slug": "ciss-entrepreneurs",
+      "checked": "2026-11-06",
+      "status": "reviewed",
+      "summary": "El futuro negocio con un plan de negocios y protección; ambos niños todavía son demasiado jóvenes.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "documented",
+          "note": "El nuevo folleto 2027 indica 20 horas por semana, un plan de negocios, una comercialización, un cálculo de rentabilidad y una presentación final.",
+          "sources": [
+            {
+              "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "age",
+          "state": "documented",
+          "note": "14–18",
+          "sources": [
+            {
+              "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "language",
+          "state": "documented",
+          "note": "El folleto requiere la utilización de medios de comunicación para la aplicación de la EN; es la etapa futura.",
+          "sources": [
+            {
+              "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "documented",
+          "note": "Residencia Trinity: habitaciones individuales, dobles o triples, baños compartidos, comidas y apoyo permanente.",
+          "sources": [
+            {
+              "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            },
+            {
+              "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+              "checked": "2026-11-06",
+              "title": "Página oficial del programa",
+              "read_status": "read"
+            }
+          ]
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "No se ha establecido una tarifa completa para el nuevo programa en las fuentes que se leen.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {
+        "enterprise": {
+          "tier": "priority",
+          "reason": "Dos semanas con un plan de negocios y un pitch final, solo después de la edad."
+        },
+        "future": {
+          "tier": "priority",
+          "reason": "Considerarlo desde los catorce años y con el inglés requerido; estar en un campus universitario no equivale a obtener un título universitario."
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        },
+        {
+          "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    },
+    {
+      "programme_id": "CP790",
+      "slug": "xcl-entrepreneurship-101",
+      "checked": "2026-11-06",
+      "status": "source_refresh_needed",
+      "summary": "Se ha aplazado la actualización: las páginas anteriores del curso y los tratados se han convertido en un directorio común de XWA.",
+      "criteria": [
+        {
+          "key": "curriculum",
+          "state": "unknown",
+          "note": "Necesidades de los usuarios, branding/marketing, desarrollo del producto y presentación de la solución. No se anuncia como un hackatón internacional con jurado.",
+          "sources": []
+        },
+        {
+          "key": "age",
+          "state": "unknown",
+          "note": "8–12",
+          "sources": []
+        },
+        {
+          "key": "language",
+          "state": "unknown",
+          "note": "FAQ permite un nivel bajo de inglés, pero no establece el idioma de enseñanza de este curso.",
+          "sources": []
+        },
+        {
+          "key": "mentors",
+          "state": "unknown",
+          "note": "No se han confirmado la cualificación de los instructores ni el tamaño del grupo de este turno.",
+          "sources": []
+        },
+        {
+          "key": "care",
+          "state": "unknown",
+          "note": "Diurno Mon–Fri09:00–15:00,2YishunStreet42,Singapore768039. No hay un alojamiento; vivienda de la familia por separado.",
+          "sources": []
+        },
+        {
+          "key": "cost",
+          "state": "unknown",
+          "note": "SGD760/5 de curso diario por niño; año del precio no está establecido, no el precio2027.",
+          "sources": []
+        },
+        {
+          "key": "reputation",
+          "state": "unknown",
+          "note": "En esta revisión no se han investigado reseñas independientes ni resultados externos de este programa.",
+          "sources": []
+        }
+      ],
+      "goals": {},
+      "sources": [
+        {
+          "url": "https://www.xwa.edu.sg/school-life/xcl-camps",
+          "checked": "2026-11-06",
+          "title": "Página oficial del programa",
+          "read_status": "read"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "total_dossiers": 1497,
+    "reviewed": 24,
+    "refresh_pending": 3,
+    "review_dossiers": 27,
+    "countries": 14,
+    "independent_review_sources": 0,
+    "full_trip_value_assessments": 0
+  }
+}

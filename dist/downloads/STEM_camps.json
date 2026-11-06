@@ -580,14 +580,14 @@
       }
     ],
     "counts": {
-      "records": 3682,
-      "holiday": 3441,
+      "records": 3683,
+      "holiday": 3442,
       "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 1004,
-      "en_es_instruction": 1074,
+      "boarding": 1005,
+      "en_es_instruction": 1075,
       "en_es_support": 12,
-      "family_instruction": 1074,
+      "family_instruction": 1075,
       "family_support": 12,
       "ru_instruction": 3,
       "language_lessons": 387,
@@ -59228,7 +59228,7 @@
       "city": "Toronto · Trinity College, University of Toronto",
       "start": "2027-07-04",
       "end": "2027-07-17",
-      "period": "4–17 июля 2027, две недели; общее окно Trinity 27 июня–7 августа не заменяет даты Entrepreneurs.",
+      "period": "4–17 и 18–31 июля 2027: две отдельные двухнедельные смены по новой брошюре. Общее окно Trinity не заменяет даты Entrepreneurs.",
       "date_status": "Подтверждено",
       "deadline": "",
       "age": "14–18",
@@ -59236,18 +59236,22 @@
       "osc": "Нет сейчас; будущая возрастная ступень",
       "format": "Один или два ребёнка в комнате, персонал в общежитии, общие санузлы. Три приёма пищи понедельник–суббота, поздний завтрак и ужин в воскресенье; часть экскурсий включена, дополнительные активности платные.",
       "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
-      "gear": "Выявление потребностей, идея, решение и бизнес-план, критическое мышление и проекты. Общение и презентации на английском; результат собственного стартапа или международная победа не обещаны.",
+      "gear": "Новая брошюра 2027: 20 часов в неделю, две недели, разработка идеи и бизнес-плана, маркетинг, затраты и прибыльность, финальная Shark Tank-style презентация. Требуется Intermediate to Advanced EN, ориентир IELTS 4.0+. Это обучение предпринимательству, не международная медаль и не университетский кредит.",
       "language": "Средний или продвинутый английский, эквивалент IELTS 4.0+; 20 часов в неделю. Общий английский и Academic & Career Prep с 16 лет — другие опции.",
       "cost": "2027 · 2027 цена уточняется · доплаты и условия в досье",
       "level": "D — обучение",
       "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
       "priority": "P4 — будущий возраст",
       "action": "Подтвердить тариф 2027, глубину проектов, отбор и условия возврата.",
-      "source": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+      "source": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
       "references": [
         {
+          "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+          "label": "Новая брошюра Summer 2027: две смены, часы и EN"
+        },
+        {
           "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
-          "label": "Entrepreneurs 2027: возраст, EN, даты"
+          "label": "Прежняя страница курса · HTTP404 при повторной проверке"
         },
         {
           "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
@@ -59259,7 +59263,75 @@
         }
       ],
       "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
+      "status": "Идея",
+      "note": "Матвей: В 2027 ещё 9–10; минимум 14. Оскар: В 2027 ещё 6–7; минимум 14. Доплаты: Перелёт, прачечная, платные активности, аэропортовые сборы, страховка, налог и регистрационный сбор требуют расчёта. Оплата: Ссылка помощи с тарифами показывает статью How do I register? 2022. Новый договор, аванс и условия возврата пока неизвестны.",
+      "iso": [
+        "CAN"
+      ],
+      "themes": [
+        "entrepreneurship"
+      ],
+      "scope": "local",
+      "importance_reason": "Редакционный кандидат под семейную поездку; международный состав не означает мировую лигу.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Средний или продвинутый английский, эквивалент IELTS 4.0+; 20 часов в неделю. Общий английский и Academic & Career Prep с 16 лет — другие опции.",
+      "participation": "residential",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_session",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "ciss-entrepreneurs",
+      "camp_programme_id": "CP152"
+    },
+    {
+      "id": "CP152-20270718-20270731",
+      "block": "Лагеря",
+      "title": "CISS at Trinity · Future Entrepreneurs · Future Entrepreneurs · вторая смена · 2027-07-18–2027-07-31",
+      "country": "Канада",
+      "region": "Северная Америка",
+      "city": "Toronto · Trinity College, University of Toronto",
+      "start": "2027-07-18",
+      "end": "2027-07-31",
+      "period": "4–17 и 18–31 июля 2027: две отдельные двухнедельные смены по новой брошюре. Общее окно Trinity не заменяет даты Entrepreneurs.",
+      "date_status": "Подтверждено",
+      "deadline": "",
+      "age": "14–18",
+      "mat": "Нет сейчас; будущая возрастная ступень",
+      "osc": "Нет сейчас; будущая возрастная ступень",
+      "format": "Один или два ребёнка в комнате, персонал в общежитии, общие санузлы. Три приёма пищи понедельник–суббота, поздний завтрак и ужин в воскресенье; часть экскурсий включена, дополнительные активности платные.",
+      "entry": "Индивидуальная заявка оператору; точный трек, возраст, язык и наличие мест подтвердить.",
+      "gear": "Новая брошюра 2027: 20 часов в неделю, две недели, разработка идеи и бизнес-плана, маркетинг, затраты и прибыльность, финальная Shark Tank-style презентация. Требуется Intermediate to Advanced EN, ориентир IELTS 4.0+. Это обучение предпринимательству, не международная медаль и не университетский кредит.",
+      "language": "Средний или продвинутый английский, эквивалент IELTS 4.0+; 20 часов в неделю. Общий английский и Academic & Career Prep с 16 лет — другие опции.",
+      "cost": "2027 · 2027 цена уточняется · доплаты и условия в досье",
+      "level": "D — обучение",
+      "reward": "Учебная программа / проект; внутренний конкурс не международная победа",
+      "priority": "P4 — будущий возраст",
+      "action": "Подтвердить тариф 2027, глубину проектов, отбор и условия возврата.",
+      "source": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+      "references": [
+        {
+          "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+          "label": "Новая брошюра Summer 2027: две смены, часы и EN"
+        },
+        {
+          "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+          "label": "Прежняя страница курса · HTTP404 при повторной проверке"
+        },
+        {
+          "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+          "label": "Trinity: часы, жильё, питание, доплаты"
+        },
+        {
+          "url": "https://www.cisscanada.com/knowledge-base/how-do-i-find-your-dates-and-fees/",
+          "label": "Новый прайс пока не найден"
+        }
+      ],
+      "proof": "Официальные источники подробного досье прочитаны; неизвестные условия сохранены явно.",
+      "checked": "2026-11-06",
       "status": "Идея",
       "note": "Матвей: В 2027 ещё 9–10; минимум 14. Оскар: В 2027 ещё 6–7; минимум 14. Доплаты: Перелёт, прачечная, платные активности, аэропортовые сборы, страховка, налог и регистрационный сбор требуют расчёта. Оплата: Ссылка помощи с тарифами показывает статью How do I register? 2022. Новый договор, аванс и условия возврата пока неизвестны.",
       "iso": [

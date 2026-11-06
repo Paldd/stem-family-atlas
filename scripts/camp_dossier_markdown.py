@@ -14,6 +14,10 @@ def render(report):
             p=by_slug[slug]
             lines.append('- '+p['provider']+' · '+p['country']+' · '+p['editorial_reason'])
     lines += ['## Смета',report['budget_method']]
+    selection=report.get('editorial_selection')
+    if selection:
+        lines += ['## Редакционный выбор по целям',selection['scope']]
+        lines += selection['methodology']+[selection['value_policy']]
     def field(label,value):
         if value is not None and value!='':lines.append('**'+label+':** '+str(value))
     def child_rows(fits):
@@ -27,6 +31,16 @@ def render(report):
         field('Цена / год',str(p['price'].get('season') or p['price'].get('year') or 'не установлен')+' · '+p['price']['label'])
         for label,key in [('Включено','included'),('Доплаты','extras'),('Оплата','deposit')]:field(label,p['price'].get(key))
         child_rows(p['family_fit']);field('Почему в отборе',p['editorial_reason'])
+        review=next((r for r in selection['reviews'] if r['programme_id']==p['id']),None) if selection else None
+        if review:
+            lines += ['### Редакционный разбор',review['summary']]
+            field('Проверка разбора',review['checked'])
+            for goal,verdict in review['goals'].items():
+                field(selection['goal_labels'][goal],selection['tier_labels'][verdict['tier']]+' · '+verdict['reason'])
+            for criterion in review['criteria']:
+                label=next(c['label'] for c in selection['criteria'] if c['key']==criterion['key'])
+                field(label,selection['states'][criterion['state']]+' · '+criterion['note'])
+                lines += ['[Официальный источник]('+s['url']+') · '+s['checked'] for s in criterion['sources']]
         if p['questions']:lines += ['### Перед заявкой']+['- '+q for q in p['questions']]
         for v in p['timing'].get('session_details',[]):
             lines.append('### '+str(v.get('label') or 'Даты и условия смены'))

@@ -5363,9 +5363,10 @@
       "confirmed_instruction_languages": [],
       "programme": "Академические летние classes, не общий sports camp. Внешние non-TAS дети могут поступать: иностранный паспорт плюс подтверждение иностранной национальности, рекомендация учителя; для части курсов transcript. Робототехника доступна по конкретным классам.",
       "timing": {
-        "status": "published_2026",
-        "label": "2026: 08.06–03.07; календарь 2027 ещё не подтверждён.",
+        "status": "next_unannounced",
+        "label": "Заголовок Summer Academy 2027, но строка периода сообщает 7 июня–2 июля 2026. Год противоречив; даты 2027 не подтверждены и в календарь не перенесены. Предыдущий архив: 2026, 08.06–03.07.",
         "sessions": [],
+        "previous_label": "2026: 08.06–03.07; календарь 2027 ещё не подтверждён.",
         "precision": "published_sessions"
       },
       "price": {
@@ -5391,13 +5392,14 @@
         "technical"
       ],
       "questions": [
-        "Выбрать конкретный курс 2027, проверить EN/класс/места/итоговую стоимость."
+        "Выбрать конкретный курс 2027, проверить EN/класс/места/итоговую стоимость.",
+        "Получить исправленный календарь Summer Academy 2027: год в периоде на сайте противоречит заголовку."
       ],
       "sources": [
         {
-          "title": "Summer Academy",
+          "title": "Повторная проверка объявления: конфликт 2027 / 2026",
           "url": "https://www.tas.edu.tw/summer-academy/",
-          "checked": "2026-10-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Внешние дети / документы",
@@ -5410,7 +5412,14 @@
           "checked": "2026-10-04"
         }
       ],
-      "checked": "2026-10-04",
+      "checked": "2026-11-06",
+      "previous_source_checks": [
+        {
+          "title": "Summer Academy",
+          "url": "https://www.tas.edu.tw/summer-academy/",
+          "checked": "2026-10-04"
+        }
+      ],
       "related_event_ids": [
         "L021"
       ],
@@ -5513,7 +5522,7 @@
       "age": "Little Explorer 5–6; STEM Explorer 7–8; SPIKE certificate 9–16; Arduino 10–16; Python 10–16 по текущему меню.",
       "language": "Язык технического курса прямо не подтверждён прочитанной страницей; нужно согласовать английский поток.",
       "confirmed_instruction_languages": [],
-      "programme": "SPIKE certificate: 60 часов / 6 уровней. FLL Main после Advanced, но Novice Team принимает без опыта: 30 часов / 12 занятий. Explore: 15 занятий на team page против 20 на STEM page; допуск уточнить. Нельзя одновременно представлять школу и Nullspace в одном турнире.",
+      "programme": "Регулярная подготовка и отдельные holiday workshops. FLL Main: 45 часов / 18 занятий Nov–Mar, требуется SPIKE Advanced; Novice: 30 часов / 12 занятий Jan–Mar, без опыта. Team Explore: 20 часов / 10 занятий Jan–Mar после 15 занятий STEM Explorer. На странице возраст Explore 7–9, описание категории 6–8: допуск младшего подтвердить. Нельзя одновременно представлять школу и Nullspace в одном соревновании. Даты турнира не являются датами смены лагеря.",
       "timing": {
         "status": "next_unannounced",
         "label": "Декабрьский EV3 и октябрьские AI-мастерские вынесены в отдельные карточки. Minecraft June2026 / 3D September2026 — архив; расписание 2027 не подтверждено.",
@@ -5553,9 +5562,9 @@
           "checked": "2026-10-05"
         },
         {
-          "title": "Novice/Main/Explore",
+          "title": "Командная подготовка BIOGLOW: Main / Novice / Explore · web reader, прямой HTTP403",
           "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Правила центра",
@@ -5568,7 +5577,15 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
+      "previous_programme": "SPIKE certificate: 60 часов / 6 уровней. FLL Main после Advanced, но Novice Team принимает без опыта: 30 часов / 12 занятий. Explore: 15 занятий на team page против 20 на STEM page; допуск уточнить. Нельзя одновременно представлять школу и Nullspace в одном турнире.",
+      "previous_source_checks": [
+        {
+          "title": "Novice/Main/Explore",
+          "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+          "checked": "2026-10-05"
+        }
+      ],
       "related_event_ids": [
         "L016"
       ],
@@ -24102,14 +24119,18 @@
       "confirmed_instruction_languages": [
         "EN"
       ],
-      "programme": "Выявление потребностей, идея, решение и бизнес-план, критическое мышление и проекты. Общение и презентации на английском; результат собственного стартапа или международная победа не обещаны.",
+      "programme": "Новая брошюра 2027: 20 часов в неделю, две недели, разработка идеи и бизнес-плана, маркетинг, затраты и прибыльность, финальная Shark Tank-style презентация. Требуется Intermediate to Advanced EN, ориентир IELTS 4.0+. Это обучение предпринимательству, не международная медаль и не университетский кредит.",
       "timing": {
         "status": "published_2027",
-        "label": "4–17 июля 2027, две недели; общее окно Trinity 27 июня–7 августа не заменяет даты Entrepreneurs.",
+        "label": "4–17 и 18–31 июля 2027: две отдельные двухнедельные смены по новой брошюре. Общее окно Trinity не заменяет даты Entrepreneurs.",
         "sessions": [
           [
             "2027-07-04",
             "2027-07-17"
+          ],
+          [
+            "2027-07-18",
+            "2027-07-31"
           ]
         ],
         "session_details": [
@@ -24119,7 +24140,18 @@
             "label": "Future Entrepreneurs ·2 недели",
             "price": "2027 цена уточняется",
             "place": "Toronto · Trinity College, University of Toronto",
-            "source": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+            "source": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+            "formats": [
+              "boarding"
+            ]
+          },
+          {
+            "start": "2027-07-18",
+            "end": "2027-07-31",
+            "label": "Future Entrepreneurs · вторая смена",
+            "price": "2027 цена уточняется",
+            "place": "Toronto · Trinity College, University of Toronto",
+            "source": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
             "formats": [
               "boarding"
             ]
@@ -24154,6 +24186,58 @@
       ],
       "sources": [
         {
+          "title": "Новая брошюра Summer 2027: две смены, часы и EN",
+          "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Прежняя страница курса · HTTP404 при повторной проверке",
+          "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Trinity: часы, жильё, питание, доплаты",
+          "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+          "checked": "2026-10-05"
+        },
+        {
+          "title": "Новый прайс пока не найден",
+          "url": "https://www.cisscanada.com/knowledge-base/how-do-i-find-your-dates-and-fees/",
+          "checked": "2026-10-05"
+        }
+      ],
+      "checked": "2026-11-06",
+      "previous_seasons": [
+        {
+          "checked": "2026-10-05",
+          "programme": "Выявление потребностей, идея, решение и бизнес-план, критическое мышление и проекты. Общение и презентации на английском; результат собственного стартапа или международная победа не обещаны.",
+          "timing": {
+            "status": "published_2027",
+            "label": "4–17 июля 2027, две недели; общее окно Trinity 27 июня–7 августа не заменяет даты Entrepreneurs.",
+            "sessions": [
+              [
+                "2027-07-04",
+                "2027-07-17"
+              ]
+            ],
+            "session_details": [
+              {
+                "start": "2027-07-04",
+                "end": "2027-07-17",
+                "label": "Future Entrepreneurs ·2 недели",
+                "price": "2027 цена уточняется",
+                "place": "Toronto · Trinity College, University of Toronto",
+                "source": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
+                "formats": [
+                  "boarding"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "previous_source_checks": [
+        {
           "title": "Entrepreneurs 2027: возраст, EN, даты",
           "url": "https://www.cisscanada.com/programmes/summer-programmes/leaership-skills-courses/future-entrepreneurs/",
           "checked": "2026-10-05"
@@ -24169,7 +24253,6 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -24178,6 +24261,14 @@
           "kind": "catalogue_session",
           "event_ids": [
             "CP152-20270704-20270717"
+          ]
+        },
+        {
+          "start": "2027-07-18",
+          "end": "2027-07-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP152-20270718-20270731"
           ]
         }
       ]
@@ -105329,7 +105420,8 @@
       "shortlist": [],
       "questions": [
         "Подтвердить реальные зимние2026/27 или летние2027 даты/цену/место, язык своего инструктора и индивидуальный иностранный приём; возраст на первый день неизвестен.",
-        "Полный счёт с автобусом/условной3%комиссией/страховкой и действующий возврат. По FAQ самостоятельный туалет и экстренный контакт взрослого. Заявки/оплаты/согласия не отправлялись."
+        "Полный счёт с автобусом/условной3%комиссией/страховкой и действующий возврат. По FAQ самостоятельный туалет и экстренный контакт взрослого. Заявки/оплаты/согласия не отправлялись.",
+        "Подтвердить существование и новые условия именно Entrepreneurship101 после перенаправления старых страниц в общий каталог."
       ],
       "sources": [
         {
@@ -105353,8 +105445,14 @@
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "language_evidence_role": "english_level_policy",
+      "source_refresh": {
+        "checked": "2026-11-06",
+        "status": "redirected_to_general_catalogue",
+        "url": "https://www.xwa.edu.sg/school-life/xcl-camps",
+        "detail": "Прежние страницы конкретного курса, FAQ и договора перенаправляют на общий XCL Camps. Общие ages 3–16 и цена от SGD720 не подтверждают новый Entrepreneurship101 и не заменяют его прежние условия."
+      },
       "related_event_ids": [],
       "calendar_links": []
     },
@@ -239773,7 +239871,7 @@
     "Младшие группы и языковое доказательство для всех приоритетных операторов.",
     "Полный общий мировой каталог по остальным странам, карта точных площадок и семейная смета после выбора смен."
   ],
-  "version": 189,
+  "version": 190,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -240514,6 +240612,3813 @@
         "detail": "Конструирование, датчики, визуальный код и маленький законченный проект; дневной формат либо младший пансион после пробного опыта. Старшие AI-группы не заменяют подходящую младшую программу."
       }
     ]
+  },
+  "editorial_selection": {
+    "version": 190,
+    "checked": "2026-11-06",
+    "title": "Редакционный выбор под задачу",
+    "scope": "Первый набор подробных разборов. Это редакционная оценка, не официальный мировой рейтинг и не полный список лучших лагерей.",
+    "criteria": [
+      {
+        "key": "curriculum",
+        "label": "Содержание, часы и детский проект"
+      },
+      {
+        "key": "age",
+        "label": "Адаптация к возрасту"
+      },
+      {
+        "key": "language",
+        "label": "Язык конкретной программы"
+      },
+      {
+        "key": "mentors",
+        "label": "Наставники и группа"
+      },
+      {
+        "key": "care",
+        "label": "Проживание и поддержка младших"
+      },
+      {
+        "key": "cost",
+        "label": "Стоимость и правила"
+      },
+      {
+        "key": "reputation",
+        "label": "Независимые репутационные доказательства"
+      }
+    ],
+    "states": {
+      "documented": "Конкретные условия опубликованы",
+      "partial": "Доказательства частичные",
+      "unknown": "Не установлено",
+      "conflict": "Есть расхождение"
+    },
+    "goal_labels": {
+      "engineering": "Инженерия, робототехника и код",
+      "language": "Языковая практика",
+      "general": "Общий активный отдых",
+      "enterprise": "Предпринимательство",
+      "first_boarding": "Первый пансион",
+      "family_day": "Семейная поездка с дневным лагерем",
+      "future": "На будущий возраст",
+      "value": "Содержание / полная цена"
+    },
+    "tier_labels": {
+      "priority": "Рассмотреть в первую очередь",
+      "alternative": "Рассмотреть как альтернативу",
+      "not_target": "Этот разбор решает другую задачу",
+      "not_rated": "Оценка отложена",
+      "deferred": "Нужно обновить доказательства",
+      "unreviewed": "Ещё не оценено"
+    },
+    "methodology": [
+      "Сначала выберите страну, тему, формат, ребёнка и период. Редакционный порядок применяется только к оставшимся программам. Фильтр «С редакционным разбором» показывает изученную часть каталога.",
+      "Внутри выбранного набора сначала учитываются возрастные условия, подтверждённый язык и будущие даты; затем редакционный вердикт по цели. Режим будущего возраста сохраняет старшие программы, явно показывая ограничения сейчас.",
+      "Редакционный вердикт написан по содержанию программы. Он не вычисляется по ключевым словам, цене, известности бренда или числу заполненных полей.",
+      "Статус критерия показывает, какие сведения удалось получить. Конкретные условия, опубликованные оператором, не являются независимой проверкой качества, присмотра или безопасности.",
+      "Неоценённые программы остаются в каталоге. Их позиция не означает худшее качество. Неизвестные сведения не получают ноль и не превращаются в выдуманные звёзды.",
+      "Места, зачисление, язык конкретной группы и готовность к пансиону проверяются отдельно. Наличие даты или кнопки записи не доказывает доступность места.",
+      "Внешние отзывы должны иметь отдельный источник и дату. В этом проходе независимые отзывы не исследованы; отзывы самого оператора не названы независимыми."
+    ],
+    "value_policy": "Оценка содержания относительно полной цены пока отложена: полная семейная смета с обязательными расходами не установлена. Частичный тариф и разные валюты не позволяют назвать лагерь лучшим по цене.",
+    "unreviewed_policy": "Редакционный разбор этой программы ещё не выполнен. Это не оценка её качества.",
+    "independent_reviews": [],
+    "reviews": [
+      {
+        "programme_id": "CP001",
+        "slug": "les-elfes",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Для альпийского отдыха и самостоятельности; техническую опцию нельзя считать основной программой.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Основной пакет объединяет спорт, природу и экскурсии; языковые занятия и workshops выбираются отдельно.",
+            "sources": [
+              {
+                "url": "https://www.leselfes.com/summer-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/dates-and-pricing/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/about-us/faq/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Основной лагерь 6–17. Возраст конкретного дополнительного технического workshop нужно перепроверить отдельно.",
+            "sources": [
+              {
+                "url": "https://www.leselfes.com/summer-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/dates-and-pricing/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/about-us/faq/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "Основная среда EN подтверждалась FAQ; язык выбранного workshop нужно согласовать.",
+            "sources": [
+              {
+                "url": "https://www.leselfes.com/summer-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/dates-and-pricing/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/about-us/faq/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Оператор описывает круглосуточный присмотр и комнаты по четыре человека с санузлом.",
+            "sources": [
+              {
+                "url": "https://www.leselfes.com/summer-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/dates-and-pricing/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/about-us/faq/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "conflict",
+            "note": "На странице программы, тарифной странице и ранее прочитанной форме различаются базовые суммы и включения. До оплаты нужен единый счёт выбранной смены.",
+            "sources": [
+              {
+                "url": "https://www.leselfes.com/summer-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/dates-and-pricing/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.leselfes.com/about-us/faq/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Разнообразный активный отдых с проживанием; отдельно выбрать возрастную группу."
+          },
+          "language": {
+            "tier": "alternative",
+            "reason": "Языковые уроки являются платной опцией; языковую нагрузку нужно выбрать в пакете."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Нужно проверить самостоятельность и поддержку младших; международный формат сам по себе не гарантирует готовность к пансиону."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.leselfes.com/summer-camp/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.leselfes.com/dates-and-pricing/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.leselfes.com/about-us/faq/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP003",
+        "slug": "prefleuri",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Один из первых кандидатов на общие языковые каникулы для двух детей; возрастные группы будут разными.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Утром языковые занятия, затем спорт и приключения; профильная робототехника не заявлена.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Летние группы 3–4, 5–7, 8–9 и 10–14",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Предлагаются языковые занятия EN и FR; это языковой лагерь, не доказательство технического курса.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Оператор указывает языковых преподавателей; размер конкретной группы и состав смены ещё уточнить.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Младший школьный пансион и дневной вариант; переход к ночёвкам обсуждать индивидуально. По terms устройства/часы с камерой и tracking сдают, Air Tags только в багаже. Визиты родителей только по предварительному разрешению; связь по правилам, сообщаемым при booking.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "2027, 5–14 лет: boarding 2 / 3 / 4 / 5 / 6 недель CHF 6150 / 8950 / 10750 / 13300 / 15750; day 3575 / 5250 / 6800 / 8400 / 9900. Тарифы 2026 заменены текущими. Скидка 10% от 4 недель уже включена. Скидка второму ребёнку 10% не суммируется: пансион исключает форму, страховку и налоги, day PDF перечисляет только форму. Базу скидки выбранного пакета подтвердить; семейная смета не уменьшена автоматически.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Языки, спорт, природа и творчество с возрастными группами для обоих детей."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Опубликованы утренние языковые занятия и возрастные варианты; выбрать EN или FR."
+          },
+          "first_boarding": {
+            "tier": "priority",
+            "reason": "Младшие возрастные группы заслуживают рассмотрения, но готовность каждого ребёнка и режим связи проверяются отдельно."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Дневной формат позволяет семье жить рядом, а детям заниматься в разных группах."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP004",
+        "slug": "tasis",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Сильный кандидат на язык и широкий STEAM, с разными форматами по возрасту детей.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "CDE публикует ежедневный час STEAM. У Minnows отдельная младшая программа с еженедельным занятием и другими STEAM-активностями.",
+            "sources": [
+              {
+                "url": "https://summer.tasis.ch/programs/cde",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/programs/minnows",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/dates-and-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/admissions/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "CDE 7–10; Minnows 4–6 только дневной; MSP 11–13; HSP 14–17",
+            "sources": [
+              {
+                "url": "https://summer.tasis.ch/programs/cde",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/programs/minnows",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/dates-and-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/admissions/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Выбранный язык CDE используется и в STEAM; доступны EN, FR и IT.",
+            "sources": [
+              {
+                "url": "https://summer.tasis.ch/programs/cde",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/programs/minnows",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/dates-and-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/admissions/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "CDE допускает пансион; Minnows только дневной. FAQ отдельно описывает комнаты и страхование.",
+            "sources": [
+              {
+                "url": "https://summer.tasis.ch/programs/cde",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/programs/minnows",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/dates-and-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/admissions/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "CDE: CHF 4 500 дневной / 9 200 пансион за 3 недели. Minnows: CHF 3 500 до 15:00 / 4 500 до 17:30.",
+            "sources": [
+              {
+                "url": "https://summer.tasis.ch/programs/cde",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/programs/minnows",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/dates-and-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.tasis.ch/admissions/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "CDE сочетает выбранный язык с ежедневным STEAM; Minnows имеет отдельную младшую программу."
+          },
+          "general": {
+            "tier": "priority",
+            "reason": "Широкий набор спорта, творчества и экскурсий; это не полный день робототехники."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Если Оскару ещё шесть, Minnows доступен только днём; Матвею подходит CDE."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Пансион CDE начинается с семи; до семилетия Оскара семейный пансионный сценарий не подтверждён."
+          },
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Подходит для общего STEAM, но отдельный робототехнический модуль этой смены нужно подтвердить."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://summer.tasis.ch/programs/cde",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.tasis.ch/programs/minnows",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.tasis.ch/dates-and-fees",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.tasis.ch/admissions/faq",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP012",
+        "slug": "brillantmont",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Приоритетная техническая ступень Матвею после достижения минимального возраста; Оскару позже.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Опубликованы неделя ИИ и неделя сборки и Python-программирования робота; повторить обе одинаковые смены нельзя.",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Летний курс 10–16; возраст на начало смены обязательно подтвердить",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Курс ведут на EN; начального английского недостаточно.",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Назван партнёр TechSpark Academy; состав преподавателей и размер группы конкретной смены не проверены.",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "До трёх детей в комнате; пансионы разделены по возрасту/полу, на каждом этаже resident teacher.",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "CHF 7 000/2 недели с роботом. Language Academy CHF 3 000/нед., минимум 2 недели.",
+            "sources": [
+              {
+                "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/apply/questions",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://summer.brillantmont.ch/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Две недели с ИИ, сборкой робота и Python; собственный компьютер обязателен."
+          },
+          "future": {
+            "tier": "priority",
+            "reason": "Проверить десять лет к началу смены Матвея. Для Оскара это последующая возрастная ступень."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://summer.brillantmont.ch/mornings/tech-academy",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.brillantmont.ch/apply-fees",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.brillantmont.ch/apply/questions",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://summer.brillantmont.ch/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP014",
+        "slug": "ilc",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Рассмотреть для языка и альпийского отдыха; новая датированная смена пока не установлена.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "FUN описывает языковые занятия, творчество и активный отдых; это общий языковой курс.",
+            "sources": [
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/prices",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "FUN 6–9; Adrenaline 10–13; подростковую границу уточнить отдельно",
+            "sources": [
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/prices",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Программы предусматривают EN и FR; выбрать учебный язык и группу.",
+            "sources": [
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/prices",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной 09–18 либо полный пансион в Megève; размещение конкретного трека подтвердить.",
+            "sources": [
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/prices",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Текущий прайс не привязан к году. Его нельзя считать подтверждённой ценой будущей смены.",
+            "sources": [
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/prices",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://internationallanguagecamps.com/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "FUN подходит младшим, после смены возрастной группы Матвею нужен Adrenaline."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Спорт и языки; технический интенсив не заявлен."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Младшая программа заслуживает проверки, но условия нового года и поддержка первого пансиона ещё нужны."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/fun",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://internationallanguagecamps.com/our-camps/summer-camp/megeve-france-en/adrenaline",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://internationallanguagecamps.com/prices",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://internationallanguagecamps.com/general-terms-and-conditions-of-sale",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://internationallanguagecamps.com/faq",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP020",
+        "slug": "techcamp-uk",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Технический интенсив и английская среда для Матвея; Оскар младше минимального возраста.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Обычно четыре технических блока в день; конкретное устройство и выдачу проекта домой проверять по выбранному курсу.",
+            "sources": [
+              {
+                "url": "https://www.techcamp.org.uk/info/residential-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/faqs",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/overseas-campers",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "9–17",
+            "sources": [
+              {
+                "url": "https://www.techcamp.org.uk/info/residential-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/faqs",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/overseas-campers",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "All-English преподавание и рекомендуемый уровень B1 прямо названы оператором.",
+            "sources": [
+              {
+                "url": "https://www.techcamp.org.uk/info/residential-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/faqs",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/overseas-campers",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Пансион Winchester имеет одноместные комнаты с санузлом; дневной формат существует отдельно.",
+            "sources": [
+              {
+                "url": "https://www.techcamp.org.uk/info/residential-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/faqs",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/overseas-campers",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Числовой тариф выбранного курса не подтверждён в прочитанных страницах.",
+            "sources": [
+              {
+                "url": "https://www.techcamp.org.uk/info/residential-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/faqs",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.techcamp.org.uk/info/overseas-campers",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Основная программа посвящена технологии и проектам, а не отдельному дополнительному кружку."
+          },
+          "language": {
+            "tier": "alternative",
+            "reason": "Все занятия на EN, оператор рекомендует B1 или выше; это практика через технику, без отдельного языкового курса."
+          },
+          "future": {
+            "tier": "priority",
+            "reason": "Следующая техническая поездка для обоих после достижения Оскаром минимального возраста."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.techcamp.org.uk/info/residential-camps",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.techcamp.org.uk/info/faqs",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.techcamp.org.uk/info/pricing-discounts",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.techcamp.org.uk/info/overseas-campers",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP026",
+        "slug": "typa",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Перспективный инженерный дневной формат на Тайване; пока ориентир по прошлому сезону.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Описаны разные STEM-задачи для Grades 1–2, 3–4 и 5–8; это не один одинаковый курс для всех.",
+            "sources": [
+              {
+                "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/how-to-register/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/registration-information/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Категория определяется классом, а не только годом рождения.",
+            "sources": [
+              {
+                "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/how-to-register/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/registration-information/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Язык технического лагеря пока не подтверждён прямым утверждением прочитанной карточки; английский сайт недостаточен.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Только дневной формат; семейное жильё отдельно.",
+            "sources": [
+              {
+                "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/how-to-register/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.typa.org.tw/registration-information/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Цена и условия именно следующего Tech Camp пока не установлены.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Возрастные задания различаются от простых опытов до открытых инженерных проектов; новую смену нужно подтвердить."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Проверить текущий класс, членство, паспортные условия и язык именно Tech Camp."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.typa.org.tw/course/summer-camps/tech-camp/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.typa.org.tw/how-to-register/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.typa.org.tw/registration-information/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP027",
+        "slug": "tas",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Академический инженерный путь на Тайване; объявление нового года содержит противоречие дат.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Школа перечисляет академические области, включая инженерные и вычислительные; нагрузка и проект зависят от курса.",
+            "sources": [
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Нужны классы детей и правила выбранного курса; общий Pre-K–12 не означает допуск ко всем техническим занятиям.",
+            "sources": [
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Академический язык конкретного курса подтвердить; школа англоязычная, но это не проверка каждого курса.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневные занятия; жильё семьи отдельно.",
+            "sources": [
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Единый актуальный тариф Summer Academy не установлен.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Нужно выбрать конкретный курс по школьному классу и проверить документы внешнего ученика."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Рассматривать после подтверждения нового календаря, языка и допуска каждого ребёнка."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.tas.edu.tw/summer-academy/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.tas.edu.tw/summer-academy/home/faq",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.tas.edu.tw/summer-academy/registration/fees-payment",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP029",
+        "slug": "nullspace",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Путь к регулярной команде и соревнованиям; это не одна подтверждённая летняя смена.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "На странице команды разделены FLL Main и Novice с разными требованиями и нагрузкой; одновременно представлять школу и центр в одном турнире нельзя.",
+            "sources": [
+              {
+                "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница команды · web reader",
+                "read_status": "web_reader_direct_http_403"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "conflict",
+            "note": "На командной странице Explore указан возраст 7–9, в описании категории 6–8. Допуск Оскара нужно подтвердить.",
+            "sources": [
+              {
+                "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница команды · web reader",
+                "read_status": "web_reader_direct_http_403"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Язык технического курса прямо не подтверждён прочитанной страницей; нужно согласовать английский поток.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной учебный центр; пансион не подтверждён.",
+            "sources": [
+              {
+                "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница команды · web reader",
+                "read_status": "web_reader_direct_http_403"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "10 часов около $520 без registration/admin fee по FAQ; валюта, налог и стоимость командного сезона требуют подтверждения.",
+            "sources": [
+              {
+                "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница команды · web reader",
+                "read_status": "web_reader_direct_http_403"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Имеются уровни подготовки и командные треки; язык и доступ гостевых детей ещё требуют подтверждения."
+          },
+          "future": {
+            "tier": "alternative",
+            "reason": "Разделить возрастные уровни и переход в команду, не считать пробный workshop допуском к международному финалу."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://sg.nullspace.co/centre-for-robotics-learning/robotics-competition-training-programme/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница команды · web reader",
+            "read_status": "web_reader_direct_http_403"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP031",
+        "slug": "tokyo-coding",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Практичный ближайший общий технический day camp для обоих в англоязычной среде.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Оператор указывает 15+ часов технических занятий за пять дней с экскурсиями; Robotics / AI доступны только в отдельных sessions.",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "5–12, разные уровни опыта",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Занятия полностью на EN прямо подтверждены.",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Указаны англоязычные технические вожатые; квалификация и размер группы этой смены не установлены.",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной лагерь; пансион не заявлен.",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "JPY 129 000 + tax / 5 дней.",
+            "sources": [
+              {
+                "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Есть технические проекты, но интенсивность робототехники и ИИ именно этой недели нужно согласовать."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Оба ребёнка входят в общий возрастной диапазон; семья живёт в Токио отдельно."
+          },
+          "language": {
+            "tier": "alternative",
+            "reason": "Английский используется в технических занятиях и работе вожатых."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.tokyocodingclub.com/camp/2026-code-quest-tokyo-winter-break-session-2/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP032",
+        "slug": "harrow-appi",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Содержательная короткая инженерная зима с пансионом для Матвея; Оскару по возрасту позже.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Опубликован проект лыжного робота с программированием, измерениями и испытаниями. Учебные утренние блоки включают не только код.",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "9–13 в течение лагеря",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Полный англоязычный пансион прямо заявлен оператором.",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Школа называет руководителя технического курса; независимая оценка преподавания не проведена.",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Опубликованы шесть ночей пансиона и организованный автобус из Morioka; точные семейные условия уточнить.",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "440 000 JPY с налогом для обычного участника. 352 000 JPY только нынешним ученикам Harrow Appi; семье эта скидка не применена.",
+            "sources": [
+              {
+                "url": "https://winter.harrowappi.jp/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Проект лыжного робота объединяет Micro:bit, физику, измерения и итерации."
+          },
+          "future": {
+            "tier": "alternative",
+            "reason": "Школьный пансион с технической темой — будущая ступень Оскару; Матвею проверить возраст на даты лагеря."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://winter.harrowappi.jp/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP034",
+        "slug": "id-tech",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Системный выбор по конкретному курсу и возрасту; громкое имя кампуса не заменяет программу.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Каталог разделяет младшее программирование, старшие Python / VEX и подростковый ИИ; содержание выбирают по курсу.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "В общем каталоге дневной возраст 7–17; особые правила cutoff и пансиона нужно проверить по новой смене.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "EN подтверждался отдельным FAQ ранее; при текущем чтении страницы помощи вернули пустую оболочку.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Оператор описывает взрослых преподавателей, отбор и проверку биографии; это сведения оператора.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Университетские/школьные кампусы, overnight не везде; условия комнат проверить.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Текущие ориентиры: дневной от USD 949/нед.; Room & Board дополнительно от USD 679/нед. Минимальная сумма этих двух «от» USD 1 628, не гарантированный пакет 2027.",
+            "sources": [
+              {
+                "url": "https://www.idtech.com/tech-camps",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Выбирать отдельный курс по проекту и уровню, а не по университетскому логотипу."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Дневные младшие курсы возможны с семи; возрастной cutoff и новая площадка требуют подтверждения."
+          },
+          "future": {
+            "tier": "priority",
+            "reason": "VEX / Python и более старшие AI-направления — разные возрастные ступени."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.idtech.com/tech-camps",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP041",
+        "slug": "cloud-forest",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Один из первых местных вариантов на общую природную программу для обоих.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Программа посвящена облачному лесу, устойчивости и природе, с творчеством и физической активностью.",
+            "sources": [
+              {
+                "url": "https://cloudforestschool.org/camps-cec/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "5–13",
+            "sources": [
+              {
+                "url": "https://cloudforestschool.org/camps-cec/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "Разговорные EN и ES прямо названы, но язык преподавания каждой активности не указан.",
+            "sources": [
+              {
+                "url": "https://cloudforestschool.org/camps-cec/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной лагерь; семейное жильё в Monteverde отдельно.",
+            "sources": [
+              {
+                "url": "https://cloudforestschool.org/camps-cec/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Полный прайс выбранной смены в прочитанной странице не опубликован.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Monteverde: экологические занятия, прогулки, искусство и спорт с опубликованными датами."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "База в Коста-Рике позволяет сочетать лагерь и семейную поездку; технику здесь не обещают."
+          },
+          "language": {
+            "tier": "alternative",
+            "reason": "Упомянута разговорная практика EN и ES; доля языков в основных занятиях не установлена."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://cloudforestschool.org/camps-cec/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP043",
+        "slug": "ciberbots",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Полезный мексиканский технический кандидат, пока без доказанного допуска к каникулярной группе.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Названы наборы и темы будущих holiday programmes; проект и нагрузка каждой возрастной группы пока неизвестны.",
+            "sources": [
+              {
+                "url": "https://ciberbots.com.mx/inicio",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.ciberbots.com.mx/services",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "unknown",
+            "note": "Лагерный возраст не установлен. Возраст регулярных школьных курсов нельзя переносить автоматически.",
+            "sources": []
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Испаноязычный оператор; основной язык holiday course и EN support подтвердить.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной учебный центр; пансион не подтверждён.",
+            "sources": [
+              {
+                "url": "https://ciberbots.com.mx/inicio",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.ciberbots.com.mx/services",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Цена выбранного каникулярного курса пока не установлена.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Оператор описывает робототехнические holiday programmes, но возраст, часы, язык и цена конкретного потока ещё нужны."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Возможная программа в Мексике; регулярные школьные уровни не заменяют требования лагеря."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://ciberbots.com.mx/inicio",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.ciberbots.com.mx/services",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP044",
+        "slug": "valle-verde",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Общий мексиканский пансион для активного отдыха; будущий набор ещё не подтверждён.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Опубликован общий активный лагерь, специальные занятия имеют отдельные возрастные пороги.",
+            "sources": [
+              {
+                "url": "https://valleverde.com.mx/fechas-y-costos/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "BASE 6–14; PRO 14–17; специальные активности имеют пороги 8+/10+",
+            "sources": [
+              {
+                "url": "https://valleverde.com.mx/fechas-y-costos/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Основной язык ежедневного лагеря/поддержку английского уточнить. Испанский сайт не считать подтверждением EN.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Загородный пансион; точную комнату/распорядок младших уточнить.",
+            "sources": [
+              {
+                "url": "https://valleverde.com.mx/fechas-y-costos/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Прочитанный прайс относится к 2026, новая цена пока не подтверждена.",
+            "sources": [
+              {
+                "url": "https://valleverde.com.mx/fechas-y-costos/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "alternative",
+            "reason": "Природа, приключения и спорт; это не робототехнический лагерь."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Общий возраст допускает младших, но новый сезон, язык и поддержку первого выезда ещё проверить."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://valleverde.com.mx/fechas-y-costos/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP046",
+        "slug": "programable",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Один из первых технических кандидатов к проверке для южноамериканского лета.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Две практические части дня: физическое устройство и связанная игра, со сменой оборудования и задач по неделям.",
+            "sources": [
+              {
+                "url": "https://programable.com.ar/colonia-tecno-2027/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Junior 6–9; Senior 10–13",
+            "sources": [
+              {
+                "url": "https://programable.com.ar/colonia-tecno-2027/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Сайт на ES и описания испанские; прямое подтверждение языка преподавания пока отсутствует.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Заявлен предел 12 участников, но состав и квалификация преподавателей конкретной недели не проверены.",
+            "sources": [
+              {
+                "url": "https://programable.com.ar/colonia-tecno-2027/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной учебный центр, пансион не заявлен.",
+            "sources": [
+              {
+                "url": "https://programable.com.ar/colonia-tecno-2027/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "ARS 95 000/15-часовая неделя для обоих уровней; скидка за несколько недель без установленной суммы.",
+            "sources": [
+              {
+                "url": "https://programable.com.ar/colonia-tecno-2027/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Подробно описаны недельные проекты с физическим устройством и игрой; выбрать Junior или Senior по фактическому возрасту."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Короткий дневной технический формат; язык преподавания нужно подтвердить напрямую."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://programable.com.ar/colonia-tecno-2027/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP047",
+        "slug": "makemake",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Англоязычная природа и самостоятельность в Латинской Америке; школьная категория важнее общего возрастного баннера.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Командные задачи, природа и лидерство; технического курса нет.",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Homepage 6–17; Classic 2027 указывает entering 2nd–8th básico — школьный класс имеет приоритет",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Все активности на EN, при необходимости перевод; двуязычные вожатые описаны оператором.",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Оператор указывает международных вожатых и подготовленных педагогов; независимая проверка не проведена.",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Заявлены круглосуточный присмотр, соотношение 1:4 и медсестра; проживание в палатках, не школьный корпус.",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "CLP 535 000 за шесть дней, включая VAT.",
+            "sources": [
+              {
+                "url": "https://www.campmakemake.com/dates-and-rates",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.campmakemake.com/everything-you-need-to-know",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Насыщенная шестидневная outdoor-программа без экранов; робототехнику не обещает."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "Полное погружение в EN во время обычных активностей, с переводом при необходимости."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Ночёвки в палатках: сначала проверить класс, готовность и бытовые условия каждого ребёнка."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.campmakemake.com/dates-and-rates",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.campmakemake.com/everything-you-need-to-know",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP051",
+        "slug": "village-leysin",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Отдельный младший пансион для первого самостоятельного выезда; STEM не входит автоматически.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Опубликована отдельная Junior-программа с возрастными играми и активностями.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Junior Adventure 7–9; отдельный STEM начинается с 10",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Язык Junior не указан прямо на прочитанных programme/guide; английская форма и international staff не доказывают EN преподавание. Отдельный English Language Camp 10+ не является уроком Junior.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Оператор описывает присмотр 1:4, CPR / First Aid у вожатых и медицинскую поддержку.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Junior: CHF5 200/5 500/5 500/5 100 за две недели по порядку четырёх смен 2027. Последняя смена двоим 10 200 за лагерь. Если трансфер 200 и необязательная страховка 140 начисляются каждому, пример 10 880 до прочих расходов. Трансферный тариф и договор 2027 ещё подтвердить.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "first_boarding": {
+            "tier": "priority",
+            "reason": "Специальная программа Junior 7–9 с заявленным присмотром; дни рождения и состав группы нужно согласовать."
+          },
+          "general": {
+            "tier": "priority",
+            "reason": "Возрастные приключения и спорт; Матвей после десяти и Оскар до семи могут нуждаться в других группах."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.villagecamps.com/junior-programme-summer-school-camp-in-leysin-switzerland",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP622",
+        "slug": "village-leysin-stem",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Специализированная робототехника в пансионе для следующей возрастной ступени.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Сначала основы, затем собственные решения с датчиками и моторами; финальный Robot Wars является внутренним конкурсом.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "10–17; допускаются новички и опытные участники",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "EN технического преподавания прямо не установлен. Английская programme/форма и вопрос English proficiency не подтверждают язык инструктора.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Описан пансион Leysin; поддержку конкретного технического потока нужно проверить отдельно.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "CHF5 500/ребёнок/две недели. Оскару 6–7 нужен отдельный Junior после 7-летия; в июльские смены его цена тоже 5 500. Условная пара STEM+Junior11 000 за лагерь; с трансфером 200 и необязательной страховкой 140 каждому 11 680 до прочих расходов. Тарифы трансфера и договор 2027 ещё подтвердить.",
+            "sources": [
+              {
+                "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Структурированная работа с LEGO SPIKE и собственным роботом; язык технических занятий пока не подтверждён."
+          },
+          "future": {
+            "tier": "priority",
+            "reason": "Матвею после десяти, Оскару позже. Junior той же сети — отдельная общая программа."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.villagecamps.com/STEM-robotics-summer-school-camp-in-leysin-switzerland",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.villagecamps.com/summer-camp-programmes-in-leysin-switzerland",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP059",
+        "slug": "ermitage-holiday",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Удобный французский day camp для языка и общего отдыха, с ограниченной технической доказательной базой.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Тематический сюжет описан для осени. Те же занятия на зимние и летние каникулы не обещаны.",
+            "sources": [
+              {
+                "url": "https://fr.ermitage.fr/activities/holidaycamp",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "conflict",
+            "note": "Страница осени и форма набора дают разные верхние возрастные границы.",
+            "sources": [
+              {
+                "url": "https://fr.ermitage.fr/activities/holidaycamp",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "FR / EN прямо заявлены для описанной осени; будущую смену требуется подтвердить.",
+            "sources": [
+              {
+                "url": "https://fr.ermitage.fr/activities/holidaycamp",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной лагерь; школьный интернат Ermitage не означает ночёвки этой младшей программы.",
+            "sources": [
+              {
+                "url": "https://fr.ermitage.fr/activities/holidaycamp",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Осень 2026: €610/неделя или €135/день. Тарифы будущих каникул 2027 не опубликованы в прочитанных источниках.",
+            "sources": [
+              {
+                "url": "https://fr.ermitage.fr/activities/holidaycamp",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "alternative",
+            "reason": "Билингвальная среда FR / EN; язык выбранной будущей смены ещё проверить."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Есть будущие каникулярные окна; семья живёт отдельно, дети занимаются по возрастным группам."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Тематические игры, творчество и прогулки; не отдельный робототехнический интенсив."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://fr.ermitage.fr/activities/holidaycamp",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5ZjWstf5pwAjF5M2bCTqpP3ZF9-JdRX-XT-i_BrOYe7F3vA/viewform?usp=dialog",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP064",
+        "slug": "sotogrande-camps",
+        "checked": "2026-11-06",
+        "status": "source_refresh_needed",
+        "summary": "Обновление отложено: текущая страница возвращает оболочку без программы.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "unknown",
+            "note": "Junior выбирает утренний спорт и один afternoon-track на двухнедельную сессию: STEAM, публичные выступления или другой курс. Заявлены 10 часов Junior-академики в неделю, а не 10 часов робототехники. Mega — общий тематический day camp.",
+            "sources": []
+          },
+          {
+            "key": "age",
+            "state": "unknown",
+            "note": "Mega 6–7 только днём; Junior 8–12 день/пансион; Masters 13–16; Nano 4–5 только днём",
+            "sources": []
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Основной язык лагеря английский; часть сотрудников говорит по-испански. Язык выбранного STEAM-модуля подтвердить отдельно.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "unknown",
+            "note": "Junior и старшие — пансион; Mega только днём, Пн–Пт. Junior day в расписании 09–19; точные часы 2027 уточнить.",
+            "sources": []
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Junior/Masters 2 недели: €2 375 день / €3 445 пансион. Mega 1/2/3/4/5/6 недель: €495 / 900 / 1 275 / 1 600 / 1 875 / 2 100.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {},
+        "sources": [
+          {
+            "url": "https://www.sis.ac/school-life/summer-camps",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP052",
+        "slug": "geering-up",
+        "checked": "2026-11-06",
+        "status": "source_refresh_needed",
+        "summary": "Обновление отложено: сайт UBC требует проверку браузера; условия нового лагеря не прочитаны.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "unknown",
+            "note": "Практические инженерные и научные задания. В coding-группах 2/3 и 4/5 — Scratch/MakeCode, также механизмы и электроника; не требуется прежний опыт. Одинаковая тема повторяется каждую неделю: для разнообразия менять тему, а не только неделю.",
+            "sources": []
+          },
+          {
+            "key": "age",
+            "state": "unknown",
+            "note": "Подбор по классу, который ребёнок начинает осенью; FAQ 2026 описывает Grade 1–7, в том числе 2/3 и 4/5",
+            "sources": []
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "Язык полного дня в прочитанном FAQ прямо не установлен. Английский текст сайта не заменяет подтверждение для гостевой семьи.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "unknown",
+            "note": "Дневная программа. FAQ прямо говорит, что overnight больше не предлагается.",
+            "sources": []
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Тариф выбранного курса в прочитанном FAQ не указан.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {},
+        "sources": [
+          {
+            "url": "https://geeringup.apsc.ubc.ca/camps/in-person-camps/faq/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP128",
+        "slug": "techspark-lego",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Перспективный младший робототехнический курс; конкретная английская смена ещё нужна.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Описан самостоятельный младший LEGO-курс со сборкой, программированием и тестированием прототипов.",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "6+ в описании LEGO Junior; Arduino — отдельный курс 12+",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "Перечислены EN, DE и FR для LEGO; язык конкретной смены пока не выбран.",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Оператор описывает небольшие классы и преподавателей технических университетов; состав конкретной смены не проверен.",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневной лагерь; семейное жильё и сопровождение вне лагеря.",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Итог именно LEGO неизвестен. Общие junior-тарифы CHF 645–890 не считаем подтверждённой LEGO-ценой.",
+            "sources": [
+              {
+                "url": "https://online.techsparkacademy.ch/robotics-course/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/in-person-camps/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://techsparkacademy.ch/terms-conditions/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "engineering": {
+            "tier": "priority",
+            "reason": "Программирование и сборка LEGO подходят как младший технический маршрут; общий городской календарь не гарантирует этот курс."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Возраст LEGO Junior начинается с шести; место, дни, язык и уровень группы нужно согласовать."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://online.techsparkacademy.ch/robotics-course/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://techsparkacademy.ch/in-person-camps/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://techsparkacademy.ch/terms-conditions/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1491",
+        "slug": "kimama-hof",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Короткий общий пансион в международной двуязычной сети; возрастные расхождения надо устранить.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Общие активные каникулы, самостоятельность и культурная программа; технический интенсив не заявлен.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/hof",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "conflict",
+            "note": "Заголовок Kids и основной текст расходятся по нижнему возрасту.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/hof",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "FAQ сети подтверждает EN / HE; язык жизни и помощи конкретной группе нужно согласовать.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/hof",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Программа с ночёвкой; размещение и возрастную группу подтвердить.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/hof",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "2027: 8800 ILS смена + 190 обязательная страховка нерезидента = 8990 одному; 17980 двум, до дороги и неизвестных доплат.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/hof",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "alternative",
+            "reason": "Море, спорт и творчество; учитывать культурную программу лагеря."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Короткий формат заслуживает рассмотрения после подтверждения возраста, поддержки младших и правил приёма."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.eng.campkimama.org/hof",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eng.campkimama.org/dates-fees",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eng.campkimama.org/faq",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1496",
+        "slug": "kimama-halfmoon-day",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Общий дневной вариант в США для двух возрастных групп, но точный календарь содержит ошибку.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Дневная общая программа, не технический интенсив.",
+            "sources": [
+              {
+                "url": "https://www.kimamahalfmoon.org/datesrates2026",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "2027: группы 3–4 / 5–6 / 7+",
+            "sources": [
+              {
+                "url": "https://www.kimamahalfmoon.org/datesrates2026",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "EN / HE подтверждены FAQ сети, конкретную группу нужно проверить.",
+            "sources": [
+              {
+                "url": "https://www.kimamahalfmoon.org/datesrates2026",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Дневная программа; жильё семьи отдельно.",
+            "sources": [
+              {
+                "url": "https://www.kimamahalfmoon.org/datesrates2026",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Тариф 2027 опубликован; правила sibling-скидки расходятся с прошлым сезоном и автоматически не применены.",
+            "sources": [
+              {
+                "url": "https://www.kimamahalfmoon.org/datesrates2026",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Full day подходит по общему возрастному устройству; даты, наличие мест и включения требуют подтверждения."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Общие активные каникулы; робототехническая программа не заявлена."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.kimamahalfmoon.org/datesrates2026",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP152",
+        "slug": "ciss-entrepreneurs",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Будущий предпринимательский маршрут с бизнес-планом и защитой; обоим детям пока рано.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Новая брошюра 2027 указывает 20 часов в неделю, бизнес-план, маркетинг, расчёт прибыльности и финальную презентацию.",
+            "sources": [
+              {
+                "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "14–18",
+            "sources": [
+              {
+                "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "В брошюре требуется Intermediate to Advanced EN; это будущая ступень.",
+            "sources": [
+              {
+                "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Резиденция Trinity: комнаты на одного, двух или трёх, общий санузел, питание и круглосуточная поддержка.",
+            "sources": [
+              {
+                "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+                "checked": "2026-11-06",
+                "title": "Официальная страница программы",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "Полный тариф новой программы на прочитанных источниках не установлен.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "enterprise": {
+            "tier": "priority",
+            "reason": "Две недели с разработкой бизнес-плана и финальным pitch, только после возрастного допуска."
+          },
+          "future": {
+            "tier": "priority",
+            "reason": "Рассматривать с четырнадцати и нужным английским; университетский кампус не означает университетский диплом."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.cisscanada.com/wp-content/uploads/2025/10/Future_Entrepreneurs_2027.pdf",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.cisscanada.com/programmes/summer-programmes/city-residential-programmes/ciss-at-trinity/",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP790",
+        "slug": "xcl-entrepreneurship-101",
+        "checked": "2026-11-06",
+        "status": "source_refresh_needed",
+        "summary": "Обновление отложено: прежние страницы курса и договора перенаправляют в общий каталог XWA.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "unknown",
+            "note": "Потребности пользователей,branding/marketing, разработка продукта и pitch решения. Не заявленный международный хакатон с жюри.",
+            "sources": []
+          },
+          {
+            "key": "age",
+            "state": "unknown",
+            "note": "8–12",
+            "sources": []
+          },
+          {
+            "key": "language",
+            "state": "unknown",
+            "note": "FAQ допускает низкий уровень английского, но не устанавливает язык преподавания именно этого курса. Английский сайт не доказательство EN-инструктора; EN/ES/RU поток согласовать.",
+            "sources": []
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "Квалификация наставников и размер группы этой смены не установлены.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "unknown",
+            "note": "Дневной Mon–Fri09:00–15:00,2YishunStreet42,Singapore768039. Пансиона нет; жильё семьи отдельно.",
+            "sources": []
+          },
+          {
+            "key": "cost",
+            "state": "unknown",
+            "note": "SGD760/5-дневный курс на ребёнка; год тарифа не установлен, не цена2027.",
+            "sources": []
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "Независимые отзывы и внешние результаты этой программы в данном проходе не исследованы.",
+            "sources": []
+          }
+        ],
+        "goals": {},
+        "sources": [
+          {
+            "url": "https://www.xwa.edu.sg/school-life/xcl-camps",
+            "checked": "2026-11-06",
+            "title": "Официальная страница программы",
+            "read_status": "read"
+          }
+        ]
+      }
+    ],
+    "coverage": {
+      "total_dossiers": 1497,
+      "reviewed": 24,
+      "refresh_pending": 3,
+      "review_dossiers": 27,
+      "countries": 14,
+      "independent_review_sources": 0,
+      "full_trip_value_assessments": 0
+    }
   },
   "event_links": [
     {
@@ -242839,6 +246744,11 @@
     {
       "programme_id": "CP152",
       "event_id": "CP152-20270704-20270717",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP152",
+      "event_id": "CP152-20270718-20270731",
       "relation": "catalogue_session"
     },
     {
@@ -257363,6 +261273,7 @@
     "CP151-20270704-20270717",
     "CP151-20270725-20270807",
     "CP152-20270704-20270717",
+    "CP152-20270718-20270731",
     "CP153-20261012-20261016",
     "CP153-20270405-20270409",
     "CP153-20270628-20270702",
@@ -260060,7 +263971,7 @@
     "CP1494-20270816-20270825-session-3"
   ],
   "integration": {
-    "generated_sessions": 3065,
+    "generated_sessions": 3066,
     "reused_legacy_events": 69,
     "seasonal_windows": 61,
     "scope": "Точные смены добавлены в общий календарь. Существующие эквивалентные программы связаны без повторных карточек; широкие сезонные окна не создают смен. Связь related_track_or_operator не означает одинаковую программу или допуск."
