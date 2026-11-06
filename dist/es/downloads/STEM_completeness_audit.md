@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 5064; competiciones: 1477; eventos: 236; campamentos / programas: 3351. Perfiles de ligas y programas: 156. Fichas de exposiciones grandes y especializadas: 151 — ediciones y sedes, no número de marcas únicas.
+Fichas en base: 5151; competiciones: 1482; eventos: 239; campamentos / programas: 3430. Perfiles de ligas y programas: 157. Fichas de exposiciones grandes y especializadas: 153 — ediciones y sedes, no número de marcas únicas.
 
-Hay registros específicos para 97 de 249 países y territorios; países auditados por completo: 0. Revisión histórica v51: tarjetas añadidas 21, perfiles 3. Todas las tarjetas anteriores conservadas.
+Existen registros concretos de 98 de 249 países y territorios; países completamente auditados: 0. Pasada archivada v51: 21 fichas añadidas, 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -18,12 +18,12 @@ Hay registros específicos para 97 de 249 países y territorios; países auditad
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 23 | 178 | 50 | 1188 |
 | África | 16 | 73 | 7 | 42 |
-| Asia | 29 | 385 | 66 | 939 |
+| Asia | 30 | 390 | 68 | 1018 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1477 fichas de competiciones (35.1%). Es un desequilibrio claro de cobertura.
+VEX: 518 de 1482 fichas de competiciones (35.0%). Es un desequilibrio claro de cobertura.
 
 ## Lo que queda
 
@@ -246,6 +246,7 @@ VEX: 518 de 1477 fichas de competiciones (35.1%). Es un desequilibrio claro de c
 - **RoboCupJunior Japan · World / Challenge Class**: 16 fichas, 16 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/uc?export=download&id=1ZB16rlv9flh-L2RZobxL1oL_uDYUnBaW
 - **Código TBox · LATAM school STEAM**: 8 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.tboxplanet.com/web/codigo26/page1.html
 - **WRO El Salvador · RoboStarter / Elementary**: 3 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.wroelsalvador.org/temporada-2026/categor%C3%ADas/robo-starter
+- **World Techlympics · Cambodia national route**: 4 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://worldtechlympics.org/kh
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
@@ -403,6 +404,8 @@ VEX: 518 de 1477 fichas de competiciones (35.1%). Es un desequilibrio claro de c
 - **Ai Everything MEA Egypt 2027** — Egipto; fecha desconocida. Confirmar admisión infantil. https://www.aieverythingegypt.com/
 - **Seoul International Invention Fair · SIIF 2026** — Corea del Sur; 2026-12-02 – 2026-12-05. el permiso de entrada de niños. https://www.coex.co.kr/en/exhibitions/2026-seoul-international-invention-fair/
 - **Automation World · AW 2027** — Corea del Sur; 2027-03-03 – 2027-03-05. el permiso de entrada de niños. https://www.automationworld.co.kr/?hl=en
+- **Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027** — Malasia; 2027-05-04 – 2027-05-05. el permiso de entrada de niños. https://www.malaysia.dccisummit.com/
+- **Malaysia Technology Expo · próxima edición presencial** — Malasia; fecha desconocida. Confirmar acceso infantil. https://www.mte.org.my/
 
 ## ~ Añadida en esta versión
 

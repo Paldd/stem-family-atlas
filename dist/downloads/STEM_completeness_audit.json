@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5064,
-    "competition_cards": 1477,
-    "event_cards": 236,
-    "camp_cards": 3351,
-    "league_profiles": 156,
-    "major_exhibition_cards": 151,
+    "cards": 5151,
+    "competition_cards": 1482,
+    "event_cards": 239,
+    "camp_cards": 3430,
+    "league_profiles": 157,
+    "major_exhibition_cards": 153,
     "vex_cards": 518,
-    "countries_with_records": 97,
+    "countries_with_records": 98,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -90,12 +90,12 @@
       "regions": [
         "Азия"
       ],
-      "total": 1398,
-      "countries_with_records": 29,
-      "competitions": 385,
-      "events": 74,
-      "major_exhibitions": 66,
-      "camps": 939,
+      "total": 1485,
+      "countries_with_records": 30,
+      "competitions": 390,
+      "events": 77,
+      "major_exhibitions": 68,
+      "camps": 1018,
       "status": "Частично исследовано",
       "remaining": "Добавлены India camp candidates и первые Pakistan / Bangladesh / Sri Lanka маршруты. Не все national qualifiers, языки и иностранный приём закрыты; другие страны Азии исследованы частично."
     },
@@ -3590,6 +3590,23 @@
       "new": false
     },
     {
+      "id": "world-techlympics-kh",
+      "name": "World Techlympics · Cambodia national route",
+      "group": "regional",
+      "event_ids": [
+        "C1480",
+        "C1481",
+        "C1482",
+        "C1483"
+      ],
+      "cards": 4,
+      "future_dated": 0,
+      "linked_card_count": 4,
+      "status": "Есть профиль и карточки; местный охват частичный",
+      "source": "https://worldtechlympics.org/kh",
+      "new": false
+    },
+    {
       "id": "tech-challenge-project",
       "name": "The Tech Challenge · инженерная программа и showcase",
       "group": "regional",
@@ -5299,6 +5316,28 @@
       "end": "2027-03-05",
       "visitor_policy": "confirm_children",
       "source": "https://www.automationworld.co.kr/?hl=en",
+      "new": false
+    },
+    {
+      "id": "E237",
+      "name": "Datacentre & Cloud Infrastructure Expo · DCCI Malaysia 2027",
+      "country": "Малайзия",
+      "region": "Азия",
+      "start": "2027-05-04",
+      "end": "2027-05-05",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.malaysia.dccisummit.com/",
+      "new": false
+    },
+    {
+      "id": "E238",
+      "name": "Malaysia Technology Expo · next physical edition",
+      "country": "Малайзия",
+      "region": "Азия",
+      "start": "",
+      "end": "",
+      "visitor_policy": "confirm_children",
+      "source": "https://www.mte.org.my/",
       "new": false
     }
   ],
@@ -7411,20 +7450,20 @@
       }
     ],
     "counts": {
-      "records": 3351,
-      "holiday": 3221,
+      "records": 3430,
+      "holiday": 3294,
       "regular": 105,
       "self_paced_materials": 2,
-      "boarding": 954,
-      "en_es_instruction": 930,
+      "boarding": 956,
+      "en_es_instruction": 992,
       "en_es_support": 11,
-      "family_instruction": 930,
+      "family_instruction": 992,
       "family_support": 11,
       "ru_instruction": 0,
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 63
+      "countries": 64
     },
     "validation": {
       "version": 51,

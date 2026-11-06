@@ -7878,6 +7878,102 @@ Limitaciones: Operador ofrece robotics, programming, virtual reality y applied t
 Fuente: https://createch-mind.com/
 Se ha comprobado: 2026-11-05
 
+### L485 · Newtonshow Malaysia · Science from the North Pole
+
+lugar: Malasia · Bangsar / Bukit Bintang · Kuala Lumpur; Johor Bahru; Penang
+Fecha: Temporada 23.11.2026–29.01.2027, lunes–viernes 09–16, arrival 08:30 sin cargo; FAQ indica actividad en festivos. Sin tabla tema × sede × semana: ventana estacional, no clases diarias confirmadas.
+Edad: 3*12
+Matvey: Sí por edad; convocatoria e idioma aparte
+Oscar: Sí por edad; convocatoria e idioma aparte
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde MYR 600 / semana; día exacto / tema / sede requieren quote. Incluye materiales, lunch y 2 snacks. FAQ confirma native English teachers, sin establecer idioma directo de todas clases; strict EN no activado automáticamente.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://newtonshow.my/winter-camp
+Se ha comprobado: 2026-11-05
+
+### L486 · Newtonshow Malaysia · Kawaii Winter Wonderland
+
+lugar: Malasia · Bangsar / Bukit Bintang · Kuala Lumpur; Johor Bahru; Penang
+Fecha: Temporada 23.11.2026–29.01.2027, lunes–viernes 09–16, arrival 08:30 sin cargo; FAQ indica actividad en festivos. Sin tabla tema × sede × semana: ventana estacional, no clases diarias confirmadas.
+Edad: 3*12
+Matvey: Sí por edad; convocatoria e idioma aparte
+Oscar: Sí por edad; convocatoria e idioma aparte
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde MYR 600 / semana; día exacto / tema / sede requieren quote. Incluye materiales, lunch y 2 snacks. FAQ confirma native English teachers, sin establecer idioma directo de todas clases; strict EN no activado automáticamente.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://newtonshow.my/winter-camp
+Se ha comprobado: 2026-11-05
+
+### L487 · Newtonshow Malaysia · Jolly-Mix Multi-Activity
+
+lugar: Malasia · Bangsar / Bukit Bintang · Kuala Lumpur; Johor Bahru; Penang
+Fecha: Temporada 23.11.2026–29.01.2027, lunes–viernes 09–16, arrival 08:30 sin cargo; FAQ indica actividad en festivos. Sin tabla tema × sede × semana: ventana estacional, no clases diarias confirmadas.
+Edad: 3*12
+Matvey: Sí por edad; convocatoria e idioma aparte
+Oscar: Sí por edad; convocatoria e idioma aparte
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Desde MYR 600 / semana; día exacto / tema / sede requieren quote. Incluye materiales, lunch y 2 snacks. FAQ confirma native English teachers, sin establecer idioma directo de todas clases; strict EN no activado automáticamente.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://newtonshow.my/winter-camp
+Se ha comprobado: 2026-11-05
+
+### L488 · Padi Kids Camp · Winter Nature & Projects
+
+lugar: Indonesia · Bidadari Art Space · Mas · Ubud · Bali
+Fecha: 14.12.2026–08.01.2027, anuncia lunes–viernes 09–14:30, día / semana. Sin tabla específica de apertura 25 de diciembre y 1 de enero; ventana estacional no convertida en clases diarias. Plazo de inscripción 07.12.2026.
+Edad: 3*11; groups 3–6 / 7–11
+Matvey: Sí por edad; convocatoria e idioma aparte
+Oscar: Sí por edad; convocatoria e idioma aparte
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: IDR / niño: semana non-member 2000000; member 1900000; día 425000. Lunch y snack incluidos. Member ya 5% menor que tarifa general: sin restar 5% otra vez. Sibling 5% requiere base de descuento; EB 10% venció 14.02.2026. Inscripciones diarias sin descuento. Field trip 350000 / semana con weeks 3 & 5 no son fechas de excursión invernal; sin inventar quinta semana.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://padikidscamp.com/camps/winter-camp-2026
+Se ha comprobado: 2026-11-05
+
+### L489 · CIS Phnom Penh · STEAM / Arts / Sports Camps
+
+lugar: Camboya · Koh Pich · Phnom Penh
+Fecha: Winter — December. Summer June29–July17 / July27–August14 sin año expreso; sin inventar fechas 2027.
+edad: Edad del turno concreto sin publicar.
+Matvey: Condicional — confirmar acceso concreto
+Oscar: Condicional — confirmar acceso concreto
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://www.cisp.edu.kh/student-life/camps
+Se ha comprobado: 2026-11-05
+
+### L490 · DEVCON Kids · Hour of AI / school STEM
+
+lugar: Filipinas · Philippines · participating schools
+Fecha: Primera oleada Nov23–26 en summary frente a Nov23–27 en plan detallado; segunda Dec7–18 2026. Ventanas para elegir fecha escolar, no horario diario ni viajes familiares abiertos.
+edad: K–12; actual grade required
+Matvey: Condicional — confirmar acceso concreto
+Oscar: Condicional — confirmar acceso concreto
+Formato: unconfirmed_program
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Acceso: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar turno elegido, plazas, acceso extranjero individual, nivel tras tres años de competiciones, idioma y factura completa. Sin mensajes, formularios, consentimientos ni pagos.
+Fuente: https://devcon.ph/programs/kids/
+Se ha comprobado: 2026-11-05
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -53748,6 +53844,1174 @@ Precio: 2026/27 · VND 20400000 por niño 5–14 / camp completo. Hermano menor 
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: Condicional — exige curso escolar publicado. Cursos reales de niños desconocidos; edad no sustituye curso. Acceso extranjero e idioma aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Alojamiento familiar, vuelos, transporte local, acompañamiento, seguro personal y cargos no indicados aparte. Pago: PDF expresa que todos fees pagados son no reembolsables. Matrícula solo camp completo; invoice final tras inscripción. Sin formularios, consentimientos médicos ni contrato.
 Fuente: https://annehill.school/holiday-camps/
+Se ha comprobado: 2026-11-05
+
+### CP1340-20261214-20261218-5-days-half · Learning Fresh · Santa’s Workshop · Juniors · 5 days · half · 2026-12-14–2026-12-18
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1250 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1340-20261214-20261218-5-days-full · Learning Fresh · Santa’s Workshop · Juniors · 5 days · full · 2026-12-14–2026-12-18
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1575 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1340-20261214-20261223-8-days-half · Learning Fresh · Santa’s Workshop · Juniors · 8 days · half · 2026-12-14–2026-12-23
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 — 2026-12-23
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1850 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1340-20261214-20261223-8-days-full · Learning Fresh · Santa’s Workshop · Juniors · 8 days · full · 2026-12-14–2026-12-23
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 — 2026-12-23
+Edad: 4–7
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 2050 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1341-20261214-20261218-5-days-half · Learning Fresh · Santa’s Workshop · Masters · 5 days · half · 2026-12-14–2026-12-18
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1250 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1341-20261214-20261218-5-days-full · Learning Fresh · Santa’s Workshop · Masters · 5 days · full · 2026-12-14–2026-12-18
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1575 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1341-20261214-20261223-8-days-half · Learning Fresh · Santa’s Workshop · Masters · 8 days · half · 2026-12-14–2026-12-23
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 — 2026-12-23
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 1850 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1341-20261214-20261223-8-days-full · Learning Fresh · Santa’s Workshop · Masters · 8 days · full · 2026-12-14–2026-12-23
+
+lugar: Malasia · Mont Kiara / KLCC / Damansara Heights · Kuala Lumpur
+Fecha: 2026-12-14 — 2026-12-23
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 2050 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://learningfresh.org/holiday-camps/freshenglish-santa-camp
+Se ha comprobado: 2026-11-05
+
+### CP1342-20261207-20261208-primary · HariMau3D · Future Makers Primary · Primary · 2 days · 2026-12-07–2026-12-08
+
+lugar: Malasia · Tropika Welcome Centre · Setia Tropika · Johor Bahru
+Fecha: 2026-12-07 — 2026-12-08
+Edad: 9*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · MYR 299 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://harimau3d.com/collections/color-swatch-bulk-pack/products/-h3d-2026-december-fmp-holiday-camp-7th-to-12-december-
+Se ha comprobado: 2026-11-05
+
+### CP1343-20261228-20261228-intake-2026-12-28 · Stratford · Junior English Holiday Program · Intake · 2026-12-28 · 2026-12-28–2026-12-28
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2026-12-28 — 2026-12-28
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270105-20270105-intake-2027-01-05 · Stratford · Junior English Holiday Program · Intake · 2027-01-05 · 2027-01-05–2027-01-05
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-01-05 — 2027-01-05
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270112-20270112-intake-2027-01-12 · Stratford · Junior English Holiday Program · Intake · 2027-01-12 · 2027-01-12–2027-01-12
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-01-12 — 2027-01-12
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270119-20270119-intake-2027-01-19 · Stratford · Junior English Holiday Program · Intake · 2027-01-19 · 2027-01-19–2027-01-19
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-01-19 — 2027-01-19
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270127-20270127-intake-2027-01-27 · Stratford · Junior English Holiday Program · Intake · 2027-01-27 · 2027-01-27–2027-01-27
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-01-27 — 2027-01-27
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270204-20270204-intake-2027-02-04 · Stratford · Junior English Holiday Program · Intake · 2027-02-04 · 2027-02-04–2027-02-04
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-02-04 — 2027-02-04
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270212-20270212-intake-2027-02-12 · Stratford · Junior English Holiday Program · Intake · 2027-02-12 · 2027-02-12–2027-02-12
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-02-12 — 2027-02-12
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270219-20270219-intake-2027-02-19 · Stratford · Junior English Holiday Program · Intake · 2027-02-19 · 2027-02-19–2027-02-19
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-02-19 — 2027-02-19
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20270628-20270628-intake-2027-06-28 · Stratford · Junior English Holiday Program · Intake · 2027-06-28 · 2027-06-28–2027-06-28
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-06-28 — 2027-06-28
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1343-20271227-20271227-intake-2027-12-27 · Stratford · Junior English Holiday Program · Intake · 2027-12-27 · 2027-12-27–2027-12-27
+
+Lugar: Malasia ·Kuala Lumpur
+Fecha: 2027-12-27 — 2027-12-27
+Edad: 6–14 header; 6–15 FAQ
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Formulario solo no es booking; tras revisión acceptance email y factura, plaza después de pago y según recursos. Inicio puede cambiar. Cancelación con 30 días o menos sin devolución; no se promete devolución íntegra anterior. Sin consentimientos.
+Fuente: https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1347-20261124-20261127-four-mornings · Advaspire · School Holiday Robotics · Four mornings · 2026-11-24–2026-11-27
+
+lugar: Malasia · Semenyih · Selangor
+Fecha: 2026-11-24 — 2026-11-27
+edad: Academy 6–18; camp cutoff unannounced
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://advaspire.com/events
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261214-20261218-week-1-half · Guidepost AYANA Bali · Winter Montessori · Week 1 · half · 2026-12-14–2026-12-18
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 8800000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261214-20261218-week-1-full · Guidepost AYANA Bali · Winter Montessori · Week 1 · full · 2026-12-14–2026-12-18
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 10600000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261221-20261224-week-2-half · Guidepost AYANA Bali · Winter Montessori · Week 2 · half · 2026-12-21–2026-12-24
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 7500000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261221-20261224-week-2-full · Guidepost AYANA Bali · Winter Montessori · Week 2 · full · 2026-12-21–2026-12-24
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 8900000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261228-20261231-week-3-half · Guidepost AYANA Bali · Winter Montessori · Week 3 · half · 2026-12-28–2026-12-31
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 7500000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1348-20261228-20261231-week-3-full · Guidepost AYANA Bali · Winter Montessori · Week 3 · full · 2026-12-28–2026-12-31
+
+lugar: Indonesia · AYANA Farm · Jimbaran · Badung · Bali
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 3–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Campamento invernal concreto: English & Mandarin immersion; entorno bilingüe, no inglés exclusivo.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · IDR 8900000 + 11% tax + 10% service · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1350-20270201-20270212-session-2027-02-01 · Green Camp Bali · Green English · Green English · 2027-02-01 · 2027-02-01–2027-02-12
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-02-01 — 2027-02-12
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 19350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-english-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1350-20270628-20270709-session-2027-06-28 · Green Camp Bali · Green English · Green English · 2027-06-28 · 2027-06-28–2027-07-09
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-28 2027-07-09
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 19350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-english-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1350-20270712-20270723-session-2027-07-12 · Green Camp Bali · Green English · Green English · 2027-07-12 · 2027-07-12–2027-07-23
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-12 — 2027-07-23
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 19350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-english-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1350-20270726-20270806-session-2027-07-26 · Green Camp Bali · Green English · Green English · 2027-07-26 · 2027-07-26–2027-08-06
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-26 国 2027-08-06
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 19350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-english-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1350-20270809-20270820-session-2027-08-09 · Green Camp Bali · Green English · Green English · 2027-08-09 · 2027-08-09–2027-08-20
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-08-09 — 2027-08-20
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 19350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-english-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20261221-20261224-session-2026-12-21 · Green Camp Bali · Playgroup · Playgroup · 2026-12-21 · 2026-12-21–2026-12-24
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-21 - 2026-12-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20261228-20261231-session-2026-12-28 · Green Camp Bali · Playgroup · Playgroup · 2026-12-28 · 2026-12-28–2026-12-31
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 4–6
+Matway: No según la pista seleccionada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270102-20270105-session-2027-01-02 · Green Camp Bali · Playgroup · Playgroup · 2027-01-02 · 2027-01-02–2027-01-05
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-01-02 — 2027-01-05
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270621-20270624-session-2027-06-21 · Green Camp Bali · Playgroup · Playgroup · 2027-06-21 · 2027-06-21–2027-06-24
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-21 — 2027-06-24
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270628-20270701-session-2027-06-28 · Green Camp Bali · Playgroup · Playgroup · 2027-06-28 · 2027-06-28–2027-07-01
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-28 — 2027-07-01
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270705-20270708-session-2027-07-05 · Green Camp Bali · Playgroup · Playgroup · 2027-07-05 · 2027-07-05–2027-07-08
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-05 — 2027-07-08
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270712-20270715-session-2027-07-12 · Green Camp Bali · Playgroup · Playgroup · 2027-07-12 · 2027-07-12–2027-07-15
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-12 — 2027-07-15
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1351-20270726-20270729-session-2027-07-26 · Green Camp Bali · Playgroup · Playgroup · 2027-07-26 · 2027-07-26–2027-07-29
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-26 — 2027-07-29
+Edad: 4–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 3900000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/green-camp-playgroup/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20261214-20261218-session-2026-12-14 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2026-12-14 · 2026-12-14–2026-12-18
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-14 - 2026-12-18
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20261220-20261224-session-2026-12-20 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2026-12-20 · 2026-12-20–2026-12-24
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-20 — 2026-12-24
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20261226-20261230-session-2026-12-26 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2026-12-26 · 2026-12-26–2026-12-30
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-26 — 2026-12-30
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270125-20270129-session-2027-01-25 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-01-25 · 2027-01-25–2027-01-29
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-01-25 国 2027-01-29
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270201-20270205-session-2027-02-01 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-02-01 · 2027-02-01–2027-02-05
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-02-01 国 2027-02-05
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270621-20270625-session-2027-06-21 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-06-21 · 2027-06-21–2027-06-25
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-21 国 2027-06-25
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270705-20270709-session-2027-07-05 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-07-05 · 2027-07-05–2027-07-09
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-05 - 2027-07-09
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270719-20270723-session-2027-07-19 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-07-19 · 2027-07-19–2027-07-23
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-19 国 2027-07-23
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270726-20270730-session-2027-07-26 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-07-26 · 2027-07-26–2027-07-30
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1352-20270802-20270806-session-2027-08-02 · Green Camp Bali · Junior Naturalist · Junior Naturalist · 2027-08-02 · 2027-08-02–2027-08-06
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-08-02 - 2027-08-06
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9200000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-junior-naturalist-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20261229-20261231-session-2026-12-29 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2026-12-29 · 2026-12-29–2026-12-31
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-29 - 2026-12-31
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270102-20270104-session-2027-01-02 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-01-02 · 2027-01-02–2027-01-04
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-01-02 — 2027-01-04
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270604-20270606-session-2027-06-04 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-06-04 · 2027-06-04–2027-06-06
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-04 — 2027-06-06
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270628-20270630-session-2027-06-28 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-06-28 · 2027-06-28–2027-06-30
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-28 — 2027-06-30
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270702-20270704-session-2027-07-02 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-07-02 · 2027-07-02–2027-07-04
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-02 — 2027-07-04
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270816-20270818-session-2027-08-16 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-08-16 · 2027-08-16–2027-08-18
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-08-16 — 2027-08-18
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1353-20270823-20270825-session-2027-08-23 · Green Camp Bali · Green Explorer · 3 days · Green Explorer · 3 days · 2027-08-23 · 2027-08-23–2027-08-25
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-08-23 - 2027-08-25
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 5350000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/3-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1354-20270208-20270212-session-2027-02-08 · Green Camp Bali · Green Explorer · 5 days · Green Explorer · 5 days · 2027-02-08 · 2027-02-08–2027-02-12
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-02-08 — 2027-02-12
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9000000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1354-20270614-20270618-session-2027-06-14 · Green Camp Bali · Green Explorer · 5 days · Green Explorer · 5 days · 2027-06-14 · 2027-06-14–2027-06-18
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-06-14 — 2027-06-18
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9000000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1354-20270712-20270716-session-2027-07-12 · Green Camp Bali · Green Explorer · 5 days · Green Explorer · 5 days · 2027-07-12 · 2027-07-12–2027-07-16
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-12 — 2027-07-16
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9000000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1354-20270809-20270813-session-2027-08-09 · Green Camp Bali · Green Explorer · 5 days · Green Explorer · 5 days · 2027-08-09 · 2027-08-09–2027-08-13
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-08-09 — 2027-08-13
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 9000000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1354-20261116-20261120-session-2026-11-16 · Green Camp Bali · Green Explorer · 5 days · Green Explorer · 5 days · 2026-11-16 · 2026-11-16–2026-11-20
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-11-16 — 2026-11-20
+Edad: 7*12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: day_camp
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 9000000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-green-explorer-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1355-20261220-20261224-session-2026-12-20 · Green Camp Bali · Mini Changemakers · Mini Changemakers · 2026-12-20 · 2026-12-20–2026-12-24
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2026-12-20 — 2026-12-24
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · from IDR 10050000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-mini-changemakers-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1355-20270726-20270730-session-2027-07-26 · Green Camp Bali · Mini Changemakers · Mini Changemakers · 2027-07-26 · 2027-07-26–2027-07-30
+
+lugar: Indonesia · Sibang Kaja · Abiansemal · Bali
+Fecha: 2027-07-26 Å 2027-07-30
+Edad: 8–12
+Matway: Sí, por edad; inscripción separada
+Óscar: No ahora; la edad futura
+Formato: residente
+Idioma: Operador confirma expresamente inglés en este programa concreto; idioma web no usado como prueba.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · from IDR 10050000 · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Mínimo 8 participantes; operador puede cancelar / cambiar a 3 semanas por falta de inscritos. Inscripción tardía hasta 2 días, residencia además sujeta a habitación. Según FAQ cancelación escrita con 45 o más días permite devolución 50%, menos de 45 días sin devolución; ausencias / no-show sin cash refund. Existe voucher transferible condicional por 1 año, no devolución incondicional. Cancelación del operador: devolución total. On-site insurance no sustituye seguro personal de viaje.
+Fuente: https://greencampbali.com/product/5-day-mini-changemakers-camp/
+Se ha comprobado: 2026-11-05
+
+### CP1357-20261211-20261218-family-2026-12-11 · Shanti Shanti · Kampot Family Hub · Family window · 2026-12-11 · 2026-12-11–2026-12-18
+
+lugar: Camboya · Kampot
+Fecha: 2026-12-11 — 2026-12-18
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 150 child + 200 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1357-20270115-20270122-family-2027-01-15 · Shanti Shanti · Kampot Family Hub · Family window · 2027-01-15 · 2027-01-15–2027-01-22
+
+lugar: Camboya · Kampot
+Fecha: 2027-01-15 — 2027-01-22
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 150 child + 200 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1357-20270212-20270219-family-2027-02-12 · Shanti Shanti · Kampot Family Hub · Family window · 2027-02-12 · 2027-02-12–2027-02-19
+
+lugar: Camboya · Kampot
+Fecha: 2027-02-12 — 2027-02-19
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 150 child + 200 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1357-20270305-20270312-family-2027-03-05 · Shanti Shanti · Kampot Family Hub · Family window · 2027-03-05 · 2027-03-05–2027-03-12
+
+lugar: Camboya · Kampot
+Fecha: 2027-03-05 — 2027-03-12
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 150 child + 200 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1357-20270409-20270416-family-2027-04-09 · Shanti Shanti · Kampot Family Hub · Family window · 2027-04-09 · 2027-04-09–2027-04-16
+
+lugar: Camboya · Kampot
+Fecha: 2027-04-09 — 2027-04-16
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 150 child + 200 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1358-20261221-20261226-family-2026-12-21 · Shanti Shanti · Koh Rong Island Family Extension · Family window · 2026-12-21 · 2026-12-21–2026-12-26
+
+lugar: Camboya · Koh Rong · Long Set Beach
+Fecha: 2026-12-21 — 2026-12-26
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · USD 100 child + 150 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1358-20270125-20270129-family-2027-01-25 · Shanti Shanti · Koh Rong Island Family Extension · Family window · 2027-01-25 · 2027-01-25–2027-01-29
+
+lugar: Camboya · Koh Rong · Long Set Beach
+Fecha: 2027-01-25 国 2027-01-29
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 100 child + 150 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1358-20270222-20270226-family-2027-02-22 · Shanti Shanti · Koh Rong Island Family Extension · Family window · 2027-02-22 · 2027-02-22–2027-02-26
+
+lugar: Camboya · Koh Rong · Long Set Beach
+Fecha: 2027-02-22 国 2027-02-26
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 100 child + 150 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1358-20270314-20270318-family-2027-03-14 · Shanti Shanti · Koh Rong Island Family Extension · Family window · 2027-03-14 · 2027-03-14–2027-03-18
+
+lugar: Camboya · Koh Rong · Long Set Beach
+Fecha: 2027-03-14 — 2027-03-18
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 100 child + 150 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
+Se ha comprobado: 2026-11-05
+
+### CP1358-20270419-20270423-family-2027-04-19 · Shanti Shanti · Koh Rong Island Family Extension · Family window · 2027-04-19 · 2027-04-19–2027-04-23
+
+lugar: Camboya · Koh Rong · Long Set Beach
+Fecha: 2027-04-19 国 2027-04-23
+edad: Todas edades; tarifa infantil 4–11, adulto 12+.
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Idioma de enseñanza / evaluación de este programa sin confirmar expresamente. Web inglesa, selector EN / ID o native-English teachers no acreditan por sí solos inglés en todas clases.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · USD 100 child + 150 adult · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, seguro personal y gastos no indicados aparte. Pago: Confirmar factura actual completa y suplementos obligatorios desconocidos; gastos vacíos no equivalen a cero.
+Fuente: https://shantivillage.com/worldschooling/
 Se ha comprobado: 2026-11-05
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

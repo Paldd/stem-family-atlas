@@ -1,0 +1,475 @@
+{
+  "version": 170,
+  "checked": "2026-11-05",
+  "requests": [
+    {
+      "key": "guidepost-bali",
+      "url": "https://guidepost.id/programs/winter-camp",
+      "final_url": "https://guidepost.id/programs/winter-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 41182,
+      "sha256": "ac90cb05bd2432bcaa5e9876e1d2a9ef83ed895f44a5a46c8687d57809b1fb48",
+      "file": "guidepost-bali.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "padi-bali",
+      "url": "https://padikidscamp.com/",
+      "final_url": "https://padikidscamp.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36149,
+      "sha256": "1c8c265e8af01d304abc224b144cdc8def24ca17c6b2854d57264955fb02bd0d",
+      "file": "padi-bali.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "green-kids",
+      "url": "https://greencampbali.com/our-camps/kids-camps/",
+      "final_url": "https://greencampbali.com/our-camps/kids-camps/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 108765,
+      "sha256": "1e40c282d5369cadd00a8219e8df99c34173bb67c014585263ad2c2b9278159a",
+      "file": "green-kids.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "studybali-winter-pdf",
+      "url": "https://www.studybaliinternational.com/storage/brochures/files/01KQ9MQGH6T6PJ5E1B0PXSMNFG.pdf",
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+    },
+    {
+      "key": "cis-cambodia",
+      "url": "https://www.cisp.edu.kh/student-life/camps",
+      "final_url": "https://www.cisp.edu.kh/student-life/camps",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 64850,
+      "sha256": "8ac57747e63d00c69618a94568d2d3428f22afba8831241366639e5e74a75a3c",
+      "file": "cis-cambodia.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "shanti-kampot",
+      "url": "https://shantivillage.com/worldschooling/",
+      "final_url": "https://shantivillage.com/worldschooling/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 266725,
+      "sha256": "2c37d91a1d613736987854310494cc53e918c0b0b28adb2e38d9daae8cafaa8b",
+      "file": "shanti-kampot.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "genius-indonesia",
+      "url": "https://ir.geniusgroup.net/news-events/press-releases/detail/269/genius-group-and-koding-next-launch-national-ai-robotics",
+      "final_url": "https://ir.geniusgroup.net/news-events/press-releases/detail/269/genius-group-and-koding-next-launch-national-ai-robotics",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 36949,
+      "sha256": "a3709e05d3bcd4f6b2aba0f2788aa349b1f34eb252954325f981c454f71f7580",
+      "file": "genius-indonesia.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "newton-faq",
+      "url": "https://newtonshow.my/faq",
+      "final_url": "https://newtonshow.my/faq",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67675,
+      "sha256": "af4a4a6d7f85be9d8a9fb8d207fb2df16a10884aceea714e58e8de4d5a5f9e96",
+      "file": "newton-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "advaspire-event",
+      "url": "https://advaspire.com/events",
+      "final_url": "https://advaspire.com/events",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 45125,
+      "sha256": "53bb90aeaaa67d0bb8f98d2a96f15778ed35b6ee6fcf5c923d4ca2af6f87f130",
+      "file": "advaspire-event.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "guidepost-fees",
+      "url": "https://guidepost.id/course-fees",
+      "final_url": "https://guidepost.id/course-fees",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 48900,
+      "sha256": "f26ea9f07992dc8379da7ac9fd9642bd9a601dc30748f25b9d32f658c5b56135",
+      "file": "guidepost-fees.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "guidepost-winter-pdf",
+      "url": "https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf",
+      "final_url": "https://guidepost.id/uploads/PDF/2026-Guidepost-AYANA-Bali-Winter-Camp_260918.pdf",
+      "status": 200,
+      "mime": "application/pdf",
+      "bytes": 1987878,
+      "sha256": "70fac9b188a0ef68fc6bdf70f3e018f948924faab7acd8e1e7952d41798b53e0",
+      "file": "guidepost-winter-pdf.pdf",
+      "response_hash_verified": true
+    },
+    {
+      "key": "guidepost-terms",
+      "url": "https://guidepost.id/terms-conditions",
+      "final_url": "https://guidepost.id/terms-conditions",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 67647,
+      "sha256": "fb04a28480f2b973f37d50c0c427e214aae1fe8d224d2203c94268f0d503fe15",
+      "file": "guidepost-terms.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "green-faq",
+      "url": "https://greencampbali.com/faq/",
+      "final_url": "https://greencampbali.com/about/faq/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 97264,
+      "sha256": "e82af23d5bde945a9b4db85215bac0df67cffba120c43d6e5a172c07e0545de1",
+      "file": "green-faq.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "green-cancel",
+      "url": "https://greencampbali.com/cancellation-policy/",
+      "final_url": "https://greencampbali.com/about/cancellation-policy/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 77082,
+      "sha256": "7324556b190d969e434593ac79740f1c1ca280e7bf451aa09dcc3a584c980415",
+      "file": "green-cancel.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "padi-winter",
+      "url": "https://padikidscamp.com/camps/winter-camp-2026",
+      "final_url": "https://padikidscamp.com/camps/winter-camp-2026",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 12550,
+      "sha256": "2dd88b1dd74f2f7be9ce03ae219f4cc05783da504779cb5c41990c1264d72d91",
+      "file": "padi-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "padi-fees",
+      "url": "https://padikidscamp.com/fees",
+      "final_url": "https://padikidscamp.com/fees",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 11591,
+      "sha256": "feb0346c7ed155c631029ab8ba0ce3a50cd4d8812495b8e25b720ba9f747feb9",
+      "file": "padi-fees.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "h3d-refund",
+      "url": "https://harimau3d.com/legal/refund-policy",
+      "final_url": "https://harimau3d.com/legal/refund-policy",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 154129,
+      "sha256": "2190a06cd2a7791c5886acce62f3eed68b4af0f8d5139f1ec43101e43de6be28",
+      "file": "h3d-refund.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "h3d-programme",
+      "url": "https://harimau3d.com/pages/future-makers-program",
+      "final_url": "https://harimau3d.com/pages/future-makers-program",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 167594,
+      "sha256": "1082efa46b5e11fbea8b2d25d5cb766884a03d6837553374ef4e3e0a05314cea",
+      "file": "h3d-programme.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "green-english-camp",
+      "url": "https://greencampbali.com/product/green-english-camp/",
+      "final_url": "https://greencampbali.com/product/green-english-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 121293,
+      "sha256": "00515e5d26c9263135c4dedde665a90e98e83d6eae91d1a9e157013bdfb4961a",
+      "file": "green-english-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "5-day-junior-naturalist-camp",
+      "url": "https://greencampbali.com/product/5-day-junior-naturalist-camp/",
+      "final_url": "https://greencampbali.com/product/5-day-junior-naturalist-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 127311,
+      "sha256": "edd9838b3e25bc5076a6ef8802d85c6ffcfc8c364b1f40ccc16e77fd7d34d8d5",
+      "file": "5-day-junior-naturalist-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "3-day-green-explorer-camp",
+      "url": "https://greencampbali.com/product/3-day-green-explorer-camp/",
+      "final_url": "https://greencampbali.com/product/3-day-green-explorer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 123116,
+      "sha256": "187229543ff847639fc42a152b89609184b45f02c49bec6a7289fb2946d987fc",
+      "file": "3-day-green-explorer-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "5-day-green-explorer-camp",
+      "url": "https://greencampbali.com/product/5-day-green-explorer-camp/",
+      "final_url": "https://greencampbali.com/product/5-day-green-explorer-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 120372,
+      "sha256": "5944f5b0b6ca9c6e80ab05b8c0df0c10d8ab2710dc1d57b21ced12937e16bbe5",
+      "file": "5-day-green-explorer-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "green-camp-playgroup",
+      "url": "https://greencampbali.com/product/green-camp-playgroup/",
+      "final_url": "https://greencampbali.com/product/green-camp-playgroup/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 125218,
+      "sha256": "f5f056365a4b8d0d8f8e6a04364dbe220a42b61eec69a6d9401d65680a77a3ab",
+      "file": "green-camp-playgroup.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "5-day-mini-changemakers-camp",
+      "url": "https://greencampbali.com/product/5-day-mini-changemakers-camp/",
+      "final_url": "https://greencampbali.com/product/5-day-mini-changemakers-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 116967,
+      "sha256": "12eb35f8422f15fdc33d76536b55ade60445de83518bde365edccdefd25678fe",
+      "file": "5-day-mini-changemakers-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "dcci-home",
+      "url": "https://www.malaysia.dccisummit.com/",
+      "final_url": "https://www.malaysia.dccisummit.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 357219,
+      "sha256": "dbdd709124a0bf3de457ba53096e0732656d8572e007377c66f66f7ba1978715",
+      "file": "dcci-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "mte-event",
+      "url": "https://mtexpo.mte.org.my/",
+      "final_url": "https://mtexpo.mte.org.my/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 286818,
+      "sha256": "6ded9674c108034b54a30229954b3f14bdb648751c2a2155da3a03b9446dc4c1",
+      "file": "mte-event.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "padi-about",
+      "url": "https://padikidscamp.com/about",
+      "final_url": "https://padikidscamp.com/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 14672,
+      "sha256": "3dbc1129b8154416cfbdf7fb14d65532018387199f0d9617cafa480fa0a19398",
+      "file": "padi-about.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "padi-activities",
+      "url": "https://padikidscamp.com/activities",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "penang-public",
+      "url": "https://pisf.pscpen.com/public/",
+      "final_url": "https://pisf.pscpen.com/public/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 157497,
+      "sha256": "467cadadf1ed7194bc24558c29adcf8f273b01d202240fdb171291ddf88755f8",
+      "file": "penang-public.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "penang-home",
+      "url": "https://pisf.pscpen.com/",
+      "final_url": "https://pisf.pscpen.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 237946,
+      "sha256": "99872356967eaba720722b5c5c3f58dbcb8f6dcf4c54e058eb064068e4e3cf0e",
+      "file": "penang-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "penang-makerfest",
+      "url": "https://pisf.pscpen.com/makerfest/",
+      "final_url": "https://pisf.pscpen.com/makerfest/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 175933,
+      "sha256": "0c8b4dd1cec8b0ea0292b7a774f000a9ed00dad53bf3cc0480525deb8da7eaaa",
+      "file": "penang-makerfest.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "mte-home",
+      "url": "https://www.mte.org.my/",
+      "final_url": "https://www.mte.org.my/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 176891,
+      "sha256": "3bd466a8965f5a6490de2c1e8eadb04c47a19a7b14326fb28cc3a259146a1087",
+      "file": "mte-home.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "worldtech-kh",
+      "url": "https://worldtechlympics.org/kh",
+      "final_url": "https://worldtechlympics.org/kh",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 163545,
+      "sha256": "ca514bfd5b3724af085254a50e216d7b80d6b28ef291f896dc8cabcc802d56ad",
+      "file": "worldtech-kh.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "cambodia-stem-gov",
+      "url": "https://startupcambodia.gov.kh/event/799",
+      "final_url": "https://startupcambodia.gov.kh/event/799",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 102569,
+      "sha256": "c22d53221a6c66fec7fd8946403e08308416d4c6e753e6317ae0956d64ad37a9",
+      "file": "cambodia-stem-gov.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "inti-robot",
+      "url": "https://robot.inti.asia/about",
+      "final_url": "https://robot.inti.asia/about",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 80762,
+      "sha256": "340bbd03149e4ab514f13e44efff9046f2b861a88a06175481319e9471c4a270",
+      "file": "inti-robot.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "advaspire",
+      "url": "https://advaspire.com/",
+      "final_url": "https://advaspire.com/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 247613,
+      "sha256": "454e322dc757226429763a32f6a9bcde31e90086ed0d095d278bc40e46ea4dbf",
+      "file": "advaspire.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "fresh-camp",
+      "url": "https://learningfresh.org/holiday-camps/freshenglish-santa-camp",
+      "final_url": "https://learningfresh.org/holiday-camps/freshenglish-santa-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 75254,
+      "sha256": "70737a03833ceb7ea780f305ba856959e412606c3c0ac0589d757a2904cda938",
+      "file": "fresh-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "h3d-camp",
+      "url": "https://harimau3d.com/collections/color-swatch-bulk-pack/products/-h3d-2026-december-fmp-holiday-camp-7th-to-12-december-",
+      "final_url": "https://harimau3d.com/collections/color-swatch-bulk-pack/products/-h3d-2026-december-fmp-holiday-camp-7th-to-12-december-",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 239472,
+      "sha256": "890e96efcaf3db628d3fc669a394f150ce6802e3e5eabba7e2f37a6108c08205",
+      "file": "h3d-camp.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "stratford-winter",
+      "url": "https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/",
+      "final_url": "https://camps.stratford-education.com/holiday-program/summer-winter-holiday-camp/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 420369,
+      "sha256": "77c2bc9cbf7644e8c9bf9abab26a7f85fb9701376d7924c13f9962713de2c311",
+      "file": "stratford-winter.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "newton-malaysia",
+      "url": "https://newtonshow.my/winter-camp",
+      "final_url": "https://newtonshow.my/winter-camp",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 176448,
+      "sha256": "8426d1c09d1a60b960880738c099238abcdb8f0642b1ef9c1b41923f99e3e46c",
+      "file": "newton-malaysia.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "devcon-kids",
+      "url": "https://devcon.ph/programs/kids/",
+      "final_url": "https://devcon.ph/programs/kids/",
+      "status": 200,
+      "mime": "text/html",
+      "bytes": 1910872,
+      "sha256": "7d95bc5ad41a658fbeb0b2d8b015cd2d67e402b1eaff1861af7538cbf93625ea",
+      "file": "devcon-kids.html",
+      "response_hash_verified": true
+    },
+    {
+      "key": "studybali-winter-curl",
+      "url": "https://www.studybaliinternational.com/storage/brochures/files/01KQ9MQGH6T6PJ5E1B0PXSMNFG.pdf",
+      "error": "curl: (28) Failed to connect to www.studybaliinternational.com port 443 after 10009 ms: Timeout was reached\n"
+    }
+  ],
+  "request_count": 42,
+  "hash_verified": 39,
+  "failures": [
+    {
+      "key": "studybali-winter-pdf",
+      "url": "https://www.studybaliinternational.com/storage/brochures/files/01KQ9MQGH6T6PJ5E1B0PXSMNFG.pdf",
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+    },
+    {
+      "key": "padi-activities",
+      "url": "https://padikidscamp.com/activities",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "studybali-winter-curl",
+      "url": "https://www.studybaliinternational.com/storage/brochures/files/01KQ9MQGH6T6PJ5E1B0PXSMNFG.pdf",
+      "error": "curl: (28) Failed to connect to www.studybaliinternational.com port 443 after 10009 ms: Timeout was reached\n"
+    }
+  ],
+  "no_contact_or_registration": true,
+  "not_treated_as_camp_contracts": [
+    "h3d-refund",
+    "guidepost-terms"
+  ],
+  "unread_SBI_brochure_not_added": true
+}
