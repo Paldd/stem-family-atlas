@@ -1,0 +1,451 @@
+{
+  "version": 182,
+  "checked": "2026-11-06",
+  "request_count": 41,
+  "hash_verified": 33,
+  "failures": [
+    {
+      "key": "harrow-eco",
+      "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "checked_at": "2026-11-06T12:03:19.966734+00:00",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "uneca-wro-event",
+      "url": "https://www.uneca.org/eca-events/world-robot-olympiad-wro2024-national-competitions-ethiopia-and-tanzania",
+      "checked_at": "2026-11-06T12:21:54.180931+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results",
+      "url": "https://www.uneca.org/stories/ethiopia-and-tanzania-young-innovators-shine-at-national-finals%2C-ahead-of-the-world-robot",
+      "checked_at": "2026-11-06T12:21:54.181019+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "harrow-eco-fresh",
+      "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "checked_at": "2026-11-06T12:21:54.181079+00:00",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "uneca-wro-event-nonwww",
+      "url": "https://uneca.org/eca-events/world-robot-olympiad-wro2024-national-competitions-ethiopia-and-tanzania",
+      "checked_at": "2026-11-06T12:22:48.920145+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results-nonwww",
+      "url": "https://uneca.org/stories/ethiopia-and-tanzania-young-innovators-shine-at-national-finals%2C-ahead-of-the-world-robot",
+      "checked_at": "2026-11-06T12:22:48.920506+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results-current",
+      "url": "https://uneca.org/eca-events/stories/ethiopia-and-tanzania-young-innovators-shine-national-finals-ahead-world-robot-olympiad",
+      "checked_at": "2026-11-06T12:24:23.183158+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-ethiopia-video",
+      "url": "https://www.uneca.org/eca-events/videos/world-robot-olympiad-wro2024-ethiopia-national-competition-4-october-2024",
+      "checked_at": "2026-11-06T12:24:23.183546+00:00",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "requests": [
+    {
+      "key": "stempower",
+      "url": "https://www.stempower.org/",
+      "checked_at": "2026-11-06T12:03:19.966193+00:00",
+      "status": 200,
+      "final_url": "https://www.stempower.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 633540,
+      "sha256": "1d569c7b9f0286878ea28ac39230a73f6d57e312312e33387eee492e9553d398"
+    },
+    {
+      "key": "girls-stem",
+      "url": "https://girlsinstemtrust.org/",
+      "checked_at": "2026-11-06T12:03:19.966581+00:00",
+      "status": 200,
+      "final_url": "https://girlsinstemtrust.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 126419,
+      "sha256": "12e2b8941579aa2649ab60271f30b4e6b8e9dc861f4cece8072ea43e28db25cd"
+    },
+    {
+      "key": "icog",
+      "url": "https://icog-labs.com/",
+      "checked_at": "2026-11-06T12:03:19.966670+00:00",
+      "status": 200,
+      "final_url": "https://www.icog-labs.com/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 147321,
+      "sha256": "47b305f8c176985e9b4bd4060c80aa5f52a585d6de5adeb0b4b7e56b65e52098"
+    },
+    {
+      "key": "harrow-eco",
+      "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "checked_at": "2026-11-06T12:03:19.966734+00:00",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "techknowhow-winter",
+      "url": "https://www.techknowhowkids.com/winter-camps",
+      "checked_at": "2026-11-06T12:03:19.966975+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/winter-camps",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 888682,
+      "sha256": "19d59754369fbd6723a39150059e00193d180f74813c256beec8cdc024a276f2"
+    },
+    {
+      "key": "stem-kids-ethiopia",
+      "url": "https://stemforkids.et/",
+      "checked_at": "2026-11-06T12:05:18.521584+00:00",
+      "status": 200,
+      "final_url": "https://stemforkids.et/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 460608,
+      "sha256": "b53213bd6f39af4c0d3aba46471b92b01c95d54eb7d4641f9bfdde6352620434"
+    },
+    {
+      "key": "netro-kit",
+      "url": "https://www.netrozim.co.zw/kit",
+      "checked_at": "2026-11-06T12:05:18.522050+00:00",
+      "status": 200,
+      "final_url": "https://www.netrozim.co.zw/kit",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 212370,
+      "sha256": "fc71048dc4513aeeb7e80f23930220ff92452df98c2018da354383b2c5fa92c7"
+    },
+    {
+      "key": "mator-events",
+      "url": "https://www.matordesign.com/events",
+      "checked_at": "2026-11-06T12:05:18.522143+00:00",
+      "status": 200,
+      "final_url": "https://www.matordesign.com/events",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 152775,
+      "sha256": "68466b94e23495be9a184ef87712375ec2e6bd6d73d6e3013f7a6f534e25e7d9"
+    },
+    {
+      "key": "elab",
+      "url": "https://elabrobotics.co.zw/",
+      "checked_at": "2026-11-06T12:05:18.522211+00:00",
+      "status": 200,
+      "final_url": "https://elabrobotics.co.zw/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 217287,
+      "sha256": "ccf103ae4c56010e8db45b77020b2448188047a5c764e88bc4092d6949b44386"
+    },
+    {
+      "key": "hundred-tech",
+      "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+      "checked_at": "2026-11-06T12:05:18.522441+00:00",
+      "status": 200,
+      "final_url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 173561,
+      "sha256": "afa6806dcad9044aee861e14363a93c511382740bbab9e91923d8e531877dc21"
+    },
+    {
+      "key": "tme-zimbabwe",
+      "url": "https://tmeeducation.com/en-ZZ/page/74412/zimbabwe-forms-robotics-team-through-holiday-stem-camp",
+      "checked_at": "2026-11-06T12:05:19.580960+00:00",
+      "status": 200,
+      "final_url": "https://tmeeducation.com/en-ZZ/page/74412/zimbabwe-forms-robotics-team-through-holiday-stem-camp",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 33798,
+      "sha256": "deab56f0b6db8f5dc8556182c5ac0a37563dbd81b6fece15d3b734d8346ac887"
+    },
+    {
+      "key": "cybroid-camp",
+      "url": "https://cybroid.com/events/tech-fun-camp-2026",
+      "checked_at": "2026-11-06T12:05:20.336760+00:00",
+      "status": 200,
+      "final_url": "https://cybroid.com/events/tech-fun-camp-2026",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 46590,
+      "sha256": "52756fbc4e9f4dc3327cc193e169ddafc5f0b0a955b440fed6402a0a3bd19dc8"
+    },
+    {
+      "key": "stempower-grants",
+      "url": "https://www.stempower.org/restricted-grants",
+      "checked_at": "2026-11-06T12:07:46.984509+00:00",
+      "status": 200,
+      "final_url": "https://www.stempower.org/restricted-grants",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 999020,
+      "sha256": "a9c3249ba320e94d5afe93d20df980a73bd960fb000c6e1e808b80611cc2a967"
+    },
+    {
+      "key": "girls-wro-2024",
+      "url": "https://girlsinstemtrust.org/2024/07/01/world-robot-olympiad-competition/",
+      "checked_at": "2026-11-06T12:07:46.985023+00:00",
+      "status": 200,
+      "final_url": "https://girlsinstemtrust.org/2024/07/01/world-robot-olympiad-competition/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 124701,
+      "sha256": "a164ac655ef5e3ce7bd523fd63dd938c81f37139d37d3282743befe89a382561"
+    },
+    {
+      "key": "girls-zimuto-2024",
+      "url": "https://girlsinstemtrust.org/2024/10/28/zimuto-high-to-represent-zimbabwe-at-the-world-robotics-olympiad/",
+      "checked_at": "2026-11-06T12:07:46.985133+00:00",
+      "status": 200,
+      "final_url": "https://girlsinstemtrust.org/2024/10/28/zimuto-high-to-represent-zimbabwe-at-the-world-robotics-olympiad/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 119960,
+      "sha256": "9a63cbe637435153663b58066e93475bc612d317ef549e36a0064c80cb90ad51"
+    },
+    {
+      "key": "tkh-faq",
+      "url": "https://www.techknowhowkids.com/faqs",
+      "checked_at": "2026-11-06T12:07:46.985200+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/faqs",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1170763,
+      "sha256": "1c3c8d2c795558ccdb59feb0cd68303bcdc4f85c63ef333cc67a866beadcb655"
+    },
+    {
+      "key": "tkh-pokemon",
+      "url": "https://www.techknowhowkids.com/poke-party",
+      "checked_at": "2026-11-06T12:07:46.985469+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/poke-party",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 935245,
+      "sha256": "2b1a487d861988303e5be504fe36396da555371b86f99b49bf11c5a417709563"
+    },
+    {
+      "key": "icog-past",
+      "url": "https://www.icog-labs.com/past-programs",
+      "checked_at": "2026-11-06T12:07:47.384240+00:00",
+      "status": 200,
+      "final_url": "https://www.icog-labs.com/past-programs",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 56818,
+      "sha256": "661995a45928e4d139fe0392b493c480edc86b23a983091ac6c9f76e375af789"
+    },
+    {
+      "key": "eth-programs",
+      "url": "https://stemforkids.et/programs",
+      "checked_at": "2026-11-06T12:13:21.985335+00:00",
+      "status": 200,
+      "final_url": "https://stemforkids.et/programs",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 110225,
+      "sha256": "c9f8bd79759b5c01690f1c8ee8d12f7a7c3d7d4762ab1a75b7c22dcbb8d90e48"
+    },
+    {
+      "key": "eth-pricing",
+      "url": "https://stemforkids.et/pricing",
+      "checked_at": "2026-11-06T12:13:21.985709+00:00",
+      "status": 200,
+      "final_url": "https://stemforkids.et/pricing",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 73520,
+      "sha256": "d51ea5a08cb8baa608b00851cee8855c2b70b50b418e71b22336eb5707ea8ff2"
+    },
+    {
+      "key": "eth-events",
+      "url": "https://stemforkids.et/events",
+      "checked_at": "2026-11-06T12:13:21.985802+00:00",
+      "status": 200,
+      "final_url": "https://stemforkids.et/events",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 33833,
+      "sha256": "3e8eafce09cc334367db055b77807e2cc048d5b14b88a0b2bdfac1d574a4eb35"
+    },
+    {
+      "key": "netro-about",
+      "url": "https://www.netrozim.co.zw/about",
+      "checked_at": "2026-11-06T12:13:21.985879+00:00",
+      "status": 200,
+      "final_url": "https://www.netrozim.co.zw/about",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 75517,
+      "sha256": "40c4c285a6514c8c78bc385f6b83c3871dbc2f3eef2d2883550a628cd7f2c5f6"
+    },
+    {
+      "key": "elab-events",
+      "url": "https://elabrobotics.co.zw/events/",
+      "checked_at": "2026-11-06T12:13:21.986128+00:00",
+      "status": 200,
+      "final_url": "https://elabrobotics.co.zw/events/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 237340,
+      "sha256": "35ad08ef9ac7aa28cb96c2bf179ce8c0a40801a00138750e83b68c093e623a6c"
+    },
+    {
+      "key": "hundred-kids",
+      "url": "https://robotics.co.zw/courses-for-kids/",
+      "checked_at": "2026-11-06T12:13:22.412479+00:00",
+      "status": 200,
+      "final_url": "https://robotics.co.zw/courses-for-kids/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 205526,
+      "sha256": "d2599c587afec349bf279a2905b296d5e1d88cad66e291d767cb370e2c06de41"
+    },
+    {
+      "key": "mator-form",
+      "url": "https://forms.gle/MengQ7X2LHHZeWBD8",
+      "checked_at": "2026-11-06T12:13:23.031188+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSeV1_rS9vUdcm6aVGYeOGKH_k-bX5ZkTT_JdFsCEZfPnbnkgw/viewform?usp=send_form",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 105469,
+      "sha256": "44368d3d3aba3d4aecb37d064920fbc125a74f3de8470364d86e76780df39ee0"
+    },
+    {
+      "key": "stempower-about",
+      "url": "https://www.stempower.org/about-us",
+      "checked_at": "2026-11-06T12:13:23.074574+00:00",
+      "status": 200,
+      "final_url": "https://www.stempower.org/about-us",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1556345,
+      "sha256": "d2cc807f9776eccf2a082dfe24b35fbcfe9e4a4c014bc4d47450549b42e51151"
+    },
+    {
+      "key": "wro-directory",
+      "url": "https://wro-association.org/about-wro/association/member-countries/",
+      "checked_at": "2026-11-06T12:21:54.180460+00:00",
+      "status": 200,
+      "final_url": "https://wro-association.org/about-wro/association/member-countries/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 165399,
+      "sha256": "fd1f0b2e2c577dcbbf65a32c580e23c28e9872bc8964d5fd2781c92ccb3ba0ae"
+    },
+    {
+      "key": "uneca-wro-event",
+      "url": "https://www.uneca.org/eca-events/world-robot-olympiad-wro2024-national-competitions-ethiopia-and-tanzania",
+      "checked_at": "2026-11-06T12:21:54.180931+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results",
+      "url": "https://www.uneca.org/stories/ethiopia-and-tanzania-young-innovators-shine-at-national-finals%2C-ahead-of-the-world-robot",
+      "checked_at": "2026-11-06T12:21:54.181019+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "harrow-eco-fresh",
+      "url": "https://aisloutdoor.com/products/ecobot-patrol-mission-green-city",
+      "checked_at": "2026-11-06T12:21:54.181079+00:00",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "key": "harrow-general",
+      "url": "https://aisloutdoor.com/pages/general-information",
+      "checked_at": "2026-11-06T12:21:54.181319+00:00",
+      "status": 200,
+      "final_url": "https://aisloutdoor.com/pages/general-information",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 241217,
+      "sha256": "0c39b95c5045a6c9a598829d4b4661588d2eb0edd48083af5b434b7d2c0a42c4"
+    },
+    {
+      "key": "firstsa",
+      "url": "https://firstsa.org/",
+      "checked_at": "2026-11-06T12:21:54.316346+00:00",
+      "status": 200,
+      "final_url": "https://firstsa.org/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 63951,
+      "sha256": "e9df3f7c962c8a590280393c829ed2a30821fca2443c2469a4b0eaf39c9c3a24"
+    },
+    {
+      "key": "hundred-contact",
+      "url": "https://robotics.co.zw/contact/",
+      "checked_at": "2026-11-06T12:21:54.536582+00:00",
+      "status": 200,
+      "final_url": "https://robotics.co.zw/contact/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 166291,
+      "sha256": "8b9158d3428b531e73e62dc93114e25fc208bec5a1d50469168859816d823ccf"
+    },
+    {
+      "key": "tkh-glen",
+      "url": "https://www.techknowhowkids.com/sf-glen-park",
+      "checked_at": "2026-11-06T12:21:55.647750+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/sf-glen-park",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 855995,
+      "sha256": "8c650928d3affec797a15d7d98693cb10cf282bb574b5594dbdef0d41f51459e"
+    },
+    {
+      "key": "tkh-sunset",
+      "url": "https://www.techknowhowkids.com/sf-sunset",
+      "checked_at": "2026-11-06T12:21:55.667126+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/sf-sunset",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 857293,
+      "sha256": "0a5dcee598e650af17ee7eabc48151c1ffa9579f7f2aef911c3a47d62b8f5c54"
+    },
+    {
+      "key": "tkh-pricing",
+      "url": "https://www.techknowhowkids.com/pricing",
+      "checked_at": "2026-11-06T12:21:55.761166+00:00",
+      "status": 200,
+      "final_url": "https://www.techknowhowkids.com/pricing",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 860013,
+      "sha256": "26853a0846efc1fef9a454ec7865736549014fef14d589a3348ee060b9a845ce"
+    },
+    {
+      "key": "eth-contact",
+      "url": "https://stemforkids.et/contactus",
+      "checked_at": "2026-11-06T12:21:55.987565+00:00",
+      "status": 200,
+      "final_url": "https://stemforkids.et/contactus",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 60003,
+      "sha256": "3475236fd8b9115bfd0561bafaf2ed974c6ead24e5bb5bc05e03f91ded6a3311"
+    },
+    {
+      "key": "uneca-wro-event-nonwww",
+      "url": "https://uneca.org/eca-events/world-robot-olympiad-wro2024-national-competitions-ethiopia-and-tanzania",
+      "checked_at": "2026-11-06T12:22:48.920145+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results-nonwww",
+      "url": "https://uneca.org/stories/ethiopia-and-tanzania-young-innovators-shine-at-national-finals%2C-ahead-of-the-world-robot",
+      "checked_at": "2026-11-06T12:22:48.920506+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-results-current",
+      "url": "https://uneca.org/eca-events/stories/ethiopia-and-tanzania-young-innovators-shine-national-finals-ahead-world-robot-olympiad",
+      "checked_at": "2026-11-06T12:24:23.183158+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "uneca-wro-ethiopia-video",
+      "url": "https://www.uneca.org/eca-events/videos/world-robot-olympiad-wro2024-ethiopia-national-competition-4-october-2024",
+      "checked_at": "2026-11-06T12:24:23.183546+00:00",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "additional_official_readers": [
+    {
+      "private_evidence_name": "uneca-primary-indexed-reader.txt",
+      "sha256": "4283a5d877062946938721c1e83e1245e1ce30664492c333bd0f097638de5f04",
+      "role": "official indexed / web reader; not successful direct GET"
+    },
+    {
+      "private_evidence_name": "harrow-primary-reader.txt",
+      "sha256": "d285b9517cbe9a03c6218a65ade13c5b8d4325e93abb842fd6e39dd653ffbd90",
+      "role": "official indexed / web reader; not successful direct GET"
+    }
+  ],
+  "all_requests_get_only": true,
+  "no_forms_submitted": true,
+  "raw_source_bodies_private": true
+}

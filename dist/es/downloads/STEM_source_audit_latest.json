@@ -16,14 +16,14 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5771,
-    "competition_cards": 1922,
+    "cards": 5788,
+    "competition_cards": 1928,
     "event_cards": 252,
-    "camp_cards": 3597,
-    "league_profiles": 218,
+    "camp_cards": 3608,
+    "league_profiles": 220,
     "major_exhibition_cards": 160,
     "vex_cards": 518,
-    "countries_with_records": 126,
+    "countries_with_records": 128,
     "fully_audited_countries": 0
   },
   "continents": [
@@ -76,12 +76,12 @@
       "regions": [
         "África"
       ],
-      "total": 130,
-      "countries_with_records": 16,
-      "competitions": 73,
+      "total": 147,
+      "countries_with_records": 18,
+      "competitions": 79,
       "events": 15,
       "major_exhibitions": 7,
-      "camps": 42,
+      "camps": 53,
       "status": "Se ha estudiado parcialmente",
       "remaining": "Antes de la ampliación casi todas las competiciones fueron en Sudáfrica. se añadió PARC Senegal; Maghreb, África Oriental / Oeste y selecciones locales siguen siendo vacíos."
     },
@@ -5116,6 +5116,36 @@
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://igs.mv/wro/",
       "new": false
+    },
+    {
+      "id": "wro-ethiopia-local",
+      "name": "WRO · Ethiopia / STEMpower",
+      "group": "regional",
+      "event_ids": [
+        "C1924",
+        "C1925"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://www.stempower.org/",
+      "new": false
+    },
+    {
+      "id": "wro-zimbabwe-local",
+      "name": "WRO · Zimbabwe / Girls in STEM Trust",
+      "group": "regional",
+      "event_ids": [
+        "C1926",
+        "C1927"
+      ],
+      "cards": 2,
+      "future_dated": 0,
+      "linked_card_count": 2,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://girlsinstemtrust.org/",
+      "new": false
     }
   ],
   "exhibition_inventory": [
@@ -8989,7 +9019,7 @@
       }
     ],
     "counts": {
-      "records": 3597,
+      "records": 3608,
       "holiday": 3394,
       "regular": 108,
       "self_paced_materials": 2,
@@ -9002,7 +9032,7 @@
       "language_lessons": 387,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 82
+      "countries": 84
     },
     "validation": {
       "version": 51,

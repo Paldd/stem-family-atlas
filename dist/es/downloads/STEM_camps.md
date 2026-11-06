@@ -32427,16 +32427,16 @@ Se ha comprobado: 2026-11-05
 Lugar: Hong Kong · AISL Harrow Hong Kong ·38 Tsing Ying Rd, Tuen Mun
 Fecha: 2026-12-21 - 2026-12-24
 Edad: 6–8
-Matway: Condicional; comprobar la edad, clase y admisión
+Matway: No según la pista seleccionada
 Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Camp Details en inglés. Sleigh exige una EN basic. Esta es language statement del curso; libertad de asientos/recepción extranjera individualizada.
 Marca de idioma: primary; soporte: no declarado
 Costo: 2026/27 · HKD8980 · Suplementos y condiciones del expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-Limitaciones: Matvey: Solo si hay más. 8 en los días seleccionados; después 9 máximo 8 No aplicada. Oscar: Lo necesito. 6 años 21 diciembre; hasta 2020 año exact DOB Desconocido. Gastos adicionales: Transferente/flights/visa/personaltravelinsurance suprimidos. Familylodging para day Por separado; boarding rooms/medical cover/gear extras Desconocidos. Pago: Pago íntegro enrolment, non-transferablebooking.7daycooling-off Se acabó. 30 septiembre 2026; No lo prometemos. 5 octubre. HK/Mainland:1–31 octubre 2026 devolución 40% c 4%processing deduction, c 1 noviembre non-refundable; Uno change antes 1 Noviembre, entonar/subjectavailability. Base 4%deduction Exige invoice, no se elimina automáticamente 36%o 38.4%. Operador de equipo no técnico fullrefund; clima/force-majeure cancelarpo policy sin refund. Localemergencyphone vinculante.
+Limitaciones: Matvey: Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción. Oscar: Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto. Suplementos: Se excluyen los servicios de transferclagero/flights/visa/personaltravelinsurance. Pago: el pago total enrolment, non-transferablebooking.7daycooling-off Se terminó. 30 de septiembre 2026; No se puede prometer 5 de octubre. HK/Mainland:1–31 de octubre 2026 de vuelta 40% de la 4%processing deduction, de la 1 de noviembre non-refundable; uno change hasta 1 noviembre en el período de retraso/subjectavailability. base de datos 4%deduction requiere invoice, no se extrae automáticamente 36%o 38.4%. cancelación del grupo de trabajo fullrefund; el tiempo/force-majeure cancelación policy sin refund. Localemergencyphone obligatorio.
 Fuente: https://aisloutdoor.com/products/ecobot-patrol-mission-green-city
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP721-20261221-20261224-winter · AISL Outdoor / Harrow · Santa’s Sleigh Lab · Santa’s Sleigh Lab · 2026-12-21–2026-12-24
 
@@ -32699,32 +32699,32 @@ Comprobado: 2026-10-05
 Lugar: EE.UU. · Shepherd of the Hills Lutheran · 395 Addison Street · San Francisco
 Fecha: 2026-12-21 - 2026-12-24
 Edad: 5–8
-Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Idioma de la página EN; no hay ninguna declaración directa sobre el idioma del maestro en las secciones seleccionadas.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · USD465; aftercare +105 · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-restricciones: Matvey: en diciembre 2026 a Matvey 8–9: Sólo que aún no . 8, sin promesa de excepción. Oscar: 5–6 años corresponde 5–8. Gastos adicionales: almuerzo/de comida/el agua su propia, vivienda y carretera por separado. al segundo hijo./la segunda semana -USD10; no se conoce la compatibilidad de los descuentos. el pago: 25% el anticipo a la cuenta del precio; el resto automáticamente 4 diciembre 2026. hasta 1 el regreso sin USD25/camp; después de 1 de diciembre y ≥semanas antes del inicio — crédito hasta septiembre 2027 sin USD25; dentro de una semana sin crédito/de regreso. En verdad 1 diciembre no se ha aclarado. la cancelación por parte del operador de-por health orders 90% refund+10% credit; otra cancelación por el operador de la elección de la devolución completa/de crédito.
+Limitaciones: Matvey: Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción. Oscar: Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto. Suplementos: almuerzo/desayuno/agua suyo, vivienda y camino por separado. segundo niño/segunda semana -USD10; no se conoce la compatibilidad de los descuentos. Pago: 25% el anticipo a la cuenta del precio; el resto automáticamente 4 diciembre 2026. hasta 1 el regreso sin USD25/camp; después de 1 de diciembre y ≥semanas antes del inicio — crédito hasta septiembre 2027 sin USD25; dentro de una semana sin crédito/de regreso. En verdad 1 diciembre no se ha aclarado. la cancelación por parte del operador de-por health orders 90% refund+10% credit; otra cancelación por el operador de la elección de la devolución completa/de crédito.
 Fuente: https://www.techknowhowkids.com/sf-glen-park
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP737-20261228-20261230-sunset · TechKnowHow · Winter 2026 · Pokémon LEGO Masters · Pokémon LEGO Masters /3 day ~ 2026-12-28-2026-12-30
 
 Lugar: Estados Unidos · George y Tula Christopher Center · 999 Brotherhood Way · San Francisco
 Fecha: 2026-12-28 — 2026-12-30
 Edad: 5–8
-Matway: Condicional; comprobar la edad, clase y admisión
-Oscar: Sí por edad; inscripción separada
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
 Formato: day_camp
 Idioma: Idioma de la página EN; no hay ninguna declaración directa sobre el idioma del maestro en las secciones seleccionadas.
 Marca de idioma: unconfirmed; apoyo: no declarado
 Costo: 2026/27 · USD355; aftercare +80 · Suplementos y condiciones en el expediente
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
-restricciones: Matvey: en diciembre 2026 a Matvey 8–9: Sólo que aún no . 8, sin promesa de excepción. Oscar: 5–6 años corresponde 5–8. Gastos adicionales: almuerzo/de comida/el agua su propia, vivienda y carretera por separado. al segundo hijo./la segunda semana -USD10; no se conoce la compatibilidad de los descuentos. el pago: 25% el anticipo a la cuenta del precio; el resto automáticamente 4 diciembre 2026. hasta 1 el regreso sin USD25/camp; después de 1 de diciembre y ≥semanas antes del inicio — crédito hasta septiembre 2027 sin USD25; dentro de una semana sin crédito/de regreso. En verdad 1 diciembre no se ha aclarado. la cancelación por parte del operador de-por health orders 90% refund+10% credit; otra cancelación por el operador de la elección de la devolución completa/de crédito.
+Limitaciones: Matvey: Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción. Oscar: Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto. Suplementos: almuerzo/desayuno/agua suyo, vivienda y camino por separado. segundo niño/segunda semana -USD10; no se conoce la compatibilidad de los descuentos. Pago: 25% el anticipo a la cuenta del precio; el resto automáticamente 4 diciembre 2026. hasta 1 el regreso sin USD25/camp; después de 1 de diciembre y ≥semanas antes del inicio — crédito hasta septiembre 2027 sin USD25; dentro de una semana sin crédito/de regreso. En verdad 1 diciembre no se ha aclarado. la cancelación por parte del operador de-por health orders 90% refund+10% credit; otra cancelación por el operador de la elección de la devolución completa/de crédito.
 Fuente: https://www.techknowhowkids.com/sf-sunset
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP738-20261221-20261223-sunset · TechKnowHow · Winter 2026 · Minecraft Big Builders · Minecraft Big Builders /3 días · 2026-12-21–2026-12-23
 
@@ -57684,6 +57684,182 @@ Precio: Fechas nuevas, plazas y factura final sin confirmar.
 Acceso: Confirmar curso real, edad de corte, colegio / club extranjero, composición, idioma de trabajo y plazas. Sin solicitudes, cuentas, mensajes, consentimientos ni pagos.
 Limitaciones: AI, machine learning, 3D printing, drones, Arduino, Raspberry Pi, basic robotics e image processing. Preparación del festival; fechas, coste y grupos infantiles EN / ES sin confirmar.
 Fuente: https://yantra.ran.org.np/event/yantra-learning
+Se ha comprobado: 2026-11-06
+
+### L559 · STEM For Kids Ethiopia · Beginner
+
+lugar: Etiopía · Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+edad: 4–17 programme page; homepage also says 4–18
+Matvey: Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: ETB 5750 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Track inicial: Programming I / II y Robotics I; materiales, kits y clases semanales incluidos según FAQ. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.
+Fuente: https://stemforkids.et/programs
+Se ha comprobado: 2026-11-06
+
+### L560 · STEM For Kids Ethiopia · Advanced
+
+lugar: Etiopía · Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+edad: 4–17 programme page; homepage also says 4–18
+Matvey: Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: ETB 7187.5 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Track avanzado: Robotics II, Python, Raspberry Pi y Web Development; curso concreto y nivel de entrada se eligen aparte. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.
+Fuente: https://stemforkids.et/programs
+Se ha comprobado: 2026-11-06
+
+### L561 · STEM For Kids Ethiopia · Private Class
+
+lugar: Etiopía · Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+edad: 4–17 programme page; homepage also says 4–18
+Matvey: Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: ETB 73400 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Grupo organizado de hasta 6 alumnos, en casa o centro, con horario acordado y curso elegido. Precio indicado para Private Class; unidad por alumno / grupo entero y factura final sin aclarar. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.
+Fuente: https://stemforkids.et/programs
+Se ha comprobado: 2026-11-06
+
+### L562 · Netro · Kidz in Tech · Holiday Bootcamp
+
+lugar: Zimbabue · Zimbabue · sede del siguiente turno por confirmar
+Fecha: Duración anunciada de 2 semanas; días siguientes sin publicar.
+edad: 6–17
+Matvey: Ahora 9 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: Ahora 6 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma.
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Vacaciones de dos semanas: código, electrónica, drones y construcción de proyectos. Operador también apoya equipos escolares; sin promesa de clasificación mundial concreta. Certificación docente de tres días es otro programa para adultos.
+Fuente: https://www.netrozim.co.zw/kit
+Se ha comprobado: 2026-11-06
+
+### L563 · Elab · Holiday Robotics / Drone / AI Camps
+
+lugar: Zimbabue · Office W8-9 · Bervic Building · 9 Selkirk Road · Eastlea · Harare; camp venue TBD
+Fecha: Duración habitual de 1 semana; calendario sin eventos próximos al verificar.
+edad: Edad sin publicar
+Matvey: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Oscar: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Campamentos vacacionales semanales de robots, drones e IA, clubes escolares y mentoría. Calendario sin eventos próximos. Edad de alumno en testimonio y dirección de oficina no sustituyen reglas de admisión y sede del campamento.
+Fuente: https://elabrobotics.co.zw/
+Se ha comprobado: 2026-11-06
+
+### L564 · Hundred Tech Academy · Robotics
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 7–17
+Matvey: Ahora 9 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Montaje y código de robots, sensores y mecánica; curso inicial de 8–12 semanas, opción de fines de semana. Kits Arduino-based / LEGO Mindstorms-style proporcionados según FAQ. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
+Se ha comprobado: 2026-11-06
+
+### L565 · Hundred Tech Academy · Coding & Programming
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 7–17
+Matvey: Ahora 9 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Juegos, aplicaciones y webs con Scratch / Python; confirmar nivel y herramienta real del grupo menor. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
+Se ha comprobado: 2026-11-06
+
+### L566 · Hundred Tech Academy · Electronics for Kids
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 9–17
+Matvey: Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma.
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Circuitos y dispositivos electrónicos propios. Matvey de nueve años es candidato por edad, Oscar de seis menor del mínimo publicado. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
+Se ha comprobado: 2026-11-06
+
+### L567 · Hundred Tech Academy · Arduino for Kids
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 10–17
+Matvey: No ahora; etapa futura
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Microcontroladores, sensores y motores. Ambos menores de 10; etapa futura, no admisión actual. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
+Se ha comprobado: 2026-11-06
+
+### L568 · Hundred Tech Academy · Python for Kids
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 10–17
+Matvey: No ahora; etapa futura
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Curso específico de Python con mínimo de 10 años. No trasladar edad menor de Coding & Programming general. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
+Se ha comprobado: 2026-11-06
+
+### L569 · Hundred Tech Academy · Cyber Security for Kids
+
+lugar: Zimbabue · No. 32 Jason Moyo · Harare; Highfields partner venue TBD
+Fecha: Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.
+Edad: 10–17
+Matvey: No ahora; etapa futura
+Oscar: No ahora; etapa futura
+Formato: individual
+Idioma: Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Fechas siguientes, precio y plazas sin establecer.
+Acceso: Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Seguridad en internet y conceptos iniciales de ethical hacking. Programa lectivo con certificado; no acredita puesto competitivo. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.
+Fuente: https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/
 Se ha comprobado: 2026-11-06
 
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real

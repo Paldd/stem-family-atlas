@@ -6,9 +6,9 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5771; competiciones: 1922; eventos: 252; campamentos / programas: 3597. Perfiles de ligas y programas: 218. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5788; competiciones: 1928; eventos: 252; campamentos / programas: 3608. Perfiles de ligas y programas: 220. Fichas de exposiciones grandes y especializadas: 160 — son ediciones y sedes, no cantidad de marcas únicas.
 
-Hay registros concretos de 126 de 249 países y territorios; países auditados por completo: 0. Pasada archivada v51: añadidas 21 fichas y 3 perfiles. Todas las fichas anteriores conservadas.
+Hay registros concretos para 128 de 249 países y territorios; países completamente auditados: 0. Revisión histórica v51: añadidas 21 fichas, 3 perfiles. Todas las fichas anteriores conservadas.
 
 ## Cobertura por continentes
 
@@ -17,13 +17,13 @@ Hay registros concretos de 126 de 249 países y territorios; países auditados p
 | América del Norte | 19 | 615 | 20 | 991 |
 | América del Sur | 10 | 159 | 7 | 113 |
 | Europa | 41 | 376 | 52 | 1246 |
-| África | 16 | 73 | 7 | 42 |
+| África | 18 | 79 | 7 | 53 |
 | Asia | 36 | 528 | 71 | 1083 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
 Fichas interregionales / globales sin atribuir a un continente: 80. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de la base, no porcentaje de exhaustividad.
 
-VEX: 518 de 1922 fichas de competiciones (27.0%). Hay un claro desequilibrio de cobertura.
+VEX: 518 de 1928 fichas competitivas (26.9%). Existe un claro desequilibrio de cobertura.
 
 ## Lo que queda
 
@@ -311,6 +311,8 @@ VEX: 518 de 1922 fichas de competiciones (27.0%). Hay un claro desequilibrio de 
 - **MakerVerse · Nepal**: 5 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://makerverse.skilltootr.com/
 - **Codeavour · Nepal Nationals**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://codeavour.org/event/nepal-nationals/
 - **WRO · Maldives / IGS**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://igs.mv/wro/
+- **WRO · Ethiopia / STEMpower**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.stempower.org/
+- **WRO · Zimbabwe / Girls in STEM Trust**: 2 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://girlsinstemtrust.org/
 
 ## Grandes exposiciones: tarjetas de identidad
 

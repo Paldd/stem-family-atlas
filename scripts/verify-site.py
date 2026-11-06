@@ -27,6 +27,15 @@ for profile in web['league_guide']['profiles']:
 profiles = web['camp_programmes']['profiles']
 assert len({p['slug'] for p in profiles}) == len(profiles)
 assert web['camp_programmes']['counts']['dossiers'] == len(profiles)
+camp_markdown=(DIST/'downloads/STEM_camp_programmes_deep_2026_2027.md').read_text()
+markdown_ids=re.findall(r'^## (CP\d+) · ',camp_markdown,re.M)
+assert len(markdown_ids)==len(profiles) and set(markdown_ids)=={p['id'] for p in profiles}, 'Detailed camp report is stale or incomplete'
+markdown_parts=re.split(r'^## (CP\d+) · ',camp_markdown,flags=re.M)
+markdown_blocks=dict(zip(markdown_parts[1::2],markdown_parts[2::2]))
+for profile in profiles:
+    block=markdown_blocks[profile['id']]
+    assert profile['programme'] in block, profile['id']+' programme missing from detailed report'
+    assert all(s['url'] in block for s in profile['sources']), profile['id']+' source missing from detailed report'
 assert (DIST / 'assets/directions.js').is_file()
 
 class Links(HTMLParser):

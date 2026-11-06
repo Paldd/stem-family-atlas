@@ -30,14 +30,14 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1437,
-    "countries": 75,
+    "dossiers": 1448,
+    "countries": 77,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 127,
-      "next_unannounced": 290,
+      "next_unannounced": 301,
       "published_2026": 295,
       "partial_2026_27": 28,
       "partial_2026": 20,
@@ -47,7 +47,7 @@
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1
     },
-    "source_urls": 2093
+    "source_urls": 2103
   },
   "countries": [
     {
@@ -129,6 +129,10 @@
     {
       "country": "República Dominicana",
       "count": 3
+    },
+    {
+      "country": "Zimbabue",
+      "count": 8
     },
     {
       "country": "Indonesia",
@@ -333,6 +337,10 @@
     {
       "country": "Estonia",
       "count": 2
+    },
+    {
+      "country": "Etiopía",
+      "count": 3
     },
     {
       "country": "de la ciudad",
@@ -98401,7 +98409,17 @@
             },
             "date_scope": "day_camp_window",
             "proof": "Propiedad2026tarjeta de producto/fecha/edad/Inglés/incluciones; fechas no2027.",
-            "place": "AISL Harrow Hong Kong ·38 Tsing Ying Rd,Tuen Mun"
+            "place": "AISL Harrow Hong Kong ·38 Tsing Ying Rd,Tuen Mun",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto."
+              }
+            }
           }
         ],
         "variant_keyed": true,
@@ -98417,18 +98435,19 @@
       "accommodation": "Day09–16; vivienda familiar/de día dropoff por separado.",
       "family_fit": {
         "matvey": {
-          "status": "conditional",
-          "detail": "Sólo si hay 8 días más en los días elegidos; después de 9 no se cumple más de 8."
+          "status": "not_eligible",
+          "detail": "Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción."
         },
         "oscar": {
           "status": "conditional",
-          "detail": "Se necesitan 6 años para el 21 de diciembre; hasta 2020 el DOB exacto no se sabe."
+          "detail": "Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto."
         }
       },
       "editorial_reason": "un curso técnico/temático de invierno de EN preciso con un paquete real y una cancelación estricta; para varios niños, diferentes mínimos de campus.",
       "shortlist": [],
       "questions": [
-        "ingreso extranjero/DOB/lugar/localemergencyphone/factura final, contratosxceptions, gear/insurance/ratio/rooms; no se ha creado reserva."
+        "ingreso extranjero/DOB/lugar/localemergencyphone/factura final, contratosxceptions, gear/insurance/ratio/rooms; no se ha creado reserva.",
+        "Edad 6–8 releída mediante lector web oficial; GET directo de ficha devolvió HTTP 429. Plazas actuales sin reverificar. Política general exige edad del curso; condiciones de invierno aparte."
       ],
       "sources": [
         {
@@ -98440,9 +98459,14 @@
           "title": "Actualwinter2026refund/change/emergency policy",
           "url": "https://aisloutdoor.com/pages/policies-and-guidelines",
           "checked": "2026-10-05"
+        },
+        {
+          "title": "AISL Outdoor · English medium and age requirement",
+          "url": "https://aisloutdoor.com/pages/general-information",
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -100180,7 +100204,17 @@
             "label": "Pokémon LEGO Masters / 4 de día",
             "price": "USD465; aftercare +105",
             "source": "https://www.techknowhowkids.com/sf-glen-park",
-            "proof": "las fechas del campus junto con el claro Invierno 2026 y el precio datado; la página de inicio de la vieja .com también escribe diciembre 2025."
+            "proof": "las fechas del campus junto con el claro Invierno 2026 y el precio datado; la página de inicio de la vieja .com también escribe diciembre 2025.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto."
+              }
+            }
           },
           {
             "start": "2026-12-28",
@@ -100190,7 +100224,17 @@
             "label": "Pokémon LEGO Masters / 3 de día",
             "price": "USD355; aftercare +80",
             "source": "https://www.techknowhowkids.com/sf-sunset",
-            "proof": "las fechas del campus junto con el claro Invierno 2026 y el precio datado; la página de inicio de la vieja .com también escribe diciembre 2025."
+            "proof": "las fechas del campus junto con el claro Invierno 2026 y el precio datado; la página de inicio de la vieja .com también escribe diciembre 2025.",
+            "family_fit": {
+              "matvey": {
+                "status": "not_eligible",
+                "detail": "Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción."
+              },
+              "oscar": {
+                "status": "conditional",
+                "detail": "Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto."
+              }
+            }
           }
         ],
         "variant_keyed": true,
@@ -100198,7 +100242,7 @@
       },
       "price": {
         "year": 2026,
-        "label": "USD355/3 de día o 465/4 de día; aftercare hasta las 17:00 +80 o +105. para ambos la misma semana de 4 días con aftercare USD1140 hasta posible descuento/otras tarifas.",
+        "label": "USD355/3 días o 465/4 días; aftercare hasta 17:00 +80 o +105. Precio por niño. Matvey mayor de los 5–8 publicados; presupuesto conjunto de hermanos para este curso sin calcular.",
         "included": "computadora/compacto LEGO en las clases, acompañamiento diurno y descansos.",
         "extras": "almuerzo/desayuno/agua suyo, vivienda y camino por separado. segundo niño/segunda semana -USD10; no se conoce la compatibilidad de los descuentos.",
         "deposit": "25% el anticipo a la cuenta del precio; el resto automáticamente 4 diciembre 2026. hasta 1 el regreso sin USD25/camp; después de 1 de diciembre y ≥semanas antes del inicio — crédito hasta septiembre 2027 sin USD25; dentro de una semana sin crédito/de regreso. En verdad 1 diciembre no se ha aclarado. la cancelación por parte del operador de-por health orders 90% refund+10% credit; otra cancelación por el operador de la elección de la devolución completa/de crédito."
@@ -100206,12 +100250,12 @@
       "accommodation": "programa de día; vivienda familiar y carretera por separado.",
       "family_fit": {
         "matvey": {
-          "status": "conditional",
-          "detail": "en diciembre 2026 a Matvey 8–9: Sólo que aún no . 8, sin promesa de excepción."
+          "status": "not_eligible",
+          "detail": "Matvey ya tiene 9 años; límite superior de este curso 8. No ofrecer como track compatible ni suponer excepción."
         },
         "oscar": {
-          "status": "candidate",
-          "detail": "5–6 años corresponde 5–8."
+          "status": "conditional",
+          "detail": "Oscar ya tiene 6 años: edad publicada compatible. Confirmar plaza, admisión extranjera y turno concreto."
         }
       },
       "editorial_reason": "El programa técnico de invierno más reciente es real; las plataformas, la duración y los gastos se dividen por campus.",
@@ -100220,41 +100264,42 @@
       ],
       "questions": [
         "confirmar la recepción individual de los niños extranjeros, la edad para comenzar, la disponibilidad de puestos, la lengua del profesor y la cuenta final.",
-        "No se debe aplicar el anticuado FAQ.com con créditos en línea y 10:1 a la nueva tarifa 2026."
+        "No se debe aplicar el anticuado FAQ.com con créditos en línea y 10:1 a la nueva tarifa 2026.",
+        "Páginas actuales de Glen Park y Sunset confirman intervalos, direcciones y precios previos. Página general Pokémon mezcla otras sedes y filas de 3/4 días; sus 4 días no trasladados a Sunset."
       ],
       "sources": [
         {
           "title": "Winter 2026: contenido / edad",
           "url": "https://www.techknowhowkids.com/winter-camps",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "el curso elegido y la asignación del campus",
           "url": "https://www.techknowhowkids.com/poke-party",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Glen Park: fechas/precios/dirección",
           "url": "https://www.techknowhowkids.com/sf-glen-park",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Sunset: fecha/precio/dirección",
           "url": "https://www.techknowhowkids.com/sf-sunset",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "nuevo precio de invierno datado y el retorno",
           "url": "https://www.techknowhowkids.com/pricing",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Nuevo FAQ: ratio/gear/meal",
           "url": "https://www.techknowhowkids.com/faqs",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -229211,6 +229256,811 @@
           ]
         }
       ]
+    },
+    {
+      "id": "CP1438",
+      "slug": "stem-for-kids-ethiopia-beginner",
+      "provider": "STEM For Kids Ethiopia · Beginner",
+      "iso": "ETH",
+      "country": "Etiopía",
+      "place": "Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–17 en página de programas; portada también indica 4–18",
+      "programme": "Track inicial: Programming I / II y Robotics I; materiales, kits y clases semanales incluidos según FAQ. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "ETB",
+        "amount": 5750,
+        "unit": "child_per_month",
+        "label": "ETB 5750 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.",
+        "included": "Track inicial: Programming I / II y Robotics I; materiales, kits y clases semanales incluidos según FAQ.",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Beginner / Advanced: web anuncia con pago de 3 meses 5% sibling + 5% retained-student. Aplicación a familia nueva y forma de combinar aparte; sin descuento automático. Cancelación sin establecer."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "STEM For Kids · programmes",
+          "url": "https://stemforkids.et/programs",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · pricing",
+          "url": "https://stemforkids.et/pricing",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · centres",
+          "url": "https://stemforkids.et/contactus",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1439",
+      "slug": "stem-for-kids-ethiopia-advanced",
+      "provider": "STEM For Kids Ethiopia · Advanced",
+      "iso": "ETH",
+      "country": "Etiopía",
+      "place": "Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–17 en página de programas; portada también indica 4–18",
+      "programme": "Track avanzado: Robotics II, Python, Raspberry Pi y Web Development; curso concreto y nivel de entrada se eligen aparte. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "ETB",
+        "amount": 7187.5,
+        "unit": "child_per_month",
+        "label": "ETB 7187.5 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.",
+        "included": "Track avanzado: Robotics II, Python, Raspberry Pi y Web Development; curso concreto y nivel de entrada se eligen aparte.",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Beginner / Advanced: web anuncia con pago de 3 meses 5% sibling + 5% retained-student. Aplicación a familia nueva y forma de combinar aparte; sin descuento automático. Cancelación sin establecer."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "STEM For Kids · programmes",
+          "url": "https://stemforkids.et/programs",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · pricing",
+          "url": "https://stemforkids.et/pricing",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · centres",
+          "url": "https://stemforkids.et/contactus",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1440",
+      "slug": "stem-for-kids-ethiopia-private",
+      "provider": "STEM For Kids Ethiopia · Private Class",
+      "iso": "ETH",
+      "country": "Etiopía",
+      "place": "Summit AICC / Flamingo Youth Center / Varnero · Addis Ababa",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "4–17 en página de programas; portada también indica 4–18",
+      "programme": "Grupo organizado de hasta 6 alumnos, en casa o centro, con horario acordado y curso elegido. Precio indicado para Private Class; unidad por alumno / grupo entero y factura final sin aclarar. Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada. Edad 4–17 corresponde al programa general y no garantiza igual admisión en cada curso. Homepage también indica 4–18; ambos límites superiores superan edades actuales de familia. Sin promesa separada de fechas de campamento o idioma docente.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "ETB",
+        "amount": 73400,
+        "unit": "private_plan_month_unit_unconfirmed",
+        "label": "ETB 73400 al mes, VAT incluido, según plan publicado. Año de tarifa sin indicar.",
+        "included": "Grupo organizado de hasta 6 alumnos, en casa o centro, con horario acordado y curso elegido. Precio indicado para Private Class; unidad por alumno / grupo entero y factura final sin aclarar.",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 4–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "STEM For Kids · programmes",
+          "url": "https://stemforkids.et/programs",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · pricing",
+          "url": "https://stemforkids.et/pricing",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "STEM For Kids · centres",
+          "url": "https://stemforkids.et/contactus",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1441",
+      "slug": "netro-zimbabwe-holiday-bootcamp",
+      "provider": "Netro · Kidz in Tech · Holiday Bootcamp",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "Zimbabue · sede del siguiente turno por confirmar",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "6–17",
+      "programme": "Vacaciones de dos semanas: código, electrónica, drones y construcción de proyectos. Operador también apoya equipos escolares; sin promesa de clasificación mundial concreta. Certificación docente de tres días es otro programa para adultos.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Duración anunciada de 2 semanas; días siguientes sin publicar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "conditional",
+          "detail": "Ahora 6 años; intervalo publicado 6–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Netro · Kidz in Tech",
+          "url": "https://www.netrozim.co.zw/kit",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1442",
+      "slug": "elab-zimbabwe-holiday-robotics",
+      "provider": "Elab · Holiday Robotics / Drone / AI Camps",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "Office W8-9 · Bervic Building · 9 Selkirk Road · Eastlea · Harare; camp venue TBD",
+      "themes": [
+        "robotics",
+        "ai",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Edad sin publicar",
+      "programme": "Campamentos vacacionales semanales de robots, drones e IA, clubes escolares y mentoría. Calendario sin eventos próximos. Edad de alumno en testimonio y dirección de oficina no sustituyen reglas de admisión y sede del campamento.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Duración habitual de 1 semana; calendario sin eventos próximos al verificar.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Elab · programmes",
+          "url": "https://elabrobotics.co.zw/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Elab · event calendar",
+          "url": "https://elabrobotics.co.zw/events/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1443",
+      "slug": "hundred-tech-zimbabwe-robotics",
+      "provider": "Hundred Tech Academy · Robotics",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–17",
+      "programme": "Montaje y código de robots, sensores y mecánica; curso inicial de 8–12 semanas, opción de fines de semana. Kits Arduino-based / LEGO Mindstorms-style proporcionados según FAQ. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1444",
+      "slug": "hundred-tech-zimbabwe-coding",
+      "provider": "Hundred Tech Academy · Coding & Programming",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "coding",
+        "games"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–17",
+      "programme": "Juegos, aplicaciones y webs con Scratch / Python; confirmar nivel y herramienta real del grupo menor. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 7–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1445",
+      "slug": "hundred-tech-zimbabwe-electronics",
+      "provider": "Hundred Tech Academy · Electronics for Kids",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "engineering",
+        "maker"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–17",
+      "programme": "Circuitos y dispositivos electrónicos propios. Matvey de nueve años es candidato por edad, Oscar de seis menor del mínimo publicado. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Ahora 9 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 9–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1446",
+      "slug": "hundred-tech-zimbabwe-arduino",
+      "provider": "Hundred Tech Academy · Arduino for Kids",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "robotics",
+        "engineering",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–17",
+      "programme": "Microcontroladores, sensores y motores. Ambos menores de 10; etapa futura, no admisión actual. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ahora 9 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1447",
+      "slug": "hundred-tech-zimbabwe-python",
+      "provider": "Hundred Tech Academy · Python for Kids",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–17",
+      "programme": "Curso específico de Python con mínimo de 10 años. No trasladar edad menor de Coding & Programming general. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ahora 9 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1448",
+      "slug": "hundred-tech-zimbabwe-cybersecurity",
+      "provider": "Hundred Tech Academy · Cyber Security for Kids",
+      "iso": "ZWE",
+      "country": "Zimbabue",
+      "place": "No. 32 Jason Moyo · Harare; Highfields partner venue TBD",
+      "themes": [
+        "technology",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "10–17",
+      "programme": "Seguridad en internet y conceptos iniciales de ethical hacking. Programa lectivo con certificado; no acredita puesto competitivo. Página contiene banner general de 4–17, pero fichas de cursos indican mínimo superior. Se aplica mínimo del curso para admisión; horario nuevo y excepciones sin confirmar.",
+      "language": "Web en inglés; idioma docente y apoyo EN / ES / RU para el menor elegido sin confirmar.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Curso regular; fechas exactas del nuevo grupo y turno vacacional sin publicar. Enseñanza diurna sin residencia confirmada.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "USD",
+        "amount": null,
+        "unit": "programme",
+        "label": "Fechas siguientes, precio y plazas sin establecer.",
+        "included": "",
+        "extras": "Alojamiento familiar, transporte, comidas fuera de inclusiones y seguro aparte. Precio desconocido no equivale a cero.",
+        "deposit": "Fechas nuevas, plazas y factura final sin confirmar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "later",
+          "detail": "Ahora 9 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        },
+        "oscar": {
+          "status": "later",
+          "detail": "Ahora 6 años; intervalo publicado 10–17. Confirmar edad del nuevo turno, nivel e idioma."
+        }
+      },
+      "editorial_reason": "Certificado de participación, muestra lectiva, puesto competitivo y cupo internacional son resultados distintos. Valoración editorial no es ranking mundial independiente.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar admisión individual de menor extranjero, edad / curso, idioma docente, plaza y factura final. Sin solicitudes, mensajes, consentimientos ni pagos."
+      ],
+      "sources": [
+        {
+          "title": "Hundred Tech · course ages and FAQ",
+          "url": "https://robotics.co.zw/kids-tech/robotics-for-kids-highfields/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · children curriculum",
+          "url": "https://robotics.co.zw/courses-for-kids/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "Hundred Tech · main address",
+          "url": "https://robotics.co.zw/contact/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -234456,7 +235306,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 181,
+  "version": 182,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",

@@ -1,0 +1,166 @@
+{
+  "version": 182,
+  "checked": "2026-11-06",
+  "countries": [
+    "ETH",
+    "ZWE"
+  ],
+  "programme_ids": [
+    "CP1438",
+    "CP1439",
+    "CP1440",
+    "CP1441",
+    "CP1442",
+    "CP1443",
+    "CP1444",
+    "CP1445",
+    "CP1446",
+    "CP1447",
+    "CP1448"
+  ],
+  "course_and_holiday_formats_separate": true,
+  "language_of_all_new_local_programmes_unconfirmed": true,
+  "Ethiopia": {
+    "WRO_operator": "STEMpower",
+    "completed_training_age": [
+      8,
+      19
+    ],
+    "completed_project_students": 600,
+    "next_season_dates_and_foreign_entry_unconfirmed": true,
+    "regular_provider": "STEM For Kids Ethiopia",
+    "beginner_ETB_month_VAT_included": 5750,
+    "advanced_ETB_month_VAT_included": 7187.5,
+    "private_ETB_month_VAT_included": 73400,
+    "private_max_group": 6,
+    "private_price_per_child_or_group_not_explicit": true,
+    "monthly_price_year_unstated": true,
+    "programmes_age": [
+      4,
+      17
+    ],
+    "homepage_age_conflict": [
+      4,
+      18
+    ],
+    "materials_and_kits_included": true,
+    "sibling_retained_discounts_not_automatically_deducted": true,
+    "no_upcoming_event_listings": true
+  },
+  "Zimbabwe": {
+    "WRO_2024_provincial_then_national": true,
+    "report_published": "2024-07-01",
+    "exact_competition_day_not_stated": true,
+    "Junior_Senior_numeric_age_not_stated": true,
+    "brand_name_does_not_prove_gender_gate": true,
+    "next_WRO_season_unconfirmed": true,
+    "Netro_bootcamp_weeks": 2,
+    "Netro_age": [
+      6,
+      17
+    ],
+    "Elab_typical_weeks": 1,
+    "Elab_age_not_published": true,
+    "Elab_calendar_no_upcoming_events": true,
+    "Hundred_academy_banner": [
+      4,
+      17
+    ],
+    "Hundred_course_ages": {
+      "robotics": [
+        7,
+        17
+      ],
+      "coding": [
+        7,
+        17
+      ],
+      "electronics": [
+        9,
+        17
+      ],
+      "arduino": [
+        10,
+        17
+      ],
+      "python": [
+        10,
+        17
+      ],
+      "cybersecurity": [
+        10,
+        17
+      ]
+    },
+    "Hundred_main_address": "No. 32 Jason Moyo, Harare",
+    "Hundred_Highfields_partner_location_unconfirmed": true,
+    "Mator": {
+      "month_days": "9–11 December",
+      "year_not_stated": true,
+      "hours": "09:00–15:30",
+      "age": [
+        8,
+        19
+      ],
+      "team_size": 3,
+      "kit_provided": true,
+      "own_food": true,
+      "fee_USD": 30,
+      "fee_unit_and_year_unconfirmed": true,
+      "prizes_up_to_USD": 100,
+      "generic_contact_form_not_event_enrollment": true,
+      "no_calendar_dates_inferred_from_copyright": true
+    },
+    "TME": {
+      "report_published": "2026-01-09",
+      "camp_month": "2025-12",
+      "student_count_not_age": 16,
+      "school_venue_not_gender_or_age_gate": true,
+      "next_camp_and_qualifier_unconfirmed": true
+    }
+  },
+  "history": {
+    "new_result_rows": 11,
+    "new_entities": 11,
+    "school_admission_dossiers_added": 0,
+    "all_national_not_world_awards": true,
+    "individual_enthusiasm_award_not_counted_as_school_competition_win": true,
+    "ECA_source": "https://uneca.org/eca-events/stories/ethiopia-and-tanzania-young-innovators-shine-national-finals-ahead-world-robot-olympiad",
+    "ECA_direct_GETs_404": true,
+    "ECA_official_indexed_reader_available": true,
+    "Ethiopia_competition_day": "2024-10-04",
+    "ECA_report_published": "2024-10-07",
+    "one_season_not_five_ten_year_leadership": true
+  },
+  "family_age_fixes": {
+    "known_ages": {
+      "matvey": 9,
+      "oscar": 6
+    },
+    "refreshed_dossiers": [
+      "CP720",
+      "CP737"
+    ],
+    "Matvey_over_maximum_8": true,
+    "Oscar_numerically_fits": true,
+    "old_session_days_and_fees_preserved": true,
+    "Harrow_direct_product_429_disclosed": true,
+    "TechKnowHow_live_campus_dates_take_precedence_over_ambiguous_general_product_rows": true
+  },
+  "excluded_leads": [
+    {
+      "provider": "iCog Labs",
+      "reason": "Current AI company and university / early-career historical programmes; no verified child holiday camp or 6/9 admission."
+    },
+    {
+      "provider": "STEM For Kids franchise expo",
+      "reason": "General franchise fair is not evidence of a major robotics / AI family exhibition."
+    },
+    {
+      "provider": "Generic adult professional-course SEO pages",
+      "reason": "Not local child programmes; no verified child age / local event."
+    }
+  ],
+  "raw_source_bodies_private": true,
+  "worldwide_complete": false
+}

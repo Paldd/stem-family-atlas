@@ -19,6 +19,10 @@ missing=(collect_pool()|english_pool())-dictionary.keys();assert not missing,rep
 read=lambda base:json.loads((base/'assets/data.js').read_text().removeprefix('window.STEM_DATA=').rstrip(';\n'))
 ru=read(DIST);es=read(ES)
 assert ru.keys()==es.keys()
+for base,data in [(DIST,ru),(ES,es)]:
+    md=(base/'downloads/STEM_camp_programmes_deep_2026_2027.md').read_text()
+    ids=re.findall(r'^## (CP\d+) · ',md,re.M)
+    assert len(ids)==len(data['camp_programmes']['profiles']) and set(ids)=={p['id'] for p in data['camp_programmes']['profiles']}, 'Detailed camp report is stale or incomplete: '+str(base)
 numeric=re.compile(r'\d+(?:[.,]\d+)*')
 for source,target in dictionary.items():
     assert not RU.search(target), 'Untranslated dictionary value: '+source[:120]
