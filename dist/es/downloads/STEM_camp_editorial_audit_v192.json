@@ -1,0 +1,52 @@
+{
+  "version": 192,
+  "checked": "2026-11-06",
+  "status": "partial-editorial-review-and-required-cost-correction",
+  "source_requests": 32,
+  "source_response_hashes_verified": 32,
+  "source_failures": 0,
+  "source_nonprogramme_bodies": 1,
+  "pdf_pages_visually_read": 21,
+  "new_editorial_reviews": 11,
+  "editorial_reviewed": 35,
+  "editorial_refresh_pending": 3,
+  "editorial_review_dossiers": 38,
+  "modified_raw_profile_ids": [
+    "CP002",
+    "CP1164",
+    "CP1165",
+    "CP060",
+    "CP1001",
+    "CP1002",
+    "CP018",
+    "CP477",
+    "CP479",
+    "CP175",
+    "CP1493"
+  ],
+  "new_camp_dossiers": 0,
+  "new_event_records": 0,
+  "new_budget_offers": 6,
+  "modified_prior_budget_offers": [
+    "enforex-madrid-two-day",
+    "enforex-elviria-two-day"
+  ],
+  "camp_dossiers": 1497,
+  "events": 6031,
+  "budget_offers": 179,
+  "external_institutional_sources": 5,
+  "independent_parent_review_sets": 0,
+  "camp_specific_independent_inspections_confirmed": 0,
+  "full_trip_value_rankings": 0,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "all_original_18_requirements_retained": true,
+  "source_receipts": "data/camp-editorial-source-receipts-v192.json",
+  "mandatory_bus_correction": "Barcelona Beach, Madrid y Marbella Elviria: el transporte diario es obligatorio según la nota 1 de la tabla de 2027. Para dos niños por 2 semanas, el importe conocido es EUR 2970, incluida la primera inscripción y el autobús; no se conoce el presupuesto familiar completo.",
+  "limitations": [
+    "La acreditación institucional y la afiliación corresponden a la escuela o centro de idiomas, no automáticamente al campamento de 2027.",
+    "No se han establecido reseñas independientes de padres ni el personal real del turno elegido.",
+    "Todos los demás programas, países, competiciones, exposiciones, escuelas y rutas permanecen dentro del alcance del objetivo principal."
+  ],
+  "no_messages_forms_enrollment_agreements_or_payments": true
+}

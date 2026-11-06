@@ -17,6 +17,7 @@ for(const lang of ['', 'es/']){
  let ui=fs.readFileSync(path.join(base,'assets/camp-programmes.js'),'utf8');const end=' init();\n})();';assert(ui.includes(end));
  ui=ui.replace(end,' window.TEST_CAMP_UI={filtered,card,editorialSummary,editorialDetails,editorialMethod,state:cs,setGuide:value=>{guide=value;}};\n})();');
  vm.runInContext(ui,context);const U=context.window.TEST_CAMP_UI;U.setGuide(guide);
+ const editorialFile='STEM_camp_editorial_selection_v'+selection.version+'.json';assert(U.editorialMethod().includes(editorialFile),'Editorial download must refer to the current reviewed collection');assert.deepEqual(JSON.parse(fs.readFileSync(path.join(base,'downloads',editorialFile),'utf8')),selection);
  const reset=()=>Object.assign(U.state,{query:'',country:'',theme:'',format:'',child:'',phase:'',language:'',month:'',sort:'listed',review:''});
  reset();assert.equal(U.filtered().length,guide.profiles.length,'Editorial feature must retain all dossiers');
  U.state.review='reviewed';assert.equal(U.filtered().length,selection.reviews.length);

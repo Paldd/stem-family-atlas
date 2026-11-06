@@ -1,0 +1,389 @@
+[
+  {
+    "key": "lg-home",
+    "url": "https://www.la-garenne.ch/summer-camps/",
+    "checked_at": "2026-11-06T22:17:50.363797+00:00",
+    "status": 200,
+    "final_url": "https://www.la-garenne.ch/summer-camps/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 558807,
+    "sha256": "7a41fbbe33ce61e405fdea5ddb5f4774c5398e9599c4282b7b7a5a2b85c9d8fd",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "lg-workshop",
+    "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+    "checked_at": "2026-11-06T22:17:50.364194+00:00",
+    "status": 200,
+    "final_url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+    "content_type": "application/pdf",
+    "bytes": 832801,
+    "sha256": "217deee990f780b35631cabae1847d869f576f4fe6812b69187b177bcad0005f",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      2,
+      4
+    ]
+  },
+  {
+    "key": "lg-terms",
+    "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+    "checked_at": "2026-11-06T22:17:50.364287+00:00",
+    "status": 200,
+    "final_url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+    "content_type": "application/pdf",
+    "bytes": 1074363,
+    "sha256": "114a583a8a6a573e2e16e8f320767ba97f606301afbf7cf1b9632ad749d0b536",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      3,
+      4,
+      8,
+      9
+    ]
+  },
+  {
+    "key": "lg-form",
+    "url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+    "checked_at": "2026-11-06T22:17:50.364350+00:00",
+    "status": 200,
+    "final_url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 278157,
+    "sha256": "b914142cd0bf80c7634d051e0f23afa86ec52e9030627a46fdd4e26a5f0101bd",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "enforex-brochure",
+    "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+    "checked_at": "2026-11-06T22:17:50.364653+00:00",
+    "status": 200,
+    "final_url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+    "content_type": "application/pdf",
+    "bytes": 3123082,
+    "sha256": "1125738ac97170565cf90c5244ecda08b70088a6d12833d956a60e992caba8fb",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      11,
+      12,
+      22,
+      33,
+      35,
+      25,
+      28
+    ]
+  },
+  {
+    "key": "enforex-barcelona",
+    "url": "https://www.enforex.com/en/summer-camps/barcelona",
+    "checked_at": "2026-11-06T22:17:51.875674+00:00",
+    "status": 200,
+    "final_url": "https://www.enforex.com/en/summer-camps/barcelona",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 1836352,
+    "sha256": "566032fd37673e48b6a1ba00a598a6f86faa9ef4a87bd8026a3a8439de891e45",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "ww-summer",
+    "url": "https://www.wanderandwonderclub.com/summer-camp",
+    "checked_at": "2026-11-06T22:17:51.984718+00:00",
+    "status": 200,
+    "final_url": "https://www.wanderandwonderclub.com/summer-camp",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 2184233,
+    "sha256": "4c29cb13092ad97c92a6f6e336574b8ac55a84ad3bd46ec2753684afec081bac",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "ww-shop",
+    "url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
+    "checked_at": "2026-11-06T22:17:52.042909+00:00",
+    "status": 200,
+    "final_url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1614270,
+    "sha256": "46d980e5b129cad476dd060ad0f758043f01954bd055258e1067e92343e1da42",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "ww-holiday",
+    "url": "https://www.wanderandwonderclub.com/holiday-camp",
+    "checked_at": "2026-11-06T22:17:52.071224+00:00",
+    "status": 200,
+    "final_url": "https://www.wanderandwonderclub.com/holiday-camp",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1821053,
+    "sha256": "5b06c5551631bdbe64b0d35c7f63337d987331412e4887bdbf8d77acfa43b9d5",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "ww-terms",
+    "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+    "checked_at": "2026-11-06T22:17:52.322813+00:00",
+    "status": 200,
+    "final_url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1081159,
+    "sha256": "4ddd7e03aab62c2788a6ab90570a6863b9f2daa46174f98f328072eeba559eb3",
+    "read_status": "unfilled_operator_legal_template"
+  },
+  {
+    "key": "lacunza-camp",
+    "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+    "checked_at": "2026-11-06T22:17:53.203166+00:00",
+    "status": 200,
+    "final_url": "https://www.lacunza.es/en/camps/lacunza-camp",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 43822,
+    "sha256": "8559a0cc51cdcc72098c10d3878a74de0a84a9e7a97085d0afdb0ece4eb543e4",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "lacunza-brochure",
+    "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+    "checked_at": "2026-11-06T22:17:53.829426+00:00",
+    "status": 200,
+    "final_url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+    "content_type": "application/pdf",
+    "bytes": 2008665,
+    "sha256": "eafe9e6856916a409e7993f1400163fac13e8ba0e1682d73c42fb0cf13323634",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      4
+    ]
+  },
+  {
+    "key": "lacunza-enrolment",
+    "url": "https://www.lacunza.es/en/camps/camp-enrolment",
+    "checked_at": "2026-11-06T22:17:53.882566+00:00",
+    "status": 200,
+    "final_url": "https://www.lacunza.es/en/camps/camp-enrolment",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 52633,
+    "sha256": "d6a936edb06f076afcacee3d729cbf4e431a509b6e6970add3e67b013873aed9",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "hopla-page",
+    "url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
+    "checked_at": "2026-11-06T22:17:54.454598+00:00",
+    "status": 200,
+    "final_url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1563205,
+    "sha256": "41fdd4b0e8dd63e6042fb22136cdc8668ab6f99ada712c82d327c4fe6e882261",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "hopla-programme",
+    "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+    "checked_at": "2026-11-06T22:17:55.231293+00:00",
+    "status": 200,
+    "final_url": "https://571408dc-9062-42ab-ae40-1b1e50d519e7.filesusr.com/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+    "content_type": "application/pdf",
+    "bytes": 348485,
+    "sha256": "3dec4f983a8264d2d011f0e8d77a2984d9912c99afb045010578a6eecf07b01b",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      1,
+      2,
+      3,
+      8,
+      9
+    ]
+  },
+  {
+    "key": "pref-boarding",
+    "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+    "checked_at": "2026-11-06T22:17:56.069660+00:00",
+    "status": 200,
+    "final_url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+    "content_type": "application/pdf",
+    "bytes": 1038669,
+    "sha256": "3edef0a755379913889d40b78846fc134d4b5d6fa85e3eed04abb2427d3ba13d",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      1
+    ]
+  },
+  {
+    "key": "pref-day",
+    "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+    "checked_at": "2026-11-06T22:17:57.100494+00:00",
+    "status": 200,
+    "final_url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+    "content_type": "application/pdf",
+    "bytes": 944619,
+    "sha256": "1b4690559167a906e6ceb6e2f3250ca392bf77ea55ae54ad70754594544b8c1a",
+    "read_status": "pdf_relevant_pages_read",
+    "pdf_pages_visually_read": [
+      1
+    ]
+  },
+  {
+    "key": "pref-fees",
+    "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+    "checked_at": "2026-11-06T22:17:57.869509+00:00",
+    "status": 200,
+    "final_url": "https://www.prefleuricamps.ch/en/summer-fees/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 184846,
+    "sha256": "304753a78a9cc42a5d2ecbacb37f20a512f1e4e7a24a2b8a1700b5d8243bbe41",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "pref-programme",
+    "url": "https://www.prefleuricamps.ch/en/summer/",
+    "checked_at": "2026-11-06T22:17:58.248483+00:00",
+    "status": 200,
+    "final_url": "https://www.prefleuricamps.ch/en/summer/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 145642,
+    "sha256": "a65b8ae50b3a10da3cf27a09ae5447eb6ca4f8e8ad03d1d3a413c91ee9111ee9",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "pref-terms",
+    "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+    "checked_at": "2026-11-06T22:17:58.344963+00:00",
+    "status": 200,
+    "final_url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 96861,
+    "sha256": "8e8772dc35e214684179ce46ae21b333d157f5b04676db2cb64302aeaad134de",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "kimama-barcelona",
+    "url": "https://www.eng.campkimama.org/barcelona",
+    "checked_at": "2026-11-06T22:17:58.532151+00:00",
+    "status": 200,
+    "final_url": "https://www.eng.campkimama.org/barcelona",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1287873,
+    "sha256": "f2bd6b899aae6af8e9e3ed387ae3cb7855ce88a7c4f0ec302115070406a54c9c",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "kimama-fees",
+    "url": "https://www.eng.campkimama.org/dates-fees",
+    "checked_at": "2026-11-06T22:17:59.055571+00:00",
+    "status": 200,
+    "final_url": "https://www.eng.campkimama.org/dates-fees",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1121272,
+    "sha256": "bee207f6cfa2cf5ff34225a7ad54fd7f076a8c6fafcd24e3e6945d9fa7882029",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "kimama-faq",
+    "url": "https://www.eng.campkimama.org/faq",
+    "checked_at": "2026-11-06T22:17:59.237225+00:00",
+    "status": 200,
+    "final_url": "https://www.eng.campkimama.org/faq",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 896107,
+    "sha256": "c90a16a0fa61765475d942c0027f6ba0cb4d066578187c4f254b5b62c7f517aa",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "kimama-cancellation",
+    "url": "https://www.eng.campkimama.org/cancellation-policy",
+    "checked_at": "2026-11-06T22:17:59.406345+00:00",
+    "status": 200,
+    "final_url": "https://www.eng.campkimama.org/cancellation-policy",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 878586,
+    "sha256": "907c6e777d16c56f90095f261ad6e010a9c0863d67fd0227dd46121e8dd5c86c",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "cis-garenne",
+    "url": "https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland",
+    "checked_at": "2026-11-06T22:20:31.331380+00:00",
+    "status": 200,
+    "final_url": "https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland",
+    "content_type": "texto/html; carcasa=utf-8",
+    "bytes": 30828,
+    "sha256": "c182d5b4c29f5c6dda776c312165f09b659ddb9ac54c9fb2316ae6488339b2ef",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "eaquals-register",
+    "url": "https://www.eaquals.org/our-members/accredited-members/",
+    "checked_at": "2026-11-06T22:20:31.331785+00:00",
+    "status": 200,
+    "final_url": "https://www.eaquals.org/our-members/accredited-members/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 145619,
+    "sha256": "83491d9b96144b3c2e2974b8c60ccc8ffc51bc1b8c264a7024685634d0a3999c",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "cervantes-register",
+    "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+    "checked_at": "2026-11-06T22:20:31.331881+00:00",
+    "status": 200,
+    "final_url": "https://acreditacion.cervantes.es/centros_espana.htm",
+    "content_type": "text/html",
+    "bytes": 85359,
+    "sha256": "16b69f2a1c93cfb1b14190fbcb246bc51fedadb74903767fed89f7e7404325cf",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "sgis-register",
+    "url": "https://www.sgischools.com/member-schools",
+    "checked_at": "2026-11-06T22:20:31.331979+00:00",
+    "status": 200,
+    "final_url": "https://www.sgischools.com/member-schools",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 1207617,
+    "sha256": "804f46954e202976e104c893885c9c842a62bbc3515f8dd1f1f7a270538597b9",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "avdep-prefleuri",
+    "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+    "checked_at": "2026-11-06T22:22:34.986524+00:00",
+    "status": 200,
+    "final_url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 76426,
+    "sha256": "2388ca545d597d00d043f4b54c75fdac1f6e07f2a565bf4c86192b15b59cd6fe",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "eaquals-lacunza",
+    "url": "https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/",
+    "checked_at": "2026-11-06T22:22:34.987098+00:00",
+    "status": 200,
+    "final_url": "https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/",
+    "content_type": "texto/html; conjunto de caracteres=UTF-8",
+    "bytes": 75261,
+    "sha256": "73a30b29f77c8e138fadc83105d5f2e1769708e6bf52799c3cff61396fcfd68b",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "enforex-madrid",
+    "url": "https://www.enforex.com/en/summer-camps/madrid",
+    "checked_at": "2026-11-06T22:29:09.885314+00:00",
+    "status": 200,
+    "final_url": "https://www.enforex.com/en/summer-camps/madrid",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 1837336,
+    "sha256": "16c60a63eb2b831bbeabfd6fa5a03e1be269e9adb056bdc153be82b0f9c7a799",
+    "read_status": "public_body_read"
+  },
+  {
+    "key": "enforex-elviria",
+    "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+    "checked_at": "2026-11-06T22:29:09.885784+00:00",
+    "status": 200,
+    "final_url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 1837873,
+    "sha256": "996f6a16ea8421814af9c58d28e81ba1bf382acf479f32f5466cef50466ef316",
+    "read_status": "public_body_read"
+  }
+]

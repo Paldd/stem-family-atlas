@@ -3116,6 +3116,8 @@ Las plazas, la admisión, el idioma del grupo y la preparación para alojarse si
 
 Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes.
 
+Un registro externo puede confirmar el estatus de una escuela o centro de idiomas. Ese estatus no se aplica automáticamente a un turno de verano, otro campus, un grupo de inglés ni la calidad de su supervisión. Las fuentes institucionales se distinguen de las reseñas independientes de padres.
+
 La valoración del contenido frente al precio total queda aplazada: aún no se conoce el presupuesto familiar completo con todos los gastos obligatorios. Una tarifa parcial y monedas distintas no permiten afirmar qué campamento ofrece el mejor precio.
 
 ## CP001 · Les Elfes International
@@ -3844,7 +3846,7 @@ Para el descanso y la autonomía alpinos; la opción técnica no puede considera
 
 Suiza · Villars-sur-Ollon
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** 5–16; Las opciones técnicas dependen del grupo de edad
 
@@ -3869,6 +3871,66 @@ Suiza · Villars-sur-Ollon
 **Oscar:** El grupo principal más pequeño es adecuado.; Robotics & 3 D Design no confirmado para 6–7 años.
 
 ** Por qué en la selección:** es un buen candidato para un campamento común para los dos con un conocimiento técnico adicional de Matway.
+
+### Análisis editorial
+
+Campamento alpino general con clases de idiomas y una opción técnica breve e independiente para el hijo mayor.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar primero · Vacaciones generales variadas en un campus escolar; elegir el grupo de edad y las condiciones familiares.
+
+**Práctica de idiomas:** Considerar primero · El curso matutino EN/FR forma parte del programa principal; confirmar el nivel y el grupo.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Hay que considerar el sábado de la primera semana, el transporte de regreso y el alojamiento independiente de la familia.
+
+**Primer internado:** Considerar como alternativa · Antes de una estancia sin los padres, conviene aclarar la preparación del menor, la comunicación familiar y las restricciones sobre dispositivos.
+
+**Ingeniería, robótica y programación:** Considerar como alternativa · Opción técnica breve para Matvey dentro de 8–12; deben confirmarse las horas y el idioma, y la opción no está confirmada para Oscar.
+
+**En el futuro:** Considerar como alternativa · El menor puede considerar la opción técnica después del umbral de edad; no se han establecido por separado las fechas de futuras temporadas.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · La base son las clases matutinas de inglés o francés, deporte y excursiones. Un taller aparte describe VEX IQ/V5, Python, diseño 3D y montaje de un altavoz Bluetooth; no se ha publicado el número de horas lectivas.
+
+[fuente oficial](https://www.la-garenne.ch/summer-camps/) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Hay una contradicción · El grupo principal de 5–12 es adecuado para ambos. Las condiciones concretas y el taller indican 8–12, mientras el menú del sitio muestra Robotics para 5–9: no está confirmada la admisión de Oscar a la opción técnica.
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer-camps/) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · Se confirma EN/FR para las clases matutinas de idiomas; no se han establecido por separado el idioma del taller técnico ni el de las demás actividades.
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El sitio anuncia una proporción de niños y personal de 4:1. No se han verificado de forma independiente las cualificaciones ni la composición del equipo técnico del turno elegido.
+
+[fuente oficial](https://www.la-garenne.ch/summer-camps/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Para el alojamiento se anuncian supervisión permanente y controles diarios de bienestar; habitaciones de 4–6. El paquete de día tiene horario y transporte de regreso propios. Las normas limitan el acceso de los padres al campus y prohíben dispositivos GPS.
+
+[fuente oficial](https://www.la-garenne.ch/summer-camps/) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-06
+
+**Precio y condiciones:** Hay una contradicción · La base y los suplementos están publicados: Robotics ofrece 3 sesiones por CHF 500, pero el final del folleto del taller habla de dos sesiones. El seguro y el dinero de bolsillo se añaden aparte; los hermanos deben elegir el mismo formato de día o con alojamiento.
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-06
+
+[fuente oficial](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · CIS anunció la renovación de la acreditación de la escuela el 26 de febrero de 2026; SGIS incluye la escuela en su lista. Es información externa sobre la institución, no una verificación específica del taller de verano de 2027.
+
+[fuente oficial](https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland) · 2026-11-06
+
+[fuente oficial](https://www.sgischools.com/member-schools) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -4066,13 +4128,13 @@ Suiza · Villars-sur-Ollon
 
 ### Fuentes
 
-- [Summer Camp · resumen general](https://www.la-garenne.ch/summer-camps/) · 2026-11-05
+- [Summer Camp · resumen general](https://www.la-garenne.ch/summer-camps/) · 2026-11-06
 
-- [Workshop PDF:8–12, Título de la página 3/finalphrase2, nivel y proyectos](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-10-05
+- [Workshop PDF:8–12, Título de la página 3/finalphrase2, nivel y proyectos](https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf) · 2026-11-06
 
-- [Summer Camp 2027 · conditions / fees / day attendance](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-05
+- [Summer Camp 2027 · conditions / fees / day attendance](https://www.la-garenne.ch/summer/repository/summer-conditions.pdf) · 2026-11-06
 
-- [Read-only form: de las medidas concretas 8–12/500/3](https://www.la-garenne.ch/summer-camps/apply-online/) · 2026-10-05
+- [Read-only form: de las medidas concretas 8–12/500/3](https://www.la-garenne.ch/summer-camps/apply-online/) · 2026-11-06
 
 ## CP003 · Préfleuri Camps
 
@@ -5146,11 +5208,11 @@ Francia - París 17e
 
 España · Castelldefels / Barcelona
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Kids 5*16 a 2027 PDFpage 22/33; la antigua web 5*15 no es actual 2027.
 
-**Idioma:** Curso de inglés o español: 20 de las lecciones aprendidas 45 minutos, Quiero decir, 15 Horas semanales. Niveles A 1–C 2, Grupo 8–16. La versión inglesa está confirmada por el catálogo 2027; El idioma del deporte y la comunicación cotidiana se aclara por separado.
+**Idioma:** Curso de inglés o español: 20 clases de 45 minutos, equivalentes a 15 horas semanales. Niveles A 1–C 2, grupos de 8–16 alumnos. El catálogo de 2027 confirma la opción de inglés; el idioma del deporte y la convivencia debe aclararse por separado.
 
 ** Programa: ** UPC universityresidence Castelldefels, beach/sport/language/culture, 180 capacity, 80%international/20%Spanish para operator, Day, boarding y sólo el curso de idiomas se ha organizado de forma diversa.
 
@@ -5158,11 +5220,11 @@ España · Castelldefels / Barcelona
 
 **Fechas / estado de la ciudad:** 4 de julio–21 de agosto 2027. en el page 33: 7 one-week y 3 dos semanas cohorts; July 1 weekstarts ¿Qué hay?, unlike Barcelona Centro. no se ha anunciado 2-week Aug 15–28 para el Beach.
 
-**Precio / año:** 2027 · Pensión EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Diurno 600/1200/1800/2400 por 1–4 semanas. Sólo idioma 300/600/900/1200. Más EUR 35 Registro de niños.
+**Precio / año:** 2027 · Alojamiento EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.
 
 **Activado:** Programa residencial: 20 Enseñanza de idiomas, materiales, Sala común, Nutrición, Talleres, Deportes, Actividades, Visitas guiadas, Seguro médico y atención permanente. Formato diario de los pn–p 09–20: Experiencia adquirida, materiales, Almuerzo y clases, Sin dormir. Sólo lengua pn–p 09–12: 30: 20 sesiones de descanso, Sin programa de campamento completo.
 
-**Gastos adicionales:** Inscripción EUR 35 Una vez por participante. Aeropuerto o estación local EUR 95 por persona en un sentido; Autobuses de un campamento de día EUR 250 por 2 - ¿Qué?, disponible. Día libre EUR 100, Es sábado por la noche.–domingo EUR 125, formulario EUR 130. Garantía adicional de la abolición EUR 300 Por semana. Deportes 2 semanas: Tenis/¡Vamos! EUR 290, Avanzar 400, golf 500; La edad y accesibilidad de cada opción se especificarán. Vivienda de los padres y vuelos separados. Dos. children 2 week residential+Registro EUR 5060; day EUR 2470; Sólo clases de idiomas EUR 1270. Estos productos no son de uso común; hotel/flights/extras de arriba.
+**Suplementos:** Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Barcelona Beach: deportes acuáticos EUR 350, fútbol y tenis EUR 290 por 2 semanas. Pádel, equitación y golf no figuran en el menú publicado de este campus; confirmar edad, condiciones meteorológicas y disponibilidad de la opción elegida. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.
 
 **Pago:** Condiciones especiales del campamento de menores: en el registro de 4 Una semana o menos, la cuenta se paga en su totalidad. Cancelación en los últimos 4 semanas — Multa EUR 850; por 2 No hay semanas ni menos o después de la llegada. En términos generales, también se indica el depósito no reembolsable EUR 250 y el saldo correspondiente a 4 semanas: La aplicabilidad del depósito al campamento seleccionado debe ser confirmada, re-- tuition No se agrega. Garantía de revocación EUR 300 por semana, con excepciones.
 
@@ -5171,6 +5233,52 @@ España · Castelldefels / Barcelona
 ** Oscar: ** En el intervalo de edad.
 
 ** Por qué en la selección: ** Un candidato español claro para el descanso común y la elección de dos idiomas familiares.
+
+### Análisis editorial
+
+Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Hay clases EN/ES publicadas por niveles y categorías infantiles por edad.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad.
+
+**Viaje familiar con campamento de día:** Considerar primero · La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Primer internado:** Considerar como alternativa · Considerar específicamente el alojamiento infantil tras comprobar la autonomía cotidiana y el apoyo nocturno a los más pequeños.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+[fuente oficial](https://www.enforex.com/en/summer-camps/barcelona) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El paquete infantil de Barcelona Beach se publica para 5–16. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Hay productos distintos: alojamiento, campamento de día y solo clases de idiomas. La supervisión permanente corresponde al alojamiento; el paquete de día se visita entre semana de 09:00–20:00.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Instituto Cervantes incluye el centro urbano de Enforex en Barcelona. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.
+
+[fuente oficial](https://acreditacion.cervantes.es/centros_espana.htm) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -5302,7 +5410,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5314,7 +5422,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5326,7 +5434,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5338,7 +5446,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5350,7 +5458,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5362,7 +5470,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5374,7 +5482,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5386,7 +5494,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5398,7 +5506,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5410,7 +5518,7 @@ España · Castelldefels / Barcelona
 
 **lugar:** Castelldefels / Barcelona
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -5418,9 +5526,9 @@ España · Castelldefels / Barcelona
 
 ### Fuentes
 
-- [Official 2027 PDF: Beachage 5–16/starts/fees/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-10-05
+- [Official 2027 PDF: Beachage 5–16/starts/fees/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
 
-- [Own Beachwebpage todavía en 2026](https://www.enforex.com/en/summer-camps/barcelona) · 2026-10-05
+- [Own Beachwebpage todavía en 2026](https://www.enforex.com/en/summer-camps/barcelona) · 2026-11-06
 
 ## CP019 · Camp Tecnológico
 
@@ -8464,7 +8572,7 @@ Un día de trabajo francés de fácil uso para el idioma y el descanso general, 
 
 Francia · París / Saint-Germain-en-Laye
 
-**Se ha comprobado:** 2026-11-05
+**Se ha comprobado:** 2026-11-06
 
 * Edad:** 3*12
 
@@ -8489,6 +8597,50 @@ Francia · París / Saint-Germain-en-Laye
 *Oscar: ** Corresponde a 3*12; necesitas estar preparado para el día de la naturaleza.
 
 ** Por qué en la selección: ** Día común práctico inglés de vacaciones para ambos; se aplica a las vacaciones familiares en Francia.
+
+### Análisis editorial
+
+Vacaciones de día en la naturaleza con inmersión en inglés; antes de reservar se necesitan condiciones vigentes del organizador.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar como alternativa · El inglés se usa durante las vacaciones generales en la naturaleza; todavía deben confirmarse el contrato y el grupo concreto.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Los padres se alojan cerca y proporcionan almuerzo y transporte; antes de pagar se necesita un contrato real.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Puede servir para unas vacaciones al aire libre tras confirmar las condiciones y la sede.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Observación de la naturaleza, construcción de refugios, creatividad y juegos cooperativos; no se anuncia un programa técnico independiente.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · Se publica un rango de 3–12; confirmar el subgrupo de edad y la preparación para pasar todo el día en la naturaleza.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se describe una inmersión en inglés con guías bilingües EN/FR durante las actividades al aire libre.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se confirma la descripción de guías bilingües; no se han establecido sus cualificaciones ni el tamaño del grupo de la semana elegida.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Entre semana de 09:00–16:00 y dos tentempiés; la familia lleva el almuerzo. Las condiciones meteorológicas, cambios y sede definitiva deben obtenerse por separado.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+[fuente oficial](https://www.wanderandwonderclub.com/holiday-camp) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · EUR 380 por una semana o EUR 360 por semana al contratar varias semanas para el mismo niño. El enlace de condiciones sigue mostrando una plantilla Wix; no se han establecido las condiciones reales de cancelación y pago.
+
+[fuente oficial](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
+
+[fuente oficial](https://www.wanderandwonderclub.com/terms-and-conditions) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.
 
 ### Antes de solicitar plaza
 
@@ -8654,13 +8806,13 @@ Francia · París / Saint-Germain-en-Laye
 
 ### Fuentes
 
-- [Semanas de verano 2027, EN y precio de varias semanas](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-05
+- [Semanas de verano 2027, EN y precio de varias semanas](https://www.wanderandwonderclub.com/summer-camp) · 2026-11-06
 
-- [Semanas de verano, precio y plazas](https://www.wanderandwonderclub.com/product-page/summer-nature-camp) · 2026-10-04
+- [Semanas de verano, precio y plazas](https://www.wanderandwonderclub.com/product-page/summer-nature-camp) · 2026-11-06
 
-- [Christmas 2026, invierno 2027 y errata de primavera](https://www.wanderandwonderclub.com/holiday-camp) · 2026-11-05
+- [Christmas 2026, invierno 2027 y errata de primavera](https://www.wanderandwonderclub.com/holiday-camp) · 2026-11-06
 
-- [Plantilla de condiciones sin completar · no contrato](https://www.wanderandwonderclub.com/terms-and-conditions) · 2026-11-05
+- [Plantilla de condiciones sin completar · no contrato](https://www.wanderandwonderclub.com/terms-and-conditions) · 2026-11-06
 
 ## CP061 · International House / France Langue · English Day Camps
 
@@ -17366,7 +17518,7 @@ España · El branch español no está seleccionado
 
 España · San Sebastián · 2027 residence confirme; Olarain sólo brochure2026
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** 6*13; mínimo residente por separado
 
@@ -17392,17 +17544,65 @@ España · San Sebastián · 2027 residence confirme; Olarain sólo brochure2026
 
 ** Por qué en la selección:** En/ES internacional general es un candidato para un viaje conjunto: la temporada 2027 está disponible, pero el Price y la residencia siguen siendo de archivo.
 
+### Análisis editorial
+
+Campamento de idiomas con opciones de mañana, día y alojamiento; los detalles de la nueva temporada todavía son parciales.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar como alternativa · Considerar el formato de idiomas tras confirmar la nueva carga lectiva y la tarifa.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Campamento general con idiomas y deporte; todavía hay que elegir la semana concreta dentro de la temporada publicada.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · El formato de día puede considerarse tras obtener el programa vigente y la factura completa.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · La página de 2027 describe idiomas, juegos y deporte. El folleto de 2026 indica 1,5 horas de idiomas por día entre semana; no es una carga lectiva confirmada para 2027.
+
+[fuente oficial](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-11-06
+
+[fuente oficial](https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · El rango general de 6–13 incluye la edad de ambos; confirmar la edad mínima específica para alojarse sin los padres y el nuevo grupo.
+
+[fuente oficial](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Se ofrecen clases de inglés o español. Todavía deben aclararse el idioma de la convivencia y el del nuevo grupo elegido.
+
+[fuente oficial](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-11-06
+
+**Instructores y grupo:** no se ha establecido · No se han establecido el tamaño del grupo, la proporción de adultos por niño ni el personal asignado para 2027.
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Existen formatos de mañana, día y completo; la residencia Olarain se describe en el archivo de 2026. El folleto anterior no confirma el alojamiento ni la supervisión de 2027.
+
+[fuente oficial](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-11-06
+
+[fuente oficial](https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Los precios encontrados corresponden a 2026 y el formulario de inscripción a 2024. Hay que obtener por separado el nuevo precio de 2027, las unidades de los cargos obligatorios y el contrato.
+
+[fuente oficial](https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf) · 2026-11-06
+
+[fuente oficial](https://www.lacunza.es/en/camps/camp-enrolment) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Eaquals incluye Lacunza International House San Sebastian y vincula su perfil a lacunza.es. Es una acreditación del centro de idiomas, no una prueba de una inspección independiente del campamento infantil de 2027.
+
+[fuente oficial](https://www.eaquals.org/our-members/accredited-members/) · 2026-11-06
+
+[fuente oficial](https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/) · 2026-11-06
+
 ### Antes de solicitar plaza
 
 - obtener las semanas/contrato/precio 2027, grupo EN/ES, residencial minimum y all-in; no llenaron el antiguo formulario 2024.
 
 ### Fuentes
 
-- [Season2027, edad, tres formatos](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-10-05
+- [Season2027, edad, tres formatos](https://www.lacunza.es/en/camps/lacunza-camp) · 2026-11-06
 
-- [sólo el archivo English catalogue2026](https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf) · 2026-10-05
+- [sólo el archivo English catalogue2026](https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf) · 2026-11-06
 
-- [forma con las semanas viejas2024](https://www.lacunza.es/en/camps/camp-enrolment) · 2026-10-05
+- [forma con las semanas viejas2024](https://www.lacunza.es/en/camps/camp-enrolment) · 2026-11-06
 
 ## CP176 · Cervantes EI · Barcelona Beach Boarding Offer
 
@@ -36350,7 +36550,7 @@ España · Wynwood University Residence Complex / Madrid
 
 España · Wynwood University Residence Complex / Madrid
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Kids/Teens programme 5 CLAIM18 en la página 33. La asignación general puede incluir a Young Adults hasta 21; es otro producto.
 
@@ -36362,11 +36562,11 @@ España · Wynwood University Residence Complex / Madrid
 
 ** Fechas / status:** 2027, 10 de los soldados del campus 1/2 week cohorts mencionados claramente en la página 33. 3/4 week tariffs existen; no se han determinado específicamente 3/4 week combinations/availability, no se han reproducido por separado.
 
-**Precio / año:** 2027 · Pensión EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Diurno 600/1200/1800/2400 por 1–4 semanas. Sólo idioma 300/600/900/1200. Más EUR 35 Registro de niños.
+**Precio / año:** 2027 · Alojamiento EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.
 
 **Activado:** Programa residencial: 20 Enseñanza de idiomas, materiales, Sala común, Nutrición, Talleres, Deportes, Actividades, Visitas guiadas, Seguro médico y atención permanente. Formato diario de los pn–p 09–20: Experiencia adquirida, materiales, Almuerzo y clases, Sin dormir. Sólo lengua pn–p 09–12: 30: 20 sesiones de descanso, Sin programa de campamento completo.
 
-**Gastos adicionales:** Inscripción EUR 35 Una vez por participante. Aeropuerto o estación local EUR 95 por persona en un sentido; Autobuses de un campamento de día EUR 250 por 2 - ¿Qué?, disponible. Día libre EUR 100, Es sábado por la noche.–domingo EUR 125, formulario EUR 130. Garantía adicional de la abolición EUR 300 Por semana. Deportes 2 semanas: Tenis/¡Vamos! EUR 290, Avanzar 400, golf 500; La edad y accesibilidad de cada opción se especificarán. Vivienda de los padres y vuelos separados.
+**Suplementos:** Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Madrid: fútbol, tenis y pádel EUR 290, equitación EUR 400 por 2 semanas; la tabla no asigna golf a este campus. Confirmar edad y disponibilidad de cada opción. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.
 
 **Pago:** Condiciones especiales del campamento de menores: en el registro de 4 Una semana o menos, la cuenta se paga en su totalidad. Cancelación en los últimos 4 semanas — Multa EUR 850; por 2 No hay semanas ni menos o después de la llegada. En términos generales, también se indica el depósito no reembolsable EUR 250 y el saldo correspondiente a 4 semanas: La aplicabilidad del depósito al campamento seleccionado debe ser confirmada, re-- tuition No se agrega. Garantía de revocación EUR 300 por semana, con excepciones.
 
@@ -36375,6 +36575,50 @@ España · Wynwood University Residence Complex / Madrid
 **Oscar:** 6–7 Entra 5–18; minimum 5 no garantía de preparación para el kpansion.
 
 ** Por qué en la selección: ** Los dos pueden considerar el camp español por edad; la diferencia day/boarding y la habitación es significativa.
+
+### Análisis editorial
+
+Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Hay clases EN/ES publicadas por niveles y categorías infantiles por edad.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad.
+
+**Viaje familiar con campamento de día:** Considerar primero · La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+[fuente oficial](https://www.enforex.com/en/summer-camps/madrid) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El paquete infantil de Madrid se publica para 5–18. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Este perfil corresponde al paquete de día entre semana de 09:00–20:00, con almuerzo y actividades. La supervisión permanente del folleto corresponde al alojamiento, no a la asistencia de día.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Instituto Cervantes incluye el centro urbano de Enforex en Madrid. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.
+
+[fuente oficial](https://acreditacion.cervantes.es/centros_espana.htm) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -36386,7 +36630,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36398,7 +36642,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36410,7 +36654,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36422,7 +36666,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36434,7 +36678,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36446,7 +36690,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36458,7 +36702,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36470,7 +36714,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36482,7 +36726,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36494,7 +36738,7 @@ España · Wynwood University Residence Complex / Madrid
 
 **lugar:** Wynwood University Residence Complex / Madrid
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36502,9 +36746,9 @@ España · Wynwood University Residence Complex / Madrid
 
 ### Fuentes
 
-- [Official 2027 PDF: campus-specificdates/ages/prices/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-10-05
+- [Official 2027 PDF: campus-specificdates/ages/prices/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
 
-- [Owncamp webpage hasta 2026](https://www.enforex.com/en/summer-camps/madrid) · 2026-10-05
+- [Owncamp webpage hasta 2026](https://www.enforex.com/en/summer-camps/madrid) · 2026-11-06
 
 ## CP478 · Enforex Marbella Elviria · Residential
 
@@ -36706,7 +36950,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 España · German High School / Deutsche Schule, Marbella Elviria
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 ** Edad:** Kids/Teens programme 5 CLAIM18 en la página 33. La asignación general puede incluir a Young Adults hasta 21; es otro producto.
 
@@ -36718,11 +36962,11 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 ** Fechas / status:** 2027, 13 de los cohorts de post-campanario marcados con 1/2 week, en la página 33. 3/4 week tariffs, 3/4 week combinations/availability no se han determinado, no se reproducen por separado.
 
-**Precio / año:** 2027 · Pensión EUR 1195/1 semana, 2095/2, 3295/3, 3995/4. Diurno 600/1200/1800/2400 por 1–4 semanas. Sólo idioma 300/600/900/1200. Más EUR 35 Registro de niños.
+**Precio / año:** 2027 · Alojamiento EUR 1195/1 semana, 2095/2, 3295/3, 3995/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.
 
 **Activado:** Programa residencial: 20 Enseñanza de idiomas, materiales, Sala común, Nutrición, Talleres, Deportes, Actividades, Visitas guiadas, Seguro médico y atención permanente. Formato diario de los pn–p 09–20: Experiencia adquirida, materiales, Almuerzo y clases, Sin dormir. Sólo lengua pn–p 09–12: 30: 20 sesiones de descanso, Sin programa de campamento completo.
 
-**Gastos adicionales:** Inscripción EUR 35 Una vez por participante. Aeropuerto o estación local EUR 95 por persona en un sentido; Autobuses de un campamento de día EUR 250 por 2 - ¿Qué?, disponible. Día libre EUR 100, Es sábado por la noche.–domingo EUR 125, formulario EUR 130. Garantía adicional de la abolición EUR 300 Por semana. Deportes 2 semanas: Tenis/¡Vamos! EUR 290, Avanzar 400, golf 500; La edad y accesibilidad de cada opción se especificarán. Vivienda de los padres y vuelos separados.
+**Suplementos:** Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Marbella Elviria: fútbol, tenis y pádel EUR 290, equitación EUR 400, golf EUR 500 por 2 semanas; confirmar edad y disponibilidad de cada opción. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.
 
 **Pago:** Condiciones especiales del campamento de menores: en el registro de 4 Una semana o menos, la cuenta se paga en su totalidad. Cancelación en los últimos 4 semanas — Multa EUR 850; por 2 No hay semanas ni menos o después de la llegada. En términos generales, también se indica el depósito no reembolsable EUR 250 y el saldo correspondiente a 4 semanas: La aplicabilidad del depósito al campamento seleccionado debe ser confirmada, re-- tuition No se agrega. Garantía de revocación EUR 300 por semana, con excepciones.
 
@@ -36731,6 +36975,50 @@ España · German High School / Deutsche Schule, Marbella Elviria
 **Oscar:** 6–7 Entra 5–18; minimum 5 no garantía de preparación para el kpansion.
 
 ** Por qué en la selección: ** Los dos pueden considerar el camp español por edad; la diferencia day/boarding y la habitación es significativa.
+
+### Análisis editorial
+
+Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Hay clases EN/ES publicadas por niveles y categorías infantiles por edad.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad.
+
+**Viaje familiar con campamento de día:** Considerar primero · La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+[fuente oficial](https://www.enforex.com/en/summer-camps/marbella-elviria) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El paquete infantil de Marbella Elviria se publica para 5–18. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Este perfil corresponde al paquete de día entre semana de 09:00–20:00, con almuerzo y actividades. La supervisión permanente del folleto corresponde al alojamiento, no a la asistencia de día.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.
+
+[fuente oficial](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · Instituto Cervantes incluye el centro urbano de Enforex en Marbella. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.
+
+[fuente oficial](https://acreditacion.cervantes.es/centros_espana.htm) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -36742,7 +37030,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36754,7 +37042,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36766,7 +37054,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36778,7 +37066,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36790,7 +37078,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36802,7 +37090,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36814,7 +37102,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36826,7 +37114,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36838,7 +37126,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36850,7 +37138,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36862,7 +37150,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36874,7 +37162,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36886,7 +37174,7 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 **lugar:** German La escuela secundaria / Deutsche Schule, Marbella Elviria
 
-**Precio:** 1200 EUR tuition +35/person la inscripción = 1235; extras por separado
+**Precio:** Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida
 
 **condiciones de participación:** el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.
 
@@ -36894,9 +37182,9 @@ España · German High School / Deutsche Schule, Marbella Elviria
 
 ### Fuentes
 
-- [Official 2027 PDF: campus-specificdates/ages/prices/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-10-05
+- [Official 2027 PDF: campus-specificdates/ages/prices/terms](https://download.enforex.com/pdf/enforex-summercamps.pdf) · 2026-11-06
 
-- [Owncamp webpage hasta 2026](https://www.enforex.com/en/summer-camps/marbella-elviria) · 2026-10-05
+- [Owncamp webpage hasta 2026](https://www.enforex.com/en/summer-camps/marbella-elviria) · 2026-11-06
 
 ## CP480 · Enforex Salamanca · Residential
 
@@ -68102,7 +68390,7 @@ Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / G
 
 Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / Grenoble
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Día completo 5 años; Frontera superior holiday-Grupo no designado. PDF También contiene grupos por la mañana 3–4.
 
@@ -68128,6 +68416,46 @@ Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / G
 
 ** Por qué en la selección:** no se ha establecido una clasificación mundial independiente de calidad en función de su propio syllabus y de sus propias condiciones, con una edad y un idioma separados.
 
+### Análisis editorial
+
+Grupo pequeño bilingüe de día; deben confirmarse la edad máxima real y la plaza.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar como alternativa · Puede servir para practicar FR/EN en un grupo pequeño tras confirmar la edad y el apoyo sin francés.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Actividades creativas y científicas de día; todavía debe aclararse el contenido de la semana elegida.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Puede combinarse con el alojamiento de los padres en la región; el presupuesto contempla por separado cuidado adicional, comidas y transporte.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · El documento Holiday Camp describe arte, experimentos, cocina, deporte y proyectos cooperativos. No se anuncian el tema detallado de la semana concreta ni robótica.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · El día completo está previsto desde los 5 años; no se indica la edad máxima del grupo de vacaciones. Hay que confirmar la admisión de Matvey de 9–10 y Oscar de 6–7 y el grupo correspondiente.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El documento de vacaciones describe expresamente una comunidad FR/EN sin nivel previo de inglés. Es comunicación bilingüe; confirmar el apoyo al niño que no habla francés.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se describen un equipo pedagógico bilingüe y un asistente, con un máximo de 12 niños. No se han verificado por separado los nombres ni las cualificaciones del personal asignado.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Horario de día de 09:00–16:30, con cuidado adicional de 08:30–09:00 y 16:30–18:00. La familia lleva la comida y ambos tentempiés; no hay alojamiento.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · La semana cuesta EUR 290 por niño y el cuidado adicional EUR 2,50 por media hora. Hay condiciones escritas de cancelación y devolución; el turno abre con un mínimo de 6 niños. La tarifa publicada no confirma una plaza.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.
+
 ### Antes de solicitar plaza
 
 - Antes de registrarse, se deben confirmar los puestos vacantes, el grupo de edad exacto, la recepción de la familia llegada y la cuenta completa.
@@ -68144,15 +68472,15 @@ Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / G
 
 ### Fuentes
 
-- [temas de verano, otoño y fin de semana del 14 de julio](https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble) · 2026-10-06
+- [temas de verano, otoño y fin de semana del 14 de julio](https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble) · 2026-11-06
 
-- [PDF Holiday: fechas, idioma, grupo, precio y cancelación](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-10-06
+- [PDF Holiday: fechas, idioma, grupo, precio y cancelación](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
 
 ## CP1002 · HoplaBoum · Spring Holiday Camp
 
 Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / Grenoble
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
 **Edad:** Día completo 5 años; Frontera superior holiday-Grupo no designado. PDF También contiene grupos por la mañana 3–4.
 
@@ -68178,6 +68506,46 @@ Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / G
 
 ** Por qué en la selección:** no se ha establecido una clasificación mundial independiente de calidad en función de su propio syllabus y de sus propias condiciones, con una edad y un idioma separados.
 
+### Análisis editorial
+
+Grupo pequeño bilingüe de día; deben confirmarse la edad máxima real y la plaza.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar como alternativa · Puede servir para practicar FR/EN en un grupo pequeño tras confirmar la edad y el apoyo sin francés.
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Actividades creativas y científicas de día; todavía debe aclararse el contenido de la semana elegida.
+
+**Viaje familiar con campamento de día:** Considerar como alternativa · Puede combinarse con el alojamiento de los padres en la región; el presupuesto contempla por separado cuidado adicional, comidas y transporte.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · El documento Holiday Camp describe arte, experimentos, cocina, deporte y proyectos cooperativos. No se anuncian el tema detallado de la semana concreta ni robótica.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · El día completo está previsto desde los 5 años; no se indica la edad máxima del grupo de vacaciones. Hay que confirmar la admisión de Matvey de 9–10 y Oscar de 6–7 y el grupo correspondiente.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · El documento de vacaciones describe expresamente una comunidad FR/EN sin nivel previo de inglés. Es comunicación bilingüe; confirmar el apoyo al niño que no habla francés.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se describen un equipo pedagógico bilingüe y un asistente, con un máximo de 12 niños. No se han verificado por separado los nombres ni las cualificaciones del personal asignado.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Condiciones concretas publicadas · Horario de día de 09:00–16:30, con cuidado adicional de 08:30–09:00 y 16:30–18:00. La familia lleva la comida y ambos tentempiés; no hay alojamiento.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Precio y condiciones:** Condiciones concretas publicadas · La semana cuesta EUR 290 por niño y el cuidado adicional EUR 2,50 por media hora. Hay condiciones escritas de cancelación y devolución; el turno abre con un mínimo de 6 niños. La tarifa publicada no confirma una plaza.
+
+[fuente oficial](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.
+
 ### Antes de solicitar plaza
 
 - Antes de registrarse, se deben confirmar los puestos vacantes, el grupo de edad exacto, la recepción de la familia llegada y la cuenta completa.
@@ -68194,9 +68562,9 @@ Francia · École Internationale HoplaBoum · 3 rue de la Condamine, Gières / G
 
 ### Fuentes
 
-- [temas de verano, otoño y fin de semana del 14 de julio](https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble) · 2026-10-06
+- [temas de verano, otoño y fin de semana del 14 de julio](https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble) · 2026-11-06
 
-- [PDF Holiday: fechas, idioma, grupo, precio y cancelación](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-10-06
+- [PDF Holiday: fechas, idioma, grupo, precio y cancelación](https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf) · 2026-11-06
 
 ## CP1003 · HoplaBoum · Trip Around the World
 
@@ -77676,7 +78044,7 @@ México · Monterrey · HUB de Innovación y Emprendimiento · Prototyping Lab
 
 Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 
-**Se ha comprobado:** 2026-11-04
+**Se ha comprobado:** 2026-11-06
 
 **edad:** 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
 
@@ -77701,6 +78069,60 @@ Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 **Oscar:** En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte.
 
 **Motivo de selección:** Candidato práctico para vacaciones generales de ambos niños con tarifa 2027 publicada; grupos por edad y language lessons no equivalen a curso robótico compartido.
+
+### Análisis editorial
+
+Programa de idiomas y vacaciones generales por grupos de edad; no se anuncia un curso independiente de robótica.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Hay una carga lectiva concreta de idiomas para la edad de ambos; confirmar el nivel y el idioma elegido.
+
+**Actividades generales de esparcimiento:** Considerar primero · Combina idiomas con naturaleza, deporte y distintos grupos infantiles por edad.
+
+**Viaje familiar con campamento de día:** Este análisis responde a otro objetivo · Este análisis corresponde al programa con alojamiento; el de día se describe por separado.
+
+**Primer internado:** Considerar como alternativa · Comprobar la autonomía de los niños, la supervisión nocturna y la comunicación con la familia.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Por la mañana, idiomas o apoyo académico; después, deporte, naturaleza y excursiones. Las semanas temáticas son opciones independientes con su propia edad mínima.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El paquete elegido de 5–14 incluye la edad general de ambos. El curso de idiomas comienza a los 6 años; algunas excursiones opcionales requieren 8 o 10.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · El PDF indica 15 horas semanales de EN/FR desde los 6 años. Confirma el idioma del curso, no el de cada hora de deporte o excursiones.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se describen la enseñanza y la distribución por edad; no se han establecido las cualificaciones del personal asignado ni la proporción de adultos por niño de este turno.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · El alojamiento incluye estancia, comidas y seguro. Hay que confirmar la distribución nocturna del personal, el tamaño de la habitación y la comunicación con la familia.
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
+
+**Precio y condiciones:** Hay una contradicción · Los precios de 2027 están publicados; el descuento por duración ya está incluido y los descuentos no se acumulan. Los documentos difieren sobre la base del descuento al segundo hijo y el uniforme; comprobar la factura final y la cancelación.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · AVDEP publica el perfil de la escuela y sus idiomas. Figurar en la asociación no equivale a una inspección independiente del turno de verano de 2027.
+
+[fuente oficial](https://avdep.ch/en/school/ecole-pre-fleuri/) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -77830,21 +78252,21 @@ Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 
 ### Fuentes
 
-- [Tarifa residencia 2027 · tabla comprobada visualmente](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-04
+- [Tarifa residencia 2027 · tabla comprobada visualmente](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
 
-- [Tarifa day 2027 y días lectivos](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-04
+- [Tarifa day 2027 y días lectivos](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
 
-- [Precios actuales, opciones y grupos de edad](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-04
+- [Precios actuales, opciones y grupos de edad](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
 
-- [Contenido del campamento y cursos de idioma](https://www.prefleuricamps.ch/en/summer/) · 2026-11-04
+- [Contenido del campamento y cursos de idioma](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
 
-- [Condiciones generales de pago y cancelación](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-04
+- [Condiciones generales de pago y cancelación](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-06
 
 ## CP1165 · Préfleuri · verano 2027 · diurno 5–14
 
 Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 
-**Se ha comprobado:** 2026-11-04
+**Se ha comprobado:** 2026-11-06
 
 **edad:** 5–14; en 2027 ambos cumplen edad general, se asignan a grupos distintos. English lessons desde 6.
 
@@ -77869,6 +78291,60 @@ Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 **Oscar:** En 2027 edad compatible con 5–14 y clases de idioma desde 6. Pernocta / grupo elegido y plazas se confirman aparte.
 
 **Motivo de selección:** Candidato práctico para vacaciones generales de ambos niños con tarifa 2027 publicada; grupos por edad y language lessons no equivalen a curso robótico compartido.
+
+### Análisis editorial
+
+Programa de idiomas y vacaciones generales por grupos de edad; no se anuncia un curso independiente de robótica.
+
+**Análisis verificado:** 2026-11-06
+
+**Práctica de idiomas:** Considerar primero · Hay una carga lectiva concreta de idiomas para la edad de ambos; confirmar el nivel y el idioma elegido.
+
+**Actividades generales de esparcimiento:** Considerar primero · Combina idiomas con naturaleza, deporte y distintos grupos infantiles por edad.
+
+**Viaje familiar con campamento de día:** Considerar primero · Puede combinarse con un viaje de los padres y actividades de día para los niños; alojamiento, comidas y seguro requieren un presupuesto independiente.
+
+**Primer internado:** Este análisis responde a otro objetivo · El programa de día no proporciona experiencia de alojamiento sin los padres.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Condiciones concretas publicadas · Por la mañana, idiomas o apoyo académico; después, deporte, naturaleza y excursiones. Las semanas temáticas son opciones independientes con su propia edad mínima.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
+
+**Adaptación a la edad:** Condiciones concretas publicadas · El paquete elegido de 5–14 incluye la edad general de ambos. El curso de idiomas comienza a los 6 años; algunas excursiones opcionales requieren 8 o 10.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
+
+**Idioma del programa concreto:** Pruebas parciales · El PDF indica 15 horas semanales de EN/FR desde los 6 años. Confirma el idioma del curso, no el de cada hora de deporte o excursiones.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · Se describen la enseñanza y la distribución por edad; no se han establecido las cualificaciones del personal asignado ni la proporción de adultos por niño de este turno.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Pruebas parciales · Horario de día de 09:00–18:00 entre semana; minibús local incluido y sin fines de semana. El PDF del paquete de día no enumera expresamente las comidas; los padres deben asegurar a los niños.
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
+
+**Precio y condiciones:** Hay una contradicción · Los precios de 2027 están publicados; el descuento por duración ya está incluido y los descuentos no se acumulan. Los documentos difieren sobre la base del descuento al segundo hijo y el uniforme; comprobar la factura final y la cancelación.
+
+[fuente oficial](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-06
+
+[fuente oficial](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
+
+**Pruebas independientes de reputación:** Pruebas parciales · AVDEP publica el perfil de la escuela y sus idiomas. Figurar en la asociación no equivale a una inspección independiente del turno de verano de 2027.
+
+[fuente oficial](https://avdep.ch/en/school/ecole-pre-fleuri/) · 2026-11-06
 
 ### Antes de solicitar plaza
 
@@ -78498,15 +78974,15 @@ Suiza · Chesières · Chemin de Curnaux 32 · near Villars-sur-Ollon
 
 ### Fuentes
 
-- [Tarifa residencia 2027 · tabla comprobada visualmente](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-04
+- [Tarifa residencia 2027 · tabla comprobada visualmente](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf) · 2026-11-06
 
-- [Tarifa day 2027 y días lectivos](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-04
+- [Tarifa day 2027 y días lectivos](https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf) · 2026-11-06
 
-- [Precios actuales, opciones y grupos de edad](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-04
+- [Precios actuales, opciones y grupos de edad](https://www.prefleuricamps.ch/en/summer-fees/) · 2026-11-06
 
-- [Contenido del campamento y cursos de idioma](https://www.prefleuricamps.ch/en/summer/) · 2026-11-04
+- [Contenido del campamento y cursos de idioma](https://www.prefleuricamps.ch/en/summer/) · 2026-11-06
 
-- [Condiciones generales de pago y cancelación](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-04
+- [Condiciones generales de pago y cancelación](https://www.prefleuricamps.ch/en/general-terms-and-conditions/) · 2026-11-06
 
 ## CP1166 · Préfleuri · Element Rangers · opción de campamento general
 
@@ -107720,11 +108196,59 @@ España · Barcelona / base de montaña sin confirmar
 
 **Oscar:** En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis.
 
-**Motivo de selección:** Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.
+**Motivo de la selección:** Campamento de aventura con comunidad EN/HE: antes de elegirlo se necesitan la base exacta de montaña, la admisión por edad del menor y todos los componentes del viaje.
+
+### Análisis editorial
+
+Viaje de aventura con pernoctaciones y convivencia bilingüe; la ruta y las inclusiones requieren confirmación adicional.
+
+**Análisis verificado:** 2026-11-06
+
+**Actividades generales de esparcimiento:** Considerar como alternativa · Considerarlo después de aclarar la ruta real, las direcciones, la edad del menor y los componentes completos del viaje.
+
+**Práctica de idiomas:** Considerar como alternativa · Puede permitir práctica bilingüe EN/HE; no es un curso intensivo independiente de inglés confirmado.
+
+**En el futuro:** Considerar como alternativa · Si el menor no cumple la edad, comprobar la próxima temporada tras su anuncio; no se presuponen fechas futuras.
+
+**Ingeniería, robótica y programación:** Este análisis responde a otro objetivo · Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería.
+
+**Contenido, horas y proyecto infantil:** Pruebas parciales · Se anuncian excursiones, deporte y aventuras; no se ha establecido un programa técnico independiente ni un curso sistemático de idiomas.
+
+[fuente oficial](https://www.eng.campkimama.org/barcelona) · 2026-11-06
+
+**Adaptación a la edad:** Pruebas parciales · Se publica un rango de 7–18. En 2027, Oscar tendrá 6–7: la posibilidad de participar depende de la fecha de corte y la edad al comenzar, no solo del año de nacimiento.
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Idioma del programa concreto:** Condiciones concretas publicadas · La FAQ describe inglés y hebreo en la vida del campamento. Esto no implica una clase independiente completamente en EN ni español por el país donde se realiza.
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Instructores y grupo:** Pruebas parciales · El sitio tiene una sección de personal; no se han confirmado los empleados asignados al viaje, sus cualificaciones ni el tamaño del grupo.
+
+[fuente oficial](https://www.eng.campkimama.org/barcelona) · 2026-11-06
+
+**Alojamiento y apoyo a los más pequeños:** Hay una contradicción · El programa implica pernoctaciones en distintos lugares, pero no se han establecido la base de montaña exacta, las direcciones ni la supervisión nocturna. La descripción geográfica de la FAQ necesita corrección.
+
+[fuente oficial](https://www.eng.campkimama.org/barcelona) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/faq) · 2026-11-06
+
+**Precio y condiciones:** Pruebas parciales · Se publican el 19–27 de agosto de 2027 e ILS 15900 por niño. La descripción anterior de duración y las inclusiones deben aclararse; no se han establecido el vuelo ni los componentes exactos de la factura individual.
+
+[fuente oficial](https://www.eng.campkimama.org/dates-fees) · 2026-11-06
+
+[fuente oficial](https://www.eng.campkimama.org/cancellation-policy) · 2026-11-06
+
+**Pruebas independientes de reputación:** no se ha establecido · No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.
 
 ### Antes de solicitar plaza
 
-- Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos.
+- Confirmar las direcciones y la base de montaña exactas, la duración con los desplazamientos y los alojamientos nocturnos.
+
+- Aclarar la fecha de corte de edad de Oscar, el apoyo en inglés, el personal y la comunicación con los padres.
+
+- Obtener una factura completa con vuelos, traslados, seguro y condiciones de cancelación del viaje elegido.
 
 ### Kimama · Barcelona
 

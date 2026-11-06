@@ -1,0 +1,52 @@
+{
+  "version": 192,
+  "checked": "2026-11-06",
+  "status": "partial-editorial-review-and-required-cost-correction",
+  "source_requests": 32,
+  "source_response_hashes_verified": 32,
+  "source_failures": 0,
+  "source_nonprogramme_bodies": 1,
+  "pdf_pages_visually_read": 21,
+  "new_editorial_reviews": 11,
+  "editorial_reviewed": 35,
+  "editorial_refresh_pending": 3,
+  "editorial_review_dossiers": 38,
+  "modified_raw_profile_ids": [
+    "CP002",
+    "CP1164",
+    "CP1165",
+    "CP060",
+    "CP1001",
+    "CP1002",
+    "CP018",
+    "CP477",
+    "CP479",
+    "CP175",
+    "CP1493"
+  ],
+  "new_camp_dossiers": 0,
+  "new_event_records": 0,
+  "new_budget_offers": 6,
+  "modified_prior_budget_offers": [
+    "enforex-madrid-two-day",
+    "enforex-elviria-two-day"
+  ],
+  "camp_dossiers": 1497,
+  "events": 6031,
+  "budget_offers": 179,
+  "external_institutional_sources": 5,
+  "independent_parent_review_sets": 0,
+  "camp_specific_independent_inspections_confirmed": 0,
+  "full_trip_value_rankings": 0,
+  "worldwide_complete": false,
+  "fully_audited_countries": 0,
+  "all_original_18_requirements_retained": true,
+  "source_receipts": "data/camp-editorial-source-receipts-v192.json",
+  "mandatory_bus_correction": "Barcelona Beach, Madrid и Marbella Elviria: дневной трансфер обязателен по сноске 1 таблицы 2027. Для двух детей на 2 недели известная сумма EUR 2970, включая первую регистрацию и автобус; полный семейный бюджет не установлен.",
+  "limitations": [
+    "Институциональная аккредитация и членство относятся к школе или языковому центру, не автоматически к лагерю 2027.",
+    "Независимые отзывы родителей и фактический состав персонала выбранной смены не установлены.",
+    "Все остальные программы, страны, соревнования, выставки, школы и маршруты остаются в объёме основной цели."
+  ],
+  "no_messages_forms_enrollment_agreements_or_payments": true
+}

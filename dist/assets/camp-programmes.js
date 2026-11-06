@@ -24,7 +24,7 @@
  }
  function editorialMethod(){
   const s=guide.editorial_selection;if(!s)return '';
-  return `<details class="cp-editorial-method"><summary>Как устроен редакционный выбор · ${s.coverage.reviewed} разборов и ${s.coverage.refresh_pending} ожидают обновления</summary><p>${E(s.scope)}</p><p>${s.coverage.review_dossiers} из ${guide.profiles.length} досье · ${s.coverage.countries} стран. Остальные программы ещё не оценены.</p>${s.methodology.map(t=>`<p>${E(t)}</p>`).join('')}<p>${E(s.value_policy)}</p><a href="downloads/STEM_camp_editorial_selection_v190.json" download>Критерии и все редакционные разборы ↓</a></details>`;
+  return `<details class="cp-editorial-method"><summary>Как устроен редакционный выбор · ${s.coverage.reviewed} разборов и ${s.coverage.refresh_pending} ожидают обновления</summary><p>${E(s.scope)}</p><p>${s.coverage.review_dossiers} из ${guide.profiles.length} досье · ${s.coverage.countries} стран. Остальные программы ещё не оценены.</p>${s.methodology.map(t=>`<p>${E(t)}</p>`).join('')}<p>${E(s.value_policy)}</p><a href="downloads/STEM_camp_editorial_selection_v${E(s.version)}.json" download>Критерии и все редакционные разборы ↓</a></details>`;
  }
  const ageText=v=>{const t=String(v??'').trim();return /^\d{1,2}(?:\s*[–-]\s*\d{1,2})?\+?$/.test(t)?t+' лет':t;};
  const variantTerms=v=>{const fields=[['Программа этой смены',v.programme],['Проживание этой смены',v.accommodation],['Доплаты этой смены',v.extras],['Отмена этой смены',v.deposit]];return fields.some(([,value])=>value)?`<dl class="cp-variant-terms">${fields.filter(([,value])=>value).map(([label,value])=>dl(label,value)).join('')}</dl>${v.questions?.length?'<b>Уточнить по этой смене</b><ul>'+v.questions.map(q=>'<li>'+E(q)+'</li>').join('')+'</ul>':''}`:'';};

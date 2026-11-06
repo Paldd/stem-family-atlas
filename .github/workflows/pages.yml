@@ -43,6 +43,8 @@ jobs:
         run: node scripts/verify-family-pairing.cjs
       - name: Verify nearby WRO league and qualification history filters
         run: node scripts/verify-nearby-wro.cjs
+      - name: Verify required camp costs and optional childcare separately
+        run: node scripts/verify-camp-required-costs.cjs
       - name: Record the exact published source revision
         run: python3 scripts/write-release.py
       - name: Configure Pages

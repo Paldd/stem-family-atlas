@@ -2081,26 +2081,51 @@
         {
           "title": "Summer Camp · resumen general",
           "url": "https://www.la-garenne.ch/summer-camps/",
-          "checked": "2026-11-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Workshop PDF:8–12, Título de la página 3/finalphrase2, nivel y proyectos",
           "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Summer Camp 2027 · conditions / fees / day attendance",
           "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
-          "checked": "2026-11-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Read-only form: de las medidas concretas 8–12/500/3",
           "url": "https://www.la-garenne.ch/summer-camps/apply-online/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://www.la-garenne.ch/summer-camps/",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.la-garenne.ch/summer-camps/apply-online/",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-11-05",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-11-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [
         "L249",
         "L250",
@@ -3877,7 +3902,7 @@
         "boarding"
       ],
       "age": "Kids 5–16 por 2027 PDFpage 22/33; La vieja webcategory 5–15 No , no . current 2027.",
-      "language": "curso de inglés o español: 20 de las clases de 45 minutos, Es decir, 15 horas por semana. los niveles A 1–C 2, de los grupos 8–16. la versión en inglés está confirmada por el catálogo 2027; el idioma del deporte y la comunicación cotidiana se especifica por separado.",
+      "language": "Curso de inglés o español: 20 clases de 45 minutos, equivalentes a 15 horas semanales. Niveles A 1–C 2, grupos de 8–16 alumnos. El catálogo de 2027 confirma la opción de inglés; el idioma del deporte y la convivencia debe aclararse por separado.",
       "confirmed_instruction_languages": [
         "EN",
         "ES"
@@ -4129,7 +4154,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4151,7 +4176,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4173,7 +4198,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4195,7 +4220,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4217,7 +4242,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4239,7 +4264,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4261,7 +4286,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4283,7 +4308,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4305,7 +4330,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4327,7 +4352,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -4345,9 +4370,9 @@
       },
       "price": {
         "year": 2027,
-        "label": "Programa residencial EUR 1395/1 una semana, 2495/2, 3895/3, 4895/4. Diurno 600/1200/1800/2400 por 1–4 las semanas. Sólo el lenguaje 300/600/900/1200. más EUR 35 registro del niño.",
+        "label": "Alojamiento EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.",
         "included": "Programa residencial: 20 de las clases de idiomas, los materiales, la habitación común, alimentación, los talleres, deporte, de las clases, excursiones, seguro médico y vigilancia de veinticuatro horas. formato diario de la página–¿Qué es esto ? 09–20: las lecciones, los materiales, almuerzo y clases, sin dormir.. sólo la lengua de la–¿Qué es esto ? 09–12: 30: 20 las clases con descanso, sin un programa completo de campamento.",
-        "extras": "el registro de 35 euros una vez por participante. aeropuerto o estación local EUR 95 por persona a un lado; autobús de campamento de día EUR 250 por 2 semanas donde esté disponible. día de fin de semana EUR 100, noche adicional sábadodomingo EUR 125, forma EUR 130. garantía adicional de cancelación de EUR 300 por semana. deporte de 2 semanas: tenis/padel EUR 290, montar 400, golf 500; edad y disponibilidad de cada opción se especifica. vivienda de los padres y vuelos por separado. dos children 2 week residential+registro EUR 5060; day EUR 2470; sólo clases de idiomas EUR 1270. estos son diversos productos; hotel/flights/extras arriba.",
+        "extras": "Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Barcelona Beach: deportes acuáticos EUR 350, fútbol y tenis EUR 290 por 2 semanas. Pádel, equitación y golf no figuran en el menú publicado de este campus; confirmar edad, condiciones meteorológicas y disponibilidad de la opción elegida. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.",
         "deposit": "condiciones especiales del campamento de niños: si se registra por 4 semanas o menos, se paga la cuenta de forma completa de inmediato. cancelación en las últimas 4 semanas  multa de EUR 850; por 2 semanas o por menos o después de la llegada de no devolución. en las condiciones generales también se indican un depósito de EUR 250 no reembolsable y el resto de 4 semanas: se debe confirmar la aplicabilidad del depósito al campamento elegido, no se añade de nuevo a la tuition. garantía de cancelaciones de EUR 300 por semana es voluntaria, con algunas excepciones."
       },
       "accommodation": "con baño propio, habitaciones de dos personas, aire acondicionado, 4 comidas/día; opcional single +EUR 350/week. Homestay 14+ no se puede designar automáticamente a los menores.",
@@ -4373,15 +4398,15 @@
         {
           "title": "Official 2027 PDF: Beachage 5–16/starts/fees/terms",
           "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Own Beachwebpage todavía en 2026",
           "url": "https://www.enforex.com/en/summer-camps/barcelona",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "previous_seasons": [
         {
           "season": 2026,
@@ -4412,6 +4437,23 @@
         }
       ],
       "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.enforex.com/en/summer-camps/barcelona",
+          "checked": "2026-10-05"
+        }
+      ],
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -10319,26 +10361,51 @@
         {
           "title": "Semanas de verano 2027, EN y precio de varias semanas",
           "url": "https://www.wanderandwonderclub.com/summer-camp",
-          "checked": "2026-11-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Semanas de verano, precio y plazas",
           "url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
-          "checked": "2026-10-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Christmas 2026, invierno 2027 y errata de primavera",
           "url": "https://www.wanderandwonderclub.com/holiday-camp",
-          "checked": "2026-11-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Plantilla de condiciones sin completar · no contrato",
           "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "camp_life",
+      "previous_source_checks": [
+        {
+          "url": "https://www.wanderandwonderclub.com/summer-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.wanderandwonderclub.com/product-page/summer-nature-camp",
+          "checked": "2026-10-04"
+        },
+        {
+          "url": "https://www.wanderandwonderclub.com/holiday-camp",
+          "checked": "2026-11-05"
+        },
+        {
+          "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
           "checked": "2026-11-05"
         }
       ],
-      "checked": "2026-11-05",
-      "language_evidence_role": "camp_life",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-11-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -29020,21 +29087,42 @@
         {
           "title": "Season2027, edad, tres formatos",
           "url": "https://www.lacunza.es/en/camps/lacunza-camp",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "sólo el archivo English catalogue2026",
           "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "forma con las semanas viejas2024",
           "url": "https://www.lacunza.es/en/camps/camp-enrolment",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.lacunza.es/en/camps/camp-enrolment",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -67893,7 +67981,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -67914,7 +68002,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -67935,7 +68023,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -67956,7 +68044,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -67977,7 +68065,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -67998,7 +68086,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68019,7 +68107,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68040,7 +68128,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68061,7 +68149,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68082,7 +68170,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68099,9 +68187,9 @@
       },
       "price": {
         "year": 2027,
-        "label": "Programa residencial EUR 1395/1 una semana, 2495/2, 3895/3, 4895/4. Diurno 600/1200/1800/2400 por 1–4 las semanas. Sólo el lenguaje 300/600/900/1200. más EUR 35 registro del niño.",
+        "label": "Alojamiento EUR 1395/1 semana, 2495/2, 3895/3, 4895/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.",
         "included": "Programa residencial: 20 de las clases de idiomas, los materiales, la habitación común, alimentación, los talleres, deporte, de las clases, excursiones, seguro médico y vigilancia de veinticuatro horas. formato diario de la página–¿Qué es esto ? 09–20: las lecciones, los materiales, almuerzo y clases, sin dormir.. sólo la lengua de la–¿Qué es esto ? 09–12: 30: 20 las clases con descanso, sin un programa completo de campamento.",
-        "extras": "el registro de 35 euros una vez por participante. aeropuerto o estación local EUR 95 por persona a un lado; autobús de campamento de día EUR 250 por 2 semanas donde esté disponible. día de fin de semana EUR 100, noche adicional sábado/domingo EUR 125, forma EUR 130. garantía adicional de cancelación de EUR 300 por semana. deporte en 2 semanas: tenis/padel EUR 290, equitación 400, golf 500; edad y disponibilidad de cada opción se especifica. vivienda de los padres y vuelos por separado.",
+        "extras": "Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Madrid: fútbol, tenis y pádel EUR 290, equitación EUR 400 por 2 semanas; la tabla no asigna golf a este campus. Confirmar edad y disponibilidad de cada opción. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.",
         "deposit": "condiciones especiales del campamento de niños: si se registra por 4 semanas o menos, se paga la cuenta de forma completa de inmediato. cancelación en las últimas 4 semanas  multa de EUR 850; por 2 semanas o por menos o después de la llegada de no devolución. en las condiciones generales también se indican un depósito de EUR 250 no reembolsable y el resto de 4 semanas: se debe confirmar la aplicabilidad del depósito al campamento elegido, no se añade de nuevo a la tuition. garantía de cancelaciones de EUR 300 por semana es voluntaria, con algunas excepciones."
       },
       "accommodation": "No hay vivienda; la vida familiar es laboral, las clases de fin de semana son opcionales.",
@@ -68127,16 +68215,33 @@
         {
           "title": "Official 2027 PDF: campus-specificdates/ages/prices/terms",
           "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Owncamp webpage hasta 2026",
           "url": "https://www.enforex.com/en/summer-camps/madrid",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.enforex.com/en/summer-camps/madrid",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -68725,7 +68830,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68746,7 +68851,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68767,7 +68872,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68788,7 +68893,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68809,7 +68914,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68830,7 +68935,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68851,7 +68956,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68872,7 +68977,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68893,7 +68998,7 @@
             "formats": [
               "day"
             ],
-            "price": "600 EUR tuition +35/person la inscripción = 635 EUR; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 600 de enseñanza +35/persona inscripción = EUR 635; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68914,7 +69019,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68935,7 +69040,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68956,7 +69061,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68977,7 +69082,7 @@
             "formats": [
               "day"
             ],
-            "price": "1200 EUR tuition +35/person la inscripción = 1235; extras por separado",
+            "price": "Parte lectiva sin el autobús obligatorio: EUR 1200 de enseñanza +35/persona inscripción = EUR 1235; suplementos aparte; autobús EUR 250 por 2 semanas por niño, confirmar la factura para la duración elegida",
             "date_precision": "exact",
             "date_scope": "day_camp_window",
             "entry": "el cambio de 2027 publicado; el lugar, la admisión/ habitación y la factura final confirman al operador.",
@@ -68994,9 +69099,9 @@
       },
       "price": {
         "year": 2027,
-        "label": "Programa residencial EUR 1195/1 una semana, 2095/2, 3295/3, 3995/4. Diurno 600/1200/1800/2400 por 1–4 las semanas. Sólo el lenguaje 300/600/900/1200. más EUR 35 registro del niño.",
+        "label": "Alojamiento EUR 1195/1 semana, 2095/2, 3295/3, 3995/4. Campamento de día 600/1200/1800/2400 por 1–4 semanas. Solo idioma 300/600/900/1200. Más EUR 35 de inscripción por niño. En el paquete de día es obligatorio un autobús de EUR 250 por 2 semanas por niño; los precios base de enseñanza no lo incluyen.",
         "included": "Programa residencial: 20 de las clases de idiomas, los materiales, la habitación común, alimentación, los talleres, deporte, de las clases, excursiones, seguro médico y vigilancia de veinticuatro horas. formato diario de la página–¿Qué es esto ? 09–20: las lecciones, los materiales, almuerzo y clases, sin dormir.. sólo la lengua de la–¿Qué es esto ? 09–12: 30: 20 las clases con descanso, sin un programa completo de campamento.",
-        "extras": "el registro de 35 euros una vez por participante. aeropuerto o estación local EUR 95 por persona a un lado; autobús de campamento de día EUR 250 por 2 semanas donde esté disponible. día de fin de semana EUR 100, noche adicional sábado/domingo EUR 125, forma EUR 130. garantía adicional de cancelación de EUR 300 por semana. deporte en 2 semanas: tenis/padel EUR 290, equitación 400, golf 500; edad y disponibilidad de cada opción se especifica. vivienda de los padres y vuelos por separado.",
+        "extras": "Inscripción EUR 35 una vez por participante en el período actual de 12 meses. El autobús diario es obligatorio según la nota del catálogo: EUR 250 por niño por 2 semanas. Aeropuerto o estación local: EUR 95 por persona y trayecto. Día de fin de semana EUR 100, noche adicional de sábado a domingo EUR 125, uniforme EUR 130; garantía voluntaria de cancelación EUR 300 por semana. Alojamiento de los padres y vuelos aparte. Marbella Elviria: fútbol, tenis y pádel EUR 290, equitación EUR 400, golf EUR 500 por 2 semanas; confirmar edad y disponibilidad de cada opción. Primeras 2 semanas de día para dos niños: EUR 2970 con inscripción y autobús obligatorio; es un presupuesto parcial sin el viaje familiar.",
         "deposit": "condiciones especiales del campamento de niños: si se registra por 4 semanas o menos, se paga la cuenta de forma completa de inmediato. cancelación en las últimas 4 semanas  multa de EUR 850; por 2 semanas o por menos o después de la llegada de no devolución. en las condiciones generales también se indican un depósito de EUR 250 no reembolsable y el resto de 4 semanas: se debe confirmar la aplicabilidad del depósito al campamento elegido, no se añade de nuevo a la tuition. garantía de cancelaciones de EUR 300 por semana es voluntaria, con algunas excepciones."
       },
       "accommodation": "No hay vivienda; la vida familiar es laboral, las clases de fin de semana son opcionales.",
@@ -69022,16 +69127,33 @@
         {
           "title": "Official 2027 PDF: campus-specificdates/ages/prices/terms",
           "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "Owncamp webpage hasta 2026",
           "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+          "checked": "2026-10-05"
+        },
+        {
+          "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
           "checked": "2026-10-05"
         }
       ],
-      "checked": "2026-10-05",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-05",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -130291,16 +130413,33 @@
         {
           "title": "temas de verano, otoño y fin de semana del 14 de julio",
           "url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
-          "checked": "2026-10-06"
+          "checked": "2026-11-06"
         },
         {
           "title": "PDF Holiday: fechas, idioma, grupo, precio y cancelación",
           "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "bilingual",
+      "previous_source_checks": [
+        {
+          "url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
+          "checked": "2026-10-06"
+        },
+        {
+          "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
           "checked": "2026-10-06"
         }
       ],
-      "checked": "2026-10-06",
-      "language_evidence_role": "bilingual",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-06",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -130384,16 +130523,33 @@
         {
           "title": "temas de verano, otoño y fin de semana del 14 de julio",
           "url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
-          "checked": "2026-10-06"
+          "checked": "2026-11-06"
         },
         {
           "title": "PDF Holiday: fechas, idioma, grupo, precio y cancelación",
           "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "bilingual",
+      "previous_source_checks": [
+        {
+          "url": "https://www.hoplaboum.fr/camp-de-jour-educatif-bilingue-grenoble",
+          "checked": "2026-10-06"
+        },
+        {
+          "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
           "checked": "2026-10-06"
         }
       ],
-      "checked": "2026-10-06",
-      "language_evidence_role": "bilingual",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-10-06",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -150531,31 +150687,60 @@
         {
           "title": "Tarifa residencia 2027 · tabla comprobada visualmente",
           "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Tarifa day 2027 y días lectivos",
           "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Precios actuales, opciones y grupos de edad",
           "url": "https://www.prefleuricamps.ch/en/summer-fees/",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Contenido del campamento y cursos de idioma",
           "url": "https://www.prefleuricamps.ch/en/summer/",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Condiciones generales de pago y cancelación",
           "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer/",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
           "checked": "2026-11-04"
         }
       ],
-      "checked": "2026-11-04",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-11-04",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -153496,31 +153681,60 @@
         {
           "title": "Tarifa residencia 2027 · tabla comprobada visualmente",
           "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Tarifa day 2027 y días lectivos",
           "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Precios actuales, opciones y grupos de edad",
           "url": "https://www.prefleuricamps.ch/en/summer-fees/",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Contenido del campamento y cursos de idioma",
           "url": "https://www.prefleuricamps.ch/en/summer/",
-          "checked": "2026-11-04"
+          "checked": "2026-11-06"
         },
         {
           "title": "Condiciones generales de pago y cancelación",
           "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "language_evidence_role": "language_lessons",
+      "previous_source_checks": [
+        {
+          "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/summer/",
+          "checked": "2026-11-04"
+        },
+        {
+          "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
           "checked": "2026-11-04"
         }
       ],
-      "checked": "2026-11-04",
-      "language_evidence_role": "language_lessons",
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-11-04",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -234120,10 +234334,12 @@
           "detail": "En 2027 Oscar tiene 6–7. Si mínimo 7 se aplica al primer día, fecha de nacimiento debe ser anterior al turno elegido. Encabezado 5–12 no se acepta como garantía de admisión a los seis."
         }
       },
-      "editorial_reason": "Exhibición lectiva, medalla de participante, puesto nacional y título mundial son resultados distintos.",
+      "editorial_reason": "Campamento de aventura con comunidad EN/HE: antes de elegirlo se necesitan la base exacta de montaña, la admisión por edad del menor y todos los componentes del viaje.",
       "shortlist": [],
       "questions": [
-        "Confirmar curso real, edad de corte, admisión extranjera, composición, idioma y plazas. Sin solicitudes ni pagos."
+        "Confirmar las direcciones y la base de montaña exactas, la duración con los desplazamientos y los alojamientos nocturnos.",
+        "Aclarar la fecha de corte de edad de Oscar, el apoyo en inglés, el personal y la comunicación con los padres.",
+        "Obtener una factura completa con vuelos, traslados, seguro y condiciones de cancelación del viaje elegido."
       ],
       "sources": [
         {
@@ -234148,6 +234364,31 @@
         }
       ],
       "checked": "2026-11-06",
+      "previous_source_checks": [
+        {
+          "url": "https://www.eng.campkimama.org/barcelona",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://www.eng.campkimama.org/dates-fees",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://www.eng.campkimama.org/faq",
+          "checked": "2026-11-06"
+        },
+        {
+          "url": "https://www.eng.campkimama.org/cancellation-policy",
+          "checked": "2026-11-06"
+        }
+      ],
+      "source_refresh": {
+        "version": 192,
+        "checked": "2026-11-06",
+        "status": "editorial_and_primary_source_readback",
+        "previous_checked": "2026-11-06",
+        "limits": "Se actualizaron el análisis editorial, las fuentes y las contradicciones indicadas; no se han confirmado por separado las plazas reales, la admisión ni el personal del turno."
+      },
       "related_event_ids": [
         "L611"
       ],
@@ -239871,7 +240112,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 190,
+  "version": 192,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -240614,7 +240855,7 @@
     ]
   },
   "editorial_selection": {
-    "version": 190,
+    "version": 192,
     "checked": "2026-11-06",
     "title": "Selección editorial según el objetivo",
     "scope": "Primer conjunto de análisis detallados. Es una valoración editorial, no una clasificación mundial oficial ni una lista completa de los mejores campamentos.",
@@ -240679,7 +240920,8 @@
       "El estado de cada criterio indica qué información se pudo obtener. Las condiciones concretas publicadas por el organizador no constituyen una verificación independiente de la calidad, la supervisión o la seguridad.",
       "Los programas no evaluados permanecen en el catálogo. Su posición no significa menor calidad. Los datos desconocidos no reciben un cero ni se convierten en estrellas inventadas.",
       "Las plazas, la admisión, el idioma del grupo y la preparación para alojarse sin los padres se verifican por separado. Una fecha o un botón de inscripción no prueban que haya plazas disponibles.",
-      "Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes."
+      "Las reseñas externas deben tener su propia fuente y fecha. En esta revisión no se han investigado opiniones independientes; los testimonios publicados por el organizador no se presentan como independientes.",
+      "Un registro externo puede confirmar el estatus de una escuela o centro de idiomas. Ese estatus no se aplica automáticamente a un turno de verano, otro campus, un grupo de inglés ni la calidad de su supervisión. Las fuentes institucionales se distinguen de las reseñas independientes de padres."
     ],
     "value_policy": "La valoración del contenido frente al precio total queda aplazada: aún no se conoce el presupuesto familiar completo con todos los gastos obligatorios. Una tarifa parcial y monedas distintas no permiten afirmar qué campamento ofrece el mejor precio.",
     "unreviewed_policy": "Todavía no se ha realizado el análisis editorial de este programa. Esto no es una valoración de su calidad.",
@@ -244408,17 +244650,1761 @@
             "read_status": "read"
           }
         ]
+      },
+      {
+        "programme_id": "CP002",
+        "slug": "la-garenne",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Campamento alpino general con clases de idiomas y una opción técnica breve e independiente para el hijo mayor.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "La base son las clases matutinas de inglés o francés, deporte y excursiones. Un taller aparte describe VEX IQ/V5, Python, diseño 3D y montaje de un altavoz Bluetooth; no se ha publicado el número de horas lectivas.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer-camps/",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Robotics Workshop",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "conflict",
+            "note": "El grupo principal de 5–12 es adecuado para ambos. Las condiciones concretas y el taller indican 8–12, mientras el menú del sitio muestra Robotics para 5–9: no está confirmada la admisión de Oscar a la opción técnica.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camp 2027 Conditions",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Robotics Workshop",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer-camps/",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "Se confirma EN/FR para las clases matutinas de idiomas; no se han establecido por separado el idioma del taller técnico ni el de las demás actividades.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camp 2027 Conditions",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Robotics Workshop",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "El sitio anuncia una proporción de niños y personal de 4:1. No se han verificado de forma independiente las cualificaciones ni la composición del equipo técnico del turno elegido.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer-camps/",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Para el alojamiento se anuncian supervisión permanente y controles diarios de bienestar; habitaciones de 4–6. El paquete de día tiene horario y transporte de regreso propios. Las normas limitan el acceso de los padres al campus y prohíben dispositivos GPS.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer-camps/",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camp 2027 Conditions",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "conflict",
+            "note": "La base y los suplementos están publicados: Robotics ofrece 3 sesiones por CHF 500, pero el final del folleto del taller habla de dos sesiones. El seguro y el dinero de bolsillo se añaden aparte; los hermanos deben elegir el mismo formato de día o con alojamiento.",
+            "sources": [
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Summer Camp 2027 Conditions",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+                "checked": "2026-11-06",
+                "title": "La Garenne · Robotics Workshop",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "CIS anunció la renovación de la acreditación de la escuela el 26 de febrero de 2026; SGIS incluye la escuela en su lista. Es información externa sobre la institución, no una verificación específica del taller de verano de 2027.",
+            "sources": [
+              {
+                "url": "https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland",
+                "checked": "2026-11-06",
+                "title": "CIS · Re-accredited: La Garenne International School",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.sgischools.com/member-schools",
+                "checked": "2026-11-06",
+                "title": "SGIS · Our Members",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "priority",
+            "reason": "Vacaciones generales variadas en un campus escolar; elegir el grupo de edad y las condiciones familiares."
+          },
+          "language": {
+            "tier": "priority",
+            "reason": "El curso matutino EN/FR forma parte del programa principal; confirmar el nivel y el grupo."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Hay que considerar el sábado de la primera semana, el transporte de regreso y el alojamiento independiente de la familia."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Antes de una estancia sin los padres, conviene aclarar la preparación del menor, la comunicación familiar y las restricciones sobre dispositivos."
+          },
+          "engineering": {
+            "tier": "alternative",
+            "reason": "Opción técnica breve para Matvey dentro de 8–12; deben confirmarse las horas y el idioma, y la opción no está confirmada para Oscar."
+          },
+          "future": {
+            "tier": "alternative",
+            "reason": "El menor puede considerar la opción técnica después del umbral de edad; no se han establecido por separado las fechas de futuras temporadas."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.la-garenne.ch/summer-camps/",
+            "checked": "2026-11-06",
+            "title": "La Garenne · Summer Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.la-garenne.ch/summer/repository/summer_robotics_workshop.pdf",
+            "checked": "2026-11-06",
+            "title": "La Garenne · Robotics Workshop",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.la-garenne.ch/summer/repository/summer-conditions.pdf",
+            "checked": "2026-11-06",
+            "title": "La Garenne · Summer Camp 2027 Conditions",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland",
+            "checked": "2026-11-06",
+            "title": "CIS · Re-accredited: La Garenne International School",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.sgischools.com/member-schools",
+            "checked": "2026-11-06",
+            "title": "SGIS · Our Members",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1164",
+        "slug": "prefleuri-summer-board-2027",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Programa de idiomas y vacaciones generales por grupos de edad; no se anuncia un curso independiente de robótica.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Por la mañana, idiomas o apoyo académico; después, deporte, naturaleza y excursiones. Las semanas temáticas son opciones independientes con su propia edad mínima.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Boarding",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "El paquete elegido de 5–14 incluye la edad general de ambos. El curso de idiomas comienza a los 6 años; algunas excursiones opcionales requieren 8 o 10.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Fees 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Boarding",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "El PDF indica 15 horas semanales de EN/FR desde los 6 años. Confirma el idioma del curso, no el de cada hora de deporte o excursiones.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Boarding",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Se describen la enseñanza y la distribución por edad; no se han establecido las cualificaciones del personal asignado ni la proporción de adultos por niño de este turno.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "El alojamiento incluye estancia, comidas y seguro. Hay que confirmar la distribución nocturna del personal, el tamaño de la habitación y la comunicación con la familia.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Boarding",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "conflict",
+            "note": "Los precios de 2027 están publicados; el descuento por duración ya está incluido y los descuentos no se acumulan. Los documentos difieren sobre la base del descuento al segundo hijo y el uniforme; comprobar la factura final y la cancelación.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Fees 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · General Terms and Conditions",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Boarding",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "AVDEP publica el perfil de la escuela y sus idiomas. Figurar en la asociación no equivale a una inspección independiente del turno de verano de 2027.",
+            "sources": [
+              {
+                "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+                "checked": "2026-11-06",
+                "title": "AVDEP · Ecole Pré-Fleuri",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "Hay una carga lectiva concreta de idiomas para la edad de ambos; confirmar el nivel y el idioma elegido."
+          },
+          "general": {
+            "tier": "priority",
+            "reason": "Combina idiomas con naturaleza, deporte y distintos grupos infantiles por edad."
+          },
+          "family_day": {
+            "tier": "not_target",
+            "reason": "Este análisis corresponde al programa con alojamiento; el de día se describe por separado."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Comprobar la autonomía de los niños, la supervisión nocturna y la comunicación con la familia."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-FINAL-2027-ENG-PRINT.pdf",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Camps 2027 Boarding",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Fees 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · General Terms and Conditions",
+            "read_status": "read"
+          },
+          {
+            "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+            "checked": "2026-11-06",
+            "title": "AVDEP · Ecole Pré-Fleuri",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1165",
+        "slug": "prefleuri-summer-day-2027",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Programa de idiomas y vacaciones generales por grupos de edad; no se anuncia un curso independiente de robótica.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Por la mañana, idiomas o apoyo académico; después, deporte, naturaleza y excursiones. Las semanas temáticas son opciones independientes con su propia edad mínima.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Day Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "El paquete elegido de 5–14 incluye la edad general de ambos. El curso de idiomas comienza a los 6 años; algunas excursiones opcionales requieren 8 o 10.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Fees 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Day Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "partial",
+            "note": "El PDF indica 15 horas semanales de EN/FR desde los 6 años. Confirma el idioma del curso, no el de cada hora de deporte o excursiones.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Day Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Se describen la enseñanza y la distribución por edad; no se han establecido las cualificaciones del personal asignado ni la proporción de adultos por niño de este turno.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Horario de día de 09:00–18:00 entre semana; minibús local incluido y sin fines de semana. El PDF del paquete de día no enumera expresamente las comidas; los padres deben asegurar a los niños.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Day Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "conflict",
+            "note": "Los precios de 2027 están publicados; el descuento por duración ya está incluido y los descuentos no se acumulan. Los documentos difieren sobre la base del descuento al segundo hijo y el uniforme; comprobar la factura final y la cancelación.",
+            "sources": [
+              {
+                "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Fees 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · General Terms and Conditions",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+                "checked": "2026-11-06",
+                "title": "Préfleuri · Summer Camps 2027 Day Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "AVDEP publica el perfil de la escuela y sus idiomas. Figurar en la asociación no equivale a una inspección independiente del turno de verano de 2027.",
+            "sources": [
+              {
+                "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+                "checked": "2026-11-06",
+                "title": "AVDEP · Ecole Pré-Fleuri",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "Hay una carga lectiva concreta de idiomas para la edad de ambos; confirmar el nivel y el idioma elegido."
+          },
+          "general": {
+            "tier": "priority",
+            "reason": "Combina idiomas con naturaleza, deporte y distintos grupos infantiles por edad."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "Puede combinarse con un viaje de los padres y actividades de día para los niños; alojamiento, comidas y seguro requieren un presupuesto independiente."
+          },
+          "first_boarding": {
+            "tier": "not_target",
+            "reason": "El programa de día no proporciona experiencia de alojamiento sin los padres."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/wp-content/uploads/2026/10/PREFLEURI-SUMMER-CAMPS-PRICELIST-DAYSTUDENTS-2027-ENG-EXTERNAL-PRINT.pdf",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Camps 2027 Day Camp",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/en/summer-fees/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · Summer Fees 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.prefleuricamps.ch/en/general-terms-and-conditions/",
+            "checked": "2026-11-06",
+            "title": "Préfleuri · General Terms and Conditions",
+            "read_status": "read"
+          },
+          {
+            "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+            "checked": "2026-11-06",
+            "title": "AVDEP · Ecole Pré-Fleuri",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP060",
+        "slug": "wander-nature",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Vacaciones de día en la naturaleza con inmersión en inglés; antes de reservar se necesitan condiciones vigentes del organizador.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "Observación de la naturaleza, construcción de refugios, creatividad y juegos cooperativos; no se anuncia un programa técnico independiente.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "Se publica un rango de 3–12; confirmar el subgrupo de edad y la preparación para pasar todo el día en la naturaleza.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Se describe una inmersión en inglés con guías bilingües EN/FR durante las actividades al aire libre.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Se confirma la descripción de guías bilingües; no se han establecido sus cualificaciones ni el tamaño del grupo de la semana elegida.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Entre semana de 09:00–16:00 y dos tentempiés; la familia lleva el almuerzo. Las condiciones meteorológicas, cambios y sede definitiva deben obtenerse por separado.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.wanderandwonderclub.com/holiday-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Holiday Camp",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "EUR 380 por una semana o EUR 360 por semana al contratar varias semanas para el mismo niño. El enlace de condiciones sigue mostrando una plantilla Wix; no se han establecido las condiciones reales de cancelación y pago.",
+            "sources": [
+              {
+                "url": "https://www.wanderandwonderclub.com/summer-camp",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Summer Camp",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+                "checked": "2026-11-06",
+                "title": "Wander & Wonder · Terms and Conditions",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "alternative",
+            "reason": "El inglés se usa durante las vacaciones generales en la naturaleza; todavía deben confirmarse el contrato y el grupo concreto."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Los padres se alojan cerca y proporcionan almuerzo y transporte; antes de pagar se necesita un contrato real."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Puede servir para unas vacaciones al aire libre tras confirmar las condiciones y la sede."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.wanderandwonderclub.com/summer-camp",
+            "checked": "2026-11-06",
+            "title": "Wander & Wonder · Summer Camp",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.wanderandwonderclub.com/holiday-camp",
+            "checked": "2026-11-06",
+            "title": "Wander & Wonder · Holiday Camp",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.wanderandwonderclub.com/terms-and-conditions",
+            "checked": "2026-11-06",
+            "title": "Wander & Wonder · Terms and Conditions",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1001",
+        "slug": "hopla-winter",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Grupo pequeño bilingüe de día; deben confirmarse la edad máxima real y la plaza.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "El documento Holiday Camp describe arte, experimentos, cocina, deporte y proyectos cooperativos. No se anuncian el tema detallado de la semana concreta ni robótica.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "El día completo está previsto desde los 5 años; no se indica la edad máxima del grupo de vacaciones. Hay que confirmar la admisión de Matvey de 9–10 y Oscar de 6–7 y el grupo correspondiente.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "El documento de vacaciones describe expresamente una comunidad FR/EN sin nivel previo de inglés. Es comunicación bilingüe; confirmar el apoyo al niño que no habla francés.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Se describen un equipo pedagógico bilingüe y un asistente, con un máximo de 12 niños. No se han verificado por separado los nombres ni las cualificaciones del personal asignado.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Horario de día de 09:00–16:30, con cuidado adicional de 08:30–09:00 y 16:30–18:00. La familia lleva la comida y ambos tentempiés; no hay alojamiento.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "La semana cuesta EUR 290 por niño y el cuidado adicional EUR 2,50 por media hora. Hay condiciones escritas de cancelación y devolución; el turno abre con un mínimo de 6 niños. La tarifa publicada no confirma una plaza.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "alternative",
+            "reason": "Puede servir para practicar FR/EN en un grupo pequeño tras confirmar la edad y el apoyo sin francés."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Actividades creativas y científicas de día; todavía debe aclararse el contenido de la semana elegida."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Puede combinarse con el alojamiento de los padres en la región; el presupuesto contempla por separado cuidado adicional, comidas y transporte."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+            "checked": "2026-11-06",
+            "title": "HoplaBoum · Holiday Camp 2026–2027",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1002",
+        "slug": "hopla-spring",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Grupo pequeño bilingüe de día; deben confirmarse la edad máxima real y la plaza.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "El documento Holiday Camp describe arte, experimentos, cocina, deporte y proyectos cooperativos. No se anuncian el tema detallado de la semana concreta ni robótica.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "El día completo está previsto desde los 5 años; no se indica la edad máxima del grupo de vacaciones. Hay que confirmar la admisión de Matvey de 9–10 y Oscar de 6–7 y el grupo correspondiente.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "El documento de vacaciones describe expresamente una comunidad FR/EN sin nivel previo de inglés. Es comunicación bilingüe; confirmar el apoyo al niño que no habla francés.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "Se describen un equipo pedagógico bilingüe y un asistente, con un máximo de 12 niños. No se han verificado por separado los nombres ni las cualificaciones del personal asignado.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Horario de día de 09:00–16:30, con cuidado adicional de 08:30–09:00 y 16:30–18:00. La familia lleva la comida y ambos tentempiés; no hay alojamiento.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "La semana cuesta EUR 290 por niño y el cuidado adicional EUR 2,50 por media hora. Hay condiciones escritas de cancelación y devolución; el turno abre con un mínimo de 6 niños. La tarifa publicada no confirma una plaza.",
+            "sources": [
+              {
+                "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+                "checked": "2026-11-06",
+                "title": "HoplaBoum · Holiday Camp 2026–2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "alternative",
+            "reason": "Puede servir para practicar FR/EN en un grupo pequeño tras confirmar la edad y el apoyo sin francés."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Actividades creativas y científicas de día; todavía debe aclararse el contenido de la semana elegida."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "Puede combinarse con el alojamiento de los padres en la región; el presupuesto contempla por separado cuidado adicional, comidas y transporte."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.hoplaboum.fr/_files/ugd/a1f5ce_1e97094824074869bbab6277d9d5dc8b.pdf",
+            "checked": "2026-11-06",
+            "title": "HoplaBoum · Holiday Camp 2026–2027",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP018",
+        "slug": "enforex-barcelona",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.enforex.com/en/summer-camps/barcelona",
+                "checked": "2026-11-06",
+                "title": "Enforex · Barcelona Beach",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "El paquete infantil de Barcelona Beach se publica para 5–16. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Hay productos distintos: alojamiento, campamento de día y solo clases de idiomas. La supervisión permanente corresponde al alojamiento; el paquete de día se visita entre semana de 09:00–20:00.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "Instituto Cervantes incluye el centro urbano de Enforex en Barcelona. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.",
+            "sources": [
+              {
+                "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+                "checked": "2026-11-06",
+                "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "Hay clases EN/ES publicadas por niveles y categorías infantiles por edad."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          },
+          "first_boarding": {
+            "tier": "alternative",
+            "reason": "Considerar específicamente el alojamiento infantil tras comprobar la autonomía cotidiana y el apoyo nocturno a los más pequeños."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+            "checked": "2026-11-06",
+            "title": "Enforex Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.enforex.com/en/summer-camps/barcelona",
+            "checked": "2026-11-06",
+            "title": "Enforex · Barcelona Beach",
+            "read_status": "read"
+          },
+          {
+            "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+            "checked": "2026-11-06",
+            "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP477",
+        "slug": "enforex-madrid-day",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.enforex.com/en/summer-camps/madrid",
+                "checked": "2026-11-06",
+                "title": "Enforex · Madrid",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "El paquete infantil de Madrid se publica para 5–18. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Este perfil corresponde al paquete de día entre semana de 09:00–20:00, con almuerzo y actividades. La supervisión permanente del folleto corresponde al alojamiento, no a la asistencia de día.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "Instituto Cervantes incluye el centro urbano de Enforex en Madrid. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.",
+            "sources": [
+              {
+                "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+                "checked": "2026-11-06",
+                "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "Hay clases EN/ES publicadas por niveles y categorías infantiles por edad."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+            "checked": "2026-11-06",
+            "title": "Enforex Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.enforex.com/en/summer-camps/madrid",
+            "checked": "2026-11-06",
+            "title": "Enforex · Madrid",
+            "read_status": "read"
+          },
+          {
+            "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+            "checked": "2026-11-06",
+            "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP479",
+        "slug": "enforex-marbella-elviria-day",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Campamento internacional de idiomas y vacaciones generales; el paquete de día tiene transporte obligatorio y un precio con componentes propios.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "documented",
+            "note": "La base son clases de idiomas, deporte, actividades culturales y excursiones. El nombre del campus o una sala de juegos no confirman un curso de ingeniería.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+                "checked": "2026-11-06",
+                "title": "Enforex · Marbella Elviria",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "documented",
+            "note": "El paquete infantil de Marbella Elviria se publica para 5–18. El grupo de edad, el nivel del idioma y la plaza se confirman por separado.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Puede elegirse ES o EN: 20 clases de 45 minutos, equivalentes a 15 horas semanales; grupos de 8–16 alumnos. Es el idioma del curso, no una promesa de comunicación únicamente en inglés.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "El folleto anuncia monitores preparados y un monitor por cada 8–12 niños, además de profesores cualificados. No se ha verificado por separado el personal real del campus de 2027.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "documented",
+            "note": "Este perfil corresponde al paquete de día entre semana de 09:00–20:00, con almuerzo y actividades. La supervisión permanente del folleto corresponde al alojamiento, no a la asistencia de día.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "documented",
+            "note": "Según la nota del catálogo, el transporte diario del paquete de día es obligatorio: EUR 250 por niño por 2 semanas, además del precio base y EUR 35 de inscripción. El presupuesto de las dos primeras semanas para los hermanos con estos conceptos es EUR 2970; vuelos y alojamiento de los padres van aparte.",
+            "sources": [
+              {
+                "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+                "checked": "2026-11-06",
+                "title": "Enforex Camps 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "Instituto Cervantes incluye el centro urbano de Enforex en Marbella. Es el estatus de un centro de idiomas; no se ha establecido una acreditación independiente del campus de verano ni del grupo infantil de inglés.",
+            "sources": [
+              {
+                "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+                "checked": "2026-11-06",
+                "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "priority",
+            "reason": "Hay clases EN/ES publicadas por niveles y categorías infantiles por edad."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Idiomas, deporte y convivencia internacional; elegir por separado el campus y el grupo de edad."
+          },
+          "family_day": {
+            "tier": "priority",
+            "reason": "La familia puede alojarse cerca; el autobús obligatorio ya está incluido en el presupuesto parcial."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://download.enforex.com/pdf/enforex-summercamps.pdf",
+            "checked": "2026-11-06",
+            "title": "Enforex Camps 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.enforex.com/en/summer-camps/marbella-elviria",
+            "checked": "2026-11-06",
+            "title": "Enforex · Marbella Elviria",
+            "read_status": "read"
+          },
+          {
+            "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+            "checked": "2026-11-06",
+            "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP175",
+        "slug": "lacunza-general",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Campamento de idiomas con opciones de mañana, día y alojamiento; los detalles de la nueva temporada todavía son parciales.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "La página de 2027 describe idiomas, juegos y deporte. El folleto de 2026 indica 1,5 horas de idiomas por día entre semana; no es una carga lectiva confirmada para 2027.",
+            "sources": [
+              {
+                "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Summer Camp 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Spanish Courses 2026",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "El rango general de 6–13 incluye la edad de ambos; confirmar la edad mínima específica para alojarse sin los padres y el nuevo grupo.",
+            "sources": [
+              {
+                "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Summer Camp 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "Se ofrecen clases de inglés o español. Todavía deben aclararse el idioma de la convivencia y el del nuevo grupo elegido.",
+            "sources": [
+              {
+                "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Summer Camp 2027",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "unknown",
+            "note": "No se han establecido el tamaño del grupo, la proporción de adultos por niño ni el personal asignado para 2027.",
+            "sources": []
+          },
+          {
+            "key": "care",
+            "state": "partial",
+            "note": "Existen formatos de mañana, día y completo; la residencia Olarain se describe en el archivo de 2026. El folleto anterior no confirma el alojamiento ni la supervisión de 2027.",
+            "sources": [
+              {
+                "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Summer Camp 2027",
+                "read_status": "read"
+              },
+              {
+                "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Spanish Courses 2026",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Los precios encontrados corresponden a 2026 y el formulario de inscripción a 2024. Hay que obtener por separado el nuevo precio de 2027, las unidades de los cargos obligatorios y el contrato.",
+            "sources": [
+              {
+                "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Spanish Courses 2026",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.lacunza.es/en/camps/camp-enrolment",
+                "checked": "2026-11-06",
+                "title": "Lacunza · Camp Enrolment",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "partial",
+            "note": "Eaquals incluye Lacunza International House San Sebastian y vincula su perfil a lacunza.es. Es una acreditación del centro de idiomas, no una prueba de una inspección independiente del campamento infantil de 2027.",
+            "sources": [
+              {
+                "url": "https://www.eaquals.org/our-members/accredited-members/",
+                "checked": "2026-11-06",
+                "title": "Eaquals · Accredited Members",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/",
+                "checked": "2026-11-06",
+                "title": "Eaquals · Lacunza, International House - San Sebastian",
+                "read_status": "read"
+              }
+            ]
+          }
+        ],
+        "goals": {
+          "language": {
+            "tier": "alternative",
+            "reason": "Considerar el formato de idiomas tras confirmar la nueva carga lectiva y la tarifa."
+          },
+          "general": {
+            "tier": "alternative",
+            "reason": "Campamento general con idiomas y deporte; todavía hay que elegir la semana concreta dentro de la temporada publicada."
+          },
+          "family_day": {
+            "tier": "alternative",
+            "reason": "El formato de día puede considerarse tras obtener el programa vigente y la factura completa."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.lacunza.es/en/camps/lacunza-camp",
+            "checked": "2026-11-06",
+            "title": "Lacunza · Summer Camp 2027",
+            "read_status": "read"
+          },
+          {
+            "url": "https://lacunza.com/wp-content/uploads/2025/11/Catalogo_Lacunza_EN_26.pdf",
+            "checked": "2026-11-06",
+            "title": "Lacunza · Spanish Courses 2026",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.lacunza.es/en/camps/camp-enrolment",
+            "checked": "2026-11-06",
+            "title": "Lacunza · Camp Enrolment",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eaquals.org/our-members/accredited-members/",
+            "checked": "2026-11-06",
+            "title": "Eaquals · Accredited Members",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/",
+            "checked": "2026-11-06",
+            "title": "Eaquals · Lacunza, International House - San Sebastian",
+            "read_status": "read"
+          }
+        ]
+      },
+      {
+        "programme_id": "CP1493",
+        "slug": "kimama-barcelona",
+        "checked": "2026-11-06",
+        "status": "reviewed",
+        "summary": "Viaje de aventura con pernoctaciones y convivencia bilingüe; la ruta y las inclusiones requieren confirmación adicional.",
+        "criteria": [
+          {
+            "key": "curriculum",
+            "state": "partial",
+            "note": "Se anuncian excursiones, deporte y aventuras; no se ha establecido un programa técnico independiente ni un curso sistemático de idiomas.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/barcelona",
+                "checked": "2026-11-06",
+                "title": "Kimama · Barcelona",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "age",
+            "state": "partial",
+            "note": "Se publica un rango de 7–18. En 2027, Oscar tendrá 6–7: la posibilidad de participar depende de la fecha de corte y la edad al comenzar, no solo del año de nacimiento.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Kimama · FAQ",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "language",
+            "state": "documented",
+            "note": "La FAQ describe inglés y hebreo en la vida del campamento. Esto no implica una clase independiente completamente en EN ni español por el país donde se realiza.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Kimama · FAQ",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "mentors",
+            "state": "partial",
+            "note": "El sitio tiene una sección de personal; no se han confirmado los empleados asignados al viaje, sus cualificaciones ni el tamaño del grupo.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/barcelona",
+                "checked": "2026-11-06",
+                "title": "Kimama · Barcelona",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "care",
+            "state": "conflict",
+            "note": "El programa implica pernoctaciones en distintos lugares, pero no se han establecido la base de montaña exacta, las direcciones ni la supervisión nocturna. La descripción geográfica de la FAQ necesita corrección.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/barcelona",
+                "checked": "2026-11-06",
+                "title": "Kimama · Barcelona",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/faq",
+                "checked": "2026-11-06",
+                "title": "Kimama · FAQ",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "cost",
+            "state": "partial",
+            "note": "Se publican el 19–27 de agosto de 2027 e ILS 15900 por niño. La descripción anterior de duración y las inclusiones deben aclararse; no se han establecido el vuelo ni los componentes exactos de la factura individual.",
+            "sources": [
+              {
+                "url": "https://www.eng.campkimama.org/dates-fees",
+                "checked": "2026-11-06",
+                "title": "Kimama · Dates and Fees",
+                "read_status": "read"
+              },
+              {
+                "url": "https://www.eng.campkimama.org/cancellation-policy",
+                "checked": "2026-11-06",
+                "title": "Kimama · Cancellation Policy",
+                "read_status": "read"
+              }
+            ]
+          },
+          {
+            "key": "reputation",
+            "state": "unknown",
+            "note": "No se han establecido reseñas independientes de padres ni una evaluación externa de este turno concreto; los testimonios publicados por el organizador no se consideran independientes.",
+            "sources": []
+          }
+        ],
+        "goals": {
+          "general": {
+            "tier": "alternative",
+            "reason": "Considerarlo después de aclarar la ruta real, las direcciones, la edad del menor y los componentes completos del viaje."
+          },
+          "language": {
+            "tier": "alternative",
+            "reason": "Puede permitir práctica bilingüe EN/HE; no es un curso intensivo independiente de inglés confirmado."
+          },
+          "future": {
+            "tier": "alternative",
+            "reason": "Si el menor no cumple la edad, comprobar la próxima temporada tras su anuncio; no se presuponen fechas futuras."
+          },
+          "engineering": {
+            "tier": "not_target",
+            "reason": "Este análisis confirma vacaciones generales o de idiomas; no se ha establecido un curso específico de robótica, IA o ingeniería."
+          }
+        },
+        "sources": [
+          {
+            "url": "https://www.eng.campkimama.org/barcelona",
+            "checked": "2026-11-06",
+            "title": "Kimama · Barcelona",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eng.campkimama.org/faq",
+            "checked": "2026-11-06",
+            "title": "Kimama · FAQ",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eng.campkimama.org/dates-fees",
+            "checked": "2026-11-06",
+            "title": "Kimama · Dates and Fees",
+            "read_status": "read"
+          },
+          {
+            "url": "https://www.eng.campkimama.org/cancellation-policy",
+            "checked": "2026-11-06",
+            "title": "Kimama · Cancellation Policy",
+            "read_status": "read"
+          }
+        ]
       }
     ],
     "coverage": {
       "total_dossiers": 1497,
-      "reviewed": 24,
+      "reviewed": 35,
       "refresh_pending": 3,
-      "review_dossiers": 27,
+      "review_dossiers": 38,
       "countries": 14,
       "independent_review_sources": 0,
-      "full_trip_value_assessments": 0
-    }
+      "full_trip_value_assessments": 0,
+      "external_institutional_sources": 5
+    },
+    "external_institutional_sources": [
+      {
+        "issuer": "CIS",
+        "scope": "school_accreditation",
+        "url": "https://www.cois.org/about-cis/news/post/~board/reaccredited/post/re-accredited-la-garenne-international-school-switzerland",
+        "checked": "2026-11-06",
+        "title": "CIS · Re-accredited: La Garenne International School",
+        "read_status": "read"
+      },
+      {
+        "issuer": "SGIS",
+        "scope": "school_membership",
+        "url": "https://www.sgischools.com/member-schools",
+        "checked": "2026-11-06",
+        "title": "SGIS · Our Members",
+        "read_status": "read"
+      },
+      {
+        "issuer": "AVDEP",
+        "scope": "school_directory",
+        "url": "https://avdep.ch/en/school/ecole-pre-fleuri/",
+        "checked": "2026-11-06",
+        "title": "AVDEP · Ecole Pré-Fleuri",
+        "read_status": "read"
+      },
+      {
+        "issuer": "Eaquals",
+        "scope": "language_centre_accreditation",
+        "url": "https://www.eaquals.org/our-members/find-a-language-course/lacunza-international-house-san-sebastian/",
+        "checked": "2026-11-06",
+        "title": "Eaquals · Lacunza, International House - San Sebastian",
+        "read_status": "read"
+      },
+      {
+        "issuer": "Instituto Cervantes",
+        "scope": "spanish_language_centre_register",
+        "url": "https://acreditacion.cervantes.es/centros_espana.htm",
+        "checked": "2026-11-06",
+        "title": "Instituto Cervantes · Relación de Centros acreditados en España",
+        "read_status": "read"
+      }
+    ]
   },
   "event_links": [
     {
