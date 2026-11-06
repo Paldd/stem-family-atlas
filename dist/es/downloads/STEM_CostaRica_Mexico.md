@@ -2235,11 +2235,11 @@ edad: Solo cursos reales 5–6 de primaria y 1–3 de secundaria; edad no sustit
 Matway: Condicional
 Óscar: Condicional
 Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
-Acceso: Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.
-Precio: Tarifa de etapa elegida e invoice final sin establecer; desconocido no equivale a cero.
-Limitaciones: Página de Tecnológico de Monterrey confirma 5 de diciembre. Cursos de Matvey y Oscar desconocidos; sin asignar curso acelerado ni ordinario automáticamente. Entrada de visitante y próxima edición sin anunciar en página leída.
+Acceso: Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado.
+Precio: MXN 1800 por equipo con kit / curso de coach o 1200 sin kit para reutilizar componentes. Kit: chasis, Arduino, motor driver y portapilas; factura completa, viaje y piezas adicionales aparte.
+Limitaciones: Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado. Bluetooth; máximo 12 V, 1.9 kg con batería y 1.2 kg sin ella. Dimensiones iniciales 300 × 300 × 400 mm, tras inicio 400 × 400 × 500 mm; ruedas máximo 76.2 mm. Hidráulica y neumática prohibidas. Partidas de 3 minutos. Texto del manual habla de alianza con otro robot, pero esquema inicial describe 3 robots por lado; discrepancia interna, confirmar composición exacta de alianza.
 Fuente: https://sites.google.com/tec.mx/roboblasters/inicio
-Se ha comprobado: 2026-11-05
+Se ha comprobado: 2026-11-06
 
 ### L476 · Creston CFP · COOPECOCEIC · 4–7
 
@@ -2266,6 +2266,45 @@ Precio: Precio total actual sin publicar en fuentes leídas. Gastos desconocidos
 Limitaciones: Clases STEAM presenciales regulares: robótica inicial, bloques, modelos, sensores / motores, Scratch y Tinkercad. Dos grupos de edad distintos; marcas concretas de kits sustituidas por campos vacíos. Sin prometer LEGO / VEX ni preparación para liga concreta. Confirmar nueva convocatoria, plaza, curso / edad, admisión externa y extranjera, nivel tras tres años de competiciones, idioma, equipo y factura completa. Sin solicitudes, consentimientos, mensajes ni pagos.
 Fuente: https://www.coopecoceic.ed.cr/tecnologia
 Se ha comprobado: 2026-11-05
+
+### L597 · DIMEX · Ideas Labs · school programme
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Primaria / secundaria; acordar curso exacto del grupo
+Matvey: Consultar; curso y grupo concreto desconocidos
+Oscar: Consultar; curso y grupo concreto desconocidos
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Acceso: Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+Precio: MXN 400 por alumno por módulo: 200 en semana 1 y 200 en semana 5. Año de tarifa sin indicar; no es año lectivo completo.
+Limitaciones: Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+Fuente: https://dimexideas.com/club-de-ciencia/
+Se ha comprobado: 2026-11-06
+
+### L598 · DIMEX · Verano Científico · archive 2026
+
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 1 primaria — 2 secundaria; edad numérica sin indicar
+Matvey: Consultar; curso y grupo concreto desconocidos
+Oscar: Consultar; curso y grupo concreto desconocidos
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Acceso: Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+Precio: Archivo: MXN 3000 por programa completo, descuento del 20% al segundo participante. Tarifa 2027 desconocida.
+Limitaciones: Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+Fuente: https://dimexideas.com/verano-cientifico/
+Se ha comprobado: 2026-11-06
+
+### C1950 · ExpoCiencias Sonora · archive 2026
+
+Fecha: 2026-04-21 — 2026-04-24
+edad: Petit: preescolar / 1–2 primaria; Kids: 3–6 primaria; secundaria; max 25
+Matvey: Condicional: curso y matrícula en Sonora sin probar
+Oscar: Condicional: curso y matrícula en Sonora sin probar
+Idioma: Leídas páginas / documentos en español; idioma de arbitraje presencial, entrevistas y posibilidad EN / ES para equipo elegido sin confirmar expresamente. Idioma de web no acredita idioma de admisión.
+Acceso: Archivo ExpoCiencias Sonora del 21–24 de abril de 2026 en Parque Tamosura, Cananea. Alumnos deben estar inscritos en institución del estado de Sonora y desarrollar allí proyecto; ciudadanía mexicana sola no lo demuestra. Petit: preescolar / 1–2 primaria; Kids: 3–6 primaria; después secundaria. Proyecto de 1–3 alumnos y un asesor, que lleva solo un proyecto. Precio MXN 1200 por equipo, plazo de solicitud del 27 de marzo de 2026. Mejores resultados daban pase a Nacional Monterrey o delegación internacional; condición de selección, sin premio obtenido por familia. Temporada 2027 sin anunciar.
+Precio: MXN 1200 / team · 2026
+Limitaciones: Archivo ExpoCiencias Sonora del 21–24 de abril de 2026 en Parque Tamosura, Cananea. Alumnos deben estar inscritos en institución del estado de Sonora y desarrollar allí proyecto; ciudadanía mexicana sola no lo demuestra. Petit: preescolar / 1–2 primaria; Kids: 3–6 primaria; después secundaria. Proyecto de 1–3 alumnos y un asesor, que lleva solo un proyecto. Precio MXN 1200 por equipo, plazo de solicitud del 27 de marzo de 2026. Mejores resultados daban pase a Nacional Monterrey o delegación internacional; condición de selección, sin premio obtenido por familia. Temporada 2027 sin anunciar.
+Fuente: https://dimexideas.com/expociencias-sonora/
+Se ha comprobado: 2026-11-06
 
 ### CP041-20270329-20270402 · Cloud Forest School · Camps CEC · 2027-03-29–2027-04-02
 
@@ -3188,6 +3227,45 @@ Acceso: Opción de planificación, no solicitud aceptada. Confirmar edad, nivel,
 Precio: 2027 · CRC 17000 por adulto / 12000 por menor de 12, más IVA. Ejemplo: 2 adultos + 2 niños — CRC 58000 antes de IVA y suplementos elegidos. · suplementos y condiciones en el dossier
 Limitaciones: Matvey: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Oscar: Ambos niños dentro de tarifa infantil de 4–11 años; participan con adultos. Confirmar idioma de trabajo, plaza y alojamiento familiar. Suplementos: IVA se añade al pagar. Saco CRC 3000 por unidad; menú vegetariano / sin gluten especial CRC 10000 por persona. Transporte y seguro aparte. Pago: Anticipo CRC 10000 por participante de pago incluido en precio. Saldo tres días antes; con anticipo por tarjeta web anuncia cargo automático del saldo a misma tarjeta. Con lluvia / nubes web excluye cambio y reembolso; con ráfagas superiores a 80 km/h no inflan cúpula. Sin consentimientos ni pago.
 Fuente: https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261106-20261211-friday-a · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-a · 15:00–17:00 · 2026-11-06–2026-12-11
+
+Fecha: 2026-11-06 — 2026-12-11
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261106-20261211-friday-b · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-b · 17:00–19:00 · 2026-11-06–2026-12-11
+
+Fecha: 2026-11-06 — 2026-12-11
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261107-20261212-saturday-c · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · saturday-c · 10:00–12:00 · 2026-11-07–2026-12-12
+
+Fecha: 2026-11-07 — 2026-12-12
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
 Se ha comprobado: 2026-11-06
 
 ### C1155 · XVIII Campeonato Nacional de Robótica y STEM · VEX IQ Middle

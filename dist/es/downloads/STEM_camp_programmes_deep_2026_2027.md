@@ -1,6 +1,6 @@
 # Vacaciones 2026–2027: Expedientes detallados
 
-Estado de base: 2026-11-06. 1476 fichas en 87 países. Fechas de revisión de fuentes individuales indicadas en cada ficha.
+Estado de base: 2026-11-06. 1481 dossiers en 87 países. Fechas de revisión de fuentes individuales en cada dossier.
 
 El paso más profundo prioritario: campamentos comunes y temáticos, cursos técnicos y pensiones vacacionales. es un registro separado de programas/operadores, no el número de campamentos únicos en la antigua base de turnos y actividades.
 
@@ -23904,7 +23904,7 @@ Loma Ridge Elementary · 500 Tomato Springs, Irvine, CA 92618
 
 Panamá · Playa del Pueblo, Isla Saboga · Isla Perlas; Marina Flamenco ○ envío ferry
 
-** Verificado:** 2026-10-05
+**Se ha comprobado:** 2026-11-06
 
 * Edad:** 7*16
 
@@ -23956,9 +23956,9 @@ Panamá · Playa del Pueblo, Isla Saboga · Isla Perlas; Marina Flamenco ○ env
 
 ### Fuentes
 
-- [programa, edad y precio base completo](https://www.sailingclubpanama.com/campamentos-verano-panama/) · 2026-10-05
+- [programa, edad y precio base completo](https://www.sailingclubpanama.com/campamentos-verano-panama/) · 2026-11-06
 
-- [forma de febrero 11–14/2027, se leía sin enviar](https://forms.gle/qHJMvZZzjpid4Ns6A) · 2026-10-05
+- [forma de febrero 11–14/2027, se leía sin enviar](https://forms.gle/qHJMvZZzjpid4Ns6A) · 2026-11-06
 
 ## CP302 · La Llanada Panamá · Sleepaway · El Valle
 
@@ -55078,7 +55078,7 @@ Brasil · Escola Arca · Lauro de Freitas, Bahia · Dirección completa aún no 
 
 Panamá · Hotel Campestre · El Valle de Antón
 
-**Comprobado:** 2026-10-06
+**Se ha comprobado:** 2026-11-06
 
 * Edad:** 4*10
 
@@ -55122,9 +55122,9 @@ Panamá · Hotel Campestre · El Valle de Antón
 
 ### Fuentes
 
-- [2027 precio / composición / hermanos / noche / cancelación](https://www.cacaocamps.com/day-camp-el-valle/) · 2026-10-06
+- [2027 precio / composición / hermanos / noche / cancelación](https://www.cacaocamps.com/day-camp-el-valle/) · 2026-11-06
 
-- [Homepage confirma 4–8January2027](https://www.cacaocamps.com/) · 2026-10-06
+- [Homepage confirma 4–8January2027](https://www.cacaocamps.com/) · 2026-11-06
 
 - [operador/asegurador/vivencia](https://www.cacaocamps.com/conocenos/) · 2026-10-06
 
@@ -105677,6 +105677,252 @@ Esuatini · Simunye
 - [RES · English-medium school](https://www.res.co.sz/csi/education.php) · 2026-11-06
 
 - [RES · robotics curriculum 2024/25](https://www.res.co.sz/admin/documents/1762111404.pdf) · 2026-11-06
+
+## CP1477 · DIMEX · Mi Primer Robot · 2026
+
+México · Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+
+**Se ha comprobado:** 2026-11-06
+
+**Edad:** 9–12
+
+**Idioma:** Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+
+**Programa:** Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Grupos A / B: del 6 de noviembre — 11 de diciembre de 2026 los viernes; C: del 7 de noviembre — 12 de diciembre los sábados. Curso semanal, sin campamento diario.
+
+**Precio / año:** 2026 · MXN 850 por las 6 clases / 12 horas; segundo hermano 748, pero Oscar no cumple edad.
+
+**Incluido:** Préstamo de robot y ordenador, materiales, diario, insignias internas y vídeo final.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.
+
+**Pago:** Precio completo publicado; devolución sin detallar, formulario cerrado.
+
+**Matvey:** Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible.
+
+**Oscar:** Oscar tiene 6 años, por debajo de edad mínima de 9 años.
+
+**Motivo de selección:** Proyecto lectivo o premio interno no es título internacional.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+### Mi Primer Robot · friday-a · 15:00–17:00
+
+**Fechas / estado:** 2026-11-06 — 2026-12-11
+
+**lugar:** Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+
+**Precio:** MXN 850 / 6 × 2 h
+
+**condiciones de participación:** Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+[fuente](https://dimexideas.com/club-de-robotica/)
+
+### Mi Primer Robot · friday-b · 17:00–19:00
+
+**Fechas / estado:** 2026-11-06 — 2026-12-11
+
+**lugar:** Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+
+**Precio:** MXN 850 / 6 × 2 h
+
+**condiciones de participación:** Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+[fuente](https://dimexideas.com/club-de-robotica/)
+
+### Mi Primer Robot · saturday-c · 10:00–12:00
+
+**Fechas / estado:** 2026-11-07 — 2026-12-12
+
+**lugar:** Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+
+**Precio:** MXN 850 / 6 × 2 h
+
+**condiciones de participación:** Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+[fuente](https://dimexideas.com/club-de-robotica/)
+
+### Fuentes
+
+- [DIMEX · programme and borrowed equipment](https://dimexideas.com/club-de-robotica/) · 2026-11-06
+
+- [DIMEX · linked form closed](https://forms.gle/DhRdVdkJTHwZjrCD6) · 2026-11-06
+
+## CP1478 · DIMEX · Ideas Labs · school programme
+
+México · Colegio aceptado; sede y grupo concreto sin anunciar
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Primaria / secundaria; acordar curso exacto del grupo
+
+**Idioma:** Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+
+**Programa:** Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+
+**Precio / año:** sin establecer · MXN 400 por alumno por módulo: 200 en semana 1 y 200 en semana 5. Año de tarifa sin indicar; no es año lectivo completo.
+
+**Incluido:** Kits, mentores y formación docente anunciados en colaboración escolar.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.
+
+**Pago:** Precio, fechas nuevas y plazas sin publicar.
+
+**Matvey:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Proyecto lectivo o premio interno no es título internacional.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [DIMEX · school admission and module fee](https://dimexideas.com/club-de-ciencia/) · 2026-11-06
+
+## CP1479 · DIMEX · Verano Científico · archive 2026
+
+México · Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** 1 primaria — 2 secundaria; edad numérica sin indicar
+
+**Idioma:** Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+
+**Programa:** Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+
+**Precio / año:** 2026 · Archivo: MXN 3000 por programa completo, descuento del 20% al segundo participante. Tarifa 2027 desconocida.
+
+**Incluido:** Materiales y protección, welcome kit, equipo de laboratorio y consultas online posteriores.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.
+
+**Pago:** Precio, fechas nuevas y plazas sin publicar.
+
+**Matvey:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Proyecto lectivo o premio interno no es título internacional.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [DIMEX · 2026 scientific summer](https://dimexideas.com/verano-cientifico/) · 2026-11-06
+
+## CP1480 · MMM Academy · Navidad 2026
+
+España · Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
+
+**Se ha comprobado:** 2026-11-06
+
+* Edad:** 7*13
+
+**Idioma:** Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+
+**Programa:** Del 28–31 de diciembre de 2026, cada día 09:00–14:00 en Alcantarilla. Campamento diurno sin pernocta: robots, Minecraft, 3D, proyectos de juegos, AR, electrónica y AI. Página propia y primer panel del formulario vinculado coinciden en fechas, edad y precio. Formulario muestra páginas siguientes, pero plaza y admisión de menor extranjero sin confirmar.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Del 28–31 de diciembre de 2026, cada día 09:00–14:00 en Alcantarilla. Campamento diurno sin pernocta: robots, Minecraft, 3D, proyectos de juegos, AR, electrónica y AI. Página propia y primer panel del formulario vinculado coinciden en fechas, edad y precio. Formulario muestra páginas siguientes, pero plaza y admisión de menor extranjero sin confirmar.
+
+**Precio / año:** 2026 · EUR 80, alumnos de academia 68; descuentos del 10% para hermanos y del 10% por inscripción anterior al 14/12/2026. Acumulación sin establecer.
+
+**Incluido:** Clases y proyectos creativos propios anunciados. Comidas, seguro, impuesto y paquete completo sin detallar.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.
+
+**Pago:** Pago 15 días antes del comienzo; condición de pago, no plazo de inscripción publicado. Devolución sin detallar.
+
+**Matvey:** Matvey tiene 9 años y cumple edad 7–13; confirmar idioma y plaza.
+
+**Oscar:** Oscar en diciembre de 2026 tendrá como máximo 6 años; no alcanza umbral de 7 años, cualquiera que sea fecha de nacimiento desconocida.
+
+**Motivo de selección:** Proyecto lectivo o premio interno no es título internacional.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+### Navidad · 09:00–14:00
+
+**Fechas / estado:** 2026-12-28 — 2026-12-31
+
+**lugar:** Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
+
+**Precio:** EUR 80 / 4 days
+
+[fuente](https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/)
+
+### Fuentes
+
+- [MMM Academy · 2026 dates, price and age](https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/) · 2026-11-06
+
+- [MMM Academy · details and no overnight](https://mmmacademy.es/campamento-navidad/) · 2026-11-06
+
+- [MMM Academy · public form first page](https://forms.gle/NFUmtSbhuKac77WJ9) · 2026-11-06
+
+## CP1481 · MMM Academy · Taller Maker
+
+España · Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
+
+**Se ha comprobado:** 2026-11-06
+
+**edad:** Niños y adolescentes; edad numérica sin publicar
+
+**Idioma:** Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+
+**Programa:** Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.
+
+**Alojamiento:** Programa diurno sin residencia.
+
+**Fechas / estado:** Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.
+
+**Precio / año:** sin establecer · Precio, fechas nuevas y plazas sin publicar.
+
+**Suplementos:** Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.
+
+**Pago:** Precio, fechas nuevas y plazas sin publicar.
+
+**Matvey:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Oscar:** Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+**Motivo de selección:** Proyecto lectivo o premio interno no es título internacional.
+
+### Antes de solicitar plaza
+
+- Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final.
+
+### Fuentes
+
+- [MMM Academy · Maker programme and equipment](https://mmmacademy.es/cursos/taller-maker/) · 2026-11-06
 
 ## ~ Comprobaciones no cerradas
 

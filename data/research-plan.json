@@ -13,115 +13,107 @@
       "id": "global_competitions",
       "requirement": "Все релевантные лиги, мировые, национальные и региональные соревнования",
       "status": "in_progress",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "remaining": "Проверить местные календари и все дисциплины по каждой стране; не считать каталог WRO полной исследованностью",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -202,150 +194,119 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
       "id": "camps",
       "requirement": "Мировой каталог общих и тематических лагерей 2026–2027: лето / зима / другие каникулы, пансион / дневной; EN как основная среда, ES / RU и другие языки с доказанной ролью. Отдельно топ по стране / теме и пригодность для каждого ребёнка.",
       "status": "in_progress",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "remaining": "Дедупликация по организатору / площадке / программе; общий международный camp inventory; полная Швейцария; первичные цены, включения, extras, возраст каждой смены, язык каждой активности, дневные и пансионные варианты, точная география и редакционный отбор.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -426,35 +387,12 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
@@ -662,115 +600,107 @@
       "id": "eligibility",
       "requirement": "Возраст/год рождения/класс, команды или индивидуально, путь входа и ограничения",
       "status": "partial",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "remaining": "Точные дни рождения и школьные классы; семейный / иностранный допуск, язык конкретных занятий и судейства, действующие правила национальных квот.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -851,149 +781,118 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
       "id": "unified_database",
       "requirement": "Одна база с источниками, датами проверки, дедлайнами, значимостью и приоритетом",
       "status": "implemented_verified",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -1074,149 +973,118 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
       "id": "web",
       "requirement": "Удобная красивая навигация по детям, странам/континентам, темам, языкам, масштабам и форматам",
       "status": "implemented_verified_research_in_progress",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -1297,35 +1165,12 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
@@ -2343,114 +2188,106 @@
       "requirement": "Ближайшие смены и календарь каникул 2026–2027, выбор года / сезона / окна семьи; даты смены, deadline, факт открытия записи и дата проверки; прошлые смены и ориентиры цены2026 отдельно от2027.",
       "status": "implemented_partial_research_active",
       "remaining": "Первичные источники / проверка и реализация по спецификации data/camp-programme-expansion.json; полный мировой результат пока не установлен.",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -2531,35 +2368,12 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
@@ -2567,114 +2381,106 @@
       "requirement": "Полный официальный прайс каждой программы / смены: база, обязательные сборы, страховка, трансферы, технические модули, аренда / собственная техника, доплаты за комнату, sibling discount, платежи и отмена; смета одного / двух детей и семейной дневной поездки.",
       "status": "implemented_partial_research_active",
       "remaining": "Первичные источники / проверка и реализация по спецификации data/camp-programme-expansion.json; полный мировой результат пока не установлен.",
-      "evidence": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+      "evidence": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
       "latest_pass": {
-        "version": 186,
+        "version": 187,
         "checked": "2026-11-06",
         "status": "verified-local-awaiting-published-sha",
-        "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
+        "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
         "previous_goal_turn_classification": "progress",
-        "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-        "previous_workflow": 42247284790,
-        "previous_workflow_attempt": 2,
-        "previous_matched_public_assets": 286,
-        "new_catalogue_rows": 14,
-        "new_competition_programme_rows": 6,
-        "new_manual_learning_rows": 8,
-        "new_generated_camp_rows": 0,
-        "new_camp_dossiers": 8,
-        "new_camp_countries": 3,
-        "new_school_dossiers": 2,
-        "new_league_profiles": 5,
-        "new_history_results": 4,
-        "new_history_entities": 3,
+        "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+        "previous_workflow": 42257300196,
+        "new_catalogue_rows": 9,
+        "new_competition_programme_rows": 2,
+        "new_manual_learning_rows": 3,
+        "new_generated_camp_rows": 4,
+        "new_camp_dossiers": 5,
+        "new_camp_countries": 0,
+        "new_school_dossiers": 0,
+        "new_league_profiles": 1,
+        "new_history_results": 0,
+        "new_history_entities": 0,
         "new_budget_offers": 0,
-        "events": 5848,
-        "camp_dossiers": 1476,
+        "events": 5857,
+        "camp_dossiers": 1481,
         "camp_dossier_countries": 87,
         "schools": 70,
-        "league_profiles": 235,
+        "league_profiles": 236,
         "history_results": 221,
         "history_entities": 161,
         "budget_offers": 165,
         "national_route_contacts": 212,
         "national_route_countries": 135,
-        "source_requests": 52,
-        "source_hashes_verified": 51,
-        "source_failures": 1,
+        "source_requests": 40,
+        "source_hashes_verified": 37,
+        "source_failures": 3,
         "old_event_records_refreshed": [
-          "C1940"
+          "C1309"
         ],
-        "old_league_profiles_refreshed": [
-          "fll-ukraine-local"
-        ],
-        "route_patches": [
-          "NR-WRO-STP",
-          "NR-FLL-LSO-general",
-          "NR-FLL-SWZ-general",
-          "NR-FLL-SLE-general",
-          "NR-FLL-UKR-general"
+        "old_camp_dossiers_refreshed": [
+          "CP301",
+          "CP811"
         ],
         "worldwide_complete": false,
         "fully_audited_countries": 0,
         "forms_and_contacts_not_submitted": true,
-        "audit": "data/africa-routes-audit-v186.json",
-        "native": "data/africa-routes-native-v186.json",
-        "source_receipts": "data/africa-routes-source-receipts-v186.json",
+        "audit": "data/family-winter-audit-v187.json",
+        "native": "data/family-winter-native-v187.json",
+        "source_receipts": "data/family-winter-source-receipts-v187.json",
         "data_validation": {
-          "version": 186,
-          "events": 5848,
-          "new_event_records": 14,
-          "new_camp_dossiers": 8,
-          "camp_dossiers": 1476,
-          "camp_countries": 87,
-          "new_schools": 2,
-          "schools": 70,
-          "league_profiles": 235,
-          "history_results": 221,
-          "history_entities": 161,
-          "new_history_results": 4,
-          "refreshed_old_event_ids": [
-            "C1940"
+          "version": 187,
+          "events": 5857,
+          "new_records": [
+            "C1950",
+            "C1951",
+            "CP1477-20261106-20261211-friday-a",
+            "CP1477-20261106-20261211-friday-b",
+            "CP1477-20261107-20261212-saturday-c",
+            "CP1480-20261228-20261231-alcantarilla",
+            "L597",
+            "L598",
+            "L599"
           ],
-          "old_event_changed_fields": [
-            "age_reference_date",
-            "entry",
-            "note",
-            "osc",
-            "proof",
-            "references",
-            "title"
-          ],
-          "all_old_ID_dates_deadlines_preserved": true,
-          "all_old_1468_raw_dossiers_identical": true,
-          "old_schools_budgets_history_preserved": true,
-          "Discover_Ukraine_legacy_current_season_not_confirmed": true,
-          "FTC_country_conflict_preserved": true,
-          "calendar_counts": {
-            "STEM_подтвержденные_даты.ics": 6775,
+          "old_event_changed_fields": {
+            "C1309": [
+              "registration_status",
+              "entry",
+              "note",
+              "gear",
+              "team_max",
+              "format",
+              "team_min",
+              "cost",
+              "proof",
+              "references",
+              "checked"
+            ],
+            "CP301-20270107-20270110": [
+              "checked"
+            ],
+            "CP301-20270325-20270328": [
+              "checked"
+            ],
+            "CP811-20270104-20270108": [
+              "checked"
+            ]
+          },
+          "all_old_id_dates_deadlines_preserved": true,
+          "old_dossiers_preserved_except_source_rechecks": true,
+          "old_schools_budgets_history_routes_unchanged": true,
+          "old_league_profiles_unchanged": true,
+          "source_requests": 40,
+          "source_hashes": 37,
+          "new_dated_variants": 4,
+          "closed_DIMEX_excluded_from_family_ICS": true,
+          "MMM_jam_deadline_not_family_event": true,
+          "new_upcoming_family_calendar_entries": 1,
+          "ics_counts": {
+            "STEM_подтвержденные_даты.ics": 6776,
             "STEM_крупные_выставки.ics": 121,
-            "es/STEM_подтвержденные_даты.ics": 6775,
+            "es/STEM_подтвержденные_даты.ics": 6776,
             "es/STEM_крупные_выставки.ics": 121
           },
-          "new_calendar_UIDs": {
-            "STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "STEM_крупные_выставки.ics": [],
-            "es/STEM_подтвержденные_даты.ics": [
-              "stem-C1949@family-stem.local"
-            ],
-            "es/STEM_крупные_выставки.ics": []
-          },
-          "new_future_calendar_entries": 1,
-          "source_requests": 52,
-          "source_hashes_verified": 51,
-          "source_failures": 1,
-          "full_goal_scope_preserved": true,
-          "countries_with_records": 139,
-          "remaining_route_countries_without_calendar": 9,
-          "fully_audited_countries": 0,
           "worldwide_complete": false
         },
         "programme_runtime_checks_ru_es": [
@@ -2755,35 +2561,12 @@
         "countries_with_records": 139,
         "remaining_route_countries_without_calendar": 9,
         "all_old_ID_dates_deadlines_preserved": true,
-        "all_old_1468_camp_dossiers_preserved": true,
-        "old_schools_budgets_history_preserved": true,
-        "old_event_C1940_changed_fields": [
-          "age_reference_date",
-          "entry",
-          "note",
-          "osc",
-          "proof",
-          "references",
-          "title"
-        ],
-        "old_league_fll_ukraine_changed_fields": [
-          "age_summary",
-          "summary",
-          "requirements",
-          "nuances",
-          "sources",
-          "evidence"
-        ],
+        "old_camp_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_preserved": true,
         "new_upcoming_calendar_entries": 1,
-        "new_dated_camp_variants": 0,
-        "old_LEGO_2027_profile_rechecked_unchanged": true,
-        "FTC_country_conflict_not_a_travel_venue": true,
-        "Thembelisha_grade_gate_not_general_primary_admission": true,
-        "donor_budgets_not_child_fees": true,
-        "archived_forms_not_2027_enrollment": true,
+        "new_dated_camp_variants": 4,
         "visual_browser_qa": false,
-        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-        "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+        "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
       }
     },
     {
@@ -2999,9 +2782,234 @@
   ],
   "completion_rule": "Не объявлять цель завершённой по числу карточек, наличию списка 249 стран или зелёным UI-тестам. Требуется доказанное покрытие исходного объёма и актуальные условия, либо явные недоступные/необъявленные сведения с проверенными источниками.",
   "latest_validation": {
-    "version": 186,
+    "version": 187,
     "checked": "2026-11-06",
     "status": "verified-local-awaiting-published-sha",
+    "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
+    "previous_goal_turn_classification": "progress",
+    "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+    "previous_workflow": 42257300196,
+    "new_catalogue_rows": 9,
+    "new_competition_programme_rows": 2,
+    "new_manual_learning_rows": 3,
+    "new_generated_camp_rows": 4,
+    "new_camp_dossiers": 5,
+    "new_camp_countries": 0,
+    "new_school_dossiers": 0,
+    "new_league_profiles": 1,
+    "new_history_results": 0,
+    "new_history_entities": 0,
+    "new_budget_offers": 0,
+    "events": 5857,
+    "camp_dossiers": 1481,
+    "camp_dossier_countries": 87,
+    "schools": 70,
+    "league_profiles": 236,
+    "history_results": 221,
+    "history_entities": 161,
+    "budget_offers": 165,
+    "national_route_contacts": 212,
+    "national_route_countries": 135,
+    "source_requests": 40,
+    "source_hashes_verified": 37,
+    "source_failures": 3,
+    "old_event_records_refreshed": [
+      "C1309"
+    ],
+    "old_camp_dossiers_refreshed": [
+      "CP301",
+      "CP811"
+    ],
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "forms_and_contacts_not_submitted": true,
+    "audit": "data/family-winter-audit-v187.json",
+    "native": "data/family-winter-native-v187.json",
+    "source_receipts": "data/family-winter-source-receipts-v187.json",
+    "data_validation": {
+      "version": 187,
+      "events": 5857,
+      "new_records": [
+        "C1950",
+        "C1951",
+        "CP1477-20261106-20261211-friday-a",
+        "CP1477-20261106-20261211-friday-b",
+        "CP1477-20261107-20261212-saturday-c",
+        "CP1480-20261228-20261231-alcantarilla",
+        "L597",
+        "L598",
+        "L599"
+      ],
+      "old_event_changed_fields": {
+        "C1309": [
+          "registration_status",
+          "entry",
+          "note",
+          "gear",
+          "team_max",
+          "format",
+          "team_min",
+          "cost",
+          "proof",
+          "references",
+          "checked"
+        ],
+        "CP301-20270107-20270110": [
+          "checked"
+        ],
+        "CP301-20270325-20270328": [
+          "checked"
+        ],
+        "CP811-20270104-20270108": [
+          "checked"
+        ]
+      },
+      "all_old_id_dates_deadlines_preserved": true,
+      "old_dossiers_preserved_except_source_rechecks": true,
+      "old_schools_budgets_history_routes_unchanged": true,
+      "old_league_profiles_unchanged": true,
+      "source_requests": 40,
+      "source_hashes": 37,
+      "new_dated_variants": 4,
+      "closed_DIMEX_excluded_from_family_ICS": true,
+      "MMM_jam_deadline_not_family_event": true,
+      "new_upcoming_family_calendar_entries": 1,
+      "ics_counts": {
+        "STEM_подтвержденные_даты.ics": 6776,
+        "STEM_крупные_выставки.ics": 121,
+        "es/STEM_подтвержденные_даты.ics": 6776,
+        "es/STEM_крупные_выставки.ics": 121
+      },
+      "worldwide_complete": false
+    },
+    "programme_runtime_checks_ru_es": [
+      {
+        "language": "ru",
+        "new_local_dossiers": 8,
+        "FLL_Challenge_Explore_August1_cutoff": true,
+        "Discover_Ukraine_legacy_only": true,
+        "African_school_and_course_filters": true,
+        "Infomatrix_ten_categories_render": true,
+        "Austria_exact_month_and_min11": true,
+        "Code_Ukraine_EN_but_children_ineligible": true,
+        "EN_ES_support_not_full_instruction": true,
+        "caribbean_real_filters": true,
+        "Martinique_family_day_only": true,
+        "NDC_school_window_not_fixed_date": true,
+        "real_child_and_month_filters": true,
+        "unknown_language_not_inferred": true,
+        "Matvey_excluded_from_maximum_8": true,
+        "Oscar_Hundred_minimum_7_excluded": true,
+        "unknown_Elab_age_not_assumed": true,
+        "new_country_routes_render": true,
+        "national_history_not_world_awards": true,
+        "mixed_string_and_object_gaps_render": true,
+        "HTML_escaping_preserved": true,
+        "MOZ_training_not_assumed_child_intake": true,
+        "visual_browser_QA": false
+      },
+      {
+        "language": "es/",
+        "new_local_dossiers": 8,
+        "FLL_Challenge_Explore_August1_cutoff": true,
+        "Discover_Ukraine_legacy_only": true,
+        "African_school_and_course_filters": true,
+        "Infomatrix_ten_categories_render": true,
+        "Austria_exact_month_and_min11": true,
+        "Code_Ukraine_EN_but_children_ineligible": true,
+        "EN_ES_support_not_full_instruction": true,
+        "caribbean_real_filters": true,
+        "Martinique_family_day_only": true,
+        "NDC_school_window_not_fixed_date": true,
+        "real_child_and_month_filters": true,
+        "unknown_language_not_inferred": true,
+        "Matvey_excluded_from_maximum_8": true,
+        "Oscar_Hundred_minimum_7_excluded": true,
+        "unknown_Elab_age_not_assumed": true,
+        "new_country_routes_render": true,
+        "national_history_not_world_awards": true,
+        "mixed_string_and_object_gaps_render": true,
+        "HTML_escaping_preserved": true,
+        "MOZ_training_not_assumed_child_intake": true,
+        "visual_browser_QA": false
+      }
+    ],
+    "family_pairing_checks_ru_es": [
+      {
+        "language": "ru",
+        "real_family_pairs": 5,
+        "month_and_past_filter": true,
+        "verified_shared_venue_required": true,
+        "exact_days_hours_timezone_required": true,
+        "variant_age_gate": true,
+        "invalid_dates_and_closed_groups_excluded": true,
+        "known_fee_units_only": true
+      },
+      {
+        "language": "es/",
+        "real_family_pairs": 5,
+        "month_and_past_filter": true,
+        "verified_shared_venue_required": true,
+        "exact_days_hours_timezone_required": true,
+        "variant_age_gate": true,
+        "invalid_dates_and_closed_groups_excluded": true,
+        "known_fee_units_only": true
+      }
+    ],
+    "javascript_syntax_files": 47,
+    "countries_with_records": 139,
+    "remaining_route_countries_without_calendar": 9,
+    "all_old_ID_dates_deadlines_preserved": true,
+    "old_camp_dossiers_preserved_except_source_rechecks": true,
+    "old_schools_budgets_history_routes_preserved": true,
+    "new_upcoming_calendar_entries": 1,
+    "new_dated_camp_variants": 4,
+    "visual_browser_qa": false,
+    "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
+  },
+  "completeness_audit": "data/audit-v51.json",
+  "family_context": {
+    "matvey_birth_year": 2017,
+    "oscar_birth_year": 2020,
+    "source": "Прямой ответ пользователя 01.10.2026",
+    "exact_birthdays": null,
+    "school_grades": null,
+    "full_day_english_readiness": true,
+    "learning_languages": [
+      "EN",
+      "ES",
+      "RU"
+    ],
+    "learning_languages_by_child": {
+      "mat": [
+        "EN",
+        "ES",
+        "RU"
+      ],
+      "osc": [
+        "EN",
+        "ES",
+        "RU"
+      ]
+    },
+    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
+    "relocation_readiness": true,
+    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
+  },
+  "schools_success_criteria": [
+    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
+    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
+    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
+    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
+    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
+    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
+    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
+  ],
+  "native_goal_status": "active",
+  "latest_validation_previous": {
+    "version": 186,
+    "checked": "2026-11-06",
+    "status": "published-and-readback-verified",
     "scope": "Африканские региональные маршруты: Лесото, Сьерра-Леоне, Эсватини и Сан-Томе и Принсипи. Добавлены 14 карточек, 8 учебных досье и 2 школы; 4 исторических результата не стали мировыми титулами. Исправлена связь старого Discover Ukraine с BIOGLOW 2026/27; LEGO League 2027/28 проверена без дублирования. Мировой аудит продолжается.",
     "previous_goal_turn_classification": "progress",
     "previous_published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
@@ -3213,244 +3221,10 @@
     "archived_forms_not_2027_enrollment": true,
     "visual_browser_qa": false,
     "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-    "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
-  },
-  "completeness_audit": "data/audit-v51.json",
-  "family_context": {
-    "matvey_birth_year": 2017,
-    "oscar_birth_year": 2020,
-    "source": "Прямой ответ пользователя 01.10.2026",
-    "exact_birthdays": null,
-    "school_grades": null,
-    "full_day_english_readiness": true,
-    "learning_languages": [
-      "EN",
-      "ES",
-      "RU"
-    ],
-    "learning_languages_by_child": {
-      "mat": [
-        "EN",
-        "ES",
-        "RU"
-      ],
-      "osc": [
-        "EN",
-        "ES",
-        "RU"
-      ]
-    },
-    "language_confirmation": "Прямые сообщения семьи: EN / ES для полного дня;01.10.2026 добавлен русский как допустимый язык. Отдельная оценка уровня технического RU ещё не проведена.",
-    "relocation_readiness": true,
-    "relocation_confirmation": "Прямой ответ пользователя 01.10.2026: готовы рассматривать переезд и новую школу."
-  },
-  "schools_success_criteria": [
-    "Идентификация каждого кампуса и его типа; 249 стран и территорий имеют явный статус исследования, отсутствие находки не означает отсутствие сильных школ.",
-    "Для статуса мировой результат: точные сезон, лига, категория, этап, название награды; независимый официальный протокол предпочтителен, школьное сообщение отмечается отдельно.",
-    "Кружок, учебный предмет, лаборатория и внешняя команда различаются; победа выпускника или городской команды не приписывается всей школе.",
-    "Матвей и Оскар: дневной возраст, класс, доступ в команду и пансион проверяются отдельно; дата рождения и класс неизвестны.",
-    "EN / ES преподавание подтверждается текстом программы; англоязычный сайт не доказательство. IB PYP / MYP / DP и candidate отмечаются отдельно.",
-    "Поступление: иностранные документы, резидентство / catchment, тесты, календарь, плата с учебным годом, дополнительные расходы; неизвестное явно помечено.",
-    "Раздел школ работает на публичном сайте и в JSON / CSV / SQLite, прежние события, лиги и календари сохраняются."
-  ],
-  "native_goal_status": "active",
-  "latest_validation_previous": {
-    "version": 185,
-    "checked": "2026-11-06",
-    "status": "published-and-readback-verified",
-    "scope": "Таджикистан / Украина и связанные программы: 9 новых досье, 7 конкурсных / программных записей, 2 выставочных наблюдения и 1 точная лагерная смена. Infomatrix World Finals выделен из правил SOLACYT; разобраны 10 категорий, сборы, распределение медалей и конфликт расписания. Уточнены C045 и профиль matrix. Школьная история дополнена 3 национальными Robot Game результатами; полный мировой аудит продолжается.",
-    "previous_goal_turn_classification": "progress",
-    "previous_published_commit": "0b6b2ff51ea381df19d7c88f4e4cb573c46198ff",
-    "previous_workflow": 42237241231,
-    "previous_workflow_attempt": 1,
-    "previous_matched_public_assets": 276,
-    "source_requests": 55,
-    "source_hashes_verified": 54,
-    "source_failures": 1,
-    "new_catalogue_rows": 18,
-    "new_competition_programme_rows": 7,
-    "new_event_expo_rows": 2,
-    "new_manual_learning_rows": 8,
-    "new_generated_camp_rows": 1,
-    "new_camp_dossiers": 9,
-    "new_camp_countries": 2,
-    "new_league_profiles": 4,
-    "old_league_profiles_refreshed": [
-      "matrix"
-    ],
-    "old_event_records_refreshed": [
-      "C045"
-    ],
-    "new_budget_offers": 0,
-    "new_history_results": 3,
-    "new_history_entities": 3,
-    "events": 5834,
-    "camp_dossiers": 1468,
-    "camp_dossier_countries": 84,
-    "league_profiles": 230,
-    "schools": 68,
-    "history_results": 217,
-    "history_entities": 158,
-    "budget_offers": 165,
-    "national_route_contacts": 212,
-    "national_route_countries": 135,
-    "countries_with_records": 135,
-    "remaining_route_countries_without_calendar": 13,
-    "fully_audited_countries": 0,
-    "worldwide_complete": false,
-    "old_camp_dossiers_refreshed": [],
-    "forms_and_contacts_not_submitted": true,
-    "audit": "data/tajik-ukraine-audit-v185.json",
-    "native": "data/tajik-ukraine-native-v185.json",
-    "source_receipts": "data/tajik-ukraine-source-receipts-v185.json",
-    "data_validation": {
-      "version": 185,
-      "events": 5834,
-      "new_event_records": 18,
-      "new_camp_dossiers": 9,
-      "camp_dossiers": 1468,
-      "camp_countries": 84,
-      "league_profiles": 230,
-      "history_results": 217,
-      "history_entities": 158,
-      "new_history_results": 3,
-      "refreshed_old_event_ids": [
-        "C045"
-      ],
-      "old_event_changed_fields": [
-        "age",
-        "note",
-        "references"
-      ],
-      "all_old_ID_dates_deadlines_preserved": true,
-      "all_old_1459_raw_dossiers_identical": true,
-      "old_schools_budgets_history_preserved": true,
-      "old_league_matrix_clarified": true,
-      "calendar_counts": {
-        "STEM_подтвержденные_даты.ics": 6774,
-        "STEM_крупные_выставки.ics": 121,
-        "es/STEM_подтвержденные_даты.ics": 6774,
-        "es/STEM_крупные_выставки.ics": 121
-      },
-      "new_calendar_UIDs": {
-        "STEM_подтвержденные_даты.ics": [
-          "stem-C1941-deadline@family-stem.local",
-          "stem-C1942@family-stem.local"
-        ],
-        "STEM_крупные_выставки.ics": [],
-        "es/STEM_подтвержденные_даты.ics": [
-          "stem-C1941-deadline@family-stem.local",
-          "stem-C1942@family-stem.local"
-        ],
-        "es/STEM_крупные_выставки.ics": []
-      },
-      "new_future_calendar_entries": 2,
-      "source_requests": 55,
-      "source_hashes_verified": 54,
-      "source_failures": 1,
-      "full_goal_scope_preserved": true,
-      "fully_audited_countries": 0,
-      "worldwide_complete": false
-    },
-    "programme_runtime_checks_ru_es": [
-      {
-        "language": "ru",
-        "new_local_dossiers": 9,
-        "FLL_August1_cutoff": true,
-        "Infomatrix_ten_categories_render": true,
-        "Austria_exact_month_and_min11": true,
-        "Code_Ukraine_EN_but_children_ineligible": true,
-        "EN_ES_support_not_full_instruction": true,
-        "caribbean_real_filters": true,
-        "Martinique_family_day_only": true,
-        "NDC_school_window_not_fixed_date": true,
-        "real_child_and_month_filters": true,
-        "unknown_language_not_inferred": true,
-        "Matvey_excluded_from_maximum_8": true,
-        "Oscar_Hundred_minimum_7_excluded": true,
-        "unknown_Elab_age_not_assumed": true,
-        "new_country_routes_render": true,
-        "national_history_not_world_awards": true,
-        "mixed_string_and_object_gaps_render": true,
-        "HTML_escaping_preserved": true,
-        "MOZ_training_not_assumed_child_intake": true,
-        "visual_browser_QA": false
-      },
-      {
-        "language": "es/",
-        "new_local_dossiers": 9,
-        "FLL_August1_cutoff": true,
-        "Infomatrix_ten_categories_render": true,
-        "Austria_exact_month_and_min11": true,
-        "Code_Ukraine_EN_but_children_ineligible": true,
-        "EN_ES_support_not_full_instruction": true,
-        "caribbean_real_filters": true,
-        "Martinique_family_day_only": true,
-        "NDC_school_window_not_fixed_date": true,
-        "real_child_and_month_filters": true,
-        "unknown_language_not_inferred": true,
-        "Matvey_excluded_from_maximum_8": true,
-        "Oscar_Hundred_minimum_7_excluded": true,
-        "unknown_Elab_age_not_assumed": true,
-        "new_country_routes_render": true,
-        "national_history_not_world_awards": true,
-        "mixed_string_and_object_gaps_render": true,
-        "HTML_escaping_preserved": true,
-        "MOZ_training_not_assumed_child_intake": true,
-        "visual_browser_QA": false
-      }
-    ],
-    "family_pairing_checks_ru_es": [
-      {
-        "language": "ru",
-        "real_family_pairs": 5,
-        "month_and_past_filter": true,
-        "verified_shared_venue_required": true,
-        "exact_days_hours_timezone_required": true,
-        "variant_age_gate": true,
-        "invalid_dates_and_closed_groups_excluded": true,
-        "known_fee_units_only": true
-      },
-      {
-        "language": "es/",
-        "real_family_pairs": 5,
-        "month_and_past_filter": true,
-        "verified_shared_venue_required": true,
-        "exact_days_hours_timezone_required": true,
-        "variant_age_gate": true,
-        "invalid_dates_and_closed_groups_excluded": true,
-        "known_fee_units_only": true
-      }
-    ],
-    "javascript_syntax_files": 47,
-    "all_old_ID_dates_deadlines_preserved": true,
-    "all_old_1459_camp_dossiers_preserved": true,
-    "old_event_C045_changed_fields": [
-      "age",
-      "note",
-      "references"
-    ],
-    "old_matrix_changed_fields": [
-      "age_summary",
-      "categories",
-      "nuances",
-      "sources"
-    ],
-    "old_leagues_except_matrix_unchanged": true,
-    "old_schools_budgets_history_preserved": true,
-    "new_upcoming_calendar_entries": 2,
-    "new_dated_camp_variants": 1,
-    "Austria_minimum_11_excluded_from_family_calendar": true,
-    "FLL_August1_cutoff_verified": true,
-    "Infomatrix_world_conflicting_dates_not_fixed_in_calendar": true,
-    "English_camp_life_support_distinct_from_full_instruction": true,
-    "visual_browser_qa": false,
-    "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
-    "catalog_sha256_before_final_rebuild": "d53f142d20ecf19f2704d2adfbadbc6d2babfb37d6e2bd942e5da0e4509237d8",
-    "published_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-    "workflow_run": 42247284790,
-    "workflow_attempt": 2,
-    "matched_public_assets": 286
+    "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e",
+    "published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+    "workflow_run": 42257300196,
+    "matched_public_assets": 297
   },
   "research_passes": [
     {
@@ -8355,6 +8129,192 @@
       "visual_browser_qa": false,
       "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
       "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+    },
+    {
+      "version": 187,
+      "checked": "2026-11-06",
+      "status": "verified-local-awaiting-published-sha",
+      "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
+      "previous_goal_turn_classification": "progress",
+      "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+      "previous_workflow": 42257300196,
+      "new_catalogue_rows": 9,
+      "new_competition_programme_rows": 2,
+      "new_manual_learning_rows": 3,
+      "new_generated_camp_rows": 4,
+      "new_camp_dossiers": 5,
+      "new_camp_countries": 0,
+      "new_school_dossiers": 0,
+      "new_league_profiles": 1,
+      "new_history_results": 0,
+      "new_history_entities": 0,
+      "new_budget_offers": 0,
+      "events": 5857,
+      "camp_dossiers": 1481,
+      "camp_dossier_countries": 87,
+      "schools": 70,
+      "league_profiles": 236,
+      "history_results": 221,
+      "history_entities": 161,
+      "budget_offers": 165,
+      "national_route_contacts": 212,
+      "national_route_countries": 135,
+      "source_requests": 40,
+      "source_hashes_verified": 37,
+      "source_failures": 3,
+      "old_event_records_refreshed": [
+        "C1309"
+      ],
+      "old_camp_dossiers_refreshed": [
+        "CP301",
+        "CP811"
+      ],
+      "worldwide_complete": false,
+      "fully_audited_countries": 0,
+      "forms_and_contacts_not_submitted": true,
+      "audit": "data/family-winter-audit-v187.json",
+      "native": "data/family-winter-native-v187.json",
+      "source_receipts": "data/family-winter-source-receipts-v187.json",
+      "data_validation": {
+        "version": 187,
+        "events": 5857,
+        "new_records": [
+          "C1950",
+          "C1951",
+          "CP1477-20261106-20261211-friday-a",
+          "CP1477-20261106-20261211-friday-b",
+          "CP1477-20261107-20261212-saturday-c",
+          "CP1480-20261228-20261231-alcantarilla",
+          "L597",
+          "L598",
+          "L599"
+        ],
+        "old_event_changed_fields": {
+          "C1309": [
+            "registration_status",
+            "entry",
+            "note",
+            "gear",
+            "team_max",
+            "format",
+            "team_min",
+            "cost",
+            "proof",
+            "references",
+            "checked"
+          ],
+          "CP301-20270107-20270110": [
+            "checked"
+          ],
+          "CP301-20270325-20270328": [
+            "checked"
+          ],
+          "CP811-20270104-20270108": [
+            "checked"
+          ]
+        },
+        "all_old_id_dates_deadlines_preserved": true,
+        "old_dossiers_preserved_except_source_rechecks": true,
+        "old_schools_budgets_history_routes_unchanged": true,
+        "old_league_profiles_unchanged": true,
+        "source_requests": 40,
+        "source_hashes": 37,
+        "new_dated_variants": 4,
+        "closed_DIMEX_excluded_from_family_ICS": true,
+        "MMM_jam_deadline_not_family_event": true,
+        "new_upcoming_family_calendar_entries": 1,
+        "ics_counts": {
+          "STEM_подтвержденные_даты.ics": 6776,
+          "STEM_крупные_выставки.ics": 121,
+          "es/STEM_подтвержденные_даты.ics": 6776,
+          "es/STEM_крупные_выставки.ics": 121
+        },
+        "worldwide_complete": false
+      },
+      "programme_runtime_checks_ru_es": [
+        {
+          "language": "ru",
+          "new_local_dossiers": 8,
+          "FLL_Challenge_Explore_August1_cutoff": true,
+          "Discover_Ukraine_legacy_only": true,
+          "African_school_and_course_filters": true,
+          "Infomatrix_ten_categories_render": true,
+          "Austria_exact_month_and_min11": true,
+          "Code_Ukraine_EN_but_children_ineligible": true,
+          "EN_ES_support_not_full_instruction": true,
+          "caribbean_real_filters": true,
+          "Martinique_family_day_only": true,
+          "NDC_school_window_not_fixed_date": true,
+          "real_child_and_month_filters": true,
+          "unknown_language_not_inferred": true,
+          "Matvey_excluded_from_maximum_8": true,
+          "Oscar_Hundred_minimum_7_excluded": true,
+          "unknown_Elab_age_not_assumed": true,
+          "new_country_routes_render": true,
+          "national_history_not_world_awards": true,
+          "mixed_string_and_object_gaps_render": true,
+          "HTML_escaping_preserved": true,
+          "MOZ_training_not_assumed_child_intake": true,
+          "visual_browser_QA": false
+        },
+        {
+          "language": "es/",
+          "new_local_dossiers": 8,
+          "FLL_Challenge_Explore_August1_cutoff": true,
+          "Discover_Ukraine_legacy_only": true,
+          "African_school_and_course_filters": true,
+          "Infomatrix_ten_categories_render": true,
+          "Austria_exact_month_and_min11": true,
+          "Code_Ukraine_EN_but_children_ineligible": true,
+          "EN_ES_support_not_full_instruction": true,
+          "caribbean_real_filters": true,
+          "Martinique_family_day_only": true,
+          "NDC_school_window_not_fixed_date": true,
+          "real_child_and_month_filters": true,
+          "unknown_language_not_inferred": true,
+          "Matvey_excluded_from_maximum_8": true,
+          "Oscar_Hundred_minimum_7_excluded": true,
+          "unknown_Elab_age_not_assumed": true,
+          "new_country_routes_render": true,
+          "national_history_not_world_awards": true,
+          "mixed_string_and_object_gaps_render": true,
+          "HTML_escaping_preserved": true,
+          "MOZ_training_not_assumed_child_intake": true,
+          "visual_browser_QA": false
+        }
+      ],
+      "family_pairing_checks_ru_es": [
+        {
+          "language": "ru",
+          "real_family_pairs": 5,
+          "month_and_past_filter": true,
+          "verified_shared_venue_required": true,
+          "exact_days_hours_timezone_required": true,
+          "variant_age_gate": true,
+          "invalid_dates_and_closed_groups_excluded": true,
+          "known_fee_units_only": true
+        },
+        {
+          "language": "es/",
+          "real_family_pairs": 5,
+          "month_and_past_filter": true,
+          "verified_shared_venue_required": true,
+          "exact_days_hours_timezone_required": true,
+          "variant_age_gate": true,
+          "invalid_dates_and_closed_groups_excluded": true,
+          "known_fee_units_only": true
+        }
+      ],
+      "javascript_syntax_files": 47,
+      "countries_with_records": 139,
+      "remaining_route_countries_without_calendar": 9,
+      "all_old_ID_dates_deadlines_preserved": true,
+      "old_camp_dossiers_preserved_except_source_rechecks": true,
+      "old_schools_budgets_history_routes_preserved": true,
+      "new_upcoming_calendar_entries": 1,
+      "new_dated_camp_variants": 4,
+      "visual_browser_qa": false,
+      "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
     }
   ],
   "previous_goal_turn_classification": "progress",
@@ -15633,10 +15593,10 @@
     "production_url": "https://paldd.github.io/stem-family-atlas/",
     "spanish_url": "https://paldd.github.io/stem-family-atlas/es/",
     "runtime_release": "https://paldd.github.io/stem-family-atlas/release.json",
-    "prepared_ui_version": 186,
+    "prepared_ui_version": 187,
     "status": "verify-deployed-source-commit-at-runtime-release-json",
-    "previous_verified_ui_version": 185,
-    "previous_verified_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da"
+    "previous_verified_ui_version": 186,
+    "previous_verified_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d"
   },
   "europe_camp_programme_audit_v127": {
     "version": 127,
@@ -17825,11 +17785,11 @@
     "all_league_calendar_counters_checked": 147
   },
   "previous_goal_turn_evidence": {
-    "version": 185,
-    "source_commit": "39b409bc52f6a9deb9fe0f2377e3b54d9e4807da",
-    "workflow_url": "https://github.com/Paldd/stem-family-atlas/actions/runs/42247284790",
-    "matched_public_and_local_assets": 286,
-    "full_archives_workbook_calendars_verified": true
+    "version": 186,
+    "source_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+    "workflow_run": 42257300196,
+    "live_version_check_receipt": "atlas-current-version-check-20261106T172145Z.json",
+    "matched_public_and_local_assets": 86
   },
   "east_asia_winter_programmes_v159": {
     "audit": "data/east-asia-winter-audit-v159.json",
@@ -21665,5 +21625,191 @@
     "visual_browser_qa": false,
     "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim",
     "catalog_sha256_before_final_rebuild": "0b0ace608b8ea8f257f38f0a097e090c1bb3a0d329e314c21c0fa3e3eca8571e"
+  },
+  "family_winter_v187": {
+    "version": 187,
+    "checked": "2026-11-06",
+    "status": "verified-local-awaiting-published-sha",
+    "scope": "Ближайшие региональные возможности и испанские технологические программы: новые досье DIMEX и MMM Academy, полный регламент Robo Blasters и школьный маршрут ExpoCiencias Sonora. Старые даты, закрытая запись, школьное зачисление, возраст и язык сохранены как отдельные условия. Мировой аудит продолжается.",
+    "previous_goal_turn_classification": "progress",
+    "previous_published_commit": "f9326b69258a03c417dddb808fc4e8ea2baedc5d",
+    "previous_workflow": 42257300196,
+    "new_catalogue_rows": 9,
+    "new_competition_programme_rows": 2,
+    "new_manual_learning_rows": 3,
+    "new_generated_camp_rows": 4,
+    "new_camp_dossiers": 5,
+    "new_camp_countries": 0,
+    "new_school_dossiers": 0,
+    "new_league_profiles": 1,
+    "new_history_results": 0,
+    "new_history_entities": 0,
+    "new_budget_offers": 0,
+    "events": 5857,
+    "camp_dossiers": 1481,
+    "camp_dossier_countries": 87,
+    "schools": 70,
+    "league_profiles": 236,
+    "history_results": 221,
+    "history_entities": 161,
+    "budget_offers": 165,
+    "national_route_contacts": 212,
+    "national_route_countries": 135,
+    "source_requests": 40,
+    "source_hashes_verified": 37,
+    "source_failures": 3,
+    "old_event_records_refreshed": [
+      "C1309"
+    ],
+    "old_camp_dossiers_refreshed": [
+      "CP301",
+      "CP811"
+    ],
+    "worldwide_complete": false,
+    "fully_audited_countries": 0,
+    "forms_and_contacts_not_submitted": true,
+    "audit": "data/family-winter-audit-v187.json",
+    "native": "data/family-winter-native-v187.json",
+    "source_receipts": "data/family-winter-source-receipts-v187.json",
+    "data_validation": {
+      "version": 187,
+      "events": 5857,
+      "new_records": [
+        "C1950",
+        "C1951",
+        "CP1477-20261106-20261211-friday-a",
+        "CP1477-20261106-20261211-friday-b",
+        "CP1477-20261107-20261212-saturday-c",
+        "CP1480-20261228-20261231-alcantarilla",
+        "L597",
+        "L598",
+        "L599"
+      ],
+      "old_event_changed_fields": {
+        "C1309": [
+          "registration_status",
+          "entry",
+          "note",
+          "gear",
+          "team_max",
+          "format",
+          "team_min",
+          "cost",
+          "proof",
+          "references",
+          "checked"
+        ],
+        "CP301-20270107-20270110": [
+          "checked"
+        ],
+        "CP301-20270325-20270328": [
+          "checked"
+        ],
+        "CP811-20270104-20270108": [
+          "checked"
+        ]
+      },
+      "all_old_id_dates_deadlines_preserved": true,
+      "old_dossiers_preserved_except_source_rechecks": true,
+      "old_schools_budgets_history_routes_unchanged": true,
+      "old_league_profiles_unchanged": true,
+      "source_requests": 40,
+      "source_hashes": 37,
+      "new_dated_variants": 4,
+      "closed_DIMEX_excluded_from_family_ICS": true,
+      "MMM_jam_deadline_not_family_event": true,
+      "new_upcoming_family_calendar_entries": 1,
+      "ics_counts": {
+        "STEM_подтвержденные_даты.ics": 6776,
+        "STEM_крупные_выставки.ics": 121,
+        "es/STEM_подтвержденные_даты.ics": 6776,
+        "es/STEM_крупные_выставки.ics": 121
+      },
+      "worldwide_complete": false
+    },
+    "programme_runtime_checks_ru_es": [
+      {
+        "language": "ru",
+        "new_local_dossiers": 8,
+        "FLL_Challenge_Explore_August1_cutoff": true,
+        "Discover_Ukraine_legacy_only": true,
+        "African_school_and_course_filters": true,
+        "Infomatrix_ten_categories_render": true,
+        "Austria_exact_month_and_min11": true,
+        "Code_Ukraine_EN_but_children_ineligible": true,
+        "EN_ES_support_not_full_instruction": true,
+        "caribbean_real_filters": true,
+        "Martinique_family_day_only": true,
+        "NDC_school_window_not_fixed_date": true,
+        "real_child_and_month_filters": true,
+        "unknown_language_not_inferred": true,
+        "Matvey_excluded_from_maximum_8": true,
+        "Oscar_Hundred_minimum_7_excluded": true,
+        "unknown_Elab_age_not_assumed": true,
+        "new_country_routes_render": true,
+        "national_history_not_world_awards": true,
+        "mixed_string_and_object_gaps_render": true,
+        "HTML_escaping_preserved": true,
+        "MOZ_training_not_assumed_child_intake": true,
+        "visual_browser_QA": false
+      },
+      {
+        "language": "es/",
+        "new_local_dossiers": 8,
+        "FLL_Challenge_Explore_August1_cutoff": true,
+        "Discover_Ukraine_legacy_only": true,
+        "African_school_and_course_filters": true,
+        "Infomatrix_ten_categories_render": true,
+        "Austria_exact_month_and_min11": true,
+        "Code_Ukraine_EN_but_children_ineligible": true,
+        "EN_ES_support_not_full_instruction": true,
+        "caribbean_real_filters": true,
+        "Martinique_family_day_only": true,
+        "NDC_school_window_not_fixed_date": true,
+        "real_child_and_month_filters": true,
+        "unknown_language_not_inferred": true,
+        "Matvey_excluded_from_maximum_8": true,
+        "Oscar_Hundred_minimum_7_excluded": true,
+        "unknown_Elab_age_not_assumed": true,
+        "new_country_routes_render": true,
+        "national_history_not_world_awards": true,
+        "mixed_string_and_object_gaps_render": true,
+        "HTML_escaping_preserved": true,
+        "MOZ_training_not_assumed_child_intake": true,
+        "visual_browser_QA": false
+      }
+    ],
+    "family_pairing_checks_ru_es": [
+      {
+        "language": "ru",
+        "real_family_pairs": 5,
+        "month_and_past_filter": true,
+        "verified_shared_venue_required": true,
+        "exact_days_hours_timezone_required": true,
+        "variant_age_gate": true,
+        "invalid_dates_and_closed_groups_excluded": true,
+        "known_fee_units_only": true
+      },
+      {
+        "language": "es/",
+        "real_family_pairs": 5,
+        "month_and_past_filter": true,
+        "verified_shared_venue_required": true,
+        "exact_days_hours_timezone_required": true,
+        "variant_age_gate": true,
+        "invalid_dates_and_closed_groups_excluded": true,
+        "known_fee_units_only": true
+      }
+    ],
+    "javascript_syntax_files": 47,
+    "countries_with_records": 139,
+    "remaining_route_countries_without_calendar": 9,
+    "all_old_ID_dates_deadlines_preserved": true,
+    "old_camp_dossiers_preserved_except_source_rechecks": true,
+    "old_schools_budgets_history_routes_preserved": true,
+    "new_upcoming_calendar_entries": 1,
+    "new_dated_camp_variants": 4,
+    "visual_browser_qa": false,
+    "visual_browser_unavailable": "Local browser use is disabled in Work settings; no visual QA claim"
   }
 }

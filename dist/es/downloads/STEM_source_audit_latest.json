@@ -16,11 +16,11 @@
     "fully_audited_countries": 0
   },
   "counts": {
-    "cards": 5848,
-    "competition_cards": 1948,
+    "cards": 5857,
+    "competition_cards": 1950,
     "event_cards": 264,
-    "camp_cards": 3636,
-    "league_profiles": 235,
+    "camp_cards": 3643,
+    "league_profiles": 236,
     "major_exhibition_cards": 172,
     "vex_cards": 518,
     "countries_with_records": 139,
@@ -34,12 +34,12 @@
         "América Central",
         "Caribe"
       ],
-      "total": 1677,
+      "total": 1683,
       "countries_with_records": 22,
-      "competitions": 619,
+      "competitions": 620,
       "events": 61,
       "major_exhibitions": 22,
-      "camps": 997,
+      "camps": 1002,
       "status": "Se ha estudiado parcialmente",
       "remaining": "fuerte traslado en el catálogo VEX Estados Unidos. México / Costa Rica prioridades, pero la lista completa de los torneos locales, las escuelas y las solicitudes no están cerradas."
     },
@@ -62,12 +62,12 @@
       "regions": [
         "Europa"
       ],
-      "total": 1709,
+      "total": 1711,
       "countries_with_records": 42,
-      "competitions": 383,
+      "competitions": 384,
       "events": 75,
       "major_exhibitions": 54,
-      "camps": 1251,
+      "camps": 1252,
       "status": "Se ha estudiado parcialmente",
       "remaining": "CHE/ESP/FRA se profundizan de nuevo. No están cerradas todas las ligas locales, Nuevos qualifiers 2027, enseñanza en inglés / en español, cuotas extranjeras, de la actualidad juniormentors y los protocolos escolares completos 5–10 años. Alemania / Países Bajos / Bélgica: el primer paso parcial; todos los clubes locales, lenguas, Cuotas extranjeras y resultados escolares completos permanecen abiertos."
     },
@@ -4069,6 +4069,20 @@
       "linked_card_count": 1,
       "status": "tiene un perfil y tarjetas; el alcance local es parcial",
       "source": "https://ftc-events.firstinspires.org/2026/ZAESQ",
+      "new": false
+    },
+    {
+      "id": "roboblasters-cuernavaca-local",
+      "name": "Robo Blasters · Lebotics / PrepaTec Cuernavaca",
+      "group": "regional",
+      "event_ids": [
+        "C1309"
+      ],
+      "cards": 1,
+      "future_dated": 1,
+      "linked_card_count": 1,
+      "status": "tiene un perfil y tarjetas; el alcance local es parcial",
+      "source": "https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview",
       "new": false
     },
     {
@@ -8328,7 +8342,7 @@
       "official_alternative": "https://www.ykpaoschool.cn/News-and-Events/New-Stories/988"
     }
   ],
-  "interregional_cards": 81,
+  "interregional_cards": 82,
   "promoted_exhibition_ids": [],
   "focused_country": {
     "country": "Taiwán",
@@ -9365,8 +9379,8 @@
       }
     ],
     "counts": {
-      "records": 3636,
-      "holiday": 3395,
+      "records": 3643,
+      "holiday": 3402,
       "regular": 108,
       "self_paced_materials": 2,
       "boarding": 981,

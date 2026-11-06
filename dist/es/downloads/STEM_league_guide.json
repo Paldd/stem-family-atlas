@@ -1,6 +1,6 @@
 {
   "league_guide": {
-    "version": 186,
+    "version": 187,
     "checked": "2026-11-06",
     "groups": {
       "core": "las principales trayectorias mundiales",
@@ -14849,6 +14849,61 @@
         "evidence": "Fecha oficial 13 de febrero de 2027, FIRST season 2026–27 BIOBUZZ, código ZAESQ. Nombre y ciudad dicen eSwatini, pero sistema indica KZN / South Africa; dirección y sede vacías. País de ficha sigue campo del organizador South Africa, vínculo con Esuatini separado. No es lugar de viaje confirmado. Ambos niños menores de nivel FTC habitual 12–18 / Grades 7–12. HOME EVENT extranjero, clasificación y acceso familiar espectador sin confirmar."
       },
       {
+        "id": "roboblasters-cuernavaca-local",
+        "name": "Robo Blasters · Lebotics / PrepaTec Cuernavaca",
+        "group": "regional",
+        "age_summary": "5–6 primaria / 1–3 secundaria",
+        "age_tags": [
+          "teen"
+        ],
+        "summary": "Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado.",
+        "categories": [
+          {
+            "name": "Robo Blasters · common school category",
+            "age": "5–6 primaria / 1–3 secundaria",
+            "team": "1–5 alumnos + 1 coach adulto",
+            "hardware": "Bluetooth; máximo 12 V, 1.9 kg con batería y 1.2 kg sin ella. Dimensiones iniciales 300 × 300 × 400 mm, tras inicio 400 × 400 × 500 mm; ruedas máximo 76.2 mm. Hidráulica y neumática prohibidas. Partidas de 3 minutos. Texto del manual habla de alianza con otro robot, pero esquema inicial describe 3 robots por lado; discrepancia interna, confirmar composición exacta de alianza.",
+            "entry": "Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado."
+          }
+        ],
+        "event_ids": [
+          "C1309"
+        ],
+        "legacy_ids": [],
+        "route": "Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado.",
+        "hardware": "Bluetooth; máximo 12 V, 1.9 kg con batería y 1.2 kg sin ella. Dimensiones iniciales 300 × 300 × 400 mm, tras inicio 400 × 400 × 500 mm; ruedas máximo 76.2 mm. Hidráulica y neumática prohibidas. Partidas de 3 minutos. Texto del manual habla de alianza con otro robot, pero esquema inicial describe 3 robots por lado; discrepancia interna, confirmar composición exacta de alianza.",
+        "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+        "importance": "Competición escolar local; vínculo con club FRC organizador no es clasificación FIRST.",
+        "strengths": "Práctica de montaje, Bluetooth, mecánica y juegos de equipo.",
+        "requirements": [
+          "Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado."
+        ],
+        "nuances": [
+          "Bluetooth; máximo 12 V, 1.9 kg con batería y 1.2 kg sin ella. Dimensiones iniciales 300 × 300 × 400 mm, tras inicio 400 × 400 × 500 mm; ruedas máximo 76.2 mm. Hidráulica y neumática prohibidas. Partidas de 3 minutos. Texto del manual habla de alianza con otro robot, pero esquema inicial describe 3 robots por lado; discrepancia interna, confirmar composición exacta de alianza.",
+          "Proyecto lectivo o premio interno no es título internacional."
+        ],
+        "cost": "MXN 1800 por equipo con kit / curso de coach o 1200 sin kit para reutilizar componentes. Kit: chasis, Arduino, motor driver y portapilas; factura completa, viaje y piezas adicionales aparte.",
+        "award": "Proyecto lectivo o premio interno no es título internacional.",
+        "sources": [
+          {
+            "title": "Robo Blasters · full convocatoria",
+            "url": "https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Robo Blasters · game manual",
+            "url": "https://docs.google.com/document/d/1I0UUaHuCQ3Ndpj4oYls-v-DRALH2sTsnxXH1nU8OK7w/preview",
+            "checked": "2026-11-06"
+          },
+          {
+            "title": "Robo Blasters · public form",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfecSP4YcodptwHCF-peY5wY4w4NnOupi_ss3DKYSVoaBJckQ/viewform",
+            "checked": "2026-11-06"
+          }
+        ],
+        "evidence": "Convocatoria y formulario: 1–5 alumnos de cursos reales 5–6 primaria / 1–3 secundaria en una categoría común más un coach adulto. Coach puede ser padre. Plazo del 17 de octubre de 2026 vencido, aunque formulario sigue visible. Hasta 30 equipos; 5 de diciembre de 2026, 08:00–18:00, Auditorio Campus Cuernavaca. Familiares de participantes y docentes invitados a apoyar equipos; visita pública independiente y entrada sin equipo sin establecer. Solicitud requiere permiso de representante legal, su ID y pago; nada enviado."
+      },
+      {
         "id": "tech-challenge-project",
         "name": "The Tech Challenge · programa de ingeniería y showcase",
         "group": "regional",
@@ -20150,7 +20205,7 @@
     ],
     "legacy_count": 46,
     "mapped_legacy_count": 46,
-    "methodology": "235 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
+    "methodology": "236 perfiles de ligas, familias y programas; las 46 rutas anteriores conservadas. Formatos brasileños separados, Robofest LATAM y BajaBot locales descritos por sus categorías. Cobertura mundial parcial.",
     "common_gates": [
       "edad: comprobar el año de nacimiento, la fecha de corte y la clase escolar. La edad general en el sitio no sustituye el reglamento de la categoría.",
       "equipo: mínimo / máximo, edad del mayor, un niño en un equipo, papel técnico de cada uno.",

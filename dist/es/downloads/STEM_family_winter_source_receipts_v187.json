@@ -1,0 +1,419 @@
+{
+  "version": 187,
+  "checked": "2026-11-06",
+  "requests": [
+    {
+      "key": "dimex-robotics",
+      "url": "https://dimexideas.com/club-de-robotica/",
+      "checked_at": "2026-11-06T17:16:21.910119+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/club-de-robotica/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 148118,
+      "sha256": "9a9dd2c0e1d4a6eeae71622e092b2ca1a34eb4f02c8108920428f103bc9d8a91"
+    },
+    {
+      "key": "roboblasters-home",
+      "url": "https://sites.google.com/tec.mx/roboblasters/inicio",
+      "checked_at": "2026-11-06T17:16:21.910503+00:00",
+      "status": 200,
+      "final_url": "https://sites.google.com/tec.mx/roboblasters/inicio",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 171164,
+      "sha256": "97929336bebfe866c196c13581c994c78c0c1dd8df21b4ca5f453a7f152e3a41"
+    },
+    {
+      "key": "gio-astrocamp",
+      "url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+      "checked_at": "2026-11-06T17:16:21.910587+00:00",
+      "status": 200,
+      "final_url": "https://www.giorodriguez.com/producto/campamento-de-observacion-de-estrellas/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 324767,
+      "sha256": "aa858417916343721f7fdc88ca5b6714319609b3c889d460c70f2676bf9741d4"
+    },
+    {
+      "key": "doblando-workshops",
+      "url": "https://doblandoelviento.com/ilaia/talleres",
+      "checked_at": "2026-11-06T17:16:21.910652+00:00",
+      "status": 200,
+      "final_url": "https://doblandoelviento.com/ilaia/talleres",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 65770,
+      "sha256": "a7d8a5f5e8f67e96a50146efeacc76d67af96b3de84a611bde1c543303becf18"
+    },
+    {
+      "key": "capitanes-winter",
+      "url": "https://capitanes.mx/winter-camp-25-26/",
+      "checked_at": "2026-11-06T17:16:21.910885+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "cenfotec-makers",
+      "url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "checked_at": "2026-11-06T17:16:22.866395+00:00",
+      "status": 200,
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/producto/ruta-makers-lab/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 283482,
+      "sha256": "b41b37367f2627c47526aaaffc66c51fdb9579b65037ef2202ddcfe416205fa9"
+    },
+    {
+      "key": "cerebritos-home",
+      "url": "https://www.cerebritosdelfuturo.com/",
+      "checked_at": "2026-11-06T17:16:23.003480+00:00",
+      "status": 200,
+      "final_url": "https://www.cerebritosdelfuturo.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 1070694,
+      "sha256": "741aeb93e2cd343a9d215a1e501c12dfbbc95eace93d627ddbf4af510f1a41a0"
+    },
+    {
+      "key": "sailing-panama",
+      "url": "https://www.sailingclubpanama.com/campamentos-verano-panama/",
+      "checked_at": "2026-11-06T17:17:17.810700+00:00",
+      "status": 200,
+      "final_url": "https://www.sailingclubpanama.com/campamentos-verano-panama/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 47938,
+      "sha256": "8912d8b844dd3ed27e99fb4c31ce265902f336903b8511b5705f8784305a2b73"
+    },
+    {
+      "key": "cacao-home",
+      "url": "https://www.cacaocamps.com/",
+      "checked_at": "2026-11-06T17:17:17.811053+00:00",
+      "status": 200,
+      "final_url": "https://www.cacaocamps.com/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 132404,
+      "sha256": "927184e136d25b33d83819e4941ffddf205619da06a3272a28d98e5121bb7148"
+    },
+    {
+      "key": "cenfotec-courses",
+      "url": "https://ucenfotec.ac.cr/ecommerce/",
+      "checked_at": "2026-11-06T17:17:17.811142+00:00",
+      "status": 200,
+      "final_url": "https://ucenfotec.ac.cr/ecommerce/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 252059,
+      "sha256": "c093dd2e834ce0f39fb9302d35ac5f4ad640f90e4e9ab26ffefbf82ca512640e"
+    },
+    {
+      "key": "roboblasters-manuals",
+      "url": "https://sites.google.com/tec.mx/roboblasters/manuales",
+      "checked_at": "2026-11-06T17:23:28.450791+00:00",
+      "status": 200,
+      "final_url": "https://sites.google.com/tec.mx/roboblasters/manuales",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 141776,
+      "sha256": "a4e2a5bccb49f715ca36fa2f236473ee7d411cd9f3647430537d0eabfcd45569"
+    },
+    {
+      "key": "roboblasters-register",
+      "url": "https://sites.google.com/tec.mx/roboblasters/regístrate-aquí",
+      "checked_at": "2026-11-06T17:23:28.451511+00:00",
+      "error": "'ascii' codec can't encode character '\\xed' in position 28: ordinal not in range(128)"
+    },
+    {
+      "key": "roboblasters-payment-info",
+      "url": "https://sites.google.com/tec.mx/roboblasters/pago-de-inscripción",
+      "checked_at": "2026-11-06T17:23:28.451621+00:00",
+      "error": "'ascii' codec can't encode character '\\xf3' in position 42: ordinal not in range(128)"
+    },
+    {
+      "key": "dimex-about",
+      "url": "https://dimexideas.com/acerca/",
+      "checked_at": "2026-11-06T17:23:28.451699+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/acerca/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 118414,
+      "sha256": "959477e9d7481e87b5f0f0d1730229effd3bda6f8e98eaf639218d93198e8d1b"
+    },
+    {
+      "key": "dimex-scienceclub",
+      "url": "https://dimexideas.com/club-de-ciencia/",
+      "checked_at": "2026-11-06T17:23:28.452001+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/club-de-ciencia/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 158903,
+      "sha256": "732af038ec975fc75c197cab2c34afbf15b8d86d42ad956649e38f207d1f3a8f"
+    },
+    {
+      "key": "dimex-blender",
+      "url": "https://dimexideas.com/blender-unity/",
+      "checked_at": "2026-11-06T17:23:28.468237+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/blender-unity/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 142594,
+      "sha256": "7cf67b07287962dcb43862f4d47c857586642085b18f59167e54606b4559b2b5"
+    },
+    {
+      "key": "cacao-day",
+      "url": "https://www.cacaocamps.com/day-camp-el-valle/",
+      "checked_at": "2026-11-06T17:23:28.468704+00:00",
+      "status": 200,
+      "final_url": "https://www.cacaocamps.com/day-camp-el-valle/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 140899,
+      "sha256": "1a080fd0c8a32a73cd6c8615a21a18eda6bb9a2ea423026d5eea2c60740aeb0b"
+    },
+    {
+      "key": "cacao-payments",
+      "url": "https://www.cacaocamps.com/pagos/",
+      "checked_at": "2026-11-06T17:23:29.014390+00:00",
+      "status": 200,
+      "final_url": "https://www.cacaocamps.com/pagos/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 91163,
+      "sha256": "e1142a1372a45c3f7cbdd55ca107fb41c70b36b4956b9a761bcaf8ad32185a46"
+    },
+    {
+      "key": "fll-mexico-faq",
+      "url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "checked_at": "2026-11-06T17:23:29.426539+00:00",
+      "status": 200,
+      "final_url": "https://www.firstlegoleagues.mx/preguntas-frecuentes/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 70282,
+      "sha256": "5e6efe7c76d4b3fd6c3a4db68d852f045d54a333c811d69bc61375ca6b70189c"
+    },
+    {
+      "key": "fmr-events",
+      "url": "https://femexrobotica.org/fmr/eventos/",
+      "checked_at": "2026-11-06T17:23:29.445842+00:00",
+      "status": 200,
+      "final_url": "https://femexrobotica.org/fmr/eventos/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 76670,
+      "sha256": "f3c4e4cd7e2c436cbb1f6fbd21c6b060a556773ee43a188dd491d71393914096"
+    },
+    {
+      "key": "mmmacademy-home",
+      "url": "https://mmmacademy.es/",
+      "checked_at": "2026-11-06T17:23:29.446626+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 318404,
+      "sha256": "b6deeb36e98b044e81d59c1f35b6b44e677a19ea09ffa4cfb599baf389bfc5cc"
+    },
+    {
+      "key": "roboblasters-register",
+      "url": "https://sites.google.com/tec.mx/roboblasters/reg%C3%ADstrate-aqu%C3%AD",
+      "checked_at": "2026-11-06T17:24:13.939006+00:00",
+      "status": 200,
+      "final_url": "https://sites.google.com/tec.mx/roboblasters/reg%C3%ADstrate-aqu%C3%AD",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 123264,
+      "sha256": "904f9e124c0d7b635d6ba03467c18d9dfee22b7df192f36201b822b608332ee6"
+    },
+    {
+      "key": "roboblasters-payment-info",
+      "url": "https://sites.google.com/tec.mx/roboblasters/pago-de-inscripci%C3%B3n",
+      "checked_at": "2026-11-06T17:24:13.939598+00:00",
+      "status": 200,
+      "final_url": "https://sites.google.com/tec.mx/roboblasters/pago-de-inscripci%C3%B3n",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 123497,
+      "sha256": "cd5f3fa02f8a41bc69fec4385dd5e09cc8d8301ef51c081f7b716bcb6022b418"
+    },
+    {
+      "key": "roboblasters-convocatoria",
+      "url": "https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview",
+      "checked_at": "2026-11-06T17:24:13.939697+00:00",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 89812,
+      "sha256": "7a33521443b71ca57e4274471445dd48a8b43a0df40cb1cb42ae22baa0d99b85"
+    },
+    {
+      "key": "roboblasters-manual",
+      "url": "https://docs.google.com/document/d/1I0UUaHuCQ3Ndpj4oYls-v-DRALH2sTsnxXH1nU8OK7w/preview",
+      "checked_at": "2026-11-06T17:24:13.939775+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/document/d/1I0UUaHuCQ3Ndpj4oYls-v-DRALH2sTsnxXH1nU8OK7w/preview",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 558037,
+      "sha256": "541c15c5522b889ef3de1ff896249d32f4ef448e57d1ea9b9b489eb4541de2a5"
+    },
+    {
+      "key": "mmm-christmas",
+      "url": "https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/",
+      "checked_at": "2026-11-06T17:24:13.940051+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 190348,
+      "sha256": "7275f84ea7b8228663fbd1c3674bce64b23326c56fbcb5a129a401960c96c0a3"
+    },
+    {
+      "key": "mmm-gamejam",
+      "url": "https://mmmacademy.es/agenda/game-jam-mmm-navidad-2026-27/",
+      "checked_at": "2026-11-06T17:24:14.474815+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/agenda/game-jam-mmm-navidad-2026-27/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 189294,
+      "sha256": "58a72e41f8b9a791a52198cf854c9b68022065f1d141c1c61a8f14324aa24a85"
+    },
+    {
+      "key": "mmm-christmas-detail",
+      "url": "https://mmmacademy.es/campamento-navidad/",
+      "checked_at": "2026-11-06T17:24:14.493873+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/campamento-navidad/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 202881,
+      "sha256": "b630cf7a556cd6ac8fc069fe84b6959ced1ff2d8b584bc643cd0aedd74bfda1e"
+    },
+    {
+      "key": "mmm-maker",
+      "url": "https://mmmacademy.es/cursos/taller-maker/",
+      "checked_at": "2026-11-06T17:24:14.588750+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/taller-maker/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 166675,
+      "sha256": "fb58ec0b2a6b98c89987187c4a28de9232038af94b78105df2a3d1ed71b58ece"
+    },
+    {
+      "key": "mmm-legal",
+      "url": "https://mmmacademy.es/aviso-legal/",
+      "checked_at": "2026-11-06T17:24:14.602463+00:00",
+      "status": 200,
+      "final_url": "https://mmmacademy.es/aviso-legal/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 113468,
+      "sha256": "6c8ee8167de69a9becc85133e269653f5c47fced69ec1ed775d8d7e29160581f"
+    },
+    {
+      "key": "dimex-summer",
+      "url": "https://dimexideas.com/verano-cientifico/",
+      "checked_at": "2026-11-06T17:24:18.695316+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/verano-cientifico/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 156851,
+      "sha256": "6aa0abf6d980470e00d5ce9a686e2b6553b18c7af958b7836b3af8ef8a3afa01"
+    },
+    {
+      "key": "dimex-expo",
+      "url": "https://dimexideas.com/expociencias-sonora/",
+      "checked_at": "2026-11-06T17:24:18.885283+00:00",
+      "status": 200,
+      "final_url": "https://dimexideas.com/expociencias-sonora/",
+      "content_type": "texto/html; conjunto de caracteres=UTF-8",
+      "bytes": 159088,
+      "sha256": "935634b9e0d1d11cee74ebf6ea11b68514b6d43daf9f2a9053fd9a92829ac82c"
+    },
+    {
+      "key": "roboblasters-public-form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfecSP4YcodptwHCF-peY5wY4w4NnOupi_ss3DKYSVoaBJckQ/viewform",
+      "checked_at": "2026-11-06T17:25:15.536036+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSfecSP4YcodptwHCF-peY5wY4w4NnOupi_ss3DKYSVoaBJckQ/viewform",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 152629,
+      "sha256": "ae772a959c58b0eb34317762c17c11d450ed372689c1d7cd91b492ae52d1bb9a"
+    },
+    {
+      "key": "roboblasters-manual-text",
+      "url": "https://docs.google.com/document/d/1I0UUaHuCQ3Ndpj4oYls-v-DRALH2sTsnxXH1nU8OK7w/export?format=txt",
+      "checked_at": "2026-11-06T17:25:15.536663+00:00",
+      "status": 200,
+      "final_url": "https://doc-14-2s-docstext.googleusercontent.com/export/dr04igesal9pftlk9arelf1tq8/tur7nvu4q0tt5u0heg2lsqgb50/1793985915000/116443937594676682631/*/1I0UUaHuCQ3Ndpj4oYls-v-DRALH2sTsnxXH1nU8OK7w?format=txt",
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 41013,
+      "sha256": "1a8d6ba0f1f0b8ba14c3ffc7365ed8a092020b08e728fb36387549d5921f6e06"
+    },
+    {
+      "key": "roboblasters-convocatoria-download",
+      "url": "https://drive.google.com/uc?export=download&id=1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL",
+      "checked_at": "2026-11-06T17:25:15.536766+00:00",
+      "status": 200,
+      "final_url": "https://drive.usercontent.google.com/download?id=1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL&export=download",
+      "content_type": "application/octet-stream",
+      "bytes": 932400,
+      "sha256": "7dcdc7b7baf6d071b029e450ef365ed6f9d9cc1e2724dfa38a3871643da23471"
+    },
+    {
+      "key": "dimex-robotics-form",
+      "url": "https://forms.gle/DhRdVdkJTHwZjrCD6",
+      "checked_at": "2026-11-06T17:25:15.536836+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLScFxw1pGO6smRXI4KLrlEZTbJ4Lm1t-7P1jRkNX34q0eXmznA/closedform",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 76825,
+      "sha256": "7d3c872d175cd0bf8661055efbc9cb00b4920e3aa703ecae3abcfb4c7540da4d"
+    },
+    {
+      "key": "mmm-christmas-form",
+      "url": "https://forms.gle/NFUmtSbhuKac77WJ9",
+      "checked_at": "2026-11-06T17:25:15.537112+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSf55Rr-oGZTtdSCo1BZiryXoKw_jtRTS6Gtp0jtJ0yiTb3zig/viewform?usp=send_form",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 119446,
+      "sha256": "11e88fd6591866ee34b210adbc5315a95b651ab7a03daab643aaeac8697b263e"
+    },
+    {
+      "key": "mmm-gamejam-form",
+      "url": "https://forms.gle/mK5hRuEiLzwmg6jE8",
+      "checked_at": "2026-11-06T17:25:16.271761+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSdXd0cLvSs_TsnxQ2xvVELF8sCnb2gQNI-wjpL7qQPcAjD6WA/viewform?usp=send_form",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 97167,
+      "sha256": "b5bd7de90aa7f792280464fac7882e51ad780d6d8adce5c620aebd427ed985e0"
+    },
+    {
+      "key": "sailing-feb-form",
+      "url": "https://forms.gle/qHJMvZZzjpid4Ns6A",
+      "checked_at": "2026-11-06T17:25:16.619183+00:00",
+      "status": 200,
+      "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSf_H0kRYnyl85xYQ73rjFmGs3etUw3NhuR468mMe43L0ngqTw/viewform?usp=send_form",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 94293,
+      "sha256": "86098a18bbc10a51b7bc10ccefc6b0c467dc43fd753f518db95bbacd43f397b8"
+    },
+    {
+      "key": "ilaia-contact",
+      "url": "https://doblandoelviento.com/ilaia/contacto",
+      "checked_at": "2026-11-06T17:25:17.054735+00:00",
+      "status": 200,
+      "final_url": "https://doblandoelviento.com/ilaia/contacto",
+      "content_type": "texto/html; carcasa=utf-8",
+      "bytes": 30197,
+      "sha256": "a2ff752c9bd3cbb807a493ee2dc3cc39237cfd090a545e346de6a994495aa796"
+    }
+  ],
+  "request_count": 40,
+  "hash_verified": 37,
+  "failures": [
+    {
+      "key": "capitanes-winter",
+      "url": "https://capitanes.mx/winter-camp-25-26/",
+      "checked_at": "2026-11-06T17:16:21.910885+00:00",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "key": "roboblasters-register",
+      "url": "https://sites.google.com/tec.mx/roboblasters/regístrate-aquí",
+      "checked_at": "2026-11-06T17:23:28.451511+00:00",
+      "error": "'ascii' codec can't encode character '\\xed' in position 28: ordinal not in range(128)"
+    },
+    {
+      "key": "roboblasters-payment-info",
+      "url": "https://sites.google.com/tec.mx/roboblasters/pago-de-inscripción",
+      "checked_at": "2026-11-06T17:23:28.451621+00:00",
+      "error": "'ascii' codec can't encode character '\\xf3' in position 42: ordinal not in range(128)"
+    }
+  ],
+  "all_requests_get_only": true,
+  "raw_source_bodies_private": true,
+  "no_forms_or_contacts_submitted": true
+}

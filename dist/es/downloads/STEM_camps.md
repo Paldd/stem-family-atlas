@@ -8326,6 +8326,54 @@ Limitaciones: Informe del propietario de 2024/25 incluye robótica en Grades 4�
 Fuente: https://www.res.co.sz/csi/education.php
 Se ha comprobado: 2026-11-06
 
+### L597 · DIMEX · Ideas Labs · school programme
+
+Lugar: México Colegio aceptado; sede y grupo concreto sin anunciar
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Primaria / secundaria; acordar curso exacto del grupo
+Matvey: Consultar; curso y grupo concreto desconocidos
+Oscar: Consultar; curso y grupo concreto desconocidos
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: MXN 400 por alumno por módulo: 200 en semana 1 y 200 en semana 5. Año de tarifa sin indicar; no es año lectivo completo.
+Acceso: Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+Limitaciones: Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.
+Fuente: https://dimexideas.com/club-de-ciencia/
+Se ha comprobado: 2026-11-06
+
+### L598 · DIMEX · Verano Científico · archive 2026
+
+Lugar: México Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+Fecha: No se ha fijado el período/plan de trabajo
+edad: 1 primaria — 2 secundaria; edad numérica sin indicar
+Matvey: Consultar; curso y grupo concreto desconocidos
+Oscar: Consultar; curso y grupo concreto desconocidos
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Archivo: MXN 3000 por programa completo, descuento del 20% al segundo participante. Tarifa 2027 desconocida.
+Acceso: Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+Limitaciones: Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.
+Fuente: https://dimexideas.com/verano-cientifico/
+Se ha comprobado: 2026-11-06
+
+### L599 · MMM Academy · Taller Maker
+
+lugar: España · Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
+Fecha: No se ha fijado el período/plan de trabajo
+edad: Niños y adolescentes; edad numérica sin publicar
+Matvey: Consultar; curso y grupo concreto desconocidos
+Oscar: Consultar; curso y grupo concreto desconocidos
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Precio, fechas nuevas y plazas sin publicar.
+Acceso: Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.
+Limitaciones: Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.
+Fuente: https://mmmacademy.es/cursos/taller-maker/
+Se ha comprobado: 2026-11-06
+
 ### CP001-20270606-20270619 · Les Elfes International · Albergue de verano · Programa Principal · 2027-06-06–2027-06-19
 
 Lugar: Suiza - Verbier
@@ -19668,7 +19716,7 @@ Costo: 2027 - USD 650; anticipo de 200 al precio de los pagos - y condiciones de
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; Idioma, natación, de seguros y admisión extranjera. Oscar: Sólo después 7-El verano para el comienzo de la carrera; Adiós. 6 No se ha alcanzado la edad mínima. Gastos adicionales: USD 50 sibling o return/multiweek, no se suman; Una cuenta y seguro individuales para aclarar. Camino a la carretera Panamá Por separado. Pago: USD 200 anticipos a la cuenta 650, sin pago; Posible asignación de fechas ACH. No se ha resuelto la cancelación.
 Fuente: https://www.sailingclubpanama.com/campamentos-verano-panama/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP301-20270325-20270328 · Sailing Club Panamá · Sea Camp 2027 · Sea Camp · 4 días / 3 Noche. · 2027-03-25–2027-03-28
 
@@ -19684,7 +19732,7 @@ Costo: 2027 - USD 650; anticipo de 200 al precio de los pagos - y condiciones de
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: 9–10 Ajustado; Idioma, natación, de seguros y admisión extranjera. Oscar: Sólo después 7-El verano para el comienzo de la carrera; Adiós. 6 No se ha alcanzado la edad mínima. Gastos adicionales: USD 50 sibling o return/multiweek, no se suman; Una cuenta y seguro individuales para aclarar. Camino a la carretera Panamá Por separado. Pago: USD 200 anticipos a la cuenta 650, sin pago; Posible asignación de fechas ACH. No se ha resuelto la cancelación.
 Fuente: https://www.sailingclubpanama.com/campamentos-verano-panama/
-Comprobado: 2026-10-05
+Se ha comprobado: 2026-11-06
 
 ### CP302-20270124-20270131 · La Llanada Panamá · Sleepaway · El Valle · Sleepaway ·7 noches · 2027-01-24-2027-01-31
 
@@ -34452,7 +34500,7 @@ Costo: 2027 · B/834.60 por dos con sibling discount; night+75/hijo · subvencio
 Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
 Limitaciones: Matvey: a Matvey 9–10 en 2027, dentro de 4–10; Edad/de la fecha de la confirmación. Oscar: a Oscar 6–7 en 2027, dentro de 4–10; Idioma/preparación para el cambio climático optional night Por separado. Gastos adicionales: Sleeping bag/pillow Tuyos. Una noche de opción para dos.+150; Su día/Edad/Total de alimentos desconocidos. Carretera/vivienda familiar/Seguro fuera del campamento por separado; Tarifa semanal, incluso en los pases. Pago: Denegación del AD 1 diciembre 2026: devolución 60%;2–15 diciembre:30%;c 16 diciembre:none incluida la enfermedad/Exclusión. 1 diciembre no se describió. Se puede trasladar el lugar a un niño de la misma edad o credit el futuro camp. 30 diciembre — Duración del pago optional night, no es un plazo de inscripción general.
 Fuente: https://www.cacaocamps.com/day-camp-el-valle/
-Comprobado: 2026-10-06
+Se ha comprobado: 2026-11-06
 
 ### CP814-20270805-20270808 · Berkana · Tyrskamp · Day / Boarding · 4 días · day or boarding; precio del formulario para especificar · 2027-08-05-2027-08-08
 
@@ -56964,6 +57012,70 @@ Precio: 2027 · EUR 2350 es precio publicado de ruta; confirmar unidad e invoice
 Acceso: 2–11 de enero de 2027 es ruta completa con trenes: salida de Kyiv el 2 de enero, llegada a Viena el 3, regreso a Kyiv el 11. Visitas universitarias, ciudad y deportes de invierno. Incorporación de familia desde Costa Rica directamente en Viena sin confirmar. En enero de 2027 ambos niños aún menores de 11.
 Limitaciones: Matvey: Mínimo 11 años; ambos niños menores también en enero de 2027. Oscar: Mínimo 11 años; ambos niños menores también en enero de 2027. Suplementos: Ski school, equipment y ski pass aparte; vuelo desde Costa Rica sin anunciar como incluido. Pago: Calendario de pago / cancelación se entrega individualmente antes de pagar; reembolso de prueba vocacional no es condición de campamento.
 Fuente: https://bigfish.careers/en/camps/austria
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261106-20261211-friday-a · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-a · 15:00–17:00 · 2026-11-06–2026-12-11
+
+Lugar: México Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+Fecha: 2026-11-06 — 2026-12-11
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261106-20261211-friday-b · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · friday-b · 17:00–19:00 · 2026-11-06–2026-12-11
+
+Lugar: México Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+Fecha: 2026-11-06 — 2026-12-11
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
+Se ha comprobado: 2026-11-06
+
+### CP1477-20261107-20261212-saturday-c · DIMEX · Mi Primer Robot · 2026 · Mi Primer Robot · saturday-c · 10:00–12:00 · 2026-11-07–2026-12-12
+
+Lugar: México Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora
+Fecha: 2026-11-07 — 2026-12-12
+Edad: 9*12
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · MXN 850 / 6 × 2 h · suplementos y condiciones en el dossier
+Acceso: Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible. Oscar: Oscar tiene 6 años, por debajo de edad mínima de 9 años. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Precio completo publicado; devolución sin detallar, formulario cerrado.
+Fuente: https://dimexideas.com/club-de-robotica/
+Se ha comprobado: 2026-11-06
+
+### CP1480-20261228-20261231-alcantarilla · MMM Academy · Navidad 2026 · Navidad · 09:00–14:00 · 2026-12-28–2026-12-31
+
+lugar: España · Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia
+Fecha: 2026-12-28 - 2026-12-31
+Edad: 7–13
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: No según las condiciones de la pista seleccionada
+Formato: day_camp
+Idioma: Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2026/27 · EUR 80 / 4 days · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Matvey tiene 9 años y cumple edad 7–13; confirmar idioma y plaza. Oscar: Oscar en diciembre de 2026 tendrá como máximo 6 años; no alcanza umbral de 7 años, cualquiera que sea fecha de nacimiento desconocida. Suplementos: Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer. Pago: Pago 15 días antes del comienzo; condición de pago, no plazo de inscripción publicado. Devolución sin detallar.
+Fuente: https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/
 Se ha comprobado: 2026-11-06
 
 ### L491 · Exupery · Primary Academic Saturday · EIS Campus

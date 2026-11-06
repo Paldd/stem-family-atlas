@@ -30,25 +30,25 @@
     "school_grades_known": false
   },
   "counts": {
-    "dossiers": 1476,
+    "dossiers": 1481,
     "countries": 87,
     "swiss": 137,
     "by_status": {
       "published_2026_27": 191,
       "published_2027": 351,
       "partial_2027": 129,
-      "next_unannounced": 321,
-      "published_2026": 295,
+      "next_unannounced": 323,
+      "published_2026": 297,
       "partial_2026_27": 28,
       "partial_2026": 20,
-      "archive_next_unannounced": 133,
+      "archive_next_unannounced": 134,
       "regular_programme": 3,
       "regular_2026_27": 2,
       "historical_2026_next_season_unknown": 1,
       "announced_dates_programme_pending": 1,
       "confirmed_2027": 1
     },
-    "source_urls": 2147
+    "source_urls": 2155
   },
   "countries": [
     {
@@ -161,7 +161,7 @@
     },
     {
       "country": "España",
-      "count": 100
+      "count": 102
     },
     {
       "country": "Italia",
@@ -229,7 +229,7 @@
     },
     {
       "country": "México",
-      "count": 58
+      "count": 61
     },
     {
       "country": "Mozambique",
@@ -44217,15 +44217,15 @@
         {
           "title": "programa, edad y precio base completo",
           "url": "https://www.sailingclubpanama.com/campamentos-verano-panama/",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         },
         {
           "title": "forma de febrero 11–14/2027, se leía sin enviar",
           "url": "https://forms.gle/qHJMvZZzjpid4Ns6A",
-          "checked": "2026-10-05"
+          "checked": "2026-11-06"
         }
       ],
-      "checked": "2026-10-05",
+      "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -107575,12 +107575,12 @@
         {
           "title": "2027 precio / composición / hermanos / noche / cancelación",
           "url": "https://www.cacaocamps.com/day-camp-el-valle/",
-          "checked": "2026-10-06"
+          "checked": "2026-11-06"
         },
         {
           "title": "Homepage confirma 4–8January2027",
           "url": "https://www.cacaocamps.com/",
-          "checked": "2026-10-06"
+          "checked": "2026-11-06"
         },
         {
           "title": "operador/asegurador/vivencia",
@@ -107588,7 +107588,7 @@
           "checked": "2026-10-06"
         }
       ],
-      "checked": "2026-10-06",
+      "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": [
         {
@@ -232170,6 +232170,499 @@
       "checked": "2026-11-06",
       "related_event_ids": [],
       "calendar_links": []
+    },
+    {
+      "id": "CP1477",
+      "slug": "dimex-mi-primer-robot",
+      "provider": "DIMEX · Mi Primer Robot · 2026",
+      "iso": "MEX",
+      "country": "México",
+      "place": "Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora",
+      "themes": [
+        "robotics",
+        "coding",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "9–12",
+      "programme": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+      "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Grupos A / B: del 6 de noviembre — 11 de diciembre de 2026 los viernes; C: del 7 de noviembre — 12 de diciembre los sábados. Curso semanal, sin campamento diario.",
+        "sessions": [
+          [
+            "2026-11-06",
+            "2026-12-11"
+          ],
+          [
+            "2026-11-06",
+            "2026-12-11"
+          ],
+          [
+            "2026-11-07",
+            "2026-12-12"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "friday-a",
+            "start": "2026-11-06",
+            "end": "2026-12-11",
+            "label": "Mi Primer Robot · viernes-a · 15:00–17:00",
+            "price": "MXN 850 / 6 × 2 h",
+            "source": "https://dimexideas.com/club-de-robotica/",
+            "place": "Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "FR"
+            ],
+            "entry": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "proof": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "deadline": "2026-11-05",
+            "questions": [
+              "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+            ],
+            "admission_kind": "unknown"
+          },
+          {
+            "variant_key": "friday-b",
+            "start": "2026-11-06",
+            "end": "2026-12-11",
+            "label": "Mi Primer Robot · viernes-b · 17:00–19:00",
+            "price": "MXN 850 / 6 × 2 h",
+            "source": "https://dimexideas.com/club-de-robotica/",
+            "place": "Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "FR"
+            ],
+            "entry": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "proof": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "deadline": "2026-11-05",
+            "questions": [
+              "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+            ],
+            "admission_kind": "unknown"
+          },
+          {
+            "variant_key": "saturday-c",
+            "start": "2026-11-07",
+            "end": "2026-12-12",
+            "label": "Mi Primer Robot · sábado-c · 10:00–12:00",
+            "price": "MXN 850 / 6 × 2 h",
+            "source": "https://dimexideas.com/club-de-robotica/",
+            "place": "Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "SA"
+            ],
+            "entry": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "proof": "Seis clases semanales de 2 horas: montaje de Arduino Uno sin soldar, programación por bloques, sensores de línea y carrera familiar final. Un ordenador por pareja. Robot, ordenador y materiales se prestan y permanecen en DIMEX. Plazo del 5 de noviembre de 2026 vencido; formulario vinculado ya no admite respuestas. Curso vigente con inscripción cerrada; siguiente convocatoria sin anunciar.",
+            "deadline": "2026-11-05",
+            "questions": [
+              "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+            ],
+            "admission_kind": "unknown"
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MXN",
+        "amount": 850,
+        "unit": "programme",
+        "label": "MXN 850 por las 6 clases / 12 horas; segundo hermano 748, pero Oscar no cumple edad.",
+        "included": "Préstamo de robot y ordenador, materiales, diario, insignias internas y vídeo final.",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.",
+        "deposit": "Precio completo publicado; devolución sin detallar, formulario cerrado."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Matvey tiene 9 años y cumple edad; inscripción cerrada impide considerar plaza disponible."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Oscar tiene 6 años, por debajo de edad mínima de 9 años."
+        }
+      },
+      "editorial_reason": "Proyecto lectivo o premio interno no es título internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "DIMEX · programme and borrowed equipment",
+          "url": "https://dimexideas.com/club-de-robotica/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "DIMEX · linked form closed",
+          "url": "https://forms.gle/DhRdVdkJTHwZjrCD6",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-11-06",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1477-20261106-20261211-friday-a"
+          ]
+        },
+        {
+          "start": "2026-11-06",
+          "end": "2026-12-11",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1477-20261106-20261211-friday-b"
+          ]
+        },
+        {
+          "start": "2026-11-07",
+          "end": "2026-12-12",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1477-20261107-20261212-saturday-c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1478",
+      "slug": "dimex-ideas-labs-school",
+      "provider": "DIMEX · Ideas Labs · school programme",
+      "iso": "MEX",
+      "country": "México",
+      "place": "Colegio aceptado; sede y grupo concreto sin anunciar",
+      "themes": [
+        "science",
+        "engineering",
+        "robotics",
+        "coding"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Primaria / secundaria; acordar curso exacto del grupo",
+      "programme": "Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.",
+      "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Programa se implanta en colegio público o privado aceptado con CCT vigente, dirección y docente responsable. Colegio solicita colaboración durante todo el año; no es inscripción individual a campamento abierto. Cuatro módulos de 8 semanas, desde experimentos hasta sensores, IoT y feria de proyectos. Prevé mínimo dos grupos escolares de hasta 25 alumnos cada uno.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "MXN",
+        "amount": 400,
+        "unit": "module",
+        "label": "MXN 400 por alumno por módulo: 200 en semana 1 y 200 en semana 5. Año de tarifa sin indicar; no es año lectivo completo.",
+        "included": "Kits, mentores y formación docente anunciados en colaboración escolar.",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.",
+        "deposit": "Precio, fechas nuevas y plazas sin publicar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Proyecto lectivo o premio interno no es título internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "DIMEX · school admission and module fee",
+          "url": "https://dimexideas.com/club-de-ciencia/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1479",
+      "slug": "dimex-verano-cientifico",
+      "provider": "DIMEX · Verano Científico · archive 2026",
+      "iso": "MEX",
+      "country": "México",
+      "place": "Blvd. Miguel Hidalgo 43 · El Centenario · Hermosillo, Sonora",
+      "themes": [
+        "science",
+        "robotics",
+        "coding",
+        "ai",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "1 primaria — 2 secundaria; edad numérica sin indicar",
+      "programme": "Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.",
+      "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "archive_next_unannounced",
+        "label": "Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "previous_seasons": [
+          {
+            "year": 2026,
+            "sessions": [
+              [
+                "2026-07-20",
+                "2026-08-07"
+              ],
+              [
+                "2026-08-10",
+                "2026-08-28"
+              ]
+            ],
+            "note": "Archivo 2026: del 20 de julio — 7 de agosto y del 10–28 de agosto; mañana 09:00–13:00 o tarde 14:00–18:00. Tres semanas de ciencia, tecnología / ingeniería, arte / matemáticas, con VR y AI anunciadas. Admisión por curso escolar real. Temporada siguiente 2027 y precio sin anunciar; fechas del archivo sin trasladar al futuro."
+          }
+        ],
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "MXN",
+        "amount": 3000,
+        "unit": "programme",
+        "label": "Archivo: MXN 3000 por programa completo, descuento del 20% al segundo participante. Tarifa 2027 desconocida.",
+        "included": "Materiales y protección, welcome kit, equipo de laboratorio y consultas online posteriores.",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.",
+        "deposit": "Precio, fechas nuevas y plazas sin publicar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Proyecto lectivo o premio interno no es título internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "DIMEX · 2026 scientific summer",
+          "url": "https://dimexideas.com/verano-cientifico/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
+    },
+    {
+      "id": "CP1480",
+      "slug": "mmm-academy-christmas-2026",
+      "provider": "MMM Academy · Navidad 2026",
+      "iso": "ESP",
+      "country": "España",
+      "place": "Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia",
+      "themes": [
+        "robotics",
+        "coding",
+        "ai",
+        "games",
+        "engineering"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "7–13",
+      "programme": "Del 28–31 de diciembre de 2026, cada día 09:00–14:00 en Alcantarilla. Campamento diurno sin pernocta: robots, Minecraft, 3D, proyectos de juegos, AR, electrónica y AI. Página propia y primer panel del formulario vinculado coinciden en fechas, edad y precio. Formulario muestra páginas siguientes, pero plaza y admisión de menor extranjero sin confirmar.",
+      "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "published_2026",
+        "label": "Del 28–31 de diciembre de 2026, cada día 09:00–14:00 en Alcantarilla. Campamento diurno sin pernocta: robots, Minecraft, 3D, proyectos de juegos, AR, electrónica y AI. Página propia y primer panel del formulario vinculado coinciden en fechas, edad y precio. Formulario muestra páginas siguientes, pero plaza y admisión de menor extranjero sin confirmar.",
+        "sessions": [
+          [
+            "2026-12-28",
+            "2026-12-31"
+          ]
+        ],
+        "session_details": [
+          {
+            "variant_key": "alcantarilla",
+            "start": "2026-12-28",
+            "end": "2026-12-31",
+            "label": "Navidad · 09:00–14:00",
+            "price": "EUR 80 / 4 days",
+            "place": "Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia",
+            "source": "https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/",
+            "date_scope": "day_camp_window",
+            "attendance_weekdays": [
+              "MO",
+              "TU",
+              "WE",
+              "TH"
+            ],
+            "proof": "Del 28–31 de diciembre de 2026, cada día 09:00–14:00 en Alcantarilla. Campamento diurno sin pernocta: robots, Minecraft, 3D, proyectos de juegos, AR, electrónica y AI. Página propia y primer panel del formulario vinculado coinciden en fechas, edad y precio. Formulario muestra páginas siguientes, pero plaza y admisión de menor extranjero sin confirmar."
+          }
+        ],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": 2026,
+        "currency": "EUR",
+        "amount": 80,
+        "unit": "programme",
+        "label": "EUR 80, alumnos de academia 68; descuentos del 10% para hermanos y del 10% por inscripción anterior al 14/12/2026. Acumulación sin establecer.",
+        "included": "Clases y proyectos creativos propios anunciados. Comidas, seguro, impuesto y paquete completo sin detallar.",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.",
+        "deposit": "Pago 15 días antes del comienzo; condición de pago, no plazo de inscripción publicado. Devolución sin detallar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "conditional",
+          "detail": "Matvey tiene 9 años y cumple edad 7–13; confirmar idioma y plaza."
+        },
+        "oscar": {
+          "status": "not_eligible",
+          "detail": "Oscar en diciembre de 2026 tendrá como máximo 6 años; no alcanza umbral de 7 años, cualquiera que sea fecha de nacimiento desconocida."
+        }
+      },
+      "editorial_reason": "Proyecto lectivo o premio interno no es título internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "MMM Academy · 2026 dates, price and age",
+          "url": "https://mmmacademy.es/agenda/campamento-tecnologico-de-navidad-2026/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "MMM Academy · details and no overnight",
+          "url": "https://mmmacademy.es/campamento-navidad/",
+          "checked": "2026-11-06"
+        },
+        {
+          "title": "MMM Academy · public form first page",
+          "url": "https://forms.gle/NFUmtSbhuKac77WJ9",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": [
+        {
+          "start": "2026-12-28",
+          "end": "2026-12-31",
+          "kind": "catalogue_session",
+          "event_ids": [
+            "CP1480-20261228-20261231-alcantarilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CP1481",
+      "slug": "mmm-academy-maker",
+      "provider": "MMM Academy · Taller Maker",
+      "iso": "ESP",
+      "country": "España",
+      "place": "Salzillo II · P.º Obispo Javier Azagra 2 · Alcantarilla, Murcia",
+      "themes": [
+        "engineering",
+        "coding",
+        "ai",
+        "robotics"
+      ],
+      "formats": [
+        "day"
+      ],
+      "age": "Niños y adolescentes; edad numérica sin publicar",
+      "programme": "Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.",
+      "language": "Página y formulario en español no confirman idioma del docente del grupo elegido. Acordar EN / ES / RU.",
+      "confirmed_instruction_languages": [],
+      "language_evidence_role": "unconfirmed",
+      "timing": {
+        "status": "next_unannounced",
+        "label": "Maker introductorio regular: Arduino, circuitos, sensores, 3D y AI. Operador proporciona ordenadores, placas y componentes. Sin edad numérica, horario, plazo nuevo ni tarifa; opiniones sobre niños de 10 y 12 años no definen edad de admisión. Curso separado, sin turno invernal.",
+        "sessions": [],
+        "session_details": [],
+        "variant_keyed": true,
+        "precision": "published_sessions"
+      },
+      "price": {
+        "year": null,
+        "currency": "EUR",
+        "amount": null,
+        "unit": "programme",
+        "label": "Precio, fechas nuevas y plazas sin publicar.",
+        "included": "",
+        "extras": "Viaje, alojamiento familiar, comidas fuera de inclusiones y seguro aparte; factura final completa sin establecer.",
+        "deposit": "Precio, fechas nuevas y plazas sin publicar."
+      },
+      "accommodation": "Programa diurno sin residencia.",
+      "family_fit": {
+        "matvey": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        },
+        "oscar": {
+          "status": "unknown",
+          "detail": "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+        }
+      },
+      "editorial_reason": "Proyecto lectivo o premio interno no es título internacional.",
+      "shortlist": [],
+      "questions": [
+        "Confirmar curso real, idioma del grupo, plazas, admisión individual extranjera y factura final."
+      ],
+      "sources": [
+        {
+          "title": "MMM Academy · Maker programme and equipment",
+          "url": "https://mmmacademy.es/cursos/taller-maker/",
+          "checked": "2026-11-06"
+        }
+      ],
+      "checked": "2026-11-06",
+      "related_event_ids": [],
+      "calendar_links": []
     }
   ],
   "gaps": [
@@ -237495,7 +237988,7 @@
     "los grupos más pequeños y la prueba de lenguaje para todos los operadores prioritarios.",
     "un catálogo mundial completo de los demás países, un mapa de las ubicaciones precisas y una cuenta familiar después de elegir los turnos."
   ],
-  "version": 186,
+  "version": 187,
   "family_review": {
     "version": 150,
     "asof": "2026-11-05",
@@ -254114,6 +254607,26 @@
       "relation": "catalogue_session"
     },
     {
+      "programme_id": "CP1477",
+      "event_id": "CP1477-20261106-20261211-friday-a",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1477",
+      "event_id": "CP1477-20261106-20261211-friday-b",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1477",
+      "event_id": "CP1477-20261107-20261212-saturday-c",
+      "relation": "catalogue_session"
+    },
+    {
+      "programme_id": "CP1480",
+      "event_id": "CP1480-20261228-20261231-alcantarilla",
+      "relation": "catalogue_session"
+    },
+    {
       "programme_id": "CP1294",
       "event_id": "L464",
       "relation": "existing_programme"
@@ -257584,10 +258097,14 @@
     "CP1437-20270403-20270403-evening-20270403",
     "CP1437-20270417-20270417-evening-20270417",
     "CP1437-20270501-20270501-evening-20270501",
-    "CP1465-20270102-20270111-austria-winter-route-2027"
+    "CP1465-20270102-20270111-austria-winter-route-2027",
+    "CP1477-20261106-20261211-friday-a",
+    "CP1477-20261106-20261211-friday-b",
+    "CP1477-20261107-20261212-saturday-c",
+    "CP1480-20261228-20261231-alcantarilla"
   ],
   "integration": {
-    "generated_sessions": 3040,
+    "generated_sessions": 3044,
     "reused_legacy_events": 69,
     "seasonal_windows": 60,
     "scope": "los cambios precisos se agregan al calendario general. los programas equivalentes existentes están conectados sin tarjetas de repetición; las ventanas de temporada amplias no crean cambios. la relación related_track_or_operator no significa el mismo programa o acceso."

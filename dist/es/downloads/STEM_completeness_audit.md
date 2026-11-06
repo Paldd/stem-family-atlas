@@ -6,7 +6,7 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en la base: 5848; competiciones: 1948; eventos: 264; campamentos / programas: 3636. Perfiles de ligas y programas: 235. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
+Fichas en la base: 5857; competiciones: 1950; eventos: 264; campamentos / programas: 3643. Perfiles de ligas y programas: 236. Fichas de exposiciones grandes y especializadas: 172 — son ediciones y sedes, no cantidad de marcas únicas.
 
 Hay registros concretos de 139 de 249 países y territorios; países auditados completamente: 0. Revisión archivada v51: 21 fichas y 3 perfiles añadidos. Todas las fichas anteriores conservadas.
 
@@ -14,16 +14,16 @@ Hay registros concretos de 139 de 249 países y territorios; países auditados c
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 22 | 619 | 22 | 997 |
+| América del Norte | 22 | 620 | 22 | 1002 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 42 | 383 | 54 | 1251 |
+| Europa | 42 | 384 | 54 | 1252 |
 | África | 24 | 87 | 15 | 66 |
 | Asia | 37 | 528 | 71 | 1087 |
 | Oceanía | 4 | 104 | 3 | 114 |
 
-Fichas interregionales / globales sin asignar a un solo continente: 81. América del Norte incluye Centroamérica y Caribe. Cifras indican inventario de base, no porcentaje de exhaustividad.
+Fichas interregionales / globales sin atribuir a un solo continente: 82. América del Norte incluye Centroamérica y el Caribe. Cantidades indican inventario de base, sin porcentaje de exhaustividad.
 
-VEX: 518 de 1948 fichas de competiciones (26.6%). Es un desequilibrio evidente de cobertura.
+VEX: 518 de 1950 fichas de competiciones (26.6%). Existe un desequilibrio evidente de cobertura.
 
 ## Lo que queda
 
@@ -260,6 +260,7 @@ VEX: 518 de 1948 fichas de competiciones (26.6%). Es un desequilibrio evidente d
 - **FIRST LEGO League · Sierra Leone**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://docs.google.com/forms/d/e/1FAIpQLSc1YOlpivTDVNi7sCj6L0RBb5dTNfUWkcyukl56KyRvANFhog/viewform?usp=header
 - **Robotics for Good · Lesotho / STEAMLes**: 1 fichas, 0 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://steamles.org/2024/04/14/ai-for-good-challenge-2024-lesotho/
 - **FTC · eSwatini Qualifier / South Africa region**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://ftc-events.firstinspires.org/2026/ZAESQ
+- **Robo Blasters · Lebotics / PrepaTec Cuernavaca**: 1 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://drive.google.com/file/d/1GmLvL1QYylVly3P2_rvBXW1Ofmi-nyUL/preview
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
