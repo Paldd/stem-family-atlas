@@ -121,7 +121,11 @@ def integrate(catalog, dossier_report):
                 # The original date in an ID is not the current event date.
                 eid=variant['catalogue_id']
                 assert eid.startswith(p['id']+'-') and eid in previous_managed
-            if end<report['asof']:
+            # Explicit published lesson calendars may retain their earlier days.
+            # This opt-in does not turn undated old camp listings into events.
+            if variant.get('include_published_past_schedule'):
+                assert variant.get('date_scope')=='session_days' and variant.get('sessions') and variant.get('source')
+            if end<report['asof'] and not variant.get('include_published_past_schedule'):
                 # Advancing the research date must not erase researched history.
                 # Do not invent new archival rows, but retain previously published ones.
                 if eid in previous_managed:

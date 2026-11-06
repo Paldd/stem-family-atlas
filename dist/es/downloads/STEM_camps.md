@@ -55014,6 +55014,454 @@ Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Conf
 Fuente: https://shantivillage.com/worldschooling/
 Se ha comprobado: 2026-11-05
 
+### CP1360-20261226-20261227-new-year-two-days · Exupery · Happy New Year Camp · New Year · two days · 2026-12-26–2026-12-27
+
+lugar: Letonia · EIS Campus · Jaunā iela 8 · Piņķi
+Fecha: 2026-12-26 — 2026-12-27
+edad: 4–14; grupos 4–8 / 9–14
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Tres idiomas de trabajo: inglés, letón y ruso. Palabras clave en tres idiomas, niño responde en el cómodo. Oferta invernal concreta, sin atribuir EN-only del FAQ general de verano.
+Marca de idioma: bilingual; soporte: no declarado
+Precio: 2026/27 · EUR 440 / niño · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/new-year-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270628-20270702-jurmala-week-1 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 1 · 2027-06-28–2027-07-02
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-06-28 — 2027-07-02
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270705-20270709-jurmala-week-2 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 2 · 2027-07-05–2027-07-09
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-07-05 - 2027-07-09
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270712-20270716-jurmala-week-3 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 3 · 2027-07-12–2027-07-16
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-07-12 — 2027-07-16
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270719-20270723-jurmala-week-4 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 4 · 2027-07-19–2027-07-23
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-07-19 国 2027-07-23
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270726-20270730-jurmala-week-5 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 5 · 2027-07-26–2027-07-30
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-07-26 Å 2027-07-30
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270802-20270806-jurmala-week-6 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 6 · 2027-08-02–2027-08-06
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-08-02 - 2027-08-06
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270809-20270813-jurmala-week-7 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 7 · 2027-08-09–2027-08-13
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-08-09 — 2027-08-13
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1361-20270816-20270820-jurmala-week-8 · Exupery · Jūrmala Summer 2027 · Jūrmala · week 8 · 2027-08-16–2027-08-20
+
+lugar: Letonia · Semarah Hotel Lielupe · Jūrmala
+Fecha: 2027-08-16 — 2027-08-20
+edad: 3–16; grupos 3–8 / 9–16
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1362-20270705-20270716-campus-shift-1 · Exupery · EIS Preschool Summer 2027 · Campus · shift 1 · 2027-07-05–2027-07-16
+
+lugar: Letonia · EIS Campus · Piņķi
+Fecha: 2027-07-05 — 2027-07-16
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1362-20270719-20270730-campus-shift-2 · Exupery · EIS Preschool Summer 2027 · Campus · shift 2 · 2027-07-19–2027-07-30
+
+lugar: Letonia · EIS Campus · Piņķi
+Fecha: 2027-07-19 国 2027-07-30
+Edad: 3–6
+Matway: No según la pista seleccionada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1363-20270705-20270716-campus-shift-1 · Exupery · EIS Junior Summer 2027 · Campus · shift 1 · 2027-07-05–2027-07-16
+
+lugar: Letonia · EIS Campus · Piņķi
+Fecha: 2027-07-05 — 2027-07-16
+Edad: 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: mixed_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1363-20270719-20270730-campus-shift-2 · Exupery · EIS Junior Summer 2027 · Campus · shift 2 · 2027-07-19–2027-07-30
+
+lugar: Letonia · EIS Campus · Piņķi
+Fecha: 2027-07-19 国 2027-07-30
+Edad: 7–10
+Matway: Sí, por edad; inscripción separada
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: mixed_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.
+Fuente: https://exupery.camp/dates-prices.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20260912-20260926-saturdays-2026-09 · Exupery · Academic Saturday · Jūrmala · Sábados 2026-09 · 2026-09-12–2026-09-26
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2026-09-12 — 2026-09-26
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20261003-20261017-saturdays-2026-10 · Exupery · Academic Saturday · Jūrmala · Sábados 2026-10 · 2026-10-03–2026-10-17
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2026-10-03 — 2026-10-17
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20261107-20261121-saturdays-2026-11 · Exupery · Academic Saturday · Jūrmala · Sábados 2026-11 · 2026-11-07–2026-11-21
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2026-11-07 — 2026-11-21
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20261205-20261219-saturdays-2026-12 · Exupery · Academic Saturday · Jūrmala · Sábados 2026-12 · 2026-12-05–2026-12-19
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2026-12-05 — 2026-12-19
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20270109-20270123-saturdays-2027-01 · Exupery · Academic Saturday · Jūrmala · Sábados 2027-01 · 2027-01-09–2027-01-23
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2027-01-09 — 2027-01-23
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20270206-20270220-saturdays-2027-02 · Exupery · Academic Saturday · Jūrmala · Sábados 2027-02 · 2027-02-06–2027-02-20
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2027-02-06 — 2027-02-20
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20270306-20270320-saturdays-2027-03 · Exupery · Academic Saturday · Jūrmala · Sábados 2027-03 · 2027-03-06–2027-03-20
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2027-03-06 — 2027-03-20
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20270403-20270417-saturdays-2027-04 · Exupery · Academic Saturday · Jūrmala · Sábados 2027-04 · 2027-04-03–2027-04-17
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2027-04-03 — 2027-04-17
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1364-20270508-20270522-saturdays-2027-05 · Exupery · Academic Saturday · Jūrmala · Sábados 2027-05 · 2027-05-08–2027-05-22
+
+lugar: Letonia · Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala
+Fecha: 2027-05-08 — 2027-05-22
+edad: 4–14 en página del campamento / 3–13 en registro público
+Matway: Sí, por edad; inscripción separada
+Oscar: Sí por edad; inscripción separada
+Formato: day_camp
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: 2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/saturday-camp.html
+Se ha comprobado: 2026-11-05
+
+### CP1369-20270227-20270228-weekend-1 · Exupery · Science Art & Fun Weekends · 2027 · Science Art & Fun · announced weekend 1 · 2027-02-27–2027-02-28
+
+lugar: Letonia · Letonia; sede de próximos fines de semana sin aclarar
+Fecha: 2027-02-27 — 2027-02-28
+edad: Edad de programa futuro sin publicar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: unconfirmed_program
+Idioma: Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf
+Se ha comprobado: 2026-11-05
+
+### CP1369-20270424-20270425-weekend-2 · Exupery · Science Art & Fun Weekends · 2027 · Science Art & Fun · announced weekend 2 · 2027-04-24–2027-04-25
+
+lugar: Letonia · Letonia; sede de próximos fines de semana sin aclarar
+Fecha: 2027-04-24 — 2027-04-25
+edad: Edad de programa futuro sin publicar
+Matway: Condicional; comprobar la edad, clase y admisión
+Óscar: Condicional; comprobar la edad, la clase y la admisión
+Formato: unconfirmed_program
+Idioma: Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: 2027 · Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier
+Entrada: solicitud individual al operador; trayectoria exacta, edad, idioma y disponibilidad de espacio.
+Limitaciones: Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.
+Fuente: https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf
+Se ha comprobado: 2026-11-05
+
+### L491 · Exupery · Primary Academic Saturday · EIS Campus
+
+lugar: Letonia · EIS Campus · Piņķi
+Fecha: Aprendizaje regular sabatino; período y fechas concretos sin publicar.
+edad: 6–11
+Matvey: Sí por edad; grupo y acceso aparte
+Oscar: Sí por edad; grupo y acceso aparte
+Formato: regular
+Idioma: Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 925 por cinco sábados en Primary; web general EUR 650 por cuatro; EUR 550 / mes exige compromiso de nueve meses. Confirmar producto actual concreto, devoluciones y descuentos.
+Acceso: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Fuente: https://exupery.lv/language-program-primary/
+Se ha comprobado: 2026-11-05
+
+### L492 · RobotsLab · Basic · Tallinn
+
+lugar: Estonia · Tallinn
+Fecha: Septiembre–junio, una vez por semana; 90 minutos. Confirmar día / horario concreto del grupo.
+edad: 7+
+Matvey: Sí por edad; grupo y acceso aparte
+Oscar: Condicional: edad / grupo / temporada nueva requieren confirmación
+Formato: regular
+Idioma: Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 70 / mes. Confirmar clases de pago, kit, portátil propio y cancelación; precio no dividido automáticamente en cuatro clases.
+Acceso: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Fuente: https://www.robotslab.ee/en/
+Se ha comprobado: 2026-11-05
+
+### L493 · RobotsLab · Advanced · Tallinn
+
+lugar: Estonia · Tallinn
+Fecha: Septiembre–junio, una vez por semana; 120 minutos. Confirmar día / horario concreto del grupo.
+edad: 10+
+Matvey: Condicional: edad / grupo / temporada nueva requieren confirmación
+Oscar: No por ahora: menor / fuera del rango de edad
+Formato: regular
+Idioma: Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.
+Marca de idioma: primary; soporte: no declarado
+Precio: EUR 100 / mes. Confirmar clases de pago, kit, portátil propio y cancelación; precio no dividido automáticamente en cuatro clases.
+Acceso: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Fuente: https://www.robotslab.ee/en/
+Se ha comprobado: 2026-11-05
+
+### L494 · School of Innovation · Pixelvasara
+
+lugar: Letonia · Rīga · venue to confirm
+Fecha: Próxima inscripción: fechas desconocidas; solo programa 2026 publicado.
+edad: 6–12 en detalle / 5–7 en ficha promocional
+Matvey: Condicional: edad / grupo / temporada nueva requieren confirmación
+Oscar: Condicional: edad / grupo / temporada nueva requieren confirmación
+Formato: unconfirmed_program
+Idioma: Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.
+Marca de idioma: unconfirmed; apoyo: no declarado
+Precio: Tarifa antigua 2026: desde EUR 295 por cinco días 09–17; dos comidas / snacks, material, equipamiento y accident insurance anunciados. Depósito 50 tras inscripción: imputación al precio sin aclarar. Descuentos / devolución fiscal publicitados no restados; tarifa futura 2027 desconocida.
+Acceso: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Limitaciones: Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.
+Fuente: https://inovacijuskola.lv/pixelvasara
+Se ha comprobado: 2026-11-05
+
 ### ~#C037 · WAICY 2026 · AI Showcase · Proyecto de solución del problema real
 
 Lugar: En línea/paz

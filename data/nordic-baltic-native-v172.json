@@ -1,0 +1,1160 @@
+{
+  "version": 172,
+  "checked": "2026-11-05",
+  "scandinavia": [
+    {
+      "operator_id": 702,
+      "name": "Åland",
+      "kind": "challenge",
+      "iso": "ALA",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/702",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 703,
+      "name": "Ålesund",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/703",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 670,
+      "name": "Bergen",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/670",
+      "venue": "BI og VilVite",
+      "address": "Kong Christian Frederiks plass 5 og Thormøhlens gate 51",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://www.vilvite.no/skole-og-barnehage/first-lego-league/for-pameldte-lag-2022/"
+      ]
+    },
+    {
+      "operator_id": 671,
+      "name": "Dalarna",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/671",
+      "venue": "Galaxen/2047 Science Center",
+      "address": "Jussi Björlings väg 25, Borlänge",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 674,
+      "name": "Göteborg",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/674",
+      "venue": "Chalmers Sammhällsbygnad, Ljusgården",
+      "address": "Sven Hultins gata 6",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 675,
+      "name": "Helgeland",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/675",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 676,
+      "name": "Helsingborg Founders",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/676",
+      "venue": "Campus Helsingborg & Science Center Helsingborg",
+      "address": "Universitetsplatsen 2",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 677,
+      "name": "Innlandet",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/677",
+      "venue": "Håkons hall",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://vitensenteret.no/1332/hva-skjer/first-lego-league-2026-en-folkefest-pa-lillehammer"
+      ]
+    },
+    {
+      "operator_id": 708,
+      "name": "Lillestrøm",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/708",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": [],
+      "school_scope": "Lillestrom_municipality"
+    },
+    {
+      "operator_id": 680,
+      "name": "Nord-Troms",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/680",
+      "venue": "Idrettshallen Skjervøy",
+      "address": "Skoleveien 26, 9180 Skjervøy",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 679,
+      "name": "Nordfjordeid",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/679",
+      "venue": "Operahuset Nordfjord",
+      "address": "Sophus Lie-vegen 3, 6770 Nordfjordeid",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 681,
+      "name": "Oslo",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/681",
+      "venue": "Forskningsparken",
+      "address": "Gaustadaléen 21",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 701,
+      "name": "Östersund",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/701",
+      "venue": "Mittuniversitetet F-huset",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 691,
+      "name": "Rogaland founders",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/691",
+      "venue": "Vitenfabrikken - Sandnes",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 682,
+      "name": "Romsdal",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/682",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 683,
+      "name": "Salten",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/683",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 684,
+      "name": "Sarpsborg",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/684",
+      "venue": "INSPIRIA science center",
+      "address": "Bjørnstadveien 16, 1712 Grålum",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 685,
+      "name": "Senja",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/685",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 705,
+      "name": "Skandinavisk finale - Founders",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/705",
+      "venue": "The Loop · Science Village Hall · Lund",
+      "address": "",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://hjernekraft.org/no/skandinavisk-finale-2026"
+      ]
+    },
+    {
+      "operator_id": 687,
+      "name": "Skellefteå",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/687",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 689,
+      "name": "Sogn",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/689",
+      "venue": "Årdal kino",
+      "address": "",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 694,
+      "name": "Søre Sunnmøre",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/694",
+      "venue": "Volda Campus Arena",
+      "address": "Joplassvegen 1, 6103 Volda",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 695,
+      "name": "Sørlandet",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/695",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 692,
+      "name": "Stockholm",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/692",
+      "venue": "Tekniska museet",
+      "address": "Museivägen 7, 115 27",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 696,
+      "name": "Trollhättan",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/696",
+      "venue": "Innovatum Science Center",
+      "address": "Åkerssjövägen 16",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 697,
+      "name": "Tromsø",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/697",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 698,
+      "name": "Trondheim",
+      "kind": "challenge",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/698",
+      "venue": "Nidarvoll Skole",
+      "address": "Klæbuveien 218, 7037 Trondheim",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 700,
+      "name": "Umeå",
+      "kind": "challenge",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/700",
+      "venue": "Curiosum Science Center",
+      "address": "Östra Strandgatan 32, Umeå",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 651,
+      "name": "Bergen",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/651",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://www.vilvite.no/skole-og-barnehage/first-lego-league/for-pameldte-lag-2022/"
+      ]
+    },
+    {
+      "operator_id": 652,
+      "name": "Dalarna",
+      "kind": "explore",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/652",
+      "venue": "Galaxen/2047 Science Center/på sin skola",
+      "address": "Jussi Björlings väg 25, Borlänge",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://hjernekraft.org/no/turneringer/671"
+      ]
+    },
+    {
+      "operator_id": 653,
+      "name": "Göteborg",
+      "kind": "explore",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/653",
+      "venue": "Chalmers Sammhällsbygnad, Ljusgården",
+      "address": "Sven Hultins gata 6",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://hjernekraft.org/no/turneringer/674"
+      ]
+    },
+    {
+      "operator_id": 654,
+      "name": "Helgeland",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/654",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 655,
+      "name": "Helsingborg",
+      "kind": "explore",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/655",
+      "venue": "Campus Helsingborg & Science Center Helsingborg",
+      "address": "Universitetsplatsen 2",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 656,
+      "name": "Innlandet",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/656",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://vitensenteret.no/1332/hva-skjer/first-lego-league-2026-en-folkefest-pa-lillehammer"
+      ]
+    },
+    {
+      "operator_id": 657,
+      "name": "Kirkenes",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/657",
+      "venue": "Kirkenes skole",
+      "address": "Presteveien - visavis Fjellhallen",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 658,
+      "name": "Lillestrøm",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/658",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": [],
+      "school_scope": "Lillestrom_municipality"
+    },
+    {
+      "operator_id": 659,
+      "name": "Nord-Troms",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/659",
+      "venue": "Idrettshallen Skjervøy",
+      "address": "Skoleveien 26, 9180 Skjervøy",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 660,
+      "name": "Oslo",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/660",
+      "venue": "Forskningsparken",
+      "address": "Gaustadalléen 21",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 661,
+      "name": "Salten",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/661",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 663,
+      "name": "Senja",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/663",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 710,
+      "name": "Sogn",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/710",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 667,
+      "name": "Sørlandet",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/667",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "conflicting_local_days",
+      "references": [],
+      "reported_day_month": [
+        "07-11",
+        "08-11"
+      ]
+    },
+    {
+      "operator_id": 664,
+      "name": "Stadsbygd",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/664",
+      "venue": "Stadsbygs Samfunnshus",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 666,
+      "name": "Stockholm",
+      "kind": "explore",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/666",
+      "venue": "Tekniska museet",
+      "address": "Museivägen 7, 115 27",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 668,
+      "name": "Tromsø",
+      "kind": "explore",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/668",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 706,
+      "name": "Helsingborg Future",
+      "kind": "future",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/706",
+      "venue": "Campus Helsingborg & Science Center Helsingborg",
+      "address": "Universitetsplatsen 2",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 709,
+      "name": "Horten",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/709",
+      "venue": "",
+      "address": "",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 649,
+      "name": "Kristiansund",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/649",
+      "venue": "Campus Kristiansund",
+      "address": "Fosnagata 12",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 650,
+      "name": "Luleå",
+      "kind": "future",
+      "iso": "SWE",
+      "source_country_code": "SE",
+      "source": "https://hjernekraft.org/no/turneringer/650",
+      "venue": "Teknikens Hus",
+      "address": "Teknikgränd 1, Luleå",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "date_basis": "current_local_year_and_day",
+      "references": [],
+      "published_age_ranges": [
+        [
+          8,
+          16
+        ],
+        [
+          10,
+          16
+        ]
+      ]
+    },
+    {
+      "operator_id": 647,
+      "name": "Orkland",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/647",
+      "venue": "Grøtte barne og ungdomsskole",
+      "address": "Klokkarhaugen 1, 7320 Fannrem",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": [],
+      "grade_level": 7
+    },
+    {
+      "operator_id": 707,
+      "name": "Rogaland Future",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/707",
+      "venue": "",
+      "address": "",
+      "start": "",
+      "end": "",
+      "date_basis": "needs_local_date_confirmation",
+      "references": []
+    },
+    {
+      "operator_id": 712,
+      "name": "Skandinavisk finale - Future",
+      "kind": "future",
+      "iso": "SWE",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/712",
+      "venue": "The Loop · Science Village Hall · Lund",
+      "address": "",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "date_basis": "corroborated_current_host_or_division_schedule",
+      "references": [
+        "https://hjernekraft.org/no/skandinavisk-finale-2026"
+      ]
+    },
+    {
+      "operator_id": 704,
+      "name": "Sunnhordland",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/704",
+      "venue": "Tysneshallen",
+      "address": "Amundsstølen 3, 5680 Tysnes",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    },
+    {
+      "operator_id": 648,
+      "name": "Voss",
+      "kind": "future",
+      "iso": "NOR",
+      "source_country_code": "NO",
+      "source": "https://hjernekraft.org/no/turneringer/648",
+      "venue": "Voss ungdomsskule, Sørfløyen",
+      "address": "Olavsvegen 5 5700 Voss",
+      "start": "2026-11-05",
+      "end": "2026-11-05",
+      "date_basis": "current_local_year_and_day",
+      "references": []
+    }
+  ],
+  "denmark": [
+    {
+      "name": "Aalborg",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Aarhus",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Billund",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Bjerringbro",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Esbjerg",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Færøerne",
+      "kind": "challenge",
+      "iso": "FRO",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Fredensborg",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "municipal_schools_only",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Frederiksberg",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Furesø",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Gentofte",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "school_scope": "municipal_schools_only",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Helsingør",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Herning",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Høje-Taastrup",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Hørsholm",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "municipal_schools_only",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Køge",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Kolding",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Langeskov",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Nuuk",
+      "kind": "challenge",
+      "iso": "GRL",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Odense",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "municipal_schools_only",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Randers",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Skælskør",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Sønderborg",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Vesthimmerland",
+      "kind": "challenge",
+      "iso": "DNK",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "school_scope": "municipal_schools_only",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Aalborg",
+      "kind": "future",
+      "iso": "DNK",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    },
+    {
+      "name": "Sorø",
+      "kind": "future",
+      "iso": "DNK",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "school_scope": "",
+      "source": "https://firstlegoleague.dk/"
+    }
+  ],
+  "exupery_saturday_dates": [
+    [
+      "2026-09-12",
+      "2026-09-19",
+      "2026-09-26"
+    ],
+    [
+      "2026-10-03",
+      "2026-10-10",
+      "2026-10-17"
+    ],
+    [
+      "2026-11-07",
+      "2026-11-14",
+      "2026-11-21"
+    ],
+    [
+      "2026-12-05",
+      "2026-12-12",
+      "2026-12-19"
+    ],
+    [
+      "2027-01-09",
+      "2027-01-16",
+      "2027-01-23"
+    ],
+    [
+      "2027-02-06",
+      "2027-02-13",
+      "2027-02-20"
+    ],
+    [
+      "2027-03-06",
+      "2027-03-13",
+      "2027-03-20"
+    ],
+    [
+      "2027-04-03",
+      "2027-04-10",
+      "2027-04-17"
+    ],
+    [
+      "2027-05-08",
+      "2027-05-15",
+      "2027-05-22"
+    ]
+  ],
+  "exupery_jurmala_weeks": [
+    [
+      "2027-06-28",
+      "2027-07-02"
+    ],
+    [
+      "2027-07-05",
+      "2027-07-09"
+    ],
+    [
+      "2027-07-12",
+      "2027-07-16"
+    ],
+    [
+      "2027-07-19",
+      "2027-07-23"
+    ],
+    [
+      "2027-07-26",
+      "2027-07-30"
+    ],
+    [
+      "2027-08-02",
+      "2027-08-06"
+    ],
+    [
+      "2027-08-09",
+      "2027-08-13"
+    ],
+    [
+      "2027-08-16",
+      "2027-08-20"
+    ]
+  ],
+  "exupery_campus_windows": [
+    [
+      "2027-07-05",
+      "2027-07-16"
+    ],
+    [
+      "2027-07-19",
+      "2027-07-30"
+    ]
+  ],
+  "exupery_weekend_announcements": [
+    [
+      "2027-02-27",
+      "2027-02-28"
+    ],
+    [
+      "2027-04-24",
+      "2027-04-25"
+    ]
+  ],
+  "PDF_visual_pages_read": 1,
+  "public_register_record": 32443,
+  "government_age_range": [
+    3,
+    13
+  ],
+  "camp_site_saturday_age_range": [
+    4,
+    14
+  ],
+  "government_registry_is_not_all_permits_approval": true,
+  "camp_legal_entity": "SIA EISF",
+  "camp_entity_registration": "40203181401",
+  "camp_legal_details_match_government_record": true,
+  "school_summer_page_still_2026": true,
+  "summer_2027_dates_from_camp_programme_not_shifted_2026_dates": true,
+  "source_nordic_final_routes": {
+    "lund": [
+      "NOR",
+      "SWE",
+      "ALA"
+    ],
+    "aarhus": [
+      "DNK",
+      "ISL",
+      "FRO",
+      "GRL"
+    ]
+  },
+  "first_2027_28_parallel_FLL_local_copy_not_used_as_global_policy": true,
+  "new_global_WRO_membership_not_inferred_from_Iceland_announcement": true,
+  "source_counts": {
+    "scandinavian_programme_rows": 54,
+    "scandinavian_rows_with_operational_dates": 30,
+    "danish_published_rows": 25
+  },
+  "worldwide_complete": false
+}

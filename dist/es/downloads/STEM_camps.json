@@ -580,20 +580,20 @@
       }
     ],
     "counts": {
-      "records": 3430,
-      "holiday": 3294,
-      "regular": 105,
+      "records": 3458,
+      "holiday": 3316,
+      "regular": 108,
       "self_paced_materials": 2,
-      "boarding": 956,
-      "en_es_instruction": 992,
+      "boarding": 958,
+      "en_es_instruction": 1017,
       "en_es_support": 11,
-      "family_instruction": 992,
+      "family_instruction": 1017,
       "family_support": 11,
-      "ru_instruction": 0,
+      "ru_instruction": 3,
       "language_lessons": 378,
       "camp_life_language": 225,
       "language_unclassified": 119,
-      "countries": 64
+      "countries": 66
     },
     "validation": {
       "version": 51,
@@ -268622,6 +268622,2671 @@
       "date_precision": "published_session",
       "camp_dossier_slug": "shanti-island-family",
       "camp_programme_id": "CP1358"
+    },
+    {
+      "id": "CP1360-20261226-20261227-new-year-two-days",
+      "block": "Campamentos",
+      "title": "Exupery · Happy New Year Camp · New Year · two days · 2026-12-26–2026-12-27",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Jaunā iela 8 · Piņķi",
+      "start": "2026-12-26",
+      "end": "2026-12-27",
+      "period": "26–27 December 2026 · 10:00–17:00",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14; groups 4–8 / 9–14",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dos días de experimentos, electricidad / luz, mapas y teatro inspirados en Little Prince. El 27 de diciembre padres invitados al concierto desde 15:00; día habitual 10–17. Matvey en grupo 9–14, Oscar 4–8. Diurno, 24 plazas en plan publicado, sin confirmar disponibilidad restante.",
+      "language": "Tres idiomas de trabajo: inglés, letón y ruso. Palabras clave en tres idiomas, niño responde en el cómodo. Oferta invernal concreta, sin atribuir EN-only del FAQ general de verano.",
+      "cost": "2026/27 · EUR 440 / niño · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/new-year-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/new-year-camp.html",
+          "label": "Programa invernal, idiomas y paquete base completo"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "science",
+        "engineering",
+        "art",
+        "languages"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN",
+        "LV",
+        "RU"
+      ],
+      "language_mode": "bilingual",
+      "language_certainty": "Tres idiomas de trabajo: inglés, letón y ruso. Palabras clave en tres idiomas, niño responde en el cómodo. Oferta invernal concreta, sin atribuir EN-only del FAQ general de verano.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-new-year-2026",
+      "camp_programme_id": "CP1360",
+      "sessions": [
+        {
+          "date": "2026-12-26",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Riga",
+          "topic": "Dos días de experimentos, electricidad / luz, mapas y teatro inspirados en Little Prince. El 27 de diciembre padres invitados al concierto desde 15:00; día habitual 10–17. Matvey en grupo 9–14, Oscar 4–8. Diurno, 24 plazas en plan publicado, sin confirmar disponibilidad restante.",
+          "ical_timed": true,
+          "start_utc": "2026-12-26T08:00:00Z",
+          "end_utc": "2026-12-26T15:00:00Z"
+        },
+        {
+          "date": "2026-12-27",
+          "start_time": "10:00",
+          "end_time": "17:00",
+          "timezone": "Europe/Riga",
+          "topic": "Dos días de experimentos, electricidad / luz, mapas y teatro inspirados en Little Prince. El 27 de diciembre padres invitados al concierto desde 15:00; día habitual 10–17. Matvey en grupo 9–14, Oscar 4–8. Diurno, 24 plazas en plan publicado, sin confirmar disponibilidad restante.",
+          "ical_timed": true,
+          "start_utc": "2026-12-27T08:00:00Z",
+          "end_utc": "2026-12-27T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270628-20270702-jurmala-week-1",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 1 · 2027-06-28–2027-07-02",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-06-28",
+      "end": "2027-07-02",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-06-28",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-06-28T06:30:00Z",
+          "end_utc": "2027-06-28T15:30:00Z"
+        },
+        {
+          "date": "2027-06-29",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-06-29T06:30:00Z",
+          "end_utc": "2027-06-29T15:30:00Z"
+        },
+        {
+          "date": "2027-06-30",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-06-30T06:30:00Z",
+          "end_utc": "2027-06-30T15:30:00Z"
+        },
+        {
+          "date": "2027-07-01",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-01T06:30:00Z",
+          "end_utc": "2027-07-01T15:30:00Z"
+        },
+        {
+          "date": "2027-07-02",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-02T06:30:00Z",
+          "end_utc": "2027-07-02T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270705-20270709-jurmala-week-2",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 2 · 2027-07-05–2027-07-09",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-07-05",
+      "end": "2027-07-09",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-07-05",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-05T06:30:00Z",
+          "end_utc": "2027-07-05T15:30:00Z"
+        },
+        {
+          "date": "2027-07-06",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-06T06:30:00Z",
+          "end_utc": "2027-07-06T15:30:00Z"
+        },
+        {
+          "date": "2027-07-07",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-07T06:30:00Z",
+          "end_utc": "2027-07-07T15:30:00Z"
+        },
+        {
+          "date": "2027-07-08",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-08T06:30:00Z",
+          "end_utc": "2027-07-08T15:30:00Z"
+        },
+        {
+          "date": "2027-07-09",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-09T06:30:00Z",
+          "end_utc": "2027-07-09T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270712-20270716-jurmala-week-3",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 3 · 2027-07-12–2027-07-16",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-07-12",
+      "end": "2027-07-16",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-07-12",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-12T06:30:00Z",
+          "end_utc": "2027-07-12T15:30:00Z"
+        },
+        {
+          "date": "2027-07-13",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-13T06:30:00Z",
+          "end_utc": "2027-07-13T15:30:00Z"
+        },
+        {
+          "date": "2027-07-14",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-14T06:30:00Z",
+          "end_utc": "2027-07-14T15:30:00Z"
+        },
+        {
+          "date": "2027-07-15",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-15T06:30:00Z",
+          "end_utc": "2027-07-15T15:30:00Z"
+        },
+        {
+          "date": "2027-07-16",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-16T06:30:00Z",
+          "end_utc": "2027-07-16T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270719-20270723-jurmala-week-4",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 4 · 2027-07-19–2027-07-23",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-07-19",
+      "end": "2027-07-23",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-07-19",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-19T06:30:00Z",
+          "end_utc": "2027-07-19T15:30:00Z"
+        },
+        {
+          "date": "2027-07-20",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-20T06:30:00Z",
+          "end_utc": "2027-07-20T15:30:00Z"
+        },
+        {
+          "date": "2027-07-21",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-21T06:30:00Z",
+          "end_utc": "2027-07-21T15:30:00Z"
+        },
+        {
+          "date": "2027-07-22",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-22T06:30:00Z",
+          "end_utc": "2027-07-22T15:30:00Z"
+        },
+        {
+          "date": "2027-07-23",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-23T06:30:00Z",
+          "end_utc": "2027-07-23T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270726-20270730-jurmala-week-5",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 5 · 2027-07-26–2027-07-30",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-07-26",
+      "end": "2027-07-30",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-07-26",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-26T06:30:00Z",
+          "end_utc": "2027-07-26T15:30:00Z"
+        },
+        {
+          "date": "2027-07-27",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-27T06:30:00Z",
+          "end_utc": "2027-07-27T15:30:00Z"
+        },
+        {
+          "date": "2027-07-28",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-28T06:30:00Z",
+          "end_utc": "2027-07-28T15:30:00Z"
+        },
+        {
+          "date": "2027-07-29",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-29T06:30:00Z",
+          "end_utc": "2027-07-29T15:30:00Z"
+        },
+        {
+          "date": "2027-07-30",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-07-30T06:30:00Z",
+          "end_utc": "2027-07-30T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270802-20270806-jurmala-week-6",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 6 · 2027-08-02–2027-08-06",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-08-02",
+      "end": "2027-08-06",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-08-02",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-02T06:30:00Z",
+          "end_utc": "2027-08-02T15:30:00Z"
+        },
+        {
+          "date": "2027-08-03",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-03T06:30:00Z",
+          "end_utc": "2027-08-03T15:30:00Z"
+        },
+        {
+          "date": "2027-08-04",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-04T06:30:00Z",
+          "end_utc": "2027-08-04T15:30:00Z"
+        },
+        {
+          "date": "2027-08-05",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-05T06:30:00Z",
+          "end_utc": "2027-08-05T15:30:00Z"
+        },
+        {
+          "date": "2027-08-06",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-06T06:30:00Z",
+          "end_utc": "2027-08-06T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270809-20270813-jurmala-week-7",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 7 · 2027-08-09–2027-08-13",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-08-09",
+      "end": "2027-08-13",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-08-09",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-09T06:30:00Z",
+          "end_utc": "2027-08-09T15:30:00Z"
+        },
+        {
+          "date": "2027-08-10",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-10T06:30:00Z",
+          "end_utc": "2027-08-10T15:30:00Z"
+        },
+        {
+          "date": "2027-08-11",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-11T06:30:00Z",
+          "end_utc": "2027-08-11T15:30:00Z"
+        },
+        {
+          "date": "2027-08-12",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-12T06:30:00Z",
+          "end_utc": "2027-08-12T15:30:00Z"
+        },
+        {
+          "date": "2027-08-13",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-13T06:30:00Z",
+          "end_utc": "2027-08-13T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1361-20270816-20270820-jurmala-week-8",
+      "block": "Campamentos",
+      "title": "Exupery · Jūrmala Summer 2027 · Jūrmala · week 8 · 2027-08-16–2027-08-20",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Hotel Lielupe · Jūrmala",
+      "start": "2027-08-16",
+      "end": "2027-08-20",
+      "period": "28 de junio–20 de agosto de 2027 · ocho semanas de lunes a viernes",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–16; groups 3–8 / 9–16",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 990; EUR 950/semana durante 2+ semanas · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Verano 2027: semanas exactas, grupos y tarifa"
+        },
+        {
+          "url": "https://www.exupery.lv/summer-camp/",
+          "label": "Página escolar: solo temporada 2026"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "science",
+        "art",
+        "sport"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-jurmala-summer-2027",
+      "camp_programme_id": "CP1361",
+      "sessions": [
+        {
+          "date": "2027-08-16",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-16T06:30:00Z",
+          "end_utc": "2027-08-16T15:30:00Z"
+        },
+        {
+          "date": "2027-08-17",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-17T06:30:00Z",
+          "end_utc": "2027-08-17T15:30:00Z"
+        },
+        {
+          "date": "2027-08-18",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-18T06:30:00Z",
+          "end_utc": "2027-08-18T15:30:00Z"
+        },
+        {
+          "date": "2027-08-19",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-19T06:30:00Z",
+          "end_utc": "2027-08-19T15:30:00Z"
+        },
+        {
+          "date": "2027-08-20",
+          "start_time": "09:30",
+          "end_time": "18:30",
+          "timezone": "Europe/Riga",
+          "topic": "Ocho semanas diurnas, lunes–viernes 09:30–18:30: inglés, proyectos creativos / científicos, natación con instructores y juegos. Tabla específica Jūrmala divide grupos 3–8 y 9–16; catálogo general Campus usa grupos diferentes. Matvey y Oscar estarán en grupos distintos. Reclamo general 10+ horas immersion no tomado como horas de clase en jornada de nueve horas.",
+          "ical_timed": true,
+          "start_utc": "2027-08-20T06:30:00Z",
+          "end_utc": "2027-08-20T15:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1362-20270705-20270716-campus-shift-1",
+      "block": "Campamentos",
+      "title": "Exupery · EIS Preschool Summer 2027 · Campus · shift 1 · 2027-07-05–2027-07-16",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Piņķi",
+      "start": "2027-07-05",
+      "end": "2027-07-16",
+      "period": "5–16 / 19–30 de julio de 2027 · ventanas de turnos Campus",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Preschool diurno; alojamiento familiar aparte.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dos turnos Campus de dos semanas publicados. Preschool: juego, movimiento y creatividad, solo día. Junior: Art & Science, proyectos y deporte, anuncia opción residencial. Línea general de precios «3–16, overnight & day» no sustituye ficha específica Preschool day only. Temas archivados MetaMind / Made by People 2026 no trasladados al programa 2027.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Tarifas y períodos Campus 2027"
+        },
+        {
+          "url": "https://exupery.camp/programs.html",
+          "label": "Programas por edad y Preschool solo diurno"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-campus-preschool-2027",
+      "camp_programme_id": "CP1362"
+    },
+    {
+      "id": "CP1362-20270719-20270730-campus-shift-2",
+      "block": "Campamentos",
+      "title": "Exupery · EIS Preschool Summer 2027 · Campus · shift 2 · 2027-07-19–2027-07-30",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Piņķi",
+      "start": "2027-07-19",
+      "end": "2027-07-30",
+      "period": "5–16 / 19–30 de julio de 2027 · ventanas de turnos Campus",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "3–6",
+      "mat": "no según las condiciones de la pista seleccionada",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Preschool diurno; alojamiento familiar aparte.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dos turnos Campus de dos semanas publicados. Preschool: juego, movimiento y creatividad, solo día. Junior: Art & Science, proyectos y deporte, anuncia opción residencial. Línea general de precios «3–16, overnight & day» no sustituye ficha específica Preschool day only. Temas archivados MetaMind / Made by People 2026 no trasladados al programa 2027.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Tarifas y períodos Campus 2027"
+        },
+        {
+          "url": "https://exupery.camp/programs.html",
+          "label": "Programas por edad y Preschool solo diurno"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-campus-preschool-2027",
+      "camp_programme_id": "CP1362"
+    },
+    {
+      "id": "CP1363-20270705-20270716-campus-shift-1",
+      "block": "Campamentos",
+      "title": "Exupery · EIS Junior Summer 2027 · Campus · shift 1 · 2027-07-05–2027-07-16",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Piņķi",
+      "start": "2027-07-05",
+      "end": "2027-07-16",
+      "period": "5–16 / 19–30 de julio de 2027 · ventanas de turnos Campus",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–10",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Junior: day / overnight; residencia solo tras confirmar edad, habitación, noches y factura.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dos turnos Campus de dos semanas publicados. Preschool: juego, movimiento y creatividad, solo día. Junior: Art & Science, proyectos y deporte, anuncia opción residencial. Línea general de precios «3–16, overnight & day» no sustituye ficha específica Preschool day only. Temas archivados MetaMind / Made by People 2026 no trasladados al programa 2027.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Tarifas y períodos Campus 2027"
+        },
+        {
+          "url": "https://exupery.camp/programs.html",
+          "label": "Programas por edad y Preschool solo diurno"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "mixed_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-campus-junior-2027",
+      "camp_programme_id": "CP1363"
+    },
+    {
+      "id": "CP1363-20270719-20270730-campus-shift-2",
+      "block": "Campamentos",
+      "title": "Exupery · EIS Junior Summer 2027 · Campus · shift 2 · 2027-07-19–2027-07-30",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Piņķi",
+      "start": "2027-07-19",
+      "end": "2027-07-30",
+      "period": "5–16 / 19–30 de julio de 2027 · ventanas de turnos Campus",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "7–10",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Junior: day / overnight; residencia solo tras confirmar edad, habitación, noches y factura.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Dos turnos Campus de dos semanas publicados. Preschool: juego, movimiento y creatividad, solo día. Junior: Art & Science, proyectos y deporte, anuncia opción residencial. Línea general de precios «3–16, overnight & day» no sustituye ficha específica Preschool day only. Temas archivados MetaMind / Made by People 2026 no trasladados al programa 2027.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 1900 · se requiere factura de modalidad · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Web del campamento declara SIA EISF, registro 40203181401; misma organización figura en registro estatal del campamento sabatino. Página escolar principal sigue verano 2026; fechas nuevas tomadas de web del campamento 2027, sin desplazar fechas antiguas. Confirmar contrato, modalidad y factura con esta organización.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/dates-prices.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/dates-prices.html",
+          "label": "Tarifas y períodos Campus 2027"
+        },
+        {
+          "url": "https://exupery.camp/programs.html",
+          "label": "Programas por edad y Preschool solo diurno"
+        },
+        {
+          "url": "https://exupery.camp/faq.html",
+          "label": "FAQ campamento: inclusiones, apoyo, cancelación"
+        },
+        {
+          "url": "https://exupery.camp/legal.html",
+          "label": "Datos jurídicos de la web del campamento"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Registro: coincidencia SIA EISF, sin aprobación de todos turnos"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "languages",
+        "art",
+        "science"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "mixed_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-campus-junior-2027",
+      "camp_programme_id": "CP1363"
+    },
+    {
+      "id": "CP1364-20260912-20260926-saturdays-2026-09",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2026-09 · 2026-09-12–2026-09-26",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2026-09-12",
+      "end": "2026-09-26",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2026-09-12",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-09-12T07:30:00Z",
+          "end_utc": "2026-09-12T12:30:00Z"
+        },
+        {
+          "date": "2026-09-19",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-09-19T07:30:00Z",
+          "end_utc": "2026-09-19T12:30:00Z"
+        },
+        {
+          "date": "2026-09-26",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-09-26T07:30:00Z",
+          "end_utc": "2026-09-26T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20261003-20261017-saturdays-2026-10",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2026-10 · 2026-10-03–2026-10-17",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2026-10-03",
+      "end": "2026-10-17",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2026-10-03",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-10-03T07:30:00Z",
+          "end_utc": "2026-10-03T12:30:00Z"
+        },
+        {
+          "date": "2026-10-10",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-10-10T07:30:00Z",
+          "end_utc": "2026-10-10T12:30:00Z"
+        },
+        {
+          "date": "2026-10-17",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-10-17T07:30:00Z",
+          "end_utc": "2026-10-17T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20261107-20261121-saturdays-2026-11",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2026-11 · 2026-11-07–2026-11-21",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2026-11-07",
+      "end": "2026-11-21",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-11-07T08:30:00Z",
+          "end_utc": "2026-11-07T13:30:00Z"
+        },
+        {
+          "date": "2026-11-14",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-11-14T08:30:00Z",
+          "end_utc": "2026-11-14T13:30:00Z"
+        },
+        {
+          "date": "2026-11-21",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-11-21T08:30:00Z",
+          "end_utc": "2026-11-21T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20261205-20261219-saturdays-2026-12",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2026-12 · 2026-12-05–2026-12-19",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2026-12-05",
+      "end": "2026-12-19",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2026/27 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-12-05T08:30:00Z",
+          "end_utc": "2026-12-05T13:30:00Z"
+        },
+        {
+          "date": "2026-12-12",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-12-12T08:30:00Z",
+          "end_utc": "2026-12-12T13:30:00Z"
+        },
+        {
+          "date": "2026-12-19",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2026-12-19T08:30:00Z",
+          "end_utc": "2026-12-19T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20270109-20270123-saturdays-2027-01",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2027-01 · 2027-01-09–2027-01-23",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2027-01-09",
+      "end": "2027-01-23",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2027-01-09",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-01-09T08:30:00Z",
+          "end_utc": "2027-01-09T13:30:00Z"
+        },
+        {
+          "date": "2027-01-16",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-01-16T08:30:00Z",
+          "end_utc": "2027-01-16T13:30:00Z"
+        },
+        {
+          "date": "2027-01-23",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-01-23T08:30:00Z",
+          "end_utc": "2027-01-23T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20270206-20270220-saturdays-2027-02",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2027-02 · 2027-02-06–2027-02-20",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2027-02-06",
+      "end": "2027-02-20",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2027-02-06",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-02-06T08:30:00Z",
+          "end_utc": "2027-02-06T13:30:00Z"
+        },
+        {
+          "date": "2027-02-13",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-02-13T08:30:00Z",
+          "end_utc": "2027-02-13T13:30:00Z"
+        },
+        {
+          "date": "2027-02-20",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-02-20T08:30:00Z",
+          "end_utc": "2027-02-20T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20270306-20270320-saturdays-2027-03",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2027-03 · 2027-03-06–2027-03-20",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2027-03-06",
+      "end": "2027-03-20",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2027-03-06",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-03-06T08:30:00Z",
+          "end_utc": "2027-03-06T13:30:00Z"
+        },
+        {
+          "date": "2027-03-13",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-03-13T08:30:00Z",
+          "end_utc": "2027-03-13T13:30:00Z"
+        },
+        {
+          "date": "2027-03-20",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-03-20T08:30:00Z",
+          "end_utc": "2027-03-20T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20270403-20270417-saturdays-2027-04",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2027-04 · 2027-04-03–2027-04-17",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2027-04-03",
+      "end": "2027-04-17",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2027-04-03",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-04-03T07:30:00Z",
+          "end_utc": "2027-04-03T12:30:00Z"
+        },
+        {
+          "date": "2027-04-10",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-04-10T07:30:00Z",
+          "end_utc": "2027-04-10T12:30:00Z"
+        },
+        {
+          "date": "2027-04-17",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-04-17T07:30:00Z",
+          "end_utc": "2027-04-17T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1364-20270508-20270522-saturdays-2027-05",
+      "block": "Campamentos",
+      "title": "Exupery · Academic Saturday · Jūrmala · Sábados 2027-05 · 2027-05-08–2027-05-22",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Semarah Lielupe Hotel · Bulduru prospekts 64–68 · Jūrmala",
+      "start": "2027-05-08",
+      "end": "2027-05-22",
+      "period": "12 de septiembre de 2026–22 de mayo de 2027 · 27 sábados publicados · 10:30–15:30",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "4–14 en página del campamento / 3–13 en registro público",
+      "mat": "Cumple la edad; la admisión se confirma por separado",
+      "osc": "Cumple la edad; la admisión se confirma por separado",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "2027 · EUR 650 / 3 sábados; plan anual EUR 550/mes · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.; Sin tabla pública precisa de devoluciones / cancelación: FAQ propone consultar coordinador. Pago bank transfer / card, posibles 2–3 pagos; depósito y plazos obligatorios sin publicar. Descuentos 10–15% por hermanos y early bird 10% hasta 1 de abril con condiciones / año incompletos, sin aplicar automáticamente.",
+      "source": "https://exupery.camp/saturday-camp.html",
+      "references": [
+        {
+          "url": "https://exupery.camp/saturday-camp.html",
+          "label": "Sábados concretos y tarifa anual / corta"
+        },
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario PDF revisado visualmente"
+        },
+        {
+          "url": "https://nometnes.gov.lv/camps/view/32443",
+          "label": "Ficha estatal 2026/27: edad, tipo, operador y precio"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Oscar: Para esta sesión exige rango publicado y nivel correspondiente. A finales de 2026 familia conoce edades 9 y 6; en 2027 pueden ser 9–10 y 6–7, fechas exactas de nacimiento desconocidas. Condiciones de grupo y plaza aparte. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "languages",
+        "general",
+        "science",
+        "art",
+        "culture",
+        "engineering"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "day_camp",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "session_days",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-academic-saturday-jurmala",
+      "camp_programme_id": "CP1364",
+      "sessions": [
+        {
+          "date": "2027-05-08",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-05-08T07:30:00Z",
+          "end_utc": "2027-05-08T12:30:00Z"
+        },
+        {
+          "date": "2027-05-15",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-05-15T07:30:00Z",
+          "end_utc": "2027-05-15T12:30:00Z"
+        },
+        {
+          "date": "2027-05-22",
+          "start_time": "10:30",
+          "end_time": "15:30",
+          "timezone": "Europe/Riga",
+          "topic": "Clases inglesas, historia / civilizaciones, proyectos creativos de ingeniería, ajedrez y natación. HTML publicado y PDF inspeccionado marcan 27 sábados concretos: tres al mes. Cabecera every Saturday no convertida en todos sábados del calendario. Registro indica edad 3–13, página 4–14; ambos niños dentro de intersección.",
+          "ical_timed": true,
+          "start_utc": "2027-05-22T07:30:00Z",
+          "end_utc": "2027-05-22T12:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "CP1369-20270227-20270228-weekend-1",
+      "block": "Campamentos",
+      "title": "Exupery · Science Art & Fun Weekends · 2027 · Science Art & Fun · announced weekend 1 · 2027-02-27–2027-02-28",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Letonia; sede de próximos fines de semana sin aclarar",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "period": "27–28 de febrero / 24–25 de abril de 2027 · programa pendiente",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad de programa futuro sin publicar",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Calendario marca expresamente dos próximos Science, Art & Fun Weekend. Tema detallado, edad, horario, idioma, sede y precio futuros aún sin publicar. Tarifas otoñales e idiomas invernales no trasladados automáticamente.",
+      "language": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "cost": "2027 · Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "source": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+      "references": [
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario inspeccionado con fines de semana anunciados"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "science",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-science-weekends-2027-watch",
+      "camp_programme_id": "CP1369"
+    },
+    {
+      "id": "CP1369-20270424-20270425-weekend-2",
+      "block": "Campamentos",
+      "title": "Exupery · Science Art & Fun Weekends · 2027 · Science Art & Fun · announced weekend 2 · 2027-04-24–2027-04-25",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Letonia; sede de próximos fines de semana sin aclarar",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "period": "27–28 de febrero / 24–25 de abril de 2027 · programa pendiente",
+      "date_status": "Confirmado",
+      "deadline": "",
+      "age": "Edad de programa futuro sin publicar",
+      "mat": "Condicional; confirmar edad, curso y admisión",
+      "osc": "Condicional; confirmar edad, curso y admisión",
+      "format": "Programa diurno sin residencia.",
+      "entry": "la solicitud individual a la operadora; confirmar el rastro exacto, la edad, la lengua y la presencia de los lugares.",
+      "gear": "Calendario marca expresamente dos próximos Science, Art & Fun Weekend. Tema detallado, edad, horario, idioma, sede y precio futuros aún sin publicar. Tarifas otoñales e idiomas invernales no trasladados automáticamente.",
+      "language": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "cost": "2027 · Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero. · suplementos y condiciones en el dossier",
+      "level": "D — formación",
+      "reward": "programa / proyecto de estudios; concurso interno no victoria internacional",
+      "priority": "P2  viaje después de confirmar el permiso",
+      "action": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "source": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+      "references": [
+        {
+          "url": "https://exupery.camp/assets/files/Exupery-Saturday-Camp-calendar-2026-27.pdf",
+          "label": "Calendario inspeccionado con fines de semana anunciados"
+        }
+      ],
+      "proof": "las fuentes oficiales del expediente detallado han sido leídas; las condiciones desconocidas se han conservado claramente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Matvey: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Oscar: Posibilidad por edad no significa plaza ni admisión. Confirmar nivel tras tres años de competiciones, admisión extranjera individual, invoice final y condiciones; sin solicitud ni pago. Suplementos: Vuelos, alojamiento familiar, transporte local, comidas fuera del programa y seguro personal aparte. Pago: Factura actual completa, suplementos obligatorios y cancelación sin establecer; gastos desconocidos no equivalen a cero.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "general",
+        "science",
+        "art"
+      ],
+      "scope": "local",
+      "importance_reason": "un candidato editorial para un viaje familiar; el compuesto internacional no significa la liga mundial.",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "open_application",
+      "evidence_level": "program",
+      "date_scope": "camp_window",
+      "date_precision": "published_session",
+      "camp_dossier_slug": "exupery-science-weekends-2027-watch",
+      "camp_programme_id": "CP1369"
+    },
+    {
+      "id": "L491",
+      "block": "Campamentos",
+      "title": "Exupery · Primary Academic Saturday · EIS Campus",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "EIS Campus · Piņķi",
+      "start": "",
+      "end": "",
+      "period": "Aprendizaje regular sabatino; período y fechas concretos sin publicar.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "6–11",
+      "mat": "Sí por edad; grupo y acceso aparte",
+      "osc": "Sí por edad; grupo y acceso aparte",
+      "format": "Programa diurno sin residencia.",
+      "entry": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Programa escolar separado de inmersión lingüística con matemáticas, ciencias y creatividad. Es Campus, sin sustituir automáticamente Semarah Jūrmala. Página general muestra 650 por cuatro sábados, Primary 925 por cinco; acordar tarifa de sede / período elegidos.",
+      "language": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "cost": "EUR 925 por cinco sábados en Primary; web general EUR 650 por cuatro; EUR 550 / mes exige compromiso de nueve meses. Confirmar producto actual concreto, devoluciones y descuentos.",
+      "level": "D — programa educativo",
+      "reward": "Muestra educativa, diploma / medalla de participante y acreditación escolar no acreditan victoria competitiva. Puesto premiado según acta oficial de categoría concreta.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://exupery.lv/language-program-primary/",
+      "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "local",
+      "languages": [
+        "EN"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Inglés confirmado expresamente para este programa. Apoyo lingüístico y grupo concreto se verifican aparte.",
+      "participation": "regular",
+      "admission_kind": "unknown",
+      "evidence_level": "program",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Primary: contenido, edad y paquete de cinco sábados",
+          "url": "https://exupery.lv/language-program-primary/"
+        },
+        {
+          "label": "Página escolar general: otro paquete de período",
+          "url": "https://exupery.lv/language-program/"
+        }
+      ],
+      "camp_programme_id": "CP1365",
+      "camp_dossier_slug": "exupery-academic-primary-campus"
+    },
+    {
+      "id": "L492",
+      "block": "Campamentos",
+      "title": "RobotsLab · Basic · Tallinn",
+      "country": "Estonia",
+      "region": "Europa",
+      "city": "Tallinn",
+      "start": "",
+      "end": "",
+      "period": "Septiembre–junio, una vez por semana; 90 minutos. Confirmar día / horario concreto del grupo.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "7+",
+      "mat": "Sí por edad; grupo y acceso aparte",
+      "osc": "Condicional: edad / grupo / temporada nueva requieren confirmación",
+      "format": "Programa diurno sin residencia.",
+      "entry": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Club regular de ingeniería, inscripción 2026/27. Basic 7+: micro:bit, sensores, motores, robot car y primeros programas. Advanced 10+: ESP32, Jetson Orin Nano, Meta Quest, soldadura, Python / C y AI agents. No es turno anunciado de verano ni equipo competitivo automático.",
+      "language": "Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.",
+      "cost": "EUR 70 / mes. Confirmar clases de pago, kit, portátil propio y cancelación; precio no dividido automáticamente en cuatro clases.",
+      "level": "D — programa educativo",
+      "reward": "Muestra educativa, diploma / medalla de participante y acreditación escolar no acreditan victoria competitiva. Puesto premiado según acta oficial de categoría concreta.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://www.robotslab.ee/en/",
+      "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "iso": [
+        "EST"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "local",
+      "languages": [
+        "EN",
+        "RU"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.",
+      "participation": "regular",
+      "admission_kind": "unknown",
+      "evidence_level": "program",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Programas 2026/27: edad, grupos lingüísticos y coste",
+          "url": "https://www.robotslab.ee/en/"
+        }
+      ],
+      "camp_programme_id": "CP1366",
+      "camp_dossier_slug": "robotslab-tallinn-basic"
+    },
+    {
+      "id": "L493",
+      "block": "Campamentos",
+      "title": "RobotsLab · Advanced · Tallinn",
+      "country": "Estonia",
+      "region": "Europa",
+      "city": "Tallinn",
+      "start": "",
+      "end": "",
+      "period": "Septiembre–junio, una vez por semana; 120 minutos. Confirmar día / horario concreto del grupo.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "10+",
+      "mat": "Condicional: edad / grupo / temporada nueva requieren confirmación",
+      "osc": "No por ahora: menor / fuera del rango de edad",
+      "format": "Programa diurno sin residencia.",
+      "entry": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Club regular de ingeniería, inscripción 2026/27. Basic 7+: micro:bit, sensores, motores, robot car y primeros programas. Advanced 10+: ESP32, Jetson Orin Nano, Meta Quest, soldadura, Python / C y AI agents. No es turno anunciado de verano ni equipo competitivo automático.",
+      "language": "Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.",
+      "cost": "EUR 100 / mes. Confirmar clases de pago, kit, portátil propio y cancelación; precio no dividido automáticamente en cuatro clases.",
+      "level": "D — programa educativo",
+      "reward": "Muestra educativa, diploma / medalla de participante y acreditación escolar no acreditan victoria competitiva. Puesto premiado según acta oficial de categoría concreta.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://www.robotslab.ee/en/",
+      "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "iso": [
+        "EST"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "local",
+      "languages": [
+        "EN",
+        "RU"
+      ],
+      "language_mode": "primary",
+      "language_certainty": "Grupos separados A — inglés, B — ruso. Confirmar idioma y plaza en grupo elegido.",
+      "participation": "regular",
+      "admission_kind": "unknown",
+      "evidence_level": "program",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Programas 2026/27: edad, grupos lingüísticos y coste",
+          "url": "https://www.robotslab.ee/en/"
+        }
+      ],
+      "camp_programme_id": "CP1367",
+      "camp_dossier_slug": "robotslab-tallinn-advanced"
+    },
+    {
+      "id": "L494",
+      "block": "Campamentos",
+      "title": "School of Innovation · Pixelvasara",
+      "country": "Letonia",
+      "region": "Europa",
+      "city": "Rīga · venue to confirm",
+      "start": "",
+      "end": "",
+      "period": "Próxima inscripción: fechas desconocidas; solo programa 2026 publicado.",
+      "date_status": "No se ha anunciado",
+      "deadline": "",
+      "age": "6–12 en detalle / 5–7 en ficha promocional",
+      "mat": "Condicional: edad / grupo / temporada nueva requieren confirmación",
+      "osc": "Condicional: edad / grupo / temporada nueva requieren confirmación",
+      "format": "Programa diurno sin residencia.",
+      "entry": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "gear": "Página publicada 2026: Minecraft / Roblox, robots LEGO, electrónica, experimentos y ocio activo. Detalle 6–12, una tarjeta promocional 5–7 enlaza allí; confirmar edad y programa concreto. Sin turnos fechados, 2027 sin anunciar. Versiones inglesa / letona no acreditan enseñanza EN / RU.",
+      "language": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "cost": "Tarifa antigua 2026: desde EUR 295 por cinco días 09–17; dos comidas / snacks, material, equipamiento y accident insurance anunciados. Depósito 50 tras inscripción: imputación al precio sin aclarar. Descuentos / devolución fiscal publicitados no restados; tarifa futura 2027 desconocida.",
+      "level": "D — programa educativo",
+      "reward": "Muestra educativa, diploma / medalla de participante y acreditación escolar no acreditan victoria competitiva. Puesto premiado según acta oficial de categoría concreta.",
+      "priority": "P3 — confirmar condiciones",
+      "action": "Confirmar curso real, fecha de nacimiento, composición, representación escolar / de club, admisión extranjera y plazas por categoría elegida. Sin enviar formulario, consentimientos ni pago.",
+      "source": "https://inovacijuskola.lv/pixelvasara",
+      "proof": "Fuente oficial leída; condiciones desconocidas conservadas expresamente.",
+      "checked": "2026-11-05",
+      "status": "Idea",
+      "note": "Candidato por edad no significa admisión. Confirmar categoría concreta, curso, fecha de nacimiento, equipo / grupo, acceso extranjero, idioma, plazas y factura completa. Sin enviar solicitudes, mensajes, consentimientos ni pagos.",
+      "iso": [
+        "LVA"
+      ],
+      "themes": [
+        "robotics"
+      ],
+      "scope": "local",
+      "languages": [],
+      "language_mode": "unconfirmed",
+      "language_certainty": "Sin localizar confirmación expresa del idioma de enseñanza de este curso. Página inglesa / colegio internacional no acreditan enseñanza EN.",
+      "participation": "unconfirmed_program",
+      "admission_kind": "unknown",
+      "evidence_level": "historical_program",
+      "date_scope": "festival_window",
+      "references": [
+        {
+          "label": "Programa detallado y tarifas 2026",
+          "url": "https://inovacijuskola.lv/pixelvasara"
+        },
+        {
+          "label": "Tarjeta promocional de edad y ausencia de fechas",
+          "url": "https://inovacijuskola.lv/en/summer-camps"
+        }
+      ],
+      "camp_programme_id": "CP1368",
+      "camp_dossier_slug": "pixelvasara-riga-2026-watch"
     }
   ],
   "project_events": [

@@ -6,24 +6,24 @@ Verificación: 2026-10-02. Versión 51.
 
 CHE/ESP/FRA escenarios de decisión familiar, niveles de cursos junior y puertas de la escuela/campamento Rosenberg
 
-Fichas en base: 5151; competiciones: 1482; eventos: 239; campamentos / programas: 3430. Perfiles de ligas y programas: 157. Fichas de exposiciones grandes y especializadas: 153 — ediciones y sedes, no número de marcas únicas.
+Fichas en la base: 5267; competiciones: 1570; eventos: 239; campamentos / programas: 3458. Perfiles de ligas y programas: 158. Fichas de exposiciones grandes y especializadas: 153; son ediciones y sedes, no cantidad de marcas únicas.
 
-Existen registros concretos de 98 de 249 países y territorios; países completamente auditados: 0. Pasada archivada v51: 21 fichas añadidas, 3 perfiles. Todas las fichas anteriores conservadas.
+Hay registros concretos para 105 de 249 países y territorios; países completamente auditados: 0. Ronda archivada v51: añadidas 21 fichas y 3 perfiles. Conservadas todas las fichas anteriores.
 
 ## Cobertura por continentes
 
 ○ Continente ○ Países/territorios con grabaciones de la competencia ○ grandes exposiciones ○ Campamentos / programas
 |---|---:|---:|---:|---:|
-| América del Norte | 14 | 604 | 19 | 950 |
+| América del Norte | 15 | 605 | 19 | 950 |
 | América del Sur | 10 | 159 | 7 | 113 |
-| Europa | 23 | 178 | 50 | 1188 |
+| Europa | 29 | 265 | 50 | 1216 |
 | África | 16 | 73 | 7 | 42 |
 | Asia | 30 | 390 | 68 | 1018 |
 | Oceanía | 4 | 29 | 2 | 113 |
 
 Fichas interregionales / globales sin atribuir a un continente: 60. América del Norte incluye América Central y Caribe. Cantidades muestran inventario de base, no porcentaje de integridad.
 
-VEX: 518 de 1482 fichas de competiciones (35.0%). Es un desequilibrio claro de cobertura.
+VEX: 518 de 1570 fichas de competiciones (33.0%). Existe un claro sesgo de cobertura.
 
 ## Lo que queda
 
@@ -93,8 +93,8 @@ VEX: 518 de 1482 fichas de competiciones (35.0%). Es un desequilibrio claro de c
 
 ## ~ Proyecciones de ligas y programas
 
-- **WRO**: 80 fichas, 1 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
-- **FIRST**: 45 fichas, 27 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
+- **WRO**: 82 fichas, 3 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://wro-association.org/competition/categories/
+- **FIRST**: 131 fichas, 83 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.firstinspires.org/programs/fll/
 - **VEX Robotics**: 518 fichas, 421 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.vexrobotics.com/official-path
 - *RoboCupJunior**: 4 tarjetas, 2 con fechas exactas futuras, perfil y tarjetas, cobertura local parcial. https://junior.robocup.org/
 - **MakeX**: 15 fichas, 11 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://www.makex.cc/en/2026-makex
@@ -250,6 +250,7 @@ VEX: 518 de 1482 fichas de competiciones (35.0%). Es un desequilibrio claro de c
 - **The Tech Challenge - Programa de ingeniería y showcase**: 0 tarjetas, 0 con fechas exactas futuras. https://www.thetech.org/education/tech-challenge/tech-challenge-2027/
 - **Robofest LATAM · México · disciplinas locales**: 10 tarjetas, 0 con fechas exactas futuras. https://www.robofestmexico.org/_files/ugd/f2d401_2e803ec9fb70468bbb51b1fff166a77c.pdf
 - **BajaBot · Tijuana · demostración menor y Mini Sumo**: 1 tarjeta, 0 con fechas exactas futuras. https://www.bajabot.com/downloads/2026/convocatoria_05.pdf
+- **FIRST LEGO League · Scandinavia**: 55 fichas, 30 con fechas futuras precisas. tiene un perfil y tarjetas; el alcance local es parcial. https://hjernekraft.org/no
 
 ## Grandes exposiciones: tarjetas de identidad
 

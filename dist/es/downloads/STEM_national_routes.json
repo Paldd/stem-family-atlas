@@ -2,13 +2,17 @@
   "version": 171,
   "checked": "2026-11-05",
   "summary": {
-    "routes": 209,
-    "countries": 133,
-    "wro_contacts": 108,
-    "fll_contacts": 101,
+    "routes": 212,
+    "countries": 135,
+    "wro_contacts": 109,
+    "fll_contacts": 103,
     "fll_country_cards": 97,
     "contacts_without_operator_website": 5,
-    "new_competition_fixtures": 0
+    "new_competition_fixtures": 0,
+    "directory_contacts": 209,
+    "wro_directory_contacts": 108,
+    "local_operator_announcements": 1,
+    "local_calendar_contacts": 2
   },
   "routes": [
     {
@@ -3563,6 +3567,57 @@
       "access_url": "",
       "website_note": "",
       "programme": "Confirmar categorías con este socio"
+    },
+    {
+      "id": "NR-WRO-ISL-2027",
+      "network": "WRO",
+      "league_id": "wro",
+      "iso": "ISL",
+      "provider": "University of Iceland · NýMennt",
+      "division": "rm_fi_announced_2027",
+      "programme": "WRO local 2027; mapa global aún no incluye organizador",
+      "url": "https://wro.hi.is/en/competition",
+      "source": "https://www.hi.is/frettir/world-robot-olympiad-kemur-til-islands",
+      "evidence_level": "operator_announcement",
+      "checked": "2026-11-05",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-05",
+      "access_url": "https://wro.hi.is/en/competition",
+      "website_note": ""
+    },
+    {
+      "id": "NR-FLL-ALA-2026",
+      "network": "FIRST LEGO League",
+      "league_id": "first",
+      "iso": "ALA",
+      "provider": "Kodarklubben Åland · FLL Scandinavia",
+      "division": "challenge_local_2026",
+      "programme": "Vía local Åland según ficha del organizador",
+      "url": "https://hjernekraft.org/no/turneringer/702",
+      "source": "https://hjernekraft.org/no/turneringer/702",
+      "evidence_level": "operator_calendar",
+      "checked": "2026-11-05",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-05",
+      "access_url": "https://hjernekraft.org/no/turneringer/702",
+      "website_note": ""
+    },
+    {
+      "id": "NR-FLL-GRL-2026",
+      "network": "FIRST LEGO League",
+      "league_id": "first",
+      "iso": "GRL",
+      "provider": "Coding Pirates Denmark",
+      "division": "challenge_local_2026",
+      "programme": "Nuuk mediante programa danés; sede local TBA",
+      "url": "https://firstlegoleague.dk/",
+      "source": "https://firstlegoleague.dk/",
+      "evidence_level": "operator_calendar",
+      "checked": "2026-11-05",
+      "website_status": "http_ok",
+      "website_checked": "2026-11-05",
+      "access_url": "https://firstlegoleague.dk/",
+      "website_note": ""
     }
   ],
   "pathways": [
@@ -3673,5 +3728,119 @@
       "title": "Comunicado WRO 2022 sobre organizadores nacionales",
       "url": "https://wro-association.org/important-message-from-wro-association-ltd-on-the-situation-in-ukraine/"
     }
-  ]
+  ],
+  "country_notes": {
+    "NOR": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "SWE": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "ALA": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "DNK": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "FRO": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "GRL": {
+      "title": "Dos finales nórdicos distintos",
+      "detail": "Norte de Europa 2026: Hjernekraft Explore 6–9, Founders Challenge 10–16, Future 8–16. Dos finales distintos: Lund 27–28 de noviembre para Norway / Sweden / Åland y Aarhus 28 de noviembre para Denmark / Iceland / Faroe / Greenland. Cupo local y admisión infantil no intercambiables.",
+      "sources": [
+        {
+          "title": "Lund · FIRST Scandinavia",
+          "url": "https://hjernekraft.org/no/skandinavisk-finale-2026"
+        },
+        {
+          "title": "Aarhus · FIRST Denmark",
+          "url": "https://firstlegoleague.dk/"
+        }
+      ]
+    },
+    "ISL": {
+      "title": "FLL 2026 termina; WRO 2027 abre preinscripción",
+      "detail": "Iceland: University of Iceland anunció WRO el 8 de mayo 2027, RoboMission / Future Innovators, 2–3 alumnos y entrenador. Anuncio local con preinscripción; inclusión en member directory global vigente y admisión extranjera sin confirmar.",
+      "sources": [
+        {
+          "title": "WRO Iceland 2027",
+          "url": "https://wro.hi.is/en/competition"
+        },
+        {
+          "title": "FLL Iceland 2026",
+          "url": "https://firstlego.is/fyrir-leidbeinendur/"
+        }
+      ]
+    },
+    "FIN": {
+      "title": "League y Classroom tienen distinta participación",
+      "detail": "Finland 2026/27: League EUR 144 + 8 por alumno y adulto; mínimo 4 alumnos + 1 entrenador suma 184. Classroom EUR 144 no sustituye torneo. Future de esta temporada pasa directamente a fase nacional; promesa antigua FLL 2027/28 no aceptada como política global vigente.",
+      "sources": [
+        {
+          "title": "Finland · Challenge",
+          "url": "https://www.fllsuomi.org/en/program-challenge"
+        },
+        {
+          "title": "Finland · Future",
+          "url": "https://www.fllsuomi.org/en/program-future"
+        }
+      ]
+    }
+  }
 }

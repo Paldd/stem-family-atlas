@@ -121,6 +121,8 @@ from southeast_asia_v170 import enrich_v170
 enrich_v170(d)
 from national_routes_v171 import enrich_v171
 enrich_v171(d)
+from nordic_baltic_v172 import enrich_v172
+enrich_v172(d)
 d['source_count']=len(d['sources'])
 aliases={'Гонконг':['HKG'],'США':['USA'],'США / национальные площадки':['USA'],'Великобритания':['GBR'],'Южная Корея':['KOR'],'Тайвань':['TWN'],'Коста-Рика':['CRI'],'Мексика':['MEX'],'Мексика / региональные страны':['MEX'],'Пуэрто-Рико':['PRI'],'Онлайн / Бразилия':['BRA'],'Австралия / Новая Зеландия':['AUS','NZL'],'ОАЭ':['ARE'],'Турция':['TUR'],'ЮАР':['ZAF'],'Венесуэла':['VEN'],'Россия':['RUS'],'Vietnam':['VNM'],'Netherlands':['NLD'],'Нидерланды':['NLD']}
 countries=d['countries']
@@ -170,6 +172,7 @@ for c in countries:
     a=[e for e in d['events'] if c['iso'] in e['iso']]
     row=dict(iso=c['iso'],country=c['country'],region=c['region'],research_status='Частично: есть записи; полный местный аудит не завершён' if a else 'Местный календарь ещё не исследован',competitions=sum(e['block']=='Соревнования' for e in a),exhibitions=sum(e['block']=='События' for e in a),camps=sum(e['block']=='Лагеря' for e in a),dated=sum(bool(e['start']) for e in a),organizer=c['wro'],organizer_url=c['url'])
     row.update(network_routes=len(c['network_route_ids']),wro_directory_checked=c['wro_checked'])
+    c['coverage']=row['research_status']
     coverage.append(row)
 d['coverage']=coverage
 d['coverage_summary']=dict(countries=len(countries),countries_with_records=sum(r['competitions']+r['exhibitions']+r['camps']>0 for r in coverage),fully_audited_countries=0,unmapped_global_records=sum(not e['iso'] for e in d['events']))
@@ -243,7 +246,7 @@ d['methodology']={
  'dates':'Дата виртуального судейства не означает очную выставку; школьный отбор не является открытой семейной заявкой. Точная дата события не равна открытому набору или принятой регистрации. Необъявленные смены не получают вымышленных дат. Опубликованные окна каникул показываются отдельно от точных дней занятий и не экспортируются в календарь.'}
 DATA.write_text(json.dumps(d,ensure_ascii=False,indent=2))
 assets=ROOT/'dist/assets'; out=ROOT/'dist/downloads';out.mkdir(exist_ok=True)
-for stem in ['national-routes-audit-v171','national-routes-source-receipts-v171','national-routes-native-v171','southeast-asia-audit-v170','southeast-asia-source-receipts-v170','southeast-asia-native-v170','central-america-audit-v169','central-america-source-receipts-v169','central-america-native-v169','asia-opportunities-audit-v168','asia-opportunities-source-receipts-v168','asia-opportunities-native-v168','europe-camps-audit-v167','europe-camps-source-receipts-v167','europe-camps-native-v167','africa-audit-v166','africa-source-receipts-v166','africa-native-v166','central-asia-audit-v165','central-asia-source-receipts-v165','central-asia-native-v165','school-evidence-audit-v164','school-evidence-source-receipts-v164','school-evidence-native-v164','oceania-camps-audit-v163','oceania-camps-source-receipts-v163','oceania-camps-native-v163','world-exhibitions-audit-v162','world-exhibitions-source-receipts-v162','world-exhibitions-facts-v162','latin-america-camps-audit-v161','latin-america-camps-source-receipts-v161','latin-america-camps-native-v161','nearby-regional-audit-v160','nearby-regional-source-receipts-v160','nearby-regional-facts-v160','east-asia-winter-audit-v159','east-asia-winter-source-receipts-v159','east-asia-winter-native-schedules-v159']:
+for stem in ['nordic-baltic-audit-v172','nordic-baltic-source-receipts-v172','nordic-baltic-native-v172','national-routes-audit-v171','national-routes-source-receipts-v171','national-routes-native-v171','southeast-asia-audit-v170','southeast-asia-source-receipts-v170','southeast-asia-native-v170','central-america-audit-v169','central-america-source-receipts-v169','central-america-native-v169','asia-opportunities-audit-v168','asia-opportunities-source-receipts-v168','asia-opportunities-native-v168','europe-camps-audit-v167','europe-camps-source-receipts-v167','europe-camps-native-v167','africa-audit-v166','africa-source-receipts-v166','africa-native-v166','central-asia-audit-v165','central-asia-source-receipts-v165','central-asia-native-v165','school-evidence-audit-v164','school-evidence-source-receipts-v164','school-evidence-native-v164','oceania-camps-audit-v163','oceania-camps-source-receipts-v163','oceania-camps-native-v163','world-exhibitions-audit-v162','world-exhibitions-source-receipts-v162','world-exhibitions-facts-v162','latin-america-camps-audit-v161','latin-america-camps-source-receipts-v161','latin-america-camps-native-v161','nearby-regional-audit-v160','nearby-regional-source-receipts-v160','nearby-regional-facts-v160','east-asia-winter-audit-v159','east-asia-winter-source-receipts-v159','east-asia-winter-native-schedules-v159']:
     source_file=ROOT/'data'/(stem+'.json')
     if source_file.exists():
         (out/('STEM_'+stem.replace('-','_')+'.json')).write_text(source_file.read_text())
